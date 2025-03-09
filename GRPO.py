@@ -1,11 +1,16 @@
+import argparse
+from typing import Any, Dict, List
 import numpy as np
 import random
 import torch
 import torch.nn.functional as F
 import copy
+from transformers.tokenization_utils import PreTrainedTokenizer
+
 
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from datasets import load_dataset
+from transformers.tokenization_utils_fast import PreTrainedTokenizerFast
 
 def set_random_seed(seed: int = 42):
     """
@@ -43,9 +48,21 @@ Respond in the following format:
 </answer>
 """
 
-def prepare_dataset(split="train"):
+def prepare_dataset(split="train", data_path:str="openai/gsm8k"):
     """Load and prepare the GSM8K dataset for training with string prompts."""
-    data = load_dataset('openai/gsm8k', 'main')[split]
+    """
+    gsm8k:
+    The data fields are the same among main and socratic configurations and their individual splits.
+    question: The question string to a grade school math problem.
+    answer: The full solution string to the question. It contains multiple steps of reasoning with calculator annotations and the final numeric solution.
+
+    sample:
+    {
+    'question': 'Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?',
+    'answer': 'Natalia sold 48/2 = <<48/2=24>>24 clips in May.\nNatalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.\n#### 72',
+    }
+    """
+    data = load_dataset(path=data_path, name='main')[split]
     formatted_data = []
 
     for example in data:
@@ -62,15 +79,16 @@ def prepare_dataset(split="train"):
 
     return formatted_data
 
-def build_prompt(messages):
+def build_prompt(messages:List[str]) -> str:
     """
     Build a single prompt string from a list of messages.
     Each message is expected to be a dictionary with 'role' and 'content' keys.
     This function concatenates all message contents, preserving the training format.
+    即去掉的Role列，只保留了content
     """
     return "\n".join([msg["content"].strip() for msg in messages])
 
-def extract_answer_from_model_output(text):
+def extract_answer_from_model_output(text) -> None | Any:
     """
     Extracts the value from the last <answer> tag in the text.
     Returns None if no valid answer is found.
@@ -89,16 +107,18 @@ def extract_answer_from_model_output(text):
     answer = last_part.split("</answer>")[0].strip()
     return None if answer == "..." else answer
 
-def extract_answer_from_dataset(text):
+def extract_answer_from_dataset(text:str) -> None | str:
     """
     Extracts the answer from the dataset.
     The dataset separates the answer using the '####' delimiter.
+    
+    gsm8k:使用####作为答案分隔符
     """
     if "####" not in text:
         return None
     return text.split("####")[1].strip()
 
-def _extract_last_number(text):
+def _extract_last_number(text:str) -> float | None:
     """
     Extracts the last number from text if it's properly separated.
     
@@ -128,7 +148,7 @@ def _extract_last_number(text):
     return float(match.group(1)) if match else None
 
 
-def _extract_single_number(text):
+def _extract_single_number(text:str) -> float | None:
     """
     Extracts a single number from text if exactly one exists.
     
@@ -149,7 +169,7 @@ def _extract_single_number(text):
     return float(numbers[0]) if len(numbers) == 1 else None
 
 
-def evaluate_model(model, tokenizer, eval_examples, device):
+def evaluate_model(model:AutoModelForCausalLM, tokenizer:PreTrainedTokenizer, eval_examples:List[str], device:torch.device):
     """
     Evaluates the model on a set of examples and prints detailed results.
     
@@ -249,7 +269,7 @@ def evaluate_model(model, tokenizer, eval_examples, device):
     model.train()
     return accuracy
 
-def correctness_reward(prompts, completions, answer, **kwargs):
+def correctness_reward(prompts:List[str], completions:List[List[Dict[str, Any]]], answer:List[str], **kwargs) -> List[float]:
     """
     Assigns a reward based on the correctness of the model's answer.
     
@@ -276,7 +296,7 @@ def correctness_reward(prompts, completions, answer, **kwargs):
     # Extract answers from model outputs
     extracted = [extract_answer_from_model_output(r) for r in responses]
 
-    rewards = []
+    rewards :List[float]= []
     for r, a in zip(extracted, answer):
         if r == a:  # Exact match case
             rewards.append(2.0)
@@ -284,17 +304,18 @@ def correctness_reward(prompts, completions, answer, **kwargs):
             # Try numeric equivalence
             r_num = _extract_single_number(str(r))
             a_num = _extract_single_number(str(a))
+            # 如果仅有答案数值相同，则给1.5分
             if r_num is not None and a_num is not None and r_num == a_num:
                 rewards.append(1.5)
             else:
                 rewards.append(0.0)
 
     # Log completion lengths
-    completion_lengths = [len(response.split()) for response in responses]
+    completion_lengths = [len(response.split()) for response in responses] # response.split()就是用空格分割，分割成不同的单词
     return rewards
 
 
-def format_reward(completions, **kwargs):
+def format_reward(completions:List[List[Dict[str, Any]]], **kwargs):
     """
     Assigns a reward for adhering to the desired XML format.
     
@@ -331,7 +352,7 @@ def format_reward(completions, **kwargs):
     return rewards
 
 
-def combined_reward(prompts, completions, answer):
+def combined_reward(prompts:List[str], completions:List[List[Dict]], answer:List[str]):
     """
     Combines correctness and format rewards to provide a comprehensive evaluation.
     
@@ -768,6 +789,24 @@ def optimize_model_memory(model):
     # Ensure model is in training mode
     model.train()
     
+    """
+    1. model.config.use_cache = False
+    作用：
+    禁用缓存机制。在 Transformer 模型中（如 BERT、GPT 等），前向传播时会缓存一些中间激活值结果（例如注意力机制的键值对），以加速反向传播的计算。
+    禁用缓存后，这些中间结果不会被保存，从而减少内存占用。
+
+    为什么需要禁用缓存：
+    缓存会占用大量内存，尤其是在处理长序列或大模型时。
+    当启用梯度检查点（gradient checkpointing）时，缓存机制会与梯度检查点冲突，因为梯度检查点需要重新计算部分前向传播的结果，而不是依赖缓存。
+
+    2. model.gradient_checkpointing_enable()
+    作用：
+    启用梯度检查点（gradient checkpointing），这是一种内存优化技术。
+    在反向传播时，梯度检查点会重新计算部分前向传播的结果，而不是保存所有中间结果。这样可以显著减少内存占用，但会增加一些计算开销。
+    为什么需要启用梯度检查点：
+    深度学习模型（尤其是大模型）在训练时需要保存大量的中间结果，以便计算梯度。这些中间结果会占用大量内存。
+    梯度检查点通过牺牲部分计算效率（重新计算中间结果）来减少内存占用，从而使得训练更大的模型成为可能
+    """
     # Disable caching for gradient checkpointing
     model.config.use_cache = False
     
@@ -784,7 +823,8 @@ def optimize_model_memory(model):
     
     return model
 
-def main():
+# 单机单卡版grpo
+def train(base_model_path:str, data_path:str):
     """
     Main function to run the complete training and evaluation pipeline.
 
@@ -803,10 +843,14 @@ def main():
     print(f"Using device: {device}")
 
     # Define the model name and output directory.
-    model_name = "Qwen/Qwen2.5-0.5B-Instruct" # The 0.5B model is not smart enough
-                                              # to generate the <reasoning> and <answer> tags
-                                              # so several iterations of SFT to teach it these tags
-                                              # are recommended before RL
+    if base_model_path is None:
+        model_name = "Qwen/Qwen2.5-0.5B-Instruct" # The 0.5B model is not smart enough
+                                                # to generate the <reasoning> and <answer> tags
+                                                # so several iterations of SFT to teach it these tags
+                                                # are recommended before RL
+    else:
+        model_name = base_model_path
+
     output_dir = "math_solver_model"
 
     # Load the pre-trained causal language model.
@@ -825,7 +869,7 @@ def main():
     model = model.to(device)
 
     # Load the tokenizer corresponding to the model.
-    tokenizer = AutoTokenizer.from_pretrained(model_name, padding_side="left")
+    tokenizer: PreTrainedTokenizer = AutoTokenizer.from_pretrained(model_name, padding_side="left")
     # Set the pad token to be the same as the end-of-sequence token.
     tokenizer.pad_token = tokenizer.eos_token
     # Update the model configuration with the correct token IDs.
@@ -836,7 +880,7 @@ def main():
     # Step 0: INITIAL EVALUATION
     # -------------------------------
     # Load the complete training dataset using a helper function (assumed defined elsewhere).
-    all_data = prepare_dataset("train")
+    all_data = prepare_dataset("train", data_path)
     # Randomize the order of examples.
     random.shuffle(all_data)
     # Use a small subset (e.g., 30 examples) for evaluation.
@@ -894,4 +938,12 @@ def main():
     tokenizer.save_pretrained("grpo_finetuned_model")
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--base_model_path', default="~/data/work/hf_data_and_model/models/Qwen/Qwen2.5-3B/", type=str, help='')
+    parser.add_argument('--data_path', default="", type=str, help='')
+    # 添加一个参数来捕获剩余的所有参数
+    parser.add_argument("unknown_args", nargs=argparse.REMAINDER, help="Unknown arguments")
+
+    args = parser.parse_args()
+    print(args)
+    train(args.base_model_path, args.data_path)
