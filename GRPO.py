@@ -6,11 +6,18 @@ import torch
 import torch.nn.functional as F
 import copy
 from transformers.tokenization_utils import PreTrainedTokenizer
-
-
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from datasets import load_dataset
+from transformers.tokenization_utils_base import BatchEncoding
 from transformers.tokenization_utils_fast import PreTrainedTokenizerFast
+from transformers.modeling_utils import PreTrainedModel
+
+"""
+grpo
+
+在deepseek-math中grpo去掉了critic model, 但保留了reward model
+而在deepseek r1中,grpo将reward model替换为了基于规则的系统,完全去掉了reward model
+"""
 
 def set_random_seed(seed: int = 42):
     """
@@ -48,7 +55,17 @@ Respond in the following format:
 </answer>
 """
 
-def prepare_dataset(split="train", data_path:str="openai/gsm8k"):
+def build_prompt(messages:List[str]) -> str:
+    """
+    Build a single prompt string from a list of messages.
+    Each message is expected to be a dictionary with 'role' and 'content' keys.
+    This function concatenates all message contents, preserving the training format.
+
+    即去掉的Role列，只保留了content
+    """
+    return "\n".join([msg["content"].strip() for msg in messages])
+
+def prepare_dataset(split:str="train", data_path:str="openai/gsm8k") -> List[Dict[str, str]]:
     """Load and prepare the GSM8K dataset for training with string prompts."""
     """
     gsm8k:
@@ -62,15 +79,21 @@ def prepare_dataset(split="train", data_path:str="openai/gsm8k"):
     'answer': 'Natalia sold 48/2 = <<48/2=24>>24 clips in May.\nNatalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.\n#### 72',
     }
     """
-    data = load_dataset(path=data_path, name='main')[split]
-    formatted_data = []
+    #data = load_dataset(path=data_path, name='main')[split]
+    data = load_dataset(path="csv",data_files=f"{data_path}/{split}.csv")['train']
+    print(f"{data=}")
+    
+    formatted_data: List[Dict[str, str]]= []
 
     for example in data:
+        #print(f"{example=}")
         # Convert list of messages to a single string prompt.
+        # build_prompt:只保留了content列
         prompt_str = build_prompt([
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": example["question"]}
         ])
+        # 只有prompt,answer两列
         formatted_example = {
             "prompt": prompt_str,  # Now a string rather than a list.
             "answer": extract_answer_from_dataset(example["answer"])
@@ -79,14 +102,6 @@ def prepare_dataset(split="train", data_path:str="openai/gsm8k"):
 
     return formatted_data
 
-def build_prompt(messages:List[str]) -> str:
-    """
-    Build a single prompt string from a list of messages.
-    Each message is expected to be a dictionary with 'role' and 'content' keys.
-    This function concatenates all message contents, preserving the training format.
-    即去掉的Role列，只保留了content
-    """
-    return "\n".join([msg["content"].strip() for msg in messages])
 
 def extract_answer_from_model_output(text) -> None | Any:
     """
@@ -113,6 +128,11 @@ def extract_answer_from_dataset(text:str) -> None | str:
     The dataset separates the answer using the '####' delimiter.
     
     gsm8k:使用####作为答案分隔符
+    
+    例子:
+    Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?,"Janet sells 16 - 3 - 4 = <<16-3-4=9>>9 duck eggs a day.
+    She makes 9 * 2 = $<<9*2=18>>18 every day at the farmer’s market.
+    #### 18"
     """
     if "####" not in text:
         return None
@@ -169,7 +189,7 @@ def _extract_single_number(text:str) -> float | None:
     return float(numbers[0]) if len(numbers) == 1 else None
 
 
-def evaluate_model(model:AutoModelForCausalLM, tokenizer:PreTrainedTokenizer, eval_examples:List[str], device:torch.device):
+def evaluate_model(model:PreTrainedModel, tokenizer:PreTrainedTokenizer, eval_examples:List[str], device:torch.device):
     """
     Evaluates the model on a set of examples and prints detailed results.
     
@@ -209,6 +229,7 @@ def evaluate_model(model:AutoModelForCausalLM, tokenizer:PreTrainedTokenizer, ev
         
         # Tokenize the full prompt and generate a response from the model.
         inputs = tokenizer.encode(full_prompt, return_tensors="pt").to(device)
+        # outputs:[batch, seq_len]
         outputs = model.generate(
             inputs,
             max_new_tokens=512,
@@ -219,7 +240,7 @@ def evaluate_model(model:AutoModelForCausalLM, tokenizer:PreTrainedTokenizer, ev
             forced_eos_token_id=tokenizer.eos_token_id,
             early_stopping=True
         )
-        response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+        response = tokenizer.decode(outputs[0], skip_special_tokens=True) # 因为只有一条样本,取单条样本outputs[0]进行decode
         
         # Extract the predicted answer from the model output.
         try:
@@ -495,7 +516,11 @@ def create_completion_mask(completion_ids, eos_token_id):
 
     return completion_mask
 
-def generate_completions(model, tokenizer, prompts, num_generations=4, max_completion_length=32):
+def generate_completions(model:PreTrainedModel, 
+                         tokenizer:PreTrainedTokenizer, 
+                         prompts:List[str], 
+                         num_generations=4,  # 每个prompt生成多少个候选的answer
+                         max_completion_length=32):
     """
     Generate multiple completions for each prompt and create corresponding attention masks.
 
@@ -524,12 +549,14 @@ def generate_completions(model, tokenizer, prompts, num_generations=4, max_compl
 
     # Tokenize the list of prompts with padding. The padding_side="left" ensures alignment on the right.
     tokenizer.padding_side  = "left"
-    inputs = tokenizer(prompts, return_tensors="pt", padding=True, padding_side="left")
+    # inputs:[batch, seq_len]
+    inputs: BatchEncoding = tokenizer(prompts, return_tensors="pt", padding=True, padding_side="left")
     prompt_ids = inputs["input_ids"].to(device)      # Shape: (batch_size, prompt_seq_len)
     prompt_mask = inputs["attention_mask"].to(device)  # Shape: (batch_size, prompt_seq_len)
     prompt_length = prompt_ids.size(1)  # Save the prompt length to later separate prompt from completion.
 
     # Repeat each prompt num_generations times.
+    # 因为每个样本要生成num_generations个response,所以复制几次,一次送入大模型进行解码,此时就要求大模型推理性能需要上去,一般会考虑vllm
     prompt_ids = prompt_ids.repeat_interleave(num_generations, dim=0)   # New shape: (batch_size*num_generations, prompt_seq_len)
     prompt_mask = prompt_mask.repeat_interleave(num_generations, dim=0) # New shape: (batch_size*num_generations, prompt_seq_len)
 
@@ -552,10 +579,15 @@ def generate_completions(model, tokenizer, prompts, num_generations=4, max_compl
 
     return prompt_ids, prompt_mask, completion_ids, completion_mask
 
-def generate_rollout_data(model, ref_model, tokenizer, batch_samples, num_generations, max_completion_length):
+def generate_rollout_data(policy_model:PreTrainedModel, 
+                          ref_model:PreTrainedModel, # frozen model
+                          tokenizer:PreTrainedTokenizer, 
+                          batch_samples:List[Dict[str, str]], 
+                          num_generations:int, 
+                          max_completion_length:int):
     """
     Generate rollouts and compute static log probabilities for both the old policy (current model)
-    and the reference model. Gradients are disabled so that these remain fixed.
+    and the reference model(parameter frozen model). Gradients are disabled so that these remain fixed.
 
     Args:
         model: The current model (policy) used to generate rollouts.
@@ -569,7 +601,7 @@ def generate_rollout_data(model, ref_model, tokenizer, batch_samples, num_genera
         A dictionary with rollout data including both old and reference log probabilities.
     """
     tokenizer.padding_side  = "left"
-    device = next(model.parameters()).device
+    device = next(policy_model.parameters()).device
 
     # Extract prompts and answers.
     prompts = [sample["prompt"] if isinstance(sample, dict) else sample[0] for sample in batch_samples]
@@ -579,14 +611,14 @@ def generate_rollout_data(model, ref_model, tokenizer, batch_samples, num_genera
     # We generate once, and then use the same completions to compute both sets of log probabilities.
     with torch.no_grad():
         prompt_ids, prompt_mask, completion_ids, completion_mask = generate_completions(
-            model, tokenizer, prompts, num_generations, max_completion_length
+            policy_model, tokenizer, prompts, num_generations, max_completion_length
         )
         input_ids = torch.cat([prompt_ids, completion_ids], dim=1)
         attention_mask = torch.cat([prompt_mask, completion_mask], dim=1)
         logits_to_keep = completion_ids.size(1)
 
         # Compute old_log_probs from the current model, with gradients disabled.
-        old_log_probs = compute_log_probabilities(model, input_ids, attention_mask, logits_to_keep)
+        old_log_probs = compute_log_probabilities(policy_model, input_ids, attention_mask, logits_to_keep)
         
         # Compute ref_log_probs from the reference model, which remains static.
         ref_log_probs = compute_log_probabilities(ref_model, input_ids, attention_mask, logits_to_keep)
@@ -712,10 +744,12 @@ def maximize_grpo_objective(model, ref_model, rollout_data, tokenizer, reward_fu
     return loss.item()
 
 
-def train_with_grpo(model, tokenizer, train_data, num_iterations=1, 
-                           steps_per_iteration=500, batch_size=4, num_generations=4, 
-                           max_completion_length=128, beta=0.1, learning_rate=5e-6, 
-                           mu=3, epsilon=0.2, reward_function=combined_reward):
+def train_with_grpo(model:PreTrainedModel, 
+                    tokenizer:PreTrainedTokenizer, 
+                    train_data:List[Dict[str, str]], num_iterations=1, 
+                    steps_per_iteration=500, batch_size=4, num_generations=4, 
+                    max_completion_length=128, beta=0.1, learning_rate=5e-6, 
+                    grpo_update_num_per_batch=3, epsilon=0.2, reward_function=combined_reward):
     """
     Iterative Group Relative Policy Optimization algorithm.
     
@@ -730,7 +764,7 @@ def train_with_grpo(model, tokenizer, train_data, num_iterations=1,
         max_completion_length (int): Maximum token length for completions.
         beta (float): KL-divergence penalty coefficient.
         learning_rate (float): Learning rate for optimizer.
-        mu (int): Number of GRPO updates per batch of generations.
+        grpo_update_num_per_batch (int): Number of GRPO updates per batch of generations.
         epsilon (float): Clipping parameter for surrogate objective.
         reward_function: Function that evaluates completions and returns rewards.
         
@@ -746,10 +780,11 @@ def train_with_grpo(model, tokenizer, train_data, num_iterations=1,
         print(f"\nStarting iteration {iteration}/{num_iterations}")
         
         # Create reference model for KL constraint
+        # 注意:这里的ref_model每次update都是从最新的policy_model中复制参数,而不是一开始就frozen,这个与openai中的LM_HUMAN_PREFERENCE有点不一样
         reference_model = copy.deepcopy(policy_model)
         reference_model.eval()
         for param in reference_model.parameters():
-            param.requires_grad = False
+            param.requires_grad = False  # 将refernce_model参数冻结
         reference_model = reference_model.to(device)
         
         # Initialize optimizer
@@ -759,7 +794,7 @@ def train_with_grpo(model, tokenizer, train_data, num_iterations=1,
         # Inner loop for policy updates
         for step in range(1, steps_per_iteration + 1):
             # Sample batch of prompts
-            batch_samples = random.sample(train_data, batch_size)
+            batch_samples: List[Dict[str, str]] = random.sample(train_data, batch_size)
             
             # Set old policy for this step
             with torch.no_grad():
@@ -770,13 +805,13 @@ def train_with_grpo(model, tokenizer, train_data, num_iterations=1,
                 )
             
             # Multiple GRPO updates per batch of generations
-            for grpo_iter in range(1, mu + 1):
+            for grpo_iter in range(1, grpo_update_num_per_batch + 1):
                 loss_value = maximize_grpo_objective(
                     policy_model, reference_model, rollout_data, tokenizer,
                     reward_function, optimizer, beta, epsilon
                 )
                 print(f"Iteration {iteration}/{num_iterations}, Step {step}/{steps_per_iteration}, "
-                      f"GRPO update {grpo_iter}/{mu}, Loss: {loss_value:.4f}")
+                      f"GRPO update {grpo_iter}/{grpo_update_num_per_batch}, Loss: {loss_value:.4f}")
         
         # Optional: Update reward model here if using reward model training
         # This is not implemented in the original code but present in the pseudocode
@@ -824,7 +859,7 @@ def optimize_model_memory(model):
     return model
 
 # 单机单卡版grpo
-def train(base_model_path:str, data_path:str):
+def train(base_model_path:str, data_path:str, output_model_path:str):
     """
     Main function to run the complete training and evaluation pipeline.
 
@@ -858,7 +893,7 @@ def train(base_model_path:str, data_path:str):
     # - attn_implementation selects an optimized attention mechanism.
     # - device_map="auto" automatically distributes the model across available devices.
     print("Downloading model...")
-    model = AutoModelForCausalLM.from_pretrained(
+    model : PreTrainedModel= AutoModelForCausalLM.from_pretrained(
         model_name,
         torch_dtype=torch.bfloat16,
         #attn_implementation="flash_attention_2",
@@ -870,11 +905,29 @@ def train(base_model_path:str, data_path:str):
 
     # Load the tokenizer corresponding to the model.
     tokenizer: PreTrainedTokenizer = AutoTokenizer.from_pretrained(model_name, padding_side="left")
+    """
+    1.适用场景：
+    生成任务：
+        在文本生成任务中，eos_token 用于标记生成结束。将 pad_token 设置为与 eos_token 相同可以避免模型错误地将填充部分视为有效输入。
+    训练任务：
+        在训练时，pad_token 用于填充序列。将其设置为与 eos_token 相同可以简化注意力掩码的处理。
+
+    模型兼容性：
+        某些模型（如 GPT）可能没有显式的 pad_token，此时将 pad_token 设置为与 eos_token 相同可以避免错误。
+
+    2. 注意事项
+    模型差异：
+        并非所有模型都需要将 pad_token 和 eos_token 设置为相同。例如，BERT 等模型有独立的 pad_token 和 eos_token。
+    任务需求：
+        如果你的任务需要区分填充和结束标记，则不应将 pad_token 和 eos_token 设置为相同。
+        Tokenizer 支持：
+        确保 tokenizer 支持 pad_token 和 eos_token 的设置。某些 tokenizer 可能没有显式的 pad_token。
+    """
     # Set the pad token to be the same as the end-of-sequence token.
-    tokenizer.pad_token = tokenizer.eos_token
+    tokenizer.pad_token = tokenizer.eos_token # 将pad_token与eos_token保持一致
     # Update the model configuration with the correct token IDs.
-    model.config.pad_token_id = tokenizer.eos_token_id
-    model.config.eos_token_id = tokenizer.eos_token_id
+    model.config.pad_token_id = tokenizer.eos_token_id # 将模型的pad_token也置为tokenizer.eos_token
+    model.config.eos_token_id = tokenizer.eos_token_id# 将模型的eos_token与tokenizer.eos_token保持一致
 
     # -------------------------------
     # Step 0: INITIAL EVALUATION
@@ -884,7 +937,7 @@ def train(base_model_path:str, data_path:str):
     # Randomize the order of examples.
     random.shuffle(all_data)
     # Use a small subset (e.g., 30 examples) for evaluation.
-    num_eval_examples = 1
+    num_eval_examples = 5
     eval_data = all_data[:num_eval_examples]
 
     # Evaluate the initial performance of the model before any finetuning.
@@ -911,7 +964,7 @@ def train(base_model_path:str, data_path:str):
         'max_completion_length': 500,        # Maximum token length for each generated completion.
         'beta': 0.04,                         # KL divergence penalty coefficient.
         'learning_rate': 5e-6,                # Learning rate for RL fine-tuning.
-        'mu': 1,
+        #'mu': 1,
         'epsilon': 0.1,
         'reward_function': combined_reward
     }
@@ -928,22 +981,23 @@ def train(base_model_path:str, data_path:str):
     # -------------------------------
     print("\nFinal model evaluation after GRPO RL finetuning:")
     # Evaluate the final model performance using the evaluation dataset.
-    post_grpo_accuracy = evaluate_model(model, tokenizer, eval_data, device)
+    post_grpo_accuracy: PreTrainedModel = evaluate_model(model, tokenizer, eval_data, device)
     print(f"Post-GRPO Accuracy: {post_grpo_accuracy:.2f}%")
     print(f"Total Improvement: {post_grpo_accuracy - pre_grpo_accuracy:.2f}%")
 
-    print("\nSaving GRPO finetuned model...")
+    print(f"\nSaving GRPO finetuned model to path:{output_model_path}...")
     # Save the final finetuned model and tokenizer to disk.
-    model.save_pretrained("grpo_finetuned_model")
-    tokenizer.save_pretrained("grpo_finetuned_model")
+    model.save_pretrained(output_model_path)
+    tokenizer.save_pretrained(output_model_path)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--base_model_path', default="~/data/work/hf_data_and_model/models/Qwen/Qwen2.5-3B/", type=str, help='')
-    parser.add_argument('--data_path', default="", type=str, help='')
+    parser.add_argument('--base_model_path', default="~/data/work/hf_data_and_model/models/Qwen/Qwen2.5-0.5B-Instruct/", type=str, help='')
+    parser.add_argument('--data_path', default="data/gsm8k", type=str, help='')
+    parser.add_argument('--output_model_path', default="", type=str, help='')
     # 添加一个参数来捕获剩余的所有参数
     parser.add_argument("unknown_args", nargs=argparse.REMAINDER, help="Unknown arguments")
 
     args = parser.parse_args()
     print(args)
-    train(args.base_model_path, args.data_path)
+    train(args.base_model_path, args.data_path, args.output_model_path)

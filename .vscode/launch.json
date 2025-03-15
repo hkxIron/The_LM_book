@@ -20,7 +20,9 @@
             "console": "integratedTerminal",
             "args":[ 
                 "--base_model", "${env:HOME}/data/work/hf_data_and_model/models/Qwen/Qwen2.5-0.5B-Instruct/",
-                "--data_path", "${env:HOME}/data/work/hf_data_and_model/datas/openai/gsm8k/",
+                //"--data_path", "${env:HOME}/data/work/hf_data_and_model/datas/openai/gsm8k/",
+                "--data_path", "data/gsm8k/",
+                "--output_model_path", "./trained_grpo_model/",
             ]
         }
     ]
