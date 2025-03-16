@@ -661,6 +661,7 @@ def generate_rollout_data(policy_model:PreTrainedModel,
     formatted_completions: List[List[Dict[str, str]]] = [
         [{'content': tokenizer.decode(ids, skip_special_tokens=True)}] for ids in completion_ids
     ]
+    # 将prompt, answer分别复制num_generations次
     repeated_prompts: List[str] = [p for p in prompts for _ in range(num_generations)]
     repeated_answers: List[str] = [a for a in answers for _ in range(num_generations)]
 
@@ -909,7 +910,7 @@ def train_with_grpo(model:PreTrainedModel,
 def optimize_model_memory(model):
     """Apply memory optimizations like proper gradient checkpointing setup"""
     # Ensure model is in training mode
-    model.train()
+    model.train() # dropout, batchnorm
     
     """
     1. model.config.use_cache = False
@@ -1030,7 +1031,7 @@ def train(base_model_path:str, data_path:str, output_model_path:str):
     # Evaluate the initial performance of the model before any finetuning.
     print("\nInitial model evaluation before GRPO:")
     pre_grpo_accuracy = evaluate_model(model, tokenizer, eval_data, device)
-    print(f"Pre-GRPO Accuracy: {pre_grpo_accuracy:.2f}%")
+    print(f"Pre-GRPO Accuracy: {pre_grpo_accuracy:.2f}% eval number:{num_eval_examples}")
 
     model = optimize_model_memory(model)
     
@@ -1069,14 +1070,14 @@ def train(base_model_path:str, data_path:str, output_model_path:str):
     print("\nFinal model evaluation after GRPO RL finetuning:")
     # Evaluate the final model performance using the evaluation dataset.
     post_grpo_accuracy: PreTrainedModel = evaluate_model(model, tokenizer, eval_data, device)
-    print(f"Post-GRPO Accuracy: {post_grpo_accuracy:.2f}%") # grpo训练之后的accuracy
+    print(f"Post-GRPO Accuracy: {post_grpo_accuracy:.2f}% eval number:{num_eval_examples}") # grpo训练之后的accuracy
     print(f"Total Accurancy Improvement: {post_grpo_accuracy - pre_grpo_accuracy:.2f}%")
 
     print(f"\nSaving GRPO finetuned model to path:{output_model_path}...")
     # Save the final finetuned model and tokenizer to disk.
     model.save_pretrained(output_model_path)
     tokenizer.save_pretrained(output_model_path)
-    print(f"\ntrain end.")
+    print(f"\nTrain end.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
