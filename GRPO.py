@@ -1,5 +1,5 @@
 import argparse
-from typing import Any, Dict, List, Optional
+from typing import Any, Callable, Dict, List, Optional
 import numpy as np
 import random
 import torch
@@ -373,7 +373,7 @@ def format_reward(completions:List[List[Dict[str, Any]]], **kwargs):
     return rewards
 
 
-def combined_reward(prompts:List[str], completions:List[List[Dict]], answer:List[str]):
+def combined_reward(prompts:List[str], completions:List[List[Dict]], answer:List[str])->List[float]:
     """
     Combines correctness and format rewards to provide a comprehensive evaluation.
     
@@ -443,7 +443,7 @@ def selective_log_softmax(logits:torch.Tensor, # shape:(batch_size, seq_len, voc
 def compute_log_probabilities(model:PreTrainedModel, 
                               input_ids:torch.Tensor,  # [batch_size, total_seq_len]
                               attention_mask:torch.Tensor, # [batch_size, total_seq_len]
-                              logits_to_keep:int):
+                              logits_to_keep:int) -> torch.Tensor:
     """
     Compute per-token log probabilities for a subset of tokens (typically the completion tokens).
 
@@ -472,18 +472,19 @@ def compute_log_probabilities(model:PreTrainedModel,
         logits_to_keep=logits_to_keep + 1  # Request one extra logit for proper alignment.
     ).logits  # Shape: (batch_size, total_seq_len, vocab_size)
 
-    # Remove the last logit as it does not have a corresponding target token.
+    # Remove the last logit as it does not have a corresponding target token. 
+    # 注意:最后一个logits是没有意义的,因为后面没有token
     logits = logits[:, :-1, :]  # New shape: (batch_size, total_seq_len - 1, vocab_size)
 
     # Slice the input_ids to keep only the last logits_to_keep tokens.
     # This corresponds to the generated completion tokens.
-    input_ids = input_ids[:, -logits_to_keep:]  # Shape: (batch_size, logits_to_keep)
+    input_ids = input_ids[:, -logits_to_keep:]  # Shape: (batch_size, logits_to_keep=completion_seq_len)
 
     # Also slice the logits to keep only those corresponding to the completion tokens.
-    logits = logits[:, -logits_to_keep:, :]  # Shape: (batch_size, logits_to_keep, vocab_size)
+    logits = logits[:, -logits_to_keep:, :]  # Shape: (batch_size, logits_to_keep=completion_seq_len, vocab_size)
 
     # Compute and return the log probabilities for the selected tokens.
-    # probs: [batch_size, seq_len]
+    # probs: [batch_size, completion_seq_len]
     probs = selective_log_softmax(logits, input_ids)
     return probs
 
@@ -614,7 +615,7 @@ def generate_rollout_data(policy_model:PreTrainedModel,
                           tokenizer:PreTrainedTokenizer, 
                           batch_samples:List[Dict[str, str]], 
                           num_generations:int, 
-                          max_completion_length:int):
+                          max_completion_length:int) -> dict[str, Any]:
     """
     Generate rollouts and compute static log probabilities for both the old policy (current model)
     and the reference model(parameter frozen model). Gradients are disabled so that these remain fixed.
@@ -650,26 +651,26 @@ def generate_rollout_data(policy_model:PreTrainedModel,
         completion_logits_to_keep:int = completion_ids.size(1) # 即到底每个query生成了多少个completion_id
 
         # Compute old_log_probs from the current model, with gradients disabled.
-        # old_log_probs:[batch_size*num_generations, completion_seq_len-1]
+        # old_log_probs:[batch_size*num_generations, completion_seq_len]
         old_log_probs: torch.Tensor = compute_log_probabilities(policy_model, prompt_completion_ids, prompt_completion_attention_mask, completion_logits_to_keep)
         
         # Compute ref_log_probs from the reference model, which remains static.
-        # ref_log_probs:[batch_size*num_generations, completion_seq_len-1]
+        # ref_log_probs:[batch_size*num_generations, completion_seq_len]
         ref_log_probs: torch.Tensor = compute_log_probabilities(ref_model, prompt_completion_ids, prompt_completion_attention_mask, completion_logits_to_keep)
 
-    formatted_completions_str: List[List[Dict[str, str]]] = [
+    formatted_completions: List[List[Dict[str, str]]] = [
         [{'content': tokenizer.decode(ids, skip_special_tokens=True)}] for ids in completion_ids
     ]
     repeated_prompts: List[str] = [p for p in prompts for _ in range(num_generations)]
     repeated_answers: List[str] = [a for a in answers for _ in range(num_generations)]
 
     return {
-        "input_ids": prompt_completion_ids,
-        "attention_mask": prompt_completion_attention_mask,
-        "completion_mask": completion_mask,
-        "old_log_probs": old_log_probs,   # Static log probs from the current model (old policy)
-        "ref_log_probs": ref_log_probs,     # Static log probs from the reference model
-        "formatted_completions": formatted_completions_str,
+        "input_ids": prompt_completion_ids, # [batch_size*num_generations, prompt_seq_len+completion_seq_len]
+        "prompt_completion_attention_mask": prompt_completion_attention_mask, # [batch_size*num_generations, prompt_seq_len+completion_seq_len]
+        "completion_mask": completion_mask, # [batch_size*num_generations, completion_seq_len]
+        "old_log_probs": old_log_probs,   # [batch_size*num_generations, completion_seq_len], Static log probs from the current model (old policy)
+        "ref_log_probs": ref_log_probs,     # [batch_size*num_generations, completion_seq_len], Static log probs from the reference model
+        "formatted_completions": formatted_completions,
         "repeated_prompts": repeated_prompts,
         "repeated_answers": repeated_answers,
         "logits_to_keep": completion_logits_to_keep,
@@ -677,7 +678,8 @@ def generate_rollout_data(policy_model:PreTrainedModel,
         "num_generations": num_generations
     }
 
-def compute_group_relative_advantages(rewards, num_generations):
+def compute_group_relative_advantages(rewards:torch.Tensor, # [batch*num_generations], float
+                                      num_generations:int):
     """
     Compute group-relative advantages for each prompt group.
     
@@ -689,24 +691,37 @@ def compute_group_relative_advantages(rewards, num_generations):
         torch.Tensor: Tensor of advantages computed relative to the group mean.
     """
     # Reshape rewards to group by prompt
+    # rewards_by_group: [batch, num_generations]
     rewards_by_group = rewards.view(-1, num_generations)
     
     # Compute mean and standard deviation for each prompt group
+    # group_means: [batch]
+    # group_stds: [batch]
     group_means = rewards_by_group.mean(dim=1)
     group_stds = rewards_by_group.std(dim=1)
     
     # Expand the means and stds to match the original flat rewards tensor shape
+    # expanded_means: [batch*num_generations]
+    # expanded_stds: [batch*num_generations]
     expanded_means = group_means.repeat_interleave(num_generations)
     expanded_stds = group_stds.repeat_interleave(num_generations)
     
     # Normalize rewards to get advantages
+    # advantages: [batch*num_generations]
     advantages = (rewards - expanded_means) / (expanded_stds + 1e-4)
     
+    # advantages: [batch*num_generations, 1]
     return advantages.unsqueeze(1)  # Add dimension for token-wise operations
 
 
-def maximize_grpo_objective(model, ref_model, rollout_data, tokenizer, reward_function, 
-                          optimizer, beta, epsilon):
+def maximize_grpo_objective(model:PreTrainedModel, 
+                            ref_model:PreTrainedModel, 
+                            rollout_data:Dict[str, Any], 
+                            tokenizer:PreTrainedTokenizer, 
+                            reward_function:Callable, 
+                            optimizer:torch.optim.Optimizer, 
+                            beta:float, 
+                            epsilon:float)->float:
     """
     Update the policy model by maximizing the GRPO objective.
     
@@ -724,18 +739,20 @@ def maximize_grpo_objective(model, ref_model, rollout_data, tokenizer, reward_fu
         float: The loss value.
     """
     # Extract data from rollout
-    input_ids = rollout_data["input_ids"]
-    attention_mask = rollout_data["attention_mask"]
-    completion_mask = rollout_data["completion_mask"]
-    old_log_probs = rollout_data["old_log_probs"]
-    ref_log_probs = rollout_data["ref_log_probs"]
-    logits_to_keep = rollout_data["logits_to_keep"]
+    input_ids = rollout_data["input_ids"] # [batch_size*num_generations, prompt_seq_len+completion_seq_len]
+    prompt_completion_attention_mask = rollout_data["prompt_completion_attention_mask"] # [batch_size*num_generations, prompt_seq_len+completion_seq_len]
+    completion_mask = rollout_data["completion_mask"] # [batch_size*num_generations, completion_seq_len]
+    old_log_probs = rollout_data["old_log_probs"] # [batch_size*num_generations, completion_seq_len]
+    ref_log_probs = rollout_data["ref_log_probs"] # [batch_size*num_generations, completion_seq_len]
+    logits_to_keep :int = rollout_data["logits_to_keep"] # int
     
     # Compute current log probabilities
-    current_log_probs: torch.Tensor = compute_log_probabilities(model, input_ids, attention_mask, logits_to_keep)
+    # current_log_probs: [batch_size, completion_seq_len]
+    current_log_probs: torch.Tensor = compute_log_probabilities(model, input_ids, prompt_completion_attention_mask, logits_to_keep)
     
     # Compute policy ratio
-    ratio = torch.exp(current_log_probs - old_log_probs)
+    # current_log_probs: [batch_size, completion_seq_len]
+    importance_samping_ratio = torch.exp(current_log_probs - old_log_probs)
     
     # Get rewards data
     formatted_completions = rollout_data["formatted_completions"]
@@ -743,8 +760,9 @@ def maximize_grpo_objective(model, ref_model, rollout_data, tokenizer, reward_fu
     repeated_answers = rollout_data["repeated_answers"]
     
     # Compute rewards
+    # rewards:[batch_size*num_generations], float
     rewards = torch.tensor(
-        reward_function(prompts=repeated_prompts, completions=formatted_completions, answer=repeated_answers),
+        data=reward_function(prompts=repeated_prompts, completions=formatted_completions, answer=repeated_answers),
         dtype=torch.float32,
         device=next(model.parameters()).device
     )
@@ -752,21 +770,40 @@ def maximize_grpo_objective(model, ref_model, rollout_data, tokenizer, reward_fu
     print(f"Average Reward: {avg_reward:.4f}")
     
     # Compute advantages using group-relative normalization
-    batch_size = rollout_data["batch_size"]
-    num_generations = rollout_data["num_generations"]
-    advantages = compute_group_relative_advantages(rewards, num_generations)
+    batch_size :int= rollout_data["batch_size"]
+    num_generations :int= rollout_data["num_generations"]
+    # advantages: [batch*num_generations, 1]
+    advantages :torch.Tensor = compute_group_relative_advantages(rewards, num_generations)
     
     # Compute surrogate loss with clipping
-    surrogate1 = ratio * advantages
-    surrogate2 = torch.clamp(ratio, 1 - epsilon, 1 + epsilon) * advantages
-    surrogate_loss = torch.min(surrogate1, surrogate2)
+    surrogate_unclipped = importance_samping_ratio * advantages
+    surrogate_clipped = torch.clamp(importance_samping_ratio, 1 - epsilon, 1 + epsilon) * advantages
+    # surrogate_reward: [batch*num_generations, 1]
+    surrogate_reward = torch.min(surrogate_unclipped, surrogate_clipped)
     
     # Compute KL divergence penalty
-    kl_div = torch.exp(ref_log_probs - current_log_probs) - (ref_log_probs - current_log_probs) - 1
+    # kl_divergence(p||q) = sum_x[ p(x)log(p(x)/q(x)) ] 
+    # = - sum_x[ p(x)log(q(x)/p(x)) ] 
+    # = p(x)log(p(x)) - p(x)log(q(x))
+    # = -p(x)log(q(x)) - (-p(x)log(p(x)))
+    # = cross_entropy - entropy 
+    # 其物理意义为:
+    # 熵:分布为p的数据,用分布p的熵所需的编码长度为1/(p(x))
+    # 交叉熵:分布为p的数据,用分布q的熵所需的编码长度为q(x)/(p(x))
+    # KL距离:用交叉熵比用熵编码多出的平均编码长度
+    # log_probs_diff, ref_log_probs, current_log_probs: [batch_size*num_generations, completion_seq_len]
+    log_probs_diff = ref_log_probs - current_log_probs
+    # 在deepseek-math中,用的是unbiased kl divergence, 即 D(pai||pai_ref) = p(x)*[pai_ref/pai  - log(pai_ref/pai) -1], 它会确保是正值
+    # 与ppo不同,ppo会将negative kl_div混合在per_token的adavantage中, grpo则将二者分开
+    # unbiased_kl_div: [batch*num_generations, completion_seq_len]
+    unbiased_kl_div = torch.exp(log_probs_diff) - log_probs_diff - 1 # [batch_size*num_generations, completion_seq_len]
     
     # Combine losses
-    per_token_loss = surrogate_loss - beta * kl_div
-    loss = -((per_token_loss * completion_mask).sum(dim=1) / completion_mask.sum(dim=1)).mean()
+    # surrogate_reward: [batch*num_generations, 1]
+    # unbiased_kl_div: [batch*num_generations, completion_seq_len]
+    per_token_reward = surrogate_reward - beta * unbiased_kl_div # 负kl散度作为reward
+    # completion_mask:[batch_size*num_generations, completion_seq_len], 除以每个prompt中token的长度以作归一化
+    loss = -((per_token_reward * completion_mask).sum(dim=1) / completion_mask.sum(dim=1)).mean()
     
     # Optimization step
     optimizer.zero_grad()
@@ -779,10 +816,17 @@ def maximize_grpo_objective(model, ref_model, rollout_data, tokenizer, reward_fu
 
 def train_with_grpo(model:PreTrainedModel, 
                     tokenizer:PreTrainedTokenizer, 
-                    train_data:List[Dict[str, str]], num_iterations=1, 
-                    steps_per_iteration=500, batch_size=4, num_generations=4, 
-                    max_completion_length=128, beta=0.1, learning_rate=5e-6, 
-                    grpo_update_num_per_batch=3, epsilon=0.2, reward_function=combined_reward):
+                    train_data:List[Dict[str, str]], 
+                    num_iterations=1, 
+                    steps_per_iteration=500, 
+                    batch_size=4, 
+                    num_generations=4, 
+                    max_completion_length=128, 
+                    beta=0.1, 
+                    learning_rate=5e-6, 
+                    grpo_update_num_per_batch=3, 
+                    epsilon=0.2, 
+                    reward_function=combined_reward):
     """
     Iterative Group Relative Policy Optimization algorithm.
     
@@ -832,23 +876,33 @@ def train_with_grpo(model:PreTrainedModel,
             # Set old policy for this step
             with torch.no_grad():
                 # Generate completions and compute log probs
-                rollout_data = generate_rollout_data(
-                    policy_model, reference_model, tokenizer, 
-                    batch_samples, num_generations, max_completion_length
+                rollout_data:Dict[str, Any]= generate_rollout_data(
+                    policy_model, 
+                    reference_model, 
+                    tokenizer, 
+                    batch_samples, 
+                    num_generations, 
+                    max_completion_length
                 )
             
             # Multiple GRPO updates per batch of generations
             for grpo_iter in range(1, grpo_update_num_per_batch + 1):
                 loss_value = maximize_grpo_objective(
-                    policy_model, reference_model, rollout_data, tokenizer,
-                    reward_function, optimizer, beta, epsilon
+                    policy_model, 
+                    reference_model, 
+                    rollout_data,
+                    tokenizer,
+                    reward_function, 
+                    optimizer, 
+                    beta, 
+                    epsilon
                 )
                 print(f"Iteration {iteration}/{num_iterations}, Step {step}/{steps_per_iteration}, "
                       f"GRPO update {grpo_iter}/{grpo_update_num_per_batch}, Loss: {loss_value:.4f}")
         
         # Optional: Update reward model here if using reward model training
         # This is not implemented in the original code but present in the pseudocode
-        print(f"Completed iteration {iteration}. Reward model update would happen here.")
+        print(f"Completed iteration {iteration}. Reward model update would happen here if you has one.")
     
     return policy_model
 
@@ -1015,13 +1069,15 @@ def train(base_model_path:str, data_path:str, output_model_path:str):
     print("\nFinal model evaluation after GRPO RL finetuning:")
     # Evaluate the final model performance using the evaluation dataset.
     post_grpo_accuracy: PreTrainedModel = evaluate_model(model, tokenizer, eval_data, device)
-    print(f"Post-GRPO Accuracy: {post_grpo_accuracy:.2f}%")
-    print(f"Total Improvement: {post_grpo_accuracy - pre_grpo_accuracy:.2f}%")
+    print(f"Post-GRPO Accuracy: {post_grpo_accuracy:.2f}%") # grpo训练之后的accuracy
+    print(f"Total Accurancy Improvement: {post_grpo_accuracy - pre_grpo_accuracy:.2f}%")
 
     print(f"\nSaving GRPO finetuned model to path:{output_model_path}...")
     # Save the final finetuned model and tokenizer to disk.
     model.save_pretrained(output_model_path)
     tokenizer.save_pretrained(output_model_path)
+    print(f"\ntrain end.")
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--base_model_path', default="~/data/work/hf_data_and_model/models/Qwen/Qwen2.5-0.5B-Instruct/", type=str, help='')
