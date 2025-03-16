@@ -1,7 +1,7 @@
 echo "HOME:$HOME"
 # 同步数据
-remote_project_path="/home/hkx/data/work/open/The_LM_book/"
-local_project_path="$HOME/work/open/project/"
+remote_project_path="/home/hkx/data/work/open/The_LM_book/*"
+local_project_path="$HOME/work/open/project/The_LM_book/"
 user_ip="hkx@10.224.104.101"
 rsync -av -e ssh --exclude='*.git'  \
 --exclude='.*' \

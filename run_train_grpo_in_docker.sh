@@ -1,13 +1,17 @@
 #!/usr/bin/env bash
-. ../utils/shell_utils.sh
+. ./utils/shell_utils.sh
 
 echo `date`
 start_time=$(date +%s)
 time_str="$(date +%Y%m%d-%H-%M-%S)"
 
 root_path="$HOME/work"
-project_path="${root_path}/open/project/my_practice/"
-model_path="${root_path}/open/hf_data_and_model/models/Qwen/Qwen2.5-7B-Instruct/"
+project_path="${root_path}/open/project/The_LM_book/"
+#model_path="${root_path}/open/hf_data_and_model/models/Qwen/Qwen2.5-0.5B-Instruct/"
+model_path="${root_path}/open/hf_data_and_model/models/Qwen/Qwen2.5-3B-Instruct/"
+model_path="${root_path}/open/hf_data_and_model/models/Qwen/Qwen2.5-3B/"
+#model_path="${root_path}/open/hf_data_and_model/models/Qwen/Qwen2.5-7B-Instruct/"
+#model_path="${root_path}/open/hf_data_and_model/models/Qwen/Qwen2.5-7B/"
 #model_path="${root_path}/open/hf_data_and_model/models/Qwen/QwQ-32B/"
 model_out_path="${root_path}/trained_models/qwen_grpo/"
 
@@ -34,16 +38,23 @@ if [ ! -d logs/ ]; then
 fi
 
 
-port=$(python ../utils/get_free_port.py)
+port=$(python ./utils/get_free_port.py)
 echo "port:$port"
 #torchrun --rdzv-endpoint=localhost:${port} \
 #export MASTER_PORT=${port} && \
 
+#wandb_key="bdfc8b674cd322f967699975e89d431e82fcd317" # hkx wandb
+#wandb login ${wandb_key} && \
+# export WANDB_DISABLED=false && \
+# export WANDB_PROJECT=simple_ddp && \
+# export WANDB_API_KEY=${wandb_key} && \
+
 #port=29501
+# docker run -it --rm www.xxx.cn/wsw/large-lm:1.0.15-2 bash
 
 #device_list="2"
 set -x
-nohup docker run -i --rm --gpus '"device='${device_list}'"'  --name test_grpo --network=host --shm-size=16gb \
+nohup docker run -i --rm --gpus '"device='${device_list}'"'  --name test_grpo2 --network=host --shm-size=16gb \
     -v /etc/localtime:/etc/localtime:ro \
     -v ${project_path}:/docker_workspace \
     -v ${model_path}:/docker_model_input_path \
@@ -53,11 +64,8 @@ nohup docker run -i --rm --gpus '"device='${device_list}'"'  --name test_grpo --
     bash -c "\
 export PYTHONPATH=/docker_workspace && \
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64 && \
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64 && \
-export WANDB_DISABLED=false && \
-export WANDB_PROJECT=simple_ddp && \
-export WANDB_API_KEY=${wandb_key} && \
-wandb login ${wandb_key} && \
+pip install --upgrade pip -i https://mirrors.aliyun.com/pypi/simple/ &&
+pip install transformers==4.46.3 -i https://mirrors.aliyun.com/pypi/simple/ && \
 python GRPO.py \
 --base_model_path /docker_model_input_path \
 --data_path data/gsm8k \

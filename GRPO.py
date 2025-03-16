@@ -1,5 +1,5 @@
 import argparse
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 import numpy as np
 import random
 import torch
@@ -103,7 +103,7 @@ def prepare_dataset(split:str="train", data_path:str="openai/gsm8k") -> List[Dic
     return formatted_data
 
 
-def extract_answer_from_model_output(text) -> None | Any:
+def extract_answer_from_model_output(text)->Optional[str]:
     """
     Extracts the value from the last <answer> tag in the text.
     Returns None if no valid answer is found.
@@ -122,7 +122,7 @@ def extract_answer_from_model_output(text) -> None | Any:
     answer = last_part.split("</answer>")[0].strip()
     return None if answer == "..." else answer
 
-def extract_answer_from_dataset(text:str) -> None | str:
+def extract_answer_from_dataset(text:str)->Optional[str]:
     """
     Extracts the answer from the dataset.
     The dataset separates the answer using the '####' delimiter.
@@ -138,7 +138,7 @@ def extract_answer_from_dataset(text:str) -> None | str:
         return None
     return text.split("####")[1].strip()
 
-def _extract_last_number(text:str) -> float | None:
+def _extract_last_number(text:str) -> Optional[float]:
     """
     Extracts the last number from text if it's properly separated.
     
@@ -168,7 +168,7 @@ def _extract_last_number(text:str) -> float | None:
     return float(match.group(1)) if match else None
 
 
-def _extract_single_number(text:str) -> float | None:
+def _extract_single_number(text:str) -> Optional[float]:
     """
     Extracts a single number from text if exactly one exists.
     
@@ -406,7 +406,9 @@ def combined_reward(prompts:List[str], completions:List[List[Dict]], answer:List
 
     return combined_rewards
 
-def selective_log_softmax(logits, input_ids):
+def selective_log_softmax(logits:torch.Tensor, # shape:(batch_size, seq_len, vocab_size) 
+                          input_ids:torch.Tensor # shape:(batch_size, seq_len)  
+                          ) -> torch.Tensor:
     """
     Compute the log probabilities for the tokens specified in input_ids using a selective log-softmax.
 
@@ -426,16 +428,22 @@ def selective_log_softmax(logits, input_ids):
         4. Finally, squeeze(-1) removes the extra dimension, returning a tensor with the same shape as input_ids.
     """
     # Convert raw logits into log probabilities along the vocabulary axis.
+    # TODO: logits /= args.task.temperature, 可以加上temperature
     log_probs = F.log_softmax(logits, dim=-1)  # Shape: (batch_size, seq_len, vocab_size)
 
     # Reshape input_ids from (batch_size, seq_len) to (batch_size, seq_len, 1) for gathering.
     # Then, gather the log probability for each token in input_ids.
+    # gather:out[i][j][k] = log_probs[i][j][index[i][j][k]], 即收集所有token的logprobs
+    # selected_log_probs: [batch_size, seq_len, 1]
     selected_log_probs = log_probs.gather(dim=-1, index=input_ids.unsqueeze(-1))
 
     # Remove the extra last dimension to get back to shape (batch_size, seq_len).
     return selected_log_probs.squeeze(-1)
 
-def compute_log_probabilities(model, input_ids, attention_mask, logits_to_keep):
+def compute_log_probabilities(model:PreTrainedModel, 
+                              input_ids:torch.Tensor,  # [batch_size, total_seq_len]
+                              attention_mask:torch.Tensor, # [batch_size, total_seq_len]
+                              logits_to_keep:int):
     """
     Compute per-token log probabilities for a subset of tokens (typically the completion tokens).
 
@@ -458,7 +466,7 @@ def compute_log_probabilities(model, input_ids, attention_mask, logits_to_keep):
         4. Finally, we use the selective_log_softmax to compute log probabilities only for those tokens.
     """
     # Run the model forward pass and obtain logits.
-    logits = model(
+    logits = model.forward(
         input_ids=input_ids,
         attention_mask=attention_mask,
         logits_to_keep=logits_to_keep + 1  # Request one extra logit for proper alignment.
@@ -475,11 +483,15 @@ def compute_log_probabilities(model, input_ids, attention_mask, logits_to_keep):
     logits = logits[:, -logits_to_keep:, :]  # Shape: (batch_size, logits_to_keep, vocab_size)
 
     # Compute and return the log probabilities for the selected tokens.
-    return selective_log_softmax(logits, input_ids)
+    # probs: [batch_size, seq_len]
+    probs = selective_log_softmax(logits, input_ids)
+    return probs
 
-def create_completion_mask(completion_ids, eos_token_id):
+def create_completion_mask(completion_ids:torch.Tensor, 
+                           eos_token_id:int):
     """
     Create a binary mask for the generated completion tokens so that tokens after the first EOS are ignored.
+    第一个EOS token之后的token均不再需要, 均mask为0
 
     Args:
         completion_ids (torch.Tensor): Tensor of shape (batch_size, seq_len) with generated token ids.
@@ -495,13 +507,29 @@ def create_completion_mask(completion_ids, eos_token_id):
         3. For sequences where EOS exists, eos_idx is updated to the position (index) of the first EOS.
         4. A sequence index tensor is created that contains indices for each position in the sequence.
         5. The final mask is computed by comparing the sequence indices to eos_idx (after adding a dimension).
+
+        ---------------
+        input: eos =10 ,第一个eos token及之前的均被mask=1
+        tokens = torch.Tensor([
+        [1,2,3,4,5,10,10],
+        [1,2,3,4,10,10,10],
+        [10,10,10,10,10,10,10],
+        [1,2,3,4,5, 6,  7],
+        ])
+
+        mask:
+        tensor(
+        [[1, 1, 1, 1, 1, 1, 0],
+         [1, 1, 1, 1, 1, 0, 0],
+         [1, 0, 0, 0, 0, 0, 0],
+         [1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
     """
     # Determine which positions in each sequence equal the EOS token.
     is_eos = completion_ids == eos_token_id  # Boolean tensor of shape (batch_size, seq_len)
 
     # Initialize a tensor to store the index of the first EOS for each sequence.
-    # If no EOS is found, default to the full sequence length (is_eos.size(1)).
-    eos_idx = torch.full((is_eos.size(0),), is_eos.size(1), dtype=torch.long, device=completion_ids.device)
+    # If no EOS is found, default to the full sequence length (is_eos.size(1)). 初始化为最后一个index
+    eos_idx = torch.full(size=(is_eos.size(0),), fill_value=is_eos.size(dim=1), dtype=torch.long, device=completion_ids.device)
 
     # Identify sequences that contain at least one EOS.
     mask_exists = is_eos.any(dim=1)
@@ -551,12 +579,13 @@ def generate_completions(model:PreTrainedModel,
     tokenizer.padding_side  = "left"
     # inputs:[batch, seq_len]
     inputs: BatchEncoding = tokenizer(prompts, return_tensors="pt", padding=True, padding_side="left")
-    prompt_ids = inputs["input_ids"].to(device)      # Shape: (batch_size, prompt_seq_len)
-    prompt_mask = inputs["attention_mask"].to(device)  # Shape: (batch_size, prompt_seq_len)
-    prompt_length = prompt_ids.size(1)  # Save the prompt length to later separate prompt from completion.
+    prompt_ids :torch.Tensor= inputs["input_ids"].to(device)      # Shape: (batch_size, prompt_seq_len)
+    prompt_mask :torch.Tensor= inputs["attention_mask"].to(device)  # Shape: (batch_size, prompt_seq_len)
+    prompt_length:int = prompt_ids.size(1)  # Save the prompt length to later separate prompt from completion.
 
     # Repeat each prompt num_generations times.
     # 因为每个样本要生成num_generations个response,所以复制几次,一次送入大模型进行解码,此时就要求大模型推理性能需要上去,一般会考虑vllm
+    # x = torch.tensor([1, 2, 3]) -> tensor([1, 1, 2, 2, 3, 3])
     prompt_ids = prompt_ids.repeat_interleave(num_generations, dim=0)   # New shape: (batch_size*num_generations, prompt_seq_len)
     prompt_mask = prompt_mask.repeat_interleave(num_generations, dim=0) # New shape: (batch_size*num_generations, prompt_seq_len)
 
@@ -572,9 +601,10 @@ def generate_completions(model:PreTrainedModel,
     )
 
     # Remove the prompt portion from the generated output to isolate the completion tokens.
-    completion_ids = outputs[:, prompt_length:]  # Shape: (batch_size*num_generations, completion_seq_len)
+    completion_ids :torch.Tensor = outputs[:, prompt_length:]  # Shape: (batch_size*num_generations, completion_seq_len)
 
     # Create a binary mask that ignores tokens beyond the first EOS token.
+    # completion_mask:[batch_size*num_generations, completion_seq_len]
     completion_mask = create_completion_mask(completion_ids, tokenizer.eos_token_id)
 
     return prompt_ids, prompt_mask, completion_ids, completion_mask
@@ -613,33 +643,36 @@ def generate_rollout_data(policy_model:PreTrainedModel,
         prompt_ids, prompt_mask, completion_ids, completion_mask = generate_completions(
             policy_model, tokenizer, prompts, num_generations, max_completion_length
         )
-        input_ids = torch.cat([prompt_ids, completion_ids], dim=1)
-        attention_mask = torch.cat([prompt_mask, completion_mask], dim=1)
-        logits_to_keep = completion_ids.size(1)
+        # prompt_completion_ids:[batch_size*num_generations, prompt_seq_len+completion_seq_len]
+        # prompt_completion_attention_mask:[batch_size*num_generations, prompt_seq_len+completion_seq_len]
+        prompt_completion_ids = torch.cat([prompt_ids, completion_ids], dim=1)
+        prompt_completion_attention_mask = torch.cat([prompt_mask, completion_mask], dim=1)
+        completion_logits_to_keep:int = completion_ids.size(1) # 即到底每个query生成了多少个completion_id
 
         # Compute old_log_probs from the current model, with gradients disabled.
-        old_log_probs = compute_log_probabilities(policy_model, input_ids, attention_mask, logits_to_keep)
+        # old_log_probs:[batch_size*num_generations, completion_seq_len-1]
+        old_log_probs: torch.Tensor = compute_log_probabilities(policy_model, prompt_completion_ids, prompt_completion_attention_mask, completion_logits_to_keep)
         
         # Compute ref_log_probs from the reference model, which remains static.
-        ref_log_probs = compute_log_probabilities(ref_model, input_ids, attention_mask, logits_to_keep)
+        # ref_log_probs:[batch_size*num_generations, completion_seq_len-1]
+        ref_log_probs: torch.Tensor = compute_log_probabilities(ref_model, prompt_completion_ids, prompt_completion_attention_mask, completion_logits_to_keep)
 
-    formatted_completions = [
-        [{'content': tokenizer.decode(ids, skip_special_tokens=True)}]
-        for ids in completion_ids
+    formatted_completions_str: List[List[Dict[str, str]]] = [
+        [{'content': tokenizer.decode(ids, skip_special_tokens=True)}] for ids in completion_ids
     ]
-    repeated_prompts = [p for p in prompts for _ in range(num_generations)]
-    repeated_answers = [a for a in answers for _ in range(num_generations)]
+    repeated_prompts: List[str] = [p for p in prompts for _ in range(num_generations)]
+    repeated_answers: List[str] = [a for a in answers for _ in range(num_generations)]
 
     return {
-        "input_ids": input_ids,
-        "attention_mask": attention_mask,
+        "input_ids": prompt_completion_ids,
+        "attention_mask": prompt_completion_attention_mask,
         "completion_mask": completion_mask,
         "old_log_probs": old_log_probs,   # Static log probs from the current model (old policy)
         "ref_log_probs": ref_log_probs,     # Static log probs from the reference model
-        "formatted_completions": formatted_completions,
+        "formatted_completions": formatted_completions_str,
         "repeated_prompts": repeated_prompts,
         "repeated_answers": repeated_answers,
-        "logits_to_keep": logits_to_keep,
+        "logits_to_keep": completion_logits_to_keep,
         "batch_size": len(prompts),
         "num_generations": num_generations
     }
@@ -699,7 +732,7 @@ def maximize_grpo_objective(model, ref_model, rollout_data, tokenizer, reward_fu
     logits_to_keep = rollout_data["logits_to_keep"]
     
     # Compute current log probabilities
-    current_log_probs = compute_log_probabilities(model, input_ids, attention_mask, logits_to_keep)
+    current_log_probs: torch.Tensor = compute_log_probabilities(model, input_ids, attention_mask, logits_to_keep)
     
     # Compute policy ratio
     ratio = torch.exp(current_log_probs - old_log_probs)
@@ -989,7 +1022,6 @@ def train(base_model_path:str, data_path:str, output_model_path:str):
     # Save the final finetuned model and tokenizer to disk.
     model.save_pretrained(output_model_path)
     tokenizer.save_pretrained(output_model_path)
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--base_model_path', default="~/data/work/hf_data_and_model/models/Qwen/Qwen2.5-0.5B-Instruct/", type=str, help='')
