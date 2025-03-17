@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we start by determining how much of the pie Sophia did not eat. We know that she ate 1/6 of the pie, which means that the remaining pie in the fridge is 5/6 of the total pie.
+
+Let's denote the total weight of the pie as \( W \) grams. According to the problem, the weight of the pie left in the fridge is 1200 grams, which represents the 5/6 of the total pie.
+
+We can set up the equation:
+
+\[
+\frac{5}{6}W = 1200
+\]
+
+Next, we need to solve for \( W \). To do this, we can multiply both sides of the equation by the reciprocal of 5/6, which is 6/5:
+
+\[
+W = 1200 \times \frac{6}{5}
+\]
+
+Now, let's calculate that:
+
+\[
+W = 1200 \times 1.2 = 1440 \text{ grams}
+\]
+
+Now that we have the total weight of the pie, we can determine how much Sophia ate. Since she ate 1/6 of the pie, we calculate:
+
+\[
+\text{Weight eaten} = \frac{1}{6} W = \frac{1}{6} \times 1440
+\]
+
+Calculating that gives:
+
+\[
+\text{Weight eaten} = 240 \text{ grams}
+\]
+
+Therefore, Sophia ate 240 grams of the pie.
+</reasoning>
+<answer>240</answer>

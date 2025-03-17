@@ -1,0 +1,28 @@
+<reasoning>
+First, let's determine the cost of this year's costume. We know that the costume is 40% more expensive than last year's costume, which cost $250. 
+
+1. **Calculate the increase in cost due to the 40% increase**:
+   - First, find 40% of last year's costume price:
+     \[
+     40\% \text{ of } 250 = 0.40 \times 250 = 100
+     \]
+   - Now, add this increase to last year's price to find this year's costume price:
+     \[
+     \text{Cost of this year's costume} = 250 + 100 = 350
+     \]
+
+2. **Calculate the deposit**:
+   - Jeff has to put in a 10% deposit. Let's calculate 10% of the total cost of the costume:
+     \[
+     10\% \text{ of } 350 = 0.10 \times 350 = 35
+     \]
+
+3. **Calculate the remaining balance to be paid when picking it up**:
+   - To find out how much Jeff will pay when he picks up the costume, we need to subtract the deposit from the total cost:
+     \[
+     \text{Remaining balance} = \text{Total cost} - \text{Deposit} = 350 - 35 = 315
+     \]
+
+Therefore, the amount Jeff will pay when picking up the costume is $315.
+</reasoning>
+<answer>315</answer>

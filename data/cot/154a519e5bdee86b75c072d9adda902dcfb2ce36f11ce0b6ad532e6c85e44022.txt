@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Calculate the price of left-handed mice**: 
+   Since left-handed mice cost 30% more than normal mice, we first need to find 30% of the price of normal mice, which is $120. 
+
+   30% of $120 can be calculated as:
+   \[
+   0.30 \times 120 = 36
+   \]
+   So, the price of one left-handed mouse is:
+   \[
+   120 + 36 = 156
+   \]
+
+2. **Determine the number of days the store is open**:
+   The store is closed on Sunday, Thursday, and Friday. This means it is open on the other days of the week (Monday, Tuesday, Wednesday, Saturday). Thus, the number of days the store is open in a week is:
+   \[
+   7 - 3 = 4 \text{ days}
+   \]
+
+3. **Calculate the daily revenue from selling left-handed mice**:
+   Since Ned sells 25 left-handed mice a day, we can find his daily revenue by multiplying the number of mice sold by the price of each mouse:
+   \[
+   25 \times 156 = 3900
+   \]
+
+4. **Calculate the weekly revenue**:
+   Now we will find the total revenue for the week by multiplying the daily revenue by the number of days the store is open:
+   \[
+   3900 \times 4 = 15600
+   \]
+
+Therefore, after completing all calculations, we find that Ned makes $15,600 in a week.
+</reasoning>
+<answer>15600</answer>

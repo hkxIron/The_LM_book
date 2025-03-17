@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we first need to determine how much fluffy foam material Teddy uses for each pillow and then how many pillows he can make with the total amount of fluffy foam he has.
+
+1. **Calculate the amount of fluffy foam used for each pillow:**
+   Teddy uses "3 less than 5 pounds" of foam for each pillow. We can express this mathematically:
+   \[
+   \text{Foam per pillow} = 5 \text{ pounds} - 3 \text{ pounds} = 2 \text{ pounds}
+   \]
+   This means Teddy uses 2 pounds of foam material to make one pillow.
+
+2. **Convert Teddy's total amount of fluffy foam from tons to pounds:**
+   Teddy has three tons of fluffy foam material. We need to convert tons into pounds. We know that 1 ton is equal to 2000 pounds, so:
+   \[
+   \text{Total foam in pounds} = 3 \text{ tons} \times 2000 \text{ pounds/ton} = 6000 \text{ pounds}
+   \]
+
+3. **Calculate the number of pillows Teddy can make:**
+   Now that we know Teddy has 6000 pounds of foam and uses 2 pounds for each pillow, we can find the total number of pillows he can make by dividing the total amount of foam by the amount used per pillow:
+   \[
+   \text{Number of pillows} = \frac{\text{Total foam in pounds}}{\text{Foam per pillow}} = \frac{6000 \text{ pounds}}{2 \text{ pounds/pillow}} = 3000 \text{ pillows}
+   \]
+
+Therefore, after performing all the calculations, we find that Teddy can make 3000 pillows with the fluffy foam material he has.
+</reasoning>
+<answer>3000</answer>

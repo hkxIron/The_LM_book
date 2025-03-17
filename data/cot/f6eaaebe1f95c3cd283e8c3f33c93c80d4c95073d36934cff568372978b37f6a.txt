@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many apples Cecile bought**: The problem states that Cecile bought 15 apples.
+
+2. **Determine how many apples Diane bought**: The problem states that Diane bought twenty more apples than Cecile. Since Cecile bought 15 apples, we can calculate the number of apples Diane bought by adding 20 to Cecile's amount:
+   \[
+   \text{Number of apples Diane bought} = \text{Number of apples Cecile bought} + 20 = 15 + 20
+   \]
+
+3. **Calculate Diane's amount**:
+   \[
+   15 + 20 = 35
+   \]
+   So, Diane bought 35 apples.
+
+4. **Calculate the total number of apples they both bought**: Now that we know how many apples Diane and Cecile bought, we can find the total by adding both amounts together:
+   \[
+   \text{Total apples} = \text{Number of apples Cecile bought} + \text{Number of apples Diane bought} = 15 + 35
+   \]
+
+5. **Calculate the total**:
+   \[
+   15 + 35 = 50
+   \]
+
+Thus, Diane and Cecile bought a total of 50 apples altogether.
+</reasoning>
+<answer>50</answer>

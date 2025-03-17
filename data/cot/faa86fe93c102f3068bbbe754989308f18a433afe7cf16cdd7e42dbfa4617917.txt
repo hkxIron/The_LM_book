@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem, we will first calculate the height of each ladder in inches, and then we will find the total lengths climbed by both Keaton and Reece.
+
+1. **Height of Keaton's Ladder**: 
+   Keaton climbed a 30 feet ladder. To convert feet to inches, we know that 1 foot = 12 inches. 
+   So, the height of Keaton's ladder in inches is:
+   \[
+   30 \text{ feet} \times 12 \text{ inches/foot} = 360 \text{ inches}
+   \]
+
+2. **Height of Reece's Ladder**: 
+   Reece's ladder is 4 feet shorter than Keaton's ladder. Therefore, the height of Reece's ladder in feet is:
+   \[
+   30 \text{ feet} - 4 \text{ feet} = 26 \text{ feet}
+   \]
+   Now we convert this to inches:
+   \[
+   26 \text{ feet} \times 12 \text{ inches/foot} = 312 \text{ inches}
+   \]
+
+3. **Total Length Climbed by Keaton**: 
+   Keaton climbed his ladder 20 times. So, the total length climbed by Keaton in inches is:
+   \[
+   360 \text{ inches} \times 20 = 7200 \text{ inches}
+   \]
+
+4. **Total Length Climbed by Reece**: 
+   Reece climbed his ladder 15 times. Thus, the total length climbed by Reece in inches is:
+   \[
+   312 \text{ inches} \times 15 = 4680 \text{ inches}
+   \]
+
+5. **Total Length Climbed by Both Workers**: 
+   Now, we will add the total lengths climbed by both Keaton and Reece:
+   \[
+   7200 \text{ inches} + 4680 \text{ inches} = 11880 \text{ inches}
+   \]
+
+Therefore, the total length of the ladders that both workers climbed is:
+</reasoning>
+<answer>11880</answer>

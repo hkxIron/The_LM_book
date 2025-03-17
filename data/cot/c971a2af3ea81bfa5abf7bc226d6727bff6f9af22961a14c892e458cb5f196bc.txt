@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Niraj's Contribution**: 
+   We know that Niraj contributed $80. So, we can denote Niraj's contribution as:
+   \[
+   N = 80
+   \]
+
+2. **Calculate Brittany's Contribution**:
+   According to the problem, Brittany's contribution is triple Niraj's contribution. Therefore, we can calculate Brittany's contribution (B) as follows:
+   \[
+   B = 3 \times N = 3 \times 80 = 240
+   \]
+
+3. **Calculate Angela's Contribution**:
+   The problem also states that Angela's contribution is triple Brittany's contribution. So we can calculate Angela's contribution (A) as:
+   \[
+   A = 3 \times B = 3 \times 240 = 720
+   \]
+
+4. **Calculate the Total Contribution**:
+   Now, we need to find the total contribution from all three individuals. The total contribution (T) can be calculated as:
+   \[
+   T = N + B + A = 80 + 240 + 720
+   \]
+
+5. **Perform the Addition**:
+   Now, let's add these contributions together:
+   \[
+   T = 80 + 240 = 320
+   \]
+   Then,
+   \[
+   T = 320 + 720 = 1040
+   \]
+
+Thus, the total contribution from Angela, Brittany, and Niraj is $1040.
+</reasoning>
+<answer>1040</answer>

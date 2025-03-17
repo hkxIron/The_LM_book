@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many berries Skylar has**: 
+   We are told that Skylar has 20 berries. 
+
+2. **Calculate how many berries Steve has**: 
+   We know that Steve has one half as many berries as Skylar. Therefore, we can calculate Steve's berries using the equation:
+   \[
+   \text{Steve's berries} = \frac{1}{2} \times \text{Skylar's berries} = \frac{1}{2} \times 20 = 10
+   \]
+   So, Steve has 10 berries.
+
+3. **Calculate how many berries Stacy has**: 
+   Next, we need to determine how many berries Stacy has. The problem states that Stacy has 2 more than triple the number of berries Steve has. We can express this with the equation:
+   \[
+   \text{Stacy's berries} = 3 \times \text{Steve's berries} + 2
+   \]
+   Substituting in the number of berries Steve has:
+   \[
+   \text{Stacy's berries} = 3 \times 10 + 2 = 30 + 2 = 32
+   \]
+
+Therefore, after performing all the calculations, we find that Stacy has 32 berries.
+</reasoning>
+<answer>32</answer>

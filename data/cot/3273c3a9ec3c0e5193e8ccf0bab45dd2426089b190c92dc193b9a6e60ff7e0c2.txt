@@ -1,0 +1,24 @@
+<reasoning>
+To find the total number of yolks in the carton of eggs, we need to consider both the regular eggs and the double yolk eggs.
+
+1. **Identify the number of regular eggs**: Since there are 12 eggs in total and 5 of them have double yolks, we can calculate the number of regular eggs. Regular eggs have 1 yolk each.
+
+   Regular eggs = Total eggs - Double yolk eggs
+   Regular eggs = 12 - 5 = 7
+
+2. **Calculate the total yolks from regular eggs**: Each of the 7 regular eggs contributes 1 yolk.
+
+   Total yolks from regular eggs = 7 regular eggs * 1 yolk each = 7 yolks
+
+3. **Calculate the total yolks from double yolk eggs**: Each of the 5 double yolk eggs contributes 2 yolks.
+
+   Total yolks from double yolk eggs = 5 double yolk eggs * 2 yolks each = 10 yolks
+
+4. **Add the yolks together**: Now, we can find the total number of yolks in the carton by adding the yolks from regular eggs and double yolk eggs.
+
+   Total yolks = Total yolks from regular eggs + Total yolks from double yolk eggs
+   Total yolks = 7 + 10 = 17
+
+Therefore, the total number of yolks in the whole carton is 17.
+</reasoning>
+<answer>17</answer>

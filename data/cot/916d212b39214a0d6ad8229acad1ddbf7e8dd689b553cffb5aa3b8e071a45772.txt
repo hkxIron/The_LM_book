@@ -1,0 +1,45 @@
+<reasoning>
+To find out how many men Lauryn employs, we can set up a system of equations based on the information given in the problem.
+
+1. Let's define variables:
+   - Let \( m \) represent the number of men.
+   - Let \( w \) represent the number of women.
+
+2. From the problem, we know two things:
+   - The total number of people working for Lauryn is 180, which gives us the equation:
+     \[
+     m + w = 180
+     \]
+   - It is also stated that there are 20 fewer men than women, leading to the equation:
+     \[
+     m = w - 20
+     \]
+
+3. Now we can substitute the second equation into the first equation. We replace \( m \) in the first equation:
+   \[
+   (w - 20) + w = 180
+   \]
+
+4. Simplifying this gives:
+   \[
+   2w - 20 = 180
+   \]
+
+5. Next, we add 20 to both sides to isolate the term with \( w \):
+   \[
+   2w = 200
+   \]
+
+6. Now, divide both sides by 2 to solve for \( w \):
+   \[
+   w = 100
+   \]
+
+7. Now that we know the number of women, we can find the number of men by substituting \( w \) back into the equation \( m = w - 20 \):
+   \[
+   m = 100 - 20 = 80
+   \]
+
+Therefore, Lauryn employs 80 men in her company.
+</reasoning>
+<answer>80</answer>

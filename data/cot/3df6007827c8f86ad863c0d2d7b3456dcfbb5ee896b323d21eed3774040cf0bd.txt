@@ -1,0 +1,29 @@
+<reasoning>
+First, let's determine the total number of slices of pizza that Ben and his two brothers will need for the night. 
+
+1. **Calculate the total number of people**: 
+   Ben has two brothers, so there are 3 people in total (Ben + 2 brothers).
+
+2. **Calculate total slices needed**: 
+   Each person can eat 12 slices of pizza, so we need to multiply the number of people by the number of slices each can eat:
+   \[
+   \text{Total slices needed} = 3 \text{ (people)} \times 12 \text{ (slices/person)} = 36 \text{ slices}
+   \]
+
+3. **Account for the small pizza**: 
+   They are ordering 1 small pizza that has 8 slices. So, we subtract the slices from the small pizza from the total needed:
+   \[
+   \text{Slices left to order} = 36 \text{ (total slices needed)} - 8 \text{ (slices from small pizza)} = 28 \text{ slices}
+   \]
+
+4. **Determine how many large pizzas are needed**: 
+   Each large pizza has 14 slices. To find out how many large pizzas are needed to get at least 28 slices, we divide the remaining slices by the number of slices in a large pizza:
+   \[
+   \text{Number of large pizzas needed} = \frac{28 \text{ (slices needed)}}{14 \text{ (slices/large pizza)}} = 2
+   \]
+
+Since they need 28 slices and each large pizza provides 14 slices, ordering 2 large pizzas will give them exactly the number of slices they need.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>2</answer>

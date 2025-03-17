@@ -1,0 +1,34 @@
+<reasoning>
+Let's solve this problem step by step.
+
+1. **Starting Amount of Songs**: Aisha begins with 500 songs on her mp3 player. 
+   - So, we have: 
+     \[
+     \text{Initial Songs} = 500
+     \]
+
+2. **Adding More Songs**: The next week, she adds another 500 songs. 
+   - To find the new total, we add the songs she already has to the songs she adds:
+     \[
+     \text{New Total} = 500 + 500 = 1000
+     \]
+
+3. **Doubling the Songs**: Aisha then decides to add twice the amount she already has. 
+   - Since she currently has 1000 songs, she will add:
+     \[
+     \text{Songs Added} = 2 \times 1000 = 2000
+     \]
+   - Now, we add these 2000 songs to the 1000 songs she already has:
+     \[
+     \text{Total After Adding} = 1000 + 2000 = 3000
+     \]
+
+4. **Removing Unwanted Songs**: Finally, Aisha decides to remove 50 songs from her mp3 player.
+   - We subtract the 50 songs from the total:
+     \[
+     \text{Final Total} = 3000 - 50 = 2950
+     \]
+
+After going through each step and performing the necessary calculations, we find that the total number of songs on Aisha's mp3 player now is:
+</reasoning>
+<answer>2950</answer>

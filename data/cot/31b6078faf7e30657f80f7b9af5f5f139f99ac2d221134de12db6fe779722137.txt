@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we will first find out how many classrooms have 30 desks and how many have 25 desks. Then, we will calculate the total number of desks in the school to determine how many students can be accommodated.
+
+1. **Determine the number of classrooms with 30 desks:**
+   - The problem states that one-third of the classrooms have 30 desks each.
+   - Since the school has a total of 15 classrooms, we can calculate the number of classrooms with 30 desks by finding one-third of 15.
+   - This is calculated as follows:
+     \[
+     \text{Number of classrooms with 30 desks} = \frac{1}{3} \times 15 = 5
+     \]
+   - So, there are 5 classrooms with 30 desks each.
+
+2. **Determine the number of classrooms with 25 desks:**
+   - The rest of the classrooms will have 25 desks each. 
+   - To find the number of classrooms with 25 desks, we subtract the number of classrooms with 30 desks from the total number of classrooms.
+   - This is calculated as follows:
+     \[
+     \text{Number of classrooms with 25 desks} = 15 - 5 = 10
+     \]
+   - So, there are 10 classrooms with 25 desks each.
+
+3. **Calculate the total number of desks:**
+   - Now, we can find the total number of desks in the school.
+   - First, calculate the total desks from the classrooms with 30 desks:
+     \[
+     \text{Total desks from 30 desk classrooms} = 5 \times 30 = 150
+     \]
+   - Next, calculate the total desks from the classrooms with 25 desks:
+     \[
+     \text{Total desks from 25 desk classrooms} = 10 \times 25 = 250
+     \]
+   - Now, we add both totals to find the overall number of desks:
+     \[
+     \text{Total desks} = 150 + 250 = 400
+     \]
+
+Therefore, the total number of students that can be accommodated in the school, so that everyone has their own desk, is 400.
+</reasoning>
+<answer>400</answer>

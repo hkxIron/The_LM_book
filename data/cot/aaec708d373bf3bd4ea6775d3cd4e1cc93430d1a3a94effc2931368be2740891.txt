@@ -1,0 +1,20 @@
+<reasoning>
+To solve this problem, we need to first determine the total mass of the 100 bags of lemons and then compare it to the maximum load capacity of the truck, which is 900 kilograms.
+
+1. **Calculate the total mass of the 100 bags of lemons**:
+   Each bag of lemons weighs 8 kilograms. Therefore, to find the total mass of 100 bags, we multiply the mass of one bag by the number of bags:
+   \[
+   \text{Total mass of bags} = \text{Mass of one bag} \times \text{Number of bags} = 8 \, \text{kg} \times 100 = 800 \, \text{kg}
+   \]
+   This calculation shows that the total weight of the 100 bags of lemons is 800 kilograms.
+
+2. **Determine the remaining capacity of the truck**:
+   The truck has a maximum load capacity of 900 kilograms. To find out how much more weight can be loaded into the truck, we subtract the total mass of the bags from the truck's capacity:
+   \[
+   \text{Remaining capacity} = \text{Maximum load capacity} - \text{Total mass of bags} = 900 \, \text{kg} - 800 \, \text{kg} = 100 \, \text{kg}
+   \]
+   This calculation tells us that the truck can still carry an additional 100 kilograms.
+
+Therefore, the farmer can load an additional 100 kilograms of lemons into the truck.
+</reasoning>
+<answer>100</answer>

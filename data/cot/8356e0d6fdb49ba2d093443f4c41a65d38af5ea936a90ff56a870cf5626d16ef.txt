@@ -1,0 +1,44 @@
+<reasoning>
+To find out how many clay pots Nancy created on Wednesday, we first need to determine how many pots she made on each day of the week based on the information given.
+
+1. **Calculate the number of pots made on Tuesday:**
+   - Nancy made 12 clay pots on Monday.
+   - According to the problem, she made twice as many on Tuesday.
+   - Therefore, the number of pots made on Tuesday is:
+     \[
+     2 \times 12 = 24 \text{ pots}
+     \]
+
+2. **Set up the equation for the total pots:**
+   - Let \( x \) be the number of pots made on Wednesday.
+   - According to the problem, by the end of the week, Nancy has a total of 50 clay pots. 
+   - So we can write the equation for the total pots:
+     \[
+     12 \text{ (Monday)} + 24 \text{ (Tuesday)} + x \text{ (Wednesday)} = 50
+     \]
+
+3. **Combine the pots from Monday and Tuesday:**
+   - Adding the pots made on Monday and Tuesday gives:
+     \[
+     12 + 24 = 36
+     \]
+
+4. **Substitute into the equation:**
+   - Now we can substitute 36 into our total pots equation:
+     \[
+     36 + x = 50
+     \]
+
+5. **Solve for \( x \):**
+   - To find \( x \), we subtract 36 from both sides of the equation:
+     \[
+     x = 50 - 36
+     \]
+   - This simplifies to:
+     \[
+     x = 14
+     \]
+
+Therefore, Nancy created 14 clay pots on Wednesday.
+</reasoning>
+<answer>14</answer>

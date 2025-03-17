@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of houses James visits on the first day**: 
+   James visits 20 houses and sells something in each one. Therefore, the total sales on the first day is:
+   \[
+   \text{Sales on Day 1} = 20 \text{ houses} \times 2 \text{ items/house} = 40 \text{ items}
+   \]
+   Explanation: James sold 2 items in each of the 20 houses he visited.
+
+2. **Determine the number of houses James visits on the second day**: 
+   The next day, he visits twice as many houses. Thus, he visits:
+   \[
+   \text{Houses on Day 2} = 20 \text{ houses} \times 2 = 40 \text{ houses}
+   \]
+   Explanation: Since he visits twice as many houses as the first day, we multiply the number of houses from Day 1 by 2.
+
+3. **Calculate how many houses he sold to on the second day**: 
+   He sells to 80% of the houses he visits on Day 2:
+   \[
+   \text{Sales on Day 2} = 40 \text{ houses} \times 0.8 = 32 \text{ houses}
+   \]
+   Explanation: We multiply the total number of houses (40) by 80% (or 0.8) to find out how many he sold to.
+
+4. **Calculate the total number of items sold on the second day**: 
+   Since he sold 2 items in each of the 32 houses he sold to on the second day, the total sales for that day is:
+   \[
+   \text{Items sold on Day 2} = 32 \text{ houses} \times 2 \text{ items/house} = 64 \text{ items}
+   \]
+   Explanation: Similar to Day 1, he sold 2 items in each house he managed to sell to.
+
+5. **Calculate the total items sold over the two days**: 
+   Now, we sum the items sold on both days:
+   \[
+   \text{Total items sold} = \text{Sales on Day 1} + \text{Sales on Day 2} = 40 \text{ items} + 64 \text{ items} = 104 \text{ items}
+   \]
+   Explanation: We simply add the number of items sold on both days to find the total.
+
+Therefore, the total number of items sold by James is:
+</reasoning>
+<answer>104</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To find out how long it takes Tom to finish his combined undergrad and Ph.D. program, we first need to determine the total time it would normally take for someone in this program.
+
+1. **Calculate the total time for the combined program**: 
+   - The time to complete the BS (Bachelor of Science) is 3 years.
+   - The time to complete the Ph.D. is 5 years.
+   - Therefore, the total time for the combined program is:
+     \[
+     \text{Total time} = \text{Time for BS} + \text{Time for Ph.D.} = 3 \text{ years} + 5 \text{ years} = 8 \text{ years}
+     \]
+
+2. **Calculate the time Tom takes**: 
+   - Tom finishes the program in \( \frac{3}{4} \) of the total time. 
+   - To find the time he takes, we multiply the total time by \( \frac{3}{4} \):
+     \[
+     \text{Time Tom takes} = \frac{3}{4} \times 8 \text{ years}
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Time Tom takes} = 6 \text{ years}
+     \]
+
+Hence, Tom takes 6 years to finish his combined undergrad and Ph.D. program.
+</reasoning>
+<answer>6</answer>

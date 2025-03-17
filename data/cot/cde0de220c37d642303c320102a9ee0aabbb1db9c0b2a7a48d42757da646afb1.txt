@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Starting Point (2018)**: The Super Soup franchise had 23 stores in 2018. This is our starting number.
+
+2. **Changes in 2019**:
+   - They opened 5 new stores: 
+     - To find the total number of stores after opening the new ones, we add the 5 new stores to the existing 23 stores.
+     - Calculation: 23 + 5 = 28 stores.
+   - They closed 2 stores:
+     - Now, we subtract the 2 closed stores from the total we just calculated.
+     - Calculation: 28 - 2 = 26 stores.
+
+3. **Changes in 2020**:
+   - They opened 10 new stores:
+     - We add these 10 new stores to the existing 26 stores.
+     - Calculation: 26 + 10 = 36 stores.
+   - They closed 6 stores:
+     - Finally, we subtract the 6 closed stores from the total we just calculated.
+     - Calculation: 36 - 6 = 30 stores.
+
+After performing all these calculations, we can conclude that at the end of 2020, the Super Soup franchise had 30 stores.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,20 @@
+<reasoning>
+To find out how much charcoal Jason needs to add for 900 ml of water, we first need to determine how many 30 ml portions are in 900 ml.
+
+1. **Calculate the number of 30 ml portions in 900 ml**:
+   We can do this by dividing the total amount of water (900 ml) by the amount of water needed per portion (30 ml):
+   \[
+   \text{Number of portions} = \frac{900 \text{ ml}}{30 \text{ ml}} = 30
+   \]
+   This means that there are 30 portions of 30 ml in 900 ml.
+
+2. **Determine the amount of charcoal needed for 30 portions**:
+   Since Jason needs to add 2 grams of charcoal for each 30 ml portion, we multiply the number of portions by the amount of charcoal needed per portion:
+   \[
+   \text{Total charcoal} = 30 \text{ portions} \times 2 \text{ grams/portion} = 60 \text{ grams}
+   \]
+   This calculation tells us the total amount of charcoal that Jason will need to add for the entire batch of paint.
+
+Therefore, the total amount of charcoal Jason adds is 60 grams.
+</reasoning>
+<answer>60</answer>

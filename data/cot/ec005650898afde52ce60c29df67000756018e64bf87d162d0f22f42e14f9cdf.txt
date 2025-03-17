@@ -1,0 +1,41 @@
+<reasoning>
+To find the area of the radish patch, we first need to determine the size of the pea patch based on the information given.
+
+1. We know that one sixth of the pea patch is 5 square feet. Let's denote the total area of the pea patch as \( P \). According to the problem, we have:
+   \[
+   \frac{1}{6} P = 5
+   \]
+
+2. To find the total area \( P \) of the pea patch, we multiply both sides of the equation by 6:
+   \[
+   P = 5 \times 6
+   \]
+
+3. Calculating that gives:
+   \[
+   P = 30 \text{ square feet}
+   \]
+
+4. According to the problem, the pea patch is twice as big as the radish patch. Let's denote the area of the radish patch as \( R \). Therefore, we can express this relationship as:
+   \[
+   P = 2R
+   \]
+
+5. Now, substituting the value of \( P \) we found into this equation:
+   \[
+   30 = 2R
+   \]
+
+6. To find \( R \), we divide both sides by 2:
+   \[
+   R = \frac{30}{2}
+   \]
+
+7. Performing the division gives:
+   \[
+   R = 15 \text{ square feet}
+   \]
+
+Thus, we have determined the area of the radish patch.
+</reasoning>
+<answer>15</answer>

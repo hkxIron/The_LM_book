@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we first need to determine Amanda's running speed based on the information provided.
+
+1. **Calculate Amanda's speed**:
+   - Amanda runs 2000 meters in 2 hours. 
+   - To find her speed in meters per hour, we use the formula: 
+     \[
+     \text{Speed} = \frac{\text{Distance}}{\text{Time}} 
+     \]
+
+   Substituting the values:
+   \[
+   \text{Speed} = \frac{2000 \text{ meters}}{2 \text{ hours}} = 1000 \text{ meters per hour}
+   \]
+
+2. **Determine the time it takes to run 10000 meters**:
+   - Now we need to find out how long it will take Amanda to run 10000 meters at her calculated speed of 1000 meters per hour.
+   - We can rearrange the speed formula to find the time:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}} 
+     \]
+
+   Substituting the values:
+   \[
+   \text{Time} = \frac{10000 \text{ meters}}{1000 \text{ meters per hour}} = 10 \text{ hours}
+   \]
+
+Therefore, it would take Amanda 10 hours to run the length of a 10000-meter track at the same speed.
+</reasoning>
+<answer>10</answer>

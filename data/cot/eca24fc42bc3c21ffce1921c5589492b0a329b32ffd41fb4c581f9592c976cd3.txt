@@ -1,0 +1,39 @@
+<reasoning>
+To find the total amount of money collected from the football team members for attending the parties, we can follow these steps:
+
+1. **Calculate the amount paid by one player for one party.**
+   Each player pays $40 to attend one party.
+
+2. **Calculate the total amount paid by all players for one party.**
+   There are 60 players on the football team. So, we multiply the number of players by the amount each player pays:
+   \[
+   \text{Total for one party} = \text{Number of players} \times \text{Amount per player}
+   \]
+   \[
+   \text{Total for one party} = 60 \times 40
+   \]
+
+3. **Perform the multiplication to find the total for one party.**
+   \[
+   60 \times 40 = 2400
+   \]
+   This means that the total amount collected from the team for one party is $2400.
+
+4. **Calculate the total amount collected for 8 parties.**
+   Now that we know the total for one party, we can find the total for 8 parties by multiplying the total for one party by the number of parties:
+   \[
+   \text{Total for 8 parties} = \text{Total for one party} \times \text{Number of parties}
+   \]
+   \[
+   \text{Total for 8 parties} = 2400 \times 8
+   \]
+
+5. **Perform the multiplication to find the total for 8 parties.**
+   \[
+   2400 \times 8 = 19200
+   \]
+   This means that the total amount collected from the team for all 8 parties is $19200.
+
+Therefore, after calculating all the necessary steps, we find that the total amount of money collected in the 8 parties is:
+</reasoning>
+<answer>19200</answer>

@@ -1,0 +1,55 @@
+<reasoning>
+To solve this problem, we need to calculate how much change Mark should receive after his purchases and then determine how many nickels he will get back.
+
+1. First, let's calculate the total cost of Mark's purchases:
+   - Cost of the loaf of bread = $4.20
+   - Cost of the cheese = $2.05
+
+   We add these two amounts together:
+   \[
+   4.20 + 2.05 = 6.25
+   \]
+
+   Therefore, the total cost of the bread and cheese is $6.25.
+
+2. Next, we find out how much change Mark should receive after he pays the cashier $7.00:
+   - Amount given to the cashier = $7.00
+   - Total cost = $6.25
+
+   We subtract the total cost from the amount given:
+   \[
+   7.00 - 6.25 = 0.75
+   \]
+
+   Therefore, Mark should receive $0.75 in change.
+
+3. Now we need to see how the cashier can give Mark his change. According to the problem, the cashier has:
+   - 1 quarter (worth $0.25)
+   - 1 dime (worth $0.10)
+   - A bunch of nickels (worth $0.05 each)
+
+   First, we determine the total amount the cashier can give using the quarter and dime:
+   \[
+   0.25 + 0.10 = 0.35
+   \]
+
+   The cashier can give Mark $0.35 using the quarter and the dime.
+
+4. Now, we subtract this amount from the total change Mark should receive ($0.75):
+   \[
+   0.75 - 0.35 = 0.40
+   \]
+
+   Therefore, after giving Mark $0.35, the cashier still needs to give him $0.40.
+
+5. Since the cashier can only give nickels to cover the remaining change, we need to find out how many nickels make up $0.40:
+   - Each nickel is worth $0.05.
+
+   To find the number of nickels, we divide the remaining change by the value of a nickel:
+   \[
+   0.40 \div 0.05 = 8
+   \]
+
+   Therefore, the cashier will give Mark 8 nickels as part of his change.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the problem**: We need to find a number (let's call it \( x \)) such that when it is multiplied by 3, it equals three less than twice 51.
+
+2. **Setting up the equation**: 
+   - First, let's calculate twice 51. 
+   \[
+   2 \times 51 = 102
+   \]
+   - Now, according to the information given, we need to find what three less than 102 is:
+   \[
+   102 - 3 = 99
+   \]
+   - Therefore, we can express the problem in an equation: 
+   \[
+   3x = 99
+   \]
+
+3. **Solving for \( x \)**: 
+   - To find \( x \), we will divide both sides of the equation by 3:
+   \[
+   x = \frac{99}{3}
+   \]
+   \[
+   x = 33
+   \]
+
+4. **Conclusion**: We have found that the number Armand's dad is thinking of is 33.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>33</answer>

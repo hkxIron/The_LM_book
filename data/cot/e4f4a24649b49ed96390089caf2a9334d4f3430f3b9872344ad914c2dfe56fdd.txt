@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of baskets Alex made.**
+   - According to the problem, Alex made 8 baskets.
+
+2. **Calculate the number of baskets Sandra made.**
+   - The problem states that Sandra made three times as many baskets as Alex. 
+   - So, we calculate Sandra's baskets as:
+     \[
+     \text{Sandra's baskets} = 3 \times \text{Alex's baskets} = 3 \times 8 = 24
+     \]
+
+3. **Calculate the number of baskets Hector made.**
+   - The problem indicates that Hector made two times the number of baskets that Sandra made.
+   - Therefore, we calculate Hector's baskets as:
+     \[
+     \text{Hector's baskets} = 2 \times \text{Sandra's baskets} = 2 \times 24 = 48
+     \]
+
+4. **Calculate the total number of baskets made by Alex, Sandra, and Hector.**
+   - Now, we add the number of baskets made by each person to find the total:
+     \[
+     \text{Total baskets} = \text{Alex's baskets} + \text{Sandra's baskets} + \text{Hector's baskets}
+     \]
+     \[
+     \text{Total baskets} = 8 + 24 + 48
+     \]
+
+5. **Perform the final addition.**
+   - Adding these together:
+     \[
+     8 + 24 = 32
+     \]
+     \[
+     32 + 48 = 80
+     \]
+
+Thus, the total number of baskets made by Alex, Sandra, and Hector is 80.
+</reasoning>
+<answer>80</answer>

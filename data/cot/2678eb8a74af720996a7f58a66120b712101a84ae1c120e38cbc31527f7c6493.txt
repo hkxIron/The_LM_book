@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we start by determining how many cats Susan has after giving some to Robert.
+
+1. **Calculate Susan's remaining cats after giving 4 to Robert:**
+   - Initially, Susan has 21 cats.
+   - She gives away 4 cats to Robert.
+   - To find out how many cats she has now, we subtract the 4 cats from her initial total:
+     \[
+     21 - 4 = 17
+     \]
+   - So, now Susan has 17 cats.
+
+2. **Determine how many cats Bob has:**
+   - Bob initially has 3 cats.
+   - Since the problem states that Susan gives cats to Robert (not Bob), Bob's number of cats does not change.
+   - Therefore, Bob still has 3 cats.
+
+3. **Calculate how many more cats Susan has than Bob:**
+   - We need to find the difference between the number of cats Susan has and the number of cats Bob has.
+   - We subtract Bob's number of cats from Susan's number of cats:
+     \[
+     17 - 3 = 14
+     \]
+
+Thus, Susan has 14 more cats than Bob.
+</reasoning>
+<answer>14</answer>

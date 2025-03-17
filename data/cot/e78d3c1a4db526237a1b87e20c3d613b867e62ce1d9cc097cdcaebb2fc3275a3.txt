@@ -1,0 +1,24 @@
+<reasoning>
+Let's start by determining how many roses Ricky has left after his little sister steals some.
+
+1. **Calculate the number of roses left after the theft:**
+   Ricky originally has 40 roses, and his sister steals 4 roses. To find how many roses are left, we subtract the number of stolen roses from the total number of roses he had.
+
+   \[
+   40 - 4 = 36
+   \]
+
+   So, Ricky has 36 roses left.
+
+2. **Divide the remaining roses among 9 people:**
+   Now, Ricky wants to give away these 36 roses equally to 9 different people. To find out how many roses each person gets, we divide the total number of roses by the number of people.
+
+   \[
+   \frac{36}{9} = 4
+   \]
+
+   Each person will receive 4 roses.
+
+Therefore, Ricky can give each of the 9 people 4 roses.
+</reasoning>
+<answer>4</answer>

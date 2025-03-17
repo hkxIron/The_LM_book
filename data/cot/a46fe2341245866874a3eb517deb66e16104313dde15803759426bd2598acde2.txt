@@ -1,0 +1,51 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total cost of the quiches**: 
+   Silvia orders 2 quiches at $15.00 each. 
+   \[
+   \text{Total for quiches} = 2 \times 15 = 30 \text{ dollars}
+   \]
+
+2. **Calculate the total cost of the croissants**: 
+   Silvia orders 6 croissants at $3.00 each.
+   \[
+   \text{Total for croissants} = 6 \times 3 = 18 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of the buttermilk biscuits**: 
+   Silvia orders 6 buttermilk biscuits at $2.00 each.
+   \[
+   \text{Total for biscuits} = 6 \times 2 = 12 \text{ dollars}
+   \]
+
+4. **Add up all the costs**: 
+   Now we will add the totals from quiches, croissants, and biscuits to get the overall total before any discount.
+   \[
+   \text{Total order cost} = \text{Total for quiches} + \text{Total for croissants} + \text{Total for biscuits}
+   \]
+   \[
+   \text{Total order cost} = 30 + 18 + 12 = 60 \text{ dollars}
+   \]
+
+5. **Check if the order qualifies for the discount**: 
+   Since Silvia's total order cost is $60.00 and the bakery offers a 10% discount on orders over $50.00, she qualifies for the discount.
+
+6. **Calculate the discount amount**: 
+   The discount is 10% of the total order cost.
+   \[
+   \text{Discount} = 0.10 \times 60 = 6 \text{ dollars}
+   \]
+
+7. **Calculate the final total after the discount**: 
+   We subtract the discount from the total order cost.
+   \[
+   \text{Final total} = \text{Total order cost} - \text{Discount}
+   \]
+   \[
+   \text{Final total} = 60 - 6 = 54 \text{ dollars}
+   \]
+
+Therefore, the final total amount that Silvia has to pay after the discount is applied is $54.00.
+</reasoning>
+<answer>54</answer>

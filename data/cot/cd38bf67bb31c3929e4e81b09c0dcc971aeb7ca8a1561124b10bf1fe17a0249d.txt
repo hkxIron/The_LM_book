@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we'll break it down into several steps: calculating the total cost of printing the essays, determining the total cost of the pens, adding these costs together, and finally, figuring out how much change Jenny should receive after making her payment.
+
+1. **Calculate the cost to print the essays:**
+   - Each page costs $0.10 to print.
+   - Jenny's essay is 25 pages long, so the cost to print one copy of her essay is:
+     \[
+     25 \text{ pages} \times 0.10 \text{ dollars/page} = 2.50 \text{ dollars}
+     \]
+   - Since she wants to print 7 copies, the total cost for printing 7 copies is:
+     \[
+     7 \text{ copies} \times 2.50 \text{ dollars/copy} = 17.50 \text{ dollars}
+     \]
+
+2. **Calculate the cost of the pens:**
+   - Each pen costs $1.50, and she wants to buy 7 pens. Therefore, the total cost for the pens is:
+     \[
+     7 \text{ pens} \times 1.50 \text{ dollars/pen} = 10.50 \text{ dollars}
+     \]
+
+3. **Calculate the total cost:**
+   - Now, we add the total cost of printing the essays and the cost of the pens together:
+     \[
+     17.50 \text{ dollars} + 10.50 \text{ dollars} = 28.00 \text{ dollars}
+     \]
+
+4. **Calculate how much money she pays and how much change she should get:**
+   - Jenny pays with 2 twenty dollar bills, which totals:
+     \[
+     2 \times 20 \text{ dollars} = 40 \text{ dollars}
+     \]
+   - To find out how much change she should receive, we subtract the total cost from the amount she paid:
+     \[
+     40 \text{ dollars} - 28 \text{ dollars} = 12 \text{ dollars}
+     \]
+
+Therefore, Jenny should receive $12 in change.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+To determine how many tablespoons of soap the mother should add to the container, we first need to understand the total capacity of the container in cups, since the recipe is given in tablespoons of soap per cup of water.
+
+1. **Convert the capacity of the container from ounces to cups**:
+   - The container holds 40 ounces.
+   - We know that there are 8 ounces in 1 cup.
+   - To convert ounces to cups, we will divide the total ounces by the number of ounces in a cup:
+     \[
+     \text{Cups} = \frac{\text{Ounces}}{8} = \frac{40}{8} = 5 \text{ cups}
+     \]
+   Therefore, the container can hold 5 cups of liquid.
+
+2. **Determine the amount of soap needed for 5 cups of water**:
+   - The recipe calls for 3 tablespoons of soap for every 1 cup of water.
+   - To find out how much soap is needed for 5 cups of water, we will multiply the number of cups by the number of tablespoons of soap per cup:
+     \[
+     \text{Tablespoons of soap} = 5 \text{ cups} \times 3 \text{ tablespoons/cup} = 15 \text{ tablespoons}
+     \]
+
+Therefore, the mother should add 15 tablespoons of soap to the container.
+</reasoning>
+<answer>15</answer>

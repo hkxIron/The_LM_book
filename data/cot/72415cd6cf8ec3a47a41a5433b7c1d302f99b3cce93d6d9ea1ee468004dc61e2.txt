@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we will break it down into steps to find out how many volcanoes remain intact at the end of the year.
+
+1. **Calculate the number of volcanoes that exploded in the first two months:**
+   We know there are 200 active volcanoes, and 20% of them exploded in the first two months.
+   \[
+   20\% \text{ of } 200 = \frac{20}{100} \times 200 = 40
+   \]
+
+2. **Determine the remaining volcanoes after the first two months:**
+   After 40 volcanoes have exploded, we subtract this from the original total.
+   \[
+   200 - 40 = 160
+   \]
+
+3. **Calculate the number of volcanoes that exploded by the halfway point of the year:**
+   Now, 40% of the remaining 160 volcanoes exploded by the half of the year.
+   \[
+   40\% \text{ of } 160 = \frac{40}{100} \times 160 = 64
+   \]
+
+4. **Determine the remaining volcanoes after the halfway point:**
+   We subtract the 64 that exploded from the remaining 160.
+   \[
+   160 - 64 = 96
+   \]
+
+5. **Calculate the number of volcanoes that exploded by the end of the year:**
+   At the end of the year, another 50% of the remaining 96 volcanoes exploded.
+   \[
+   50\% \text{ of } 96 = \frac{50}{100} \times 96 = 48
+   \]
+
+6. **Determine the final count of intact volcanoes:**
+   Finally, we subtract the 48 that exploded from the remaining 96.
+   \[
+   96 - 48 = 48
+   \]
+
+Therefore, at the end of the year, there are 48 volcanoes that remain intact.
+</reasoning>
+<answer>48</answer>

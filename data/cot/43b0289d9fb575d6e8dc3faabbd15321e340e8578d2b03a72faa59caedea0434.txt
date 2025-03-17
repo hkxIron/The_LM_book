@@ -1,0 +1,30 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **John receives $100 from his uncle**: This means initially, John has $100.
+
+2. **John gives his sister Jenna 1/4 of that money**: To find out how much John gives to Jenna, we need to calculate 1/4 of $100.
+   - Calculation: 
+     \[
+     \text{Amount given to Jenna} = \frac{1}{4} \times 100 = 25
+     \]
+   - So, John gives Jenna $25.
+
+3. **Calculating John's remaining money after giving to Jenna**: 
+   - After giving Jenna $25, we subtract that from John's initial amount of $100. 
+   - Calculation: 
+     \[
+     \text{Remaining money} = 100 - 25 = 75
+     \]
+   - Now, John has $75 left.
+
+4. **John buys groceries worth $40**: We need to subtract the cost of groceries from John's remaining money. 
+   - Calculation: 
+     \[
+     \text{Money after groceries} = 75 - 40 = 35
+     \]
+   - After buying groceries, John has $35 left.
+
+Therefore, John's remaining money after all transactions is $35.
+</reasoning>
+<answer>35</answer>

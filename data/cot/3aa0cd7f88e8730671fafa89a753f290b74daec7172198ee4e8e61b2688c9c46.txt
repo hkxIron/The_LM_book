@@ -1,0 +1,31 @@
+<reasoning>
+Let's define the number of black socks Andy has, which is given as 6. 
+
+1. **Identify the number of white socks**:
+   Since Andy has 4 times as many white socks as black socks, we can calculate the number of white socks he has by multiplying the number of black socks by 4.
+   \[
+   \text{Number of white socks} = 4 \times \text{Number of black socks} = 4 \times 6 = 24
+   \]
+   So, Andy has 24 white socks.
+
+2. **Calculate the number of white socks after losing half**:
+   If Andy loses half of his white socks, we can find out how many white socks he loses and then how many he has left. 
+   \[
+   \text{White socks lost} = \frac{1}{2} \times \text{Number of white socks} = \frac{1}{2} \times 24 = 12
+   \]
+   Now, we subtract the lost white socks from the total number of white socks.
+   \[
+   \text{Remaining white socks} = \text{Number of white socks} - \text{White socks lost} = 24 - 12 = 12
+   \]
+   Therefore, after losing half, Andy has 12 white socks remaining.
+
+3. **Compare the number of remaining white socks to black socks**:
+   Now, we need to find out how many more white socks Andy has than black socks.
+   \[
+   \text{Difference} = \text{Remaining white socks} - \text{Number of black socks} = 12 - 6 = 6
+   \]
+   This means that Andy has 6 more white socks than black socks.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6</answer>

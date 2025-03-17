@@ -1,0 +1,53 @@
+<reasoning>
+Let's denote the weights of the bars as follows:
+- Mass of the tin bar = \( x \) kg
+- Mass of the steel bar = \( 2x \) kg (since it weighs twice the mass of the tin bar)
+- Mass of the copper bar = 90 kg (as given)
+
+Next, we know that the steel bar weighs 20 kg more than the copper bar. Therefore, we can set up the following equation:
+
+\[ 2x = 90 + 20 \]
+
+Now, let's solve for \( x \):
+
+1. First, calculate the right-hand side:
+   \[ 2x = 110 \]
+
+2. Next, divide both sides by 2 to find \( x \):
+   \[ x = 55 \]
+
+Now that we have the mass of the tin bar, we can find the mass of the steel bar:
+
+\[ \text{Mass of steel bar} = 2x = 2(55) = 110 \text{ kg} \]
+
+Now we have:
+- Mass of tin bar = 55 kg
+- Mass of steel bar = 110 kg
+- Mass of copper bar = 90 kg
+
+Next, we need to calculate the total weight of a container with 20 bars of each type of metal. 
+
+1. Calculate the total weight of 20 tin bars:
+   \[ 20 \text{ tin bars} = 20 \times 55 = 1100 \text{ kg} \]
+
+2. Calculate the total weight of 20 steel bars:
+   \[ 20 \text{ steel bars} = 20 \times 110 = 2200 \text{ kg} \]
+
+3. Calculate the total weight of 20 copper bars:
+   \[ 20 \text{ copper bars} = 20 \times 90 = 1800 \text{ kg} \]
+
+Now, add the weights of all the bars together to find the total weight in the container:
+
+\[ \text{Total weight} = 1100 + 2200 + 1800 \]
+
+Calculating that gives:
+
+1. First, add the weight of the tin and steel bars:
+   \[ 1100 + 2200 = 3300 \]
+
+2. Now, add the weight of the copper bars:
+   \[ 3300 + 1800 = 5100 \]
+
+Thus, the total weight of the container with 20 bars of each type of metal is:
+</reasoning>
+<answer>5100</answer>

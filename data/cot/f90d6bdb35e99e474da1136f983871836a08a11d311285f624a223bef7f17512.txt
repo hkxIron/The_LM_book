@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify Roberto's starting salary**: We know that Roberto's starting salary is $80,000.
+
+2. **Calculate the previous salary**: Roberto's previous salary was 40% higher than his starting salary. To find this, we need to calculate 40% of the starting salary and then add it to the starting salary.
+
+   \[
+   40\% \text{ of } 80,000 = 0.40 \times 80,000 = 32,000
+   \]
+
+   Now, we add this amount to the starting salary to find the previous salary:
+
+   \[
+   \text{Previous Salary} = \text{Starting Salary} + 40\% \text{ of Starting Salary} = 80,000 + 32,000 = 112,000
+   \]
+
+3. **Calculate the current salary after the raise**: Roberto received a 20% raise on his previous salary. To find this, we first calculate 20% of the previous salary.
+
+   \[
+   20\% \text{ of } 112,000 = 0.20 \times 112,000 = 22,400
+   \]
+
+   Now, we add the raise to the previous salary to find the current salary:
+
+   \[
+   \text{Current Salary} = \text{Previous Salary} + 20\% \text{ of Previous Salary} = 112,000 + 22,400 = 134,400
+   \]
+
+Thus, after calculating both the previous salary and the raise, we find that Roberto's current salary is $134,400.
+</reasoning>
+<answer>134400</answer>

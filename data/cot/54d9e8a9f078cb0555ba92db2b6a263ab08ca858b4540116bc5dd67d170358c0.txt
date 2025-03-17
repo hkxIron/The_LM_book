@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many boxes of eggs Ms. Mosel fills each week, we will follow these steps:
+
+1. **Calculate the total number of eggs laid by the hens each day.**
+   - There are 270 hens, and each hen lays one egg every morning. Therefore, the total number of eggs laid each day is:
+     \[
+     \text{Total eggs per day} = \text{Number of hens} = 270
+     \]
+
+2. **Determine how many eggs are collected in a week.**
+   - Since Ms. Mosel collects eggs every day from Monday to Sunday, we need to calculate the total number of eggs collected in one week (7 days):
+     \[
+     \text{Total eggs per week} = \text{Total eggs per day} \times \text{Number of days in a week} = 270 \times 7
+     \]
+   - Calculating this gives:
+     \[
+     270 \times 7 = 1890
+     \]
+
+3. **Calculate how many boxes of eggs can be filled with the total number of eggs.**
+   - Ms. Mosel puts the eggs in boxes of 6. To find out how many boxes are filled, we divide the total number of eggs by the number of eggs per box:
+     \[
+     \text{Number of boxes} = \frac{\text{Total eggs per week}}{\text{Number of eggs per box}} = \frac{1890}{6}
+     \]
+   - Performing this division:
+     \[
+     1890 \div 6 = 315
+     \]
+
+Thus, the total number of boxes Ms. Mosel fills each week is 315.
+</reasoning>
+<answer>315</answer>

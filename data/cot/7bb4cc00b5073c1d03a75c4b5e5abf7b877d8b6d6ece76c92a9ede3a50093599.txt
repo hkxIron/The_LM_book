@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Sasha's rate of completing questions**: Sasha can complete 15 questions in one hour.
+
+2. **Calculate the total number of questions she can complete in 2 hours**: 
+   - Since she completes 15 questions per hour, we multiply her rate by the number of hours she works:
+   \[
+   15 \text{ questions/hour} \times 2 \text{ hours} = 30 \text{ questions}
+   \]
+   This means Sasha can complete 30 questions in 2 hours.
+
+3. **Determine the total number of questions she started with**: Sasha has a total of 60 questions to complete.
+
+4. **Calculate how many questions she has left to complete**:
+   - We subtract the number of questions she has completed from the total number of questions:
+   \[
+   60 \text{ questions} - 30 \text{ questions} = 30 \text{ questions}
+   \]
+   This means she still needs to complete 30 questions.
+
+Therefore, after working for 2 hours, Sasha has 30 questions left to complete.
+</reasoning>
+<answer>30</answer>

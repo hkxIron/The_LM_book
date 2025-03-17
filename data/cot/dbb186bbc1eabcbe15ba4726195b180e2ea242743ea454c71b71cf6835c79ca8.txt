@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify what we know**: 
+   - Ashley started with 12 balloons already blown up.
+   - Andy blew up balloons at a rate of 2 balloons every 5 minutes.
+   - The total number of balloons at the end was 50.
+
+2. **Calculate the total number of balloons blown up by Andy**:
+   - We know that there were 50 balloons in total when Andy stopped.
+   - Since Ashley had already blown up 12 balloons, we can find out how many balloons Andy blew up by subtracting the number of balloons Ashley blew up from the total:
+
+   \[
+   \text{Balloons blown up by Andy} = \text{Total balloons} - \text{Balloons blown up by Ashley} = 50 - 12 = 38
+   \]
+
+3. **Determine the number of balloons Andy blows up per minute**:
+   - Andy blows up 2 balloons every 5 minutes. To find out how many balloons he blows up in one minute, we can set up the following calculation:
+
+   \[
+   \text{Balloons per minute} = \frac{2 \text{ balloons}}{5 \text{ minutes}} = 0.4 \text{ balloons per minute}
+   \]
+
+4. **Calculate the total time Andy spent blowing up balloons**:
+   - We know Andy blew up 38 balloons. To find out how long it took him, we can use the following formula:
+
+   \[
+   \text{Time (minutes)} = \frac{\text{Total balloons blown up by Andy}}{\text{Balloons per minute}} = \frac{38 \text{ balloons}}{0.4 \text{ balloons per minute}}
+   \]
+
+   - Now, performing the division:
+
+   \[
+   \text{Time (minutes)} = 38 \div 0.4 = 95 \text{ minutes}
+   \]
+
+Thus, we have determined that Andy blew up balloons for 95 minutes.
+</reasoning>
+<answer>95</answer>

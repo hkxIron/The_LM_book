@@ -1,0 +1,35 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine how many pencils Clare bought**: 
+   - Jeanine bought 18 pencils.
+   - Clare bought half as many pencils as Jeanine. 
+   To calculate Clare's pencils, we can use the formula:
+   \[
+   \text{Clare's pencils} = \frac{1}{2} \times \text{Jeanine's pencils} = \frac{1}{2} \times 18 = 9
+   \]
+   So, Clare bought 9 pencils.
+
+2. **Calculate how many pencils Jeanine gave to Abby**:
+   - Jeanine gave one third of his pencils to Abby.
+   To find out how many pencils that is, we use the formula:
+   \[
+   \text{Pencils given to Abby} = \frac{1}{3} \times \text{Jeanine's pencils} = \frac{1}{3} \times 18 = 6
+   \]
+   Therefore, Jeanine gave away 6 pencils.
+
+3. **Determine how many pencils Jeanine has left**:
+   - After giving away 6 pencils, we need to find out how many pencils Jeanine has left. This can be calculated by subtracting the pencils given away from the original number of pencils:
+   \[
+   \text{Jeanine's remaining pencils} = \text{Jeanine's original pencils} - \text{Pencils given to Abby} = 18 - 6 = 12
+   \]
+   So, Jeanine has 12 pencils left.
+
+4. **Calculate how many more pencils Jeanine has than Clare**:
+   - Now we need to find the difference in the number of pencils between Jeanine and Clare. We can do this by subtracting the number of pencils Clare has from the number of pencils Jeanine has:
+   \[
+   \text{Difference} = \text{Jeanine's remaining pencils} - \text{Clare's pencils} = 12 - 9 = 3
+   \]
+   Therefore, Jeanine has 3 more pencils than Clare.
+</reasoning>
+<answer>3</answer>

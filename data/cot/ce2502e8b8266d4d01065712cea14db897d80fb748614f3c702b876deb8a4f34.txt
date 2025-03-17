@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much Fern pays in total, we need to calculate the cost of both the high heels and the ballet slippers. 
+
+1. **Calculate the cost of the ballet slippers.**  
+   The price of one pair of ballet slippers is given as \( \frac{2}{3} \) of the price of the high heels. Since the high heels cost $60, we can calculate the price of one pair of ballet slippers as follows:
+
+   \[
+   \text{Price of one pair of ballet slippers} = \frac{2}{3} \times 60
+   \]
+
+   Now, performing the multiplication:
+   
+   \[
+   \frac{2 \times 60}{3} = \frac{120}{3} = 40
+   \]
+
+   Thus, each pair of ballet slippers costs $40.
+
+2. **Calculate the total cost of the five pairs of ballet slippers.**  
+   Since Fern buys five pairs, we multiply the price of one pair by the number of pairs:
+
+   \[
+   \text{Total cost for ballet slippers} = 5 \times 40 = 200
+   \]
+
+3. **Calculate the total cost for both the high heels and the ballet slippers.**  
+   Now, we need to add the cost of the high heels to the total cost of the ballet slippers:
+
+   \[
+   \text{Total cost} = \text{Cost of high heels} + \text{Total cost of ballet slippers}
+   \]
+   \[
+   = 60 + 200 = 260
+   \]
+
+Therefore, Fern pays a total of $260.
+</reasoning>
+<answer>260</answer>

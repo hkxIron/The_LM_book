@@ -1,0 +1,56 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of siblings Masud has**:
+   - We know from the problem that Masud has 60 siblings.
+   - So, \( M = 60 \) (where \( M \) represents the number of siblings Masud has).
+
+2. **Calculate the number of siblings Janet has**:
+   - The problem states that Janet has 60 less than four times as many siblings as Masud.
+   - Therefore, the expression for Janet's siblings (\( J \)) is:
+     \[
+     J = 4M - 60
+     \]
+   - Substituting \( M \) with 60:
+     \[
+     J = 4(60) - 60
+     \]
+   - Calculate \( 4 \times 60 = 240 \):
+     \[
+     J = 240 - 60
+     \]
+   - Thus, \( J = 180 \). This means Janet has 180 siblings.
+
+3. **Calculate the number of siblings Carlos has**:
+   - The problem states that Carlos has \( \frac{3}{4} \) times as many siblings as Masud.
+   - Therefore, we can express Carlos's siblings (\( C \)) as:
+     \[
+     C = \frac{3}{4}M
+     \]
+   - Substituting \( M \) with 60:
+     \[
+     C = \frac{3}{4}(60)
+     \]
+   - Calculate \( \frac{3 \times 60}{4} = \frac{180}{4} = 45 \):
+     \[
+     C = 45
+     \]
+   - So, Carlos has 45 siblings.
+
+4. **Determine how many more siblings Janet has compared to Carlos**:
+   - We now need to find the difference in the number of siblings between Janet and Carlos:
+     \[
+     \text{Difference} = J - C
+     \]
+   - Substituting the values we found:
+     \[
+     \text{Difference} = 180 - 45
+     \]
+   - Calculate \( 180 - 45 = 135 \):
+     \[
+     \text{Difference} = 135
+     \]
+
+Therefore, Janet has 135 more siblings than Carlos.
+</reasoning>
+<answer>135</answer>

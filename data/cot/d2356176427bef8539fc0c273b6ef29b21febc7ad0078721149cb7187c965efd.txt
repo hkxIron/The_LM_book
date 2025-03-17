@@ -1,0 +1,16 @@
+<reasoning>
+To find out how long it will take Roger to reach his goal of 10,000 steps, we can follow these steps:
+
+1. **Determine Roger's step rate**: We know that Roger walks 2,000 steps in 30 minutes. To find his rate in steps per minute, we divide the total number of steps by the total time in minutes.
+   \[
+   \text{Step rate} = \frac{2000 \text{ steps}}{30 \text{ minutes}} = \frac{2000}{30} \approx 66.67 \text{ steps per minute}
+   \]
+
+2. **Calculate the total time needed for 10,000 steps**: Now that we know his step rate, we can calculate how long it will take for him to walk 10,000 steps. We do this by dividing the total number of steps he wants to achieve by his rate.
+   \[
+   \text{Time (in minutes)} = \frac{10000 \text{ steps}}{66.67 \text{ steps per minute}} \approx 150 \text{ minutes}
+   \]
+
+Therefore, it will take Roger approximately 150 minutes to reach his goal of 10,000 steps.
+</reasoning>
+<answer>150</answer>

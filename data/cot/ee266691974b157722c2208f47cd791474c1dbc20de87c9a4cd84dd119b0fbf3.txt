@@ -1,0 +1,45 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the total number of water bottles Lilith originally had.**
+   - Lilith had five dozen water bottles. One dozen equals 12, so:
+   \[
+   5 \text{ dozen} = 5 \times 12 = 60 \text{ water bottles.}
+   \]
+
+2. **Calculate how much money Lilith originally planned to make by selling the water bottles at $2 each.**
+   - If she sold each water bottle for $2, the total amount of money she expected to earn would be:
+   \[
+   \text{Total money} = 60 \text{ bottles} \times 2 \text{ dollars/bottle} = 120 \text{ dollars.}
+   \]
+
+3. **Calculate how much money Lilith will actually make by selling the water bottles at the reduced price of $1.85 each.**
+   - If the price is reduced to $1.85, the total money she will earn is:
+   \[
+   \text{Total money} = 60 \text{ bottles} \times 1.85 \text{ dollars/bottle} = 111 \text{ dollars.}
+   \]
+   - To calculate this, we can do the multiplication:
+   \[
+   60 \times 1.85 = 60 \times (1.80 + 0.05) = 60 \times 1.80 + 60 \times 0.05.
+   \]
+   - Calculating each part:
+   \[
+   60 \times 1.80 = 108 \text{ dollars,}
+   \]
+   \[
+   60 \times 0.05 = 3 \text{ dollars.}
+   \]
+   - Adding these two results gives:
+   \[
+   108 + 3 = 111 \text{ dollars.}
+   \]
+
+4. **Calculate how much more money Lilith needs to buy her friend's birthday gift.**
+   - Initially, she needed $120, but now she will only have $111. The difference is:
+   \[
+   \text{Amount needed} = 120 \text{ dollars} - 111 \text{ dollars} = 9 \text{ dollars.}
+   \]
+
+Therefore, after selling her water bottles at the reduced cost, Lilith will need an additional $9 to buy her friend's birthday gift.
+</reasoning>
+<answer>9</answer>

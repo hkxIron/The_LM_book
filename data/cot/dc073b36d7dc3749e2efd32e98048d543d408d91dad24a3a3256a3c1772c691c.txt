@@ -1,0 +1,33 @@
+<reasoning>
+To find out what the last student needs to score in order for the class average to be at least 85, we can follow these steps:
+
+1. **Calculate the total score needed for an average of 85**:
+   Since there are 10 students, to find the total score needed for an average of 85, we multiply the average score by the number of students:
+   \[
+   \text{Total score needed} = \text{Average score} \times \text{Number of students} = 85 \times 10 = 850
+   \]
+
+2. **Calculate the total score of the first 9 students**:
+   We have 5 students who scored 92 and 4 students who scored 80. We calculate the total score for these students:
+   - The total score of the 5 students who scored 92:
+     \[
+     5 \times 92 = 460
+     \]
+   - The total score of the 4 students who scored 80:
+     \[
+     4 \times 80 = 320
+     \]
+   - Now, we add these two totals to find the total score of the first 9 students:
+     \[
+     \text{Total score of first 9 students} = 460 + 320 = 780
+     \]
+
+3. **Determine the score needed for the last student**:
+   We need to find out what the last student needs to score to reach the total score of 850 required for an average of 85. We can do this by subtracting the total score of the first 9 students from the total score needed:
+   \[
+   \text{Score needed by last student} = \text{Total score needed} - \text{Total score of first 9 students} = 850 - 780 = 70
+   \]
+
+Thus, the last student must score at least 70 to ensure the class average is at least 85.
+</reasoning>
+<answer>70</answer>

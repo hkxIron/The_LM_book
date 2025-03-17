@@ -1,0 +1,45 @@
+<reasoning>
+To solve the problem, we will go through the following steps:
+
+1. **Calculate the total money Sam has initially.**
+   - Sam has 19 dimes and 6 quarters.
+   - Each dime is worth 10 cents, so the total value of the dimes is:
+     \[
+     19 \text{ dimes} \times 10 \text{ cents/dime} = 190 \text{ cents}
+     \]
+   - Each quarter is worth 25 cents, so the total value of the quarters is:
+     \[
+     6 \text{ quarters} \times 25 \text{ cents/quarter} = 150 \text{ cents}
+     \]
+   - Now, we add the total value of the dimes and quarters to find Sam's initial total:
+     \[
+     190 \text{ cents} + 150 \text{ cents} = 340 \text{ cents}
+     \]
+
+2. **Calculate the total cost of the candy bars and lollipop.**
+   - Sam buys 4 candy bars, each costing 3 dimes. The total cost for the candy bars is:
+     \[
+     4 \text{ candy bars} \times 3 \text{ dimes/candy bar} = 12 \text{ dimes}
+     \]
+   - Converting dimes to cents for the candy bars:
+     \[
+     12 \text{ dimes} \times 10 \text{ cents/dime} = 120 \text{ cents}
+     \]
+   - Sam also buys 1 lollipop for 1 quarter. The cost of the lollipop in cents is:
+     \[
+     1 \text{ quarter} \times 25 \text{ cents/quarter} = 25 \text{ cents}
+     \]
+   - Now, we add the total costs of the candy bars and the lollipop:
+     \[
+     120 \text{ cents} + 25 \text{ cents} = 145 \text{ cents}
+     \]
+
+3. **Calculate how much money Sam has left after her purchases.**
+   - We subtract the total cost of the candy bars and lollipop from her initial amount:
+     \[
+     340 \text{ cents} - 145 \text{ cents} = 195 \text{ cents}
+     \]
+
+Thus, after all calculations, we find that Sam has 195 cents left.
+</reasoning>
+<answer>195</answer>

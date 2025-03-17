@@ -1,0 +1,39 @@
+<reasoning>
+To find the total number of episodes of the show Magic King, we first need to break down the information about the seasons and episodes.
+
+1. **Identify the number of seasons and episodes per season**:
+   - The show has a total of 10 seasons.
+   - The first half of the seasons is 5 seasons (since 10 seasons divided by 2 equals 5).
+   - The first half has 20 episodes per season.
+   - The second half also consists of 5 seasons, which have 25 episodes per season.
+
+2. **Calculate the total number of episodes for the first half**:
+   - For the first 5 seasons, with 20 episodes each, the total number of episodes can be calculated as follows:
+   \[
+   \text{Total episodes in the first half} = \text{Number of seasons} \times \text{Episodes per season}
+   \]
+   \[
+   \text{Total episodes in the first half} = 5 \text{ seasons} \times 20 \text{ episodes/season} = 100 \text{ episodes}
+   \]
+
+3. **Calculate the total number of episodes for the second half**:
+   - For the second 5 seasons, with 25 episodes each, we proceed similarly:
+   \[
+   \text{Total episodes in the second half} = \text{Number of seasons} \times \text{Episodes per season}
+   \]
+   \[
+   \text{Total episodes in the second half} = 5 \text{ seasons} \times 25 \text{ episodes/season} = 125 \text{ episodes}
+   \]
+
+4. **Combine the totals from both halves**:
+   - Now, we add the total episodes from both halves to get the overall total:
+   \[
+   \text{Total episodes} = \text{Total episodes in the first half} + \text{Total episodes in the second half}
+   \]
+   \[
+   \text{Total episodes} = 100 \text{ episodes} + 125 \text{ episodes} = 225 \text{ episodes}
+   \]
+
+Therefore, after calculating both halves and adding them together, we find the total number of episodes for the show Magic King.
+</reasoning>
+<answer>225</answer>

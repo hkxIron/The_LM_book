@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many kilos of newspapers the Grade 4 sections are aiming to collect, we can start by calculating the total amount of newspapers collected by all six sections after two weeks.
+
+1. **Calculate the total collected after two weeks**:
+   Each section collected 280 kilos. Since there are 6 sections, we multiply 280 kilos by 6.
+   \[
+   \text{Total collected} = 280 \text{ kilos/section} \times 6 \text{ sections} = 1680 \text{ kilos}
+   \]
+   Here, we are determining the total amount collected by all sections within the first two weeks.
+
+2. **Determine how much more is needed**:
+   According to the problem, after the third week, they found they need 320 kilos more to reach their target. Therefore, we need to add this additional requirement to the total collected so far.
+   \[
+   \text{Target} = \text{Total collected} + \text{Additional required}
+   \]
+   Plugging in the values we found:
+   \[
+   \text{Target} = 1680 \text{ kilos} + 320 \text{ kilos} = 2000 \text{ kilos}
+   \]
+   Here, we are summing the amount they've collected so far with the amount needed to meet their goal.
+
+Therefore, the target amount of newspapers that the Grade 4 sections are aiming to collect is 2000 kilos.
+</reasoning>
+<answer>2000</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of tables and the fish distribution**: We know there are 32 tables in total. Most tables have 2 fish, but one specific table has 3 fish.
+
+2. **Calculate the number of tables with 2 fish**: Since only one table has 3 fish, the remaining tables (which is 32 - 1 = 31 tables) each have 2 fish.
+
+3. **Calculate the number of fish from the tables with 2 fish**:
+   - For the 31 tables with 2 fish each, the total number of fish is:
+   \[
+   31 \text{ tables} \times 2 \text{ fish/table} = 62 \text{ fish}
+   \]
+
+4. **Add the fish from the table with 3 fish**: Now we need to add the 3 fish from the one special table:
+   \[
+   62 \text{ fish} + 3 \text{ fish} = 65 \text{ fish}
+   \]
+
+Now, let's summarize everything:
+- There are 31 tables with 2 fish each giving us 62 fish.
+- Plus, there is 1 table with 3 fish.
+- Therefore, the total number of fish is 65.
+</reasoning>
+<answer>65</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Determine how many sweets the mother kept**: The mother kept 1/3 of the sweets from the box. Since there are 27 sweets in total, we calculate the amount she kept:
+   
+   \[
+   \text{Sweets kept by mother} = \frac{1}{3} \times 27 = 9 \text{ sweets}
+   \]
+
+   This means that the number of sweets remaining to be divided among the children is:
+   
+   \[
+   \text{Sweets left for children} = 27 - 9 = 18 \text{ sweets}
+   \]
+
+2. **Divide the remaining sweets among the children**: The sweets are divided between the three children. We know that the eldest child received 8 sweets and the youngest child received half as many:
+   
+   \[
+   \text{Youngest child sweets} = \frac{1}{2} \times 8 = 4 \text{ sweets}
+   \]
+
+3. **Calculate the total sweets received by the eldest and youngest**: Now, we add the sweets received by the eldest and youngest children:
+   
+   \[
+   \text{Total sweets (eldest + youngest)} = 8 + 4 = 12 \text{ sweets}
+   \]
+
+4. **Determine how many sweets are left for the second child**: Since a total of 18 sweets were divided among the three children, we can find the number of sweets the second child received by subtracting the total received by the eldest and youngest from the total sweets available for them:
+   
+   \[
+   \text{Sweets for second child} = 18 - 12 = 6 \text{ sweets}
+   \]
+
+Therefore, the second child received 6 sweets.
+</reasoning>
+<answer>6</answer>

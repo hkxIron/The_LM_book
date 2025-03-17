@@ -1,0 +1,47 @@
+<reasoning>
+First, let's calculate the total cost of the items Jeremy bought.
+
+1. **Calculate the cost of the jerseys**:
+   Jeremy bought 5 jerseys at a cost of $2 each. 
+   To find the total cost of the jerseys, we multiply the number of jerseys by the cost per jersey:
+   \[
+   \text{Total cost of jerseys} = 5 \times 2 = 10
+   \]
+
+2. **Cost of the basketball**:
+   The basketball costs $18. 
+   So, we have:
+   \[
+   \text{Cost of basketball} = 18
+   \]
+
+3. **Cost of the shorts**:
+   The pair of shorts costs $8. 
+   Therefore:
+   \[
+   \text{Cost of shorts} = 8
+   \]
+
+4. **Calculate the total cost of all items**:
+   Now, we will add up the costs of all the items Jeremy bought:
+   \[
+   \text{Total cost} = \text{Cost of jerseys} + \text{Cost of basketball} + \text{Cost of shorts}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Total cost} = 10 + 18 + 8 = 36
+   \]
+
+5. **Calculate how much money Jeremy has left**:
+   Jeremy started with $50. To find out how much he has left after his purchases, we subtract the total cost from the initial amount:
+   \[
+   \text{Money left} = \text{Initial amount} - \text{Total cost}
+   \]
+   Substituting the values:
+   \[
+   \text{Money left} = 50 - 36 = 14
+   \]
+
+Therefore, after spending on basketball equipment, Jeremy has $14 left.
+</reasoning>
+<answer>14</answer>

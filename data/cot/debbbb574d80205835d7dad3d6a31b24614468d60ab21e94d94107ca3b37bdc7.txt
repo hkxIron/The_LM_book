@@ -1,0 +1,45 @@
+<reasoning>
+To find the size of the living room, let's first determine the total area of the apartment and the area allocated to the rooms.
+
+1. **Calculate the total area of the apartment**:
+   The apartment has dimensions of 16 feet by 10 feet. 
+   The area \( A \) can be calculated using the formula:
+   \[
+   A = \text{length} \times \text{width}
+   \]
+   Substituting in the values:
+   \[
+   A = 16 \, \text{ft} \times 10 \, \text{ft} = 160 \, \text{ft}^2
+   \]
+
+2. **Determine the number of rooms**:
+   There are a total of 6 rooms, with one of them being the living room which is as big as 3 other rooms combined.
+
+3. **Let \( x \) be the area of each of the other rooms**:
+   Since the living room is as large as 3 of the other rooms, its area will be \( 3x \).
+
+4. **Set up the equation for the total area**:
+   The total area of the apartment is equal to the area of the living room plus the area of the other 5 rooms. Therefore:
+   \[
+   3x + 5x = 160
+   \]
+   Simplifying this:
+   \[
+   8x = 160
+   \]
+
+5. **Solve for \( x \)**:
+   To find \( x \), divide both sides by 8:
+   \[
+   x = \frac{160}{8} = 20 \, \text{ft}^2
+   \]
+
+6. **Calculate the area of the living room**:
+   Since the living room's area is \( 3x \):
+   \[
+   \text{Area of the living room} = 3 \times 20 = 60 \, \text{ft}^2
+   \]
+
+Therefore, we have determined that the area of the living room is 60 square feet.
+</reasoning>
+<answer>60</answer>

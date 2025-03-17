@@ -1,0 +1,45 @@
+<reasoning>
+To find out how much money Dr. Jones has left after paying his monthly expenses, we will calculate his total expenses first and then subtract that from his monthly income.
+
+1. **Calculate Dr. Jones's monthly income**: 
+   Dr. Jones earns $6,000 each month. This is our starting point.
+
+2. **Calculate house rental expense**: 
+   His house rental expense is $640. 
+
+3. **Calculate food expense**: 
+   His monthly food expense is $380.
+
+4. **Calculate electric and water bill**: 
+   This cost is 1/4 of his income:
+   \[
+   \text{Electric and water bill} = \frac{1}{4} \times 6000 = 1500
+   \]
+
+5. **Calculate insurance costs**: 
+   This cost is 1/5 of his income:
+   \[
+   \text{Insurance} = \frac{1}{5} \times 6000 = 1200
+   \]
+
+6. **Sum all expenses**: 
+   Now, we will add up all of his expenses:
+   \[
+   \text{Total expenses} = \text{House rental} + \text{Food} + \text{Electric and water bill} + \text{Insurance}
+   \]
+   \[
+   \text{Total expenses} = 640 + 380 + 1500 + 1200 = 3720
+   \]
+
+7. **Calculate remaining money**: 
+   Finally, we subtract the total expenses from his monthly income to find out how much money he has left:
+   \[
+   \text{Remaining money} = \text{Income} - \text{Total expenses}
+   \]
+   \[
+   \text{Remaining money} = 6000 - 3720 = 2280
+   \]
+
+Therefore, after calculating all expenses and subtracting them from his income, we find that Dr. Jones has $2,280 left each month.
+</reasoning>
+<answer>2280</answer>

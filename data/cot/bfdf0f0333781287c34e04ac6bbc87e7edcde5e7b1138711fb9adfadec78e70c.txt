@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we need to calculate the time it takes for Coby to travel from Washington to Idaho, and then from Idaho to Nevada. We'll use the formula for time, which is:
+
+\[ \text{Time} = \frac{\text{Distance}}{\text{Speed}} \]
+
+**Step 1: Calculate the time from Washington to Idaho.**
+
+- The distance from Washington to Idaho is 640 miles.
+- Coby's speed while traveling to Idaho is 80 miles per hour.
+
+Using the formula for time:
+
+\[ \text{Time to Idaho} = \frac{640 \text{ miles}}{80 \text{ miles per hour}} \]
+
+Now we perform the division:
+
+\[ \text{Time to Idaho} = 8 \text{ hours} \]
+
+**Step 2: Calculate the time from Idaho to Nevada.**
+
+- The distance from Idaho to Nevada is 550 miles.
+- Coby's speed while traveling to Nevada is 50 miles per hour.
+
+Again using the formula for time:
+
+\[ \text{Time to Nevada} = \frac{550 \text{ miles}}{50 \text{ miles per hour}} \]
+
+Now we perform the division:
+
+\[ \text{Time to Nevada} = 11 \text{ hours} \]
+
+**Step 3: Calculate the total travel time.**
+
+Now, we need to add the time spent traveling to Idaho and the time spent traveling to Nevada:
+
+\[ \text{Total Time} = \text{Time to Idaho} + \text{Time to Nevada} \]
+
+Substituting the values we calculated:
+
+\[ \text{Total Time} = 8 \text{ hours} + 11 \text{ hours} = 19 \text{ hours} \]
+
+Therefore, the total time it took for Coby to arrive at his destination is 19 hours.
+</reasoning>
+<answer>19</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much each pack of candy costs, we first need to determine how much James spent in total.
+
+1. **Calculate the total amount James spent:**
+   - James paid with a $20 bill and received $11 in change.
+   - To find out how much he spent, we subtract the amount of change from the amount he paid:
+     \[
+     \text{Amount spent} = \text{Amount paid} - \text{Change received}
+     \]
+     \[
+     \text{Amount spent} = 20 - 11 = 9
+     \]
+   - So, James spent $9 in total.
+
+2. **Determine the price of each pack of candy:**
+   - James bought 3 packs of candy, and we know he spent a total of $9.
+   - To find the cost of each pack, we divide the total amount spent by the number of packs:
+     \[
+     \text{Cost per pack} = \frac{\text{Total amount spent}}{\text{Number of packs}}
+     \]
+     \[
+     \text{Cost per pack} = \frac{9}{3} = 3
+     \]
+   - Therefore, each pack of candy costs $3.
+</reasoning>
+<answer>3</answer>

@@ -1,0 +1,56 @@
+<reasoning>
+To determine how much more money is made in a day during high season compared to low season, we need to calculate the total sales for both seasons over a 15-hour period.
+
+1. **Calculate Total Packs Sold in High Season:**
+   - In high season, 6 packs of tuna fish are sold per hour.
+   - Over 15 hours, the total number of packs sold is calculated as follows:
+     \[
+     \text{Total Packs Sold (High Season)} = 6 \, \text{packs/hour} \times 15 \, \text{hours}
+     \]
+     \[
+     \text{Total Packs Sold (High Season)} = 90 \, \text{packs}
+     \]
+
+2. **Calculate Total Revenue in High Season:**
+   - Each pack is sold for $60, so the total revenue for high season is:
+     \[
+     \text{Total Revenue (High Season)} = 90 \, \text{packs} \times 60 \, \text{dollars/pack}
+     \]
+     \[
+     \text{Total Revenue (High Season)} = 5400 \, \text{dollars}
+     \]
+
+3. **Calculate Total Packs Sold in Low Season:**
+   - In low season, 4 packs of tuna fish are sold per hour.
+   - Over 15 hours, the total number of packs sold is calculated as follows:
+     \[
+     \text{Total Packs Sold (Low Season)} = 4 \, \text{packs/hour} \times 15 \, \text{hours}
+     \]
+     \[
+     \text{Total Packs Sold (Low Season)} = 60 \, \text{packs}
+     \]
+
+4. **Calculate Total Revenue in Low Season:**
+   - Again, each pack is sold for $60, so the total revenue for low season is:
+     \[
+     \text{Total Revenue (Low Season)} = 60 \, \text{packs} \times 60 \, \text{dollars/pack}
+     \]
+     \[
+     \text{Total Revenue (Low Season)} = 3600 \, \text{dollars}
+     \]
+
+5. **Calculate the Difference in Revenue:**
+   - Now, we find out how much more money is made in high season compared to low season:
+     \[
+     \text{Difference in Revenue} = \text{Total Revenue (High Season)} - \text{Total Revenue (Low Season)}
+     \]
+     \[
+     \text{Difference in Revenue} = 5400 \, \text{dollars} - 3600 \, \text{dollars}
+     \]
+     \[
+     \text{Difference in Revenue} = 1800 \, \text{dollars}
+     \]
+
+Therefore, the final answer is:
+</reasoning>
+<answer>1800</answer>

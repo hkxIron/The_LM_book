@@ -1,0 +1,31 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the total number of blue marbles Janelle bought.**
+   Janelle bought 6 bags of blue marbles, and each bag contains 10 marbles. To find the total number of blue marbles, we multiply the number of bags by the number of marbles in each bag:
+   \[
+   \text{Total blue marbles} = 6 \text{ bags} \times 10 \text{ marbles/bag} = 60 \text{ blue marbles}
+   \]
+   This means Janelle has 60 blue marbles.
+
+2. **Calculate the total number of marbles Janelle had before giving any away.**
+   Janelle initially had 26 green marbles, and after buying blue marbles, we add the green and blue marbles together:
+   \[
+   \text{Total marbles before gift} = \text{Green marbles} + \text{Blue marbles} = 26 + 60 = 86 \text{ marbles}
+   \]
+
+3. **Determine the number of marbles given as a gift.**
+   Janelle created a gift containing 6 green marbles and 8 blue marbles. To find the total number of marbles in the gift, we add these two amounts:
+   \[
+   \text{Total marbles in gift} = 6 \text{ green} + 8 \text{ blue} = 14 \text{ marbles}
+   \]
+
+4. **Calculate how many marbles Janelle has left after giving the gift.**
+   To find out how many marbles Janelle has now, we subtract the number of marbles in the gift from her total before the gift:
+   \[
+   \text{Marbles left} = \text{Total marbles before gift} - \text{Total marbles in gift} = 86 - 14 = 72 \text{ marbles}
+   \]
+
+Therefore, after following all these steps, we find that Janelle has 72 marbles left.
+</reasoning>
+<answer>72</answer>

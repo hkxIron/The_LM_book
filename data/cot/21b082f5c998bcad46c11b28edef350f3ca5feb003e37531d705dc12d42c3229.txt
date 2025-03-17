@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many men are in the engineering department, we can follow these steps:
+
+1. **Understand the percentages and total:** We know that 70% of the students are men and the remaining 30% are women. We are given that there are 180 women. 
+
+2. **Set up the equation for the total number of students:** 
+   Since women make up 30% of the total number of students, we can use the following equation:
+   \[
+   \text{Number of women} = 30\% \times \text{Total students}
+   \]
+   We can express this mathematically as:
+   \[
+   180 = 0.30 \times \text{Total students}
+   \]
+
+3. **Solve for the total number of students:** 
+   To find the total number of students, we can rearrange the equation:
+   \[
+   \text{Total students} = \frac{180}{0.30}
+   \]
+   Now, we calculate this:
+   \[
+   \text{Total students} = \frac{180}{0.30} = 600
+   \]
+
+4. **Calculate the number of men:** 
+   Since we know 70% of the students are men, we can use the total number of students to find the number of men:
+   \[
+   \text{Number of men} = 70\% \times \text{Total students}
+   \]
+   In mathematical terms:
+   \[
+   \text{Number of men} = 0.70 \times 600
+   \]
+   Now, we compute this:
+   \[
+   \text{Number of men} = 420
+   \]
+
+Therefore, the number of men in the engineering department is 420.
+</reasoning>
+<answer>420</answer>

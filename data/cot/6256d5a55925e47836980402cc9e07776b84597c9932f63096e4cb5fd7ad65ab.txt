@@ -1,0 +1,49 @@
+<reasoning>
+To calculate Hannah's pay for this week, we can follow these steps:
+
+1. **Calculate her total earnings before any deductions**: 
+   Hannah makes $30 per hour and works 18 hours. To find her total earnings, we multiply her hourly wage by the number of hours worked.
+
+   \[
+   \text{Total Earnings} = \text{Hourly Wage} \times \text{Hours Worked} = 30 \times 18
+   \]
+
+   Performing the multiplication:
+
+   \[
+   30 \times 18 = 540
+   \]
+
+   So, Hannah's total earnings before deductions are $540.
+
+2. **Calculate the total deduction for being late**: 
+   Hannah is docked $5 for each time she is late. Since she was late 3 times, we can find the total deduction by multiplying the amount docked by the number of times she was late.
+
+   \[
+   \text{Total Deductions} = \text{Deduction per Late} \times \text{Number of Times Late} = 5 \times 3
+   \]
+
+   Performing the multiplication:
+
+   \[
+   5 \times 3 = 15
+   \]
+
+   Therefore, the total deductions for being late amount to $15.
+
+3. **Calculate her total pay after deductions**: 
+   Now we need to subtract the total deductions from her total earnings to find out how much she actually gets paid.
+
+   \[
+   \text{Total Pay} = \text{Total Earnings} - \text{Total Deductions} = 540 - 15
+   \]
+
+   Performing the subtraction:
+
+   \[
+   540 - 15 = 525
+   \]
+
+   Thus, after accounting for her deductions, Hannah's total pay for the week is $525.
+</reasoning>
+<answer>525</answer>

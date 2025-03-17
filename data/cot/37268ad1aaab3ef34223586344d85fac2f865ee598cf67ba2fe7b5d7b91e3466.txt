@@ -1,0 +1,27 @@
+<reasoning>
+To find the total number of hours the singer took to complete the 3 songs, we can break down the problem step by step.
+
+1. **Determine the hours spent on one song**: 
+   The singer works on one song for 10 hours a day and each song takes 10 days to complete. 
+   So, we calculate the total hours for one song as follows:
+   \[
+   \text{Total hours for one song} = \text{hours per day} \times \text{days to complete}
+   \]
+   Substituting the values:
+   \[
+   \text{Total hours for one song} = 10 \text{ hours/day} \times 10 \text{ days} = 100 \text{ hours}
+   \]
+
+2. **Calculate the total hours for all 3 songs**: 
+   Since the singer is working on 3 songs, we need to multiply the hours spent on one song by the number of songs:
+   \[
+   \text{Total hours for 3 songs} = \text{Total hours for one song} \times 3
+   \]
+   Substituting the value we found:
+   \[
+   \text{Total hours for 3 songs} = 100 \text{ hours} \times 3 = 300 \text{ hours}
+   \]
+
+Therefore, the total number of hours the singer took to complete the 3 songs is 300 hours.
+</reasoning>
+<answer>300</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the costs of each item.**
+   - The sandwich costs $4.
+   - The juice costs two times more than the sandwich. Therefore:
+     \[
+     \text{Cost of juice} = 2 \times \text{Cost of sandwich} = 2 \times 4 = 8
+     \]
+
+2. **Calculate the total cost of the sandwich and juice.**
+   - We add the cost of the sandwich and the juice together:
+     \[
+     \text{Total cost of sandwich and juice} = \text{Cost of sandwich} + \text{Cost of juice} = 4 + 8 = 12
+     \]
+
+3. **Determine the cost of the bottle of milk.**
+   - The bottle of milk costs 75% of the total cost of the sandwich and juice. We find 75% of $12:
+     \[
+     \text{Cost of milk} = 0.75 \times \text{Total cost of sandwich and juice} = 0.75 \times 12 = 9
+     \]
+
+4. **Calculate the total amount George paid for his food.**
+   - We add the costs of the sandwich, juice, and milk:
+     \[
+     \text{Total cost} = \text{Cost of sandwich} + \text{Cost of juice} + \text{Cost of milk} = 4 + 8 + 9 = 21
+     \]
+
+Therefore, after calculating all the costs, we find that George paid a total of $21 for his food.
+</reasoning>
+<answer>21</answer>

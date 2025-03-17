@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we first need to calculate how much time Anna and Billy spend on their chores separately.
+
+1. **Calculate Anna's time spent sweeping:**
+   Anna sweeps 10 rooms, and it takes her 3 minutes per room. 
+   \[
+   \text{Time spent by Anna} = \text{Number of rooms} \times \text{Time per room} = 10 \times 3 = 30 \text{ minutes}
+   \]
+
+2. **Calculate Billy's time spent doing laundry:**
+   Billy does 2 loads of laundry, and it takes him 9 minutes per load.
+   \[
+   \text{Time spent by Billy on laundry} = \text{Number of loads} \times \text{Time per load} = 2 \times 9 = 18 \text{ minutes}
+   \]
+
+3. **Determine the time difference:**
+   We now know that Anna spends 30 minutes on chores and Billy spends 18 minutes on laundry. To find out how much more time Anna spends compared to Billy, we subtract Billy's time from Anna's time.
+   \[
+   \text{Time difference} = \text{Time spent by Anna} - \text{Time spent by Billy} = 30 - 18 = 12 \text{ minutes}
+   \]
+
+4. **Calculate how many additional minutes Billy needs to match Anna's time:**
+   Billy needs to make up these 12 minutes by washing dishes. Each dish takes him 2 minutes to wash. We can find out how many dishes he needs to wash by dividing the additional minutes by the time per dish.
+   \[
+   \text{Number of dishes} = \frac{\text{Time difference}}{\text{Time per dish}} = \frac{12}{2} = 6 \text{ dishes}
+   \]
+
+Therefore, Billy should wash 6 dishes in order to spend the same amount of time doing chores as Anna.
+</reasoning>
+<answer>6</answer>

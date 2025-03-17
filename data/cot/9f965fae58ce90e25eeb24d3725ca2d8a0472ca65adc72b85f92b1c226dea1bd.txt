@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step to find the total cost of the aquarium Axel bought.
+
+1. **Finding the discounted price**: The aquarium was marked down by 50% from the original price of $120. 
+   - To find the amount of the discount, we calculate 50% of $120:
+     \[
+     \text{Discount} = 0.50 \times 120 = 60
+     \]
+   - Now, we subtract the discount from the original price to get the reduced price:
+     \[
+     \text{Reduced Price} = 120 - 60 = 60
+     \]
+
+2. **Calculating the sales tax**: Axel paid an additional sales tax of 5% on the reduced price.
+   - To find the sales tax amount, we calculate 5% of the reduced price of $60:
+     \[
+     \text{Sales Tax} = 0.05 \times 60 = 3
+     \]
+
+3. **Finding the total cost**: Now we need to add the reduced price and the sales tax to find the total cost of the aquarium.
+   - The total cost is:
+     \[
+     \text{Total Cost} = \text{Reduced Price} + \text{Sales Tax} = 60 + 3 = 63
+     \]
+
+Therefore, the total cost of the aquarium Axel bought is:
+</reasoning>
+<answer>63</answer>

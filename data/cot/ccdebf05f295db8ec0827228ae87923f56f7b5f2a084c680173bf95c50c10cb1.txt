@@ -1,0 +1,28 @@
+<reasoning>
+Let's denote the distance Hannah walked as \( h \) kilometers. According to the problem, Nadia walked 18 kilometers, and this distance is stated to be twice as far as what Hannah walked. We can express this relationship mathematically as follows:
+
+1. **Set up the equation**:
+   \[
+   18 = 2h
+   \]
+   Here, we are stating that Nadia's distance (18 km) is equal to twice Hannah's distance (2 times \( h \)).
+
+2. **Solve for \( h \)**:
+   To find out how far Hannah walked, we need to isolate \( h \) in the equation. We can do this by dividing both sides of the equation by 2:
+   \[
+   h = \frac{18}{2} = 9
+   \]
+   So, Hannah walked 9 kilometers.
+
+3. **Calculate the total distance walked by both girls**:
+   Now that we know both distances, we can find the total distance walked by Nadia and Hannah combined:
+   \[
+   \text{Total distance} = \text{Distance walked by Nadia} + \text{Distance walked by Hannah}
+   \]
+   \[
+   \text{Total distance} = 18 + 9 = 27
+   \]
+
+Therefore, the total distance that Nadia and Hannah walked together is 27 kilometers.
+</reasoning>
+<answer>27</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the total number of butterflies**: Martha has a total of 11 butterflies in her collection.
+
+2. **Identify the number of black butterflies**: We are told that Martha has 5 black butterflies.
+
+3. **Calculate the number of non-black butterflies**: Since the total number of butterflies is 11 and 5 of them are black, we can find the number of butterflies that are either blue or yellow by subtracting the number of black butterflies from the total.
+   \[
+   \text{Number of blue and yellow butterflies} = \text{Total butterflies} - \text{Black butterflies} = 11 - 5 = 6
+   \]
+
+4. **Set up the relationship between blue and yellow butterflies**: We know that Martha has twice as many blue butterflies as yellow butterflies. Let's denote the number of yellow butterflies as \( y \). Then, the number of blue butterflies can be expressed as \( 2y \).
+
+5. **Write an equation for the total number of blue and yellow butterflies**: Since the total number of blue and yellow butterflies is 6, we can write the equation:
+   \[
+   y + 2y = 6
+   \]
+
+6. **Combine like terms**: This simplifies to:
+   \[
+   3y = 6
+   \]
+
+7. **Solve for \( y \)**: To find the number of yellow butterflies, divide both sides by 3:
+   \[
+   y = \frac{6}{3} = 2
+   \]
+
+8. **Find the number of blue butterflies**: Since the number of blue butterflies is twice the number of yellow butterflies, we can now calculate the number of blue butterflies:
+   \[
+   \text{Number of blue butterflies} = 2y = 2 \times 2 = 4
+   \]
+
+Thus, Martha has 4 blue butterflies.
+</reasoning>
+<answer>4</answer>

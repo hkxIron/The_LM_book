@@ -1,0 +1,33 @@
+<reasoning>
+First, let's calculate the total number of brownies Melanie baked. She made 10 batches, and each batch contained 20 brownies. 
+
+To find the total number of brownies, we multiply the number of batches by the number of brownies per batch:
+
+Total brownies = Number of batches × Brownies per batch
+Total brownies = 10 × 20 = 200
+
+Now that we know Melanie baked a total of 200 brownies, we need to determine how many brownies she set aside for the bake sale. She set aside 3/4 of the brownies from each batch. 
+
+To find out how many brownies were set aside, we can calculate 3/4 of the total number of brownies:
+
+Brownies set aside for bake sale = (3/4) × Total brownies
+Brownies set aside for bake sale = (3/4) × 200 = 150
+
+Next, we need to find out how many brownies are left after she set aside the ones for the bake sale. We subtract the number of brownies set aside from the total number of brownies:
+
+Remaining brownies = Total brownies - Brownies set aside for bake sale
+Remaining brownies = 200 - 150 = 50
+
+Now, from the remaining brownies, Melanie put 3/5 of them in a container. To find out how many brownies that is, we multiply the remaining brownies by 3/5:
+
+Brownies in container = (3/5) × Remaining brownies
+Brownies in container = (3/5) × 50 = 30
+
+Finally, to find out how many brownies were given out, we subtract the number of brownies that went into the container from the remaining brownies:
+
+Brownies given out = Remaining brownies - Brownies in container
+Brownies given out = 50 - 30 = 20
+
+Therefore, the number of brownies given out is:
+</reasoning>
+<answer>20</answer>

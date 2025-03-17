@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of items Tanya found**: 
+   - We are told that Tanya found 4 items. So, we can denote this as:
+   \[
+   \text{Tanya's items} = 4
+   \]
+
+2. **Determine the number of items Samantha found**: 
+   - According to the problem, Samantha found four times the amount of items that Tanya found. We can calculate this by multiplying the number of items Tanya found by 4:
+   \[
+   \text{Samantha's items} = 4 \times \text{Tanya's items} = 4 \times 4 = 16
+   \]
+
+3. **Calculate the number of items Lewis found**: 
+   - The problem states that Lewis found 4 more items than Samantha. Therefore, we can find the number of items Lewis found by adding 4 to the number of items Samantha found:
+   \[
+   \text{Lewis's items} = \text{Samantha's items} + 4 = 16 + 4 = 20
+   \]
+
+So, after following these steps and calculating the respective items found by Tanya, Samantha, and Lewis, we find that Lewis found 20 items.
+</reasoning>
+<answer>20</answer>

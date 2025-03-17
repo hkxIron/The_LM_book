@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we need to establish the relationship between the height of the hill, the depth of the riverbed, and the peak of the hill.
+
+1. **Identify the information given**:
+   - The base of the hill is 300 meters above the seabed.
+   - This depth (the distance from the seabed to the base of the hill) is a quarter of the vertical distance between the riverbed and the peak of the hill.
+
+2. **Define the variables**:
+   - Let \( h \) represent the height of the hill above its base.
+   - The vertical distance from the riverbed to the peak of the hill will then be \( 300 + h \).
+
+3. **Set up the equation**:
+   - According to the problem, the depth (300 m) is a quarter of the vertical distance from the riverbed to the peak of the hill. This gives us the equation:
+   \[
+   300 = \frac{1}{4}(300 + h)
+   \]
+
+4. **Solve the equation**:
+   - First, multiply both sides by 4 to eliminate the fraction:
+   \[
+   1200 = 300 + h
+   \]
+   - Next, isolate \( h \) by subtracting 300 from both sides:
+   \[
+   h = 1200 - 300
+   \]
+   - Simplifying this gives:
+   \[
+   h = 900
+   \]
+
+5. **Determine the total height of the hill**:
+   - The total height of the hill is the height above its base, which we found to be \( h = 900 \) meters.
+
+6. **Final answer**:
+   - Thus, the height of the hill above its base is 900 meters.
+
+Therefore, the height of the hill is:
+</reasoning>
+<answer>900</answer>

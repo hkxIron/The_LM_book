@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we need to determine the total number of days Cassidy is grounded based on the information given.
+
+1. **Understand the initial grounding period**: Cassidy is grounded for 14 days because of lying about her report card. This is our starting point.
+
+2. **Calculate the additional grounding days**: Cassidy receives an additional 3 days for each grade below a B. We know she has four grades below a B. 
+
+3. **Multiply the number of grades below a B by the extra days**: 
+   - She has 4 grades below a B.
+   - For each grade below a B, she gets 3 extra days.
+   - Therefore, we calculate the extra grounding days: 
+     \[
+     4 \text{ grades} \times 3 \text{ days/grade} = 12 \text{ extra days}
+     \]
+
+4. **Add the extra days to the initial grounding period**: 
+   - Now, we take the initial grounding of 14 days and add the 12 extra days:
+     \[
+     14 \text{ days} + 12 \text{ extra days} = 26 \text{ total days}
+     \]
+
+Thus, Cassidy is grounded for a total of 26 days.
+</reasoning>
+<answer>26</answer>

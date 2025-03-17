@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many hours Jenny has left to write her report, we need to first add the time she has already spent on research and writing the proposal, and then subtract that total from her total available hours.
+
+1. **Calculate total time spent so far**:  
+   Jenny spends 10 hours on research and 2 hours on writing the proposal. 
+   So, we add those two amounts together:
+   \[
+   \text{Total time spent} = \text{Time on research} + \text{Time on proposal} = 10 \text{ hours} + 2 \text{ hours} = 12 \text{ hours}
+   \]
+
+2. **Calculate remaining time**:  
+   Jenny has a total of 20 hours to work on her project. Now we subtract the time she has already spent from the total time available:
+   \[
+   \text{Remaining time} = \text{Total time available} - \text{Total time spent} = 20 \text{ hours} - 12 \text{ hours} = 8 \text{ hours}
+   \]
+
+This means that Jenny has 8 hours left to write her report.
+
+Therefore, the final answer for how many hours she has left to write her report is:
+</reasoning>
+<answer>8</answer>

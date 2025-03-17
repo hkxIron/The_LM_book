@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Total Mangoes Harvested**: Colby harvested a total of 60 kilograms of mangoes.
+
+2. **Mangoes Sold to Market**: He sold 20 kilograms to the market. 
+   - Remaining mangoes after selling to the market = Total harvested - Sold to market
+   - Remaining = 60 kg - 20 kg = 40 kg
+
+3. **Mangoes Sold to Community**: Colby sold the remaining half of his mangoes to the community.
+   - Half of the remaining mangoes = 40 kg / 2 = 20 kg
+
+4. **Mangoes Remaining**: To find out how many mangoes Colby has left:
+   - Remaining mangoes after selling to community = Remaining mangoes - Sold to community
+   - Remaining = 40 kg - 20 kg = 20 kg
+
+5. **Convert Kilograms to Mangoes**: Each kilogram contains 8 mangoes, so we need to find out how many mangoes are in the remaining 20 kilograms.
+   - Total mangoes remaining = Remaining kg * Mangoes per kg
+   - Total mangoes remaining = 20 kg * 8 mangoes/kg = 160 mangoes
+
+Therefore, Colby still has 160 mangoes left.
+</reasoning>
+<answer>160</answer>

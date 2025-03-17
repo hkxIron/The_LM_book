@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many businesses Brandon can still apply to, we need to first determine how many businesses he has been fired from and how many he has quit from.
+
+1. **Calculate the number of businesses he has been fired from:**
+   - Brandon has been fired from half of the businesses in town.
+   - There are 72 businesses in total, so we calculate half of that:
+     \[
+     \text{Fired from} = \frac{1}{2} \times 72 = 36
+     \]
+   - This means he has been fired from 36 businesses.
+
+2. **Calculate the number of businesses he has quit from:**
+   - Brandon has quit from a third of the businesses in town.
+   - We calculate a third of 72:
+     \[
+     \text{Quit from} = \frac{1}{3} \times 72 = 24
+     \]
+   - This means he has quit from 24 businesses.
+
+3. **Calculate the total number of businesses he cannot apply to:**
+   - Since he cannot apply to the businesses he has been fired from or quit from, we need to add these two numbers together:
+     \[
+     \text{Total businesses he cannot apply to} = 36 + 24 = 60
+     \]
+
+4. **Calculate the number of businesses he can still apply to:**
+   - To find out how many businesses he can still apply to, we subtract the total number of businesses he cannot apply to from the total number of businesses in town:
+     \[
+     \text{Businesses he can apply to} = 72 - 60 = 12
+     \]
+
+Therefore, after calculating all the businesses he has been fired from and quit from, we find that he can still apply to 12 businesses.
+</reasoning>
+<answer>12</answer>

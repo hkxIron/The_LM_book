@@ -1,0 +1,16 @@
+<reasoning>
+To solve the problem, we need to determine the total time of Tim's trip, which includes both the time he spent driving and the time he spent stuck in traffic.
+
+1. **Identify the time spent driving:** We know from the problem that Tim drove for 5 hours.
+
+2. **Determine the time spent in traffic:** The problem states that Tim was stuck in traffic for twice as long as he was driving. Since he drove for 5 hours, we calculate the time in traffic as follows:
+   - Time in traffic = 2 * (time driving)
+   - Time in traffic = 2 * 5 hours = 10 hours.
+
+3. **Calculate the total time of the trip:** To find the total trip duration, we need to add the driving time to the traffic time:
+   - Total time = (time driving) + (time in traffic)
+   - Total time = 5 hours + 10 hours = 15 hours.
+
+Thus, the total time of Tim's trip is 15 hours.
+</reasoning>
+<answer>15</answer>

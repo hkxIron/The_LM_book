@@ -1,0 +1,21 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total cost of the socks**: Penny buys 4 pairs of socks at $2 each. To find the total cost for the socks, we multiply the number of pairs by the cost per pair:
+   \[
+   \text{Total cost of socks} = 4 \text{ pairs} \times 2 \text{ dollars/pair} = 8 \text{ dollars}
+   \]
+
+2. **Add the cost of the hat**: Penny also buys a hat for $7. We need to add this cost to the total cost of the socks to find the total amount spent:
+   \[
+   \text{Total cost} = \text{Total cost of socks} + \text{Cost of hat} = 8 \text{ dollars} + 7 \text{ dollars} = 15 \text{ dollars}
+   \]
+
+3. **Calculate how much money Penny has left**: Penny started with $20. To find out how much money she has left after her purchases, we subtract the total cost of her purchases from her initial amount:
+   \[
+   \text{Money left} = \text{Initial amount} - \text{Total cost} = 20 \text{ dollars} - 15 \text{ dollars} = 5 \text{ dollars}
+   \]
+
+Therefore, after buying the socks and hat, Penny has $5 left.
+</reasoning>
+<answer>5</answer>

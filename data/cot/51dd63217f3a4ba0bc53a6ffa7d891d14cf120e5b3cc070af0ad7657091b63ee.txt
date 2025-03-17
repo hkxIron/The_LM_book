@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many frogs Alster caught.**  
+   According to the problem, Alster caught 2 frogs. We will denote the number of frogs Alster caught as \( A \).  
+   So, \( A = 2 \).
+
+2. **Calculate how many frogs Quinn caught.**  
+   The problem states that Quinn catches twice the amount of frogs as Alster. Since Alster caught 2 frogs, we can calculate Quinn's catch as follows:  
+   \[
+   Q = 2 \times A = 2 \times 2 = 4
+   \]  
+   So, Quinn caught 4 frogs.
+
+3. **Determine how many frogs Bret caught.**  
+   The problem indicates that Bret catches three times the amount of frogs as Quinn. Now that we know Quinn caught 4 frogs, we can calculate Bret's catch:  
+   \[
+   B = 3 \times Q = 3 \times 4 = 12
+   \]  
+   So, Bret caught 12 frogs.
+
+Putting it all together, we find that Brett caught a total of 12 frogs.
+</reasoning>
+<answer>12</answer>

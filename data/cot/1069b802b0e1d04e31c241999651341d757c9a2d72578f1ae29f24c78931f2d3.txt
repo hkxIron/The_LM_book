@@ -1,0 +1,27 @@
+<reasoning>
+To determine the total distance Francine drives to work over 4 weeks, we first need to understand how many days she actually goes to work each week, and then calculate the total distance based on that.
+
+1. **Calculate the number of days Francine works each week:**
+   - There are 7 days in a week.
+   - Francine does not go to work 3 days each week.
+   - Therefore, the number of days she works in a week is:
+     \[
+     7 - 3 = 4 \text{ days}
+     \]
+
+2. **Calculate the distance driven to work each week:**
+   - Francine drives 140 km to work each day.
+   - If she works 4 days a week, the distance she drives in one week is:
+     \[
+     140 \text{ km/day} \times 4 \text{ days} = 560 \text{ km/week}
+     \]
+
+3. **Calculate the total distance for 4 weeks:**
+   - To find the total distance for 4 weeks, we multiply the weekly distance by 4:
+     \[
+     560 \text{ km/week} \times 4 \text{ weeks} = 2240 \text{ km}
+     \]
+
+Therefore, after calculating the total distance she drives to work over 4 weeks, we find:
+</reasoning>
+<answer>2240</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To find the length of Carmen's brush, we first need to determine how much longer it is compared to Carla's brush.
+
+1. **Calculate 50% of Carla's brush length**:
+   - Carla's brush is 12 inches long.
+   - To find 50% of 12 inches, we multiply by 0.5:
+     \[
+     0.5 \times 12 = 6 \text{ inches}
+     \]
+   - This means Carmen's brush is 6 inches longer than Carla's.
+
+2. **Determine the total length of Carmen's brush**:
+   - Now we add the 6 inches to the length of Carla's brush:
+     \[
+     12 \text{ inches} + 6 \text{ inches} = 18 \text{ inches}
+     \]
+   - Therefore, Carmen's brush is 18 inches long.
+
+3. **Convert inches to centimeters**:
+   - We know that there are 2.5 centimeters in an inch, so to convert 18 inches to centimeters, we multiply by 2.5:
+     \[
+     18 \text{ inches} \times 2.5 \text{ cm/inch} = 45 \text{ cm}
+     \]
+
+Thus, Carmen's brush is 45 centimeters long.
+</reasoning>
+<answer>45</answer>

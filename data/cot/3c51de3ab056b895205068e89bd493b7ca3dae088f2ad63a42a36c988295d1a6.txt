@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. Start with the initial number of books the bookshop has:
+   \[
+   \text{Initial number of books} = 743
+   \]
+
+2. On Saturday, the bookshop sold 37 books in-store and 128 books online. We need to calculate the total number of books sold on Saturday:
+   \[
+   \text{Total sold on Saturday} = 37 + 128 = 165
+   \]
+
+3. Now, we will subtract the total books sold on Saturday from the initial number of books:
+   \[
+   \text{Books after Saturday} = 743 - 165 = 578
+   \]
+
+4. On Sunday, they sold twice as many books in-store as they did on Saturday. So the number of in-store books sold on Sunday is:
+   \[
+   \text{In-store sales on Sunday} = 2 \times 37 = 74
+   \]
+
+5. Additionally, their online sales increased by 34 books compared to Saturday. So the online sales on Sunday are:
+   \[
+   \text{Online sales on Sunday} = 128 + 34 = 162
+   \]
+
+6. Now, we can determine the total number of books sold on Sunday:
+   \[
+   \text{Total sold on Sunday} = 74 + 162 = 236
+   \]
+
+7. Next, we will subtract the total books sold on Sunday from the number of books after Saturday:
+   \[
+   \text{Books after Sunday} = 578 - 236 = 342
+   \]
+
+8. Finally, they received a shipment of 160 books, which we will add to the current number of books:
+   \[
+   \text{Current number of books} = 342 + 160 = 502
+   \]
+
+Therefore, after considering all sales and the new shipment, the bookshop currently has:
+</reasoning>
+<answer>502</answer>

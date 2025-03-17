@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we'll start by calculating the net change in the number of lions per month, and then apply that over the course of a year.
+
+1. **Determine the monthly birth and death rates**:
+   - Lion cubs are born at a rate of 5 per month.
+   - Lions die at a rate of 1 per month.
+
+2. **Calculate the net change in the lion population per month**:
+   - Net change = Births - Deaths
+   - Net change = 5 (births) - 1 (deaths) = 4 lions per month.
+
+3. **Calculate the total change over 12 months (1 year)**:
+   - Since there is a net increase of 4 lions each month, over a year (12 months), the total increase will be:
+   - Total increase = Net change per month × Number of months
+   - Total increase = 4 lions/month × 12 months = 48 lions.
+
+4. **Calculate the total number of lions after one year**:
+   - Start with the initial number of lions and add the total increase:
+   - Total lions after 1 year = Initial lions + Total increase
+   - Total lions after 1 year = 100 lions + 48 lions = 148 lions.
+
+Therefore, after considering the birth and death rates over the course of a year, we find that the total number of lions in Londolozi will be:
+</reasoning>
+<answer>148</answer>

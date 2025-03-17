@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much time using a calculator will save Matt on his math homework, we need to calculate the total time he would take to complete the assignment with and without a calculator.
+
+1. **Calculate time taken with a calculator:**
+   - Matt takes 2 minutes per problem when using a calculator.
+   - He has 20 problems to solve.
+   - To find the total time with a calculator, we multiply the time per problem by the number of problems:
+     \[
+     \text{Time with calculator} = 2 \text{ minutes/problem} \times 20 \text{ problems} = 40 \text{ minutes}
+     \]
+
+2. **Calculate time taken without a calculator:**
+   - Matt takes 5 minutes per problem when not using a calculator.
+   - Again, he has 20 problems to solve.
+   - To find the total time without a calculator, we multiply the time per problem by the number of problems:
+     \[
+     \text{Time without calculator} = 5 \text{ minutes/problem} \times 20 \text{ problems} = 100 \text{ minutes}
+     \]
+
+3. **Calculate the time saved by using a calculator:**
+   - To find the time saved, we subtract the time taken with a calculator from the time taken without a calculator:
+     \[
+     \text{Time saved} = \text{Time without calculator} - \text{Time with calculator}
+     \]
+     \[
+     \text{Time saved} = 100 \text{ minutes} - 40 \text{ minutes} = 60 \text{ minutes}
+     \]
+
+Therefore, using a calculator saves Matt 60 minutes on his math homework.
+</reasoning>
+<answer>60</answer>

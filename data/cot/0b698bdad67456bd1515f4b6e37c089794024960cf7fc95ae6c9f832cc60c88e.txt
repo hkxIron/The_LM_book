@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the cost of the hotel**: Maria paid $300 for the ticket. The hotel cost is half of that amount. 
+   - So, we calculate half of $300: 
+   \[
+   \text{Hotel cost} = \frac{300}{2} = 150
+   \]
+
+2. **Calculate the total expenses**: Now we need to find out how much Maria spent in total for both the ticket and the hotel.
+   - We add the ticket cost and the hotel cost together:
+   \[
+   \text{Total expenses} = \text{Ticket cost} + \text{Hotel cost} = 300 + 150 = 450
+   \]
+
+3. **Calculate the remaining money**: Maria started with $760 and spent a total of $450. To find out how much money she has left, we subtract her total expenses from her initial amount:
+   \[
+   \text{Remaining money} = \text{Initial amount} - \text{Total expenses} = 760 - 450 = 310
+   \]
+
+Therefore, after calculating all the expenses and subtracting from her initial amount, Maria has $310 left.
+</reasoning>
+<answer>310</answer>

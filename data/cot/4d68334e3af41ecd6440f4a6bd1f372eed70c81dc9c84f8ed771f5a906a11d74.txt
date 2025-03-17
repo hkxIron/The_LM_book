@@ -1,0 +1,66 @@
+<reasoning>
+To determine how many ears of corn Bob has left, we will follow these steps:
+
+1. **Calculate the total number of ears of corn Bob initially had.** 
+   Since Bob has 50 bushels of corn and each bushel contains 14 ears of corn, we multiply the number of bushels by the number of ears per bushel:
+
+   \[
+   \text{Total ears of corn} = \text{Number of bushels} \times \text{Ears per bushel} = 50 \times 14
+   \]
+
+   Now let's calculate that:
+
+   \[
+   50 \times 14 = 700
+   \]
+
+   So, Bob initially had 700 ears of corn.
+
+2. **Calculate the total amount of corn given away.**
+   Bob gave away corn to several friends as follows:
+   - Terry took 8 bushels
+   - Jerry took 3 bushels
+   - Linda took 12 bushels
+   - Stacy took 21 ears of corn (we need to convert this to bushels first)
+
+   To find the total given in bushels, we convert the ears taken by Stacy into bushels. Since each bushel has 14 ears, we can find out how many bushels 21 ears correspond to:
+
+   \[
+   \text{Bushels taken by Stacy} = \frac{21}{14} = 1.5 \text{ bushels}
+   \]
+
+   Now, we can sum up the bushels given away:
+
+   \[
+   \text{Total bushels given away} = 8 + 3 + 12 + 1.5
+   \]
+
+   Calculating that:
+
+   \[
+   8 + 3 + 12 + 1.5 = 24.5 \text{ bushels}
+   \]
+
+3. **Calculate how many bushels Bob has left.**
+   We subtract the total bushels given away from the initial bushels Bob had:
+
+   \[
+   \text{Bushels left} = 50 - 24.5 = 25.5 \text{ bushels}
+   \]
+
+4. **Convert the remaining bushels back to ears of corn.**
+   Now we will convert the remaining bushels back to ears of corn:
+
+   \[
+   \text{Ears of corn left} = \text{Bushels left} \times \text{Ears per bushel} = 25.5 \times 14
+   \]
+
+   Calculating that gives:
+
+   \[
+   25.5 \times 14 = 357
+   \]
+
+Thus, Bob has 357 ears of corn left after giving some away.
+</reasoning>
+<answer>357</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many regular toenails Hilary can still fit into the jar, we need to follow these steps:
+
+1. **Calculate the total space taken by the big toenails**: 
+   Each big toenail takes up the space of 2 regular toenails. Since Hilary has filled the jar with 20 big toenails, we can calculate the space they occupy:
+   \[
+   \text{Space occupied by big toenails} = 20 \text{ big toenails} \times 2 = 40 \text{ regular toenail spaces}
+   \]
+
+2. **Calculate the space taken by the regular toenails**:
+   Hilary has also added 40 regular toenails to the jar. Therefore, the total space occupied by both big and regular toenails is:
+   \[
+   \text{Total space occupied} = \text{Space occupied by big toenails} + \text{Space occupied by regular toenails} = 40 + 40 = 80 \text{ regular toenail spaces}
+   \]
+
+3. **Determine how many spaces are left in the jar**:
+   The jar can fit a total of 100 toenails (in terms of regular toenail spaces). Therefore, we find the remaining space:
+   \[
+   \text{Remaining space} = 100 - 80 = 20 \text{ regular toenail spaces}
+   \]
+
+Thus, Hilary can fit 20 more regular toenails into the jar.
+</reasoning>
+<answer>20</answer>

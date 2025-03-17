@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we need to find out the total cost of the x-ray and MRI, determine how much the insurance covers, and then calculate how much Mike has to pay out of pocket.
+
+1. **Calculate the cost of the MRI**:
+   The problem states that the MRI costs triple the cost of the x-ray. The x-ray costs $250.
+   \[
+   \text{Cost of MRI} = 3 \times \text{Cost of x-ray} = 3 \times 250 = 750
+   \]
+
+2. **Calculate the total cost of the x-ray and MRI**:
+   Now, we add the cost of the x-ray and the MRI to find the total cost.
+   \[
+   \text{Total Cost} = \text{Cost of x-ray} + \text{Cost of MRI} = 250 + 750 = 1000
+   \]
+
+3. **Determine how much insurance covers**:
+   The insurance covers 80% of the total cost. We can calculate that by multiplying the total cost by 0.80.
+   \[
+   \text{Insurance Coverage} = 0.80 \times \text{Total Cost} = 0.80 \times 1000 = 800
+   \]
+
+4. **Calculate how much Mike has to pay**:
+   To find out how much Mike has to pay, we subtract the insurance coverage from the total cost:
+   \[
+   \text{Mike's Payment} = \text{Total Cost} - \text{Insurance Coverage} = 1000 - 800 = 200
+   \]
+
+Therefore, Mike pays $200 out of pocket for the x-ray and MRI.
+</reasoning>
+<answer>200</answer>

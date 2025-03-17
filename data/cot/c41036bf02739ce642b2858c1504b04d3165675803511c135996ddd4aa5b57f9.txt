@@ -1,0 +1,37 @@
+<reasoning>
+Let's denote Mary's current age as \( M \).
+
+1. **Understanding the problem**: We know that in four years, Suzy will be twice as old as Mary. Currently, Suzy is 20 years old.
+
+2. **Calculating Suzy's age in four years**: 
+   - In four years, Suzy's age will be \( 20 + 4 = 24 \).
+
+3. **Setting up the equation for Mary's age**:
+   - In four years, Mary's age will be \( M + 4 \).
+   - According to the problem, Suzy's age in four years (24) will be twice Mary's age at that time. We can set up the equation:
+     \[
+     24 = 2(M + 4)
+     \]
+
+4. **Solving the equation**:
+   - First, let's distribute the 2 on the right side:
+     \[
+     24 = 2M + 8
+     \]
+   - Next, we subtract 8 from both sides to isolate the term with \( M \):
+     \[
+     24 - 8 = 2M
+     \]
+     \[
+     16 = 2M
+     \]
+   - Now, divide both sides by 2 to solve for \( M \):
+     \[
+     M = \frac{16}{2} = 8
+     \]
+
+5. **Conclusion**: Mary's current age is 8 years old.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,57 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Calculate the total number of racing cars Tom bought**: 
+   Tom bought 10 packages, and each package contains 5 cars. To find the total number of cars, we multiply the number of packages by the number of cars in each package.
+   
+   \[
+   \text{Total cars} = \text{Number of packages} \times \text{Cars per package} = 10 \times 5
+   \]
+   
+   This calculation gives us:
+   
+   \[
+   \text{Total cars} = 50
+   \]
+
+2. **Determine how many cars Tom gives to his nephews**: 
+   Tom has two nephews and he gives each of them \( \frac{1}{5} \) of the total cars. First, we need to calculate how many cars that is for one nephew.
+
+   \[
+   \text{Cars per nephew} = \frac{1}{5} \times \text{Total cars} = \frac{1}{5} \times 50
+   \]
+   
+   This calculation gives us:
+   
+   \[
+   \text{Cars per nephew} = 10
+   \]
+
+   Since he has two nephews, we need to calculate the total number of cars given away:
+
+   \[
+   \text{Total cars given away} = 2 \times \text{Cars per nephew} = 2 \times 10
+   \]
+   
+   This calculation gives us:
+   
+   \[
+   \text{Total cars given away} = 20
+   \]
+
+3. **Calculate the number of cars left with Tom**: 
+   Now, we can find out how many cars are left with Tom by subtracting the total cars given away from the total cars he originally had:
+
+   \[
+   \text{Cars left with Tom} = \text{Total cars} - \text{Total cars given away} = 50 - 20
+   \]
+   
+   This calculation gives us:
+   
+   \[
+   \text{Cars left with Tom} = 30
+   \]
+
+Therefore, after giving away the cars to his nephews, the number of miniature racing cars left with Tom is:
+</reasoning>
+<answer>30</answer>

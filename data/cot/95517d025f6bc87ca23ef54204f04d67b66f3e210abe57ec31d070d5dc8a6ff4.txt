@@ -1,0 +1,42 @@
+<reasoning>
+To solve this problem, we will first find out how many figurines can be made from each type of wood, and then we will sum those amounts to find the total number of figurines.
+
+1. **Calculating figurines from basswood:**
+   - Each block of basswood can create 3 figurines.
+   - Adam has 15 blocks of basswood.
+   - To find the total figurines from basswood, we multiply the number of blocks by the number of figurines per block:
+     \[
+     \text{Total figurines from basswood} = 15 \text{ blocks} \times 3 \text{ figurines/block} = 45 \text{ figurines}
+     \]
+
+2. **Calculating figurines from butternut wood:**
+   - Each block of butternut wood can create 4 figurines.
+   - Adam has 20 blocks of butternut wood.
+   - To find the total figurines from butternut wood, we multiply:
+     \[
+     \text{Total figurines from butternut wood} = 20 \text{ blocks} \times 4 \text{ figurines/block} = 80 \text{ figurines}
+     \]
+
+3. **Calculating figurines from aspen wood:**
+   - Each block of aspen wood can create twice the amount of figurines compared to basswood. Since basswood makes 3 figurines, aspen will make:
+     \[
+     2 \times 3 = 6 \text{ figurines/block}
+     \]
+   - Adam has 20 blocks of aspen wood.
+   - To find the total figurines from aspen wood, we multiply:
+     \[
+     \text{Total figurines from aspen wood} = 20 \text{ blocks} \times 6 \text{ figurines/block} = 120 \text{ figurines}
+     \]
+
+4. **Finding the total number of figurines:**
+   - Now we simply add the total figurines from each type of wood:
+     \[
+     \text{Total figurines} = \text{Total from basswood} + \text{Total from butternut} + \text{Total from aspen}
+     \]
+     \[
+     \text{Total figurines} = 45 + 80 + 120 = 245 \text{ figurines}
+     \]
+
+Therefore, after calculating the figurines from each type of wood and summing them up, we find that Adam can make a total of 245 figurines.
+</reasoning>
+<answer>245</answer>

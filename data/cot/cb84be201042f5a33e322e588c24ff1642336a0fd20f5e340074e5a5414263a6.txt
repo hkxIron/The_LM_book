@@ -1,0 +1,50 @@
+<reasoning>
+To find out how many of Mrs. Amaro's roses are either red or white, we will break down the problem step by step.
+
+1. **Calculate the number of red roses**: 
+   Mrs. Amaro has a total of 80 roses. According to the problem, three-fourths of her roses are red. To find the number of red roses, we calculate:
+   \[
+   \text{Number of red roses} = \frac{3}{4} \times 80
+   \]
+   Multiplying:
+   \[
+   \frac{3 \times 80}{4} = \frac{240}{4} = 60
+   \]
+   So, Mrs. Amaro has 60 red roses.
+
+2. **Calculate the number of remaining roses**:
+   After counting the red roses, we find the remaining roses by subtracting the number of red roses from the total:
+   \[
+   \text{Remaining roses} = 80 - 60 = 20
+   \]
+
+3. **Calculate the number of yellow roses**:
+   The problem states that one-fourth of the remaining roses are yellow. So, we calculate:
+   \[
+   \text{Number of yellow roses} = \frac{1}{4} \times 20
+   \]
+   Multiplying:
+   \[
+   \frac{20}{4} = 5
+   \]
+   Therefore, there are 5 yellow roses.
+
+4. **Calculate the number of white roses**:
+   To find the number of white roses, we subtract the number of yellow roses from the remaining roses:
+   \[
+   \text{Number of white roses} = 20 - 5 = 15
+   \]
+
+5. **Calculate the total number of red and white roses**:
+   Now we need to find out how many roses are either red or white. We add the number of red and white roses:
+   \[
+   \text{Total red and white roses} = \text{Number of red roses} + \text{Number of white roses}
+   \]
+   Substituting the values:
+   \[
+   60 + 15 = 75
+   \]
+
+Therefore, the total number of Mrs. Amaro's roses that are either red or white is 75.
+</reasoning>
+<answer>75</answer>

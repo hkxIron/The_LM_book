@@ -1,0 +1,23 @@
+<reasoning>
+To find out how much Tom paid to rent the helicopter, we need to calculate the total cost based on the hourly rate and the number of hours he rented the helicopter.
+
+1. **Identify the hourly rate**: The problem states that it costs $75 per hour to rent the helicopter.
+
+2. **Identify the number of hours rented per day**: Tom rents the helicopter for 2 hours each day.
+
+3. **Identify the number of days rented**: Tom rents the helicopter for 3 days.
+
+4. **Calculate the total number of hours rented**: 
+   - We multiply the number of hours per day by the number of days.
+   - Total hours = 2 hours/day * 3 days = 6 hours.
+
+5. **Calculate the total cost**: 
+   - Now, we multiply the total number of hours rented by the hourly rate to find the total cost.
+   - Total cost = Total hours * Hourly rate = 6 hours * $75/hour.
+
+6. **Perform the multiplication**: 
+   - Total cost = 6 * 75 = 450.
+
+Therefore, Tom paid a total of $450 to rent the helicopter for 3 days.
+</reasoning>
+<answer>450</answer>

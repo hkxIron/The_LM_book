@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much money Sandy earned in total over the three days, we need to calculate her earnings for each day separately and then sum them up.
+
+1. **Calculate earnings for Friday:**
+   - Sandy worked for 10 hours on Friday.
+   - Her hourly wage is $15.
+   - To find out her earnings for Friday, we multiply the number of hours worked by her hourly rate:
+     \[
+     \text{Earnings on Friday} = 10 \, \text{hours} \times 15 \, \text{dollars/hour} = 150 \, \text{dollars}
+     \]
+
+2. **Calculate earnings for Saturday:**
+   - Sandy worked for 6 hours on Saturday.
+   - Using the same hourly wage of $15, we calculate her earnings for Saturday:
+     \[
+     \text{Earnings on Saturday} = 6 \, \text{hours} \times 15 \, \text{dollars/hour} = 90 \, \text{dollars}
+     \]
+
+3. **Calculate earnings for Sunday:**
+   - Sandy worked for 14 hours on Sunday.
+   - Again, using her hourly wage of $15, we calculate her earnings for Sunday:
+     \[
+     \text{Earnings on Sunday} = 14 \, \text{hours} \times 15 \, \text{dollars/hour} = 210 \, \text{dollars}
+     \]
+
+4. **Sum up all the earnings:**
+   - Now, we need to add the earnings from all three days to find the total amount Sandy earned:
+     \[
+     \text{Total Earnings} = \text{Earnings on Friday} + \text{Earnings on Saturday} + \text{Earnings on Sunday}
+     \]
+     \[
+     \text{Total Earnings} = 150 \, \text{dollars} + 90 \, \text{dollars} + 210 \, \text{dollars} = 450 \, \text{dollars}
+     \]
+
+Therefore, after calculating and summing her earnings from each day, we find that Sandy earned a total of $450 over Friday, Saturday, and Sunday.
+</reasoning>
+<answer>450</answer>

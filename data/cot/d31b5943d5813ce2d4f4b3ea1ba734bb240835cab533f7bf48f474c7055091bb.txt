@@ -1,0 +1,22 @@
+<reasoning>
+First, we need to determine the total number of fruits in the blue basket. 
+
+1. We start with the number of bananas and apples in the blue basket:
+   - Bananas: 12
+   - Apples: 4
+
+2. Next, we add the number of bananas and apples together to find the total number of fruits in the blue basket:
+   \[
+   \text{Total fruits in blue basket} = \text{Number of bananas} + \text{Number of apples} = 12 + 4 = 16
+   \]
+   This is important because it gives us the total count of fruits we need to use for the next step.
+
+3. Now, we need to determine how many fruits are in the red basket. According to the problem, the red basket holds half as many fruits as the blue basket. Therefore, we calculate half of the total fruits in the blue basket:
+   \[
+   \text{Total fruits in red basket} = \frac{\text{Total fruits in blue basket}}{2} = \frac{16}{2} = 8
+   \]
+   This step is crucial because it directly gives us the number of fruits in the red basket by applying the condition given in the problem.
+
+Therefore, the number of fruits in the red basket is 8.
+</reasoning>
+<answer>8</answer>

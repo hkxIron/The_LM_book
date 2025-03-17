@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much Tim makes in a week, we need to calculate his daily earnings and then multiply that by the number of days he works in a week.
+
+1. **Calculate Tim's daily earnings**:
+   - Tim does 100 tasks a day.
+   - Each task pays $1.2.
+   - To find his daily earnings, we multiply the number of tasks by the payment per task:
+     \[
+     \text{Daily Earnings} = \text{Number of tasks} \times \text{Payment per task} = 100 \times 1.2
+     \]
+   - Performing the multiplication:
+     \[
+     100 \times 1.2 = 120
+     \]
+   - So, Tim earns $120 each day.
+
+2. **Calculate Tim's weekly earnings**:
+   - Tim works 6 days a week.
+   - To find his weekly earnings, we multiply his daily earnings by the number of days he works:
+     \[
+     \text{Weekly Earnings} = \text{Daily Earnings} \times \text{Number of days worked} = 120 \times 6
+     \]
+   - Performing the multiplication:
+     \[
+     120 \times 6 = 720
+     \]
+   - Thus, Tim earns $720 in a week.
+
+Therefore, after calculating both his daily and weekly earnings step by step, we find that Tim makes a total of $720 in a week.
+</reasoning>
+<answer>720</answer>

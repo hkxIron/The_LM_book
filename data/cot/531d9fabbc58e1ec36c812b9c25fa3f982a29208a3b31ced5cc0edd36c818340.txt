@@ -1,0 +1,39 @@
+<reasoning>
+To determine how many points Reggie loses by in the basketball shooting contest against his brother, we first need to calculate the total points scored by each player.
+
+**Step 1: Calculate Reggie's total score.**
+- Reggie makes 3 layups, which are worth 1 point each:
+  \[
+  3 \text{ layups} \times 1 \text{ point/layup} = 3 \text{ points}
+  \]
+  
+- He also makes 2 free throws, which are worth 2 points each:
+  \[
+  2 \text{ free throws} \times 2 \text{ points/free throw} = 4 \text{ points}
+  \]
+
+- Finally, he makes 1 long shot, which is worth 3 points:
+  \[
+  1 \text{ long shot} \times 3 \text{ points/long shot} = 3 \text{ points}
+  \]
+
+Now, we add up all the points Reggie scored:
+\[
+\text{Total points for Reggie} = 3 \text{ points (from layups)} + 4 \text{ points (from free throws)} + 3 \text{ points (from long shots)} = 10 \text{ points}
+\]
+
+**Step 2: Calculate his brother's total score.**
+- His brother only shoots long shots and makes 4 of them:
+\[
+4 \text{ long shots} \times 3 \text{ points/long shot} = 12 \text{ points}
+\]
+
+**Step 3: Determine the point difference.**
+To find out how many points Reggie loses by, we subtract Reggie's score from his brother's score:
+\[
+\text{Points lost by Reggie} = \text{Brother's score} - \text{Reggie's score} = 12 \text{ points} - 10 \text{ points} = 2 \text{ points}
+\]
+
+Thus, Reggie loses by 2 points.
+</reasoning>
+<answer>2</answer>

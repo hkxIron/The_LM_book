@@ -1,0 +1,25 @@
+<reasoning>
+To find the granddaughter's age, we will need to follow a few steps to calculate the ages of Betty's daughter and then her granddaughter.
+
+1. **Calculate Betty's daughter's age**: 
+   Betty is 60 years old, and her daughter is 40 percent younger than she is. 
+   To find 40 percent of Betty's age, we calculate:
+   \[
+   0.40 \times 60 = 24
+   \]
+   Now, we subtract this value from Betty's age to find her daughter's age:
+   \[
+   60 - 24 = 36
+   \]
+   So, Betty's daughter is 36 years old.
+
+2. **Calculate the granddaughter's age**: 
+   The granddaughter is one-third of her mother's age. Since we found that the daughter is 36 years old, we can calculate the granddaughter's age by dividing her mother's age by 3:
+   \[
+   \frac{36}{3} = 12
+   \]
+   Therefore, the granddaughter is 12 years old.
+
+Putting everything together, we find that the granddaughter is 12 years old.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many pages Hallie read on the fourth day, let's break down the information given step by step.
+
+1. **Day 1**: Hallie reads 63 pages.
+   - Pages read on Day 1 = 63
+
+2. **Day 2**: Hallie reads twice the number of pages she read on Day 1.
+   - Therefore, Pages read on Day 2 = 2 * 63 = 126 pages.
+
+3. **Day 3**: Hallie reads 10 more pages than she read on Day 2.
+   - Therefore, Pages read on Day 3 = 126 + 10 = 136 pages.
+
+Now, let's calculate the total number of pages she has read over the first three days:
+
+Total pages read in the first three days = Pages on Day 1 + Pages on Day 2 + Pages on Day 3
+= 63 + 126 + 136
+
+Calculating this step:
+- 63 + 126 = 189
+- 189 + 136 = 325
+
+So, she has read 325 pages in the first three days.
+
+4. **Total pages in the book**: The book is 354 pages long. 
+
+To find out how many pages Hallie read on the fourth day, we can subtract the total pages read in the first three days from the total pages in the book:
+
+Pages read on Day 4 = Total pages in the book - Total pages read in the first three days
+= 354 - 325
+
+Calculating this:
+354 - 325 = 29
+
+Therefore, Hallie read 29 pages on the fourth day.
+</reasoning>
+<answer>29</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+Let's denote the total number of jelly beans in the jar as \( x \).
+
+1. **Determine the number of red jelly beans:**
+   Since three fourths of the jelly beans are red, we can express this as:
+   \[
+   \text{Number of red jelly beans} = \frac{3}{4}x
+   \]
+
+2. **Determine the number of coconut flavored jelly beans:**
+   We are told that one quarter of the red jelly beans are coconut flavored. Therefore, the number of coconut flavored jelly beans can be expressed as:
+   \[
+   \text{Number of coconut flavored jelly beans} = \frac{1}{4} \times \text{Number of red jelly beans} = \frac{1}{4} \left( \frac{3}{4}x \right)
+   \]
+   Simplifying this, we have:
+   \[
+   \text{Number of coconut flavored jelly beans} = \frac{3}{16}x
+   \]
+
+3. **Set up the equation based on the given information:**
+   We know from the problem that the number of coconut flavored jelly beans is 750. Therefore, we can set up the equation:
+   \[
+   \frac{3}{16}x = 750
+   \]
+
+4. **Solve for \( x \):**
+   To isolate \( x \), we can multiply both sides of the equation by \( \frac{16}{3} \):
+   \[
+   x = 750 \times \frac{16}{3}
+   \]
+   First, calculate \( 750 \div 3 \):
+   \[
+   750 \div 3 = 250
+   \]
+   Now, multiply by 16:
+   \[
+   250 \times 16 = 4000
+   \]
+
+Therefore, the total number of jelly beans in the jar is \( 4000 \).
+</reasoning>
+<answer>4000</answer>

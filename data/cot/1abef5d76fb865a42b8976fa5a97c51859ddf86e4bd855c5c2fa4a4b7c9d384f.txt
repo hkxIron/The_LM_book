@@ -1,0 +1,32 @@
+<reasoning>
+Let's break this problem down step by step:
+
+1. **Identify the total data Elsa has:** 
+   Elsa starts with a total of 500 MB of cell phone data.
+
+2. **Calculate how much data she spends on YouTube:** 
+   She spends 300 MB watching YouTube. 
+   So, we will subtract this amount from her total data:
+   \[
+   500 \text{ MB} - 300 \text{ MB} = 200 \text{ MB}
+   \]
+   After watching YouTube, Elsa has 200 MB left.
+
+3. **Determine how much data she spends on Facebook:** 
+   She spends \( \frac{2}{5} \) of what's left (200 MB) on Facebook. 
+   To find out how much that is, we will calculate \( \frac{2}{5} \) of 200 MB:
+   \[
+   \frac{2}{5} \times 200 \text{ MB} = \frac{400}{5} = 80 \text{ MB}
+   \]
+   So, she spends 80 MB on Facebook.
+
+4. **Calculate how much data she has left after both activities:** 
+   Now we need to subtract the amount spent on Facebook from the remaining data after YouTube:
+   \[
+   200 \text{ MB} - 80 \text{ MB} = 120 \text{ MB}
+   \]
+   Therefore, after watching YouTube and spending on Facebook, Elsa has 120 MB left.
+
+In conclusion, Elsa has 120 MB of data remaining after her activities.
+</reasoning>
+<answer>120</answer>

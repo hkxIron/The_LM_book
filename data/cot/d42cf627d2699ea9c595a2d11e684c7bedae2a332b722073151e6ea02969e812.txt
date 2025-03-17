@@ -1,0 +1,40 @@
+<reasoning>
+To find the total mass of fruit harvested from the orchard, we need to calculate the total mass of apples produced by the apple trees and the total mass of peaches produced by the peach trees. Then, we will sum these two quantities to get the total mass of fruit harvested.
+
+1. **Calculate the total mass of apples:**
+   - We have 30 apple trees.
+   - Each apple tree produces 150 kg of apples.
+   - To find the total mass of apples, we multiply the number of apple trees by the mass produced by each tree:
+     \[
+     \text{Total mass of apples} = \text{Number of apple trees} \times \text{Mass per apple tree} = 30 \times 150
+     \]
+   - Now, calculating that:
+     \[
+     30 \times 150 = 4500 \text{ kg}
+     \]
+
+2. **Calculate the total mass of peaches:**
+   - There are 45 peach trees.
+   - Each peach tree produces 65 kg of peaches.
+   - To find the total mass of peaches, we perform a similar calculation:
+     \[
+     \text{Total mass of peaches} = \text{Number of peach trees} \times \text{Mass per peach tree} = 45 \times 65
+     \]
+   - Now, calculating that:
+     \[
+     45 \times 65 = 2925 \text{ kg}
+     \]
+
+3. **Calculate the total mass of fruit harvested:**
+   - Now we add the total mass of apples and the total mass of peaches to find the total mass of fruit harvested:
+     \[
+     \text{Total mass of fruit} = \text{Total mass of apples} + \text{Total mass of peaches} = 4500 + 2925
+     \]
+   - Now, calculating that:
+     \[
+     4500 + 2925 = 7425 \text{ kg}
+     \]
+
+Therefore, the total mass of fruit harvested in the orchard is 7425 kg.
+</reasoning>
+<answer>7425</answer>

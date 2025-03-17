@@ -1,0 +1,30 @@
+<reasoning>
+To find out the percentage of Wendy's life that she spent in an accounting-related job, we will follow these steps:
+
+1. **Calculate the total number of years Wendy worked in accounting**: This includes both her time as an accountant and as an accounting manager.
+   - Wendy spent 25 years as an accountant and 15 years as an accounting manager.
+   - Total accounting years = 25 + 15 = 40 years.
+
+2. **Determine Wendy's total lifespan**: According to the problem, Wendy lived to be 80 years old.
+
+3. **Calculate the percentage of her life spent in accounting**: To find this percentage, we will use the formula:
+   \[
+   \text{Percentage} = \left( \frac{\text{Years in accounting}}{\text{Total lifespan}} \right) \times 100
+   \]
+   Substituting Wendy's years in accounting and her total lifespan:
+   \[
+   \text{Percentage} = \left( \frac{40}{80} \right) \times 100
+   \]
+
+4. **Perform the calculation**:
+   \[
+   \frac{40}{80} = 0.5
+   \]
+   Then multiplying by 100 gives:
+   \[
+   0.5 \times 100 = 50
+   \]
+
+Now we can conclude that Wendy spent 50% of her life in an accounting-related job.
+</reasoning>
+<answer>50</answer>

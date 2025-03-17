@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understand the growth cycle**: John cuts his grass down to 2 inches. It grows at a rate of 0.5 inches per month. We need to determine how long it takes for the grass to grow from 2 inches to 4 inches, at which point John will cut it again.
+
+2. **Calculate the growth period**: The grass grows from 2 inches to 4 inches, which is a growth of 2 inches. Since the grass grows at a rate of 0.5 inches per month, we can calculate the time needed for this growth:
+   \[
+   \text{Time} = \frac{\text{Growth needed}}{\text{Growth rate}} = \frac{4 \text{ inches} - 2 \text{ inches}}{0.5 \text{ inches per month}} = \frac{2 \text{ inches}}{0.5 \text{ inches per month}} = 4 \text{ months}
+   \]
+   So it takes 4 months for the grass to grow from 2 inches to 4 inches.
+
+3. **Determine cutting frequency**: Since it takes 4 months for the grass to grow to 4 inches, John will need to cut his grass every 4 months.
+
+4. **Calculate annual cuts**: There are 12 months in a year, so we determine how many times John will cut his grass in a year:
+   \[
+   \text{Number of cuts per year} = \frac{12 \text{ months}}{4 \text{ months per cut}} = 3 \text{ cuts per year}
+   \]
+
+5. **Calculate the total cost**: Each cut costs $100. To find out how much John pays per year for grass cutting, we multiply the cost per cut by the number of cuts per year:
+   \[
+   \text{Total cost per year} = \text{Number of cuts per year} \times \text{Cost per cut} = 3 \text{ cuts} \times 100 \text{ dollars} = 300 \text{ dollars}
+   \]
+
+Therefore, John pays $300 per year for cutting his grass.
+</reasoning>
+<answer>300</answer>

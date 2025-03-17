@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many walls Johan painted purple, we can follow these steps:
+
+1. **Determine the total number of rooms in the house.**
+   Johan has a ten-bedroom house, so the total number of rooms is:
+   \[
+   \text{Total rooms} = 10
+   \]
+
+2. **Calculate how many rooms are painted green.**
+   Johan paints \( \frac{3}{5} \) of the rooms green. To find out how many rooms that is, we multiply the total number of rooms by \( \frac{3}{5} \):
+   \[
+   \text{Rooms painted green} = 10 \times \frac{3}{5} = 10 \times 0.6 = 6
+   \]
+
+3. **Calculate how many rooms are painted purple.**
+   To find out how many rooms are left to be painted purple, we subtract the number of rooms painted green from the total number of rooms:
+   \[
+   \text{Rooms painted purple} = 10 - 6 = 4
+   \]
+
+4. **Determine the total number of walls painted purple.**
+   Each room has 8 walls, so to find the total number of walls in the rooms painted purple, we multiply the number of purple rooms by the number of walls per room:
+   \[
+   \text{Walls painted purple} = 4 \times 8 = 32
+   \]
+
+Therefore, Johan painted a total of 32 walls purple.
+</reasoning>
+<answer>32</answer>

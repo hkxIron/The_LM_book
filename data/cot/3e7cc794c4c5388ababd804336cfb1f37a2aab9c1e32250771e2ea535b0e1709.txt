@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of sheets and beams required for the fence panels**:
+   - Each fence panel consists of 3 metal sheets and 2 metal beams.
+   - Since there are 10 fence panels, we will calculate the total number of sheets and beams needed.
+
+   \[
+   \text{Total sheets} = 10 \text{ panels} \times 3 \text{ sheets/panel} = 30 \text{ sheets}
+   \]
+   \[
+   \text{Total beams} = 10 \text{ panels} \times 2 \text{ beams/panel} = 20 \text{ beams}
+   \]
+
+2. **Next, calculate the total number of metal rods needed for the sheets and beams**:
+   - Each sheet is made of 10 metal rods.
+   - Each beam is made of 4 metal rods.
+
+   First, calculate the rods needed for the sheets:
+   \[
+   \text{Rods for sheets} = 30 \text{ sheets} \times 10 \text{ rods/sheet} = 300 \text{ rods}
+   \]
+
+   Now, calculate the rods needed for the beams:
+   \[
+   \text{Rods for beams} = 20 \text{ beams} \times 4 \text{ rods/beam} = 80 \text{ rods}
+   \]
+
+3. **Finally, add the total number of rods needed for both sheets and beams**:
+   \[
+   \text{Total rods} = \text{Rods for sheets} + \text{Rods for beams} = 300 \text{ rods} + 80 \text{ rods} = 380 \text{ rods}
+   \]
+
+Thus, the community needs a total of 380 metal rods for the fence.
+</reasoning>
+<answer>380</answer>

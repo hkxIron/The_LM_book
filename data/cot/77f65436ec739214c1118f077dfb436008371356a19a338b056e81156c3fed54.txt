@@ -1,0 +1,54 @@
+<reasoning>
+Let the number of times Martin rings the big bell be represented by \( x \). 
+
+According to the problem, Martin rings the small bell 4 times more than \( \frac{1}{3} \) of the times he rings the big bell. We can express the number of times he rings the small bell as:
+\[
+\text{Small bell rings} = 4 + \frac{1}{3}x
+\]
+
+Now, we know the total number of rings for both bells is 52. Therefore, we can write the equation:
+\[
+x + \left(4 + \frac{1}{3}x\right) = 52
+\]
+
+Next, we simplify the equation:
+1. Combine like terms:
+\[
+x + 4 + \frac{1}{3}x = 52
+\]
+\[
+\left(1 + \frac{1}{3}\right)x + 4 = 52
+\]
+
+2. Convert \( 1 \) to a fraction with a common denominator:
+\[
+\frac{3}{3} + \frac{1}{3} = \frac{4}{3}
+\]
+Thus, the equation becomes:
+\[
+\frac{4}{3}x + 4 = 52
+\]
+
+3. Subtract 4 from both sides:
+\[
+\frac{4}{3}x = 52 - 4
+\]
+\[
+\frac{4}{3}x = 48
+\]
+
+4. To isolate \( x \), multiply both sides by the reciprocal of \( \frac{4}{3} \), which is \( \frac{3}{4} \):
+\[
+x = 48 \times \frac{3}{4}
+\]
+
+5. Calculate \( 48 \times \frac{3}{4} \):
+\[
+x = 48 \times 0.75 = 36
+\]
+
+Thus, Martin rings the big bell \( 36 \) times. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>36</answer>

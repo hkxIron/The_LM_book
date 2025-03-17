@@ -1,0 +1,44 @@
+<reasoning>
+Let's break this down step by step:
+
+1. **Initial Purchase**: Eliza buys 200 ornamental rings. This is our starting point.
+
+2. **Understanding the Stock**: The problem states that the 200 rings she bought are twice the number of the remaining stock. Let's denote the remaining stock as \( x \). According to the problem:
+   \[
+   200 = 2x
+   \]
+   To find \( x \), we can divide both sides of the equation by 2:
+   \[
+   x = \frac{200}{2} = 100
+   \]
+   So, Eliza's initial stock (the stock she had before buying the 200 rings) was 100 rings.
+
+3. **Total Initial Stock**: Therefore, the total initial stock after the purchase is:
+   \[
+   200 + 100 = 300 \text{ rings}
+   \]
+
+4. **Selling Rings**: Now, Eliza sells 3/4 of her total stock. To find out how many rings she sold:
+   \[
+   \text{Rings sold} = \frac{3}{4} \times 300 = 225 \text{ rings}
+   \]
+   After selling 225 rings, we need to calculate how many rings remain:
+   \[
+   300 - 225 = 75 \text{ rings}
+   \]
+
+5. **Mother's Purchase**: Next, Eliza's mother buys 300 more ornamental rings. So, we add these to the remaining stock:
+   \[
+   75 + 300 = 375 \text{ rings}
+   \]
+
+6. **Selling Additional Rings**: After three days, Eliza sells 150 more rings. We now need to subtract these from the current stock:
+   \[
+   375 - 150 = 225 \text{ rings}
+   \]
+
+7. **Final Count**: The total number of ornamental rings remaining in the store is 225.
+
+Therefore, the total number of ornamental rings remaining in the store is:
+</reasoning>
+<answer>225</answer>

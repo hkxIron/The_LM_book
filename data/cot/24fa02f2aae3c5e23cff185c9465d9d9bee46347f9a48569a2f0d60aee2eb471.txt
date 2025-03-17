@@ -1,0 +1,17 @@
+<reasoning>
+To find out how many chickens Paul was left with to sell at the market, we need to subtract the number of chickens he sold from the total number of chickens he initially had.
+
+1. Start with the total number of chickens Paul had:
+   - Total chickens = 80
+
+2. Subtract the number of chickens he sold to his neighbor:
+   - Chickens sold to neighbor = 12
+   - Remaining chickens after this sale = 80 - 12 = 68
+
+3. Now, subtract the number of chickens he sold to the quick customer at the gate:
+   - Chickens sold at the gate = 25
+   - Remaining chickens after this sale = 68 - 25 = 43
+
+Thus, after selling to both his neighbor and the customer at the gate, Paul is left with 43 chickens to sell at the market.
+</reasoning>
+<answer>43</answer>

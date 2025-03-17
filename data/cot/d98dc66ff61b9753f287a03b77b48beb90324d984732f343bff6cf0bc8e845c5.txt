@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Cost of the Gaming PC**: John buys a gaming PC for $1200. This is the starting point for our calculations.
+
+2. **Selling the Old Video Card**: John sells the old video card for $300. This sale will reduce the overall amount he has spent on the computer because he recoups some of the money he spent.
+
+3. **Buying the New Video Card**: John then buys a new video card for $500. This expense will increase the overall amount he has spent on the computer since he is adding a new component.
+
+Now, let's calculate the total amount John has spent on his computer, taking into account the sale of the old video card.
+
+First, we calculate the amount spent after selling the old card:
+- Amount spent on the gaming PC: $1200
+- Amount received from selling the old video card: -$300 (this is a reduction in total cost)
+
+So, the total after selling the old video card:
+\[ 
+1200 - 300 = 900 
+\]
+
+Next, we add the cost of the new video card:
+- New video card cost: +$500
+
+Now we calculate the final amount spent:
+\[ 
+900 + 500 = 1400 
+\]
+
+Therefore, the total amount John spent on his computer, after accounting for the sale of the old video card, is $1400.
+</reasoning>
+<answer>1400</answer>

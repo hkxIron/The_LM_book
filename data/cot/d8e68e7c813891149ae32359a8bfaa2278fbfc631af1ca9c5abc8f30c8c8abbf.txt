@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the initial total number of attendees at the party:**
+   - There were 30 women and 20 men.
+   - The total number of people is calculated as follows:
+     \[
+     \text{Total people} = \text{Number of women} + \text{Number of men} = 30 + 20 = 50
+     \]
+
+2. **Calculate how many people left the party:**
+   - We know that \( \frac{2}{5} \) of the total number of people left. 
+   - We calculate \( \frac{2}{5} \) of 50:
+     \[
+     \text{People left} = \frac{2}{5} \times 50 = 20
+     \]
+
+3. **Determine how many men and women left the party:**
+   - We know that 9 men left the party. 
+   - Therefore, the number of people who left that were women can be calculated as follows:
+     \[
+     \text{Women left} = \text{Total people left} - \text{Men left} = 20 - 9 = 11
+     \]
+
+4. **Calculate how many women and men stayed at the party:**
+   - The number of women who stayed is:
+     \[
+     \text{Women stayed} = \text{Total women} - \text{Women left} = 30 - 11 = 19
+     \]
+   - The number of men who stayed is:
+     \[
+     \text{Men stayed} = \text{Total men} - \text{Men left} = 20 - 9 = 11
+     \]
+
+5. **Find how many more women stayed than men:**
+   - To find the difference between the number of women and men who stayed:
+     \[
+     \text{Difference} = \text{Women stayed} - \text{Men stayed} = 19 - 11 = 8
+     \]
+
+Therefore, there are 8 more women who stayed at the party than men.
+</reasoning>
+<answer>8</answer>

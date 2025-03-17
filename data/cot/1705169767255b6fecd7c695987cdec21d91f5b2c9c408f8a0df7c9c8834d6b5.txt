@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Steve paid in total for the DVD, we need to consider two main components of his cost: the price of the DVD itself and the shipping costs.
+
+1. **Calculate the cost of the DVD for Steve:**
+   - Mike paid $5 for his DVD.
+   - Steve's DVD cost twice as much as Mike's. 
+   - Therefore, the cost for the DVD for Steve is:
+     \[
+     2 \times 5 = 10 \text{ dollars}
+     \]
+
+2. **Calculate the shipping costs:**
+   - The shipping costs are 80% of the price of the DVD.
+   - First, we need to find 80% of Steve's DVD price, which is $10.
+   - To calculate 80%, we convert it to a decimal (0.8) and multiply:
+     \[
+     0.8 \times 10 = 8 \text{ dollars}
+     \]
+
+3. **Calculate the total amount Steve paid:**
+   - Now we add the cost of the DVD and the shipping costs together:
+     \[
+     10 + 8 = 18 \text{ dollars}
+     \]
+
+Therefore, Steve paid a total of $18 to get the DVD.
+</reasoning>
+<answer>18</answer>

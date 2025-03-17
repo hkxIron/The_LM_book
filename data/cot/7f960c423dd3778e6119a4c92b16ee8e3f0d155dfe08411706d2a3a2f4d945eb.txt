@@ -1,0 +1,43 @@
+<reasoning>
+To find out how much net profit Brad earned from his lemonade stand, we will break down the problem into a series of steps.
+
+1. **Calculate the total number of glasses of lemonade Brad made.**  
+   Since each gallon yields 16 glasses and he made 2 gallons, we calculate:
+   \[
+   \text{Total glasses} = 16 \text{ glasses/gallon} \times 2 \text{ gallons} = 32 \text{ glasses}
+   \]
+   This tells us that Brad produced a total of 32 glasses of lemonade.
+
+2. **Determine how many glasses he consumed.**  
+   Brad drank 5 glasses of lemonade. Therefore, the number of glasses left after he drank some is:
+   \[
+   \text{Glasses left after drinking} = 32 \text{ glasses} - 5 \text{ glasses} = 27 \text{ glasses}
+   \]
+
+3. **Calculate the number of glasses he sold.**  
+   He sold all but 6 glasses. This means he has 6 glasses remaining. So, the number of glasses sold is:
+   \[
+   \text{Glasses sold} = 27 \text{ glasses} - 6 \text{ glasses} = 21 \text{ glasses}
+   \]
+
+4. **Calculate the total revenue from the sales.**  
+   Since he sells each glass for $1.00, the total revenue from selling 21 glasses is:
+   \[
+   \text{Total revenue} = 21 \text{ glasses} \times 1 \text{ dollar/glass} = 21 \text{ dollars}
+   \]
+
+5. **Calculate the total cost of making the lemonade.**  
+   The cost to make each gallon of lemonade is $3.50. Since he made 2 gallons, the total cost is:
+   \[
+   \text{Total cost} = 2 \text{ gallons} \times 3.50 \text{ dollars/gallon} = 7 \text{ dollars}
+   \]
+
+6. **Calculate the net profit.**  
+   The net profit is calculated by taking the total revenue and subtracting the total cost:
+   \[
+   \text{Net profit} = \text{Total revenue} - \text{Total cost} = 21 \text{ dollars} - 7 \text{ dollars} = 14 \text{ dollars}
+   \]
+
+Therefore, after going through all the steps, we can conclude that Brad earned a net profit of $14.
+</reasoning>
+<answer>14</answer>

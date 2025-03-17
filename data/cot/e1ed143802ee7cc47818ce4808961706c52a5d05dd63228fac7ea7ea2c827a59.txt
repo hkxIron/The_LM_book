@@ -1,0 +1,33 @@
+<reasoning>
+Let's start by determining how much Jose charges for adults and kids.
+
+1. **Determine the charge for kids and adults**:
+   - Jose charges $3 for kids.
+   - Since he charges twice that amount for adults, the charge for adults is:
+     \[
+     2 \times 3 = 6 \text{ dollars}
+     \]
+
+2. **Calculate the total earnings from kids and adults in one day**:
+   - For 8 kids, the total charge is:
+     \[
+     8 \times 3 = 24 \text{ dollars}
+     \]
+   - For 10 adults, the total charge is:
+     \[
+     10 \times 6 = 60 \text{ dollars}
+     \]
+   - So, the total earnings for one day from both kids and adults is:
+     \[
+     24 + 60 = 84 \text{ dollars}
+     \]
+
+3. **Calculate the total earnings for one week**:
+   - There are 7 days in a week, so the total earnings for one week is:
+     \[
+     84 \times 7 = 588 \text{ dollars}
+     \]
+
+Thus, after calculating all the steps, we find that Jose will earn:
+</reasoning>
+<answer>588</answer>

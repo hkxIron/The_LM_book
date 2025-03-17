@@ -1,0 +1,50 @@
+<reasoning>
+To determine how many cans of frosting Paul will need, we first need to calculate the frosting requirements for each type of dessert he is preparing.
+
+1. **Layer Cakes**:
+   - Paul needs to frost 3 layer cakes.
+   - Each layer cake requires 1 can of frosting.
+   - Therefore, for 3 layer cakes, he will need:
+     \[
+     3 \text{ layer cakes} \times 1 \text{ can/layer cake} = 3 \text{ cans of frosting}
+     \]
+
+2. **Cupcakes**:
+   - Paul needs to frost 6 dozen cupcakes.
+   - Each dozen cupcakes requires half a can of frosting.
+   - Therefore, for 6 dozen cupcakes, he will need:
+     \[
+     6 \text{ dozen} \times \frac{1}{2} \text{ can/dozen} = 3 \text{ cans of frosting}
+     \]
+
+3. **Single Cakes**:
+   - Paul needs to frost 12 single cakes.
+   - Each single cake requires half a can of frosting.
+   - Therefore, for 12 single cakes, he will need:
+     \[
+     12 \text{ single cakes} \times \frac{1}{2} \text{ can/single cake} = 6 \text{ cans of frosting}
+     \]
+
+4. **Brownies**:
+   - Paul needs to frost 18 pans of brownies.
+   - Each pan of brownies requires half a can of frosting.
+   - Therefore, for 18 pans of brownies, he will need:
+     \[
+     18 \text{ pans} \times \frac{1}{2} \text{ can/pan} = 9 \text{ cans of frosting}
+     \]
+
+Now, we will add up all the cans of frosting needed for each type of dessert:
+
+- Cans for layer cakes: 3
+- Cans for cupcakes: 3
+- Cans for single cakes: 6
+- Cans for brownies: 9
+
+Total cans of frosting needed:
+\[
+3 + 3 + 6 + 9 = 21 \text{ cans of frosting}
+\]
+
+Therefore, Paul will need a total of 21 cans of frosting.
+</reasoning>
+<answer>21</answer>

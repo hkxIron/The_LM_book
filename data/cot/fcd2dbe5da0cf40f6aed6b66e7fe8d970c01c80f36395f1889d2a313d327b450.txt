@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we will break it down into steps.
+
+1. **Determine the number of people returned**: The alien abducted 200 people and returned 80% of them. To find out how many people that is, we need to calculate 80% of 200.
+   \[
+   80\% \text{ of } 200 = 0.80 \times 200 = 160
+   \]
+   This means the alien returned 160 people.
+
+2. **Calculate the number of people remaining after the return**: After the alien returned 160 people, we need to find out how many were left with the alien. We subtract the number of people returned from the total number abducted.
+   \[
+   200 - 160 = 40
+   \]
+   So, there are 40 people remaining with the alien.
+
+3. **Determine how many people were taken to another planet**: The alien took 10 people to another planet. 
+
+4. **Calculate how many people were taken to the alien's home planet**: To find out how many people were taken to the alien's home planet, we subtract the 10 people taken to another planet from the 40 people remaining.
+   \[
+   40 - 10 = 30
+   \]
+   Thus, the alien took 30 people to his home planet.
+
+Therefore, the total number of people taken to the alien's home planet is:
+</reasoning>
+<answer>30</answer>

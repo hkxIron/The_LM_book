@@ -1,0 +1,18 @@
+<reasoning>
+To find out how much each pair of pants costs, we start by determining the total cost of the t-shirts that Bryan bought.
+
+1. **Calculate the total cost of the t-shirts**: 
+   - Since each t-shirt costs $100 and Bryan bought 5 t-shirts, we multiply the number of t-shirts by the cost of each t-shirt.
+   - Calculation: \( 5 \text{ t-shirts} \times 100 \text{ dollars/t-shirt} = 500 \text{ dollars} \).
+
+2. **Determine the total amount spent on pants**:
+   - Bryan spent a total of $1500 on both t-shirts and pants. To find the total cost of the pants, we subtract the cost of the t-shirts from the total amount spent.
+   - Calculation: \( 1500 \text{ dollars} - 500 \text{ dollars} = 1000 \text{ dollars} \).
+
+3. **Calculate the cost per pair of pants**:
+   - Bryan bought 4 pairs of pants for a total of $1000. To find the cost per pair of pants, we divide the total cost of the pants by the number of pairs bought.
+   - Calculation: \( 1000 \text{ dollars} \div 4 \text{ pairs of pants} = 250 \text{ dollars/pair} \).
+
+Thus, each pair of pants costs $250.
+</reasoning>
+<answer>250</answer>

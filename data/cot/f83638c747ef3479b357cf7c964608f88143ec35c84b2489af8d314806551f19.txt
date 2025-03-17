@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we first need to determine Tony's elevated temperature when he gets sick. 
+
+1. **Identify Tony's normal temperature**: Tony's normal temperature is given as 95 degrees.
+
+2. **Determine the increase in temperature due to sickness**: It is stated that his temperature increases by 10 degrees because of the sickness.
+
+3. **Calculate Tony's new temperature**: We add the increase to his normal temperature:
+   \[
+   \text{New Temperature} = \text{Normal Temperature} + \text{Increase} = 95 \text{ degrees} + 10 \text{ degrees} = 105 \text{ degrees}
+   \]
+   This calculation shows that Tony's temperature after the sickness is 105 degrees.
+
+4. **Identify the fever threshold**: The problem states that a fever is defined as anything over 100 degrees.
+
+5. **Calculate how many degrees above the fever threshold Tony is**: To find out how many degrees above the threshold of 100 degrees Tony's temperature is, we subtract 100 from his new temperature:
+   \[
+   \text{Degrees Above Fever Threshold} = \text{New Temperature} - \text{Fever Threshold} = 105 \text{ degrees} - 100 \text{ degrees} = 5 \text{ degrees}
+   \]
+   This shows that Tony's temperature is 5 degrees above the fever threshold.
+
+Therefore, after calculating all the necessary information, we conclude that Tony's temperature is 5 degrees above the threshold of fever.
+</reasoning>
+<answer>5</answer>

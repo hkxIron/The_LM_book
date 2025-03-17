@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many hours Sam spends studying the three subjects, we first need to add the total time he spends on each subject, which is given in minutes, and then convert that total into hours.
+
+1. **Add the time spent on each subject**:
+   - Time spent on Science: 60 minutes
+   - Time spent on Math: 80 minutes
+   - Time spent on Literature: 40 minutes
+
+   We add these values together:
+   \[
+   60 + 80 + 40 = 180 \text{ minutes}
+   \]
+
+2. **Convert minutes to hours**:
+   Since there are 60 minutes in an hour, we need to divide the total number of minutes by 60 to convert it into hours:
+   \[
+   \frac{180 \text{ minutes}}{60} = 3 \text{ hours}
+   \]
+
+Therefore, Sam spends a total of 3 hours studying the three subjects.
+</reasoning>
+<answer>3</answer>

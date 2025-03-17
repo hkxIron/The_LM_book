@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much money Margaux will collect after 7 days, we need to calculate the total amount collected from each individual over that period.
+
+1. **Calculate the total from her friend:**
+   - Her friend pays $5 per day.
+   - For 7 days, the total from her friend is:
+     \[
+     5 \text{ (dollars per day)} \times 7 \text{ (days)} = 35 \text{ dollars}
+     \]
+   - This step shows that we multiply the daily payment by the number of days to find the total collected from her friend.
+
+2. **Calculate the total from her brother:**
+   - Her brother pays $8 per day.
+   - For 7 days, the total from her brother is:
+     \[
+     8 \text{ (dollars per day)} \times 7 \text{ (days)} = 56 \text{ dollars}
+     \]
+   - Here, we again multiply the daily payment by the number of days to find the total collected from her brother.
+
+3. **Calculate the total from her cousin:**
+   - Her cousin pays $4 per day.
+   - For 7 days, the total from her cousin is:
+     \[
+     4 \text{ (dollars per day)} \times 7 \text{ (days)} = 28 \text{ dollars}
+     \]
+   - This step is similar to the previous calculations, where we multiply the daily payment by the number of days to find the total collected from her cousin.
+
+4. **Calculate the overall total collected:**
+   - Now, we add up all the amounts collected from her friend, brother, and cousin:
+     \[
+     35 \text{ (from friend)} + 56 \text{ (from brother)} + 28 \text{ (from cousin)} = 119 \text{ dollars}
+     \]
+   - This step combines all the individual totals to find the overall total collected after 7 days.
+
+Therefore, the total amount Margaux will collect after 7 days is:
+</reasoning>
+<answer>119</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To find out how much money Sheila will have in her piggy bank at the end of 4 years, we need to break down the components of her savings: her initial savings, her monthly contributions, and the additional money added by her family.
+
+1. **Initial Savings**: Sheila has already saved $3,000.
+   - This amount will be the starting point for her total savings.
+
+2. **Monthly Contributions**: Sheila plans to save $276 each month for 4 years.
+   - First, we need to determine how many months are in 4 years. 
+   - There are 12 months in a year, so in 4 years, there will be:
+     \[
+     4 \text{ years} \times 12 \text{ months/year} = 48 \text{ months}
+     \]
+
+3. **Total Contributions Over 4 Years**: Now, we can calculate the total amount she will save from her monthly contributions:
+   \[
+   276 \text{ dollars/month} \times 48 \text{ months} = 13,248 \text{ dollars}
+   \]
+
+4. **Family Contribution**: Sheila's family added $7,000 to her piggy bank.
+   - This amount will also contribute to the total savings.
+
+5. **Calculating the Total Amount in the Piggy Bank**: Now, we will add all the components together:
+   \[
+   \text{Total Savings} = \text{Initial Savings} + \text{Total Monthly Contributions} + \text{Family Contribution}
+   \]
+   \[
+   \text{Total Savings} = 3,000 + 13,248 + 7,000
+   \]
+
+6. **Final Calculation**: Now, let's perform the addition:
+   \[
+   3,000 + 13,248 = 16,248
+   \]
+   \[
+   16,248 + 7,000 = 23,248
+   \]
+
+Therefore, at the end of 4 years, Sheila will have a total of $23,248 in her piggy bank.
+</reasoning>
+<answer>23248</answer>

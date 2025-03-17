@@ -1,0 +1,16 @@
+<reasoning>
+First, we need to figure out the total number of flowers in the garden. We do this by adding up the number of roses, tulips, and daisies.
+
+25 roses + 40 tulips + 35 daisies = 100 flowers
+
+Next, we need to determine the number of flowers that are not roses. Since we know there are 25 roses, we subtract this number from the total number of flowers.
+
+100 flowers - 25 roses = 75 flowers that are not roses
+
+To find out what percentage these 75 flowers are of the total number of flowers, we divide the number of flowers that are not roses by the total number of flowers and multiply by 100 to convert this fraction to a percentage.
+
+(75 flowers that are not roses / 100 flowers) * 100 = 75%
+
+So, 75% of the flowers are not roses.
+</reasoning>
+<answer>75</answer>

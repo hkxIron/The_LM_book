@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the amount of money Sam saves as S and the amount of money Victory saves as V.
+
+1. From the problem, we know that Sam saves $1000. Therefore, we can write:
+   \[
+   S = 1000
+   \]
+
+2. We also know that Victory saves $100 less than Sam. We can express this relationship mathematically as:
+   \[
+   V = S - 100
+   \]
+
+3. Substituting the value of S (which is $1000) into the equation for V:
+   \[
+   V = 1000 - 100
+   \]
+
+4. Now, we perform the subtraction:
+   \[
+   V = 900
+   \]
+
+5. Now that we have the amounts saved by both Victory and Sam, we can find the total money saved for the holiday spending by adding V and S:
+   \[
+   \text{Total} = S + V = 1000 + 900
+   \]
+
+6. Finally, we perform the addition:
+   \[
+   \text{Total} = 1900
+   \]
+
+Therefore, the total money saved for holiday spending is:
+</reasoning>
+<answer>1900</answer>

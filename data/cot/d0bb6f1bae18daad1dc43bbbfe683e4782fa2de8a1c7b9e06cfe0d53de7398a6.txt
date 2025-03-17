@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the cost of the goats:**
+   Tim buys 3 goats for $400 each. To find the total cost for the goats, we multiply the number of goats by the cost per goat:
+   \[
+   \text{Total cost for goats} = 3 \text{ goats} \times 400 \text{ dollars/goat} = 1200 \text{ dollars}
+   \]
+   This means Tim spends $1200 on goats.
+
+2. **Determine the number of llamas:**
+   It is stated that he gets twice as many llamas as goats. Since he bought 3 goats, the number of llamas he buys is:
+   \[
+   \text{Number of llamas} = 2 \times 3 \text{ goats} = 6 \text{ llamas}
+   \]
+
+3. **Calculate the cost per llama:**
+   The llamas cost 50% more than the goats. Since the goats cost $400 each, we first need to find 50% of $400:
+   \[
+   50\% \text{ of } 400 = 0.5 \times 400 = 200 \text{ dollars}
+   \]
+   Now, to find the cost of one llama, we add this amount to the cost of a goat:
+   \[
+   \text{Cost per llama} = 400 \text{ dollars} + 200 \text{ dollars} = 600 \text{ dollars}
+   \]
+
+4. **Calculate the total cost of the llamas:**
+   Now that we know the cost per llama, we can find the total cost for 6 llamas:
+   \[
+   \text{Total cost for llamas} = 6 \text{ llamas} \times 600 \text{ dollars/llama} = 3600 \text{ dollars}
+   \]
+
+5. **Calculate the total expenditure:**
+   Finally, to find the total amount Tim spent, we add the total cost of the goats to the total cost of the llamas:
+   \[
+   \text{Total expenditure} = \text{Total cost for goats} + \text{Total cost for llamas}
+   \]
+   \[
+   \text{Total expenditure} = 1200 \text{ dollars} + 3600 \text{ dollars} = 4800 \text{ dollars}
+   \]
+
+Therefore, Tim spent a total of $4800 on the animals for his zoo.
+</reasoning>
+<answer>4800</answer>

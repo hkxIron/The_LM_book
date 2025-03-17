@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much John paid for the color drawing, we first need to calculate the cost of the color drawing based on the cost of the black and white drawing.
+
+1. **Identify the cost of the black and white drawing**: The problem states that a black and white drawing costs $160.
+
+2. **Calculate the additional cost for color**: Since the color drawing is 50% more expensive than the black and white drawing, we need to calculate 50% of $160.
+
+   - To find 50% of $160, we can use the formula:
+     \[
+     50\% \text{ of } 160 = \frac{50}{100} \times 160
+     \]
+
+   - Simplifying this:
+     \[
+     50\% \text{ of } 160 = 0.5 \times 160 = 80
+     \]
+
+3. **Calculate the total cost for the color drawing**: Now that we have the additional cost for color, we add it to the cost of the black and white drawing:
+
+   - Total cost for the color drawing:
+     \[
+     \text{Total cost} = \text{Cost of black and white drawing} + \text{Additional color cost}
+     \]
+     \[
+     \text{Total cost} = 160 + 80 = 240
+     \]
+
+Therefore, John paid $240 for the color drawing.
+</reasoning>
+<answer>240</answer>

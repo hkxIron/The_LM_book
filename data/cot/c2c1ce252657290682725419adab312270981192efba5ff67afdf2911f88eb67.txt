@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down Lily's purchases step by step, calculating how much she spends on each item and how much money she has left after each purchase.
+
+1. **Celery:**  
+   - Price: $5  
+   - Total spent on celery: $5  
+   - Money left after buying celery: $60 - $5 = $55  
+
+2. **Cereal:**  
+   - Original price: $12  
+   - Discount: 50% off means she pays 50% of $12.  
+   - Calculation: 50% of $12 = $12 * 0.50 = $6  
+   - Total spent on cereal: $6  
+   - Money left after buying cereal: $55 - $6 = $49  
+
+3. **Bread:**  
+   - Price: $8  
+   - Total spent on bread: $8  
+   - Money left after buying bread: $49 - $8 = $41  
+
+4. **Milk:**  
+   - Original price: $10  
+   - Discount: 10% off means she pays 90% of $10.  
+   - Calculation: 10% of $10 = $10 * 0.10 = $1  
+   - So, she pays: $10 - $1 = $9  
+   - Total spent on milk: $9  
+   - Money left after buying milk: $41 - $9 = $32  
+
+5. **Potatoes:**  
+   - Price per potato: $1  
+   - Quantity: 6 potatoes  
+   - Total spent on potatoes: 6 * $1 = $6  
+   - Money left after buying potatoes: $32 - $6 = $26  
+
+Now, we need to find out how much money Lily has left to spend on coffee:
+
+6. **Coffee:**  
+   - At this point, we only need to determine how much she has left after all the previous purchases. 
+   - Money left for coffee: $26  
+
+Therefore, the amount of money Lily has left to spend on coffee is $26.
+</reasoning>
+<answer>26</answer>

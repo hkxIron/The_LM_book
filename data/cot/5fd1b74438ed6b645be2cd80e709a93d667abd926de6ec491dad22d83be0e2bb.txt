@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Emily's salary would be if she adjusted it to ensure her employees make $35,000 per year, we can follow these steps:
+
+1. **Calculate the total salary for the employees at $35,000 each**: 
+   - Emily has 10 employees, and if each earns $35,000, we multiply the number of employees by the new salary.
+   \[
+   \text{Total employee salary} = 10 \times 35,000 = 350,000
+   \]
+
+2. **Determine how much Emily needs to allocate from her salary**: 
+   - Originally, Emily's employees collectively made $20,000 each.
+   \[
+   \text{Original total employee salary} = 10 \times 20,000 = 200,000
+   \]
+   - We can find the difference between the new total salary and the original total salary:
+   \[
+   \text{Salary increase needed} = 350,000 - 200,000 = 150,000
+   \]
+
+3. **Calculate Emily's new salary**: 
+   - Emily originally makes $1,000,000 per year. If she allocates $150,000 of her salary to her employees, we subtract this amount from her original salary:
+   \[
+   \text{Emily's new salary} = 1,000,000 - 150,000 = 850,000
+   \]
+
+By following these steps, we find that Emily's salary after ensuring that all her employees make $35,000 per year would be $850,000.
+</reasoning>
+<answer>850000</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To find the area of the chalkboard, we first need to determine its dimensions. 
+
+1. **Identify the width**: The width of the chalkboard is given as 3 feet.
+
+2. **Determine the length**: The length is stated to be 2 times the width. Therefore, we can calculate the length as follows:
+   \[
+   \text{Length} = 2 \times \text{Width} = 2 \times 3 \text{ feet} = 6 \text{ feet}
+   \]
+   Here, we multiply the width by 2 to find the length because the problem states that the length is twice the width.
+
+3. **Calculate the area**: The area of a rectangle (which is the shape of a chalkboard) is calculated using the formula:
+   \[
+   \text{Area} = \text{Length} \times \text{Width}
+   \]
+   Substituting in the values we found:
+   \[
+   \text{Area} = 6 \text{ feet} \times 3 \text{ feet} = 18 \text{ square feet}
+   \]
+   This step involves multiplying the length and width together to find the total area.
+
+Thus, the area of the chalkboard is 18 square feet.
+</reasoning>
+<answer>18</answer>

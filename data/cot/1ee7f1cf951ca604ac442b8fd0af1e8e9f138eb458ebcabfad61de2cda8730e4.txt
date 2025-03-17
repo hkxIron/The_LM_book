@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many cards Joseph had at first, we need to calculate the total number of cards he distributed to his students and then add the cards he had left.
+
+1. First, calculate the total number of cards given to the students:
+   - Joseph gave 23 cards to each of his 15 students. 
+   - We multiply the number of cards per student by the number of students:
+     \[
+     23 \text{ cards/student} \times 15 \text{ students} = 345 \text{ cards}
+     \]
+
+2. Next, we add the number of cards that Joseph had left after giving the cards to his students:
+   - Joseph had 12 cards left.
+   - We add this to the total number of cards given out:
+     \[
+     345 \text{ cards} + 12 \text{ cards} = 357 \text{ cards}
+     \]
+
+3. Therefore, the total number of cards Joseph had at first is 357.
+</reasoning>
+<answer>357</answer>

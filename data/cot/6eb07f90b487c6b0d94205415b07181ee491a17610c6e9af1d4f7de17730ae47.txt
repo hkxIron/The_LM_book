@@ -1,0 +1,26 @@
+<reasoning>
+To find the total number of students in grades 2 and 3, we first need to calculate the number of students in each grade.
+
+1. **Calculate the total number of students in the second grade:**
+   - There are 20 boys and 11 girls in the second grade.
+   - To find the total number of students in the second grade, we add the number of boys and girls together:
+     \[
+     20 \text{ boys} + 11 \text{ girls} = 31 \text{ students}
+     \]
+
+2. **Calculate the total number of students in the third grade:**
+   - The problem states that there are twice the number of students in the third grade compared to the second grade.
+   - Therefore, we multiply the total number of students in the second grade by 2:
+     \[
+     31 \text{ students} \times 2 = 62 \text{ students}
+     \]
+
+3. **Add the total number of students from both grades:**
+   - Now, we find the total number of students in grades 2 and 3 by adding the totals from each grade:
+     \[
+     31 \text{ students (grade 2)} + 62 \text{ students (grade 3)} = 93 \text{ students}
+     \]
+
+Therefore, the total number of students in grades 2 and 3 is 93.
+</reasoning>
+<answer>93</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of bananas Lydia has**: We are given that Lydia has 60 bananas.
+
+2. **Determine how many bananas Dawn has**: The problem states that Dawn has 40 more bananas than Lydia. Since Lydia has 60 bananas, we can calculate Dawn's bananas by adding 40 to Lydia's count:
+   \[
+   \text{Dawn's bananas} = \text{Lydia's bananas} + 40 = 60 + 40 = 100
+   \]
+   So, Dawn has 100 bananas.
+
+3. **Calculate the total number of bananas held by Dawn and Lydia**: Now that we have the number of bananas for both Dawn and Lydia, we can find the total number they have together:
+   \[
+   \text{Total bananas for Dawn and Lydia} = \text{Dawn's bananas} + \text{Lydia's bananas} = 100 + 60 = 160
+   \]
+
+4. **Determine how many bananas Donna has**: We know that the total number of bananas among Dawn, Lydia, and Donna is 200. To find out how many bananas Donna has, we subtract the total number of bananas that Dawn and Lydia have from the overall total:
+   \[
+   \text{Donna's bananas} = \text{Total bananas} - \text{Total bananas for Dawn and Lydia} = 200 - 160 = 40
+   \]
+
+Therefore, Donna has 40 bananas.
+</reasoning>
+<answer>40</answer>

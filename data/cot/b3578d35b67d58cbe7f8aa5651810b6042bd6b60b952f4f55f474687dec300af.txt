@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Kristine's total spending**:
+   - Kristine buys one set of barrettes for $3 and one comb for $1.
+   - To find the total amount Kristine spends, we add the cost of the barrettes and the comb together:
+     \[
+     \text{Total for Kristine} = \text{Cost of barrettes} + \text{Cost of comb} = 3 + 1 = 4
+     \]
+   - So, Kristine spends $4.
+
+2. **Calculate Crystal's total spending**:
+   - Crystal buys three sets of barrettes and one comb.
+   - The cost for three sets of barrettes can be calculated as:
+     \[
+     \text{Cost of barrettes for Crystal} = 3 \times 3 = 9
+     \]
+   - Crystal also buys one comb for $1, so we add that cost:
+     \[
+     \text{Total for Crystal} = \text{Cost of barrettes} + \text{Cost of comb} = 9 + 1 = 10
+     \]
+   - Therefore, Crystal spends $10.
+
+3. **Calculate the total spending for both girls**:
+   - Now, we add Kristine's and Crystal's total spending together:
+     \[
+     \text{Total spending} = \text{Total for Kristine} + \text{Total for Crystal} = 4 + 10 = 14
+     \]
+
+Thus, the two girls spend a total of $14 altogether.
+</reasoning>
+<answer>14</answer>

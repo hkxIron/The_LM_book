@@ -1,0 +1,46 @@
+<reasoning>
+To find out how many wheels the bicycles and tricycles in the race have combined, we need to follow these steps:
+
+1. Determine how many racers are on bicycles.
+   - Given that there are a total of 40 racers and that 3/5 of them are riding bicycles, we can calculate the number of racers on bicycles by multiplying the total number of racers by 3/5.
+   - Calculation: 
+     \[
+     \text{Number of cyclists} = 40 \times \frac{3}{5}
+     \]
+   - Simplifying this expression:
+     \[
+     = 40 \times 0.6 = 24
+     \]
+   - So, there are 24 racers on bicycles.
+
+2. Determine how many racers are on tricycles.
+   - The remaining racers must be on tricycles. To find this, we subtract the number of cyclists from the total number of racers.
+   - Calculation:
+     \[
+     \text{Number of tricyclists} = 40 - 24 = 16
+     \]
+
+3. Calculate the number of wheels from the bicycles.
+   - Each bicycle has 2 wheels. Therefore, we multiply the number of bicycles by 2.
+   - Calculation:
+     \[
+     \text{Wheels from bicycles} = 24 \times 2 = 48
+     \]
+
+4. Calculate the number of wheels from the tricycles.
+   - Each tricycle has 3 wheels. Therefore, we multiply the number of tricycles by 3.
+   - Calculation:
+     \[
+     \text{Wheels from tricycles} = 16 \times 3 = 48
+     \]
+
+5. Combine the total number of wheels from both bicycles and tricycles.
+   - We add the number of wheels from bicycles and tricycles together.
+   - Calculation:
+     \[
+     \text{Total wheels} = 48 + 48 = 96
+     \]
+
+Thus, after calculating the number of wheels on both bicycles and tricycles, we find that the total number of wheels is 96.
+</reasoning>
+<answer>96</answer>

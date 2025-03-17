@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to determine the number of motorcycles in the parking lot based on the information given about the cars and the total number of wheels.
+
+1. **Identify the number of wheels from the cars:**
+   - Each car has 5 wheels, and there are 19 cars.
+   - To find the total number of wheels from the cars, we multiply the number of cars by the number of wheels each car has:
+     \[
+     \text{Total wheels from cars} = 19 \text{ cars} \times 5 \text{ wheels/car} = 95 \text{ wheels}
+     \]
+   - This calculation shows that all the cars together account for 95 wheels.
+
+2. **Calculate the remaining wheels for motorcycles:**
+   - We know the total number of wheels from all vehicles is 117.
+   - To find the number of wheels contributed by the motorcycles, we subtract the total wheels from the cars from the total wheels:
+     \[
+     \text{Wheels from motorcycles} = 117 \text{ total wheels} - 95 \text{ wheels from cars} = 22 \text{ wheels}
+     \]
+
+3. **Determine the number of motorcycles:**
+   - Each motorcycle has 2 wheels. To find the number of motorcycles, we divide the total wheels from motorcycles by the number of wheels per motorcycle:
+     \[
+     \text{Number of motorcycles} = \frac{22 \text{ wheels}}{2 \text{ wheels/motorcycle}} = 11 \text{ motorcycles}
+     \]
+
+Therefore, after calculating the number of motorcycles based on the given information, we find:
+</reasoning>
+<answer>11</answer>

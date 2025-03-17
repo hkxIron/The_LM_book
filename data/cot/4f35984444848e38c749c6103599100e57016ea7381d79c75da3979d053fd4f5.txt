@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many kilometers Amelia still has to drive to cross the country, we need to follow these steps:
+
+1. **Calculate the total distance Amelia has driven so far.**
+   - On Monday, Amelia drove 907 kilometers.
+   - On Tuesday, she drove 582 kilometers.
+   - We add these two distances together to find the total distance driven.
+
+   \[
+   \text{Total distance driven} = 907 \text{ km} + 582 \text{ km}
+   \]
+
+   Now, let's do the addition:
+
+   \[
+   907 + 582 = 1489 \text{ km}
+   \]
+
+   So, Amelia has driven a total of 1489 kilometers.
+
+2. **Determine the remaining distance to drive.**
+   - The total distance across the country is 8205 kilometers.
+   - To find out how much farther she has to go, we subtract the total distance driven from the total distance across the country.
+
+   \[
+   \text{Remaining distance} = 8205 \text{ km} - 1489 \text{ km}
+   \]
+
+   Now, let's perform the subtraction:
+
+   \[
+   8205 - 1489 = 6716 \text{ km}
+   \]
+
+3. **Conclusion:**
+   - After calculating, we find that Amelia still has 6716 kilometers left to drive to cross the country.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6716</answer>

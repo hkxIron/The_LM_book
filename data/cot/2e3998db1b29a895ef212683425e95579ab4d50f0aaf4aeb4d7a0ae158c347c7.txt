@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many items Carla needs to collect each day, we first need to determine the total number of items she needs to collect. 
+
+1. **Calculate the total number of items**: Carla needs to collect 30 leaves and 20 bugs. To find the total, we add these two amounts together.
+   \[
+   \text{Total items} = \text{Leaves} + \text{Bugs} = 30 + 20
+   \]
+   This gives us:
+   \[
+   \text{Total items} = 50
+   \]
+
+2. **Determine the number of days**: Carla has a total of 10 days to collect these items.
+
+3. **Calculate the daily collection requirement**: Now, we need to find out how many items she should collect each day if she collects the same amount every day. We do this by dividing the total number of items by the number of days.
+   \[
+   \text{Daily collection} = \frac{\text{Total items}}{\text{Number of days}} = \frac{50}{10}
+   \]
+   This gives us:
+   \[
+   \text{Daily collection} = 5
+   \]
+
+Therefore, Carla needs to collect 5 items each day to meet her goal by the deadline.
+</reasoning>
+<answer>5</answer>

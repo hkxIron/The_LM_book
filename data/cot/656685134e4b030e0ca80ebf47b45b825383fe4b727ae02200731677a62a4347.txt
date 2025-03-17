@@ -1,0 +1,33 @@
+<reasoning>
+To find out how much Bret spends on dinner, we need to calculate the total cost of the main meals, the appetizers, the tip, and the rush order fee step by step.
+
+1. **Calculate the cost of the main meals:**
+   - There are 4 people (Bret and 3 co-workers), and each main meal costs $12.00.
+   - Total cost of main meals = Number of meals × Cost per meal
+   - Total cost of main meals = 4 × $12.00 = $48.00
+
+2. **Calculate the cost of the appetizers:**
+   - They ordered 2 appetizers that cost $6.00 each.
+   - Total cost of appetizers = Number of appetizers × Cost per appetizer
+   - Total cost of appetizers = 2 × $6.00 = $12.00
+
+3. **Calculate the subtotal before tip and rush order:**
+   - Subtotal = Cost of main meals + Cost of appetizers
+   - Subtotal = $48.00 + $12.00 = $60.00
+
+4. **Calculate the tip:**
+   - The tip is 20% of the subtotal.
+   - Tip = 20% of $60.00 = 0.20 × $60.00 = $12.00
+
+5. **Add the rush order fee:**
+   - The rush order fee is a flat $5.00.
+   - Total additional costs = Tip + Rush order fee
+   - Total additional costs = $12.00 + $5.00 = $17.00
+
+6. **Calculate the total cost of dinner:**
+   - Total cost = Subtotal + Total additional costs
+   - Total cost = $60.00 + $17.00 = $77.00
+
+After performing all these calculations, we find that Bret spends a total of $77.00 on dinner.
+</reasoning>
+<answer>77</answer>

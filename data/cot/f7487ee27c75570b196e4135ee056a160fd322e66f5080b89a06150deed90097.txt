@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we will first determine the cost of each type of calculator based on the information given, and then calculate the total cost for purchasing one of each type.
+
+1. **Determine the cost of each type of calculator:**
+   - The cost of a basic calculator is given as $8.
+   - The cost of a scientific calculator is twice the price of the basic calculator. Therefore:
+     \[
+     \text{Cost of Scientific Calculator} = 2 \times 8 = 16 \text{ dollars}
+     \]
+   - The cost of a graphing calculator is three times the price of the scientific calculator. Therefore:
+     \[
+     \text{Cost of Graphing Calculator} = 3 \times 16 = 48 \text{ dollars}
+     \]
+
+2. **Calculate the total cost of purchasing one of each type of calculator:**
+   - Now we will add the costs of all three types of calculators:
+     \[
+     \text{Total Cost} = \text{Cost of Basic} + \text{Cost of Scientific} + \text{Cost of Graphing}
+     \]
+     Substituting the values we found:
+     \[
+     \text{Total Cost} = 8 + 16 + 48
+     \]
+     \[
+     \text{Total Cost} = 72 \text{ dollars}
+     \]
+
+3. **Determine the change received after the purchase:**
+   - The teacher started with $100. To find out how much change she received, we subtract the total cost from the initial amount:
+     \[
+     \text{Change} = \text{Initial Amount} - \text{Total Cost}
+     \]
+     Substituting the values:
+     \[
+     \text{Change} = 100 - 72 = 28 \text{ dollars}
+     \]
+
+Thus, after buying one of each type of calculator, the teacher received $28 in change.
+</reasoning>
+<answer>28</answer>

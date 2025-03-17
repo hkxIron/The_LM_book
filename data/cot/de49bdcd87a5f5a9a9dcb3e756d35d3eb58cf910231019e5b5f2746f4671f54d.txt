@@ -1,0 +1,55 @@
+<reasoning>
+To solve this problem, let's define some variables:
+
+- Let \( j \) be Josh's age when he got married (which is given to be 22).
+- Let \( a \) be Anna's age when they got married.
+
+From the problem, we know that they are celebrating 30 years of marriage today. This means that:
+
+- Josh's current age is \( j + 30 \).
+- Anna's current age is \( a + 30 \).
+
+According to the problem, their combined age today is 5 times what Josh's age was when they married:
+
+\[
+(j + 30) + (a + 30) = 5j
+\]
+
+Substituting \( j = 22 \):
+
+\[
+(22 + 30) + (a + 30) = 5 \times 22
+\]
+
+Now, let's simplify this equation step by step:
+
+1. Calculate \( 22 + 30 \):
+   - This gives us \( 52 \).
+   
+   So the equation now is:
+   \[
+   52 + (a + 30) = 110
+   \]
+   (since \( 5 \times 22 = 110 \)).
+
+2. Simplifying the left side:
+   \[
+   52 + a + 30 = 110
+   \]
+   Combining like terms gives us:
+   \[
+   a + 82 = 110
+   \]
+
+3. To isolate \( a \), subtract 82 from both sides:
+   \[
+   a = 110 - 82
+   \]
+   This simplifies to:
+   \[
+   a = 28
+   \]
+
+Thus, Anna was 28 years old when they got married.
+</reasoning>
+<answer>28</answer>

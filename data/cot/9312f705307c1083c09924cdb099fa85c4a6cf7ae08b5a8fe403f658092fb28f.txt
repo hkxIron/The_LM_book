@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many math problems Rachel did in total, we will break the problem down into steps.
+
+1. **Calculate the number of problems Rachel solved before bed:**
+   - Rachel solved 5 math problems each minute for 12 minutes.
+   - To find the total number of problems solved before bed, we multiply the number of problems per minute by the number of minutes.
+   - Calculation: 
+     \[
+     5 \, \text{problems/minute} \times 12 \, \text{minutes} = 60 \, \text{problems}
+     \]
+   - So, Rachel solved 60 problems before bed.
+
+2. **Add the problems solved at lunch:**
+   - The next day, Rachel finished the last 16 problems at lunch.
+   - To find the total number of problems solved, we add the problems solved before bed to the problems solved at lunch.
+   - Calculation:
+     \[
+     60 \, \text{problems} + 16 \, \text{problems} = 76 \, \text{problems}
+     \]
+
+Therefore, the total number of math problems Rachel did in all is 76.
+</reasoning>
+<answer>76</answer>

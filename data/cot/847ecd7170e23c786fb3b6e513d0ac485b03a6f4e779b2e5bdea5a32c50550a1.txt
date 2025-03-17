@@ -1,0 +1,34 @@
+<reasoning>
+To find the total number of positive Coronavirus cases after the third day, we will break down the problem step by step.
+
+1. **Initial Cases on Day 1**: At the beginning, there are 2000 positive cases.
+
+2. **Day 2 Changes**:
+   - The number of new cases on the second day is 500.
+   - The number of recoveries on the second day is 50.
+   
+   To find the total number of cases at the end of Day 2, we will add the new cases to the initial cases and subtract the recoveries:
+   \[
+   \text{Total cases at the end of Day 2} = \text{Initial cases} + \text{New cases} - \text{Recoveries}
+   \]
+   Substituting the values:
+   \[
+   \text{Total cases at the end of Day 2} = 2000 + 500 - 50 = 2450
+   \]
+
+3. **Day 3 Changes**:
+   - The number of new cases on the third day is 1500.
+   - The number of recoveries on the third day is 200.
+   
+   Now, we will calculate the total number of cases at the end of Day 3 using the same approach:
+   \[
+   \text{Total cases at the end of Day 3} = \text{Total cases at the end of Day 2} + \text{New cases} - \text{Recoveries}
+   \]
+   Substituting the values:
+   \[
+   \text{Total cases at the end of Day 3} = 2450 + 1500 - 200 = 3750
+   \]
+
+At the end of Day 3, the total number of positive Coronavirus cases is 3750.
+</reasoning>
+<answer>3750</answer>

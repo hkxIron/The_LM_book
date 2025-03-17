@@ -1,0 +1,22 @@
+<reasoning>
+Let's solve this problem step by step.
+
+1. **Initial Amount**: George started with $100.
+   
+2. **Cost of Shirt**: He bought a shirt for $24. 
+   To find out how much money he had left after buying the shirt, we subtract the cost of the shirt from the initial amount:
+   \[
+   100 - 24 = 76
+   \]
+   So, after buying the shirt, George had $76 left.
+
+3. **Amount After Buying Socks**: It's given that after buying the pair of socks, he had $65 left. 
+   To find out how much he spent on the socks, we subtract the amount he had left after buying the shirt from the amount he had after buying the socks:
+   \[
+   76 - 65 = 11
+   \]
+   This means George spent $11 on the pair of socks.
+
+Therefore, the cost of the pair of socks is $11.
+</reasoning>
+<answer>11</answer>

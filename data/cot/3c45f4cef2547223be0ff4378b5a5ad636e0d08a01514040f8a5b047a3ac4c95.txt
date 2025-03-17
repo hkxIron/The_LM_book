@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we need to determine how many sausage links are left after Brandy ate some, and then calculate how many ounces of sausage meat those remaining links contain.
+
+1. **Determine the initial number of sausage links**: 
+   Sam made 40 sausage links.
+
+2. **Calculate the number of links eaten by Brandy**: 
+   Brandy ate 12 links.
+
+3. **Calculate the remaining links**: 
+   To find the number of links left after Brandy's feast, we subtract the number of links she ate from the initial number of links.
+   \[
+   \text{Remaining links} = \text{Initial links} - \text{Links eaten} = 40 - 12 = 28
+   \]
+   So, there are 28 sausage links remaining.
+
+4. **Determine the total weight of the meat mix in ounces**: 
+   Sam started with 10 pounds of meat mix. We need to convert pounds to ounces because the final answer requires us to express the weight in ounces. There are 16 ounces in a pound.
+   \[
+   \text{Total weight in ounces} = 10 \text{ pounds} \times 16 \text{ ounces/pound} = 160 \text{ ounces}
+   \]
+
+5. **Calculate the weight of meat per sausage link**: 
+   To find out how much each sausage link weighs, we divide the total weight of the sausage by the number of links made.
+   \[
+   \text{Weight per link} = \frac{\text{Total weight in ounces}}{\text{Total links}} = \frac{160 \text{ ounces}}{40 \text{ links}} = 4 \text{ ounces/link}
+   \]
+
+6. **Calculate the total weight of the remaining links**: 
+   Now, we need to find out how much meat is in the remaining 28 links. We can do this by multiplying the number of remaining links by the weight per link.
+   \[
+   \text{Weight of remaining links} = \text{Remaining links} \times \text{Weight per link} = 28 \text{ links} \times 4 \text{ ounces/link} = 112 \text{ ounces}
+   \]
+
+Therefore, after Brandy's feast, the remaining sausage links contain a total of 112 ounces of sausage meat.
+</reasoning>
+<answer>112</answer>

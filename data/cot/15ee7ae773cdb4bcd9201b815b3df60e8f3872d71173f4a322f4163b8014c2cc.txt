@@ -1,0 +1,53 @@
+<reasoning>
+Let's break down the problem step by step to calculate the total earnings from selling T-shirts per week.
+
+1. **Determine the total operating hours per day**: 
+   The shop is open from 10 am to 10 pm, which is a total of 12 hours. 
+
+2. **Convert hours to minutes**: 
+   Since we need to calculate sales based on minutes, we convert 12 hours to minutes:
+   \[
+   12 \text{ hours} \times 60 \text{ minutes/hour} = 720 \text{ minutes}
+   \]
+
+3. **Calculate the number of women's T-shirts sold per day**:
+   Women's T-shirts are sold every 30 minutes. 
+   To find out how many 30-minute intervals fit into 720 minutes, we perform the following calculation:
+   \[
+   \frac{720 \text{ minutes}}{30 \text{ minutes}} = 24 \text{ women's T-shirts}
+   \]
+
+4. **Calculate the earnings from women's T-shirts**:
+   Each women's T-shirt is sold for $18. Therefore, the total earnings from women's T-shirts per day is:
+   \[
+   24 \text{ T-shirts} \times 18 \text{ dollars/T-shirt} = 432 \text{ dollars}
+   \]
+
+5. **Calculate the number of men's T-shirts sold per day**:
+   Men's T-shirts are sold every 40 minutes. 
+   To find out how many 40-minute intervals fit into 720 minutes, we perform the calculation:
+   \[
+   \frac{720 \text{ minutes}}{40 \text{ minutes}} = 18 \text{ men's T-shirts}
+   \]
+
+6. **Calculate the earnings from men's T-shirts**:
+   Each men's T-shirt is sold for $15. Therefore, the total earnings from men's T-shirts per day is:
+   \[
+   18 \text{ T-shirts} \times 15 \text{ dollars/T-shirt} = 270 \text{ dollars}
+   \]
+
+7. **Calculate the total earnings from T-shirts per day**:
+   Now, we add the earnings from women's and men's T-shirts:
+   \[
+   432 \text{ dollars} + 270 \text{ dollars} = 702 \text{ dollars}
+   \]
+
+8. **Calculate the total earnings per week**:
+   The shop operates 7 days a week. Therefore, the total earnings from T-shirts per week is:
+   \[
+   702 \text{ dollars/day} \times 7 \text{ days} = 4914 \text{ dollars}
+   \]
+
+After completing all the steps, we find that the shop earns a total of $4914 from selling T-shirts per week.
+</reasoning>
+<answer>4914</answer>

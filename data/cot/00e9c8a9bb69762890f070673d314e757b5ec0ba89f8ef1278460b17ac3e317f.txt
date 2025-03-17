@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down Tameka's sales day by day and calculate the total number of boxes she sold over the three days.
+
+1. **Sales on Friday**: 
+   Tameka sold 40 boxes on Friday. 
+   - So, Friday's total = 40 boxes.
+
+2. **Sales on Saturday**: 
+   On Saturday, she sold 10 fewer than twice the number sold on Friday. 
+   - First, we calculate twice the number sold on Friday:
+     \( 2 \times 40 = 80 \) boxes.
+   - Now, we subtract 10 from this amount:
+     \( 80 - 10 = 70 \) boxes.
+   - So, Saturday's total = 70 boxes.
+
+3. **Sales on Sunday**: 
+   On Sunday, she sold half as many as Saturday.
+   - We need to calculate half of the number sold on Saturday:
+     \( \frac{70}{2} = 35 \) boxes.
+   - So, Sunday's total = 35 boxes.
+
+4. **Total Sales Over the Three Days**: 
+   Now, we add the number of boxes sold over the three days:
+   - Total = Friday's total + Saturday's total + Sunday's total
+   - Total = \( 40 + 70 + 35 \).
+
+Now let's do the addition step-by-step:
+   - First, add Friday and Saturday:
+     \( 40 + 70 = 110 \).
+   - Now add Sunday’s sales:
+     \( 110 + 35 = 145 \).
+
+Thus, the total number of boxes Tameka sold over the three days is 145.
+</reasoning>
+<answer>145</answer>

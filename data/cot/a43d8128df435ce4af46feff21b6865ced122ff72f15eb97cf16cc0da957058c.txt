@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we first need to determine the work rate of the pugs. 
+
+1. **Calculate the work rate of 4 pugs:**
+   If 4 pugs can clean the house in 45 minutes, we can find out how much work they do in one minute. The total work can be considered as 1 house. 
+
+   The work rate of 4 pugs is:
+   \[
+   \text{Work rate of 4 pugs} = \frac{1 \text{ house}}{45 \text{ minutes}} = \frac{1}{45} \text{ houses per minute}
+   \]
+
+2. **Calculate the work rate of 1 pug:**
+   To find the work rate of a single pug, we divide the work rate of 4 pugs by 4:
+   \[
+   \text{Work rate of 1 pug} = \frac{1/45}{4} = \frac{1}{180} \text{ houses per minute}
+   \]
+
+3. **Calculate the work rate of 15 pugs:**
+   Now, we can find the work rate for 15 pugs by multiplying the work rate of 1 pug by 15:
+   \[
+   \text{Work rate of 15 pugs} = 15 \times \frac{1}{180} = \frac{15}{180} = \frac{1}{12} \text{ houses per minute}
+   \]
+
+4. **Determine how long it takes for 15 pugs to clean the house:**
+   If the work rate of 15 pugs is \(\frac{1}{12}\) houses per minute, we can find the time to clean 1 house by taking the reciprocal of their work rate:
+   \[
+   \text{Time to clean 1 house} = \frac{1}{\frac{1}{12}} = 12 \text{ minutes}
+   \]
+
+Therefore, 15 pugs working together will be able to clean their house in 12 minutes.
+</reasoning>
+<answer>12</answer>

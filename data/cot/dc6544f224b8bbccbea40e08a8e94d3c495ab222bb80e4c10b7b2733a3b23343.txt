@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we will break it down into steps to find out how many bite-size samples Sedrach can create from his 13 apple pies.
+
+1. **Determine the number of halves from the apple pies**:
+   Each apple pie can be divided into 2 halves. Therefore, if Sedrach has 13 apple pies, we can calculate the total number of halves as follows:
+   \[
+   \text{Total halves} = 13 \, \text{pies} \times 2 \, \text{halves per pie} = 26 \, \text{halves}
+   \]
+
+2. **Calculate the number of bite-size samples from the halves**:
+   Each half of an apple pie can be split into 5 bite-size samples. Now, we can calculate the total number of bite-size samples from the 26 halves:
+   \[
+   \text{Total bite-size samples} = 26 \, \text{halves} \times 5 \, \text{samples per half} = 130 \, \text{samples}
+   \]
+
+3. **Determine how many people can taste the samples**:
+   If each person can taste 1 bite-size sample, then the number of people that can taste Sedrach's apple pie is equal to the total number of samples:
+   \[
+   \text{Number of people} = 130 \, \text{samples}
+   \]
+
+Therefore, Sedrach can serve up to 130 people with his bite-size samples of apple pie.
+</reasoning>
+<answer>130</answer>

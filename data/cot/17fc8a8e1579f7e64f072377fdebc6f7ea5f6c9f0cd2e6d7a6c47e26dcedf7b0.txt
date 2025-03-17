@@ -1,0 +1,50 @@
+<reasoning>
+To find out how long it will take for both friends to run 5 miles each at their respective paces, we first need to determine their speeds in miles per minute.
+
+**Step 1: Calculate the speed of each friend.**
+
+For the first friend:
+- Distance = 3 miles
+- Time = 21 minutes
+
+Speed of the first friend = Distance / Time
+= 3 miles / 21 minutes
+= 1/7 miles per minute.
+
+For the second friend:
+- Distance = 3 miles
+- Time = 24 minutes
+
+Speed of the second friend = Distance / Time
+= 3 miles / 24 minutes
+= 1/8 miles per minute.
+
+**Step 2: Calculate the time it will take each friend to run 5 miles.**
+
+For the first friend:
+- Speed = 1/7 miles per minute
+- Distance = 5 miles
+
+Time = Distance / Speed
+= 5 miles / (1/7 miles per minute)
+= 5 miles * (7/1 minutes/mile)
+= 35 minutes.
+
+For the second friend:
+- Speed = 1/8 miles per minute
+- Distance = 5 miles
+
+Time = Distance / Speed
+= 5 miles / (1/8 miles per minute)
+= 5 miles * (8/1 minutes/mile)
+= 40 minutes.
+
+**Step 3: Calculate the total time combined for both friends.**
+
+Total time = Time of the first friend + Time of the second friend
+= 35 minutes + 40 minutes
+= 75 minutes.
+
+Therefore, the combined time it will take for both friends to run 5 miles each is 75 minutes.
+</reasoning>
+<answer>75</answer>

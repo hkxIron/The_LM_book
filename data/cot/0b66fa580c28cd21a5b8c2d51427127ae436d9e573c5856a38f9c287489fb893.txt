@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we can follow these steps:
+
+1. **Calculate the total number of slices of pizza**: 
+   Stephen ordered 2 large pizzas, and each pizza is cut into 12 slices. Therefore, the total number of slices is:
+   \[
+   \text{Total slices} = 2 \text{ pizzas} \times 12 \text{ slices per pizza} = 24 \text{ slices}
+   \]
+
+2. **Determine how many slices Stephen ate**: 
+   Stephen ate 25% of the total pizza. To find out how many slices that is, we calculate 25% of 24 slices:
+   \[
+   \text{Slices eaten by Stephen} = 0.25 \times 24 = 6 \text{ slices}
+   \]
+
+3. **Calculate the remaining slices after Stephen ate**: 
+   We subtract the number of slices Stephen ate from the total slices:
+   \[
+   \text{Remaining slices} = 24 \text{ slices} - 6 \text{ slices} = 18 \text{ slices}
+   \]
+
+4. **Determine how many slices Pete ate**: 
+   Pete ate 50% of the remaining pizza. So, we calculate 50% of the remaining slices:
+   \[
+   \text{Slices eaten by Pete} = 0.50 \times 18 = 9 \text{ slices}
+   \]
+
+5. **Calculate the final number of slices left over**: 
+   Finally, we subtract the number of slices Pete ate from the remaining slices:
+   \[
+   \text{Slices left over} = 18 \text{ slices} - 9 \text{ slices} = 9 \text{ slices}
+   \]
+
+Therefore, after Stephen and Pete have eaten, there are 9 slices left over.
+</reasoning>
+<answer>9</answer>

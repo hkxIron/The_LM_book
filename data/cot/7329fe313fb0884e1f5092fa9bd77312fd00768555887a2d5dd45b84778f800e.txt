@@ -1,0 +1,31 @@
+<reasoning>
+To find the length of the rest of Miss Aisha's body, we first need to determine the lengths of her legs and her head in relation to her total height.
+
+1. **Identify Miss Aisha's total height**: 
+   Miss Aisha's total height is given as 60 inches.
+
+2. **Calculate the length of her legs**:
+   Miss Aisha's legs are 1/3 of her total height. We can calculate this as follows:
+   \[
+   \text{Length of legs} = \frac{1}{3} \times \text{Total height} = \frac{1}{3} \times 60 = 20 \text{ inches}
+   \]
+
+3. **Calculate the length of her head**:
+   Miss Aisha's head is 1/4 of her total height. We can calculate this as follows:
+   \[
+   \text{Length of head} = \frac{1}{4} \times \text{Total height} = \frac{1}{4} \times 60 = 15 \text{ inches}
+   \]
+
+4. **Calculate the length of the rest of her body**:
+   The rest of her body consists of her torso and any other parts that are not her legs or head. To find this length, we subtract the lengths of her legs and head from her total height:
+   \[
+   \text{Length of rest of body} = \text{Total height} - (\text{Length of legs} + \text{Length of head})
+   \]
+   Plugging in the values we calculated:
+   \[
+   \text{Length of rest of body} = 60 - (20 + 15) = 60 - 35 = 25 \text{ inches}
+   \]
+
+Thus, the length of the rest of Miss Aisha's body is 25 inches.
+</reasoning>
+<answer>25</answer>

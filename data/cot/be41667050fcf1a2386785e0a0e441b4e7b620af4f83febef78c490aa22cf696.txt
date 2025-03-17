@@ -1,0 +1,42 @@
+<reasoning>
+To find the net increase in the number of bicycles in Hank's store over the three days, we need to track the number of bicycles sold and bought each day.
+
+1. **Friday:**
+   - Hank sold 10 bicycles.
+   - Hank bought 15 bicycles.
+   - To calculate the net change for Friday, we subtract the bicycles sold from the bicycles bought:
+     \[
+     \text{Net change on Friday} = \text{Bicycles bought} - \text{Bicycles sold} = 15 - 10 = 5
+     \]
+   - This means Hank's stock increased by 5 bicycles on Friday.
+
+2. **Saturday:**
+   - Hank sold 12 bicycles.
+   - Hank bought 8 bicycles.
+   - Again, we find the net change for Saturday:
+     \[
+     \text{Net change on Saturday} = \text{Bicycles bought} - \text{Bicycles sold} = 8 - 12 = -4
+     \]
+   - This indicates that Hank's stock decreased by 4 bicycles on Saturday.
+
+3. **Sunday:**
+   - Hank sold 9 bicycles.
+   - Hank bought 11 bicycles.
+   - We calculate the net change for Sunday:
+     \[
+     \text{Net change on Sunday} = \text{Bicycles bought} - \text{Bicycles sold} = 11 - 9 = 2
+     \]
+   - This means Hank's stock increased by 2 bicycles on Sunday.
+
+Now, we combine the net changes from all three days to find the total net increase in bicycles:
+\[
+\text{Total net change} = \text{Net change on Friday} + \text{Net change on Saturday} + \text{Net change on Sunday}
+\]
+Substituting the values we calculated:
+\[
+\text{Total net change} = 5 + (-4) + 2 = 5 - 4 + 2 = 3
+\]
+
+Thus, the net increase in the number of bicycles in stock in Hank's store over the three days is 3.
+</reasoning>
+<answer>3</answer>

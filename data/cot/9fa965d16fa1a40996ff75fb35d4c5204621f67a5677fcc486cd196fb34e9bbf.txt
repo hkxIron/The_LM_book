@@ -1,0 +1,20 @@
+<reasoning>
+To find the total number of alligators seen by Samara and her friends, we first need to determine how many alligators her friends saw in total.
+
+1. **Identify the number of friends**: Samara has 3 friends. Thus, the total number of friends is 3.
+
+2. **Average number of alligators seen by friends**: The problem states that her friends saw an average of 10 alligators each.
+
+3. **Calculate the total number of alligators seen by her friends**: To find the total number of alligators seen by all her friends, we multiply the average number of alligators seen by each friend (10) by the number of friends (3). 
+   \[
+   \text{Total alligators seen by friends} = \text{Average} \times \text{Number of friends} = 10 \times 3 = 30
+   \]
+
+4. **Add Samara's alligators to her friends' total**: Now, we need to add the number of alligators Samara saw (which is 20) to the total number of alligators seen by her friends (which we calculated to be 30).
+   \[
+   \text{Total alligators} = \text{Alligators seen by Samara} + \text{Alligators seen by friends} = 20 + 30 = 50
+   \]
+
+Thus, the total number of alligators seen by Samara and her friends is 50.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+First, let's determine how long it takes each person to clean their room.
+
+1. **Richard's cleaning time**: Richard can clean his room in 22 minutes. 
+   - So, Richard's time is 22 minutes.
+
+2. **Cory's cleaning time**: Cory takes 3 minutes more than Richard.
+   - Therefore, Cory's time = Richard's time + 3 minutes = 22 minutes + 3 minutes = 25 minutes.
+
+3. **Blake's cleaning time**: Blake can clean his room 4 minutes more quickly than Cory.
+   - Therefore, Blake's time = Cory's time - 4 minutes = 25 minutes - 4 minutes = 21 minutes.
+
+Now we have the cleaning times for each person:
+- Richard: 22 minutes
+- Cory: 25 minutes
+- Blake: 21 minutes
+
+Next, we need to calculate how much time they each spend cleaning their rooms in one week. They clean their rooms twice a week.
+
+4. **Calculating weekly cleaning time for each person**:
+   - Richard's weekly cleaning time = 22 minutes × 2 = 44 minutes.
+   - Cory's weekly cleaning time = 25 minutes × 2 = 50 minutes.
+   - Blake's weekly cleaning time = 21 minutes × 2 = 42 minutes.
+
+Now, we can sum the weekly times for all three people:
+
+5. **Total cleaning time for the week**:
+   - Total time = Richard's time + Cory's time + Blake's time
+   - Total time = 44 minutes + 50 minutes + 42 minutes = 136 minutes.
+
+Therefore, the total amount of time all three spend cleaning their rooms each week is 136 minutes.
+</reasoning>
+<answer>136</answer>

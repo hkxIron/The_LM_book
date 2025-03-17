@@ -1,0 +1,34 @@
+<reasoning>
+First, we need to find out how many bags of chips are Doritos. We know that one quarter of the total bags of chips are Doritos. 
+
+1. **Calculate the number of Doritos bags:**
+   Since there are 80 bags of chips in total, we can calculate the number of Doritos bags by taking one quarter of 80. 
+
+   \[
+   \text{Number of Doritos bags} = \frac{1}{4} \times 80
+   \]
+
+   Performing the calculation:
+
+   \[
+   \frac{1}{4} \times 80 = 20
+   \]
+
+   This means there are 20 bags of Doritos.
+
+2. **Splitting the Doritos bags into 4 equal piles:**
+   Now that we know there are 20 bags of Doritos, we need to divide these bags into 4 equal piles. We can do this by dividing the total number of Doritos bags by 4.
+
+   \[
+   \text{Bags of Doritos per pile} = \frac{20}{4}
+   \]
+
+   Performing the division:
+
+   \[
+   \frac{20}{4} = 5
+   \]
+
+   Therefore, each pile will have 5 bags of Doritos.
+</reasoning>
+<answer>5</answer>

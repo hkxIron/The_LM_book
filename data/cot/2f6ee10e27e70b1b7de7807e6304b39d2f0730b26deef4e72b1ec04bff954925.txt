@@ -1,0 +1,43 @@
+<reasoning>
+Let's denote the amounts of money each person has using variables:
+
+- Let \( K \) be the amount of money Kent has.
+- Let \( B \) be the amount of money Brooke has.
+- Let \( Br \) be the amount of money Brittany has.
+- Let \( A \) be the amount of money Alison has.
+
+From the problem, we know the following:
+
+1. Kent has $1,000, so \( K = 1000 \).
+2. Brooke has twice as much money as Kent, so we can express Brooke's money as:
+   \[
+   B = 2K
+   \]
+   Substituting \( K = 1000 \):
+   \[
+   B = 2 \times 1000 = 2000
+   \]
+
+3. Brittany has 4 times as much money as Brooke, which gives us:
+   \[
+   Br = 4B
+   \]
+   Substituting \( B = 2000 \):
+   \[
+   Br = 4 \times 2000 = 8000
+   \]
+
+4. Alison has half as much money as Brittany, so we can express Alison's money as:
+   \[
+   A = \frac{1}{2}Br
+   \]
+   Substituting \( Br = 8000 \):
+   \[
+   A = \frac{1}{2} \times 8000 = 4000
+   \]
+
+Now we have found how much money Alison has.
+
+Therefore, Alison has $4,000.
+</reasoning>
+<answer>4000</answer>

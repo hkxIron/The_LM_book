@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step. 
+
+1. **Identify the total number of pictures Louise has**: The problem states that Louise is hanging 30 pictures on the wall.
+
+2. **Understand the distribution of the pictures**: According to the problem, she hangs some pictures vertically, half of them horizontally, and the remaining 5 pictures haphazardly. 
+
+3. **Set up the equation**: Let's denote the number of pictures Louise hangs vertically as \( V \) and the number of pictures she hangs horizontally as \( H \). The problem states that half of the pictures are hung horizontally, so we can express this as:
+   \[
+   H = \frac{30}{2} = 15
+   \]
+
+4. **Account for the haphazardly hung pictures**: It is also given that 5 pictures are hung haphazardly. So, we can express the total number of pictures in terms of \( V \):
+   \[
+   V + H + 5 = 30
+   \]
+
+5. **Substituting for \( H \)**: Now we can substitute \( H \) with 15 in the equation:
+   \[
+   V + 15 + 5 = 30
+   \]
+
+6. **Combine like terms**: Simplifying the equation gives:
+   \[
+   V + 20 = 30
+   \]
+
+7. **Isolate \( V \)**: To find the number of pictures hung vertically, we subtract 20 from both sides:
+   \[
+   V = 30 - 20
+   \]
+   \[
+   V = 10
+   \]
+
+Therefore, the number of pictures that Louise hung vertically is 10.
+</reasoning>
+<answer>10</answer>

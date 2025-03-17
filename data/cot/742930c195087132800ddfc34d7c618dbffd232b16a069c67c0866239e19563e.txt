@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we first need to determine the total number of people who attended the poetry class.
+
+1. **Calculate the total attendance:**
+   We start with 45 people who initially attended the class, and then 15 more people come in later. We add these two amounts together to get the total attendance.
+
+   \[
+   \text{Total attendance} = 45 + 15 = 60
+   \]
+
+   Here, we are simply combining the number of people present before and after the additional attendees arrived.
+
+2. **Determine how many lollipops are given out:**
+   According to the problem, the teacher gives away one lollipop for every 5 people. To find out how many lollipops the teacher gives away, we need to divide the total number of attendees by 5.
+
+   \[
+   \text{Number of lollipops} = \frac{\text{Total attendance}}{5} = \frac{60}{5} = 12
+   \]
+
+   In this step, we are using division to find out how many groups of 5 can be made from the total number of attendees, as each group receives one lollipop.
+
+Therefore, the teacher gave away a total of 12 lollipops.
+</reasoning>
+<answer>12</answer>

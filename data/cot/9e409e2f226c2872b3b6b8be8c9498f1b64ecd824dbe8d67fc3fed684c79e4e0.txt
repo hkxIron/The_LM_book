@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we need to calculate how much interest will accumulate over 2 months on an investment of $300 at a monthly interest rate of 10%.
+
+1. **Calculate the interest for the first month:**
+   - We apply the interest rate to the initial investment.
+   - The interest for the first month is calculated as follows:
+     \[
+     \text{Interest for Month 1} = \text{Initial Investment} \times \text{Interest Rate} = 300 \times 0.10 = 30
+     \]
+   - This means that at the end of the first month, the total amount will be:
+     \[
+     \text{Total after Month 1} = \text{Initial Investment} + \text{Interest for Month 1} = 300 + 30 = 330
+     \]
+
+2. **Calculate the interest for the second month:**
+   - Now, we take the total amount after the first month and apply the interest rate again.
+   - The interest for the second month is calculated as follows:
+     \[
+     \text{Interest for Month 2} = \text{Total after Month 1} \times \text{Interest Rate} = 330 \times 0.10 = 33
+     \]
+   - So at the end of the second month, the total amount will be:
+     \[
+     \text{Total after Month 2} = \text{Total after Month 1} + \text{Interest for Month 2} = 330 + 33 = 363
+     \]
+
+3. **Final Calculation:**
+   - After 2 months of investing $300 at a monthly interest rate of 10%, the total amount including interest is $363.
+
+Therefore, the total amount you will have at the end of 2 months is:
+</reasoning>
+<answer>363</answer>

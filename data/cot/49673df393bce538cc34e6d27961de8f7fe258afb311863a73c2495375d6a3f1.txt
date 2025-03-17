@@ -1,0 +1,44 @@
+<reasoning>
+Let's denote the number of meals Angela delivers as \( m \) and the number of packages as \( p \).
+
+According to the problem, we have two key pieces of information:
+
+1. Angela needs to deliver 8 times as many packages as meals:
+   \[
+   p = 8m
+   \]
+
+2. The total number of meals and packages combined is 27:
+   \[
+   m + p = 27
+   \]
+
+Now, we can substitute the expression for \( p \) from the first equation into the second equation. This will allow us to solve for \( m \).
+
+Substituting \( p \) gives:
+\[
+m + 8m = 27
+\]
+
+Now, combine the terms on the left side:
+\[
+9m = 27
+\]
+
+Next, we divide both sides by 9 to solve for \( m \):
+\[
+m = \frac{27}{9} = 3
+\]
+
+Now that we have found \( m \), we can also find \( p \) using the equation \( p = 8m \):
+\[
+p = 8 \times 3 = 24
+\]
+
+Thus, Angela delivers 3 meals and 24 packages. 
+
+The question specifically asks for the number of meals delivered.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>3</answer>

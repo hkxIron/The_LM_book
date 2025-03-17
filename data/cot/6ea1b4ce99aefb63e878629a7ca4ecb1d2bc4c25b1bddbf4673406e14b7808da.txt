@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much caffeine John consumed, we will calculate the caffeine from each energy drink and then add it to the caffeine from the caffeine pill.
+
+**Step 1: Calculate the caffeine in the first energy drink.**
+- The first energy drink is 12 ounces and contains 250 grams of caffeine.
+- Therefore, the total caffeine from the first drink is simply 250 grams.
+
+**Step 2: Calculate the caffeine in the second energy drink.**
+- The second drink is 2 ounces, and it has 3 times more caffeine per ounce than the first drink.
+- First, we need to determine the caffeine per ounce of the first drink:
+  - Caffeine per ounce of the first drink = Total caffeine / Total ounces = 250 grams / 12 ounces = approximately 20.83 grams per ounce.
+  
+- Now, we calculate the caffeine per ounce for the second drink:
+  - Caffeine per ounce of the second drink = 3 times the caffeine per ounce of the first drink = 3 * 20.83 grams = approximately 62.5 grams per ounce.
+
+- Now we calculate the total caffeine in the second drink:
+  - Total caffeine in the second drink = Caffeine per ounce * Number of ounces = 62.5 grams/ounce * 2 ounces = 125 grams.
+
+**Step 3: Calculate the total caffeine from both energy drinks.**
+- Total caffeine from both drinks = Caffeine from the first drink + Caffeine from the second drink = 250 grams + 125 grams = 375 grams.
+
+**Step 4: Calculate the caffeine from the caffeine pill.**
+- The caffeine pill contains as much caffeine as the total from the two drinks combined, which we calculated as 375 grams.
+
+**Step 5: Calculate the total caffeine consumed.**
+- Total caffeine consumed = Caffeine from the first drink + Caffeine from the second drink + Caffeine from the caffeine pill = 250 grams + 125 grams + 375 grams = 750 grams.
+
+Therefore, John consumed a total of 750 grams of caffeine.
+</reasoning>
+<answer>750</answer>

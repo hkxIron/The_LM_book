@@ -1,0 +1,28 @@
+<reasoning>
+To find out who has the higher average speed, I will calculate the speed of both Tiffany and Moses in blocks per minute.
+
+**Step 1: Calculate Tiffany's speed.**
+Tiffany runs 6 blocks in 3 minutes. 
+To find her speed in blocks per minute, we divide the number of blocks by the number of minutes:
+
+\[
+\text{Tiffany's speed} = \frac{6 \text{ blocks}}{3 \text{ minutes}} = 2 \text{ blocks per minute}
+\]
+
+**Step 2: Calculate Moses's speed.**
+Moses runs 12 blocks in 8 minutes. 
+Similarly, we will divide the number of blocks by the number of minutes:
+
+\[
+\text{Moses's speed} = \frac{12 \text{ blocks}}{8 \text{ minutes}} = 1.5 \text{ blocks per minute}
+\]
+
+**Step 3: Compare the speeds.**
+Now we compare Tiffany's speed of 2 blocks per minute to Moses's speed of 1.5 blocks per minute. 
+
+Since 2 blocks per minute is greater than 1.5 blocks per minute, Tiffany is the faster runner.
+
+**Step 4: Finalize the answer.**
+The problem asks for the speed of the runner with the higher average speed, which is Tiffany. Therefore, the final answer is her speed:
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+To find the total number of plates used by Tom and his guests over 4 days, we will follow these steps:
+
+1. **Calculate the total number of people**: 
+   - Tom has 2 parents and 3 siblings. 
+   - Therefore, the total number of people is: 
+     \[
+     1 \text{ (Tom)} + 2 \text{ (parents)} + 3 \text{ (siblings)} = 6 \text{ people}
+     \]
+
+2. **Calculate the total number of meals per person over 4 days**:
+   - Each person eats 3 meals a day.
+   - Over 4 days, the total meals per person is:
+     \[
+     3 \text{ meals/day} \times 4 \text{ days} = 12 \text{ meals/person}
+     \]
+
+3. **Calculate the total number of meals for all people**:
+   - Since there are 6 people, the total number of meals for everyone is:
+     \[
+     6 \text{ people} \times 12 \text{ meals/person} = 72 \text{ total meals}
+     \]
+
+4. **Calculate the total number of plates used**:
+   - Each person uses 2 plates per meal.
+   - Therefore, the total number of plates used is:
+     \[
+     72 \text{ meals} \times 2 \text{ plates/meal} = 144 \text{ plates}
+     \]
+
+By multiplying the total meals by the number of plates used per meal, we find the total number of plates used by Tom and his guests over the 4 days.
+</reasoning>
+<answer>144</answer>

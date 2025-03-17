@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many buttons Mari made**: 
+   It is given that Mari made 8 buttons. 
+   Mari's buttons = 8
+
+2. **Calculate how many buttons Kendra made**: 
+   The problem states that Kendra made 4 more than five times as many buttons as Mari. 
+   To find Kendra's buttons, we can use the formula:
+   Kendra's buttons = 5 * (Mari's buttons) + 4
+   Substituting Mari's buttons into the equation: 
+   Kendra's buttons = 5 * 8 + 4
+
+3. **Perform the multiplication**: 
+   First, we calculate 5 * 8:
+   5 * 8 = 40
+
+4. **Add 4 to the result**:
+   Now, we add 4 to 40:
+   Kendra's buttons = 40 + 4 = 44
+
+5. **Calculate how many buttons Sue made**: 
+   The problem states that Sue made half as many buttons as Kendra. 
+   To find Sue's buttons, we use the formula:
+   Sue's buttons = Kendra's buttons / 2
+   Substituting Kendra's buttons into the equation:
+   Sue's buttons = 44 / 2
+
+6. **Perform the division**:
+   44 / 2 = 22
+
+Thus, Sue made 22 buttons.
+</reasoning>
+<answer>22</answer>

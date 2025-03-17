@@ -1,0 +1,30 @@
+<reasoning>
+First, let's determine how many customers will be using the bubble baths. 
+
+1. **Calculate the number of customers in the couples' rooms:**
+   Each of the 13 couples' rooms accommodates 2 people. Therefore, the total number of customers in couples' rooms is:
+   \[
+   13 \text{ rooms} \times 2 \text{ people/room} = 26 \text{ people}
+   \]
+
+2. **Calculate the number of customers in the single rooms:**
+   Each of the 14 single rooms accommodates 1 person. Therefore, the total number of customers in single rooms is:
+   \[
+   14 \text{ rooms} \times 1 \text{ person/room} = 14 \text{ people}
+   \]
+
+3. **Calculate the total number of customers:**
+   Now, we add the number of customers from couples' rooms and single rooms together:
+   \[
+   26 \text{ (couples)} + 14 \text{ (singles)} = 40 \text{ people}
+   \]
+
+4. **Calculate the total amount of bubble bath needed:**
+   Isabelle needs 10ml of bubble bath for each customer. Therefore, the total amount of bubble bath needed is:
+   \[
+   40 \text{ people} \times 10 \text{ ml/person} = 400 \text{ ml}
+   \]
+
+Thus, after calculating the number of customers and the bubble bath required per customer, we find that Isabelle needs a total of 400 millilitres of bubble bath.
+</reasoning>
+<answer>400</answer>

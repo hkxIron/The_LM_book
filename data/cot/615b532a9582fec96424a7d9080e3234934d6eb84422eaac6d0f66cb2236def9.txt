@@ -1,0 +1,38 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the total number of marbles:**
+   We are given that George collected a total of 50 marbles.
+
+2. **Determine the number of white marbles:**
+   We are told that half of the marbles are white. 
+   \[
+   \text{Number of white marbles} = \frac{50}{2} = 25
+   \]
+
+3. **Determine the number of yellow marbles:**
+   It is given that there are 12 yellow marbles.
+   \[
+   \text{Number of yellow marbles} = 12
+   \]
+
+4. **Determine the number of green marbles:**
+   We know that there are 50% fewer green marbles than yellow marbles. 
+   This means that the number of green marbles is calculated as:
+   \[
+   \text{Number of green marbles} = \text{Number of yellow marbles} - 0.5 \times \text{Number of yellow marbles} = 12 - \frac{12}{2} = 12 - 6 = 6
+   \]
+
+5. **Calculate the number of red marbles:**
+   Now, we can find the number of red marbles by subtracting the number of white, yellow, and green marbles from the total number of marbles:
+   \[
+   \text{Number of red marbles} = \text{Total marbles} - (\text{Number of white marbles} + \text{Number of yellow marbles} + \text{Number of green marbles})
+   \]
+   Substituting the values we found:
+   \[
+   \text{Number of red marbles} = 50 - (25 + 12 + 6) = 50 - 43 = 7
+   \]
+
+Therefore, the number of red marbles is 7.
+</reasoning>
+<answer>7</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+Let's start by defining the number of egg rolls each person eats. 
+
+1. **Define Alvin's egg rolls:** We know from the problem that Alvin eats 4 egg rolls.
+   - Let \( A = 4 \) (egg rolls eaten by Alvin).
+
+2. **Calculate Patrick's egg rolls:** The problem states that Patrick eats half as many egg rolls as Alvin. Therefore, we can express Patrick's egg rolls \( P \) as:
+   \[
+   P = \frac{1}{2} A
+   \]
+   Substituting \( A = 4 \):
+   \[
+   P = \frac{1}{2} \times 4 = 2
+   \]
+   So, Patrick eats 2 egg rolls.
+
+3. **Calculate Matthew's egg rolls:** The problem states that Matthew eats three times as many egg rolls as Patrick. Thus, we can express Matthew's egg rolls \( M \) as:
+   \[
+   M = 3P
+   \]
+   Substituting \( P = 2 \):
+   \[
+   M = 3 \times 2 = 6
+   \]
+   So, Matthew eats 6 egg rolls.
+
+In summary:
+- Alvin eats 4 egg rolls.
+- Patrick eats 2 egg rolls.
+- Matthew eats 6 egg rolls.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6</answer>

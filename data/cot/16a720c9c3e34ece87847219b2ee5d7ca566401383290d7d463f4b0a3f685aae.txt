@@ -1,0 +1,51 @@
+<reasoning>
+Let's define the amount Leila spent at the supermarket as \( x \). 
+
+According to the problem, fixing her automobile cost $350, and this amount is $50 more than thrice the amount she spent at the supermarket. We can express this relationship with the following equation:
+
+\[
+350 = 3x + 50
+\]
+
+Now, we will solve for \( x \). First, we need to isolate \( 3x \) on one side of the equation. To do this, we can subtract 50 from both sides:
+
+\[
+350 - 50 = 3x
+\]
+
+This simplifies to:
+
+\[
+300 = 3x
+\]
+
+Next, we need to solve for \( x \) by dividing both sides of the equation by 3:
+
+\[
+x = \frac{300}{3}
+\]
+
+Calculating this gives:
+
+\[
+x = 100
+\]
+
+Now we know that Leila spent $100 at the supermarket. To find out how much she spent altogether, we need to add the amount she spent at the supermarket to the amount she spent on fixing her automobile. So we calculate:
+
+\[
+\text{Total spent} = \text{Amount spent at supermarket} + \text{Cost of fixing automobile}
+\]
+\[
+\text{Total spent} = 100 + 350
+\]
+
+Calculating this gives:
+
+\[
+\text{Total spent} = 450
+\]
+
+Therefore, the total amount Leila has spent altogether is:
+</reasoning>
+<answer>450</answer>

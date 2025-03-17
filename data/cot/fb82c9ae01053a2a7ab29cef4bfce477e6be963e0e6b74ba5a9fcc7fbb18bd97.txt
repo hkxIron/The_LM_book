@@ -1,0 +1,24 @@
+<reasoning>
+First, let's determine the number of girls at Camp Cedar. We know that there are 40 boys and that there are 3 times as many girls as boys.
+
+To find the number of girls, we can multiply the number of boys by 3:
+
+Number of girls = 3 * Number of boys
+Number of girls = 3 * 40
+Number of girls = 120
+
+Now we have the total number of children at Camp Cedar. We can find this by adding the number of boys and girls together:
+
+Total children = Number of boys + Number of girls
+Total children = 40 + 120
+Total children = 160
+
+Next, we need to determine how many counselors are needed. We know that there is 1 counselor for every 8 children. To find the number of counselors required, we can divide the total number of children by the number of children per counselor:
+
+Number of counselors = Total children / Children per counselor
+Number of counselors = 160 / 8
+Number of counselors = 20
+
+Therefore, Camp Cedar needs 20 counselors to accommodate the children.
+</reasoning>
+<answer>20</answer>

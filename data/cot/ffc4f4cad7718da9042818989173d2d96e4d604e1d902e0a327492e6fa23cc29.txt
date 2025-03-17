@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many minutes David spent reading, we need to first determine how much time he spent on his math and spelling homework combined. 
+
+1. **Calculate the total time spent on math and spelling homework:**
+   - David spent 15 minutes on math homework.
+   - He spent 18 minutes on spelling homework.
+   - We add these two times together:
+   
+   \[
+   \text{Total time on math and spelling} = 15 \text{ minutes} + 18 \text{ minutes} = 33 \text{ minutes}
+   \]
+
+2. **Determine the total time he had for homework:**
+   - We know that David finished his homework in a total of 60 minutes.
+
+3. **Calculate the time spent reading:**
+   - To find out how many minutes he spent reading, we subtract the total time he spent on math and spelling from the total time he had:
+   
+   \[
+   \text{Time spent reading} = \text{Total time} - \text{Total time on math and spelling}
+   \]
+
+   Substituting in the values we have:
+
+   \[
+   \text{Time spent reading} = 60 \text{ minutes} - 33 \text{ minutes} = 27 \text{ minutes}
+   \]
+
+Thus, David spent 27 minutes reading for his daily reading log.
+</reasoning>
+<answer>27</answer>

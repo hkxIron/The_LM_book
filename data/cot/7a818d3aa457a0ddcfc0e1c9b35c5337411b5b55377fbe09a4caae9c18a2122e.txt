@@ -1,0 +1,47 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify how many books Darryl has.**  
+   The problem states that Darryl has 20 books.  
+   So, \( D = 20 \).
+
+2. **Determine how many books Lamont has.**  
+   The problem states that Lamont has twice the number of books Darryl has. Therefore, we can calculate Lamont's books as follows:  
+   \[
+   L = 2 \times D = 2 \times 20 = 40
+   \]
+   So, Lamont has 40 books.
+
+3. **Determine how many books Loris has.**  
+   The problem mentions that Loris needs three more books to have the same number as Lamont. This means if we let \( x \) represent the number of books Loris currently has, we can set up the following equation:  
+   \[
+   x + 3 = L
+   \]
+   Substituting \( L \) with 40 (the number of books Lamont has):  
+   \[
+   x + 3 = 40
+   \]
+   To find \( x \), we will subtract 3 from both sides:  
+   \[
+   x = 40 - 3 = 37
+   \]
+   So, Loris has 37 books.
+
+4. **Calculate the total number of books the three have.**  
+   Now we have:
+   - Darryl: 20 books
+   - Lamont: 40 books
+   - Loris: 37 books  
+   To find the total number of books, we add these amounts together:  
+   \[
+   \text{Total} = D + L + x = 20 + 40 + 37
+   \]
+   Performing the addition:  
+   \[
+   20 + 40 = 60 \\
+   60 + 37 = 97
+   \]
+
+Therefore, the total number of books the three have is 97.
+</reasoning>
+<answer>97</answer>

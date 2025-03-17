@@ -1,0 +1,21 @@
+<reasoning>
+Let's break down the costs step by step.
+
+1. **Cost of the piano**: John buys a piano for $500. This is a straightforward cost and does not involve any calculations. 
+   - Total cost so far = $500.
+
+2. **Cost of the lessons without discount**: John hires a teacher for 20 lessons, each costing $40. To find the total cost of the lessons before any discount, we multiply the number of lessons by the cost per lesson:
+   - Total cost of lessons = 20 lessons * $40/lesson = $800.
+
+3. **Calculating the discount on lessons**: John receives a 25% discount on the total cost of the lessons. To find the discount amount, we first calculate 25% of $800:
+   - Discount = 25% of $800 = 0.25 * $800 = $200.
+
+4. **Cost of the lessons after applying the discount**: Now, we subtract the discount from the original total cost of the lessons:
+   - Total cost of lessons after discount = $800 - $200 = $600.
+
+5. **Total cost of everything**: Finally, we add the cost of the piano to the cost of the lessons after the discount:
+   - Total cost = Cost of piano + Cost of lessons after discount = $500 + $600 = $1100.
+
+Therefore, combining all the costs gives us the total amount John spent.
+</reasoning>
+<answer>1100</answer>

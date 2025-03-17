@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many coins will be in each chest, we need to calculate the total number of coins (gold, silver, and bronze) and then divide that total by the number of chests.
+
+1. **Calculate the gold coins per chest:**
+   - The pirate has 3500 gold coins and wants to spread them across 5 chests.
+   - To find out how many gold coins will be in each chest, we divide the total number of gold coins by the number of chests:
+     \[
+     \text{Gold per chest} = \frac{3500 \text{ gold coins}}{5 \text{ chests}} = 700 \text{ gold coins per chest}
+     \]
+
+2. **Calculate the silver coins per chest:**
+   - The pirate has a total of 500 silver coins to distribute across the 5 chests.
+   - To find out how many silver coins will be in each chest, we divide the total number of silver coins by the number of chests:
+     \[
+     \text{Silver per chest} = \frac{500 \text{ silver coins}}{5 \text{ chests}} = 100 \text{ silver coins per chest}
+     \]
+
+3. **Calculate the bronze coins:**
+   - The pirate puts twice as many bronze coins as silver coins. Since there are 500 silver coins, the total number of bronze coins will be:
+     \[
+     \text{Total bronze coins} = 2 \times 500 \text{ silver coins} = 1000 \text{ bronze coins}
+     \]
+   - Now, we distribute these bronze coins equally across the 5 chests:
+     \[
+     \text{Bronze per chest} = \frac{1000 \text{ bronze coins}}{5 \text{ chests}} = 200 \text{ bronze coins per chest}
+     \]
+
+4. **Calculate the total coins per chest:**
+   - Now we add together the number of gold, silver, and bronze coins per chest:
+     \[
+     \text{Total coins per chest} = \text{Gold per chest} + \text{Silver per chest} + \text{Bronze per chest}
+     \]
+   - Plugging in the values we calculated:
+     \[
+     \text{Total coins per chest} = 700 \text{ gold coins} + 100 \text{ silver coins} + 200 \text{ bronze coins} = 1000 \text{ coins per chest}
+     \]
+
+Thus, the total number of coins in each chest is 1000.
+</reasoning>
+<answer>1000</answer>

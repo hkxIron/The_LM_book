@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we first need to calculate how much money Austin earns each week from helping his father build the deck.
+
+1. **Calculate total hours worked in a week:**
+   - On Mondays, Austin works 2 hours.
+   - On Wednesdays, he works 1 hour.
+   - On Fridays, he works 3 hours.
+   
+   Now, let's sum these hours:
+   \[
+   \text{Total hours per week} = 2 + 1 + 3 = 6 \text{ hours}
+   \]
+
+2. **Calculate weekly earnings:**
+   Austin earns $5 for each hour he works. Therefore, we multiply the total hours he works in a week by his hourly pay:
+   \[
+   \text{Weekly earnings} = 6 \text{ hours} \times 5 \text{ dollars/hour} = 30 \text{ dollars}
+   \]
+
+3. **Determine how many weeks he needs to work to afford the bicycle:**
+   The bicycle costs $180. To find out how many weeks Austin needs to work to earn that much, we divide the total cost of the bicycle by his weekly earnings:
+   \[
+   \text{Number of weeks} = \frac{180 \text{ dollars}}{30 \text{ dollars/week}} = 6 \text{ weeks}
+   \]
+
+Therefore, Austin needs to work for 6 weeks to earn enough money to buy the bicycle.
+</reasoning>
+<answer>6</answer>

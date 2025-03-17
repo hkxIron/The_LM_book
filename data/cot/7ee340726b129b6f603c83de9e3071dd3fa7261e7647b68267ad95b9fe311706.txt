@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of silver stickers**: 
+   Miss Walter has 50 gold stickers. According to the problem, she has twice as many silver stickers as gold stickers. Therefore, we can calculate the number of silver stickers as follows:
+   \[
+   \text{Silver stickers} = 2 \times \text{Gold stickers} = 2 \times 50 = 100
+   \]
+   So, Miss Walter has 100 silver stickers.
+
+2. **Determine the number of bronze stickers**:
+   The problem states that she has 20 fewer bronze stickers than silver stickers. Thus, we can find the number of bronze stickers:
+   \[
+   \text{Bronze stickers} = \text{Silver stickers} - 20 = 100 - 20 = 80
+   \]
+   Therefore, Miss Walter has 80 bronze stickers.
+
+3. **Calculate the total number of stickers**:
+   Now, we need to find the total number of stickers by adding the gold, silver, and bronze stickers together:
+   \[
+   \text{Total stickers} = \text{Gold stickers} + \text{Silver stickers} + \text{Bronze stickers} = 50 + 100 + 80 = 230
+   \]
+
+4. **Distributing the stickers among the students**:
+   Miss Walter wants to give the same number of stickers to each of her 5 students. To find out how many stickers each student will receive, we divide the total number of stickers by the number of students:
+   \[
+   \text{Stickers per student} = \frac{\text{Total stickers}}{\text{Number of students}} = \frac{230}{5}
+   \]
+   Performing the division gives us:
+   \[
+   230 \div 5 = 46
+   \]
+
+Therefore, each student will receive 46 stickers.
+</reasoning>
+<answer>46</answer>

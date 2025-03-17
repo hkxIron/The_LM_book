@@ -1,0 +1,38 @@
+<reasoning>
+To determine the total cost to hire 6 builders to build 5 houses, each with 6 floors, we will break the problem down into several steps.
+
+**Step 1: Calculate the total number of floors to be built.**
+We know that there are 5 houses and each house has 6 floors. Thus, the total number of floors is:
+\[
+\text{Total floors} = \text{Number of houses} \times \text{Floors per house} = 5 \times 6 = 30 \text{ floors}
+\]
+
+**Step 2: Determine how many days it will take for 6 builders to build 30 floors.**
+From the problem, we know that 3 builders can build 1 floor in 30 days. Thus, the work done by 3 builders in 30 days can be summarized as follows:
+\[
+\text{Time to build 1 floor by 3 builders} = 30 \text{ days}
+\]
+If 3 builders take 30 days to build 1 floor, this implies that the same amount of work (1 floor) can be accomplished by 6 builders in half the time because they are twice as many builders. Therefore:
+\[
+\text{Time to build 1 floor by 6 builders} = \frac{30}{2} = 15 \text{ days}
+\]
+
+Now, since we have 30 floors to build, we will calculate the total time it will take for 6 builders to build all 30 floors:
+\[
+\text{Total time for 30 floors by 6 builders} = \text{Time per floor} \times \text{Total floors} = 15 \text{ days/floor} \times 30 \text{ floors} = 450 \text{ days}
+\]
+
+**Step 3: Calculate the total cost to hire 6 builders for that time.**
+Each builder is paid $100 for a single day’s work. Therefore, the daily cost for 6 builders is:
+\[
+\text{Daily cost for 6 builders} = 6 \text{ builders} \times 100 \text{ dollars/builder} = 600 \text{ dollars/day}
+\]
+
+Now, we can find the total cost for 450 days:
+\[
+\text{Total cost} = \text{Daily cost} \times \text{Total days} = 600 \text{ dollars/day} \times 450 \text{ days} = 270000 \text{ dollars}
+\]
+
+Thus, the total cost to hire 6 builders to build 5 houses with 6 floors each is:
+</reasoning>
+<answer>270000</answer>

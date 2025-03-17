@@ -1,0 +1,34 @@
+<reasoning>
+To determine how many cookies Lara is baking, we can break down the problem into manageable steps.
+
+1. **Identify the number of cookies per tray**: 
+   Lara places 5 rows of cookies on each baking tray, with 6 cookies in each row. To find the total number of cookies per tray, we will multiply the number of rows by the number of cookies in each row.
+   
+   \[
+   \text{Cookies per tray} = \text{Number of rows} \times \text{Cookies per row} = 5 \times 6
+   \]
+
+   Now, we calculate:
+   \[
+   5 \times 6 = 30
+   \]
+
+   This means there are 30 cookies on each baking tray.
+
+2. **Calculate the total number of cookies**: 
+   Lara is using 4 baking trays. To find the total number of cookies she is baking, we multiply the number of cookies per tray by the number of trays.
+   
+   \[
+   \text{Total cookies} = \text{Cookies per tray} \times \text{Number of trays} = 30 \times 4
+   \]
+
+   Now, we calculate:
+   \[
+   30 \times 4 = 120
+   \]
+
+Now we have determined that Lara is baking a total of 120 cookies.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>120</answer>

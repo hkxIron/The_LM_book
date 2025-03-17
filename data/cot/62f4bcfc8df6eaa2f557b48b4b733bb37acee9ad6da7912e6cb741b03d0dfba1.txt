@@ -1,0 +1,47 @@
+<reasoning>
+Let's denote the total number of cups of lemonade Hazel made as \( x \).
+
+1. **Selling to the construction crew**: Hazel sold half of her lemonade to the construction crew. Therefore, the amount sold to the construction crew is:
+   \[
+   \frac{x}{2}
+   \]
+
+2. **Selling to kids on bikes**: Hazel sold 18 cups to kids on bikes. This means that after selling to the construction crew, the remaining lemonade is:
+   \[
+   x - \frac{x}{2} = \frac{x}{2}
+   \]
+   After selling 18 cups to the kids, she has:
+   \[
+   \frac{x}{2} - 18
+   \]
+
+3. **Giving away to friends**: Hazel gave away half of the amount she sold to the kids (which is 18 cups) to her friends. Half of 18 is:
+   \[
+   \frac{18}{2} = 9
+   \]
+   So, after giving away 9 cups, the remaining lemonade she has is:
+   \[
+   \frac{x}{2} - 18 - 9 = \frac{x}{2} - 27
+   \]
+
+4. **Drinking the last cup**: Finally, Hazel drank the last cup of lemonade, which means she had only 1 cup left. This can be expressed as:
+   \[
+   \frac{x}{2} - 27 = 1
+   \]
+
+5. **Solving for \( x \)**: Now we can solve the equation:
+   \[
+   \frac{x}{2} - 27 = 1
+   \]
+   Adding 27 to both sides gives:
+   \[
+   \frac{x}{2} = 28
+   \]
+   Now, multiplying both sides by 2 to solve for \( x \) gives:
+   \[
+   x = 56
+   \]
+
+Therefore, Hazel made a total of 56 cups of lemonade.
+</reasoning>
+<answer>56</answer>

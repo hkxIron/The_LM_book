@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Determine the value of the dimes**: 
+   A dime is worth the same as 10 pennies. Since Grace has 10 dimes, we can calculate the total value of the dimes in pennies:
+   \[
+   10 \text{ dimes} \times 10 \text{ pennies/dime} = 100 \text{ pennies}
+   \]
+   This means Grace will get 100 pennies from her 10 dimes.
+
+2. **Determine the value of the nickels**: 
+   A nickel is worth the same as 5 pennies. Since Grace has 10 nickels, we can calculate the total value of the nickels in pennies:
+   \[
+   10 \text{ nickels} \times 5 \text{ pennies/nickel} = 50 \text{ pennies}
+   \]
+   This means Grace will get 50 pennies from her 10 nickels.
+
+3. **Add the total value in pennies**: 
+   Now we need to combine the value of the pennies from both the dimes and the nickels:
+   \[
+   100 \text{ pennies (from dimes)} + 50 \text{ pennies (from nickels)} = 150 \text{ pennies}
+   \]
+
+Therefore, after exchanging her 10 dimes and 10 nickels, Grace will have a total of 150 pennies.
+</reasoning>
+<answer>150</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the costs step by step to find John's total out-of-pocket cost for getting a new seeing-eye dog.
+
+1. **Adoption Fee**: The adoption fee for an untrained dog is $150. This is a straightforward cost that John will incur.
+
+   \[
+   \text{Adoption Fee} = 150
+   \]
+
+2. **Training Costs**: The dog requires 12 weeks of training at a cost of $250 per week. To find the total training cost, we multiply the number of weeks by the cost per week.
+
+   \[
+   \text{Training Cost} = 12 \text{ weeks} \times 250 \text{ dollars/week} = 3000
+   \]
+
+3. **Certification Cost**: After training, there is a certification cost of $3000. However, John's insurance covers 90% of this cost. To find out how much insurance will cover, we calculate 90% of $3000.
+
+   \[
+   \text{Insurance Coverage} = 0.90 \times 3000 = 2700
+   \]
+
+   Now, to find out how much John has to pay out-of-pocket for the certification, we subtract the insurance coverage from the total certification cost.
+
+   \[
+   \text{Out-of-pocket Certification Cost} = 3000 - 2700 = 300
+   \]
+
+4. **Total Out-of-Pocket Cost**: Now, we can add up all the costs that John will have to pay out-of-pocket. This includes the adoption fee, the training cost, and the out-of-pocket certification cost.
+
+   \[
+   \text{Total Out-of-Pocket Cost} = \text{Adoption Fee} + \text{Training Cost} + \text{Out-of-pocket Certification Cost}
+   \]
+
+   Substituting in the values we calculated:
+
+   \[
+   \text{Total Out-of-Pocket Cost} = 150 + 3000 + 300 = 3450
+   \]
+
+Therefore, John’s total out-of-pocket cost for getting the new seeing-eye dog is $3450.
+</reasoning>
+<answer>3450</answer>

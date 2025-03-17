@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem step by step, let's start by determining how many chairs there are in total.
+
+1. **Calculate the total number of chairs**: 
+   There are 5 rows of chairs with 10 chairs in each row. Therefore, 
+   \[
+   \text{Total chairs} = 5 \text{ rows} \times 10 \text{ chairs/row} = 50 \text{ chairs}
+   \]
+
+2. **Determine the number of cups filled**:
+   Since Bill fills one cup of water for each chair, he will fill 50 cups of water.
+
+3. **Calculate the total amount of water used**:
+   Each Dixie cup holds 6 ounces of water, so for 50 cups, the total water used is:
+   \[
+   \text{Total water used} = 50 \text{ cups} \times 6 \text{ ounces/cup} = 300 \text{ ounces}
+   \]
+
+4. **Convert the initial amount of water in the cooler to ounces**:
+   The cooler initially contains 3 gallons of water. Since there are 128 ounces in a gallon:
+   \[
+   \text{Total initial ounces} = 3 \text{ gallons} \times 128 \text{ ounces/gallon} = 384 \text{ ounces}
+   \]
+
+5. **Calculate the remaining water in the cooler**:
+   To find out how much water is left after filling the cups, subtract the amount of water used from the initial amount:
+   \[
+   \text{Remaining water} = \text{Total initial ounces} - \text{Total water used} = 384 \text{ ounces} - 300 \text{ ounces} = 84 \text{ ounces}
+   \]
+
+Therefore, after filling all the cups, there will be 84 ounces of water left in the cooler.
+</reasoning>
+<answer>84</answer>

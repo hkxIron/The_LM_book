@@ -1,0 +1,23 @@
+<reasoning>
+To find the total number of highlighters in Carrie's desk drawer, I will break down the problem step by step.
+
+1. **Identify the number of yellow highlighters**: The problem states that there are 7 yellow highlighters. 
+   - Yellow highlighters = 7.
+
+2. **Find the number of pink highlighters**: The problem mentions that there are 7 more pink highlighters than yellow highlighters. Therefore, I will add 7 to the number of yellow highlighters.
+   - Pink highlighters = Yellow highlighters + 7 = 7 + 7 = 14.
+
+3. **Determine the number of blue highlighters**: Next, the problem states that there are 5 more blue highlighters than pink highlighters. I will add 5 to the number of pink highlighters.
+   - Blue highlighters = Pink highlighters + 5 = 14 + 5 = 19.
+
+4. **Calculate the total number of highlighters**: Now that I have the number of each type of highlighter, I will add them together to find the total number of highlighters.
+   - Total highlighters = Yellow highlighters + Pink highlighters + Blue highlighters
+   - Total highlighters = 7 + 14 + 19.
+
+5. **Perform the addition**:
+   - First, add the yellow and pink highlighters: 7 + 14 = 21.
+   - Then, add the result to the number of blue highlighters: 21 + 19 = 40.
+
+Therefore, the total number of highlighters in Carrie's desk drawer is 40.
+</reasoning>
+<answer>40</answer>

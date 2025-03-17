@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of cupcakes with chocolate sauce:**  
+   According to the problem, Robin ate 4 cupcakes with chocolate sauce. We can denote this value as:
+   \[
+   \text{Cupcakes with chocolate sauce} = 4
+   \]
+
+2. **Determine the number of cupcakes with buttercream frosting:**  
+   The problem states that Robin ate twice as many cupcakes with buttercream frosting as she did with the chocolate sauce. To find this, we multiply the number of chocolate sauce cupcakes by 2:
+   \[
+   \text{Cupcakes with buttercream frosting} = 2 \times \text{Cupcakes with chocolate sauce} = 2 \times 4 = 8
+   \]
+
+3. **Calculate the total number of cupcakes eaten by Robin:**  
+   To find the total number of cupcakes she ate, we need to add the number of cupcakes with chocolate sauce to the number of cupcakes with buttercream frosting:
+   \[
+   \text{Total cupcakes eaten} = \text{Cupcakes with chocolate sauce} + \text{Cupcakes with buttercream frosting} = 4 + 8 = 12
+   \]
+
+In summary, Robin ate 4 cupcakes with chocolate sauce and 8 cupcakes with buttercream frosting, leading to a total of 12 cupcakes.
+</reasoning>
+<answer>12</answer>

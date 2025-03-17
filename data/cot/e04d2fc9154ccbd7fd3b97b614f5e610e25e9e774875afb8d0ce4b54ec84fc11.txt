@@ -1,0 +1,57 @@
+<reasoning>
+To determine Owen's profit, we need to calculate his total costs, total revenue from sales, and then find the difference.
+
+1. **Calculate the total cost of the face masks.**
+   Owen bought 12 boxes of face masks at $9 per box. We find the total cost by multiplying the number of boxes by the cost per box:
+   \[
+   \text{Total Cost} = 12 \text{ boxes} \times 9 \text{ dollars/box} = 108 \text{ dollars}
+   \]
+   This means Owen spent $108 on the face masks.
+
+2. **Calculate the total number of face masks purchased.**
+   Each box contains 50 pieces of masks. Therefore, the total number of masks is:
+   \[
+   \text{Total Masks} = 12 \text{ boxes} \times 50 \text{ masks/box} = 600 \text{ masks}
+   \]
+
+3. **Calculate the revenue from the first sale of 6 repacked boxes.**
+   Owen repacked 6 boxes, and he sold these for $5 per 25 pieces. 
+   First, we calculate how many pieces are in 6 boxes:
+   \[
+   \text{Masks in 6 boxes} = 6 \text{ boxes} \times 50 \text{ masks/box} = 300 \text{ masks}
+   \]
+   Now, we need to find out how many groups of 25 are in 300 masks:
+   \[
+   \text{Number of groups of 25} = \frac{300 \text{ masks}}{25 \text{ masks/group}} = 12 \text{ groups}
+   \]
+   The revenue from selling these 12 groups at $5 each is:
+   \[
+   \text{Revenue from 6 boxes} = 12 \text{ groups} \times 5 \text{ dollars/group} = 60 \text{ dollars}
+   \]
+
+4. **Calculate the revenue from selling the remaining 300 face masks in baggies.**
+   Owen sold the remaining 300 masks at the rate of 10 masks for $3. 
+   First, we calculate how many groups of 10 are in 300 masks:
+   \[
+   \text{Number of groups of 10} = \frac{300 \text{ masks}}{10 \text{ masks/group}} = 30 \text{ groups}
+   \]
+   The revenue from selling these 30 groups at $3 each is:
+   \[
+   \text{Revenue from baggies} = 30 \text{ groups} \times 3 \text{ dollars/group} = 90 \text{ dollars}
+   \]
+
+5. **Calculate the total revenue.**
+   Now, we can sum the revenue from both sales:
+   \[
+   \text{Total Revenue} = \text{Revenue from 6 boxes} + \text{Revenue from baggies} = 60 \text{ dollars} + 90 \text{ dollars} = 150 \text{ dollars}
+   \]
+
+6. **Calculate the profit.**
+   Finally, we find the profit by subtracting the total cost from the total revenue:
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost} = 150 \text{ dollars} - 108 \text{ dollars} = 42 \text{ dollars}
+   \]
+
+Therefore, Owen made a profit of $42.
+</reasoning>
+<answer>42</answer>

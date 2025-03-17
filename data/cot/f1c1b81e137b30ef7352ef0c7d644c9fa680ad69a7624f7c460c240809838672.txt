@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we need to calculate the number of red apples from each of Brogan's two trees.
+
+1. **Calculate the number of apples from the first tree:**
+   - The first tree produces a total of 20 apples.
+   - According to the problem, 40% of the apples from this tree are red.
+   - To find the number of red apples from the first tree, we multiply the total number of apples by the percentage of red apples (as a decimal):
+     \[
+     \text{Number of red apples from the first tree} = 20 \times 0.40
+     \]
+   - Calculating this gives:
+     \[
+     20 \times 0.40 = 8
+     \]
+
+2. **Calculate the number of apples from the second tree:**
+   - The second tree also produces a total of 20 apples.
+   - This tree has 50% of its apples as red.
+   - Similarly, we find the number of red apples from the second tree:
+     \[
+     \text{Number of red apples from the second tree} = 20 \times 0.50
+     \]
+   - Calculating this gives:
+     \[
+     20 \times 0.50 = 10
+     \]
+
+3. **Combine the results from both trees:**
+   - Now, we need to add the number of red apples from both trees to find the total number of red apples:
+     \[
+     \text{Total red apples} = \text{Red apples from the first tree} + \text{Red apples from the second tree}
+     \]
+   - Substituting the values we calculated:
+     \[
+     \text{Total red apples} = 8 + 10 = 18
+     \]
+
+Therefore, after calculating the number of red apples from both trees and summing them up, we find that Brogan gets a total of 18 red apples.
+</reasoning>
+<answer>18</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many pages Yasna needs to read each day, we will follow these steps:
+
+1. **Calculate the total number of pages**: 
+   Yasna has one book with 180 pages and another with 100 pages. We need to add these two amounts together to find the total number of pages.
+   \[
+   \text{Total pages} = 180 + 100 = 280
+   \]
+   Here, we are adding the pages of both books to find out how much she has to read in total.
+
+2. **Determine the number of days**:
+   Yasna wants to finish her reading in 2 weeks. Since there are 7 days in a week, we calculate the total number of days as follows:
+   \[
+   \text{Total days} = 2 \times 7 = 14
+   \]
+   This step is important because it tells us over how many days she will be spreading her reading.
+
+3. **Calculate the number of pages to read per day**:
+   To find out how many pages Yasna needs to read each day, we will divide the total number of pages by the total number of days.
+   \[
+   \text{Pages per day} = \frac{\text{Total pages}}{\text{Total days}} = \frac{280}{14}
+   \]
+   Performing the division:
+   \[
+   \text{Pages per day} = 20
+   \]
+   This calculation shows us how many pages she must read each day to finish both books in the given time frame.
+
+Therefore, Yasna needs to read 20 pages every day to finish both books in two weeks.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,54 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate how many pamphlets Mike printed before his break.**
+   - Mike prints 600 pamphlets per hour and works for 9 hours before his break.
+   - To find the total pamphlets he printed during this time, we multiply:
+     \[
+     600 \text{ pamphlets/hour} \times 9 \text{ hours} = 5400 \text{ pamphlets}
+     \]
+
+2. **Calculate Mike's speed after the break.**
+   - After the break, Mike resumes printing for another 2 hours at a speed that is a third of his initial speed.
+   - A third of 600 pamphlets/hour is:
+     \[
+     \frac{600}{3} = 200 \text{ pamphlets/hour}
+     \]
+   - Now, we calculate how many pamphlets he prints in these 2 hours:
+     \[
+     200 \text{ pamphlets/hour} \times 2 \text{ hours} = 400 \text{ pamphlets}
+     \]
+
+3. **Calculate the total pamphlets printed by Mike.**
+   - Now we add the pamphlets printed before and after the break:
+     \[
+     5400 \text{ pamphlets} + 400 \text{ pamphlets} = 5800 \text{ pamphlets}
+     \]
+
+4. **Calculate how many hours Leo worked.**
+   - Leo works for a third as many hours as Mike did before his break. Since Mike worked for 9 hours before his break:
+     \[
+     \frac{9}{3} = 3 \text{ hours}
+     \]
+
+5. **Calculate Leo's speed.**
+   - Leo was twice as fast as Mike before Mike took his break. Therefore, Leo's speed is:
+     \[
+     2 \times 600 = 1200 \text{ pamphlets/hour}
+     \]
+
+6. **Calculate how many pamphlets Leo printed.**
+   - We can now multiply Leo's speed by the number of hours he worked:
+     \[
+     1200 \text{ pamphlets/hour} \times 3 \text{ hours} = 3600 \text{ pamphlets}
+     \]
+
+7. **Calculate the total number of pamphlets printed by both Mike and Leo.**
+   - Finally, we add the pamphlets printed by both:
+     \[
+     5800 \text{ pamphlets} + 3600 \text{ pamphlets} = 9400 \text{ pamphlets}
+     \]
+
+Therefore, the total number of pamphlets printed by both Mike and Leo at the end is:
+</reasoning>
+<answer>9400</answer>

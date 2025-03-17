@@ -1,0 +1,45 @@
+<reasoning>
+Let's start by establishing the relationship between the number of apples and the number of plums based on the information given.
+
+1. **Identify the number of plums:**
+   We know that the apple tree has three times as many apples as the number of plums. We are given that there are 180 apples. 
+   Let's denote the number of plums as \( P \).
+   According to the problem:
+   \[
+   180 = 3P
+   \]
+   To find \( P \), we need to solve for \( P \):
+   \[
+   P = \frac{180}{3} = 60
+   \]
+   So, there are 60 plums on the plum tree.
+
+2. **Calculate the total number of fruits:**
+   Now that we know the number of apples and plums, we can find the total number of fruits on the trees:
+   \[
+   \text{Total fruits} = \text{Number of apples} + \text{Number of plums} = 180 + 60 = 240
+   \]
+
+3. **Determine the number of fruits Damien picks:**
+   Damien picks \( \frac{3}{5} \) of the total fruits. To calculate how many fruits he picks:
+   \[
+   \text{Fruits picked} = \frac{3}{5} \times 240
+   \]
+   We can calculate this step-by-step:
+   \[
+   \text{Fruits picked} = \frac{3 \times 240}{5} = \frac{720}{5} = 144
+   \]
+   So, Damien picks 144 fruits from the trees.
+
+4. **Calculate the number of fruits remaining:**
+   To find out how many fruits are left after Damien picks some, we subtract the number of fruits picked from the total number of fruits:
+   \[
+   \text{Fruits remaining} = \text{Total fruits} - \text{Fruits picked} = 240 - 144 = 96
+   \]
+
+5. **Final result:**
+   The total number of plums and apples remaining on the trees is 96.
+
+Therefore, the total number of fruits remaining on the trees is:
+</reasoning>
+<answer>96</answer>

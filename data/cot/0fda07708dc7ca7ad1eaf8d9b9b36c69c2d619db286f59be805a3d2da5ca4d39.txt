@@ -1,0 +1,39 @@
+<reasoning>
+To find the total number of books in the library, let's denote the total number of books as \( x \).
+
+1. We know that 35% of the books are intended for children. This can be expressed mathematically as:
+   \[
+   \text{Number of children's books} = 0.35x
+   \]
+
+2. The problem states that there are 104 books for adults. Since we have the total number of books being made up of children's and adult's books, we can express this as:
+   \[
+   \text{Total books} = \text{Children's books} + \text{Adult's books}
+   \]
+   Substituting in what we know:
+   \[
+   x = 0.35x + 104
+   \]
+
+3. Now, we need to isolate \( x \). To do this, we can subtract \( 0.35x \) from both sides of the equation:
+   \[
+   x - 0.35x = 104
+   \]
+   This simplifies to:
+   \[
+   0.65x = 104
+   \]
+
+4. Next, we will solve for \( x \) by dividing both sides by 0.65:
+   \[
+   x = \frac{104}{0.65}
+   \]
+
+5. Performing the division:
+   \[
+   x = 160
+   \]
+
+Thus, the total number of books in the library is 160.
+</reasoning>
+<answer>160</answer>

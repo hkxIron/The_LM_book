@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we first need to calculate the cost of the regular medium pizzas if they were bought at their regular price, and then compare that to the cost with the promotion.
+
+1. **Find the cost of 3 medium pizzas at regular price**: 
+   - The price of one medium pizza is $18.
+   - To find the total cost for 3 medium pizzas, we multiply the price of one medium pizza by 3.
+   \[
+   3 \, \text{medium pizzas} = 3 \times 18 = 54
+   \]
+   So, the total cost for 3 medium pizzas at the regular price is $54.
+
+2. **Find the cost of 3 medium pizzas with the promotion**:
+   - According to the promotion, you can get each medium pizza for $5.
+   - Therefore, the total cost for 3 medium pizzas with the promotion is:
+   \[
+   3 \, \text{medium pizzas} = 3 \times 5 = 15
+   \]
+   Thus, the total cost for 3 medium pizzas with the promotion is $15.
+
+3. **Calculate the total savings**:
+   - To find the savings, we subtract the promotional cost from the regular cost.
+   \[
+   \text{Savings} = \text{Regular Cost} - \text{Promotional Cost} = 54 - 15 = 39
+   \]
+   Therefore, the total savings from taking advantage of the promotion is $39.
+</reasoning>
+<answer>39</answer>

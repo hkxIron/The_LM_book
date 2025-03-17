@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate James's total earnings over four weeks**:
+   James earns $10 each week. To find out how much he earns in four weeks, we multiply his weekly earnings by the number of weeks:
+   \[
+   \text{Total earnings} = 10 \, \text{dollars/week} \times 4 \, \text{weeks} = 40 \, \text{dollars}
+   \]
+   So, after four weeks, James has saved $40.
+
+2. **Calculate how much he spends on the video game**:
+   James spends half of his total savings on a new video game. Half of $40 is calculated as follows:
+   \[
+   \text{Amount spent on video game} = \frac{40}{2} = 20 \, \text{dollars}
+   \]
+   After buying the video game, we need to find out how much money he has left:
+   \[
+   \text{Money left after video game} = 40 - 20 = 20 \, \text{dollars}
+   \]
+
+3. **Calculate how much he spends on the book**:
+   Now, James spends a quarter of what is left on a new book. A quarter of the remaining $20 is calculated as:
+   \[
+   \text{Amount spent on book} = \frac{20}{4} = 5 \, \text{dollars}
+   \]
+   We need to subtract this amount from what he has left:
+   \[
+   \text{Money left after book} = 20 - 5 = 15 \, \text{dollars}
+   \]
+
+Finally, after spending on both the video game and the book, James has $15 left.
+
+Therefore, the amount of money he has left is:
+</reasoning>
+<answer>15</answer>

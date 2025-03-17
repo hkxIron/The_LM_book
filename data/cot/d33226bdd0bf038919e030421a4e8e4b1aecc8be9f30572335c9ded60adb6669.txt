@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much Loisa will save by buying the tablet in cash instead of on an installment plan, we need to calculate the total cost of the tablet using the installment plan and then compare it to the cash price.
+
+1. **Calculate the total payments in the installment plan**:
+   - **Down payment**: Loisa will pay a down payment of $100.
+   - **Monthly payments**: She will pay different amounts over the months:
+     - For the first 4 months, she pays $40 per month.
+     - For the next 4 months, she pays $35 per month.
+     - For the last 4 months, she pays $30 per month.
+
+2. **Calculate the total of the monthly payments**:
+   - First 4 months: \( 4 \text{ months} \times 40 \text{ dollars/month} = 160 \text{ dollars} \)
+   - Next 4 months: \( 4 \text{ months} \times 35 \text{ dollars/month} = 140 \text{ dollars} \)
+   - Last 4 months: \( 4 \text{ months} \times 30 \text{ dollars/month} = 120 \text{ dollars} \)
+
+3. **Add the monthly payments together**:
+   - Total monthly payments = \( 160 + 140 + 120 = 420 \text{ dollars} \)
+
+4. **Add the down payment to the total of the monthly payments**:
+   - Total cost of the tablet on installment = Down payment + Total monthly payments
+   - Total cost = \( 100 + 420 = 520 \text{ dollars} \)
+
+5. **Compare the total installment cost to the cash price**:
+   - Cash price of the tablet is $450.
+   - Total cost on installment is $520.
+
+6. **Calculate the savings**:
+   - Savings = Cash price - Total cost on installment
+   - Savings = \( 450 - 520 = -70 \)
+
+The negative result indicates that Loisa will actually spend more by using the installment plan instead of paying in cash.
+
+Therefore, the amount Loisa will save (which is actually a loss) is $70.
+</reasoning>
+<answer>70</answer>

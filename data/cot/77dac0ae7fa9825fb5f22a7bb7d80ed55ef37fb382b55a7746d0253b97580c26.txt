@@ -1,0 +1,30 @@
+<reasoning>
+To find the average temperature for July 4th in Washington, DC over the past 5 years, we need to follow these steps:
+
+1. **List the temperatures**: We have the following temperatures for each year:
+   - 2020: 90 degrees
+   - 2019: 90 degrees
+   - 2018: 90 degrees
+   - 2017: 79 degrees
+   - 2016: 71 degrees
+
+2. **Add the temperatures together**: We will sum all the temperatures to find the total.
+   - Total = 90 + 90 + 90 + 79 + 71
+
+3. **Calculate the sum**: 
+   - First, adding the three 90s together gives us: 
+     90 + 90 + 90 = 270
+   - Next, add 79:
+     270 + 79 = 349
+   - Finally, add 71:
+     349 + 71 = 420
+
+4. **Divide by the number of years**: Now that we have the total temperature over the 5 years, we will divide by the number of years (which is 5) to find the average.
+   - Average = Total temperature / Number of years = 420 / 5
+
+5. **Calculate the average**:
+   - 420 divided by 5 equals 84.
+
+Therefore, the average temperature for July 4th in Washington, DC over the past 5 years is 84 degrees.
+</reasoning>
+<answer>84</answer>

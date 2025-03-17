@@ -1,0 +1,19 @@
+<reasoning>
+To solve the problem, we need to determine how many rolls John bought with his $15.
+
+1. **Identify the price per dozen rolls**: The bakery sells rolls for $5 for a dozen. A dozen is 12 rolls.
+
+2. **Calculate how many dozens John could afford**: Since John spent $15 and each dozen costs $5, we can find out how many dozens he bought by dividing his total spending by the price per dozen.
+   \[
+   \text{Number of dozens} = \frac{\text{Total spent}}{\text{Price per dozen}} = \frac{15}{5} = 3
+   \]
+   This means John bought 3 dozens of rolls.
+
+3. **Calculate the total number of rolls**: Since each dozen contains 12 rolls, we can find the total number of rolls by multiplying the number of dozens by the number of rolls in each dozen.
+   \[
+   \text{Total rolls} = \text{Number of dozens} \times \text{Rolls per dozen} = 3 \times 12 = 36
+   \]
+
+Thus, John got a total of 36 rolls.
+</reasoning>
+<answer>36</answer>

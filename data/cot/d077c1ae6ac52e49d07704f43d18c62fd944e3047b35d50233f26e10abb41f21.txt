@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Define the Variables**: 
+   - Let \( E \) be the number of marbles Elliot has.
+   - Since Merill has twice as many marbles as Elliot, we can express the number of marbles Merill has as \( M = 2E \).
+   - We know Selma has 50 marbles.
+
+2. **Set Up the Equation**: 
+   - According to the problem, the total number of marbles Merill and Elliot have together is five fewer than the number of marbles Selma has. Mathematically, this can be expressed as:
+   \[
+   M + E = 50 - 5
+   \]
+   or simplifying the right side:
+   \[
+   M + E = 45
+   \]
+
+3. **Substituting for M**: 
+   - We know from step 1 that \( M = 2E \), so we can substitute \( M \) in the equation:
+   \[
+   2E + E = 45
+   \]
+
+4. **Combine Like Terms**: 
+   - Now we can combine the terms on the left side:
+   \[
+   3E = 45
+   \]
+
+5. **Solve for E**: 
+   - To find the value of \( E \), we divide both sides by 3:
+   \[
+   E = \frac{45}{3} = 15
+   \]
+
+6. **Find M**: 
+   - Now that we have \( E \), we can find the number of marbles Merill has by substituting \( E \) back into the equation for \( M \):
+   \[
+   M = 2E = 2 \times 15 = 30
+   \]
+
+Therefore, after going through all the steps, we find that Merill has 30 marbles.
+</reasoning>
+<answer>30</answer>

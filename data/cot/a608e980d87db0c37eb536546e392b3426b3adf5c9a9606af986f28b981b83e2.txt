@@ -1,0 +1,36 @@
+<reasoning>
+To find the average number of birds seen by Marcus, Humphrey, and Darrel, we first need to find the total number of birds they all saw combined. 
+
+1. **Calculate the total number of birds seen**: 
+   - Marcus sees 7 birds.
+   - Humphrey sees 11 birds.
+   - Darrel sees 9 birds.
+   - We add these numbers together: 
+     \( 7 + 11 + 9 \).
+
+   Doing the calculation:
+   \[
+   7 + 11 = 18
+   \]
+   \[
+   18 + 9 = 27
+   \]
+   So, the total number of birds seen by all three is 27.
+
+2. **Count the number of people**: 
+   There are 3 people (Marcus, Humphrey, and Darrel).
+
+3. **Calculate the average number of birds seen**: 
+   The average is found by dividing the total number of birds by the number of people:
+   \[
+   \text{Average} = \frac{\text{Total Number of Birds}}{\text{Number of People}} = \frac{27}{3}
+   \]
+
+   Now, performing the division:
+   \[
+   \frac{27}{3} = 9
+   \]
+
+Thus, on average, each person sees 9 birds.
+</reasoning>
+<answer>9</answer>

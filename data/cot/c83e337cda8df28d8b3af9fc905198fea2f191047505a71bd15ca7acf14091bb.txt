@@ -1,0 +1,51 @@
+<reasoning>
+First, we need to determine how many corn mazes Frank has completed and what the average time should be.
+
+1. **Calculating the total time spent on previous mazes**: 
+   Frank has completed 4 mazes and took 50 minutes on average for each. Therefore, the total time spent on those 4 mazes is:
+   \[
+   \text{Total time for 4 mazes} = 4 \times 50 = 200 \text{ minutes}
+   \]
+
+2. **Adding the time spent on the current maze**: 
+   Frank has already spent 45 minutes in the current maze. So, the total time spent across all mazes (including the current one) will be:
+   \[
+   \text{Total time including current maze} = 200 + 45 = 245 \text{ minutes}
+   \]
+
+3. **Calculating the number of mazes completed**: 
+   After completing the current maze, Frank will have completed a total of:
+   \[
+   \text{Total mazes} = 4 + 1 = 5 \text{ mazes}
+   \]
+
+4. **Setting up the average time condition**: 
+   Frank wants his average time per maze not to exceed 60 minutes. The average time is calculated as:
+   \[
+   \text{Average time} = \frac{\text{Total time}}{\text{Number of mazes}}
+   \]
+   To ensure the average does not exceed 60 minutes, we can set up the following inequality:
+   \[
+   \frac{245 + x}{5} \leq 60
+   \]
+   where \( x \) is the additional time Frank can spend in the current maze.
+
+5. **Solving the inequality**: 
+   To eliminate the fraction, multiply both sides by 5:
+   \[
+   245 + x \leq 300
+   \]
+   Now, subtract 245 from both sides:
+   \[
+   x \leq 300 - 245
+   \]
+   Simplifying further:
+   \[
+   x \leq 55
+   \]
+
+This means Frank can spend a maximum of 55 more minutes in the current maze without exceeding an average of 60 minutes per maze.
+
+Therefore, Frank can spend 55 more minutes in the maze.
+</reasoning>
+<answer>55</answer>

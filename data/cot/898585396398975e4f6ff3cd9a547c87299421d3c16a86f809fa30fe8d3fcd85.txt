@@ -1,0 +1,43 @@
+<reasoning>
+To find Hakimi's age, we will start by using the information provided about the average age of the three friends and their age relationships.
+
+1. **Calculate the total age of the three friends**:  
+   Since the average age of the three friends is 40, we can find the total age by multiplying the average by the number of friends (3).  
+   \[
+   \text{Total age} = \text{Average age} \times \text{Number of friends} = 40 \times 3 = 120
+   \]  
+   This means that the sum of Jared's, Hakimi's, and Molly's ages is 120 years.
+
+2. **Set up the relationship between their ages**:  
+   We know that Molly's age is 30. Let’s denote Hakimi's age as \( H \). We are also told that Jared is ten years older than Hakimi. Therefore, we can express Jared's age as \( H + 10 \).
+
+3. **Write the equation for the total age**:  
+   Now, we can express the total age of all three friends using the ages we have:  
+   \[
+   H + (H + 10) + 30 = 120
+   \]  
+   Here, \( H \) is Hakimi's age, \( H + 10 \) is Jared's age, and 30 is Molly's age.
+
+4. **Simplify and solve the equation**:  
+   Combine like terms in the equation:  
+   \[
+   2H + 10 + 30 = 120
+   \]  
+   \[
+   2H + 40 = 120
+   \]  
+   Now, subtract 40 from both sides:  
+   \[
+   2H = 120 - 40 = 80
+   \]  
+   Next, divide by 2 to solve for \( H \):  
+   \[
+   H = \frac{80}{2} = 40
+   \]
+
+5. **Conclusion**:  
+   Hakimi's age is 40 years old.
+
+Thus, we have determined Hakimi's age through careful calculations and logical reasoning.
+</reasoning>
+<answer>40</answer>

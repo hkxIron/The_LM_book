@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, let's break it down month by month.
+
+1. **June**: We know that Katy read 8 books in June.  
+   - So, **Books in June = 8**.
+
+2. **July**: According to the problem, Katy read twice as many books in July as she did in June.  
+   - Since she read 8 books in June, we calculate the number of books she read in July as follows:  
+   \[
+   \text{Books in July} = 2 \times \text{Books in June} = 2 \times 8 = 16
+   \]
+   - So, **Books in July = 16**.
+
+3. **August**: The problem states that Katy read three fewer books in August than she did in July.  
+   - Since she read 16 books in July, we can calculate the number of books she read in August as follows:  
+   \[
+   \text{Books in August} = \text{Books in July} - 3 = 16 - 3 = 13
+   \]
+   - So, **Books in August = 13**.
+
+4. **Total Books Read**: Now we can find the total number of books Katy read during the summer by adding the books from all three months together:  
+   \[
+   \text{Total Books} = \text{Books in June} + \text{Books in July} + \text{Books in August} = 8 + 16 + 13
+   \]
+   - Performing the addition:  
+   \[
+   8 + 16 = 24  
+   \]
+   \[
+   24 + 13 = 37
+   \]
+
+Thus, the total number of books Katy read during the summer is 37.
+</reasoning>
+<answer>37</answer>

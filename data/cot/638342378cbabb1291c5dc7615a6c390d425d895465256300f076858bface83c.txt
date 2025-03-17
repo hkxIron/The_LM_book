@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many commencement addresses the three governors gave altogether, we can break the problem down step by step.
+
+1. **Determine how many commencement addresses Governor Hawkins gave**:
+   - We know that Governor Sandoval gave twice as many addresses as Governor Hawkins.
+   - Let the number of addresses Governor Hawkins gave be \( x \). According to the problem, Governor Sandoval gave \( 2x \).
+   - We also know from the problem that Governor Sandoval gave 12 commencement addresses. So we can set up the equation:
+     \[
+     2x = 12
+     \]
+   - To find \( x \), we divide both sides by 2:
+     \[
+     x = \frac{12}{2} = 6
+     \]
+   - Therefore, Governor Hawkins gave 6 commencement addresses.
+
+2. **Determine how many commencement addresses Governor Sloan gave**:
+   - The problem states that Governor Sloan gave ten more addresses than Governor Sandoval.
+   - Since Governor Sandoval gave 12 addresses, we can find how many addresses Governor Sloan gave by adding 10 to that:
+     \[
+     12 + 10 = 22
+     \]
+   - Therefore, Governor Sloan gave 22 commencement addresses.
+
+3. **Calculate the total number of commencement addresses given by all three governors**:
+   - Now we can add the number of addresses given by each governor:
+     \[
+     \text{Total} = \text{Addresses by Sandoval} + \text{Addresses by Hawkins} + \text{Addresses by Sloan}
+     \]
+     \[
+     \text{Total} = 12 + 6 + 22
+     \]
+   - Performing the addition:
+     \[
+     \text{Total} = 12 + 6 = 18
+     \]
+     \[
+     \text{Total} = 18 + 22 = 40
+     \]
+
+Therefore, the total number of commencement addresses given by the three governors is 40.
+</reasoning>
+<answer>40</answer>

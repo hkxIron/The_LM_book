@@ -1,0 +1,62 @@
+<reasoning>
+Let's denote the amount of money that each of Harry's three friends contributed as \( x \).
+
+Since there are three friends, the total contribution from them is:
+\[
+3x
+\]
+
+Harry added $30 to this contribution. Therefore, the total amount of money contributed (from his friends plus Harry's addition) can be expressed as:
+\[
+3x + 30
+\]
+
+According to the problem, this total amount is also three times the amount that Harry contributed. If \( y \) represents the amount that Harry contributed, we can express this relationship as:
+\[
+3x + 30 = 3y
+\]
+
+From the problem, we know that Harry contributed an additional $30 to the friends' contributions. This means that Harry's contribution can be represented as:
+\[
+y = 30
+\]
+
+Now we can substitute \( y = 30 \) back into the equation:
+\[
+3x + 30 = 3(30)
+\]
+
+Calculating \( 3(30) \):
+\[
+3(30) = 90
+\]
+
+Now we can set up the equation:
+\[
+3x + 30 = 90
+\]
+
+Next, we solve for \( x \) by first subtracting 30 from both sides:
+\[
+3x = 90 - 30
+\]
+\[
+3x = 60
+\]
+
+Now, divide both sides by 3 to find \( x \):
+\[
+x = \frac{60}{3}
+\]
+\[
+x = 20
+\]
+
+Thus, each of Harry's friends contributed $20.
+
+Now, we summarize the findings:
+- Each friend contributed \( x = 20 \).
+
+Therefore, the total amount of money that each of Harry's friends contributed is:
+</reasoning>
+<answer>20</answer>

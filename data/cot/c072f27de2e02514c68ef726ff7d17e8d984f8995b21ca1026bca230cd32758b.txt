@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many more gift bags Carl needs to make, we will first calculate the total number of people expected at the open house, then subtract the number of gift bags he already has.
+
+1. **Calculate the expected total number of people:**
+   - Carl knows 50 people will show up.
+   - He hopes another 40 people will randomly show up.
+   Therefore, the total number of people is:
+   \[
+   50 + 40 = 90
+   \]
+   This means Carl expects 90 people to visit his shop.
+
+2. **Calculate the total number of gift bags Carl currently has:**
+   - Carl has made 10 extravagant gift bags for the first 10 people.
+   - He has also made average gift bags for 20 more people.
+   Therefore, the total number of gift bags he has is:
+   \[
+   10 + 20 = 30
+   \]
+   So, Carl currently has 30 gift bags.
+
+3. **Determine how many more gift bags Carl needs to make:**
+   - He needs enough gift bags for all 90 expected visitors.
+   - Since he already has 30 gift bags, we need to find the difference between the total needed and what he has:
+   \[
+   90 - 30 = 60
+   \]
+   This means Carl needs to make 60 more gift bags.
+
+Therefore, Carl needs to make 60 more gift bags to ensure every visitor has one.
+</reasoning>
+<answer>60</answer>

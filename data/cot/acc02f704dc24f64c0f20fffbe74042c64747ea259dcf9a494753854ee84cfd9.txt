@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many books Carlos read in June, we first need to determine how many total books he read in July and August, and then see how many more he needed to reach his goal of 100 books.
+
+1. **Calculate the total books read in July and August:**
+   - In July, Carlos read 28 books.
+   - In August, Carlos read 30 books.
+   - We add these two amounts together to find the total books read in these two months:
+     \[
+     28 + 30 = 58
+     \]
+   So, Carlos read a total of 58 books in July and August.
+
+2. **Determine how many more books he needed to read to reach his goal:**
+   - Carlos's goal was to read a total of 100 books during his summer vacation.
+   - We subtract the total books he read in July and August from his goal:
+     \[
+     100 - 58 = 42
+     \]
+   This means Carlos needed to read 42 more books in June.
+
+Therefore, Carlos read 42 books in June to meet his goal of 100 books for the summer.
+</reasoning>
+<answer>42</answer>

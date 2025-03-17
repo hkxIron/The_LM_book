@@ -1,0 +1,47 @@
+<reasoning>
+To calculate how much Michael will spend at the market for the fruit needed for his pies, we need to follow these steps:
+
+1. **Determine the total amount of fruit needed for each type of pie.**
+   Each pie recipe requires 3 pounds of fruit. 
+   - For peach pies: Michael needs 5 peach pies.
+     \[
+     5 \text{ pies} \times 3 \text{ pounds/pie} = 15 \text{ pounds of peaches}
+     \]
+   - For apple pies: Michael needs 4 apple pies.
+     \[
+     4 \text{ pies} \times 3 \text{ pounds/pie} = 12 \text{ pounds of apples}
+     \]
+   - For blueberry pies: Michael needs 3 blueberry pies.
+     \[
+     3 \text{ pies} \times 3 \text{ pounds/pie} = 9 \text{ pounds of blueberries}
+     \]
+
+2. **Calculate the cost for each type of fruit.**
+   - **Cost of peaches:**
+     The price of peaches is $2.00 per pound.
+     \[
+     15 \text{ pounds} \times 2.00 \text{ dollars/pound} = 30 \text{ dollars}
+     \]
+   - **Cost of apples:**
+     The price of apples is $1.00 per pound.
+     \[
+     12 \text{ pounds} \times 1.00 \text{ dollar/pound} = 12 \text{ dollars}
+     \]
+   - **Cost of blueberries:**
+     The price of blueberries is also $1.00 per pound.
+     \[
+     9 \text{ pounds} \times 1.00 \text{ dollar/pound} = 9 \text{ dollars}
+     \]
+
+3. **Add up the total costs.**
+   Now, we sum the costs for each type of fruit to find the total amount Michael will spend.
+   \[
+   \text{Total cost} = \text{Cost of peaches} + \text{Cost of apples} + \text{Cost of blueberries}
+   \]
+   \[
+   \text{Total cost} = 30 \text{ dollars} + 12 \text{ dollars} + 9 \text{ dollars} = 51 \text{ dollars}
+   \]
+
+Therefore, Michael will spend a total of $51.00 at the market for the fruit needed for his pie order.
+</reasoning>
+<answer>51</answer>

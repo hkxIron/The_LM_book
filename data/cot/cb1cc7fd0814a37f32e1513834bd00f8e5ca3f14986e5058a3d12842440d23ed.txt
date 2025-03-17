@@ -1,0 +1,57 @@
+<reasoning>
+To find Luna's total monthly budget, we need to define the variables for each of her budgets based on the information given.
+
+1. Let \( R \) be Luna's house rental budget.
+2. According to the problem, her monthly food budget is 60% of her house rental budget. Therefore, we can express the food budget \( F \) as:
+   \[
+   F = 0.6R
+   \]
+
+3. The total budget for house rental and food is given as $240. This gives us our first equation:
+   \[
+   R + F = 240
+   \]
+
+4. Now substituting the expression for \( F \) into the equation:
+   \[
+   R + 0.6R = 240
+   \]
+   This simplifies to:
+   \[
+   1.6R = 240
+   \]
+
+5. To find \( R \), we divide both sides by 1.6:
+   \[
+   R = \frac{240}{1.6}
+   \]
+   Now performing the division:
+   \[
+   R = 150
+   \]
+   So, Luna's house rental budget is $150.
+
+6. Now, we can find the food budget \( F \) using the expression \( F = 0.6R \):
+   \[
+   F = 0.6 \times 150 = 90
+   \]
+   So, Luna's food budget is $90.
+
+7. Now, we need to calculate the phone bill budget, which is 10% of her food budget:
+   \[
+   P = 0.1F = 0.1 \times 90 = 9
+   \]
+   Thus, Luna's phone bill budget is $9.
+
+8. Finally, to find Luna's total monthly budget, we need to sum up all her budgets:
+   \[
+   \text{Total Budget} = R + F + P = 150 + 90 + 9
+   \]
+   Performing this addition:
+   \[
+   \text{Total Budget} = 249
+   \]
+
+Thus, after calculating all components of Luna's budget, we find that her total monthly budget to pay all those expenses is:
+</reasoning>
+<answer>249</answer>

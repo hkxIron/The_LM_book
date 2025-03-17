@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we first need to determine how long it takes for Biff to finish the race, and then use that time to calculate how far Kenneth has rowed in the same time.
+
+1. **Calculate the time it takes for Biff to finish the race:**
+   Biff rows at a speed of 50 yards per minute. The distance of the race is 500 yards. We can find the time it takes him to finish by using the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Substituting Biff's distance and speed:
+   \[
+   \text{Time}_{Biff} = \frac{500 \text{ yards}}{50 \text{ yards/minute}} = 10 \text{ minutes}
+   \]
+   So, it takes Biff 10 minutes to complete the race.
+
+2. **Calculate how far Kenneth has rowed in that time:**
+   Kenneth rows at a speed of 51 yards per minute. We can now calculate how far he has rowed in the 10 minutes that Biff is rowing:
+   \[
+   \text{Distance}_{Kenneth} = \text{Speed}_{Kenneth} \times \text{Time}_{Biff}
+   \]
+   Substituting Kenneth's speed and the time it took Biff to finish:
+   \[
+   \text{Distance}_{Kenneth} = 51 \text{ yards/minute} \times 10 \text{ minutes} = 510 \text{ yards}
+   \]
+
+3. **Determine how far Kenneth is past the finish line when Biff finishes:**
+   Now, we need to find out how many yards past the finish line Kenneth is when Biff finishes:
+   \[
+   \text{Yards past the finish line} = \text{Distance}_{Kenneth} - \text{Finish Line}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Yards past the finish line} = 510 \text{ yards} - 500 \text{ yards} = 10 \text{ yards}
+   \]
+
+Therefore, Kenneth is 10 yards past the finish line when Biff crosses the finish line.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+First, let's calculate the total cost of the hotel room before applying the discount.
+
+1. **Calculate the total cost without the discount:**
+   John is booking 3 nights at a rate of $250 per night. 
+   To find the total cost, we multiply the number of nights by the price per night:
+   \[
+   \text{Total cost} = \text{Number of nights} \times \text{Price per night} = 3 \times 250
+   \]
+   Performing the multiplication:
+   \[
+   3 \times 250 = 750
+   \]
+   So, the total cost without the discount is $750.
+
+2. **Apply the discount:**
+   John has a $100 discount. To find out how much he will actually pay, we subtract the discount from the total cost:
+   \[
+   \text{Amount paid} = \text{Total cost} - \text{Discount} = 750 - 100
+   \]
+   Performing the subtraction:
+   \[
+   750 - 100 = 650
+   \]
+   Therefore, the amount John will pay after applying the discount is $650.
+</reasoning>
+<answer>650</answer>

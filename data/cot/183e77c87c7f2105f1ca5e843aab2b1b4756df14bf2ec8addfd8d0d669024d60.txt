@@ -1,0 +1,31 @@
+<reasoning>
+Let's solve this problem step by step.
+
+1. **Determine Harry's speed on Monday.**
+   - On Monday, Harry ran at a speed of 10 meters per hour.
+
+2. **Calculate Harry's speed from Tuesday to Thursday.**
+   - From Tuesday to Thursday, he ran 50% faster than he did on Monday.
+   - To find 50% of his Monday speed, we calculate:
+     \[
+     50\% \text{ of } 10 \text{ m/h} = 0.5 \times 10 = 5 \text{ m/h}
+     \]
+   - Now we add this to his Monday speed:
+     \[
+     \text{Tuesday to Thursday speed} = 10 \text{ m/h} + 5 \text{ m/h} = 15 \text{ m/h}
+     \]
+
+3. **Calculate Harry's speed on Friday.**
+   - On Friday, he ran 60% faster than he did on Thursday.
+   - Since his speed from Tuesday to Thursday was 15 m/h, we need to find 60% of that speed:
+     \[
+     60\% \text{ of } 15 \text{ m/h} = 0.6 \times 15 = 9 \text{ m/h}
+     \]
+   - Now, we add this to his Thursday speed:
+     \[
+     \text{Friday speed} = 15 \text{ m/h} + 9 \text{ m/h} = 24 \text{ m/h}
+     \]
+
+Thus, Harry ran at a speed of 24 meters per hour on Friday.
+</reasoning>
+<answer>24</answer>

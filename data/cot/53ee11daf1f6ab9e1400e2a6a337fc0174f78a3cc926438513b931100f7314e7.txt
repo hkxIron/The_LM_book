@@ -1,0 +1,22 @@
+<reasoning>
+To find the total height of the three buildings, we need to calculate the height of each building based on the information provided.
+
+1. **First Building Height**: We know that the height of the first building is given as 600 feet.
+   - \( \text{Height of Building 1} = 600 \text{ feet} \)
+
+2. **Second Building Height**: The second building is two times as tall as the first building. Therefore, we can calculate its height as follows:
+   - \( \text{Height of Building 2} = 2 \times \text{Height of Building 1} = 2 \times 600 \text{ feet} = 1200 \text{ feet} \)
+
+3. **Combined Height of First and Second Buildings**: Now, we find the combined height of the first and second buildings:
+   - \( \text{Combined Height} = \text{Height of Building 1} + \text{Height of Building 2} = 600 \text{ feet} + 1200 \text{ feet} = 1800 \text{ feet} \)
+
+4. **Third Building Height**: The third building is three times as tall as the combined height of the first and second buildings. We calculate its height:
+   - \( \text{Height of Building 3} = 3 \times \text{Combined Height} = 3 \times 1800 \text{ feet} = 5400 \text{ feet} \)
+
+5. **Total Height of All Three Buildings**: Finally, we will sum the heights of all three buildings to find the total height:
+   - \( \text{Total Height} = \text{Height of Building 1} + \text{Height of Building 2} + \text{Height of Building 3} \)
+   - \( \text{Total Height} = 600 \text{ feet} + 1200 \text{ feet} + 5400 \text{ feet} = 7200 \text{ feet} \)
+
+Therefore, the total height of the three buildings together is:
+</reasoning>
+<answer>7200</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+To find out how tall Big Joe is, we will determine the heights of each person step by step, starting from Pepe, who is given as 4 feet 6 inches tall.
+
+1. **Convert Pepe's height to feet**: 
+   Pepe is 4 feet 6 inches tall. Since there are 12 inches in a foot, we can convert 6 inches to feet:
+   \[
+   6 \text{ inches} = \frac{6}{12} \text{ feet} = 0.5 \text{ feet}
+   \]
+   So, Pepe's total height in feet is:
+   \[
+   4 \text{ feet} + 0.5 \text{ feet} = 4.5 \text{ feet}
+   \]
+
+2. **Calculate Frank's height**:
+   Frank is half a foot taller than Pepe:
+   \[
+   \text{Frank's height} = 4.5 \text{ feet} + 0.5 \text{ feet} = 5.0 \text{ feet}
+   \]
+
+3. **Calculate Larry's height**:
+   Larry is one foot taller than Frank:
+   \[
+   \text{Larry's height} = 5.0 \text{ feet} + 1.0 \text{ foot} = 6.0 \text{ feet}
+   \]
+
+4. **Calculate Ben's height**:
+   Ben is one foot taller than Larry:
+   \[
+   \text{Ben's height} = 6.0 \text{ feet} + 1.0 \text{ foot} = 7.0 \text{ feet}
+   \]
+
+5. **Calculate Big Joe's height**:
+   Big Joe is one foot taller than Ben:
+   \[
+   \text{Big Joe's height} = 7.0 \text{ feet} + 1.0 \text{ foot} = 8.0 \text{ feet}
+   \]
+
+Now we have calculated that Big Joe is 8 feet tall.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>8</answer>

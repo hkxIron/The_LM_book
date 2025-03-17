@@ -1,0 +1,30 @@
+<reasoning>
+Let's start by defining the ages based on the information given.
+
+1. **Determine Katie's daughter's age**:
+   - We know that Katie's daughter is 12 years old.
+   - So, \( \text{Katie's daughter} = 12 \) years.
+
+2. **Find Lavinia's daughter's age**:
+   - It is stated that Lavinia’s daughter is 10 years younger than Katie’s daughter.
+   - Therefore, we calculate Lavinia's daughter's age as follows:
+     \[
+     \text{Lavinia's daughter} = \text{Katie's daughter} - 10 = 12 - 10 = 2 \text{ years old}
+     \]
+
+3. **Calculate Lavinia's son's age**:
+   - We know that Lavinia’s son is 2 times the age of Katie’s daughter.
+   - Therefore, we calculate Lavinia's son's age as follows:
+     \[
+     \text{Lavinia's son} = 2 \times \text{Katie's daughter} = 2 \times 12 = 24 \text{ years old}
+     \]
+
+4. **Determine how many years older Lavinia's son is than Lavinia's daughter**:
+   - We find the difference in their ages:
+     \[
+     \text{Difference} = \text{Lavinia's son} - \text{Lavinia's daughter} = 24 - 2 = 22 \text{ years}
+     \]
+
+Therefore, Lavinia's son is 22 years older than Lavinia's daughter.
+</reasoning>
+<answer>22</answer>

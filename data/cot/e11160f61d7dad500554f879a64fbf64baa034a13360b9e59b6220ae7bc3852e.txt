@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of roses Ian had initially.**
+   Ian had a total of 20 roses.
+
+2. **Determine how many roses Ian gave away.**
+   - He gave 6 roses to his mother.
+   - He gave 9 roses to his grandmother.
+   - He gave 4 roses to his sister.
+
+3. **Calculate the total number of roses given away.**
+   To find out how many roses he gave away in total, we will add the roses given to his mother, grandmother, and sister:
+   \[
+   6 + 9 + 4 = 19
+   \]
+   So, Ian gave away a total of 19 roses.
+
+4. **Calculate how many roses Ian kept.**
+   To find out how many roses Ian kept, we subtract the total roses given away from the initial total:
+   \[
+   20 - 19 = 1
+   \]
+   Thus, Ian kept 1 rose.
+
+Therefore, after performing these calculations, we find that Ian kept 1 rose.
+</reasoning>
+<answer>1</answer>

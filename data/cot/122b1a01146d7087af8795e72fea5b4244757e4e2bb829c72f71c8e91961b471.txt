@@ -1,0 +1,26 @@
+<reasoning>
+To determine how many days it will take for the chocolate factory to produce 4000 candies, we will follow these steps:
+
+1. **Calculate the total production per day**: 
+   The factory produces 50 candies per hour. Since it operates for 10 hours a day, we can find the daily production by multiplying the hourly production by the number of hours worked each day.
+   
+   \[
+   \text{Daily production} = \text{Candies per hour} \times \text{Hours per day}
+   \]
+   \[
+   \text{Daily production} = 50 \, \text{candies/hour} \times 10 \, \text{hours/day} = 500 \, \text{candies/day}
+   \]
+
+2. **Calculate the number of days needed to fulfill the order**:
+   Now, we need to find out how many days it will take to produce 4000 candies. We can do this by dividing the total number of candies required by the daily production.
+
+   \[
+   \text{Days needed} = \frac{\text{Total candies}}{\text{Daily production}}
+   \]
+   \[
+   \text{Days needed} = \frac{4000 \, \text{candies}}{500 \, \text{candies/day}} = 8 \, \text{days}
+   \]
+
+Therefore, it will take the factory 8 days to complete the order of 4000 candies.
+</reasoning>
+<answer>8</answer>

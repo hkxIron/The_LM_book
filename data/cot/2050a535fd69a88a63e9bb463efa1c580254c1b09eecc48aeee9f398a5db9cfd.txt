@@ -1,0 +1,14 @@
+<reasoning>
+Let's start by finding out how many coins each person has. We know that the ratio of Elsa's coins to Amalie's coins is 10:45. This means that for every 10 coins Elsa has, Amalie has 45. This can be simplified to a ratio of 2:9.
+
+The total ratio is 2 + 9 = 11. However, we are told that the total number of coins is 440. Therefore, each part of the ratio represents 440/11 = 40 coins.
+
+Since the ratio tells us that Amalie has 9 parts, this means she has 9 * 40 = 360 coins.
+
+Next, we are told that Amalie spends 3/4 of her coins on toys. This means she spends 3/4 * 360 = 270 coins on toys.
+
+Finally, to find out how many coins Amalie has left, we subtract the number of coins she spent on toys from her total number of coins. This gives us 360 - 270 = 90 coins.
+
+Therefore, after buying toys, Amalie will remain with 90 coins.
+</reasoning>
+<answer>90</answer>

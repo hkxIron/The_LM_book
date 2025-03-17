@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of cakes baked**: 
+   - Diego baked 12 cakes.
+   - Donald baked 4 cakes.
+
+   To find the total number of cakes baked, we will add these two amounts together.
+   \[
+   \text{Total cakes baked} = 12 + 4 = 16
+   \]
+
+2. **Account for the cake eaten by Donald**: 
+   - Donald ate 1 cake while waiting for the party.
+   - We need to subtract the 1 cake that Donald ate from the total number of cakes baked.
+
+   So, we perform the subtraction:
+   \[
+   \text{Cakes left} = 16 - 1 = 15
+   \]
+
+Therefore, after calculating the total number of cakes baked and accounting for the one that Donald ate, we find that there are 15 cakes left.
+</reasoning>
+<answer>15</answer>

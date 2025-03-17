@@ -1,0 +1,31 @@
+<reasoning>
+To determine the average amount John lost when purchasing loot boxes, we will follow these steps:
+
+1. **Calculate the number of loot boxes John buys**:  
+   John spends $40, and each loot box costs $5. We can find the number of loot boxes by dividing the total amount spent by the price per loot box:
+
+   \[
+   \text{Number of loot boxes} = \frac{\text{Total spent}}{\text{Cost per loot box}} = \frac{40}{5} = 8
+   \]
+
+   This means John buys 8 loot boxes.
+
+2. **Calculate the total average value of items from the loot boxes**:  
+   The average value of the items inside each loot box is $3.5. Therefore, to find the total average value for all the loot boxes he bought, we multiply the average value by the number of loot boxes:
+
+   \[
+   \text{Total average value} = \text{Number of loot boxes} \times \text{Average value per loot box} = 8 \times 3.5 = 28
+   \]
+
+   Thus, the total average value of the items from the 8 loot boxes is $28.
+
+3. **Calculate the total amount lost**:  
+   To find out how much John lost, we subtract the total average value of the items from the total amount he spent on the loot boxes:
+
+   \[
+   \text{Amount lost} = \text{Total spent} - \text{Total average value} = 40 - 28 = 12
+   \]
+
+   Therefore, John lost an average of $12 from his purchases.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we need to find out how many cups of lemonade each person sold in 3 hours and then determine the difference between the two amounts.
+
+1. **Calculate how many cups Stanley sold in 3 hours:**
+   - Stanley sells 4 cups of lemonade per hour.
+   - To find the total he sold in 3 hours, we multiply the number of cups he sells per hour by the number of hours:
+     \[
+     \text{Cups sold by Stanley} = 4 \text{ cups/hour} \times 3 \text{ hours} = 12 \text{ cups}
+     \]
+
+2. **Calculate how many cups Carl sold in 3 hours:**
+   - Carl sells 7 cups of lemonade per hour.
+   - Similarly, we multiply the number of cups he sells per hour by the number of hours:
+     \[
+     \text{Cups sold by Carl} = 7 \text{ cups/hour} \times 3 \text{ hours} = 21 \text{ cups}
+     \]
+
+3. **Determine how many more cups Carl sold than Stanley:**
+   - We now find the difference between the cups sold by Carl and Stanley:
+     \[
+     \text{Difference} = \text{Cups sold by Carl} - \text{Cups sold by Stanley} = 21 \text{ cups} - 12 \text{ cups} = 9 \text{ cups}
+     \]
+
+Therefore, Carl sold 9 more cups of lemonade than Stanley in 3 hours.
+</reasoning>
+<answer>9</answer>

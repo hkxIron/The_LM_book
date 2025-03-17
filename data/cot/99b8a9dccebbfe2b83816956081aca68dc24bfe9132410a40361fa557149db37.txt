@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we need to establish the relationships between the different types of leaves Sabrina needs.
+
+1. **Identify the number of basil leaves**: We know that Sabrina needs 12 basil leaves.
+
+2. **Determine the number of sage leaves**: According to the problem, she needs twice as many basil leaves as sage leaves. We can set up the equation:
+   \[
+   \text{sage leaves} = \frac{\text{basil leaves}}{2}
+   \]
+   Since she needs 12 basil leaves, we can substitute that in:
+   \[
+   \text{sage leaves} = \frac{12}{2} = 6
+   \]
+
+3. **Determine the number of verbena leaves**: The problem states that Sabrina needs 5 fewer sage leaves than verbena leaves. We can express this relationship as:
+   \[
+   \text{verbena leaves} = \text{sage leaves} + 5
+   \]
+   Substituting the number of sage leaves we found:
+   \[
+   \text{verbena leaves} = 6 + 5 = 11
+   \]
+
+4. **Calculate the total number of leaves**: Now, we can find the total number of leaves by adding the number of basil, sage, and verbena leaves together:
+   \[
+   \text{Total leaves} = \text{basil leaves} + \text{sage leaves} + \text{verbena leaves}
+   \]
+   Substituting the numbers we have:
+   \[
+   \text{Total leaves} = 12 + 6 + 11 = 29
+   \]
+
+Therefore, after calculating the total number of leaves, we find that Sabrina needs a total of 29 leaves.
+</reasoning>
+<answer>29</answer>

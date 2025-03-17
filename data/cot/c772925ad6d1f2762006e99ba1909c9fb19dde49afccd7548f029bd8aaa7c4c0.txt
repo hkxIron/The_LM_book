@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of pieces of candy from the blocks**: 
+   Jan breaks down 3 blocks of candy, and each block produces 30 pieces of candy. Therefore, we need to calculate the total number of pieces of candy by multiplying the number of blocks by the number of pieces per block:
+   \[
+   \text{Total pieces of candy} = \text{number of blocks} \times \text{pieces per block} = 3 \times 30
+   \]
+   Performing this multiplication:
+   \[
+   3 \times 30 = 90
+   \]
+   So, Jan has 90 pieces of candy.
+
+2. **Determine how many candy necklaces can be made**: 
+   Each candy necklace requires 10 pieces of candy. To find out how many candy necklaces can be made with the 90 pieces of candy, we divide the total pieces of candy by the number of pieces required for each necklace:
+   \[
+   \text{Number of necklaces} = \frac{\text{Total pieces of candy}}{\text{pieces per necklace}} = \frac{90}{10}
+   \]
+   Performing this division:
+   \[
+   \frac{90}{10} = 9
+   \]
+   Thus, Jan can make a total of 9 candy necklaces.
+
+3. **Determine how many friends receive a candy necklace**: 
+   Since Jan is making a candy necklace for herself and for her friends, we need to consider that one of the necklaces is for Jan. Therefore, the number of friends receiving a necklace is the total number of necklaces minus the one necklace Jan receives:
+   \[
+   \text{Number of friends} = \text{Total necklaces} - 1 = 9 - 1
+   \]
+   Performing this subtraction:
+   \[
+   9 - 1 = 8
+   \]
+   Therefore, 8 friends receive a candy necklace.
+
+Putting this all together, we can conclude that Jan's friends will receive 8 candy necklaces.
+</reasoning>
+<answer>8</answer>

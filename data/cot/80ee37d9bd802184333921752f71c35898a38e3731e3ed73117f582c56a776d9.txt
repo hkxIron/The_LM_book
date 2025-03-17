@@ -1,0 +1,25 @@
+<reasoning>
+First, we need to determine how many oranges Timmy needs to buy in order to reach at least 400 calories.
+
+1. **Calculate the calories per orange**: Each orange has 80 calories.
+   
+2. **Determine the number of oranges required for 400 calories**: To find out how many oranges Timmy needs, we divide the total calories needed by the calories per orange:
+   \[
+   \text{Number of oranges} = \frac{400 \text{ calories}}{80 \text{ calories/orange}} = 5 \text{ oranges}
+   \]
+   This means Timmy needs to buy 5 oranges to meet his calorie requirement.
+
+3. **Calculate the total cost of the oranges**: Each orange costs $1.20, so we multiply the number of oranges by the cost per orange:
+   \[
+   \text{Total cost} = 5 \text{ oranges} \times 1.20 \text{ dollars/orange} = 6 \text{ dollars}
+   \]
+   Therefore, the total cost for 5 oranges is $6.
+
+4. **Determine how much money Timmy has left**: Timmy initially has $10. We subtract the total cost of the oranges from his initial amount:
+   \[
+   \text{Money left} = 10 \text{ dollars} - 6 \text{ dollars} = 4 \text{ dollars}
+   \]
+
+Thus, after buying the oranges, Timmy will have $4 left.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we need to determine how many designer scarves are included in the swag bag. We will start by calculating the total cost of the items already known and then find out how much of the total value is left for the scarves.
+
+1. **Calculate the cost of the diamond earrings:**
+   There are 2 diamond earrings, each costing $6,000. Therefore, we calculate the total cost of the earrings:
+   \[
+   \text{Cost of earrings} = 2 \times 6,000 = 12,000
+   \]
+
+2. **Calculate the cost of the iPhone:**
+   The iPhone costs $2,000. We can note this as:
+   \[
+   \text{Cost of iPhone} = 2,000
+   \]
+
+3. **Calculate the total cost of the known items (earrings + iPhone):**
+   We now add the cost of the earrings and the iPhone together:
+   \[
+   \text{Total cost of known items} = 12,000 + 2,000 = 14,000
+   \]
+
+4. **Determine the remaining value for scarves:**
+   The total value of the swag bag is $20,000. To find out how much value is left for the scarves, we subtract the total known costs from the total swag bag value:
+   \[
+   \text{Remaining value for scarves} = 20,000 - 14,000 = 6,000
+   \]
+
+5. **Calculate the number of scarves:**
+   Each designer scarf costs $1,500. To find out how many scarves can be bought with the remaining value, we divide the remaining value by the cost of one scarf:
+   \[
+   \text{Number of scarves} = \frac{6,000}{1,500} = 4
+   \]
+
+Therefore, the swag bag includes 4 designer scarves.
+</reasoning>
+<answer>4</answer>

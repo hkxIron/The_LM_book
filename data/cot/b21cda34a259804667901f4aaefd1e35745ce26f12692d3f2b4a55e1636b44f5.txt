@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we first need to determine how much bird food Herman uses in one day and then multiply that by the total number of days in the three months he's feeding the birds.
+
+1. **Calculate daily food consumption:**
+   Herman feeds the birds 1/2 cup in the morning and 1/2 cup in the afternoon. 
+   - Morning feeding = 1/2 cup
+   - Afternoon feeding = 1/2 cup
+   - Total per day = 1/2 cup + 1/2 cup = 1 cup
+
+   Therefore, Herman feeds the birds 1 cup of food each day.
+
+2. **Determine the total number of days in December, January, and February:**
+   - December has 31 days.
+   - January has 31 days.
+   - February typically has 28 days, but since it is not specified whether it's a leap year, we will assume it has 28 days.
+
+   Total days in three months = 31 (December) + 31 (January) + 28 (February) = 90 days.
+
+3. **Calculate total food needed for all three months:**
+   Now, we multiply the daily food consumption by the total number of days:
+   - Total food = Daily food * Total days = 1 cup/day * 90 days = 90 cups.
+
+Therefore, the total amount of bird food Herman will need for December, January, and February is 90 cups.
+</reasoning>
+<answer>90</answer>

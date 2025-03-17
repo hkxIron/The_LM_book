@@ -1,0 +1,45 @@
+<reasoning>
+To determine how many shirts were missing, we first need to set up the equations based on the information given.
+
+1. **Define Variables:**
+   - Let \( x \) be the number of shirts Leo dropped off.
+   - We know he dropped off 10 pairs of trousers.
+
+2. **Calculate the Total Cost:**
+   - The cost for trousers is \( 9 \) dollars each, so for 10 pairs of trousers the total cost would be:
+     \[
+     10 \times 9 = 90 \text{ dollars}
+     \]
+   - The cost for shirts is \( 5 \) dollars each, so for \( x \) shirts the total cost would be:
+     \[
+     5x \text{ dollars}
+     \]
+
+3. **Set Up the Total Cost Equation:**
+   - The total bill Leo received was \( 140 \) dollars, so we can set up the equation:
+     \[
+     90 + 5x = 140
+     \]
+
+4. **Solve for \( x \):**
+   - Subtract \( 90 \) from both sides to isolate the term with \( x \):
+     \[
+     5x = 140 - 90
+     \]
+     \[
+     5x = 50
+     \]
+   - Now, divide both sides by \( 5 \):
+     \[
+     x = \frac{50}{5} = 10
+     \]
+
+5. **Determine the Number of Missing Shirts:**
+   - Leo originally dropped off \( 10 \) shirts, but the attendant claimed he only dropped off \( 2 \) shirts. To find the number of missing shirts, we subtract the number of shirts the attendant recorded from the number Leo actually dropped off:
+     \[
+     \text{Missing Shirts} = 10 - 2 = 8
+     \]
+
+Therefore, the number of shirts that are missing is 8.
+</reasoning>
+<answer>8</answer>

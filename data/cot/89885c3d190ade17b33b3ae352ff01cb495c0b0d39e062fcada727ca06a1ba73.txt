@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, we will first calculate the total amount of toothpaste used by the family in one day, and then we will determine how many days it will take for the 105 grams of toothpaste to run out.
+
+1. **Calculate the total daily usage for each family member:**
+   - Anne's dad uses 3 grams per brushing. Since he brushes 3 times a day:
+     \[
+     \text{Dad's daily usage} = 3 \text{ grams} \times 3 \text{ times} = 9 \text{ grams}
+     \]
+   - Anne's mom uses 2 grams per brushing. Since she brushes 3 times a day:
+     \[
+     \text{Mom's daily usage} = 2 \text{ grams} \times 3 \text{ times} = 6 \text{ grams}
+     \]
+   - Anne uses 1 gram per brushing. Since she brushes 3 times a day:
+     \[
+     \text{Anne's daily usage} = 1 \text{ gram} \times 3 \text{ times} = 3 \text{ grams}
+     \]
+   - Anne's brother also uses 1 gram per brushing. Since he brushes 3 times a day:
+     \[
+     \text{Brother's daily usage} = 1 \text{ gram} \times 3 \text{ times} = 3 \text{ grams}
+     \]
+
+2. **Add up the total toothpaste usage per day for the whole family:**
+   Now we can sum up the daily usage for all family members:
+   \[
+   \text{Total daily usage} = \text{Dad's daily usage} + \text{Mom's daily usage} + \text{Anne's daily usage} + \text{Brother's daily usage}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Total daily usage} = 9 \text{ grams} + 6 \text{ grams} + 3 \text{ grams} + 3 \text{ grams} = 21 \text{ grams}
+   \]
+
+3. **Calculate how many days the toothpaste will last:**
+   To find out how many days the toothpaste will last, we divide the total amount of toothpaste by the total daily usage:
+   \[
+   \text{Number of days} = \frac{\text{Total toothpaste}}{\text{Total daily usage}} = \frac{105 \text{ grams}}{21 \text{ grams/day}}
+   \]
+   Performing the division:
+   \[
+   \text{Number of days} = 5 \text{ days}
+   \]
+
+Therefore, the toothpaste will last for 5 days before it runs out.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the costs**:
+   - The cost of a cleaning is $70.
+   - The cost of a filling is $120.
+   - Wendy had two fillings, so the total cost for the fillings will be \( 2 \times 120 = 240 \) dollars.
+
+2. **Calculate the total cost of the cleaning and fillings**:
+   - We need to add the cost of the cleaning to the total cost of the fillings:
+   \[
+   \text{Total cost for cleaning and fillings} = \text{Cost of cleaning} + \text{Cost of fillings}
+   \]
+   \[
+   = 70 + 240 = 310
+   \]
+
+3. **Understand the total bill**:
+   - The problem states that Wendy's dentist bill was five times the cost of a filling. The cost of one filling is $120, so:
+   \[
+   \text{Total dentist bill} = 5 \times 120 = 600
+   \]
+
+4. **Calculate the cost of the tooth extraction**:
+   - To find out how much Wendy paid for the tooth extraction, we subtract the total cost of the cleaning and fillings from the total dentist bill:
+   \[
+   \text{Cost of tooth extraction} = \text{Total dentist bill} - \text{Total cost for cleaning and fillings}
+   \]
+   \[
+   = 600 - 310 = 290
+   \]
+
+Thus, Wendy paid $290 for the tooth extraction.
+</reasoning>
+<answer>290</answer>

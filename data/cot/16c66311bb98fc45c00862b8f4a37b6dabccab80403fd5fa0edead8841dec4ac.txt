@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we first need to determine how many total baskets Levi needs to score in order to beat his brother by at least 5 baskets.
+
+1. **Current Scores**:
+   - Levi has scored 8 times.
+   - His brother has scored 12 times.
+  
+2. **Brother's Future Score**:
+   - The brother is expected to score 3 more times. So we add this to his current score:
+   \[
+   \text{Brother's new score} = 12 + 3 = 15
+   \]
+
+3. **Levi's Goal**:
+   - To beat his brother by at least 5 baskets, Levi needs to have a score that is 5 more than his brother's new score:
+   \[
+   \text{Levi's required score} = 15 + 5 = 20
+   \]
+
+4. **Calculating Additional Baskets Needed**:
+   - Currently, Levi has scored 8 times, so we need to find out how many more baskets he needs to score to reach 20:
+   \[
+   \text{Additional baskets needed} = 20 - 8 = 12
+   \]
+
+Thus, Levi needs to score 12 more times in order to reach his goal of beating his brother by at least 5 baskets.
+</reasoning>
+<answer>12</answer>

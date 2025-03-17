@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many cupcakes Anna gives away**: 
+   She baked 60 cupcakes and gives away \( \frac{4}{5} \) of them. 
+   To find out how many cupcakes that is, we multiply 60 by \( \frac{4}{5} \):
+   \[
+   \text{Cupcakes given away} = 60 \times \frac{4}{5} = 60 \times 0.8 = 48
+   \]
+   So, Anna gives away 48 cupcakes.
+
+2. **Calculate how many cupcakes remain after giving some away**: 
+   After giving away 48 cupcakes, we subtract that from the total number of cupcakes:
+   \[
+   \text{Remaining cupcakes} = 60 - 48 = 12
+   \]
+   Now, Anna has 12 cupcakes left.
+
+3. **Determine how many cupcakes she eats**: 
+   Of the remaining cupcakes, Anna eats 3. We need to subtract 3 from the 12 remaining cupcakes:
+   \[
+   \text{Cupcakes left after eating} = 12 - 3 = 9
+   \]
+   So, after eating 3 cupcakes, Anna has 9 cupcakes left.
+
+Now we can summarize the solution: Anna originally had 60 cupcakes, gave away 48, and after eating 3, she has 9 cupcakes remaining.
+</reasoning>
+<answer>9</answer>

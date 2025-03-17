@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we first need to establish the ages of each wine brand based on the information given:
+
+1. **Identify the age of Carlo Rosi**: We are told that the Carlo Rosi is 40 years old. 
+   \[
+   \text{Age of Carlo Rosi} = 40 \text{ years}
+   \]
+
+2. **Calculate the age of Franzia**: The problem states that Franzia is three times as old as Carlo Rosi. Therefore, we calculate Franzia's age by multiplying Carlo Rosi's age by 3.
+   \[
+   \text{Age of Franzia} = 3 \times \text{Age of Carlo Rosi} = 3 \times 40 = 120 \text{ years}
+   \]
+
+3. **Calculate the age of Twin Valley**: The problem states that Carlo Rosi is four times older than Twin Valley. To find Twin Valley's age, we need to divide Carlo Rosi's age by 4.
+   \[
+   \text{Age of Twin Valley} = \frac{\text{Age of Carlo Rosi}}{4} = \frac{40}{4} = 10 \text{ years}
+   \]
+
+4. **Calculate the total age of the three brands of wine**: Now, we sum the ages of all three brands:
+   \[
+   \text{Total age} = \text{Age of Franzia} + \text{Age of Carlo Rosi} + \text{Age of Twin Valley}
+   \]
+   Plugging in the ages we found:
+   \[
+   \text{Total age} = 120 + 40 + 10 = 170 \text{ years}
+   \]
+
+Therefore, the total age of the three brands of wine is 170 years.
+</reasoning>
+<answer>170</answer>

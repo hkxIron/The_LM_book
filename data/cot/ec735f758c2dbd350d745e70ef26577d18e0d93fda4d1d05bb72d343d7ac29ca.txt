@@ -1,0 +1,40 @@
+<reasoning>
+To determine how many acres of cotton each tractor needs to plant per day to meet the planting deadline, we will first calculate the total number of tractor-days available and then figure out the required planting rate per tractor.
+
+### Step 1: Calculate total tractor-days available
+- Randy has 2 tractors working for 2 days.
+- The total tractor-days from this crew is:
+  \[
+  2 \text{ tractors} \times 2 \text{ days} = 4 \text{ tractor-days}
+  \]
+
+- Then, he has 7 tractors working for 3 days.
+- The total tractor-days from this crew is:
+  \[
+  7 \text{ tractors} \times 3 \text{ days} = 21 \text{ tractor-days}
+  \]
+
+### Step 2: Add the total tractor-days together
+- Now, we combine the tractor-days from both crews:
+  \[
+  4 \text{ tractor-days} + 21 \text{ tractor-days} = 25 \text{ total tractor-days}
+  \]
+
+### Step 3: Determine the total number of acres to be planted
+- Farmer Randy needs to plant a total of 1700 acres of cotton.
+
+### Step 4: Calculate the number of acres each tractor must plant per day 
+- To find out how many acres need to be planted per tractor per day, we divide the total acres by the total tractor-days:
+  \[
+  \text{Acres per tractor-day} = \frac{1700 \text{ acres}}{25 \text{ tractor-days}} = 68 \text{ acres per tractor-day}
+  \]
+
+### Step 5: Calculate the number of acres each tractor needs to plant per day
+- Finally, since each tractor works for a day, the amount of cotton each tractor must plant per day is:
+  \[
+  \text{Acres per tractor per day} = 68 \text{ acres per tractor-day}
+  \]
+
+Thus, each tractor needs to plant 68 acres of cotton per day to meet the planting deadline.
+</reasoning>
+<answer>68</answer>

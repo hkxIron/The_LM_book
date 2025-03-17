@@ -1,0 +1,33 @@
+<reasoning>
+To determine how many hours the mechanic worked, we first need to break down the total cost Mark spent on fixing his car.
+
+1. **Calculating the cost of the parts**:
+   - Mark bought two parts, each costing $20.
+   - Therefore, the total cost for the parts is calculated as:
+     \[
+     \text{Cost of parts} = 2 \times 20 = 40 \text{ dollars}
+     \]
+
+2. **Calculating the remaining amount for labor**:
+   - Mark's total expenditure was $220. 
+   - We need to subtract the cost of the parts from the total cost to find out how much was spent on labor:
+     \[
+     \text{Cost of labor} = \text{Total cost} - \text{Cost of parts} = 220 - 40 = 180 \text{ dollars}
+     \]
+
+3. **Calculating the labor cost per minute**:
+   - The problem states that labor costs $0.50 per minute.
+   - To find out how many minutes of labor Mark paid for, we can set up the equation:
+     \[
+     \text{Minutes of labor} = \frac{\text{Cost of labor}}{\text{Cost per minute}} = \frac{180}{0.50} = 360 \text{ minutes}
+     \]
+
+4. **Converting minutes to hours**:
+   - There are 60 minutes in an hour, so to convert the total minutes into hours, we use the formula:
+     \[
+     \text{Hours of labor} = \frac{\text{Minutes of labor}}{60} = \frac{360}{60} = 6 \text{ hours}
+     \]
+
+After calculating all the components step by step, we find that the mechanic worked a total of 6 hours.
+</reasoning>
+<answer>6</answer>

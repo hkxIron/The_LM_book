@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much Robin will spend on jelly bracelets, we first need to determine the total number of jelly bracelets she needs to buy. This is done by counting the number of letters in each of her friends' names.
+
+1. **Counting Letters in Each Name:**
+   - Jessica has 7 letters.
+   - Tori has 4 letters.
+   - Lily has 4 letters.
+   - Patrice has 7 letters.
+
+Now, we will add the number of letters together to find the total number of bracelets:
+
+2. **Calculating the Total Number of Bracelets:**
+   \[
+   7 \text{ (Jessica)} + 4 \text{ (Tori)} + 4 \text{ (Lily)} + 7 \text{ (Patrice)} = 22 \text{ bracelets}
+   \]
+
+3. **Calculating the Total Cost:**
+   Each jelly bracelet costs $2, so we will multiply the total number of bracelets by the cost per bracelet:
+   \[
+   22 \text{ bracelets} \times 2 \text{ dollars/bracelet} = 44 \text{ dollars}
+   \]
+
+Therefore, the total amount Robin will spend on jelly bracelets is $44.
+</reasoning>
+<answer>44</answer>

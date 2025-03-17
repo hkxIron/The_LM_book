@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the total number of files Edith started with.** 
+   Edith had a total of 60 files.
+
+2. **Calculate how many files Edith organized this morning.** 
+   She organized half of the 60 files. To find half, we divide 60 by 2:
+   \[
+   \frac{60}{2} = 30
+   \]
+   So, Edith organized 30 files this morning.
+
+3. **Calculate how many files remain after organizing half.** 
+   Since she started with 60 files and organized 30, we subtract the number of organized files from the total:
+   \[
+   60 - 30 = 30
+   \]
+   Therefore, after this morning, there are 30 files remaining.
+
+4. **Consider the files she will organize in the afternoon.** 
+   Edith has another 15 files to organize in the afternoon. We subtract these 15 files from the remaining 30 files:
+   \[
+   30 - 15 = 15
+   \]
+   This means after organizing the 15 files in the afternoon, there will be 15 files left.
+
+5. **Determine how many files are missing.** 
+   Since Edith initially had 60 files and now only 15 files are accounted for (the ones remaining after organizing), we find the number of missing files by subtracting the files accounted for from the total:
+   \[
+   60 - (30 + 15) = 60 - 45 = 15
+   \]
+
+Thus, there are 15 files missing.
+</reasoning>
+<answer>15</answer>

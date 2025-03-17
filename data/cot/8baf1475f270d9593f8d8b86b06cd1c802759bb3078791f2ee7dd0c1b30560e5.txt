@@ -1,0 +1,40 @@
+<reasoning>
+To find Bob's grade, we will follow these steps:
+
+1. **Identify Jenny's Grade**: We know that Jenny's grade is 95.
+   - So, we have: 
+     \[
+     \text{Jenny's grade} = 95
+     \]
+
+2. **Calculate Jason's Grade**: Jason's grade is 25 points less than Jenny's.
+   - To find Jason's grade, we subtract 25 from Jenny's grade:
+     \[
+     \text{Jason's grade} = \text{Jenny's grade} - 25 = 95 - 25
+     \]
+   - Performing the subtraction:
+     \[
+     95 - 25 = 70
+     \]
+   - So, we find: 
+     \[
+     \text{Jason's grade} = 70
+     \]
+
+3. **Calculate Bob's Grade**: Bob's grade is equal to half of Jason's grade.
+   - To find Bob's grade, we take half of Jason's grade:
+     \[
+     \text{Bob's grade} = \frac{\text{Jason's grade}}{2} = \frac{70}{2}
+     \]
+   - Performing the division:
+     \[
+     \frac{70}{2} = 35
+     \]
+   - So, we conclude that:
+     \[
+     \text{Bob's grade} = 35
+     \]
+
+Therefore, after following the steps to calculate each student's grade logically, we find that Bob's final grade is:
+</reasoning>
+<answer>35</answer>

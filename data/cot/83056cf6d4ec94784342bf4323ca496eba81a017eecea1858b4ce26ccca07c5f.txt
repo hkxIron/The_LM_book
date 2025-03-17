@@ -1,0 +1,26 @@
+<reasoning>
+First, let's determine the total number of blocks Jess needs to walk to complete her errands and get to work. 
+
+1. **Add the blocks to the store, the gallery, and work:**
+   - Blocks to the store: 11
+   - Blocks to the gallery: 6
+   - Blocks to work: 8
+
+   We add these together:
+   \[
+   11 + 6 + 8 = 25 \text{ blocks}
+   \]
+   This means Jess needs to walk a total of 25 blocks.
+
+2. **Subtract the blocks Jess has already walked:**
+   - Jess has already walked 5 blocks.
+
+   We subtract the blocks already walked from the total number of blocks:
+   \[
+   25 - 5 = 20 \text{ blocks}
+   \]
+   This tells us that Jess has 20 blocks remaining to walk before arriving at work.
+
+Therefore, the number of additional blocks Jess must walk is 20.
+</reasoning>
+<answer>20</answer>

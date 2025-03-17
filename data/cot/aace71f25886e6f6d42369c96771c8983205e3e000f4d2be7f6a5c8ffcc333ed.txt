@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many people eat pizza**: 
+   We are given that there are 15 people in total and that 3/5 of them eat pizza. To find out how many people that is, we multiply the total number of people by the fraction of people who eat pizza:
+   \[
+   \text{Number of people eating pizza} = \frac{3}{5} \times 15
+   \]
+   First, calculate \( \frac{3}{5} \times 15 \):
+   \[
+   \frac{3 \times 15}{5} = \frac{45}{5} = 9
+   \]
+   So, 9 people eat pizza.
+
+2. **Calculate the total number of pizza pieces eaten**:
+   Each person who eats pizza takes 4 pieces. Therefore, we can find the total number of pieces eaten by multiplying the number of people eating pizza by the number of pieces each person takes:
+   \[
+   \text{Total pieces eaten} = 9 \times 4
+   \]
+   Now compute \( 9 \times 4 \):
+   \[
+   9 \times 4 = 36
+   \]
+   This means a total of 36 pieces of pizza are consumed.
+
+3. **Determine how many pieces remain**:
+   Aviana brought a total of 50 pieces of pizza. To find out how many pieces remain after 36 are eaten, we subtract the number of pieces eaten from the total number of pieces:
+   \[
+   \text{Pieces remaining} = 50 - 36
+   \]
+   Now compute \( 50 - 36 \):
+   \[
+   50 - 36 = 14
+   \]
+   Thus, there are 14 pieces of pizza remaining.
+
+Finally, summarizing our findings:
+- Number of people eating pizza: 9
+- Total pieces eaten: 36
+- Pieces remaining: 14
+
+Therefore, the final answer is:
+</reasoning>
+<answer>14</answer>

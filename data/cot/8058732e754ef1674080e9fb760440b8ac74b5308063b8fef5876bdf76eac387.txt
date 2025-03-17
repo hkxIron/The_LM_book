@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total amount Inez has**: Inez starts with $150.
+
+2. **Determine how much she spends on hockey skates**: She spends one-half of her total amount on hockey skates. To find out how much that is, we calculate:
+   \[
+   \text{Amount spent on skates} = \frac{1}{2} \times 150 = 75
+   \]
+
+3. **Find out how much money Inez has left after buying the skates**: After spending $75 on skates, we subtract this amount from her total:
+   \[
+   \text{Remaining amount after skates} = 150 - 75 = 75
+   \]
+
+4. **Determine how much Inez has after buying hockey pads**: We know that after all her expenses, Inez has $25 left. This means she spent the remaining money on hockey pads. To find out how much she spent on hockey pads, we can subtract the remaining amount from the amount she had after purchasing the skates:
+   \[
+   \text{Amount spent on pads} = \text{Remaining amount after skates} - \text{Amount remaining} = 75 - 25 = 50
+   \]
+
+5. **Conclusion**: Thus, the cost of the hockey pads is $50.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>50</answer>

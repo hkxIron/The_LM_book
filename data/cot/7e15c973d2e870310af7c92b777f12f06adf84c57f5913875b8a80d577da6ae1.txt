@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of models the school bought for both libraries.**
+   - The school bought 2 models for the kindergarten library.
+   - For the elementary library, they bought twice as many models as they did for the kindergarten library.
+   - Calculation: 
+     \[
+     \text{Models for elementary library} = 2 \times 2 = 4
+     \]
+   - Total models bought:
+     \[
+     \text{Total models} = 2 + 4 = 6
+     \]
+
+2. **Calculate the original total cost without the discount.**
+   - Each model costs $100.
+   - Calculation:
+     \[
+     \text{Total cost without discount} = 6 \times 100 = 600
+     \]
+
+3. **Determine the discount due to buying more than 5 models.**
+   - Since the school bought 6 models, they qualify for a 5% discount.
+   - Calculation of the discount:
+     \[
+     \text{Discount} = 0.05 \times 600 = 30
+     \]
+
+4. **Calculate the total cost after applying the discount.**
+   - Subtract the discount from the original total cost:
+   - Calculation:
+     \[
+     \text{Total cost after discount} = 600 - 30 = 570
+     \]
+
+Therefore, after calculating all the steps, the amount the school paid in total is:
+</reasoning>
+<answer>570</answer>

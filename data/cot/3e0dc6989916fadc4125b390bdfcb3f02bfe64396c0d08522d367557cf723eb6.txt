@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we need to calculate the total number of leaves produced by each type of plant and then sum these amounts.
+
+1. **Calculate the leaves from basil**:  
+Annie plants 3 pots of basil, and each pot has 4 leaves.  
+To find the total leaves from basil, we multiply the number of pots by the number of leaves per pot:  
+\[
+3 \text{ pots} \times 4 \text{ leaves/pot} = 12 \text{ leaves from basil}
+\]
+
+2. **Calculate the leaves from rosemary**:  
+Annie plants 9 pots of rosemary, with each pot having 18 leaves.  
+To find the total leaves from rosemary, we multiply the number of pots by the number of leaves per pot:  
+\[
+9 \text{ pots} \times 18 \text{ leaves/pot} = 162 \text{ leaves from rosemary}
+\]
+
+3. **Calculate the leaves from thyme**:  
+Annie plants 6 pots of thyme, with each pot having 30 leaves.  
+To find the total leaves from thyme, we multiply the number of pots by the number of leaves per pot:  
+\[
+6 \text{ pots} \times 30 \text{ leaves/pot} = 180 \text{ leaves from thyme}
+\]
+
+4. **Sum the total leaves from all plants**:  
+Now we add the total leaves from each type of plant together:  
+\[
+12 \text{ leaves from basil} + 162 \text{ leaves from rosemary} + 180 \text{ leaves from thyme} 
+\]
+Calculating this gives us:  
+\[
+12 + 162 + 180 = 354
+\]
+
+Therefore, the total number of leaves is 354.
+</reasoning>
+<answer>354</answer>

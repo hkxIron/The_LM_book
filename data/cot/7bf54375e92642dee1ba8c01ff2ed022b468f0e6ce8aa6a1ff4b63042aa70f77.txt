@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Monday**: The bird watcher sees 70 birds. 
+   - We can denote the number of birds seen on Monday as \( M = 70 \).
+
+2. **Tuesday**: The problem states that he sees half as many birds on Tuesday as he did on Monday.
+   - To find the number of birds seen on Tuesday, we calculate: 
+     \[
+     T = \frac{M}{2} = \frac{70}{2} = 35
+     \]
+
+3. **Wednesday**: On Wednesday, he sees 8 more birds than he did on Tuesday.
+   - To find the number of birds seen on Wednesday, we calculate:
+     \[
+     W = T + 8 = 35 + 8 = 43
+     \]
+
+4. **Total birds from Monday to Wednesday**: Now we need to find the total number of birds seen over the three days.
+   - We add the number of birds seen each day:
+     \[
+     \text{Total} = M + T + W = 70 + 35 + 43
+     \]
+   - Let's compute this step by step:
+     \[
+     70 + 35 = 105
+     \]
+     \[
+     105 + 43 = 148
+     \]
+
+Therefore, the total number of birds seen from Monday to Wednesday is 148.
+</reasoning>
+<answer>148</answer>

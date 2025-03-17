@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many more pages Arthur needs to read to reach his goal of 800 pages, we first need to calculate how many pages he has already read from the two books.
+
+1. **Calculate pages read from the 500-page book:**
+   - Arthur has read 80% of the book.
+   - To find out how many pages that is, we multiply the total pages by the percentage read:
+     \[
+     \text{Pages read from 500-page book} = 500 \times 0.80 = 400 \text{ pages}
+     \]
+
+2. **Calculate pages read from the 1000-page book:**
+   - Arthur has read 1/5 of this book.
+   - We find out how many pages that is by dividing the total pages by 5:
+     \[
+     \text{Pages read from 1000-page book} = \frac{1000}{5} = 200 \text{ pages}
+     \]
+
+3. **Add the pages read from both books:**
+   - Now, we add the pages read from the two books to find the total pages Arthur has read:
+     \[
+     \text{Total pages read} = 400 + 200 = 600 \text{ pages}
+     \]
+
+4. **Calculate how many more pages Arthur needs to read:**
+   - To find out how many more pages he needs to reach his goal of 800 pages, we subtract the pages he has read from his goal:
+     \[
+     \text{Pages needed} = 800 - 600 = 200 \text{ pages}
+     \]
+
+After following these steps, we find that Arthur needs to read more pages to meet his goal.
+</reasoning>
+<answer>200</answer>

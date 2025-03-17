@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we first need to understand how many cups are in a half gallon of coffee, and then how that relates to John's coffee consumption over the days.
+
+1. **Convert gallons to cups**: 
+   There are 16 cups in a gallon. Since John buys 1/2 gallon jugs, we need to find out how many cups are in 1/2 gallon.
+   
+   \[
+   \text{Cups in } \frac{1}{2} \text{ gallon} = \frac{1}{2} \times 16 = 8 \text{ cups}
+   \]
+
+2. **Determine how many jugs John buys in a certain time frame**: 
+   John buys one jug every 4 days, and since we know he consumes 8 cups from that jug, we need to find out how many cups he drinks in one day.
+   
+3. **Calculate daily consumption**: 
+   If John consumes 8 cups over 4 days, we can find out how many cups he drinks per day by dividing the total cups by the number of days.
+
+   \[
+   \text{Cups per day} = \frac{8 \text{ cups}}{4 \text{ days}} = 2 \text{ cups per day}
+   \]
+
+Now we have calculated that John drinks 2 cups of coffee each day.
+</reasoning>
+<answer>2</answer>

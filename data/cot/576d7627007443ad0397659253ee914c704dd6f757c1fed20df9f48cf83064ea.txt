@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many hours faster Danny is with the bigger sail compared to the smaller sail, we will first determine the time it takes to travel 200 miles with each sail.
+
+1. **Calculate the time with the bigger sail (24 square feet)**:
+   - Speed with the bigger sail = 50 MPH
+   - Distance to travel = 200 miles
+   - Time is calculated using the formula: 
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+     \]
+   - Plugging in the values:
+     \[
+     \text{Time with bigger sail} = \frac{200 \text{ miles}}{50 \text{ MPH}} = 4 \text{ hours}
+     \]
+
+2. **Calculate the time with the smaller sail (12 square feet)**:
+   - Speed with the smaller sail = 20 MPH
+   - Distance to travel = 200 miles
+   - Using the same formula:
+     \[
+     \text{Time with smaller sail} = \frac{200 \text{ miles}}{20 \text{ MPH}} = 10 \text{ hours}
+     \]
+
+3. **Determine how many hours faster the bigger sail is compared to the smaller sail**:
+   - We find the difference in time:
+     \[
+     \text{Time difference} = \text{Time with smaller sail} - \text{Time with bigger sail}
+     \]
+   - Plugging in the values:
+     \[
+     \text{Time difference} = 10 \text{ hours} - 4 \text{ hours} = 6 \text{ hours}
+     \]
+
+Thus, the bigger sail allows Danny to travel 6 hours faster than the smaller sail.
+</reasoning>
+<answer>6</answer>

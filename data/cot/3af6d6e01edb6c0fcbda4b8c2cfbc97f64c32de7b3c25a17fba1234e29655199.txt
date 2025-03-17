@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem, we need to determine how many red stripes are on one American flag and then calculate the total number of red stripes for the 10 flags John buys.
+
+1. **Determine the number of stripes on one flag:**
+   An American flag has a total of 13 stripes.
+
+2. **Identify the first stripe:**
+   The first stripe is red, so we already have 1 red stripe.
+
+3. **Calculate the remaining stripes:**
+   After the first red stripe, there are 12 remaining stripes (13 total - 1 red = 12 remaining).
+
+4. **Determine how many of the remaining stripes are red:**
+   The problem states that half of the remaining stripes are also red. So, we take half of the 12 remaining stripes:
+   \[
+   \text{Number of red stripes among the remaining} = \frac{12}{2} = 6
+   \]
+
+5. **Calculate the total number of red stripes on one flag:**
+   Now we add the first red stripe to the number of red stripes among the remaining:
+   \[
+   \text{Total red stripes on one flag} = 1 + 6 = 7
+   \]
+
+6. **Calculate the total number of red stripes for 10 flags:**
+   Since John buys 10 flags, we multiply the number of red stripes on one flag by the number of flags:
+   \[
+   \text{Total red stripes for 10 flags} = 7 \times 10 = 70
+   \]
+
+Therefore, the total number of red stripes on the 10 flags is 70.
+</reasoning>
+<answer>70</answer>

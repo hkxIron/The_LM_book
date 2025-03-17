@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total earnings from cupcakes**:
+   - The team sold 50 cupcakes for $2 each.
+   - Total earnings from cupcakes = Number of cupcakes × Price per cupcake = 50 × 2 = $100.
+
+2. **Calculate the total earnings from cookies**:
+   - The team sold 40 cookies for $0.5 each.
+   - Total earnings from cookies = Number of cookies × Price per cookie = 40 × 0.5 = $20.
+
+3. **Calculate the total money earned from both sales**:
+   - Total earnings = Earnings from cupcakes + Earnings from cookies = $100 + $20 = $120.
+
+4. **Calculate the total cost for the basketballs**:
+   - The team bought 2 basketballs at $40 each.
+   - Total cost for basketballs = Number of basketballs × Cost per basketball = 2 × 40 = $80.
+
+5. **Calculate the remaining amount after buying the basketballs**:
+   - Remaining amount = Total earnings - Total cost for basketballs = $120 - $80 = $40.
+
+6. **Determine the total cost for the energy drinks**:
+   - The remaining money of $40 is used to buy 20 bottles of energy drinks.
+
+7. **Calculate the cost per bottle of energy drink**:
+   - Cost per bottle = Remaining amount / Number of bottles = $40 / 20 = $2.
+
+Therefore, the cost of a bottle of energy drink is $2.
+</reasoning>
+<answer>2</answer>

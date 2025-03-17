@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we can break down the donations by each kilometer Suzanne runs.
+
+1. **Understanding the donations**: Suzanne’s parents pledge to donate $10 for the first kilometer. For each subsequent kilometer, the donation amount is doubled. 
+
+2. **Calculating the donations for each kilometer**:
+   - For the **1st kilometer**, the donation is $10.
+   - For the **2nd kilometer**, the donation is double the first kilometer's donation: 
+     \[ 2 \times 10 = 20 \text{ dollars} \]
+   - For the **3rd kilometer**, the donation is double the second kilometer's donation: 
+     \[ 2 \times 20 = 40 \text{ dollars} \]
+   - For the **4th kilometer**, the donation is double the third kilometer's donation: 
+     \[ 2 \times 40 = 80 \text{ dollars} \]
+   - For the **5th kilometer**, the donation is double the fourth kilometer's donation: 
+     \[ 2 \times 80 = 160 \text{ dollars} \]
+
+3. **Summing the total donations**: Now we will add up all the donations from each kilometer to find out the total amount donated by Suzanne's parents:
+   \[
+   \text{Total donation} = 10 + 20 + 40 + 80 + 160
+   \]
+
+4. **Calculating the sum**: 
+   - First, add the first two donations:
+     \[ 10 + 20 = 30 \]
+   - Next, add the third donation:
+     \[ 30 + 40 = 70 \]
+   - Next, add the fourth donation:
+     \[ 70 + 80 = 150 \]
+   - Finally, add the fifth donation:
+     \[ 150 + 160 = 310 \]
+
+So, the total amount Suzanne's parents will donate if she finishes the race is $310.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>310</answer>

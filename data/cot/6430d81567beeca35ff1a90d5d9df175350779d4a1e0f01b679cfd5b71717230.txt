@@ -1,0 +1,62 @@
+<reasoning>
+Let's define the number of employees hired in each week using variables. 
+
+Let:
+- \( x \) = number of employees hired in the second week
+- Therefore, in the first week, the number of hired employees would be \( x + 200 \) (since there were 200 more hired than in the second week).
+- In the third week, the number of employees hired would be \( x + 150 \) (since there were 150 more hired than in the second week).
+- For the fourth week, we know that the number of employees hired is twice that of the third week, which gives us \( 2(x + 150) \).
+
+We know from the problem that the number of employees hired in the fourth week is 400. So we can set up the equation:
+\[
+2(x + 150) = 400
+\]
+
+Now let's solve for \( x \):
+1. Divide both sides by 2:
+\[
+x + 150 = 200
+\]
+2. Subtract 150 from both sides to isolate \( x \):
+\[
+x = 200 - 150 = 50
+\]
+
+Now we have the number of employees hired in the second week:
+- Second week: \( x = 50 \)
+- First week: \( x + 200 = 50 + 200 = 250 \)
+- Third week: \( x + 150 = 50 + 150 = 200 \)
+- Fourth week: 400 (given)
+
+Now, we can find the total number of employees hired over the four weeks:
+\[
+\text{Total} = \text{First week} + \text{Second week} + \text{Third week} + \text{Fourth week}
+\]
+\[
+\text{Total} = 250 + 50 + 200 + 400
+\]
+
+Calculating the total:
+\[
+250 + 50 = 300
+\]
+\[
+300 + 200 = 500
+\]
+\[
+500 + 400 = 900
+\]
+
+Now, to find the average number of employees hired per week, we divide the total by the number of weeks (which is 4):
+\[
+\text{Average} = \frac{\text{Total}}{\text{Number of weeks}} = \frac{900}{4}
+\]
+
+Calculating the average:
+\[
+\frac{900}{4} = 225
+\]
+
+Therefore, the average number of employees hired per week is:
+</reasoning>
+<answer>225</answer>

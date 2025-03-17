@@ -1,0 +1,36 @@
+<reasoning>
+First, let's determine the total amount of money that Monica and Michelle have combined for the party. 
+
+1. Monica brings $15 and Michelle brings $12. 
+   So, the total money they have is:
+   \[
+   15 + 12 = 27 \text{ dollars}
+   \]
+   This is the total budget for the party.
+
+2. Next, we need to calculate the total costs for the cake and soda. 
+   The cake costs $15 and the soda costs $3 per bottle.
+
+3. We start by subtracting the cost of the cake from their total money:
+   \[
+   27 - 15 = 12 \text{ dollars left for soda}
+   \]
+
+4. Now, we need to find out how many bottles of soda they can buy with the remaining $12. Since each bottle costs $3, we divide the remaining money by the cost per bottle:
+   \[
+   \frac{12}{3} = 4 \text{ bottles of soda}
+   \]
+
+5. Each bottle of soda has 12 servings, so we calculate the total number of servings from the 4 bottles:
+   \[
+   4 \text{ bottles} \times 12 \text{ servings per bottle} = 48 \text{ servings of soda}
+   \]
+
+6. Finally, we need to distribute the 48 servings among the 8 guests. To find out how many servings each guest gets, we divide the total servings by the number of guests:
+   \[
+   \frac{48}{8} = 6 \text{ servings per guest}
+   \]
+
+Therefore, each guest will receive 6 servings of soda.
+</reasoning>
+<answer>6</answer>

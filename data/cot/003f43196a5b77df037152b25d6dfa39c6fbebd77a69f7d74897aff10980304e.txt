@@ -1,0 +1,19 @@
+<reasoning>
+To find out how many pages Jane will read in a week, we can break this down step by step.
+
+1. First, we determine how many pages she reads in one day. 
+   - In the morning, she reads 5 pages.
+   - In the evening, she reads 10 pages.
+   - So, to find the total pages read in one day, we add these two amounts together:
+     \[
+     5 \text{ pages (morning)} + 10 \text{ pages (evening)} = 15 \text{ pages per day}
+     \]
+
+2. Next, we need to calculate how many pages she reads in a week. Since a week has 7 days, we multiply the number of pages she reads in a day by the number of days in a week:
+   \[
+   15 \text{ pages per day} \times 7 \text{ days} = 105 \text{ pages in a week}
+   \]
+
+Thus, Jane will read a total of 105 pages in a week.
+</reasoning>
+<answer>105</answer>

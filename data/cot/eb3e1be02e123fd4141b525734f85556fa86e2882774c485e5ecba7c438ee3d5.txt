@@ -1,0 +1,27 @@
+<reasoning>
+Let's define how many books Roselyn gives to each person. 
+
+1. **Identify the number of books given to Rebecca**: 
+   - We know that Rebecca received 40 books.
+   
+2. **Determine the number of books given to Mara**: 
+   - According to the problem, Roselyn gives Mara three times as many books as she gives to Rebecca. Since Rebecca received 40 books, we calculate the number of books given to Mara:
+   \[
+   \text{Books given to Mara} = 3 \times \text{Books given to Rebecca} = 3 \times 40 = 120 \text{ books}
+   \]
+
+3. **Calculate the total number of books given away**:
+   - Now we can find the total number of books that Roselyn gave away to both Rebecca and Mara:
+   \[
+   \text{Total books given away} = \text{Books given to Rebecca} + \text{Books given to Mara} = 40 + 120 = 160 \text{ books}
+   \]
+
+4. **Determine how many books Roselyn had initially**:
+   - We know that after giving away these books, Roselyn has 60 books left. To find out how many books she had originally, we can add the total number of books she gave away to the number of books she has left:
+   \[
+   \text{Books Roselyn had originally} = \text{Books given away} + \text{Books left} = 160 + 60 = 220 \text{ books}
+   \]
+
+Therefore, Roselyn had 220 books before giving any away.
+</reasoning>
+<answer>220</answer>

@@ -1,0 +1,14 @@
+<reasoning>
+First, we will find out how many gnomes are in the gardens of the first four houses. Since each of the first four houses has 3 gnomes, we can multiply the number of houses by the number of gnomes each house has.
+
+So, 4 houses * 3 gnomes/house = 12 gnomes.
+
+This tells us that there are 12 gnomes in the gardens of the first four houses.
+
+Next, we know that there are 20 gnomes in total on the street. To find out how many gnomes are in the garden of the fifth house, we subtract the number of gnomes in the first four houses from the total number of gnomes.
+
+So, 20 gnomes - 12 gnomes = 8 gnomes.
+
+Therefore, the fifth house has 8 gnomes.
+</reasoning>
+<answer>8</answer>

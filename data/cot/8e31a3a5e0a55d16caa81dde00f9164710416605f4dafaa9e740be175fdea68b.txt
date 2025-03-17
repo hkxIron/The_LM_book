@@ -1,0 +1,50 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Calculate the total cost of the coins**: James buys 20 coins at $15 each. To find out how much he spent in total, we will multiply the number of coins by the cost per coin.
+
+   \[
+   \text{Total Cost} = \text{Number of Coins} \times \text{Cost per Coin} = 20 \times 15
+   \]
+
+   Performing the multiplication:
+
+   \[
+   20 \times 15 = 300
+   \]
+
+   So, James's total investment is $300.
+
+2. **Determine the new value of the coins after the increase**: The value of the coins increases by \( \frac{2}{3} \). To find the new value of each coin, we first calculate the increase in value per coin:
+
+   \[
+   \text{Increase in Value per Coin} = \text{Cost per Coin} \times \frac{2}{3} = 15 \times \frac{2}{3}
+   \]
+
+   Performing the multiplication:
+
+   \[
+   15 \times \frac{2}{3} = 10
+   \]
+
+   Now, we add this increase to the original cost per coin to find the new value:
+
+   \[
+   \text{New Value per Coin} = \text{Cost per Coin} + \text{Increase in Value} = 15 + 10 = 25
+   \]
+
+3. **Calculate how many coins James needs to sell to recoup his original investment**: To find out how many coins he needs to sell to get back his original investment of $300, we divide his total investment by the new value of each coin:
+
+   \[
+   \text{Number of Coins to Sell} = \frac{\text{Total Cost}}{\text{New Value per Coin}} = \frac{300}{25}
+   \]
+
+   Performing the division:
+
+   \[
+   \frac{300}{25} = 12
+   \]
+
+Thus, James needs to sell 12 coins to recoup his original investment.
+</reasoning>
+<answer>12</answer>

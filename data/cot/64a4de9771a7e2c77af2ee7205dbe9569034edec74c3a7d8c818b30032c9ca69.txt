@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many flowers Ali sold in total, we will first determine how many flowers he sold on each day and then sum those amounts.
+
+1. **Flowers sold on Monday:** Ali sold 4 flowers.
+   - Monday sales = 4 flowers
+
+2. **Flowers sold on Tuesday:** Ali sold 8 flowers.
+   - Tuesday sales = 8 flowers
+
+3. **Flowers sold on Friday:** He sold double the number of flowers he sold on Monday. Since he sold 4 flowers on Monday, we calculate:
+   - Friday sales = 2 * Monday sales = 2 * 4 = 8 flowers
+
+Now that we have the number of flowers sold on each day, we will add them together to find the total number of flowers sold:
+
+4. **Total flowers sold:** 
+   - Total = Monday sales + Tuesday sales + Friday sales
+   - Total = 4 + 8 + 8
+
+Now we perform the addition:
+
+- 4 + 8 = 12
+- 12 + 8 = 20
+
+Therefore, Ali sold a total of 20 flowers.
+</reasoning>
+<answer>20</answer>

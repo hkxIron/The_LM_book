@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we need to determine the age difference between Marianne and Bella and then apply that difference to find Marianne's age when Bella turns 18.
+
+1. **Determine the age difference**: 
+   When Marianne was 20 years old, Bella was 8 years old. 
+   To find the age difference, we subtract Bella's age from Marianne's age:
+   \[
+   \text{Age difference} = 20 - 8 = 12 \text{ years}
+   \]
+   This means Marianne is 12 years older than Bella.
+
+2. **Determine Bella's age when she turns 18**:
+   Currently, we do not know Bella's current age, but we do know that when she was 8 years old, Marianne was 20. 
+   Therefore, we want to determine how many years pass for Bella to reach 18:
+   \[
+   \text{Years until Bella is 18} = 18 - 8 = 10 \text{ years}
+   \]
+
+3. **Calculate Marianne's age at that time**:
+   Since we know that 10 years will pass for Bella to turn 18, we can add those 10 years to Marianne's current age:
+   \[
+   \text{Marianne's age when Bella is 18} = 20 + 10 = 30 \text{ years old}
+   \]
+
+Thus, when Bella turns 18, Marianne will be 30 years old.
+</reasoning>
+<answer>30</answer>

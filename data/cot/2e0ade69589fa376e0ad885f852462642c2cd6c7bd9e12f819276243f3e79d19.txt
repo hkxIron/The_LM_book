@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step to find out how many pounds of lingonberries Steve has to pick on Thursday.
+
+1. **Calculate Monday's Earnings:**
+   - On Monday, Steve picked 8 pounds.
+   - The job pays $2 for every pound.
+   - Therefore, his earnings on Monday = 8 pounds * $2/pound = $16.
+
+2. **Calculate Tuesday's Harvest:**
+   - On Tuesday, he picked triple what he had picked on Monday.
+   - So, Tuesday's harvest = 3 * 8 pounds = 24 pounds.
+   - His earnings on Tuesday = 24 pounds * $2/pound = $48.
+
+3. **Calculate Wednesday's Earnings:**
+   - On Wednesday, Steve decided to rest, so he picked 0 pounds.
+   - Therefore, his earnings on Wednesday = 0 pounds * $2/pound = $0.
+
+4. **Calculate Total Earnings After Three Days:**
+   - Total earnings = Earnings on Monday + Earnings on Tuesday + Earnings on Wednesday
+   - Total earnings = $16 + $48 + $0 = $64.
+
+5. **Determine how much more he needs to earn:**
+   - Steve wanted to make a total of $100 in four days.
+   - Amount still needed = Total desired - Total earnings after three days
+   - Amount still needed = $100 - $64 = $36.
+
+6. **Calculate How Many Pounds He Needs to Pick on Thursday:**
+   - Since he earns $2 for each pound picked, we can find out how many pounds he needs to pick to earn the remaining $36.
+   - Pounds needed = Amount still needed / Price per pound
+   - Pounds needed = $36 / $2 per pound = 18 pounds.
+
+Thus, Steve has to pick 18 pounds of lingonberries on Thursday to meet his goal of earning $100.
+</reasoning>
+<answer>18</answer>

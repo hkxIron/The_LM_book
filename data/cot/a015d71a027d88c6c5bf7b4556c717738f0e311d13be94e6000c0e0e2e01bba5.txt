@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the costs step by step.
+
+1. **Calculate the cost of making the mold**: 
+   The cobbler charges a flat fee of $250 to make the mold. 
+   
+   Cost of mold = $250
+
+2. **Calculate the cost of labor**:
+   The cobbler charges $75 per hour for 8 hours. First, we need to find the total cost of labor without any discounts.
+
+   Labor cost = Hourly rate * Number of hours
+   Labor cost = $75/hour * 8 hours = $600
+
+3. **Apply the discount to the labor cost**:
+   The cobbler is giving Bobby a discount of 20% on the labor cost, meaning Bobby will only pay 80% of it.
+
+   Discounted labor cost = 80% of Labor cost
+   Discounted labor cost = 0.80 * $600 = $480
+
+4. **Calculate the total cost**:
+   Now we need to add the cost of the mold and the discounted labor cost to find the total amount Bobby pays.
+
+   Total cost = Cost of mold + Discounted labor cost
+   Total cost = $250 + $480 = $730
+
+Therefore, after performing all calculations and applying the discount, Bobby pays a total of $730 for his new pair of fancy shoes.
+</reasoning>
+<answer>730</answer>

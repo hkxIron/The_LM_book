@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step to find out how much the NES was on sale for.
+
+1. **Value of the Super Nintendo (SNES)**: The SNES is worth $150.
+
+2. **Trade-in Value**: The store gives Tom 80% of the value of the SNES. 
+   - To find 80% of $150, we calculate:
+     \[
+     0.80 \times 150 = 120
+     \]
+   So, Tom receives $120 as the trade-in value.
+
+3. **Total Payment by Tom**: Tom gives an additional $80 for the NES.
+   - Therefore, the total amount Tom uses from his trade-in and additional payment is:
+     \[
+     120 + 80 = 200
+     \]
+
+4. **Change Received**: Tom receives $10 back as change after his purchase.
+   - This means that the amount he actually spent on the NES is:
+     \[
+     200 - 10 = 190
+     \]
+
+5. **Value of the Game**: Tom also receives a game worth $30 with his purchase.
+   - Since the game is included in his total payment, we need to account for that when determining the sale price of the NES.
+   - Therefore, the sale price of the NES is the amount Tom spent minus the value of the game:
+     \[
+     190 - 30 = 160
+     \]
+
+Now we know the store's sale price for the NES.
+
+Therefore, the NES was on sale for $160.
+</reasoning>
+<answer>160</answer>

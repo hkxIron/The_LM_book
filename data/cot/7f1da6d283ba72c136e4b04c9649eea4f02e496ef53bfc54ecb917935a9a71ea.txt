@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much it costs Kim to run her TV for a week, we will follow these steps:
+
+1. **Determine the daily energy consumption of the TV in kilowatt-hours (kWh)**:
+   - Kim's TV uses 125 watts per hour. 
+   - We need to convert watts to kilowatts: 
+     \[
+     125 \text{ watts} = 0.125 \text{ kilowatts} \text{ (since 1 kilowatt = 1000 watts)}
+     \]
+   - Now, to find out how much energy she uses in a day, we multiply the power in kilowatts by the number of hours the TV is on:
+     \[
+     \text{Daily energy consumption} = 0.125 \text{ kW} \times 4 \text{ hours} = 0.5 \text{ kWh}
+     \]
+
+2. **Calculate the weekly energy consumption**:
+   - Since she runs the TV for 4 hours a day, over a week (7 days), the total energy consumption will be:
+     \[
+     \text{Weekly energy consumption} = 0.5 \text{ kWh/day} \times 7 \text{ days} = 3.5 \text{ kWh}
+     \]
+
+3. **Calculate the cost of running the TV for a week**:
+   - We know that the cost of electricity is 14 cents per kWh. To find the total cost for the week, we multiply the total energy consumption by the cost per kWh:
+     \[
+     \text{Cost for the week} = 3.5 \text{ kWh} \times 14 \text{ cents/kWh} = 49 \text{ cents}
+     \]
+
+Therefore, the cost for Kim to run her TV for a week is 49 cents.
+</reasoning>
+<answer>49</answer>

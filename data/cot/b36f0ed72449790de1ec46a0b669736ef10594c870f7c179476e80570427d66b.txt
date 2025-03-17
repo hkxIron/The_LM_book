@@ -1,0 +1,21 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Starting Point**: We begin with 80 cars in the parking lot.
+
+2. **Cars Leaving**: At lunchtime, 13 cars left the parking lot. 
+   - We will subtract the number of cars that left from the initial number of cars.
+   - Calculation: \(80 - 13 = 67\)
+   - Now, there are 67 cars left in the parking lot after the 13 cars have left.
+
+3. **Cars Entering**: It is stated that 5 more cars went in than the number of cars that left. Since 13 cars left, we need to find out how many cars went in.
+   - Calculation: \(13 + 5 = 18\) (This means 18 cars entered the parking lot.)
+  
+4. **Total Cars Now**: Now, we will add the number of cars that entered to the number of cars remaining after the cars left.
+   - Calculation: \(67 + 18 = 85\)
+
+Thus, after these calculations, we determine the total number of cars currently in the parking lot.
+
+Therefore, there are 85 cars in the parking lot now.
+</reasoning>
+<answer>85</answer>

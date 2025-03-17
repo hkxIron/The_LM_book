@@ -1,0 +1,52 @@
+<reasoning>
+To solve this problem, we need to calculate the total number of fish caught by both fishermen during the fishing season, and then compare the totals to find out how many more fish the better fisherman caught.
+
+### Step 1: Calculate the total number of fish caught by the first fisherman.
+The first fisherman catches fish at a steady rate of 3 fish per day for the entire season lasting 213 days.
+
+- Total fish caught by the first fisherman:
+  \[
+  \text{Total fish} = \text{Rate} \times \text{Days} = 3 \text{ fish/day} \times 213 \text{ days} = 639 \text{ fish}
+  \]
+
+### Step 2: Calculate the total number of fish caught by the second fisherman.
+The second fisherman has a varying catching rate:
+- For the first 30 days, he catches 1 fish per day:
+  \[
+  \text{Fish caught in first 30 days} = 1 \text{ fish/day} \times 30 \text{ days} = 30 \text{ fish}
+  \]
+
+- For the next 60 days, he catches 2 fish per day:
+  \[
+  \text{Fish caught in next 60 days} = 2 \text{ fish/day} \times 60 \text{ days} = 120 \text{ fish}
+  \]
+
+- For the remaining days of the season, we need to find out how many days are left. The total season is 213 days, and the first 90 days (30 + 60) have already been accounted for:
+  \[
+  \text{Remaining days} = 213 \text{ days} - 90 \text{ days} = 123 \text{ days}
+  \]
+  During these 123 days, he catches 4 fish per day:
+  \[
+  \text{Fish caught in remaining 123 days} = 4 \text{ fish/day} \times 123 \text{ days} = 492 \text{ fish}
+  \]
+
+### Step 3: Add up all the fish caught by the second fisherman.
+Now we will sum up the fish caught in each period:
+\[
+\text{Total fish caught by the second fisherman} = 30 \text{ fish} + 120 \text{ fish} + 492 \text{ fish} = 642 \text{ fish}
+\]
+
+### Step 4: Compare the two totals.
+Now we compare the total fish caught by both fishermen:
+- First fisherman: 639 fish
+- Second fisherman: 642 fish
+
+The second fisherman caught more fish than the first fisherman. To find out how many more fish he caught, we subtract the total caught by the first fisherman from the total caught by the second fisherman:
+\[
+\text{Difference} = 642 \text{ fish} - 639 \text{ fish} = 3 \text{ fish}
+\]
+
+### Final Answer
+Therefore, the second fisherman caught 3 more fish than the first fisherman.
+</reasoning>
+<answer>3</answer>

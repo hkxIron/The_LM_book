@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much Mr. Smith will pay after incurring a 2% finance charge on his balance of $150, we need to calculate the finance charge first and then add it to the original balance.
+
+1. **Calculate the finance charge**: 
+   - The finance charge is calculated as a percentage of the original balance. Here, the percentage is 2%, and the original balance is $150.
+   - We can find the finance charge using the formula:
+     \[
+     \text{Finance Charge} = \text{Original Balance} \times \left(\frac{\text{Percentage}}{100}\right)
+     \]
+   - Substituting the values:
+     \[
+     \text{Finance Charge} = 150 \times \left(\frac{2}{100}\right) = 150 \times 0.02 = 3
+     \]
+   - So, the finance charge is $3.
+
+2. **Calculate the total amount Mr. Smith will pay**: 
+   - To find the total amount Mr. Smith will pay, we add the finance charge to the original balance.
+   - The total amount is calculated as:
+     \[
+     \text{Total Amount} = \text{Original Balance} + \text{Finance Charge}
+     \]
+   - Substituting the values we have:
+     \[
+     \text{Total Amount} = 150 + 3 = 153
+     \]
+
+Therefore, after calculating the finance charge and adding it to the original balance, Mr. Smith will pay $153 to settle his balance today.
+</reasoning>
+<answer>153</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+First, let's determine how many degrees the temperature dropped. The initial temperature was 80 degrees and it dropped to 78.2 degrees. 
+
+1. **Calculate the total temperature drop**:
+   \[
+   80 - 78.2 = 1.8 \text{ degrees}
+   \]
+
+   Here, I subtract the final temperature from the initial temperature to find the total drop.
+
+2. **Determine how many trees were needed to achieve this temperature drop**:
+   Since each tree planted reduces the temperature by 0.1 degrees, we can find out how many trees are needed by dividing the total temperature drop by the temperature drop per tree:
+   \[
+   \frac{1.8 \text{ degrees}}{0.1 \text{ degrees/tree}} = 18 \text{ trees}
+   \]
+
+   In this step, I divide the total temperature drop by the amount each tree contributes to the drop, which gives the total number of trees needed.
+
+3. **Calculate the total cost to plant the trees**:
+   Each tree costs $6 to plant, so the total cost is calculated by multiplying the number of trees by the cost per tree:
+   \[
+   18 \text{ trees} \times 6 \text{ dollars/tree} = 108 \text{ dollars}
+   \]
+
+   Here, I multiply the number of trees by the cost of planting each tree to find the total expenditure.
+
+Therefore, the total cost to plant the trees is:
+</reasoning>
+<answer>108</answer>

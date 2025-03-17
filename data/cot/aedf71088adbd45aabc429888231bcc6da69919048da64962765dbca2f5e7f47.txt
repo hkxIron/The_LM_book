@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of roses planted two days ago**: According to the problem, Uncle Welly planted 50 roses two days ago.
+
+2. **Calculate the number of roses planted yesterday**: Yesterday, he planted 20 more roses than the previous day (which was two days ago). So we need to add 20 to the number of roses he planted two days ago:
+   \[
+   50 \text{ roses} + 20 \text{ roses} = 70 \text{ roses}
+   \]
+   Thus, Uncle Welly planted 70 roses yesterday.
+
+3. **Calculate the number of roses planted today**: Today, he planted twice the number of roses he planted two days ago. Since he planted 50 roses two days ago, we calculate:
+   \[
+   2 \times 50 \text{ roses} = 100 \text{ roses}
+   \]
+   Therefore, Uncle Welly planted 100 roses today.
+
+4. **Calculate the total number of roses planted**: Now we will add the number of roses planted over the three days:
+   \[
+   50 \text{ roses (two days ago)} + 70 \text{ roses (yesterday)} + 100 \text{ roses (today)} = 220 \text{ roses}
+   \]
+
+Thus, the total number of roses Uncle Welly planted in his vacant lot is 220.
+</reasoning>
+<answer>220</answer>

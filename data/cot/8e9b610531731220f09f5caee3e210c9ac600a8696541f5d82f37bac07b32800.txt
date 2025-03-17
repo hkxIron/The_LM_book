@@ -1,0 +1,21 @@
+<reasoning>
+To find the percent discount, we need to follow these steps:
+
+1. **Calculate the discount amount**: This is done by subtracting the sale price from the original price.
+   - Original price = $150
+   - Sale price = $135
+   - Discount amount = Original price - Sale price = $150 - $135 = $15
+
+2. **Calculate the percent discount**: The percent discount is calculated by taking the discount amount, dividing it by the original price, and then multiplying by 100 to convert it to a percentage.
+   - Percent discount = (Discount amount / Original price) × 100
+   - Percent discount = ($15 / $150) × 100
+
+3. **Perform the division**: 
+   - $15 / $150 = 0.1
+
+4. **Convert to percentage**:
+   - 0.1 × 100 = 10%
+
+By following these steps, we find that the discount amount is $15, which corresponds to a 10% discount from the original price of $150.
+</reasoning>
+<answer>10</answer>

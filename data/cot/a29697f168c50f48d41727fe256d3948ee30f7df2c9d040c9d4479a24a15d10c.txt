@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Finding out how much coffee Brayan drinks:**
+   We know from the problem that Brayan drinks 4 cups of coffee in an hour. 
+
+2. **Calculating Brayan's total coffee consumption in 5 hours:**
+   To find out how much coffee Brayan drinks in 5 hours, we multiply the number of cups he drinks in one hour by the number of hours:
+   \[
+   \text{Brayan's total coffee} = 4 \text{ cups/hour} \times 5 \text{ hours} = 20 \text{ cups}
+   \]
+
+3. **Finding out how much coffee Ivory drinks:**
+   The problem states that Brayan drinks twice as much coffee as Ivory. This means we can set up an equation to find out how much Ivory drinks. Let \( I \) be the amount of coffee Ivory drinks in one hour. Then according to the information given:
+   \[
+   B = 2I
+   \]
+   We know \( B = 4 \text{ cups/hour} \) (Brayan's consumption in one hour). Thus:
+   \[
+   4 = 2I
+   \]
+   To find \( I \), we divide both sides by 2:
+   \[
+   I = \frac{4}{2} = 2 \text{ cups/hour}
+   \]
+
+4. **Calculating Ivory's total coffee consumption in 5 hours:**
+   Now we can calculate how much coffee Ivory drinks in 5 hours:
+   \[
+   \text{Ivory's total coffee} = 2 \text{ cups/hour} \times 5 \text{ hours} = 10 \text{ cups}
+   \]
+
+5. **Finding the total coffee consumption for both:**
+   Now that we have both Brayan's and Ivory's total coffee consumption, we can add these amounts together to find the total number of cups they drink together:
+   \[
+   \text{Total coffee} = \text{Brayan's total coffee} + \text{Ivory's total coffee} = 20 \text{ cups} + 10 \text{ cups} = 30 \text{ cups}
+   \]
+
+Therefore, after calculating all their coffee consumption, we find that together they drink a total of 30 cups of coffee in 5 hours.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the Ratio of Toads**: 
+   We know that for every green toad, there are 25 brown toads. This means if we denote the number of green toads as \( G \), then the number of brown toads \( B \) can be expressed as:
+   \[
+   B = 25G
+   \]
+
+2. **Finding the Number of Spotted Brown Toads**:
+   The problem states that one-quarter of the brown toads are spotted. Therefore, the number of spotted brown toads is given by:
+   \[
+   \text{Spotted brown toads} = \frac{1}{4}B = \frac{1}{4}(25G)
+   \]
+   Simplifying this, we find:
+   \[
+   \text{Spotted brown toads} = \frac{25G}{4}
+   \]
+
+3. **Using the Information About Spotted Brown Toads**:
+   According to the problem, there are 50 spotted brown toads per acre. This gives us the equation:
+   \[
+   \frac{25G}{4} = 50
+   \]
+
+4. **Solving for G**:
+   To find \( G \), we first multiply both sides of the equation by 4 to eliminate the fraction:
+   \[
+   25G = 200
+   \]
+   Now, we divide both sides by 25:
+   \[
+   G = \frac{200}{25} = 8
+   \]
+
+5. **Conclusion**:
+   After going through the calculations, we find that there are 8 green toads per acre.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>8</answer>

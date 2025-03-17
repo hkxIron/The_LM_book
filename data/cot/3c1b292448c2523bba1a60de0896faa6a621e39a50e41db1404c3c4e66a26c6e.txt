@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we will calculate the total cost of all the meals Amelia plans to buy, and then subtract that from the $60 she has.
+
+1. **Calculate the cost of the first course.**
+   - The first course costs $15.
+   
+2. **Determine the cost of the second course.**
+   - The second course costs $5 more than the first course. Therefore, we calculate it as:
+     \[
+     \text{Cost of second course} = 15 + 5 = 20
+     \]
+
+3. **Find the cost of the dessert.**
+   - The cost of the dessert is 25% of the price of the second course. We calculate 25% of $20:
+     \[
+     \text{Cost of dessert} = 0.25 \times 20 = 5
+     \]
+
+4. **Calculate the total cost of all the meals.**
+   - Now, we sum up the costs of each course and the dessert:
+     \[
+     \text{Total cost} = \text{Cost of first course} + \text{Cost of second course} + \text{Cost of dessert}
+     \]
+     \[
+     \text{Total cost} = 15 + 20 + 5 = 40
+     \]
+
+5. **Determine how much money Amelia has left.**
+   - To find out how much money she has left after her dinner, we subtract the total cost from the amount she started with:
+     \[
+     \text{Money left} = 60 - \text{Total cost}
+     \]
+     \[
+     \text{Money left} = 60 - 40 = 20
+     \]
+
+Therefore, after buying all her meals, Amelia will have $20 left.
+</reasoning>
+<answer>20</answer>

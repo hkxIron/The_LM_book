@@ -1,0 +1,63 @@
+<reasoning>
+To find out how many pieces of candy Brent has left, we will first calculate the total amount of each type of candy he received, and then we will account for the lollipops he gave to his sister.
+
+1. **Calculate the amount of each type of candy:**
+   - **Kit-Kat bars:** Brent received 5 Kit-Kat bars.
+   - **Hershey kisses:** He received three times the amount of Kit-Kat bars. So, the number of Hershey kisses is:
+     \[
+     3 \times 5 = 15
+     \]
+   - **Nerds:** He received 8 boxes of Nerds.
+   - **Lollipops:** He received 11 lollipops.
+   - **Baby Ruths:** He received 10 Baby Ruths.
+   - **Reese Peanut Butter Cups:** He had half the amount of Baby Ruths, which is:
+     \[
+     \frac{10}{2} = 5
+     \]
+
+2. **Now, let's sum all the candies:**
+   - Kit-Kat bars: 5
+   - Hershey kisses: 15
+   - Nerds: 8
+   - Lollipops: 11
+   - Baby Ruths: 10
+   - Reese Peanut Butter Cups: 5
+
+   Adding these together gives:
+   \[
+   5 + 15 + 8 + 11 + 10 + 5
+   \]
+
+   We can do the addition step by step:
+   - First, add Kit-Kat bars and Hershey kisses:
+     \[
+     5 + 15 = 20
+     \]
+   - Next, add Nerds:
+     \[
+     20 + 8 = 28
+     \]
+   - Then, add Lollipops:
+     \[
+     28 + 11 = 39
+     \]
+   - Next, add Baby Ruths:
+     \[
+     39 + 10 = 49
+     \]
+   - Finally, add Reese Peanut Butter Cups:
+     \[
+     49 + 5 = 54
+     \]
+
+   Therefore, the total amount of candy before giving any away is 54 pieces.
+
+3. **Account for the lollipops given to his sister:**
+   Brent gave away 5 lollipops. We need to subtract that from the total candy:
+   \[
+   54 - 5 = 49
+   \]
+
+Thus, after giving his little sister 5 lollipops, Brent has 49 pieces of candy left.
+</reasoning>
+<answer>49</answer>

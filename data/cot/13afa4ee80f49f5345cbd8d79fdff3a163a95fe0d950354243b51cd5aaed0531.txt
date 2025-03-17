@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we need to break it down into parts based on the information given and the days of the week.
+
+1. **Understanding the weekend activities:**
+   - Jeff spends 3 hours every day catching up with his Facebook pals.
+   - Since there are 2 days on the weekend (Saturday and Sunday), we can calculate the total hours spent catching up on the weekend:
+     \[
+     \text{Total weekend catching up} = 3 \text{ hours/day} \times 2 \text{ days} = 6 \text{ hours}
+     \]
+   - According to the problem, Jeff spends three times as many hours catching up on the weekend as he does working. Let \( W \) be the number of hours Jeff works on the weekend. Therefore, we can set up the equation:
+     \[
+     3W = 6
+     \]
+   - To find \( W \), we divide both sides by 3:
+     \[
+     W = \frac{6}{3} = 2 \text{ hours}
+     \]
+   - So, Jeff spends 2 hours working on the weekend.
+
+2. **Calculating weekday activities:**
+   - The problem states that Monday through Friday, Jeff spends four times as many hours working as he does catching up. We need to find the total hours spent catching up during the weekdays.
+   - Each weekday (Monday to Friday) he spends 3 hours catching up, and there are 5 weekdays. So:
+     \[
+     \text{Total weekday catching up} = 3 \text{ hours/day} \times 5 \text{ days} = 15 \text{ hours}
+     \]
+   - Let \( W_d \) be the number of hours Jeff works during the weekdays. Since he spends four times as many hours working as he does catching up, we can set up another equation:
+     \[
+     W_d = 4 \times (\text{Total weekday catching up}) = 4 \times 15 = 60 \text{ hours}
+     \]
+
+3. **Calculating total working hours in a week:**
+   - Now we can find the total hours Jeff spends working in the entire week by adding the weekend working hours and the weekday working hours:
+     \[
+     \text{Total working hours} = W_d + W = 60 + 2 = 62 \text{ hours}
+     \]
+
+Therefore, Jeff spends a total of 62 hours working in an entire week.
+</reasoning>
+<answer>62</answer>

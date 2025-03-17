@@ -1,0 +1,23 @@
+<reasoning>
+First, we need to determine the total number of slices in the 2 small pizzas. 
+
+1. Each pizza has 6 slices, and since there are 2 pizzas:
+   \[
+   \text{Total slices} = 2 \text{ pizzas} \times 6 \text{ slices per pizza} = 12 \text{ slices}
+   \]
+
+Next, we need to find out how many slices James ate. We know that he ate 2/3 of the total slices.
+
+2. To find the number of slices James ate, we calculate:
+   \[
+   \text{Slices eaten by James} = \frac{2}{3} \times \text{Total slices} = \frac{2}{3} \times 12
+   \]
+
+3. Now, we perform the multiplication:
+   \[
+   \frac{2 \times 12}{3} = \frac{24}{3} = 8
+   \]
+
+Thus, James ate 8 slices of pizza.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,48 @@
+<reasoning>
+To solve the problem, we first need to establish the relationships between the number of marbles that Amanda, Katrina, and Mabel have.
+
+1. **Determine how many marbles Katrina has:**
+   We know that Mabel has 5 times as many marbles as Katrina and that Mabel has 85 marbles. We can set up the equation:
+   \[
+   Mabel's \ marbles = 5 \times Katrina's \ marbles
+   \]
+   Substituting Mabel's marbles:
+   \[
+   85 = 5 \times Katrina's \ marbles
+   \]
+   To find the number of marbles Katrina has, we divide both sides by 5:
+   \[
+   Katrina's \ marbles = \frac{85}{5} = 17
+   \]
+
+2. **Determine how many marbles Amanda has:**
+   The problem states that Amanda needs 12 more marbles to have twice as many marbles as Katrina. This can be expressed as:
+   \[
+   Amanda's \ marbles + 12 = 2 \times Katrina's \ marbles
+   \]
+   Substituting the value we found for Katrina's marbles:
+   \[
+   Amanda's \ marbles + 12 = 2 \times 17
+   \]
+   Simplifying the right side:
+   \[
+   Amanda's \ marbles + 12 = 34
+   \]
+   Now, we isolate Amanda's marbles by subtracting 12 from both sides:
+   \[
+   Amanda's \ marbles = 34 - 12 = 22
+   \]
+
+3. **Calculate how many more marbles Mabel has than Amanda:**
+   Now that we know the number of marbles Mabel and Amanda have, we can find the difference:
+   \[
+   Mabel's \ marbles - Amanda's \ marbles = 85 - 22
+   \]
+   Performing the subtraction:
+   \[
+   85 - 22 = 63
+   \]
+
+This means Mabel has 63 more marbles than Amanda.
+</reasoning>
+<answer>63</answer>

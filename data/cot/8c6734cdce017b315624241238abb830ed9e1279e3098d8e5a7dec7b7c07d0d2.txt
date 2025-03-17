@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we will break it down step by step.
+
+1. **Identify the total number of chocolate chips in a bag**: The problem states that a bag of chocolate chips contains 81 chips.
+
+2. **Determine the total number of cookies made from the dough**: The dough makes three batches of cookies. We don't know how many cookies are in each batch yet, but we can denote the number of cookies in each batch as \( x \). Therefore, the total number of cookies made from the dough is \( 3x \) (since there are 3 batches).
+
+3. **Determine the number of chocolate chips used per cookie**: Each cookie contains 9 chocolate chips.
+
+4. **Calculate the total number of chocolate chips used for all cookies**: Since there are \( 3x \) cookies and each cookie uses 9 chocolate chips, the total number of chocolate chips used is \( 9 \times (3x) = 27x \).
+
+5. **Set up the equation**: We know from step 1 that there are 81 chocolate chips in total from one bag. Therefore, we can set up the equation:
+   \[
+   27x = 81
+   \]
+
+6. **Solve for \( x \)**: To find \( x \), we divide both sides of the equation by 27:
+   \[
+   x = \frac{81}{27}
+   \]
+   Simplifying this gives:
+   \[
+   x = 3
+   \]
+
+Now that we have solved for \( x \), we find that each batch contains 3 cookies.
+
+Therefore, the number of cookies in a batch is:
+</reasoning>
+<answer>3</answer>

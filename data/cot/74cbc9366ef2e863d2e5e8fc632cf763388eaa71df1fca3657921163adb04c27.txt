@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total amount Frank spent.** 
+   Frank handed the cashier $20 and received $4 back as change. To find out how much he spent, we subtract the change from the amount he gave to the cashier:
+   \[
+   \text{Amount spent} = 20 - 4 = 16
+   \]
+   So, Frank spent $16 in total.
+
+2. **Calculate the cost of the chocolate bars.**
+   Frank bought 5 chocolate bars, and each chocolate bar costs $2. We can find the total cost of the chocolate bars by multiplying the number of chocolate bars by the cost per bar:
+   \[
+   \text{Cost of chocolate bars} = 5 \times 2 = 10
+   \]
+   Therefore, the total cost for the chocolate bars is $10.
+
+3. **Determine how much Frank spent on the bags of chips.**
+   Since we know Frank spent a total of $16 and he spent $10 on chocolate bars, we can find out how much he spent on the bags of chips by subtracting the cost of the chocolate bars from the total amount spent:
+   \[
+   \text{Cost of bags of chips} = \text{Total spent} - \text{Cost of chocolate bars} = 16 - 10 = 6
+   \]
+   Hence, Frank spent $6 on the bags of chips.
+
+4. **Calculate the cost of each bag of chips.**
+   Frank bought 2 bags of chips for a total of $6. To find the cost of each bag of chips, we divide the total cost of the bags of chips by the number of bags:
+   \[
+   \text{Cost per bag of chips} = \frac{6}{2} = 3
+   \]
+   Therefore, each bag of chips costs $3.
+
+In summary, we determined that Frank spent a total of $16, $10 on chocolate bars, and $6 on chips, resulting in each bag of chips costing $3.
+</reasoning>
+<answer>3</answer>

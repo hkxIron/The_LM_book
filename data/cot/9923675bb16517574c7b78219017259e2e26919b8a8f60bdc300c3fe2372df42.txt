@@ -1,0 +1,37 @@
+<reasoning>
+To determine how many bottles will not be placed in a crate, we can follow these steps:
+
+1. **Calculate the total capacity of the crates**: 
+   Each crate can hold 12 bottles, and Joshua has 10 crates. Therefore, the total capacity of the crates can be calculated using multiplication.
+   
+   \[
+   \text{Total capacity} = \text{Number of crates} \times \text{Bottles per crate} = 10 \times 12
+   \]
+   Doing the multiplication:
+   \[
+   10 \times 12 = 120
+   \]
+
+   This means the total capacity of the 10 crates is 120 bottles.
+
+2. **Determine how many bottles Joshua has**: 
+   Joshua has a total of 130 bottles.
+
+3. **Calculate the number of bottles that will not fit in the crates**: 
+   Since the total number of bottles (130) exceeds the total capacity of the crates (120), we need to find out how many bottles remain after filling the crates. This can be found by subtracting the total capacity from the total number of bottles.
+   
+   \[
+   \text{Bottles not placed in crates} = \text{Total bottles} - \text{Total capacity}
+   \]
+   Substituting the known values:
+   \[
+   \text{Bottles not placed in crates} = 130 - 120
+   \]
+   Doing the subtraction:
+   \[
+   130 - 120 = 10
+   \]
+
+Thus, Joshua will have 10 bottles that will not be placed in a crate.
+</reasoning>
+<answer>10</answer>

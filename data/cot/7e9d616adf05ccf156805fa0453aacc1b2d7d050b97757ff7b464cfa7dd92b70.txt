@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to first determine how many text messages Keiko sent this week based on the information given.
+
+1. **Identify the number of text messages sent last week**: 
+   - It is given that Keiko sent 111 messages last week.
+
+2. **Calculate the number of messages sent this week**:
+   - We know she sent "50 less than double what she sent last week".
+   - First, we need to find double the number of messages sent last week. 
+   - Double of 111 is calculated as follows:
+     \[
+     2 \times 111 = 222
+     \]
+   - Now, we subtract 50 from this amount to find out how many messages she sent this week.
+     \[
+     222 - 50 = 172
+     \]
+
+3. **Calculate the total number of messages sent last week and this week combined**:
+   - We now add the number of messages sent last week (111) to the number sent this week (172):
+     \[
+     111 + 172 = 283
+     \]
+
+Thus, the total number of text messages Keiko sent last week and this week combined is 283.
+</reasoning>
+<answer>283</answer>

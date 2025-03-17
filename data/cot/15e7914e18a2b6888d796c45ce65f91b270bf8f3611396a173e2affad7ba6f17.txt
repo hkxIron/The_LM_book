@@ -1,0 +1,29 @@
+<reasoning>
+To find the total number of dolphins in the ocean, we need to follow these steps:
+
+1. **Identify the initial number of dolphins**: We are given that there are 65 dolphins already in the ocean.
+
+2. **Calculate the number of dolphins joining from the river**: The problem states that three times the initial number of dolphins will join from the river. To calculate this, we multiply the initial number of dolphins by 3.
+   \[
+   \text{Number of dolphins joining} = 3 \times 65
+   \]
+
+3. **Perform the multiplication**: Now we calculate \(3 \times 65\).
+   \[
+   3 \times 65 = 195
+   \]
+   This means 195 dolphins are joining from the river.
+
+4. **Add the dolphins from the river to the initial number**: Now we need to find the total number of dolphins by adding the dolphins that were already in the ocean to the dolphins that joined from the river.
+   \[
+   \text{Total dolphins} = 65 + 195
+   \]
+
+5. **Perform the addition**: Now we calculate \(65 + 195\).
+   \[
+   65 + 195 = 260
+   \]
+
+Thus, the total number of dolphins in the ocean after the ones from the river have joined is 260.
+</reasoning>
+<answer>260</answer>

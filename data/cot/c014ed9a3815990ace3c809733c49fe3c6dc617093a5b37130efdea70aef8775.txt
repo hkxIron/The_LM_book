@@ -1,0 +1,35 @@
+<reasoning>
+To find the original price of the dining table, we start by understanding the relationship between the sale price, the discount, and the original price.
+
+1. We know that Solomon paid $450, which is the sale price after applying the 10% discount. This means that the sale price represents 90% of the original price, because he received a 10% discount.
+
+2. Let's denote the original price as \( P \). Since the sale price is 90% of the original price, we can express this mathematically as:
+   \[
+   0.90P = 450
+   \]
+
+3. To find \( P \), we need to isolate it. We can do this by dividing both sides of the equation by 0.90:
+   \[
+   P = \frac{450}{0.90}
+   \]
+
+4. Now, we perform the division:
+   \[
+   P = 450 \div 0.90
+   \]
+
+5. Calculating \( 450 \div 0.90 \):
+   - First, we can multiply the numerator and the denominator by 100 to make the calculation easier:
+   \[
+   P = \frac{450 \times 100}{0.90 \times 100} = \frac{45000}{90}
+   \]
+   - Now, performing the division:
+   \[
+   45000 \div 90 = 500
+   \]
+
+6. Thus, the original price of the dining table is \( P = 500 \).
+
+Therefore, the original price of the dining table was $500.
+</reasoning>
+<answer>500</answer>

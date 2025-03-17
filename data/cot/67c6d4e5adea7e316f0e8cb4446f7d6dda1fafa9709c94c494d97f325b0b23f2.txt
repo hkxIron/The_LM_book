@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we will determine the number of children and seniors based on the number of adults served, and then sum all the guests to find the total number.
+
+1. **Identify the number of adults served**: 
+   The problem states that the chef has served 58 adults.
+   \[
+   \text{Number of adults} = 58
+   \]
+
+2. **Calculate the number of children served**: 
+   According to the problem, there are 35 fewer children than adults. Therefore, we subtract 35 from the number of adults to find the number of children.
+   \[
+   \text{Number of children} = \text{Number of adults} - 35 = 58 - 35 = 23
+   \]
+
+3. **Calculate the number of seniors served**: 
+   The problem also states that there are twice as many seniors as children. Thus, we multiply the number of children by 2 to find the number of seniors.
+   \[
+   \text{Number of seniors} = 2 \times \text{Number of children} = 2 \times 23 = 46
+   \]
+
+4. **Calculate the total number of guests served**: 
+   Now, we add the number of adults, children, and seniors to find the total number of guests.
+   \[
+   \text{Total guests} = \text{Number of adults} + \text{Number of children} + \text{Number of seniors}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Total guests} = 58 + 23 + 46
+   \]
+
+5. **Perform the final addition**:
+   First, add the adults and children:
+   \[
+   58 + 23 = 81
+   \]
+   Then add the number of seniors:
+   \[
+   81 + 46 = 127
+   \]
+
+Therefore, the total number of guests served is 127.
+</reasoning>
+<answer>127</answer>

@@ -1,0 +1,49 @@
+<reasoning>
+To solve the problem, we need to set up a couple of equations based on the information given.
+
+1. **Define the variables:**  
+   Let Maria's age be represented by \( M \).  
+   Since Mario is 1 year older than Maria, we can represent Mario's age as \( M + 1 \).
+
+2. **Set up the equation for the sum of their ages:**  
+   According to the problem, the sum of their ages is 7. We can express this mathematically as:  
+   \[
+   M + (M + 1) = 7
+   \]
+   Here, \( M \) is Maria's age and \( M + 1 \) is Mario's age.
+
+3. **Combine like terms:**  
+   Now, let's simplify the equation:  
+   \[
+   M + M + 1 = 7
+   \]  
+   This simplifies to:  
+   \[
+   2M + 1 = 7
+   \]
+
+4. **Isolate the variable \( M \):**  
+   To solve for \( M \), we need to get rid of the constant on the left side. We can do this by subtracting 1 from both sides:  
+   \[
+   2M = 7 - 1
+   \]  
+   Simplifying this gives:  
+   \[
+   2M = 6
+   \]
+
+5. **Solve for \( M \):**  
+   Now, we divide both sides by 2 to find Maria's age:  
+   \[
+   M = \frac{6}{2} = 3
+   \]
+
+6. **Find Mario's age:**  
+   Since we know that Mario is 1 year older than Maria, we can find Mario's age by adding 1 to Maria's age:  
+   \[
+   \text{Mario's age} = M + 1 = 3 + 1 = 4
+   \]
+
+Therefore, after calculating everything step by step, we find that Mario is 4 years old.
+</reasoning>
+<answer>4</answer>

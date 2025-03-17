@@ -1,0 +1,38 @@
+<reasoning>
+To determine how late Andy will be, we need to follow these steps:
+
+1. **Calculate the total time Andy takes to get to school today.** 
+   - Normal travel time: 30 minutes
+   - Time spent at red lights: 3 minutes each at 4 red lights
+   - Time spent waiting for construction: 10 minutes
+
+   Let's calculate the time spent at red lights:
+   \[
+   3 \text{ minutes/light} \times 4 \text{ lights} = 12 \text{ minutes}
+   \]
+
+   Now, we add all the times together:
+   \[
+   \text{Total time} = \text{Normal travel time} + \text{Time at red lights} + \text{Time for construction}
+   \]
+   \[
+   \text{Total time} = 30 \text{ minutes} + 12 \text{ minutes} + 10 \text{ minutes} = 52 \text{ minutes}
+   \]
+
+2. **Determine the time Andy arrives at school.**
+   - Andy leaves his house at 7:15 AM.
+   - We add the total time of 52 minutes to his departure time:
+   \[
+   7:15 \text{ AM} + 52 \text{ minutes} = 8:07 \text{ AM}
+   \]
+
+3. **Calculate how late Andy is.**
+   - School starts at 8:00 AM, and he arrives at 8:07 AM.
+   - To find out how many minutes late he is, we calculate the difference:
+   \[
+   8:07 \text{ AM} - 8:00 \text{ AM} = 7 \text{ minutes}
+   \]
+
+Therefore, Andy will be 7 minutes late.
+</reasoning>
+<answer>7</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+Let's define the number of Alien Baseball cards Oliver has as \( x \). 
+
+1. According to the problem, Oliver has twice as many Monster Club cards as Alien Baseball cards. Therefore, the number of Monster Club cards can be expressed as:
+   \[
+   \text{Monster Club cards} = 2x
+   \]
+
+2. We also know that Oliver's Battle Gremlins card collection is the largest at 48 cards, which is three times the size of his Alien Baseball card collection. This gives us the equation:
+   \[
+   48 = 3x
+   \]
+
+3. To find the number of Alien Baseball cards (\( x \)), we solve the equation \( 48 = 3x \):
+   \[
+   x = \frac{48}{3} = 16
+   \]
+   So, Oliver has 16 Alien Baseball cards.
+
+4. Now that we have \( x \), we can find the number of Monster Club cards using the expression we derived earlier:
+   \[
+   \text{Monster Club cards} = 2x = 2 \times 16 = 32
+   \]
+
+Therefore, Oliver has 32 Monster Club cards.
+</reasoning>
+<answer>32</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we'll start by calculating the scores of Gab and Cher based on Sammy's score.
+
+1. **Identify Sammy's score**: 
+   - Sammy scored 20 points.
+
+2. **Calculate Gab's score**:
+   - Gab scored twice as many points as Sammy. 
+   - So, Gab's score = 2 * Sammy's score = 2 * 20 = 40 points.
+
+3. **Calculate Cher's score**:
+   - Cher scored twice as many points as Gab. 
+   - So, Cher's score = 2 * Gab's score = 2 * 40 = 80 points.
+
+4. **Sum the scores of Sammy, Gab, and Cher**:
+   - Total score of Sammy, Gab, and Cher = Sammy's score + Gab's score + Cher's score
+   - Total score = 20 + 40 + 80 = 140 points.
+
+5. **Identify the opponent's score**:
+   - The opponent scored 85 points.
+
+6. **Calculate how many more points they have than their opponent**:
+   - Difference = Total score of Sammy, Gab, and Cher - Opponent's score
+   - Difference = 140 - 85 = 55 points.
+
+Therefore, the total score of Sammy, Gab, and Cher is 55 points more than their opponent.
+</reasoning>
+<answer>55</answer>

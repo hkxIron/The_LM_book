@@ -1,0 +1,40 @@
+<reasoning>
+To find the total cost of the repairs for John's car, we need to calculate the cost of labor and the cost of the part separately, and then add them together.
+
+**Step 1: Calculate the labor cost.**
+- The labor rate is $75 per hour.
+- The total hours of labor is 16 hours.
+
+To find the total labor cost, we multiply the hourly rate by the number of hours worked:
+
+\[
+\text{Labor Cost} = \text{Hourly Rate} \times \text{Hours} = 75 \times 16
+\]
+
+Now, let's perform the multiplication:
+
+\[
+75 \times 16 = 1200
+\]
+
+So, the labor cost is $1200.
+
+**Step 2: Identify the cost of the part.**
+- The cost of the engine part is given as $1200.
+
+**Step 3: Calculate the total cost of repairs.**
+Now that we have both costs, we can add them together to find the total repair cost:
+
+\[
+\text{Total Cost} = \text{Labor Cost} + \text{Cost of Part} = 1200 + 1200
+\]
+
+Performing the addition:
+
+\[
+1200 + 1200 = 2400
+\]
+
+Therefore, the total cost of the repairs is $2400.
+</reasoning>
+<answer>2400</answer>

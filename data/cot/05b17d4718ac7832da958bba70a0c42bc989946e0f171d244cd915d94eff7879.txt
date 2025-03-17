@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many seeds Mike started with, we need to add up all the seeds he threw and the seeds he has left.
+
+1. **Calculating the seeds thrown to the left birds:**
+   Mike throws 20 seeds to the birds on the left.
+   So, seeds to the left = 20.
+
+2. **Calculating the seeds thrown to the right birds:**
+   Mike throws twice as much to the bigger group of birds on the right.
+   Therefore, seeds to the right = 2 * 20 = 40.
+
+3. **Calculating the seeds thrown to the new birds:**
+   Mike throws 30 more seeds for the new birds that joined.
+   So, seeds for new birds = 30.
+
+4. **Adding all the seeds thrown:**
+   Total seeds thrown = seeds to the left + seeds to the right + seeds for new birds
+   Total seeds thrown = 20 + 40 + 30 = 90.
+
+5. **Adding the seeds left:**
+   Mike has 30 seeds left to feed the last of the birds.
+   Therefore, total seeds started with = total seeds thrown + seeds left
+   Total seeds started with = 90 + 30 = 120.
+
+Therefore, Mike started with 120 seeds.
+</reasoning>
+<answer>120</answer>

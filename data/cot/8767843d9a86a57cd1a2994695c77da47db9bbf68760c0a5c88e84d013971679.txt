@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to calculate the total amount spent on food by Julie, Letitia, and Anton.
+
+1. **Calculate the total food cost:**
+   - Julie's food cost: $10
+   - Letitia's food cost: $20
+   - Anton's food cost: $30
+
+   Now, adding these amounts together:
+   \[
+   \text{Total food cost} = 10 + 20 + 30 = 60
+   \]
+
+2. **Calculate the total tip amount:**
+   Since they want to leave a 20% tip on the total food cost, we find 20% of the total:
+   \[
+   \text{Tip} = 0.20 \times \text{Total food cost} = 0.20 \times 60 = 12
+   \]
+
+3. **Determine how to split the tip evenly:**
+   Since there are three people, we will divide the total tip by the number of people:
+   \[
+   \text{Tip per person} = \frac{\text{Total tip}}{3} = \frac{12}{3} = 4
+   \]
+
+Thus, each person should pay $4 in tips.
+</reasoning>
+<answer>4</answer>

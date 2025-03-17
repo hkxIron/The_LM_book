@@ -1,0 +1,51 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Determine the number of strawberries Betty picked**: 
+   Betty picked 16 strawberries.
+
+2. **Calculate how many strawberries Matthew picked**: 
+   Matthew picked 20 more strawberries than Betty. Therefore, we can calculate:
+   \[
+   \text{Matthew's strawberries} = \text{Betty's strawberries} + 20 = 16 + 20 = 36
+   \]
+
+3. **Determine how many strawberries Natalie picked**: 
+   It is stated that Matthew picked twice as many strawberries as Natalie. We can express this relationship mathematically as:
+   \[
+   \text{Matthew's strawberries} = 2 \times \text{Natalie's strawberries}
+   \]
+   Since we found that Matthew picked 36 strawberries, we can set up the equation:
+   \[
+   36 = 2 \times \text{Natalie's strawberries}
+   \]
+   To find how many strawberries Natalie picked, we divide both sides by 2:
+   \[
+   \text{Natalie's strawberries} = \frac{36}{2} = 18
+   \]
+
+4. **Calculate the total number of strawberries picked**: 
+   We now know the number of strawberries each person picked:
+   - Betty: 16
+   - Matthew: 36
+   - Natalie: 18
+   We can add these together to find the total:
+   \[
+   \text{Total strawberries} = 16 + 36 + 18 = 70
+   \]
+
+5. **Determine how many jars of jam they can make**: 
+   Each jar of jam uses 7 strawberries. To find out how many jars they can make, we divide the total number of strawberries by the number of strawberries per jar:
+   \[
+   \text{Number of jars} = \frac{70}{7} = 10
+   \]
+
+6. **Calculate the total money made from selling the jars of jam**: 
+   They sold each jar at $4. Therefore, the total money made from selling the jars is:
+   \[
+   \text{Total money} = \text{Number of jars} \times \text{Price per jar} = 10 \times 4 = 40
+   \]
+
+Thus, the total money they were able to make from the strawberries they picked is $40.
+</reasoning>
+<answer>40</answer>

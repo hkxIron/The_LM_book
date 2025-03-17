@@ -1,0 +1,40 @@
+<reasoning>
+To find the average number of billboards seen per hour, we need to follow these steps:
+
+1. **Sum the total number of billboards seen**: We add the number of billboards seen in each hour. From the problem, we have:
+   - In the first hour, Benjamin sees 17 billboards.
+   - In the second hour, he sees 20 billboards.
+   - In the third hour, he sees 23 billboards.
+
+   So, we calculate:
+   \[
+   17 + 20 + 23
+   \]
+
+2. **Perform the addition**:
+   - First, add 17 and 20:
+     \[
+     17 + 20 = 37
+     \]
+   - Next, add this result to 23:
+     \[
+     37 + 23 = 60
+     \]
+
+   Therefore, the total number of billboards seen is 60.
+
+3. **Count the number of hours**: Benjamin counted for 3 hours in total.
+
+4. **Calculate the average**: The average number of billboards seen per hour is calculated by dividing the total number of billboards by the number of hours:
+   \[
+   \text{Average} = \frac{\text{Total Billboards}}{\text{Number of Hours}} = \frac{60}{3}
+   \]
+
+5. **Perform the division**:
+   \[
+   \frac{60}{3} = 20
+   \]
+
+Thus, the average number of billboards they saw per hour is 20.
+</reasoning>
+<answer>20</answer>

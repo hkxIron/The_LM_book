@@ -1,0 +1,33 @@
+<reasoning>
+To find Tommy's profit from selling the tomatoes, we need to follow these steps:
+
+1. **Calculate the total capacity of the crates.**
+   Each crate can hold 20 kilograms of tomatoes, and Tommy has 3 crates. 
+   \[
+   \text{Total capacity} = 20 \, \text{kg/crate} \times 3 \, \text{crates} = 60 \, \text{kg}
+   \]
+
+2. **Determine the amount of good tomatoes available for sale.**
+   Tommy had 60 kilograms of tomatoes, but 3 kilograms were rotten. Therefore, the amount of good tomatoes is:
+   \[
+   \text{Good tomatoes} = 60 \, \text{kg} - 3 \, \text{kg} = 57 \, \text{kg}
+   \]
+
+3. **Calculate the revenue from selling the good tomatoes.**
+   Tommy plans to sell the tomatoes for $6 per kilogram. Thus, the total revenue from selling 57 kilograms is:
+   \[
+   \text{Revenue} = 57 \, \text{kg} \times 6 \, \text{USD/kg} = 342 \, \text{USD}
+   \]
+
+4. **Determine the total cost of the crates.**
+   Tommy bought 3 crates for a total of $330, which is his total cost.
+
+5. **Calculate Tommy's profit.**
+   Profit is calculated as the revenue minus the cost:
+   \[
+   \text{Profit} = \text{Revenue} - \text{Cost} = 342 \, \text{USD} - 330 \, \text{USD} = 12 \, \text{USD}
+   \]
+
+In conclusion, after calculating all the necessary values step by step, we find that Tommy's profit from selling the tomatoes is:
+</reasoning>
+<answer>12</answer>

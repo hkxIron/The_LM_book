@@ -1,0 +1,30 @@
+<reasoning>
+To determine how much profit the beadshop made on Wednesday, we will first identify how much profit it made on Monday and Tuesday, and then calculate the remaining profit that was made on Wednesday.
+
+1. **Calculate Monday's Profit:**
+   The shop earns a third of its profit on Monday. The total profit is $1,200.
+   \[
+   \text{Monday's Profit} = \frac{1}{3} \times 1200 = 400
+   \]
+   So, the profit made on Monday is $400.
+
+2. **Calculate Tuesday's Profit:**
+   The shop earns a quarter of its profit on Tuesday.
+   \[
+   \text{Tuesday's Profit} = \frac{1}{4} \times 1200 = 300
+   \]
+   Thus, the profit made on Tuesday is $300.
+
+3. **Calculate Wednesday's Profit:**
+   To find out how much profit was made on Wednesday, we first need to sum the profits made on Monday and Tuesday, and then subtract this sum from the total profit.
+   \[
+   \text{Total Profit on Monday and Tuesday} = 400 + 300 = 700
+   \]
+   Now, subtract this amount from the total profit to find Wednesday's profit:
+   \[
+   \text{Wednesday's Profit} = 1200 - 700 = 500
+   \]
+
+Therefore, the profit made on Wednesday is $500.
+</reasoning>
+<answer>500</answer>

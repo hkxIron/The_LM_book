@@ -1,0 +1,28 @@
+<reasoning>
+First, let's calculate the total number of basketball cards Ben has. He has four boxes with ten basketball cards in each box. To find the total number of basketball cards, we multiply the number of boxes by the number of cards in each box:
+
+\[
+\text{Total basketball cards} = 4 \text{ boxes} \times 10 \text{ cards/box} = 40 \text{ basketball cards}
+\]
+
+Next, we calculate the total number of baseball cards Ben received from his mother. He has five boxes with eight baseball cards in each box. Again, we will multiply the number of boxes by the number of cards in each box:
+
+\[
+\text{Total baseball cards} = 5 \text{ boxes} \times 8 \text{ cards/box} = 40 \text{ baseball cards}
+\]
+
+Now, we need to find the total number of cards Ben has by adding the total number of basketball cards and baseball cards together:
+
+\[
+\text{Total cards} = 40 \text{ basketball cards} + 40 \text{ baseball cards} = 80 \text{ cards}
+\]
+
+Next, we will account for the 58 cards that Ben gives to his classmates. To find out how many cards he has left, we subtract the number of cards he gave away from the total number of cards he initially had:
+
+\[
+\text{Cards left} = 80 \text{ total cards} - 58 \text{ cards given away} = 22 \text{ cards left}
+\]
+
+Therefore, after giving away 58 cards to his classmates, Ben has 22 cards remaining.
+</reasoning>
+<answer>22</answer>

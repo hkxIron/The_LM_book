@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much John saves per year by splitting the cost of the new apartment with his brothers compared to living alone, we will follow these steps:
+
+1. **Calculate the cost of the new apartment**:
+   The new apartment is 40% more expensive than John's old apartment. We first need to find out what 40% of John's old apartment cost is.
+
+   Calculation:
+   \[
+   40\% \text{ of } 1200 = 0.40 \times 1200 = 480
+   \]
+   Now we add this amount to the cost of the old apartment to get the cost of the new apartment:
+   \[
+   \text{Cost of new apartment} = 1200 + 480 = 1680
+   \]
+
+2. **Determine John's share of the cost when splitting with his brothers**:
+   Since John is splitting the cost with his two brothers, there are three people sharing the total cost of the new apartment. We will divide the total cost by 3 to find how much John will pay.
+
+   Calculation:
+   \[
+   \text{John's share} = \frac{1680}{3} = 560
+   \]
+
+3. **Calculate how much John saves per month by splitting the cost**:
+   Now, we will find out how much John saves per month compared to paying the full rent of his old apartment, which was $1200.
+
+   Calculation:
+   \[
+   \text{Savings per month} = 1200 - 560 = 640
+   \]
+
+4. **Calculate John's annual savings**:
+   To find out how much John saves in a year, we will multiply his monthly savings by 12 (the number of months in a year).
+
+   Calculation:
+   \[
+   \text{Annual savings} = 640 \times 12 = 7680
+   \]
+
+Therefore, John's total savings per year by sharing the apartment with his brothers is:
+</reasoning>
+<answer>7680</answer>

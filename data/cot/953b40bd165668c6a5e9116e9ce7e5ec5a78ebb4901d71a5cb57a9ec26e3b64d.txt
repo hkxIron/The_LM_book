@@ -1,0 +1,29 @@
+<reasoning>
+Let's start by figuring out how many pieces of macarons Emma bought in total.
+
+1. **Calculate the total number of macarons Emma bought:**
+   - Emma bought 3 dozens of macarons. A dozen is 12, so we calculate:
+     \[
+     3 \text{ dozens} = 3 \times 12 = 36 \text{ pieces of macarons}
+     \]
+   - In addition, she also bought 10 more pieces of macarons. So, we add this to the 36 pieces:
+     \[
+     \text{Total macarons} = 36 + 10 = 46 \text{ pieces of macarons}
+     \]
+
+2. **Determine how many macarons are left over:**
+   - According to the problem, there are 15 pieces of macarons left over. 
+
+3. **Calculate the number of macarons that were eaten:**
+   - To find out how many macarons were eaten, we subtract the number of macarons left over from the total number of macarons:
+     \[
+     \text{Macarons eaten} = \text{Total macarons} - \text{Macarons left over} = 46 - 15
+     \]
+   - Performing the subtraction gives us:
+     \[
+     46 - 15 = 31
+     \]
+
+Therefore, the number of macarons that were eaten is 31.
+</reasoning>
+<answer>31</answer>

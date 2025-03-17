@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we need to determine how many more stars Luke must make to fill the required number of glass jars.
+
+1. **Identify the total number of stars needed for all bottles**: 
+   Since Luke needs to fill 4 bottles and each bottle requires 85 stars, we first calculate the total number of stars required for 4 bottles.
+   \[
+   \text{Total stars needed} = 85 \text{ stars/bottle} \times 4 \text{ bottles} = 340 \text{ stars}
+   \]
+
+2. **Determine how many stars Luke has already made**:
+   Luke has already made 33 stars. 
+
+3. **Calculate how many more stars Luke needs to make**:
+   We subtract the number of stars Luke has already made from the total number of stars needed.
+   \[
+   \text{Stars needed} = \text{Total stars needed} - \text{Stars already made}
+   \]
+   \[
+   \text{Stars needed} = 340 \text{ stars} - 33 \text{ stars} = 307 \text{ stars}
+   \]
+
+Therefore, Luke must make 307 more stars to fill all 4 bottles.
+</reasoning>
+<answer>307</answer>

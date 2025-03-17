@@ -1,0 +1,56 @@
+<reasoning>
+To find out how many animals will be on the farm after the additions, we will follow these steps:
+
+1. **Count the initial number of animals:** 
+   - The farm currently has:
+     - 2 cows
+     - 3 pigs
+     - 6 goats
+
+   So, we will first add these numbers together to find the total number of animals currently on the farm.
+
+   \[
+   \text{Current total} = 2 \text{ (cows)} + 3 \text{ (pigs)} + 6 \text{ (goats)}
+   \]
+
+   Adding these together:
+   \[
+   2 + 3 + 6 = 11
+   \]
+
+   This means there are currently 11 animals on the farm.
+
+2. **Count the animals being added:**
+   - The farmer plans to add:
+     - 3 cows
+     - 5 pigs
+     - 2 goats
+
+   We will again add these numbers together to find the total number of animals being added.
+
+   \[
+   \text{Animals being added} = 3 \text{ (cows)} + 5 \text{ (pigs)} + 2 \text{ (goats)}
+   \]
+
+   Adding these together:
+   \[
+   3 + 5 + 2 = 10
+   \]
+
+   This means the farmer is adding 10 more animals to the farm.
+
+3. **Calculate the total number of animals after the additions:**
+   - Now, we will add the current total of animals to the total number of animals being added.
+
+   \[
+   \text{Total animals after additions} = \text{Current total} + \text{Animals being added}
+   \]
+
+   Substituting the values we calculated earlier:
+   \[
+   11 + 10 = 21
+   \]
+
+Thus, after the additions, there will be a total of 21 animals on the farm.
+</reasoning>
+<answer>21</answer>

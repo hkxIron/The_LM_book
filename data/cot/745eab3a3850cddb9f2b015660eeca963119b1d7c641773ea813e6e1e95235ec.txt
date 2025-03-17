@@ -1,0 +1,24 @@
+<reasoning>
+To find the total number of legs among the animals, we need to determine how many legs each type of animal has and then sum them up.
+
+1. **Determine the number of legs for chickens:**
+   Chickens typically have 2 legs. Since Farmer Brown fed 7 chickens, we can calculate the total number of legs from the chickens:
+   \[
+   \text{Legs from chickens} = \text{Number of chickens} \times \text{Legs per chicken} = 7 \times 2 = 14
+   \]
+
+2. **Determine the number of legs for sheep:**
+   Sheep typically have 4 legs. Since Farmer Brown fed 5 sheep, we can calculate the total number of legs from the sheep:
+   \[
+   \text{Legs from sheep} = \text{Number of sheep} \times \text{Legs per sheep} = 5 \times 4 = 20
+   \]
+
+3. **Calculate the total number of legs:**
+   Now, we will add the legs from the chickens and the legs from the sheep to find the total number of legs:
+   \[
+   \text{Total legs} = \text{Legs from chickens} + \text{Legs from sheep} = 14 + 20 = 34
+   \]
+
+So, the total number of legs among the animals Farmer Brown fed is 34.
+</reasoning>
+<answer>34</answer>

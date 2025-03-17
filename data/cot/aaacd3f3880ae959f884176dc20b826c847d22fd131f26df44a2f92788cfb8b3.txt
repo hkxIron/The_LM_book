@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of married women:** 
+   We know there are 60 women at the party, and three-fourths of them are married. To find the number of married women, we calculate:
+   \[
+   \text{Number of married women} = \frac{3}{4} \times 60 = 45
+   \]
+   This means that there are 45 married women at the party.
+
+2. **Determine the number of husbands:** 
+   Since each married woman brought her husband, the number of husbands is equal to the number of married women:
+   \[
+   \text{Number of husbands} = 45
+   \]
+
+3. **Calculate the total number of men at the party:**
+   Let \( x \) be the total number of men at the party. According to the problem, three-fourths of the men are single, which means one-fourth are married. Therefore, the number of married men (husbands) can be expressed as:
+   \[
+   \text{Number of married men} = \frac{1}{4} \times x
+   \]
+   We already found that the number of husbands (married men) is 45, so we set up the equation:
+   \[
+   \frac{1}{4} \times x = 45
+   \]
+
+4. **Solve for \( x \):**
+   To find \( x \), we multiply both sides of the equation by 4:
+   \[
+   x = 45 \times 4 = 180
+   \]
+   This means there are 180 men at the party.
+
+5. **Calculate the total attendance:**
+   Now, to find the total number of people at the party, we add the number of women and the number of men:
+   \[
+   \text{Total attendance} = \text{Number of women} + \text{Number of men} = 60 + 180 = 240
+   \]
+
+Therefore, the total number of people who attended the party is:
+</reasoning>
+<answer>240</answer>

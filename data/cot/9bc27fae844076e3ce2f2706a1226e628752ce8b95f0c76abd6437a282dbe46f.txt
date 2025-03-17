@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much further Mark's bottle cap went than Jenny's, we need to first calculate the total distance each bottle cap traveled and then compare them.
+
+**Step 1: Calculate the total distance Jenny's bottle cap traveled.**
+
+1. Jenny throws her bottle cap 18 feet straight.
+2. After hitting the street light, it travels an additional distance that is 1/3 of the original distance (18 feet).
+3. To find the additional distance, we calculate:
+   \[
+   \text{Additional Distance} = \frac{1}{3} \times 18 = 6 \text{ feet}
+   \]
+4. Now, we add this additional distance to the original distance:
+   \[
+   \text{Total Distance Jenny's cap} = 18 + 6 = 24 \text{ feet}
+   \]
+
+**Step 2: Calculate the total distance Mark's bottle cap traveled.**
+
+1. Mark throws his bottle cap 15 feet straight.
+2. After bouncing off the window, it travels twice the original distance (15 feet).
+3. To find the additional distance, we calculate:
+   \[
+   \text{Additional Distance} = 2 \times 15 = 30 \text{ feet}
+   \]
+4. Now, we add this additional distance to the original distance:
+   \[
+   \text{Total Distance Mark's cap} = 15 + 30 = 45 \text{ feet}
+   \]
+
+**Step 3: Find out how much further Mark's bottle cap went than Jenny's.**
+
+1. We subtract the total distance Jenny's cap traveled from the total distance Mark's cap traveled:
+   \[
+   \text{Difference} = 45 - 24 = 21 \text{ feet}
+   \]
+
+Therefore, Mark's bottle cap went 21 feet further than Jenny's.
+</reasoning>
+<answer>21</answer>

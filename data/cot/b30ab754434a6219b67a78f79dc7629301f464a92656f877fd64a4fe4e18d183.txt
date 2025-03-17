@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we'll break it down step by step.
+
+1. **Determine the number of women in the office before the meeting**:
+   - Let \( W \) represent the total number of women in the office.
+   - According to the problem, the meeting reduces the number of women by 20%. This means that the number of women attending the meeting is 6 (as stated in the problem).
+   - If 6 women represent a 20% reduction, we can set up the equation: 
+     \[
+     6 = 0.2W
+     \]
+   - To find \( W \), we can rearrange the equation:
+     \[
+     W = \frac{6}{0.2} = 30
+     \]
+   - So, there are 30 women in the office.
+
+2. **Determine the number of men in the office**:
+   - The problem states that there is an even number of men and women in the office. Since we found there are 30 women, it follows that there are also 30 men in the office.
+
+3. **Calculate the total number of people in the office**:
+   - The total number of people in the office is the sum of the number of men and women:
+     \[
+     \text{Total People} = W + M = 30 + 30 = 60
+     \]
+
+Thus, the total number of people working at Ryan's office is 60.
+</reasoning>
+<answer>60</answer>

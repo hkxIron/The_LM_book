@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much Marlene will pay for half a dozen shirts on sale, we will follow these steps:
+
+1. **Determine the number of shirts**: Half a dozen means 6 shirts. This is because a dozen is 12, and half of that is 6.
+
+2. **Calculate the regular price of the shirts**: The regular price of one shirt is $50. Therefore, the regular price for 6 shirts is calculated as:
+   \[
+   \text{Regular price for 6 shirts} = 6 \times 50
+   \]
+   Let's do the multiplication:
+   \[
+   6 \times 50 = 300
+   \]
+   So, the regular price for 6 shirts is $300.
+
+3. **Calculate the discount**: The shirts are on sale with a 20% discount. To find out how much the discount is, we calculate 20% of the regular price of the shirts:
+   \[
+   \text{Discount} = 20\% \text{ of } 300 = 0.20 \times 300
+   \]
+   Performing the multiplication:
+   \[
+   0.20 \times 300 = 60
+   \]
+   So, the discount amount is $60.
+
+4. **Calculate the sale price**: Now that we know the discount amount, we can find out the sale price by subtracting the discount from the regular price:
+   \[
+   \text{Sale price} = \text{Regular price} - \text{Discount} = 300 - 60
+   \]
+   Performing the subtraction:
+   \[
+   300 - 60 = 240
+   \]
+   So, the total amount Marlene will pay for the shirts is $240.
+
+Therefore, Marlene will pay a total of $240 for the shirts on sale.
+</reasoning>
+<answer>240</answer>

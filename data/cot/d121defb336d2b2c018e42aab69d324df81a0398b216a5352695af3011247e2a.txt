@@ -1,0 +1,55 @@
+<reasoning>
+To find the percentage of the total time Haley spent watching the comet, we start by calculating the total time spent on all activities step by step.
+
+1. **Time spent shopping for a telescope:** 
+   Haley spends 2 hours shopping. 
+   - Convert hours to minutes: 
+     \[ 
+     2 \text{ hours} \times 60 \text{ minutes/hour} = 120 \text{ minutes} 
+     \]
+
+2. **Time spent setting up in the backyard:** 
+   She spends half an hour setting up.
+   - Convert half an hour to minutes: 
+     \[ 
+     \frac{1}{2} \text{ hour} \times 60 \text{ minutes/hour} = 30 \text{ minutes} 
+     \]
+
+3. **Time spent making snacks:** 
+   Haley spends three times the setup time making snacks. The setup time is 30 minutes, so:
+   \[ 
+   3 \times 30 \text{ minutes} = 90 \text{ minutes} 
+   \]
+
+4. **Time spent watching the comet:** 
+   She spends 20 minutes watching the comet.
+
+5. **Calculate the total time spent on all activities:** 
+   Now we add all the times together:
+   \[
+   120 \text{ minutes (shopping)} + 30 \text{ minutes (setup)} + 90 \text{ minutes (snacks)} + 20 \text{ minutes (watching)} 
+   \]
+   \[
+   = 120 + 30 + 90 + 20 = 260 \text{ minutes} 
+   \]
+
+6. **Calculate the percentage of time spent watching the comet:** 
+   The time spent watching the comet is 20 minutes. To find the percentage of the total time spent watching the comet, we use the formula:
+   \[
+   \text{Percentage} = \left( \frac{\text{Time watching comet}}{\text{Total time}} \right) \times 100 
+   \]
+   Plugging in the values:
+   \[
+   \text{Percentage} = \left( \frac{20 \text{ minutes}}{260 \text{ minutes}} \right) \times 100 
+   \]
+   \[
+   = \left( \frac{20}{260} \right) \times 100 
+   \]
+   \[
+   = \left( \frac{1}{13} \right) \times 100 \approx 7.6923 
+   \]
+   Rounding to the nearest percent gives us 8%.
+
+So, the percentage of the total time spent watching the comet is 8%.
+</reasoning>
+<answer>8</answer>

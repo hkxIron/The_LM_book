@@ -1,0 +1,25 @@
+<reasoning>
+First, let's determine how much feed one pig consumes in a week. Since Randy feeds each pig 10 pounds of feed per day, we calculate the weekly feed for one pig as follows:
+
+1. **Calculate the daily feed for one pig:**
+   \[
+   \text{Daily feed for one pig} = 10 \text{ pounds}
+   \]
+   
+2. **Calculate the weekly feed for one pig:**
+   Since there are 7 days in a week, we multiply the daily feed by 7:
+   \[
+   \text{Weekly feed for one pig} = 10 \text{ pounds} \times 7 \text{ days} = 70 \text{ pounds}
+   \]
+
+Now, we need to find out how much feed both pigs will consume in a week.
+
+3. **Calculate the total weekly feed for 2 pigs:**
+   We already know the weekly feed for one pig is 70 pounds, so for 2 pigs, we multiply by 2:
+   \[
+   \text{Total weekly feed for 2 pigs} = 70 \text{ pounds} \times 2 = 140 \text{ pounds}
+   \]
+
+In conclusion, Randy's pigs will be fed a total of 140 pounds of feed per week.
+</reasoning>
+<answer>140</answer>

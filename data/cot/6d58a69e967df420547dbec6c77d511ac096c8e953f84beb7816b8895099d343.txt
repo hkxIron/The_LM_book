@@ -1,0 +1,42 @@
+<reasoning>
+Let's denote Isabella's current age as \( I \) and Antonio's current age as \( A \).
+
+1. **Understanding the relationships**: We know from the problem that Isabella is twice as old as Antonio. Therefore, we can express this relationship as:
+   \[
+   I = 2A
+   \]
+
+2. **Future age condition**: The problem also states that in 18 months, Isabella will be 10 years old. This gives us another equation. In 18 months, Isabella's age will be:
+   \[
+   I + 1.5 = 10
+   \]
+   Here, we convert 18 months into years (18 months = 1.5 years).
+
+3. **Solving for Isabella’s current age**: Rearranging the equation gives:
+   \[
+   I = 10 - 1.5 = 8.5
+   \]
+   So, Isabella is currently 8.5 years old.
+
+4. **Finding Antonio's age**: Now that we know Isabella's age, we can use the first equation to find Antonio's age:
+   \[
+   8.5 = 2A
+   \]
+   To find \( A \), we divide both sides by 2:
+   \[
+   A = \frac{8.5}{2} = 4.25
+   \]
+   Antonio is currently 4.25 years old.
+
+5. **Converting Antonio's age to months**: To find out how many months old Antonio is, we multiply his age in years by the number of months in a year (12):
+   \[
+   \text{Months age} = 4.25 \times 12
+   \]
+   Calculating this gives:
+   \[
+   4.25 \times 12 = 51
+   \]
+
+Therefore, Antonio is currently 51 months old.
+</reasoning>
+<answer>51</answer>

@@ -1,0 +1,78 @@
+<reasoning>
+Let's define the number of stamps each boy has using variables:
+
+- Let \( KJ \) represent the number of stamps KJ has.
+- Then, according to the problem, CJ has \( 2KJ + 5 \) stamps.
+- Also, since KJ has half as many stamps as AJ, we can express AJ's stamps as \( AJ = 2KJ \).
+
+Now we can express the total number of stamps collected by CJ, KJ, and AJ in an equation:
+
+\[
+CJ + KJ + AJ = 930
+\]
+
+Substituting the expressions for CJ and AJ into this equation, we get:
+
+\[
+(2KJ + 5) + KJ + (2KJ) = 930
+\]
+
+Now, we simplify this equation step by step:
+
+1. Combine like terms:
+
+\[
+2KJ + 5 + KJ + 2KJ = 930
+\]
+\[
+5KJ + 5 = 930
+\]
+
+2. Next, we isolate \( 5KJ \) by subtracting 5 from both sides:
+
+\[
+5KJ = 930 - 5
+\]
+\[
+5KJ = 925
+\]
+
+3. Now, we solve for \( KJ \) by dividing both sides by 5:
+
+\[
+KJ = \frac{925}{5}
+\]
+\[
+KJ = 185
+\]
+
+Now that we have \( KJ \), we can find \( AJ \) and \( CJ \):
+
+1. Using the equation \( AJ = 2KJ \):
+
+\[
+AJ = 2 \times 185 = 370
+\]
+
+2. And for \( CJ \):
+
+\[
+CJ = 2KJ + 5 = 2 \times 185 + 5 = 370 + 5 = 375
+\]
+
+Now we have:
+- \( KJ = 185 \)
+- \( AJ = 370 \)
+- \( CJ = 375 \)
+
+Finally, let's check the total to ensure it equals 930:
+
+\[
+CJ + KJ + AJ = 375 + 185 + 370 = 930
+\]
+
+Since the total is correct, we conclude that AJ has 370 stamps.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>370</answer>

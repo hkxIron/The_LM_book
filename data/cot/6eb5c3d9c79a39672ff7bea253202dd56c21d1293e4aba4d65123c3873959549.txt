@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we will start by determining how many pears Katherine has based on the information given.
+
+1. **Identify the number of apples**: The problem states that Katherine has 4 apples.
+   
+2. **Calculate the number of pears**: It says she has 3 times as many pears as apples. Therefore, we calculate the number of pears as follows:
+   \[
+   \text{Number of pears} = 3 \times \text{Number of apples} = 3 \times 4 = 12
+   \]
+   This means Katherine has 12 pears.
+
+3. **Calculate the total number of apples and pears**: Now, we need to find out how many fruits she has in total from apples and pears:
+   \[
+   \text{Total from apples and pears} = \text{Number of apples} + \text{Number of pears} = 4 + 12 = 16
+   \]
+
+4. **Determine the number of bananas**: The problem states that the total number of pieces of fruit (apples, pears, and bananas) is 21. We can find the number of bananas by subtracting the total number of apples and pears from the total number of fruits:
+   \[
+   \text{Number of bananas} = \text{Total pieces of fruit} - \text{Total from apples and pears} = 21 - 16 = 5
+   \]
+
+Thus, Katherine has 5 bananas.
+</reasoning>
+<answer>5</answer>

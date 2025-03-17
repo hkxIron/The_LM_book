@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many carrots Heath planted each hour, we first need to calculate the total number of carrot plants he planted over the entire weekend.
+
+1. **Calculate the total number of carrot plants**:
+   - Heath planted 400 rows of carrots and each row contained 300 plants.
+   - We can find the total number of plants by multiplying the number of rows by the number of plants per row:
+     \[
+     \text{Total plants} = \text{Number of rows} \times \text{Plants per row} = 400 \times 300
+     \]
+
+2. **Perform the multiplication**:
+   - Let's do the multiplication step:
+     \[
+     400 \times 300 = 120000
+     \]
+   - So, total carrot plants planted = 120,000.
+
+3. **Calculate the number of hours spent planting**:
+   - Heath spent a total of 20 hours planting.
+
+4. **Calculate the number of carrots planted per hour**:
+   - To find out how many carrots were planted each hour, we divide the total number of plants by the total number of hours:
+     \[
+     \text{Carrots per hour} = \frac{\text{Total plants}}{\text{Total hours}} = \frac{120000}{20}
+     \]
+
+5. **Perform the division**:
+   - Let's perform the division:
+     \[
+     \frac{120000}{20} = 6000
+     \]
+   - Thus, Heath planted 6000 carrots each hour.
+
+Therefore, the number of carrots planted each hour is:
+</reasoning>
+<answer>6000</answer>

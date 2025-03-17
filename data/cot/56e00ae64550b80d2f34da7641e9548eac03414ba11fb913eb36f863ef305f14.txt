@@ -1,0 +1,24 @@
+<reasoning>
+To find the total number of words in Salem's poem, we need to calculate the number of stanzas, lines, and words per line.
+
+1. **Identify the number of stanzas**: Salem created a poem with 20 stanzas.
+
+2. **Identify the number of lines per stanza**: Each stanza has 10 lines.
+
+3. **Identify the number of words per line**: Each line has 8 words.
+
+Now we can calculate the total number of words in the poem by following these steps:
+
+- First, calculate the total number of lines in the poem. Since there are 20 stanzas and each stanza has 10 lines:
+  \[
+  \text{Total lines} = \text{Number of stanzas} \times \text{Lines per stanza} = 20 \times 10 = 200
+  \]
+
+- Next, calculate the total number of words in the poem. Since there are 200 lines and each line has 8 words:
+  \[
+  \text{Total words} = \text{Total lines} \times \text{Words per line} = 200 \times 8 = 1600
+  \]
+
+Therefore, the total number of words in the poem is 1600.
+</reasoning>
+<answer>1600</answer>

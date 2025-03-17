@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Identify the number of roses sold**: Each bouquet of roses contains 12 roses, and there are 10 rose bouquets sold. 
+   - Calculation: 
+     \[
+     10 \text{ bouquets} \times 12 \text{ roses/bouquet} = 120 \text{ roses}
+     \]
+   Therefore, the flower shop sold 120 roses today.
+
+2. **Determine the total number of flowers sold**: We know that the flower shop sold a total of 190 flowers. This total includes both roses and daisies.
+   
+3. **Calculate the number of daisies sold**: We can find the number of daisies sold by subtracting the number of roses from the total number of flowers sold.
+   - Calculation: 
+     \[
+     190 \text{ total flowers} - 120 \text{ roses} = 70 \text{ daisies}
+     \]
+   Therefore, the flower shop sold 70 daisies today.
+
+4. **Identify the number of daisy bouquets sold**: We know that there are 10 daisy bouquets sold.
+
+5. **Calculate the number of daisies in each daisy bouquet**: To find out how many daisies are in each bouquet, we divide the total number of daisies by the number of daisy bouquets.
+   - Calculation: 
+     \[
+     70 \text{ daisies} \div 10 \text{ bouquets} = 7 \text{ daisies/bouquet}
+     \]
+   Therefore, there are 7 daisies in each bouquet of daisies.
+
+So, after following these steps, we have determined that the number of daisies in each bouquet of daisies is 7.
+</reasoning>
+<answer>7</answer>

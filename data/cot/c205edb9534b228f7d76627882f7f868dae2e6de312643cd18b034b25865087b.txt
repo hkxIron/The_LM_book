@@ -1,0 +1,22 @@
+<reasoning>
+To find out how much Jake spends on car wash soap over 20 weeks, we need to follow these steps:
+
+1. **Determine how many bottles of soap Jake needs**: We know that Jake can wash his car 4 times with 1 bottle of soap. Since he washes his car once a week for 20 weeks, we need to find out how many washes he will do in total.
+
+   - Total washes = 20 weeks
+   
+   Since 1 bottle allows for 4 washes, we can calculate how many bottles Jake needs by dividing the total washes by the number of washes per bottle:
+
+   \[
+   \text{Number of bottles needed} = \frac{\text{Total washes}}{\text{Washes per bottle}} = \frac{20}{4} = 5
+   \]
+
+2. **Calculate the cost of the bottles**: Now that we know Jake needs 5 bottles of soap, we can calculate the total cost. Each bottle costs $4.00, so the total cost can be determined by multiplying the number of bottles by the price per bottle:
+
+   \[
+   \text{Total cost} = \text{Number of bottles} \times \text{Cost per bottle} = 5 \times 4 = 20
+   \]
+
+Therefore, Jake will spend a total of $20 on car wash soap over the 20 weeks.
+</reasoning>
+<answer>20</answer>

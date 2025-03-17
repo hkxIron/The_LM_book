@@ -1,0 +1,25 @@
+<reasoning>
+Let's start by determining how late each student was. 
+
+1. **Charlize's tardiness**: Charlize was 20 minutes late. This is our first piece of information.
+
+2. **Classmates' tardiness**: Each of the four classmates was ten minutes later than Charlize. We can calculate how late each classmate was:
+   - Since Charlize was 20 minutes late, and each classmate was 10 minutes later, we add 10 minutes to Charlize's tardiness:
+   \[
+   \text{Time late for each classmate} = 20 \text{ minutes} + 10 \text{ minutes} = 30 \text{ minutes}
+   \]
+   So, each classmate was 30 minutes late.
+
+3. **Total tardiness for the classmates**: Since there are four classmates, we need to calculate the total time they were late:
+   \[
+   \text{Total time late for classmates} = 4 \times 30 \text{ minutes} = 120 \text{ minutes}
+   \]
+
+4. **Total tardiness for all students**: Now, we need to add Charlize's tardiness to the total tardiness of her classmates:
+   \[
+   \text{Total tardiness} = \text{Charlize's tardiness} + \text{Total time late for classmates} = 20 \text{ minutes} + 120 \text{ minutes} = 140 \text{ minutes}
+   \]
+
+Therefore, the total time for which the five students were late is 140 minutes.
+</reasoning>
+<answer>140</answer>

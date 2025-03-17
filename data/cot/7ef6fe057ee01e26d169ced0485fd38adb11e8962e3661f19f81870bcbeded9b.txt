@@ -1,0 +1,39 @@
+<reasoning>
+To determine how many pizzas TreShawn's mom needs to order, we first need to find the total amount of pizza that TreShawn and his two friends will consume.
+
+1. **Identify pizza consumption for each person:**
+   - TreShawn eats \( \frac{1}{2} \) of a pizza.
+   - Michael eats \( \frac{1}{3} \) of a pizza.
+   - LaMar eats \( \frac{1}{6} \) of a pizza.
+
+2. **Find a common denominator:**
+   To add these fractions, we need a common denominator. The denominators are 2, 3, and 6. The least common multiple of these numbers is 6.
+
+3. **Convert each fraction to have the common denominator of 6:**
+   - TreShawn's consumption: 
+     \[
+     \frac{1}{2} = \frac{3}{6} \quad (\text{because } 1 \times 3 = 3 \text{ and } 2 \times 3 = 6)
+     \]
+   - Michael's consumption:
+     \[
+     \frac{1}{3} = \frac{2}{6} \quad (\text{because } 1 \times 2 = 2 \text{ and } 3 \times 2 = 6)
+     \]
+   - LaMar's consumption:
+     \[
+     \frac{1}{6} = \frac{1}{6} \quad (\text{already has the common denominator})
+     \]
+
+4. **Add the fractions together:**
+   Now, we can add the converted fractions:
+   \[
+   \frac{3}{6} + \frac{2}{6} + \frac{1}{6} = \frac{3 + 2 + 1}{6} = \frac{6}{6} = 1
+   \]
+
+5. **Interpret the result:**
+   The total amount of pizza consumed by TreShawn and his friends is \( 1 \) pizza.
+
+Since they collectively eat \( 1 \) pizza, TreShawn's mom needs to order just \( 1 \) pizza.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>1</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many pennies James collected, we need to subtract the number of pennies he collected from the total number of pennies Cassandra collected.
+
+1. **Identify the number of pennies Cassandra collected**: 
+   - Cassandra collected 5000 pennies.
+
+2. **Determine how many fewer pennies James collected**: 
+   - James collected 276 fewer pennies than Cassandra. 
+
+3. **Calculate the number of pennies James collected**: 
+   - We subtract 276 from 5000:
+   \[
+   \text{James's pennies} = 5000 - 276
+   \]
+
+4. **Perform the subtraction**:
+   - Let's do the calculation:
+   \[
+   5000 - 276 = 4724
+   \]
+   So, James collected 4724 pennies.
+
+5. **Now, we need to find the total number of pennies they donated together**:
+   - We add the number of pennies Cassandra collected to the number of pennies James collected:
+   \[
+   \text{Total pennies} = 5000 + 4724
+   \]
+
+6. **Perform the addition**:
+   - Let's calculate:
+   \[
+   5000 + 4724 = 9724
+   \]
+   Therefore, the total number of pennies they donated to charity is 9724.
+</reasoning>
+<answer>9724</answer>

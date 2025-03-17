@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we need to analyze the relationship between the number of sprigs of mint and the number of green tea leaves Anderson originally used, and then determine how many green tea leaves he needs to add for the new mud that is half as effective.
+
+1. **Identify the original recipe:**
+   - Anderson adds **3 sprigs of mint** in every batch of mud.
+   - For every sprig of mint, he adds **2 green tea leaves**.
+   - Therefore, the total number of green tea leaves added in the original recipe is calculated as follows:
+     \[
+     \text{Total green tea leaves} = \text{Number of sprigs of mint} \times \text{Green tea leaves per sprig} = 3 \times 2 = 6 \text{ green tea leaves}
+     \]
+
+2. **Consider the new mud:**
+   - The new kind of mud makes the ingredients he adds **half as effective**. This means that if he uses the same amount of green tea leaves, their efficacy will be reduced by half.
+   - To achieve the same efficacy as before with the new mud, he needs to double the amount of green tea leaves he originally used because they are now only half as effective.
+
+3. **Calculate the new amount of green tea leaves needed:**
+   - Since the original amount of green tea leaves was **6**, Anderson will need to add:
+     \[
+     \text{New green tea leaves} = \text{Original green tea leaves} \times 2 = 6 \times 2 = 12 \text{ green tea leaves}
+     \]
+
+In conclusion, to maintain the same efficacy with the new mud, Anderson should add **12 green tea leaves**.
+</reasoning>
+<answer>12</answer>

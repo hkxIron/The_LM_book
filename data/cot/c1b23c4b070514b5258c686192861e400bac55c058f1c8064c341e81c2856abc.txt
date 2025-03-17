@@ -1,0 +1,40 @@
+<reasoning>
+Let's define the number of geese in the initial formation that Albert noticed as \( x \).
+
+1. According to the problem, half of the geese broke off from the formation. So, the number of geese that left the formation is \( \frac{x}{2} \).
+   
+2. After half of them left, the remaining number of geese still flying in the air is:
+   \[
+   x - \frac{x}{2} = \frac{x}{2}
+   \]
+   This means that \( \frac{x}{2} \) geese are still flying in the air.
+
+3. Next, 4 geese flew up from the trees and joined those still flying. Therefore, the total number of geese now flying in the new V formation is:
+   \[
+   \frac{x}{2} + 4
+   \]
+
+4. We know from the problem that this final number of geese flying in the V formation is equal to 12. So, we can set up the equation:
+   \[
+   \frac{x}{2} + 4 = 12
+   \]
+
+5. Now, we will solve this equation for \( x \). First, we subtract 4 from both sides:
+   \[
+   \frac{x}{2} = 12 - 4
+   \]
+   \[
+   \frac{x}{2} = 8
+   \]
+
+6. Next, we multiply both sides by 2 to solve for \( x \):
+   \[
+   x = 8 \times 2
+   \]
+   \[
+   x = 16
+   \]
+
+So, the number of geese in the first formation that Albert noticed in the sky is 16.
+</reasoning>
+<answer>16</answer>

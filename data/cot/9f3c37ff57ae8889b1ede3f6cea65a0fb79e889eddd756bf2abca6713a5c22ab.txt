@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many hours Linda needs to babysit to cover her college application fees, we first need to calculate the total application fees for the 6 colleges she is applying to.
+
+1. **Calculate the total application fees:**
+   - The application fee for each college is $25.00.
+   - Since Linda is applying to 6 colleges, we multiply the number of colleges by the application fee:
+     \[
+     \text{Total Application Fees} = 6 \times 25 = 150
+     \]
+   - This means Linda will need a total of $150.00 to cover the application fees.
+
+2. **Determine how much she earns per hour:**
+   - Linda makes $10.00 per hour babysitting.
+
+3. **Calculate the number of hours she needs to babysit:**
+   - To find out how many hours Linda needs to work to earn $150.00, we divide the total amount of money she needs by her hourly wage:
+     \[
+     \text{Hours Needed} = \frac{\text{Total Application Fees}}{\text{Hourly Wage}} = \frac{150}{10}
+     \]
+   - Performing the division:
+     \[
+     \text{Hours Needed} = 15
+     \]
+
+Therefore, Linda will need to babysit for 15 hours to cover her application fees.
+</reasoning>
+<answer>15</answer>

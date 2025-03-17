@@ -1,0 +1,40 @@
+<reasoning>
+To find out how much more money Oliver has than William, we need to calculate the total amount of money each person has and then find the difference between the two amounts.
+
+**Step 1: Calculate Oliver's total money.**
+- Oliver has 10 $20 bills. The total amount from these bills is:
+  \[
+  10 \times 20 = 200
+  \]
+- Oliver also has 3 $5 bills. The total amount from these bills is:
+  \[
+  3 \times 5 = 15
+  \]
+- Now, we add these two amounts to find Oliver's total:
+  \[
+  200 + 15 = 215
+  \]
+
+**Step 2: Calculate William's total money.**
+- William has 15 $10 bills. The total amount from these bills is:
+  \[
+  15 \times 10 = 150
+  \]
+- William also has 4 $5 bills. The total amount from these bills is:
+  \[
+  4 \times 5 = 20
+  \]
+- Now, we add these two amounts to find William's total:
+  \[
+  150 + 20 = 170
+  \]
+
+**Step 3: Find the difference between Oliver's and William's total amounts.**
+- Now we subtract William's total from Oliver's total:
+  \[
+  215 - 170 = 45
+  \]
+
+Thus, Oliver has $45 more than William.
+</reasoning>
+<answer>45</answer>

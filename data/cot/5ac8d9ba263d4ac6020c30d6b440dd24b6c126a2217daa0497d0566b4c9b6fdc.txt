@@ -1,0 +1,62 @@
+<reasoning>
+To find the total amount spent by the P.T.O. on shirts for the field day, we'll calculate the cost for each grade separately and then sum those amounts.
+
+1. **Calculate the cost for Kindergartners:**
+   - Number of Kindergartners: 101
+   - Cost per shirt: $5.80
+   - Total cost for Kindergartners = Number of Kindergartners × Cost per shirt
+   - Total cost for Kindergartners = 101 × 5.80
+
+   Now, let's perform the multiplication:
+   \[
+   101 \times 5.80 = 585.80
+   \]
+   So, the total cost for Kindergartners is $585.80.
+
+2. **Calculate the cost for First Graders:**
+   - Number of First Graders: 113
+   - Cost per shirt: $5
+   - Total cost for First Graders = Number of First Graders × Cost per shirt
+   - Total cost for First Graders = 113 × 5
+
+   Now, let's perform the multiplication:
+   \[
+   113 \times 5 = 565
+   \]
+   So, the total cost for First Graders is $565.
+
+3. **Calculate the cost for Second Graders:**
+   - Number of Second Graders: 107
+   - Cost per shirt: $5.60
+   - Total cost for Second Graders = Number of Second Graders × Cost per shirt
+   - Total cost for Second Graders = 107 × 5.60
+
+   Now, let's perform the multiplication:
+   \[
+   107 \times 5.60 = 599.20
+   \]
+   So, the total cost for Second Graders is $599.20.
+
+4. **Calculate the cost for Third Graders:**
+   - Number of Third Graders: 108
+   - Cost per shirt: $5.25
+   - Total cost for Third Graders = Number of Third Graders × Cost per shirt
+   - Total cost for Third Graders = 108 × 5.25
+
+   Now, let's perform the multiplication:
+   \[
+   108 \times 5.25 = 567
+   \]
+   So, the total cost for Third Graders is $567.
+
+5. **Sum all the costs to find the total expense:**
+   - Total cost = Cost for Kindergartners + Cost for First Graders + Cost for Second Graders + Cost for Third Graders
+   - Total cost = 585.80 + 565 + 599.20 + 567
+
+   Now, let's perform the addition:
+   \[
+   585.80 + 565 + 599.20 + 567 = 2317
+   \]
+   So, the total amount spent by the P.T.O. on shirts for field day is $2317.
+</reasoning>
+<answer>2317</answer>

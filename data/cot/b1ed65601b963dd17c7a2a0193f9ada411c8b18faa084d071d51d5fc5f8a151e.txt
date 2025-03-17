@@ -1,0 +1,24 @@
+<reasoning>
+To determine the total cost of using the whiteboards for one day, we will follow these steps:
+
+1. **Calculate the total number of whiteboards used**: 
+   Since there are 5 classes and each class uses 2 whiteboards, we multiply the number of classes by the number of whiteboards per class:
+   \[
+   \text{Total whiteboards} = 5 \text{ classes} \times 2 \text{ whiteboards/class} = 10 \text{ whiteboards}
+   \]
+
+2. **Calculate the total amount of ink needed for the whiteboards**: 
+   Each whiteboard needs 20ml of ink for a day's use. Therefore, we multiply the total number of whiteboards by the amount of ink required per whiteboard:
+   \[
+   \text{Total ink} = 10 \text{ whiteboards} \times 20 \text{ ml/whiteboard} = 200 \text{ ml}
+   \]
+
+3. **Calculate the cost of the ink**: 
+   The cost of ink is 50 cents per ml. To find the total cost, we multiply the total amount of ink by the cost per ml:
+   \[
+   \text{Total cost} = 200 \text{ ml} \times 0.50 \text{ dollars/ml} = 100 \text{ dollars}
+   \]
+
+Thus, the total cost to use the boards for one day is $100.
+</reasoning>
+<answer>100</answer>

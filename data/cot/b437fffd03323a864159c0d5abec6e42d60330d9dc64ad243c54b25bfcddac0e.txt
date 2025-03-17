@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many meals Gordon's 3 restaurants serve per week, we need to first calculate the total meals served by all three restaurants in one day and then multiply that by the number of days in a week.
+
+1. **Calculate the total number of meals served per day:**
+   - First restaurant: 20 meals
+   - Second restaurant: 40 meals
+   - Third restaurant: 50 meals
+
+   Now, we sum these values to find the total meals served per day:
+   \[
+   20 + 40 + 50 = 110 \text{ meals per day}
+   \]
+   This step is important because it gives us the daily output of all the restaurants combined.
+
+2. **Calculate the total number of meals served per week:**
+   - There are 7 days in a week. To find the total meals served in a week, we multiply the daily total by 7:
+   \[
+   110 \text{ meals/day} \times 7 \text{ days/week} = 770 \text{ meals/week}
+   \]
+   This step allows us to scale the daily meal count to a weekly total, which is what the problem is asking for.
+
+Therefore, the total number of meals served by Gordon's 3 restaurants per week is:
+</reasoning>
+<answer>770</answer>

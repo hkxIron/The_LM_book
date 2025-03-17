@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **First Day:** The frog lays 50 eggs.
+   - We start with 50 eggs on the first day.
+   - Total after Day 1 = 50 eggs.
+
+2. **Second Day:** She doubles her production from Day 1.
+   - Since she laid 50 eggs on the first day, doubling that gives us \( 50 \times 2 = 100 \) eggs on the second day.
+   - Total after Day 2 = 50 + 100 = 150 eggs.
+
+3. **Third Day:** She lays 20 more than the second day.
+   - On the second day, she laid 100 eggs. So, on the third day, she lays \( 100 + 20 = 120 \) eggs.
+   - Total after Day 3 = 150 + 120 = 270 eggs.
+
+4. **Fourth Day:** She doubles the total of the first three days.
+   - The total from the first three days is 270 eggs. Doubling that gives us \( 270 \times 2 = 540 \) eggs on the fourth day.
+   - Total after Day 4 = 270 + 540 = 810 eggs.
+
+Now, we can summarize the total number of eggs laid over the 4 days:
+- Day 1: 50
+- Day 2: 100
+- Day 3: 120
+- Day 4: 540
+
+Adding these together gives us:
+- Total eggs = 50 + 100 + 120 + 540 = 810
+
+Therefore, over the span of the 4 days, the frog laid a total of 810 eggs.
+</reasoning>
+<answer>810</answer>

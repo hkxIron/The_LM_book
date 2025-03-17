@@ -1,0 +1,32 @@
+<reasoning>
+Brennan downloaded 800 files initially. He found 70% of them not useful and deleted them. 
+
+To find out how many files he deleted, we multiply 800 by 70% (or 0.70 in decimal form).
+
+800 * 0.70 = 560 files
+
+So, he deleted 560 files from the initial download. 
+
+To find out how many files he was left with after the first round of deletions, we subtract the number of deleted files from the total number of files he downloaded initially.
+
+800 - 560 = 240 files
+
+In the second round, Brennan downloaded 400 more files. Out of these, he found 3/5 of them not useful. 
+
+To find out how many files from the second round were not useful, we multiply 400 by 3/5.
+
+400 * 3/5 = 240 files
+
+So, 240 files from the second download were not useful.
+
+To find out how many files he was left with after the second round of deletions, we subtract the number of deleted files from the total number of files he downloaded in the second round.
+
+400 - 240 = 160 files
+
+To find the total number of useful files Brennan was left with, we add the number of useful files from the first round to the number of useful files from the second round.
+
+240 + 160 = 400 files
+
+So, Brennan was left with 400 valuable files after deleting the unrelated files he downloaded in the second round.
+</reasoning>
+<answer>400</answer>

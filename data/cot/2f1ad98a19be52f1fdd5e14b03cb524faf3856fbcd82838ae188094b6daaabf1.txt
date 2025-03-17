@@ -1,0 +1,82 @@
+<reasoning>
+To solve the problem, let's denote the amount of money Jason had at first as \( x \).
+
+1. **Calculate the money spent on books**:
+   Jason spent \( \frac{1}{4} \) of his money plus an additional $10 on books. This can be expressed as:
+   \[
+   \text{Money spent on books} = \frac{1}{4}x + 10
+   \]
+
+2. **Calculate the remaining money after buying books**:
+   After spending on books, the amount of money he has left can be calculated by subtracting the money spent on books from his initial amount \( x \):
+   \[
+   \text{Remaining money after books} = x - \left( \frac{1}{4}x + 10 \right)
+   \]
+   Simplifying this expression:
+   \[
+   = x - \frac{1}{4}x - 10 = \frac{3}{4}x - 10
+   \]
+
+3. **Calculate the money spent on DVDs**:
+   Next, Jason spent \( \frac{2}{5} \) of the remaining money plus an additional $8 on DVDs. The remaining money after books was \( \frac{3}{4}x - 10 \), so:
+   \[
+   \text{Money spent on DVDs} = \frac{2}{5} \left(\frac{3}{4}x - 10\right) + 8
+   \]
+
+4. **Calculate the amount of money left after buying DVDs**:
+   We need to subtract the money spent on DVDs from the remaining money after books:
+   \[
+   \text{Remaining money after DVDs} = \left(\frac{3}{4}x - 10\right) - \left(\frac{2}{5} \left(\frac{3}{4}x - 10\right) + 8\right)
+   \]
+
+5. **Set up the equation according to the problem statement**:
+   We know that after all these expenditures, Jason is left with $130:
+   \[
+   \left(\frac{3}{4}x - 10\right) - \left(\frac{2}{5} \left(\frac{3}{4}x - 10\right) + 8\right) = 130
+   \]
+
+6. **Simplify the equation**:
+   First, we need to simplify the term involving DVDs:
+   \[
+   \frac{2}{5} \left(\frac{3}{4}x - 10\right) = \frac{2 \cdot 3}{5 \cdot 4} x - \frac{2 \cdot 10}{5} = \frac{3}{10}x - 4
+   \]
+   So, we substitute this back into our equation:
+   \[
+   \left(\frac{3}{4}x - 10\right) - \left(\frac{3}{10}x - 4 + 8\right) = 130
+   \]
+   This simplifies to:
+   \[
+   \frac{3}{4}x - 10 - \frac{3}{10}x + 4 - 8 = 130
+   \]
+   Combining constants:
+   \[
+   \frac{3}{4}x - \frac{3}{10}x - 14 = 130
+   \]
+
+7. **Combine the fractions**:
+   To combine \( \frac{3}{4}x \) and \( -\frac{3}{10}x \), we need a common denominator, which is 20:
+   \[
+   \frac{3}{4}x = \frac{15}{20}x \quad \text{and} \quad -\frac{3}{10}x = -\frac{6}{20}x
+   \]
+   Therefore:
+   \[
+   \frac{15}{20}x - \frac{6}{20}x = \frac{9}{20}x
+   \]
+   Our equation now looks like:
+   \[
+   \frac{9}{20}x - 14 = 130
+   \]
+
+8. **Solve for \( x \)**:
+   First, add 14 to both sides:
+   \[
+   \frac{9}{20}x = 144
+   \]
+   Now multiply both sides by \( \frac{20}{9} \) to isolate \( x \):
+   \[
+   x = 144 \cdot \frac{20}{9} = \frac{2880}{9} = 320
+   \]
+
+Thus, Jason had $320 at first.
+</reasoning>
+<answer>320</answer>

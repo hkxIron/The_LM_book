@@ -1,0 +1,52 @@
+<reasoning>
+First, let's define the amounts spent by each person based on the information given.
+
+1. We know that Trevor spends $80 every year. 
+   - Therefore, we can denote Trevor's spending as \( T = 80 \).
+
+2. It is mentioned that Trevor spends $20 more than Reed. 
+   - We can express Reed's spending (R) as follows:
+   \[
+   T = R + 20
+   \]
+   Substituting Trevor's spending:
+   \[
+   80 = R + 20
+   \]
+   To find Reed's spending, we subtract 20 from both sides:
+   \[
+   R = 80 - 20 = 60
+   \]
+
+3. We’re also told that Reed spends 2 times as much money as Quinn (Q). 
+   - This gives us the equation:
+   \[
+   R = 2Q
+   \]
+   Substituting Reed's spending:
+   \[
+   60 = 2Q
+   \]
+   To find Quinn's spending, we divide both sides by 2:
+   \[
+   Q = \frac{60}{2} = 30
+   \]
+
+Now we have the spending for each person:
+- Trevor spends \( T = 80 \),
+- Reed spends \( R = 60 \),
+- Quinn spends \( Q = 30 \).
+
+Next, we need to calculate the total spending of the three friends in one year:
+\[
+\text{Total spending in one year} = T + R + Q = 80 + 60 + 30 = 170
+\]
+
+Since we want to find out how much money they spend in 4 years, we multiply the total spending for one year by 4:
+\[
+\text{Total spending in 4 years} = 170 \times 4 = 680
+\]
+
+Therefore, the total amount of money the three friends spend in 4 years is:
+</reasoning>
+<answer>680</answer>

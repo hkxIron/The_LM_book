@@ -1,0 +1,42 @@
+<reasoning>
+Let the number of raccoons that Jason pepper-sprays be represented by \( r \). According to the problem, he pepper-sprays 6 times as many squirrels as raccoons, so we can express the number of squirrels as \( 6r \).
+
+Now, we know that the total number of animals pepper-sprayed (raccoons plus squirrels) is 84. We can set up the following equation to represent this relationship:
+
+\[
+r + 6r = 84
+\]
+
+Next, we combine like terms on the left side of the equation:
+
+\[
+7r = 84
+\]
+
+To find the value of \( r \), we will divide both sides of the equation by 7:
+
+\[
+r = \frac{84}{7}
+\]
+
+Calculating the right side:
+
+\[
+r = 12
+\]
+
+This means Jason pepper-sprays 12 raccoons. To confirm, we can check how many squirrels he pepper-sprays. Since he pepper-sprays 6 times as many squirrels, we calculate:
+
+\[
+6r = 6 \times 12 = 72
+\]
+
+Now, we check the total:
+
+\[
+r + 6r = 12 + 72 = 84
+\]
+
+The total matches the information given in the problem. Therefore, the solution is verified.
+</reasoning>
+<answer>12</answer>

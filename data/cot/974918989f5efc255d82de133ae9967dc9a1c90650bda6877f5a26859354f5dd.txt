@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many pages Juwella will read tonight, we first need to calculate how many pages she has read over the past three nights.
+
+1. **Calculate the pages read three nights ago:**
+   Juwella read 15 pages three nights ago.
+
+2. **Calculate the pages read two nights ago:**
+   She read twice the amount she read three nights ago. So, we calculate:
+   \[
+   2 \times 15 = 30 \text{ pages}
+   \]
+   This means she read 30 pages two nights ago.
+
+3. **Calculate the pages read last night:**
+   Last night, she read 5 pages more than what she read two nights ago. So, we calculate:
+   \[
+   30 + 5 = 35 \text{ pages}
+   \]
+   Therefore, she read 35 pages last night.
+
+4. **Total pages read over the three nights:**
+   Now, we sum up the pages read over the three nights:
+   \[
+   15 + 30 + 35 = 80 \text{ pages}
+   \]
+
+5. **Calculate the remaining pages in the book:**
+   The book has a total of 100 pages. To find out how many pages are left for her to read tonight, we subtract the pages she has already read from the total pages:
+   \[
+   100 - 80 = 20 \text{ pages}
+   \]
+
+Thus, Juwella will read the remaining 20 pages of the book tonight.
+</reasoning>
+<answer>20</answer>

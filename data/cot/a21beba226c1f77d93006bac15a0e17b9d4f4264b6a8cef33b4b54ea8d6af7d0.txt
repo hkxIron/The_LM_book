@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many people Marcy is painting with makeup, we will first calculate how many tubes of lip gloss she has in total based on the information provided.
+
+1. **Identify the number of tubs of lip gloss Marcy has**: Marcy has 6 tubs of lip gloss.
+
+2. **Determine how many tubes are in each tub**: Each tub holds 2 tubes of lip gloss.
+
+3. **Calculate the total number of tubes of lip gloss**: To find the total number of tubes, we multiply the number of tubs by the number of tubes each holds.
+   \[
+   \text{Total tubes} = \text{Number of tubs} \times \text{Tubes per tub} = 6 \times 2 = 12
+   \]
+   So, Marcy has a total of 12 tubes of lip gloss.
+
+4. **Determine how many people each tube can serve**: Each tube of lip gloss can serve enough for 3 people's makeup.
+
+5. **Calculate how many people can be served with the total number of tubes**: To find out how many people Marcy can paint with makeup, we multiply the total number of tubes by the number of people each tube can serve.
+   \[
+   \text{Total people served} = \text{Total tubes} \times \text{People per tube} = 12 \times 3 = 36
+   \]
+
+Therefore, Marcy is painting makeup for 36 people.
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we first need to analyze Jessica's current pace and then project her total time based on that pace to determine how much time she will have left after completing the exam.
+
+1. **Determine the number of questions answered per minute:**
+   Jessica has answered 16 questions in 12 minutes. We can calculate her rate of answering questions:
+   \[
+   \text{Rate} = \frac{\text{Number of Questions Answered}}{\text{Time Used}} = \frac{16 \text{ questions}}{12 \text{ minutes}} = \frac{4}{3} \text{ questions per minute}
+   \]
+   This means Jessica answers approximately 1.33 questions per minute.
+
+2. **Calculate how many questions remain:**
+   The total number of questions in the exam is 80. Since she has already answered 16 questions, the number of questions left to answer is:
+   \[
+   \text{Questions Remaining} = 80 - 16 = 64 \text{ questions}
+   \]
+
+3. **Determine how long it will take to answer the remaining questions:**
+   We can now calculate the time it will take to answer the remaining 64 questions at her current rate:
+   \[
+   \text{Time to Complete Remaining Questions} = \frac{\text{Questions Remaining}}{\text{Rate}} = \frac{64 \text{ questions}}{\frac{4}{3} \text{ questions per minute}} = 64 \times \frac{3}{4} = 48 \text{ minutes}
+   \]
+
+4. **Calculate the total time Jessica will use:**
+   We need to add the time she has already spent to the time it will take to finish the remaining questions:
+   \[
+   \text{Total Time Used} = \text{Time Already Used} + \text{Time to Complete Remaining Questions} = 12 \text{ minutes} + 48 \text{ minutes} = 60 \text{ minutes}
+   \]
+
+5. **Determine how much time will be left when she finishes the exam:**
+   Since Jessica has one hour (60 minutes) to complete the exam and we calculated that she will use all 60 minutes:
+   \[
+   \text{Time Left} = 60 \text{ minutes} - 60 \text{ minutes} = 0 \text{ minutes}
+   \]
+
+Therefore, when Jessica finishes the exam, she will have no time left.
+</reasoning>
+<answer>0</answer>

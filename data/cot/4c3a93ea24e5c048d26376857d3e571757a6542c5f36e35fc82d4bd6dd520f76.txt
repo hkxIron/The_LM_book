@@ -1,0 +1,28 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the number of parrots**: We are told that the zoo has 8 parrots.
+   - Number of parrots = 8
+
+2. **Calculate the number of snakes**: The problem states that there are 3 times the number of snakes than parrots. 
+   - So, number of snakes = 3 * number of parrots = 3 * 8 = 24
+
+3. **Calculate the number of monkeys**: The number of monkeys is 2 times the number of snakes.
+   - So, number of monkeys = 2 * number of snakes = 2 * 24 = 48
+
+4. **Calculate the number of elephants**: The number of elephants is half the total of parrots and snakes.
+   - First, calculate the total of parrots and snakes: 
+     Total parrots and snakes = number of parrots + number of snakes = 8 + 24 = 32
+   - Now, calculate the number of elephants: 
+     Number of elephants = 1/2 * total parrots and snakes = 1/2 * 32 = 16
+
+5. **Calculate the number of zebras**: There are 3 fewer zebras than elephants.
+   - So, number of zebras = number of elephants - 3 = 16 - 3 = 13
+
+6. **Find the difference between the number of zebras and monkeys**: 
+   - We now have the number of zebras (13) and monkeys (48). 
+   - The difference = number of monkeys - number of zebras = 48 - 13 = 35
+
+Therefore, the difference in number between the zebras and the monkeys is 35.
+</reasoning>
+<answer>35</answer>

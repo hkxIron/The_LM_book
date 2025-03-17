@@ -1,0 +1,44 @@
+<reasoning>
+To find out how many hours Madeline has left over in her week, we first need to calculate the total hours she spends on various activities and then subtract that from the total hours available in a week.
+
+1. **Calculate the total hours in a week**: 
+   There are 7 days in a week and 24 hours in a day. So, we multiply:
+   \[
+   7 \text{ days} \times 24 \text{ hours/day} = 168 \text{ hours/week}
+   \]
+   This means Madeline has a total of 168 hours available each week.
+
+2. **Calculate the total hours spent in class**:
+   Madeline spends 18 hours a week in class.
+
+3. **Calculate the total hours spent on homework**:
+   She spends 4 hours each day on homework. Therefore, over 7 days:
+   \[
+   4 \text{ hours/day} \times 7 \text{ days} = 28 \text{ hours/week}
+   \]
+
+4. **Calculate the total hours spent sleeping**:
+   Madeline sleeps 8 hours each day. Therefore, over 7 days:
+   \[
+   8 \text{ hours/day} \times 7 \text{ days} = 56 \text{ hours/week}
+   \]
+
+5. **Calculate the total hours spent working part-time**:
+   She works part-time for 20 hours a week.
+
+6. **Sum up all the hours spent on these activities**:
+   Now we add all the hours:
+   \[
+   18 \text{ hours (class)} + 28 \text{ hours (homework)} + 56 \text{ hours (sleep)} + 20 \text{ hours (work)} = 122 \text{ hours/week}
+   \]
+   This total represents all the time she has allocated to her activities.
+
+7. **Calculate the leftover hours**:
+   To find out how many hours Madeline has left over, we subtract the total hours spent from the total hours available in a week:
+   \[
+   168 \text{ hours (total)} - 122 \text{ hours (spent)} = 46 \text{ hours (left over)}
+   \]
+
+Therefore, Madeline has 46 hours left over in her week.
+</reasoning>
+<answer>46</answer>

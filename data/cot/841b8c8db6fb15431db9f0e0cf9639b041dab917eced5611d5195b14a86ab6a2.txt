@@ -1,0 +1,60 @@
+<reasoning>
+To solve the problem, we need to calculate how much Mr. Deane will spend on gas today and then how much he will spend on Friday after the price rollback.
+
+**Step 1: Calculate the cost of gas today.**
+
+- Mr. Deane is filling 10 liters of gas today.
+- The cost per liter today is $1.4.
+
+To find the total cost for the 10 liters of gas today, we multiply the number of liters by the cost per liter:
+
+\[
+\text{Cost today} = \text{liters} \times \text{cost per liter} = 10 \, \text{liters} \times 1.4 \, \text{dollars/liter}
+\]
+
+Calculating that:
+
+\[
+\text{Cost today} = 10 \times 1.4 = 14 \, \text{dollars}
+\]
+
+**Step 2: Calculate the cost of gas on Friday.**
+
+- Mr. Deane plans to fill 25 liters of gas on Friday.
+- The rollback price will make the cost per liter $0.4 less than the original price of $1.4.
+
+First, we calculate the new price per liter on Friday:
+
+\[
+\text{New price per liter} = 1.4 - 0.4 = 1.0 \, \text{dollars/liter}
+\]
+
+Now, we calculate the total cost for the 25 liters of gas he will purchase on Friday:
+
+\[
+\text{Cost on Friday} = \text{liters} \times \text{new cost per liter} = 25 \, \text{liters} \times 1.0 \, \text{dollars/liter}
+\]
+
+Calculating that:
+
+\[
+\text{Cost on Friday} = 25 \times 1.0 = 25 \, \text{dollars}
+\]
+
+**Step 3: Calculate the total cost for all 35 liters of gas.**
+
+Now, we add the costs from today and Friday together to find the total amount Mr. Deane will spend:
+
+\[
+\text{Total cost} = \text{Cost today} + \text{Cost on Friday} = 14 \, \text{dollars} + 25 \, \text{dollars}
+\]
+
+Calculating that:
+
+\[
+\text{Total cost} = 14 + 25 = 39 \, \text{dollars}
+\]
+
+Therefore, the total amount Mr. Deane will spend for his 35 liters of gas is:
+</reasoning>
+<answer>39</answer>

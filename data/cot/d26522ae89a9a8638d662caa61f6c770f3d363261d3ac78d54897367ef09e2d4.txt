@@ -1,0 +1,61 @@
+<reasoning>
+To find out how much Kristy allocated to insurance, we will first calculate her total monthly earnings, which includes her salary and commission from sales.
+
+1. **Calculate Kristy's basic salary:**
+   - Kristy earns $7.50 per hour.
+   - She worked for 160 hours this month.
+   - To find her basic salary, we multiply her hourly wage by the number of hours worked:
+   \[
+   \text{Basic Salary} = 7.50 \times 160
+   \]
+   \[
+   \text{Basic Salary} = 1200
+   \]
+
+2. **Calculate Kristy's commission:**
+   - Kristy earns a 16% commission on her sales.
+   - She sold $25,000 worth of items.
+   - To calculate her commission, we find 16% of $25,000:
+   \[
+   \text{Commission} = 0.16 \times 25000
+   \]
+   \[
+   \text{Commission} = 4000
+   \]
+
+3. **Calculate total monthly earnings:**
+   - Now we add her basic salary and her commission to find her total earnings:
+   \[
+   \text{Total Monthly Earnings} = \text{Basic Salary} + \text{Commission}
+   \]
+   \[
+   \text{Total Monthly Earnings} = 1200 + 4000
+   \]
+   \[
+   \text{Total Monthly Earnings} = 5200
+   \]
+
+4. **Calculate Kristy's budget allocation for expenses:**
+   - Kristy allocates 95% of her total monthly earnings for her budget. We can calculate this by multiplying her total earnings by 0.95:
+   \[
+   \text{Budget Allocation} = 0.95 \times 5200
+   \]
+   \[
+   \text{Budget Allocation} = 4940
+   \]
+
+5. **Calculate the amount allocated to insurance:**
+   - The remaining amount from her total monthly earnings after her budget allocation will be allocated to insurance. We find this by subtracting her budget allocation from her total monthly earnings:
+   \[
+   \text{Insurance Allocation} = \text{Total Monthly Earnings} - \text{Budget Allocation}
+   \]
+   \[
+   \text{Insurance Allocation} = 5200 - 4940
+   \]
+   \[
+   \text{Insurance Allocation} = 260
+   \]
+
+Therefore, Kristy allocated $260 to insurance.
+</reasoning>
+<answer>260</answer>

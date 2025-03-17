@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many followers Denny will have after one year considering both new followers and those who unfollow him, we will follow these steps:
+
+1. **Calculate the number of days in a year**: 
+   A year typically has 365 days. 
+
+2. **Determine the total number of new followers gained in a year**:
+   Denny gains 1000 new followers every day. 
+   So, the total new followers in one year is:
+   \[
+   \text{Total new followers} = 1000 \text{ followers/day} \times 365 \text{ days} = 365000 \text{ followers}
+   \]
+   This means that over the course of a year, he will gain 365000 new followers.
+
+3. **Calculate the total followers before any unfollowing**:
+   Denny starts with 100000 followers. After gaining the new followers, the total would be:
+   \[
+   \text{Total followers after one year} = 100000 \text{ initial followers} + 365000 \text{ new followers} = 465000 \text{ followers}
+   \]
+
+4. **Account for the unfollowers**:
+   Now, we need to subtract the number of people who unfollowed him, which is 20000.
+   \[
+   \text{Total followers after unfollowing} = 465000 \text{ followers} - 20000 \text{ unfollowers} = 445000 \text{ followers}
+   \]
+
+Thus, after one year, considering both the new followers and the unfollowers, Denny will have 445000 followers.
+</reasoning>
+<answer>445000</answer>

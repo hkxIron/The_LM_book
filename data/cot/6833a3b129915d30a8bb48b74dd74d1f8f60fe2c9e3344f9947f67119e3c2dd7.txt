@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many rocks were in the bucket, we first need to determine how many pounds of rocks Jim sold based on how much money he made.
+
+1. **Calculate the total weight of the rocks sold**: 
+   Jim makes $60 by selling rocks at a rate of $4 per pound. To find the total weight in pounds, we can use the formula:
+   \[
+   \text{Total weight} = \frac{\text{Total money earned}}{\text{Price per pound}} 
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total weight} = \frac{60}{4} = 15 \text{ pounds}
+   \]
+
+2. **Calculate the number of rocks**: 
+   We know that the average weight of a rock is 1.5 pounds. To find out how many rocks are in the bucket, we can use the formula:
+   \[
+   \text{Number of rocks} = \frac{\text{Total weight of rocks}}{\text{Average weight of a rock}} 
+   \]
+   Substituting the values we have:
+   \[
+   \text{Number of rocks} = \frac{15}{1.5}
+   \]
+   Performing the division:
+   \[
+   \text{Number of rocks} = 10
+   \]
+
+Therefore, Jim has 10 rocks in the bucket.
+</reasoning>
+<answer>10</answer>

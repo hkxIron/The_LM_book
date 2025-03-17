@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total pages in the book and the pages already read:**
+   - The total number of pages in Elliot's book is 381.
+   - He has already read 149 pages.
+
+2. **Calculate the pages left to be read:**
+   To find out how many pages are still left to be read, we subtract the number of pages he has already read from the total number of pages:
+   \[
+   \text{Pages left} = \text{Total pages} - \text{Pages read} = 381 - 149
+   \]
+   Performing this calculation:
+   \[
+   381 - 149 = 232
+   \]
+   So, Elliot has 232 pages left to read.
+
+3. **Calculate how many pages he will read in one week:**
+   Since Elliot reads 20 pages a day, we can calculate how many pages he will read in a week (which is 7 days):
+   \[
+   \text{Pages read in a week} = \text{Pages per day} \times \text{Number of days} = 20 \times 7
+   \]
+   Performing this calculation:
+   \[
+   20 \times 7 = 140
+   \]
+   Thus, in one week, he will read 140 pages.
+
+4. **Calculate the remaining pages after one week:**
+   Now, we need to find out how many pages will still be left after he reads for one week. We subtract the pages he will read in one week from the pages left:
+   \[
+   \text{Pages left after one week} = \text{Pages left} - \text{Pages read in a week} = 232 - 140
+   \]
+   Performing this calculation:
+   \[
+   232 - 140 = 92
+   \]
+   Therefore, after reading for one week, Elliot will have 92 pages left to read.
+
+In summary, after reading for one week, the total number of pages remaining for Elliot to read will be:
+</reasoning>
+<answer>92</answer>

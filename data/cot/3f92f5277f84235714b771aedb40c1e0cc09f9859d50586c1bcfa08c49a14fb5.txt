@@ -1,0 +1,51 @@
+<reasoning>
+To find out how much more expensive the deal at the grocery store is per can compared to the deal at the bulk warehouse, I will follow these steps:
+
+1. **Calculate the price per can at the bulk warehouse:**
+   - The bulk warehouse offers 48 cans for $12.00.
+   - To find the price per can, we will divide the total price by the number of cans:
+   \[
+   \text{Price per can at bulk warehouse} = \frac{12.00}{48}
+   \]
+
+2. **Calculate the price per can at the grocery store:**
+   - The grocery store offers 12 cans for $6.00.
+   - Similarly, we will divide the total price by the number of cans to find the price per can:
+   \[
+   \text{Price per can at grocery store} = \frac{6.00}{12}
+   \]
+
+3. **Convert both prices per can into cents:**
+   - Since the problem asks for the difference in cents, we will convert the dollar amounts to cents by multiplying by 100.
+
+4. **Find the difference in price per can:**
+   - Subtract the price per can at the bulk warehouse from the price per can at the grocery store to find out how much more expensive the grocery store's deal is.
+
+Now, let's perform the calculations step-by-step:
+
+1. **Calculating the price per can at the bulk warehouse:**
+   \[
+   \text{Price per can at bulk warehouse} = \frac{12.00}{48} = 0.25 \text{ dollars}
+   \]
+   Converting this to cents:
+   \[
+   0.25 \text{ dollars} \times 100 = 25 \text{ cents}
+   \]
+
+2. **Calculating the price per can at the grocery store:**
+   \[
+   \text{Price per can at grocery store} = \frac{6.00}{12} = 0.50 \text{ dollars}
+   \]
+   Converting this to cents:
+   \[
+   0.50 \text{ dollars} \times 100 = 50 \text{ cents}
+   \]
+
+3. **Finding the difference in price per can:**
+   \[
+   \text{Difference} = 50 \text{ cents} - 25 \text{ cents} = 25 \text{ cents}
+   \]
+
+This means that the grocery store's deal is 25 cents more expensive per can than the deal at the bulk warehouse.
+</reasoning>
+<answer>25</answer>

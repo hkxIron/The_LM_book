@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the number of worker ants**: 
+   Since half of the ants are worker ants, we need to find half of the total number of ants. 
+   \[
+   \text{Number of worker ants} = \frac{110}{2} = 55
+   \]
+   Therefore, there are 55 worker ants.
+
+2. **Calculate the number of male worker ants**:
+   Next, we know that 20 percent of the worker ants are male. We will calculate 20 percent of 55.
+   \[
+   \text{Number of male worker ants} = 0.20 \times 55 = 11
+   \]
+   So, there are 11 male worker ants.
+
+3. **Find the number of female worker ants**:
+   To find the number of female worker ants, we subtract the number of male worker ants from the total number of worker ants.
+   \[
+   \text{Number of female worker ants} = \text{Total worker ants} - \text{Male worker ants} = 55 - 11 = 44
+   \]
+   Thus, there are 44 female worker ants.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>44</answer>

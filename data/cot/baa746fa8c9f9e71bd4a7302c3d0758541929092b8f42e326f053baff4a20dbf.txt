@@ -1,0 +1,27 @@
+<reasoning>
+First, we need to calculate the total cost of a monthly subscription over one year (12 months). 
+
+1. **Calculate the total cost without discount:**
+   The monthly cost is $10. Therefore, for 12 months, the total cost is:
+   \[
+   10 \, \text{dollars/month} \times 12 \, \text{months} = 120 \, \text{dollars}
+   \]
+   This calculation shows the total amount you would pay if you subscribed on a monthly basis without any discount.
+
+2. **Calculate the discount for the annual subscription:**
+   The problem states that there is a 20% discount on the total bill for an annual subscription. We can find the amount of the discount by calculating 20% of the total cost:
+   \[
+   20\% \, \text{of} \, 120 \, \text{dollars} = 0.20 \times 120 = 24 \, \text{dollars}
+   \]
+   This step is important because it tells us how much money we save by choosing the annual subscription instead of paying monthly.
+
+3. **Calculate the final cost after applying the discount:**
+   Now we need to subtract the discount from the total cost of the annual subscription:
+   \[
+   120 \, \text{dollars} - 24 \, \text{dollars} = 96 \, \text{dollars}
+   \]
+   This final calculation gives us the amount you will actually pay for the annual subscription after the discount is applied.
+
+Therefore, by subscribing annually with the discount, you pay a total of $96.
+</reasoning>
+<answer>96</answer>

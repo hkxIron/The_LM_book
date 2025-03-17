@@ -1,0 +1,29 @@
+<reasoning>
+To determine how many more beads Bella needs to make bracelets for her 6 friends, we first need to calculate the total number of beads required for all the bracelets.
+
+1. **Calculate the total number of beads needed for the bracelets**:
+   Bella wants to make 6 bracelets, and each bracelet requires 8 beads. We can find the total number of beads needed by multiplying the number of bracelets by the number of beads per bracelet:
+   \[
+   \text{Total beads needed} = \text{Number of bracelets} \times \text{Beads per bracelet}
+   \]
+   Substituting the values:
+   \[
+   \text{Total beads needed} = 6 \times 8 = 48
+   \]
+
+2. **Determine how many beads Bella currently has**:
+   Bella has 36 beads available.
+
+3. **Calculate how many more beads are needed**:
+   Now that we know Bella needs 48 beads in total and she currently has 36 beads, we can find out how many more beads she needs by subtracting the number of beads she has from the total needed:
+   \[
+   \text{Beads needed} = \text{Total beads needed} - \text{Beads she has}
+   \]
+   Substituting the values:
+   \[
+   \text{Beads needed} = 48 - 36 = 12
+   \]
+
+Therefore, Bella needs 12 more beads to make all six bracelets.
+</reasoning>
+<answer>12</answer>

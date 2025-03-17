@@ -1,0 +1,39 @@
+<reasoning>
+First, let's calculate the cost of buying 3 of each CD. 
+
+1. The cost of "The Life Journey" is $100. If I buy 3 of these, the total cost will be:
+   \[
+   3 \times 100 = 300
+   \]
+   So, I spent $300 on "The Life Journey."
+
+2. The cost of "A Day a Life" is $50. If I buy 3 of these, the total cost will be:
+   \[
+   3 \times 50 = 150
+   \]
+   Thus, I spent $150 on "A Day a Life."
+
+3. The cost of "When You Rescind" is $85. If I buy 3 of these, the total cost will be:
+   \[
+   3 \times 85 = 255
+   \]
+   Therefore, I spent $255 on "When You Rescind."
+
+Next, I will add up all the amounts I spent on the CDs:
+\[
+300 + 150 + 255
+\]
+
+Now, let's calculate this step by step:
+- First, adding $300 and $150 gives:
+  \[
+  300 + 150 = 450
+  \]
+- Next, adding $255 to $450 gives:
+  \[
+  450 + 255 = 705
+  \]
+
+Therefore, the total amount of money I spent in the shop is $705.
+</reasoning>
+<answer>705</answer>

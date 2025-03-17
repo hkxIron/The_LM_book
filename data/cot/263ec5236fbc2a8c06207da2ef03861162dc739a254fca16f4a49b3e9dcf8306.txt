@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we will break down the time it takes for Jack to get ready, step by step.
+
+1. **Time for Jack to put on his shoes:** 
+   - According to the problem, it takes Jack 4 minutes to put on his own shoes.
+
+2. **Time to help each toddler with their shoes:**
+   - It takes Jack 3 minutes longer than the time it takes him to put on his shoes to help each toddler. Since Jack takes 4 minutes for his shoes, he will take:
+     \[
+     4 \text{ minutes} + 3 \text{ minutes} = 7 \text{ minutes}
+     \]
+     to help each toddler.
+
+3. **Total time to help both toddlers:**
+   - Jack has two toddlers, so the total time to help both will be:
+     \[
+     7 \text{ minutes (for the first toddler)} + 7 \text{ minutes (for the second toddler)} = 14 \text{ minutes}
+     \]
+
+4. **Total time for getting ready:**
+   - Now we will add the time Jack takes to put on his shoes to the time he spends helping both toddlers:
+     \[
+     4 \text{ minutes (putting on shoes)} + 14 \text{ minutes (helping toddlers)} = 18 \text{ minutes}
+     \]
+
+Therefore, the total time for Jack to get ready is 18 minutes.
+</reasoning>
+<answer>18</answer>

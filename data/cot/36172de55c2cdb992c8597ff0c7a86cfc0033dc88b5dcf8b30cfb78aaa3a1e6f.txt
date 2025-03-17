@@ -1,0 +1,68 @@
+<reasoning>
+Let's break this problem down step by step to find out how much Tom spends on his theater.
+
+1. **Calculate the total square footage needed for the seats**:
+   Tom wants a 500-seat theater, and he needs 12 square feet for each seat. 
+   To find the total square footage required for the seats, we can use the formula:
+   \[
+   \text{Total square footage} = \text{Number of seats} \times \text{Square feet per seat}
+   \]
+   Substituting the values:
+   \[
+   \text{Total square footage} = 500 \times 12 = 6000 \text{ square feet}
+   \]
+   This means Tom needs a total of 6000 square feet for the seating area.
+
+2. **Calculate the cost of the land**:
+   The cost of land is $5 per square foot. Therefore, the total cost of the land can be calculated as:
+   \[
+   \text{Cost of land} = \text{Total square footage} \times \text{Cost per square foot}
+   \]
+   Substituting the values:
+   \[
+   \text{Cost of land} = 6000 \times 5 = 30000 \text{ dollars}
+   \]
+   So, the total cost of the land is $30,000.
+
+3. **Calculate the construction cost**:
+   It is given that construction costs twice as much as the land. Thus, we can calculate the construction cost as:
+   \[
+   \text{Construction cost} = 2 \times \text{Cost of land}
+   \]
+   Substituting the values:
+   \[
+   \text{Construction cost} = 2 \times 30000 = 60000 \text{ dollars}
+   \]
+   Therefore, the total construction cost is $60,000.
+
+4. **Calculate the total cost for Tom**:
+   Now, we need to find the total cost that Tom has to pay, which includes both the land and construction costs:
+   \[
+   \text{Total cost} = \text{Cost of land} + \text{Construction cost}
+   \]
+   Substituting the values:
+   \[
+   \text{Total cost} = 30000 + 60000 = 90000 \text{ dollars}
+   \]
+   So, the total cost for the theater is $90,000.
+
+5. **Determine Tom's share after his partner covers 40%**:
+   Tom's partner covers 40% of the total cost. To find out how much Tom will have to pay, we first calculate how much his partner pays:
+   \[
+   \text{Partner's contribution} = 0.40 \times \text{Total cost}
+   \]
+   Substituting the total cost:
+   \[
+   \text{Partner's contribution} = 0.40 \times 90000 = 36000 \text{ dollars}
+   \]
+   Now, to find out how much Tom spends, we subtract the partner's contribution from the total cost:
+   \[
+   \text{Tom's spending} = \text{Total cost} - \text{Partner's contribution}
+   \]
+   Substituting the values:
+   \[
+   \text{Tom's spending} = 90000 - 36000 = 54000 \text{ dollars}
+   \]
+   Therefore, Tom spends $54,000 in total.
+</reasoning>
+<answer>54000</answer>

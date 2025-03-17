@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to determine how many bikes the shop owner had originally before adding the 3 bikes each week.
+
+1. **Determine the time period and total additions to stock**: 
+   - A month typically has 4 weeks. 
+   - The owner adds 3 bikes every week. So in 4 weeks, she will add:
+     \[
+     3 \text{ bikes/week} \times 4 \text{ weeks} = 12 \text{ bikes}
+     \]
+   Therefore, the shop owner adds a total of 12 bikes to her stock over the month.
+
+2. **Determine the total number of bikes sold and the remaining stock**: 
+   - She sold 18 bikes in that month.
+   - After selling those bikes, she still has 45 bikes remaining.
+
+3. **Set up the equation for the original stock**: 
+   Let's denote the original number of bikes as \( x \). After adding the bikes and selling some, we can express the total stock at the end of the month as follows:
+   \[
+   \text{Remaining stock} = \text{Original stock} + \text{Bikes added} - \text{Bikes sold}
+   \]
+   Plugging in the values we have:
+   \[
+   45 = x + 12 - 18
+   \]
+
+4. **Simplify the equation**: 
+   - First, simplify the right side:
+     \[
+     45 = x + 12 - 18 \implies 45 = x - 6
+     \]
+   - Now, add 6 to both sides to solve for \( x \):
+     \[
+     45 + 6 = x \implies x = 51
+     \]
+
+Thus, the shop owner originally had 51 bikes in stock.
+</reasoning>
+<answer>51</answer>

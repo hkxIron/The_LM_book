@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem step by step, let's break it down.
+
+1. **Identify the tall hills and how many times Wilson sleds down them**:
+   Wilson sleds down 2 tall hills, and he sleds down each one 4 times. 
+   We calculate the total number of times he sleds down the tall hills:
+   \[
+   \text{Total sleds down tall hills} = \text{Number of tall hills} \times \text{Sleds per tall hill} = 2 \times 4 = 8
+   \]
+
+2. **Identify the small hills and how many times Wilson sleds down them**:
+   Wilson sleds down 3 small hills, but he sleds down each of these hills half as often as he sleds down the tall hills. Since he sleds down the tall hills 4 times, he sleds down each small hill:
+   \[
+   \text{Sleds per small hill} = \frac{4}{2} = 2
+   \]
+   Now, we calculate the total number of times he sleds down the small hills:
+   \[
+   \text{Total sleds down small hills} = \text{Number of small hills} \times \text{Sleds per small hill} = 3 \times 2 = 6
+   \]
+
+3. **Calculate the total number of times he sleds down all the hills**:
+   Now, we add the total sleds down the tall hills and the total sleds down the small hills:
+   \[
+   \text{Total sleds} = \text{Total sleds down tall hills} + \text{Total sleds down small hills} = 8 + 6 = 14
+   \]
+
+Therefore, Wilson sleds down the hills a total of 14 times.
+</reasoning>
+<answer>14</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of bulbs planted**:
+   - Jane planted 20 tulip bulbs.
+   - She planted half that amount of iris bulbs, so:
+     \[
+     \text{Iris bulbs} = \frac{20}{2} = 10
+     \]
+   - Jane also planted 30 daffodil bulbs.
+   - She planted three times that amount of crocus bulbs, so:
+     \[
+     \text{Crocus bulbs} = 3 \times 30 = 90
+     \]
+
+2. **Calculate the total number of bulbs planted**:
+   - Now, let's add up all the bulbs:
+     \[
+     \text{Total bulbs} = \text{Tulip bulbs} + \text{Iris bulbs} + \text{Daffodil bulbs} + \text{Crocus bulbs}
+     \]
+     \[
+     \text{Total bulbs} = 20 + 10 + 30 + 90 = 150
+     \]
+
+3. **Calculate the total money earned**:
+   - Jane earns $0.50 for each bulb she planted. Therefore, we multiply the total number of bulbs by the amount she earns per bulb:
+     \[
+     \text{Total earnings} = \text{Total bulbs} \times \text{Earnings per bulb}
+     \]
+     \[
+     \text{Total earnings} = 150 \times 0.50 = 75
+     \]
+
+Therefore, after calculating the total number of bulbs and multiplying that by the amount paid per bulb, we find that Jane earned a total of $75.
+</reasoning>
+<answer>75</answer>

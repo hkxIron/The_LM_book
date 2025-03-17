@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much time Tyson spent in his races, we need to calculate the time he took for the races in both the lake and the ocean.
+
+1. **Determine the number of races in each location**: 
+   Since half of his races were in lakes and half were in the ocean, and he had a total of 10 races, we can calculate:
+   \[
+   \text{Number of races in lakes} = \frac{10}{2} = 5
+   \]
+   \[
+   \text{Number of races in oceans} = \frac{10}{2} = 5
+   \]
+
+2. **Calculate the time spent swimming in the lake**:
+   The distance for each race is 3 miles. The speed in the lake is 3 miles per hour. We can use the formula for time, which is:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   For one race in the lake:
+   \[
+   \text{Time for one lake race} = \frac{3 \text{ miles}}{3 \text{ mph}} = 1 \text{ hour}
+   \]
+   Since there are 5 races in the lake:
+   \[
+   \text{Total time in lakes} = 5 \text{ races} \times 1 \text{ hour/race} = 5 \text{ hours}
+   \]
+
+3. **Calculate the time spent swimming in the ocean**:
+   The speed in the ocean is 2.5 miles per hour. Using the same formula for time:
+   For one race in the ocean:
+   \[
+   \text{Time for one ocean race} = \frac{3 \text{ miles}}{2.5 \text{ mph}} = 1.2 \text{ hours}
+   \]
+   Since there are also 5 races in the ocean:
+   \[
+   \text{Total time in oceans} = 5 \text{ races} \times 1.2 \text{ hours/race} = 6 \text{ hours}
+   \]
+
+4. **Calculate the total time spent in all races**:
+   Now we can find the total time spent in all races by adding the time spent in the lake and the ocean:
+   \[
+   \text{Total time} = \text{Total time in lakes} + \text{Total time in oceans} = 5 \text{ hours} + 6 \text{ hours} = 11 \text{ hours}
+   \]
+
+Therefore, Tyson spent a total of 11 hours in his races.
+</reasoning>
+<answer>11</answer>

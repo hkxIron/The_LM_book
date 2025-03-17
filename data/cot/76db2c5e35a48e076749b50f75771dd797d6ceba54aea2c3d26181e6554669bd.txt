@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we'll work step by step to find out how much each animal eats per day.
+
+1. **Determine how much Greta the goose eats.**
+   - We know that Penelope the pig eats 20 pounds of food per day, and this is 10 times more than what Greta the goose eats.
+   - Let G represent the amount Greta the goose eats per day. We can set up the equation:
+     \[
+     20 = 10G
+     \]
+   - To find G, divide both sides by 10:
+     \[
+     G = \frac{20}{10} = 2
+     \]
+   So, Greta the goose eats 2 pounds of food per day.
+
+2. **Determine how much Milton the mouse eats.**
+   - Milton eats 1/100 as much as Greta the goose. Since we found that Greta eats 2 pounds, we can calculate Milton's intake:
+     \[
+     M = \frac{1}{100} \times 2 = 0.02
+     \]
+   Therefore, Milton the mouse eats 0.02 pounds of food per day.
+
+3. **Determine how much Elmer the elephant eats.**
+   - Elmer eats 4000 times more than Milton. Thus, we can calculate Elmer's intake as follows:
+     \[
+     E = 4000 \times M = 4000 \times 0.02 = 80
+     \]
+   So, Elmer the elephant eats 80 pounds of food per day.
+
+4. **Calculate how much more Elmer eats than Penelope.**
+   - Now we need to find the difference in the amount of food eaten by Elmer and Penelope:
+     \[
+     E - P = 80 - 20 = 60
+     \]
+   Therefore, Elmer the elephant eats 60 pounds more than Penelope the pig.
+
+Now we have all the calculations done and can provide the final answer.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the total number of sandwiches Donna makes**: 
+   Donna makes 20 sandwiches.
+
+2. **Calculate how many portions each sandwich creates**: 
+   Each sandwich is cut in half, which gives us 2 halves per sandwich. Then, each half is cut in half again, resulting in 4 portions from each sandwich. 
+
+   To calculate the total portions:
+   \[
+   \text{Total portions} = \text{Number of sandwiches} \times \text{Number of portions per sandwich} = 20 \times 4 = 80
+   \]
+   Therefore, Donna has a total of 80 portions.
+
+3. **Determine how many people can be fed**: 
+   Each person receives 8 portions. To find out how many people can be fed, we divide the total number of portions by the number of portions each person gets:
+   \[
+   \text{Number of people fed} = \frac{\text{Total portions}}{\text{Portions per person}} = \frac{80}{8} = 10
+   \]
+
+Thus, Donna can feed a total of 10 people.
+</reasoning>
+<answer>10</answer>

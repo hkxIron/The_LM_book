@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Amount of Money**: Jesse starts with $50.
+
+2. **Cost of the Novel**: She buys a novel for $7. We need to subtract the cost of the novel from her initial amount to find out how much money she has left after this purchase.
+
+   Calculation: 
+   \[
+   50 - 7 = 43
+   \]
+   So, after buying the novel, Jesse has $43 left.
+
+3. **Cost of Lunch**: Jesse then goes to lunch and spends twice as much as the novel cost her. Since the novel cost $7, we will calculate twice that amount.
+
+   Calculation:
+   \[
+   2 \times 7 = 14
+   \]
+   This means she spends $14 on lunch.
+
+4. **Total Amount After Lunch**: Now, we need to subtract the cost of lunch from what she had left after buying the novel.
+
+   Calculation:
+   \[
+   43 - 14 = 29
+   \]
+   Therefore, after her lunch, Jesse has $29 left.
+
+Thus, after going to the mall and making both purchases, Jesse has $29 remaining.
+</reasoning>
+<answer>29</answer>

@@ -1,0 +1,48 @@
+<reasoning>
+To solve this problem, we first need to determine the number of girls at the event.
+
+1. **Understanding the given information**: We know that the number of boys is 600 and the difference between the number of girls and boys is 400. Since the number of girls is more than the number of boys, we can express the number of girls (G) in terms of boys (B) as follows:
+   \[
+   G - B = 400
+   \]
+   where \( B = 600 \).
+
+2. **Substituting the number of boys**: By substituting the value of B into the equation, we get:
+   \[
+   G - 600 = 400
+   \]
+
+3. **Solving for the number of girls**: To find G, we add 600 to both sides of the equation:
+   \[
+   G = 400 + 600
+   \]
+   Simplifying this gives:
+   \[
+   G = 1000
+   \]
+
+4. **Finding the total number of participants**: Now we can find the total number of boys and girls at the event by adding the number of boys and girls:
+   \[
+   \text{Total} = B + G = 600 + 1000
+   \]
+   This simplifies to:
+   \[
+   \text{Total} = 1600
+   \]
+
+5. **Calculating 60% of the total**: To find 60% of the total number of participants, we use the formula for percentage:
+   \[
+   60\% \text{ of Total} = 0.60 \times \text{Total}
+   \]
+   Substituting the total we found:
+   \[
+   60\% \text{ of Total} = 0.60 \times 1600
+   \]
+   Now we compute this:
+   \[
+   0.60 \times 1600 = 960
+   \]
+
+Thus, we have calculated 60% of the total number of boys and girls at the event.
+</reasoning>
+<answer>960</answer>

@@ -1,0 +1,53 @@
+<reasoning>
+Let's start by defining some variables to help us solve the problem:
+
+1. Let \( C \) be the total cost of the gift in dollars.
+2. Initially, there are 10 friends contributing equally to the cost. Therefore, the cost per friend before anyone drops out is \( \frac{C}{10} \).
+3. When 4 friends drop out, that leaves \( 10 - 4 = 6 \) friends. The new cost per friend after 4 friends drop out is \( \frac{C}{6} \).
+
+According to the problem, the new share (after 4 friends drop out) is $8 more than the original share. This gives us the equation:
+
+\[
+\frac{C}{6} = \frac{C}{10} + 8
+\]
+
+Now, we will solve this equation step by step:
+
+### Step 1: Eliminate the fractions
+To eliminate the fractions, we can multiply every term in the equation by the least common multiple of 6 and 10, which is 30:
+
+\[
+30 \times \left( \frac{C}{6} \right) = 30 \times \left( \frac{C}{10} + 8 \right)
+\]
+
+This simplifies to:
+
+\[
+5C = 3C + 240
+\]
+
+### Step 2: Isolate the variable
+Next, we will isolate \( C \) by subtracting \( 3C \) from both sides:
+
+\[
+5C - 3C = 240
+\]
+
+This simplifies to:
+
+\[
+2C = 240
+\]
+
+### Step 3: Solve for \( C \)
+Now, we divide both sides by 2 to find \( C \):
+
+\[
+C = \frac{240}{2} = 120
+\]
+
+So, the total cost of the gift is $120.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>120</answer>

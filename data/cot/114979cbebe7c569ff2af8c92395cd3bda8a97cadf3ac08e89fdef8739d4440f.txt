@@ -1,0 +1,47 @@
+<reasoning>
+To solve this problem, we start with the information given about the number of cows and dogs at the petting farm.
+
+1. **Identify the number of cows and the relationship to dogs**:
+   We know that there are 184 cows. The problem states that there are twice as many cows as dogs. Let’s denote the number of dogs as \( d \). Therefore, we can express the relationship mathematically:
+   \[
+   184 = 2d
+   \]
+
+2. **Solve for the number of dogs**:
+   To find the number of dogs, we can rearrange the equation:
+   \[
+   d = \frac{184}{2} = 92
+   \]
+   So, there are 92 dogs at the farm.
+
+3. **Determine how many cows and dogs will be sold**:
+   Next, we need to calculate how many cows and dogs will be sold:
+   - **Cows sold**: 1/4 of the cows
+     \[
+     \text{Cows sold} = \frac{1}{4} \times 184 = 46
+     \]
+   - **Dogs sold**: 3/4 of the dogs
+     \[
+     \text{Dogs sold} = \frac{3}{4} \times 92 = 69
+     \]
+
+4. **Calculate the remaining animals**:
+   Now we will find out how many animals remain after the sales:
+   - Remaining cows:
+     \[
+     \text{Remaining cows} = 184 - 46 = 138
+     \]
+   - Remaining dogs:
+     \[
+     \text{Remaining dogs} = 92 - 69 = 23
+     \]
+
+5. **Total animals remaining**:
+   Finally, we add the remaining cows and dogs together to find the total number of animals remaining:
+   \[
+   \text{Total remaining animals} = 138 + 23 = 161
+   \]
+
+Therefore, after selling the specified number of cows and dogs, the total number of animals remaining on the farm is:
+</reasoning>
+<answer>161</answer>

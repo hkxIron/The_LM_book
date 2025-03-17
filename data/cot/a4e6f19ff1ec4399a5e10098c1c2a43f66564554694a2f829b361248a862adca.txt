@@ -1,0 +1,44 @@
+<reasoning>
+To find out how much money each class received, we first need to calculate the total amount of money raised from all the activities at the fair.
+
+1. **Calculate Total Money Raised:**
+   - Entrance tickets: $368
+   - Raffle: $343
+   - Sale of cakes and drinks: $279
+
+Now, we will add these amounts together to find the total money raised.
+
+\[
+\text{Total Money Raised} = 368 + 343 + 279
+\]
+
+2. **Perform the Addition:**
+   - First, add $368 and $343:
+   \[
+   368 + 343 = 711
+   \]
+   - Next, take that result and add $279:
+   \[
+   711 + 279 = 990
+   \]
+
+So, the total amount of money raised is $990.
+
+3. **Divide the Total Money by the Number of Classes:**
+   Now that we have the total amount raised, we need to divide this amount by the number of classes (which is 5) to find out how much each class receives.
+
+\[
+\text{Amount per class} = \frac{990}{5}
+\]
+
+4. **Perform the Division:**
+   We will now divide $990 by 5:
+   \[
+   990 \div 5 = 198
+   \]
+
+Thus, each class receives $198.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>198</answer>

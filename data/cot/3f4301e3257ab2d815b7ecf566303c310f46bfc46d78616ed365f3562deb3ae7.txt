@@ -1,0 +1,47 @@
+<reasoning>
+To find the percentage of children who prefer corn, we first need to determine the total number of children and then find out how many of them prefer corn.
+
+1. **Calculate the total number of children:**
+   - We have 6 kids who prefer peas, 9 kids who prefer carrots, and 5 kids who prefer corn.
+   - To find the total, we add these numbers together:
+     \[
+     \text{Total} = 6 + 9 + 5
+     \]
+
+2. **Perform the addition:**
+   - Adding these values gives:
+     \[
+     \text{Total} = 20
+     \]
+   - So, there are 20 children in total.
+
+3. **Identify the number of children who prefer corn:**
+   - From the problem, we know that 5 kids prefer corn.
+
+4. **Calculate the percentage of children who prefer corn:**
+   - The formula to calculate the percentage is:
+     \[
+     \text{Percentage} = \left( \frac{\text{Number of kids who prefer corn}}{\text{Total number of kids}} \right) \times 100
+     \]
+
+5. **Substitute the known values into the formula:**
+   - We plug in the numbers:
+     \[
+     \text{Percentage} = \left( \frac{5}{20} \right) \times 100
+     \]
+
+6. **Perform the division:**
+   - First, calculate \( \frac{5}{20} \):
+     \[
+     \frac{5}{20} = 0.25
+     \]
+
+7. **Multiply by 100 to convert to percentage:**
+   - Now, we calculate:
+     \[
+     0.25 \times 100 = 25
+     \]
+
+This means that 25% of the children prefer corn.
+</reasoning>
+<answer>25</answer>

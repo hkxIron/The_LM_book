@@ -1,0 +1,26 @@
+<reasoning>
+To find the price of the TV in 2009, we first need to determine how many years have passed from 2001 to 2009.
+
+1. **Calculate the number of years from 2001 to 2009:**
+   \[
+   2009 - 2001 = 8 \text{ years}
+   \]
+   This tells us that there are 8 years between 2001 and 2009.
+
+2. **Determine the total decrease in price over those 8 years:**
+   Since the price decreases by $35 each year, we can calculate the total decrease over 8 years by multiplying the annual decrease by the number of years:
+   \[
+   35 \text{ dollars/year} \times 8 \text{ years} = 280 \text{ dollars}
+   \]
+   This means that over the 8 years, the price of the TV has decreased by $280.
+
+3. **Calculate the price in 2009:**
+   We start with the price in 2001, which was $1950, and subtract the total decrease we just calculated:
+   \[
+   1950 \text{ dollars} - 280 \text{ dollars} = 1670 \text{ dollars}
+   \]
+   This gives us the price of the TV in 2009.
+
+Therefore, the price of the TV in 2009 is $1670.
+</reasoning>
+<answer>1670</answer>

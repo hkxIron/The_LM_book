@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much time Melinda and her family will save by driving at 60 miles per hour instead of 50 miles per hour, we need to calculate the time taken for each speed to cover the same distance of 1200 miles.
+
+1. **Calculate the time taken at 50 miles per hour:**
+   To find the time (in hours), we use the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   For 50 miles per hour:
+   \[
+   \text{Time}_{50} = \frac{1200 \text{ miles}}{50 \text{ miles per hour}} = 24 \text{ hours}
+   \]
+
+2. **Calculate the time taken at 60 miles per hour:**
+   Now we apply the same formula for 60 miles per hour:
+   \[
+   \text{Time}_{60} = \frac{1200 \text{ miles}}{60 \text{ miles per hour}} = 20 \text{ hours}
+   \]
+
+3. **Calculate the time saved:**
+   To find the time saved, we subtract the time taken at 60 miles per hour from the time taken at 50 miles per hour:
+   \[
+   \text{Time Saved} = \text{Time}_{50} - \text{Time}_{60} = 24 \text{ hours} - 20 \text{ hours} = 4 \text{ hours}
+   \]
+
+Therefore, by driving at 60 miles per hour instead of 50 miles per hour, Melinda and her family will save 4 hours on their trip.
+</reasoning>
+<answer>4</answer>

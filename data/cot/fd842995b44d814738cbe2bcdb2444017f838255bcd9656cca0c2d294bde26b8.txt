@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we first need to determine Barbara's new typing speed after the reduction due to her condition.
+
+1. **Determine Barbara's new typing speed**:
+   - Original typing speed: 212 words per minute.
+   - Reduction in speed: 40 words per minute.
+   
+   We subtract the reduction from her original speed:
+   \[
+   \text{New typing speed} = 212 - 40 = 172 \text{ words per minute}
+   \]
+   This means Barbara can now type 172 words per minute.
+
+2. **Calculate the time required to type the document**:
+   - Total words to type: 3440 words.
+   - We need to find out how many minutes it will take Barbara to type 3440 words at her new speed. 
+
+   To find the time in minutes, we divide the total number of words by her typing speed:
+   \[
+   \text{Time (minutes)} = \frac{\text{Total words}}{\text{Typing speed}} = \frac{3440}{172}
+   \]
+
+3. **Perform the division**:
+   Now we calculate \( \frac{3440}{172} \):
+   \[
+   3440 \div 172 = 20
+   \]
+   Therefore, it will take Barbara 20 minutes to finish typing the document.
+</reasoning>
+<answer>20</answer>

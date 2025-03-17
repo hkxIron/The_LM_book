@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many fruits Mary has left after eating one of each type, we will follow these steps:
+
+1. **Calculate the total number of each type of fruit initially:**
+   - Mary has 14 apples, 9 oranges, and 6 blueberries.
+   - To find the total number of fruits initially, I will add these numbers together: 
+     \[
+     14 + 9 + 6
+     \]
+
+2. **Perform the addition:**
+   - First, add the apples and oranges:
+     \[
+     14 + 9 = 23
+     \]
+   - Then, add the blueberries:
+     \[
+     23 + 6 = 29
+     \]
+   - So, initially, Mary has a total of 29 fruits.
+
+3. **Calculate how many fruits she has after eating one of each:**
+   - Mary eats 1 apple, 1 orange, and 1 blueberry.
+   - This means she is eating a total of:
+     \[
+     1 + 1 + 1 = 3 \text{ fruits}
+     \]
+
+4. **Subtract the number of fruits eaten from the total number of fruits:**
+   - To find out how many fruits she has left, I will subtract the 3 fruits she ate from the 29 fruits she had originally:
+     \[
+     29 - 3
+     \]
+
+5. **Perform the subtraction:**
+   - So, the calculation is:
+     \[
+     29 - 3 = 26
+     \]
+
+Thus, after eating one of each type of fruit, Mary has 26 fruits left.
+</reasoning>
+<answer>26</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many matches James has, we can break the problem down into steps.
+
+1. **Calculate the total number of boxes James has.**  
+   James has 5 dozen boxes of matches. A dozen is equal to 12, so we multiply the number of dozens by 12 to find the total number of boxes:
+   \[
+   \text{Total boxes} = 5 \times 12 = 60 \text{ boxes}
+   \]
+   Here, we find that James has 60 boxes of matches.
+
+2. **Calculate the total number of matches in all boxes.**  
+   Each box contains 20 matches. Now, we need to multiply the total number of boxes (60) by the number of matches in each box (20):
+   \[
+   \text{Total matches} = 60 \times 20
+   \]
+   Performing the multiplication:
+   \[
+   60 \times 20 = 1200
+   \]
+   This means James has a total of 1200 matches.
+
+Therefore, after performing the calculations, we find that James has a total of 1200 matches.
+</reasoning>
+<answer>1200</answer>

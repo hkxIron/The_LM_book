@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much time Joey will spend studying for his SAT exams over the next 6 weeks, we will break his studying into two parts: weekday studying and weekend studying. 
+
+1. **Calculate weekday studying:**
+   - Joey studies 2 hours per night for 5 nights a week.
+   - So, the total hours he studies on weekdays each week is:
+     \[
+     2 \text{ hours/night} \times 5 \text{ nights/week} = 10 \text{ hours/week}
+     \]
+   - Since the SAT exam is 6 weeks away, we multiply the weekly total by the number of weeks:
+     \[
+     10 \text{ hours/week} \times 6 \text{ weeks} = 60 \text{ hours}
+     \]
+
+2. **Calculate weekend studying:**
+   - On the weekends, Joey studies 3 hours a day for 2 days (Saturday and Sunday).
+   - Therefore, the total hours he studies on weekends each week is:
+     \[
+     3 \text{ hours/day} \times 2 \text{ days/week} = 6 \text{ hours/week}
+     \]
+   - Again, we multiply the weekly total by the number of weeks:
+     \[
+     6 \text{ hours/week} \times 6 \text{ weeks} = 36 \text{ hours}
+     \]
+
+3. **Combine weekday and weekend studying:**
+   - Now, we add the total hours from both weekday and weekend studying:
+     \[
+     60 \text{ hours} + 36 \text{ hours} = 96 \text{ hours}
+     \]
+
+Therefore, the total amount of time Joey will spend studying for his SAT exams over the next 6 weeks is:
+</reasoning>
+<answer>96</answer>

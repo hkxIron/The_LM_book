@@ -1,0 +1,56 @@
+<reasoning>
+Let's define the number of games that Carla won as \( C \) and the number of games that Frankie won as \( F \).
+
+According to the problem, we have two key pieces of information:
+
+1. The total number of games played is 30:
+   \[
+   F + C = 30
+   \]
+
+2. Frankie won half as many games as Carla:
+   \[
+   F = \frac{1}{2}C
+   \]
+
+Now, we can substitute the second equation into the first equation. This means we will replace \( F \) in the total games equation with \( \frac{1}{2}C \):
+\[
+\frac{1}{2}C + C = 30
+\]
+
+Next, we will combine the terms on the left side. Since \( C \) can be considered as \( \frac{2}{2}C \):
+\[
+\frac{1}{2}C + \frac{2}{2}C = \frac{3}{2}C
+\]
+So, we have:
+\[
+\frac{3}{2}C = 30
+\]
+
+Now, to isolate \( C \), we can multiply both sides of the equation by \( \frac{2}{3} \):
+\[
+C = 30 \times \frac{2}{3}
+\]
+
+Calculating the right side gives:
+\[
+C = 20
+\]
+
+Thus, Carla won 20 games. 
+
+To find out how many games Frankie won, we use the value of \( C \) in the equation \( F = \frac{1}{2}C \):
+\[
+F = \frac{1}{2} \times 20 = 10
+\]
+
+Now, we check to ensure that the total number of games played matches:
+\[
+F + C = 10 + 20 = 30
+\]
+
+Everything checks out with the information given in the problem. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>20</answer>

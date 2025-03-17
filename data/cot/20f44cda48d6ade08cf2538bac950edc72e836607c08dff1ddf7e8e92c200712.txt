@@ -1,0 +1,45 @@
+<reasoning>
+Let's break the problem down step by step.
+
+1. **Calculate Fiona's math questions**: 
+   Fiona completed 36 math questions in 1 hour.
+
+2. **Calculate Shirley's math questions**:
+   Shirley completed twice as many questions as Fiona. Therefore, we calculate Shirley's questions as follows:
+   \[
+   \text{Shirley's questions} = 2 \times \text{Fiona's questions} = 2 \times 36 = 72
+   \]
+
+3. **Calculate Kiana's math questions**:
+   Kiana completed half of the sum of Fiona and Shirley's math questions. First, we need to find the sum of their questions:
+   \[
+   \text{Sum of Fiona and Shirley's questions} = \text{Fiona's questions} + \text{Shirley's questions} = 36 + 72 = 108
+   \]
+   Now, we find half of that sum for Kiana:
+   \[
+   \text{Kiana's questions} = \frac{1}{2} \times \text{Sum} = \frac{1}{2} \times 108 = 54
+   \]
+
+4. **Calculate the total math questions completed by all three in the first hour**:
+   Now we can sum up the total math questions completed by Fiona, Shirley, and Kiana in the first hour:
+   \[
+   \text{Total questions in 1 hour} = \text{Fiona's questions} + \text{Shirley's questions} + \text{Kiana's questions} = 36 + 72 + 54 = 162
+   \]
+
+5. **Calculate the questions completed by each in the second hour**:
+   Since they each did the same number of questions in the second hour, that means each girl completed the same amount as in the first hour:
+   - Fiona: 36
+   - Shirley: 72
+   - Kiana: 54
+
+   Therefore, the total questions in the second hour will also be 162 (as calculated previously).
+
+6. **Calculate the total math questions completed in 2 hours**:
+   Finally, we add the totals from both hours:
+   \[
+   \text{Total questions in 2 hours} = \text{Total questions in 1 hour} + \text{Total questions in 1 hour} = 162 + 162 = 324
+   \]
+
+Therefore, the total number of math questions completed by all three girls in 2 hours is:
+</reasoning>
+<answer>324</answer>

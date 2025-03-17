@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the Gifts per Year**: Max receives one model train for each birthday and two for each Christmas. 
+   - There is 1 birthday per year.
+   - There are 2 Christmases per year.
+
+2. **Calculating the Total Gifts per Year**: 
+   - In one year, Max receives:
+     - 1 train for his birthday + 2 trains for Christmas = 3 trains per year.
+
+3. **Calculating Total Gifts Over 5 Years**: 
+   - Over 5 years, the total number of trains he receives is:
+     - 5 years * 3 trains per year = 15 trains.
+
+4. **Adding the Initial Count**: Initially, Max starts with 0 trains. After 5 years, he has received 15 trains.
+
+5. **Final Gift from Parents**: At the end of these 5 years, his parents give him double the number of trains he already has:
+   - He currently has 15 trains.
+   - Double that amount is 15 * 2 = 30 trains.
+
+6. **Calculating Total Trains Now**: Now, we add the initial number of trains Max received to the additional trains he received from his parents:
+   - 15 trains + 30 trains = 45 trains.
+
+Therefore, after following all these steps, we find out how many model trains Max has now.
+</reasoning>
+<answer>45</answer>

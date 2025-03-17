@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we first need to determine the daily wage per worker based on the given information. 
+
+1. **Calculate the total number of worker-days for the first scenario:**
+   We have 15 workers working for 6 days.
+   \[
+   \text{Total worker-days} = \text{Number of workers} \times \text{Number of days} = 15 \times 6 = 90 \text{ worker-days}
+   \]
+
+2. **Calculate the wage per worker-day:**
+   The total wages for these 15 workers over 6 days is $9450. 
+   To find the wage per worker-day, we divide the total wages by the total worker-days:
+   \[
+   \text{Wage per worker-day} = \frac{\text{Total wages}}{\text{Total worker-days}} = \frac{9450}{90} = 105
+   \]
+   This means each worker earns $105 for one day of work.
+
+3. **Calculate the total number of worker-days for the second scenario:**
+   Now we need to find the wages for 19 workers working for 5 days.
+   \[
+   \text{Total worker-days} = 19 \times 5 = 95 \text{ worker-days}
+   \]
+
+4. **Calculate the total wages for the second scenario:**
+   We multiply the total worker-days by the wage per worker-day to get the total wages for the 19 workers over 5 days:
+   \[
+   \text{Total wages} = \text{Total worker-days} \times \text{Wage per worker-day} = 95 \times 105
+   \]
+   Now, let's calculate that:
+   \[
+   95 \times 105 = 9975
+   \]
+
+Therefore, the total wages for 19 workers for 5 days would be $9975.
+</reasoning>
+<answer>9975</answer>

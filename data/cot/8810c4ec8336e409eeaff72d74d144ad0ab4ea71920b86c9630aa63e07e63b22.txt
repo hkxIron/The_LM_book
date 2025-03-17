@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the quantity of apples Adam bought on Monday.**
+   - Adam bought 15 apples on Monday.
+   - So, Monday's total = 15 apples.
+
+2. **Calculate the quantity of apples Adam bought on Tuesday.**
+   - On Tuesday, he bought 3 times the quantity he bought on Monday.
+   - Therefore, Tuesday's total = 3 * 15 = 45 apples.
+
+3. **Calculate the quantity of apples Adam bought on Wednesday.**
+   - On Wednesday, he bought 4 times the quantity he bought on Tuesday.
+   - Therefore, Wednesday's total = 4 * 45 = 180 apples.
+
+4. **Calculate the total quantity of apples Adam bought over the three days.**
+   - To find the total quantity, we add the quantities from all three days together:
+   - Total = Monday's total + Tuesday's total + Wednesday's total
+   - Total = 15 + 45 + 180
+
+Let's do the addition:
+- 15 + 45 = 60
+- 60 + 180 = 240
+
+Therefore, the total quantity of apples that Adam bought on these three days is 240.
+</reasoning>
+<answer>240</answer>

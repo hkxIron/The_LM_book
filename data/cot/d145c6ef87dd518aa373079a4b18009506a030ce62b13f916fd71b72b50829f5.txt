@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much Daria still owes before interest, we will first calculate the total cost of the furniture she purchased. Then, we will subtract the amount she has saved to see what remains.
+
+1. **Calculate the total cost of the furniture**:
+   - Couch: $750
+   - Table: $100
+   - Lamp: $50
+   
+   We add these amounts together:
+   \[
+   \text{Total Cost} = 750 + 100 + 50
+   \]
+   Performing the addition step-by-step:
+   - First, add the couch and the table:
+     \[
+     750 + 100 = 850
+     \]
+   - Now, add the lamp:
+     \[
+     850 + 50 = 900
+     \]
+   Therefore, the total cost of the furniture is $900.
+
+2. **Subtract the amount Daria has saved**:
+   Daria has $500 saved to pay for the furniture. We subtract this from the total cost:
+   \[
+   \text{Amount Owed} = \text{Total Cost} - \text{Amount Saved}
+   \]
+   \[
+   \text{Amount Owed} = 900 - 500
+   \]
+   Performing the subtraction:
+   \[
+   900 - 500 = 400
+   \]
+
+Thus, after Daria uses her $500 to pay for part of the furniture, she will still owe $400 before any interest is applied.
+</reasoning>
+<answer>400</answer>

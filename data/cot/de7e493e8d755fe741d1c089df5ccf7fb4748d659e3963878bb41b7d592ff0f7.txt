@@ -1,0 +1,52 @@
+<reasoning>
+To solve this problem, I will calculate the total amount in Steve's bank account after two years, considering the interest and the annual deposits.
+
+1. **Initial Deposit**: Steve starts with $100 in his bank account.
+
+2. **Interest Rate**: The bank account earns 10% interest per year on the current balance.
+
+3. **Annual Deposits**: Steve deposits $10 at the end of each year.
+
+Now, let's break it down year by year:
+
+### Year 1:
+
+- **Starting Amount**: $100
+- **Interest for Year 1**: 
+  - The interest for the first year is calculated as: 
+  \[
+  \text{Interest} = \text{Principal} \times \text{Interest Rate} = 100 \times 0.10 = 10
+  \]
+- **Total Amount After Interest**: 
+  - Adding the interest to the initial deposit gives us:
+  \[
+  100 + 10 = 110
+  \]
+- **End of Year 1 Deposit**: 
+  - Steve deposits an additional $10, resulting in:
+  \[
+  110 + 10 = 120
+  \]
+
+### Year 2:
+
+- **Starting Amount for Year 2**: $120 (the total at the end of Year 1)
+- **Interest for Year 2**: 
+  - The interest for the second year is calculated as:
+  \[
+  \text{Interest} = 120 \times 0.10 = 12
+  \]
+- **Total Amount After Interest**: 
+  - Adding the interest to the amount gives us:
+  \[
+  120 + 12 = 132
+  \]
+- **End of Year 2 Deposit**: 
+  - Steve deposits another $10, resulting in:
+  \[
+  132 + 10 = 142
+  \]
+
+After calculating for both years, the total amount in Steve's bank account after two years is $142.
+</reasoning>
+<answer>142</answer>

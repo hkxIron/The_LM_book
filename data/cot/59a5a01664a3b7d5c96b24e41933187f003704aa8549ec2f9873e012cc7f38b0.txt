@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem, we'll start by calculating how many marbles of each color Alvin has based on the percentages given. 
+
+1. **Calculate the number of white marbles:**
+   - 20% of 100 marbles = 0.20 * 100 = 20 white marbles.
+
+2. **Calculate the number of black marbles:**
+   - 30% of 100 marbles = 0.30 * 100 = 30 black marbles.
+
+3. **Calculate the total number of differently colored marbles:**
+   - The remaining percentage is 100% - 20% - 30% = 50%. 
+   - Therefore, 50% of 100 marbles = 0.50 * 100 = 50 differently colored marbles.
+
+Now we have:
+- 20 white marbles
+- 30 black marbles
+- 50 differently colored marbles
+
+Next, we will calculate how much Alvin earns from selling each type of marble.
+
+4. **Calculate earnings from white marbles:**
+   - Selling price for each white marble = $0.05 (nickel).
+   - Total earnings from white marbles = 20 marbles * $0.05/marble = $1.00.
+
+5. **Calculate earnings from black marbles:**
+   - Selling price for each black marble = $0.10 (dime).
+   - Total earnings from black marbles = 30 marbles * $0.10/marble = $3.00.
+
+6. **Calculate earnings from differently colored marbles:**
+   - Selling price for each differently colored marble = $0.20.
+   - Total earnings from differently colored marbles = 50 marbles * $0.20/marble = $10.00.
+
+Finally, we'll add up all the earnings to find the total amount Alvin makes from selling his marbles.
+
+7. **Calculate total earnings:**
+   - Total earnings = Earnings from white marbles + Earnings from black marbles + Earnings from differently colored marbles
+   - Total earnings = $1.00 + $3.00 + $10.00 = $14.00.
+
+Therefore, Alvin earns a total of $14 from selling his marble set.
+</reasoning>
+<answer>14</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+Let's start by determining the number of surfers in Santa Monica. The problem states that there are 20 surfers in Santa Monica. 
+
+Next, we need to find out how many surfers are on Malibu beach. The problem indicates that there are twice as many surfers on Malibu beach as there are in Santa Monica. 
+
+So, to find the number of surfers on Malibu beach, we multiply the number of surfers in Santa Monica by 2:
+
+Number of surfers in Malibu = 2 * Number of surfers in Santa Monica
+Number of surfers in Malibu = 2 * 20 = 40
+
+Now, we have the number of surfers on both beaches:
+- Santa Monica: 20 surfers
+- Malibu: 40 surfers
+
+Finally, we need to calculate the total number of surfers on both beaches. To do this, we add the number of surfers in Santa Monica to the number of surfers in Malibu:
+
+Total surfers = Number of surfers in Santa Monica + Number of surfers in Malibu
+Total surfers = 20 + 40 = 60
+
+Therefore, the total number of surfers on the two beaches is 60.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of people involved**:
+   - Erika has 3 siblings, which means there are 4 siblings in total.
+   - When the 3 friends join them, the total number of people is:
+     \[
+     4 \text{ (siblings)} + 3 \text{ (friends)} = 7 \text{ people}
+     \]
+
+2. **Determine how many pieces of chalk each person should get**:
+   - According to the problem, after Erika's mom brings more chalk, each person can have 3 pieces of chalk.
+   - Therefore, the total amount of chalk needed for 7 people is:
+     \[
+     7 \text{ people} \times 3 \text{ pieces of chalk/person} = 21 \text{ pieces of chalk}
+     \]
+
+3. **Account for the pieces of chalk brought by Erika's mom**:
+   - Erika's mom brings out 12 pieces of chalk.
+   - Thus, the total amount of chalk available after her mom brings more is:
+     \[
+     x \text{ (original pieces of chalk)} - 2 \text{ (lost pieces)} + 12 \text{ (new pieces)} = 21
+     \]
+
+4. **Set up the equation**:
+   - We can express this relationship as:
+     \[
+     x - 2 + 12 = 21
+     \]
+
+5. **Simplify the equation**:
+   - Combine the constants on the left side:
+     \[
+     x + 10 = 21
+     \]
+
+6. **Solve for \( x \)**:
+   - Now, subtract 10 from both sides:
+     \[
+     x = 21 - 10 = 11
+     \]
+
+So, Erika and her siblings originally had 11 pieces of chalk.
+</reasoning>
+<answer>11</answer>

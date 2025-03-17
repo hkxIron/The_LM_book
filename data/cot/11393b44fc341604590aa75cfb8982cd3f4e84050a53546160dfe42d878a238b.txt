@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Understanding the situation**: Mrs. Smith initially has $500 but needs two-fifths more money than that to buy the items she has chosen. We need to calculate how much more money she needs before considering the discount.
+
+2. **Calculating two-fifths of $500**: 
+   - Two-fifths of a number can be calculated by multiplying the number by 2/5.
+   - So, we calculate two-fifths of $500:
+     \[
+     \text{Two-fifths of } 500 = \frac{2}{5} \times 500 = 200
+     \]
+
+3. **Calculating the total amount needed before the discount**: 
+   - Since she needs two-fifths more than her initial $500, we add this amount to her original amount.
+   \[
+   \text{Total amount needed} = 500 + 200 = 700
+   \]
+
+4. **Calculating the discount**: 
+   - The shop owner gives her a 15% discount on the total amount needed (which is $700).
+   - To find the discount amount, we calculate 15% of $700:
+     \[
+     \text{Discount} = 0.15 \times 700 = 105
+     \]
+
+5. **Calculating the new amount after the discount**: 
+   - We subtract the discount from the total amount needed:
+   \[
+   \text{Amount after discount} = 700 - 105 = 595
+   \]
+
+6. **Calculating how much more money Mrs. Smith still needs**: 
+   - Since Mrs. Smith has $500, we need to find out how much more she needs to reach $595:
+   \[
+   \text{Additional money needed} = 595 - 500 = 95
+   \]
+
+Thus, Mrs. Smith will still need $95 after the discount.
+</reasoning>
+<answer>95</answer>

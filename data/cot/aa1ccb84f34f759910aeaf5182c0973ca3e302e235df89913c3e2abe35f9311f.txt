@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the time Arabella spent on each step one by one.
+
+1. **First Step**: Arabella spends 30 minutes learning the first step. This is given directly in the problem.
+
+2. **Second Step**: The time spent on the second step is half the time of the first step. Since the first step took 30 minutes, we calculate:
+   \[
+   \text{Time for second step} = \frac{30}{2} = 15 \text{ minutes}
+   \]
+
+3. **Third Step**: The third step takes as long as both the other steps combined. So we first need to find the total time for the first and second steps:
+   \[
+   \text{Total time for first and second steps} = 30 + 15 = 45 \text{ minutes}
+   \]
+   Therefore, the time for the third step is also 45 minutes.
+
+Now, to find the total time spent learning all three steps, we add the time for each step together:
+\[
+\text{Total time} = \text{Time for first step} + \text{Time for second step} + \text{Time for third step}
+\]
+\[
+\text{Total time} = 30 + 15 + 45 = 90 \text{ minutes}
+\]
+
+Therefore, Arabella spent a total of 90 minutes learning the three steps.
+</reasoning>
+<answer>90</answer>

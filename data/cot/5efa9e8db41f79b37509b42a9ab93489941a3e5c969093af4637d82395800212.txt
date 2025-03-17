@@ -1,0 +1,37 @@
+<reasoning>
+To find out what percentage of games Archibald has won, we need to first determine the total number of games played. This can be done by adding the number of games Archibald won to the number of games his brother won.
+
+1. Calculate the total number of games played:
+   \[
+   \text{Total games} = \text{Games won by Archibald} + \text{Games won by his brother} = 12 + 18
+   \]
+   Here, I'm adding the wins of both players to find the total number of games played.
+
+   \[
+   \text{Total games} = 30
+   \]
+
+2. Next, we need to find the percentage of games won by Archibald. The formula for percentage is:
+   \[
+   \text{Percentage} = \left( \frac{\text{Games won by Archibald}}{\text{Total games}} \right) \times 100
+   \]
+   This formula will give us the fraction of games Archibald won, multiplied by 100 to convert it into a percentage.
+
+3. Substitute the values we have:
+   \[
+   \text{Percentage} = \left( \frac{12}{30} \right) \times 100
+   \]
+
+4. Now, calculate the fraction:
+   \[
+   \frac{12}{30} = 0.4
+   \]
+
+5. Multiply by 100 to convert to a percentage:
+   \[
+   0.4 \times 100 = 40
+   \]
+
+Therefore, Archibald has won 40% of the games.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+Let's define the variable for the unknown quantity we want to find. We will let \( x \) represent the number of birds on the fence.
+
+The problem states that "ten more than twice the number of birds on the fence is 50". We can translate this statement into a mathematical equation:
+
+1. **Identify "twice the number of birds"**: This part can be expressed as \( 2x \).
+2. **Add 10 to that**: According to the problem, we then add 10 to \( 2x \), which gives us \( 2x + 10 \).
+3. **Set up the equation**: We know that this expression equals 50, so we can set up the equation:
+   \[
+   2x + 10 = 50
+   \]
+
+Next, we will solve for \( x \):
+
+4. **Subtract 10 from both sides**: We want to isolate the term with \( x \), so we first subtract 10 from both sides of the equation:
+   \[
+   2x + 10 - 10 = 50 - 10
+   \]
+   This simplifies to:
+   \[
+   2x = 40
+   \]
+
+5. **Divide both sides by 2**: To solve for \( x \), we then divide both sides of the equation by 2:
+   \[
+   \frac{2x}{2} = \frac{40}{2}
+   \]
+   This simplifies to:
+   \[
+   x = 20
+   \]
+
+Now we have found that the number of birds on the fence is \( x = 20 \).
+
+Therefore, the final answer is:
+</reasoning>
+<answer>20</answer>

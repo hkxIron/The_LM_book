@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many petals Mabel has on the remaining daisies after giving 2 away, we can follow these steps:
+
+1. **Determine the initial number of daisies and petals per daisy**: Mabel has 5 daisies, and each daisy has 8 petals.
+
+2. **Calculate the total petals for all daisies**: We can find the total number of petals by multiplying the number of daisies by the number of petals per daisy.
+   \[
+   \text{Total petals} = \text{Number of daisies} \times \text{Petals per daisy} = 5 \times 8
+   \]
+   Performing this multiplication:
+   \[
+   5 \times 8 = 40
+   \]
+   So, initially, Mabel has 40 petals on all her daisies.
+
+3. **Determine how many daisies remain after giving 2 away**: Mabel gives away 2 daisies, so we subtract 2 from the total number of daisies she originally had.
+   \[
+   \text{Remaining daisies} = \text{Original daisies} - \text{Daisies given away} = 5 - 2
+   \]
+   Calculating this gives:
+   \[
+   5 - 2 = 3
+   \]
+   Therefore, Mabel has 3 daisies left.
+
+4. **Calculate the number of petals on the remaining daisies**: Now we need to find out how many petals are on the remaining 3 daisies. We multiply the number of remaining daisies by the number of petals per daisy.
+   \[
+   \text{Petals on remaining daisies} = \text{Remaining daisies} \times \text{Petals per daisy} = 3 \times 8
+   \]
+   Performing this multiplication:
+   \[
+   3 \times 8 = 24
+   \]
+
+Thus, Mabel has 24 petals on the remaining daisies in her garden.
+</reasoning>
+<answer>24</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many classes there are in the school, we first need to determine how many sheets of paper are used in one day.
+
+1. **Calculate the total sheets used per day.**  
+   We know that the school uses a total of 9000 sheets of paper every week, and there are 5 school days in a week.  
+   We divide the total sheets used in a week by the number of school days:
+   \[
+   \text{Sheets per day} = \frac{9000 \text{ sheets}}{5 \text{ days}} = 1800 \text{ sheets per day}
+   \]
+   This calculation tells us that the school uses 1800 sheets of paper every day.
+
+2. **Determine how many classes are using the paper.**  
+   Each class uses 200 sheets of paper per day. To find out how many classes are using the total 1800 sheets, we divide the total sheets used per day by the sheets used per class:
+   \[
+   \text{Number of classes} = \frac{1800 \text{ sheets}}{200 \text{ sheets/class}} = 9 \text{ classes}
+   \]
+   This step shows us that if each class uses 200 sheets, then 9 classes must be present to use a total of 1800 sheets in a day.
+
+Therefore, the total number of classes in the school is 9.
+</reasoning>
+<answer>9</answer>

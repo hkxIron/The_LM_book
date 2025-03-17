@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem step by step, let's start by determining how many kids were dancers.
+
+1. **Finding the number of dancers**: 
+   We know that a fourth of the 140 kids were dancers. To find this, we calculate:
+   \[
+   \text{Number of dancers} = \frac{1}{4} \times 140
+   \]
+   Performing the calculation:
+   \[
+   \frac{140}{4} = 35
+   \]
+   So, there were 35 dancers.
+
+2. **Finding the number of dancers who did not slow dance**:
+   We know that out of the 35 dancers, 25 danced the slow dance. To find how many dancers did not slow dance, we subtract the number of dancers who did slow dance from the total number of dancers:
+   \[
+   \text{Dancers who did not slow dance} = \text{Total dancers} - \text{Dancers who slow danced}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Dancers who did not slow dance} = 35 - 25
+   \]
+   Performing the subtraction:
+   \[
+   35 - 25 = 10
+   \]
+
+Therefore, the number of dancer students who did not slow dance is 10.
+</reasoning>
+<answer>10</answer>

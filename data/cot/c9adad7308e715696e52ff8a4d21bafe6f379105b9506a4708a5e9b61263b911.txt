@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, we start by determining how much Kyro owes Fernanda.
+
+1. **Determine how much Kyro owes Fernanda**:
+   We know that Aryan owes Fernanda $1200, and this is twice what Kyro owes. Let's denote the amount Kyro owes as K. Therefore, we can set up the equation:
+   \[
+   1200 = 2K
+   \]
+   To find K, we divide both sides by 2:
+   \[
+   K = \frac{1200}{2} = 600
+   \]
+   This means Kyro owes Fernanda $600.
+
+2. **Calculate how much Aryan pays**:
+   Aryan decides to pay 60% of her debt. His debt is $1200, so we calculate:
+   \[
+   \text{Amount Aryan pays} = 0.60 \times 1200 = 720
+   \]
+
+3. **Calculate how much Kyro pays**:
+   Kyro pays 80% of his debt. His debt is $600, so we calculate:
+   \[
+   \text{Amount Kyro pays} = 0.80 \times 600 = 480
+   \]
+
+4. **Calculate the total amount paid to Fernanda**:
+   Now, we add the amounts paid by Aryan and Kyro:
+   \[
+   \text{Total paid} = 720 + 480 = 1200
+   \]
+
+5. **Calculate the new total in Fernanda's savings account**:
+   Fernanda initially had $300 in her savings account. After receiving the payments from Aryan and Kyro, we add the total paid to her savings:
+   \[
+   \text{New total in savings account} = 300 + 1200 = 1500
+   \]
+
+Thus, the total amount of money in Fernanda's savings account now is $1500.
+</reasoning>
+<answer>1500</answer>

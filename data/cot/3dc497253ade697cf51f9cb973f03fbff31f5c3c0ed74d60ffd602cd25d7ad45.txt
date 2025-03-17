@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much money Mitzel has left in her allowance, we first need to determine the total amount of her allowance before she spent any of it.
+
+1. We know that Mitzel spent $14, which represents 35% of her total allowance. 
+2. To find the total allowance (let's call it \( A \)), we can set up the equation based on the information given:
+   \[
+   0.35A = 14
+   \]
+   Here, \( 0.35 \) represents 35% in decimal form.
+
+3. Now, we will solve for \( A \) by dividing both sides of the equation by 0.35:
+   \[
+   A = \frac{14}{0.35}
+   \]
+
+4. To compute \( \frac{14}{0.35} \), we can perform the division:
+   \[
+   A = 14 \div 0.35
+   \]
+   To make the division easier, we can multiply both the numerator and the denominator by 100 to eliminate the decimal:
+   \[
+   A = \frac{14 \times 100}{0.35 \times 100} = \frac{1400}{35}
+   \]
+
+5. Now we calculate \( 1400 \div 35 \):
+   \[
+   1400 \div 35 = 40
+   \]
+   So, Mitzel's total allowance \( A \) is $40.
+
+6. Now that we know she started with $40 and she spent $14, we can find out how much money is left in her allowance by subtracting the amount spent from the total allowance:
+   \[
+   \text{Money left} = A - \text{amount spent} = 40 - 14 = 26
+   \]
+
+Thus, Mitzel has $26 left in her allowance.
+</reasoning>
+<answer>26</answer>

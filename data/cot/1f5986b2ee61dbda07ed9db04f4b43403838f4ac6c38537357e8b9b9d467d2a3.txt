@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we need to calculate the total amount Jack spent on the books over the year and then compare that to how much he earned when he sold them back.
+
+1. **Calculate the total cost of the books**:
+   - Jack buys 3 books each month.
+   - Each book costs $20.
+   - There are 12 months in a year.
+   - First, we find the total number of books Jack bought in a year:
+     \[
+     3 \text{ books/month} \times 12 \text{ months} = 36 \text{ books}
+     \]
+   - Next, we calculate the total cost for these 36 books:
+     \[
+     36 \text{ books} \times 20 \text{ dollars/book} = 720 \text{ dollars}
+     \]
+
+2. **Determine the total earnings from selling the books**:
+   - Jack sells the books at the end of the year for $500.
+
+3. **Calculate the loss**:
+   - To find out how much money Jack lost, we subtract his earnings from his total expenses:
+     \[
+     \text{Loss} = \text{Total Cost} - \text{Total Earnings}
+     \]
+     \[
+     \text{Loss} = 720 \text{ dollars} - 500 \text{ dollars} = 220 \text{ dollars}
+     \]
+
+Therefore, Jack lost $220 over the year by buying and selling the books.
+</reasoning>
+<answer>220</answer>

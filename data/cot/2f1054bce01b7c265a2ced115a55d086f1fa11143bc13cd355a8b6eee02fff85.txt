@@ -1,0 +1,52 @@
+<reasoning>
+To find out how much the average age will increase when the tenth student is added, we will follow these steps:
+
+1. **Calculate the total age of the first 9 students.**
+   The average age of the 9 students is given as 8 years. We can use the formula for average:
+
+   \[
+   \text{Average} = \frac{\text{Total Age}}{\text{Number of Students}}
+   \]
+
+   Rearranging this gives us:
+
+   \[
+   \text{Total Age} = \text{Average} \times \text{Number of Students}
+   \]
+
+   Plugging in the values:
+
+   \[
+   \text{Total Age of 9 students} = 8 \text{ years} \times 9 = 72 \text{ years}
+   \]
+
+2. **Add the age of the tenth student.**
+   The age of the tenth student is 28 years. Therefore, the total age of all 10 students is:
+
+   \[
+   \text{Total Age of 10 students} = 72 \text{ years} + 28 \text{ years} = 100 \text{ years}
+   \]
+
+3. **Calculate the new average age.**
+   The average age of the 10 students can now be calculated using the same average formula:
+
+   \[
+   \text{New Average} = \frac{\text{Total Age of 10 students}}{\text{Number of Students}}
+   \]
+
+   Plugging in our values:
+
+   \[
+   \text{New Average} = \frac{100 \text{ years}}{10} = 10 \text{ years}
+   \]
+
+4. **Determine the increase in average age.**
+   The initial average age of the 9 students was 8 years, and the new average age with the tenth student is 10 years. Therefore, the increase in average age is:
+
+   \[
+   \text{Increase in Average} = \text{New Average} - \text{Original Average} = 10 \text{ years} - 8 \text{ years} = 2 \text{ years}
+   \]
+
+Thus, the average age will increase by 2 years when the tenth student is added.
+</reasoning>
+<answer>2</answer>

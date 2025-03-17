@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much John pays in taxes, we'll go through the following steps:
+
+1. **Calculate Taxable Income**: 
+   Taxable income is calculated by subtracting deductions from total income. 
+   - John's total income is $100,000.
+   - John's deductions are $30,000.
+   
+   Taxable Income = Total Income - Deductions
+   Taxable Income = $100,000 - $30,000 = $70,000
+
+2. **Determine the Tax Brackets**:
+   According to the problem, the first $20,000 of taxable income is taxed at 10%, and any income above that is taxed at 20%.
+
+3. **Calculate Taxes for the First Bracket**:
+   The first $20,000 is taxed at 10%.
+   - Tax for first $20,000 = $20,000 * 10% = $2,000
+
+4. **Calculate Remaining Taxable Income**:
+   After the first $20,000, the remaining taxable income is:
+   Remaining Taxable Income = Total Taxable Income - First Bracket Income
+   Remaining Taxable Income = $70,000 - $20,000 = $50,000
+
+5. **Calculate Taxes for the Second Bracket**:
+   The remaining $50,000 is taxed at 20%.
+   - Tax for remaining $50,000 = $50,000 * 20% = $10,000
+
+6. **Total Taxes Paid**:
+   To find the total taxes John pays, we add the taxes from both brackets:
+   Total Taxes = Tax for First Bracket + Tax for Second Bracket
+   Total Taxes = $2,000 + $10,000 = $12,000
+
+Therefore, John pays a total of $12,000 in taxes.
+</reasoning>
+<answer>12000</answer>

@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many different rooms Hans could be checked into, we need to analyze the situation based on the information provided.
+
+1. There are originally 10 floors in the hotel, and each floor has 10 identical rooms. 
+   - This implies that without any restrictions, the total number of rooms in the hotel would be:
+     \[
+     10 \text{ floors} \times 10 \text{ rooms per floor} = 100 \text{ rooms}
+     \]
+
+2. However, due to an accident, the last floor is unavailable for guests. This means we need to exclude the last floor from our total count of available rooms.
+   - Since there are 10 floors, the last floor is the 10th floor. Therefore, we only consider the first 9 floors.
+
+3. Now, we calculate the number of available rooms:
+   - With only 9 floors available, the number of rooms becomes:
+     \[
+     9 \text{ floors} \times 10 \text{ rooms per floor} = 90 \text{ rooms}
+     \]
+
+4. Thus, the total number of different rooms Hans could be checked into is 90.
+
+Therefore, Hans could be checked into any of the 90 available rooms.
+</reasoning>
+<answer>90</answer>

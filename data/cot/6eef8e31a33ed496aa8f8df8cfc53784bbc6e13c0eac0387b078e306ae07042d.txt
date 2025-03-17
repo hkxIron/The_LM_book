@@ -1,0 +1,34 @@
+<reasoning>
+To determine how many rabbits the bear needs to catch each day, we will begin by calculating the total amount of meat needed for both the bear and her cubs.
+
+1. **Calculate the total meat needed for the cubs:**
+   - Each cub needs 35 pounds of meat per week.
+   - The bear has 4 cubs.
+   - Therefore, the total meat needed for the cubs is calculated as:
+     \[
+     \text{Total meat for cubs} = \text{Number of cubs} \times \text{Meat per cub} = 4 \times 35 = 140 \text{ pounds}
+     \]
+
+2. **Calculate the total meat needed for the bear:**
+   - The bear needs 210 pounds of meat per week.
+   - Therefore, the total meat needed for the bear and her cubs combined is:
+     \[
+     \text{Total meat needed} = \text{Meat for bear} + \text{Total meat for cubs} = 210 + 140 = 350 \text{ pounds}
+     \]
+
+3. **Determine how many pounds of meat the bear needs to catch daily:**
+   - Since the bear hunts daily for 7 days in a week, we divide the total meat needed by 7:
+     \[
+     \text{Daily meat requirement} = \frac{\text{Total meat needed}}{7} = \frac{350}{7} = 50 \text{ pounds}
+     \]
+
+4. **Calculate how many rabbits the bear needs to catch to meet her daily meat requirement:**
+   - Each rabbit weighs 5 pounds.
+   - To find out how many rabbits are needed to meet the daily meat requirement, we divide the daily meat requirement by the weight of each rabbit:
+     \[
+     \text{Rabbits needed per day} = \frac{\text{Daily meat requirement}}{\text{Weight of each rabbit}} = \frac{50}{5} = 10 \text{ rabbits}
+     \]
+
+Thus, the bear needs to catch 10 rabbits each day to meet her and her cubs' meat needs.
+</reasoning>
+<answer>10</answer>

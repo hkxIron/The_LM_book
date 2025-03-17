@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Total Gym Time**: Janet goes to the gym for a total of 5 hours a week.
+
+2. **Days at the Gym**: She goes to the gym on Monday, Tuesday, Wednesday, and Friday, which totals to 4 days.
+
+3. **Time Spent on Monday and Wednesday**: Janet spends 1.5 hours each on Monday and Wednesday. So we need to calculate her total time spent on these two days.
+
+   \[
+   \text{Time on Monday and Wednesday} = 1.5 \text{ hours} + 1.5 \text{ hours} = 3 \text{ hours}
+   \]
+
+4. **Time Left for Tuesday and Friday**: Since she spends a total of 5 hours at the gym in the week, we can find out how much time she has left for Tuesday and Friday.
+
+   \[
+   \text{Time for Tuesday and Friday} = 5 \text{ hours} - 3 \text{ hours} = 2 \text{ hours}
+   \]
+
+5. **Time Spent on Tuesday and Friday**: We are told that she spends the same amount of time at the gym on Tuesday and Friday. Since the total time for these two days is 2 hours, we can divide this equally between Tuesday and Friday.
+
+   \[
+   \text{Time on Tuesday} = \text{Time on Friday} = \frac{2 \text{ hours}}{2} = 1 \text{ hour}
+   \]
+
+6. **Conclusion**: Therefore, the amount of time Janet spends at the gym on Friday is 1 hour.
+</reasoning>
+<answer>1</answer>

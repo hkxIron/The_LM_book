@@ -1,0 +1,28 @@
+<reasoning>
+Let's denote the number of wet wipes that Elsie had in the container in the morning as \( x \).
+
+1. **Identify the changes in the number of wipes throughout the day:**
+   - In the morning, she starts with \( x \) wipes.
+   - Throughout the day, she uses 20 wipes. After using these wipes, the number of wipes left is \( x - 20 \).
+   - After using the 20 wipes, she refills the container with 10 more wipes. So, after the refill, the number of wipes becomes \( (x - 20) + 10 = x - 10 \).
+   
+2. **Understand the final amount of wipes:**
+   - By nighttime, it is given that she has 60 wipes left. Therefore, we can set up the equation:
+   \[
+   x - 10 = 60
+   \]
+
+3. **Solve the equation for \( x \):**
+   - To isolate \( x \), add 10 to both sides of the equation:
+   \[
+   x - 10 + 10 = 60 + 10
+   \]
+   This simplifies to:
+   \[
+   x = 70
+   \]
+
+4. **Conclusion:**
+   - Therefore, Elsie had 70 wipes in the container in the morning.
+</reasoning>
+<answer>70</answer>

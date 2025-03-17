@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem, we need to find out how many yellow marbles there are given that the probability of picking a yellow marble is \( \frac{1}{4} \).
+
+1. **Determine the total number of marbles**: 
+   We know that there are 7 blue marbles and 11 red marbles. Let \( y \) be the number of yellow marbles. The total number of marbles in the jar can be calculated as follows:
+   \[
+   \text{Total marbles} = \text{Blue marbles} + \text{Red marbles} + \text{Yellow marbles} = 7 + 11 + y = 18 + y
+   \]
+   This equation tells us that the total number of marbles is \( 18 + y \).
+
+2. **Set up the probability equation**:
+   The probability of picking a yellow marble is given as \( \frac{1}{4} \). The probability of an event is defined as the number of successful outcomes (in this case, picking a yellow marble) divided by the total number of possible outcomes (the total number of marbles). Therefore, we can write:
+   \[
+   \frac{y}{18 + y} = \frac{1}{4}
+   \]
+   Here, \( y \) is the number of yellow marbles, and \( 18 + y \) is the total number of marbles.
+
+3. **Cross-multiply to solve for \( y \)**:
+   To eliminate the fraction, we cross-multiply:
+   \[
+   4y = 1(18 + y)
+   \]
+   This simplifies to:
+   \[
+   4y = 18 + y
+   \]
+
+4. **Rearranging the equation**:
+   Now, we need to isolate \( y \). We can do this by subtracting \( y \) from both sides:
+   \[
+   4y - y = 18
+   \]
+   This simplifies to:
+   \[
+   3y = 18
+   \]
+
+5. **Dividing to find \( y \)**:
+   Finally, we can find the value of \( y \) by dividing both sides by 3:
+   \[
+   y = \frac{18}{3} = 6
+   \]
+
+Therefore, there are 6 yellow marbles in the jar.
+</reasoning>
+<answer>6</answer>

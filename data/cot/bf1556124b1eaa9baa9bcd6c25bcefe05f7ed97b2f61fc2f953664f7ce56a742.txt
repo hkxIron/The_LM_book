@@ -1,0 +1,48 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the contributions:**
+   - Robi contributed $4000.
+   - Rudy contributed 1/4 more than Robi. To calculate Rudy's contribution:
+     \[
+     \text{Rudy's contribution} = \text{Robi's contribution} + \frac{1}{4} \times \text{Robi's contribution}
+     \]
+     \[
+     \text{Rudy's contribution} = 4000 + \frac{1}{4} \times 4000
+     \]
+     \[
+     = 4000 + 1000 = 5000
+     \]
+
+2. **Calculate the total contribution:**
+   - Now we can find the total amount contributed by both Robi and Rudy:
+     \[
+     \text{Total contribution} = \text{Robi's contribution} + \text{Rudy's contribution}
+     \]
+     \[
+     \text{Total contribution} = 4000 + 5000 = 9000
+     \]
+
+3. **Calculate the profit:**
+   - The profit is 20 percent of the total amount:
+     \[
+     \text{Profit} = 0.20 \times \text{Total contribution}
+     \]
+     \[
+     \text{Profit} = 0.20 \times 9000 = 1800
+     \]
+
+4. **Calculate the profit share for each:**
+   - Since they decided to share the profits equally, we divide the total profit by 2:
+     \[
+     \text{Profit for each} = \frac{\text{Total profit}}{2}
+     \]
+     \[
+     \text{Profit for each} = \frac{1800}{2} = 900
+     \]
+
+Now we have the final amount of profit each person receives. 
+
+Therefore, Robi and Rudy each got $900 from the profits.
+</reasoning>
+<answer>900</answer>

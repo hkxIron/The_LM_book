@@ -1,0 +1,27 @@
+<reasoning>
+Let's break this problem down step-by-step.
+
+1. **Identify how much money Jessica has**: 
+   According to the problem, Jessica has $100. 
+
+2. **Determine how much money Ian has**: 
+   The problem states that Ian has half as much money as Jessica. Since Jessica has $100,
+   \[
+   \text{Ian's money} = \frac{\text{Jessica's money}}{2} = \frac{100}{2} = 50 \text{ dollars}
+   \]
+
+3. **Calculate how much money Rodney has**: 
+   The problem states that Rodney has $35 more than Ian. We have already calculated that Ian has $50, so we find Rodney's amount by adding $35 to Ian's amount:
+   \[
+   \text{Rodney's money} = \text{Ian's money} + 35 = 50 + 35 = 85 \text{ dollars}
+   \]
+
+4. **Determine how much more money Jessica has than Rodney**: 
+   We know Jessica has $100 and Rodney has $85. To find out how much more Jessica has than Rodney, we subtract Rodney's amount from Jessica's amount:
+   \[
+   \text{Difference} = \text{Jessica's money} - \text{Rodney's money} = 100 - 85 = 15 \text{ dollars}
+   \]
+
+Therefore, Jessica has $15 more than Rodney.
+</reasoning>
+<answer>15</answer>

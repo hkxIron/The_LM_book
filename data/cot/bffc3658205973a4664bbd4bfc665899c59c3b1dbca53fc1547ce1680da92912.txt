@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we first need to determine the final scores of both teams after the Fireflies scored their points and the Hornets scored theirs.
+
+1. **Initial Scores**: The Dunkinville Hornets have a score of 86, and the Fredingo Fireflies have a score of 74.
+
+2. **Calculating Fireflies Points**: The Fireflies scored 7 three-point baskets. 
+   - Each three-point basket is worth 3 points.
+   - Therefore, the total points scored by the Fireflies is:
+     \[
+     7 \text{ baskets} \times 3 \text{ points/basket} = 21 \text{ points}
+     \]
+   - Adding this to their initial score:
+     \[
+     74 + 21 = 95 \text{ points}
+     \]
+
+3. **Calculating Hornets Points**: The Hornets scored 2 two-point baskets. 
+   - Each two-point basket is worth 2 points.
+   - Therefore, the total points scored by the Hornets is:
+     \[
+     2 \text{ baskets} \times 2 \text{ points/basket} = 4 \text{ points}
+     \]
+   - Adding this to their initial score:
+     \[
+     86 + 4 = 90 \text{ points}
+     \]
+
+4. **Comparing Final Scores**: Now we need to find how many more points the Fireflies scored than the Hornets.
+   - The final score of the Fireflies is 95 points.
+   - The final score of the Hornets is 90 points.
+   - To find the difference:
+     \[
+     95 - 90 = 5
+     \]
+
+Therefore, the Fireflies scored 5 more points than the Hornets in the game.
+</reasoning>
+<answer>5</answer>

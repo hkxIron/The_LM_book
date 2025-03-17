@@ -1,0 +1,33 @@
+<reasoning>
+To solve this problem, we first need to determine how many marbles James places in each of the 4 bags.
+
+1. **Divide the total number of marbles by the number of bags**: 
+   James has 28 marbles and he puts them into 4 bags. To find out how many marbles he puts in each bag, we divide the total number of marbles by the number of bags:
+   
+   \[
+   \text{Marbles per bag} = \frac{28 \text{ marbles}}{4 \text{ bags}} = 7 \text{ marbles per bag}
+   \]
+
+   Here, we are dividing because we want to distribute the marbles evenly across the bags.
+
+2. **Calculate the total number of marbles in the bags**:
+   Now that we know each bag has 7 marbles, we can confirm that putting 7 marbles in each of the 4 bags gives us:
+   
+   \[
+   4 \text{ bags} \times 7 \text{ marbles/bag} = 28 \text{ marbles}
+   \]
+
+   This confirms our distribution is correct.
+
+3. **Determine how many marbles James has after giving away one bag**:
+   James gives one bag away. Since each bag contains 7 marbles, after giving away one bag, the number of marbles he has left is:
+
+   \[
+   \text{Marbles left} = 28 \text{ marbles} - 7 \text{ marbles (from one bag)} = 21 \text{ marbles}
+   \]
+
+   Here, we are subtracting the number of marbles in the bag he gave away from the total number he initially had.
+
+Therefore, after going through these steps, we find that James has 21 marbles left.
+</reasoning>
+<answer>21</answer>

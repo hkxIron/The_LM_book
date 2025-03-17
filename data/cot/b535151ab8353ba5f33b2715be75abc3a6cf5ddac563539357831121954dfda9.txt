@@ -1,0 +1,44 @@
+<reasoning>
+To find the total time Jenna and her friend will spend on the road trip, we need to calculate the time each person drives and then add the break times.
+
+1. **Calculate the time Jenna drives:**
+   Jenna is driving 200 miles at a speed of 50 miles per hour. We can use the formula for time, which is:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Substituting the values for Jenna:
+   \[
+   \text{Time}_{\text{Jenna}} = \frac{200 \text{ miles}}{50 \text{ miles per hour}} = 4 \text{ hours}
+   \]
+
+2. **Calculate the time Jenna's friend drives:**
+   Jenna's friend drives 100 miles at a speed of 20 miles per hour. Again, we'll use the same formula:
+   \[
+   \text{Time}_{\text{Friend}} = \frac{100 \text{ miles}}{20 \text{ miles per hour}} = 5 \text{ hours}
+   \]
+
+3. **Calculate total driving time:**
+   Now that we have the time for both Jenna and her friend, we can add their driving times together:
+   \[
+   \text{Total Driving Time} = \text{Time}_{\text{Jenna}} + \text{Time}_{\text{Friend}} = 4 \text{ hours} + 5 \text{ hours} = 9 \text{ hours}
+   \]
+
+4. **Include break times:**
+   They are taking 2 breaks, each lasting 30 minutes. First, we convert their break time into hours:
+   \[
+   30 \text{ minutes} = \frac{30}{60} \text{ hours} = 0.5 \text{ hours}
+   \]
+   Therefore, for 2 breaks:
+   \[
+   \text{Total Break Time} = 2 \times 0.5 \text{ hours} = 1 \text{ hour}
+   \]
+
+5. **Calculate total time on the road trip:**
+   Finally, we add the total driving time to the total break time:
+   \[
+   \text{Total Time} = \text{Total Driving Time} + \text{Total Break Time} = 9 \text{ hours} + 1 \text{ hour} = 10 \text{ hours}
+   \]
+
+Therefore, the total time Jenna and her friend will spend on the road trip is:
+</reasoning>
+<answer>10</answer>

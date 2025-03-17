@@ -1,0 +1,32 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Day 1:** Rocky runs 4 miles. 
+   - We note that this is the starting amount, so:
+   \[
+   \text{Miles on Day 1} = 4 \text{ miles}
+   \]
+
+2. **Day 2:** Rocky doubles the miles from Day 1.
+   - To find the miles run on Day 2, we multiply the miles from Day 1 by 2:
+   \[
+   \text{Miles on Day 2} = 4 \text{ miles} \times 2 = 8 \text{ miles}
+   \]
+
+3. **Day 3:** Rocky triples the miles from Day 2.
+   - To find the miles run on Day 3, we multiply the miles from Day 2 by 3:
+   \[
+   \text{Miles on Day 3} = 8 \text{ miles} \times 3 = 24 \text{ miles}
+   \]
+
+4. **Total miles for the first three days:** Now, we add the miles run on each of the three days to find the total:
+   \[
+   \text{Total Miles} = \text{Miles on Day 1} + \text{Miles on Day 2} + \text{Miles on Day 3}
+   \]
+   \[
+   \text{Total Miles} = 4 \text{ miles} + 8 \text{ miles} + 24 \text{ miles} = 36 \text{ miles}
+   \]
+
+Therefore, Rocky ran a total of 36 miles in the first three days of training.
+</reasoning>
+<answer>36</answer>

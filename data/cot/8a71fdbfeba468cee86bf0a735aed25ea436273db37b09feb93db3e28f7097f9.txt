@@ -1,0 +1,40 @@
+<reasoning>
+To find out how much money Emma has left in her bank account at the end of the week, we need to follow these steps:
+
+1. **Calculate the total amount spent in one week**: 
+   - Emma spends $8 each day for 7 days.
+   - To find the total spending, we multiply the daily spending by the number of days:
+     \[
+     \text{Total spent} = 8 \text{ dollars/day} \times 7 \text{ days} = 56 \text{ dollars}
+     \]
+
+2. **Calculate the remaining balance in her account after a week**: 
+   - Emma starts with $100 and spends $56.
+   - We subtract the total spent from the initial amount:
+     \[
+     \text{Remaining balance} = 100 \text{ dollars} - 56 \text{ dollars} = 44 \text{ dollars}
+     \]
+
+3. **Determine how many $5 bills she can withdraw**: 
+   - We need to see how many $5 bills Emma can get from her remaining balance of $44.
+   - To find this, we divide the remaining balance by the value of each bill:
+     \[
+     \text{Number of $5 bills} = \frac{44 \text{ dollars}}{5 \text{ dollars/bill}} = 8.8
+     \]
+   - Since she can only take whole bills, she can take 8 bills.
+
+4. **Calculate the total amount withdrawn**: 
+   - Now we multiply the number of bills by the value of each bill:
+     \[
+     \text{Amount withdrawn} = 8 \text{ bills} \times 5 \text{ dollars/bill} = 40 \text{ dollars}
+     \]
+
+5. **Calculate the final amount remaining in the account**: 
+   - We subtract the amount withdrawn from the remaining balance:
+     \[
+     \text{Final balance} = 44 \text{ dollars} - 40 \text{ dollars} = 4 \text{ dollars}
+     \]
+
+Therefore, the amount of money that remains in Emma's bank account after she has made her transactions is $4.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we first need to determine how many shots John takes in total and how many points he scores from those shots.
+
+1. **Determine the total playtime**: 
+   - John plays for 2 periods, and each period is 12 minutes long.
+   - Total playtime = 2 periods × 12 minutes/period = 24 minutes.
+
+2. **Determine how many 4-minute intervals are in 24 minutes**:
+   - Since John scores every 4 minutes, we need to see how many 4-minute intervals fit into 24 minutes.
+   - Number of intervals = 24 minutes ÷ 4 minutes/interval = 6 intervals.
+
+3. **Determine how many shots John takes in 6 intervals**:
+   - In each 4-minute interval, John scores 2 shots worth 2 points each and 1 shot worth 3 points. 
+   - Total shots per interval = 2 (2-point shots) + 1 (3-point shot) = 3 shots.
+
+4. **Calculate the total number of shots over 6 intervals**:
+   - Total shots = 3 shots/interval × 6 intervals = 18 shots.
+
+5. **Determine the points scored from the shots**:
+   - Each interval contributes:
+     - From the 2 shots worth 2 points each: 2 shots × 2 points = 4 points.
+     - From the 1 shot worth 3 points: 1 shot × 3 points = 3 points.
+   - Total points per interval = 4 points + 3 points = 7 points.
+
+6. **Calculate the total points scored over 6 intervals**:
+   - Total points = 7 points/interval × 6 intervals = 42 points.
+
+Therefore, after calculating all the intervals and points scored from each type of shot, we find that John scores a total of 42 points.
+</reasoning>
+<answer>42</answer>

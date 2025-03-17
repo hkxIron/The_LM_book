@@ -1,0 +1,62 @@
+<reasoning>
+Let's denote the number of hoodies Fiona owns as \( F \) and the number of hoodies Casey owns as \( C \).
+
+According to the problem, we have the following two pieces of information:
+
+1. The total number of hoodies they own together is 8:
+   \[
+   F + C = 8
+   \]
+
+2. Casey owns two more hoodies than Fiona:
+   \[
+   C = F + 2
+   \]
+
+Now, we can substitute the second equation into the first equation. This means we will replace \( C \) in the first equation with \( F + 2 \).
+
+So we rewrite the first equation:
+\[
+F + (F + 2) = 8
+\]
+
+Now, we simplify this equation:
+\[
+F + F + 2 = 8
+\]
+\[
+2F + 2 = 8
+\]
+
+Next, we subtract 2 from both sides to isolate the term with \( F \):
+\[
+2F = 8 - 2
+\]
+\[
+2F = 6
+\]
+
+Now, we divide both sides by 2 to solve for \( F \):
+\[
+F = \frac{6}{2}
+\]
+\[
+F = 3
+\]
+
+Thus, Fiona owns 3 hoodies. 
+
+To verify, we can find out how many hoodies Casey owns:
+Using \( C = F + 2 \):
+\[
+C = 3 + 2 = 5
+\]
+
+Now we check if the total adds up to 8:
+\[
+F + C = 3 + 5 = 8
+\]
+
+Since both conditions are satisfied, our solution is confirmed.
+</reasoning>
+<answer>3</answer>

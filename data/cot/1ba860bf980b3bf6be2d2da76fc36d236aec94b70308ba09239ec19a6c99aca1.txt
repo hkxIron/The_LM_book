@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many inches taller Grace's tower is than Clyde's, we first need to determine the height of Clyde's tower.
+
+1. We know that Grace's tower is 8 times the size of Clyde's tower and that Grace's tower is 40 inches tall. We can express this relationship mathematically:
+   \[
+   \text{Grace's tower} = 8 \times \text{Clyde's tower}
+   \]
+   Substituting the height of Grace's tower:
+   \[
+   40 \text{ inches} = 8 \times \text{Clyde's tower}
+   \]
+
+2. To find the height of Clyde's tower, we need to solve for Clyde's tower:
+   \[
+   \text{Clyde's tower} = \frac{40 \text{ inches}}{8}
+   \]
+
+3. Performing the division:
+   \[
+   \text{Clyde's tower} = 5 \text{ inches}
+   \]
+
+4. Now that we know the height of Clyde's tower, we can find out how many inches taller Grace's tower is by subtracting Clyde's tower height from Grace's tower height:
+   \[
+   \text{Height difference} = \text{Grace's tower} - \text{Clyde's tower}
+   \]
+   Substituting the values:
+   \[
+   \text{Height difference} = 40 \text{ inches} - 5 \text{ inches}
+   \]
+
+5. Performing the subtraction gives us:
+   \[
+   \text{Height difference} = 35 \text{ inches}
+   \]
+
+Therefore, Grace’s tower is 35 inches taller than Clyde’s tower.
+</reasoning>
+<answer>35</answer>

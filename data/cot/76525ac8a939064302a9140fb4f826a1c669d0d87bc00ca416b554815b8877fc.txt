@@ -1,0 +1,31 @@
+<reasoning>
+To find the total distance of the relay race, we will calculate the distance each runner covers and then sum them up.
+
+1. **Calculate the distance Sadie runs**:
+   - Sadie runs for 2 hours at an average speed of 3 miles per hour.
+   - We can use the formula: Distance = Speed × Time.
+   - Thus, Distance = 3 miles/hour × 2 hours = 6 miles.
+
+2. **Calculate the distance Ariana runs**:
+   - Ariana runs for half an hour (0.5 hours) at a speed of 6 miles per hour.
+   - Using the same formula: Distance = Speed × Time.
+   - Therefore, Distance = 6 miles/hour × 0.5 hours = 3 miles.
+
+3. **Calculate the time Sarah runs**:
+   - The total time for the race is 4.5 hours.
+   - We already know that Sadie takes 2 hours and Ariana takes 0.5 hours.
+   - Total time taken by Sadie and Ariana = 2 hours + 0.5 hours = 2.5 hours.
+   - Therefore, Sarah's time = Total time - Time taken by Sadie and Ariana = 4.5 hours - 2.5 hours = 2 hours.
+
+4. **Calculate the distance Sarah runs**:
+   - Sarah runs for 2 hours at a speed of 4 miles per hour.
+   - Again using the formula: Distance = Speed × Time.
+   - Thus, Distance = 4 miles/hour × 2 hours = 8 miles.
+
+5. **Calculate the total distance of the race**:
+   - Now we will sum up the distances covered by Sadie, Ariana, and Sarah.
+   - Total Distance = Distance by Sadie + Distance by Ariana + Distance by Sarah = 6 miles + 3 miles + 8 miles = 17 miles.
+
+Therefore, the total distance of the relay race is:
+</reasoning>
+<answer>17</answer>

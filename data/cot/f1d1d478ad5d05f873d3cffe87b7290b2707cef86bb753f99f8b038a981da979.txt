@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many incorrect answers Rose had, we first need to determine how many questions Liza got correct.
+
+1. **Calculate the number of correct answers Liza got.**
+   - Liza scored 90% on a 60-item exam.
+   - To find out how many items she got correct, we use the formula for percentage:
+     \[
+     \text{Correct answers by Liza} = \text{Total items} \times \frac{\text{Percentage}}{100}
+     \]
+     \[
+     \text{Correct answers by Liza} = 60 \times \frac{90}{100} = 60 \times 0.9 = 54
+     \]
+   - Therefore, Liza got 54 questions correct.
+
+2. **Determine how many correct answers Rose had.**
+   - Rose got 2 more correct answers than Liza.
+   - So, we calculate Rose's correct answers:
+     \[
+     \text{Correct answers by Rose} = \text{Correct answers by Liza} + 2 = 54 + 2 = 56
+     \]
+   - Thus, Rose got 56 questions correct.
+
+3. **Calculate the number of incorrect answers by Rose.**
+   - Since the total number of items on the exam is 60, we find the incorrect answers by subtracting the correct answers from the total:
+     \[
+     \text{Incorrect answers by Rose} = \text{Total items} - \text{Correct answers by Rose}
+     \]
+     \[
+     \text{Incorrect answers by Rose} = 60 - 56 = 4
+     \]
+   - Therefore, Rose had 4 incorrect answers.
+
+In summary, after calculating Liza's correct answers, determining Rose's from Liza's score, and finally finding the incorrect answers by subtracting from the total, we conclude that Rose had 4 incorrect answers.
+</reasoning>
+<answer>4</answer>

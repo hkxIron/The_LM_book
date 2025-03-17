@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many more slices of ham Anna needs to make 50 ham sandwiches, we can follow these steps:
+
+1. **Calculate the total number of slices of ham needed for 50 sandwiches**: Since each sandwich requires 3 slices of ham, we multiply the number of sandwiches by the number of slices per sandwich:
+   \[
+   \text{Total slices needed} = 50 \text{ sandwiches} \times 3 \text{ slices/sandwich} = 150 \text{ slices}
+   \]
+   This calculation shows that Anna will need 150 slices of ham to make 50 sandwiches.
+
+2. **Determine how many slices of ham Anna currently has**: According to the problem, Anna has 31 slices of ham.
+
+3. **Calculate how many more slices of ham are needed**: To find out how many additional slices Anna needs, we subtract the number of slices she currently has from the total slices needed:
+   \[
+   \text{Additional slices needed} = \text{Total slices needed} - \text{Slices currently available}
+   \]
+   Substituting in the numbers:
+   \[
+   \text{Additional slices needed} = 150 - 31 = 119
+   \]
+
+Therefore, Anna needs 119 more slices of ham to make 50 ham sandwiches.
+</reasoning>
+<answer>119</answer>

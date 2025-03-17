@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many more calories Jonah would have lost if he ran for five hours instead of two hours, we can follow these steps:
+
+1. **Calculate the calories burnt in 2 hours**:
+   Jonah burns 30 calories every hour. If he runs for 2 hours, the total calories burnt can be calculated as:
+   \[
+   \text{Calories burnt in 2 hours} = 30 \text{ calories/hour} \times 2 \text{ hours} = 60 \text{ calories}
+   \]
+
+2. **Calculate the calories burnt in 5 hours**:
+   Now, we need to find out how many calories Jonah would burn if he ran for 5 hours. The calculation is:
+   \[
+   \text{Calories burnt in 5 hours} = 30 \text{ calories/hour} \times 5 \text{ hours} = 150 \text{ calories}
+   \]
+
+3. **Find the difference in calories burnt between 5 hours and 2 hours**:
+   To determine how many more calories he would have lost by running for 5 hours instead of 2 hours, we subtract the calories burnt in 2 hours from the calories burnt in 5 hours:
+   \[
+   \text{Additional calories burnt} = \text{Calories burnt in 5 hours} - \text{Calories burnt in 2 hours} = 150 \text{ calories} - 60 \text{ calories} = 90 \text{ calories}
+   \]
+
+Therefore, by running for five hours instead of two hours, Jonah would have lost an additional 90 calories.
+</reasoning>
+<answer>90</answer>

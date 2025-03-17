@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many meters Robin walks in total, we need to break down his journey step by step.
+
+1. **Initial Distance to the City Center**: Robin's house is 500 meters from the city center. This means that the total distance he needs to cover to reach the city center is 500 meters.
+
+2. **Walking Towards the City Center**: Robin begins by walking towards the city center and covers 200 meters. At this point, he is still 300 meters away from the city center (500 meters - 200 meters).
+
+3. **Returning Home**: After realizing he forgot his bag, Robin must return to his house. Since he walked 200 meters away from his house, he needs to walk the same distance back to return home. This adds another 200 meters to his total distance.
+
+4. **Walking Back to the City Center**: Once he gets back home, he needs to walk the full distance of 500 meters again to reach the city center. This adds another 500 meters to his total distance.
+
+Now, we can calculate the total distance he walked:
+
+- Walking towards the city center: 200 meters
+- Returning home: 200 meters
+- Walking back to the city center: 500 meters
+
+Now, we can sum these distances:
+200 meters + 200 meters + 500 meters = 900 meters.
+
+Therefore, the total distance Robin walks is 900 meters.
+</reasoning>
+<answer>900</answer>

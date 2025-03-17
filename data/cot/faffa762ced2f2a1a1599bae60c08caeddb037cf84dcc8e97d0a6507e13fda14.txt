@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem step by step, let's break down each part of the situation:
+
+1. **Calculate the total number of apples delivered to the factory:**
+   We know that there are 180 apples in each crate and that there are 12 crates. To find the total number of apples, we multiply the number of apples per crate by the number of crates:
+   \[
+   \text{Total apples} = 180 \text{ apples/crate} \times 12 \text{ crates} = 2160 \text{ apples}
+   \]
+
+2. **Subtract the rotten apples:**
+   Next, we need to account for the rotten apples that had to be thrown away. According to the problem, 160 apples were rotten. We subtract this number from the total apples we calculated:
+   \[
+   \text{Remaining apples} = 2160 \text{ apples} - 160 \text{ apples} = 2000 \text{ apples}
+   \]
+
+3. **Determine how many boxes can be filled:**
+   The remaining apples are packed into boxes containing 20 apples each. To find out how many such boxes can be filled, we divide the number of remaining apples by the number of apples per box:
+   \[
+   \text{Number of boxes} = \frac{2000 \text{ apples}}{20 \text{ apples/box}} = 100 \text{ boxes}
+   \]
+
+Therefore, after going through all the calculations, the total number of boxes of apples is:
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,52 @@
+<reasoning>
+To determine how many pages Jesse still has to read, we first need to find out the total number of pages in the book.
+
+1. **Calculate the total number of pages Jesse has read so far:**
+   The number of pages he read in the first 5 chapters is:
+   - Chapter 1: 10 pages
+   - Chapter 2: 15 pages
+   - Chapter 3: 27 pages
+   - Chapter 4: 12 pages
+   - Chapter 5: 19 pages
+
+   We add these numbers together to find the total pages he read:
+   \[
+   10 + 15 + 27 + 12 + 19
+   \]
+
+   Performing the addition step-by-step:
+   - \(10 + 15 = 25\)
+   - \(25 + 27 = 52\)
+   - \(52 + 12 = 64\)
+   - \(64 + 19 = 83\)
+
+   So, Jesse has read a total of 83 pages.
+
+2. **Determine the total number of pages in the book:**
+   Since Jesse is 1/3 of the way through the book, we can set up the equation:
+   \[
+   \text{Total pages} = 3 \times \text{Pages read}
+   \]
+   Substituting the number of pages Jesse has read:
+   \[
+   \text{Total pages} = 3 \times 83 = 249
+   \]
+
+3. **Calculate the remaining pages Jesse needs to read:**
+   To find out how many pages he still needs to read, we subtract the number of pages he has read from the total number of pages in the book:
+   \[
+   \text{Remaining pages} = \text{Total pages} - \text{Pages read}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Remaining pages} = 249 - 83
+   \]
+
+   Now, performing the subtraction:
+   \[
+   249 - 83 = 166
+   \]
+
+Therefore, Jesse still has 166 pages to read.
+</reasoning>
+<answer>166</answer>

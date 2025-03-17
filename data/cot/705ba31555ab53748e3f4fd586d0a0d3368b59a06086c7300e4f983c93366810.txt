@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Kath will pay for all of their admissions to the movie, we'll follow these steps:
+
+1. **Determine the admission price before 6 P.M.**  
+   The regular admission price is $8. Since the movie starts at 4 P.M., and this is before 6 P.M., the price for the admission will be reduced by $3.  
+   So, the discounted price is:  
+   \[
+   8 - 3 = 5
+   \]  
+   Therefore, the admission price before 6 P.M. is $5.
+
+2. **Calculate the total number of people attending the movie.**  
+   Kath is taking her 2 siblings and 3 of her friends.  
+   So, the total number of people is:  
+   \[
+   1 \text{ (Kath)} + 2 \text{ (siblings)} + 3 \text{ (friends)} = 6
+   \]
+
+3. **Multiply the total number of people by the admission price.**  
+   We need to calculate the total cost for all 6 attendees at the discounted price of $5 each.  
+   So, the total cost is:  
+   \[
+   6 \times 5 = 30
+   \]
+
+Therefore, Kath will pay $30 for all of their admissions.
+</reasoning>
+<answer>30</answer>

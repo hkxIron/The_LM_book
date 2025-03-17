@@ -1,0 +1,40 @@
+<reasoning>
+Let's start by calculating the total number of animals in Fred the Farmer's barn before any transactions.
+
+1. **Count the animals:**
+   - Horses: 100
+   - Sheep: 29
+   - Chickens: 9
+
+   Adding these together gives us:
+   \[
+   \text{Total animals} = 100 + 29 + 9 = 138
+   \]
+
+2. **Brian buys half of the animals:**
+   To find out how many animals Brian bought, we need to calculate half of the total number of animals:
+   \[
+   \text{Animals bought by Brian} = \frac{138}{2} = 69
+   \]
+
+3. **Calculate the remaining animals after Brian's purchase:**
+   After Brian buys 69 animals, we subtract this number from the total:
+   \[
+   \text{Remaining animals} = 138 - 69 = 69
+   \]
+
+4. **Jeremy gifts Fred 37 goats:**
+   Now we need to add the goats that Jeremy gifted to Fred:
+   \[
+   \text{Total animals after the gift} = 69 + 37 = 106
+   \]
+
+5. **Determine the number of male animals:**
+   According to the problem, exactly half of the animals in the barn are male. So, we calculate half of the total animals now:
+   \[
+   \text{Male animals} = \frac{106}{2} = 53
+   \]
+
+Thus, the total number of male animals in the barn is 53.
+</reasoning>
+<answer>53</answer>

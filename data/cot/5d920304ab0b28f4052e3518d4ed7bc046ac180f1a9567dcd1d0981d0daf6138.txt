@@ -1,0 +1,55 @@
+<reasoning>
+Let's denote the number of days that have elapsed as \( d \).
+
+1. **Daily Savings Calculation**:
+   - Ben starts each day with $50.
+   - He spends $15 each day.
+   - Therefore, his daily savings can be calculated as:
+     \[
+     \text{Daily Savings} = \text{Starting Amount} - \text{Spending} = 50 - 15 = 35
+     \]
+   So, Ben saves $35 each day.
+
+2. **Total Savings After \( d \) Days**:
+   - After \( d \) days, the total amount Ben has saved can be calculated as:
+     \[
+     \text{Total Savings} = \text{Daily Savings} \times d = 35d
+     \]
+
+3. **Mom's Contribution**:
+   - After a few days, Ben's mom doubles his total savings. This means his savings after the doubling is:
+     \[
+     \text{Savings After Mom's Contribution} = 2 \times \text{Total Savings} = 2 \times 35d = 70d
+     \]
+
+4. **Dad's Contribution**:
+   - After his mom doubles his savings, his dad gives him an additional $10. Therefore, the total amount Ben has after both contributions is:
+     \[
+     \text{Total Amount After Contributions} = 70d + 10
+     \]
+
+5. **Setting Up the Equation**:
+   - We know from the problem that after these contributions, Ben has a total of $500. Thus, we can set up the equation:
+     \[
+     70d + 10 = 500
+     \]
+
+6. **Solving the Equation**:
+   - First, we subtract $10 from both sides to isolate the term with \( d \):
+     \[
+     70d = 500 - 10
+     \]
+     \[
+     70d = 490
+     \]
+   - Now, we divide both sides by 70 to solve for \( d \):
+     \[
+     d = \frac{490}{70}
+     \]
+     \[
+     d = 7
+     \]
+
+Therefore, the number of days that have elapsed is 7.
+</reasoning>
+<answer>7</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the length of each part of wire**: Since Ernest cut the 50 meters of wire into 5 equal parts, we need to divide the total length of the wire by the number of parts.
+
+   \[
+   \text{Length of each part} = \frac{\text{Total length of wire}}{\text{Number of parts}} = \frac{50 \text{ meters}}{5} = 10 \text{ meters}
+   \]
+
+   This means each part of the wire is 10 meters long.
+
+2. **Calculate the total length of wire used**: Since Ernest used 3 parts of the wire, we need to multiply the length of each part by the number of parts used.
+
+   \[
+   \text{Total length of wire used} = \text{Length of each part} \times \text{Number of parts used} = 10 \text{ meters} \times 3 = 30 \text{ meters}
+   \]
+
+   This means he used 30 meters of wire.
+
+3. **Calculate the remaining wire**: To find out how many meters of wire is not used, we subtract the total length of wire used from the original total length of wire.
+
+   \[
+   \text{Remaining wire} = \text{Total length of wire} - \text{Total length of wire used} = 50 \text{ meters} - 30 \text{ meters} = 20 \text{ meters}
+   \]
+
+   Therefore, the remaining wire that is not used is 20 meters.
+
+Putting it all together, we can conclude that the amount of wire not used is:
+</reasoning>
+<answer>20</answer>

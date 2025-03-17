@@ -1,0 +1,20 @@
+<reasoning>
+To find out how much money Tina earns from selling her postcards, we'll follow these steps:
+
+1. **Calculate the total number of postcards made in 6 days**: 
+   - Tina makes 30 postcards in one day.
+   - Over 6 days, the total number of postcards she makes is:
+     \[
+     30 \text{ postcards/day} \times 6 \text{ days} = 180 \text{ postcards}
+     \]
+
+2. **Calculate the total earnings from selling the postcards**: 
+   - Each postcard is sold for $5.
+   - Therefore, the total money earned from selling all postcards is calculated by multiplying the number of postcards by the price per postcard:
+     \[
+     180 \text{ postcards} \times 5 \text{ dollars/postcard} = 900 \text{ dollars}
+     \]
+
+Thus, Tina earns a total of $900 after selling all the postcards she made over the 6 days.
+</reasoning>
+<answer>900</answer>

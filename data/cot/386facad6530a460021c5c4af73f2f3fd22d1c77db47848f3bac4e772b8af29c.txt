@@ -1,0 +1,58 @@
+<reasoning>
+To find the average time each player gets in Patricia's highlight film, we first need to determine the total time of all the video segments she recorded. 
+
+1. **Add all the video times together**:
+   - Point guard: 130 seconds
+   - Shooting guard: 145 seconds
+   - Small forward: 85 seconds
+   - Power forward: 60 seconds
+   - Center: 180 seconds
+
+   We will sum these times:
+   \[
+   130 + 145 + 85 + 60 + 180
+   \]
+
+   Let's add them step by step:
+   - First, add 130 and 145:
+     \[
+     130 + 145 = 275
+     \]
+   - Next, add 275 and 85:
+     \[
+     275 + 85 = 360
+     \]
+   - Then, add 360 and 60:
+     \[
+     360 + 60 = 420
+     \]
+   - Finally, add 420 and 180:
+     \[
+     420 + 180 = 600
+     \]
+
+   So, the total time of all video segments is **600 seconds**.
+
+2. **Count the number of players**:
+   There are 5 players (the point guard, shooting guard, small forward, power forward, and center).
+
+3. **Calculate the average time per player**:
+   To find the average, divide the total time by the number of players:
+   \[
+   \text{Average time} = \frac{\text{Total time}}{\text{Number of players}} = \frac{600 \text{ seconds}}{5}
+   \]
+
+   Performing the division:
+   \[
+   \frac{600}{5} = 120 \text{ seconds}
+   \]
+
+4. **Convert seconds to minutes**:
+   Since we want the average time in minutes, we need to convert 120 seconds to minutes. There are 60 seconds in a minute, so we divide by 60:
+   \[
+   \text{Average time in minutes} = \frac{120 \text{ seconds}}{60} = 2 \text{ minutes}
+   \]
+
+Thus, on average, each player gets **2 minutes** in the highlight film.
+</reasoning>
+<answer>2</answer>

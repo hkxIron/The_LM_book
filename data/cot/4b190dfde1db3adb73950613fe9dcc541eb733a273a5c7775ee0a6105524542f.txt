@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much Darla pays in total, we need to calculate the cost of the electricity first and then add the late fee.
+
+1. **Calculate the cost of the electricity**:
+   - Darla is charged $4 per watt for 300 watts of electricity.
+   - To find the total cost for the electricity, we multiply the cost per watt by the number of watts:
+     \[
+     \text{Cost of electricity} = 4 \, \text{dollars/watt} \times 300 \, \text{watts}
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Cost of electricity} = 1200 \, \text{dollars}
+     \]
+   - This means Darla needs to pay $1200 for the electricity.
+
+2. **Add the late fee**:
+   - In addition to the cost of electricity, Darla has a late fee of $150.
+   - We add this fee to the cost of the electricity:
+     \[
+     \text{Total payment} = 1200 \, \text{dollars} + 150 \, \text{dollars}
+     \]
+   - Performing the addition:
+     \[
+     \text{Total payment} = 1350 \, \text{dollars}
+     \]
+
+Therefore, after calculating both the cost of the electricity and the late fee, we find that Darla's total payment is $1350.
+</reasoning>
+<answer>1350</answer>

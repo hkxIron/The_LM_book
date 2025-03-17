@@ -1,0 +1,48 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the number of red beans**: 
+   We know that one-fourth of the total beans are red. So, we calculate:
+   \[
+   \text{Number of red beans} = \frac{1}{4} \times 572
+   \]
+   Calculating this gives:
+   \[
+   \text{Number of red beans} = \frac{572}{4} = 143
+   \]
+
+2. **Find the number of remaining beans after removing the red beans**:
+   We subtract the number of red beans from the total:
+   \[
+   \text{Remaining beans} = 572 - 143 = 429
+   \]
+
+3. **Determine the number of white beans**:
+   One-third of the remaining beans are white. So, we calculate:
+   \[
+   \text{Number of white beans} = \frac{1}{3} \times 429
+   \]
+   Calculating this gives:
+   \[
+   \text{Number of white beans} = \frac{429}{3} = 143
+   \]
+
+4. **Find the number of remaining beans after removing the white beans**:
+   We subtract the number of white beans from the remaining beans:
+   \[
+   \text{Remaining beans} = 429 - 143 = 286
+   \]
+
+5. **Determine the number of green beans**:
+   Half of the remaining beans are green. So, we calculate:
+   \[
+   \text{Number of green beans} = \frac{1}{2} \times 286
+   \]
+   Calculating this gives:
+   \[
+   \text{Number of green beans} = \frac{286}{2} = 143
+   \]
+
+Therefore, the number of green beans is:
+</reasoning>
+<answer>143</answer>

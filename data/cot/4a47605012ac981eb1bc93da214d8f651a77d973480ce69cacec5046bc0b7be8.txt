@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many yards of grass Brendan will be able to cut after a week with the help of the lawnmower, we will follow these steps:
+
+1. **Determine Brendan's original cutting capacity**: We know that Brendan can cut 8 yards of grass per day.
+
+2. **Calculate the increase in cutting capacity due to the lawnmower**: The lawnmower helps Brendan to cut 50% more yards per day. To calculate 50% of 8 yards:
+   \[
+   50\% \text{ of } 8 = 0.5 \times 8 = 4 \text{ yards}
+   \]
+   This means the lawnmower allows him to cut an additional 4 yards per day.
+
+3. **Calculate Brendan's new cutting capacity**: Now, we add the additional amount to his original capacity:
+   \[
+   \text{New daily capacity} = \text{Original capacity} + \text{Additional capacity} = 8 + 4 = 12 \text{ yards}
+   \]
+   So, with the lawnmower, Brendan can now cut 12 yards of grass per day.
+
+4. **Calculate the total yards cut in one week**: There are 7 days in a week, so we multiply the new daily cutting capacity by the number of days in a week:
+   \[
+   \text{Total yards in a week} = \text{New daily capacity} \times 7 = 12 \times 7 = 84 \text{ yards}
+   \]
+
+Thus, after following these steps, we find that Brendan will be able to cut a total of 84 yards of grass after a week.
+</reasoning>
+<answer>84</answer>

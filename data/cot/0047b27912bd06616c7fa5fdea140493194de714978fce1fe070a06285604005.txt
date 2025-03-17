@@ -1,0 +1,62 @@
+<reasoning>
+First, let's determine how much weight Jenny's 20 cans contribute. Each can weighs 2 ounces, so we can calculate the total weight of the cans:
+
+\[ 
+\text{Weight of cans} = \text{Number of cans} \times \text{Weight per can} 
+\]
+\[ 
+\text{Weight of cans} = 20 \times 2 = 40 \text{ ounces} 
+\]
+
+Next, we need to find out how much weight is left for bottles after accounting for the weight of the cans. Jenny can carry a total of 100 ounces:
+
+\[ 
+\text{Remaining weight for bottles} = \text{Total capacity} - \text{Weight of cans} 
+\]
+\[ 
+\text{Remaining weight for bottles} = 100 - 40 = 60 \text{ ounces} 
+\]
+
+Now we can determine how many bottles Jenny can carry. Each bottle weighs 6 ounces, so we can calculate the number of bottles she can carry by dividing the remaining weight by the weight of each bottle:
+
+\[ 
+\text{Number of bottles} = \frac{\text{Remaining weight for bottles}}{\text{Weight per bottle}} 
+\]
+\[ 
+\text{Number of bottles} = \frac{60}{6} = 10 
+\]
+
+Now that we know the number of cans and bottles Jenny has, we can calculate how much money she makes from each type of item. 
+
+For the cans:
+- She has 20 cans, and she gets paid 3 cents per can:
+
+\[ 
+\text{Money from cans} = \text{Number of cans} \times \text{Payment per can} 
+\]
+\[ 
+\text{Money from cans} = 20 \times 3 = 60 \text{ cents} 
+\]
+
+For the bottles:
+- She has 10 bottles, and she gets paid 10 cents per bottle:
+
+\[ 
+\text{Money from bottles} = \text{Number of bottles} \times \text{Payment per bottle} 
+\]
+\[ 
+\text{Money from bottles} = 10 \times 10 = 100 \text{ cents} 
+\]
+
+Finally, we add the money she makes from cans and bottles to find the total amount Jenny makes:
+
+\[ 
+\text{Total money} = \text{Money from cans} + \text{Money from bottles} 
+\]
+\[ 
+\text{Total money} = 60 + 100 = 160 \text{ cents} 
+\]
+
+Therefore, Jenny makes a total of 160 cents from her collection.
+</reasoning>
+<answer>160</answer>

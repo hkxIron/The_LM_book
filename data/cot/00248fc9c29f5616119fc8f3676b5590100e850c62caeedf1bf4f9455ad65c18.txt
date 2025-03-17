@@ -1,0 +1,77 @@
+<reasoning>
+Let's denote the weights that each person can lift as follows:
+- Let \( R \) be the weight that Rodney can lift.
+- Let \( G \) be the weight that Roger can lift.
+- Let \( N \) be the weight that Ron can lift.
+
+We are given the following information:
+
+1. The total weight they can lift together is 239 pounds:
+   \[
+   R + G + N = 239
+   \]
+
+2. Rodney can lift twice as much as Roger:
+   \[
+   R = 2G
+   \]
+
+3. Roger can lift 7 pounds less than 4 times the amount that Ron can lift:
+   \[
+   G = 4N - 7
+   \]
+
+Now, we will substitute the expressions we have for \( R \) and \( G \) in terms of \( N \) into the total weight equation.
+
+First, substitute \( G \) into the equation for \( R \):
+\[
+R = 2G = 2(4N - 7) = 8N - 14
+\]
+
+Now, substitute both \( R \) and \( G \) into the total weight equation:
+\[
+(8N - 14) + (4N - 7) + N = 239
+\]
+
+Now, let's combine like terms:
+\[
+8N - 14 + 4N - 7 + N = 239
+\]
+\[
+(8N + 4N + N) - 21 = 239
+\]
+\[
+13N - 21 = 239
+\]
+
+Next, we will add 21 to both sides of the equation to isolate the term with \( N \):
+\[
+13N = 239 + 21
+\]
+\[
+13N = 260
+\]
+
+Now, we divide both sides by 13 to solve for \( N \):
+\[
+N = \frac{260}{13} = 20
+\]
+
+Now that we have \( N \), we can find \( G \) using the equation \( G = 4N - 7 \):
+\[
+G = 4(20) - 7 = 80 - 7 = 73
+\]
+
+Next, we can find \( R \) using the equation \( R = 2G \):
+\[
+R = 2(73) = 146
+\]
+
+Now we have found all the weights:
+- Ron can lift \( N = 20 \) pounds.
+- Roger can lift \( G = 73 \) pounds.
+- Rodney can lift \( R = 146 \) pounds.
+
+Finally, the amount that Rodney can lift is:
+</reasoning>
+<answer>146</answer>

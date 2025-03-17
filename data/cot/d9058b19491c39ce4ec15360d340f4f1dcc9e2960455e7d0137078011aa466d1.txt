@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Amount in the Cookie Jar**: We start with $21 in the cookie jar.
+
+2. **Doris's Spending**: Doris spent $6. To find out how much money remains after Doris's spending, we subtract the amount she spent from the initial amount:
+   \[
+   21 - 6 = 15
+   \]
+   So, after Doris spent $6, there is $15 left in the cookie jar.
+
+3. **Martha's Spending**: Martha spent half as much as Doris. Since Doris spent $6, we calculate half of that:
+   \[
+   \frac{6}{2} = 3
+   \]
+   Therefore, Martha spent $3.
+
+4. **Calculating Total Amount After Martha's Spending**: Now we need to subtract the amount Martha spent from the remaining amount after Doris:
+   \[
+   15 - 3 = 12
+   \]
+   So, after Martha spent $3, there is $12 left in the cookie jar.
+
+5. **Final Calculation**: We have calculated the remaining amounts after each spending, and now we can conclude that the total amount left in the cookie jar is $12.
+
+Therefore, the amount of money left in the cookie jar is:
+</reasoning>
+<answer>12</answer>

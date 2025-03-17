@@ -1,0 +1,42 @@
+<reasoning>
+To find the average bowling score of Gretchen, Mitzi, and Beth, we need to follow these steps:
+
+1. **Add their individual scores together.** 
+   This means we will take Gretchen's score (120), Mitzi's score (113), and Beth's score (85) and sum them up. This is done because the average is calculated based on the total of all scores.
+
+   Calculation:
+   \[
+   120 + 113 + 85
+   \]
+
+   Let's do the addition step by step:
+   - First, add Gretchen's and Mitzi's scores:
+   \[
+   120 + 113 = 233
+   \]
+   - Next, add Beth's score to this sum:
+   \[
+   233 + 85 = 318
+   \]
+
+   So, the total score of all three bowlers is 318.
+
+2. **Count the number of bowlers.** 
+   In this case, there are 3 bowlers: Gretchen, Mitzi, and Beth.
+
+3. **Divide the total score by the number of bowlers to find the average.** 
+   The average score is calculated by taking the total score and dividing it by the number of individuals (bowlers).
+
+   Calculation:
+   \[
+   \text{Average} = \frac{\text{Total Score}}{\text{Number of Bowlers}} = \frac{318}{3}
+   \]
+
+   Performing the division:
+   \[
+   318 \div 3 = 106
+   \]
+
+Therefore, the average bowling score of Gretchen, Mitzi, and Beth is 106.
+</reasoning>
+<answer>106</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much the fisherman earns every day, we need to calculate the total earnings from both the Red snappers and the Tunas he catches.
+
+1. **Calculate the earnings from Red snappers:**
+   - The fisherman catches 8 Red snappers.
+   - Each Red snapper costs $3.
+   - To find the total earnings from the Red snappers, we multiply the number of Red snappers by the cost of each:
+     \[
+     \text{Earnings from Red snappers} = 8 \text{ Red snappers} \times 3 \text{ dollars/Red snapper} = 24 \text{ dollars}
+     \]
+
+2. **Calculate the earnings from Tunas:**
+   - The fisherman catches 14 Tunas.
+   - Each Tuna costs $2.
+   - To find the total earnings from the Tunas, we multiply the number of Tunas by the cost of each:
+     \[
+     \text{Earnings from Tunas} = 14 \text{ Tunas} \times 2 \text{ dollars/Tuna} = 28 \text{ dollars}
+     \]
+
+3. **Calculate the total earnings:**
+   - Now we add the earnings from the Red snappers and the Tunas to find the total earnings for the day:
+     \[
+     \text{Total Earnings} = \text{Earnings from Red snappers} + \text{Earnings from Tunas} = 24 \text{ dollars} + 28 \text{ dollars} = 52 \text{ dollars}
+     \]
+
+Therefore, the fisherman earns a total of $52 every day.
+</reasoning>
+<answer>52</answer>

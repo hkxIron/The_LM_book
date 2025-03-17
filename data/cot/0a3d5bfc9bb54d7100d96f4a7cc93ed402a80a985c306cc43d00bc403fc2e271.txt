@@ -1,0 +1,29 @@
+<reasoning>
+To solve for the average points scored per player on the team, we will follow these steps:
+
+1. **Determine Righty's score**: Since Lefty scores 20 points and Righty scores half as many as Lefty, we calculate Righty's score by taking half of Lefty's score. 
+   \[
+   \text{Righty's score} = \frac{20}{2} = 10 \text{ points}
+   \]
+
+2. **Determine the other teammate's score**: The other teammate scores 6 times as much as Righty. We calculate this by multiplying Righty's score by 6.
+   \[
+   \text{Other teammate's score} = 6 \times 10 = 60 \text{ points}
+   \]
+
+3. **Calculate the total score of all players**: Now, we add up the scores of all three players (Lefty, Righty, and the other teammate).
+   \[
+   \text{Total score} = \text{Lefty's score} + \text{Righty's score} + \text{Other teammate's score} 
+   \]
+   \[
+   \text{Total score} = 20 + 10 + 60 = 90 \text{ points}
+   \]
+
+4. **Calculate the average score**: There are 3 players on the team, so we find the average score by dividing the total score by the number of players.
+   \[
+   \text{Average score} = \frac{\text{Total score}}{\text{Number of players}} = \frac{90}{3} = 30 \text{ points}
+   \]
+
+Therefore, the average points scored per player on the team is 30.
+</reasoning>
+<answer>30</answer>

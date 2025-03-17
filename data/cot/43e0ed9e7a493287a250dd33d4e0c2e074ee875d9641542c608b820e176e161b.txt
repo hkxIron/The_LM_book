@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many pages Sally's book has, we need to calculate the total number of pages she reads in 2 weeks. 
+
+1. **Calculate the pages read on weekdays:**
+   - There are 5 weekdays in a week (Monday to Friday).
+   - Sally reads 10 pages each weekday.
+   - Therefore, in one week, the number of pages she reads on weekdays is:
+     \[
+     5 \text{ weekdays} \times 10 \text{ pages/weekday} = 50 \text{ pages/week}
+     \]
+   - For 2 weeks, the number of pages Sally reads on weekdays is:
+     \[
+     50 \text{ pages/week} \times 2 \text{ weeks} = 100 \text{ pages}
+     \]
+
+2. **Calculate the pages read on weekends:**
+   - There are 2 weekend days in a week (Saturday and Sunday).
+   - Sally reads 20 pages each weekend day.
+   - Therefore, in one week, the number of pages she reads on weekends is:
+     \[
+     2 \text{ weekend days} \times 20 \text{ pages/weekend day} = 40 \text{ pages/week}
+     \]
+   - For 2 weeks, the number of pages Sally reads on weekends is:
+     \[
+     40 \text{ pages/week} \times 2 \text{ weeks} = 80 \text{ pages}
+     \]
+
+3. **Total pages read in 2 weeks:**
+   - Now we add the pages from both weekdays and weekends to find the total number of pages read in 2 weeks:
+     \[
+     100 \text{ pages (weekdays)} + 80 \text{ pages (weekends)} = 180 \text{ pages}
+     \]
+
+Therefore, the total number of pages in Sally's book is 180.
+</reasoning>
+<answer>180</answer>

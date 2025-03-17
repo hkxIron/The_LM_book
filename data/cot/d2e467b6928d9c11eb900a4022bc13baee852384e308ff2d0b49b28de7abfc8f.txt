@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Tom paid for the shirts, we can break the problem down into several steps:
+
+1. **Calculate the total number of shirts Tom bought.**
+   - Tom buys 5 t-shirts from each of his 4 favorite fandoms.
+   - Total shirts = 5 shirts/fandom × 4 fandoms = 20 shirts.
+
+2. **Calculate the original cost of the shirts without the discount.**
+   - Each shirt costs $15.
+   - Total cost without discount = 20 shirts × $15/shirt = $300.
+
+3. **Calculate the discount amount.**
+   - There is a 20% discount on the total cost.
+   - Discount amount = 20% of $300 = 0.20 × $300 = $60.
+
+4. **Calculate the price after the discount.**
+   - Price after discount = Total cost - Discount amount = $300 - $60 = $240.
+
+5. **Calculate the tax on the discounted price.**
+   - There is a 10% tax on the discounted price.
+   - Tax amount = 10% of $240 = 0.10 × $240 = $24.
+
+6. **Calculate the final amount Tom has to pay.**
+   - Final amount = Price after discount + Tax amount = $240 + $24 = $264.
+
+Therefore, after calculating all the components including the discount and tax, we find that Tom paid a total of $264 for the shirts.
+</reasoning>
+<answer>264</answer>

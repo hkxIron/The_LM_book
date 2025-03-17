@@ -1,0 +1,36 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the total amount on the gift card**: Marlon starts with a gift card worth $200.
+
+2. **Calculate how much he spent on Monday**: He spent half of the gift card on Monday.
+   - Half of $200 is calculated as:
+     \[
+     \frac{200}{2} = 100
+     \]
+   So, Marlon spent $100 on Monday.
+
+3. **Determine the remaining balance after Monday**: We subtract the amount spent on Monday from the total amount.
+   - Remaining balance after Monday:
+     \[
+     200 - 100 = 100
+     \]
+   So, Marlon has $100 left after Monday.
+
+4. **Calculate how much he spent on Tuesday**: On Tuesday, he spent one-fourth of the remaining amount.
+   - One-fourth of $100 is calculated as:
+     \[
+     \frac{100}{4} = 25
+     \]
+   So, Marlon spent $25 on Tuesday.
+
+5. **Determine the remaining balance after Tuesday**: We subtract the amount spent on Tuesday from the remaining balance after Monday.
+   - Remaining balance after Tuesday:
+     \[
+     100 - 25 = 75
+     \]
+   So, after spending on Tuesday, Marlon has $75 left on his gift card.
+
+Therefore, the final amount left on Marlon's gift card is:
+</reasoning>
+<answer>75</answer>

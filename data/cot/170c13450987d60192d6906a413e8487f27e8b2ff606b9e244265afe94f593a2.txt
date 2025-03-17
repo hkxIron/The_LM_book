@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we need to determine the cost of renting a car for Jennie based on the car-rental agency's pricing structure.
+
+1. **Understanding the Pricing**: The agency charges $30 per day for a rental, but there is a special rate of $190 for a full week (7 days) or longer. Since Jennie rented the car for 11 days, we need to first check if she can take advantage of the weekly rate.
+
+2. **Calculating Weekly Rate for 11 Days**: 
+   - Since Jennie's rental lasts for more than a week (11 days), we can use the weekly rate of $190 for the first week.
+   - After the first week, she has 4 additional days (11 days total - 7 days for the first week).
+
+3. **Calculating Additional Days**: 
+   - For the additional 4 days, we apply the daily rate of $30 per day.
+   - So, the cost for these additional 4 days is calculated as: 
+     \[
+     4 \text{ days} \times 30 \text{ dollars/day} = 120 \text{ dollars}
+     \]
+
+4. **Total Cost Calculation**:
+   - Now, we need to add the cost of the first week and the cost of the additional days together:
+     \[
+     190 \text{ dollars (first week)} + 120 \text{ dollars (additional days)} = 310 \text{ dollars}
+     \]
+
+Therefore, the total amount Jennie paid for the rental is $310.
+</reasoning>
+<answer>310</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we first need to determine the number of circles and squares Pete used based on the information given about the US flag.
+
+1. **Calculate the number of circles:**
+   - The US flag has 50 stars.
+   - Pete used 3 less than half the number of stars.
+   - First, we find half of the number of stars:
+     \[
+     \text{Half of stars} = \frac{50}{2} = 25
+     \]
+   - Now, we subtract 3 from this amount:
+     \[
+     \text{Number of circles} = 25 - 3 = 22
+     \]
+
+2. **Calculate the number of squares:**
+   - The US flag has 13 stripes.
+   - Pete used six more than twice the number of stripes.
+   - First, we find twice the number of stripes:
+     \[
+     \text{Twice the stripes} = 2 \times 13 = 26
+     \]
+   - Now, we add 6 to this amount:
+     \[
+     \text{Number of squares} = 26 + 6 = 32
+     \]
+
+3. **Combine the total number of circles and squares:**
+   - Now we add the number of circles and squares together:
+     \[
+     \text{Total} = \text{Number of circles} + \text{Number of squares} = 22 + 32 = 54
+     \]
+
+Therefore, the combined total number of circles and squares on Pete's flag is 54.
+</reasoning>
+<answer>54</answer>

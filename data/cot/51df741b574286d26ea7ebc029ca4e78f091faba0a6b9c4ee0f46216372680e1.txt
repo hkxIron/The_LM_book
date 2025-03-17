@@ -1,0 +1,35 @@
+<reasoning>
+First, let's determine how many stamps each person had before any trades:
+
+- Anna had 37 stamps.
+- Alison had 28 stamps.
+- Jeff had 31 stamps.
+
+Next, we will calculate the number of stamps Alison gave to Anna. Alison gave Anna half of her collection:
+
+\[
+\text{Half of Alison's stamps} = \frac{28}{2} = 14
+\]
+
+Now, we will update Anna's total stamps after this exchange. 
+
+\[
+\text{Anna's stamps after receiving from Alison} = 37 + 14 = 51
+\]
+
+Next, we need to account for the trade between Anna and Jeff. Anna traded 2 bluebird stamps to Jeff for 1 mountain stamp. 
+
+After this trade, Anna will lose 2 stamps but gain 1 stamp:
+
+1. Anna loses 2 bluebird stamps.
+2. Anna gains 1 mountain stamp.
+
+Now we can calculate Anna's total stamps after this trade:
+
+\[
+\text{Anna's stamps after trading with Jeff} = 51 - 2 + 1 = 50
+\]
+
+Thus, at the end of all the transactions, Anna has a total of 50 stamps.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To find Jonathan's weekly caloric deficit, we need to calculate his total calorie intake for the week and his total calorie expenditure for the week. Then, we'll subtract the total intake from the total expenditure to find the deficit.
+
+1. **Calculate daily caloric intake**:
+   - Jonathan eats 2500 calories each day from Sunday to Friday (6 days).
+   - On Saturday, he consumes an extra 1000 calories, so his intake for that day is 2500 + 1000 = 3500 calories.
+
+2. **Calculate total caloric intake for the week**:
+   - For Sunday to Friday: 6 days × 2500 calories/day = 15000 calories.
+   - For Saturday: 3500 calories.
+   - Total caloric intake = 15000 + 3500 = 18500 calories.
+
+3. **Calculate daily caloric expenditure**:
+   - Jonathan burns 3000 calories every day, including Saturday.
+
+4. **Calculate total caloric expenditure for the week**:
+   - Total caloric expenditure = 7 days × 3000 calories/day = 21000 calories.
+
+5. **Calculate the weekly caloric deficit**:
+   - Weekly caloric deficit = Total caloric expenditure - Total caloric intake
+   - = 21000 calories - 18500 calories = 2500 calories.
+
+Therefore, Jonathan has a weekly caloric deficit of 2500 calories.
+</reasoning>
+<answer>2500</answer>

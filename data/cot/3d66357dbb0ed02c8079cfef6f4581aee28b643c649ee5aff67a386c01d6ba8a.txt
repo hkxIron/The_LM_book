@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many bottles of wine will remain in Jose's cellar after the party, we will proceed step by step.
+
+1. **Determine the number of domestic wine bottles**: 
+   - Jose has 2400 bottles of imported wine.
+   - The problem states that he has half as many bottles of domestic wine as imported wine.
+   - To find the number of domestic wine bottles, we calculate:
+     \[
+     \text{Domestic wine} = \frac{1}{2} \times \text{Imported wine} = \frac{1}{2} \times 2400 = 1200
+     \]
+   - So, Jose has 1200 bottles of domestic wine.
+
+2. **Calculate the total number of wine bottles**: 
+   - Now, we add the number of imported wine and domestic wine to find the total:
+     \[
+     \text{Total wine} = \text{Imported wine} + \text{Domestic wine} = 2400 + 1200 = 3600
+     \]
+   - Therefore, Jose has a total of 3600 bottles of wine.
+
+3. **Determine how much wine is consumed at the party**: 
+   - The guests drink one-third of all the wine. So, we calculate:
+     \[
+     \text{Wine consumed} = \frac{1}{3} \times \text{Total wine} = \frac{1}{3} \times 3600 = 1200
+     \]
+   - Thus, 1200 bottles of wine are consumed at the party.
+
+4. **Calculate the remaining bottles in the cellar**: 
+   - Finally, we subtract the amount of wine consumed from the total amount:
+     \[
+     \text{Remaining wine} = \text{Total wine} - \text{Wine consumed} = 3600 - 1200 = 2400
+     \]
+   - Therefore, after the party, Jose has 2400 bottles of wine remaining in his cellar.
+</reasoning>
+<answer>2400</answer>

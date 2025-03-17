@@ -1,0 +1,32 @@
+<reasoning>
+To solve this problem, we need to determine how many weeks Oscar will need to train to reach a total of 20 miles, given that he starts with 2 miles and increases his distance by 2/3 of a mile each week.
+
+1. **Identify Oscar's current distance and target distance**:
+   - Current distance: 2 miles
+   - Target distance: 20 miles
+
+2. **Calculate the distance Oscar needs to cover**:
+   - We subtract his current distance from the target distance:
+     \[
+     \text{Distance to cover} = \text{Target distance} - \text{Current distance} = 20 - 2 = 18 \text{ miles}
+     \]
+
+3. **Determine the weekly distance increase**:
+   - Oscar plans to add 2/3 of a mile each week.
+
+4. **Calculate how many weeks it will take to cover the remaining distance**:
+   - We need to divide the total distance he needs to cover by the distance he increases each week:
+     \[
+     \text{Weeks needed} = \frac{\text{Distance to cover}}{\text{Weekly increase}} = \frac{18}{\frac{2}{3}}
+     \]
+   - To divide by a fraction, we multiply by its reciprocal:
+     \[
+     \text{Weeks needed} = 18 \times \frac{3}{2} = \frac{18 \times 3}{2} = \frac{54}{2} = 27
+     \]
+
+5. **Conclusion**:
+   - Oscar needs to train for 27 weeks before the marathon to reach his goal of running 20 miles.
+
+Therefore, the number of weeks before the marathon that he should start training is:
+</reasoning>
+<answer>27</answer>

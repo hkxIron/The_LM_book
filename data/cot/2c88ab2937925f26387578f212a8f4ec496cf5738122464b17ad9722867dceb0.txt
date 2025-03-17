@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many students are in the class now, let's go through the problem step by step.
+
+1. **Determine the initial number of girls in the class.**  
+   We know there are 15 boys in the class. The number of girls is given to be 20% greater than the number of boys.  
+   To calculate the number of girls, we first find 20% of the number of boys:  
+   \[
+   20\% \text{ of } 15 = 0.20 \times 15 = 3
+   \]
+   Therefore, the number of girls is:  
+   \[
+   \text{Number of girls} = \text{Number of boys} + 20\% \text{ of Number of boys} = 15 + 3 = 18
+   \]
+
+2. **Calculate the total number of students at the beginning of the academic year.**  
+   Now that we have the number of boys and girls, we can find the total number of students:  
+   \[
+   \text{Total students} = \text{Number of boys} + \text{Number of girls} = 15 + 18 = 33
+   \]
+
+3. **Determine the new number of girls after the transfer students are admitted.**  
+   Later in the year, the number of girls doubles. Therefore, we calculate the new number of girls as follows:  
+   \[
+   \text{New number of girls} = 2 \times \text{Original number of girls} = 2 \times 18 = 36
+   \]
+
+4. **Calculate the new total number of students in the class.**  
+   The number of boys remains the same (15), and now we have the new number of girls (36). So, we find the new total:  
+   \[
+   \text{New total students} = \text{Number of boys} + \text{New number of girls} = 15 + 36 = 51
+   \]
+
+Thus, after all calculations, we find that the total number of students in the class now is:
+</reasoning>
+<answer>51</answer>

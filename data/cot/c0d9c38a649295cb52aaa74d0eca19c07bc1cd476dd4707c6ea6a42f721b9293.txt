@@ -1,0 +1,56 @@
+<reasoning>
+Let's break down the information we have step by step.
+
+1. **Identify the total number of campers**: 
+   We know that over the past three weeks, there were a total of 150 campers. 
+
+2. **Set up variables for each week**: 
+   Let:
+   - \( x \) be the number of campers three weeks ago.
+   - \( y \) be the number of campers two weeks ago.
+   - \( z \) be the number of campers last week.
+
+3. **Translate the information into equations**: 
+   From the problem, we know:
+   - Two weeks ago (y), there were 40 campers.
+   - This was 10 more than the number of campers three weeks ago (x). Therefore, we can write:
+     \[
+     y = x + 10
+     \]
+
+   Since we know \( y = 40 \), we can substitute that into the equation:
+   \[
+   40 = x + 10
+   \]
+
+4. **Solve for \( x \)**:
+   To find \( x \), we rearrange the equation:
+   \[
+   x = 40 - 10 = 30
+   \]
+   So, there were 30 campers three weeks ago.
+
+5. **Determine the total campers over the three weeks**:
+   Now we can express the total number of campers:
+   \[
+   x + y + z = 150
+   \]
+   Substituting the known values:
+   \[
+   30 + 40 + z = 150
+   \]
+
+6. **Solve for \( z \)**:
+   Rearranging the equation gives:
+   \[
+   z = 150 - 30 - 40
+   \]
+   Simplifying that:
+   \[
+   z = 150 - 70 = 80
+   \]
+   Thus, there were 80 campers last week.
+
+Finally, after all these calculations, we find out the number of campers last week.
+</reasoning>
+<answer>80</answer>

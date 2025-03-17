@@ -1,0 +1,32 @@
+<reasoning>
+First, we need to find out how much time Matt spent on math and science. 
+
+1. **Calculate the time spent on math:**
+   - Matt spent 30% of his total homework time on math.
+   - To find 30% of 150 minutes, we use the formula: 
+     \[
+     \text{Time on math} = 150 \times \frac{30}{100} = 150 \times 0.30 = 45 \text{ minutes}
+     \]
+
+2. **Calculate the time spent on science:**
+   - Matt spent 40% of his total homework time on science.
+   - To find 40% of 150 minutes, we use the formula:
+     \[
+     \text{Time on science} = 150 \times \frac{40}{100} = 150 \times 0.40 = 60 \text{ minutes}
+     \]
+
+3. **Calculate the total time spent on math and science:**
+   - Now, we can add the time spent on both subjects:
+     \[
+     \text{Total time on math and science} = 45 + 60 = 105 \text{ minutes}
+     \]
+
+4. **Calculate the remaining time for other subjects:**
+   - To find the time spent on other subjects, we subtract the time spent on math and science from the total time:
+     \[
+     \text{Time on other subjects} = 150 - 105 = 45 \text{ minutes}
+     \]
+
+Thus, Matt spent 45 minutes on homework for other subjects.
+</reasoning>
+<answer>45</answer>

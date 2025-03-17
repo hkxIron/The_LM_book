@@ -1,0 +1,58 @@
+<reasoning>
+To solve the problem, we need to determine how many 6-inch and 12-inch wicks Amy can cut from a 15-foot spool of string.
+
+1. **Convert the total length of string from feet to inches.**
+   - Since 1 foot is equal to 12 inches, we convert 15 feet to inches:
+     \[
+     15 \text{ feet} = 15 \times 12 \text{ inches} = 180 \text{ inches}
+     \]
+   - So, Amy has a total of 180 inches of string.
+
+2. **Let’s denote the number of 6-inch wicks as \(x\) and the number of 12-inch wicks as \(y\).**
+   - Each 6-inch wick uses 6 inches of string, and each 12-inch wick uses 12 inches of string.
+
+3. **Set up the equation based on the total length of string used.**
+   - The total length of the wicks must equal the total length of the string. Therefore, we can write the equation:
+     \[
+     6x + 12y = 180
+     \]
+
+4. **Simplify the equation.**
+   - We can divide the entire equation by 6 to make it simpler:
+     \[
+     x + 2y = 30
+     \]
+
+5. **Determine the possible combinations of \(x\) and \(y\).**
+   - Rearranging gives us:
+     \[
+     x = 30 - 2y
+     \]
+   - \(x\) must be a non-negative integer, which means \(30 - 2y \geq 0\). Therefore:
+     \[
+     30 \geq 2y \implies 15 \geq y
+     \]
+   - This means \(y\) can take any integer value from 0 to 15.
+
+6. **Calculate the total number of wicks for each possible value of \(y\).**
+   - For each \(y\), we can determine \(x\) and thus the total number of wicks \(T\) would be:
+     \[
+     T = x + y = (30 - 2y) + y = 30 - y
+     \]
+   - Thus, as \(y\) increases from 0 to 15, \(T\) decreases from 30 to 15.
+
+7. **Determine the total number of wicks.**
+   - The maximum number of wicks occurs when \(y = 0\) (only 6-inch wicks), which gives \(T = 30\).
+   - The minimum occurs when \(y = 15\) (only 12-inch wicks), which gives \(T = 15\).
+
+Since we are looking for the total number of wicks Amy can cut up, it can vary depending on the choice of how many of each wick she cuts. However, the total possible combinations give us a range of 15 to 30 wicks.
+
+**Assuming she cuts an equal number of both types (which means \(y\) must equal \(x/2\)), let's find a scenario:**
+- If \(y = 10\) then \(x = 30 - 2(10) = 10\). Thus, the total number of wicks would be:
+  \[
+  T = 10 + 10 = 20
+  \]
+
+Therefore, the total number of wicks she can cut, assuming different combinations, leads us to conclude:
+</reasoning>
+<answer>20</answer>

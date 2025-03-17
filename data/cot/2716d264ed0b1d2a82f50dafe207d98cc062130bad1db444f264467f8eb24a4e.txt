@@ -1,0 +1,24 @@
+<reasoning>
+First, let's determine the total number of pizza slices available at the party. 
+
+1. **Calculate the total number of slices in the pizzas:**
+   - Each pizza has 12 slices.
+   - There are 4 pizzas.
+   - To find the total number of slices, we multiply the number of pizzas by the number of slices per pizza:
+     \[
+     \text{Total slices} = 4 \text{ pizzas} \times 12 \text{ slices/pizza} = 48 \text{ slices}
+     \]
+   This means there are 48 slices of pizza in total at the party.
+
+2. **Determine how many slices are eaten by the guests:**
+   - It's given that the guests eat 39 slices.
+
+3. **Calculate the number of slices left:**
+   - To find out how many slices are left after the guests have eaten, we subtract the number of slices eaten from the total number of slices:
+     \[
+     \text{Slices left} = \text{Total slices} - \text{Slices eaten} = 48 \text{ slices} - 39 \text{ slices} = 9 \text{ slices}
+     \]
+
+Therefore, after the guests eat, there are 9 slices of pizza remaining.
+</reasoning>
+<answer>9</answer>

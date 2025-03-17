@@ -1,0 +1,64 @@
+<reasoning>
+Let's define the ages of Markus, his son, and his grandson with variables:
+
+- Let \( M \) be Markus's age.
+- Let \( S \) be Markus's son's age.
+- Let \( G \) be Markus's grandson's age.
+
+According to the problem, we have the following relationships:
+
+1. Markus is twice the age of his son:
+   \[
+   M = 2S
+   \]
+
+2. Markus's son is twice the age of Markus's grandson:
+   \[
+   S = 2G
+   \]
+
+3. The sum of their ages is 140 years:
+   \[
+   M + S + G = 140
+   \]
+
+Now, we can substitute the expressions for \( M \) and \( S \) from the first two equations into the sum equation.
+
+Starting with the sum equation:
+\[
+M + S + G = 140
+\]
+
+Substituting \( M = 2S \) into the equation:
+\[
+2S + S + G = 140
+\]
+
+This simplifies to:
+\[
+3S + G = 140
+\]
+
+Now, substitute \( S = 2G \) into the equation:
+\[
+3(2G) + G = 140
+\]
+
+This simplifies to:
+\[
+6G + G = 140
+\]
+\[
+7G = 140
+\]
+
+Now, divide both sides by 7 to solve for \( G \):
+\[
+G = \frac{140}{7} = 20
+\]
+
+Thus, Markus's grandson is 20 years old. 
+
+Therefore, we conclude that:
+</reasoning>
+<answer>20</answer>

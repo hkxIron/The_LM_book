@@ -1,0 +1,50 @@
+<reasoning>
+Let's begin by determining the amount of cereal in each of the three boxes step by step.
+
+1. **Identify the amount in the first box:**
+   The first box holds 14 ounces of cereal.
+   \[
+   \text{Amount in the first box} = 14 \text{ ounces}
+   \]
+
+2. **Determine the amount in the second box:**
+   According to the problem, the second box holds half the amount of the first box. Therefore, we calculate:
+   \[
+   \text{Amount in the second box} = \frac{14}{2} = 7 \text{ ounces}
+   \]
+
+3. **Determine the amount in the third box:**
+   The problem states that the second box holds 5 ounces less than the third box. We can set up an equation to find the amount of cereal in the third box. Let \( x \) be the amount in the third box. We know that:
+   \[
+   \text{Amount in the second box} + 5 = \text{Amount in the third box}
+   \]
+   Substituting the amount from the second box:
+   \[
+   7 + 5 = x
+   \]
+   Thus,
+   \[
+   x = 12 \text{ ounces}
+   \]
+   Therefore, the third box holds 12 ounces of cereal.
+
+4. **Total the amounts in all three boxes:**
+   Now that we have the amounts in all boxes, we can find the total:
+   \[
+   \text{Total} = \text{Amount in the first box} + \text{Amount in the second box} + \text{Amount in the third box}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total} = 14 + 7 + 12
+   \]
+
+5. **Calculate the total:**
+   Performing the addition gives:
+   \[
+   \text{Total} = 14 + 7 = 21 \\
+   \text{Total} = 21 + 12 = 33
+   \]
+
+Thus, the total amount of cereal in all three boxes is 33 ounces.
+</reasoning>
+<answer>33</answer>

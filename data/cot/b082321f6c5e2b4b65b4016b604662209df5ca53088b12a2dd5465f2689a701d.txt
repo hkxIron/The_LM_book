@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much change Gemma received, we need to calculate the total cost of the pizzas and the tip, then subtract that from the amount she paid with the fifty-dollar bill.
+
+1. **Calculate the total cost of the pizzas:**  
+   Gemma ordered four pizzas at $10 each. We multiply the number of pizzas by the cost per pizza:  
+   \[ 
+   4 \text{ pizzas} \times 10 \text{ dollars/pizza} = 40 \text{ dollars} 
+   \]  
+   This means the total cost of the pizzas is $40.
+
+2. **Add the tip:**  
+   Gemma also gave a $5 tip to the delivery person. We add this tip to the total cost of the pizzas:  
+   \[ 
+   40 \text{ dollars} + 5 \text{ dollars} = 45 \text{ dollars} 
+   \]  
+   So now the total cost including the tip is $45.
+
+3. **Calculate the change from the payment:**  
+   Gemma paid with a fifty-dollar bill. To find out how much change she gets back, we subtract the total cost from the amount she paid:  
+   \[ 
+   50 \text{ dollars} - 45 \text{ dollars} = 5 \text{ dollars} 
+   \]  
+   This means Gemma received $5 in change.
+
+Therefore, after completing all the calculations and reasoning, we find that the amount of change Gemma received is:
+</reasoning>
+<answer>5</answer>

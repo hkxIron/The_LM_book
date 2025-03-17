@@ -1,0 +1,42 @@
+<reasoning>
+To solve this problem, we will break it down into steps:
+
+1. **Determine the weekly cost of food for the parrot**:
+   We know the total amount Julia spends on food for both animals each week is $30. The rabbit food costs $12 per week. To find the cost of the parrot's food, we will subtract the rabbit's cost from the total weekly cost.
+   \[
+   \text{Cost of parrot food} = \text{Total weekly cost} - \text{Cost of rabbit food}
+   \]
+   \[
+   \text{Cost of parrot food} = 30 - 12 = 18 \text{ dollars}
+   \]
+
+2. **Calculate the total cost of food for the rabbit**:
+   Julia has the rabbit for 5 weeks. To find out how much she spent on rabbit food, we multiply the weekly cost of rabbit food by the number of weeks.
+   \[
+   \text{Total cost for rabbit food} = \text{Cost of rabbit food} \times \text{Number of weeks}
+   \]
+   \[
+   \text{Total cost for rabbit food} = 12 \times 5 = 60 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of food for the parrot**:
+   Julia has the parrot for 3 weeks. Using the cost we calculated for the parrot's food, we will now find out how much she spent on parrot food.
+   \[
+   \text{Total cost for parrot food} = \text{Cost of parrot food} \times \text{Number of weeks}
+   \]
+   \[
+   \text{Total cost for parrot food} = 18 \times 3 = 54 \text{ dollars}
+   \]
+
+4. **Calculate the total amount Julia spent on food for both animals**:
+   Now, we will add the total costs of the food for both the rabbit and the parrot.
+   \[
+   \text{Total cost for both animals} = \text{Total cost for rabbit food} + \text{Total cost for parrot food}
+   \]
+   \[
+   \text{Total cost for both animals} = 60 + 54 = 114 \text{ dollars}
+   \]
+
+Therefore, Julia has already spent a total of $114 on food for her rabbit and parrot over the specified time.
+</reasoning>
+<answer>114</answer>

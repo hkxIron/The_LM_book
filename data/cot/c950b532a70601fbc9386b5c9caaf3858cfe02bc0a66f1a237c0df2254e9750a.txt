@@ -1,0 +1,42 @@
+<reasoning>
+To solve this problem, we need to break down the total time it takes for Elsa to complete the entire process of making black & white cookies.
+
+1. **Total Time**: We know that the total time from start to finish is 2 hours. In minutes, this is:
+   \[
+   2 \text{ hours} = 2 \times 60 = 120 \text{ minutes}
+   \]
+
+2. **Icing Time**: Elsa dips the cookies in white icing and allows the icing to harden for 30 minutes. After that, she re-dips them in chocolate icing and allows that to harden for another 30 minutes. So, the total time spent on icing is:
+   \[
+   30 \text{ minutes (white icing)} + 30 \text{ minutes (chocolate icing)} = 60 \text{ minutes}
+   \]
+
+3. **Baking Time**: The problem states that the cookies need to bake for 15 minutes.
+
+4. **Calculating Time for Dough Making and Cooling**: Now, we need to find the time it takes for making the dough and cooling the cookies. Let's denote the time spent making the dough and cooling as \( x \). The total time equation can be set up as:
+   \[
+   x + \text{(baking time)} + \text{(icing time)} = \text{total time}
+   \]
+   Substituting in the known values:
+   \[
+   x + 15 \text{ minutes (baking)} + 60 \text{ minutes (icing)} = 120 \text{ minutes}
+   \]
+
+5. **Solving for \( x \)**:
+   \[
+   x + 15 + 60 = 120
+   \]
+   \[
+   x + 75 = 120
+   \]
+   Now, subtract 75 from both sides:
+   \[
+   x = 120 - 75
+   \]
+   \[
+   x = 45 \text{ minutes}
+   \]
+
+Thus, it takes Elsa 45 minutes to make the dough and allow the cookies to cool before she can start dipping them.
+</reasoning>
+<answer>45</answer>

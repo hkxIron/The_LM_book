@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much Jill and Bob paid for their new house, we need to analyze the information given in the problem.
+
+1. Let's denote the price of the first house as \( x \). 
+2. According to the problem, the second house was twice as expensive as the first house. Therefore, the price of the second house can be represented as \( 2x \).
+3. We are told that the total price of both houses is $600,000. This can be expressed in an equation:
+   \[
+   x + 2x = 600,000
+   \]
+
+4. Now, we will combine like terms on the left side of the equation:
+   \[
+   3x = 600,000
+   \]
+
+5. Next, we need to solve for \( x \) by dividing both sides of the equation by 3:
+   \[
+   x = \frac{600,000}{3}
+   \]
+
+6. Performing the division:
+   \[
+   x = 200,000
+   \]
+
+7. The price of the first house, which is what Jill and Bob ended up paying, is $200,000.
+
+Therefore, Jill and Bob ended up paying for their new house:
+</reasoning>
+<answer>200000</answer>

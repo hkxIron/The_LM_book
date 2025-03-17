@@ -1,0 +1,31 @@
+<reasoning>
+To find the regular price of one pen, let's denote the regular price of one pen as \( p \) dollars.
+
+1. **Understanding the pricing structure**: The customer buys 20 pens in total. The first 10 pens are bought at the regular price, and the next 10 pens are bought at half off the regular price. Therefore, the cost of the first 10 pens can be calculated as:
+   \[
+   \text{Cost of first 10 pens} = 10p
+   \]
+
+2. **Calculating the price of the second batch of pens**: The second batch of 10 pens is bought at half off, which means they cost:
+   \[
+   \text{Cost of second 10 pens} = 10 \times \left(\frac{p}{2}\right) = 5p
+   \]
+
+3. **Adding the costs together**: The total cost for 20 pens is the sum of the costs for the first and second batches:
+   \[
+   \text{Total cost} = 10p + 5p = 15p
+   \]
+
+4. **Setting up the equation**: We know from the problem that the customer paid $30 for the 20 pens. Therefore, we can set up the equation:
+   \[
+   15p = 30
+   \]
+
+5. **Solving for \( p \)**: To find the regular price \( p \), we divide both sides of the equation by 15:
+   \[
+   p = \frac{30}{15} = 2
+   \]
+
+Thus, the regular price of one pen is $2.
+</reasoning>
+<answer>2</answer>

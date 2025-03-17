@@ -1,0 +1,33 @@
+<reasoning>
+Let's define the number of each type of cloud:
+
+1. Let \( C \) be the number of cumulonimbus clouds.
+2. Let \( U \) be the number of cumulus clouds.
+3. Let \( R \) be the number of cirrus clouds.
+
+From the problem, we know the following:
+
+- The sky currently has 3 cumulonimbus clouds, so \( C = 3 \).
+- The number of cumulus clouds is 12 times the number of cumulonimbus clouds. Therefore, we can write:
+  \[
+  U = 12 \times C
+  \]
+  Substituting the value of \( C \):
+  \[
+  U = 12 \times 3 = 36
+  \]
+
+- The number of cirrus clouds is 4 times the number of cumulus clouds. Thus, we can write:
+  \[
+  R = 4 \times U
+  \]
+  Substituting the value of \( U \):
+  \[
+  R = 4 \times 36 = 144
+  \]
+
+Now we have calculated the number of cirrus clouds. 
+
+Therefore, the number of cirrus clouds in the sky at this moment is:
+</reasoning>
+<answer>144</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many individual ears of corn Clyde picked, we will follow these steps:
+
+1. **Calculate the total weight of corn picked**: Since each bushel of corn weighs 56 pounds and Clyde picked 2 bushels, we need to multiply the weight of one bushel by the number of bushels.
+
+   \[
+   \text{Total weight} = \text{Weight of one bushel} \times \text{Number of bushels} = 56 \text{ pounds} \times 2 = 112 \text{ pounds}
+   \]
+
+   This step is important because we need to know the total weight of the corn to find out how many individual ears of corn that weight corresponds to.
+
+2. **Calculate the weight of individual ears of corn**: Each individual ear of corn weighs 0.5 pounds. To find out how many ears of corn are in the total weight, we will divide the total weight of the corn by the weight of one ear.
+
+   \[
+   \text{Number of ears} = \frac{\text{Total weight}}{\text{Weight of one ear}} = \frac{112 \text{ pounds}}{0.5 \text{ pounds}} = 224
+   \]
+
+   This division tells us how many individual ears of corn correspond to the total weight of corn Clyde picked.
+
+Therefore, Clyde picked a total of 224 individual corn cobs.
+</reasoning>
+<answer>224</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many students were in Ms. Jones' class, we need to solve the problem step by step.
+
+1. **Start with the information given:**
+   Ms. Jones received thank you cards from 30% of her class. Let's denote the total number of students in the class as \( x \).
+
+2. **Calculate the number of thank you cards received:**
+   Since she received thank you cards from 30% of her class, the number of thank you cards can be expressed as:
+   \[
+   0.30x
+   \]
+
+3. **Determine how many of these cards contained a gift card:**
+   We know that 1/3 of the thank you cards contained a gift card. Therefore, the number of cards with gift cards is:
+   \[
+   \frac{1}{3} \times 0.30x = 0.10x
+   \]
+
+4. **Calculate the total value of the gift cards:**
+   Each gift card is worth $10. If \( 0.10x \) represents the number of gift cards, the total value of the gift cards can be calculated as:
+   \[
+   10 \times 0.10x = x
+   \]
+
+5. **Set up the equation based on the total value given:**
+   According to the problem, Ms. Jones got a total of $50 in gift cards. Therefore, we can set up the equation:
+   \[
+   x = 50
+   \]
+
+6. **Solve for \( x \):**
+   From the equation \( x = 50 \), we find that the total number of students in Ms. Jones' class is:
+   \[
+   x = 50
+   \]
+
+Therefore, the total number of students in Ms. Jones' class is 50.
+</reasoning>
+<answer>50</answer>

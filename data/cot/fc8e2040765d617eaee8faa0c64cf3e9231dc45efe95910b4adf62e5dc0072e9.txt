@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we first need to determine how long the movie is in minutes since John uses the bathroom every 50 minutes.
+
+1. **Convert the movie duration from hours to minutes**: 
+   - We know that 1 hour is equal to 60 minutes.
+   - Therefore, for 2.5 hours: 
+     \[
+     2.5 \text{ hours} \times 60 \text{ minutes/hour} = 150 \text{ minutes}
+     \]
+
+2. **Determine how many times John uses the bathroom**: 
+   - John uses the bathroom every 50 minutes. 
+   - To find out how many times he uses the bathroom during the 150 minutes of the movie, we will divide the total movie time by the time interval for bathroom use:
+     \[
+     \frac{150 \text{ minutes}}{50 \text{ minutes/use}} = 3 \text{ uses}
+     \]
+
+3. **Conclusion**:
+   - This means that John will use the bathroom 3 times during the 2.5-hour movie.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>3</answer>

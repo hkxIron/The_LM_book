@@ -1,0 +1,25 @@
+<reasoning>
+To determine how much free time Jackie has in a day, we need to account for all the time she spends working, exercising, and sleeping, and then subtract that from the total hours in a day.
+
+1. **Calculate the total hours Jackie spends on work, exercise, and sleep:**
+   - Jackie spends 8 hours working.
+   - Jackie spends 3 hours exercising.
+   - Jackie spends 8 hours sleeping.
+
+   Now, we add these hours together:
+   \[
+   8 \text{ (work)} + 3 \text{ (exercise)} + 8 \text{ (sleep)} = 19 \text{ hours}
+   \]
+
+2. **Determine the total hours in a day:**
+   - There are 24 hours in a day.
+
+3. **Calculate the free time Jackie has:**
+   - To find the free time, we subtract the total hours spent on work, exercise, and sleep from the total hours in a day:
+   \[
+   24 \text{ (total hours)} - 19 \text{ (hours spent)} = 5 \text{ hours}
+   \]
+
+Therefore, Jackie has 5 hours of free time in a day.
+</reasoning>
+<answer>5</answer>

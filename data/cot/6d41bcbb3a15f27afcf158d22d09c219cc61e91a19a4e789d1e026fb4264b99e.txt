@@ -1,0 +1,52 @@
+<reasoning>
+Let's define the lifespans of the animals using variables. 
+
+1. Let \( b \) be the lifespan of the bat in years.
+2. Since the lifespan of a hamster is 6 years less than that of a bat, we can express the lifespan of the hamster as \( h = b - 6 \).
+3. The lifespan of a frog is 4 times that of a hamster, so we can express the lifespan of the frog as \( f = 4h = 4(b - 6) \).
+
+Next, we know that the total lifespan of all the animals is 30 years. So we can set up the equation:
+
+\[
+b + h + f = 30
+\]
+
+Now, substituting the expressions for \( h \) and \( f \) in terms of \( b \):
+
+\[
+b + (b - 6) + 4(b - 6) = 30
+\]
+
+Now, let's simplify this equation step by step:
+
+1. First, simplify \( f \):
+   \[
+   f = 4(b - 6) = 4b - 24
+   \]
+
+2. Substitute this back into the equation:
+   \[
+   b + (b - 6) + (4b - 24) = 30
+   \]
+
+3. Combine like terms:
+   \[
+   b + b - 6 + 4b - 24 = 30
+   \]
+   \[
+   6b - 30 = 30
+   \]
+
+4. Add 30 to both sides:
+   \[
+   6b = 60
+   \]
+
+5. Divide both sides by 6 to solve for \( b \):
+   \[
+   b = 10
+   \]
+
+Thus, the lifespan of the bat is 10 years.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many stamps Marie has in total and how many she can give away, let's break down the problem step by step.
+
+1. **Calculate the total number of stamps in the notebooks:**
+   - Marie has 4 notebooks and each notebook has 20 stamps.
+   - To find the total number of stamps in the notebooks, we multiply the number of notebooks by the number of stamps per notebook:
+     \[
+     4 \text{ notebooks} \times 20 \text{ stamps/notebook} = 80 \text{ stamps}
+     \]
+
+2. **Calculate the total number of stamps in the binders:**
+   - Marie has 2 binders and each binder has 50 stamps.
+   - To find the total number of stamps in the binders, we multiply the number of binders by the number of stamps per binder:
+     \[
+     2 \text{ binders} \times 50 \text{ stamps/binder} = 100 \text{ stamps}
+     \]
+
+3. **Calculate the total number of stamps Marie has:**
+   - Now, we add the total stamps from the notebooks and the binders together:
+     \[
+     80 \text{ stamps (from notebooks)} + 100 \text{ stamps (from binders)} = 180 \text{ stamps}
+     \]
+
+4. **Determine how many stamps Marie decides to keep:**
+   - Marie decides to keep 1/4 of her total stamps. We calculate 1/4 of 180 stamps:
+     \[
+     \frac{1}{4} \times 180 = 45 \text{ stamps}
+     \]
+
+5. **Calculate how many stamps Marie can give away:**
+   - To find out how many stamps she can give away, we subtract the number of stamps she keeps from the total number of stamps:
+     \[
+     180 \text{ stamps (total)} - 45 \text{ stamps (kept)} = 135 \text{ stamps}
+     \]
+
+In conclusion, Marie can give away 135 stamps.
+</reasoning>
+<answer>135</answer>

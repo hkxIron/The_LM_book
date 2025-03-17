@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many bonus points Tom earned, we need to follow these steps:
+
+1. **Calculate the total number of customers served by Tom in one day.**
+   - Tom served 10 customers per hour.
+   - He worked for 8 hours.
+   - Therefore, the total customers served can be calculated as: 
+     \[
+     \text{Total customers} = \text{customers per hour} \times \text{hours worked} = 10 \times 8 = 80
+     \]
+   - This means Tom served 80 customers in total.
+
+2. **Determine how many bonus points Tom earns for these customers.**
+   - According to the problem, Tom earns bonus points equal to 20% of the number of customers served.
+   - To calculate 20% of the total customers served (80), we can use the formula:
+     \[
+     \text{Bonus Points} = 0.20 \times \text{Total customers} = 0.20 \times 80
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Bonus Points} = 0.20 \times 80 = 16
+     \]
+
+Therefore, Tom earned a total of 16 bonus points for the day.
+</reasoning>
+<answer>16</answer>

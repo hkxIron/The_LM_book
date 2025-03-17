@@ -1,0 +1,47 @@
+<reasoning>
+To find out how much Lennon will be reimbursed for his mileage, we will calculate the total miles he drove over the week and then multiply that by the reimbursement rate of $0.36 per mile.
+
+1. First, let's calculate the total miles driven for each day of the week:
+   - Monday: 18 miles
+   - Tuesday: 26 miles
+   - Wednesday: 20 miles
+   - Thursday: 20 miles
+   - Friday: 16 miles
+
+2. Now, we will add these distances together to find the total miles driven for the week:
+   \[
+   \text{Total miles} = 18 + 26 + 20 + 20 + 16
+   \]
+
+3. Let's perform the addition step by step:
+   - First, add Monday and Tuesday: 
+     \[
+     18 + 26 = 44
+     \]
+   - Next, add Wednesday: 
+     \[
+     44 + 20 = 64
+     \]
+   - Then, add Thursday:
+     \[
+     64 + 20 = 84
+     \]
+   - Finally, add Friday:
+     \[
+     84 + 16 = 100
+     \]
+   Therefore, the total miles driven over the week is 100 miles.
+
+4. Now we will calculate the reimbursement. We multiply the total miles by the reimbursement rate:
+   \[
+   \text{Reimbursement} = \text{Total miles} \times \text{Reimbursement rate} = 100 \times 0.36
+   \]
+
+5. Performing the multiplication:
+   \[
+   100 \times 0.36 = 36
+   \]
+
+Therefore, Lennon will be reimbursed a total of $36 for his mileage.
+</reasoning>
+<answer>36</answer>

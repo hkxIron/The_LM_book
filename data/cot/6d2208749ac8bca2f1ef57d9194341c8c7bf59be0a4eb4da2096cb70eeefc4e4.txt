@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we need to calculate the cost per egg when buying individual eggs and compare it to the cost per egg when buying a tray of eggs.
+
+1. **Calculate the cost of buying individual eggs**:
+   - The price per organic egg is given as 50 cents.
+   - Therefore, if you buy one egg, it costs 50 cents.
+
+2. **Calculate the cost of buying a tray of eggs**:
+   - The price of a tray containing 30 eggs is $12.
+   - We need to convert $12 into cents for consistency. Since 1 dollar is equal to 100 cents:
+     \[
+     12 \text{ dollars} = 12 \times 100 = 1200 \text{ cents}
+     \]
+
+3. **Calculate the cost per egg when buying a tray**:
+   - To find the cost per egg in a tray, we divide the total cost of the tray by the number of eggs:
+     \[
+     \text{Cost per egg in a tray} = \frac{1200 \text{ cents}}{30 \text{ eggs}} = 40 \text{ cents per egg}
+     \]
+
+4. **Calculate the savings per egg**:
+   - Now, we can find out how much you save per egg by buying a tray instead of individual eggs:
+     \[
+     \text{Savings per egg} = \text{Cost per egg (individual)} - \text{Cost per egg (tray)} = 50 \text{ cents} - 40 \text{ cents} = 10 \text{ cents}
+     \]
+
+Therefore, by purchasing a tray of eggs instead of individual eggs, you save 10 cents per egg.
+</reasoning>
+<answer>10</answer>

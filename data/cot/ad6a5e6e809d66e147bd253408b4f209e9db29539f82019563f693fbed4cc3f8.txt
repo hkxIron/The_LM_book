@@ -1,0 +1,28 @@
+<reasoning>
+To determine how many hours Terry spends driving from home to his workplace and back, we first need to calculate the total distance he travels in one round trip.
+
+1. **Calculate the distance from home to workplace**: 
+   The distance to the workplace is given as 60 miles.
+
+2. **Calculate the round trip distance**: 
+   Since Terry drives to his workplace and then back home, we need to double the one-way distance:
+   \[
+   \text{Round trip distance} = 60 \text{ miles (to workplace)} + 60 \text{ miles (back home)} = 120 \text{ miles}
+   \]
+
+3. **Determine Terry's speed**: 
+   Terry drives at a speed of 40 miles per hour.
+
+4. **Calculate the time taken for the round trip**: 
+   To find the time spent driving, we use the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Plugging in the values we have:
+   \[
+   \text{Time} = \frac{120 \text{ miles}}{40 \text{ miles per hour}} = 3 \text{ hours}
+   \]
+
+Thus, Terry spends a total of 3 hours driving from home to his workplace and back.
+</reasoning>
+<answer>3</answer>

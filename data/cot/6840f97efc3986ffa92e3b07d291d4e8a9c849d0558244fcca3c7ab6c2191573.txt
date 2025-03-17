@@ -1,0 +1,22 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Start with the initial number of seashells**: Ali initially has 180 seashells.
+
+2. **Calculate the seashells given away**: Ali gives away 40 seashells to his friends and 30 seashells to his brothers. 
+   - Total seashells given away = 40 + 30 = 70 seashells.
+
+3. **Find the remaining seashells after giving some away**: 
+   - Remaining seashells = Initial seashells - Seashells given away
+   - Remaining seashells = 180 - 70 = 110 seashells.
+
+4. **Calculate half of the remaining seashells**: 
+   - Half of the remaining seashells = 110 / 2 = 55 seashells.
+
+5. **Determine the seashells left after selling half**: 
+   - Seashells left = Remaining seashells - Half sold
+   - Seashells left = 110 - 55 = 55 seashells.
+
+Therefore, Ali has 55 seashells left after giving some away and selling half of the remaining.
+</reasoning>
+<answer>55</answer>

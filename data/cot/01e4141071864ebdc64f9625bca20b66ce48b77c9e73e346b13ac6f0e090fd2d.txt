@@ -1,0 +1,28 @@
+<reasoning>
+First, let's determine how many suitcases each member of Lily's family is bringing. 
+
+1. **Calculating the number of suitcases brought by Lily's siblings:**
+   - There are 4 siblings, and each sibling is bringing 2 suitcases.
+   - To find the total number of suitcases from the siblings, we multiply the number of siblings by the number of suitcases each is bringing:
+     \[
+     4 \text{ siblings} \times 2 \text{ suitcases/sibling} = 8 \text{ suitcases}
+     \]
+
+2. **Calculating the number of suitcases brought by Lily's parents:**
+   - Lily has 2 parents, and each parent is bringing 3 suitcases.
+   - To find the total number of suitcases from the parents, we multiply the number of parents by the number of suitcases each is bringing:
+     \[
+     2 \text{ parents} \times 3 \text{ suitcases/parent} = 6 \text{ suitcases}
+     \]
+
+3. **Calculating the total number of suitcases for the entire family:**
+   - Now we add the suitcases from the siblings and the parents together:
+     \[
+     8 \text{ suitcases (siblings)} + 6 \text{ suitcases (parents)} = 14 \text{ suitcases}
+     \]
+
+Lily is not bringing any suitcases, so we don't need to add anything for her.
+
+Therefore, the total number of suitcases the entire family is bringing on vacation is 14.
+</reasoning>
+<answer>14</answer>

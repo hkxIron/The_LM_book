@@ -1,0 +1,53 @@
+<reasoning>
+To find out how many total rotations of objects are made by the winner, we first need to calculate the total rotations for both Toby and his friend.
+
+1. **Calculating Toby's Total Rotations:**
+   - Toby has 5 baseballs.
+   - Each baseball makes 80 rotations.
+   - To find the total rotations made by Toby, we multiply the number of baseballs by the rotations per baseball:
+
+   \[
+   \text{Total rotations by Toby} = 5 \text{ baseballs} \times 80 \text{ rotations/baseball} 
+   \]
+
+   Performing the multiplication:
+
+   \[
+   5 \times 80 = 400
+   \]
+
+   So, Toby makes 400 rotations.
+
+2. **Calculating His Friend's Total Rotations:**
+   - His friend has 4 apples.
+   - Each apple makes 101 rotations.
+   - To find the total rotations made by his friend, we multiply the number of apples by the rotations per apple:
+
+   \[
+   \text{Total rotations by friend} = 4 \text{ apples} \times 101 \text{ rotations/apple} 
+   \]
+
+   Performing the multiplication:
+
+   \[
+   4 \times 101 = 404
+   \]
+
+   So, Toby's friend makes 404 rotations.
+
+3. **Determining the Winner:**
+   - Now, we compare the total rotations:
+     - Toby: 400 rotations
+     - Friend: 404 rotations
+   - His friend has more rotations than Toby.
+
+4. **Finding the Total Rotations of the Winner:**
+   - Since the friend has the higher total, we take the total rotations made by the friend as the winner's total:
+
+   \[
+   \text{Total rotations by the winner} = 404
+   \]
+
+Therefore, the total rotations of objects made by the winner is 404.
+</reasoning>
+<answer>404</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+Let's start by breaking down the information given in the problem step by step.
+
+1. **Identify the number of rats Elodie has**: We are told that Elodie has 30 rats.
+
+2. **Determine how many rats Hunter has**: The problem states that Elodie has 10 rats more than Hunter. Therefore, if we let \( H \) represent the number of rats Hunter has, we can set up the following equation based on the information provided:
+   \[
+   E = H + 10
+   \]
+   Substituting in the number of rats Elodie has:
+   \[
+   30 = H + 10
+   \]
+   Now, we can solve for \( H \):
+   \[
+   H = 30 - 10 = 20
+   \]
+   So, Hunter has 20 rats.
+
+3. **Calculate the total number of rats Hunter and Elodie have together**: Now we can find the total number of rats that Hunter and Elodie have combined:
+   \[
+   \text{Total (Hunter + Elodie)} = H + E = 20 + 30 = 50
+   \]
+
+4. **Determine how many rats Kenia has**: The problem states that Kenia has three times as many rats as Hunter and Elodie have together. Therefore, we can express Kenia's number of rats \( K \) as:
+   \[
+   K = 3 \times (H + E) = 3 \times 50 = 150
+   \]
+
+5. **Calculate the total number of pets the three have together**: Finally, we can find the total number of pets by adding the number of rats each person has:
+   \[
+   \text{Total (Kenia + Hunter + Elodie)} = K + H + E = 150 + 20 + 30
+   \]
+   Now, let's calculate that:
+   \[
+   150 + 20 = 170
+   \]
+   \[
+   170 + 30 = 200
+   \]
+
+Therefore, the total number of pets the three have together is:
+</reasoning>
+<answer>200</answer>

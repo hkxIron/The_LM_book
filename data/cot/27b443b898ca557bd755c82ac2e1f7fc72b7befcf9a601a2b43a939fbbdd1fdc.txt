@@ -1,0 +1,70 @@
+<reasoning>
+To find out how much Daniel spent on all the games in his collection, we will break the problem into steps.
+
+1. **Determine the number of games bought for $12 each:**
+   Daniel bought 80 games at $12 each. 
+
+   Calculation:
+   \[
+   \text{Total cost for games at } \$12 = 80 \text{ games} \times 12 = 960
+   \]
+
+2. **Calculate the number of remaining games:**
+   Daniel has a total of 346 video games. After accounting for the 80 games he bought for $12, we find the number of remaining games.
+
+   Calculation:
+   \[
+   \text{Remaining games} = 346 - 80 = 266
+   \]
+
+3. **Determine how many of the remaining games were bought for $7 each:**
+   According to the problem, 50% of the remaining 266 games were bought for $7. 
+
+   Calculation:
+   \[
+   \text{Games bought for } \$7 = 0.5 \times 266 = 133
+   \]
+
+4. **Calculate the cost for the games bought for $7:**
+   Now we find the total cost for the 133 games bought at $7 each.
+
+   Calculation:
+   \[
+   \text{Total cost for games at } \$7 = 133 \text{ games} \times 7 = 931
+   \]
+
+5. **Determine the number of games bought for $3 each:**
+   The rest of the games (not bought for $12 or $7) were bought for $3 each. To find this number, we subtract the number of games bought for $12 and $7 from the total.
+
+   Calculation:
+   \[
+   \text{Games bought for } \$3 = 266 - 133 = 133
+   \]
+
+6. **Calculate the cost for the games bought for $3:**
+   Now we find the total cost for the 133 games bought at $3 each.
+
+   Calculation:
+   \[
+   \text{Total cost for games at } \$3 = 133 \text{ games} \times 3 = 399
+   \]
+
+7. **Calculate the total amount spent on all games:**
+   Finally, we sum the costs of all the games purchased.
+
+   Calculation:
+   \[
+   \text{Total cost} = 960 + 931 + 399
+   \]
+
+   Performing the addition:
+   \[
+   960 + 931 = 1891
+   \]
+   \[
+   1891 + 399 = 2290
+   \]
+
+Therefore, the total amount Daniel spent on his collection of video games is:
+</reasoning>
+<answer>2290</answer>

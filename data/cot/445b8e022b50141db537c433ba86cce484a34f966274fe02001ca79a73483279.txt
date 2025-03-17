@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step, calculating the time spent on each part of making the calzones.
+
+1. **Sauteing Onions**: Marcus takes 20 minutes to saute the onions. 
+   - Time spent: 20 minutes.
+
+2. **Sauteing Garlic and Peppers**: He takes a quarter of the time it takes to saute the onions for the garlic and peppers. 
+   - Calculation: 1/4 of 20 minutes = 20 minutes / 4 = 5 minutes.
+   - Time spent: 5 minutes.
+
+3. **Kneading the Dough**: It takes him 30 minutes to knead the dough.
+   - Time spent: 30 minutes.
+
+4. **Letting the Dough Rest**: It takes him twice as long to let the dough rest as it does to knead it.
+   - Calculation: 2 times 30 minutes = 60 minutes.
+   - Time spent: 60 minutes.
+
+5. **Assembling the Calzones**: It takes him 1/10th of the combined time of kneading and resting to assemble the calzones.
+   - First, we need to calculate the total time for kneading and resting: 
+     - Kneading time = 30 minutes.
+     - Resting time = 60 minutes.
+     - Combined time = 30 minutes + 60 minutes = 90 minutes.
+   - Now, we find 1/10th of the combined time: 
+     - 1/10 of 90 minutes = 90 minutes / 10 = 9 minutes.
+   - Time spent: 9 minutes.
+
+Now, let's add up all the time spent on each step:
+- Sauteing onions: 20 minutes
+- Sauteing garlic and peppers: 5 minutes
+- Kneading the dough: 30 minutes
+- Letting the dough rest: 60 minutes
+- Assembling the calzones: 9 minutes
+
+Total time = 20 + 5 + 30 + 60 + 9 = 124 minutes.
+
+Therefore, Marcus spends a total of 124 minutes on the calzones.
+</reasoning>
+<answer>124</answer>

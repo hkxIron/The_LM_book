@@ -1,0 +1,49 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the initial quantities of the marbles**:
+   - Total marbles = 50
+   - White marbles = 20
+   - Let the number of red marbles = x and the number of blue marbles = x (since it is stated that there are an equal number of red and blue marbles).
+
+2. **Set up the equation for the total number of marbles**:
+   - We know that the total number of marbles is the sum of white, red, and blue marbles:
+   \[
+   20 + x + x = 50
+   \]
+   Simplifying this gives:
+   \[
+   20 + 2x = 50
+   \]
+
+3. **Solve for x**:
+   - Subtract 20 from both sides:
+   \[
+   2x = 30
+   \]
+   - Divide by 2:
+   \[
+   x = 15
+   \]
+   So, there are 15 red marbles and 15 blue marbles.
+
+4. **Now, calculate the difference between the number of white marbles and blue marbles**:
+   - Number of white marbles = 20
+   - Number of blue marbles = 15
+   - Difference = 20 - 15 = 5
+
+5. **Calculate the number of marbles Jack removes**:
+   - Jack removes a number of marbles equal to double the difference:
+   \[
+   \text{Marbles removed} = 2 \times \text{Difference} = 2 \times 5 = 10
+   \]
+
+6. **Find the number of marbles left in the box**:
+   - Initially, there were 50 marbles. After Jack removes 10 marbles:
+   \[
+   \text{Marbles left} = 50 - 10 = 40
+   \]
+
+Therefore, the number of marbles left in the box is:
+</reasoning>
+<answer>40</answer>

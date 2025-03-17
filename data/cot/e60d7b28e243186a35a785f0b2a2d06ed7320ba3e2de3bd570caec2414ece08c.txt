@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we first need to determine the number of female students based on the information provided.
+
+1. **Identify the number of male students**:
+   We know that there are 29 male students.
+
+2. **Calculate the number of female students**:
+   According to the problem, the number of female students is 4 times the number of male students. 
+   So, we can calculate the number of female students as follows:
+   \[
+   \text{Number of female students} = 4 \times \text{Number of male students} = 4 \times 29 = 116
+   \]
+
+3. **Calculate the total number of students**:
+   Now, we need to find the total number of students by adding the number of male and female students together:
+   \[
+   \text{Total number of students} = \text{Number of male students} + \text{Number of female students} = 29 + 116 = 145
+   \]
+
+4. **Determine how many students can sit on each bench**:
+   We know there are 29 benches available in the hall. To find out how many students can sit on each bench so that all students can fit, we will divide the total number of students by the number of benches:
+   \[
+   \text{Students per bench} = \frac{\text{Total number of students}}{\text{Number of benches}} = \frac{145}{29}
+   \]
+
+5. **Perform the division**:
+   Now we perform the division:
+   \[
+   145 \div 29 = 5
+   \]
+   This means that each bench can accommodate 5 students.
+
+Therefore, the minimum number of students that can sit on each bench for all of them to fit in the hall is 5.
+</reasoning>
+<answer>5</answer>

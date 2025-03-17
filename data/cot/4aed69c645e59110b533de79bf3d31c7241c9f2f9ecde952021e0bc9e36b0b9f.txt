@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many pages Joey must read after taking a break, we first need to calculate how many pages represent 70% of the total 30 pages assigned.
+
+1. **Calculate 70% of 30 pages**:
+   We use the formula for finding a percentage, which is:
+   \[
+   \text{Percentage} = \left(\frac{\text{Percentage Rate}}{100}\right) \times \text{Total}
+   \]
+   Here, the percentage rate is 70, and the total is 30 pages.
+
+   \[
+   \text{Pages to read before break} = \left(\frac{70}{100}\right) \times 30
+   \]
+
+2. **Perform the multiplication**:
+   First, we simplify \( \frac{70}{100} \) to \( 0.7 \):
+   \[
+   0.7 \times 30 = 21
+   \]
+
+   Therefore, Joey will read 21 pages before taking a break.
+
+3. **Calculate the pages left after the break**:
+   Since Joey has a total of 30 pages to read and he reads 21 pages before the break, we subtract the pages he has read from the total:
+
+   \[
+   \text{Pages remaining} = 30 - 21 = 9
+   \]
+
+Therefore, after taking a break, Joey must read **9 pages**.
+</reasoning>
+<answer>9</answer>

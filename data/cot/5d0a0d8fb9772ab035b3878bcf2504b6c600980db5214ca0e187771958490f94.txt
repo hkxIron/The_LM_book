@@ -1,0 +1,33 @@
+<reasoning>
+To solve this problem, we need to follow these steps:
+
+1. **Calculate the total number of donuts baked by Noel**:
+   Noel bakes 4 dozen donuts. Since 1 dozen equals 12, we can calculate the total number of donuts as follows:
+   
+   \[
+   \text{Total donuts} = 4 \times 12 = 48
+   \]
+   
+   Therefore, Noel bakes 48 donuts.
+
+2. **Determine how many students like donuts**:
+   There are 30 students in the class, and 80% of them like donuts. To find out how many students this is, we multiply the total number of students by the percentage who like donuts:
+   
+   \[
+   \text{Students who like donuts} = 30 \times 0.80 = 24
+   \]
+   
+   Thus, 24 students like donuts.
+
+3. **Calculate how many donuts each student who likes donuts gets**:
+   Now we need to divide the total number of donuts by the number of students who like them to find out how many donuts each of these students gets:
+   
+   \[
+   \text{Donuts per student} = \frac{48 \text{ donuts}}{24 \text{ students}} = 2
+   \]
+
+   Therefore, each student who likes donuts gets to eat 2 donuts.
+
+In summary, after calculating the total donuts, the number of students who like donuts, and finally how many each of them gets, we arrive at the conclusion.
+</reasoning>
+<answer>2</answer>

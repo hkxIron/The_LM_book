@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many rooms Susie has in her house, we need to relate the total time it takes to vacuum the house to the time it takes to vacuum each room.
+
+1. First, let's convert the total time it takes to vacuum the whole house from hours to minutes. 
+   Since 1 hour is equal to 60 minutes, we can calculate:
+   \[
+   2 \text{ hours} = 2 \times 60 = 120 \text{ minutes}
+   \]
+   This means it takes Susie 120 minutes to vacuum the entire house.
+
+2. Next, we know that it takes Susie 20 minutes to vacuum each room. To find the number of rooms, we can divide the total time it takes to vacuum the house by the time it takes to vacuum one room:
+   \[
+   \text{Number of rooms} = \frac{\text{Total time to vacuum the house}}{\text{Time to vacuum each room}} = \frac{120 \text{ minutes}}{20 \text{ minutes/room}}
+   \]
+
+3. Now, we perform the division:
+   \[
+   \frac{120}{20} = 6
+   \]
+   This calculation shows that Susie has 6 rooms in her house.
+
+Therefore, after going through the steps and doing the calculations, we find that Susie has a total of 6 rooms.
+</reasoning>
+<answer>6</answer>

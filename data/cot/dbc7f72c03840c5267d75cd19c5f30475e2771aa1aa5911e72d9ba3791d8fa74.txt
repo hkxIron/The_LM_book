@@ -1,0 +1,32 @@
+<reasoning>
+Let's denote the amount of money that Linda originally had as \( L \).
+
+1. According to the problem, if Lucy gives Linda $5, then Lucy will have the same amount of money as Linda. We know Lucy originally has $20.
+   
+2. After giving Linda $5, Lucy will have:
+   \[
+   20 - 5 = 15 \text{ dollars}
+   \]
+   So now Lucy has $15.
+
+3. If Lucy has $15 after giving $5 to Linda, we can set up an equation for Linda's amount. After receiving $5, Linda will have:
+   \[
+   L + 5
+   \]
+
+4. We know that after this transaction, Lucy's amount ($15) will equal Linda's amount ($L + 5). Therefore, we can set up the equation:
+   \[
+   15 = L + 5
+   \]
+
+5. To find \( L \), we need to solve for it. We can do this by subtracting 5 from both sides of the equation:
+   \[
+   15 - 5 = L
+   \]
+   \[
+   L = 10
+   \]
+
+Thus, Linda originally had $10.
+</reasoning>
+<answer>10</answer>

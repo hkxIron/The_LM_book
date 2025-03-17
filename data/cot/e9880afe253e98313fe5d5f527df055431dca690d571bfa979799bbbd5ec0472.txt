@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Amount from Parents**:  
+   Lizzy received 80 cents from her mother and 40 cents from her father. 
+   To find the total amount she received from her parents, we add these two amounts together:
+   \[
+   80 \text{ cents} + 40 \text{ cents} = 120 \text{ cents}
+   \]
+   So, she has 120 cents after receiving money from her parents.
+
+2. **Spending on Candy**:  
+   Lizzy spent 50 cents on candy for her little cousin. 
+   To find out how much money she has after this purchase, we subtract the amount spent from her total:
+   \[
+   120 \text{ cents} - 50 \text{ cents} = 70 \text{ cents}
+   \]
+   Now, Lizzy has 70 cents remaining after buying candy.
+
+3. **Amount Given by Uncle**:  
+   Her uncle then gave her another 70 cents. 
+   We need to add this amount to her current total:
+   \[
+   70 \text{ cents} + 70 \text{ cents} = 140 \text{ cents}
+   \]
+   After receiving money from her uncle, Lizzy now has 140 cents.
+
+In conclusion, after all the transactions, Lizzy has 140 cents.
+</reasoning>
+<answer>140</answer>

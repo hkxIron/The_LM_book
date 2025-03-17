@@ -1,0 +1,30 @@
+<reasoning>
+First, let's determine the total weight of the letter. Jessica used eight pieces of paper, and each piece weighs \( \frac{1}{5} \) of an ounce.
+
+To find the total weight of the paper, we multiply the weight of one piece of paper by the number of pieces:
+
+\[
+\text{Total weight of paper} = 8 \times \frac{1}{5} = \frac{8}{5} \text{ ounces}
+\]
+
+Next, we need to add the weight of the envelope to the weight of the paper. The envelope weighs \( \frac{2}{5} \) of an ounce. So we calculate the total weight:
+
+\[
+\text{Total weight} = \text{Weight of paper} + \text{Weight of envelope} = \frac{8}{5} + \frac{2}{5}
+\]
+
+Since both weights have the same denominator, we can add them directly:
+
+\[
+\frac{8}{5} + \frac{2}{5} = \frac{8 + 2}{5} = \frac{10}{5} = 2 \text{ ounces}
+\]
+
+Now that we know the total weight of the letter is 2 ounces, we need to determine how many stamps Jessica needs. She requires one stamp per ounce, so for 2 ounces, the number of stamps needed is:
+
+\[
+\text{Number of stamps} = 2 \text{ ounces} \times 1 \text{ stamp/ounce} = 2 \text{ stamps}
+\]
+
+Therefore, Jessica needs 2 stamps to mail her letter.
+</reasoning>
+<answer>2</answer>

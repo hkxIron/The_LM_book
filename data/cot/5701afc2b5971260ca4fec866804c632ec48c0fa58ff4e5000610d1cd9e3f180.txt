@@ -1,0 +1,22 @@
+<reasoning>
+To determine how long the commercial will be after shortening it by 30%, we need to follow these steps:
+
+1. **Identify the original length of the commercial**: The original length is 30 seconds.
+
+2. **Calculate the amount to be shortened**: Since Ursula needs to shorten the commercial by 30%, we will calculate 30% of 30 seconds.
+   - To find 30% of 30 seconds, we convert the percentage into a decimal. 30% is equivalent to 0.30.
+   - Now, multiply the original length by this decimal: 
+     \[
+     30 \text{ seconds} \times 0.30 = 9 \text{ seconds}
+     \]
+   This means the commercial needs to be shortened by 9 seconds.
+
+3. **Subtract the shortened amount from the original length**: Now we subtract the shortened amount from the original length to find the new length of the commercial.
+   - Subtract 9 seconds from 30 seconds:
+     \[
+     30 \text{ seconds} - 9 \text{ seconds} = 21 \text{ seconds}
+     \]
+
+Thus, after Ursula makes the desired changes, the commercial will be 21 seconds long.
+</reasoning>
+<answer>21</answer>

@@ -1,0 +1,19 @@
+<reasoning>
+To find out how many envelopes Wyatt has in total, we can follow these steps:
+
+1. **Identify the number of blue envelopes**: We know from the problem statement that Wyatt has 10 blue envelopes.
+
+2. **Determine the number of yellow envelopes**: The problem states that Wyatt has 4 fewer yellow envelopes than blue envelopes. Since he has 10 blue envelopes, we calculate the number of yellow envelopes by subtracting 4 from the number of blue envelopes:
+   \[
+   \text{Number of yellow envelopes} = \text{Number of blue envelopes} - 4 = 10 - 4 = 6
+   \]
+   So, Wyatt has 6 yellow envelopes.
+
+3. **Calculate the total number of envelopes**: Now, we need to find the total number of envelopes by adding the number of blue envelopes and yellow envelopes together:
+   \[
+   \text{Total envelopes} = \text{Number of blue envelopes} + \text{Number of yellow envelopes} = 10 + 6 = 16
+   \]
+
+Therefore, Wyatt has a total of 16 envelopes.
+</reasoning>
+<answer>16</answer>

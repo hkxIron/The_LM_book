@@ -1,0 +1,42 @@
+<reasoning>
+First, let's find out how many gumballs Joanna and Jacques had after they purchased more gumballs.
+
+1. **Calculate Joanna's initial gumballs**: Joanna starts with 40 gumballs.
+
+2. **Calculate Jacques's initial gumballs**: Jacques starts with 60 gumballs.
+
+3. **Calculate the additional gumballs they purchased**:
+   - Joanna purchased 4 times her initial amount: 
+     \[
+     4 \times 40 = 160 \text{ gumballs}
+     \]
+   - Jacques purchased 4 times his initial amount:
+     \[
+     4 \times 60 = 240 \text{ gumballs}
+     \]
+
+4. **Add the purchased gumballs to their initial amounts**:
+   - Joanna's total after the purchase:
+     \[
+     40 + 160 = 200 \text{ gumballs}
+     \]
+   - Jacques's total after the purchase:
+     \[
+     60 + 240 = 300 \text{ gumballs}
+     \]
+
+5. **Combine their total gumballs**:
+   - Total gumballs from both Joanna and Jacques:
+     \[
+     200 + 300 = 500 \text{ gumballs}
+     \]
+
+6. **Divide the total gumballs equally between them**:
+   - Each person gets:
+     \[
+     \frac{500}{2} = 250 \text{ gumballs}
+     \]
+
+Therefore, after combining their gumballs and sharing equally, each person gets 250 gumballs.
+</reasoning>
+<answer>250</answer>

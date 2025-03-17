@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine how many cards Jenny has.**
+   - According to the problem, Jenny has 6 Pokemon cards.
+
+2. **Calculate how many cards Orlando has.**
+   - The problem states that Orlando has 2 more cards than Jenny. 
+   - Since Jenny has 6 cards, we can calculate Orlando's cards as follows:
+     \[
+     \text{Orlando's cards} = \text{Jenny's cards} + 2 = 6 + 2 = 8
+     \]
+   - So, Orlando has 8 Pokemon cards.
+
+3. **Calculate how many cards Richard has.**
+   - The problem indicates that Richard has three times as many cards as Orlando.
+   - Since Orlando has 8 cards, we can find Richard's cards by multiplying Orlando's cards by 3:
+     \[
+     \text{Richard's cards} = 3 \times \text{Orlando's cards} = 3 \times 8 = 24
+     \]
+   - Thus, Richard has 24 Pokemon cards.
+
+4. **Calculate the total number of Pokemon cards they have together.**
+   - Now, we need to add the number of cards each person has:
+     \[
+     \text{Total cards} = \text{Jenny's cards} + \text{Orlando's cards} + \text{Richard's cards}
+     \]
+     \[
+     \text{Total cards} = 6 + 8 + 24
+     \]
+   - Let's perform the addition:
+     \[
+     6 + 8 = 14
+     \]
+     \[
+     14 + 24 = 38
+     \]
+
+Therefore, the total number of Pokemon cards they have is 38.
+</reasoning>
+<answer>38</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we need to first determine how much water Claudia has used with the 5-ounce and 8-ounce glasses, and then find out how much water is left to fill the 4-ounce glasses.
+
+1. **Calculate the total amount of water used for the 5-ounce glasses:**
+   Claudia fills six 5-ounce glasses. 
+   \[
+   \text{Water used for 5-ounce glasses} = 6 \times 5 = 30 \text{ ounces}
+   \]
+
+2. **Calculate the total amount of water used for the 8-ounce glasses:**
+   Claudia fills four 8-ounce glasses.
+   \[
+   \text{Water used for 8-ounce glasses} = 4 \times 8 = 32 \text{ ounces}
+   \]
+
+3. **Calculate the total amount of water used:**
+   Now we add the water used from the 5-ounce glasses and the 8-ounce glasses.
+   \[
+   \text{Total water used} = 30 + 32 = 62 \text{ ounces}
+   \]
+
+4. **Calculate the remaining water:**
+   Claudia started with 122 ounces of water. We need to subtract the total water used from this amount to find out how much water is left.
+   \[
+   \text{Remaining water} = 122 - 62 = 60 \text{ ounces}
+   \]
+
+5. **Determine how many 4-ounce glasses can be filled with the remaining water:**
+   To find out how many 4-ounce glasses can be filled with the remaining 60 ounces, we divide the remaining water by the size of the 4-ounce glass.
+   \[
+   \text{Number of 4-ounce glasses} = \frac{60}{4} = 15
+   \]
+
+Therefore, Claudia can fill 15 of the 4-ounce glasses with the remaining water.
+</reasoning>
+<answer>15</answer>

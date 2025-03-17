@@ -1,0 +1,21 @@
+<reasoning>
+To solve this problem, we need to determine how many trips Elysse and her brother will need to make to carry a total of 30 bags of groceries, given that each of them can carry 3 bags at a time.
+
+1. **Calculate the total carrying capacity of both Elysse and her brother in one trip:**
+   - Elysse can carry 3 bags.
+   - Her brother can also carry 3 bags.
+   - Therefore, together they can carry \(3 + 3 = 6\) bags in one trip.
+
+2. **Determine how many trips are needed to carry all 30 bags:**
+   - We can find out how many trips are needed by dividing the total number of bags (30) by the total number of bags they can carry in one trip (6).
+   - So, we perform the calculation: 
+   \[
+   \text{Number of trips} = \frac{30 \text{ bags}}{6 \text{ bags/trip}} = 5 \text{ trips}
+   \]
+
+3. **Conclusion:**
+   - Since they can carry 6 bags per trip, it will take them 5 trips to carry all 30 bags of groceries.
+
+Therefore, the number of trips it will take them to carry 30 bags of groceries is:
+</reasoning>
+<answer>5</answer>

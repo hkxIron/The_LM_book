@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we will break it down step by step.
+
+1. **Identify the fraction of students with brown eyes:** We know that two-thirds of the class have brown eyes. Let's denote the total number of students in the class as \( x \). Therefore, the number of students with brown eyes can be expressed as:
+   \[
+   \text{Students with brown eyes} = \frac{2}{3}x
+   \]
+
+2. **Identify the fraction of students with brown eyes that have black hair:** It is given that half of the students with brown eyes have black hair. Therefore, the number of students with brown eyes who also have black hair is:
+   \[
+   \text{Students with brown eyes and black hair} = \frac{1}{2} \times \text{Students with brown eyes} = \frac{1}{2} \times \frac{2}{3}x = \frac{1}{3}x
+   \]
+
+3. **Use the information about students with brown eyes and black hair:** We know that there are 6 students in the class with both brown eyes and black hair. From our previous calculation, we have:
+   \[
+   \frac{1}{3}x = 6
+   \]
+
+4. **Solve for the total number of students \( x \):** To find \( x \), we can multiply both sides of the equation by 3:
+   \[
+   x = 6 \times 3 = 18
+   \]
+
+Now we have determined the total number of students in the class. 
+
+Therefore, the total number of students is:
+</reasoning>
+<answer>18</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine how many tennis balls James gives away**: 
+   James buys 100 tennis balls and gives away half of them. 
+   To find out how many he gives away, we calculate:
+   \[
+   \text{Number of tennis balls given away} = \frac{100}{2} = 50
+   \]
+   Therefore, James gives away 50 tennis balls.
+
+2. **Calculate how many tennis balls he has left**: 
+   After giving away half of the tennis balls, the remaining number of tennis balls is:
+   \[
+   \text{Remaining tennis balls} = 100 - 50 = 50
+   \]
+   So, James has 50 tennis balls left.
+
+3. **Distributing the remaining tennis balls into containers**: 
+   James puts the remaining tennis balls into 5 large containers. To find out how many tennis balls go into each container, we divide the remaining tennis balls by the number of containers:
+   \[
+   \text{Tennis balls per container} = \frac{50}{5} = 10
+   \]
+   Thus, each container will have 10 tennis balls.
+
+Therefore, we conclude that each container has 10 tennis balls.
+</reasoning>
+<answer>10</answer>

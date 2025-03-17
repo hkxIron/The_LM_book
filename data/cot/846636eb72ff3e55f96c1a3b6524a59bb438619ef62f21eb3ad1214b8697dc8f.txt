@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many pounds of cheese Tony bought, we can follow these steps:
+
+1. **Determine how much money Tony spent**: 
+   Tony initially had $87 and after buying the cheese and beef, he has $61 left. Therefore, we can calculate how much he spent in total:
+   \[
+   \text{Total spent} = \text{Initial amount} - \text{Remaining amount} = 87 - 61 = 26
+   \]
+   So, Tony spent $26 in total.
+
+2. **Set up the cost equation**:
+   Let \( x \) be the pounds of cheese he bought. The cost of cheese is $7 per pound, and he also buys 1 pound of beef for $5. The total cost can be expressed as:
+   \[
+   7x + 5 = 26
+   \]
+   This equation states that the total cost of the cheese plus the cost of the beef equals the total amount spent.
+
+3. **Solve for \( x \)**:
+   First, we will isolate \( 7x \) in the equation:
+   \[
+   7x = 26 - 5
+   \]
+   Simplifying this gives:
+   \[
+   7x = 21
+   \]
+   Now, divide both sides by 7 to solve for \( x \):
+   \[
+   x = \frac{21}{7} = 3
+   \]
+
+4. **Conclusion**:
+   Tony bought 3 pounds of cheese.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>3</answer>

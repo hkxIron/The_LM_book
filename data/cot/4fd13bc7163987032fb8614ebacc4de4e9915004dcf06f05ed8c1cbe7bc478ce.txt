@@ -1,0 +1,23 @@
+<reasoning>
+Let's start by defining the variables and the situation step by step.
+
+1. **Identify the amount Doris spent**: We know that Doris spent $6 from the cookie jar.
+
+2. **Calculate how much Martha spent**: Martha spent half as much as Doris. Since Doris spent $6, Martha spent:
+   \[
+   \text{Martha's spending} = \frac{6}{2} = 3 \text{ dollars}
+   \]
+
+3. **Determine the total amount spent**: Now we need to find the total amount of money that was spent from the cookie jar. This is the sum of the amounts spent by Doris and Martha:
+   \[
+   \text{Total spent} = \text{Doris's spending} + \text{Martha's spending} = 6 + 3 = 9 \text{ dollars}
+   \]
+
+4. **Find the initial amount in the cookie jar**: We know that after Doris and Martha spent some money, there were $15 left in the cookie jar. Thus, the initial amount in the cookie jar can be calculated by adding the total amount spent to the amount left:
+   \[
+   \text{Initial amount} = \text{Total spent} + \text{Amount left} = 9 + 15 = 24 \text{ dollars}
+   \]
+
+Therefore, the amount of money that was in the cookie jar at first was $24.
+</reasoning>
+<answer>24</answer>

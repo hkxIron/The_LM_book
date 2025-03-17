@@ -1,0 +1,31 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Initial Production Calculation**: The factory originally planned to produce 200 cars. 
+
+2. **First Decrease in Production**: Due to metal shortages, they decreased the production by 50 cars. 
+   - To find the new production level, we subtract 50 from 200:
+     \[
+     200 - 50 = 150 \text{ cars}
+     \]
+   Now, the factory plans to produce 150 cars.
+
+3. **Second Decrease in Production**: Due to the pandemic, they had to cut production by another 50%. 
+   - To find 50% of 150, we multiply 150 by 0.5:
+     \[
+     150 \times 0.5 = 75 \text{ cars}
+     \]
+   - Now, we subtract this amount from the current production:
+     \[
+     150 - 75 = 75 \text{ cars}
+     \]
+   So, after the pandemic reduction, the factory will produce 75 cars.
+
+4. **Calculating Total Number of Doors**: Each car has 5 doors, so to find the total number of doors produced, we multiply the number of cars by the number of doors per car:
+   \[
+   75 \text{ cars} \times 5 \text{ doors per car} = 375 \text{ doors}
+   \]
+
+Therefore, the factory will produce a total of 375 doors.
+</reasoning>
+<answer>375</answer>

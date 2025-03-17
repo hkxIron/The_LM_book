@@ -1,0 +1,35 @@
+<reasoning>
+To solve how much money Erica spends on ice cream in 6 weeks, we need to break down her weekly ice cream purchases by day.
+
+1. **Determine her weekly ice cream purchases:**
+   - **Monday, Wednesday, Friday:** Erica buys an orange creamsicle for $2.00 each. There are 3 days in a week where she buys this.
+   - **Tuesday, Thursday:** Erica buys an ice cream sandwich for $1.50 each. There are 2 days in a week where she buys this.
+   - **Saturday, Sunday:** Erica buys a Nutty-Buddy for $3.00 each. There are 2 days in a week where she buys this.
+
+2. **Calculate the total spent in a week:**
+   - For the orange creamsicles: 
+     \[
+     3 \text{ days} \times \$2.00 = \$6.00
+     \]
+   - For the ice cream sandwiches:
+     \[
+     2 \text{ days} \times \$1.50 = \$3.00
+     \]
+   - For the Nutty-Buddies:
+     \[
+     2 \text{ days} \times \$3.00 = \$6.00
+     \]
+
+3. **Add all of these amounts together to find the total for one week:**
+   \[
+   \$6.00 \text{ (orange creamsicles)} + \$3.00 \text{ (ice cream sandwiches)} + \$6.00 \text{ (Nutty-Buddies)} = \$15.00
+   \]
+
+4. **Calculate the total for 6 weeks:**
+   \[
+   6 \text{ weeks} \times \$15.00 = \$90.00
+   \]
+
+Now we have computed how much Erica spends on ice cream in 6 weeks.
+</reasoning>
+<answer>90</answer>

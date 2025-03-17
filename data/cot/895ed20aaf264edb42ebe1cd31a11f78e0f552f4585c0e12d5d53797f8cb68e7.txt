@@ -1,0 +1,25 @@
+<reasoning>
+To find out how long Tony spent solving puzzles, we will break this problem down into clear steps:
+
+1. **Identify the time spent on the warm-up puzzle**: Tony took 10 minutes to complete the warm-up puzzle. We will note this time as it is a fixed value.
+
+   - Warm-up puzzle time = 10 minutes
+
+2. **Calculate the time spent on the other puzzles**: After the warm-up puzzle, Tony did 2 more puzzles, and each of these puzzles took 3 times as long as the warm-up puzzle. 
+
+   - First, we need to find out how long one of the puzzles took. Since each puzzle takes 3 times as long as the warm-up puzzle:
+   
+   - Time for one puzzle = 3 times warm-up time = 3 × 10 minutes = 30 minutes.
+
+3. **Total time for the 2 puzzles**: Now that we know one puzzle took 30 minutes, we can calculate the total time for the 2 puzzles:
+
+   - Total time for 2 puzzles = 2 × 30 minutes = 60 minutes.
+
+4. **Calculate the total time spent on all puzzles**: Finally, we add the time spent on the warm-up puzzle to the time spent on the two puzzles:
+
+   - Total time spent = Warm-up puzzle time + Total time for 2 puzzles
+   - Total time spent = 10 minutes + 60 minutes = 70 minutes.
+
+Therefore, Tony spent a total of 70 minutes solving puzzles.
+</reasoning>
+<answer>70</answer>

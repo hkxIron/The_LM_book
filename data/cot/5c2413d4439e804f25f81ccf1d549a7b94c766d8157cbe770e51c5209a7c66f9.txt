@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we start by determining how many times Missy yells at the stubborn dog based on the information given.
+
+1. **Identify the yelling ratio**: The problem states that Missy yells at the stubborn dog four times for every one time she yells at the obedient dog. This means for every 1 yell at the obedient dog, there are 4 yells at the stubborn dog.
+
+2. **Determine yells at the obedient dog**: We are told that Missy yells at the obedient dog 12 times. 
+
+3. **Calculate yells at the stubborn dog**: Since the stubborn dog gets yelled at 4 times for every yell at the obedient dog, we can calculate the number of times she yells at the stubborn dog by multiplying the number of yells at the obedient dog by 4:
+   \[
+   \text{Yells at stubborn dog} = 4 \times \text{Yells at obedient dog} = 4 \times 12 = 48
+   \]
+
+4. **Calculate total yells**: Now, we add the number of yells at both dogs together to find the total:
+   \[
+   \text{Total yells} = \text{Yells at obedient dog} + \text{Yells at stubborn dog} = 12 + 48 = 60
+   \]
+
+Thus, Missy yells at both dogs combined a total of 60 times.
+</reasoning>
+<answer>60</answer>

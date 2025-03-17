@@ -1,0 +1,26 @@
+<reasoning>
+To determine how much more candy Roger had compared to Sandra, we'll first calculate the total amount of candy each person has.
+
+1. **Calculate Sandra's total candy:**
+   - Sandra has 2 bags, and each bag has 6 pieces of candy.
+   - To find the total pieces of candy Sandra has, we multiply the number of bags by the number of pieces in each bag:
+     \[
+     \text{Total candy for Sandra} = 2 \text{ bags} \times 6 \text{ pieces per bag} = 12 \text{ pieces}
+     \]
+
+2. **Calculate Roger's total candy:**
+   - Roger has 2 bags as well. One bag has 11 pieces and the other has 3 pieces.
+   - To find the total pieces of candy Roger has, we add the pieces from both bags:
+     \[
+     \text{Total candy for Roger} = 11 \text{ pieces} + 3 \text{ pieces} = 14 \text{ pieces}
+     \]
+
+3. **Calculate how much more candy Roger has than Sandra:**
+   - To find the difference in the amount of candy they have, we subtract Sandra's total from Roger's total:
+     \[
+     \text{Difference} = \text{Total for Roger} - \text{Total for Sandra} = 14 \text{ pieces} - 12 \text{ pieces} = 2 \text{ pieces}
+     \]
+
+By following these steps, we have calculated that Roger has 2 more pieces of candy than Sandra.
+</reasoning>
+<answer>2</answer>

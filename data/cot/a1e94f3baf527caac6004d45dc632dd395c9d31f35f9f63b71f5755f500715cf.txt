@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the hours Rayman works out**: We know that Rayman works out for 10 hours in a week.
+
+2. **Determine Junior's workout hours**: The problem states that Rayman works out for half the number of hours Junior takes to work out. Since Rayman works out for 10 hours, we can set up the following equation:
+   \[
+   \text{Rayman's hours} = \frac{1}{2} \times \text{Junior's hours}
+   \]
+   Substituting Rayman's hours:
+   \[
+   10 = \frac{1}{2} \times \text{Junior's hours}
+   \]
+
+   To find Junior's hours, we can multiply both sides of the equation by 2:
+   \[
+   \text{Junior's hours} = 10 \times 2 = 20 \text{ hours}
+   \]
+
+3. **Calculate the combined workout hours of Rayman and Junior**: Now we need to find the total number of hours both Rayman and Junior work out together:
+   \[
+   \text{Combined hours} = \text{Rayman's hours} + \text{Junior's hours} = 10 + 20 = 30 \text{ hours}
+   \]
+
+4. **Determine Wolverine's workout hours**: The problem states that Wolverine works out for twice the combined total number of hours both Rayman and Junior take. Therefore:
+   \[
+   \text{Wolverine's hours} = 2 \times \text{Combined hours} = 2 \times 30 = 60 \text{ hours}
+   \]
+
+Now we have calculated the number of hours Wolverine works out based on the information given.
+</reasoning>
+<answer>60</answer>

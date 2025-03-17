@@ -1,0 +1,34 @@
+<reasoning>
+To find the size of Nada's house, we need to set up an equation based on the information given. 
+
+1. We know that Sara's house is 100 square feet larger than 2 times the size of Nada's house. We can express this relationship with the following equation:
+   \[
+   \text{Sara's house} = 2 \times \text{Nada's house} + 100
+   \]
+
+2. We are given that Sara's house is 1000 square feet. We can substitute this value into the equation:
+   \[
+   1000 = 2 \times \text{Nada's house} + 100
+   \]
+
+3. Now, we want to isolate Nada's house. First, we can subtract 100 from both sides of the equation:
+   \[
+   1000 - 100 = 2 \times \text{Nada's house}
+   \]
+   Simplifying the left side gives us:
+   \[
+   900 = 2 \times \text{Nada's house}
+   \]
+
+4. Next, we divide both sides by 2 to solve for Nada's house:
+   \[
+   \text{Nada's house} = \frac{900}{2}
+   \]
+   Calculating the right side gives:
+   \[
+   \text{Nada's house} = 450
+   \]
+
+5. Therefore, Nada's house is 450 square feet.
+</reasoning>
+<answer>450</answer>

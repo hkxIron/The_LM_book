@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many apples Bonnie bought**: 
+   Bonnie bought 8 apples. This is given directly in the problem.
+
+2. **Calculate how many apples Samuel bought**:
+   The problem states that Samuel bought 20 more apples than Bonnie. Since Bonnie bought 8 apples, we can calculate Samuel's apples as follows:
+   \[
+   \text{Samuel's apples} = \text{Bonnie's apples} + 20 = 8 + 20 = 28
+   \]
+   So, Samuel bought 28 apples.
+
+3. **Calculate how many apples Samuel ate**:
+   Samuel ate half of the apples he bought. To find this, we divide the number of apples Samuel bought by 2:
+   \[
+   \text{Apples eaten by Samuel} = \frac{28}{2} = 14
+   \]
+   Therefore, Samuel ate 14 apples.
+
+4. **Calculate how many apples Samuel used for apple pie**:
+   The problem states that Samuel used 1/7 of the apples he bought to make apple pie. To find out how many apples this is, we calculate:
+   \[
+   \text{Apples for pie} = \frac{1}{7} \times 28 = 4
+   \]
+   So, Samuel used 4 apples to make apple pie.
+
+5. **Calculate how many apples Samuel has left**:
+   To find out how many apples Samuel has left, we start with the total number of apples he bought, subtract the apples he ate, and subtract the apples he used for pie:
+   \[
+   \text{Apples left} = \text{Total apples} - \text{Apples eaten} - \text{Apples used for pie}
+   \]
+   Substituting the numbers we found:
+   \[
+   \text{Apples left} = 28 - 14 - 4 = 10
+   \]
+
+Therefore, Samuel has 10 apples left.
+</reasoning>
+<answer>10</answer>

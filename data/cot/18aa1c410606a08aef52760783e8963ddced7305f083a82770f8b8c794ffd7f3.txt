@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Understanding the Buckets**: 
+   - Hamza has three buckets: a 3-liter bucket, a 5-liter bucket, and a 6-liter bucket.
+   - She fills the 5-liter bucket completely, which means it holds 5 liters of water.
+
+2. **Pouring into the 3-liter bucket**: 
+   - She will pour from the 5-liter bucket into the 3-liter bucket. 
+   - The 3-liter bucket can hold a maximum of 3 liters.
+   - Since the 3-liter bucket is empty at the start, she can pour 3 liters from the 5-liter bucket into the 3-liter bucket.
+
+3. **Calculating the Remainder**: 
+   - Initially, the 5-liter bucket has 5 liters of water. After pouring 3 liters into the 3-liter bucket, the amount of water left in the 5-liter bucket is:
+     \[
+     5 \text{ liters} - 3 \text{ liters} = 2 \text{ liters}
+     \]
+   - So, there are 2 liters remaining in the 5-liter bucket.
+
+4. **Pouring into the 6-liter bucket**: 
+   - Next, she pours the remaining 2 liters from the 5-liter bucket into the 6-liter bucket.
+   - The 6-liter bucket is initially empty, so it can still hold more water.
+
+5. **Finding Remaining Capacity in the 6-liter bucket**: 
+   - The 6-liter bucket can hold up to 6 liters total.
+   - After pouring 2 liters into the 6-liter bucket, the amount of water in the 6-liter bucket is now 2 liters.
+   - The remaining capacity in the 6-liter bucket is:
+     \[
+     6 \text{ liters} - 2 \text{ liters} = 4 \text{ liters}
+     \]
+
+6. **Final Calculation**: 
+   - Therefore, Hamza can still pour 4 liters more into the 6-liter bucket without overflowing.
+
+Thus, the final answer is:
+</reasoning>
+<answer>4</answer>

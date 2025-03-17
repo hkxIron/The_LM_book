@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many coins Linda has altogether, we will first calculate the number of coins she initially has, and then add the coins her mother gives her.
+
+1. **Count Linda's initial coins**:
+   - Linda has 2 dimes.
+   - Linda has 6 quarters.
+   - Linda has 5 nickels.
+   
+   Now, let's add these up:
+   - Total initial coins = Number of dimes + Number of quarters + Number of nickels
+   - Total initial coins = 2 + 6 + 5 = 13 coins
+
+2. **Count the coins Linda receives from her mother**:
+   - Her mother gives her 2 more dimes.
+   - Her mother gives her 10 more quarters.
+   - For the nickels, her mother gives her twice as many as she currently has. Linda has 5 nickels, so:
+     - Number of new nickels = 2 × 5 = 10 nickels
+
+   Now, let's sum these new coins:
+   - Total new coins = Number of dimes given + Number of quarters given + Number of nickels given
+   - Total new coins = 2 + 10 + 10 = 22 coins
+
+3. **Calculate the total number of coins Linda has now**:
+   - Total coins after receiving from her mother = Initial coins + New coins
+   - Total coins after receiving from her mother = 13 + 22 = 35 coins
+
+Therefore, adding both her initial coins and the coins she received from her mother gives us the total number of coins Linda has.
+</reasoning>
+<answer>35</answer>

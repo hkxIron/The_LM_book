@@ -1,0 +1,24 @@
+<reasoning>
+To determine John's profit from driving Uber, we need to consider two main components: his earnings from driving Uber and the net cost of his car after trade-in.
+
+1. **Calculate Total Earnings from Uber**:
+   John made $30,000 driving for Uber. This amount represents his gross earnings.
+
+2. **Calculate the Net Cost of the Car**:
+   - John initially bought the car for $18,000.
+   - When he traded it in, he received $6,000 back.
+   - To find out how much he effectively spent on the car, we subtract the amount he got back from the purchase price: 
+     \[
+     \text{Net Cost of Car} = \text{Purchase Price} - \text{Trade-in Value} = 18,000 - 6,000 = 12,000
+     \]
+   This means John effectively spent $12,000 on the car.
+
+3. **Calculate Profit from Uber**:
+   To find John's profit from driving Uber, we subtract the net cost of the car from his total earnings:
+   \[
+   \text{Profit} = \text{Total Earnings} - \text{Net Cost of Car} = 30,000 - 12,000 = 18,000
+   \]
+
+Therefore, John’s profit from driving Uber, after accounting for the net cost of the car, is $18,000.
+</reasoning>
+<answer>18000</answer>

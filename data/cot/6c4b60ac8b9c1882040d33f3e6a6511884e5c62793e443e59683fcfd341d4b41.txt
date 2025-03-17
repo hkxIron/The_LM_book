@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we need to determine how much money Evan has after receiving the $12 from David and then see how much more he needs to buy the watch that costs $20.
+
+1. **Identify how much money Evan has after receiving the $12:**
+   - Initially, Evan has $1.
+   - David gives him $12.
+   - We add these amounts together: 
+     \[
+     \text{Total money Evan has} = 1 + 12 = 13
+     \]
+   Therefore, after receiving $12 from David, Evan now has $13.
+
+2. **Determine how much Evan still needs to buy the watch:**
+   - The watch costs $20.
+   - We need to find out how much more money Evan needs by subtracting the amount he currently has from the cost of the watch:
+     \[
+     \text{Money still needed} = 20 - 13 = 7
+     \]
+   This means Evan still needs $7 to be able to buy the watch.
+
+Putting it all together, we find that Evan needs an additional $7 after receiving the money from David.
+</reasoning>
+<answer>7</answer>

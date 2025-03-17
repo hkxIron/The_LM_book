@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many more zits there are in Mr. Jones' class than in Ms. Swanson's, we first need to calculate the total number of zits in each class.
+
+**Step 1: Calculate the total number of zits in Ms. Swanson's class.**
+- Ms. Swanson's class has an average of 5 zits per kid and there are 25 kids in her class.
+- To find the total number of zits, we multiply the average number of zits by the number of kids.
+
+\[
+\text{Total zits in Ms. Swanson's class} = \text{Average zits per kid} \times \text{Number of kids}
+\]
+\[
+= 5 \, \text{zits/kid} \times 25 \, \text{kids} = 125 \, \text{zits}
+\]
+
+**Step 2: Calculate the total number of zits in Mr. Jones' class.**
+- Mr. Jones' class has an average of 6 zits per kid and there are 32 kids in his class.
+- Similarly, we multiply the average number of zits by the number of kids.
+
+\[
+\text{Total zits in Mr. Jones' class} = \text{Average zits per kid} \times \text{Number of kids}
+\]
+\[
+= 6 \, \text{zits/kid} \times 32 \, \text{kids} = 192 \, \text{zits}
+\]
+
+**Step 3: Calculate the difference in the total number of zits between Mr. Jones' class and Ms. Swanson's class.**
+- To find out how many more zits there are in Mr. Jones' class than in Ms. Swanson's class, we subtract the total number of zits in Ms. Swanson's class from the total number of zits in Mr. Jones' class.
+
+\[
+\text{Difference} = \text{Total zits in Mr. Jones' class} - \text{Total zits in Ms. Swanson's class}
+\]
+\[
+= 192 \, \text{zits} - 125 \, \text{zits} = 67 \, \text{zits}
+\]
+
+Therefore, the number of additional zits in Mr. Jones' class compared to Ms. Swanson's class is 67.
+</reasoning>
+<answer>67</answer>

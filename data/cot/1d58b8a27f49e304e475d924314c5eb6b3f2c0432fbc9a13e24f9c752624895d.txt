@@ -1,0 +1,32 @@
+<reasoning>
+To solve this problem, we will first determine how many books Krystian borrows each day, including Fridays when he borrows more than his daily average. Then, we'll add up the total for the week.
+
+1. **Determine the average number of books borrowed on regular days (Monday to Thursday):**
+   Krystian borrows an average of 40 books every day from Monday to Thursday. Since he works these 4 days, we calculate:
+   \[
+   \text{Books from Mon to Thu} = 40 \text{ books/day} \times 4 \text{ days} = 160 \text{ books}
+   \]
+
+2. **Calculate the number of books borrowed on Friday:**
+   On Fridays, Krystian borrows about 40% more than his daily average. To find out how many books he borrows on Friday, we first calculate 40% of his daily average:
+   \[
+   \text{40% of 40 books} = 0.40 \times 40 = 16 \text{ books}
+   \]
+   Now, we add this amount to his daily average to find out how many books he borrows on Friday:
+   \[
+   \text{Books borrowed on Friday} = 40 \text{ books} + 16 \text{ books} = 56 \text{ books}
+   \]
+
+3. **Calculate the total number of books borrowed in a week:**
+   Now we will sum the total number of borrowed books from Monday to Thursday and the number borrowed on Friday:
+   \[
+   \text{Total books borrowed in a week} = \text{Books from Mon to Thu} + \text{Books on Friday}
+   \]
+   Plugging in the values we calculated:
+   \[
+   \text{Total books borrowed in a week} = 160 \text{ books} + 56 \text{ books} = 216 \text{ books}
+   \]
+
+Therefore, the total number of books Krystian borrows in a week is 216.
+</reasoning>
+<answer>216</answer>

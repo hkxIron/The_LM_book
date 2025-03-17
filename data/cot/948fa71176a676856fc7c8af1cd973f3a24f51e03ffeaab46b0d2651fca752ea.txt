@@ -1,0 +1,18 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of pies baked**: 
+   Marcus can fit 5 pies in his oven at once and he bakes 7 batches. To find the total number of pies, we multiply the number of pies that can fit in the oven by the number of batches:
+   \[
+   \text{Total pies baked} = 5 \text{ pies/batch} \times 7 \text{ batches} = 35 \text{ pies}
+   \]
+
+2. **Account for the pies that were dropped**: 
+   After baking, Marcus accidentally drops 8 pies. To find out how many pies he has left, we subtract the number of dropped pies from the total number of pies baked:
+   \[
+   \text{Pies left} = \text{Total pies baked} - \text{Dropped pies} = 35 \text{ pies} - 8 \text{ pies} = 27 \text{ pies}
+   \]
+
+Therefore, after accounting for the dropped pies, Marcus has 27 pies left.
+</reasoning>
+<answer>27</answer>

@@ -1,0 +1,15 @@
+<reasoning>
+To find out how many wheels were on the floor when all 40 people skated at one time, we need to determine how many wheels are on each pair of roller skates.
+
+1. **Understanding the number of wheels per person**: Each roller skate typically has 4 wheels. Since each person wears two roller skates, we need to calculate the total number of wheels per person. 
+
+2. **Calculating wheels per person**: Since each pair of skates has 4 wheels, we can say:
+   - Wheels per person = 4 wheels (from one skate) + 4 wheels (from the other skate) = 4 + 4 = 8 wheels per person.
+
+3. **Calculating total wheels for 40 people**: Now, we need to multiply the number of wheels per person by the number of people:
+   - Total wheels = Wheels per person × Number of people
+   - Total wheels = 8 wheels/person × 40 people = 320 wheels.
+
+4. **Conclusion**: Therefore, when all 40 people skated at one time, there were a total of 320 wheels on the floor.
+</reasoning>
+<answer>320</answer>

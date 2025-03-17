@@ -1,0 +1,57 @@
+<reasoning>
+Let's define the number of Oreos that Jordan has as \( x \).
+
+According to the problem, James has 3 more than 2 times the number of Oreos Jordan has. We can express this relationship with the following equation:
+
+\[
+\text{James's Oreos} = 2x + 3
+\]
+
+The problem states that the total number of Oreos is 36. Therefore, we can set up the equation:
+
+\[
+x + (2x + 3) = 36
+\]
+
+Now let's simplify the equation step by step:
+
+1. Combine the terms on the left side:
+   \[
+   x + 2x + 3 = 36
+   \]
+   This simplifies to:
+   \[
+   3x + 3 = 36
+   \]
+
+2. Next, we need to isolate \( 3x \) by subtracting 3 from both sides:
+   \[
+   3x + 3 - 3 = 36 - 3
+   \]
+   Simplifying gives us:
+   \[
+   3x = 33
+   \]
+
+3. Now, we divide both sides by 3 to solve for \( x \):
+   \[
+   x = \frac{33}{3}
+   \]
+   This yields:
+   \[
+   x = 11
+   \]
+
+Thus, Jordan has 11 Oreos. 
+
+To verify, we can calculate how many Oreos James has:
+- James has \( 2(11) + 3 = 22 + 3 = 25 \) Oreos.
+
+Now we check the total:
+- Jordan has 11 Oreos and James has 25 Oreos, so:
+\[
+11 + 25 = 36
+\]
+This confirms that our calculations are correct.
+</reasoning>
+<answer>11</answer>

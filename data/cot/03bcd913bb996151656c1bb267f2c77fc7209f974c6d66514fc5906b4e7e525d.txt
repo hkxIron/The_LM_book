@@ -1,0 +1,30 @@
+<reasoning>
+Let's follow the steps one by one to find out how many baseball cards Buddy has on Thursday.
+
+1. **Starting Amount on Monday**:
+   On Monday, Buddy has 30 baseball cards. 
+   - We can denote this as:
+     - Cards on Monday = 30
+
+2. **Amount After Losing Half on Tuesday**:
+   On Tuesday, Buddy loses half of his baseball cards. 
+   - To find out how many he loses, we calculate half of 30:
+     - Half of 30 = 30 / 2 = 15
+   - Now we subtract the lost cards from the original amount:
+     - Cards on Tuesday = 30 - 15 = 15
+
+3. **Amount After Buying 12 Cards on Wednesday**:
+   On Wednesday, Buddy buys 12 baseball cards.
+   - We add these to the number of cards he had on Tuesday:
+     - Cards on Wednesday = 15 + 12 = 27
+
+4. **Amount After Buying a Third on Thursday**:
+   On Thursday, Buddy buys a third of what he had on Tuesday (which was 15 cards).
+   - To find a third of 15, we calculate:
+     - A third of 15 = 15 / 3 = 5
+   - Now we add this to the number of cards he had on Wednesday:
+     - Cards on Thursday = 27 + 5 = 32
+
+After completing all the calculations, we find that Buddy has 32 baseball cards on Thursday.
+</reasoning>
+<answer>32</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the production of a single engineered lemon tree.**
+   Since a normal lemon tree produces 60 lemons per year, and Jim's trees produce 50% more, we need to calculate the increase.
+   - First, we find 50% of 60 lemons:
+     \[
+     50\% \text{ of } 60 = 0.5 \times 60 = 30 \text{ lemons}
+     \]
+   - Now, we add this increase to the normal production:
+     \[
+     60 + 30 = 90 \text{ lemons per tree per year}
+     \]
+   Therefore, each engineered lemon tree produces 90 lemons per year.
+
+2. **Calculate the total number of engineered lemon trees in Jim's grove.**
+   Jim has a grove with 50 trees by 30 trees, so we calculate the total number of trees:
+   \[
+   50 \times 30 = 1500 \text{ trees}
+   \]
+
+3. **Calculate the total production of lemons from all trees in one year.**
+   Now, we need to find out how many lemons are produced by all 1500 trees in one year:
+   \[
+   1500 \text{ trees} \times 90 \text{ lemons per tree} = 135000 \text{ lemons per year}
+   \]
+
+4. **Calculate the total production over 5 years.**
+   Finally, to find out how many lemons are produced in 5 years, we multiply the yearly production by 5:
+   \[
+   135000 \text{ lemons per year} \times 5 \text{ years} = 675000 \text{ lemons}
+   \]
+
+Therefore, the total number of lemons produced by Jim's grove in 5 years is:
+</reasoning>
+<answer>675000</answer>

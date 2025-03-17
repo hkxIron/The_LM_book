@@ -1,0 +1,27 @@
+<reasoning>
+To determine the total number of flowers Marta needs for the floral centerpieces, we will follow these steps:
+
+1. **Identify the number of each type of flower needed for one arrangement**:
+   - Roses: 8
+   - Daisies: 12
+   - Snapdragons: 3
+   - Lilies: Twice the number of snapdragons, which means \(2 \times 3 = 6\).
+
+2. **Calculate the total number of each type of flower needed for 10 arrangements (one for each table)**:
+   - For roses: \(8 \text{ roses/arrangement} \times 10 \text{ arrangements} = 80 \text{ roses}\)
+   - For daisies: \(12 \text{ daisies/arrangement} \times 10 \text{ arrangements} = 120 \text{ daisies}\)
+   - For snapdragons: \(3 \text{ snapdragons/arrangement} \times 10 \text{ arrangements} = 30 \text{ snapdragons}\)
+   - For lilies: \(6 \text{ lilies/arrangement} \times 10 \text{ arrangements} = 60 \text{ lilies}\)
+
+3. **Sum the total number of flowers needed**:
+   - Total flowers = Total roses + Total daisies + Total snapdragons + Total lilies
+   - Total flowers = \(80 + 120 + 30 + 60\)
+
+4. **Perform the addition**:
+   - \(80 + 120 = 200\)
+   - \(200 + 30 = 230\)
+   - \(230 + 60 = 290\)
+
+Therefore, the total number of flowers Marta needs to fill this order is 290.
+</reasoning>
+<answer>290</answer>

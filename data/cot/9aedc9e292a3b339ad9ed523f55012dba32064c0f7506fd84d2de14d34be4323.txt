@@ -1,0 +1,61 @@
+<reasoning>
+Let's define the variables for the problem:
+
+Let \( R \) represent Rupert's weight in kilograms. 
+
+According to the problem, Antoinette weighs 7 kilograms less than twice Rupert's weight. We can express this relationship as:
+\[
+A = 2R - 7
+\]
+where \( A \) represents Antoinette's weight in kilograms.
+
+We also know that together they weigh 98 kilograms. This can be expressed with the equation:
+\[
+A + R = 98
+\]
+
+Now, we can substitute the expression we have for \( A \) into this equation:
+\[
+(2R - 7) + R = 98
+\]
+
+Next, we'll simplify the left side:
+\[
+2R - 7 + R = 98
+\]
+This combines to:
+\[
+3R - 7 = 98
+\]
+
+To isolate \( R \), we add 7 to both sides:
+\[
+3R = 98 + 7
+\]
+\[
+3R = 105
+\]
+
+Now, we divide both sides by 3 to solve for \( R \):
+\[
+R = \frac{105}{3}
+\]
+\[
+R = 35
+\]
+
+Now that we have Rupert's weight, we can find Antoinette's weight using the equation \( A = 2R - 7 \):
+\[
+A = 2(35) - 7
+\]
+Calculating this gives us:
+\[
+A = 70 - 7
+\]
+\[
+A = 63
+\]
+
+Thus, Antoinette weighs 63 kilograms.
+</reasoning>
+<answer>63</answer>

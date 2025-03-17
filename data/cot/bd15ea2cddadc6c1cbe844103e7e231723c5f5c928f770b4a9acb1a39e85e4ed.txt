@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many apples Kylie picked in total over the 3 hours, we'll break this down hour by hour.
+
+1. **First Hour:** 
+   - Kylie picks 66 apples.
+   - So, the total after the first hour is 66 apples.
+
+2. **Second Hour:**
+   - In the second hour, she doubles her apple picking rate.
+   - Since she picked 66 apples in the first hour, doubling that means she picked:
+     \[
+     2 \times 66 = 132 \text{ apples}
+     \]
+   - Now, we add this to the total from the first hour:
+     \[
+     66 + 132 = 198 \text{ apples}
+     \]
+
+3. **Third Hour:**
+   - In the third hour, she picks a third of the apples picked in the first hour.
+   - A third of 66 apples is:
+     \[
+     \frac{66}{3} = 22 \text{ apples}
+     \]
+   - Finally, we add this to the total from the first two hours:
+     \[
+     198 + 22 = 220 \text{ apples}
+     \]
+
+Now we have the total number of apples Kylie picked over the 3 hours.
+
+Therefore, the total number of apples picked by Kylie is:
+</reasoning>
+<answer>220</answer>

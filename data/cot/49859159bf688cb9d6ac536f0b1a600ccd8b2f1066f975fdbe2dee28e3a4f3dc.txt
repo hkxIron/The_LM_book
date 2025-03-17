@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many passing yards per game Tom Brady needs to average in the remaining 6 games to beat the current record of 5999 yards, we can follow these steps:
+
+1. **Find out how many more yards he needs**: 
+   We subtract the yards he currently has (4200 yards) from the record (5999 yards).
+   \[
+   5999 - 4200 = 1799 \text{ yards needed}
+   \]
+   This tells us that Tom needs 1799 more passing yards to beat the record.
+
+2. **Calculate the average yards per game**:
+   Since he has 6 games left, we need to divide the total yards needed (1799 yards) by the number of games (6).
+   \[
+   \text{Average yards per game} = \frac{1799 \text{ yards}}{6 \text{ games}} \approx 299.8333\text{ yards/game}
+   \]
+   This calculation gives us the average yards he needs to throw for each of the 6 games.
+
+3. **Round to a practical number**:
+   Since statistics usually are taken as whole numbers, we should round this number. In this case, we can say he needs to average 300 yards per game to ensure that he surpasses the record.
+
+Therefore, Tom Brady needs to average approximately 300 passing yards per game over the next 6 games to break the record.
+</reasoning>
+<answer>300</answer>

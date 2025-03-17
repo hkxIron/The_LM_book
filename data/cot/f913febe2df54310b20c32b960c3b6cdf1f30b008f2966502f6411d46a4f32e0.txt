@@ -1,0 +1,29 @@
+<reasoning>
+Let's denote Martha's current age as \( M \) and Ellen's current age as \( E \). From the problem, we know that:
+
+1. Ellen's current age \( E = 10 \) years.
+2. Martha is currently twice as old as Ellen will be in six years.
+
+Now, we need to determine Ellen's age in six years:
+
+\[
+E + 6 = 10 + 6 = 16 \text{ years}
+\]
+
+Next, according to the problem, Martha's current age \( M \) is twice what Ellen's age will be in six years:
+
+\[
+M = 2 \times (E + 6)
+\]
+
+Substituting \( E + 6 \) we calculated earlier:
+
+\[
+M = 2 \times 16 = 32 \text{ years}
+\]
+
+Thus, Martha is currently 32 years old.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>32</answer>

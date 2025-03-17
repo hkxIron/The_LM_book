@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much more pounds John gets out of wraps compared to sleeves, we will calculate the total lift with sleeves and wraps separately, and then find the difference between these two amounts.
+
+1. **Calculate the lift with sleeves:**
+   - John’s raw squat is 600 pounds.
+   - Sleeves add 30 pounds to his lift.
+   - So, the total lift with sleeves is:
+     \[
+     600 + 30 = 630 \text{ pounds}
+     \]
+
+2. **Calculate the lift with wraps:**
+   - Wraps add 25% to his squat.
+   - First, we need to calculate 25% of his raw squat:
+     \[
+     25\% \text{ of } 600 = 0.25 \times 600 = 150 \text{ pounds}
+     \]
+   - Now, we add this to his raw squat for the total lift with wraps:
+     \[
+     600 + 150 = 750 \text{ pounds}
+     \]
+
+3. **Find the difference in pounds between wraps and sleeves:**
+   - We now subtract the total lift with sleeves from the total lift with wraps to find out how much more he gets from wraps:
+     \[
+     750 - 630 = 120 \text{ pounds}
+     \]
+
+Therefore, the additional weight John gets from wraps compared to sleeves is 120 pounds.
+</reasoning>
+<answer>120</answer>

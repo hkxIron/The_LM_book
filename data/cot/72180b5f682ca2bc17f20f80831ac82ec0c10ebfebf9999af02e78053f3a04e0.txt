@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine how many flowers Lara gave to her mom.**
+   - Lara gave 15 flowers to her mom.
+
+2. **Calculate how many flowers Lara gave to her grandma.**
+   - Lara gave her grandma 6 more flowers than she gave to her mom. Therefore, we add 6 to the number of flowers given to her mom:
+     \[
+     \text{Flowers to grandma} = 15 + 6 = 21
+     \]
+
+3. **Calculate the total number of flowers Lara gave away.**
+   - Now, we will add the number of flowers given to her mom and grandma:
+     \[
+     \text{Total flowers given away} = 15 + 21 = 36
+     \]
+
+4. **Determine how many flowers Lara has left to put in the vase.**
+   - Lara initially bought 52 stems of flowers. We subtract the number of flowers given away from the total number of flowers:
+     \[
+     \text{Flowers in vase} = 52 - 36 = 16
+     \]
+
+Therefore, Lara put 16 stems of flowers in the vase.
+</reasoning>
+<answer>16</answer>

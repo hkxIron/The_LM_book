@@ -1,0 +1,32 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial amount**: The PTA starts with $400.
+
+2. **Spending on school supplies**: They spent a fourth of the $400 on school supplies. To find out how much that is, we calculate:
+   \[
+   \text{Amount spent on school supplies} = \frac{1}{4} \times 400 = 100
+   \]
+   This means they spent $100 on school supplies.
+
+3. **Remaining amount after school supplies**: Next, we need to find out how much money they have left after this expense. We subtract the amount spent on school supplies from the initial amount:
+   \[
+   \text{Remaining amount} = 400 - 100 = 300
+   \]
+   So, after purchasing school supplies, they have $300 left.
+
+4. **Spending on food for the faculty**: Now, they spend half of the remaining amount on food. To find out how much they spend on food, we calculate:
+   \[
+   \text{Amount spent on food} = \frac{1}{2} \times 300 = 150
+   \]
+   Therefore, they spent $150 on food for the faculty.
+
+5. **Final amount left**: Lastly, we need to determine how much money they have left after spending on food. We subtract the amount spent on food from the remaining amount:
+   \[
+   \text{Final amount} = 300 - 150 = 150
+   \]
+   So, after all expenses, they have $150 left.
+
+Therefore, the amount of money they have left is:
+</reasoning>
+<answer>150</answer>

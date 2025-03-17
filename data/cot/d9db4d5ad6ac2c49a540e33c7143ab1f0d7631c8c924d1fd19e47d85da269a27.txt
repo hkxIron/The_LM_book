@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we need to first determine how fast Kristin reads compared to Peter. 
+
+1. **Determine Peter's reading speed**: 
+   We know that Peter reads one book in 18 hours, so his reading speed is:
+   \[
+   \text{Peter's speed} = \frac{1 \text{ book}}{18 \text{ hours}} = \frac{1}{18} \text{ books per hour}
+   \]
+
+2. **Determine Kristin's reading speed**:
+   Since Peter reads three times as fast as Kristin, we can express Kristin's reading speed as:
+   \[
+   \text{Kristin's speed} = \frac{1}{3} \times \text{Peter's speed}
+   \]
+   Substituting Peter's speed:
+   \[
+   \text{Kristin's speed} = \frac{1}{3} \times \frac{1}{18} = \frac{1}{54} \text{ books per hour}
+   \]
+
+3. **Determine how long it takes Kristin to read half of her books**:
+   Kristin has to read 20 books, so half of her books is:
+   \[
+   \text{Half of her books} = \frac{20}{2} = 10 \text{ books}
+   \]
+   Now, we need to find out how long it takes her to read 10 books. We can calculate the time by using the formula:
+   \[
+   \text{Time} = \frac{\text{Number of books}}{\text{Reading speed}}
+   \]
+   Substituting the values:
+   \[
+   \text{Time} = \frac{10 \text{ books}}{\frac{1}{54} \text{ books per hour}} = 10 \times 54 = 540 \text{ hours}
+   \]
+
+Therefore, it will take Kristin 540 hours to read half of her books.
+</reasoning>
+<answer>540</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+Let's begin solving the problem step by step.
+
+1. **Identify the number of days in a week**: There are 7 days in a week. This is important because Davante has friends based on this number.
+
+2. **Calculate the number of friends Davante has**: The problem states that Davante has twice as many friends as there are days in the week. Therefore, we will multiply the number of days in a week by 2:
+   \[
+   \text{Number of friends} = 2 \times \text{Number of days in a week} = 2 \times 7 = 14.
+   \]
+   So, Davante has 14 friends.
+
+3. **Determine the number of girl friends**: We are given that 3 of his friends are girls. 
+
+4. **Calculate the number of boy friends**: To find out how many friends are boys, we subtract the number of girl friends from the total number of friends:
+   \[
+   \text{Number of boy friends} = \text{Total friends} - \text{Girl friends} = 14 - 3 = 11.
+   \]
+
+Thus, Davante has 11 boy friends.
+</reasoning>
+<answer>11</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many pencils Sarah has in total, we will follow these steps:
+
+1. **Calculate the number of pencils Sarah bought on Monday.**
+   - Sarah buys 20 pencils on Monday.
+   - So, on Monday: 
+   \[ \text{Pencils on Monday} = 20 \]
+
+2. **Calculate the number of pencils she bought on Tuesday.**
+   - On Tuesday, she buys 18 more pencils.
+   - So, on Tuesday:
+   \[ \text{Pencils on Tuesday} = 18 \]
+
+3. **Calculate the number of pencils she buys on Wednesday.**
+   - On Wednesday, she buys triple the number of pencils she bought on Tuesday.
+   - Since she bought 18 pencils on Tuesday, we calculate:
+   \[ \text{Pencils on Wednesday} = 3 \times 18 = 54 \]
+
+4. **Calculate the total number of pencils she has.**
+   - Now, we add the number of pencils Sarah bought on Monday, Tuesday, and Wednesday together:
+   \[
+   \text{Total Pencils} = \text{Pencils on Monday} + \text{Pencils on Tuesday} + \text{Pencils on Wednesday}
+   \]
+   \[
+   \text{Total Pencils} = 20 + 18 + 54
+   \]
+
+5. **Perform the addition.**
+   - First, add Monday and Tuesday:
+   \[ 
+   20 + 18 = 38 
+   \]
+   - Then, add the result to the pencils bought on Wednesday:
+   \[
+   38 + 54 = 92
+   \]
+
+Therefore, the total number of pencils Sarah has is 92.
+</reasoning>
+<answer>92</answer>

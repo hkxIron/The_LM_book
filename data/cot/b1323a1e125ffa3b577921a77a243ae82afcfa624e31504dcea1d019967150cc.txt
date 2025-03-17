@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Identify the number of jelly beans Napoleon has.**  
+   Napoleon has 17 jelly beans.
+
+2. **Determine the number of jelly beans Sedrich has.**  
+   Sedrich has 4 more jelly beans than Napoleon. Therefore, we calculate:
+   \[
+   \text{Sedrich's jelly beans} = \text{Napoleon's jelly beans} + 4 = 17 + 4 = 21
+   \]
+   So, Sedrich has 21 jelly beans.
+
+3. **Calculate the sum of Napoleon and Sedrich's jelly beans.**  
+   Now, we add the jelly beans they both have:
+   \[
+   \text{Total jelly beans} = \text{Napoleon's jelly beans} + \text{Sedrich's jelly beans} = 17 + 21 = 38
+   \]
+
+4. **Double the sum of both their jelly beans.**  
+   We need to find twice this sum:
+   \[
+   2 \times \text{Total jelly beans} = 2 \times 38 = 76
+   \]
+
+5. **Set up the equation related to Mikey's jelly beans.**  
+   The problem states that twice the sum of Napoleon and Sedrich's jelly beans (which we found to be 76) is equal to 4 times the number of jelly beans Mikey has. Let \( m \) represent the number of jelly beans Mikey has:
+   \[
+   76 = 4m
+   \]
+
+6. **Solve for \( m \).**  
+   To find \( m \), we divide both sides of the equation by 4:
+   \[
+   m = \frac{76}{4} = 19
+   \]
+
+Therefore, Mikey has 19 jelly beans.
+</reasoning>
+<answer>19</answer>

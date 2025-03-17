@@ -1,0 +1,18 @@
+<reasoning>
+To solve this problem, we first need to determine how many cookies are in 8 boxes and how many cookies are in 9 bags.
+
+1. **Calculate the number of cookies in 8 boxes**:
+   - Since each box has 12 cookies, we can calculate the total number of cookies in 8 boxes by multiplying the number of boxes by the number of cookies per box.
+   - Calculation: \( 8 \text{ boxes} \times 12 \text{ cookies/box} = 96 \text{ cookies} \).
+
+2. **Calculate the number of cookies in 9 bags**:
+   - Each bag contains 7 cookies. We will find the total number of cookies in 9 bags by multiplying the number of bags by the number of cookies per bag.
+   - Calculation: \( 9 \text{ bags} \times 7 \text{ cookies/bag} = 63 \text{ cookies} \).
+
+3. **Determine how many more cookies are in 8 boxes than in 9 bags**:
+   - Now we need to find the difference between the number of cookies in 8 boxes and the number of cookies in 9 bags.
+   - Calculation: \( 96 \text{ cookies (in boxes)} - 63 \text{ cookies (in bags)} = 33 \text{ cookies} \).
+
+Therefore, we conclude that there are 33 more cookies in 8 boxes than there are in 9 bags.
+</reasoning>
+<answer>33</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's define the number of pufferfish as \( p \). According to the problem, there are five times as many swordfish as pufferfish, so we can express the number of swordfish as \( 5p \).
+
+Now, we know the total number of fish in the aquarium is 90, which includes both the pufferfish and the swordfish. We can set up the following equation to represent this situation:
+
+\[
+p + 5p = 90
+\]
+
+Next, we combine like terms on the left side of the equation:
+
+\[
+6p = 90
+\]
+
+Now, we want to solve for \( p \) (the number of pufferfish). To do this, we divide both sides of the equation by 6:
+
+\[
+p = \frac{90}{6}
+\]
+
+Calculating the right side gives us:
+
+\[
+p = 15
+\]
+
+This means there are 15 pufferfish in the aquarium. 
+
+Finally, we can check our work: If there are 15 pufferfish, then the number of swordfish would be \( 5 \times 15 = 75 \). Adding these together confirms the total:
+
+\[
+15 + 75 = 90
+\]
+
+Everything checks out.
+</reasoning>
+<answer>15</answer>

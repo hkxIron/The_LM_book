@@ -1,0 +1,40 @@
+<reasoning>
+To find out how much change the couple will receive after buying tickets for themselves and their two children, we start by calculating the total cost of the tickets.
+
+1. **Determine the ticket costs**:
+   - The couple consists of two adults. Each adult ticket costs $109. 
+   - The total cost for the adults is:
+     \[
+     2 \times 109 = 218
+     \]
+
+2. **Calculate the children's ticket costs**:
+   - The children are aged 6 and 10. The 6-year-old is below 12, so they receive a $5 discount on their ticket.
+   - The regular ticket price for children is also $109. With the discount, the child's ticket price becomes:
+     \[
+     109 - 5 = 104
+     \]
+   - The 10-year-old is 10 years old and also below 12, so they also get a $5 discount:
+     \[
+     109 - 5 = 104
+     \]
+   - Thus, both children's tickets cost:
+     \[
+     104 + 104 = 208
+     \]
+
+3. **Calculate the total cost of all tickets**:
+   - Now, we add the total costs of the adults' tickets and the children's tickets:
+     \[
+     218 + 208 = 426
+     \]
+
+4. **Determine the change from the amount given**:
+   - The couple gave the cashier $500. To find out how much change they will receive, we subtract the total cost from the amount they paid:
+     \[
+     500 - 426 = 74
+     \]
+
+Therefore, after buying the tickets, the couple will receive $74 in change.
+</reasoning>
+<answer>74</answer>

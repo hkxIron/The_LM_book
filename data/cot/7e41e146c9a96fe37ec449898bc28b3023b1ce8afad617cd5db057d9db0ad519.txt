@@ -1,0 +1,26 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Understanding the total number of flowers**: Rose bought one dozen flowers. A dozen is equal to 12. So, the total number of flowers is 12.
+
+2. **Identifying the number of daisies**: Out of the 12 flowers, 2 are daisies. We need to subtract the number of daisies from the total to find out how many flowers remain. 
+
+   \[
+   \text{Remaining flowers} = \text{Total flowers} - \text{Daisies} = 12 - 2 = 10
+   \]
+
+3. **Finding the number of tulips**: The problem states that three-fifths of the remaining flowers are tulips. We need to calculate three-fifths of the 10 remaining flowers.
+
+   \[
+   \text{Number of tulips} = \frac{3}{5} \times 10 = 6
+   \]
+
+4. **Calculating the number of sunflowers**: After finding the number of tulips, we can determine how many flowers are left, which are the sunflowers. We already found that there are 10 remaining flowers, and if 6 of them are tulips, then we subtract the number of tulips from the total remaining flowers to find the number of sunflowers.
+
+   \[
+   \text{Number of sunflowers} = \text{Remaining flowers} - \text{Tulips} = 10 - 6 = 4
+   \]
+
+Therefore, the total number of sunflowers is 4.
+</reasoning>
+<answer>4</answer>

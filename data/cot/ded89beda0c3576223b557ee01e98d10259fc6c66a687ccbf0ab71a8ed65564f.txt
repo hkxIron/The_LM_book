@@ -1,0 +1,38 @@
+<reasoning>
+To solve for the average height of Parker, Daisy, and Reese, we'll proceed step by step.
+
+1. **Find Reese's height:**  
+   We know from the problem that Reese is 60 inches tall.  
+   So, Reese's height = 60 inches.
+
+2. **Calculate Daisy's height:**  
+   According to the problem, Daisy is 8 inches taller than Reese.  
+   Since Reese is 60 inches tall, we can find Daisy's height by adding 8 inches to Reese's height:  
+   \( \text{Daisy's height} = 60 \text{ inches} + 8 \text{ inches} = 68 \text{ inches} \).
+
+3. **Calculate Parker's height:**  
+   The problem states that Parker is 4 inches shorter than Daisy.  
+   Therefore, we can find Parker's height by subtracting 4 inches from Daisy's height:  
+   \( \text{Parker's height} = 68 \text{ inches} - 4 \text{ inches} = 64 \text{ inches} \).
+
+4. **Calculate the average height of Parker, Daisy, and Reese:**  
+   Now we have the heights:
+   - Parker: 64 inches
+   - Daisy: 68 inches
+   - Reese: 60 inches
+
+   To find the average height, we add their heights together and divide by the number of people (which is 3):  
+   \( \text{Average height} = \frac{\text{Parker's height} + \text{Daisy's height} + \text{Reese's height}}{3} \)  
+   \( = \frac{64 + 68 + 60}{3} \).
+
+5. **Calculate the total height:**  
+   First, we sum the heights:  
+   \( 64 + 68 + 60 = 192 \).
+
+6. **Divide by the number of people:**  
+   Now, we divide the total height by 3 to find the average:  
+   \( \text{Average height} = \frac{192}{3} = 64 \).
+
+Therefore, the average height for Parker, Daisy, and Reese is 64 inches.
+</reasoning>
+<answer>64</answer>

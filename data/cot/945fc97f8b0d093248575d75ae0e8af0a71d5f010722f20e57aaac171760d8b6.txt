@@ -1,0 +1,47 @@
+<reasoning>
+To solve this problem, we will calculate the total production of the machines in one day and then determine the earnings based on the price per kilogram of material sold.
+
+1. **Calculate the production of the first three machines:**
+   - Each of the 3 machines operates for 23 hours a day.
+   - Each machine produces 2 kg of material per hour.
+   - Therefore, the total production of the 3 machines in one day is:
+     \[
+     \text{Total kg from 3 machines} = 3 \text{ machines} \times 23 \text{ hours} \times 2 \text{ kg/hour}
+     \]
+   - Performing the calculation:
+     \[
+     = 3 \times 23 \times 2 = 138 \text{ kg}
+     \]
+
+2. **Calculate the production of the fourth machine:**
+   - The fourth machine operates for 12 hours a day.
+   - It also produces 2 kg of material per hour.
+   - Therefore, the total production of the fourth machine in one day is:
+     \[
+     \text{Total kg from 4th machine} = 1 \text{ machine} \times 12 \text{ hours} \times 2 \text{ kg/hour}
+     \]
+   - Performing the calculation:
+     \[
+     = 1 \times 12 \times 2 = 24 \text{ kg}
+     \]
+
+3. **Calculate the total production of all machines in one day:**
+   - Now, we add the production from the first three machines and the fourth machine:
+     \[
+     \text{Total production} = 138 \text{ kg} + 24 \text{ kg} = 162 \text{ kg}
+     \]
+
+4. **Calculate the earnings from the total production:**
+   - The factory sells the produced material for $50 per kg.
+   - Therefore, the total earnings from selling all the material produced in one day is:
+     \[
+     \text{Total earnings} = 162 \text{ kg} \times 50 \text{ dollars/kg}
+     \]
+   - Performing the calculation:
+     \[
+     = 162 \times 50 = 8100 \text{ dollars}
+     \]
+
+Therefore, the factory can earn $8100 in one day from the material produced.
+</reasoning>
+<answer>8100</answer>

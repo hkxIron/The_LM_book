@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem, we need to determine how many pieces of gum each person will get after sharing equally among John, Cole, and Aubrey.
+
+1. **Calculate the total amount of gum.** 
+   - John has 54 pieces of gum.
+   - Cole has 45 pieces of gum.
+   - Aubrey has 0 pieces of gum.
+
+   We add these amounts together:
+   \[
+   \text{Total gum} = 54 + 45 + 0 = 99
+   \]
+   This step is important because we want to know how much gum there is in total to distribute it evenly.
+
+2. **Divide the total amount of gum by the number of people.**
+   - There are 3 people: John, Cole, and Aubrey.
+
+   We divide the total gum by the number of people:
+   \[
+   \text{Gum per person} = \frac{99}{3}
+   \]
+   This step ensures that we distribute the total amount of gum equally among the three individuals.
+
+3. **Calculate the division.**
+   - Performing the division:
+   \[
+   \frac{99}{3} = 33
+   \]
+   This means that each person will receive 33 pieces of gum.
+
+Therefore, each person, John, Cole, and Aubrey, will get 33 pieces of gum after sharing equally.
+</reasoning>
+<answer>33</answer>

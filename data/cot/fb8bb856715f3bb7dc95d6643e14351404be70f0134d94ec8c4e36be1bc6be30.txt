@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many cakes Marjorie made on the first day, we need to work backwards from the sixth day.
+
+1. **Understanding the problem**: Marjorie doubles the number of cakes she makes each day. This means that if we know how many cakes she made on a later day, we can find out how many she made on the previous day by dividing by 2.
+
+2. **Starting with the sixth day**: On the sixth day, Marjorie made 320 cakes.
+
+3. **Calculating the fifth day**:
+   - Since she doubles her production each day, to find the number of cakes she made on the fifth day, we divide the number of cakes on the sixth day by 2:
+   \[
+   \text{Fifth day} = \frac{320}{2} = 160
+   \]
+
+4. **Calculating the fourth day**:
+   - Now, to find the number of cakes made on the fourth day, we again divide by 2:
+   \[
+   \text{Fourth day} = \frac{160}{2} = 80
+   \]
+
+5. **Calculating the third day**:
+   - For the third day:
+   \[
+   \text{Third day} = \frac{80}{2} = 40
+   \]
+
+6. **Calculating the second day**:
+   - For the second day:
+   \[
+   \text{Second day} = \frac{40}{2} = 20
+   \]
+
+7. **Calculating the first day**:
+   - Finally, for the first day:
+   \[
+   \text{First day} = \frac{20}{2} = 10
+   \]
+
+Now we have calculated that Marjorie made 10 cakes on the first day.
+
+Therefore, the number of cakes Marjorie made on the first day is:
+</reasoning>
+<answer>10</answer>

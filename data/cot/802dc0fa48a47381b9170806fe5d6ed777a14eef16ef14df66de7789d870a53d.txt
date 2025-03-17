@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem step by step, we first need to identify the costs of the shirts we have.
+
+1. **Identify the number of shirts and their costs**:
+   - We have a total of 5 shirts.
+   - Out of these, 3 shirts cost $15 each.
+
+2. **Calculate the total cost of the 3 shirts that cost $15 each**:
+   - To find the total cost of these shirts, we multiply the number of shirts by their cost:
+   \[
+   \text{Total cost of 3 shirts} = 3 \text{ shirts} \times 15 \text{ dollars/shirt} = 45 \text{ dollars}
+   \]
+   This step is done to find out how much we have spent on the first group of shirts.
+
+3. **Determine the number of remaining shirts**:
+   - Since there are 5 shirts in total and 3 of them are accounted for, we subtract:
+   \[
+   \text{Remaining shirts} = 5 \text{ shirts} - 3 \text{ shirts} = 2 \text{ shirts}
+   \]
+   This step helps us understand how many shirts we still need to account for.
+
+4. **Calculate the total cost of the remaining 2 shirts that cost $20 each**:
+   - We multiply the number of remaining shirts by their cost:
+   \[
+   \text{Total cost of 2 shirts} = 2 \text{ shirts} \times 20 \text{ dollars/shirt} = 40 \text{ dollars}
+   \]
+   This step gives us the total cost for the second group of shirts.
+
+5. **Calculate the overall total cost of all 5 shirts**:
+   - Now, we add the total cost of the first group of shirts and the total cost of the second group:
+   \[
+   \text{Total cost of all shirts} = 45 \text{ dollars} + 40 \text{ dollars} = 85 \text{ dollars}
+   \]
+   This final addition gives us the total expenditure on all 5 shirts.
+
+Therefore, the total cost of all 5 shirts is:
+</reasoning>
+<answer>85</answer>

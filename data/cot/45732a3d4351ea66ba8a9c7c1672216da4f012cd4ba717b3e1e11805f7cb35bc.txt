@@ -1,0 +1,51 @@
+<reasoning>
+Let's start by calculating how much Mary spent in total.
+
+1. **Calculate Mary's total spending:**
+   - Mary bought 2 pairs of sunglasses for $50 each. So, the cost for the sunglasses is:
+     \[
+     2 \times 50 = 100 \text{ dollars}
+     \]
+   - Mary also bought a pair of jeans for $100. 
+
+   Now, we add these amounts to find Mary's total spending:
+   \[
+   100 \text{ (sunglasses)} + 100 \text{ (jeans)} = 200 \text{ dollars}
+   \]
+
+So, Mary spent a total of $200.
+
+2. **Now, let's calculate how much Rose spent:**
+   - Rose bought a pair of shoes for $150. 
+   - Let the cost of one deck of basketball cards be \( x \). Since Rose bought 2 decks, the cost for the decks would be:
+     \[
+     2x
+     \]
+
+   Therefore, Rose's total spending is:
+   \[
+   150 \text{ (shoes)} + 2x
+   \]
+
+3. **Since Mary and Rose spent the same amount, we can set up the equation:**
+   \[
+   200 = 150 + 2x
+   \]
+
+4. **Now, let's solve for \( x \):**
+   - First, we subtract 150 from both sides of the equation:
+     \[
+     200 - 150 = 2x
+     \]
+     \[
+     50 = 2x
+     \]
+
+   - Next, we divide both sides by 2 to solve for \( x \):
+     \[
+     x = \frac{50}{2} = 25
+     \]
+
+So, the cost of one deck of basketball cards is $25.
+</reasoning>
+<answer>25</answer>

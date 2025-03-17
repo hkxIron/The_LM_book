@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many minutes Keegan spends in one of his other classes on average, we will follow these steps:
+
+1. **Calculate the total time spent in classes each day:** Keegan is in school for 7.5 hours each day. We need to convert this time into minutes because we want the final answer in minutes.
+   - There are 60 minutes in an hour, so we multiply 7.5 hours by 60 minutes per hour:
+   \[
+   7.5 \text{ hours} \times 60 \text{ minutes/hour} = 450 \text{ minutes}
+   \]
+
+2. **Subtract the time spent in history and chemistry classes:** Keegan has history and chemistry classes for a combined total of 1.5 hours. We will convert this time to minutes as well.
+   - Again, we convert 1.5 hours to minutes:
+   \[
+   1.5 \text{ hours} \times 60 \text{ minutes/hour} = 90 \text{ minutes}
+   \]
+
+3. **Calculate the total time spent in the other classes:** Now we will subtract the time spent in history and chemistry from the total school time to find out how much time he spends in the other classes.
+   \[
+   450 \text{ minutes} - 90 \text{ minutes} = 360 \text{ minutes}
+   \]
+
+4. **Determine the number of other classes:** Keegan is taking 7 classes in total, and we know that 2 of those are history and chemistry classes. Thus, he has:
+   \[
+   7 \text{ classes} - 2 \text{ classes} = 5 \text{ other classes}
+   \]
+
+5. **Calculate the average time spent in one of the other classes:** Now, we will find the average time spent in each of the 5 other classes by dividing the total time spent in other classes by the number of other classes.
+   \[
+   \frac{360 \text{ minutes}}{5 \text{ classes}} = 72 \text{ minutes/class}
+   \]
+
+Thus, Keegan spends an average of 72 minutes in each of his other classes.
+</reasoning>
+<answer>72</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+First, let's determine the total number of jellybeans that are already accounted for in the jar. We have:
+
+- 14 blue jellybeans
+- 26 purple jellybeans
+- 40 orange jellybeans
+
+Now, we will add these numbers together to find out how many jellybeans are not red:
+
+\[
+14 + 26 + 40
+\]
+
+Calculating this step by step:
+
+1. First, add 14 and 26:
+   \[
+   14 + 26 = 40
+   \]
+   
+2. Now, add the result to 40:
+   \[
+   40 + 40 = 80
+   \]
+
+So, there are 80 jellybeans that are either blue, purple, or orange.
+
+Next, we know that the total number of jellybeans in the jar is 200. To find out how many jellybeans are red, we can subtract the number of non-red jellybeans from the total number of jellybeans:
+
+\[
+200 - 80
+\]
+
+Calculating this gives us:
+
+\[
+200 - 80 = 120
+\]
+
+Thus, the number of red jellybeans in the jar is 120.
+</reasoning>
+<answer>120</answer>

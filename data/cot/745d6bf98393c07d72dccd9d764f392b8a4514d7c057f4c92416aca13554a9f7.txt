@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the cost of silver**:
+   - John buys 1.5 ounces of silver, and the cost of silver is $20 per ounce.
+   - To find the total cost of silver, we multiply the amount of silver by the cost per ounce:
+     \[
+     \text{Cost of silver} = 1.5 \text{ ounces} \times 20 \text{ dollars/ounce} 
+     \]
+     \[
+     \text{Cost of silver} = 30 \text{ dollars}
+     \]
+   - This means John spends $30 on silver.
+
+2. **Determine the amount of gold he buys**:
+   - John buys twice as much gold as silver. Therefore, the amount of gold he buys is:
+     \[
+     \text{Amount of gold} = 2 \times 1.5 \text{ ounces} = 3 \text{ ounces}
+     \]
+
+3. **Calculate the cost of gold**:
+   - The gold is 50 times more expensive per ounce than silver. Since silver costs $20 per ounce, the cost of gold per ounce is:
+     \[
+     \text{Cost per ounce of gold} = 50 \times 20 \text{ dollars} = 1000 \text{ dollars/ounce}
+     \]
+   - Now, we calculate the total cost of gold:
+     \[
+     \text{Cost of gold} = 3 \text{ ounces} \times 1000 \text{ dollars/ounce}
+     \]
+     \[
+     \text{Cost of gold} = 3000 \text{ dollars}
+     \]
+   - This means John spends $3000 on gold.
+
+4. **Calculate the total cost**:
+   - Now, we add the cost of silver and the cost of gold to find the total amount John spends:
+     \[
+     \text{Total cost} = \text{Cost of silver} + \text{Cost of gold} = 30 \text{ dollars} + 3000 \text{ dollars}
+     \]
+     \[
+     \text{Total cost} = 3030 \text{ dollars}
+     \]
+
+Therefore, John spends a total of $3030 on silver and gold.
+</reasoning>
+<answer>3030</answer>

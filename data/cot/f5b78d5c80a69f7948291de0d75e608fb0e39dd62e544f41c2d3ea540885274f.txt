@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to break it down step by step.
+
+1. **Understanding the Ratio**: Taylor combines white and black scores in a ratio of 7:6. This means for every 7 parts of white scores, there are 6 parts of black scores.
+
+2. **Calculating Total Parts**: First, we need to find the total number of parts in the mixture. The total parts can be calculated by adding the parts of white and black scores:
+   \[
+   7 + 6 = 13 \text{ parts}
+   \]
+
+3. **Finding the Value of Each Part**: Since Taylor made a total of 78 yellow scores, we can find the value of each part by dividing the total number of yellow scores by the total parts:
+   \[
+   \text{Value of each part} = \frac{78}{13} = 6
+   \]
+
+4. **Calculating the Number of White and Black Scores**:
+   - The number of white scores can be calculated as:
+   \[
+   \text{White scores} = 7 \times \text{Value of each part} = 7 \times 6 = 42
+   \]
+   - The number of black scores can be calculated as:
+   \[
+   \text{Black scores} = 6 \times \text{Value of each part} = 6 \times 6 = 36
+   \]
+
+5. **Finding the Difference Between Black and White Scores**: Now, we need to find the difference between the number of black and white scores:
+   \[
+   \text{Difference} = 42 - 36 = 6
+   \]
+
+6. **Calculating 2/3 of the Difference**: Finally, we need to find 2/3 of the difference:
+   \[
+   \frac{2}{3} \times 6 = 4
+   \]
+
+Thus, after following all the steps correctly, we can conclude that:
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the amount Ariella has in her son's savings account.**
+   We know that Daniella has $400 in her son's savings account. According to the problem, Ariella has $200 more than Daniella. 
+   
+   So, we calculate Ariella's amount as follows:
+   \[
+   \text{Ariella's amount} = \text{Daniella's amount} + 200 = 400 + 200 = 600
+   \]
+   Therefore, Ariella has $600 in her son's savings account.
+
+2. **Calculate the simple interest earned by Ariella after two years.**
+   The formula for calculating simple interest is:
+   \[
+   \text{Simple Interest} = P \times r \times t
+   \]
+   where \( P \) is the principal amount (initial amount), \( r \) is the rate of interest (as a decimal), and \( t \) is the time in years.
+
+   Here, we have:
+   - \( P = 600 \) (Ariella's initial amount)
+   - \( r = 10\% = 0.10 \) (the interest rate)
+   - \( t = 2 \) (the time period in years)
+
+   Plugging in these values:
+   \[
+   \text{Simple Interest} = 600 \times 0.10 \times 2 = 600 \times 0.20 = 120
+   \]
+   Therefore, Ariella will earn $120 in interest after two years.
+
+3. **Calculate the total amount Ariella will have after two years.**
+   To find the total amount in Ariella's account after two years, we add the simple interest earned to the principal amount:
+   \[
+   \text{Total Amount} = \text{Principal} + \text{Interest} = 600 + 120 = 720
+   \]
+
+Thus, after two years, Ariella will have a total of $720 in her son's savings account.
+</reasoning>
+<answer>720</answer>

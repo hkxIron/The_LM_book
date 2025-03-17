@@ -1,0 +1,47 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **William's Reading Last Month:**
+   William read 6 books last month.
+
+2. **Brad's Reading Last Month:**
+   According to the problem, Brad read thrice as many books as William did. Therefore, we calculate:
+   \[
+   \text{Brad's books last month} = 3 \times \text{William's books last month} = 3 \times 6 = 18
+   \]
+
+3. **William's Reading This Month:**
+   This month, William read twice as much as Brad. We know from the problem that Brad read 8 books this month. Thus, we calculate:
+   \[
+   \text{William's books this month} = 2 \times \text{Brad's books this month} = 2 \times 8 = 16
+   \]
+
+4. **Total Books Read by Each:**
+   Now, we can find the total number of books read by both William and Brad over the two months.
+
+   - **Total for William:**
+   \[
+   \text{Total books read by William} = \text{William's books last month} + \text{William's books this month} = 6 + 16 = 22
+   \]
+
+   - **Total for Brad:**
+   \[
+   \text{Total books read by Brad} = \text{Brad's books last month} + \text{Brad's books this month} = 18 + 8 = 26
+   \]
+
+5. **Comparison of Total Books Read:**
+   Now, we compare the total books read by William and Brad:
+   - William read 22 books.
+   - Brad read 26 books.
+
+   Therefore, Brad has read more books than William.
+
+6. **Finding the Difference:**
+   We calculate how much more Brad read than William:
+   \[
+   \text{Difference} = \text{Brad's total} - \text{William's total} = 26 - 22 = 4
+   \]
+
+Thus, Brad has read more than William by 4 books.
+</reasoning>
+<answer>4</answer>

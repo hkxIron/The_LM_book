@@ -1,0 +1,35 @@
+<reasoning>
+Let's start by determining how many of the 54 mangoes were ripe and how many were unripe.
+
+1. **Calculate the number of ripe mangoes**:
+   Since one-third of the mangoes were ripe, we calculate:
+   \[
+   \text{Ripe mangoes} = \frac{1}{3} \times 54 = 18
+   \]
+   This means there are 18 ripe mangoes.
+
+2. **Calculate the number of unripe mangoes**:
+   The remaining two-thirds of the mangoes are unripe:
+   \[
+   \text{Unripe mangoes} = \frac{2}{3} \times 54 = 36
+   \]
+   So, there are 36 unripe mangoes.
+
+3. **Determine how many unripe mangoes Jordan kept**:
+   Jordan kept 16 unripe mangoes. 
+
+4. **Calculate the number of unripe mangoes given to his sister**:
+   To find out how many unripe mangoes Jordan gave to his sister, we subtract the 16 unripe mangoes he kept from the total number of unripe mangoes:
+   \[
+   \text{Unripe mangoes given to sister} = 36 - 16 = 20
+   \]
+
+5. **Determine how many jars of pickled mangoes can be made**:
+   If it takes 4 mangoes to fill one jar, we can calculate the number of jars by dividing the number of unripe mangoes given to his sister by 4:
+   \[
+   \text{Number of jars} = \frac{20}{4} = 5
+   \]
+
+Thus, Jordan's sister can make 5 jars of pickled mangoes.
+</reasoning>
+<answer>5</answer>

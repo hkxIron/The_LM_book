@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of tickets sold for the romance movie**: 
+   According to the problem, the theater sold 25 tickets to the romance movie. We'll denote the number of tickets sold for the romance movie as \( R \). Therefore, \( R = 25 \).
+
+2. **Set up the equation for the horror movie tickets**:
+   The problem states that the theater sold 18 more than three times the number of tickets for the romance movie for the horror movie. We can denote the number of tickets sold for the horror movie as \( H \).
+   The relationship can be expressed as:
+   \[
+   H = 3R + 18
+   \]
+   Here, \( 3R \) represents three times the number of romance movie tickets, and adding 18 gives us the total for the horror movie.
+
+3. **Substitute the value of \( R \)**:
+   Now, we substitute \( R = 25 \) into the equation:
+   \[
+   H = 3(25) + 18
+   \]
+
+4. **Calculate \( 3(25) \)**:
+   First, we multiply:
+   \[
+   3(25) = 75
+   \]
+
+5. **Add 18 to the result**:
+   Next, we add 18 to the result from the previous step:
+   \[
+   H = 75 + 18 = 93
+   \]
+
+Thus, the theater sold 93 tickets to the horror movie.
+</reasoning>
+<answer>93</answer>

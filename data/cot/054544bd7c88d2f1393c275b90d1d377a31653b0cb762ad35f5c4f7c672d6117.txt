@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of people counted on the second day**: 
+   We know from the problem statement that 500 people were counted on the second day.
+
+2. **Set up the equation for the first day**: 
+   The problem states that the number of people counted on the first day was twice the number counted on the second day. Therefore, we can express the number of people counted on the first day (let's call it \( x \)) as:
+   \[
+   x = 2 \times (\text{Number of people counted on the second day})
+   \]
+   Substituting the number from the second day into the equation gives:
+   \[
+   x = 2 \times 500
+   \]
+
+3. **Calculate the number of people counted on the first day**:
+   \[
+   x = 2 \times 500 = 1000
+   \]
+   So, 1000 people were counted on the first day.
+
+4. **Calculate the total number of people counted over the two days**:
+   Now we need to find the total number of people counted on both days. We add the number of people counted on the first day to the number counted on the second day:
+   \[
+   \text{Total} = (\text{Number on the first day}) + (\text{Number on the second day}) = 1000 + 500
+   \]
+
+5. **Perform the addition**:
+   \[
+   \text{Total} = 1000 + 500 = 1500
+   \]
+
+Thus, the total number of people counted over the two days is 1500.
+</reasoning>
+<answer>1500</answer>

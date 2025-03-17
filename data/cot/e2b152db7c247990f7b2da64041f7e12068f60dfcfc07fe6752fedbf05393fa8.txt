@@ -1,0 +1,55 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Variables**: 
+   - Let the number of colored pencils Cyrus has be \( C \).
+   - Since Cheryl has thrice as many colored pencils as Cyrus, we can express the number of colored pencils Cheryl has as \( 3C \).
+   - Madeline has 63 colored pencils and only half of what Cheryl has. Therefore, we can write the equation based on this information:
+     \[
+     63 = \frac{1}{2} (3C)
+     \]
+
+2. **Solve for Cyrus's Pencils**: 
+   - To find \( C \), we can first simplify the equation:
+     \[
+     63 = \frac{3C}{2}
+     \]
+   - To eliminate the fraction, we multiply both sides of the equation by 2:
+     \[
+     2 \times 63 = 3C
+     \]
+     \[
+     126 = 3C
+     \]
+   - Now, divide both sides by 3 to find \( C \):
+     \[
+     C = \frac{126}{3} = 42
+     \]
+
+3. **Calculate Cheryl's Pencils**: 
+   - Now that we know Cyrus has 42 colored pencils, we can find out how many Cheryl has:
+     \[
+     \text{Cheryl's pencils} = 3C = 3 \times 42 = 126
+     \]
+
+4. **Determine Total Pencils**: 
+   - Now, we can calculate the total number of colored pencils that Cheryl, Cyrus, and Madeline have altogether:
+     \[
+     \text{Total} = C + \text{Cheryl's pencils} + \text{Madeline's pencils}
+     \]
+     \[
+     \text{Total} = 42 + 126 + 63
+     \]
+
+5. **Final Calculation**: 
+   - Adding these together:
+     \[
+     \text{Total} = 42 + 126 = 168
+     \]
+     \[
+     \text{Total} = 168 + 63 = 231
+     \]
+
+Therefore, the total number of colored pencils that Cheryl, Cyrus, and Madeline have altogether is 231.
+</reasoning>
+<answer>231</answer>

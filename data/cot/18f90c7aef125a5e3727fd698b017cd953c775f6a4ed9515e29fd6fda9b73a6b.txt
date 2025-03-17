@@ -1,0 +1,18 @@
+<reasoning>
+To solve this problem, we need to determine the total time spent recovering all the animals that escaped from the zoo.
+
+1. **Identify the total number of animals**: We have 3 lions and 2 rhinos. So we first add these together to find the total number of animals.
+   \[
+   \text{Total animals} = 3 \text{ (lions)} + 2 \text{ (rhinos)} = 5 \text{ (total animals)}
+   \]
+
+2. **Determine the recovery time per animal**: According to the problem, it takes 2 hours to recover each animal.
+
+3. **Calculate the total recovery time**: Now, we multiply the total number of animals by the time it takes to recover each one to find the total time spent recovering all animals.
+   \[
+   \text{Total recovery time} = \text{Total animals} \times \text{Time per animal} = 5 \text{ (animals)} \times 2 \text{ (hours/animal)} = 10 \text{ hours}
+   \]
+
+Therefore, the zoo spent a total of 10 hours recovering the animals.
+</reasoning>
+<answer>10</answer>

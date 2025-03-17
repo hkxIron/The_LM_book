@@ -1,0 +1,44 @@
+<reasoning>
+To find out how many minutes Rosie needs to run on Friday to reach her goal of 20 miles, we first need to calculate the distance she has already run from Monday to Thursday.
+
+1. **Calculate the distance Rosie ran on each day.**
+   - **Monday:** Rosie runs for 1 hour at 6 miles per hour.
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time} = 6 \text{ miles/hour} \times 1 \text{ hour} = 6 \text{ miles}
+     \]
+   - **Tuesday:** Rosie runs for 30 minutes, which is 0.5 hours.
+     \[
+     \text{Distance} = 6 \text{ miles/hour} \times 0.5 \text{ hours} = 3 \text{ miles}
+     \]
+   - **Wednesday:** Rosie runs for 1 hour at 6 miles per hour.
+     \[
+     \text{Distance} = 6 \text{ miles/hour} \times 1 \text{ hour} = 6 \text{ miles}
+     \]
+   - **Thursday:** Rosie runs for 20 minutes, which is \( \frac{20}{60} \) hours or \( \frac{1}{3} \) hours.
+     \[
+     \text{Distance} = 6 \text{ miles/hour} \times \frac{1}{3} \text{ hours} = 2 \text{ miles}
+     \]
+
+2. **Sum the distances run from Monday to Thursday.**
+   \[
+   \text{Total Distance} = 6 \text{ miles} + 3 \text{ miles} + 6 \text{ miles} + 2 \text{ miles} = 17 \text{ miles}
+   \]
+
+3. **Determine how many more miles Rosie needs to run on Friday to reach 20 miles.**
+   \[
+   \text{Miles needed} = 20 \text{ miles} - 17 \text{ miles} = 3 \text{ miles}
+   \]
+
+4. **Calculate how long it will take Rosie to run those additional 3 miles at a speed of 6 miles per hour.**
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{3 \text{ miles}}{6 \text{ miles/hour}} = 0.5 \text{ hours}
+   \]
+
+5. **Convert the time from hours to minutes.**
+   \[
+   0.5 \text{ hours} = 0.5 \times 60 \text{ minutes} = 30 \text{ minutes}
+   \]
+
+Therefore, Rosie should run for 30 minutes on Friday to reach her goal of 20 miles for the week.
+</reasoning>
+<answer>30</answer>

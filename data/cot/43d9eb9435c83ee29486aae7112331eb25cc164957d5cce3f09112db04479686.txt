@@ -1,0 +1,55 @@
+<reasoning>
+Let's denote the total number of kids in camp as \( x \).
+
+1. According to the problem, half of the kids are going to soccer camp. This means:
+   \[
+   \text{Kids going to soccer camp} = \frac{x}{2}
+   \]
+   Here, we are dividing the total number of kids by 2 because half of them are attending soccer camp.
+
+2. Next, we know that 1/4 of the kids going to soccer camp are going in the morning. Therefore, the number of kids going to soccer camp in the morning is:
+   \[
+   \text{Kids going to soccer camp in the morning} = \frac{1}{4} \times \frac{x}{2} = \frac{x}{8}
+   \]
+   We multiply by \( \frac{1}{4} \) to find out how many of the kids that are going to soccer camp are going in the morning.
+
+3. The remaining kids going to soccer camp must then be going in the afternoon. Since we already know that the total number of kids going to soccer camp is \( \frac{x}{2} \), the number of kids going to soccer camp in the afternoon can be calculated as:
+   \[
+   \text{Kids going to soccer camp in the afternoon} = \frac{x}{2} - \frac{x}{8}
+   \]
+   To subtract these fractions, we need a common denominator. The common denominator of 2 and 8 is 8:
+   \[
+   \frac{x}{2} = \frac{4x}{8}
+   \]
+   Thus,
+   \[
+   \frac{x}{2} - \frac{x}{8} = \frac{4x}{8} - \frac{x}{8} = \frac{3x}{8}
+   \]
+   This means that the number of kids going to soccer camp in the afternoon is \( \frac{3x}{8} \).
+
+4. We are told that 750 kids are going to soccer camp in the afternoon. Therefore, we can set up the equation:
+   \[
+   \frac{3x}{8} = 750
+   \]
+
+5. To solve for \( x \), we multiply both sides of the equation by 8 to eliminate the fraction:
+   \[
+   3x = 750 \times 8
+   \]
+   Calculating the right-hand side:
+   \[
+   750 \times 8 = 6000
+   \]
+   So we have:
+   \[
+   3x = 6000
+   \]
+
+6. Now, divide both sides by 3 to solve for \( x \):
+   \[
+   x = \frac{6000}{3} = 2000
+   \]
+
+Thus, the total number of kids in camp altogether is \( 2000 \).
+</reasoning>
+<answer>2000</answer>

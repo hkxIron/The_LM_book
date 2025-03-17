@@ -1,0 +1,33 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Find Jim's original reading speed in pages per hour.**
+   - Jim reads at a rate of 40 pages per hour. 
+
+2. **Calculate how many hours he reads per week originally.**
+   - Jim reads a total of 600 pages per week. To find out how many hours he reads, we can use the formula:
+     \[
+     \text{Hours read per week} = \frac{\text{Total pages read}}{\text{Pages per hour}} = \frac{600 \text{ pages}}{40 \text{ pages/hour}} = 15 \text{ hours/week}
+     \]
+
+3. **Determine Jim's new reading speed.**
+   - Jim increases his reading speed to 150% of his former speed. To calculate this:
+     \[
+     \text{New speed} = 1.5 \times 40 \text{ pages/hour} = 60 \text{ pages/hour}
+     \]
+
+4. **Calculate how many hours he reads per week now.**
+   - Jim reads 4 hours less than before, which means:
+     \[
+     \text{New hours read per week} = 15 \text{ hours/week} - 4 \text{ hours} = 11 \text{ hours/week}
+     \]
+
+5. **Calculate how many pages he reads at the new speed.**
+   - Now we can find out how many pages he reads in a week at the new speed:
+     \[
+     \text{Pages read per week} = \text{New speed} \times \text{New hours read per week} = 60 \text{ pages/hour} \times 11 \text{ hours/week} = 660 \text{ pages}
+     \]
+
+Therefore, after increasing his reading speed and reducing his reading hours, Jim now reads a total of 660 pages per week.
+</reasoning>
+<answer>660</answer>

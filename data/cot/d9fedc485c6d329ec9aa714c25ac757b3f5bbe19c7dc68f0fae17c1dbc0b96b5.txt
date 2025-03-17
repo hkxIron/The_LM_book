@@ -1,0 +1,46 @@
+<reasoning>
+To solve this problem, we will first determine the total number of slices of pizza, then calculate how many slices were eaten by Dean, Frank, and Sammy. Finally, we will subtract the number of slices eaten from the total number of slices to find out how many are left over.
+
+1. **Calculate the total number of slices:**
+   - Dean ordered 2 large pizzas, each cut into 12 slices. 
+   - Therefore, the total number of slices is:
+     \[
+     2 \text{ pizzas} \times 12 \text{ slices/pizza} = 24 \text{ slices}
+     \]
+
+2. **Determine the distribution of pizza types:**
+   - Let's assume one pizza is Hawaiian and the other is cheese, which is common in such scenarios.
+
+3. **Calculate how many slices Dean ate:**
+   - Dean ate half of the Hawaiian pizza. Since the Hawaiian pizza has 12 slices:
+     \[
+     \text{Slices eaten by Dean} = \frac{1}{2} \times 12 = 6 \text{ slices}
+     \]
+
+4. **Calculate how many slices Frank ate:**
+   - Frank ate 3 slices of Hawaiian pizza:
+     \[
+     \text{Slices eaten by Frank} = 3 \text{ slices}
+     \]
+
+5. **Calculate how many slices Sammy ate:**
+   - Sammy ate a third of the cheese pizza. Since the cheese pizza also has 12 slices:
+     \[
+     \text{Slices eaten by Sammy} = \frac{1}{3} \times 12 = 4 \text{ slices}
+     \]
+
+6. **Total slices eaten:**
+   - Now we can sum up the slices eaten by Dean, Frank, and Sammy:
+     \[
+     \text{Total slices eaten} = 6 + 3 + 4 = 13 \text{ slices}
+     \]
+
+7. **Calculate the leftover slices:**
+   - Now we subtract the total eaten slices from the total slices:
+     \[
+     \text{Slices left over} = 24 - 13 = 11 \text{ slices}
+     \]
+
+Therefore, the total number of slices left over is:
+</reasoning>
+<answer>11</answer>

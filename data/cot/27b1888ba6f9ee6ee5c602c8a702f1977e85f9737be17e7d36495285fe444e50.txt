@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many pages Tom reads in 7 days, we first need to determine how many pages he reads in the 5 days he currently reads.
+
+1. **Calculate the total hours Tom reads in 5 days.**
+   - Tom reads 10 hours over 5 days.
+   - Since he reads the same amount every day, we can find the average reading time per day by dividing the total hours by the number of days:
+     \[
+     \text{Hours per day} = \frac{10 \text{ hours}}{5 \text{ days}} = 2 \text{ hours per day}
+     \]
+
+2. **Calculate the total pages Tom reads in 5 days.**
+   - Tom reads 50 pages per hour. 
+   - Over 5 days, he reads:
+     \[
+     \text{Total pages in 5 days} = \text{Hours per day} \times \text{Pages per hour} \times \text{Number of days}
+     \]
+     \[
+     \text{Total pages in 5 days} = 10 \text{ hours} \times 50 \text{ pages/hour} = 500 \text{ pages}
+     \]
+
+3. **Calculate the daily reading amount.**
+   - To find out how many pages he reads per day:
+     \[
+     \text{Pages per day} = \frac{500 \text{ pages}}{5 \text{ days}} = 100 \text{ pages per day}
+     \]
+
+4. **Calculate the total pages Tom reads in 7 days.**
+   - Now, we can find out how many pages he reads in 7 days:
+     \[
+     \text{Total pages in 7 days} = \text{Pages per day} \times 7 \text{ days}
+     \]
+     \[
+     \text{Total pages in 7 days} = 100 \text{ pages/day} \times 7 \text{ days} = 700 \text{ pages}
+     \]
+
+Therefore, Tom reads a total of 700 pages in 7 days.
+</reasoning>
+<answer>700</answer>

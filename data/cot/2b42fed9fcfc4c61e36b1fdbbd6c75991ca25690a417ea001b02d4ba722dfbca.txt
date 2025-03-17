@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we start by determining how many eggs one chicken lays in a day. 
+
+1. **Identify the number of chickens and eggs per chicken per day:**
+   - Eric has 4 chickens.
+   - Each chicken lays 3 eggs each day.
+
+2. **Calculate the total number of eggs laid by all the chickens in one day:**
+   - We multiply the number of chickens by the number of eggs each chicken lays:
+   \[
+   \text{Total eggs per day} = \text{Number of chickens} \times \text{Eggs per chicken} = 4 \times 3 = 12
+   \]
+   So, Eric collects 12 eggs in one day.
+
+3. **Calculate the total number of eggs collected over 3 days:**
+   - Now, we want to find out how many eggs Eric collects in 3 days. We multiply the total eggs collected in one day by the number of days:
+   \[
+   \text{Total eggs in 3 days} = \text{Total eggs per day} \times \text{Number of days} = 12 \times 3 = 36
+   \]
+   Therefore, after 3 days, Eric will have collected 36 eggs.
+
+Putting all this together, Eric collects a total of 36 eggs after 3 days of laying.
+</reasoning>
+<answer>36</answer>

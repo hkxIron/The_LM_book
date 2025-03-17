@@ -1,0 +1,44 @@
+<reasoning>
+To find the total number of students in all grades, I'll break down the problem into steps.
+
+1. **Calculate the number of students in the 4th grade**:
+   - We know that there are 19 students in the 3rd grade.
+   - The number of students in the 4th grade is twice that number.
+   - So, we calculate: 
+   \[
+   2 \times 19 = 38
+   \]
+   This means there are 38 students in the 4th grade.
+
+2. **Determine the number of students in the 2nd grade**:
+   - We have 10 boys and 19 girls in the 2nd grade.
+   - To find the total number of students in the 2nd grade, we add the number of boys and girls:
+   \[
+   10 + 19 = 29
+   \]
+   Therefore, there are 29 students in the 2nd grade.
+
+3. **Calculate the total number of students across all grades**:
+   - Now, we add the number of students from each grade together:
+   - 3rd grade: 19 students
+   - 4th grade: 38 students
+   - 2nd grade: 29 students
+   - So, we calculate:
+   \[
+   19 + 38 + 29
+   \]
+   Let's do this step by step:
+   - First, add 19 and 38:
+   \[
+   19 + 38 = 57
+   \]
+   - Next, add the result to 29:
+   \[
+   57 + 29 = 86
+   \]
+
+Finally, the total number of students in all grades is 86.
+
+Therefore, the total number of students is:
+</reasoning>
+<answer>86</answer>

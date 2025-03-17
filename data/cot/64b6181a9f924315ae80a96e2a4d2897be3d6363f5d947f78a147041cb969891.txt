@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we first need to understand how Grace is getting paid and how long it will take to reach the total amount of 1800 dollars.
+
+1. **Determine Grace's earnings per client payment**: Since her client pays her every 2 weeks, we need to understand how much she earns during that period. Grace charges 300 dollars per week. Therefore, in 2 weeks, she earns:
+   \[
+   300 \text{ dollars/week} \times 2 \text{ weeks} = 600 \text{ dollars}
+   \]
+   This means every 2 weeks, Grace receives a payment of 600 dollars from her client.
+
+2. **Calculate how many payments she needs to reach 1800 dollars**: Next, we need to determine how many payments of 600 dollars are needed to reach a total of 1800 dollars. We do this by dividing the total amount she wants to earn by the amount she earns every 2 weeks:
+   \[
+   \frac{1800 \text{ dollars}}{600 \text{ dollars/payment}} = 3 \text{ payments}
+   \]
+   This tells us that Grace needs to receive 3 payments to reach a total of 1800 dollars.
+
+3. **Calculate the total time in weeks**: Since Grace receives payments every 2 weeks, we multiply the number of payments by the duration between payments to find out how many weeks it will take her to reach 1800 dollars:
+   \[
+   3 \text{ payments} \times 2 \text{ weeks/payment} = 6 \text{ weeks}
+   \]
+   Therefore, it will take Grace a total of 6 weeks to earn 1800 dollars.
+
+By following these steps, we have clearly outlined the reasoning behind each calculation.
+</reasoning>
+<answer>6</answer>

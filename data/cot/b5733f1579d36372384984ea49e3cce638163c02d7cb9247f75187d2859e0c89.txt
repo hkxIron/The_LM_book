@@ -1,0 +1,47 @@
+<reasoning>
+Let's start by determining how many necklaces Jason has, given that Haley has 25 necklaces.
+
+1. We know that Haley has 5 more necklaces than Jason. This means we can set up the equation:
+   \[
+   \text{Haley's necklaces} = \text{Jason's necklaces} + 5
+   \]
+   Substituting in the number of necklaces that Haley has:
+   \[
+   25 = \text{Jason's necklaces} + 5
+   \]
+
+2. Next, we will solve for the number of necklaces Jason has by isolating Jason's necklaces on one side of the equation. We do this by subtracting 5 from both sides:
+   \[
+   \text{Jason's necklaces} = 25 - 5
+   \]
+   Now calculating that gives:
+   \[
+   \text{Jason's necklaces} = 20
+   \]
+
+3. Now we need to find out how many necklaces Josh has. We know that Josh has half the number of necklaces as Jason. We can express this relationship with the following equation:
+   \[
+   \text{Josh's necklaces} = \frac{1}{2} \times \text{Jason's necklaces}
+   \]
+   Substituting Jason's necklaces into the equation:
+   \[
+   \text{Josh's necklaces} = \frac{1}{2} \times 20
+   \]
+
+4. Now, we calculate the number of necklaces Josh has:
+   \[
+   \text{Josh's necklaces} = 10
+   \]
+
+5. Finally, we need to find out how many more necklaces Haley has than Josh. We can set up the equation:
+   \[
+   \text{Haley's necklaces} - \text{Josh's necklaces} = 25 - 10
+   \]
+   Calculating this gives:
+   \[
+   \text{Haley has} = 15 \text{ more necklaces than Josh}
+   \]
+
+Therefore, the final answer is:
+</reasoning>
+<answer>15</answer>

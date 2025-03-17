@@ -1,0 +1,40 @@
+<reasoning>
+To determine how much Monica will make from the dinner party for Phoebe's 20 guests, we'll follow these steps:
+
+1. **Calculate the total cost without the discount**: 
+   Monica charges $25.00 per person, and there are 20 guests. 
+   Therefore, we multiply the number of guests by the cost per person:
+   \[
+   \text{Total cost} = \text{Number of guests} \times \text{Cost per person} = 20 \times 25
+   \]
+   Now calculating:
+   \[
+   20 \times 25 = 500
+   \]
+   So, the total cost without the discount is $500. 
+
+2. **Calculate the discount**:
+   Since Phoebe is a repeat customer, she gets a 10% discount on the total cost. We need to find out what 10% of $500 is:
+   \[
+   \text{Discount} = 10\% \text{ of } 500 = 0.10 \times 500
+   \]
+   Now calculating:
+   \[
+   0.10 \times 500 = 50
+   \]
+   Therefore, the discount amount is $50.
+
+3. **Calculate the final amount Monica will make**:
+   We subtract the discount from the total cost to find out how much Monica will make:
+   \[
+   \text{Final amount} = \text{Total cost} - \text{Discount} = 500 - 50
+   \]
+   Now calculating:
+   \[
+   500 - 50 = 450
+   \]
+   Thus, the final amount Monica will make from the party is $450.
+
+Therefore, Monica will make $450 from the dinner party for Phoebe's 20 guests.
+</reasoning>
+<answer>450</answer>

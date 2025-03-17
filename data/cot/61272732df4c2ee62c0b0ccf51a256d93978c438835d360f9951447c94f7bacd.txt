@@ -1,0 +1,20 @@
+<reasoning>
+To find out how much reward Greg's PPO algorithm obtained, we can follow these steps:
+
+1. **Determine the maximum reward for CoinRun**: According to the problem, the maximum reward for CoinRun is half of the maximum ProcGen reward, which is given as 240. 
+
+   To find this, we calculate:
+   \[
+   \text{Maximum reward for CoinRun} = \frac{240}{2} = 120
+   \]
+
+2. **Calculate the reward obtained by Greg's PPO algorithm**: Greg's PPO algorithm achieved 90% of the possible reward in the CoinRun environment. 
+
+   To find out how much reward he obtained, we calculate 90% of the maximum reward for CoinRun (which we just found to be 120):
+   \[
+   \text{Reward obtained} = 0.90 \times 120 = 108
+   \]
+
+Therefore, Greg's PPO algorithm obtained a reward of 108.
+</reasoning>
+<answer>108</answer>

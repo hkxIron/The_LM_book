@@ -1,0 +1,36 @@
+<reasoning>
+To find the average number of hours of television that Evelyn’s family watches per week, we will first add the total amount of television watched over the three weeks and then divide that total by the number of weeks.
+
+1. **Identify the total hours watched**: 
+   - Last week: 10 hours
+   - Week before last: 8 hours
+   - Next week: 12 hours
+
+   First, we will add these hours together:
+   \[
+   \text{Total hours} = 10 + 8 + 12
+   \]
+
+2. **Calculate the total**:
+   - Adding 10 and 8 gives us 18.
+   - Now, add 12 to 18:
+   \[
+   18 + 12 = 30
+   \]
+   Therefore, the total number of hours watched over the three weeks is 30 hours.
+
+3. **Calculate the average**:
+   The average is calculated by dividing the total hours by the number of weeks. Since we are considering three weeks, we will divide by 3:
+   \[
+   \text{Average hours per week} = \frac{\text{Total hours}}{\text{Number of weeks}} = \frac{30}{3}
+   \]
+
+4. **Perform the division**:
+   Dividing 30 by 3 gives us 10:
+   \[
+   30 \div 3 = 10
+   \]
+
+Therefore, the average number of hours of television that Evelyn’s family watches per week is 10 hours.
+</reasoning>
+<answer>10</answer>

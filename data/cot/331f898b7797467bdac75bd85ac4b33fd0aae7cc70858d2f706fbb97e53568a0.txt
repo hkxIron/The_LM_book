@@ -1,0 +1,39 @@
+<reasoning>
+First, let's calculate the total amount of money Ian made from doing online surveys.
+
+1. **Calculate total earnings from surveys:**
+   - Ian worked for 8 hours and earned $18 per hour.
+   - To find the total earnings, we multiply the number of hours by the rate per hour:
+     \[
+     \text{Total Earnings} = \text{Hours Worked} \times \text{Earnings per Hour} = 8 \, \text{hours} \times 18 \, \text{dollars/hour}
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Total Earnings} = 8 \times 18 = 144 \, \text{dollars}
+     \]
+   - So, Ian made a total of $144 from the surveys.
+
+2. **Calculate how much money Ian spent:**
+   - According to the problem, Ian spent half of the money he made.
+   - To find out how much he spent, we divide his total earnings by 2:
+     \[
+     \text{Amount Spent} = \frac{\text{Total Earnings}}{2} = \frac{144}{2}
+     \]
+   - Performing the division:
+     \[
+     \text{Amount Spent} = 72 \, \text{dollars}
+     \]
+
+3. **Calculate how much money Ian has left:**
+   - To find out how much money Ian has left, we subtract the amount he spent from his total earnings:
+     \[
+     \text{Amount Left} = \text{Total Earnings} - \text{Amount Spent} = 144 - 72
+     \]
+   - Performing the subtraction:
+     \[
+     \text{Amount Left} = 72 \, \text{dollars}
+     \]
+
+Thus, after spending half of his earnings, Ian has $72 left.
+</reasoning>
+<answer>72</answer>

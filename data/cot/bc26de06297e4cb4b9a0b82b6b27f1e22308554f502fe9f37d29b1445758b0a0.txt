@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many hours Roy spent on sports activities in school that week, we can follow these steps:
+
+1. **Calculate the total days he went to school that week**: Since Roy goes to school 5 days a week and missed 2 days, we subtract the days he missed from the total days he would normally attend:
+   \[
+   \text{Days attended} = 5 - 2 = 3 \text{ days}
+   \]
+
+2. **Calculate the total hours spent on sports**: Since Roy spends 2 hours on sports activities each day he attends school, we multiply the number of days he attended by the hours he spends each day:
+   \[
+   \text{Total hours spent} = \text{Days attended} \times \text{Hours per day} = 3 \text{ days} \times 2 \text{ hours/day}
+   \]
+   Performing this multiplication gives:
+   \[
+   \text{Total hours spent} = 3 \times 2 = 6 \text{ hours}
+   \]
+
+Therefore, Roy spent a total of 6 hours on sports activities in school that week.
+</reasoning>
+<answer>6</answer>

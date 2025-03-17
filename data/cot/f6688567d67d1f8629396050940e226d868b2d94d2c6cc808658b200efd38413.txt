@@ -1,0 +1,35 @@
+<reasoning>
+First, let's calculate the total cost of Gary's gold. Gary has 30 grams of gold, and each gram costs $15. 
+
+To find the total cost for Gary, we multiply the number of grams by the cost per gram:
+\[
+\text{Cost of Gary's gold} = \text{grams} \times \text{cost per gram} = 30 \, \text{grams} \times 15 \, \text{USD/gram}
+\]
+Calculating this gives:
+\[
+30 \times 15 = 450 \, \text{USD}
+\]
+
+Now, let's calculate the total cost of Anna's gold. Anna has 50 grams of gold, and each gram costs $20. 
+
+To find the total cost for Anna, we again multiply the number of grams by the cost per gram:
+\[
+\text{Cost of Anna's gold} = \text{grams} \times \text{cost per gram} = 50 \, \text{grams} \times 20 \, \text{USD/gram}
+\]
+Calculating this gives:
+\[
+50 \times 20 = 1000 \, \text{USD}
+\]
+
+Now, to find the combined cost of both Gary's and Anna's gold, we need to add their individual costs together:
+\[
+\text{Combined cost} = \text{Cost of Gary's gold} + \text{Cost of Anna's gold} = 450 \, \text{USD} + 1000 \, \text{USD}
+\]
+Calculating this gives:
+\[
+450 + 1000 = 1450 \, \text{USD}
+\]
+
+Therefore, the total cost of their gold combined is:
+</reasoning>
+<answer>1450</answer>

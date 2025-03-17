@@ -1,0 +1,18 @@
+<reasoning>
+First, let's determine how many marbles Harold shared with his friends. He started with 100 marbles and kept 20 for himself. 
+
+1. We calculate the number of marbles he shared:
+   \[
+   100 - 20 = 80
+   \]
+   This means Harold shared 80 marbles with his friends.
+
+2. Next, we need to find out how many marbles each of his 5 friends received. To do this, we divide the total number of marbles shared by the number of friends:
+   \[
+   \frac{80}{5} = 16
+   \]
+   Each friend received 16 marbles.
+
+Therefore, the calculation shows that Harold shared his marbles evenly, and each of his friends got the same amount.
+</reasoning>
+<answer>16</answer>

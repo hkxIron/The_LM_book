@@ -1,0 +1,40 @@
+<reasoning>
+To determine how much the small theater company made from ticket sales, we will follow these steps:
+
+1. **Calculate the number of seats filled in the theater:**  
+   The theater has a total of 400 seats, and it is filled to 80% capacity.  
+   To find the number of seats filled, we can use the formula:  
+   \[
+   \text{Seats filled} = \text{Total seats} \times \text{Percentage filled}
+   \]  
+   Substituting the values:  
+   \[
+   \text{Seats filled} = 400 \times 0.80 = 320
+   \]  
+   This means that on each performance day, 320 seats are filled.
+
+2. **Calculate the total ticket sales for one day:**  
+   Each ticket costs $30. To find the total ticket sales for one day, we multiply the number of seats filled by the price of each ticket:  
+   \[
+   \text{Total sales for one day} = \text{Seats filled} \times \text{Ticket price}
+   \]  
+   Substituting the values:  
+   \[
+   \text{Total sales for one day} = 320 \times 30 = 9600
+   \]  
+   Therefore, the theater company makes $9600 from ticket sales in one day.
+
+3. **Calculate the total earnings for three days:**  
+   Since the company repeated the same performance for two additional days, the total earnings will be the earnings from one day multiplied by the number of days (which is 3):  
+   \[
+   \text{Total earnings for three days} = \text{Total sales for one day} \times 3
+   \]  
+   Substituting the values:  
+   \[
+   \text{Total earnings for three days} = 9600 \times 3 = 28800
+   \]  
+   Thus, the theater company made $28800 from ticket sales over the three performances.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>28800</answer>

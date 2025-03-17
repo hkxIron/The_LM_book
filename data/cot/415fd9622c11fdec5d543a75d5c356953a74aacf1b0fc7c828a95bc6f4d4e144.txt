@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we need to determine the weight of the bowl after filling it with the cat food again, considering the amount of food consumed by the cat.
+
+1. **Identify the weight of the empty bowl**: The empty bowl weighs 420 grams.
+
+2. **Calculate the amount of food added to the bowl**: You fill the bowl every 3 days, and you give your cat 60 grams per day. Therefore, over 3 days, the total amount of food given to the cat is:
+   \[
+   60 \text{ grams/day} \times 3 \text{ days} = 180 \text{ grams}
+   \]
+   This means that when you refill the bowl, you add 180 grams of food.
+
+3. **Calculate the total weight of the bowl after refilling**: When you refill the bowl, you add the weight of the food to the weight of the empty bowl:
+   \[
+   420 \text{ grams (empty bowl)} + 180 \text{ grams (food)} = 600 \text{ grams}
+   \]
+
+4. **Account for the food consumed by the cat**: After filling the bowl, the cat ate 14 grams of food. To find the weight of the bowl after the cat has eaten, we subtract the amount eaten from the total weight:
+   \[
+   600 \text{ grams (initial weight after refill)} - 14 \text{ grams (eaten)} = 586 \text{ grams}
+   \]
+
+Therefore, the weight of the bowl after the cat has eaten is 586 grams.
+</reasoning>
+<answer>586</answer>

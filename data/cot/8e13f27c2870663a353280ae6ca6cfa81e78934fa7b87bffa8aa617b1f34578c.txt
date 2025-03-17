@@ -1,0 +1,23 @@
+<reasoning>
+To find out how much money Diane lost in total, we need to break it down step by step.
+
+1. **Initial Amount**: Diane starts with $100. This is her initial bankroll.
+
+2. **Winnings from Poker**: After winning 5 hands, Diane wins $65. We add this amount to her initial bankroll:
+   \[
+   100 + 65 = 165
+   \]
+   So, after her winnings, Diane has $165.
+
+3. **Total Loss**: Diane then starts betting bigger and riskier but ultimately loses all her money. This means she loses the entire $165 that she had at this point.
+
+4. **Debt**: In addition to losing her money, Diane owes her friends $50. This means she is in debt by this amount. 
+
+5. **Total Loss Calculation**: To find out how much Diane lost in total, we need to add the amount she lost (her total money) to the debt she owes:
+   \[
+   165 + 50 = 215
+   \]
+
+Thus, Diane lost a total of $215.
+</reasoning>
+<answer>215</answer>

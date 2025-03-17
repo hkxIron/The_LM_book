@@ -1,0 +1,32 @@
+<reasoning>
+To find the height of the camel in feet, we will follow these steps:
+
+1. **Determine the height of the camel in inches:**
+   We know that the hare is 14 inches tall and the camel is 24 times taller than the hare. Therefore, we can calculate the height of the camel in inches by multiplying the height of the hare by 24.
+
+   \[
+   \text{Height of camel in inches} = 14 \text{ inches} \times 24
+   \]
+
+   Let's perform this multiplication step:
+
+   \[
+   14 \times 24 = 336 \text{ inches}
+   \]
+
+2. **Convert the height of the camel from inches to feet:**
+   There are 12 inches in a foot. To convert the height from inches to feet, we divide the height in inches by 12.
+
+   \[
+   \text{Height of camel in feet} = \frac{336 \text{ inches}}{12}
+   \]
+
+   Now, let's perform this division:
+
+   \[
+   \frac{336}{12} = 28 \text{ feet}
+   \]
+
+Thus, the height of the camel is 28 feet.
+</reasoning>
+<answer>28</answer>

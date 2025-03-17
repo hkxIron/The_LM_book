@@ -1,0 +1,35 @@
+<reasoning>
+Let's solve this problem step by step:
+
+1. **Initial Amount of Water**: The tank initially contains 6000 liters of water.
+
+2. **Water Evaporated**: Next, we need to account for the evaporation. We know that 2000 liters evaporated. So, we subtract this from the initial amount:
+   \[
+   6000 - 2000 = 4000 \text{ liters}
+   \]
+   After evaporation, the tank has 4000 liters.
+
+3. **Water Drained by Bob**: Now, Bob drains 3500 liters from the tank. We need to subtract this amount from the current volume:
+   \[
+   4000 - 3500 = 500 \text{ liters}
+   \]
+   After Bob drains the water, the tank contains 500 liters.
+
+4. **Rainfall Calculation**: Now we need to calculate how much rainwater is added to the tank over 30 minutes. We know that every 10 minutes, 350 liters of rainwater is added. We first determine how many 10-minute intervals fit into 30 minutes:
+   \[
+   \frac{30 \text{ minutes}}{10 \text{ minutes per interval}} = 3 \text{ intervals}
+   \]
+   Then, we multiply the number of intervals by the amount of rain added per interval:
+   \[
+   3 \times 350 = 1050 \text{ liters}
+   \]
+   This means that 1050 liters of rainwater are added to the tank.
+
+5. **Total Water in the Tank After Rain**: Finally, we add the rainwater to the current amount of water in the tank:
+   \[
+   500 + 1050 = 1550 \text{ liters}
+   \]
+
+Thus, after considering evaporation, draining, and the addition of rainwater, the total amount of water in the tank is 1550 liters.
+</reasoning>
+<answer>1550</answer>

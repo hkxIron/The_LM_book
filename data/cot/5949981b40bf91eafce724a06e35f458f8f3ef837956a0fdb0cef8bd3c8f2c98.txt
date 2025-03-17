@@ -1,0 +1,50 @@
+<reasoning>
+Let's denote the total number of cookies in the bag initially as \( x \).
+
+1. **Step 1: Calculate cookies eaten on the first day.**
+   Jen ate three-quarters of the bag on the first day. This means she ate:
+   \[
+   \text{Cookies eaten on Day 1} = \frac{3}{4} x
+   \]
+
+2. **Step 2: Calculate remaining cookies after Day 1.**
+   After eating three-quarters, the remaining cookies are:
+   \[
+   \text{Remaining cookies} = x - \frac{3}{4} x = \frac{1}{4} x
+   \]
+
+3. **Step 3: Calculate cookies eaten on the second day.**
+   On the second day, Jen ate half of the remaining cookies. So, she ate:
+   \[
+   \text{Cookies eaten on Day 2} = \frac{1}{2} \left(\frac{1}{4} x\right) = \frac{1}{8} x
+   \]
+
+4. **Step 4: Calculate remaining cookies after Day 2.**
+   After Day 2, the remaining cookies are:
+   \[
+   \text{Remaining cookies} = \frac{1}{4} x - \frac{1}{8} x
+   \]
+   To combine these fractions, we need a common denominator, which is 8:
+   \[
+   \frac{1}{4} x = \frac{2}{8} x
+   \]
+   Now we can subtract:
+   \[
+   \text{Remaining cookies} = \frac{2}{8} x - \frac{1}{8} x = \frac{1}{8} x
+   \]
+
+5. **Step 5: Set up the equation with the remaining cookies.**
+   We know that after the second day, Jen has 8 cookies left. Therefore, we set up the equation:
+   \[
+   \frac{1}{8} x = 8
+   \]
+
+6. **Step 6: Solve for \( x \).**
+   To find \( x \), we multiply both sides of the equation by 8:
+   \[
+   x = 8 \times 8 = 64
+   \]
+
+Thus, the total number of cookies in the bag initially was 64.
+</reasoning>
+<answer>64</answer>

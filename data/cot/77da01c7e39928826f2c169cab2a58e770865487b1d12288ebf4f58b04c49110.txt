@@ -1,0 +1,42 @@
+<reasoning>
+To find the total amount of money Niles collects from his book club members, we need to calculate the contributions from each member based on the given fees and then sum them up.
+
+1. **Calculate the total contribution per member for snacks:**
+   Each member pays $150 for snacks.
+   \[
+   \text{Snacks per member} = 150
+   \]
+
+2. **Calculate the total contribution per member for hardcover books:**
+   Each member buys 6 hardcover books at $30 each.
+   \[
+   \text{Cost for hardcover books} = 6 \times 30 = 180
+   \]
+
+3. **Calculate the total contribution per member for paperback books:**
+   Each member buys 6 paperback books at $12 each.
+   \[
+   \text{Cost for paperback books} = 6 \times 12 = 72
+   \]
+
+4. **Calculate the total contribution per member:**
+   Now, we sum all the contributions per member:
+   \[
+   \text{Total per member} = \text{Snacks} + \text{Hardcover books} + \text{Paperback books}
+   \]
+   \[
+   \text{Total per member} = 150 + 180 + 72 = 402
+   \]
+
+5. **Calculate the total amount collected from all members:**
+   There are 6 members in the book club, so we multiply the total contribution per member by the number of members:
+   \[
+   \text{Total collected} = \text{Total per member} \times \text{Number of members} = 402 \times 6
+   \]
+   \[
+   \text{Total collected} = 2412
+   \]
+
+Therefore, Niles collects a total of $2412 from his book club members.
+</reasoning>
+<answer>2412</answer>

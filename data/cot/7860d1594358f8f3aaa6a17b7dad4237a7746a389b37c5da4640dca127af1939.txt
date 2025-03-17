@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, we need to determine when Mark should leave his home so that he and Rob arrive at the park simultaneously.
+
+1. **Determine Rob's travel time**: 
+   Rob takes 1 hour to reach the national park. If he leaves at 11 a.m., he will arrive at: 
+   - 11 a.m. + 1 hour = 12 p.m. (noon).
+
+2. **Determine Mark's travel time**: 
+   It is given that Mark takes three times as long to get to the national park as Rob does. Since Rob takes 1 hour, Mark takes:
+   - 3 * 1 hour = 3 hours.
+
+3. **Calculate when Mark should leave**: 
+   Since Rob arrives at the park at 12 p.m., and Mark takes 3 hours to get there, we need to find out what time Mark should leave to arrive by 12 p.m. We subtract Mark's travel time from the time he needs to arrive:
+   - 12 p.m. - 3 hours = 9 a.m.
+
+4. **Conclusion**: 
+   Mark should leave his home at 9 a.m. to arrive at the park at the same time as Rob.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>9</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to determine the area of the square playground and then subtract the area of the maintenance building to find out how much of the playground is not covered by the building.
+
+1. **Calculate the area of the square playground**:
+   The area \( A \) of a square is calculated using the formula:
+   \[
+   A = \text{side length}^2
+   \]
+   Given that the side length of the playground is 12 meters, we calculate:
+   \[
+   A = 12^2 = 144 \text{ square meters}
+   \]
+   This means the total area of the playground is 144 square meters.
+
+2. **Calculate the area of the maintenance building**:
+   The area \( A \) of a rectangle is calculated using the formula:
+   \[
+   A = \text{length} \times \text{width}
+   \]
+   The dimensions of the maintenance building are 8 meters by 5 meters. Therefore, we calculate:
+   \[
+   A = 8 \times 5 = 40 \text{ square meters}
+   \]
+   This means the maintenance building covers an area of 40 square meters.
+
+3. **Determine the area of the playground that is not covered by the maintenance building**:
+   To find the area of the playground that is not covered, we subtract the area of the maintenance building from the area of the playground:
+   \[
+   \text{Uncovered Area} = \text{Area of Playground} - \text{Area of Maintenance Building}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Uncovered Area} = 144 - 40 = 104 \text{ square meters}
+   \]
+
+Therefore, the area of the playground that is not covered by the maintenance building is 104 square meters.
+</reasoning>
+<answer>104</answer>

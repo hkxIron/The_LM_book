@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many dolls Peggy has now, we'll break the problem down into steps.
+
+1. **Initial Number of Dolls**: Peggy starts with 6 dolls.
+   - This is our starting point.
+
+2. **Dolls Given by Grandmother**: Her grandmother gives her 30 dolls.
+   - We will add the 30 dolls to Peggy's initial 6 dolls.
+   - Calculation: \( 6 + 30 = 36 \)
+
+3. **Dolls Received Over the Year**: Peggy receives half the amount her grandmother gave her between her birthday and Christmas.
+   - Since her grandmother gave her 30 dolls, we need to find half of that.
+   - Calculation: \( \frac{30}{2} = 15 \)
+
+4. **Total Dolls After Receiving More**: Now, we add the 15 dolls Peggy received during the year to the 36 dolls she already has.
+   - Calculation: \( 36 + 15 = 51 \)
+
+Therefore, after all these steps, Peggy now has a total of 51 dolls.
+</reasoning>
+<answer>51</answer>

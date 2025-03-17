@@ -1,0 +1,48 @@
+<reasoning>
+Let's break down the problem step by step to find out how much profit John makes from selling the newspapers.
+
+1. **Calculate the selling price of the newspapers**:
+   John buys 500 newspapers, and each newspaper sells for $2. To find out how much he earns from selling them, we first need to determine how many newspapers are sold.
+
+   He sells 80% of the 500 newspapers:
+   \[
+   0.80 \times 500 = 400 \text{ newspapers}
+   \]
+   
+   Now, we calculate the total revenue from selling these newspapers:
+   \[
+   \text{Total Revenue} = \text{Number of newspapers sold} \times \text{Selling price per newspaper}
+   \]
+   \[
+   \text{Total Revenue} = 400 \times 2 = 800 \text{ dollars}
+   \]
+
+2. **Calculate the cost price of the newspapers**:
+   John buys each newspaper for 75% less than the selling price. Since the selling price is $2, we can find the cost price as follows:
+   \[
+   \text{Cost price} = \text{Selling price} - 75\% \text{ of Selling price}
+   \]
+   \[
+   \text{Cost price} = 2 - (0.75 \times 2) = 2 - 1.5 = 0.5 \text{ dollars}
+   \]
+   
+   Now, we calculate the total cost for all 500 newspapers:
+   \[
+   \text{Total Cost} = \text{Number of newspapers} \times \text{Cost price per newspaper}
+   \]
+   \[
+   \text{Total Cost} = 500 \times 0.5 = 250 \text{ dollars}
+   \]
+
+3. **Calculate the profit**:
+   Profit is calculated as the total revenue minus the total cost:
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost}
+   \]
+   \[
+   \text{Profit} = 800 - 250 = 550 \text{ dollars}
+   \]
+
+Therefore, John makes a profit of $550.
+</reasoning>
+<answer>550</answer>

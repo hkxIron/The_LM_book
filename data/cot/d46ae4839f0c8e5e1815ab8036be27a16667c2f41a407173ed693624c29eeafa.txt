@@ -1,0 +1,42 @@
+<reasoning>
+To determine Dirk's profit, we will break down the problem into several steps:
+
+1. **Calculate the total number of amulets sold:**
+   Dirk sells 25 amulets each day for 2 days.
+   \[
+   \text{Total amulets sold} = 25 \, \text{amulets/day} \times 2 \, \text{days} = 50 \, \text{amulets}
+   \]
+
+2. **Calculate the total revenue:**
+   Each amulet sells for 40 dollars. Therefore, the total revenue from selling the amulets is:
+   \[
+   \text{Total revenue} = 50 \, \text{amulets} \times 40 \, \text{dollars/amulet} = 2000 \, \text{dollars}
+   \]
+
+3. **Calculate the total cost of making the amulets:**
+   Each amulet costs 30 dollars to make. Thus, the total cost for making 50 amulets is:
+   \[
+   \text{Total cost} = 50 \, \text{amulets} \times 30 \, \text{dollars/amulet} = 1500 \, \text{dollars}
+   \]
+
+4. **Calculate the revenue to be given to the faire:**
+   Dirk gives 10% of his revenue to the faire. We calculate 10% of the total revenue (2000 dollars):
+   \[
+   \text{Revenue to the faire} = 10\% \times 2000 = 0.10 \times 2000 = 200 \, \text{dollars}
+   \]
+
+5. **Calculate the net revenue after paying the faire:**
+   To find the net revenue, we subtract what Dirk pays to the faire from his total revenue:
+   \[
+   \text{Net revenue} = \text{Total revenue} - \text{Revenue to the faire} = 2000 - 200 = 1800 \, \text{dollars}
+   \]
+
+6. **Calculate the profit:**
+   Profit is calculated by subtracting the total cost from the net revenue:
+   \[
+   \text{Profit} = \text{Net revenue} - \text{Total cost} = 1800 - 1500 = 300 \, \text{dollars}
+   \]
+
+Therefore, Dirk's profit from selling the amulets at the Ren Faire is:
+</reasoning>
+<answer>300</answer>

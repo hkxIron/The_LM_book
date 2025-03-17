@@ -1,0 +1,51 @@
+<reasoning>
+First, let's determine how much money Whitney has to start with. Her mom gave her two $20 bills:
+
+\[ 
+20 + 20 = 40 \text{ dollars} 
+\]
+
+Now, we will calculate the total cost of the items Whitney wants to buy: 2 posters, 3 notebooks, and 2 bookmarks.
+
+1. **Calculate the cost of posters:**
+   Each poster costs $5, and she wants to buy 2 posters. 
+   
+   \[
+   2 \text{ posters} \times 5 \text{ dollars/poster} = 10 \text{ dollars}
+   \]
+
+2. **Calculate the cost of notebooks:**
+   Each notebook costs $4, and she wants to buy 3 notebooks.
+   
+   \[
+   3 \text{ notebooks} \times 4 \text{ dollars/notebook} = 12 \text{ dollars}
+   \]
+
+3. **Calculate the cost of bookmarks:**
+   Each bookmark costs $2, and she wants to buy 2 bookmarks.
+   
+   \[
+   2 \text{ bookmarks} \times 2 \text{ dollars/bookmark} = 4 \text{ dollars}
+   \]
+
+Next, we will sum up all these costs to find the total amount Whitney will spend:
+
+\[
+\text{Total cost} = \text{Cost of posters} + \text{Cost of notebooks} + \text{Cost of bookmarks}
+\]
+\[
+= 10 \text{ dollars} + 12 \text{ dollars} + 4 \text{ dollars} = 26 \text{ dollars}
+\]
+
+Now, we will subtract the total cost from the total amount of money she has to find out how much money she has left:
+
+\[
+\text{Money left} = \text{Total money} - \text{Total cost}
+\]
+\[
+= 40 \text{ dollars} - 26 \text{ dollars} = 14 \text{ dollars}
+\]
+
+Therefore, after purchasing the items, Whitney will have $14 left over.
+</reasoning>
+<answer>14</answer>

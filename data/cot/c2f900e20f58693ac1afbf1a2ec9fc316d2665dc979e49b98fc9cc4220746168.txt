@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many pairs of socks Lisa ended up with, we will add together all the socks she received from different sources.
+
+1. **Calculate the number of pairs Lisa started with:**
+   Lisa initially bought 12 pairs of socks. 
+   - So, she has 12 pairs.
+
+2. **Calculate the number of pairs Sandra brought:**
+   Sandra brought 20 pairs of socks.
+   - Adding this to what Lisa already has: 
+   \( 12 + 20 = 32 \) pairs.
+
+3. **Calculate the number of pairs Lisa's cousin brought:**
+   Lisa's cousin brought one-fifth the number of pairs that Sandra bought. Since Sandra brought 20 pairs:
+   \[
+   \text{Cousin's pairs} = \frac{20}{5} = 4 \text{ pairs}
+   \]
+   - Now, we add this to the total:
+   \( 32 + 4 = 36 \) pairs.
+
+4. **Calculate the number of pairs Lisa's mom brought:**
+   Lisa's mom brought 8 more than three times the number of pairs Lisa started with. Lisa started with 12 pairs:
+   \[
+   \text{Mom's pairs} = 3 \times 12 + 8 = 36 + 8 = 44 \text{ pairs}
+   \]
+   - Adding this to what Lisa already has:
+   \( 36 + 44 = 80 \) pairs.
+
+Now, we have calculated all the contributions:
+- Lisa started with 12 pairs,
+- Sandra brought 20 pairs,
+- Cousin brought 4 pairs,
+- Mom brought 44 pairs.
+
+Thus, Lisa ends up with a total of 80 pairs of socks.
+</reasoning>
+<answer>80</answer>

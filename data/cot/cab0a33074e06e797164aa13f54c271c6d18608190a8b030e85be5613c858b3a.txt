@@ -1,0 +1,49 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the taxes Marge has to pay.**
+   Marge paid half of her lottery winnings for taxes. The total winnings are $12,006. To find the tax amount, we calculate:
+   \[
+   \text{Tax amount} = \frac{1}{2} \times 12006 = 6003
+   \]
+
+2. **Determine how much money Marge has left after paying taxes.**
+   Now, we subtract the tax amount from the total winnings:
+   \[
+   \text{Remaining amount} = 12006 - 6003 = 6003
+   \]
+
+3. **Calculate how much she puts towards her student loans.**
+   Marge puts a third of the remaining money towards her student loans. We calculate this amount as follows:
+   \[
+   \text{Student loan payment} = \frac{1}{3} \times 6003 \approx 2001
+   \]
+   (Since we need to round to the nearest whole number, we take 2001 as the student loan payment.)
+
+4. **Determine how much money is left after paying the student loans.**
+   We subtract the student loan payment from the remaining amount:
+   \[
+   \text{Remaining after loans} = 6003 - 2001 = 4002
+   \]
+
+5. **Subtract the amount she puts in savings.**
+   Marge puts $1000 in savings. We calculate the remaining money after this:
+   \[
+   \text{Remaining after savings} = 4002 - 1000 = 3002
+   \]
+
+6. **Calculate the amount invested in the stock market.**
+   Marge invests a fifth of her savings ($1000) in the stock market. We find this amount:
+   \[
+   \text{Investment in stock market} = \frac{1}{5} \times 1000 = 200
+   \]
+
+7. **Determine how much money she has left after the investment.**
+   Finally, we subtract the investment amount from the remaining money:
+   \[
+   \text{Final amount left for fun} = 3002 - 200 = 2802
+   \]
+
+Therefore, after completing all these steps, the amount of money Marge has left for fun is:
+</reasoning>
+<answer>2802</answer>

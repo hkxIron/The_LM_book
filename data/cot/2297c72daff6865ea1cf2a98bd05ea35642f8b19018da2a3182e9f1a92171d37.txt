@@ -1,0 +1,47 @@
+<reasoning>
+To solve this problem, we start by determining the initial number of bees in the colony and what one-fourth of that number is.
+
+1. **Identify the initial number of bees in the colony**:
+   The colony can contain up to 80,000 individuals. We will assume that it starts with this maximum number.
+   \[
+   \text{Initial number of bees} = 80000
+   \]
+
+2. **Calculate one-fourth of the initial number**:
+   We need to find out what one-fourth of 80,000 is.
+   \[
+   \text{One-fourth of 80000} = \frac{80000}{4} = 20000
+   \]
+
+3. **Determine how many bees will remain after a certain number of days**:
+   The bees are dying at a rate of 1200 bees per day. We want to find out how many days (let's denote it as \(d\)) it will take for the colony to decrease from 80,000 bees to 20,000 bees.
+
+4. **Set up the equation to find the number of days**:
+   After \(d\) days, the number of bees left in the colony can be represented as:
+   \[
+   \text{Bees left} = 80000 - 1200d
+   \]
+   We want this number to equal 20,000:
+   \[
+   80000 - 1200d = 20000
+   \]
+
+5. **Solve the equation for \(d\)**:
+   First, we isolate \(1200d\) on one side of the equation:
+   \[
+   80000 - 20000 = 1200d
+   \]
+   \[
+   60000 = 1200d
+   \]
+   Now, we divide both sides by 1200 to solve for \(d\):
+   \[
+   d = \frac{60000}{1200} = 50
+   \]
+
+6. **Conclusion**:
+   It will take 50 days for the number of bees in the colony to reach a fourth of its initial number.
+
+Therefore, the number of days until the number of bees reaches 20,000 is:
+</reasoning>
+<answer>50</answer>

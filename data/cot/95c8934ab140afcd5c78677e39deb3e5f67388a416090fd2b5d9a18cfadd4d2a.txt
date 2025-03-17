@@ -1,0 +1,28 @@
+<reasoning>
+To determine the current worth of Pima's investment after two weeks of gains, we'll calculate the value of the investment step by step.
+
+1. **Initial Investment**: Pima started with an investment of $400.
+
+2. **First Week Gain**: In the first week, the investment gained 25%. 
+   - To find the amount gained, we calculate 25% of $400:
+     \[
+     \text{Gain in week 1} = 0.25 \times 400 = 100
+     \]
+   - Now, we add this gain to the initial investment to find the new total value after the first week:
+     \[
+     \text{Value after week 1} = 400 + 100 = 500
+     \]
+
+3. **Second Week Gain**: In the second week, the investment gained an additional 50% on the new total value of $500.
+   - To find the amount gained in the second week, we calculate 50% of $500:
+     \[
+     \text{Gain in week 2} = 0.50 \times 500 = 250
+     \]
+   - Now, we add this gain to the value after the first week to find the new total value after the second week:
+     \[
+     \text{Value after week 2} = 500 + 250 = 750
+     \]
+
+After performing these calculations, we find that Pima's investment is now worth $750.
+</reasoning>
+<answer>750</answer>

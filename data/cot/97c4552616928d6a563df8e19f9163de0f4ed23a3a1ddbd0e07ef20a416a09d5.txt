@@ -1,0 +1,27 @@
+<reasoning>
+Let's analyze the problem step by step, keeping track of the number of passengers on the bus at each stop.
+
+1. **Initial Passengers**: The problem doesn't specify how many passengers were on the bus initially, so we will assume it starts with 0 passengers.
+
+2. **First Stop**: 
+   - 7 people got on the bus.
+   - Calculation: 0 (initial passengers) + 7 (people who got on) = 7 passengers.
+   - Now, the bus has 7 passengers.
+
+3. **Second Stop**: 
+   - 3 people got off, and then 5 people got on.
+   - First, we will account for the people getting off: 7 (current passengers) - 3 (people who got off) = 4 passengers.
+   - Then, we will add the people who got on: 4 (remaining passengers) + 5 (people who got on) = 9 passengers.
+   - Now, the bus has 9 passengers.
+
+4. **Third Stop**: 
+   - 2 people got off, and then 4 people got on.
+   - First, we account for the people getting off: 9 (current passengers) - 2 (people who got off) = 7 passengers.
+   - Then, we add the people who got on: 7 (remaining passengers) + 4 (people who got on) = 11 passengers.
+   - Now, the bus has 11 passengers.
+
+After analyzing all the stops and calculating the changes in the number of passengers, we find that the total number of passengers currently on the bus is 11.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>11</answer>

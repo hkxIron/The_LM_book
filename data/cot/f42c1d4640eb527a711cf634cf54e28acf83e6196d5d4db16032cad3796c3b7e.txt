@@ -1,0 +1,19 @@
+<reasoning>
+To find out how many passengers fit into 5 buses given that 198 passengers fit into 9 buses, we will follow these steps:
+
+1. **Find out how many passengers fit in one bus.** 
+   To do this, we need to divide the total number of passengers by the number of buses.
+   \[
+   \text{Passengers per bus} = \frac{198 \text{ passengers}}{9 \text{ buses}} = 22 \text{ passengers/bus}
+   \]
+   This means that each bus can hold 22 passengers.
+
+2. **Calculate the total number of passengers for 5 buses.**
+   Now that we know one bus holds 22 passengers, we can find out how many passengers fit in 5 buses by multiplying the number of passengers per bus by the number of buses.
+   \[
+   \text{Total passengers in 5 buses} = 22 \text{ passengers/bus} \times 5 \text{ buses} = 110 \text{ passengers}
+   \]
+
+Therefore, the total number of passengers that fit into 5 buses is 110.
+</reasoning>
+<answer>110</answer>

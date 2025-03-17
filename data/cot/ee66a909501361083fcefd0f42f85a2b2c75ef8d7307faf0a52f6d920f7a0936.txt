@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we need to determine how many additional snowflakes are needed to reach a total of 58 snowflakes, starting from the initial 10 snowflakes.
+
+1. **Find the total number of snowflakes needed:** 
+   We start with 10 snowflakes and want to find out how many more we need to reach 58 snowflakes.
+   \[
+   \text{Additional snowflakes needed} = 58 - 10 = 48
+   \]
+   Here, we subtract the initial number of snowflakes from the target number to find out how many more we need.
+
+2. **Determine the rate of snowfall:** 
+   We know it snows an additional 4 snowflakes every 5 minutes. This means the rate of snowfall is 4 snowflakes per 5 minutes.
+
+3. **Calculate how many 5-minute intervals are needed to get 48 additional snowflakes:**
+   To find out how many intervals of 5 minutes are required to accumulate 48 additional snowflakes, we divide the total number of additional snowflakes needed by the number of snowflakes that fall in one interval.
+   \[
+   \text{Number of intervals} = \frac{48}{4} = 12
+   \]
+   Here, we divide the total additional snowflakes (48) by the number of snowflakes that fall every 5 minutes (4).
+
+4. **Calculate the total time in minutes:**
+   Since each interval is 5 minutes long, we multiply the number of intervals by the length of each interval to find the total time in minutes.
+   \[
+   \text{Total time} = 12 \times 5 = 60 \text{ minutes}
+   \]
+   This step calculates the total time needed based on the number of intervals.
+
+Therefore, the total time that passed before there were 58 snowflakes is 60 minutes.
+</reasoning>
+<answer>60</answer>

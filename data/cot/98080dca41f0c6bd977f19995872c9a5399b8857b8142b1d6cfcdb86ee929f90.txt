@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of tomatoes harvested**: 
+   Andy has 18 plants, and each plant has 7 tomatoes. To find the total number of tomatoes, we multiply the number of plants by the number of tomatoes per plant:
+   \[
+   \text{Total tomatoes} = 18 \text{ plants} \times 7 \text{ tomatoes/plant} = 126 \text{ tomatoes}
+   \]
+
+2. **Determine how many tomatoes Andy dries**:
+   Andy dries half of the total tomatoes. To find out how many tomatoes he dries, we divide the total number of tomatoes by 2:
+   \[
+   \text{Tomatoes dried} = \frac{126 \text{ tomatoes}}{2} = 63 \text{ tomatoes}
+   \]
+
+3. **Calculate the number of tomatoes remaining after drying**:
+   After drying half of the tomatoes, we subtract the number of dried tomatoes from the total:
+   \[
+   \text{Remaining tomatoes} = 126 \text{ tomatoes} - 63 \text{ tomatoes} = 63 \text{ tomatoes}
+   \]
+
+4. **Determine how many tomatoes are turned into marinara sauce**:
+   Andy turns a third of the remaining tomatoes into marinara sauce. To find out how many tomatoes are used for the sauce, we calculate one third of the remaining tomatoes:
+   \[
+   \text{Tomatoes for marinara} = \frac{1}{3} \times 63 \text{ tomatoes} = 21 \text{ tomatoes}
+   \]
+
+5. **Calculate the final number of tomatoes left**:
+   Finally, we subtract the number of tomatoes used for marinara from the remaining tomatoes:
+   \[
+   \text{Final tomatoes left} = 63 \text{ tomatoes} - 21 \text{ tomatoes} = 42 \text{ tomatoes}
+   \]
+
+Therefore, the number of tomatoes left is:
+</reasoning>
+<answer>42</answer>

@@ -1,0 +1,56 @@
+<reasoning>
+To find out how much the farmer should sell each bag of corn to achieve a profit of 10%, we first need to calculate the total cost incurred by the farmer to grow the corn. 
+
+1. **Calculate Total Costs**:
+   - The costs are as follows:
+     - Corn seeds: $50
+     - Fertilizers and pesticides: $35
+     - Labor: $15
+   - To find the total cost, we add these amounts together:
+     \[
+     \text{Total Cost} = 50 + 35 + 15
+     \]
+
+   Calculating this gives:
+   \[
+   \text{Total Cost} = 100
+   \]
+   So, the total cost incurred by the farmer is $100.
+
+2. **Calculate Required Profit**:
+   - The farmer wants to make a profit of 10% on the total cost. To find this, we need to calculate 10% of the total cost:
+     \[
+     \text{Profit} = 0.10 \times \text{Total Cost} = 0.10 \times 100
+     \]
+
+   Calculating this gives:
+   \[
+   \text{Profit} = 10
+   \]
+   Therefore, the required profit is $10.
+
+3. **Calculate Total Revenue Needed**:
+   - To find out how much total revenue the farmer needs to make to cover costs and achieve the desired profit, we add the total cost and the profit together:
+     \[
+     \text{Total Revenue} = \text{Total Cost} + \text{Profit} = 100 + 10
+     \]
+
+   Calculating this gives:
+   \[
+   \text{Total Revenue} = 110
+   \]
+   So, the total revenue needed is $110.
+
+4. **Calculate Price Per Bag**:
+   - The farmer harvested 10 bags of corn, so to find the price per bag, we divide the total revenue needed by the number of bags:
+     \[
+     \text{Price Per Bag} = \frac{\text{Total Revenue}}{\text{Number of Bags}} = \frac{110}{10}
+     \]
+
+   Calculating this gives:
+   \[
+   \text{Price Per Bag} = 11
+   \]
+   Therefore, the farmer should sell each bag of corn for $11 to achieve a 10% profit.
+</reasoning>
+<answer>11</answer>

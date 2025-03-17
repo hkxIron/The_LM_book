@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how much Elsa spent.**  
+   We know that Emma spent $58. Since Elsa spent twice as much as Emma, we calculate Elsa's spending as follows:
+   \[
+   \text{Elsa's spending} = 2 \times \text{Emma's spending} = 2 \times 58 = 116
+   \]
+   So, Elsa spent $116.
+
+2. **Determine how much Elizabeth spent.**  
+   We also know that Elizabeth spent four times as much as Elsa. Therefore, we calculate Elizabeth's spending:
+   \[
+   \text{Elizabeth's spending} = 4 \times \text{Elsa's spending} = 4 \times 116 = 464
+   \]
+   So, Elizabeth spent $464.
+
+3. **Calculate the total spending of all three individuals.**  
+   Now, we can find the total money spent by summing up the amounts spent by Emma, Elsa, and Elizabeth:
+   \[
+   \text{Total spending} = \text{Emma's spending} + \text{Elsa's spending} + \text{Elizabeth's spending} = 58 + 116 + 464
+   \]
+
+   Now we perform the addition step by step:
+   - First, add Emma's and Elsa's spending:
+   \[
+   58 + 116 = 174
+   \]
+   - Next, add Elizabeth's spending:
+   \[
+   174 + 464 = 638
+   \]
+
+Therefore, the total amount of money spent by Elizabeth, Emma, and Elsa is $638.
+</reasoning>
+<answer>638</answer>

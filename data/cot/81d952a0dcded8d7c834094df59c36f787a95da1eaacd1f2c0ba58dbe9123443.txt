@@ -1,0 +1,34 @@
+<reasoning>
+To find the cost of each art book, we start by defining the known quantities and the unknowns. 
+
+1. **Identify the prices of the known books**:
+   - Cost of each math book = $3
+   - Cost of each science book = $3
+
+2. **Calculate the total cost of the known books**:
+   - Alicia buys 2 math books and 6 science books.
+   - Cost for math books = 2 books * $3/book = $6
+   - Cost for science books = 6 books * $3/book = $18
+
+3. **Calculate the total cost of the books Alicia bought**:
+   - Total cost for math and science books = $6 + $18 = $24
+
+4. **Determine the remaining amount for the art books**:
+   - Total amount spent on books = $30
+   - Amount spent on art books = Total amount - Amount spent on math and science books
+   - Amount spent on art books = $30 - $24 = $6
+
+5. **Calculate the cost of each art book**:
+   - Alicia buys 3 art books.
+   - Let the cost of each art book be represented by \( x \).
+   - Therefore, the total cost of art books = 3 books * \( x \) = $6
+
+6. **Solve for \( x \)**:
+   - From the equation \( 3x = 6 \), we can find \( x \) by dividing both sides by 3:
+   - \( x = 6 / 3 = 2 \)
+
+Thus, each art book costs $2.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>2</answer>

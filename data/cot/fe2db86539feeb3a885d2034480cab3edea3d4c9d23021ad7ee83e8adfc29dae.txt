@@ -1,0 +1,58 @@
+<reasoning>
+To find out how many apples Reginald sold, we will follow these steps:
+
+1. **Calculate the total cost of repairs for the bike.**
+   - The cost of the bike is $80.
+   - The repairs cost 25% of the bike's cost. 
+   - To find 25% of $80, we calculate: 
+     \[
+     0.25 \times 80 = 20
+     \]
+   - So, the repairs will cost $20.
+
+2. **Determine how much money Reginald has after selling apples.**
+   - Let \( x \) be the total amount of money Reginald earned from selling apples.
+   - After paying for the repairs, he will have 
+     \[
+     x - 20
+     \]
+   - According to the problem, after the repairs are paid for, 1/5 of the money he earned remains. Therefore, we can write the equation:
+     \[
+     x - 20 = \frac{1}{5}x
+     \]
+
+3. **Solve for \( x \).**
+   - First, let's eliminate the fraction by multiplying every term in the equation by 5:
+     \[
+     5(x - 20) = x
+     \]
+   - This simplifies to:
+     \[
+     5x - 100 = x
+     \]
+   - Now, we will isolate \( x \) by moving \( x \) to the left side:
+     \[
+     5x - x = 100
+     \]
+   - Simplifying further gives:
+     \[
+     4x = 100
+     \]
+   - Now, divide both sides by 4:
+     \[
+     x = 25
+     \]
+
+4. **Calculate how many apples Reginald sold.**
+   - Since Reginald sells each apple for $1.25, we can find the number of apples sold by dividing the total money earned by the price per apple:
+     \[
+     \text{Number of apples} = \frac{x}{1.25} = \frac{25}{1.25}
+     \]
+   - To perform this division, we can multiply both the numerator and the denominator by 100 to eliminate the decimal:
+     \[
+     \frac{25 \times 100}{1.25 \times 100} = \frac{2500}{125} = 20
+     \]
+
+Therefore, Reginald sold 20 apples.
+</reasoning>
+<answer>20</answer>

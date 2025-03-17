@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many mosquitoes would need to feed on you to kill you, we will go through the following steps:
+
+1. **Calculate the total number of drops of blood in 3 liters.** 
+   We know that there are 5000 drops in a liter. Therefore, for 3 liters:
+   \[
+   \text{Total drops} = 3 \text{ liters} \times 5000 \text{ drops/liter} = 15000 \text{ drops}
+   \]
+
+2. **Determine how many drops of blood a single mosquito consumes.**
+   From the problem, we know that a mosquito sucks 20 drops of blood each time it feeds.
+
+3. **Calculate the number of mosquitoes needed to consume 15000 drops of blood.**
+   To find out how many mosquitoes are required to consume all 15000 drops, we divide the total number of drops by the number of drops each mosquito takes:
+   \[
+   \text{Number of mosquitoes} = \frac{15000 \text{ drops}}{20 \text{ drops/mosquito}} = 750 \text{ mosquitoes}
+   \]
+
+Now, we have established that 750 mosquitoes are needed to consume the lethal amount of blood.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>750</answer>

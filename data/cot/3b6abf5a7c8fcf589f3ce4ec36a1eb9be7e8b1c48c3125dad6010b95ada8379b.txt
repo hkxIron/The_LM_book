@@ -1,0 +1,44 @@
+<reasoning>
+To find out how many questions Phillip gets right on both tests, we will calculate the number of correct answers for each test separately, and then add them together.
+
+1. **Calculate correct answers for the Math test:**
+   - The math test has 40 questions.
+   - Phillip gets 75% of them right. 
+
+   To find out how many he got right, we multiply the total number of questions by the percentage he got right (expressed as a decimal):
+   \[
+   \text{Correct answers in Math} = 40 \times 0.75
+   \]
+   Let's calculate that:
+   \[
+   40 \times 0.75 = 30
+   \]
+   So, Phillip got 30 questions right on the math test.
+
+2. **Calculate correct answers for the English test:**
+   - The English test has 50 questions.
+   - Phillip gets 98% of them right.
+
+   Again, we multiply the total number of questions by the percentage he got right:
+   \[
+   \text{Correct answers in English} = 50 \times 0.98
+   \]
+   Now let's calculate that:
+   \[
+   50 \times 0.98 = 49
+   \]
+   So, Phillip got 49 questions right on the English test.
+
+3. **Add both results to find the total correct answers:**
+   Now we will add the correct answers from both tests together:
+   \[
+   \text{Total correct answers} = \text{Correct answers in Math} + \text{Correct answers in English}
+   \]
+   Which gives us:
+   \[
+   \text{Total correct answers} = 30 + 49 = 79
+   \]
+
+Therefore, Phillip got a total of 79 questions right across both tests.
+</reasoning>
+<answer>79</answer>

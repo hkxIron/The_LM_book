@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many more gallons of gas the truck driver needs to reach the cheaper gas station 90 miles away, we can follow these steps:
+
+1. **Calculate the distance the truck can currently travel with the gas in the tank**: 
+   The truck driver has 12 gallons of gas, and the truck can go 3 miles per gallon. Therefore, I will calculate the maximum distance the truck can travel with 12 gallons.
+
+   \[
+   \text{Distance} = \text{Gallons} \times \text{Miles per Gallon} = 12 \text{ gallons} \times 3 \text{ miles/gallon} = 36 \text{ miles}
+   \]
+
+   This means the truck can travel 36 miles with the 12 gallons of gas already in the tank.
+
+2. **Determine how much further the truck needs to go**:
+   The total distance to the cheaper gas station is 90 miles. Since the truck can only travel 36 miles with the gas it currently has, I will find out how much more distance is needed.
+
+   \[
+   \text{Additional distance needed} = 90 \text{ miles} - 36 \text{ miles} = 54 \text{ miles}
+   \]
+
+3. **Calculate how many additional gallons are needed to travel the extra distance**:
+   Knowing that the truck can go 3 miles per gallon, I can now calculate how many gallons are needed to travel the additional 54 miles.
+
+   \[
+   \text{Gallons needed} = \frac{\text{Additional distance needed}}{\text{Miles per Gallon}} = \frac{54 \text{ miles}}{3 \text{ miles/gallon}} = 18 \text{ gallons}
+   \]
+
+4. **Conclusion**:
+   The truck driver needs to put an additional 18 gallons of gas into the truck to reach the cheaper gas station 90 miles away.
+
+Therefore, the truck driver needs to add 18 more gallons of gas to make it to the cheaper gas station.
+</reasoning>
+<answer>18</answer>

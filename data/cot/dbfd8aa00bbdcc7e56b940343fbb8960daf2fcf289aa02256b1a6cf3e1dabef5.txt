@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we need to first determine how many Fridays are in 2 months and then calculate the total contribution from all students.
+
+1. **Determine the number of Fridays in 2 months:**
+   - Generally, there are about 4 weeks in a month, so in 2 months, there would typically be around 8 Fridays. However, since months can vary in length, we should consider the maximum number of Fridays that can fit into 2 months.
+   - Let's assume that both months have 4 Fridays each, which gives us a total of 8 Fridays. In some cases, there could be an additional Friday if the first day of the month is a Friday.
+
+2. **Calculate the total contributions per Friday:**
+   - Each student contributes $2 every Friday.
+   - Therefore, for 30 students, the total contribution per Friday is calculated as:
+     \[
+     30 \text{ students} \times 2 \text{ dollars/student} = 60 \text{ dollars}
+     \]
+
+3. **Calculate the total contributions over 2 months (8 Fridays):**
+   - Since we estimated 8 Fridays, we multiply the total contribution per Friday by the number of Fridays:
+     \[
+     60 \text{ dollars/Friday} \times 8 \text{ Fridays} = 480 \text{ dollars}
+     \]
+
+By following these steps, we can conclude that the students will have a total of $480 saved for their field trip after 2 months.
+</reasoning>
+<answer>480</answer>

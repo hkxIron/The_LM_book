@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we need to follow these steps:
+
+1. **Determine the total number of panels needed**: 
+   Each of the 20 homes needs 10 panels. Therefore, we calculate the total number of panels required:
+   \[
+   \text{Total panels needed} = \text{Number of homes} \times \text{Panels per home} = 20 \times 10 = 200 \text{ panels}
+   \]
+
+2. **Determine the number of panels supplied**:
+   According to the problem, the supplier brought 50 panels less than the required amount. So, we subtract 50 from the total panels needed:
+   \[
+   \text{Panels supplied} = \text{Total panels needed} - 50 = 200 - 50 = 150 \text{ panels}
+   \]
+
+3. **Determine how many homes can be fully equipped with the supplied panels**:
+   Since each home requires 10 panels, we can find out how many homes can be equipped with the 150 panels supplied by dividing the total number of panels supplied by the number of panels each home needs:
+   \[
+   \text{Number of homes with installed panels} = \frac{\text{Panels supplied}}{\text{Panels per home}} = \frac{150}{10} = 15 \text{ homes}
+   \]
+
+Now, we have calculated that a total of 15 homes had their panels installed based on the panels supplied.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To find the total number of books that Betty and her sister have, we need to follow these steps:
+
+1. **Determine the number of books Betty's sister has**: 
+   - We know that Betty has 20 books.
+   - Her sister has \( \frac{1}{4} \) times more books than Betty. This means we will first calculate how many books \( \frac{1}{4} \) of Betty's books is. 
+   - To do this, we multiply the number of books Betty has by \( \frac{1}{4} \):
+     \[
+     \frac{1}{4} \times 20 = 5
+     \]
+   - Now, since her sister has that many books more than Betty, we add this to the number of books Betty has:
+     \[
+     20 + 5 = 25
+     \]
+
+2. **Calculate the total number of books**:
+   - Now that we know Betty has 20 books and her sister has 25 books, we can find the total number of books by adding these two amounts together:
+     \[
+     20 + 25 = 45
+     \]
+
+Thus, the total number of books that Betty and her sister have combined is 45.
+</reasoning>
+<answer>45</answer>

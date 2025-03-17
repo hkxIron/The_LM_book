@@ -1,0 +1,32 @@
+<reasoning>
+Let's start breaking down the problem step by step.
+
+1. **Calculate the total number of chairs in the church**: 
+   - There are 6 chairs in each row and 20 rows in total. 
+   - To find the total number of chairs, we multiply the number of chairs per row by the number of rows:
+   
+   \[
+   \text{Total chairs} = \text{Chairs per row} \times \text{Number of rows} = 6 \times 20
+   \]
+   - Performing the multiplication:
+   \[
+   6 \times 20 = 120
+   \]
+   Therefore, there are 120 chairs in total.
+
+2. **Calculate the total number of people that can sit in the chairs**:
+   - Each chair can hold 5 people. 
+   - To find the total number of people that can be seated, we multiply the total number of chairs by the number of people per chair:
+   
+   \[
+   \text{Total people} = \text{Total chairs} \times \text{People per chair} = 120 \times 5
+   \]
+   - Performing the multiplication:
+   \[
+   120 \times 5 = 600
+   \]
+   Therefore, the total number of people who can sit in the chairs is 600.
+
+In conclusion, by calculating the total number of chairs and then the capacity for people, we found that the church can accommodate 600 people when full.
+</reasoning>
+<answer>600</answer>

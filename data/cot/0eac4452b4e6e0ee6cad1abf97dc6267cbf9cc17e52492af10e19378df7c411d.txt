@@ -1,0 +1,33 @@
+<reasoning>
+To find out how much it costs to fill John's swimming pool with bottled water, we will follow these steps:
+
+1. **Calculate the volume of the swimming pool in cubic feet.**
+   The swimming pool is a rectangular prism, and its volume \( V \) can be calculated using the formula:
+   \[
+   V = \text{length} \times \text{width} \times \text{depth}
+   \]
+   Given the dimensions of the pool:
+   - Length = 20 feet
+   - Width = 6 feet
+   - Depth = 10 feet
+
+   Plugging in these values:
+   \[
+   V = 20 \, \text{feet} \times 6 \, \text{feet} \times 10 \, \text{feet} = 1200 \, \text{cubic feet}
+   \]
+
+2. **Convert the volume from cubic feet to liters.**
+   We know that 1 cubic foot of water is equivalent to 25 liters. Therefore, to convert the volume of the pool to liters, we multiply the volume in cubic feet by 25:
+   \[
+   \text{Volume in liters} = 1200 \, \text{cubic feet} \times 25 \, \text{liters/cubic foot} = 30000 \, \text{liters}
+   \]
+
+3. **Calculate the total cost to fill the pool with water.**
+   The cost of water per liter is $3. To find the total cost, we multiply the total volume in liters by the cost per liter:
+   \[
+   \text{Total cost} = 30000 \, \text{liters} \times 3 \, \text{dollars/liter} = 90000 \, \text{dollars}
+   \]
+
+Therefore, the total cost to fill John's swimming pool with bottled water is:
+</reasoning>
+<answer>90000</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's start by determining the price at which Dorothy sells her glass frames. 
+
+1. Jemma sells her frames for $5 each. Since Dorothy sells her frames at half of Jemma's price, we calculate Dorothy's price as follows:
+   \[
+   \text{Price of Dorothy's frames} = \frac{5}{2} = 2.5 \text{ dollars}
+   \]
+
+2. Next, we know Jemma sold 400 frames. Since Jemma sells twice as many frames as Dorothy, we can determine how many frames Dorothy sold:
+   \[
+   \text{Frames sold by Dorothy} = \frac{400}{2} = 200 \text{ frames}
+   \]
+
+3. Now, we can calculate the total revenue Jemma made from selling her frames. Since she sells each frame for $5 and sold 400 frames, we calculate Jemma's total revenue:
+   \[
+   \text{Revenue from Jemma} = 400 \times 5 = 2000 \text{ dollars}
+   \]
+
+4. Similarly, we can calculate the total revenue Dorothy made from selling her frames. Since she sells each frame for $2.50 and sold 200 frames, we calculate Dorothy's total revenue:
+   \[
+   \text{Revenue from Dorothy} = 200 \times 2.5 = 500 \text{ dollars}
+   \]
+
+5. Finally, to find the total revenue made by both Dorothy and Jemma together, we add their revenues:
+   \[
+   \text{Total Revenue} = \text{Revenue from Jemma} + \text{Revenue from Dorothy} = 2000 + 500 = 2500 \text{ dollars}
+   \]
+
+Therefore, the total amount they made together from the sale of the glass frames is:
+</reasoning>
+<answer>2500</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To find the total sales from lettuce and tomatoes per month, we will calculate the sales from each type of vegetable separately and then add them together. 
+
+1. **Calculate the sales from lettuce**:
+   - Each customer buys 2 heads of lettuce.
+   - The price of each head of lettuce is $1.
+   - Therefore, the total sales from lettuce for one customer is:
+     \[
+     2 \text{ heads of lettuce} \times 1 \text{ dollar/head} = 2 \text{ dollars}
+     \]
+
+   - Since there are 500 customers in total, the total sales from lettuce for all customers is:
+     \[
+     500 \text{ customers} \times 2 \text{ dollars/customer} = 1000 \text{ dollars}
+     \]
+
+2. **Calculate the sales from tomatoes**:
+   - Each customer buys 4 tomatoes.
+   - The price of each tomato is $0.5.
+   - Therefore, the total sales from tomatoes for one customer is:
+     \[
+     4 \text{ tomatoes} \times 0.5 \text{ dollars/tomato} = 2 \text{ dollars}
+     \]
+
+   - Again, with 500 customers, the total sales from tomatoes for all customers is:
+     \[
+     500 \text{ customers} \times 2 \text{ dollars/customer} = 1000 \text{ dollars}
+     \]
+
+3. **Add the total sales from both vegetables**:
+   - Now, we will combine the total sales from lettuce and tomatoes:
+     \[
+     1000 \text{ dollars (lettuce)} + 1000 \text{ dollars (tomatoes)} = 2000 \text{ dollars}
+     \]
+
+Therefore, the store will receive a total of $2000 in sales from lettuce and tomatoes per month.
+</reasoning>
+<answer>2000</answer>

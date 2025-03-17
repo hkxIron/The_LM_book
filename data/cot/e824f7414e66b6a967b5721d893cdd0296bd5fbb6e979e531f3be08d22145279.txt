@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we will first establish the current ages of both you and Billy.
+
+1. **Identify Billy's Current Age**: We know from the problem that Billy is currently 4 years old.
+
+2. **Calculate Your Current Age**: Since you are 4 times older than Billy, we can calculate your age by multiplying Billy's age by 4. 
+   \[
+   \text{Your Age} = 4 \times \text{Billy's Age} = 4 \times 4 = 16
+   \]
+   This means you are currently 16 years old.
+
+3. **Determine the Age Difference**: To find out how old you were when Billy was born, we need to calculate the difference in your ages:
+   \[
+   \text{Age Difference} = \text{Your Current Age} - \text{Billy's Current Age} = 16 - 4 = 12
+   \]
+   This means that you are 12 years older than Billy.
+
+4. **Calculate Your Age When Billy Was Born**: Since Billy is currently 4 years old, you were 12 years old when he was born (because the difference in age remains constant).
+   \[
+   \text{Your Age When Billy Was Born} = \text{Your Current Age} - \text{Billy's Current Age} = 16 - 4 = 12
+   \]
+
+Thus, you were 12 years old when Billy was born.
+</reasoning>
+<answer>12</answer>

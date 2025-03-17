@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we will calculate the initial number of students, then determine the number of students after adding the additional classes.
+
+1. **Calculate the initial number of students.**
+   - Initially, there are 15 classes, and each class has 20 students.
+   - To find the total number of students, we multiply the number of classes by the number of students per class:
+   \[
+   \text{Initial students} = 15 \, \text{classes} \times 20 \, \text{students/class}
+   \]
+   - Performing the multiplication:
+   \[
+   15 \times 20 = 300
+   \]
+   So, there are initially 300 students.
+
+2. **Calculate the total number of classes after addition.**
+   - The school added 5 more classes to the initial 15 classes:
+   \[
+   \text{Total classes now} = 15 + 5 = 20
+   \]
+
+3. **Calculate the new total number of students with the additional classes.**
+   - With 20 classes and maintaining the same 20 students per class, we again multiply:
+   \[
+   \text{New total students} = 20 \, \text{classes} \times 20 \, \text{students/class}
+   \]
+   - Performing the multiplication:
+   \[
+   20 \times 20 = 400
+   \]
+   Thus, after adding the five more classes, the total number of students is now 400.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>400</answer>

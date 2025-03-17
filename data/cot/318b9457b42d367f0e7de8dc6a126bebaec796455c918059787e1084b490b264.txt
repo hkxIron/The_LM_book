@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we need to determine how much time Gretchen will spend walking based on the time she spends sitting at her desk.
+
+1. **Convert hours to minutes**: First, we need to convert the time Gretchen spends sitting (6 hours) into minutes because the walking time is given in minutes.
+   \[
+   6 \text{ hours} = 6 \times 60 = 360 \text{ minutes}
+   \]
+   This means Gretchen spends 360 minutes sitting.
+
+2. **Calculate walking time based on sitting time**: According to the information provided, for every 90 minutes of sitting, Gretchen should spend 10 minutes walking. We can find out how many 90-minute segments are in the 360 minutes she spends sitting.
+   \[
+   \text{Number of 90-minute segments} = \frac{360 \text{ minutes}}{90 \text{ minutes/segment}} = 4
+   \]
+   This means there are 4 segments of 90 minutes in her sitting time.
+
+3. **Calculate total walking time**: Now, since Gretchen walks 10 minutes for each 90-minute segment, we multiply the number of segments by the walking time per segment.
+   \[
+   \text{Total walking time} = 4 \text{ segments} \times 10 \text{ minutes/segment} = 40 \text{ minutes}
+   \]
+
+Therefore, Gretchen will spend a total of 40 minutes walking.
+</reasoning>
+<answer>40</answer>

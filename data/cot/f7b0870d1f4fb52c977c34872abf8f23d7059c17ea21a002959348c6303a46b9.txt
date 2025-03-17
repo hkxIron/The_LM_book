@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem step by step, let's break it down:
+
+1. **Determine how many sandwiches Katelyn made**: 
+   - We know that Billy made 49 sandwiches.
+   - Katelyn made 47 more sandwiches than Billy. 
+   - To find out how many sandwiches Katelyn made, we add 47 to the number of sandwiches Billy made:
+     \[
+     \text{Katelyn's sandwiches} = 49 + 47 = 96
+     \]
+   - So, Katelyn made 96 sandwiches.
+
+2. **Determine how many sandwiches Chloe made**: 
+   - We know that Chloe made a quarter of the amount that Katelyn made. 
+   - To find out how many sandwiches Chloe made, we calculate a quarter of Katelyn's sandwiches:
+     \[
+     \text{Chloe's sandwiches} = \frac{1}{4} \times 96 = 24
+     \]
+   - Thus, Chloe made 24 sandwiches.
+
+3. **Calculate the total number of sandwiches made by all three**: 
+   - Now, we need to find the total by adding the number of sandwiches made by Billy, Katelyn, and Chloe together:
+     \[
+     \text{Total sandwiches} = \text{Billy's sandwiches} + \text{Katelyn's sandwiches} + \text{Chloe's sandwiches}
+     \]
+     \[
+     \text{Total sandwiches} = 49 + 96 + 24
+     \]
+   - Now let's perform the addition step by step:
+     - Adding Billy's and Katelyn's sandwiches:
+       \[
+       49 + 96 = 145
+       \]
+     - Now adding Chloe's sandwiches to that total:
+       \[
+       145 + 24 = 169
+       \]
+
+Therefore, the total number of sandwiches made by all three is 169.
+</reasoning>
+<answer>169</answer>

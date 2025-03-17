@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to determine the total hours worked by Bianca, Celeste, and McClain, and then convert that total into minutes.
+
+1. **Calculate Celeste's hours**: 
+   - Bianca worked for 12.5 hours.
+   - Celeste worked for twice that amount of time.
+   - So, Celeste's hours = 2 * 12.5 = 25 hours.
+
+2. **Calculate McClain's hours**:
+   - McClain worked 8.5 hours less than Celeste.
+   - So, McClain's hours = Celeste's hours - 8.5 = 25 - 8.5 = 16.5 hours.
+
+3. **Calculate the total hours worked**:
+   - To find the total hours worked by all three, we add Bianca's, Celeste's, and McClain's hours together.
+   - Total hours = Bianca's hours + Celeste's hours + McClain's hours = 12.5 + 25 + 16.5.
+
+   Let's perform the addition step by step:
+   - First, add Bianca's and Celeste's hours: 12.5 + 25 = 37.5 hours.
+   - Now, add McClain's hours: 37.5 + 16.5 = 54 hours.
+
+4. **Convert total hours to minutes**:
+   - There are 60 minutes in an hour, so to convert 54 hours to minutes, we multiply by 60.
+   - Total minutes = 54 * 60.
+
+   Now, let's do the multiplication:
+   - 54 * 60 = 3240 minutes.
+
+Therefore, the total time worked by all three individuals in minutes is:
+</reasoning>
+<answer>3240</answer>

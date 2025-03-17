@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much Tom will pay for the fruit, we first need to calculate the total cost of the fruits he bought without any discounts.
+
+1. **Calculate the cost of lemons**:
+   - Tom buys 6 lemons, and each lemon costs $2.
+   - Total cost for lemons = Number of lemons × Cost per lemon = 6 × $2 = $12.
+
+2. **Calculate the cost of papayas**:
+   - Tom buys 4 papayas, and each papaya costs $1.
+   - Total cost for papayas = Number of papayas × Cost per papaya = 4 × $1 = $4.
+
+3. **Calculate the cost of mangos**:
+   - Tom buys 2 mangos, and each mango costs $4.
+   - Total cost for mangos = Number of mangos × Cost per mango = 2 × $4 = $8.
+
+4. **Add the total costs of all fruits**:
+   - Total cost before discount = Cost of lemons + Cost of papayas + Cost of mangos = $12 + $4 + $8 = $24.
+
+5. **Determine the number of fruits purchased**:
+   - Total number of fruits = Number of lemons + Number of papayas + Number of mangos = 6 + 4 + 2 = 12 fruits.
+
+6. **Calculate the number of discounts applicable**:
+   - The store offers a $1 discount for every 4 fruits purchased. 
+   - Tom purchased 12 fruits, so we calculate how many groups of 4 are in 12: 
+   - Number of discounts = Total fruits ÷ 4 = 12 ÷ 4 = 3 discounts.
+
+7. **Calculate the total discount**:
+   - Total discount = Number of discounts × Discount per group = 3 × $1 = $3.
+
+8. **Subtract the discount from the total cost**:
+   - Final cost = Total cost before discount - Total discount = $24 - $3 = $21.
+
+Therefore, after calculating all the costs and applying the discount, Tom will pay $21 for the fruit he bought.
+</reasoning>
+<answer>21</answer>

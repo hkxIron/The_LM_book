@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Identify the total number of seashells collected initially**: 
+   We know that Henry, Paul (who is mistakenly named John in the problem), and Leo collected a total of 59 seashells.
+
+2. **Calculate Leo's initial collection**:
+   We know Henry collected 11 seashells and Paul collected 24 seashells. Therefore, we can find out how many seashells Leo collected by subtracting Henry's and Paul's collections from the total.
+   
+   \[
+   \text{Leo's collection} = \text{Total collection} - (\text{Henry's collection} + \text{Paul's collection})
+   \]
+   \[
+   = 59 - (11 + 24) = 59 - 35 = 24
+   \]
+   So, Leo initially collected 24 seashells.
+
+3. **Determine how many seashells Leo gave away**:
+   Leo gave a quarter of his collection to a younger kid. To find out how many seashells this is, we calculate:
+   \[
+   \text{Seashells given away} = \frac{1}{4} \times \text{Leo's collection} = \frac{1}{4} \times 24 = 6
+   \]
+
+4. **Calculate the remaining seashells for Leo**:
+   Now, we subtract the number of seashells Leo gave away from his initial collection:
+   \[
+   \text{Leo's remaining collection} = \text{Leo's initial collection} - \text{Seashells given away} 
+   \]
+   \[
+   = 24 - 6 = 18
+   \]
+
+5. **Calculate the total number of seashells they have now**:
+   We need to add the remaining collections of Henry, Paul, and Leo:
+   \[
+   \text{Total remaining seashells} = \text{Henry's collection} + \text{Paul's collection} + \text{Leo's remaining collection}
+   \]
+   \[
+   = 11 + 24 + 18 = 53
+   \]
+
+Thus, the total number of seashells they have now is 53.
+</reasoning>
+<answer>53</answer>

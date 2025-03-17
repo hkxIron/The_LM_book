@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we need to determine how much more money the shoe company needs to make each month in order to reach their annual goal of $60,000.
+
+1. **Calculate the total amount the company currently makes in a year:** 
+   Since they make $4,000 per month and there are 12 months in a year, we can calculate their current yearly income:
+   \[
+   \text{Current yearly income} = 4000 \text{ dollars/month} \times 12 \text{ months} = 48000 \text{ dollars}
+   \]
+   This calculation shows how much they are making with their current sales.
+
+2. **Determine how much more money they need to reach their goal:**
+   The total income they want to reach in a year is $60,000. To find out how much more they need, we subtract their current yearly income from their goal:
+   \[
+   \text{Additional amount needed} = 60000 \text{ dollars} - 48000 \text{ dollars} = 12000 \text{ dollars}
+   \]
+   This tells us how much more money they need to make over the course of the year to meet their target.
+
+3. **Calculate how much more they need to make each month:**
+   Since they need to make an additional $12,000 over the course of 12 months, we divide this amount by the number of months:
+   \[
+   \text{Additional amount per month} = \frac{12000 \text{ dollars}}{12 \text{ months}} = 1000 \text{ dollars/month}
+   \]
+   This step gives us the additional monthly income required to meet the yearly target.
+
+Therefore, the shoe company needs to make an additional $1,000 per month in sales to achieve their goal of $60,000.
+</reasoning>
+<answer>1000</answer>

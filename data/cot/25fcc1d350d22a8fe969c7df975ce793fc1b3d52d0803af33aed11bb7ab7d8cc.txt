@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Total slices of pizza**: When Yves and his siblings ordered pizza, it was cut into 16 slices.
+
+2. **Amount eaten during dinner**: They ate one-fourth of the pizza. To find out how many slices that is, we calculate:
+   \[
+   \text{Slices eaten} = \frac{1}{4} \times 16 = 4 \text{ slices}
+   \]
+   After dinner, we subtract the slices eaten from the total:
+   \[
+   \text{Remaining slices} = 16 - 4 = 12 \text{ slices}
+   \]
+
+3. **Amount Yves ate the next day**: Yves then ate one-fourth of the remaining pizza. We again calculate:
+   \[
+   \text{Yves' slices eaten} = \frac{1}{4} \times 12 = 3 \text{ slices}
+   \]
+   Now, we subtract Yves' consumption from the remaining pizza:
+   \[
+   \text{Remaining slices after Yves} = 12 - 3 = 9 \text{ slices}
+   \]
+
+4. **Amount his siblings ate**: Each of Yves' two siblings ate 2 slices each, which totals to:
+   \[
+   \text{Total slices eaten by siblings} = 2 \text{ siblings} \times 2 \text{ slices/sibling} = 4 \text{ slices}
+   \]
+   Now, we subtract the slices eaten by the siblings from the remaining pizza:
+   \[
+   \text{Remaining slices after siblings} = 9 - 4 = 5 \text{ slices}
+   \]
+
+5. **Final count of slices left**: After all the eating, we find that there are 5 slices of pizza left.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

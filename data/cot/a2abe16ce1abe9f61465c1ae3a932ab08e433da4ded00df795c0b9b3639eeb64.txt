@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Michael earned from selling his paintings, we need to calculate the total income from both the large and small paintings separately and then sum these amounts.
+
+1. **Calculate the income from large paintings**:
+   - Michael sells large paintings for $100 each.
+   - He sold 5 large paintings.
+   - To find the total income from large paintings, we multiply the number of large paintings sold by the price per large painting:
+     \[
+     \text{Income from large paintings} = 5 \text{ paintings} \times 100 \text{ dollars/painting} = 500 \text{ dollars}
+     \]
+
+2. **Calculate the income from small paintings**:
+   - Michael sells small paintings for $80 each.
+   - He sold 8 small paintings.
+   - To find the total income from small paintings, we multiply the number of small paintings sold by the price per small painting:
+     \[
+     \text{Income from small paintings} = 8 \text{ paintings} \times 80 \text{ dollars/painting} = 640 \text{ dollars}
+     \]
+
+3. **Calculate the total income**:
+   - Now, we add the income from large paintings and the income from small paintings to find the total income:
+     \[
+     \text{Total income} = \text{Income from large paintings} + \text{Income from small paintings} = 500 \text{ dollars} + 640 \text{ dollars} = 1140 \text{ dollars}
+     \]
+
+Therefore, Michael earned a total of $1140 from selling his paintings.
+</reasoning>
+<answer>1140</answer>

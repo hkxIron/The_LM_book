@@ -1,0 +1,49 @@
+<reasoning>
+Let's define the number of passes thrown to the left side of the field as \( L \).
+
+According to the problem, the quarterback throws twice as many passes to the right side of the field as he does to the left. Therefore, the number of passes thrown to the right side can be expressed as \( 2L \).
+
+Additionally, the problem states that he throws 2 more passes to the center of the field than he does to the left. Thus, the number of passes thrown to the center can be represented as \( L + 2 \).
+
+Now, we can set up an equation to represent the total number of passes thrown in the game. The total passes are the sum of passes thrown to the left, right, and center:
+
+\[
+L + 2L + (L + 2) = 50
+\]
+
+Now, let's simplify the left side of the equation:
+
+1. Combine like terms:
+   - \( L + 2L = 3L \)
+   - Adding the center passes: \( 3L + L + 2 = 4L + 2 \)
+
+So the equation becomes:
+\[
+4L + 2 = 50
+\]
+
+Next, we need to isolate \( L \). To do this, we will first subtract 2 from both sides of the equation:
+
+\[
+4L + 2 - 2 = 50 - 2
+\]
+
+This simplifies to:
+\[
+4L = 48
+\]
+
+Now, we divide both sides by 4 to solve for \( L \):
+
+\[
+L = \frac{48}{4}
+\]
+
+This simplifies to:
+\[
+L = 12
+\]
+
+Therefore, the number of passes thrown to the left side of the field is 12.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we need to determine how many blankets Nathan added to his bed and then calculate how many degrees warmer he became as a result.
+
+1. **Identify the total number of blankets**: Nathan has 14 blankets in total in his closet.
+
+2. **Calculate half of the blankets**: We need to find half of 14 to know how many blankets Nathan added to his bed. 
+   \[
+   \text{Half of 14} = \frac{14}{2} = 7
+   \]
+   So, Nathan added 7 blankets to his bed.
+
+3. **Determine the warming effect of each blanket**: Each blanket warms Nathan up by 3 degrees.
+
+4. **Calculate the total warming effect**: To find out how much warmer Nathan becomes with the 7 blankets, we multiply the number of blankets by the degrees each blanket provides:
+   \[
+   \text{Total warming} = \text{Number of blankets} \times \text{Degrees per blanket} = 7 \times 3
+   \]
+   Now we perform the multiplication:
+   \[
+   7 \times 3 = 21
+   \]
+   So, the blankets warm Nathan up by 21 degrees.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>21</answer>

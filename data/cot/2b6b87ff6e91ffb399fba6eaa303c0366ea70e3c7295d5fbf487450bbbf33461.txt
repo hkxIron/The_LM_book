@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many boxes of crackers Tanika sold in total over the two days, we can follow these steps:
+
+1. **Determine the number of boxes sold on Saturday**: 
+   We know from the problem that Tanika sold 60 boxes on Saturday.
+
+2. **Calculate the number of boxes sold on Sunday**: 
+   The problem states that she sold 50% more on Sunday than she did on Saturday. To find out how many boxes this is, we first need to calculate 50% of the number of boxes sold on Saturday.
+
+   \[
+   50\% \text{ of } 60 = 0.50 \times 60 = 30
+   \]
+
+   Now, to find the total number of boxes sold on Sunday, we add this amount (30) to the boxes sold on Saturday (60):
+
+   \[
+   \text{Boxes sold on Sunday} = 60 + 30 = 90
+   \]
+
+3. **Calculate the total number of boxes sold over the two days**: 
+   Now, we can add the boxes sold on Saturday and Sunday together to find the total.
+
+   \[
+   \text{Total boxes sold} = \text{Boxes sold on Saturday} + \text{Boxes sold on Sunday} = 60 + 90 = 150
+   \]
+
+Therefore, after adding the number of boxes sold on both days, we find that Tanika sold a total of 150 boxes.
+</reasoning>
+<answer>150</answer>

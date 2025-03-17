@@ -1,0 +1,26 @@
+<reasoning>
+To find out how long Tony's drive to see his second friend will take, we can follow these steps:
+
+1. **Calculate Tony's speed on the first trip:**
+   - We know the distance between Tony's town and his friend's town is 120 miles, and it takes him 3 hours to drive that distance.
+   - Speed is calculated as distance divided by time. 
+   - So, we calculate Tony's speed as follows:
+     \[
+     \text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{120 \text{ miles}}{3 \text{ hours}} = 40 \text{ miles per hour}
+     \]
+   - This means Tony is driving at a speed of 40 miles per hour.
+
+2. **Calculate the time for the second trip:**
+   - Now, we need to find out how long it will take Tony to drive 200 miles to his other friend's house at the same speed of 40 miles per hour.
+   - Again, we use the formula for time, which is distance divided by speed:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{200 \text{ miles}}{40 \text{ miles per hour}} 
+     \]
+   - Performing the calculation, we get:
+     \[
+     \text{Time} = 5 \text{ hours}
+     \]
+
+Therefore, Tony's drive to see his second friend will take 5 hours.
+</reasoning>
+<answer>5</answer>

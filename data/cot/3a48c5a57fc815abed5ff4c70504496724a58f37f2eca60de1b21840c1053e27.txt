@@ -1,0 +1,22 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the number of kids who went tubing**: We know that a fourth of the 40 kids went tubing. To find this, we multiply 40 by 1/4.
+
+   \[
+   \text{Number of kids tubing} = 40 \times \frac{1}{4} = 10
+   \]
+
+   So, 10 kids went tubing.
+
+2. **Determine how many of the tubers went rafting**: The problem states that only half of the kids who went tubing also went rafting. We will take half of the 10 kids who went tubing.
+
+   \[
+   \text{Number of tubers who went rafting} = 10 \times \frac{1}{2} = 5
+   \]
+
+   Therefore, 5 kids who went tubing also participated in the rafting excursion.
+
+Now we conclude that the number of kids who joined the rafting excursion and were also on the tubing excursion is 5.
+</reasoning>
+<answer>5</answer>

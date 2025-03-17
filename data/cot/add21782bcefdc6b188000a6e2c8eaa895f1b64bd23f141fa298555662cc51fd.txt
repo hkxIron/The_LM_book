@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much James pays per episode for both main and minor characters, we'll break this down into steps.
+
+1. **Calculate the payment for the minor characters**: 
+   - There are 4 minor characters and each is paid $15,000 per episode. 
+   - To find the total payment for the minor characters, we multiply the number of minor characters by their pay:
+     \[
+     \text{Total payment for minor characters} = 4 \times 15,000 = 60,000
+     \]
+
+2. **Calculate the payment for the main characters**:
+   - There are 5 main characters, and each is paid three times as much as the minor characters. 
+   - First, we need to find out how much each main character is paid:
+     \[
+     \text{Pay for each main character} = 3 \times 15,000 = 45,000
+     \]
+   - Now, we calculate the total payment for the main characters:
+     \[
+     \text{Total payment for main characters} = 5 \times 45,000 = 225,000
+     \]
+
+3. **Calculate the total payment for all characters**:
+   - To find the total payment per episode, we add the total payment for the minor characters to the total payment for the main characters:
+     \[
+     \text{Total payment per episode} = 60,000 + 225,000 = 285,000
+     \]
+
+Therefore, the total amount James pays per episode for all characters is:
+</reasoning>
+<answer>285000</answer>

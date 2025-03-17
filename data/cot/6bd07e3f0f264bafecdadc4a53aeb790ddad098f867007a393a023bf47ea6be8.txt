@@ -1,0 +1,40 @@
+<reasoning>
+Let's define Betty's age as \( B \).
+
+1. According to the problem, Doug's age is given as 40 years, and the sum of their ages is 90. We can set up the equation:
+   \[
+   B + 40 = 90
+   \]
+   This equation represents the total of both their ages.
+
+2. Now, let's solve for \( B \):
+   \[
+   B = 90 - 40
+   \]
+   \[
+   B = 50
+   \]
+   So, Betty is 50 years old.
+
+3. Next, the problem states that twice Betty's age is the cost of a pack of nuts. Therefore, we can express the cost of one pack of nuts as:
+   \[
+   \text{Cost of one pack} = 2B
+   \]
+   Substituting \( B \) with 50:
+   \[
+   \text{Cost of one pack} = 2 \times 50 = 100
+   \]
+   So, one pack of nuts costs $100.
+
+4. Now, Betty wants to buy 20 packs of nuts. To find out the total cost, we multiply the cost of one pack by the number of packs:
+   \[
+   \text{Total cost} = 20 \times \text{Cost of one pack}
+   \]
+   Substituting the value we found for the cost of one pack:
+   \[
+   \text{Total cost} = 20 \times 100 = 2000
+   \]
+
+Therefore, Betty will pay a total of $2000 for the 20 packs of nuts.
+</reasoning>
+<answer>2000</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Initial Chips Eaten**: Marnie starts with a bag containing 100 chips. On the first day, she eats 5 chips to test them, and then she eats 5 more because she likes them. So, the total number of chips she eats on the first day is:
+   \[
+   5 + 5 = 10 \text{ chips}
+   \]
+
+2. **Chips Remaining After Day 1**: After eating 10 chips on the first day, we need to find out how many chips are left in the bag. We subtract the chips eaten from the total:
+   \[
+   100 - 10 = 90 \text{ chips remaining}
+   \]
+
+3. **Daily Consumption Starting Day 2**: From the second day onward, Marnie eats 10 chips each day. We need to determine how many days it will take her to finish the remaining 90 chips.
+
+4. **Calculating Days to Finish Remaining Chips**: We can calculate how many full days it will take to eat the remaining 90 chips at a rate of 10 chips per day:
+   \[
+   \text{Days} = \frac{\text{Remaining chips}}{\text{Chips eaten per day}} = \frac{90}{10} = 9 \text{ days}
+   \]
+
+5. **Total Days**: Since Marnie already ate chips on the first day, we need to add that to the 9 days it takes to eat the remaining chips:
+   \[
+   \text{Total days} = 1 \text{ (Day 1)} + 9 \text{ (Day 2 to Day 10)} = 10 \text{ days}
+   \]
+
+Thus, it takes Marnie a total of 10 days to eat the whole bag of chips.
+</reasoning>
+<answer>10</answer>

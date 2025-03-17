@@ -1,0 +1,35 @@
+<reasoning>
+First, let's determine how many onions Brittney and Carl can each chop in one minute.
+
+1. **Calculate Brittney's rate:**
+   Brittney can chop 15 onions in 5 minutes. To find her rate per minute, we divide the number of onions by the time in minutes:
+   \[
+   \text{Brittney's rate} = \frac{15 \text{ onions}}{5 \text{ minutes}} = 3 \text{ onions per minute}
+   \]
+
+2. **Calculate Carl's rate:**
+   Similarly, Carl can chop 20 onions in 5 minutes. We divide the number of onions by the time in minutes to find his rate:
+   \[
+   \text{Carl's rate} = \frac{20 \text{ onions}}{5 \text{ minutes}} = 4 \text{ onions per minute}
+   \]
+
+3. **Calculate how many onions each can chop in 30 minutes:**
+   Now we will calculate how many onions each can chop in 30 minutes by multiplying their rate by 30:
+   - For Brittney:
+   \[
+   \text{Brittney's onions in 30 minutes} = 3 \text{ onions/minute} \times 30 \text{ minutes} = 90 \text{ onions}
+   \]
+   - For Carl:
+   \[
+   \text{Carl's onions in 30 minutes} = 4 \text{ onions/minute} \times 30 \text{ minutes} = 120 \text{ onions}
+   \]
+
+4. **Find the difference in the number of onions chopped:**
+   Now, we need to find out how many more onions Carl can chop than Brittney in 30 minutes:
+   \[
+   \text{Difference} = \text{Carl's onions} - \text{Brittney's onions} = 120 \text{ onions} - 90 \text{ onions} = 30 \text{ onions}
+   \]
+
+Therefore, Carl can chop 30 more onions than Brittney in 30 minutes.
+</reasoning>
+<answer>30</answer>

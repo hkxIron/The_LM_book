@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many wheels Tommy saw, we need to calculate the total number of wheels from both the trucks and the cars he observed.
+
+1. **Calculate the number of wheels from the trucks:**
+   - Each truck has 4 wheels.
+   - Tommy saw 12 trucks.
+   - So, we multiply the number of trucks by the number of wheels per truck:
+     \[
+     12 \text{ trucks} \times 4 \text{ wheels/truck} = 48 \text{ wheels from trucks}
+     \]
+
+2. **Calculate the number of wheels from the cars:**
+   - Each car also has 4 wheels.
+   - Tommy saw 13 cars.
+   - We will use the same multiplication for the cars:
+     \[
+     13 \text{ cars} \times 4 \text{ wheels/car} = 52 \text{ wheels from cars}
+     \]
+
+3. **Add the total number of wheels from trucks and cars:**
+   - Now we add the wheels from the trucks and the wheels from the cars together:
+     \[
+     48 \text{ wheels from trucks} + 52 \text{ wheels from cars} = 100 \text{ total wheels}
+     \]
+
+Therefore, the total number of wheels that Tommy saw during his run is 100.
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Attendance on Saturday**: 
+   - We know there were 80 people at the game on Saturday.
+   - So, Saturday's attendance = 80.
+
+2. **Attendance on Monday**:
+   - It says there were 20 fewer people on Monday than Saturday.
+   - Therefore, Monday's attendance = 80 - 20 = 60.
+
+3. **Attendance on Wednesday**:
+   - On Wednesday, there were 50 more people than on Monday.
+   - Hence, Wednesday's attendance = 60 + 50 = 110.
+
+4. **Attendance on Friday**:
+   - On Friday, the attendance was the same as the total of Saturday and Monday combined.
+   - Total attendance for Saturday and Monday = 80 + 60 = 140.
+   - Therefore, Friday's attendance = 140.
+
+5. **Calculating the total attendance for the week**:
+   - Now we sum up the attendance from all the days: 
+   - Total attendance = Saturday + Monday + Wednesday + Friday
+   - Total attendance = 80 + 60 + 110 + 140.
+   - Let's calculate this step:
+     - 80 + 60 = 140
+     - 140 + 110 = 250
+     - 250 + 140 = 390
+
+6. **Expected total audience**:
+   - The expected total audience at the football game for a week is given as 350.
+
+7. **Finding the difference**:
+   - We need to find how many more people attended the games than they had expected.
+   - So, we subtract the expected audience from the actual total attendance:
+   - Difference = Actual Attendance - Expected Attendance = 390 - 350.
+
+8. **Calculating the difference**:
+   - 390 - 350 = 40.
+
+Therefore, the total number of people who attended the games this week exceeded the expected total by 40.
+</reasoning>
+<answer>40</answer>

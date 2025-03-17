@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we need to determine how much time Malcolm spends brushing his teeth in total over 30 days.
+
+1. **Calculate daily brushing time:**
+   - Malcolm brushes his teeth 3 times a day (after breakfast, lunch, and dinner).
+   - Each brushing session lasts for 2 minutes.
+   - So, the total time he brushes in one day is:
+     \[
+     3 \text{ times} \times 2 \text{ minutes} = 6 \text{ minutes}
+     \]
+
+2. **Calculate total brushing time over 30 days:**
+   - Now, we need to find out how many minutes he spends brushing over 30 days:
+     \[
+     30 \text{ days} \times 6 \text{ minutes/day} = 180 \text{ minutes}
+     \]
+
+3. **Convert minutes to hours:**
+   - Since there are 60 minutes in an hour, we need to convert 180 minutes to hours:
+     \[
+     \frac{180 \text{ minutes}}{60 \text{ minutes/hour}} = 3 \text{ hours}
+     \]
+
+Thus, after calculating the total time Malcolm spends brushing his teeth over 30 days, we find that he spends 3 hours brushing his teeth in total.
+</reasoning>
+<answer>3</answer>

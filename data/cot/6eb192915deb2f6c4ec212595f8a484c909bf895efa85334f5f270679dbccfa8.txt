@@ -1,0 +1,57 @@
+<reasoning>
+To solve the problem, we will break it down step by step.
+
+1. **Identify the amount Lisa has saved**: Lisa has saved $1200.
+
+2. **Calculate how much her mother gave her**: Her mother gave her 3/5 of what she had saved. 
+   - We calculate this as follows:
+   \[
+   \text{Amount from mother} = \frac{3}{5} \times 1200
+   \]
+   - Performing the multiplication:
+   \[
+   \frac{3}{5} \times 1200 = 720
+   \]
+   So, her mother gave her $720.
+
+3. **Calculate how much her brother gave her**: Her brother gave her twice the amount her mother gave her. 
+   - We calculate this as follows:
+   \[
+   \text{Amount from brother} = 2 \times 720
+   \]
+   - Performing the multiplication:
+   \[
+   2 \times 720 = 1440
+   \]
+   So, her brother gave her $1440.
+
+4. **Calculate the total amount Lisa has now**: We will add the amounts Lisa had saved, her mother’s contribution, and her brother’s contribution.
+   - Total amount:
+   \[
+   \text{Total amount} = 1200 + 720 + 1440
+   \]
+   - Performing the addition:
+   \[
+   1200 + 720 = 1920
+   \]
+   \[
+   1920 + 1440 = 3360
+   \]
+   So, Lisa now has $3360.
+
+5. **Determine the price of the gift**: The problem states that Lisa still has $400 less than the total amount needed for the gift. 
+   - Let \( P \) be the price of the gift. According to the problem:
+   \[
+   P = \text{Total amount} + 400
+   \]
+   - We substitute the total amount we found:
+   \[
+   P = 3360 + 400
+   \]
+   - Performing the addition:
+   \[
+   3360 + 400 = 3760
+   \]
+   Therefore, the price of the gift Lisa wants to buy is $3760.
+</reasoning>
+<answer>3760</answer>

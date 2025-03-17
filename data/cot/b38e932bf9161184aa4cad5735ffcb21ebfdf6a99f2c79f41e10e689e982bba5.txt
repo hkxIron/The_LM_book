@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, let's define the amount Porter made from selling his previous painting as \( x \).
+
+According to the problem, the selling price of the recent painting is $1000 less than five times the amount he made on his previous painting. This can be expressed mathematically as:
+
+\[
+\text{Selling Price of Recent Painting} = 5x - 1000
+\]
+
+We also know that he sold the recent painting for $44,000. Therefore, we can set up the following equation:
+
+\[
+5x - 1000 = 44000
+\]
+
+Now, let's solve for \( x \) step by step:
+
+1. **Add 1000 to both sides of the equation** to isolate the term with \( x \):
+   \[
+   5x - 1000 + 1000 = 44000 + 1000
+   \]
+   This simplifies to:
+   \[
+   5x = 45000
+   \]
+
+2. **Now, divide both sides by 5** to solve for \( x \):
+   \[
+   x = \frac{45000}{5}
+   \]
+   Performing the division gives:
+   \[
+   x = 9000
+   \]
+
+Thus, Porter made $9,000 for selling his previous painting.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>9000</answer>

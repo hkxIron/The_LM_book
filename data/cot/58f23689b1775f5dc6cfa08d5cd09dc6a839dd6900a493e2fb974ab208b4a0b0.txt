@@ -1,0 +1,35 @@
+<reasoning>
+Let's denote the number of books Tracy collected in the first week as \( x \).
+
+1. In the first week, she collects \( x \) books.
+2. In the next five weeks, she collects ten times as many books as she did in the first week. Therefore, the number of books she collects in the next five weeks is \( 10x \).
+
+Now we can express the total number of books she has after these six weeks:
+- Total books = books collected in the first week + books collected in the next five weeks
+- Total books = \( x + 10x \)
+
+This simplifies to:
+\[ 
+x + 10x = 11x 
+\]
+
+3. According to the problem, the total number of books she has now is 99. Therefore, we can set up the equation:
+\[ 
+11x = 99 
+\]
+
+4. To find \( x \), we will divide both sides of the equation by 11:
+\[ 
+x = \frac{99}{11} 
+\]
+
+5. Now calculate the right side:
+\[ 
+x = 9 
+\]
+
+This means that Tracy collected 9 books in the first week. 
+
+Therefore, the number of books she collected in the first week is:
+</reasoning>
+<answer>9</answer>

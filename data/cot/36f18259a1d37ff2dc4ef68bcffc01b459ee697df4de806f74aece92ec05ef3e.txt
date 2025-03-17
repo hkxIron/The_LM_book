@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total cost of the chocolates**: Romeo buys 5 bars of chocolate at $5 each.
+   - The cost for one bar of chocolate is $5.
+   - Therefore, the total cost for 5 bars is calculated as follows:
+     \[
+     \text{Total Cost of Chocolates} = 5 \text{ bars} \times 5 \text{ dollars/bar} = 25 \text{ dollars}
+     \]
+
+2. **Calculate the total cost of the packaging**: Romeo spends $2 on packaging material for each bar.
+   - The cost for packaging one bar is $2.
+   - Therefore, the total cost for packaging 5 bars is:
+     \[
+     \text{Total Cost of Packaging} = 5 \text{ bars} \times 2 \text{ dollars/bar} = 10 \text{ dollars}
+     \]
+
+3. **Calculate the total cost incurred by Romeo**: Now we need to find the total cost by adding the cost of the chocolates and the cost of the packaging.
+   - Total cost incurred = Cost of chocolates + Cost of packaging
+   \[
+   \text{Total Cost} = 25 \text{ dollars} + 10 \text{ dollars} = 35 \text{ dollars}
+   \]
+
+4. **Calculate the total revenue from selling the chocolates**: Romeo sells the chocolates for a total of $90.
+   - Total revenue from selling chocolates = $90
+
+5. **Calculate the profit**: Profit is calculated by subtracting the total cost from the total revenue.
+   - Profit = Total Revenue - Total Cost
+   \[
+   \text{Profit} = 90 \text{ dollars} - 35 \text{ dollars} = 55 \text{ dollars}
+   \]
+
+Therefore, after calculating all the costs and the revenue, we find that Romeo's profit from selling the chocolates is:
+</reasoning>
+<answer>55</answer>

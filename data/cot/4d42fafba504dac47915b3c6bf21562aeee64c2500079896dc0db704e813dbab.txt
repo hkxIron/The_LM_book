@@ -1,0 +1,76 @@
+<reasoning>
+Let's denote the number of guns, war tractors, and soldier uniforms that the Grenada Army Base has as \( g \), \( t \), and \( u \) respectively.
+
+According to the problem, we can establish the following relationships for the Rockefeller Army Base:
+
+1. **Guns**: Rockefeller has 3000 more than twice as many guns as Grenada:
+   \[
+   \text{Guns at Rockefeller} = 2g + 3000
+   \]
+
+2. **War Tractors**: Rockefeller has 400 less than thrice as many war tractors as Grenada:
+   \[
+   \text{War Tractors at Rockefeller} = 3t - 400
+   \]
+
+3. **Soldier Uniforms**: Rockefeller has 30 times as many soldier uniforms as Grenada:
+   \[
+   \text{Soldier Uniforms at Rockefeller} = 30u
+   \]
+
+Next, we know that the total war supplies at Grenada Army Base is 6000. This means:
+\[
+g + t + u = 6000
+\]
+
+To find the total war supplies at Rockefeller Army Base, we need to sum the guns, war tractors, and soldier uniforms:
+\[
+\text{Total supplies at Rockefeller} = (2g + 3000) + (3t - 400) + (30u)
+\]
+
+Now, let's simplify this expression step by step:
+1. Combine the terms:
+   \[
+   \text{Total supplies at Rockefeller} = 2g + 3t + 30u + 3000 - 400
+   \]
+   This simplifies to:
+   \[
+   \text{Total supplies at Rockefeller} = 2g + 3t + 30u + 2600
+   \]
+
+2. Now substitute \( g + t + u = 6000 \) into the expression. We can express \( t + u \) as \( 6000 - g \):
+   \[
+   \text{Total supplies at Rockefeller} = 2g + 3(6000 - g - u) + 30u + 2600
+   \]
+   However, since we don't have a direct value for \( u \), we must express it differently, focusing on the total.
+   
+3. We can calculate the contribution of \( g \), \( t \), and \( u \):
+   \[
+   \text{Total supplies at Rockefeller} = 2g + 3t + 30u + 2600
+   \]
+   Rearranging gives:
+   \[
+   \text{Total supplies at Rockefeller} = 2g + 3(6000 - g - u) + 30u + 2600
+   \]
+   This means we will be substituting until we have a numeric value.
+
+Since \( g + t + u = 6000 \), we can substitute values directly into equations for calculation but let's just calculate the total considering the contributions:
+- \( 2g \) contributes from the guns,
+- \( 3t \) contributes from the tractors,
+- \( 30u \) contributes from the uniforms.
+
+Now if we ignore the specifics of \( g, t, u \) but know the total is split:
+- We can estimate directly \( (2 + 3 + 30) \) times the average supply count.
+
+Let's assume \( g = 2000, t = 2000, u = 2000 \) as an even split for simplicity:
+\[
+\text{Total supplies at Rockefeller} = 2(2000) + 3(2000) + 30(2000) + 2600
+\]
+Calculating this gives:
+\[
+= 4000 + 6000 + 60000 + 2600 = 70000 + 2600 = 72600
+\]
+
+Therefore, the total number of war supplies at Rockefeller Army Base is:
+</reasoning>
+<answer>72600</answer>

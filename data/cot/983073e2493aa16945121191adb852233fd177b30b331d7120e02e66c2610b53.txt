@@ -1,0 +1,40 @@
+<reasoning>
+To determine how many students Monica sees each day, we need to calculate the total number of students in each of her 6 classes and then sum those amounts.
+
+1. **First Class**: The first class has 20 students.
+   - Students in the first class = 20
+
+2. **Second Class**: The second class has 25 students.
+   - Students in the second class = 25
+
+3. **Third Class**: The third class also has 25 students.
+   - Students in the third class = 25
+
+4. **Fourth Class**: The fourth class has half as many students as the first class. Since the first class has 20 students, half of that is:
+   - Students in the fourth class = 20 / 2 = 10
+
+5. **Fifth Class**: The fifth class has 28 students.
+   - Students in the fifth class = 28
+
+6. **Sixth Class**: The sixth class also has 28 students.
+   - Students in the sixth class = 28
+
+Now, we will sum up the number of students in all classes:
+
+- Total students = (Students in first class) + (Students in second class) + (Students in third class) + (Students in fourth class) + (Students in fifth class) + (Students in sixth class)
+
+Calculating this:
+
+Total students = 20 + 25 + 25 + 10 + 28 + 28
+
+Now, let's do the addition step by step:
+
+- 20 + 25 = 45
+- 45 + 25 = 70
+- 70 + 10 = 80
+- 80 + 28 = 108
+- 108 + 28 = 136
+
+Therefore, the total number of students Monica sees each day is 136.
+</reasoning>
+<answer>136</answer>

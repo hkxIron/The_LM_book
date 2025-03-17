@@ -1,0 +1,48 @@
+<reasoning>
+To solve the problem, we will break it down into manageable steps. 
+
+1. **Determine the number of floors that are full and at half-capacity**: 
+   - The building has a total of 12 floors.
+   - Half of the floors are full, which means:
+     \[
+     \text{Full floors} = \frac{12}{2} = 6 \text{ floors}
+     \]
+   - The remaining floors, which are not full, are:
+     \[
+     \text{Remaining floors} = 12 - 6 = 6 \text{ floors}
+     \]
+
+2. **Calculate the number of apartments on each type of floor**:
+   - Each floor has 10 apartments.
+
+3. **Calculate the total number of apartments on full floors**:
+   - Since there are 6 full floors:
+     \[
+     \text{Apartments on full floors} = 6 \text{ floors} \times 10 \text{ apartments/floor} = 60 \text{ apartments}
+     \]
+
+4. **Calculate the total number of apartments on half-capacity floors**:
+   - Since the remaining 6 floors are at half-capacity, each of these floors has:
+     \[
+     \text{Apartments at half-capacity} = 10 \text{ apartments} \times \frac{1}{2} = 5 \text{ occupied apartments per floor}
+     \]
+   - Therefore, the total number of occupied apartments on these half-capacity floors is:
+     \[
+     \text{Apartments on half-capacity floors} = 6 \text{ floors} \times 5 \text{ apartments/floor} = 30 \text{ apartments}
+     \]
+
+5. **Calculate the total number of apartments in the building**:
+   - Adding the apartments from full floors and half-capacity floors gives:
+     \[
+     \text{Total apartments} = 60 \text{ apartments (full)} + 30 \text{ apartments (half-capacity)} = 90 \text{ apartments}
+     \]
+
+6. **Calculate the total number of people in the building**:
+   - Each apartment has 4 people living in it. Thus, the total number of people is:
+     \[
+     \text{Total people} = 90 \text{ apartments} \times 4 \text{ people/apartment} = 360 \text{ people}
+     \]
+
+Now that we have gone through all the steps, we can conclude that the total number of people in the building is:
+</reasoning>
+<answer>360</answer>

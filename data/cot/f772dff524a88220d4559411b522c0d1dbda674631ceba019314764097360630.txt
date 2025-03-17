@@ -1,0 +1,19 @@
+<reasoning>
+To find out how far the gym is from Anthony's apartment, we start by determining half the distance from his apartment to work.
+
+1. The distance from Anthony's apartment to work is given as 10 miles. 
+2. To find half of this distance, we divide by 2:
+   \[
+   \text{Half the distance} = \frac{10 \text{ miles}}{2} = 5 \text{ miles}
+   \]
+
+Next, we need to calculate how far the gym is from his apartment. The problem states that the gym is 2 miles more than this half distance.
+
+3. Now, we add 2 miles to half the distance:
+   \[
+   \text{Distance to the gym} = 5 \text{ miles} + 2 \text{ miles} = 7 \text{ miles}
+   \]
+
+Therefore, the gym is 7 miles away from Anthony's apartment.
+</reasoning>
+<answer>7</answer>

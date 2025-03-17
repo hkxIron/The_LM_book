@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Identify the number of red chairs**: 
+   We know from the problem that there are 5 red chairs in Susan's house.
+
+2. **Calculate the number of yellow chairs**: 
+   The problem states that there are 4 times as many yellow chairs as red chairs. Since there are 5 red chairs, we can calculate the number of yellow chairs as follows:
+   \[
+   \text{Number of yellow chairs} = 4 \times \text{Number of red chairs} = 4 \times 5 = 20
+   \]
+
+3. **Calculate the number of blue chairs**: 
+   The problem also states that there are 2 fewer blue chairs than yellow chairs. Since we just calculated that there are 20 yellow chairs, we can calculate the number of blue chairs as follows:
+   \[
+   \text{Number of blue chairs} = \text{Number of yellow chairs} - 2 = 20 - 2 = 18
+   \]
+
+4. **Calculate the total number of chairs**: 
+   Now that we have the number of red, yellow, and blue chairs, we can find the total number of chairs by adding these amounts together:
+   \[
+   \text{Total chairs} = \text{Number of red chairs} + \text{Number of yellow chairs} + \text{Number of blue chairs} = 5 + 20 + 18
+   \]
+   Now, we perform the addition:
+   \[
+   5 + 20 = 25
+   \]
+   Then, 
+   \[
+   25 + 18 = 43
+   \]
+
+Therefore, the total number of chairs in Susan's house is 43.
+</reasoning>
+<answer>43</answer>

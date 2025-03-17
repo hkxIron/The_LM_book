@@ -1,0 +1,48 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Identify the scores Teresa received in each subject:**
+   - Science: 70 marks
+   - Music: 80 marks
+   - Social Studies: 85 marks
+   - Physics: Since she scored half as many marks in Physics as she did in Music, we will calculate that next.
+
+2. **Calculate the marks in Physics:**
+   - Teresa scored half of her Music score in Physics. Since she scored 80 marks in Music, we can calculate her Physics score as follows:
+   \[
+   \text{Physics score} = \frac{80}{2} = 40 \text{ marks}
+   \]
+
+3. **Now, we have all the scores:**
+   - Science: 70 marks
+   - Music: 80 marks
+   - Social Studies: 85 marks
+   - Physics: 40 marks
+
+4. **Calculate the total marks by adding all the scores together:**
+   \[
+   \text{Total marks} = \text{Science} + \text{Music} + \text{Social Studies} + \text{Physics}
+   \]
+   \[
+   \text{Total marks} = 70 + 80 + 85 + 40
+   \]
+
+5. **Perform the addition step by step:**
+   - First, add Science and Music:
+   \[
+   70 + 80 = 150
+   \]
+   - Next, add Social Studies:
+   \[
+   150 + 85 = 235
+   \]
+   - Finally, add Physics:
+   \[
+   235 + 40 = 275
+   \]
+
+Thus, the total marks Teresa scored in all subjects is 275.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>275</answer>

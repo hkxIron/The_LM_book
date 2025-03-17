@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many dollars more the adults' tickets cost in total than the children's tickets, we will follow these steps:
+
+1. **Calculate the total cost of the adult tickets.**
+   - We have 9 adults and each adult ticket costs $11.
+   - The total cost for the adult tickets is calculated as follows:
+     \[
+     \text{Total cost for adults} = \text{Number of adults} \times \text{Cost per adult ticket} = 9 \times 11
+     \]
+   - Performing the multiplication:
+     \[
+     9 \times 11 = 99
+     \]
+   - Thus, the total cost for the adult tickets is $99.
+
+2. **Calculate the total cost of the children's tickets.**
+   - We have 7 children and each children's ticket costs $7.
+   - The total cost for the children's tickets is calculated as follows:
+     \[
+     \text{Total cost for children} = \text{Number of children} \times \text{Cost per children's ticket} = 7 \times 7
+     \]
+   - Performing the multiplication:
+     \[
+     7 \times 7 = 49
+     \]
+   - Thus, the total cost for the children's tickets is $49.
+
+3. **Determine how many dollars more the adults' tickets cost than the children's tickets.**
+   - We find the difference between the total cost of the adult tickets and the total cost of the children's tickets:
+     \[
+     \text{Difference} = \text{Total cost for adults} - \text{Total cost for children} = 99 - 49
+     \]
+   - Performing the subtraction:
+     \[
+     99 - 49 = 50
+     \]
+   - Therefore, the adults' tickets cost $50 more than the children's tickets.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we need to calculate the total number of units in the condo by considering both the regular and penthouse floors.
+
+1. **Identify the total number of floors**: The condo has 23 floors in total.
+
+2. **Determine the number of penthouse floors**: It is stated that the top 2 floors are assigned for penthouse units. Therefore, there are 2 penthouse floors.
+
+3. **Calculate the number of regular floors**: Since there are 23 total floors and 2 are penthouse floors, the number of regular floors is:
+   \[
+   23 - 2 = 21 \text{ regular floors}
+   \]
+
+4. **Calculate the number of units on the regular floors**: Each regular floor has 12 units. Thus, the total number of units on the regular floors is:
+   \[
+   21 \text{ floors} \times 12 \text{ units/floor} = 252 \text{ units}
+   \]
+
+5. **Calculate the number of units on the penthouse floors**: Each penthouse floor has 2 units. Therefore, the total number of units on the penthouse floors is:
+   \[
+   2 \text{ floors} \times 2 \text{ units/floor} = 4 \text{ units}
+   \]
+
+6. **Add the total units from both regular and penthouse floors**: To find the total number of units in the condo, we add the units from the regular floors and the penthouse floors:
+   \[
+   252 \text{ units (regular)} + 4 \text{ units (penthouse)} = 256 \text{ units}
+   \]
+
+Thus, the total number of units in the condo is 256.
+</reasoning>
+<answer>256</answer>

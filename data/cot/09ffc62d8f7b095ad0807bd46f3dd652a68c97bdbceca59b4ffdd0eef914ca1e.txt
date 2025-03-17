@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we need to determine the weights of each contestant's pumpkin and then find the difference between the heaviest and lightest pumpkins.
+
+1. **Determine Jessica's pumpkin weight:**
+   - Brad's pumpkin weighs 54 pounds.
+   - Jessica's pumpkin is half the weight of Brad's.
+   - To find Jessica's weight, we calculate:
+     \[
+     \text{Jessica's weight} = \frac{54}{2} = 27 \text{ pounds}
+     \]
+
+2. **Determine Betty's pumpkin weight:**
+   - Betty's pumpkin weighs 4 times the amount of Jessica's pumpkin.
+   - To find Betty's weight, we calculate:
+     \[
+     \text{Betty's weight} = 4 \times 27 = 108 \text{ pounds}
+     \]
+
+3. **Identify the weights of all the pumpkins:**
+   - Brad's pumpkin: 54 pounds
+   - Jessica's pumpkin: 27 pounds
+   - Betty's pumpkin: 108 pounds
+
+4. **Find the heaviest and lightest pumpkins:**
+   - The heaviest pumpkin is Betty's at 108 pounds.
+   - The lightest pumpkin is Jessica's at 27 pounds.
+
+5. **Calculate the difference between the heaviest and lightest pumpkin:**
+   - The difference is calculated by subtracting the lightest weight from the heaviest weight:
+     \[
+     \text{Difference} = 108 - 27 = 81 \text{ pounds}
+     \]
+
+Therefore, the difference between the heaviest and lightest pumpkin is 81 pounds.
+</reasoning>
+<answer>81</answer>

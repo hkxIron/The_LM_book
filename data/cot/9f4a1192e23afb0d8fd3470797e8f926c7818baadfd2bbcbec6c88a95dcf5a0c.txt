@@ -1,0 +1,33 @@
+<reasoning>
+To determine how much money Mary has left after her purchases, we'll follow the steps methodically.
+
+1. **Initial Amount**: Mary starts with $100.
+
+2. **Amount Spent on Video Game**: 
+   - She spends a quarter of her initial amount on a video game. 
+   - To find a quarter of $100, we calculate:
+     \[
+     \text{Amount spent on video game} = \frac{1}{4} \times 100 = 25
+     \]
+   - After this purchase, the amount of money she has left is:
+     \[
+     \text{Amount left} = 100 - 25 = 75
+     \]
+
+3. **Amount Spent on Swimming Goggles**:
+   - Next, she spends a fifth of what is left on swimming goggles.
+   - The amount left after buying the video game is $75. Now, we find a fifth of $75:
+     \[
+     \text{Amount spent on swimming goggles} = \frac{1}{5} \times 75 = 15
+     \]
+   - After this purchase, the amount of money she has left is:
+     \[
+     \text{Amount left} = 75 - 15 = 60
+     \]
+
+4. **Final Calculation**: 
+   - After making both purchases, we have calculated that Mary has $60 remaining.
+
+Therefore, after spending her money on the video game and the swimming goggles, Mary has:
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,51 @@
+<reasoning>
+To find out how much money the amusement park made overall in a week, we will break down the ticket sales for each day and then sum them up.
+
+1. **Calculate the daily sales from Monday to Friday**:
+   - There are 5 weekdays (Monday to Friday).
+   - Each of these days had 100 visitors.
+   - The ticket price is $3.
+
+   The earnings for each of these days is calculated as follows:
+   \[
+   \text{Earnings per day from Monday to Friday} = \text{Number of visitors} \times \text{Ticket price}
+   \]
+   \[
+   \text{Earnings per day} = 100 \times 3 = 300 \text{ dollars}
+   \]
+
+   Since there are 5 weekdays, the total earnings from these days is:
+   \[
+   \text{Total earnings from Monday to Friday} = 5 \times 300 = 1500 \text{ dollars}
+   \]
+
+2. **Calculate the sales for Saturday**:
+   - On Saturday, the park had 200 visitors.
+   - The ticket price is still $3.
+
+   The earnings for Saturday is:
+   \[
+   \text{Earnings on Saturday} = 200 \times 3 = 600 \text{ dollars}
+   \]
+
+3. **Calculate the sales for Sunday**:
+   - On Sunday, the park had 300 visitors.
+   - The ticket price remains $3.
+
+   The earnings for Sunday is:
+   \[
+   \text{Earnings on Sunday} = 300 \times 3 = 900 \text{ dollars}
+   \]
+
+4. **Add up all the earnings**:
+   Now we will sum up the earnings from all the days:
+   \[
+   \text{Total earnings for the week} = \text{Earnings from Monday to Friday} + \text{Earnings on Saturday} + \text{Earnings on Sunday}
+   \]
+   \[
+   \text{Total earnings} = 1500 + 600 + 900 = 3000 \text{ dollars}
+   \]
+
+Therefore, the total money made by the amusement park overall in a week is:
+</reasoning>
+<answer>3000</answer>

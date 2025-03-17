@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we first need to determine the monthly costs for both the 20 Mbps and 30 Mbps options based on the information given.
+
+1. **Determine the cost of 30 Mbps**:
+   - We know that the price of the 30 Mbps service is twice the amount of Marites' current monthly bill.
+   - Her current monthly bill is $20.
+   - Therefore, the cost of 30 Mbps = 2 * $20 = $40.
+
+2. **Determine the cost of 20 Mbps**:
+   - According to the problem, the price of the 20 Mbps service is $10 more than her current monthly bill.
+   - Her current monthly bill is $20.
+   - Therefore, the cost of 20 Mbps = $20 + $10 = $30.
+
+3. **Calculate the yearly cost for each option**:
+   - For the 20 Mbps option:
+     - Monthly cost = $30.
+     - Yearly cost = $30 * 12 months = $360.
+   - For the 30 Mbps option:
+     - Monthly cost = $40.
+     - Yearly cost = $40 * 12 months = $480.
+
+4. **Calculate the annual savings by choosing 20 Mbps over 30 Mbps**:
+   - We subtract the yearly cost of the 20 Mbps from the yearly cost of the 30 Mbps.
+   - Annual savings = Yearly cost of 30 Mbps - Yearly cost of 20 Mbps = $480 - $360 = $120.
+
+Therefore, if Marites chooses the 20 Mbps option instead of the 30 Mbps, she will save $120 per year.
+</reasoning>
+<answer>120</answer>

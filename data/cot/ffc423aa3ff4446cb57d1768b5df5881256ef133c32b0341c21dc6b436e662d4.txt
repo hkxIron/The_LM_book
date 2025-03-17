@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many miles Alice walks in a week, we need to calculate the total distance she walks each day and then multiply that by the number of days she walks.
+
+1. **Calculate the distance Alice walks each day:**
+   - In the morning, she walks 10 miles to school.
+   - In the afternoon, she walks 12 miles home from school.
+
+   So, the total distance Alice walks in one day is:
+   \[
+   10 \text{ miles (to school)} + 12 \text{ miles (home)} = 22 \text{ miles}
+   \]
+
+2. **Determine the number of days she walks:**
+   - Alice walks to school every Monday through Friday. This is a total of 5 days.
+
+3. **Calculate the total distance for the week:**
+   - To find the total distance for the week, we multiply the daily distance by the number of days:
+   \[
+   22 \text{ miles/day} \times 5 \text{ days} = 110 \text{ miles}
+   \]
+
+Therefore, after calculating the distances and taking into account the number of days, Alice will have walked a total of 110 miles by the end of the week.
+</reasoning>
+<answer>110</answer>

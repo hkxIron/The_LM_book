@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the total amount of money Shara borrowed.**  
+   Since she returned $10 per month for 6 months, we can calculate how much she has returned in total.  
+   \[
+   \text{Total returned} = 10 \, \text{dollars/month} \times 6 \, \text{months} = 60 \, \text{dollars}
+   \]
+
+2. **Calculate the amount she borrowed.**  
+   According to the problem, Shara has returned half of the money she borrowed. Let \( x \) be the total amount borrowed. Then, we have:  
+   \[
+   \frac{x}{2} = 60 \, \text{dollars}
+   \]  
+   To find \( x \), we can multiply both sides by 2:  
+   \[
+   x = 60 \times 2 = 120 \, \text{dollars}
+   \]
+
+3. **Determine how much she still owes.**  
+   Since she borrowed $120 and has returned $60, the amount she still owes is:  
+   \[
+   \text{Amount owed} = x - \text{Total returned} = 120 - 60 = 60 \, \text{dollars}
+   \]
+
+4. **Calculate how much she will owe in 4 months.**  
+   If she continues to return $10 per month for the next 4 months, she will return a total of:  
+   \[
+   \text{Total return in 4 months} = 10 \, \text{dollars/month} \times 4 \, \text{months} = 40 \, \text{dollars}
+   \]  
+   Now, we can find out how much she will owe after these 4 months:  
+   \[
+   \text{Remaining amount owed} = \text{Current amount owed} - \text{Total return in 4 months} = 60 - 40 = 20 \, \text{dollars}
+   \]
+
+Finally, after following these steps, we conclude that Shara will still owe her brother:
+</reasoning>
+<answer>20</answer>

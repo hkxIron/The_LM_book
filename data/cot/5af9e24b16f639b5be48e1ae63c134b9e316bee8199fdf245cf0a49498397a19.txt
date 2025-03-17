@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many cars can be accommodated by the parking garage, let's calculate the number of parking spaces on each level step by step.
+
+1. **First Level**: We know from the problem statement that there are 90 parking spaces on the first level.
+   - Parking spaces on Level 1 = 90
+
+2. **Second Level**: The second level has 8 more parking spaces than the first level. So, we'll add 8 to the number of spaces on the first level.
+   - Parking spaces on Level 2 = 90 + 8 = 98
+
+3. **Third Level**: The third level has 12 more parking spaces than the second level. We will add 12 to the number of spaces on the second level.
+   - Parking spaces on Level 3 = 98 + 12 = 110
+
+4. **Fourth Level**: The fourth level has 9 fewer parking spaces than the third level. Therefore, we subtract 9 from the number of spaces on the third level.
+   - Parking spaces on Level 4 = 110 - 9 = 101
+
+Now that we have calculated the number of parking spaces on each level, let's find the total number of parking spaces in the garage.
+
+5. **Total Parking Spaces**: We will add the number of spaces from each level together.
+   - Total parking spaces = Parking spaces on Level 1 + Parking spaces on Level 2 + Parking spaces on Level 3 + Parking spaces on Level 4
+   - Total parking spaces = 90 + 98 + 110 + 101 = 399
+
+6. **Cars Already Parked**: The problem states that 100 cars are already parked in the garage.
+   - Cars already parked = 100
+
+7. **Available Spaces**: To find out how many additional cars can be accommodated, we subtract the number of cars already parked from the total number of parking spaces.
+   - Available spaces = Total parking spaces - Cars already parked
+   - Available spaces = 399 - 100 = 299
+
+Therefore, the parking garage can accommodate 299 more cars.
+</reasoning>
+<answer>299</answer>

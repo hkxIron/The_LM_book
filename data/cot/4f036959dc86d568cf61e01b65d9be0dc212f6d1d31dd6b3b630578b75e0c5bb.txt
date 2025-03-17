@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Identify how many pebbles Candy threw.**
+   According to the problem, Candy threw 4 pebbles.
+
+2. **Calculate how many pebbles Lance threw.**
+   The problem states that Lance throws in 3 times as many pebbles as Candy. Since Candy threw 4 pebbles, we can calculate the number of pebbles Lance threw by multiplying:
+   \[
+   \text{Lance's pebbles} = 3 \times \text{Candy's pebbles} = 3 \times 4
+   \]
+   Performing the multiplication:
+   \[
+   3 \times 4 = 12
+   \]
+   So, Lance threw 12 pebbles.
+
+3. **Determine how many more pebbles Lance threw compared to Candy.**
+   To find out how many more pebbles Lance threw than Candy, we subtract the number of pebbles Candy threw from the number of pebbles Lance threw:
+   \[
+   \text{Difference} = \text{Lance's pebbles} - \text{Candy's pebbles} = 12 - 4
+   \]
+   Performing the subtraction:
+   \[
+   12 - 4 = 8
+   \]
+
+Therefore, Lance threw 8 more pebbles than Candy.
+</reasoning>
+<answer>8</answer>

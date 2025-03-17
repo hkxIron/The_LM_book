@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much money Randy will have in his piggy bank after a year, we need to follow these steps:
+
+1. **Calculate the total amount Randy spends in a month**:
+   - Randy spends $2 each time he goes to the store.
+   - He makes 4 trips to the store every month.
+   - Therefore, the total spending in a month can be calculated as:
+     \[
+     \text{Monthly Spending} = \text{Cost per trip} \times \text{Number of trips} = 2 \times 4 = 8 \text{ dollars}
+     \]
+
+2. **Calculate the total amount he spends in a year**:
+   - There are 12 months in a year.
+   - To find out how much he spends in a year, we multiply his monthly spending by 12:
+     \[
+     \text{Yearly Spending} = \text{Monthly Spending} \times 12 = 8 \times 12 = 96 \text{ dollars}
+     \]
+
+3. **Calculate how much money will be left in his piggy bank after a year**:
+   - Randy starts with $200 in his piggy bank.
+   - After spending $96 in a year, the amount left can be calculated as:
+     \[
+     \text{Amount left} = \text{Starting amount} - \text{Yearly Spending} = 200 - 96 = 104 \text{ dollars}
+     \]
+
+Therefore, after calculating all the steps, Randy will have $104 remaining in his piggy bank after a year.
+</reasoning>
+<answer>104</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+To find the total amount of money Stefan and his family spend at the restaurant, we will follow these steps:
+
+1. **Calculate the cost of the appetizer**: The appetizer costs $10.
+   
+   Therefore, the cost of the appetizer is:
+   \[
+   \text{Appetizer Cost} = 10
+   \]
+
+2. **Calculate the cost of the entrees**: They ordered 4 entrees, each costing $20. We need to multiply the number of entrees by the cost of each entree.
+
+   Therefore, the cost of the entrees is:
+   \[
+   \text{Entrees Cost} = 4 \times 20 = 80
+   \]
+
+3. **Calculate the total cost before the tip**: Now, we add the cost of the appetizer and the cost of the entrees to find the total cost before the tip.
+
+   Therefore, the total cost before the tip is:
+   \[
+   \text{Total Cost Before Tip} = \text{Appetizer Cost} + \text{Entrees Cost} = 10 + 80 = 90
+   \]
+
+4. **Calculate the tip**: The tip is 20% of the total cost before the tip. To find 20%, we can multiply the total cost before the tip by 0.20.
+
+   Therefore, the tip is:
+   \[
+   \text{Tip} = 0.20 \times 90 = 18
+   \]
+
+5. **Calculate the total amount spent at the restaurant**: To find the total amount spent, we add the tip to the total cost before the tip.
+
+   Therefore, the total amount spent is:
+   \[
+   \text{Total Amount Spent} = \text{Total Cost Before Tip} + \text{Tip} = 90 + 18 = 108
+   \]
+
+By following these steps, we have calculated that Stefan and his family spent a total of $108 at the restaurant.
+</reasoning>
+<answer>108</answer>

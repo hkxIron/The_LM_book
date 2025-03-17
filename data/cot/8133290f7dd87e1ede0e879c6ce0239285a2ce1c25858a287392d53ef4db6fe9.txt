@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much was earned from the play, we need to follow these steps:
+
+1. **Calculate the total number of seats in the auditorium**:
+   The auditorium has 20 rows, and each row has 10 seats. To find the total number of seats, we multiply the number of rows by the number of seats per row:
+   \[
+   \text{Total seats} = \text{Number of rows} \times \text{Seats per row} = 20 \times 10 = 200
+   \]
+
+2. **Determine how many seats were sold**:
+   We know that only \( \frac{3}{4} \) of the seats were sold. To find the number of seats sold, we multiply the total number of seats by \( \frac{3}{4} \):
+   \[
+   \text{Seats sold} = \text{Total seats} \times \frac{3}{4} = 200 \times \frac{3}{4} = 150
+   \]
+
+3. **Calculate the total earnings from the tickets sold**:
+   Each ticket costs $10. To find the total earnings, we multiply the number of seats sold by the price of each ticket:
+   \[
+   \text{Total earnings} = \text{Seats sold} \times \text{Ticket price} = 150 \times 10 = 1500
+   \]
+
+Thus, the total amount earned from the play is $1500.
+</reasoning>
+<answer>1500</answer>

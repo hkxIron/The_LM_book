@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much Janet earns per hour, we first need to determine how many posts she can check in one hour.
+
+1. **Calculate the number of seconds in an hour**: 
+   - There are 60 seconds in a minute and 60 minutes in an hour. Therefore, the total number of seconds in an hour is:
+   \[
+   60 \, \text{seconds/minute} \times 60 \, \text{minutes/hour} = 3600 \, \text{seconds/hour}
+   \]
+
+2. **Determine how many posts she can check in one hour**: 
+   - Since it takes Janet 10 seconds to check each post, we can find out how many posts she can check in one hour by dividing the total seconds in an hour by the time it takes to check one post:
+   \[
+   \frac{3600 \, \text{seconds/hour}}{10 \, \text{seconds/post}} = 360 \, \text{posts/hour}
+   \]
+
+3. **Calculate her earnings per hour**: 
+   - Janet earns 25 cents per post. To find out how much she earns in an hour, we multiply the number of posts she checks in an hour by her earnings per post:
+   \[
+   360 \, \text{posts/hour} \times 0.25 \, \text{dollars/post} = 90 \, \text{dollars/hour}
+   \]
+
+Therefore, Janet earns $90 per hour for moderating social media posts.
+</reasoning>
+<answer>90</answer>

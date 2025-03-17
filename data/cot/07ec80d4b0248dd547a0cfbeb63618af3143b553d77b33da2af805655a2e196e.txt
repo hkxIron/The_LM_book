@@ -1,0 +1,35 @@
+<reasoning>
+Let's denote the number of boxes in the second warehouse as \( x \).
+
+According to the problem, the first warehouse has twice as many boxes as the second warehouse. This can be expressed mathematically as:
+\[
+\text{Number of boxes in the first warehouse} = 2x
+\]
+
+We are given that the first warehouse has 400 boxes. Therefore, we can set up the equation:
+\[
+2x = 400
+\]
+
+Now, we'll solve for \( x \) to find the number of boxes in the second warehouse. To do this, we divide both sides of the equation by 2:
+\[
+x = \frac{400}{2}
+\]
+\[
+x = 200
+\]
+
+Now that we know the second warehouse has 200 boxes, we can find the total number of boxes in both warehouses combined. We do this by adding the number of boxes in the first warehouse to the number of boxes in the second warehouse:
+\[
+\text{Total boxes} = \text{Boxes in the first warehouse} + \text{Boxes in the second warehouse}
+\]
+\[
+\text{Total boxes} = 400 + 200
+\]
+\[
+\text{Total boxes} = 600
+\]
+
+Therefore, the total number of boxes in both warehouses combined is 600.
+</reasoning>
+<answer>600</answer>

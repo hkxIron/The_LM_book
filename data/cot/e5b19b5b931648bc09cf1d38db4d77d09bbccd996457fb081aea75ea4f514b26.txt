@@ -1,0 +1,26 @@
+<reasoning>
+To find the circumference of Bill's head, we'll break the problem down step by step.
+
+1. **Find Charlie's head circumference**: 
+   - We know Jack's head circumference is 12 inches.
+   - Charlie's head circumference is given as 9 inches more than half the circumference of Jack's head.
+   - First, we calculate half of Jack's head circumference:
+     \[
+     \text{Half of Jack's circumference} = \frac{12}{2} = 6 \text{ inches}
+     \]
+   - Now, we add 9 inches to that half:
+     \[
+     \text{Charlie's circumference} = 6 + 9 = 15 \text{ inches}
+     \]
+
+2. **Find Bill's head circumference**:
+   - Bill's head circumference is 2/3 of Charlie's head circumference.
+   - We already found that Charlie's circumference is 15 inches.
+   - Now we calculate 2/3 of Charlie's circumference:
+     \[
+     \text{Bill's circumference} = \frac{2}{3} \times 15 = 10 \text{ inches}
+     \]
+
+Thus, after calculating both Charlie's and Bill's head circumferences, we find that Bill's head circumference is 10 inches.
+</reasoning>
+<answer>10</answer>

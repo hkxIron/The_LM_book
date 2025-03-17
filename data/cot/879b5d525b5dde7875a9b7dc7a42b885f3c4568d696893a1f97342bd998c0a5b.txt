@@ -1,0 +1,45 @@
+<reasoning>
+To find out how much John sells in a week, we will break the problem down into smaller steps:
+
+1. **Calculate the total number of houses visited in a week:**
+   John visits 50 houses each day and works 5 days a week. 
+   So, the total number of houses visited in a week is:
+   \[
+   50 \text{ houses/day} \times 5 \text{ days/week} = 250 \text{ houses/week}
+   \]
+
+2. **Find out how many of those houses make a purchase:**
+   According to the problem, 20% of the houses he visits buy something. We need to calculate 20% of 250:
+   \[
+   0.20 \times 250 = 50 \text{ houses that buy items}
+   \]
+
+3. **Determine the distribution of purchases:**
+   Of the houses that buy something, half buy a $50 set of knives and the other half buy a $150 set of knives. 
+   Since 50 houses make purchases, we divide this by 2:
+   \[
+   \frac{50}{2} = 25 \text{ houses buy the } \$50 \text{ set of knives}
+   \]
+   \[
+   \frac{50}{2} = 25 \text{ houses buy the } \$150 \text{ set of knives}
+   \]
+
+4. **Calculate the total sales from each type of knife set:**
+   For the $50 set:
+   \[
+   25 \text{ houses} \times 50 = 1250
+   \]
+   For the $150 set:
+   \[
+   25 \text{ houses} \times 150 = 3750
+   \]
+
+5. **Add the total sales from both types of knives:**
+   We now sum the sales from the $50 and $150 sets:
+   \[
+   1250 + 3750 = 5000
+   \]
+
+Thus, the total amount John sells in a week is $5000.
+</reasoning>
+<answer>5000</answer>

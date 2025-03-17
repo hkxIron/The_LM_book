@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much money Alex has left after deductions, we'll break down the problem into several steps.
+
+1. **Calculate the tax deduction**:
+   - Alex's weekly income is $500.
+   - The tax rate is 10% of his income.
+   - To find the tax amount, we calculate: 
+     \[
+     \text{Tax} = 0.10 \times 500 = 50
+     \]
+   - So, Alex pays $50 in taxes.
+
+2. **Calculate the tithe**:
+   - Alex also gives away 10% of his weekly income as a tithe.
+   - Using the same calculation as above:
+     \[
+     \text{Tithe} = 0.10 \times 500 = 50
+     \]
+   - Therefore, he gives away $50 as a tithe.
+
+3. **Calculate the water bill**:
+   - Alex pays a water bill of $55.
+
+4. **Calculate total deductions**:
+   - Now we need to sum up all the deductions (tax, tithe, and water bill):
+     \[
+     \text{Total deductions} = \text{Tax} + \text{Tithe} + \text{Water Bill} = 50 + 50 + 55 = 155
+     \]
+
+5. **Calculate the remaining amount**:
+   - Finally, we subtract the total deductions from Alex's weekly income to find out how much money he has left:
+     \[
+     \text{Remaining Amount} = \text{Weekly Income} - \text{Total Deductions} = 500 - 155 = 345
+     \]
+
+Therefore, after all deductions, Alex has $345 left.
+</reasoning>
+<answer>345</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+First, we need to determine how many robes the school choir still needs to buy. The choir has a total of 30 singers and currently has 12 robes.
+
+1. Calculate the number of robes needed:
+   \[
+   \text{Robes needed} = \text{Total singers} - \text{Robes currently available} = 30 - 12
+   \]
+   Here, we subtract the number of robes the school already has from the total number of singers to find out how many more robes are needed.
+
+   Performing the calculation:
+   \[
+   30 - 12 = 18
+   \]
+   This means the school needs to buy 18 more robes.
+
+2. Next, we need to find out the total cost for the 18 robes. Each robe costs $2. Therefore, we multiply the number of robes needed by the cost per robe:
+   \[
+   \text{Total cost} = \text{Robes needed} \times \text{Cost per robe} = 18 \times 2
+   \]
+   Here, we are multiplying the total number of robes needed by the price of each robe to find the total expenditure.
+
+   Performing the calculation:
+   \[
+   18 \times 2 = 36
+   \]
+   This means the total amount the school will spend on the robes is $36.
+
+Therefore, the school will spend a total of $36 to buy the additional robes for the choir.
+</reasoning>
+<answer>36</answer>

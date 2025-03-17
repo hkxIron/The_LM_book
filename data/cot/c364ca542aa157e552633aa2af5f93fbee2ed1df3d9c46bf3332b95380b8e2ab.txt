@@ -1,0 +1,43 @@
+<reasoning>
+First, I need to calculate the area of the mural that James is painting. The area can be found by multiplying the length by the width.
+
+1. Calculate the area of the mural:
+   \[
+   \text{Area} = \text{Length} \times \text{Width} = 20 \, \text{ft} \times 15 \, \text{ft}
+   \]
+   \[
+   \text{Area} = 300 \, \text{square feet}
+   \]
+
+Now that I have the area, I can determine how long it will take James to paint the entire mural.
+
+2. Calculate the total time to paint the mural:
+   Since it takes James 20 minutes to paint 1 square foot, I will multiply the area by the time per square foot.
+   \[
+   \text{Total Time} = \text{Area} \times \text{Time per square foot} = 300 \, \text{sq ft} \times 20 \, \text{minutes/sq ft}
+   \]
+   \[
+   \text{Total Time} = 6000 \, \text{minutes}
+   \]
+
+Next, I need to convert the total time from minutes to hours since James charges by the hour.
+
+3. Convert minutes to hours:
+   \[
+   \text{Total Time in hours} = \frac{6000 \, \text{minutes}}{60 \, \text{minutes/hour}} = 100 \, \text{hours}
+   \]
+
+Now, I will calculate how much James charges for the total hours worked.
+
+4. Calculate the total charge:
+   Since James charges $150 per hour, I will multiply the total hours by his hourly rate.
+   \[
+   \text{Total Charge} = \text{Total Time in hours} \times \text{Hourly Rate} = 100 \, \text{hours} \times 150 \, \text{dollars/hour}
+   \]
+   \[
+   \text{Total Charge} = 15000 \, \text{dollars}
+   \]
+
+Therefore, the total amount James charges to paint the mural is:
+</reasoning>
+<answer>15000</answer>

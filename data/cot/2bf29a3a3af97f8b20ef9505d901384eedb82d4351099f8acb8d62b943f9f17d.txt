@@ -1,0 +1,25 @@
+<reasoning>
+To determine how much money Farmer Kent would make from selling 18 watermelons, we need to follow these steps:
+
+1. **Calculate the weight of 18 watermelons**: Since each watermelon weighs 23 pounds, we need to multiply the weight of one watermelon by the number of watermelons.
+   \[
+   \text{Total weight} = \text{Weight of one watermelon} \times \text{Number of watermelons} = 23 \text{ pounds} \times 18
+   \]
+   Performing the multiplication:
+   \[
+   23 \times 18 = 414 \text{ pounds}
+   \]
+   This means that 18 watermelons weigh a total of 414 pounds.
+
+2. **Calculate the total sales revenue**: Farmer Kent sells the watermelons for $2 per pound. We will multiply the total weight of the watermelons by the price per pound.
+   \[
+   \text{Total revenue} = \text{Total weight} \times \text{Price per pound} = 414 \text{ pounds} \times 2 \text{ dollars/pound}
+   \]
+   Performing this multiplication:
+   \[
+   414 \times 2 = 828 \text{ dollars}
+   \]
+
+Therefore, after calculating the total weight of the watermelons and the revenue from selling them, we can conclude that Farmer Kent would make $828 from selling 18 watermelons.
+</reasoning>
+<answer>828</answer>

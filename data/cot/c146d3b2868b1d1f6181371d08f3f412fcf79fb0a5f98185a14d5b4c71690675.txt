@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many popcorn kernels Jenny will find remaining on the ground, we will follow these steps:
+
+1. **Calculate the total number of kernels dropped by Jenny.**
+   - Jenny drops 1 kernel of popcorn every 25 feet.
+   - Since she walks home from school, which is 5000 feet away, we need to determine how many 25-foot segments are in 5000 feet.
+   - We do this by dividing the total distance by the distance for each dropped kernel:
+     \[
+     \text{Number of kernels} = \frac{5000 \text{ feet}}{25 \text{ feet/kernel}} = 200 \text{ kernels}
+     \]
+
+2. **Calculate how many kernels the squirrel eats.**
+   - The squirrel eats one-quarter of the popcorn Jenny dropped.
+   - We find one-quarter of the 200 kernels:
+     \[
+     \text{Kernels eaten by squirrel} = \frac{1}{4} \times 200 = 50 \text{ kernels}
+     \]
+
+3. **Determine the number of kernels remaining.**
+   - To find out how many kernels Jenny will find remaining, we subtract the number of kernels the squirrel ate from the total number of kernels dropped:
+     \[
+     \text{Kernels remaining} = 200 - 50 = 150 \text{ kernels}
+     \]
+
+Therefore, after following all the steps and calculations, Jenny will find 150 kernels remaining on the ground.
+</reasoning>
+<answer>150</answer>

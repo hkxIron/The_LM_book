@@ -1,0 +1,51 @@
+<reasoning>
+To solve this problem, we first need to establish how far the coyote has traveled in the time since it left the footprints, and then determine how long it will take Darrel to catch up to the coyote given their speeds.
+
+1. **Determine the distance the coyote has traveled:**
+   - The coyote was traveling at a speed of 15 miles per hour.
+   - It left the footprints 1 hour ago.
+   - Therefore, the distance the coyote has traveled in that hour is:
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time} = 15 \text{ miles/hour} \times 1 \text{ hour} = 15 \text{ miles}
+     \]
+
+2. **Establish the speeds of both the coyote and Darrel:**
+   - The coyote continues to travel at 15 miles per hour.
+   - Darrel travels at 30 miles per hour.
+
+3. **Set up the equation to find when Darrel catches up to the coyote:**
+   - Let \( t \) be the time in hours that it takes for Darrel to catch up to the coyote after he starts riding.
+   - In that time \( t \), the coyote will have traveled an additional distance of:
+     \[
+     \text{Additional distance by coyote} = 15 \text{ miles/hour} \times t
+     \]
+   - The total distance the coyote has traveled when Darrel catches up is:
+     \[
+     \text{Total distance by coyote} = 15 \text{ miles} + 15t
+     \]
+   - Darrel, traveling at 30 miles per hour, will cover a distance of:
+     \[
+     \text{Distance by Darrel} = 30t
+     \]
+
+4. **Set the distances equal to each other to find \( t \):**
+   - Since Darrel catches up to the coyote when both distances are equal, we can set the equation:
+     \[
+     30t = 15 + 15t
+     \]
+
+5. **Solve for \( t \):**
+   - Rearranging the equation:
+     \[
+     30t - 15t = 15
+     \]
+     \[
+     15t = 15
+     \]
+     \[
+     t = 1 \text{ hour}
+     \]
+
+Thus, it will take Darrel 1 hour to catch up to the coyote.
+</reasoning>
+<answer>1</answer>

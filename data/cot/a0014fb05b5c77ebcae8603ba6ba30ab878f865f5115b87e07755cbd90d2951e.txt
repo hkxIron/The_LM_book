@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much Goldie earned in two weeks for pet-sitting, we first need to calculate her earnings for each week separately and then add them together.
+
+1. **Calculate Goldie's earnings for last week:**
+   - Goldie worked for 20 hours last week.
+   - She makes $5 per hour.
+   - To find her earnings for last week, we multiply the number of hours worked by her hourly rate:
+     \[
+     \text{Earnings for last week} = 20 \text{ hours} \times 5 \text{ dollars/hour} = 100 \text{ dollars}
+     \]
+
+2. **Calculate Goldie's earnings for this week:**
+   - Goldie worked for 30 hours this week.
+   - Again, she makes $5 per hour.
+   - To find her earnings for this week, we perform the same multiplication:
+     \[
+     \text{Earnings for this week} = 30 \text{ hours} \times 5 \text{ dollars/hour} = 150 \text{ dollars}
+     \]
+
+3. **Calculate the total earnings for both weeks:**
+   - Now, we add the earnings from both weeks together to find her total earnings:
+     \[
+     \text{Total earnings} = \text{Earnings for last week} + \text{Earnings for this week} 
+     \]
+     \[
+     \text{Total earnings} = 100 \text{ dollars} + 150 \text{ dollars} = 250 \text{ dollars}
+     \]
+
+Therefore, Goldie earned a total of $250 for pet-sitting over the two weeks.
+</reasoning>
+<answer>250</answer>

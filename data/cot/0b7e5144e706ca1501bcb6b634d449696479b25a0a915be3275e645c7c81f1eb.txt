@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of hours Emery's family traveled, we need to calculate the time it took for both segments of their trip: the first 100 miles and the next 300 miles.
+
+1. **Calculate the time for the first part of the trip:**
+   - The family drove the first 100 miles in 1 hour.
+   - Therefore, the time for this segment is 1 hour.
+
+2. **Calculate the time for the second part of the trip:**
+   - For the next 300 miles, we need to determine how long it took. However, the problem does not provide the speed for this segment.
+   - Let's assume they continue at the same speed as the first segment. 
+   - The speed for the first segment can be calculated as:
+     \[
+     \text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{100 \text{ miles}}{1 \text{ hour}} = 100 \text{ miles per hour}
+     \]
+   - Now, using this speed to calculate the time for the next 300 miles:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{300 \text{ miles}}{100 \text{ miles per hour}} = 3 \text{ hours}
+     \]
+
+3. **Add the times together:**
+   - Total time traveled = Time for the first segment + Time for the second segment
+   \[
+   \text{Total Time} = 1 \text{ hour} + 3 \text{ hours} = 4 \text{ hours}
+   \]
+
+Therefore, after completing all calculations, the total number of hours Emery's family traveled is 4 hours.
+</reasoning>
+<answer>4</answer>

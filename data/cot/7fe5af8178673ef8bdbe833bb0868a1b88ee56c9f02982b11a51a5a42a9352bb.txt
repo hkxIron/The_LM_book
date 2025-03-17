@@ -1,0 +1,31 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Calculate the amount of rope Orlan gave to Allan:**
+   Orlan initially has a 20-meter rope. He gave one-fourth of this rope to Allan. 
+   To find one-fourth of 20 meters, we calculate:
+   \[
+   \text{Amount given to Allan} = \frac{1}{4} \times 20 = 5 \text{ meters}
+   \]
+
+2. **Determine the remaining length of the rope after giving to Allan:**
+   After giving 5 meters to Allan, we subtract that from the original length:
+   \[
+   \text{Remaining rope} = 20 - 5 = 15 \text{ meters}
+   \]
+
+3. **Calculate the amount of rope Orlan gave to Jack:**
+   Orlan then gave two-thirds of the remaining rope to Jack. We need to calculate two-thirds of the 15 meters:
+   \[
+   \text{Amount given to Jack} = \frac{2}{3} \times 15 = 10 \text{ meters}
+   \]
+
+4. **Determine the remaining length of the rope after giving to Jack:**
+   Now, we subtract the 10 meters given to Jack from the remaining 15 meters:
+   \[
+   \text{Final remaining rope} = 15 - 10 = 5 \text{ meters}
+   \]
+
+So, after all the calculations, we find that Orlan has 5 meters of rope left.
+</reasoning>
+<answer>5</answer>

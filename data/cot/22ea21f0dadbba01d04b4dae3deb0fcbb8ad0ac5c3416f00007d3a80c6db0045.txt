@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many total pounds of lettuce Julie bought, we first need to determine how many pounds of each type of lettuce she purchased based on the costs provided.
+
+1. **Calculate the pounds of green lettuce**: 
+   - Julie spent $8 on green lettuce.
+   - Since each pound of green lettuce costs $2, we can find the number of pounds by dividing the total cost by the cost per pound:
+   
+   \[
+   \text{Pounds of green lettuce} = \frac{\text{Total cost of green lettuce}}{\text{Cost per pound}} = \frac{8}{2} = 4 \text{ pounds}
+   \]
+
+2. **Calculate the pounds of red lettuce**: 
+   - Julie spent $6 on red lettuce.
+   - Similarly, we divide the total cost of red lettuce by the cost per pound:
+   
+   \[
+   \text{Pounds of red lettuce} = \frac{\text{Total cost of red lettuce}}{\text{Cost per pound}} = \frac{6}{2} = 3 \text{ pounds}
+   \]
+
+3. **Calculate the total pounds of lettuce**:
+   - Now we can find the total weight of both types of lettuce by adding the pounds of green and red lettuce together:
+   
+   \[
+   \text{Total pounds of lettuce} = \text{Pounds of green lettuce} + \text{Pounds of red lettuce} = 4 + 3 = 7 \text{ pounds}
+   \]
+
+Thus, Julie bought a total of 7 pounds of lettuce.
+</reasoning>
+<answer>7</answer>

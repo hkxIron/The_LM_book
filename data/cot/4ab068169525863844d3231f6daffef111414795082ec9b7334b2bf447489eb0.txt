@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much money Arthur has left after spending four-fifths of his $200, we will follow these steps:
+
+1. **Calculate how much Arthur spends**: We need to find four-fifths of $200. This can be calculated by multiplying 200 by \( \frac{4}{5} \).
+
+   \[
+   \text{Amount spent} = 200 \times \frac{4}{5}
+   \]
+
+   To perform the multiplication:
+   - First, divide 200 by 5:
+   \[
+   200 \div 5 = 40
+   \]
+   - Then, multiply the result by 4:
+   \[
+   40 \times 4 = 160
+   \]
+
+   So, Arthur spends $160.
+
+2. **Calculate how much money Arthur has left**: Now we subtract the amount spent from the total amount he originally had.
+   
+   \[
+   \text{Amount left} = 200 - 160
+   \]
+
+   Performing the subtraction:
+   \[
+   200 - 160 = 40
+   \]
+
+Therefore, after spending four-fifths of his money, Arthur has $40 remaining.
+</reasoning>
+<answer>40</answer>

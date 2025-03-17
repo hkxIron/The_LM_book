@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of male adults**: The problem states that there are 100 male adults. We will denote the number of male adults as \( M \).
+   \[
+   M = 100
+   \]
+
+2. **Determine the number of female adults**: The problem states that there are 50 more female adults than male adults. We will denote the number of female adults as \( F \).
+   \[
+   F = M + 50 = 100 + 50 = 150
+   \]
+
+3. **Calculate the total number of adults**: The total number of adults is the sum of male adults and female adults.
+   \[
+   \text{Total Adults} = M + F = 100 + 150 = 250
+   \]
+
+4. **Determine the number of children**: According to the problem, the number of children is twice the total number of adults. We will denote the number of children as \( C \).
+   \[
+   C = 2 \times \text{Total Adults} = 2 \times 250 = 500
+   \]
+
+5. **Calculate the total number of people attending the family reunion**: The total number of people is the sum of the total number of adults and the number of children.
+   \[
+   \text{Total People} = \text{Total Adults} + C = 250 + 500 = 750
+   \]
+
+Thus, the total number of people who attended the family reunion is 750.
+</reasoning>
+<answer>750</answer>

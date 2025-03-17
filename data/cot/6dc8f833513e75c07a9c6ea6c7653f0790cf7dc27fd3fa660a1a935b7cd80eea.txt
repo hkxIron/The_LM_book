@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we need to determine how much water is being drained from the pool and how much water is being filled into the pool during a 3-hour period.
+
+1. **Calculate the rate of the drain:**  
+   The drain can empty the entire pool in 4 hours. Since the pool holds 120 liters, we can find the rate of the drain:  
+   \[
+   \text{Drain rate} = \frac{120 \text{ liters}}{4 \text{ hours}} = 30 \text{ liters per hour}
+   \]
+   This means the drain removes 30 liters of water from the pool every hour.
+
+2. **Calculate the rate of the hose:**  
+   The hose can fill the entire pool in 6 hours. Thus, the rate of the hose is:  
+   \[
+   \text{Hose rate} = \frac{120 \text{ liters}}{6 \text{ hours}} = 20 \text{ liters per hour}
+   \]
+   This means the hose adds 20 liters of water to the pool every hour.
+
+3. **Determine the net effect per hour:**  
+   Since both the drain and hose are operating simultaneously, we need to find the net effect on the water level in the pool:  
+   \[
+   \text{Net effect} = \text{Hose rate} - \text{Drain rate} = 20 \text{ liters/hour} - 30 \text{ liters/hour} = -10 \text{ liters/hour}
+   \]
+   This negative value indicates that the pool is losing water at a rate of 10 liters per hour.
+
+4. **Calculate the total change after 3 hours:**  
+   We can now calculate the total amount of water lost after 3 hours:  
+   \[
+   \text{Total water lost} = \text{Net effect} \times \text{Time} = -10 \text{ liters/hour} \times 3 \text{ hours} = -30 \text{ liters}
+   \]
+   This means that after 3 hours, the pool will have lost 30 liters of water.
+
+5. **Determine the amount of water left in the pool:**  
+   Starting with 120 liters and subtracting the 30 liters lost gives us:  
+   \[
+   \text{Water left} = 120 \text{ liters} - 30 \text{ liters} = 90 \text{ liters}
+   \]
+
+Therefore, after 3 hours, the amount of water left in the pool is 90 liters.
+</reasoning>
+<answer>90</answer>

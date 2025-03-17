@@ -1,0 +1,45 @@
+<reasoning>
+First, we need to calculate the total number of jumping jacks that Sidney did over the four days. We will add the number of jumping jacks he did each day.
+
+1. **Calculate Sidney's total jumping jacks:**
+   - Jumping jacks on Monday: 20
+   - Jumping jacks on Tuesday: 36
+   - Jumping jacks on Wednesday: 40
+   - Jumping jacks on Thursday: 50
+
+   Now, let's add these numbers:
+   \[
+   \text{Total} = 20 + 36 + 40 + 50
+   \]
+
+   First, we add 20 and 36:
+   \[
+   20 + 36 = 56
+   \]
+
+   Next, we add the result to 40:
+   \[
+   56 + 40 = 96
+   \]
+
+   Finally, we add this to 50:
+   \[
+   96 + 50 = 146
+   \]
+
+   So, Sidney did a total of 146 jumping jacks.
+
+2. **Calculate Brooke's total jumping jacks:**
+   - Brooke does three times as many jumping jacks as Sidney. Therefore, we calculate:
+   \[
+   \text{Brooke's total} = 3 \times \text{Sidney's total} = 3 \times 146
+   \]
+
+   Now, we perform the multiplication:
+   \[
+   3 \times 146 = 438
+   \]
+
+Thus, Brooke did a total of 438 jumping jacks.
+</reasoning>
+<answer>438</answer>

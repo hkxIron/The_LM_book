@@ -1,0 +1,29 @@
+<reasoning>
+First, let's calculate how much money Joan will spend on the items she has already decided to buy.
+
+1. **Calculate the cost of the hummus**: 
+   - Joan is buying 2 containers of hummus at $5 each.
+   - Total cost for hummus = 2 containers * $5/container = $10.
+
+2. **Calculate the total cost of chicken, bacon, and vegetables**:
+   - Chicken costs $20.
+   - Bacon costs $10.
+   - Vegetables cost $10.
+   - Total cost for chicken, bacon, and vegetables = $20 + $10 + $10 = $40.
+
+3. **Now, add the costs of all the items she plans to purchase**:
+   - Total spent so far = cost of hummus + cost of chicken + cost of bacon + cost of vegetables.
+   - Total spent = $10 + $40 = $50.
+
+4. **Determine how much money Joan has left**:
+   - Joan started with $60 and has spent $50.
+   - Money left = $60 - $50 = $10.
+
+5. **Calculate how many apples Joan can buy with her remaining money**:
+   - Each apple costs $2.
+   - To find out how many apples she can buy, divide the remaining money by the cost of one apple.
+   - Number of apples = remaining money / cost per apple = $10 / $2 = 5 apples.
+
+Therefore, after calculating her total expenses and the remaining money, we find that Joan can purchase 5 apples.
+</reasoning>
+<answer>5</answer>

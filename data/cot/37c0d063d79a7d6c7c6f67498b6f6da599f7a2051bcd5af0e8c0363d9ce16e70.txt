@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much more John pays in taxes after the tax rate increase, we need to calculate the taxes he paid before and after the increase.
+
+1. **Calculate John's tax before the increase:**
+   - John’s income before the tax increase was $1,000,000.
+   - The tax rate at that time was 20%.
+   - To find the tax he paid, we multiply his income by the tax rate:
+     \[
+     \text{Tax before} = \text{Income before} \times \text{Tax rate}
+     \]
+     \[
+     \text{Tax before} = 1,000,000 \times 0.20 = 200,000
+     \]
+   - So, John paid $200,000 in taxes before the increase.
+
+2. **Calculate John's tax after the increase:**
+   - John’s income after the tax increase is $1,500,000.
+   - The new tax rate is 30%.
+   - Again, we multiply his new income by the new tax rate:
+     \[
+     \text{Tax after} = \text{Income after} \times \text{New Tax rate}
+     \]
+     \[
+     \text{Tax after} = 1,500,000 \times 0.30 = 450,000
+     \]
+   - So, John now pays $450,000 in taxes after the increase.
+
+3. **Calculate the difference in taxes paid:**
+   - To find out how much more John pays now compared to before, we subtract the tax he paid before from the tax he pays now:
+     \[
+     \text{Difference} = \text{Tax after} - \text{Tax before}
+     \]
+     \[
+     \text{Difference} = 450,000 - 200,000 = 250,000
+     \]
+   - Therefore, John pays $250,000 more in taxes now compared to before.
+</reasoning>
+<answer>250000</answer>

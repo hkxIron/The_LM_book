@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem, we will break it down step by step.
+
+1. **Calculate the total number of cakes needed and how many Louise has already made.**
+   - Louise needs a total of 60 cakes.
+   - She has already produced half of this amount, which is:
+     \[
+     \text{Cakes already made} = \frac{60}{2} = 30
+     \]
+
+2. **Determine how many cakes are left to make.**
+   - To find out how many cakes she has left to bake, we subtract the number of cakes already made from the total needed:
+     \[
+     \text{Cakes left to make} = 60 - 30 = 30
+     \]
+
+3. **Calculate how many cakes she bakes today.**
+   - Louise bakes half of the remaining cakes today:
+     \[
+     \text{Cakes baked today} = \frac{30}{2} = 15
+     \]
+
+4. **Determine how many cakes are left after today's baking.**
+   - After baking 15 cakes, she now has:
+     \[
+     \text{Cakes left} = 30 - 15 = 15
+     \]
+
+5. **Calculate how many cakes she bakes the next day.**
+   - The next day, Louise calculates how many cakes are left (15) and bakes a third of this amount:
+     \[
+     \text{Cakes baked next day} = \frac{15}{3} = 5
+     \]
+
+6. **Determine how many cakes are left after the second day of baking.**
+   - After baking 5 cakes, the number of cakes she has left is:
+     \[
+     \text{Cakes left} = 15 - 5 = 10
+     \]
+
+7. **Final Calculation of how many more cakes Louise needs to bake.**
+   - At this point, we have determined that Louise still needs to bake 10 more cakes to reach her goal of 60 cakes.
+
+Therefore, Louise needs to bake 10 more cakes.
+</reasoning>
+<answer>10</answer>

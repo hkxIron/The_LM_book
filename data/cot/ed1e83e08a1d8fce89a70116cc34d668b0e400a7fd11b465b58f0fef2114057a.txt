@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we will break it down into steps:
+
+1. **Calculate how much money Uncle Bradley will change into $50 bills.**  
+   He wants to change 3/10 of his $1000 bill into $50 bills.  
+   \[
+   \text{Amount for $50 bills} = \frac{3}{10} \times 1000 = 300
+   \]
+   Therefore, Uncle Bradley will change $300 into $50 bills.
+
+2. **Calculate how much money he will change into $100 bills.**  
+   We need to find out how much money is left after changing $300 into $50 bills.  
+   \[
+   \text{Amount for $100 bills} = 1000 - 300 = 700
+   \]
+   So, Uncle Bradley will change $700 into $100 bills.
+
+3. **Determine how many $50 bills he will receive.**  
+   To find out how many $50 bills he will get from $300, we will divide the amount he is changing by the denomination of the bill:  
+   \[
+   \text{Number of $50 bills} = \frac{300}{50} = 6
+   \]
+   Thus, he will receive 6 pieces of $50 bills.
+
+4. **Determine how many $100 bills he will receive.**  
+   Similarly, to find out how many $100 bills he will get from $700, we divide the amount he is changing by the denomination of the bill:  
+   \[
+   \text{Number of $100 bills} = \frac{700}{100} = 7
+   \]
+   Therefore, he will receive 7 pieces of $100 bills.
+
+5. **Calculate the total number of bills.**  
+   Now we add the number of $50 bills and $100 bills to find the total number of pieces of bills he will have:  
+   \[
+   \text{Total number of bills} = 6 + 7 = 13
+   \]
+
+Thus, Uncle Bradley will have a total of 13 pieces of bills.
+</reasoning>
+<answer>13</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Starting Amount of Buttons**: Mark started the day with 14 buttons. This is our initial amount.
+
+2. **Buttons Given by Shane**: Shane gave Mark 3 times the amount of buttons he started with. 
+   - To find out how many buttons Shane gave, we calculate: 
+   \[
+   3 \times 14 = 42
+   \]
+   This means Shane gave Mark 42 buttons.
+
+3. **Total Buttons After Receiving from Shane**: Now we need to find out how many buttons Mark has after receiving the buttons from Shane. We add the buttons Mark originally had to the ones given by Shane:
+   \[
+   14 + 42 = 56
+   \]
+   So, Mark now has 56 buttons.
+
+4. **Sam's Request**: Sam asked if he could have half of Mark's buttons. We need to calculate half of the current total of buttons:
+   \[
+   \frac{56}{2} = 28
+   \]
+   This means Sam wants 28 buttons.
+
+5. **Final Amount of Buttons**: After giving Sam half of his buttons, we subtract the 28 buttons from the 56 buttons Mark has:
+   \[
+   56 - 28 = 28
+   \]
+   Therefore, Mark ends up with 28 buttons.
+
+In summary, we calculated the buttons given by Shane, found the total buttons Mark had, determined how many Sam wanted, and finally calculated the remaining buttons Mark has after giving some away.
+</reasoning>
+<answer>28</answer>

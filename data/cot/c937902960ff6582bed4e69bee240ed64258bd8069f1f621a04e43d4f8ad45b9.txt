@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many gallons of paint Henrietta needs to paint her house, we will follow these steps:
+
+1. **Calculate the total area of the walls in the bedrooms.**  
+   Since there are three bedrooms and each bedroom has walls that take up 400 square feet, we multiply the number of bedrooms by the area of the walls in one bedroom:
+   \[
+   \text{Total area of bedrooms} = \text{Number of bedrooms} \times \text{Area per bedroom} = 3 \times 400 = 1200 \text{ square feet}
+   \]
+
+2. **Calculate the total area of the walls in the living room and the bedrooms combined.**  
+   Now we add the area of the living room walls to the total area of the bedrooms:
+   \[
+   \text{Total area of the house} = \text{Area of living room} + \text{Total area of bedrooms} = 600 + 1200 = 1800 \text{ square feet}
+   \]
+
+3. **Determine how many gallons of paint are needed.**  
+   One gallon of paint covers 600 square feet. To find out how many gallons are needed for 1800 square feet, we divide the total area by the coverage of one gallon:
+   \[
+   \text{Gallons needed} = \frac{\text{Total area}}{\text{Coverage per gallon}} = \frac{1800}{600} = 3
+   \]
+
+Therefore, Henrietta needs 3 gallons of paint to cover the walls in her house.
+</reasoning>
+<answer>3</answer>

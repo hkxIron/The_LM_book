@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many words are in each crossword puzzle on average, we first need to determine how many crossword puzzles Bert completes in two weeks.
+
+1. **Understanding the time frame**: 
+   - Bert uses up a pencil every two weeks.
+   - There are 14 days in two weeks.
+
+2. **Calculating the daily crossword puzzles**: 
+   - Assuming Bert does one crossword puzzle each day, over two weeks, he will complete:
+     \[
+     14 \text{ puzzles} = 1 \text{ puzzle/day} \times 14 \text{ days}
+     \]
+
+3. **Total words used**: 
+   - It is given that Bert uses up a pencil after completing 1050 words.
+   - This means that in these 14 puzzles, he fills out a total of 1050 words.
+
+4. **Finding the average words per puzzle**: 
+   - To find the average number of words per crossword puzzle, we divide the total number of words by the number of puzzles completed:
+     \[
+     \text{Average words per puzzle} = \frac{\text{Total words}}{\text{Total puzzles}} = \frac{1050 \text{ words}}{14 \text{ puzzles}}
+     \]
+
+5. **Performing the division**: 
+   - Now, we carry out the division:
+     \[
+     \frac{1050}{14} = 75
+     \]
+
+Thus, Bert fills out an average of 75 words in each crossword puzzle.
+</reasoning>
+<answer>75</answer>

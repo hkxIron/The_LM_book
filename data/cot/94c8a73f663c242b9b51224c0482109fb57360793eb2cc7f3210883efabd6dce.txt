@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine how many shells David has.**
+   - We know that David has 15 shells.
+
+2. **Calculate how many shells Mia has.**
+   - Mia has 4 times as many shells as David.
+   - Since David has 15 shells, we calculate Mia's shells as follows:
+     \[
+     \text{Mia's shells} = 4 \times \text{David's shells} = 4 \times 15 = 60
+     \]
+
+3. **Calculate how many shells Ava has.**
+   - Ava has 20 more shells than Mia.
+   - We already found that Mia has 60 shells, so we calculate Ava's shells:
+     \[
+     \text{Ava's shells} = \text{Mia's shells} + 20 = 60 + 20 = 80
+     \]
+
+4. **Calculate how many shells Alice has.**
+   - Alice has half the number of shells that Ava has.
+   - We found that Ava has 80 shells, so we calculate Alice's shells:
+     \[
+     \text{Alice's shells} = \frac{1}{2} \times \text{Ava's shells} = \frac{1}{2} \times 80 = 40
+     \]
+
+5. **Calculate the total number of shells they all have.**
+   - Now, we sum up the number of shells each person has: David, Mia, Ava, and Alice.
+   - The total is calculated as follows:
+     \[
+     \text{Total shells} = \text{David's shells} + \text{Mia's shells} + \text{Ava's shells} + \text{Alice's shells}
+     \]
+     \[
+     \text{Total shells} = 15 + 60 + 80 + 40
+     \]
+     \[
+     \text{Total shells} = 195
+     \]
+
+Therefore, the total number of conch shells they all have is:
+</reasoning>
+<answer>195</answer>

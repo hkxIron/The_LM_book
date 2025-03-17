@@ -1,0 +1,65 @@
+<reasoning>
+To determine the percentage of frogs that have mutated, we need to follow these steps:
+
+1. **Count the total number of frogs**: 
+   - Francine caught 5 frogs with extra legs.
+   - She caught 2 frogs with 2 heads.
+   - She caught 2 frogs that are bright red.
+   - She also caught 18 normal frogs.
+   
+   To find the total number of frogs, we add these amounts together:
+
+   \[
+   \text{Total frogs} = 5 + 2 + 2 + 18
+   \]
+
+   Let's calculate this:
+
+   \[
+   \text{Total frogs} = 5 + 2 + 2 + 18 = 27
+   \]
+
+2. **Count the number of mutated frogs**:
+   The mutated frogs are those with extra legs, two heads, and bright red frogs. We add these together:
+
+   \[
+   \text{Mutated frogs} = 5 + 2 + 2
+   \]
+
+   Now let's calculate this:
+
+   \[
+   \text{Mutated frogs} = 5 + 2 + 2 = 9
+   \]
+
+3. **Calculate the percentage of mutated frogs**:
+   To find the percentage of mutated frogs, we use the formula:
+
+   \[
+   \text{Percentage} = \left( \frac{\text{Number of mutated frogs}}{\text{Total number of frogs}} \right) \times 100
+   \]
+
+   Plugging in the numbers we calculated:
+
+   \[
+   \text{Percentage} = \left( \frac{9}{27} \right) \times 100
+   \]
+
+   First, we simplify the fraction:
+
+   \[
+   \frac{9}{27} = \frac{1}{3}
+   \]
+
+   Now, we calculate:
+
+   \[
+   \text{Percentage} = \left( \frac{1}{3} \right) \times 100 \approx 33.33
+   \]
+
+4. **Round to the nearest integer**:
+   Rounding 33.33 to the nearest integer gives us 33.
+
+Therefore, the percentage of frogs that have mutated, rounded to the nearest integer, is:
+</reasoning>
+<answer>33</answer>

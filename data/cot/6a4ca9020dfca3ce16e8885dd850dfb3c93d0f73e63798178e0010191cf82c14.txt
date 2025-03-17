@@ -1,0 +1,18 @@
+<reasoning>
+To find out how much money Amy has left after buying the dolls, we need to follow these steps:
+
+1. **Identify the initial amount of money Amy has**: Amy starts with $100.
+
+2. **Determine the cost of the dolls**: Amy buys 3 dolls, and each doll costs $1. To find the total cost of the dolls, we multiply the number of dolls by the cost per doll:
+   \[
+   \text{Total cost of dolls} = 3 \text{ dolls} \times 1 \text{ dollar/doll} = 3 \text{ dollars}
+   \]
+
+3. **Subtract the total cost of the dolls from the initial amount**: Now that we know the total cost of the dolls is $3, we subtract this amount from the initial $100:
+   \[
+   \text{Money left} = 100 \text{ dollars} - 3 \text{ dollars} = 97 \text{ dollars}
+   \]
+
+Therefore, after buying the dolls, Amy has $97 left.
+</reasoning>
+<answer>97</answer>

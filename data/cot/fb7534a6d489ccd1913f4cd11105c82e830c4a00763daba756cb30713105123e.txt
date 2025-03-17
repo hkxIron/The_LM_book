@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we need to find out how many friends Jillian can give oranges to, given that she divided the oranges into pieces.
+
+1. **Determine the total number of pieces Jillian has**: 
+   - Jillian has 80 oranges.
+   - Each orange is divided into 10 equal pieces.
+   - Therefore, the total number of pieces is calculated by multiplying the number of oranges by the number of pieces each orange is divided into:
+     \[
+     \text{Total pieces} = 80 \text{ oranges} \times 10 \text{ pieces/orange} = 800 \text{ pieces}
+     \]
+
+2. **Determine how many pieces each friend receives**: 
+   - Each friend receives 4 pieces of orange.
+
+3. **Calculate the number of friends**:
+   - To find the number of friends, we divide the total number of pieces by the number of pieces each friend receives:
+     \[
+     \text{Number of friends} = \frac{\text{Total pieces}}{\text{Pieces per friend}} = \frac{800 \text{ pieces}}{4 \text{ pieces/friend}} = 200 \text{ friends}
+     \]
+
+Therefore, Jillian can give oranges to 200 friends.
+</reasoning>
+<answer>200</answer>

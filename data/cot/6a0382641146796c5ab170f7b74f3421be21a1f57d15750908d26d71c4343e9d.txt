@@ -1,0 +1,32 @@
+<reasoning>
+To find Robert's monthly expenses last month, we need to follow these steps:
+
+1. **Calculate Robert's commission from his sales.**
+   - Robert earns a 10% commission on his total sales. His total sales last month were $23600.
+   - To find the commission, we calculate 10% of $23600:
+     \[
+     \text{Commission} = 0.10 \times 23600 = 2360
+     \]
+
+2. **Calculate Robert's total earnings.**
+   - Robert's total earnings consist of his basic salary plus his commission. His basic salary is $1250.
+   - So, we calculate his total earnings as follows:
+     \[
+     \text{Total Earnings} = \text{Basic Salary} + \text{Commission} = 1250 + 2360 = 3610
+     \]
+
+3. **Calculate the amount allocated to savings.**
+   - Robert allocates 20% of his total earnings to savings. We need to calculate 20% of $3610:
+     \[
+     \text{Savings} = 0.20 \times 3610 = 722
+     \]
+
+4. **Calculate Robert's monthly expenses.**
+   - To find his monthly expenses, we subtract the savings from his total earnings:
+     \[
+     \text{Monthly Expenses} = \text{Total Earnings} - \text{Savings} = 3610 - 722 = 2888
+     \]
+
+Therefore, Robert's monthly expenses last month were $2888.
+</reasoning>
+<answer>2888</answer>

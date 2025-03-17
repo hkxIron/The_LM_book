@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of sandwiches Samson ate for lunch on Monday**: 
+   - Samson ate 3 sandwiches for lunch.
+
+2. **Calculate the number of sandwiches he ate for dinner**: 
+   - He ate twice as many sandwiches at dinner as he did for lunch. 
+   - Therefore, for dinner, he ate: 
+     \( 2 \times 3 = 6 \) sandwiches.
+
+3. **Calculate the total number of sandwiches he ate on Monday**: 
+   - To find the total for Monday, we add the sandwiches from lunch and dinner:
+   \[
+   3 \text{ (lunch)} + 6 \text{ (dinner)} = 9 \text{ sandwiches on Monday}.
+   \]
+
+4. **Calculate the number of sandwiches he ate on Tuesday**: 
+   - The problem states that the next morning (Tuesday), he only ate one sandwich for breakfast. 
+   - Therefore, he ate 1 sandwich on Tuesday.
+
+5. **Calculate how many more sandwiches he ate on Monday than Tuesday**: 
+   - To find the difference, we subtract the number of sandwiches eaten on Tuesday from the number eaten on Monday:
+   \[
+   9 \text{ (Monday)} - 1 \text{ (Tuesday)} = 8.
+   \]
+
+Thus, Samson ate 8 more sandwiches on Monday than he did on Tuesday.
+</reasoning>
+<answer>8</answer>

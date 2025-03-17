@@ -1,0 +1,65 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the discount on the chlorine:**
+   - The original price of a liter of chlorine is $10.
+   - The discount is 20%, which means we need to calculate 20% of $10.
+   \[
+   \text{Discount on chlorine} = 10 \times 0.20 = 2
+   \]
+   - Now, subtract the discount from the original price to find the sale price:
+   \[
+   \text{Sale price of chlorine} = 10 - 2 = 8
+   \]
+
+2. **Calculate the total cost for 3 liters of chlorine:**
+   - If each liter now costs $8, we multiply this by the number of liters (3):
+   \[
+   \text{Total cost for chlorine} = 3 \times 8 = 24
+   \]
+
+3. **Calculate the discount on the soap:**
+   - The original price of a box of soap is $16.
+   - The discount is 25%, so we calculate 25% of $16.
+   \[
+   \text{Discount on soap} = 16 \times 0.25 = 4
+   \]
+   - Now, subtract the discount from the original price to find the sale price:
+   \[
+   \text{Sale price of soap} = 16 - 4 = 12
+   \]
+
+4. **Calculate the total cost for 5 boxes of soap:**
+   - If each box now costs $12, we multiply this by the number of boxes (5):
+   \[
+   \text{Total cost for soap} = 5 \times 12 = 60
+   \]
+
+5. **Calculate the total amount spent on chlorine and soap:**
+   \[
+   \text{Total cost} = \text{Total cost for chlorine} + \text{Total cost for soap} = 24 + 60 = 84
+   \]
+
+6. **Calculate the total original cost before discounts:**
+   - For 3 liters of chlorine at $10 each:
+   \[
+   \text{Original cost for chlorine} = 3 \times 10 = 30
+   \]
+   - For 5 boxes of soap at $16 each:
+   \[
+   \text{Original cost for soap} = 5 \times 16 = 80
+   \]
+   - Now, add these two amounts to find the total original cost:
+   \[
+   \text{Total original cost} = 30 + 80 = 110
+   \]
+
+7. **Calculate the total savings:**
+   - To find out how much you save, subtract the total amount spent from the total original cost:
+   \[
+   \text{Savings} = \text{Total original cost} - \text{Total cost} = 110 - 84 = 26
+   \]
+
+Therefore, you will save a total of $26 if you buy 3 liters of chlorine and 5 boxes of soap at their discounted prices.
+</reasoning>
+<answer>26</answer>

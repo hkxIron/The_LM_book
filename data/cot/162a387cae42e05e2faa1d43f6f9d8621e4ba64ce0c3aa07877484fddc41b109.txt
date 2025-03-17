@@ -1,0 +1,37 @@
+<reasoning>
+To solve the problem, we need to find out how many notebooks are in the classroom based on the number of students and the number of notebooks each student has.
+
+1. **Determine the number of students with each type of notebook.**  
+   Since there are 28 students in total and half of them have 5 notebooks each, we first calculate how many students that is. 
+   \[
+   \text{Number of students with 5 notebooks} = \frac{28}{2} = 14
+   \]
+   Therefore, there are 14 students who have 5 notebooks each.
+
+2. **Calculate the total number of notebooks for the first group.**  
+   Now we need to find out how many notebooks these 14 students have in total.
+   \[
+   \text{Total notebooks from students with 5 notebooks} = 14 \times 5 = 70
+   \]
+
+3. **Determine the number of students with the other type of notebook.**  
+   The other half of the students, which is also 14, have 3 notebooks each.
+   \[
+   \text{Number of students with 3 notebooks} = 14
+   \]
+
+4. **Calculate the total number of notebooks for this group.**  
+   Now we find the total number of notebooks from these 14 students.
+   \[
+   \text{Total notebooks from students with 3 notebooks} = 14 \times 3 = 42
+   \]
+
+5. **Calculate the overall total number of notebooks in the classroom.**  
+   Finally, we add the total notebooks from both groups together.
+   \[
+   \text{Total notebooks in classroom} = 70 + 42 = 112
+   \]
+
+Therefore, the total number of notebooks in the classroom is:
+</reasoning>
+<answer>112</answer>

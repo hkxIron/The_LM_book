@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we need to find out Kenneth's total earnings based on the information provided. Let's denote Kenneth's total earnings as \( E \).
+
+1. **Identify the percentage spent**: Kenneth spent 10% of his earnings on a new joystick. This can be expressed mathematically as:
+   \[
+   \text{Amount spent} = 0.10 \times E
+   \]
+
+2. **Determine the remaining amount**: After spending 10% of his earnings, Kenneth is left with $405. This means:
+   \[
+   E - 0.10 \times E = 405
+   \]
+
+3. **Simplify the equation**: The expression \( E - 0.10 \times E \) can be simplified to:
+   \[
+   0.90 \times E = 405
+   \]
+   Here, we are left with 90% of his earnings after the 10% expenditure.
+
+4. **Solve for \( E \)**: To find \( E \), we can isolate it by dividing both sides of the equation by 0.90:
+   \[
+   E = \frac{405}{0.90}
+   \]
+
+5. **Calculate the value**: Now, we perform the division:
+   \[
+   E = \frac{405}{0.90} = 450
+   \]
+
+Thus, Kenneth's total earnings were $450.
+</reasoning>
+<answer>450</answer>

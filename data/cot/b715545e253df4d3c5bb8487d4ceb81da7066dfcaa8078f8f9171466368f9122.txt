@@ -1,0 +1,26 @@
+<reasoning>
+First, let's determine the total cost of the shirts before the discount. James buys 3 shirts for $60 total. 
+
+1. **Find the original price per shirt**: 
+   To find the cost per shirt, we divide the total cost by the number of shirts. 
+   \[
+   \text{Price per shirt} = \frac{\text{Total cost}}{\text{Number of shirts}} = \frac{60}{3} = 20
+   \]
+   So, each shirt originally costs $20.
+
+2. **Calculate the discount**: 
+   The sale offers a 40% discount. To find out how much the discount is in dollars, we calculate 40% of the original price per shirt.
+   \[
+   \text{Discount} = 0.40 \times \text{Price per shirt} = 0.40 \times 20 = 8
+   \]
+   Therefore, the discount on each shirt is $8.
+
+3. **Determine the price after the discount**: 
+   Now, we subtract the discount from the original price to find the price per shirt after the discount.
+   \[
+   \text{Price after discount} = \text{Original price} - \text{Discount} = 20 - 8 = 12
+   \]
+
+Thus, after applying the 40% discount, James pays $12 for each shirt.
+</reasoning>
+<answer>12</answer>

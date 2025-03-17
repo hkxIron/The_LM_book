@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many people are currently in the conference center, we will follow these steps:
+
+1. **Calculate the total capacity of the conference center**: 
+   Since there are 6 rooms and each room can hold up to 80 people, we need to multiply the number of rooms by the capacity of each room.
+   \[
+   \text{Total capacity} = \text{Number of rooms} \times \text{Capacity per room} = 6 \times 80
+   \]
+   This step helps us determine the maximum number of people the conference center can accommodate.
+
+2. **Perform the multiplication**:
+   \[
+   6 \times 80 = 480
+   \]
+   So, the total capacity of the conference center is 480 people.
+
+3. **Determine how many people are currently in the conference center**:
+   We are told that the conference center is 2/3 full. To find the number of people, we need to multiply the total capacity by 2/3.
+   \[
+   \text{Number of people} = \text{Total capacity} \times \frac{2}{3} = 480 \times \frac{2}{3}
+   \]
+   This step calculates how many of the total capacity are currently occupied.
+
+4. **Perform the multiplication**:
+   First, we calculate \(480 \div 3\):
+   \[
+   480 \div 3 = 160
+   \]
+   Now, we multiply that result by 2:
+   \[
+   160 \times 2 = 320
+   \]
+   Thus, there are currently 320 people in the conference center.
+
+Therefore, the total number of people currently in the conference center is 320.
+</reasoning>
+<answer>320</answer>

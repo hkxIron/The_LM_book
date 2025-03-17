@@ -1,0 +1,28 @@
+<reasoning>
+To determine how much money Chantal will gain from selling 28 sweaters, we need to follow these steps:
+
+1. **Calculate the total cost of yarn for one sweater**: Each sweater requires 4 balls of yarn. Since each ball of yarn costs $6, we can find the cost for one sweater:
+   \[
+   \text{Cost of yarn for one sweater} = 4 \text{ balls} \times 6 \text{ dollars/ball} = 24 \text{ dollars}
+   \]
+   This means it costs Chantal $24 in yarn to knit one sweater.
+
+2. **Calculate the total cost for 28 sweaters**: Now we need to find out how much it will cost to knit 28 sweaters:
+   \[
+   \text{Total cost for 28 sweaters} = 28 \text{ sweaters} \times 24 \text{ dollars/sweater} = 672 \text{ dollars}
+   \]
+   So, the total cost of yarn for all 28 sweaters is $672.
+
+3. **Calculate the total revenue from selling 28 sweaters**: Each sweater is sold for $35, so we find the total revenue from selling 28 sweaters:
+   \[
+   \text{Total revenue} = 28 \text{ sweaters} \times 35 \text{ dollars/sweater} = 980 \text{ dollars}
+   \]
+   This means Chantal will earn $980 from selling all 28 sweaters.
+
+4. **Calculate the total gain (profit)**: To find the total gain, we subtract the total cost from the total revenue:
+   \[
+   \text{Total gain} = \text{Total revenue} - \text{Total cost} = 980 \text{ dollars} - 672 \text{ dollars} = 308 \text{ dollars}
+   \]
+   Therefore, Chantal's total gain from selling the sweaters is $308.
+</reasoning>
+<answer>308</answer>

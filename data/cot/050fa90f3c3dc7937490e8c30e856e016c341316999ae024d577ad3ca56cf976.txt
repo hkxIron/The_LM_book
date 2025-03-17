@@ -1,0 +1,103 @@
+<reasoning>
+To find out how many goats are in the field, we need to follow these steps:
+
+1. **Understand the problem**: We have a total of 200 animals which consist of cows, sheep, and goats. We know there are 40 cows and 56 sheep and goats combined.
+
+2. **Set up the equation**: Let's denote the number of goats as \( G \). According to the information provided:
+   - Total animals = 200
+   - Cows = 40
+   - Sheep and goats combined = 56 (which includes both sheep and goats)
+
+3. **Find the number of sheep**: Since the total number of sheep and goats is 56, we can express the number of sheep as:
+   - Number of sheep = Total sheep and goats - Number of goats
+   - Thus, if we let \( S \) be the number of sheep, we have:
+   \[
+   S + G = 56
+   \]
+
+4. **Calculate the total number of animals**: The total number of animals is given by:
+   \[
+   Cows + Sheep + Goats = Total animals
+   \]
+   Substituting the values we know:
+   \[
+   40 + S + G = 200
+   \]
+
+5. **Combine the equations**: We can replace \( S \) in the total animals equation with the expression we derived from the sheep and goats combined equation:
+   \[
+   40 + (56 - G) + G = 200
+   \]
+   Simplifying this:
+   \[
+   40 + 56 = 200
+   \]
+   So, we have:
+   \[
+   96 = 200
+   \]
+   This indicates that we need to account for cows separately.
+
+6. **Rearranging for the number of goats**: Since we know the total animals and the cows are 40, we can deduce:
+   \[
+   Sheep + Goats = 200 - 40
+   \]
+   This simplifies to:
+   \[
+   Sheep + Goats = 160
+   \]
+
+7. **Now we have two equations**:
+   - 1) \( S + G = 56 \)
+   - 2) \( S + G = 160 \)
+
+8. **Finding the number of goats**: We can substitute the first equation into the second equation:
+   - From \( S + G = 56 \), we can rearrange to find \( S = 56 - G \). Plugging this into the second equation:
+   \[
+   56 - G + G = 160
+   \]
+
+9. **Solve for \( G \)**:
+   \[
+   56 = 160
+   \]
+   This means we need to find goats directly instead. Since \( S + G = 56 \) defines the sheep and goats, we can assume that if all animals were accounted, goats must be the remaining.
+
+10. **Final calculation for goats**: Since we know:
+   - Cows = 40
+   - Total = 200
+   - Sheep and goats = 56
+
+   We conclude that:
+   \[
+   Goats = 200 - 40 - S
+   \]
+   This gives us \( G = 200 - 40 - S \).
+
+   With \( S + G = 56 \):
+   - Thus, \( G = 56 - S \). Since we need an explicit number, let's put S to the maximum possible.
+
+11. **Final deduction**:
+   If all sheep were considered goats, we assume maximum sheep (56), thus leave goats:
+   \[
+   G = 56 - (56 - G) = 0.
+   \]
+
+However, we need direct calculation. Finally, if you equate the total between known animals and what’s left, you find:
+\[
+G = 160 - S = 200 - 40 - S,
+\]
+Where \( G = 200 - 40 - (56 - G)\) leads to \( G = 200 - 96\)
+
+12. **Final Count**:
+   - Total goats = 160 - S
+   - If \( S = 0\), then \( G = 56\).
+
+This leads us to:
+\[
+G = 200 - 40 - 56 = 104.
+\]
+
+So, **the number of goats** in the field:
+</reasoning>
+<answer>104</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many ice pops need to be sold to buy 100 pencils, we first need to calculate the total cost of the pencils.
+
+1. **Calculate the total cost of 100 pencils:**
+   Each pencil costs $1.80, so to find the total cost for 100 pencils, we multiply the cost of one pencil by the number of pencils:
+   \[
+   \text{Total cost of pencils} = 100 \text{ pencils} \times 1.80 \text{ dollars/pencil} = 180 \text{ dollars}
+   \]
+
+2. **Calculate the profit from selling one ice pop:**
+   Each ice pop is sold for $1.50, and it costs $0.90 to make. The profit from selling one ice pop can be calculated by subtracting the cost from the selling price:
+   \[
+   \text{Profit per ice pop} = 1.50 \text{ dollars} - 0.90 \text{ dollars} = 0.60 \text{ dollars}
+   \]
+
+3. **Determine how many ice pops need to be sold to cover the total cost:**
+   Now that we know the total cost of the pencils is $180 and the profit from each pop is $0.60, we can find out how many pops need to be sold to raise $180:
+   \[
+   \text{Number of pops} = \frac{\text{Total cost of pencils}}{\text{Profit per ice pop}} = \frac{180 \text{ dollars}}{0.60 \text{ dollars/pop}} = 300 \text{ pops}
+   \]
+
+In conclusion, the school needs to sell 300 ice pops to raise enough money to buy 100 pencils.
+</reasoning>
+<answer>300</answer>

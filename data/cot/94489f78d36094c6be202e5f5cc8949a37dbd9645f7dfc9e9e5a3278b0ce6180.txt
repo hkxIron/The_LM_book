@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the number of smoking students in the class**: We know that 40% of the 300 students are smoking. We will calculate this by multiplying the total number of students by the percentage of smoking students.
+
+   \[
+   \text{Number of smoking students} = 300 \times 0.40 = 120
+   \]
+
+   Explanation: We convert the percentage (40%) into a decimal (0.40) and multiply it by the total number of students (300) to find out how many students smoke.
+
+2. **Calculate the number of hospitalized smoking students**: Next, we need to find out how many of these smoking students are hospitalized. We know that 70% of the smoking students are hospitalized.
+
+   \[
+   \text{Number of hospitalized smoking students} = 120 \times 0.70 = 84
+   \]
+
+   Explanation: Again, we convert the percentage (70%) into a decimal (0.70) and multiply it by the number of smoking students (120) to find out how many are hospitalized.
+
+3. **Calculate the number of smoking students who have not been hospitalized**: Finally, we will subtract the number of hospitalized smoking students from the total number of smoking students to find out how many have not been hospitalized.
+
+   \[
+   \text{Number of smoking students not hospitalized} = 120 - 84 = 36
+   \]
+
+   Explanation: We take the total number of smoking students (120) and subtract the number of hospitalized students (84) to find out how many smoking students remain who have not been hospitalized.
+
+Therefore, the total number of smoking students from the class who have not been hospitalized from smoking-related complications is:
+</reasoning>
+<answer>36</answer>

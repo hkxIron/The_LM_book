@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we need to work through the information step by step to find out how many days it took Joey to learn swimming.
+
+1. **Determine how many days Alexa was on vacation**:
+   Alexa spent a week and 2 days on vacation. A week has 7 days, so:
+   \[
+   \text{Total days Alexa was on vacation} = 7 \text{ days} + 2 \text{ days} = 9 \text{ days}
+   \]
+
+2. **Determine the time it took Ethan to learn the fencing tricks**:
+   According to the problem, Alexa was on vacation for \( \frac{3}{4} \) of the time it took Ethan to learn 12 fencing tricks. We can let \( T \) be the time (in days) it took Ethan to learn the tricks. Therefore, we have the equation:
+   \[
+   \frac{3}{4} T = 9
+   \]
+
+3. **Solve for \( T \)**:
+   To find \( T \), we can rearrange the equation:
+   \[
+   T = 9 \times \frac{4}{3}
+   \]
+   Now, calculate \( T \):
+   \[
+   T = 9 \times \frac{4}{3} = 12 \text{ days}
+   \]
+   This means it took Ethan 12 days to learn the fencing tricks.
+
+4. **Determine how much time Joey spent learning to swim**:
+   The problem states that Joey spent half as much time as Ethan learning to swim. Since it took Ethan 12 days, Joey's time is:
+   \[
+   \text{Time Joey spent} = \frac{12}{2} = 6 \text{ days}
+   \]
+
+Putting all of this together, we find that it took Joey 6 days to learn swimming.
+</reasoning>
+<answer>6</answer>

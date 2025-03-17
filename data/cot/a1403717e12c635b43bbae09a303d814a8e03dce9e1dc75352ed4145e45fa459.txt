@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the relationship between Dina's and Ivy's dolls**: 
+   We know that Dina has 60 dolls and she has twice as many dolls as Ivy. We can set up an equation to represent this relationship. 
+   
+   Let \( I \) represent the number of dolls Ivy has. According to the problem:
+   \[
+   D = 2I
+   \]
+   where \( D = 60 \) (Dina's dolls). Substituting, we have:
+   \[
+   60 = 2I
+   \]
+
+2. **Solving for Ivy's dolls**: 
+   Now we will solve for \( I \) by dividing both sides of the equation by 2:
+   \[
+   I = \frac{60}{2} = 30
+   \]
+   So, Ivy has 30 dolls.
+
+3. **Finding the number of collectors edition dolls**: 
+   The problem states that \( \frac{2}{3} \) of Ivy's dolls are collector's editions. We can calculate this by multiplying the total number of dolls Ivy has by \( \frac{2}{3} \):
+   \[
+   \text{Collectors edition dolls} = \frac{2}{3} \times I = \frac{2}{3} \times 30
+   \]
+
+4. **Calculating the final result**: 
+   Now we calculate \( \frac{2}{3} \times 30 \):
+   \[
+   \frac{2 \times 30}{3} = \frac{60}{3} = 20
+   \]
+   Therefore, Ivy has 20 collector's edition dolls.
+</reasoning>
+<answer>20</answer>

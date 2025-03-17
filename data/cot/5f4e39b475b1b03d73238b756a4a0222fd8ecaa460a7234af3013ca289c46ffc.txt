@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we start by determining the initial conditions and changes in speed for each character involved.
+
+1. **Keanu's Speed:**
+   - Keanu is initially surfing at a speed of 20 miles per hour (mph).
+
+2. **Shark's Speed:**
+   - Let's denote the shark's initial speed as \( S \). Since it's not specified in the problem, we can assume that the shark was swimming at the same speed as Keanu initially, which means \( S = 20 \) mph.
+   - The shark then doubles its speed. Thus, the new speed of the shark is:
+     \[
+     \text{Shark's new speed} = 2 \times S = 2 \times 20 = 40 \text{ mph}
+     \]
+
+3. **Change in Shark's Speed:**
+   - The increase in speed for the shark is:
+     \[
+     \text{Increase in shark's speed} = \text{Shark's new speed} - S = 40 - 20 = 20 \text{ mph}
+     \]
+
+4. **Pilot Fish's Speed:**
+   - The pilot fish increases its speed by half of the increase in the shark's speed. Therefore, the increase in speed for the pilot fish is:
+     \[
+     \text{Increase in pilot fish's speed} = \frac{1}{2} \times \text{Increase in shark's speed} = \frac{1}{2} \times 20 = 10 \text{ mph}
+     \]
+   - The pilot fish's new speed will be the initial speed of 20 mph plus the increase of 10 mph:
+     \[
+     \text{Pilot fish's new speed} = 20 + 10 = 30 \text{ mph}
+     \]
+
+Thus, the pilot fish is swimming at a speed of 30 miles per hour when it moves away from Keanu.
+</reasoning>
+<answer>30</answer>

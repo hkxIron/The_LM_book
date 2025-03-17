@@ -1,0 +1,33 @@
+<reasoning>
+Let's start by calculating the weight of the elephant in pounds. We know that the elephant weighs 3 tons, and since 1 ton is equal to 2000 pounds, we can convert the weight of the elephant as follows:
+
+1. **Convert the weight of the elephant to pounds**:
+   \[
+   \text{Weight of elephant} = 3 \text{ tons} \times 2000 \text{ pounds/ton} = 6000 \text{ pounds}
+   \]
+   Here, I multiply the number of tons by the number of pounds in one ton to find the total weight in pounds.
+
+2. **Calculate the weight of the donkey**:
+   Since the donkey weighs 90% less than the elephant, we first need to calculate how much 90% of the elephant's weight is:
+   \[
+   \text{Weight decrease} = 90\% \text{ of } 6000 \text{ pounds} = 0.90 \times 6000 = 5400 \text{ pounds}
+   \]
+   This step shows that the donkey weighs significantly less than the elephant.
+
+3. **Determine the weight of the donkey**:
+   We find the donkey's weight by subtracting the weight decrease from the elephant's weight:
+   \[
+   \text{Weight of donkey} = \text{Weight of elephant} - \text{Weight decrease} = 6000 \text{ pounds} - 5400 \text{ pounds} = 600 \text{ pounds}
+   \]
+   This calculation gives us the actual weight of the donkey.
+
+4. **Calculate the combined weight of the donkey and the elephant**:
+   Finally, we add the weights of both animals together:
+   \[
+   \text{Combined weight} = \text{Weight of elephant} + \text{Weight of donkey} = 6000 \text{ pounds} + 600 \text{ pounds} = 6600 \text{ pounds}
+   \]
+   This gives us the total weight of both animals.
+
+Therefore, the combined weight of John’s donkey and elephant is:
+</reasoning>
+<answer>6600</answer>

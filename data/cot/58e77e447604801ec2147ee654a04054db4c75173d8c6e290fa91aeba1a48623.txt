@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much 5 slices of pizza cost, we will first determine the cost per slice and then calculate the cost for 5 slices.
+
+1. **Calculate the total number of slices:**
+   - Kim buys 3 pizzas, and each pizza has 12 slices.
+   - Therefore, the total number of slices is:
+     \[
+     \text{Total slices} = 3 \text{ pizzas} \times 12 \text{ slices/pizza} = 36 \text{ slices}
+     \]
+
+2. **Determine the cost per slice:**
+   - The total cost for the 3 pizzas is $72.
+   - To find the cost per slice, we divide the total cost by the total number of slices:
+     \[
+     \text{Cost per slice} = \frac{72 \text{ dollars}}{36 \text{ slices}} = 2 \text{ dollars/slice}
+     \]
+
+3. **Calculate the cost of 5 slices:**
+   - Now that we know the cost per slice is $2, we can find the cost for 5 slices:
+     \[
+     \text{Cost for 5 slices} = 5 \text{ slices} \times 2 \text{ dollars/slice} = 10 \text{ dollars}
+     \]
+
+Therefore, the cost of 5 slices of pizza is $10.
+</reasoning>
+<answer>10</answer>

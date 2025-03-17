@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much the restaurant donates, we need to follow these steps:
+
+1. **Calculate the total donations from customers**: Since the average customer donates $3 and there are 40 customers, we can calculate the total donations by multiplying the average donation by the number of customers. 
+
+   \[
+   \text{Total donations} = \text{Average donation} \times \text{Number of customers} = 3 \times 40
+   \]
+
+   Performing the multiplication:
+
+   \[
+   \text{Total donations} = 120
+   \]
+
+   This means that the customers together donated a total of $120.
+
+2. **Determine how much the restaurant donates**: The restaurant donates $2 for every $10 donated by customers. To find out how much they donate from the total customer donations, we first need to determine how many full $10 increments are in the total donations.
+
+   We calculate the number of $10 increments in $120:
+
+   \[
+   \text{Number of $10 increments} = \frac{\text{Total donations}}{10} = \frac{120}{10} = 12
+   \]
+
+   Now that we know there are 12 increments of $10, we can calculate the restaurant's total donation:
+
+   \[
+   \text{Restaurant donation} = \text{Number of $10 increments} \times 2 = 12 \times 2
+   \]
+
+   Performing the multiplication:
+
+   \[
+   \text{Restaurant donation} = 24
+   \]
+
+This means that the restaurant donates a total of $24 based on the donations from the customers.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>24</answer>

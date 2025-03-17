@@ -1,0 +1,36 @@
+<reasoning>
+To find the total number of fruits remaining on the tomato plant after Jane picks the tomatoes, let's go through the steps carefully.
+
+1. **Determine the initial amount of tomatoes**: The problem states that the tomato plant has 100 tomatoes initially.
+
+2. **Calculate the number of tomatoes Jane picks first**: Jane picks 1/4 of the 100 tomatoes. 
+   \[
+   \text{Tomatoes picked first} = \frac{1}{4} \times 100 = 25
+   \]
+   So, Jane picks 25 tomatoes.
+
+3. **Calculate the number of tomatoes remaining after the first pick**: 
+   \[
+   \text{Tomatoes remaining after first pick} = 100 - 25 = 75
+   \]
+
+4. **Determine the number of tomatoes she picks the following week**: Jane picks 20 more tomatoes.
+   \[
+   \text{Tomatoes remaining after picking 20} = 75 - 20 = 55
+   \]
+
+5. **Calculate the number of tomatoes she picks the week after that**: She picks twice the amount of the previous pick, which was 20 tomatoes.
+   \[
+   \text{Tomatoes picked next} = 2 \times 20 = 40
+   \]
+
+6. **Calculate the number of tomatoes remaining after the last pick**: 
+   \[
+   \text{Tomatoes remaining after picking 40} = 55 - 40 = 15
+   \]
+
+Now, we have gone through all the steps to find the total number of fruits remaining on the tomato plant. 
+
+Therefore, the total number of fruits remaining on the tomato plant is:
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To find the total number of passengers transported between the two stations, we start by calculating the number of passengers for each trip.
+
+1. **First Trip (One Way)**: The train carried 100 passengers from one station to the other. 
+   
+   - **Passengers transported in this trip**: 100
+
+2. **Return Trip**: On the return journey, the train carried 60 passengers back to the original station.
+
+   - **Passengers transported in this trip**: 60
+
+Now, we will calculate the total passengers for this round trip (to and from):
+
+- **Total for the first round trip**: 
+  \[
+  100 \text{ (to)} + 60 \text{ (return)} = 160
+  \]
+
+3. **Additional Round Trips**: The train made three more round trips, carrying the same number of passengers as the first trip (100 to the destination and 60 back).
+
+   - **Total for each additional round trip**: 160 (as calculated above)
+
+   - **Total for three additional round trips**:
+   \[
+   3 \text{ (round trips)} \times 160 \text{ (passengers per round trip)} = 480
+   \]
+
+4. **Total Passengers for All Trips**: Now, we add the passengers from the initial round trip to the passengers from the three additional round trips.
+
+   - **Total passengers transported**:
+   \[
+   160 \text{ (first round trip)} + 480 \text{ (three additional round trips)} = 640
+   \]
+
+Therefore, the total number of passengers transported between both stations is 640.
+</reasoning>
+<answer>640</answer>

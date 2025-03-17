@@ -1,0 +1,45 @@
+<reasoning>
+To find out how many pages Sabrina has left to read in the series, we'll go through the problem step by step.
+
+1. **Determine the total number of pages in the series**:
+   - There are 14 books in the series, and each book has 200 pages.
+   - To find the total number of pages, we multiply the number of books by the number of pages per book:
+     \[
+     \text{Total pages} = 14 \text{ books} \times 200 \text{ pages/book} = 2800 \text{ pages}
+     \]
+   This calculation shows that the entire series consists of 2800 pages.
+
+2. **Calculate how many books Sabrina has read**:
+   - In the first month, Sabrina read 4 books.
+   - After reading these 4 books, the number of books remaining is:
+     \[
+     \text{Remaining books} = 14 - 4 = 10 \text{ books}
+     \]
+
+3. **Determine how many books she read in the second month**:
+   - Sabrina read half of the remaining books in the second month. Since there are 10 books remaining:
+     \[
+     \text{Books read in second month} = \frac{10}{2} = 5 \text{ books}
+     \]
+
+4. **Calculate the total number of books Sabrina has read**:
+   - She read 4 books in the first month and 5 books in the second month:
+     \[
+     \text{Total books read} = 4 + 5 = 9 \text{ books}
+     \]
+
+5. **Determine the number of pages she has read**:
+   - To find out how many pages she has read, we multiply the number of books she has read by the number of pages per book:
+     \[
+     \text{Pages read} = 9 \text{ books} \times 200 \text{ pages/book} = 1800 \text{ pages}
+     \]
+
+6. **Calculate the total number of pages left to read**:
+   - To find out how many pages she has left to read, we subtract the number of pages she has read from the total number of pages in the series:
+     \[
+     \text{Pages left} = \text{Total pages} - \text{Pages read} = 2800 - 1800 = 1000 \text{ pages}
+     \]
+
+In conclusion, the total number of pages Sabrina has left to read to finish the whole series is 1000.
+</reasoning>
+<answer>1000</answer>

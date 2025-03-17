@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many items each baggie has, we first need to determine the total number of snacks Mille has. 
+
+1. **Calculate the number of goldfish**: 
+   Mille has 64 pretzels, and she’s making four times as many goldfish.
+   \[
+   \text{Number of goldfish} = 4 \times 64 = 256
+   \]
+   So, there are 256 goldfish.
+
+2. **Calculate the number of suckers**: 
+   Mille has 32 suckers, which we will include in the total count.
+   
+3. **Calculate the total number of items**: 
+   Now, we add the number of pretzels, goldfish, and suckers together to find the total.
+   \[
+   \text{Total items} = 64 \text{ (pretzels)} + 256 \text{ (goldfish)} + 32 \text{ (suckers)} = 352
+   \]
+
+4. **Divide the total items by the number of kids**: 
+   There are 16 kids in the class, so we divide the total number of items by 16 to find out how many items each baggie has.
+   \[
+   \text{Items per baggie} = \frac{352}{16} = 22
+   \]
+
+Therefore, each baggie has 22 items.
+</reasoning>
+<answer>22</answer>

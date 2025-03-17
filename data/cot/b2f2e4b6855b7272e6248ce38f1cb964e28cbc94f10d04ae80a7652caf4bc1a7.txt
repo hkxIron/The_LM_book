@@ -1,0 +1,26 @@
+<reasoning>
+First, let's determine how many pounds of noodles Tom needs for his lasagna. The problem states that it takes twice as many noodles as beef. Since Tom has 10 pounds of beef, we can calculate the required amount of noodles as follows:
+
+1. **Calculate the required noodles**:
+   - Required noodles = 2 * pounds of beef
+   - Required noodles = 2 * 10 = 20 pounds of noodles
+
+Now we know Tom needs 20 pounds of noodles in total.
+
+2. **Determine how many pounds of noodles he already has**:
+   - He already has 4 pounds of noodles.
+
+3. **Calculate how many more pounds of noodles he needs to buy**:
+   - Additional noodles needed = Required noodles - Noodles already have
+   - Additional noodles needed = 20 - 4 = 16 pounds of noodles
+
+Now we know Tom needs to buy 16 pounds of noodles.
+
+4. **Determine how many packages of noodles he needs to buy**:
+   - The noodles come in 2-pound packages, so we can find out how many packages are needed by dividing the additional pounds of noodles by the pounds per package.
+   - Number of packages needed = Additional noodles needed / pounds per package
+   - Number of packages needed = 16 / 2 = 8 packages
+
+Thus, Tom needs to buy 8 packages of noodles.
+</reasoning>
+<answer>8</answer>

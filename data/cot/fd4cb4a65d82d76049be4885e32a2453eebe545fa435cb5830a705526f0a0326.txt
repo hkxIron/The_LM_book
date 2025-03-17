@@ -1,0 +1,62 @@
+<reasoning>
+To find out how many total ice creams were not sold, we first need to determine how many ice creams of each flavor were sold.
+
+**Step 1: Calculate the number of chocolate-flavored ice creams sold.**
+
+The vendor has 50 chocolate-flavored ice creams and sold \( \frac{3}{5} \) of them. To find out how many were sold, we multiply the total number of chocolate-flavored ice creams by \( \frac{3}{5} \):
+
+\[
+\text{Chocolate sold} = 50 \times \frac{3}{5}
+\]
+
+Calculating this gives:
+
+\[
+\text{Chocolate sold} = 50 \times 0.6 = 30
+\]
+
+So, 30 chocolate-flavored ice creams were sold.
+
+**Step 2: Calculate the number of mango-flavored ice creams sold.**
+
+The vendor has 54 mango-flavored ice creams and sold \( \frac{2}{3} \) of them. We calculate this in the same way:
+
+\[
+\text{Mango sold} = 54 \times \frac{2}{3}
+\]
+
+Calculating this gives:
+
+\[
+\text{Mango sold} = 54 \times 0.6667 \approx 36
+\]
+
+So, 36 mango-flavored ice creams were sold.
+
+**Step 3: Calculate the total number of ice creams sold.**
+
+Now, we add the number of chocolate and mango ice creams sold:
+
+\[
+\text{Total sold} = \text{Chocolate sold} + \text{Mango sold} = 30 + 36 = 66
+\]
+
+**Step 4: Calculate the total number of ice creams originally.**
+
+Next, we find the total number of ice creams the vendor originally had:
+
+\[
+\text{Total original ice creams} = \text{Chocolate} + \text{Mango} = 50 + 54 = 104
+\]
+
+**Step 5: Calculate the total number of ice creams not sold.**
+
+Finally, we find the total number of ice creams that were not sold by subtracting the total sold from the total original:
+
+\[
+\text{Total not sold} = \text{Total original} - \text{Total sold} = 104 - 66 = 38
+\]
+
+Therefore, the total number of ice creams that were not sold is:
+</reasoning>
+<answer>38</answer>

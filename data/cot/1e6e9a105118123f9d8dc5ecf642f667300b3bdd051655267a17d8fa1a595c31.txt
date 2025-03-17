@@ -1,0 +1,50 @@
+<reasoning>
+To find out how much money Susan will spend on food, we need to follow these steps:
+
+1. **Determine the number of servings needed**: Since Susan is expecting 30 guests, and each guest will need one serving, she will need 30 servings of the recipe.
+
+2. **Calculate the number of batches needed**: Each batch of the recipe makes 2 servings. Therefore, to find out how many batches Susan needs, we divide the total number of servings by the number of servings per batch:
+
+   \[
+   \text{Number of batches} = \frac{\text{Total servings}}{\text{Servings per batch}} = \frac{30}{2} = 15 \text{ batches}
+   \]
+
+3. **Determine the amount of potatoes needed**: Each batch requires 4 potatoes. To find the total number of potatoes needed, we multiply the number of batches by the number of potatoes per batch:
+
+   \[
+   \text{Total potatoes} = \text{Number of batches} \times \text{Potatoes per batch} = 15 \times 4 = 60 \text{ potatoes}
+   \]
+
+4. **Calculate the cost of the potatoes**: Each potato costs $0.10. To find the total cost for the potatoes, we multiply the total number of potatoes by the cost per potato:
+
+   \[
+   \text{Cost of potatoes} = \text{Total potatoes} \times \text{Cost per potato} = 60 \times 0.10 = 6 \text{ dollars}
+   \]
+
+5. **Determine the amount of salt needed**: Each batch requires 1 teaspoon of salt. For 15 batches, the total amount of salt needed is:
+
+   \[
+   \text{Total teaspoons of salt} = \text{Number of batches} \times \text{Teaspoons per batch} = 15 \times 1 = 15 \text{ teaspoons}
+   \]
+
+6. **Calculate the number of containers of salt needed**: Each container of salt contains 5 teaspoons. Thus, to find the total number of containers needed, we divide the total number of teaspoons by the amount per container:
+
+   \[
+   \text{Number of containers} = \frac{\text{Total teaspoons}}{\text{Teaspoons per container}} = \frac{15}{5} = 3 \text{ containers}
+   \]
+
+7. **Calculate the cost of the salt**: Each container of salt costs $2. To find the total cost for the salt, we multiply the number of containers by the cost per container:
+
+   \[
+   \text{Cost of salt} = \text{Number of containers} \times \text{Cost per container} = 3 \times 2 = 6 \text{ dollars}
+   \]
+
+8. **Calculate the total cost for food**: Finally, we add the cost of the potatoes and the cost of the salt to find the total amount Susan will spend on food:
+
+   \[
+   \text{Total cost} = \text{Cost of potatoes} + \text{Cost of salt} = 6 + 6 = 12 \text{ dollars}
+   \]
+
+Therefore, Susan will spend a total of $12 on food for the party.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+First, we need to determine how many eggs Tricia ordered. Since she ordered three dozen eggs, we can calculate the total number of eggs.
+
+1. **Calculating the total number of eggs:**
+   A dozen equals 12, so three dozen is calculated as follows:
+   \[
+   3 \text{ dozen} = 3 \times 12 = 36 \text{ eggs}
+   \]
+
+2. **Finding out how many eggs Tricia will use for making crepes:**
+   Tricia will use \( \frac{1}{4} \) of the total eggs for crepes. We calculate \( \frac{1}{4} \) of 36:
+   \[
+   \text{Eggs for crepes} = \frac{1}{4} \times 36 = 9 \text{ eggs}
+   \]
+
+3. **Calculating the remaining eggs after making crepes:**
+   To find the number of eggs left after making crepes, we subtract the eggs used for crepes from the total:
+   \[
+   \text{Remaining eggs} = 36 - 9 = 27 \text{ eggs}
+   \]
+
+4. **Finding out how many eggs Tricia will use for making cupcakes:**
+   Tricia will use \( \frac{2}{3} \) of the remaining eggs for cupcakes. We calculate \( \frac{2}{3} \) of 27:
+   \[
+   \text{Eggs for cupcakes} = \frac{2}{3} \times 27 = 18 \text{ eggs}
+   \]
+
+5. **Calculating the number of eggs left for sunny-side-up eggs:**
+   Finally, we need to find out how many eggs are left after making cupcakes. We subtract the eggs used for cupcakes from the remaining eggs:
+   \[
+   \text{Eggs left for sunny-side-up} = 27 - 18 = 9 \text{ eggs}
+   \]
+
+Therefore, the number of eggs left for making sunny-side-up eggs for breakfast is 9.
+</reasoning>
+<answer>9</answer>

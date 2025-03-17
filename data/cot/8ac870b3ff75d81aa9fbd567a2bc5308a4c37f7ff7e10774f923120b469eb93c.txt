@@ -1,0 +1,29 @@
+<reasoning>
+First, let's start by calculating the total cost for each person if they buy their iPhone X individually without the discount.
+
+1. **Calculate the cost for one iPhone X**:  
+   The cost of one iPhone X is $600.
+
+2. **Calculate the total cost for three iPhone Xs without discount**:  
+   If Melinda, Zoe, and Joel each buy one iPhone X individually, the total cost would be:  
+   \( 3 \times 600 = 1800 \) dollars.
+
+3. **Calculate the discount when buying three iPhones together**:  
+   Since they are buying at least 2 smartphones together, they qualify for a 5% discount.  
+   The total cost for three iPhones before the discount is $1800.
+
+4. **Calculate the amount of the discount**:  
+   The discount amount can be calculated as:  
+   \( 0.05 \times 1800 = 90 \) dollars.
+
+5. **Calculate the total cost after applying the discount**:  
+   Now we subtract the discount from the total cost:  
+   \( 1800 - 90 = 1710 \) dollars.
+
+6. **Calculate the savings from buying together**:  
+   To find out how much they save by pooling their money together, we take the difference between the total cost if bought individually and the cost when bought together:  
+   \( 1800 - 1710 = 90 \) dollars.
+
+So, by purchasing the iPhones together, Melinda, Zoe, and Joel save a total of $90 compared to buying them individually.
+</reasoning>
+<answer>90</answer>

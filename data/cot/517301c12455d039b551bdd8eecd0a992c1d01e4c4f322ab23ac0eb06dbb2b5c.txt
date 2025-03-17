@@ -1,0 +1,31 @@
+<reasoning>
+To find out how long the chess match lasted in minutes, we need to calculate the total time taken by both Polly and Peter for all their moves.
+
+1. **Calculate the total time per player:**
+   - Polly takes an average of 28 seconds per move. 
+   - Peter takes an average of 40 seconds per move.
+
+2. **Determine the number of moves made by each player:**
+   - In a chess game with a total of 30 moves, we assume these moves are split between Polly and Peter. Typically in chess, each player would have made 15 moves if moves are alternating.
+   - Therefore, both players will have made 15 moves each.
+
+3. **Calculate the total time taken by Polly:**
+   - Polly's time for 15 moves = 15 moves * 28 seconds/move = 420 seconds.
+
+4. **Calculate the total time taken by Peter:**
+   - Peter's time for 15 moves = 15 moves * 40 seconds/move = 600 seconds.
+
+5. **Add the total time taken by both players:**
+   - Total time = Polly's time + Peter's time = 420 seconds + 600 seconds = 1020 seconds.
+
+6. **Convert seconds to minutes:**
+   - There are 60 seconds in a minute. Therefore, to convert 1020 seconds into minutes, we divide by 60.
+   - 1020 seconds ÷ 60 seconds/minute = 17 minutes.
+
+Therefore, the total time the match lasted is calculated as follows:
+1. Polly's time for 15 moves = 420 seconds.
+2. Peter's time for 15 moves = 600 seconds.
+3. Total time for the match = 420 seconds + 600 seconds = 1020 seconds.
+4. Converting 1020 seconds to minutes = 1020 ÷ 60 = 17 minutes.
+</reasoning>
+<answer>17</answer>

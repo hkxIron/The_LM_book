@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many students are in Peter's class, we need to understand the relationship between the number of hands and the number of students.
+
+1. Each student has 2 hands. 
+2. If there are 20 hands in total from all the students (not including Peter's hands), we can determine how many students there are by dividing the total number of hands by the number of hands each student has.
+
+Now, let's calculate the number of students:
+
+- Given that there are 20 hands: 
+\[
+\text{Number of students} = \frac{\text{Total hands}}{\text{Hands per student}} = \frac{20}{2} = 10
+\]
+
+This means there are 10 students in the class (not including Peter).
+
+3. Since the problem asks for the total number of students including Peter, we add 1 (for Peter himself) to the number of students we calculated:
+\[
+\text{Total students including Peter} = 10 + 1 = 11
+\]
+
+Therefore, the total number of students in Peter's class, including him, is 11.
+</reasoning>
+<answer>11</answer>

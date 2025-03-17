@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to determine how many 12-ounce steaks can be made from 15 pounds of beef.
+
+1. **Convert pounds to ounces**: 
+   We know that there are 16 ounces in a pound. Therefore, we need to convert 15 pounds into ounces. 
+   \[
+   15 \text{ pounds} \times 16 \text{ ounces per pound} = 240 \text{ ounces}
+   \]
+   This tells us that Matt has a total of 240 ounces of beef.
+
+2. **Calculate the number of steaks**: 
+   Next, we need to see how many 12-ounce steaks can be made from 240 ounces. To find this, we divide the total number of ounces by the size of each steak:
+   \[
+   \frac{240 \text{ ounces}}{12 \text{ ounces per steak}} = 20 \text{ steaks}
+   \]
+   This calculation shows that Matt can cut his 15 pounds of beef into 20 steaks, each weighing 12 ounces.
+
+Therefore, after going through these steps and calculations, we find out how many steaks Matt can get from his order.
+</reasoning>
+<answer>20</answer>

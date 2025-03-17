@@ -1,0 +1,45 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine how many magnets Adam gave away**: 
+   Adam has 18 magnets and he gave away a third of them. 
+   To find out how many magnets he gave away, we calculate:
+   \[
+   \text{Magnets given away} = \frac{1}{3} \times 18 = 6
+   \]
+   So, Adam gave away 6 magnets.
+
+2. **Calculate how many magnets Adam has left**: 
+   After giving away 6 magnets, we subtract this from his original number:
+   \[
+   \text{Magnets left} = 18 - 6 = 12
+   \]
+   Now, Adam has 12 magnets left.
+
+3. **Understanding the relationship with Peter's magnets**: 
+   The problem states that after giving away the magnets, Adam still had half as many magnets as Peter. This means:
+   \[
+   \text{Adam's magnets} = \frac{1}{2} \times \text{Peter's magnets}
+   \]
+   We can denote the number of magnets Peter has as \( P \).
+
+4. **Setting up the equation**: 
+   Since we know that Adam has 12 magnets:
+   \[
+   12 = \frac{1}{2} P
+   \]
+
+5. **Solving for \( P \)**: 
+   To find out how many magnets Peter has, we can multiply both sides of the equation by 2:
+   \[
+   P = 12 \times 2 = 24
+   \]
+   Therefore, Peter has 24 magnets.
+
+In conclusion, after calculating step by step:
+- Adam started with 18 magnets,
+- He gave away 6,
+- He had 12 left,
+- And since 12 is half of Peter's total, Peter has 24 magnets.
+</reasoning>
+<answer>24</answer>

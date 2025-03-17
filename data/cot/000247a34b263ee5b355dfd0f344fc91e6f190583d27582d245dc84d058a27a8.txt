@@ -1,0 +1,54 @@
+<reasoning>
+Let's denote the number of high school credits each person has as follows:
+
+- Let \( S \) be the number of credits Spencer has.
+- Let \( E \) be the number of credits Emily has.
+- Let \( A \) be the number of credits Aria has.
+
+From the problem, we know:
+
+1. Emily has 20 credits, so \( E = 20 \).
+2. Emily has twice as many credits as Spencer, which gives us the equation:
+   \[
+   E = 2S
+   \]
+   Substituting \( E = 20 \):
+   \[
+   20 = 2S
+   \]
+   To find \( S \), we divide both sides by 2:
+   \[
+   S = \frac{20}{2} = 10
+   \]
+
+3. Aria has twice as many credits as Emily, so:
+   \[
+   A = 2E
+   \]
+   Substituting \( E = 20 \):
+   \[
+   A = 2 \times 20 = 40
+   \]
+
+Now we have the number of credits for each person:
+- Spencer has \( S = 10 \) credits.
+- Emily has \( E = 20 \) credits.
+- Aria has \( A = 40 \) credits.
+
+Next, we will calculate the total number of high school credits the three have:
+\[
+\text{Total credits} = A + E + S = 40 + 20 + 10
+\]
+Calculating this gives:
+\[
+\text{Total credits} = 70
+\]
+
+Finally, we need to find twice the total number of high school credits:
+\[
+\text{Twice the total credits} = 2 \times 70 = 140
+\]
+
+Therefore, the final answer is:
+</reasoning>
+<answer>140</answer>

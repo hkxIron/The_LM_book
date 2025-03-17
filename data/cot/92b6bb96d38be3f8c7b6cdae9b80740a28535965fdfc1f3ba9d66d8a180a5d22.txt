@@ -1,0 +1,33 @@
+<reasoning>
+First, we need to determine how many containers of paint Mikaela originally bought and how many she will actually use after her change of plans.
+
+1. Mikaela initially bought **16 containers of paint** for the four walls. 
+   - This means she had planned to paint all four walls with this amount of paint.
+
+2. However, she decided to put tile on one of the walls instead of painting it. This means she now only needs to paint **3 walls** instead of 4.
+
+3. Additionally, she will use **1 container of paint** to paint flowers on the ceiling.
+
+4. To find out how many containers of paint she will use in total, we need to consider the following:
+   - She is painting 3 walls and the ceiling with one container.
+   - If we assume that each wall requires the same amount of paint, we can calculate the amount of paint needed for the 3 walls and the ceiling.
+
+Let's denote the amount of paint needed for each wall as \( x \).
+
+5. Since she originally intended to paint 4 walls with 16 containers, we can find out how much paint each wall would require:
+   - If 4 walls require 16 containers, then each wall requires \( \frac{16}{4} = 4 \) containers.
+
+6. Now, she will paint 3 walls, which will require:
+   - \( 3 \text{ walls} \times 4 \text{ containers/wall} = 12 \text{ containers} \)
+
+7. She will also use **1 container** for the ceiling:
+   - Total paint used = \( 12 \text{ containers for walls} + 1 \text{ container for ceiling} = 13 \text{ containers} \)
+
+8. Now we need to calculate how many containers of paint she will have left over:
+   - Total containers bought = 16
+   - Total containers used = 13
+   - Containers left over = \( 16 - 13 = 3 \text{ containers} \)
+
+Therefore, after all calculations, we find that Mikaela will have **3 containers of paint left over**.
+</reasoning>
+<answer>3</answer>

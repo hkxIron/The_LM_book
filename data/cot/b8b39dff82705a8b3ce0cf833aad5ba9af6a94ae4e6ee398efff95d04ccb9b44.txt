@@ -1,0 +1,44 @@
+<reasoning>
+To find the difference in the bookstore's earnings from the two books, we first need to calculate the total earnings from each book and then find the difference between those totals.
+
+1. **Calculate the total earnings from the "TOP" books:**
+   - Each "TOP" book costs $8, and 13 of them were sold.
+   - To find the total earnings from "TOP" books, we multiply the number of books sold by the price per book:
+     \[
+     \text{Total earnings from "TOP"} = 13 \times 8
+     \]
+   - Now, we perform the multiplication:
+     \[
+     13 \times 8 = 104
+     \]
+   - Therefore, the total earnings from "TOP" books is $104.
+
+2. **Calculate the total earnings from the "ABC" books:**
+   - Each "ABC" book costs $23, and 4 of them were sold.
+   - Similarly, we multiply the number of "ABC" books sold by the price per book:
+     \[
+     \text{Total earnings from "ABC"} = 4 \times 23
+     \]
+   - Now, we perform this multiplication:
+     \[
+     4 \times 23 = 92
+     \]
+   - Therefore, the total earnings from "ABC" books is $92.
+
+3. **Find the difference in earnings between the two books:**
+   - We now subtract the total earnings from "ABC" books from the total earnings from "TOP" books:
+     \[
+     \text{Difference} = \text{Total earnings from "TOP"} - \text{Total earnings from "ABC"}
+     \]
+   - Plugging in the values we calculated:
+     \[
+     \text{Difference} = 104 - 92
+     \]
+   - Performing the subtraction:
+     \[
+     104 - 92 = 12
+     \]
+
+The difference in the bookstore's earnings on these two books last week is $12.
+</reasoning>
+<answer>12</answer>

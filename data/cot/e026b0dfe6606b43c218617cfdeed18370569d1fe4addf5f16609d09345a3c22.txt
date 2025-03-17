@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many kilograms of grapes Borris will need in a year after increasing his production by twenty percent, let's break down the problem step by step.
+
+1. **Calculate the current annual usage of grapes:**
+   Borris uses 90 kilograms of grapes every 6 months. Since there are two 6-month periods in a year, we can calculate the annual usage by multiplying the 6-month usage by 2:
+   \[
+   \text{Annual usage} = 90 \, \text{kg} \times 2 = 180 \, \text{kg}
+   \]
+
+2. **Calculate the increase in production:**
+   He plans to increase his production by twenty percent. To find twenty percent of the current annual usage, we calculate:
+   \[
+   \text{Increase} = 20\% \text{ of } 180 \, \text{kg} = 0.20 \times 180 \, \text{kg} = 36 \, \text{kg}
+   \]
+
+3. **Calculate the new annual usage after the increase:**
+   Now, we add the increase to the current annual usage to find out how many kilograms of grapes he will need after the increase:
+   \[
+   \text{New annual usage} = 180 \, \text{kg} + 36 \, \text{kg} = 216 \, \text{kg}
+   \]
+
+In conclusion, after increasing his production by twenty percent, Borris will need 216 kilograms of grapes in a year.
+</reasoning>
+<answer>216</answer>

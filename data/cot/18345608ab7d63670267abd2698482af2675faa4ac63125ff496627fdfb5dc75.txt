@@ -1,0 +1,31 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate how much Dave can bench press.**
+   - Dave weighs 175 pounds and can bench press three times his body weight.
+   - To find this, we multiply Dave's weight by 3:
+     \[
+     \text{Dave's bench press} = 3 \times 175 = 525 \text{ pounds}
+     \]
+   - So, Dave can bench press 525 pounds.
+
+2. **Calculate how much Craig can bench press.**
+   - Craig can only bench press 20% of the amount Dave can.
+   - To calculate this, we take 20% of 525 pounds:
+     \[
+     \text{Craig's bench press} = 0.20 \times 525 = 105 \text{ pounds}
+     \]
+   - Therefore, Craig can bench press 105 pounds.
+
+3. **Calculate how much Mark can bench press.**
+   - Mark can bench press 50 pounds less than Craig.
+   - We subtract 50 pounds from Craig's bench press amount:
+     \[
+     \text{Mark's bench press} = 105 - 50 = 55 \text{ pounds}
+     \]
+   - Thus, Mark can bench press 55 pounds.
+
+Finally, we summarize the calculation for Mark:
+- Mark's bench press is 55 pounds.
+</reasoning>
+<answer>55</answer>

@@ -1,0 +1,19 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Determine the number of hoots per minute heard**: The problem states that there are "5 less than 20 hoots per minute." We can calculate this by subtracting 5 from 20.
+   \[
+   20 - 5 = 15
+   \]
+   So, there are 15 hoots per minute coming from the barn.
+
+2. **Determine how many hoots one barnyard owl makes**: The problem tells us that one barnyard owl makes 5 hoot sounds per minute.
+
+3. **Calculate the number of barnyard owls based on the total hoots**: To find out how many barnyard owls are making the 15 hoots per minute, we divide the total number of hoots (15) by the number of hoots one owl makes (5).
+   \[
+   \text{Number of owls} = \frac{\text{Total hoots}}{\text{Hoots per owl}} = \frac{15}{5} = 3
+   \]
+
+Therefore, the noise of 15 hoots per minute is coming from 3 barnyard owls.
+</reasoning>
+<answer>3</answer>

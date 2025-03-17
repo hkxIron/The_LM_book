@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many flowers are remaining in Mr. Wells's garden after cutting 60% of them, we can follow these steps:
+
+1. **Calculate the total number of flowers in the garden:**
+   The total number of flowers can be found by multiplying the number of rows by the number of flowers in each row. 
+   \[
+   \text{Total flowers} = \text{Number of rows} \times \text{Flowers per row} = 50 \times 400
+   \]
+   Let's calculate this:
+   \[
+   50 \times 400 = 20000
+   \]
+   So, there are 20,000 flowers in total.
+
+2. **Calculate the number of flowers that are cut:**
+   Since Mr. Wells cuts 60% of the flowers, we need to find 60% of the total number of flowers.
+   To find 60%, we can multiply the total number of flowers by 0.60:
+   \[
+   \text{Flowers cut} = 0.60 \times \text{Total flowers} = 0.60 \times 20000
+   \]
+   Now, let’s calculate this:
+   \[
+   0.60 \times 20000 = 12000
+   \]
+   Therefore, Mr. Wells cuts 12,000 flowers.
+
+3. **Calculate the number of flowers remaining:**
+   To find the remaining flowers, we subtract the number of flowers cut from the total number of flowers:
+   \[
+   \text{Remaining flowers} = \text{Total flowers} - \text{Flowers cut} = 20000 - 12000
+   \]
+   Now, let’s calculate this:
+   \[
+   20000 - 12000 = 8000
+   \]
+   So, there are 8,000 flowers remaining in the garden.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>8000</answer>

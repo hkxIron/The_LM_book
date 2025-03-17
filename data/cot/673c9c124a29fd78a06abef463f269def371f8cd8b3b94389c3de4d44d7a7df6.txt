@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine how many times Billy rode his bike**: 
+   - According to the problem, Billy rode his bike 17 times.
+   - So, Billy = 17 times.
+
+2. **Calculate how many times John rode his bike**: 
+   - The problem states that John rode his bike twice as many times as Billy. 
+   - Therefore, we multiply the number of times Billy rode by 2: 
+     \( \text{John} = 2 \times 17 = 34 \) times.
+
+3. **Find out how many times their mother rode her bike**: 
+   - The problem indicates that their mother rode her bike 10 times more than John. 
+   - To find this, we take the number of times John rode and add 10:
+     \( \text{Mother} = 34 + 10 = 44 \) times.
+
+4. **Calculate the total number of times they all rode their bikes**: 
+   - We now add the number of times each person rode their bike together:
+     \( \text{Total} = \text{Billy} + \text{John} + \text{Mother} = 17 + 34 + 44 \).
+
+5. **Perform the addition**: 
+   - First, add Billy's and John's rides: \( 17 + 34 = 51 \).
+   - Next, add the mother's rides: \( 51 + 44 = 95 \).
+
+Therefore, the total number of times they rode their bikes is 95.
+</reasoning>
+<answer>95</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Identify the number of jellybeans Arnold has**: We know from the problem statement that Arnold has 5 jellybeans.
+
+2. **Determine how many jellybeans Lee has**: According to the problem, Arnold has half as many jellybeans as Lee. Therefore, we can set up the equation:
+   \[
+   \text{Arnold's jellybeans} = \frac{1}{2} \times \text{Lee's jellybeans}
+   \]
+   Substituting Arnold's jellybeans gives us:
+   \[
+   5 = \frac{1}{2} \times \text{Lee's jellybeans}
+   \]
+   To find Lee's jellybeans, we can multiply both sides of the equation by 2:
+   \[
+   5 \times 2 = \text{Lee's jellybeans}
+   \]
+   \[
+   10 = \text{Lee's jellybeans}
+   \]
+   So, Lee has 10 jellybeans.
+
+3. **Calculate how many jellybeans Tino has**: We know from the problem that Tino has 24 more jellybeans than Lee. Thus, we can set up the equation:
+   \[
+   \text{Tino's jellybeans} = \text{Lee's jellybeans} + 24
+   \]
+   Substituting Lee's jellybeans gives us:
+   \[
+   \text{Tino's jellybeans} = 10 + 24
+   \]
+   Performing the addition:
+   \[
+   \text{Tino's jellybeans} = 34
+   \]
+
+Therefore, Tino has 34 jellybeans.
+</reasoning>
+<answer>34</answer>

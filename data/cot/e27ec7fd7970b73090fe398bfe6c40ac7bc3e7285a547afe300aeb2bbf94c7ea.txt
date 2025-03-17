@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we need to find the total amount Cheryl pays to enter the golf tournament, based on the information given about her cell phone expenses.
+
+1. **Find Cheryl's monthly cell phone expenses:**
+   We know that Cheryl spends $400 more on her cell phone than her electricity bill.
+   The electricity bill costs $800. Therefore, we can calculate her monthly cell phone expenses as follows:
+   \[
+   \text{Cell phone expenses} = \text{Electricity bill} + 400 = 800 + 400 = 1200
+   \]
+   So, Cheryl's monthly cell phone expenses are $1200.
+
+2. **Calculate the cost of entering the golf tournament:**
+   The tournament costs 20% more than her monthly cell phone expenses. To find this, we first calculate 20% of her cell phone expenses:
+   \[
+   \text{20% of cell phone expenses} = 0.20 \times 1200 = 240
+   \]
+   Next, we add this amount to the original cell phone expenses to find the total entry fee:
+   \[
+   \text{Tournament entry fee} = \text{Cell phone expenses} + \text{20% increase} = 1200 + 240 = 1440
+   \]
+
+3. **Conclusion:**
+   Therefore, the total amount Cheryl pays upon signing up for the golf tournament is $1440.
+</reasoning>
+<answer>1440</answer>

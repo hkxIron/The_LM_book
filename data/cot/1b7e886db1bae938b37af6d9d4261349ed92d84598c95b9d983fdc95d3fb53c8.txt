@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to determine how many days Tim runs now and how much time she spends running each day.
+
+1. **Calculate the total number of running days per week:**
+   - Tim used to run 3 times a week.
+   - She decided to add 2 extra days of running.
+   - So, we add the extra days to the original days:
+     \[
+     3 \text{ (original days)} + 2 \text{ (extra days)} = 5 \text{ days}
+     \]
+
+2. **Determine the total running hours per day:**
+   - Tim runs 1 hour in the morning and 1 hour in the evening each day she runs.
+   - Therefore, the total running time per day is:
+     \[
+     1 \text{ hour (morning)} + 1 \text{ hour (evening)} = 2 \text{ hours}
+     \]
+
+3. **Calculate the total running hours per week:**
+   - Now that we know she runs for 2 hours each day and she runs 5 days a week, we multiply the number of days by the hours per day:
+     \[
+     5 \text{ days} \times 2 \text{ hours/day} = 10 \text{ hours}
+     \]
+
+Thus, Tim now runs a total of 10 hours per week.
+</reasoning>
+<answer>10</answer>

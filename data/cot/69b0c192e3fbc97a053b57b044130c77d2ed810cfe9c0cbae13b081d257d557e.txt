@@ -1,0 +1,31 @@
+<reasoning>
+Let's solve this problem step by step:
+
+1. **Starting Amount**: Jake starts with 80 bitcoins.
+   - Reason: This is given in the problem.
+
+2. **First Donation**: He donates 20 bitcoins to charity.
+   - Calculation: 80 bitcoins - 20 bitcoins = 60 bitcoins.
+   - Reason: We subtract the donated amount from the initial amount to find out how many bitcoins he has left.
+
+3. **Giving to Brother**: He gives half of all the bitcoins he has to his brother.
+   - Calculation: 60 bitcoins ÷ 2 = 30 bitcoins.
+   - Reason: To find half, we divide the remaining bitcoins by 2.
+
+   Now, we subtract the amount given to his brother from what he had left:
+   - Calculation: 60 bitcoins - 30 bitcoins = 30 bitcoins.
+   - Reason: We find out how many bitcoins Jake has left after the donation to his brother.
+
+4. **Tripling the Amount**: He then triples the number of bitcoins he has.
+   - Calculation: 30 bitcoins × 3 = 90 bitcoins.
+   - Reason: To triple means to multiply by 3.
+
+5. **Second Donation**: He donates another 10 bitcoins.
+   - Calculation: 90 bitcoins - 10 bitcoins = 80 bitcoins.
+   - Reason: We subtract the second donation from the total bitcoins after tripling.
+
+Now, let's summarize the final amount of bitcoins Jake has:
+
+After all the steps, Jake has 80 bitcoins.
+</reasoning>
+<answer>80</answer>

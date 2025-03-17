@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much enjoyable gameplay James gets, we need to break down the total gameplay time and identify which parts are enjoyable.
+
+1. **Total gameplay time**: James's game promises 100 hours of gameplay.
+
+2. **Boring grinding time**: According to the problem, 80% of the total gameplay is boring grinding. To find the amount of time that is boring, we calculate 80% of 100 hours:
+   \[
+   \text{Boring time} = 100 \text{ hours} \times 0.80 = 80 \text{ hours}
+   \]
+   This means that out of the total 100 hours, 80 hours are boring.
+
+3. **Enjoyable gameplay from the main game**: Since 80 hours are boring, we can find the enjoyable gameplay time from the main game by subtracting the boring time from the total time:
+   \[
+   \text{Enjoyable time from the main game} = 100 \text{ hours} - 80 \text{ hours} = 20 \text{ hours}
+   \]
+
+4. **Enjoyable gameplay from the expansion**: The problem states that the expansion adds another 30 hours of enjoyable gameplay. We simply add this to the enjoyable gameplay we already calculated:
+   \[
+   \text{Total enjoyable gameplay} = 20 \text{ hours} + 30 \text{ hours} = 50 \text{ hours}
+   \]
+
+Thus, the total amount of enjoyable gameplay that James gets is 50 hours.
+</reasoning>
+<answer>50</answer>

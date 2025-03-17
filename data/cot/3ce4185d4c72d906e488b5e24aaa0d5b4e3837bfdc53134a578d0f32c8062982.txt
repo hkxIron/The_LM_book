@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much money Toby has left after sharing with his brothers, we will follow these steps:
+
+1. **Calculate how much Toby gives to each brother.** 
+   Toby gives each brother \( \frac{1}{7} \) of $343. So we need to calculate:
+   \[
+   \text{Amount given to each brother} = \frac{1}{7} \times 343
+   \]
+
+2. **Perform the multiplication.**
+   To find \( \frac{1}{7} \times 343 \), we can divide 343 by 7:
+   \[
+   343 \div 7 = 49
+   \]
+   Therefore, each brother receives $49.
+
+3. **Calculate the total amount given to both brothers.**
+   Since there are two brothers, we calculate the total amount Toby gives them:
+   \[
+   \text{Total given to brothers} = 49 \times 2 = 98
+   \]
+
+4. **Calculate how much money Toby has left.**
+   Now we subtract the total amount given to his brothers from the initial amount:
+   \[
+   \text{Amount left for Toby} = 343 - 98
+   \]
+   Performing the subtraction:
+   \[
+   343 - 98 = 245
+   \]
+
+So, after sharing the money with his brothers, Toby has $245 left.
+</reasoning>
+<answer>245</answer>

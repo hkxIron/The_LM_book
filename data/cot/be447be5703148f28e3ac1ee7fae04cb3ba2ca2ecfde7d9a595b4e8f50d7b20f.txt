@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many grey cats are in the house, we can follow these steps:
+
+1. **Identify the total number of cats**: We know from the problem that there are a total of 16 cats in the house.
+
+2. **Calculate the number of black cats**: We are given that 25% of the cats are black. To find this, we calculate 25% of 16:
+   \[
+   \text{Number of black cats} = 25\% \times 16 = \frac{25}{100} \times 16 = 0.25 \times 16 = 4
+   \]
+   So, there are 4 black cats.
+
+3. **Identify the number of white cats**: The problem states that there are 2 white cats.
+
+4. **Calculate the number of grey cats**: Now we can find the number of grey cats by subtracting the number of white and black cats from the total:
+   \[
+   \text{Number of grey cats} = \text{Total cats} - (\text{Number of white cats} + \text{Number of black cats})
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Number of grey cats} = 16 - (2 + 4) = 16 - 6 = 10
+   \]
+
+Thus, there are 10 grey cats in the house.
+</reasoning>
+<answer>10</answer>

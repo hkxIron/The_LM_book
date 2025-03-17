@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Starting Point**: Natalie's sister initially had 8 small diaries.
+
+2. **Buying Diaries**: She bought double the number of diaries she had. To find out how many she bought, we multiply the initial number of diaries by 2:
+   \[
+   2 \times 8 = 16
+   \]
+   So, she bought 16 additional diaries.
+
+3. **Total Diaries After Buying**: We now add the number of diaries she started with to the number she bought:
+   \[
+   8 + 16 = 24
+   \]
+   After buying, she has a total of 24 diaries.
+
+4. **Losing Diaries**: Next, she lost 1/4 of the total number of diaries she had. To find out how many that is, we calculate 1/4 of 24:
+   \[
+   \frac{1}{4} \times 24 = 6
+   \]
+   Therefore, she lost 6 diaries.
+
+5. **Final Count of Diaries**: Lastly, we subtract the number of diaries lost from the total number she had after buying:
+   \[
+   24 - 6 = 18
+   \]
+   Thus, after losing some diaries, Natalie's sister has 18 diaries remaining.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>18</answer>

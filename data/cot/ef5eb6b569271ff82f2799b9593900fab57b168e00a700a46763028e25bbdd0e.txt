@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much money Maggie earned from her magazine sales, we will follow these steps:
+
+1. **Calculate the total number of subscriptions sold**:
+   - Maggie sells 4 subscriptions to her parents.
+   - She sells 1 subscription to her grandfather.
+   - She sells 2 subscriptions to the next-door neighbor.
+   - She sells twice that amount (2 subscriptions) to another neighbor, which is \(2 \times 2 = 4\) subscriptions.
+
+Now, let's add these numbers together:
+- Subscriptions to parents: 4
+- Subscriptions to grandfather: 1
+- Subscriptions to next-door neighbor: 2
+- Subscriptions to another neighbor: 4
+
+So, the total number of subscriptions sold is:
+\[ 
+4 + 1 + 2 + 4 = 11 
+\]
+
+2. **Calculate the total earnings**:
+   - Maggie earns $5.00 for each subscription sold. 
+   - To find her total earnings, we multiply the total number of subscriptions by her earnings per subscription:
+\[ 
+11 \text{ subscriptions} \times 5 \text{ dollars/subscription} = 55 \text{ dollars} 
+\]
+
+Therefore, Maggie earned a total of $55.
+</reasoning>
+<answer>55</answer>

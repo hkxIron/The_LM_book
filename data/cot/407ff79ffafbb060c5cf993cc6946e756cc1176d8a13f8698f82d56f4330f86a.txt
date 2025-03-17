@@ -1,0 +1,50 @@
+<reasoning>
+To solve the problem, we need to calculate Clayton's total points scored in the first four games, including the average points he scored in the fourth game.
+
+1. **Calculate the total points from the first three games:**
+   - In the first game, he scored 10 points.
+   - In the second game, he scored 14 points.
+   - In the third game, he scored 6 points.
+
+   Now, we sum these points:
+   \[
+   10 + 14 + 6
+   \]
+
+   Adding these together:
+   \[
+   10 + 14 = 24
+   \]
+   \[
+   24 + 6 = 30
+   \]
+   So, Clayton scored a total of 30 points in the first three games.
+
+2. **Calculate the average points scored in the first three games:**
+   - To find the average, we divide the total points by the number of games played. He played 3 games.
+   \[
+   \text{Average} = \frac{\text{Total Points}}{\text{Number of Games}} = \frac{30}{3}
+   \]
+
+   Performing the division:
+   \[
+   \frac{30}{3} = 10
+   \]
+   Therefore, the average points scored in the first three games is 10 points.
+
+3. **Determine the points scored in the fourth game:**
+   - According to the problem, in the fourth game, Clayton scored the average points of 10 from the first three games.
+
+4. **Calculate the total points scored in all four games:**
+   - Now we add the points from all four games:
+   \[
+   10 \text{ (first game)} + 14 \text{ (second game)} + 6 \text{ (third game)} + 10 \text{ (fourth game)}
+   \]
+   We already calculated the total from the first three games as 30 points. Now we add the fourth game's points:
+   \[
+   30 + 10 = 40
+   \]
+
+Thus, the total points scored by Clayton during the first four games is 40.
+</reasoning>
+<answer>40</answer>

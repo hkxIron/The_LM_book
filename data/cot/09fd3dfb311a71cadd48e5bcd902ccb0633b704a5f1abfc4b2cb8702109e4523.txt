@@ -1,0 +1,57 @@
+<reasoning>
+To determine which collection has more pages, we need to convert the heights of both Miles's and Daphne's collections into the total number of pages.
+
+**Step 1: Calculate the total pages in Miles's collection.**
+- We know that Miles's collection is 240 inches tall, and each inch corresponds to 5 pages.
+- To find the total number of pages in Miles's collection, we multiply the height in inches by the number of pages per inch:
+
+\[
+\text{Total pages for Miles} = \text{height in inches} \times \text{pages per inch}
+\]
+
+Substituting the values:
+
+\[
+\text{Total pages for Miles} = 240 \text{ inches} \times 5 \text{ pages/inch}
+\]
+
+**Step 2: Perform the multiplication for Miles.**
+- Now we calculate:
+
+\[
+240 \times 5 = 1200 \text{ pages}
+\]
+
+So, Miles has 1200 pages.
+
+**Step 3: Calculate the total pages in Daphne's collection.**
+- Daphne's collection is 25 inches tall, and for her, each inch corresponds to 50 pages.
+- We apply the same formula to find the total number of pages in Daphne's collection:
+
+\[
+\text{Total pages for Daphne} = \text{height in inches} \times \text{pages per inch}
+\]
+
+Substituting the values:
+
+\[
+\text{Total pages for Daphne} = 25 \text{ inches} \times 50 \text{ pages/inch}
+\]
+
+**Step 4: Perform the multiplication for Daphne.**
+- Now we calculate:
+
+\[
+25 \times 50 = 1250 \text{ pages}
+\]
+
+So, Daphne has 1250 pages.
+
+**Step 5: Compare the total pages in both collections.**
+- Now we compare the total pages:
+
+Miles has 1200 pages, and Daphne has 1250 pages. 
+
+Since 1250 is greater than 1200, Daphne has the longer collection in terms of pages.
+</reasoning>
+<answer>1250</answer>

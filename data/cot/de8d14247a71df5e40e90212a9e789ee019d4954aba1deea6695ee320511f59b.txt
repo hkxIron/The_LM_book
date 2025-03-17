@@ -1,0 +1,55 @@
+<reasoning>
+To determine how much each employee is paid monthly, we need to follow the steps to calculate the remaining amount after taxes and expenses.
+
+1. **Calculate Taxes**: 
+   - The company has a monthly revenue of $400,000.
+   - They pay 10% in taxes.
+   - So, the amount paid in taxes is: 
+     \[
+     \text{Taxes} = 400,000 \times 0.10 = 40,000
+     \]
+   - The remaining amount after taxes is:
+     \[
+     \text{Remaining after taxes} = 400,000 - 40,000 = 360,000
+     \]
+
+2. **Calculate Marketing and Ads Cost**:
+   - The company spends 5% of the remaining amount on marketing and ads.
+   - The amount spent on marketing and ads is:
+     \[
+     \text{Marketing and Ads} = 360,000 \times 0.05 = 18,000
+     \]
+   - The remaining amount after marketing and ads is:
+     \[
+     \text{Remaining after marketing and ads} = 360,000 - 18,000 = 342,000
+     \]
+
+3. **Calculate Operational Costs**:
+   - The company spends 20% of the remaining amount on operational costs.
+   - The amount spent on operational costs is:
+     \[
+     \text{Operational Costs} = 342,000 \times 0.20 = 68,400
+     \]
+   - The remaining amount after operational costs is:
+     \[
+     \text{Remaining after operational costs} = 342,000 - 68,400 = 273,600
+     \]
+
+4. **Calculate Employee Wages**:
+   - The company spends 15% of the remaining amount on employee wages.
+   - The amount spent on employee wages is:
+     \[
+     \text{Employee Wages} = 273,600 \times 0.15 = 41,040
+     \]
+   - The remaining amount after paying employee wages is:
+     \[
+     \text{Remaining after employee wages} = 273,600 - 41,040 = 232,560
+     \]
+   - Since there are 10 employees, the wage for each employee is:
+     \[
+     \text{Wage per employee} = \frac{41,040}{10} = 4,104
+     \]
+
+Therefore, each employee is paid $4,104 monthly.
+</reasoning>
+<answer>4104</answer>

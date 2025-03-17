@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many sit-ups Ken can do**:
+   Ken can do 20 sit-ups without stopping. 
+   So, we have:
+   \[
+   \text{Ken's sit-ups} = 20
+   \]
+
+2. **Determine how many sit-ups Nathan can do**:
+   Nathan can do twice as many sit-ups as Ken. We calculate Nathan's sit-ups by multiplying Ken's sit-ups by 2:
+   \[
+   \text{Nathan's sit-ups} = 2 \times \text{Ken's sit-ups} = 2 \times 20 = 40
+   \]
+
+3. **Calculate the combined number of sit-ups that Ken and Nathan can do**:
+   We add the number of sit-ups Ken and Nathan can do together:
+   \[
+   \text{Combined sit-ups (Ken + Nathan)} = \text{Ken's sit-ups} + \text{Nathan's sit-ups} = 20 + 40 = 60
+   \]
+
+4. **Determine how many sit-ups Bob can do**:
+   Bob can do half the number of sit-ups that Ken and Nathan can do combined. We calculate Bob's sit-ups by taking half of their combined total:
+   \[
+   \text{Bob's sit-ups} = \frac{1}{2} \times \text{Combined sit-ups (Ken + Nathan)} = \frac{1}{2} \times 60 = 30
+   \]
+
+5. **Calculate how many more sit-ups Bob can do compared to Ken**:
+   We find the difference between the number of sit-ups Bob can do and the number of sit-ups Ken can do:
+   \[
+   \text{Difference} = \text{Bob's sit-ups} - \text{Ken's sit-ups} = 30 - 20 = 10
+   \]
+
+Therefore, Bob can do 10 more sit-ups than Ken.
+</reasoning>
+<answer>10</answer>

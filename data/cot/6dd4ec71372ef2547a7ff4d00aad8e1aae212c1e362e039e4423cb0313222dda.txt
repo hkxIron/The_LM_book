@@ -1,0 +1,44 @@
+<reasoning>
+First, we need to determine how many hens Uncle Ben has. We know that he has a total of 440 chickens and that 39 of them are roosters. 
+
+To find the number of hens, we subtract the number of roosters from the total number of chickens:
+
+\[ 
+\text{Number of hens} = \text{Total chickens} - \text{Number of roosters} 
+\]
+\[ 
+\text{Number of hens} = 440 - 39 
+\]
+\[ 
+\text{Number of hens} = 401 
+\]
+
+So, Uncle Ben has 401 hens.
+
+Next, we need to find out how many of these hens lay eggs. We know that 15 of the hens do not lay eggs. Therefore, we subtract the non-egg-laying hens from the total number of hens:
+
+\[ 
+\text{Number of egg-laying hens} = \text{Total hens} - \text{Non-egg-laying hens} 
+\]
+\[ 
+\text{Number of egg-laying hens} = 401 - 15 
+\]
+\[ 
+\text{Number of egg-laying hens} = 386 
+\]
+
+Now, we know that each egg-laying hen lays 3 eggs. To find the total number of eggs laid by all egg-laying hens, we multiply the number of egg-laying hens by the number of eggs each lays:
+
+\[ 
+\text{Total eggs} = \text{Number of egg-laying hens} \times \text{Eggs per hen} 
+\]
+\[ 
+\text{Total eggs} = 386 \times 3 
+\]
+\[ 
+\text{Total eggs} = 1158 
+\]
+
+Therefore, Uncle Ben will have a total of 1158 eggs from his egg-laying hens.
+</reasoning>
+<answer>1158</answer>

@@ -1,0 +1,55 @@
+<reasoning>
+To determine how much Janet will save by choosing purple tiles over turquoise tiles, we first need to calculate the total area of the walls she needs to tile, the total number of tiles required, and then the total cost for each type of tile.
+
+### Step 1: Calculate the area of the walls
+The walls that Janet needs to tile are:
+1. Wall 1: 5 feet by 8 feet
+2. Wall 2: 7 feet by 8 feet
+
+To find the area of each wall, we use the formula for the area of a rectangle (Area = width × height).
+
+- For Wall 1:
+  \[
+  \text{Area of Wall 1} = 5 \text{ feet} \times 8 \text{ feet} = 40 \text{ square feet}
+  \]
+
+- For Wall 2:
+  \[
+  \text{Area of Wall 2} = 7 \text{ feet} \times 8 \text{ feet} = 56 \text{ square feet}
+  \]
+
+Now, we add the areas of both walls to find the total area:
+\[
+\text{Total Area} = 40 \text{ square feet} + 56 \text{ square feet} = 96 \text{ square feet}
+\]
+
+### Step 2: Calculate the total number of tiles needed
+Since each square foot requires 4 tiles, we can calculate the total number of tiles needed for 96 square feet:
+\[
+\text{Total Tiles} = 96 \text{ square feet} \times 4 \text{ tiles/square foot} = 384 \text{ tiles}
+\]
+
+### Step 3: Calculate the cost for turquoise tiles
+The cost per turquoise tile is $13. Therefore, the total cost for the turquoise tiles is:
+\[
+\text{Cost for Turquoise Tiles} = 384 \text{ tiles} \times 13 \text{ dollars/tile} = 4992 \text{ dollars}
+\]
+
+### Step 4: Calculate the cost for purple tiles
+The cost per purple tile is $11. Therefore, the total cost for the purple tiles is:
+\[
+\text{Cost for Purple Tiles} = 384 \text{ tiles} \times 11 \text{ dollars/tile} = 4224 \text{ dollars}
+\]
+
+### Step 5: Calculate the savings
+To find out how much Janet will save by buying purple tiles instead of turquoise tiles, we subtract the total cost of the purple tiles from the total cost of the turquoise tiles:
+\[
+\text{Savings} = \text{Cost for Turquoise Tiles} - \text{Cost for Purple Tiles}
+\]
+\[
+\text{Savings} = 4992 \text{ dollars} - 4224 \text{ dollars} = 768 \text{ dollars}
+\]
+
+Therefore, Janet saves $768 by choosing purple tiles over turquoise tiles.
+</reasoning>
+<answer>768</answer>

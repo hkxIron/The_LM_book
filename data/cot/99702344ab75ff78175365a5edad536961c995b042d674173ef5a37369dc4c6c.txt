@@ -1,0 +1,33 @@
+<reasoning>
+To determine how many minutes per day Jenny should spend reading to complete her goal of reading 3 books in 10 days, we will follow these steps:
+
+1. **Calculate the total number of words in all three books.**
+   - The first book has 200 words.
+   - The second book has 400 words.
+   - The third book has 300 words.
+   - We add these together to find the total number of words:
+     \[
+     200 + 400 + 300 = 900 \text{ words}
+     \]
+
+2. **Determine the total reading time required to read all the words.**
+   - Jenny reads at a speed of 100 words per hour. To find out how many hours it takes to read 900 words, we divide the total words by her reading speed:
+     \[
+     \frac{900 \text{ words}}{100 \text{ words per hour}} = 9 \text{ hours}
+     \]
+
+3. **Convert the total reading time from hours to minutes.**
+   - Since there are 60 minutes in an hour, we multiply the total hours by 60 to convert it to minutes:
+     \[
+     9 \text{ hours} \times 60 \text{ minutes per hour} = 540 \text{ minutes}
+     \]
+
+4. **Calculate the average number of minutes per day Jenny should read.**
+   - Jenny has 10 days to read the total of 540 minutes. To find the average reading time per day, we divide the total minutes by the number of days:
+     \[
+     \frac{540 \text{ minutes}}{10 \text{ days}} = 54 \text{ minutes per day}
+     \]
+
+Therefore, Jenny should spend an average of 54 minutes per day reading.
+</reasoning>
+<answer>54</answer>

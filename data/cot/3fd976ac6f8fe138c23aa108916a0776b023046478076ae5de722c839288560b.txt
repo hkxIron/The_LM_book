@@ -1,0 +1,56 @@
+<reasoning>
+To determine how many birds will be left after a week, we need to calculate the total number of each type of bird lost each day and then find the total loss over the week.
+
+1. **Identify the initial counts of each type of bird:**
+   - Chickens: 300
+   - Turkeys: 200
+   - Guinea Fowls: 80
+
+2. **Identify the daily losses for each type of bird:**
+   - Chickens lost per day: 20
+   - Turkeys lost per day: 8
+   - Guinea Fowls lost per day: 5
+
+3. **Calculate the total losses over a week (7 days):**
+   - Total chickens lost in a week = Daily loss of chickens × Number of days
+     \[
+     \text{Total chickens lost} = 20 \times 7 = 140
+     \]
+   
+   - Total turkeys lost in a week = Daily loss of turkeys × Number of days
+     \[
+     \text{Total turkeys lost} = 8 \times 7 = 56
+     \]
+
+   - Total guinea fowls lost in a week = Daily loss of guinea fowls × Number of days
+     \[
+     \text{Total guinea fowls lost} = 5 \times 7 = 35
+     \]
+
+4. **Now, calculate the remaining number of each type of bird after one week:**
+   - Remaining chickens = Initial chickens - Total chickens lost
+     \[
+     \text{Remaining chickens} = 300 - 140 = 160
+     \]
+
+   - Remaining turkeys = Initial turkeys - Total turkeys lost
+     \[
+     \text{Remaining turkeys} = 200 - 56 = 144
+     \]
+
+   - Remaining guinea fowls = Initial guinea fowls - Total guinea fowls lost
+     \[
+     \text{Remaining guinea fowls} = 80 - 35 = 45
+     \]
+
+5. **Finally, calculate the total number of birds left on the farm:**
+   \[
+   \text{Total birds left} = \text{Remaining chickens} + \text{Remaining turkeys} + \text{Remaining guinea fowls}
+   \]
+   \[
+   \text{Total birds left} = 160 + 144 + 45 = 349
+   \]
+
+Therefore, after a week, the total number of birds left in the poultry farm is 349.
+</reasoning>
+<answer>349</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, we need to figure out how many miles Mona biked on Monday, given the information about her total biking distance for the week and the distances for Wednesday and Saturday.
+
+1. **Identify the total biking distance**: We know that Mona bikes a total of 30 miles each week.
+
+2. **Distance biked on Wednesday**: According to the problem, Mona biked 12 miles on Wednesday.
+
+3. **Distance biked on Saturday**: The problem states that on Saturday, she biked twice as far as she did on Monday. Let's denote the distance she biked on Monday as \( x \). Therefore, the distance she biked on Saturday would be \( 2x \).
+
+4. **Set up the equation**: Now we can set up an equation to represent the total distance biked over the week. The total biking distance can be expressed as:
+   \[
+   \text{Distance on Monday} + \text{Distance on Wednesday} + \text{Distance on Saturday} = 30
+   \]
+   Substituting the known values into the equation:
+   \[
+   x + 12 + 2x = 30
+   \]
+
+5. **Combine like terms**: Next, we combine the terms involving \( x \):
+   \[
+   3x + 12 = 30
+   \]
+
+6. **Isolate \( x \)**: To solve for \( x \), first subtract 12 from both sides:
+   \[
+   3x = 30 - 12
+   \]
+   \[
+   3x = 18
+   \]
+
+7. **Divide by 3**: Now, divide both sides by 3 to find \( x \):
+   \[
+   x = \frac{18}{3}
+   \]
+   \[
+   x = 6
+   \]
+
+Thus, the distance Mona biked on Monday is 6 miles. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6</answer>

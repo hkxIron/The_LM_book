@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we first need to establish the current ages of Ahmed and Fouad. 
+
+1. Ahmed is currently 11 years old.
+2. Fouad is currently 26 years old.
+
+Next, we want to find out how many years it will take for Fouad's age to be double Ahmed's current age. Since Ahmed's age does not change in this scenario, we will always use his current age of 11 years.
+
+3. Double Ahmed's current age is calculated as follows:
+   \[
+   2 \times 11 = 22
+   \]
+   This means we want to find out when Fouad will be 22 years old.
+
+Now, since Fouad is currently 26 years old, we need to determine how many years it will take for his age to reach 22 years. 
+
+4. We can represent the future age of Fouad as:
+   \[
+   \text{Fouad's future age} = 26 + x
+   \]
+   where \( x \) is the number of years from now.
+
+5. We want to set this equal to 22:
+   \[
+   26 + x = 22
+   \]
+
+Now, we can solve for \( x \):
+
+6. Subtract 26 from both sides:
+   \[
+   x = 22 - 26
+   \]
+   \[
+   x = -4
+   \]
+
+This means that Fouad was 22 years old 4 years ago. Thus, in the present, Fouad is already older than double Ahmed's current age.
+
+After analyzing this scenario, we conclude that it is not possible for Fouad to be double Ahmed's current age in the future, as he is already older than that.
+
+Therefore, the answer to the question is that it was 4 years ago when Fouad's age was double Ahmed's current age.
+</reasoning>
+<answer>4</answer>

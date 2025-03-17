@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much Sabina needs to apply for in loans to cover her tuition, we will follow these steps:
+
+1. **Calculate the remainder of the tuition after her savings**: 
+   - The total cost of her tuition is $30,000.
+   - She has saved $10,000.
+   - To find the remainder, we subtract her savings from the total tuition.
+   
+   \[
+   \text{Remainder} = \text{Total Tuition} - \text{Savings} = 30,000 - 10,000 = 20,000
+   \]
+
+2. **Calculate the amount covered by the grant**: 
+   - The grant covers 40% of the remainder.
+   - To find out how much the grant covers, we calculate 40% of $20,000.
+   
+   \[
+   \text{Grant Amount} = 0.40 \times 20,000 = 8,000
+   \]
+
+3. **Calculate the amount Sabina needs to pay after the grant**: 
+   - Now that we know how much the grant will cover, we need to subtract the grant amount from the remainder of the tuition to find out how much she still needs.
+   
+   \[
+   \text{Amount Needed} = \text{Remainder} - \text{Grant Amount} = 20,000 - 8,000 = 12,000
+   \]
+
+4. **Determine the loan amount she needs to apply for**: 
+   - The amount needed to be covered by a loan is the same as the amount she still needs to pay after the grant.
+   
+   Thus, Sabina needs to apply for a loan of $12,000.
+
+Therefore, Sabina will need to apply for $12,000 to cover the remaining tuition costs.
+</reasoning>
+<answer>12000</answer>

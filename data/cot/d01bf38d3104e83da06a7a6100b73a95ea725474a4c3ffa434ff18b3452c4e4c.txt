@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we first need to determine how much money each person has raised: Ken, Mary, and Scott.
+
+1. **Identify Ken's amount**: We are given that Ken has $600.
+   \[
+   \text{Ken's amount} = 600
+   \]
+
+2. **Calculate Mary's amount**: The problem states that Mary's collection is five times what Ken has. We can find Mary's amount by multiplying Ken's amount by 5.
+   \[
+   \text{Mary's amount} = 5 \times \text{Ken's amount} = 5 \times 600 = 3000
+   \]
+
+3. **Calculate Scott's amount**: We are also told that Mary's collection is three times Scott's funds. We can find Scott's amount by dividing Mary's amount by 3.
+   \[
+   \text{Scott's amount} = \frac{\text{Mary's amount}}{3} = \frac{3000}{3} = 1000
+   \]
+
+4. **Find the total amount raised by Scott, Mary, and Ken**: Now we can calculate the total funds raised by adding all three amounts together.
+   \[
+   \text{Total amount} = \text{Scott's amount} + \text{Mary's amount} + \text{Ken's amount} = 1000 + 3000 + 600 = 4600
+   \]
+
+5. **Calculate how much they have exceeded their goal**: The goal is $4,000, so we need to subtract the goal from the total amount raised to find out how much they have exceeded the goal.
+   \[
+   \text{Excess amount} = \text{Total amount} - \text{Goal} = 4600 - 4000 = 600
+   \]
+
+Therefore, Scott, Mary, and Ken have exceeded their goal by $600.
+</reasoning>
+<answer>600</answer>

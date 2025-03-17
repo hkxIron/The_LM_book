@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much money Super Clean Car Wash Company will make in 5 days, we can break the problem down into smaller steps.
+
+1. **Calculate the daily earnings**: First, we need to determine how much money they make in one day. They wash 80 cars each day and charge $5 for each car. 
+   - We multiply the number of cars washed by the price per car:
+   \[
+   \text{Daily Earnings} = \text{Number of Cars} \times \text{Price per Car} = 80 \times 5
+   \]
+   - Performing the multiplication:
+   \[
+   80 \times 5 = 400
+   \]
+   This means that Super Clean Car Wash Company makes $400 in one day.
+
+2. **Calculate the earnings over 5 days**: Next, we need to find out how much money they will make over 5 days. We take the daily earnings and multiply it by the number of days:
+   \[
+   \text{Total Earnings in 5 Days} = \text{Daily Earnings} \times 5 = 400 \times 5
+   \]
+   - Performing the multiplication:
+   \[
+   400 \times 5 = 2000
+   \]
+   Therefore, in 5 days, the company will make $2000.
+</reasoning>
+<answer>2000</answer>

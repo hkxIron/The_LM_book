@@ -1,0 +1,37 @@
+<reasoning>
+To find the actual distance between the towns of Pence and Hillcrest based on their distance on the map, we can follow these steps:
+
+1. **Understand the scale of the map**: We know that 1/4 inch on the map represents 8 miles of actual distance. This means we can find out how many miles correspond to each inch on the map.
+
+   To do this, we first convert 1/4 inch to inches. Since 1/4 inch represents 8 miles, we can find the distance represented by 1 inch by multiplying both sides of the equation by 4:
+   \[
+   1 \text{ inch} \text{ represents } 8 \text{ miles} \times 4 = 32 \text{ miles}
+   \]
+
+2. **Determine the distance on the map**: The towns are represented as being 3 3/8 inches apart on the map. We need to convert this to an improper fraction to make calculations easier. 
+
+   First, convert 3 3/8 inches:
+   \[
+   3 \text{ inches} + \frac{3}{8} \text{ inches} = \frac{24}{8} + \frac{3}{8} = \frac{27}{8} \text{ inches}
+   \]
+
+3. **Convert the map distance to actual miles**: Now that we know that 1 inch represents 32 miles, we can calculate the actual distance represented by 3 3/8 inches (or \(\frac{27}{8}\) inches):
+   \[
+   \text{Distance in miles} = \text{Map distance (in inches)} \times \text{Miles per inch}
+   \]
+   \[
+   \text{Distance in miles} = \frac{27}{8} \text{ inches} \times 32 \text{ miles/inch}
+   \]
+
+4. **Calculate the actual distance**:
+   \[
+   \text{Distance in miles} = \frac{27 \times 32}{8}
+   \]
+   Simplifying \(\frac{32}{8}\) gives us 4:
+   \[
+   \text{Distance in miles} = 27 \times 4 = 108 \text{ miles}
+   \]
+
+Thus, the actual distance between the towns of Pence and Hillcrest is 108 miles.
+</reasoning>
+<answer>108</answer>

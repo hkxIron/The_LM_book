@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much more Gary is spending per month by paying his dad back in 2 years instead of 5 years, we need to determine the monthly payments for both scenarios.
+
+1. **Calculate the monthly payment for 5 years:**
+
+   - Total loan amount = $6,000
+   - Number of months in 5 years = 5 years × 12 months/year = 60 months
+   
+   Now, we divide the total amount by the number of months to find the monthly payment:
+
+   \[
+   \text{Monthly payment for 5 years} = \frac{6000}{60} = 100
+   \]
+
+2. **Calculate the monthly payment for 2 years:**
+
+   - Total loan amount = $6,000
+   - Number of months in 2 years = 2 years × 12 months/year = 24 months
+   
+   Again, we divide the total amount by the number of months:
+
+   \[
+   \text{Monthly payment for 2 years} = \frac{6000}{24} = 250
+   \]
+
+3. **Calculate the difference in monthly payments:**
+
+   Now, we find out how much more Gary is paying each month by subtracting the monthly payment for 5 years from the monthly payment for 2 years:
+
+   \[
+   \text{Difference} = 250 - 100 = 150
+   \]
+
+Therefore, Gary is spending $150 more per month to pay off the loan in 2 years instead of 5 years.
+</reasoning>
+<answer>150</answer>

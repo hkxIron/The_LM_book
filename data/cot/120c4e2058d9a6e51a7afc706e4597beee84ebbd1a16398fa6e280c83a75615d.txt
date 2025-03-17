@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we need to divide the total revenue of $3000 in the ratio of 4:11 between employee salaries and stock purchases.
+
+1. **Understanding the Ratio**: The ratio 4:11 means that for every 4 parts of the total amount allocated to employee salaries, 11 parts are allocated to stock purchases. Therefore, the total number of parts is 4 + 11 = 15 parts.
+
+2. **Calculating the Value of Each Part**: To find the value of each part, we divide the total revenue by the total number of parts.
+   \[
+   \text{Value of each part} = \frac{\text{Total Revenue}}{\text{Total Parts}} = \frac{3000}{15}
+   \]
+   Performing the calculation:
+   \[
+   \frac{3000}{15} = 200
+   \]
+   Thus, each part is worth $200.
+
+3. **Calculating Employee Salaries**: Since employee salaries are allocated 4 parts out of the total 15 parts, we multiply the value of each part by the number of parts for employee salaries.
+   \[
+   \text{Employee Salaries} = 4 \times \text{Value of each part} = 4 \times 200
+   \]
+   Performing this multiplication:
+   \[
+   4 \times 200 = 800
+   \]
+   Therefore, the total amount of money spent on employee salaries is $800.
+</reasoning>
+<answer>800</answer>

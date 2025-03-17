@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the amount of rope bought last week:** 
+   Mr. Sanchez bought 6 feet of rope last week.
+
+2. **Calculate the amount of rope bought this week:** 
+   He bought 4 feet less than last week. So, we subtract 4 feet from 6 feet:
+   \[
+   6 \text{ feet} - 4 \text{ feet} = 2 \text{ feet}
+   \]
+   Therefore, Mr. Sanchez bought 2 feet of rope this week.
+
+3. **Calculate the total amount of rope in feet:** 
+   Now we need to find the total amount of rope he bought in feet:
+   \[
+   6 \text{ feet} + 2 \text{ feet} = 8 \text{ feet}
+   \]
+   So, in total, Mr. Sanchez bought 8 feet of rope.
+
+4. **Convert feet to inches:** 
+   Since there are 12 inches in a foot, we convert the total feet to inches by multiplying the total feet by 12:
+   \[
+   8 \text{ feet} \times 12 \text{ inches/foot} = 96 \text{ inches}
+   \]
+
+Therefore, the total amount of ribbon Mr. Sanchez bought in all is 96 inches.
+</reasoning>
+<answer>96</answer>

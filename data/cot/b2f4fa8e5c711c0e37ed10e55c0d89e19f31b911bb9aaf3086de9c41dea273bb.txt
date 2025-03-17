@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we need to calculate Alice's total earnings for the month, which includes her basic salary and the commission from her sales. Then, we'll find out how much she will save this month based on her usual saving percentage.
+
+Step 1: Calculate the commission from sales.
+- Alice sold $2500 worth of gadgets and receives a 2% commission.
+- To find the commission, we multiply the total sales by the commission rate:
+  \[
+  \text{Commission} = \text{Total Sales} \times \text{Commission Rate} = 2500 \times 0.02
+  \]
+  \[
+  \text{Commission} = 2500 \times 0.02 = 50
+  \]
+
+Step 2: Calculate Alice's total earnings for the month.
+- Her total earnings will be the sum of her basic salary and her commission:
+  \[
+  \text{Total Earnings} = \text{Basic Salary} + \text{Commission} = 240 + 50
+  \]
+  \[
+  \text{Total Earnings} = 240 + 50 = 290
+  \]
+
+Step 3: Calculate how much Alice will save this month.
+- Alice usually saves 10% of her total earnings. To find out how much she will save, we calculate 10% of her total earnings:
+  \[
+  \text{Savings} = \text{Total Earnings} \times 0.10 = 290 \times 0.10
+  \]
+  \[
+  \text{Savings} = 290 \times 0.10 = 29
+  \]
+
+Therefore, after calculating her commission, total earnings, and savings, we find that Alice is going to save $29 this month.
+</reasoning>
+<answer>29</answer>

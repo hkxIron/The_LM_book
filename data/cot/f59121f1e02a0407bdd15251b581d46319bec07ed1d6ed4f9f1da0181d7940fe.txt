@@ -1,0 +1,50 @@
+<reasoning>
+To find out how much money Nathan makes from his harvest, we need to break down the problem into several steps.
+
+1. **Calculate the total number of strawberries harvested:**
+   Nathan planted 5 strawberry plants, and each plant produced 14 strawberries. 
+   To find the total strawberries, we multiply the number of plants by the number of strawberries per plant:
+   \[
+   \text{Total Strawberries} = 5 \text{ plants} \times 14 \text{ strawberries/plant} = 70 \text{ strawberries}
+   \]
+
+2. **Calculate the total number of tomatoes harvested:**
+   Nathan planted 7 tomato plants, and each plant produced 16 tomatoes.
+   To find the total tomatoes, we multiply the number of plants by the number of tomatoes per plant:
+   \[
+   \text{Total Tomatoes} = 7 \text{ plants} \times 16 \text{ tomatoes/plant} = 112 \text{ tomatoes}
+   \]
+
+3. **Determine how many baskets can be made from the strawberries:**
+   Nathan distributes the strawberries into baskets of 7. To find how many baskets he can make, we divide the total number of strawberries by the number of strawberries per basket:
+   \[
+   \text{Baskets of Strawberries} = \frac{70 \text{ strawberries}}{7 \text{ strawberries/basket}} = 10 \text{ baskets}
+   \]
+
+4. **Determine how many baskets can be made from the tomatoes:**
+   Similarly, he distributes the tomatoes into baskets of 7. To find how many baskets he can make, we divide the total number of tomatoes by the number of tomatoes per basket:
+   \[
+   \text{Baskets of Tomatoes} = \frac{112 \text{ tomatoes}}{7 \text{ tomatoes/basket}} = 16 \text{ baskets}
+   \]
+
+5. **Calculate the total revenue from selling the baskets of strawberries:**
+   Each basket of strawberries is sold for $9. To find the total revenue from the strawberry baskets, we multiply the number of baskets by the price per basket:
+   \[
+   \text{Revenue from Strawberries} = 10 \text{ baskets} \times 9 \text{ dollars/basket} = 90 \text{ dollars}
+   \]
+
+6. **Calculate the total revenue from selling the baskets of tomatoes:**
+   Each basket of tomatoes is sold for $6. To find the total revenue from the tomato baskets, we multiply the number of baskets by the price per basket:
+   \[
+   \text{Revenue from Tomatoes} = 16 \text{ baskets} \times 6 \text{ dollars/basket} = 96 \text{ dollars}
+   \]
+
+7. **Calculate the total money Nathan makes from his harvest:**
+   To find the total money Nathan makes, we add the revenue from strawberries and tomatoes:
+   \[
+   \text{Total Revenue} = 90 \text{ dollars} + 96 \text{ dollars} = 186 \text{ dollars}
+   \]
+
+Thus, Nathan makes a total of $186 from his harvest.
+</reasoning>
+<answer>186</answer>

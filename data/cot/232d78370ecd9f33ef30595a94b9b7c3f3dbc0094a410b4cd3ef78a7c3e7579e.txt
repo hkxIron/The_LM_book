@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many dozen eggs Milo needs to buy, we can follow these steps:
+
+1. **Determine the total number of eggs needed**: Since we know that one egg weighs 1/16 of a pound, we can first calculate how many eggs are needed for 6 pounds.
+
+   To find the number of eggs, we can use the formula:
+   \[
+   \text{Number of eggs} = \frac{\text{Total weight in pounds}}{\text{Weight per egg in pounds}} = \frac{6 \text{ pounds}}{1/16 \text{ pound per egg}}
+   \]
+
+   When dividing by a fraction, we multiply by its reciprocal:
+   \[
+   \text{Number of eggs} = 6 \times 16 = 96
+   \]
+
+   So, Milo needs 96 eggs in total.
+
+2. **Convert the number of eggs to dozens**: Since there are 12 eggs in a dozen, we can find out how many dozens are in 96 eggs.
+
+   We can use the formula:
+   \[
+   \text{Number of dozens} = \frac{\text{Total number of eggs}}{12} = \frac{96}{12}
+   \]
+
+   Performing the division:
+   \[
+   \text{Number of dozens} = 8
+   \]
+
+Therefore, Milo should buy 8 dozen eggs.
+</reasoning>
+<answer>8</answer>

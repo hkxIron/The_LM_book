@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to determine how much gas Wendy needs to add to fill both her truck and her car completely.
+
+1. **Calculate the current amount of gas in the truck:**
+   - The truck's gas tank can hold 20 gallons and is currently half full.
+   - To find out how much gas is currently in the truck, we multiply the total capacity by 1/2:
+     \[
+     \text{Gas in truck} = 20 \text{ gallons} \times \frac{1}{2} = 10 \text{ gallons}
+     \]
+
+2. **Calculate how much gas is needed to fill the truck:**
+   - Since the truck can hold 20 gallons and currently has 10 gallons, we calculate the difference:
+     \[
+     \text{Gas needed for truck} = 20 \text{ gallons} - 10 \text{ gallons} = 10 \text{ gallons}
+     \]
+
+3. **Calculate the current amount of gas in the car:**
+   - The car's gas tank can hold 12 gallons and is currently 1/3 full.
+   - To find out how much gas is currently in the car, we multiply the total capacity by 1/3:
+     \[
+     \text{Gas in car} = 12 \text{ gallons} \times \frac{1}{3} = 4 \text{ gallons}
+     \]
+
+4. **Calculate how much gas is needed to fill the car:**
+   - Since the car can hold 12 gallons and currently has 4 gallons, we calculate the difference:
+     \[
+     \text{Gas needed for car} = 12 \text{ gallons} - 4 \text{ gallons} = 8 \text{ gallons}
+     \]
+
+5. **Calculate the total amount of gas needed to fill both the truck and the car:**
+   - Now we add the amount needed for the truck and the amount needed for the car:
+     \[
+     \text{Total gas needed} = \text{Gas needed for truck} + \text{Gas needed for car} = 10 \text{ gallons} + 8 \text{ gallons} = 18 \text{ gallons}
+     \]
+
+Therefore, Wendy needs to add a total of 18 gallons of gas to fill both her truck and her car completely.
+</reasoning>
+<answer>18</answer>

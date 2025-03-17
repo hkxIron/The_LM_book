@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we will calculate the total time spent cleaning up the eggs and toilet paper separately and then add them together to find the total cleaning time.
+
+1. **Calculate the time spent cleaning the eggs**:
+   - We know that each egg takes 15 seconds to clean.
+   - For 60 eggs, we can find the total time in seconds by multiplying:
+     \[
+     60 \text{ eggs} \times 15 \text{ seconds/egg} = 900 \text{ seconds}
+     \]
+   - Now, we need to convert seconds into minutes since the final answer should be in minutes. There are 60 seconds in a minute, so:
+     \[
+     900 \text{ seconds} \div 60 \text{ seconds/minute} = 15 \text{ minutes}
+     \]
+
+2. **Calculate the time spent cleaning the rolls of toilet paper**:
+   - Each roll of toilet paper takes 30 minutes to clean.
+   - For 7 rolls, we can find the total time by multiplying:
+     \[
+     7 \text{ rolls} \times 30 \text{ minutes/roll} = 210 \text{ minutes}
+     \]
+
+3. **Add the two times together**:
+   - Now we will add the time spent on eggs and on toilet paper:
+     \[
+     15 \text{ minutes (for eggs)} + 210 \text{ minutes (for toilet paper)} = 225 \text{ minutes}
+     \]
+
+Thus, the total time the owner will have to spend cleaning up is 225 minutes.
+</reasoning>
+<answer>225</answer>

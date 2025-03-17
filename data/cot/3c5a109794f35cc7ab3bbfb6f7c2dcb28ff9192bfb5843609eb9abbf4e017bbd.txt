@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine how much James pays for one semester. Since he takes 20 units and each unit costs $50, we can calculate the total cost for one semester by multiplying the number of units by the cost per unit.
+
+1. **Calculate the cost for one semester:**
+   \[
+   \text{Cost for one semester} = \text{Number of units} \times \text{Cost per unit} = 20 \times 50
+   \]
+   This multiplication gives us the total cost for one semester.
+
+Now let's compute that:
+\[
+20 \times 50 = 1000
+\]
+So, James pays $1000 for one semester.
+
+2. **Calculate the cost for two semesters:**
+   Since we know the cost for one semester is $1000, we simply need to multiply this amount by 2 to find out how much he pays for two semesters.
+   \[
+   \text{Cost for two semesters} = \text{Cost for one semester} \times 2 = 1000 \times 2
+   \]
+
+Now let's compute that:
+\[
+1000 \times 2 = 2000
+\]
+Therefore, James pays $2000 for two semesters.
+</reasoning>
+<answer>2000</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To find the total sentence length for the burglar, we will follow these steps:
+
+1. **Calculate the base sentence for the goods stolen**: The base sentence is determined by the amount of goods stolen. We know that for every $5,000 of goods stolen, the sentence is 1 year. 
+
+   - First, we divide the total value of goods stolen by the base amount:
+     \[
+     \text{Base Sentence} = \frac{\text{Total Value of Goods Stolen}}{\text{Base Amount per Year}} = \frac{40,000}{5,000}
+     \]
+   - Performing the calculation:
+     \[
+     \frac{40,000}{5,000} = 8
+     \]
+   - This means the base sentence is 8 years.
+
+2. **Increase the sentence by 25% due to being a third-time offender**: Now we need to increase this base sentence by 25%. 
+
+   - To calculate 25% of the base sentence:
+     \[
+     25\% \text{ of } 8 = 0.25 \times 8 = 2
+     \]
+   - We then add this increase to the base sentence:
+     \[
+     \text{Increased Sentence} = 8 + 2 = 10
+     \]
+
+3. **Add additional time for resisting arrest**: Finally, we need to add the additional years for resisting arrest, which is 2 years.
+
+   - Adding this to the current sentence:
+     \[
+     \text{Total Sentence} = 10 + 2 = 12
+     \]
+
+Therefore, after considering the base sentence for the stolen goods, the increase for being a repeat offender, and the additional time for resisting arrest, we find that the total jail sentence for the burglar is 12 years.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,57 @@
+<reasoning>
+To find out how much material Sally needs, we will calculate the area of the tablecloth and the area of the napkins separately, then sum these areas.
+
+1. **Calculate the area of the tablecloth**:
+   - The formula for the area of a rectangle is: 
+     \[
+     \text{Area} = \text{length} \times \text{width}
+     \]
+   - Here, the length of the tablecloth is 102 inches, and the width is 54 inches.
+   - Plugging in the values:
+     \[
+     \text{Area of tablecloth} = 102 \, \text{inches} \times 54 \, \text{inches}
+     \]
+   - Now, we perform the multiplication:
+     \[
+     102 \times 54 = 5508 \, \text{square inches}
+     \]
+
+2. **Calculate the area of one napkin**:
+   - Using the same area formula, for one napkin:
+   - The dimensions of each napkin are 6 inches by 7 inches.
+   - Plugging in these values:
+     \[
+     \text{Area of one napkin} = 6 \, \text{inches} \times 7 \, \text{inches}
+     \]
+   - Performing the multiplication:
+     \[
+     6 \times 7 = 42 \, \text{square inches}
+     \]
+
+3. **Calculate the total area of 8 napkins**:
+   - Since Sally needs 8 napkins, we multiply the area of one napkin by 8:
+     \[
+     \text{Total area of napkins} = 8 \times 42 \, \text{square inches}
+     \]
+   - Performing the multiplication:
+     \[
+     8 \times 42 = 336 \, \text{square inches}
+     \]
+
+4. **Calculate the total area of material needed**:
+   - Now, we will add the area of the tablecloth and the total area of the napkins:
+     \[
+     \text{Total area needed} = \text{Area of tablecloth} + \text{Total area of napkins}
+     \]
+   - Substituting the values we calculated:
+     \[
+     \text{Total area needed} = 5508 \, \text{square inches} + 336 \, \text{square inches}
+     \]
+   - Performing the addition:
+     \[
+     5508 + 336 = 5844 \, \text{square inches}
+     \]
+
+Therefore, the total amount of material Sally will need to make the tablecloth and 8 napkins is 5844 square inches.
+</reasoning>
+<answer>5844</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+To find the speed limit, we need to analyze the information given in the problem step by step.
+
+1. **Identify Natasha's speed**: We know that Natasha was going 10 mph over the speed limit. Let's denote the speed limit as \( x \) mph. Therefore, Natasha's speed can be expressed as \( x + 10 \) mph.
+
+2. **Determine the time and distance**: It is given that the distance to her destination is 60 miles, and it took her 1 hour to arrive. 
+
+3. **Use the formula for distance**: The formula to calculate distance is given by:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   In this case, we can substitute the known values into the formula. The distance is 60 miles, and the time is 1 hour, so we can set up the equation:
+   \[
+   60 = (x + 10) \times 1
+   \]
+
+4. **Solve for \( x \)**: This simplifies to:
+   \[
+   60 = x + 10
+   \]
+   To isolate \( x \), we subtract 10 from both sides:
+   \[
+   x = 60 - 10
+   \]
+   \[
+   x = 50
+   \]
+
+5. **Conclusion**: The speed limit is therefore 50 mph.
+
+Thus, after following these steps, we find that the speed limit is:
+</reasoning>
+<answer>50</answer>

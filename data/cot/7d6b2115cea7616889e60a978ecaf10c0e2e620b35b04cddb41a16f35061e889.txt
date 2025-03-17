@@ -1,0 +1,38 @@
+<reasoning>
+To find the average number of people who attended class each day, we need to follow these steps:
+
+1. **Calculate the total number of people who attended class throughout the week.**
+   - On Monday, 10 people attended.
+   - On Tuesday, 15 people attended.
+   - From Wednesday to Friday, 10 people attended each day. Since there are 3 days (Wednesday, Thursday, and Friday), we will calculate the total for these days:
+     - 10 people/day × 3 days = 30 people.
+
+Now, we can add the total attendance for each day:
+- Total for Monday = 10
+- Total for Tuesday = 15
+- Total for Wednesday to Friday = 30
+
+So, the total attendance for the week is:
+\[ 
+10 + 15 + 30 = 55 
+\]
+
+2. **Determine the number of days in the week.**
+   - There are 5 days in total (Monday to Friday).
+
+3. **Calculate the average attendance per day.**
+   - The average is found by dividing the total number of attendees by the number of days:
+\[ 
+\text{Average} = \frac{\text{Total attendance}}{\text{Number of days}} = \frac{55}{5}
+\]
+
+Now, performing the division:
+\[ 
+\frac{55}{5} = 11 
+\]
+
+This means the average number of people who attended class each day is 11.
+
+Therefore, the average number of people who attended class each day is:
+</reasoning>
+<answer>11</answer>

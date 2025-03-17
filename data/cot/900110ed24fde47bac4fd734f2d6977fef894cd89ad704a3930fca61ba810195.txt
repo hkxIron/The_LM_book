@@ -1,0 +1,33 @@
+<reasoning>
+To determine how much pay Susan will miss during her two-week vacation, we need to follow these steps:
+
+1. **Calculate the total number of workdays in two weeks**: 
+   Since Susan works five days a week, we multiply the number of weeks (2) by the number of workdays per week (5).
+   \[
+   2 \text{ weeks} \times 5 \text{ workdays/week} = 10 \text{ workdays}
+   \]
+
+2. **Identify how many of those workdays will be unpaid**:
+   Susan has a total of 6 days of paid vacation. Therefore, the unpaid workdays in her vacation will be the total workdays minus the paid vacation days.
+   \[
+   10 \text{ workdays} - 6 \text{ paid vacation days} = 4 \text{ unpaid workdays}
+   \]
+
+3. **Calculate the number of hours she works on unpaid days**:
+   Susan works 8 hours a day, so for the 4 unpaid workdays, we calculate the total hours.
+   \[
+   4 \text{ unpaid workdays} \times 8 \text{ hours/day} = 32 \text{ hours}
+   \]
+
+4. **Determine her hourly pay**:
+   Susan earns $15 per hour.
+
+5. **Calculate the total pay she will miss**:
+   To find out how much pay she will miss, we multiply the total number of unpaid hours by her hourly rate.
+   \[
+   32 \text{ hours} \times 15 \text{ dollars/hour} = 480 \text{ dollars}
+   \]
+
+Therefore, the total pay Susan will miss on her vacation is $480.
+</reasoning>
+<answer>480</answer>

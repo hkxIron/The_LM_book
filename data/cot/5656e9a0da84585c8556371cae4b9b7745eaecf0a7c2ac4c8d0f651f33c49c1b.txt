@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we will first calculate the number of trading cards sold in June, and then add the number sold in July.
+
+1. **Identify the normal monthly sales**: The hobby store normally sells 21,122 trading cards per month.
+
+2. **Calculate June's sales**: In June, the store sold 3,922 more trading cards than normal. So, we need to add this extra amount to the normal sales:
+   \[
+   \text{June Sales} = \text{Normal Sales} + \text{Extra Sales} = 21,122 + 3,922
+   \]
+   Now, let's perform the addition:
+   \[
+   21,122 + 3,922 = 25,044
+   \]
+   Therefore, the hobby store sold 25,044 trading cards in June.
+
+3. **Identify July's sales**: In July, the hobby store sold the regular number of trading cards, which is 21,122.
+
+4. **Calculate the total sales for June and July**: Now we will add the sales from both months to find the combined total:
+   \[
+   \text{Total Sales} = \text{June Sales} + \text{July Sales} = 25,044 + 21,122
+   \]
+   Performing the addition:
+   \[
+   25,044 + 21,122 = 46,166
+   \]
+
+Therefore, the combined total number of trading cards sold in June and July is 46,166.
+</reasoning>
+<answer>46166</answer>

@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of people invited from the hometown:**
+   Martin invited 5 people from his hometown. This is straightforward, so we can write:
+   \[
+   \text{Hometown} = 5
+   \]
+
+2. **Determine the number of people invited from the school:**
+   Martin invited twice as many people from his school as he did from his hometown. Since he invited 5 from his hometown, the number from his school is:
+   \[
+   \text{School} = 2 \times 5 = 10
+   \]
+
+3. **Calculate the number of people invited from the sports club:**
+   Martin invited as many people from his sports club as the sum of those invited from his hometown and school. The total number invited from the hometown and school is:
+   \[
+   \text{Total from Hometown and School} = 5 + 10 = 15
+   \]
+   Therefore, the number of people invited from the sports club is:
+   \[
+   \text{Sports Club} = 15
+   \]
+
+4. **Calculate the total number of people invited so far:**
+   Now, we can sum the number of people from each group:
+   \[
+   \text{Total Invited} = \text{Hometown} + \text{School} + \text{Sports Club} = 5 + 10 + 15 = 30
+   \]
+
+5. **Determine the remaining invitations:**
+   The remaining invitations represent 20% of the total number previously mentioned. First, we calculate 20% of the total invited:
+   \[
+   \text{Remaining Invitations} = 0.20 \times \text{Total Invited} = 0.20 \times 30 = 6
+   \]
+
+6. **Calculate the total potential guests at the party:**
+   To find the total potential guests, we add the total invited so far to the remaining invitations:
+   \[
+   \text{Total Potential Guests} = \text{Total Invited} + \text{Remaining Invitations} = 30 + 6 = 36
+   \]
+
+Therefore, after going through all the steps carefully, we find that Martin can potentially have 36 people at the party.
+</reasoning>
+<answer>36</answer>

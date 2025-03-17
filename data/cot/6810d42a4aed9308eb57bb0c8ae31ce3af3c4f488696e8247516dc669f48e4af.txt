@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many total points James scored, we need to calculate the points from his field goals and the points from his shots separately, and then add them together.
+
+1. **Calculate the points from field goals:**
+   - James scored 13 field goals.
+   - Each field goal is worth 3 points.
+   - To find the total points from field goals, we multiply the number of field goals by the points each field goal is worth:
+     \[
+     \text{Points from field goals} = 13 \text{ field goals} \times 3 \text{ points/field goal}
+     \]
+   - Performing the multiplication:
+     \[
+     13 \times 3 = 39
+     \]
+   - So, James scored a total of 39 points from field goals.
+
+2. **Calculate the points from shots:**
+   - James made 20 shots.
+   - Each shot is worth 2 points.
+   - To find the total points from shots, we multiply the number of shots by the points each shot is worth:
+     \[
+     \text{Points from shots} = 20 \text{ shots} \times 2 \text{ points/shot}
+     \]
+   - Performing the multiplication:
+     \[
+     20 \times 2 = 40
+     \]
+   - So, James scored a total of 40 points from shots.
+
+3. **Add the points from field goals and shots to find the total score:**
+   - Now, we add the points from field goals and the points from shots:
+     \[
+     \text{Total points} = \text{Points from field goals} + \text{Points from shots} = 39 + 40
+     \]
+   - Performing the addition:
+     \[
+     39 + 40 = 79
+     \]
+
+Therefore, James scored a total of 79 points.
+</reasoning>
+<answer>79</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem, we start by defining the variables based on the information given.
+
+1. **Identify the number of students eating in the cafeteria**: 
+   We are told that 10 students eat in the school cafeteria. 
+
+2. **Determine the number of students who bring their lunch**: 
+   According to the problem, the number of students who bring their lunch is three times the number of students who eat in the cafeteria. 
+   
+   So, if 10 students eat in the cafeteria, the number of students who bring their lunch is:
+   \[
+   \text{Students bringing lunch} = 3 \times \text{Students eating in cafeteria} = 3 \times 10 = 30
+   \]
+
+3. **Calculate the total number of students who either eat in the cafeteria or bring lunch**:
+   We now have:
+   - Students eating in cafeteria = 10
+   - Students bringing lunch = 30
+   
+   Adding these together gives:
+   \[
+   \text{Total students eating lunch} = \text{Students bringing lunch} + \text{Students eating in cafeteria} = 30 + 10 = 40
+   \]
+
+4. **Find the number of students who don't eat lunch**:
+   Since the total number of students in the class is 60, we can find the number of students who don’t eat lunch by subtracting the total number of students eating lunch from the total number of students:
+   \[
+   \text{Students not eating lunch} = \text{Total students} - \text{Total students eating lunch} = 60 - 40 = 20
+   \]
+
+Thus, there are 20 students who don't eat lunch.
+</reasoning>
+<answer>20</answer>

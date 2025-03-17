@@ -1,0 +1,39 @@
+<reasoning>
+First, we need to determine the total number of student volunteers. Since there are 6 math classes and 5 students from each class have volunteered, we can calculate the total number of student volunteers as follows:
+
+1. **Calculate the number of student volunteers:**
+   \[
+   \text{Total student volunteers} = \text{Number of classes} \times \text{Students per class} = 6 \times 5
+   \]
+
+   Multiplying these values gives:
+   \[
+   6 \times 5 = 30
+   \]
+   Therefore, there are 30 student volunteers.
+
+2. **Next, let's calculate the total number of volunteers including the teachers:**
+   We know that there are 13 teachers who have also volunteered. Thus, the total number of volunteers can be calculated by adding the student volunteers to the teacher volunteers:
+   \[
+   \text{Total volunteers} = \text{Total student volunteers} + \text{Teacher volunteers} = 30 + 13
+   \]
+
+   Adding these values gives:
+   \[
+   30 + 13 = 43
+   \]
+   Therefore, there are 43 total volunteers.
+
+3. **Finally, we need to determine how many more volunteers Mr. Johnson needs to reach the goal of 50 volunteers:**
+   We can find the additional volunteers needed by subtracting the current total number of volunteers from the desired number of volunteers:
+   \[
+   \text{More volunteers needed} = \text{Desired volunteers} - \text{Total volunteers} = 50 - 43
+   \]
+
+   Performing this calculation gives:
+   \[
+   50 - 43 = 7
+   \]
+   Thus, Mr. Johnson needs 7 more volunteers.
+</reasoning>
+<answer>7</answer>

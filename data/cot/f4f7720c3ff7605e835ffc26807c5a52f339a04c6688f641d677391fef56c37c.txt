@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we need to determine how many blue notebooks Mike bought and how much each one costs.
+
+1. **Calculate the total cost of the red notebooks**: 
+   Mike bought 3 red notebooks at 4 dollars each. 
+   \[
+   \text{Cost of red notebooks} = 3 \times 4 = 12 \text{ dollars}
+   \]
+
+2. **Calculate the total cost of the green notebooks**: 
+   Mike bought 2 green notebooks at 2 dollars each. 
+   \[
+   \text{Cost of green notebooks} = 2 \times 2 = 4 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of the red and green notebooks combined**: 
+   We add the costs of the red and green notebooks together.
+   \[
+   \text{Total cost of red and green notebooks} = 12 + 4 = 16 \text{ dollars}
+   \]
+
+4. **Determine the total amount spent on blue notebooks**: 
+   Mike spent a total of 37 dollars, so we subtract the cost of the red and green notebooks from the total amount spent to find out how much was spent on blue notebooks.
+   \[
+   \text{Cost of blue notebooks} = 37 - 16 = 21 \text{ dollars}
+   \]
+
+5. **Calculate the number of blue notebooks bought**: 
+   Since Mike bought a total of 12 notebooks and we already know he bought 3 red and 2 green notebooks, we can find the number of blue notebooks.
+   \[
+   \text{Number of blue notebooks} = 12 - (3 + 2) = 12 - 5 = 7
+   \]
+
+6. **Calculate the cost per blue notebook**: 
+   Finally, we divide the total cost of the blue notebooks by the number of blue notebooks to find the cost of each blue notebook.
+   \[
+   \text{Cost per blue notebook} = \frac{21}{7} = 3 \text{ dollars}
+   \]
+
+Therefore, each blue notebook costs 3 dollars.
+</reasoning>
+<answer>3</answer>

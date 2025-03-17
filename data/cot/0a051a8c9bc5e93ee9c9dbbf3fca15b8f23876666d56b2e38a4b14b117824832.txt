@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the time-outs for running**: Marcy gives 5 time-outs for running. So, we have:
+   \[
+   \text{Time-outs for running} = 5
+   \]
+
+2. **Calculate the time-outs for throwing food**: The problem states that the number of time-outs for throwing food is 1 less than five times the number of running time-outs. 
+   - First, we calculate five times the number of running time-outs:
+   \[
+   5 \times 5 = 25
+   \]
+   - Now, we subtract 1 from this result:
+   \[
+   \text{Time-outs for throwing food} = 25 - 1 = 24
+   \]
+
+3. **Calculate the time-outs for swearing**: The problem indicates that the number of time-outs for swearing is 1/3 the number of food-throwing time-outs. Therefore, we calculate:
+   \[
+   \text{Time-outs for swearing} = \frac{24}{3} = 8
+   \]
+
+4. **Calculate the total number of time-outs**: Now, we can find the total number of time-outs by adding the time-outs for running, throwing food, and swearing:
+   \[
+   \text{Total time-outs} = 5 + 24 + 8 = 37
+   \]
+
+5. **Calculate the total time spent in time-out**: Each time-out lasts for 5 minutes, so we multiply the total number of time-outs by the duration of each time-out:
+   \[
+   \text{Total time spent} = 37 \times 5 = 185 \text{ minutes}
+   \]
+
+Therefore, the total time the students spend in time-out is 185 minutes.
+</reasoning>
+<answer>185</answer>

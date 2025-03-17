@@ -1,0 +1,20 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Time**: Brian can initially hold his breath for 10 seconds.
+
+2. **First Week**: After the first week, he doubles his breath-holding time. 
+   - Calculation: \( 10 \text{ seconds} \times 2 = 20 \text{ seconds} \)
+
+3. **Second Week**: After the second week, he doubles the time again from the previous week.
+   - Calculation: \( 20 \text{ seconds} \times 2 = 40 \text{ seconds} \)
+
+4. **Third Week**: In the final week, he increases his time by 50% from the previous week.
+   - First, we calculate 50% of 40 seconds:
+     - Calculation: \( 40 \text{ seconds} \times 0.5 = 20 \text{ seconds} \)
+   - Then, we add this 50% increase to the previous week's time:
+     - Calculation: \( 40 \text{ seconds} + 20 \text{ seconds} = 60 \text{ seconds} \)
+
+Thus, after three weeks of practice, Brian can now hold his breath for 60 seconds.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To find out how much change Marcus will have after buying all the water he needs for his water balloon party, we can follow these steps:
+
+1. **Calculate the total amount of water needed for the balloons.**
+   - Marcus has 100 balloons, and each balloon holds 3 ounces of water.
+   - Therefore, the total water needed is calculated by multiplying the number of balloons by the amount of water each balloon holds:
+   \[
+   \text{Total water needed} = 100 \text{ balloons} \times 3 \text{ ounces/balloon} = 300 \text{ ounces}
+   \]
+
+2. **Determine how many bottles of water he needs to buy.**
+   - Each bottle of water contains 50 ounces.
+   - To find out how many bottles he needs, we divide the total water needed by the amount of water per bottle:
+   \[
+   \text{Number of bottles} = \frac{300 \text{ ounces}}{50 \text{ ounces/bottle}} = 6 \text{ bottles}
+   \]
+
+3. **Calculate the total cost of the water.**
+   - The cost of one bottle of water is $2.5.
+   - Therefore, the total cost for 6 bottles is:
+   \[
+   \text{Total cost} = 6 \text{ bottles} \times 2.5 \text{ dollars/bottle} = 15 \text{ dollars}
+   \]
+
+4. **Determine how much money Marcus has.**
+   - Marcus walks into the store with 2 $10 bills.
+   - So, the total amount of money he has is:
+   \[
+   \text{Total money} = 2 \times 10 \text{ dollars} = 20 \text{ dollars}
+   \]
+
+5. **Calculate the change Marcus will have after buying the water.**
+   - To find the change, we subtract the total cost of the water from the total money he has:
+   \[
+   \text{Change} = 20 \text{ dollars} - 15 \text{ dollars} = 5 \text{ dollars}
+   \]
+
+Therefore, Marcus will have $5 in change after buying all the water he needs.
+</reasoning>
+<answer>5</answer>

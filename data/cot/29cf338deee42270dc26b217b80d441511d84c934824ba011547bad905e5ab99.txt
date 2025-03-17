@@ -1,0 +1,44 @@
+<reasoning>
+To calculate the total jail time that Jean is facing, we need to break down the problem by determining the number of charges for each crime and then calculating the corresponding sentences.
+
+1. **Identify the counts of each crime:**
+   - Arson: 3 counts
+   - Burglary: 2 counts
+   - Petty Larceny: Since it is stated that there are six times as many petty larceny charges as burglary charges, we calculate:
+     \[
+     \text{Petty Larceny Charges} = 6 \times \text{Burglary Charges} = 6 \times 2 = 12 \text{ charges}
+     \]
+
+2. **Determine the sentence for each type of charge:**
+   - Each arson count has a sentence of 36 months.
+   - Each burglary charge has a sentence of 18 months.
+   - Each petty larceny charge is 1/3 of the burglary charge. Therefore, the sentence for each petty larceny charge is:
+     \[
+     \text{Petty Larceny Sentence} = \frac{1}{3} \times 18 \text{ months} = 6 \text{ months}
+     \]
+
+3. **Calculate the total time for each crime:**
+   - For arson:
+     \[
+     \text{Total Arson Time} = 3 \text{ counts} \times 36 \text{ months/count} = 108 \text{ months}
+     \]
+   - For burglary:
+     \[
+     \text{Total Burglary Time} = 2 \text{ counts} \times 18 \text{ months/count} = 36 \text{ months}
+     \]
+   - For petty larceny:
+     \[
+     \text{Total Petty Larceny Time} = 12 \text{ charges} \times 6 \text{ months/charge} = 72 \text{ months}
+     \]
+
+4. **Sum the total time from all charges:**
+   \[
+   \text{Total Time} = \text{Total Arson Time} + \text{Total Burglary Time} + \text{Total Petty Larceny Time}
+   \]
+   \[
+   \text{Total Time} = 108 \text{ months} + 36 \text{ months} + 72 \text{ months} = 216 \text{ months}
+   \]
+
+Therefore, Jean is facing a total of 216 months in jail.
+</reasoning>
+<answer>216</answer>

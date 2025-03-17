@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much of the night Audrey was not dreaming, we first need to determine how long she dreamed.
+
+1. **Identify the total time Audrey was asleep**: 
+   Audrey was asleep for a total of 10 hours.
+
+2. **Calculate the time spent dreaming**: 
+   We know that she dreamed for \( \frac{2}{5} \) of the time she was asleep. To find this, we multiply the total time by the fraction representing the dreaming time:
+   \[
+   \text{Time dreaming} = 10 \text{ hours} \times \frac{2}{5}
+   \]
+   Now, we calculate this step:
+   \[
+   \text{Time dreaming} = 10 \times \frac{2}{5} = \frac{20}{5} = 4 \text{ hours}
+   \]
+   So, Audrey dreamed for 4 hours.
+
+3. **Calculate the time not dreaming**: 
+   To find out how much time Audrey was not dreaming, we subtract the time spent dreaming from the total time asleep:
+   \[
+   \text{Time not dreaming} = \text{Total time asleep} - \text{Time dreaming}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Time not dreaming} = 10 \text{ hours} - 4 \text{ hours} = 6 \text{ hours}
+   \]
+
+Thus, Audrey was not dreaming for 6 hours.
+</reasoning>
+<answer>6</answer>

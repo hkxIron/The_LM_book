@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many pints of coffee Genevieve drank, we can follow these steps:
+
+1. **Convert gallons to pints**: First, we need to convert the total amount of coffee from gallons to pints, since we want to find the amount in pints. There are 8 pints in 1 gallon. Therefore, we multiply the number of gallons by 8.
+
+   \[
+   \text{Total pints of coffee} = 4.5 \text{ gallons} \times 8 \text{ pints/gallon} = 36 \text{ pints}
+   \]
+
+2. **Determine the amount of coffee per thermos**: Next, we need to find out how much coffee is in one thermos. We take the total pints of coffee and divide it by the number of thermoses (18).
+
+   \[
+   \text{Coffee per thermos} = \frac{36 \text{ pints}}{18 \text{ thermoses}} = 2 \text{ pints/thermos}
+   \]
+
+3. **Calculate the amount Genevieve drank**: Since Genevieve drank 3 thermoses, we multiply the amount of coffee per thermos by the number of thermoses she drank.
+
+   \[
+   \text{Coffee Genevieve drank} = 3 \text{ thermoses} \times 2 \text{ pints/thermos} = 6 \text{ pints}
+   \]
+
+Thus, Genevieve drank a total of 6 pints of coffee.
+</reasoning>
+<answer>6</answer>

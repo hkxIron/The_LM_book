@@ -1,0 +1,34 @@
+<reasoning>
+To determine how much money Tom has left at the end of the month, we'll first calculate how much he spends in each week and then subtract those amounts from his monthly allowance.
+
+1. **Calculate Tom's total allowance for the month**: 
+   Tom receives $12 as his allowance for the month. 
+
+2. **Calculate how much he spends in the first week**: 
+   Tom spends a third of his allowance in the first week. 
+   - To find one third of $12, we divide by 3:
+     \[
+     \text{Amount spent in the first week} = \frac{12}{3} = 4
+     \]
+   - After spending this amount, we need to find out how much he has left:
+     \[
+     \text{Remaining after the first week} = 12 - 4 = 8
+     \]
+
+3. **Calculate how much he spends in the second week**: 
+   In the second week, Tom spends a quarter of what he has left after the first week. 
+   - He has $8 left, so we calculate a quarter of $8:
+     \[
+     \text{Amount spent in the second week} = \frac{8}{4} = 2
+     \]
+   - Now, we subtract this amount from what he had after the first week to find out how much he has left:
+     \[
+     \text{Remaining after the second week} = 8 - 2 = 6
+     \]
+
+4. **Final Calculation**: 
+   Now we know that Tom has $6 left after two weeks of spending.
+
+Therefore, the amount of money Tom has left to finish the month is:
+</reasoning>
+<answer>6</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we need to determine how many problems each of Angela's friends has finished, and then calculate how many problems are left unfinished.
+
+1. **Calculate Martha's finished problems:**
+   Martha has finished 2 problems.
+
+2. **Calculate Jenna's finished problems:**
+   Jenna has finished four times the number Martha did minus 2. 
+   Since Martha finished 2 problems, we calculate Jenna's finished problems as follows:
+   \[
+   \text{Jenna's finished problems} = 4 \times 2 - 2 = 8 - 2 = 6
+   \]
+
+3. **Calculate Mark's finished problems:**
+   Mark has finished half the number Jenna did. Since Jenna finished 6 problems, we calculate Mark's finished problems as follows:
+   \[
+   \text{Mark's finished problems} = \frac{6}{2} = 3
+   \]
+
+4. **Calculate the total number of finished problems:**
+   Now we need to sum the problems finished by Martha, Jenna, and Mark:
+   \[
+   \text{Total finished problems} = \text{Martha's finished} + \text{Jenna's finished} + \text{Mark's finished} = 2 + 6 + 3 = 11
+   \]
+
+5. **Determine how many problems have no one but Angela finished:**
+   There are 20 problems in total. We subtract the total finished problems from the total number of problems:
+   \[
+   \text{Problems no one but Angela finished} = 20 - 11 = 9
+   \]
+
+Therefore, the number of problems that no one but Angela finished is:
+</reasoning>
+<answer>9</answer>

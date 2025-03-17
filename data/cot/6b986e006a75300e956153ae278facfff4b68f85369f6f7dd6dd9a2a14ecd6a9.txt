@@ -1,0 +1,31 @@
+<reasoning>
+To determine the selling price for each phone, we need to follow these steps:
+
+1. **Calculate the initial cost per phone**: 
+   Ronald bought 200 phones for $3000. To find the cost per phone, we divide the total cost by the number of phones:
+   \[
+   \text{Cost per phone} = \frac{\text{Total cost}}{\text{Number of phones}} = \frac{3000}{200} = 15
+   \]
+   So, each phone costs $15.
+
+2. **Calculate the desired profit**:
+   Ronald wants to gain a third of his initial investment in profits. First, we need to find one third of the total investment:
+   \[
+   \text{Desired profit} = \frac{1}{3} \times \text{Total cost} = \frac{1}{3} \times 3000 = 1000
+   \]
+   Thus, Ronald wants to make a profit of $1000.
+
+3. **Calculate the total revenue needed to achieve the desired profit**:
+   To find the total revenue required to achieve this profit, we add the desired profit to the initial investment:
+   \[
+   \text{Total revenue} = \text{Total cost} + \text{Desired profit} = 3000 + 1000 = 4000
+   \]
+
+4. **Calculate the selling price per phone**:
+   Now, we need to find the selling price per phone by dividing the total revenue needed by the number of phones:
+   \[
+   \text{Selling price per phone} = \frac{\text{Total revenue}}{\text{Number of phones}} = \frac{4000}{200} = 20
+   \]
+   Therefore, the selling price for each phone should be $20 to achieve the desired profit.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,47 @@
+<reasoning>
+To find out how much John's pool costs him in a month, we need to break down the costs associated with cleaning the pool and the chemicals he uses.
+
+1. **Calculate the number of cleanings in a month:**
+   - John gets his pool cleaned every 3 days. There are approximately 30 days in a month.
+   - To find the number of cleanings per month, we divide 30 days by 3 days per cleaning:
+     \[
+     \text{Number of cleanings} = \frac{30}{3} = 10
+     \]
+
+2. **Calculate the cost of cleaning for one month:**
+   - Each cleaning costs $150. Therefore, for 10 cleanings, we multiply:
+     \[
+     \text{Total cleaning cost} = 10 \times 150 = 1500
+     \]
+
+3. **Calculate the tip for one month:**
+   - John gives a 10% tip on each cleaning. First, we find 10% of $150:
+     \[
+     \text{Tip per cleaning} = 0.10 \times 150 = 15
+     \]
+   - Since he has 10 cleanings in a month, the total tip will be:
+     \[
+     \text{Total tips} = 10 \times 15 = 150
+     \]
+
+4. **Calculate the total cost of cleaning and tips:**
+   - Now, we add the total cleaning cost and the total tips together:
+     \[
+     \text{Total pool cleaning cost with tips} = 1500 + 150 = 1650
+     \]
+
+5. **Add the cost of chemicals:**
+   - John spends $200 on chemicals twice a month. Therefore, the total cost for chemicals is:
+     \[
+     \text{Total chemicals cost} = 2 \times 200 = 400
+     \]
+
+6. **Calculate the total monthly cost:**
+   - Finally, we add the total cleaning cost (including tips) and the total chemicals cost:
+     \[
+     \text{Total monthly cost} = 1650 + 400 = 2050
+     \]
+
+Thus, the total monthly cost for John's pool is:
+</reasoning>
+<answer>2050</answer>

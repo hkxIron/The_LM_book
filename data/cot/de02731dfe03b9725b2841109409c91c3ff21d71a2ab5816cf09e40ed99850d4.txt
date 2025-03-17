@@ -1,0 +1,37 @@
+<reasoning>
+To determine how much Peter can save by buying math textbooks from outside bookshops instead of the school bookshop, we can follow these steps:
+
+1. **Calculate the price of a math textbook in the school bookshop.**  
+   The price is given as $45.
+
+2. **Calculate the price of a math textbook in bookshops outside the school.**  
+   Since these books cost 20% less than the school bookshop, we need to calculate 20% of $45.  
+   \[
+   \text{20% of } 45 = 0.20 \times 45 = 9
+   \]
+   Now, we subtract this amount from the school's price to find the price in outside bookshops:  
+   \[
+   \text{Outside bookshop price} = 45 - 9 = 36
+   \]
+
+3. **Calculate the total cost of buying 3 math textbooks from the school bookshop.**  
+   We multiply the price of one textbook by the number of textbooks:  
+   \[
+   \text{Total cost at school} = 3 \times 45 = 135
+   \]
+
+4. **Calculate the total cost of buying 3 math textbooks from outside bookshops.**  
+   Similarly, we calculate:  
+   \[
+   \text{Total cost outside} = 3 \times 36 = 108
+   \]
+
+5. **Calculate the savings by comparing the total costs.**  
+   We subtract the total cost of the outside bookshop from the total cost of the school bookshop:  
+   \[
+   \text{Savings} = \text{Total cost at school} - \text{Total cost outside} = 135 - 108 = 27
+   \]
+
+Therefore, Peter can save $27 by purchasing the textbooks from outside bookshops instead of the school bookshop.
+</reasoning>
+<answer>27</answer>

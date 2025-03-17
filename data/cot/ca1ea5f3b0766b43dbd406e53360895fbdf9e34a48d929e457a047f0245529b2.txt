@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the costs of each item**:
+   - Let the cost of the food be \( F \). According to the problem, Mike spent $30 on food, so we have:
+     \[
+     F = 30
+     \]
+
+2. **Determine the cost of the wallet**:
+   - The problem states that the wallet is $60 more than the cost of the food. Therefore, we can express the cost of the wallet \( W \) as:
+     \[
+     W = F + 60
+     \]
+   - Substituting the value of \( F \):
+     \[
+     W = 30 + 60 = 90
+     \]
+
+3. **Determine the cost of the shirt**:
+   - The shirt costs a third of the value of the wallet. Thus, we can express the cost of the shirt \( S \) as:
+     \[
+     S = \frac{1}{3} W
+     \]
+   - Substituting the value of \( W \):
+     \[
+     S = \frac{1}{3} \times 90 = 30
+     \]
+
+4. **Calculate the total amount spent**:
+   - Now that we have the costs of all items, we can sum them up to find the total amount Mike spent:
+     \[
+     \text{Total} = F + W + S
+     \]
+   - Substituting the values we found:
+     \[
+     \text{Total} = 30 + 90 + 30 = 150
+     \]
+
+Therefore, Mike spent a total of $150 on shopping that day.
+</reasoning>
+<answer>150</answer>

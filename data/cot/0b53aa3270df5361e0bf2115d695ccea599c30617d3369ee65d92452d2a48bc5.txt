@@ -1,0 +1,41 @@
+<reasoning>
+To find out how much Mikaela saved, we need to follow these steps:
+
+1. **Calculate the earnings for the first month**: 
+   Mikaela earns $10 per hour and tutored for 35 hours. 
+   So we multiply her hourly rate by the number of hours she worked:
+   \[
+   \text{Earnings for the first month} = 10 \, \text{dollars/hour} \times 35 \, \text{hours} = 350 \, \text{dollars}
+   \]
+
+2. **Calculate the hours worked in the second month**:
+   In the second month, she tutored 5 hours more than the first month. Therefore, the number of hours she worked in the second month is:
+   \[
+   \text{Hours in the second month} = 35 \, \text{hours} + 5 \, \text{hours} = 40 \, \text{hours}
+   \]
+
+3. **Calculate the earnings for the second month**:
+   Now we calculate her earnings for the second month:
+   \[
+   \text{Earnings for the second month} = 10 \, \text{dollars/hour} \times 40 \, \text{hours} = 400 \, \text{dollars}
+   \]
+
+4. **Calculate total earnings for both months**:
+   We add the earnings from both months together:
+   \[
+   \text{Total earnings} = 350 \, \text{dollars} + 400 \, \text{dollars} = 750 \, \text{dollars}
+   \]
+
+5. **Calculate the amount spent and saved**:
+   Mikaela spends \(\frac{4}{5}\) of her total earnings. We can calculate the amount she spent:
+   \[
+   \text{Amount spent} = \frac{4}{5} \times 750 \, \text{dollars} = 600 \, \text{dollars}
+   \]
+   Now, to find out how much she saved, we subtract the amount spent from her total earnings:
+   \[
+   \text{Amount saved} = 750 \, \text{dollars} - 600 \, \text{dollars} = 150 \, \text{dollars}
+   \]
+
+Therefore, Mikaela saved $150.
+</reasoning>
+<answer>150</answer>

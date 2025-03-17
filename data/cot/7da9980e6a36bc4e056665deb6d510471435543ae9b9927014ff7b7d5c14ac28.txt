@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, let's break it down step-by-step.
+
+1. **Determine James's current experience**: 
+   James has 20 years of experience right now.
+
+2. **Calculate James's experience 8 years ago**: 
+   If James has 20 years of experience now, then 8 years ago, he had:
+   \( 20 - 8 = 12 \) years of experience.
+
+3. **Calculate John's experience 8 years ago**: 
+   According to the problem, 8 years ago, John had twice as much experience as James. Therefore, John's experience 8 years ago was:
+   \( 2 \times 12 = 24 \) years of experience.
+
+4. **Determine John's current experience**: 
+   Since John had 24 years of experience 8 years ago, we can find his current experience by adding 8 years:
+   \( 24 + 8 = 32 \) years of experience.
+
+5. **Determine when Mike started**: 
+   The problem states that Mike started when John had 16 years of experience. To find out when that was, we need to calculate how many years ago that was from John's current experience:
+   John is currently at 32 years of experience, so he was at 16 years of experience:
+   \( 32 - 16 = 16 \) years ago. 
+
+   Therefore, Mike started 16 years ago.
+
+6. **Calculate Mike's current experience**: 
+   Since Mike started when John had 16 years of experience, and that was 16 years ago, we assume Mike has been working for those 16 years. Thus, Mike's current experience is:
+   \( 16 \) years of experience.
+
+7. **Calculate their combined experience**: 
+   Now, we combine the experiences of James, John, and Mike:
+   - James: 20 years
+   - John: 32 years
+   - Mike: 16 years
+   
+   The total combined experience is:
+   \( 20 + 32 + 16 = 68 \) years of experience.
+
+Therefore, the final combined experience of James, John, and Mike is:
+</reasoning>
+<answer>68</answer>

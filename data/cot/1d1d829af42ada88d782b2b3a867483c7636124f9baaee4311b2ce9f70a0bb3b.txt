@@ -1,0 +1,27 @@
+<reasoning>
+To determine how many games Jeff won, we first need to find out how many points he scored during his 2 hours of playing tennis.
+
+1. **Convert the playing time into minutes**: 
+   - Since there are 60 minutes in an hour, we can calculate the total playing time in minutes:
+   \[
+   2 \text{ hours} = 2 \times 60 = 120 \text{ minutes}
+   \]
+   This means Jeff played for 120 minutes.
+
+2. **Determine how many points he scores in that time**:
+   - Jeff scores a point every 5 minutes. To find out how many points he scored in 120 minutes, we divide the total minutes by the time it takes to score a point:
+   \[
+   \text{Number of points} = \frac{120 \text{ minutes}}{5 \text{ minutes per point}} = 24 \text{ points}
+   \]
+   Jeff scored a total of 24 points in 2 hours.
+
+3. **Find out how many games he won**:
+   - Jeff wins a match when he scores 8 points. To determine how many matches he won, we divide the total points scored by the number of points required to win a match:
+   \[
+   \text{Number of games won} = \frac{24 \text{ points}}{8 \text{ points per game}} = 3
+   \]
+   Therefore, Jeff won 3 games.
+
+Putting it all together, we find that:
+</reasoning>
+<answer>3</answer>

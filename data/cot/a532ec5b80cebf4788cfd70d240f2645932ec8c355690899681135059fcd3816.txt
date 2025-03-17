@@ -1,0 +1,21 @@
+<reasoning>
+To solve this problem, we need to determine how many slices of cake were kept after one-fourth of the cake was eaten by Lovely's visitors.
+
+1. **Determine the total number of slices**: Lovely cut her birthday cake into 12 equal pieces. So, we have:
+   \[
+   \text{Total slices} = 12
+   \]
+
+2. **Calculate the number of slices eaten by visitors**: Since one-fourth of the cake was eaten, we need to find one-fourth of the total slices. To do this, we multiply the total number of slices by \( \frac{1}{4} \):
+   \[
+   \text{Slices eaten} = \frac{1}{4} \times 12 = 3
+   \]
+
+3. **Calculate the number of slices kept**: To find out how many slices were kept, we subtract the number of slices eaten from the total number of slices:
+   \[
+   \text{Slices kept} = \text{Total slices} - \text{Slices eaten} = 12 - 3 = 9
+   \]
+
+Therefore, Lovely kept 9 slices of cake.
+</reasoning>
+<answer>9</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+Let's denote the number of toys in the smaller pile as \( x \). According to the problem, the larger pile is twice as big as the smaller pile. Therefore, we can express the number of toys in the larger pile as \( 2x \).
+
+Next, we know that the total number of toys in both piles added together equals 120. We can set up the following equation to represent this:
+
+\[
+x + 2x = 120
+\]
+
+Now, let's simplify the equation. Combining like terms, we have:
+
+\[
+3x = 120
+\]
+
+To solve for \( x \), we can divide both sides of the equation by 3:
+
+\[
+x = \frac{120}{3} = 40
+\]
+
+Now that we found \( x \), which represents the number of toys in the smaller pile, we can find the number of toys in the larger pile. Recall that the larger pile has twice as many toys as the smaller pile:
+
+\[
+\text{Number of toys in the larger pile} = 2x = 2 \times 40 = 80
+\]
+
+Therefore, the number of toys in the larger pile is 80.
+</reasoning>
+<answer>80</answer>

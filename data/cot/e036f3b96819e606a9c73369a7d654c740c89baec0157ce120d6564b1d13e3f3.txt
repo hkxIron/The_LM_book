@@ -1,0 +1,36 @@
+<reasoning>
+To find the total number of whales Ishmael saw during his monitoring, we will break down the counts from each trip step by step.
+
+1. **First Trip:**
+   - Ishmael counts 28 male whales.
+   - The number of female whales is twice the number of male whales.
+   - So, the number of female whales = 2 * 28 = 56.
+   - Total whales on the first trip = male + female = 28 + 56 = 84.
+
+2. **Second Trip:**
+   - Ishmael sees 8 baby whales, each travelling with their parents. 
+   - Since each baby whale has 2 parents (1 male and 1 female), the number of parents = 8 * 2 = 16 (8 males + 8 females).
+   - Total whales on the second trip = baby whales + parents = 8 + 16 = 24.
+
+3. **Third Trip:**
+   - Ishmael counts half as many male whales as on the first trip. 
+   - Half of 28 (the male whales from the first trip) = 28 / 2 = 14 male whales.
+   - The number of female whales remains the same as on the first trip, which is 56.
+   - Total whales on the third trip = male + female = 14 + 56 = 70.
+
+Now, let's calculate the total number of whales seen over all three trips:
+
+- Total from the first trip = 84 whales.
+- Total from the second trip = 24 whales.
+- Total from the third trip = 70 whales.
+
+Adding these together:
+Total whales = 84 + 24 + 70.
+
+Calculating this step:
+1. 84 + 24 = 108
+2. 108 + 70 = 178
+
+Thus, the total number of whales Ishmael monitored during his trips is 178.
+</reasoning>
+<answer>178</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Understanding the row distribution**: Aubrey has 15 rows in total for her plants. For every row of tomato plants, she is planting 2 rows of cucumbers. This means that for every 1 row of tomatoes, there are 2 rows of cucumbers, giving us a total of 3 rows (1 tomato + 2 cucumbers).
+
+2. **Calculating the number of tomato rows**: To find out how many rows of tomatoes Aubrey can plant, we can set up the equation based on the total rows:
+   - Let \( x \) be the number of rows of tomato plants.
+   - Then the number of rows of cucumbers will be \( 2x \).
+   - The total rows equation is:
+     \[
+     x + 2x = 15
+     \]
+   - Combining like terms gives:
+     \[
+     3x = 15
+     \]
+   - Now, divide both sides by 3:
+     \[
+     x = 5
+     \]
+   So, Aubrey can plant 5 rows of tomato plants.
+
+3. **Calculating the number of cucumber rows**: Since there are 2 rows of cucumbers for each row of tomatoes and she has 5 rows of tomatoes:
+   - The number of cucumber rows will be:
+     \[
+     2 \times 5 = 10
+     \]
+   This confirms the total rows: \( 5 \) (tomato) + \( 10 \) (cucumber) = \( 15 \) (total).
+
+4. **Calculating the total number of tomato plants**: Each row of tomato plants can hold 8 tomato plants. Therefore, the total number of tomato plants in the 5 rows will be:
+   \[
+   5 \text{ rows} \times 8 \text{ plants/row} = 40 \text{ tomato plants}
+   \]
+
+5. **Calculating the total number of tomatoes produced**: Each tomato plant produces 3 tomatoes. Thus, the total number of tomatoes produced by 40 tomato plants will be:
+   \[
+   40 \text{ plants} \times 3 \text{ tomatoes/plant} = 120 \text{ tomatoes}
+   \]
+
+Combining all these calculations, we find that Aubrey will have a total of 120 tomatoes.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>120</answer>

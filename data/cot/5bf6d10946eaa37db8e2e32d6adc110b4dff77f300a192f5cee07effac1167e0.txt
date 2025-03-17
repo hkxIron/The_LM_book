@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total expenditure**: Wade spends a total of $26.
+
+2. **Determine the cost of the drinks**: Wade buys 2 drinks at $4 each. 
+   - To find the total cost of the drinks, we multiply the number of drinks by the cost per drink:
+     \[
+     2 \text{ drinks} \times 4 \text{ dollars/drink} = 8 \text{ dollars}
+     \]
+
+3. **Calculate the remaining amount for sandwiches**: To find out how much Wade spent on the sandwiches, we subtract the total cost of the drinks from the total expenditure:
+   \[
+   26 \text{ dollars (total)} - 8 \text{ dollars (drinks)} = 18 \text{ dollars}
+   \]
+   So, Wade has spent $18 on sandwiches.
+
+4. **Determine the cost of each sandwich**: Wade buys a total of 3 sandwiches (one to eat now, one for the road, and one for later). To find the cost of each sandwich, we divide the total spent on sandwiches by the number of sandwiches:
+   \[
+   \frac{18 \text{ dollars}}{3 \text{ sandwiches}} = 6 \text{ dollars/sandwich}
+   \]
+
+Therefore, each sandwich costs $6.
+</reasoning>
+<answer>6</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many rocking chairs Ben can build in 10 days, we will follow these steps:
+
+1. **Calculate the total hours Ben works in 10 days**: Since Ben works 8 hours each day, we first find the total hours worked over 10 days. We do this by multiplying the number of hours in a day by the number of days.
+   \[
+   \text{Total hours} = 8 \, \text{hours/day} \times 10 \, \text{days} = 80 \, \text{hours}
+   \]
+   This calculation shows that Ben will work a total of 80 hours in 10 days.
+
+2. **Determine how many rocking chairs he can build in those hours**: We know it takes Ben 5 hours to build one rocking chair. To find out how many chairs he can build in 80 hours, we will divide the total hours by the hours it takes to build one chair.
+   \[
+   \text{Number of chairs} = \frac{80 \, \text{hours}}{5 \, \text{hours/chair}} = 16 \, \text{chairs}
+   \]
+   This means that in the 80 hours he works over 10 days, Ben can build 16 rocking chairs.
+
+Therefore, after calculating the total number of rocking chairs Ben can build, we conclude that:
+</reasoning>
+<answer>16</answer>

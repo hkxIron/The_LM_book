@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many customers are in each car, we first need to determine the total number of customers based on the sales made by both stores.
+
+1. **Calculate the total sales**: The sports store made 20 sales, and the music store made 30 sales. We add these two amounts together to find the total number of customers:
+   \[
+   \text{Total Sales} = \text{Sales from Sports Store} + \text{Sales from Music Store} = 20 + 30 = 50
+   \]
+   This total represents the total number of customers who made purchases.
+
+2. **Determine the number of cars and customers per car**: We know there are 10 cars parked in the lot and that each car has the same number of customers. To find the number of customers in each car, we divide the total number of customers by the number of cars:
+   \[
+   \text{Customers per Car} = \frac{\text{Total Customers}}{\text{Number of Cars}} = \frac{50}{10} = 5
+   \]
+   This step helps us understand how many customers are distributed evenly across the 10 cars.
+
+Therefore, we conclude that there are 5 customers in each car.
+</reasoning>
+<answer>5</answer>

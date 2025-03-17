@@ -1,0 +1,32 @@
+<reasoning>
+To solve this problem, let's define the amounts of money that each person has using variables.
+
+1. Let \( N \) represent the amount of money Nada has.
+2. Since Ali has $5 less than Nada, we can express Ali's amount as \( A = N - 5 \).
+3. John has 4 times more than Nada, which can be expressed as \( J = 4N \).
+
+Now we know the total amount of money they have:
+\[ A + N + J = 67 \]
+
+Substituting the expressions for \( A \) and \( J \) in terms of \( N \):
+\[ (N - 5) + N + (4N) = 67 \]
+
+Now, combine like terms:
+\[ N - 5 + N + 4N = 67 \]
+\[ 6N - 5 = 67 \]
+
+Next, we will isolate \( N \) by adding 5 to both sides:
+\[ 6N = 67 + 5 \]
+\[ 6N = 72 \]
+
+Now, divide both sides by 6 to solve for \( N \):
+\[ N = \frac{72}{6} \]
+\[ N = 12 \]
+
+Now that we have the amount Nada has, we can find out how much John has. Recall that John has 4 times the amount of Nada:
+\[ J = 4N = 4 \times 12 \]
+\[ J = 48 \]
+
+Therefore, John has $48.
+</reasoning>
+<answer>48</answer>

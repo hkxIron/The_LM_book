@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the initial number of pennies**: According to the problem, there are 2 pennies in each of the 12 compartments of the piggy bank. To find the total number of pennies in the compartments initially, we multiply the number of compartments by the number of pennies per compartment.
+
+   Calculation:
+   \[
+   12 \text{ compartments} \times 2 \text{ pennies/compartment} = 24 \text{ pennies}
+   \]
+
+2. **Calculate the additional pennies**: The problem states that Rosheshmina adds 6 more pennies to each compartment. We need to calculate how many additional pennies she adds in total. We will again multiply the number of compartments by the number of additional pennies added per compartment.
+
+   Calculation:
+   \[
+   12 \text{ compartments} \times 6 \text{ additional pennies/compartment} = 72 \text{ additional pennies}
+   \]
+
+3. **Calculate the total number of pennies**: To find the total number of pennies in the piggy bank after adding the additional pennies, we add the initial number of pennies to the additional pennies.
+
+   Calculation:
+   \[
+   24 \text{ initial pennies} + 72 \text{ additional pennies} = 96 \text{ total pennies}
+   \]
+
+Therefore, after performing all calculations, we find that the total number of pennies Rosheshmina has in her piggy bank is:
+</reasoning>
+<answer>96</answer>

@@ -1,0 +1,55 @@
+<reasoning>
+To solve the problem, we first define the ages of the children:
+
+1. Let \( R \) be Rebecca's age.
+2. Since Matthew is two years older than Rebecca, we can express Matthew's age as \( R + 2 \).
+3. Freddy is four years older than Matthew, so we can express Freddy's age as \( (R + 2) + 4 = R + 6 \).
+
+Next, we know that the sum of their ages equals 35:
+
+\[
+R + (R + 2) + (R + 6) = 35
+\]
+
+Now, we'll simplify the equation:
+
+1. Combine the like terms:
+   \[
+   R + R + 2 + R + 6 = 35
+   \]
+   This simplifies to:
+   \[
+   3R + 8 = 35
+   \]
+
+2. To isolate \( 3R \), we subtract 8 from both sides:
+   \[
+   3R = 35 - 8
+   \]
+   This results in:
+   \[
+   3R = 27
+   \]
+
+3. Now, we divide both sides by 3 to solve for \( R \):
+   \[
+   R = \frac{27}{3} = 9
+   \]
+
+Now that we have Rebecca's age, we can find the ages of Matthew and Freddy:
+
+1. Matthew's age is:
+   \[
+   R + 2 = 9 + 2 = 11
+   \]
+
+2. Freddy's age is:
+   \[
+   R + 6 = 9 + 6 = 15
+   \]
+
+Thus, Freddy is 15 years old.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>15</answer>

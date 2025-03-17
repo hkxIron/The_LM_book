@@ -1,0 +1,37 @@
+<reasoning>
+To find the total value of Smaug's hoard in copper coins, we need to convert the values of gold and silver coins into copper coins and then sum them up.
+
+1. **Calculate the value of gold coins in copper coins:**
+   - Smaug has 100 gold coins.
+   - Each gold coin is worth 3 silver coins. 
+   - Therefore, the total value of 100 gold coins in silver coins is:
+     \[
+     100 \text{ gold coins} \times 3 \text{ silver coins/gold coin} = 300 \text{ silver coins}
+     \]
+
+2. **Convert the silver coins to copper coins:**
+   - We know that each silver coin is worth 8 copper coins.
+   - Thus, the value of 300 silver coins in copper coins is:
+     \[
+     300 \text{ silver coins} \times 8 \text{ copper coins/silver coin} = 2400 \text{ copper coins}
+     \]
+
+3. **Calculate the value of silver coins in copper coins:**
+   - Smaug has 60 silver coins.
+   - Converting these silver coins to copper coins gives:
+     \[
+     60 \text{ silver coins} \times 8 \text{ copper coins/silver coin} = 480 \text{ copper coins}
+     \]
+
+4. **Calculate the value of copper coins:**
+   - Smaug has 33 copper coins, which we simply keep as 33 copper coins.
+
+5. **Sum all values in copper coins:**
+   - Now, we add the values from gold coins, silver coins, and copper coins:
+     \[
+     2400 \text{ copper coins (from gold)} + 480 \text{ copper coins (from silver)} + 33 \text{ copper coins} = 2913 \text{ copper coins}
+     \]
+
+Thus, the total value of Smaug's hoard expressed as a number of copper coins is:
+</reasoning>
+<answer>2913</answer>

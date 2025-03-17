@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the selling price of the other houses**: 
+   The problem states that the other houses sell for $320,000 each.
+
+2. **Calculate the selling price of the house built with the additional cost**:
+   According to the problem, the house that is built with the extra cost sells for 1.5 times the selling price of the other houses. 
+   \[
+   \text{Selling price of the special house} = 1.5 \times 320,000 = 480,000
+   \]
+
+3. **Determine the construction cost of the other houses**:
+   We are told that the house built with the extra cost has a construction cost that is $100,000 more than the construction cost of each of the houses in the area. 
+   Let's denote the construction cost of the other houses as \( C \). Therefore, the construction cost of the special house is:
+   \[
+   C + 100,000
+   \]
+
+4. **Calculate the profit from the other houses**:
+   The profit from selling one of the regular houses (which sells for $320,000) can be calculated as:
+   \[
+   \text{Profit from regular house} = \text{Selling price} - \text{Construction cost} = 320,000 - C
+   \]
+
+5. **Calculate the profit from the special house**:
+   The profit from selling the special house can be calculated as:
+   \[
+   \text{Profit from special house} = \text{Selling price} - \text{Construction cost} = 480,000 - (C + 100,000) = 480,000 - C - 100,000 = 380,000 - C
+   \]
+
+6. **Calculate the difference in profits**:
+   Now we need to find out how much more profit is made by building the special house compared to the regular houses. We can find this by taking the profit from the special house and subtracting the profit from the regular house:
+   \[
+   \text{Difference in profit} = (380,000 - C) - (320,000 - C)
+   \]
+
+   Simplifying this expression:
+   \[
+   \text{Difference in profit} = 380,000 - C - 320,000 + C = 380,000 - 320,000 = 60,000
+   \]
+
+Therefore, by spending the extra money to build the special house, the additional profit made is $60,000.
+</reasoning>
+<answer>60000</answer>

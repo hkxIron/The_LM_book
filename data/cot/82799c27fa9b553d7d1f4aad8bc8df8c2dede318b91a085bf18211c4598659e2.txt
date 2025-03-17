@@ -1,0 +1,39 @@
+<reasoning>
+To find the number of minnows with white bellies, we first need to determine the total number of minnows in the pond based on the information given about the red bellies.
+
+1. We know that 40% of the minnows have red bellies. We are given that there are 20 minnows with red bellies.
+2. To find the total number of minnows (let's call it \( x \)), we can set up the equation based on the percentage:
+   \[
+   0.4x = 20
+   \]
+   This equation states that 40% of the total number of minnows equals 20.
+
+3. Next, we need to solve for \( x \):
+   \[
+   x = \frac{20}{0.4}
+   \]
+   To do this division, we can rewrite \( 0.4 \) as \( \frac{2}{5} \):
+   \[
+   x = 20 \div 0.4 = 20 \times \frac{5}{2} = 50
+   \]
+
+4. Now that we have the total number of minnows, \( x = 50 \), we can determine the number of minnows with green and white bellies.
+   - 30% of the minnows have green bellies:
+   \[
+   \text{Green bellies} = 0.3 \times 50 = 15
+   \]
+
+5. Since we know the percentages for red (40%) and green (30%), we can find the percentage for white bellies:
+   \[
+   \text{White bellies} = 100\% - 40\% - 30\% = 30\%
+   \]
+   Therefore, 30% of the minnows have white bellies.
+
+6. Now we can calculate the number of minnows that have white bellies:
+   \[
+   \text{White bellies} = 0.3 \times 50 = 15
+   \]
+
+In summary, we determined the total number of minnows was 50, and from that, we calculated that 15 minnows have white bellies.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,57 @@
+<reasoning>
+To find out how much Gina will spend in total for college this year, we need to calculate the total cost of her credits, textbooks, and facilities fee separately and then add them together.
+
+1. **Calculate the cost of the credits**: 
+   Gina is taking 14 credits, and each credit costs $450. 
+   We use the formula: 
+   \[
+   \text{Total cost of credits} = \text{Number of credits} \times \text{Cost per credit}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total cost of credits} = 14 \times 450
+   \]
+   Now, we perform the multiplication:
+   \[
+   14 \times 450 = 6300
+   \]
+   So, the total cost of the credits is $6300.
+
+2. **Calculate the cost of the textbooks**: 
+   Gina needs 5 textbooks, and each textbook costs $120. 
+   We use the same formula:
+   \[
+   \text{Total cost of textbooks} = \text{Number of textbooks} \times \text{Cost per textbook}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total cost of textbooks} = 5 \times 120
+   \]
+   Now, we perform the multiplication:
+   \[
+   5 \times 120 = 600
+   \]
+   So, the total cost of the textbooks is $600.
+
+3. **Include the facilities fee**: 
+   The facilities fee is a fixed amount of $200.
+
+4. **Calculate the total cost**: 
+   Now we need to add the total cost of the credits, the total cost of the textbooks, and the facilities fee together:
+   \[
+   \text{Total cost} = \text{Total cost of credits} + \text{Total cost of textbooks} + \text{Facilities fee}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total cost} = 6300 + 600 + 200
+   \]
+   Now, we perform the addition:
+   \[
+   6300 + 600 = 6900
+   \]
+   \[
+   6900 + 200 = 7100
+   \]
+   Therefore, the total amount Gina will spend in total is $7100.
+</reasoning>
+<answer>7100</answer>

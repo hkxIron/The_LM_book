@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we'll need to determine how many dogs are actively engaged in activities and then subtract that number from the total number of dogs in the park.
+
+1. **Identify the total number of dogs**: We know there are 88 dogs in the park.
+
+2. **Determine how many are running**: According to the problem, 12 dogs are running.
+
+3. **Calculate how many dogs are playing with toys**: The problem states that half of the dogs are playing with toys. Since there are 88 dogs in total, we calculate half of that:
+   \[
+   \text{Dogs playing with toys} = \frac{88}{2} = 44
+   \]
+
+4. **Calculate how many dogs are barking**: The problem mentions that a fourth of the dogs are barking. To find a fourth of 88, we do the following calculation:
+   \[
+   \text{Dogs barking} = \frac{88}{4} = 22
+   \]
+
+5. **Add up all the dogs that are engaged in activities**: Now, we need to sum the number of dogs running, playing with toys, and barking:
+   \[
+   \text{Total engaged dogs} = \text{Dogs running} + \text{Dogs playing with toys} + \text{Dogs barking} = 12 + 44 + 22
+   \]
+   Performing the addition:
+   \[
+   12 + 44 = 56
+   \]
+   \[
+   56 + 22 = 78
+   \]
+   So, there are 78 dogs engaged in activities.
+
+6. **Calculate the number of dogs not doing anything**: Finally, we subtract the number of engaged dogs from the total number of dogs to find out how many are not doing anything:
+   \[
+   \text{Dogs not doing anything} = \text{Total dogs} - \text{Total engaged dogs} = 88 - 78
+   \]
+   Performing the subtraction:
+   \[
+   88 - 78 = 10
+   \]
+
+Therefore, the number of dogs that are not doing anything is 10.
+</reasoning>
+<answer>10</answer>

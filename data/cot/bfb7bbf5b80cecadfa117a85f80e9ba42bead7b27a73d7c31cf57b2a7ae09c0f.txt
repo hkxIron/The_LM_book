@@ -1,0 +1,53 @@
+<reasoning>
+To solve this problem, we need to find the length of the rectangle first using the given area and width. The area \( A \) of a rectangle can be calculated using the formula:
+
+\[
+A = \text{length} \times \text{width}
+\]
+
+1. **Identify the known values**: 
+   - Area \( A = 1638 \) square inches
+   - Width \( W = 42 \) inches
+
+2. **Rearrange the area formula to solve for length**:
+   We can rearrange the formula to solve for length \( L \):
+
+\[
+L = \frac{A}{W}
+\]
+
+3. **Substitute the known values into the formula**:
+   We will now substitute the values for area and width into our rearranged formula:
+
+\[
+L = \frac{1638}{42}
+\]
+
+4. **Calculate the length**:
+   Now we perform the division:
+
+\[
+L = \frac{1638}{42} = 39
+\]
+
+So the length of one rectangle is 39 inches.
+
+5. **Determine how many rectangles would reach a total length of 390 inches**:
+   Now we need to find out how many rectangles of length 39 inches can fit into 390 inches. We do this by dividing the total length by the length of one rectangle:
+
+\[
+\text{Number of rectangles} = \frac{390}{39}
+\]
+
+6. **Calculate the number of rectangles**:
+   Now we perform the division:
+
+\[
+\text{Number of rectangles} = \frac{390}{39} = 10
+\]
+
+Thus, 10 rectangles of the same size would reach a total length of 390 inches.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>10</answer>

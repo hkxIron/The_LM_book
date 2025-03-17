@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the initial cost of the 20 shares**:
+   Tom buys 20 shares at $3 each. To find the total cost, we multiply the number of shares by the cost per share.
+   \[
+   \text{Total Cost} = 20 \text{ shares} \times 3 \text{ dollars/share} = 60 \text{ dollars}
+   \]
+   This means Tom initially invests $60 in the stock.
+
+2. **Calculate the revenue from selling 10 shares**:
+   Tom sells 10 of those shares for $4 each. To find out how much he earns from selling these shares, multiply the number of shares sold by the selling price per share.
+   \[
+   \text{Revenue from Sale} = 10 \text{ shares} \times 4 \text{ dollars/share} = 40 \text{ dollars}
+   \]
+   So, from selling 10 shares, Tom makes $40.
+
+3. **Determine the value of the remaining shares**:
+   After selling 10 shares, Tom has 10 shares left. The problem states that the value of the remaining shares doubles. Since each share originally cost $3, after doubling, each share is worth:
+   \[
+   \text{New Value per Share} = 3 \text{ dollars/share} \times 2 = 6 \text{ dollars/share}
+   \]
+   Now, we can calculate the total value of the remaining 10 shares at this new price.
+   \[
+   \text{Total Value of Remaining Shares} = 10 \text{ shares} \times 6 \text{ dollars/share} = 60 \text{ dollars}
+   \]
+
+4. **Calculate the total profit**:
+   To find the total profit, we need to consider both the revenue from selling the 10 shares and the value of the remaining 10 shares, then subtract the initial investment.
+   \[
+   \text{Total Earnings} = \text{Revenue from Sale} + \text{Total Value of Remaining Shares} = 40 \text{ dollars} + 60 \text{ dollars} = 100 \text{ dollars}
+   \]
+   Now, we subtract the initial investment from the total earnings to find the profit.
+   \[
+   \text{Profit} = \text{Total Earnings} - \text{Total Cost} = 100 \text{ dollars} - 60 \text{ dollars} = 40 \text{ dollars}
+   \]
+
+Thus, Tom makes a profit of $40.
+</reasoning>
+<answer>40</answer>

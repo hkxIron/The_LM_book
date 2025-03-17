@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of flavors Gretchen has tried so far.**
+   - Two years ago, she tried \( \frac{1}{4} \) of the 100 flavors. 
+   - To find this, we calculate:
+     \[
+     \frac{1}{4} \times 100 = 25
+     \]
+   - So, she tried 25 flavors two years ago.
+
+2. **Calculate how many flavors she tried last year.**
+   - Last year, she tried double the amount she tried two years ago.
+   - Therefore, the number of flavors she tried last year is:
+     \[
+     2 \times 25 = 50
+     \]
+
+3. **Add the flavors she has tried in total.**
+   - Now, we add the flavors tried two years ago and last year:
+     \[
+     25 + 50 = 75
+     \]
+   - Hence, Gretchen has tried a total of 75 flavors so far.
+
+4. **Determine how many more flavors she needs to try to reach 100.**
+   - To find out how many more flavors she needs to try, we subtract the total number of flavors she has tried from the total number of flavors available:
+     \[
+     100 - 75 = 25
+     \]
+
+Therefore, Gretchen needs to try 25 more flavors this year to have tried all 100 flavors.
+</reasoning>
+<answer>25</answer>

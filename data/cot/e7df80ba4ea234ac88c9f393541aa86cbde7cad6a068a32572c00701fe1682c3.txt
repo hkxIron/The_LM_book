@@ -1,0 +1,62 @@
+<reasoning>
+Let's start by determining the total amount that still needs to be collected from Sally, Amy, Derek, and Carl.
+
+1. First, we know that the total promised amount is $400, and the amount Rick has actually received is $285. We can find out how much is still owed by subtracting the amount received from the total promised amount:
+
+   \[
+   \text{Total amount owed} = \text{Total promised} - \text{Amount received}
+   \]
+   \[
+   \text{Total amount owed} = 400 - 285 = 115
+   \]
+
+2. Next, we know Amy owes $30. We can now express how much Derek owes. We know that Derek owes half as much as Amy. So:
+
+   \[
+   \text{Derek's debt} = \frac{1}{2} \times \text{Amy's debt} = \frac{1}{2} \times 30 = 15
+   \]
+
+3. Now we have the amounts owed by Amy and Derek:
+   - Amy owes $30.
+   - Derek owes $15.
+
+4. We can find the total amount owed by both Amy and Derek:
+
+   \[
+   \text{Total owed by Amy and Derek} = \text{Amy's debt} + \text{Derek's debt}
+   \]
+   \[
+   \text{Total owed by Amy and Derek} = 30 + 15 = 45
+   \]
+
+5. Now we can find out how much Sally and Carl owe in total. We know that the total amount owed is $115, and we have calculated that Amy and Derek together owe $45. Thus, the total owed by Sally and Carl together is:
+
+   \[
+   \text{Total owed by Sally and Carl} = \text{Total amount owed} - \text{Total owed by Amy and Derek}
+   \]
+   \[
+   \text{Total owed by Sally and Carl} = 115 - 45 = 70
+   \]
+
+6. We know that Sally and Carl both owe equal amounts. Let's denote the amount each of them owes as \(x\). Therefore:
+
+   \[
+   \text{Sally's debt} + \text{Carl's debt} = x + x = 2x
+   \]
+   This must equal the total amount they owe together:
+
+   \[
+   2x = 70
+   \]
+
+7. To find \(x\), we divide both sides by 2:
+
+   \[
+   x = \frac{70}{2} = 35
+   \]
+
+Thus, Sally and Carl each owe $35.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>35</answer>

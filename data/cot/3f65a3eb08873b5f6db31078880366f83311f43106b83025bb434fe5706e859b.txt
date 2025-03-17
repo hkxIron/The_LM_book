@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much is left in Miss Grayson's class fund after paying for the field trip, we need to calculate the total amount raised and then subtract the total cost of the trip.
+
+1. **Calculate total contributions from the students:**
+   Each of the 20 students contributed $5. So, we multiply the number of students by the contribution per student:
+   \[
+   \text{Total contributions from students} = 20 \text{ students} \times 5 \text{ dollars/student} = 100 \text{ dollars}
+   \]
+
+2. **Add the contributions to the initial amount raised:**
+   Miss Grayson’s class raised $50 initially. We will add this to the total contributions from the students:
+   \[
+   \text{Total amount raised} = 50 \text{ dollars} + 100 \text{ dollars} = 150 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of the field trip:**
+   The cost per student for the trip is $7. Therefore, we multiply the cost per student by the number of students:
+   \[
+   \text{Total cost of the trip} = 20 \text{ students} \times 7 \text{ dollars/student} = 140 \text{ dollars}
+   \]
+
+4. **Subtract the total cost from the total amount raised:**
+   Now, we find out how much money is left after paying for the trip:
+   \[
+   \text{Amount left in the fund} = 150 \text{ dollars} - 140 \text{ dollars} = 10 \text{ dollars}
+   \]
+
+Thus, after paying for the field trip, Miss Grayson's class has $10 remaining in their fund.
+</reasoning>
+<answer>10</answer>

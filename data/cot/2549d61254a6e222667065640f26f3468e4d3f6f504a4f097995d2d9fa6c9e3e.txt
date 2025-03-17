@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to first understand the relationship between the number of apricot trees and peach trees that were planted.
+
+1. We know that the family planted 58 apricot trees. 
+   - Let's denote the number of apricot trees as \( A \). Thus, \( A = 58 \).
+
+2. According to the problem, the family planted 3 times as many peach trees as apricot trees. 
+   - We can denote the number of peach trees as \( P \). The relationship given in the problem can be expressed as:
+     \[
+     P = 3 \times A
+     \]
+   - Substituting the value of \( A \):
+     \[
+     P = 3 \times 58
+     \]
+
+3. Now, we calculate the number of peach trees:
+   \[
+   P = 3 \times 58 = 174
+   \]
+
+4. Next, we need to find the total number of trees planted, which is the sum of apricot trees and peach trees:
+   \[
+   \text{Total Trees} = A + P
+   \]
+   - Substituting the values we have:
+   \[
+   \text{Total Trees} = 58 + 174
+   \]
+
+5. Finally, we perform the addition:
+   \[
+   \text{Total Trees} = 232
+   \]
+
+Therefore, the total number of trees planted is 232.
+</reasoning>
+<answer>232</answer>

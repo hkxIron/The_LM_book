@@ -1,0 +1,24 @@
+<reasoning>
+First, let's determine how many people are in total between the two families. 
+
+Karen and Donald have 6 children, so:
+- Total members in Karen and Donald's family = 2 (Karen and Donald) + 6 (children) = 8 people.
+
+Tom and Eva have 4 children, so:
+- Total members in Tom and Eva's family = 2 (Tom and Eva) + 4 (children) = 6 people.
+
+Now, let's add the total number of people from both families:
+Total people = 8 (from Karen and Donald's family) + 6 (from Tom and Eva's family) = 14 people.
+
+Next, we know that each person has 2 legs. So, to find the total number of legs for all 14 people, we calculate:
+Total legs = 14 people × 2 legs/person = 28 legs.
+
+We are told that there are 16 legs in the pool. To find out how many people are not in the pool, we first need to find out how many legs are not in the pool:
+Total legs not in the pool = Total legs - Legs in the pool = 28 legs - 16 legs = 12 legs.
+
+Now, since each person has 2 legs, we can find out how many people correspond to these 12 legs:
+Number of people not in the pool = Total legs not in the pool ÷ 2 legs/person = 12 legs ÷ 2 legs/person = 6 people.
+
+Therefore, the number of people who are not in the pool is 6.
+</reasoning>
+<answer>6</answer>

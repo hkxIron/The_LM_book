@@ -1,0 +1,37 @@
+<reasoning>
+Let's first calculate Janina's total daily expenses. 
+
+1. **Identify Daily Expenses**:
+   - Rent: $30 per day
+   - Supplies: $12 per day 
+   - Total Expenses = Rent + Supplies
+
+   So, we add these two amounts together:
+   Total Expenses = $30 + $12 = $42
+
+   Here, I added the rent and supplies to find out how much Janina spends each day in total.
+
+2. **Determine Income from Pancake Sales**:
+   - Janina sells each pancake for $2. 
+
+3. **Calculate Number of Pancakes Needed to Cover Expenses**:
+   We need to find out how many pancakes Janina must sell to equal her total expenses of $42. We can set up the equation:
+   Let \( x \) be the number of pancakes sold.
+   So, the income from selling \( x \) pancakes is:
+   Income = Selling Price per Pancake × Number of Pancakes
+   Income = $2 × \( x \)
+
+   To cover her total expenses, we set up the equation:
+   \( 2x = 42 \)
+
+4. **Solve for \( x \)**:
+   Now we will divide both sides by 2 to isolate \( x \):
+   \[
+   x = \frac{42}{2} = 21
+   \]
+
+   Here, I divided the total expenses by the price per pancake to find out how many pancakes Janina needs to sell.
+
+Therefore, Janina must sell 21 pancakes each day to cover her expenses.
+</reasoning>
+<answer>21</answer>

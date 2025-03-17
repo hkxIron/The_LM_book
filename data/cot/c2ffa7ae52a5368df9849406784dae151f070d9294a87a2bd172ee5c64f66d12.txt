@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down Miriam's push-up count step by step for each day of the week.
+
+1. **Monday**: Miriam does 5 push-ups. 
+   - Total for Monday: 5 push-ups.
+
+2. **Tuesday**: Miriam does 7 push-ups.
+   - Total for Tuesday: 7 push-ups.
+   - Cumulative total after Tuesday: 5 + 7 = 12 push-ups.
+
+3. **Wednesday**: Miriam does twice as many push-ups as the day before (which was Tuesday).
+   - Push-ups on Wednesday = 2 * 7 = 14 push-ups.
+   - Cumulative total after Wednesday: 12 + 14 = 26 push-ups.
+
+4. **Thursday**: Miriam does half the number of total push-ups she already did that week (which is the cumulative total of 26).
+   - Push-ups on Thursday = 26 / 2 = 13 push-ups.
+   - Cumulative total after Thursday: 26 + 13 = 39 push-ups.
+
+5. **Friday**: Miriam does as many push-ups as the total number she did over the previous four days.
+   - So on Friday, she does 39 push-ups (the total from Monday to Thursday).
+   - Cumulative total after Friday: 39 + 39 = 78 push-ups. However, we are only interested in how many she does on Friday.
+
+Thus, the number of push-ups Miriam does on Friday alone is 39.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>39</answer>

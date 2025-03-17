@@ -1,0 +1,35 @@
+<reasoning>
+First, we need to determine how much money Frank has in total. 
+
+1. **Calculate the total amount of money Frank has:**
+   - He has 7 one-dollar bills, which equals \( 7 \times 1 = 7 \) dollars.
+   - He has 4 five-dollar bills, which equals \( 4 \times 5 = 20 \) dollars.
+   - He has 2 ten-dollar bills, which equals \( 2 \times 10 = 20 \) dollars.
+   - He has 1 twenty-dollar bill, which equals \( 1 \times 20 = 20 \) dollars.
+   
+   Now, let's add these amounts together:
+   \[
+   \text{Total money} = 7 + 20 + 20 + 20 = 67 \text{ dollars}
+   \]
+
+2. **Determine how much he spent on peanuts:**
+   Frank has $4 left in change after buying peanuts. Therefore, we can find out how much he spent by subtracting the change from his total money:
+   \[
+   \text{Money spent} = \text{Total money} - \text{Change} = 67 - 4 = 63 \text{ dollars}
+   \]
+
+3. **Calculate how many pounds of peanuts he bought:**
+   Since peanuts cost $3 per pound, we can find the number of pounds Frank bought by dividing the amount he spent by the cost per pound:
+   \[
+   \text{Pounds of peanuts} = \frac{\text{Money spent}}{\text{Cost per pound}} = \frac{63}{3} = 21 \text{ pounds}
+   \]
+
+4. **Calculate the average amount of peanuts eaten per day:**
+   Frank plans to eat these peanuts over one week, which is 7 days. To find the average amount he eats per day, we divide the total pounds by the number of days:
+   \[
+   \text{Average per day} = \frac{\text{Pounds of peanuts}}{\text{Number of days}} = \frac{21}{7} = 3 \text{ pounds per day}
+   \]
+
+Therefore, Frank eats an average of 3 pounds of peanuts per day.
+</reasoning>
+<answer>3</answer>

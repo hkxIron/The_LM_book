@@ -1,0 +1,35 @@
+<reasoning>
+Let's denote the ages of Kiarra, Bea, Job, Figaro, and Harry with variables based on the information provided.
+
+1. **Kiarra's Age**: We know Kiarra is 30 years old.
+   \[
+   K = 30
+   \]
+
+2. **Bea's Age**: Since Kiarra is twice as old as Bea, we can express Bea's age as:
+   \[
+   K = 2B \implies 30 = 2B \implies B = \frac{30}{2} = 15
+   \]
+   So, Bea is 15 years old.
+
+3. **Job's Age**: Job is 3 times older than Bea. However, "3 times older" can be a bit confusing. It means Job's age is:
+   \[
+   J = 3B = 3 \times 15 = 45
+   \]
+   Thus, Job is 45 years old.
+
+4. **Figaro's Age**: Figaro is 7 years older than Job, so we calculate Figaro's age as:
+   \[
+   F = J + 7 = 45 + 7 = 52
+   \]
+   Therefore, Figaro is 52 years old.
+
+5. **Harry's Age**: Finally, Harry is half as old as Figaro. Therefore, we find Harry's age by:
+   \[
+   H = \frac{F}{2} = \frac{52}{2} = 26
+   \]
+   Thus, Harry is 26 years old.
+
+Now we can summarize our findings. We have determined Harry's age based on the ages of the other individuals in the problem.
+</reasoning>
+<answer>26</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To determine how many cards Janessa kept for herself, let's break down the information step by step.
+
+1. **Calculate the total number of cards Janessa initially has:**
+   - She has 4 cards of her own.
+   - Her father gave her 13 cards.
+   - Therefore, the total number of cards she starts with is:
+     \[
+     4 + 13 = 17 \text{ cards}
+     \]
+
+2. **Add the cards she ordered from eBay:**
+   - Janessa ordered 36 cards from eBay.
+   - So now we add this to her total:
+     \[
+     17 + 36 = 53 \text{ cards}
+     \]
+
+3. **Subtract the cards that are in bad shape:**
+   - She found 4 cards that were in bad shape and decided to throw them away.
+   - Therefore, we subtract these cards from her total:
+     \[
+     53 - 4 = 49 \text{ cards}
+     \]
+
+4. **Determine how many cards Janessa gave to Dexter:**
+   - Janessa ended up giving Dexter 29 cards.
+
+5. **Calculate how many cards Janessa kept for herself:**
+   - To find out how many cards she kept, we subtract the number of cards she gave to Dexter from the total she had after discarding the bad ones:
+     \[
+     49 - 29 = 20 \text{ cards}
+     \]
+
+Therefore, Janessa kept 20 cards for herself.
+</reasoning>
+<answer>20</answer>

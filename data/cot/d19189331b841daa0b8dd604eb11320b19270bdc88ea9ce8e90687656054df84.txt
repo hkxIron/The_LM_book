@@ -1,0 +1,49 @@
+<reasoning>
+To solve this problem, we will first determine how much time Jonsey and Riley spend awake, then find out how much of that time they spend inside.
+
+**Step 1: Calculate Jonsey's awake time**
+- Jonsey is awake for \( \frac{2}{3} \) of the day. 
+- A day has 24 hours, so we calculate Jonsey's awake time:
+  \[
+  \text{Jonsey's awake time} = 24 \times \frac{2}{3} = 16 \text{ hours}
+  \]
+
+**Step 2: Calculate Jonsey's time spent inside**
+- Jonsey spends \( \frac{1}{2} \) of her awake time outside. Therefore, her time spent outside is:
+  \[
+  \text{Jonsey's outside time} = 16 \times \frac{1}{2} = 8 \text{ hours}
+  \]
+- The rest of her awake time is spent inside. Thus, her inside time is:
+  \[
+  \text{Jonsey's inside time} = 16 - 8 = 8 \text{ hours}
+  \]
+
+**Step 3: Calculate Riley's awake time**
+- Riley is awake for \( \frac{3}{4} \) of the day. So, we calculate Riley's awake time:
+  \[
+  \text{Riley's awake time} = 24 \times \frac{3}{4} = 18 \text{ hours}
+  \]
+
+**Step 4: Calculate Riley's time spent inside**
+- Riley spends \( \frac{1}{3} \) of his awake time outside. Therefore, his time spent outside is:
+  \[
+  \text{Riley's outside time} = 18 \times \frac{1}{3} = 6 \text{ hours}
+  \]
+- The rest of his awake time is spent inside. Thus, his inside time is:
+  \[
+  \text{Riley's inside time} = 18 - 6 = 12 \text{ hours}
+  \]
+
+**Step 5: Calculate the average time spent inside for both**
+- Now we add the inside time of both Jonsey and Riley:
+  \[
+  \text{Total inside time} = 8 + 12 = 20 \text{ hours}
+  \]
+- To find the average time they spend inside, we divide by 2 (since there are two of them):
+  \[
+  \text{Average inside time} = \frac{20}{2} = 10 \text{ hours}
+  \]
+
+Therefore, the average time Jonsey and Riley spend inside is:
+</reasoning>
+<answer>10</answer>

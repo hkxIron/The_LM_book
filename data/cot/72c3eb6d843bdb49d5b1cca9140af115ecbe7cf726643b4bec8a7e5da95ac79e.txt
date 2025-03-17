@@ -1,0 +1,27 @@
+<reasoning>
+To determine how many pets Lucas has enough room for, we first need to calculate the total number of pet beds he has available. 
+
+1. **Calculate the total number of pet beds:**
+   - Lucas already has 12 pet beds.
+   - He can fit an additional 8 pet beds.
+   - Therefore, we add the two amounts together:
+     
+     \[
+     12 + 8 = 20
+     \]
+
+   This means Lucas has a total of 20 pet beds.
+
+2. **Determine how many pets he can accommodate based on the beds:**
+   - According to his parents, each pet needs 2 beds.
+   - To find out how many pets can be accommodated, we divide the total number of pet beds by the number of beds required per pet:
+     
+     \[
+     \frac{20 \text{ beds}}{2 \text{ beds per pet}} = 10 \text{ pets}
+     \]
+
+   This calculation shows that Lucas can accommodate 10 pets based on the number of beds available.
+
+Thus, according to his parent's argument, Lucas has enough room for 10 pets.
+</reasoning>
+<answer>10</answer>

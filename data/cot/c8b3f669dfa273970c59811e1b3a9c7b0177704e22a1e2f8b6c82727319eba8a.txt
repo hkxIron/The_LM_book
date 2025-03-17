@@ -1,0 +1,26 @@
+<reasoning>
+To determine how many cookies each child will eat, we will follow the steps below:
+
+1. **Calculate the total number of cookies.** 
+   - Aku's mother bought 3 packages of cookies, and each package contains 25 cookies.
+   - Therefore, the total number of cookies is calculated as:
+     \[
+     3 \text{ packages} \times 25 \text{ cookies/package} = 75 \text{ cookies}
+     \]
+
+2. **Determine the total number of children.**
+   - Aku invited 4 friends, and we must include Aku himself in the total count.
+   - Thus, the total number of children is:
+     \[
+     4 \text{ friends} + 1 \text{ Aku} = 5 \text{ children}
+     \]
+
+3. **Calculate the number of cookies each child will eat.**
+   - Since the cookies are shared equally among all children, we divide the total number of cookies by the number of children:
+     \[
+     \frac{75 \text{ cookies}}{5 \text{ children}} = 15 \text{ cookies/child}
+     \]
+
+Therefore, each child will eat 15 cookies.
+</reasoning>
+<answer>15</answer>

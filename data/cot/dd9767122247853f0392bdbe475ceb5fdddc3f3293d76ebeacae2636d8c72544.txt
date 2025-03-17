@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Benjie's age**: We know from the problem that Benjie is currently 6 years old.
+
+2. **Determine Margo's current age**: The problem states that Benjie is five years older than Margo. So, if we denote Margo's age as \( M \), we can set up the equation:
+   \[
+   \text{Benjie's age} = M + 5
+   \]
+   Substituting Benjie's age, we have:
+   \[
+   6 = M + 5
+   \]
+
+3. **Solve for Margo's current age**: To find Margo's age, we can rearrange the equation:
+   \[
+   M = 6 - 5
+   \]
+   This simplifies to:
+   \[
+   M = 1
+   \]
+   So, Margo is currently 1 year old.
+
+4. **Calculate Margo's age in three years**: To find out how old Margo will be in three years, we add 3 to her current age:
+   \[
+   \text{Margo's age in 3 years} = 1 + 3
+   \]
+   This simplifies to:
+   \[
+   \text{Margo's age in 3 years} = 4
+   \]
+
+Therefore, Margo will be 4 years old in three years.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+First, let's determine the total number of pages John needs to write for 3 books, with each book being 400 pages.
+
+1. Calculate the total number of pages:
+   \[
+   \text{Total pages} = \text{Number of books} \times \text{Pages per book} = 3 \times 400 = 1200 \text{ pages}
+   \]
+   Here, I multiplied the number of books (3) by the number of pages per book (400) to find the total pages he needs to write.
+
+2. Next, we need to find out how many days it will take John to write 1200 pages if he writes 20 pages a day.
+   \[
+   \text{Days required} = \frac{\text{Total pages}}{\text{Pages per day}} = \frac{1200}{20}
+   \]
+   In this step, I divided the total number of pages (1200) by the number of pages John writes each day (20) to find out how many days it will take.
+
+3. Now, performing the division:
+   \[
+   \text{Days required} = \frac{1200}{20} = 60
+   \]
+   This gives us the total number of days John will need to write the 3 books.
+
+Therefore, it will take John a total of 60 days to write 3 books of 400 pages each.
+</reasoning>
+<answer>60</answer>

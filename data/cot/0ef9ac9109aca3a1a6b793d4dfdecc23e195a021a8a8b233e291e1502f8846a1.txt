@@ -1,0 +1,29 @@
+<reasoning>
+To determine how many bookshelves Jonas can fit in his library, we will follow these steps:
+
+1. **Calculate the total space available for bookshelves**: 
+   The total area of the room is 400 square feet. Jonas is reserving 160 square feet for a desk and walking space. Therefore, we need to subtract this reserved space from the total room area.
+
+   \[
+   \text{Available space for bookshelves} = \text{Total room space} - \text{Reserved space}
+   \]
+   \[
+   \text{Available space for bookshelves} = 400 \text{ square feet} - 160 \text{ square feet} = 240 \text{ square feet}
+   \]
+
+2. **Determine how many bookshelves can fit in the available space**:
+   Each bookshelf occupies 80 square feet. To find out how many bookshelves can fit, we divide the available space by the space each bookshelf takes.
+
+   \[
+   \text{Number of bookshelves} = \frac{\text{Available space for bookshelves}}{\text{Space per bookshelf}}
+   \]
+   \[
+   \text{Number of bookshelves} = \frac{240 \text{ square feet}}{80 \text{ square feet}} = 3
+   \]
+
+3. **Conclusion**: 
+   After performing the calculations, we find that Jonas can fit 3 bookshelves in the remaining space of his library.
+
+Thus, the final answer is:
+</reasoning>
+<answer>3</answer>

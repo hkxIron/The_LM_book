@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Calculate the total number of donuts Jeff makes in 12 days**:  
+   Jeff makes 10 donuts each day. Over 12 days, we multiply the number of donuts he makes each day by the number of days:  
+   \( 10 \text{ donuts/day} \times 12 \text{ days} = 120 \text{ donuts} \).
+
+2. **Calculate the total number of donuts Jeff eats**:  
+   Jeff eats 1 donut each day for 12 days. Therefore, the total number of donuts he eats is:  
+   \( 1 \text{ donut/day} \times 12 \text{ days} = 12 \text{ donuts} \).
+
+3. **Determine how many donuts are left after Jeff eats**:  
+   We subtract the number of donuts Jeff eats from the total number he made:  
+   \( 120 \text{ donuts} - 12 \text{ donuts} = 108 \text{ donuts} \).
+
+4. **Calculate the total number of donuts Chris eats**:  
+   Chris comes over and eats 8 donuts. We subtract this from the remaining donuts:  
+   \( 108 \text{ donuts} - 8 \text{ donuts} = 100 \text{ donuts} \).
+
+5. **Determine how many boxes Jeff can fill with the remaining donuts**:  
+   Each box can hold 10 donuts. We need to find out how many full boxes can be filled with the 100 donuts left:  
+   \( \frac{100 \text{ donuts}}{10 \text{ donuts/box}} = 10 \text{ boxes} \).
+
+Therefore, after calculating all these steps, we find that Jeff can fill 10 boxes with his donuts.
+</reasoning>
+<answer>10</answer>

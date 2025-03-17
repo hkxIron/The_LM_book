@@ -1,0 +1,72 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the amount Sam has after the first investment period:**
+   - Sam invested $10,000 at a 20% interest rate compounded annually for 3 years.
+   - We can use the formula for compound interest, which is:
+     \[ A = P(1 + r)^t \]
+   - Where:
+     - \( A \) is the amount of money accumulated after n years, including interest.
+     - \( P \) is the principal amount (the initial amount of money).
+     - \( r \) is the annual interest rate (decimal).
+     - \( t \) is the number of years the money is invested or borrowed.
+
+   Here, \( P = 10,000 \), \( r = 0.20 \), and \( t = 3 \).
+
+   Plugging in the values:
+   \[
+   A = 10,000(1 + 0.20)^3
+   \]
+   \[
+   A = 10,000(1.20)^3
+   \]
+
+2. **Calculating \( (1.20)^3 \):**
+   - First, we calculate \( 1.20^3 \):
+   \[
+   1.20^3 = 1.20 \times 1.20 \times 1.20 = 1.728
+   \]
+
+3. **Calculate the total amount after 3 years:**
+   - Now, substituting back into the equation:
+   \[
+   A = 10,000 \times 1.728 = 17,280
+   \]
+   This means after the first 3 years, Sam has $17,280.
+
+4. **Determine the total amount he has after additional investment:**
+   - Sam wants to have three times as much invested after this. Therefore:
+   \[
+   \text{Total investment} = 3 \times 17,280 = 51,840
+   \]
+
+5. **Calculate how much he invested additionally:**
+   - Sam's initial investment was $10,000, so he invested an additional amount:
+   \[
+   \text{Additional investment} = 51,840 - 17,280 = 34,560
+   \]
+
+6. **Total amount before the next year's interest:**
+   - Now, the total amount Sam has before the next year's interest is:
+   \[
+   51,840
+   \]
+
+7. **Calculate the return on the new total investment:**
+   - In the next year, he gets a 15% return on this total investment. Using the same compound interest formula:
+   \[
+   A = 51,840(1 + 0.15)
+   \]
+   \[
+   A = 51,840 \times 1.15
+   \]
+
+8. **Calculating \( 51,840 \times 1.15 \):**
+   - Now, compute that:
+   \[
+   A = 51,840 \times 1.15 = 59,616
+   \]
+
+Therefore, after all the calculations, the total amount of money Sam has now is $59,616.
+</reasoning>
+<answer>59616</answer>

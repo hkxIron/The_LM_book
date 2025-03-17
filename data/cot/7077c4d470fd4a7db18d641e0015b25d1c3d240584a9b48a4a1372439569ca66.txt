@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Count of Juice Bottles**: Martha starts with 4 bottles of juice in the refrigerator and 4 bottles in the pantry. 
+   - We can calculate the total initial bottles:
+   \[
+   4 \text{ (refrigerator)} + 4 \text{ (pantry)} = 8 \text{ bottles}
+   \]
+   So, Martha has 8 bottles of juice initially.
+
+2. **Juice Bottles Bought During the Week**: Martha buys 5 more bottles of juice during the week.
+   - We add these bottles to the initial total:
+   \[
+   8 \text{ (initial)} + 5 \text{ (bought)} = 13 \text{ bottles}
+   \]
+   Now, Martha has 13 bottles of juice after her shopping.
+
+3. **Juice Bottles Consumed**: Martha and her family drank 3 bottles of juice during the week.
+   - We subtract the number of bottles consumed from the current total:
+   \[
+   13 \text{ (after buying)} - 3 \text{ (consumed)} = 10 \text{ bottles}
+   \]
+   Therefore, after drinking, Martha has 10 bottles of juice left.
+
+So, by following these steps, we find that the total number of bottles remaining after all transactions is:
+</reasoning>
+<answer>10</answer>

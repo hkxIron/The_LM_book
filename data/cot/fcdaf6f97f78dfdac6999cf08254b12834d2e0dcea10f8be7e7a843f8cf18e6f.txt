@@ -1,0 +1,40 @@
+<reasoning>
+Let's break this problem down step by step to find out how many emails Jackson has in his inbox now.
+
+1. **Initial Deletions:**
+   - Jackson deletes 50 emails. 
+   - While doing this, he receives 15 new emails.
+   - The net change in his inbox after this step can be calculated as follows:
+     - Emails deleted: 50
+     - Emails received: 15
+     - Net change: 15 (received) - 50 (deleted) = -35
+   - This means he has 35 fewer emails than he started with after this step.
+
+2. **Second Deletions:**
+   - Next, he deletes 20 more emails.
+   - During this time, he receives 5 more emails.
+   - Again, we calculate the net change:
+     - Emails deleted: 20
+     - Emails received: 5
+     - Net change: 5 (received) - 20 (deleted) = -15
+   - This means he has 15 fewer emails than he had after the first step.
+
+3. **Email Count After Deletions:**
+   - Now we combine the net changes from both steps:
+     - After the first step, he had a decrease of 35 emails.
+     - After the second step, he had a decrease of 15 emails.
+     - Total decrease: 35 + 15 = 50 emails deleted overall.
+
+4. **New Emails After Deletions:**
+   - After all deletions, Jackson has only the new emails left.
+   - He receives 10 more emails after he is done deleting all his old emails.
+   - So, adding these new emails to what he has left:
+     - New emails: 15 (from the first step) + 5 (from the second step) + 10 (additional) = 30 new emails.
+
+5. **Final Count of Emails:**
+   - Jackson has only the new emails left, which we calculated to be 30.
+   - Therefore, Jackson's final count of emails in his inbox is 30.
+
+So, summarizing all the calculations:
+</reasoning>
+<answer>30</answer>

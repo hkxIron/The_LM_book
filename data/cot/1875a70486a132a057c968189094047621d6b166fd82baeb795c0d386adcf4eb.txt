@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we need to track Ofelia's savings each month from January to May, noting that she saves twice the amount she saved in the previous month.
+
+1. **January**: Ofelia saves $10. 
+   - This is our starting point.
+
+2. **February**: She saves twice the amount she saved in January.
+   - Calculation: $10 * 2 = $20.
+
+3. **March**: She saves twice the amount she saved in February.
+   - Calculation: $20 * 2 = $40.
+
+4. **April**: She saves twice the amount she saved in March.
+   - Calculation: $40 * 2 = $80.
+
+5. **May**: She saves twice the amount she saved in April.
+   - Calculation: $80 * 2 = $160.
+
+Now, let's summarize the savings for each month:
+- January: $10
+- February: $20
+- March: $40
+- April: $80
+- May: $160
+
+Therefore, Ofelia is going to save $160 in May.
+</reasoning>
+<answer>160</answer>

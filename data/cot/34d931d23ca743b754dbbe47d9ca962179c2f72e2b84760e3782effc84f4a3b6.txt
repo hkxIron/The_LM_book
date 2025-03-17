@@ -1,0 +1,24 @@
+<reasoning>
+Let's break the problem down step by step.
+
+1. **Identify the number of likes**: The problem states that the video has 3000 likes.
+
+2. **Determine the number of dislikes**: We know that the number of dislikes is 100 more than half of the likes. 
+   - First, we calculate half of the likes: 
+     \[
+     \text{Half of likes} = \frac{3000}{2} = 1500
+     \]
+   - Now, we add 100 to this half to find the initial number of dislikes:
+     \[
+     \text{Dislikes} = 1500 + 100 = 1600
+     \]
+
+3. **Account for the additional dislikes**: The problem states that the video gets 1000 more dislikes. 
+   - We add this to the initial number of dislikes we just calculated:
+     \[
+     \text{Total dislikes} = 1600 + 1000 = 2600
+     \]
+
+Now, we have calculated the total number of dislikes after the additional dislikes are added.
+</reasoning>
+<answer>2600</answer>

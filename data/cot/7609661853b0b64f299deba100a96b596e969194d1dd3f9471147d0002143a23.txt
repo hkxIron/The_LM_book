@@ -1,0 +1,29 @@
+<reasoning>
+To determine how many slices of cheesecake Kiley ate, we will follow these steps:
+
+1. **Find the total number of slices in the cheesecake**: 
+   Since each slice of cheesecake contains 350 calories, we need to divide the total calories in the cheesecake by the calories per slice.
+
+   Total calories in the cheesecake = 2800 calories
+   Calories per slice = 350 calories
+
+   So, we perform the division:
+   \[
+   \text{Total slices} = \frac{2800 \text{ calories}}{350 \text{ calories/slice}} = 8 \text{ slices}
+   \]
+
+   This means there are 8 slices in total in the cheesecake.
+
+2. **Calculate how much of the cheesecake Kiley ate**: 
+   Kiley ate 25% of the cheesecake. To find out how many slices that corresponds to, we will calculate 25% of the total number of slices.
+
+   We calculate 25% of 8 slices:
+   \[
+   \text{Slices eaten by Kiley} = 0.25 \times 8 = 2 \text{ slices}
+   \]
+
+   This means Kiley ate 2 slices of cheesecake.
+
+Therefore, Kiley consumed a total of 2 slices of cheesecake.
+</reasoning>
+<answer>2</answer>

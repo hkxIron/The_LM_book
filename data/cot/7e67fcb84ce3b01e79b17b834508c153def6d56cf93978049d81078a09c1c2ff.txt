@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Number of Trees**: Jim starts with 2 rows of 4 trees. To find the total number of trees he has initially, we multiply the number of rows by the number of trees in each row:
+   \[
+   2 \text{ rows} \times 4 \text{ trees per row} = 8 \text{ trees}
+   \]
+
+2. **Years Until His 15th Birthday**: Jim is currently 10 years old and will turn 15. This means that he will plant a new row of trees for 5 consecutive years (from age 10 to 15).
+   
+3. **New Rows of Trees Each Year**: Every year on his birthday, he plants one new row of trees. Since he plants a row each year, he will plant:
+   \[
+   5 \text{ new rows} \times 4 \text{ trees per row} = 20 \text{ new trees}
+   \]
+
+4. **Total Number of Trees Before Doubling**: We now need to add the new trees to the original number of trees he had:
+   \[
+   8 \text{ original trees} + 20 \text{ new trees} = 28 \text{ trees}
+   \]
+
+5. **Doubling the Number of Trees**: On his 15th birthday, he doubles the number of trees he has:
+   \[
+   28 \text{ trees} \times 2 = 56 \text{ trees}
+   \]
+
+By following these steps, we can conclude that Jim has 56 trees after doubling the number he had on his 15th birthday.
+</reasoning>
+<answer>56</answer>

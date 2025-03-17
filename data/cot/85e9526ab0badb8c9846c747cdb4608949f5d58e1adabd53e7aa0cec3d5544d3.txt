@@ -1,0 +1,68 @@
+<reasoning>
+To solve the problem, we need to establish a few variables for the number of tickets that Mark and Sarah have.
+
+1. Let's denote:
+   - The number of speeding tickets Sarah has as \( S \).
+   - The number of parking tickets Sarah has as \( P_S \).
+   - The number of parking tickets Mark has as \( P_M \).
+   - The number of speeding tickets Mark has as \( S_M \).
+
+2. According to the problem, Sarah has 6 speeding tickets:
+   \[
+   S = 6
+   \]
+
+3. The problem states that Mark has twice as many parking tickets as Sarah:
+   \[
+   P_M = 2 \cdot P_S
+   \]
+
+4. It is also given that they each have an equal number of speeding tickets, so:
+   \[
+   S_M = S
+   \]
+   Therefore, \( S_M = 6 \).
+
+5. Now we can express the total number of traffic tickets Mark and Sarah have. The total number of tickets is given as 24:
+   \[
+   P_S + S + P_M + S_M = 24
+   \]
+
+6. Substituting the known values into the equation:
+   \[
+   P_S + 6 + P_M + 6 = 24
+   \]
+
+7. Simplifying this:
+   \[
+   P_S + P_M + 12 = 24
+   \]
+
+8. Now, subtract 12 from both sides:
+   \[
+   P_S + P_M = 12
+   \]
+
+9. We already know that \( P_M = 2 \cdot P_S \). We can substitute this into the equation:
+   \[
+   P_S + 2P_S = 12
+   \]
+
+10. Combining the terms gives:
+    \[
+    3P_S = 12
+    \]
+
+11. Now, divide both sides by 3 to find \( P_S \):
+    \[
+    P_S = 4
+    \]
+
+12. Now that we have \( P_S \), we can find \( P_M \):
+    \[
+    P_M = 2 \cdot P_S = 2 \cdot 4 = 8
+    \]
+
+Thus, Mark has 8 parking tickets.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,57 @@
+<reasoning>
+To solve the problem, let's define the dollar amounts for each level of financial backing. We will designate the lowest level of backing as \( x \). Since each level is ten times the previous one, we can express the other levels as follows:
+
+- Lowest level (first level): \( x \)
+- Second level: \( 10x \)
+- Highest level: \( 100x \)
+
+According to the problem, the entrepreneur has backers at each level:
+- Two backers at the highest level (\( 100x \))
+- Three backers at the second level (\( 10x \))
+- Ten backers at the lowest level (\( x \))
+
+Now, we need to calculate the total amount raised from all backers and set it equal to $12,000:
+
+\[
+\text{Total} = (\text{Number of backers at highest level} \times \text{Amount at highest level}) + (\text{Number of backers at second level} \times \text{Amount at second level}) + (\text{Number of backers at lowest level} \times \text{Amount at lowest level})
+\]
+
+Substituting the values we have:
+
+\[
+\text{Total} = (2 \times 100x) + (3 \times 10x) + (10 \times x)
+\]
+
+Now we simplify this:
+
+\[
+= 200x + 30x + 10x
+\]
+\[
+= 240x
+\]
+
+We know from the problem that the total amount raised was $12,000, so we set up the equation:
+
+\[
+240x = 12000
+\]
+
+Next, we solve for \( x \) by dividing both sides of the equation by 240:
+
+\[
+x = \frac{12000}{240}
+\]
+\[
+x = 50
+\]
+
+Now that we have found \( x \), we can calculate the highest level of financial backing, which is \( 100x \):
+
+\[
+100x = 100 \times 50 = 5000
+\]
+
+Thus, the highest level of financial backing is $5,000.
+</reasoning>
+<answer>5000</answer>

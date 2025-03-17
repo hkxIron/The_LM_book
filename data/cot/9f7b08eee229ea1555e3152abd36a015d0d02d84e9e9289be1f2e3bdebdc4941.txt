@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, I will calculate the total cost of Julia's purchase and then determine her change from the money she provided to the cashier.
+
+1. **Calculate the cost of Snickers**:
+   - Julia bought 2 pieces of Snickers.
+   - Each piece of Snickers costs $1.5.
+   - Therefore, the total cost for Snickers is:
+     \[
+     2 \text{ pieces} \times 1.5 \text{ dollars/piece} = 3 \text{ dollars}
+     \]
+
+2. **Calculate the cost of M&M's**:
+   - We know that a pack of M&M's costs the same as 2 Snickers.
+   - Since each Snickers costs $1.5, the cost of 2 Snickers is:
+     \[
+     2 \text{ pieces} \times 1.5 \text{ dollars/piece} = 3 \text{ dollars}
+     \]
+   - Therefore, each pack of M&M's also costs $3.
+   - Julia bought 3 packs of M&M's, so the total cost for M&M's is:
+     \[
+     3 \text{ packs} \times 3 \text{ dollars/pack} = 9 \text{ dollars}
+     \]
+
+3. **Calculate the total cost of the purchase**:
+   - Now, we add the total costs of Snickers and M&M's:
+     \[
+     \text{Total cost} = 3 \text{ dollars (Snickers)} + 9 \text{ dollars (M&M's)} = 12 \text{ dollars}
+     \]
+
+4. **Calculate the total amount of money Julia gave to the cashier**:
+   - Julia gave the cashier 2 $10 bills, which amounts to:
+     \[
+     2 \times 10 = 20 \text{ dollars}
+     \]
+
+5. **Calculate Julia's change**:
+   - To find the change, we subtract the total cost of the purchase from the amount given to the cashier:
+     \[
+     \text{Change} = 20 \text{ dollars} - 12 \text{ dollars} = 8 \text{ dollars}
+     \]
+
+In conclusion, Julia's change from the cashier after her purchase is $8.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,67 @@
+<reasoning>
+To determine how many coins Rosie will receive as change, we need to first calculate the amount of change she should get after purchasing the candy.
+
+1. **Calculate the change**: 
+   Rosie pays $1.00 for a piece of candy that costs $0.44. To find the change, we subtract the cost of the candy from the amount paid:
+   \[
+   \text{Change} = 1.00 - 0.44 = 0.56
+   \]
+   Rosie will receive $0.56 as change.
+
+2. **Convert the change to cents**: 
+   It is often easier to work with whole numbers when dealing with coins, so we convert dollars to cents:
+   \[
+   0.56 \text{ dollars} = 56 \text{ cents}
+   \]
+
+3. **Determine the coins needed for the change**: 
+   To give Rosie the smallest number of coins possible, we will use the highest denomination coins first. The common U.S. coins are: quarters (25 cents), dimes (10 cents), nickels (5 cents), and pennies (1 cent).
+
+   - **Use quarters first**: 
+     The largest coin is the quarter (25 cents). We calculate how many quarters can fit into 56 cents:
+     \[
+     56 \div 25 = 2 \text{ quarters}
+     \]
+     This gives us:
+     \[
+     2 \times 25 = 50 \text{ cents}
+     \]
+     After giving her 2 quarters, the remaining change is:
+     \[
+     56 - 50 = 6 \text{ cents}
+     \]
+
+   - **Use nickels next**: 
+     The next largest coin is the nickel (5 cents). We can give Rosie:
+     \[
+     6 \div 5 = 1 \text{ nickel}
+     \]
+     This gives us:
+     \[
+     1 \times 5 = 5 \text{ cents}
+     \]
+     After giving her 1 nickel, the remaining change is:
+     \[
+     6 - 5 = 1 \text{ cent}
+     \]
+
+   - **Use pennies last**: 
+     The last coin is the penny (1 cent). We need to give her:
+     \[
+     1 \text{ penny}
+     \]
+
+4. **Total number of coins**: 
+   Now we sum the number of each type of coin given:
+   - Quarters: 2
+   - Nickels: 1
+   - Pennies: 1
+
+   Therefore, the total number of coins Rosie receives as change is:
+   \[
+   2 + 1 + 1 = 4
+   \]
+
+Thus, Rosie will get a total of 4 coins as change.
+</reasoning>
+<answer>4</answer>

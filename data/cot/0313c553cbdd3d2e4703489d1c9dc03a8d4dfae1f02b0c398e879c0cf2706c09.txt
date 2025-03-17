@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, let's follow these steps:
+
+1. **Understanding the Problem**: Cristine bought a dozen lemons. A dozen means 12. She then gave away 1/4 of the lemons to her neighbor. We need to calculate how many lemons she has left after giving some away.
+
+2. **Calculate the number of lemons given away**: First, we need to find out how many lemons Cristine gave to her neighbor. Since she gave away 1/4 of her lemons, we calculate:
+   \[
+   \text{Lemons given away} = \frac{1}{4} \times 12
+   \]
+   Now performing the multiplication:
+   \[
+   \frac{1}{4} \times 12 = 3
+   \]
+   This means Cristine gave away 3 lemons.
+
+3. **Calculate the remaining lemons**: Now, we need to find out how many lemons Cristine has left after giving away 3 lemons. We can do this by subtracting the number of lemons given away from the total number of lemons she initially had:
+   \[
+   \text{Lemons left} = 12 - 3
+   \]
+   Now performing the subtraction:
+   \[
+   12 - 3 = 9
+   \]
+   This means Cristine has 9 lemons left.
+
+Therefore, after giving away 1/4 of her lemons, Cristine has 9 lemons remaining.
+</reasoning>
+<answer>9</answer>

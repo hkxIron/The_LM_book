@@ -1,0 +1,72 @@
+<reasoning>
+To find out how much money Tyrone has, we need to calculate the total value of each type of bill and coin he has, and then add those values together.
+
+1. **Calculating the value of the $1 bills**:
+   - Tyrone has 2 $1 bills.
+   - The total value from the $1 bills is:
+     \[
+     2 \times 1 = 2 \text{ dollars}
+     \]
+
+2. **Calculating the value of the $5 bill**:
+   - Tyrone has 1 $5 bill.
+   - The total value from the $5 bill is:
+     \[
+     1 \times 5 = 5 \text{ dollars}
+     \]
+
+3. **Calculating the value of the quarters**:
+   - Tyrone has 13 quarters.
+   - Each quarter is worth $0.25.
+   - The total value from the quarters is:
+     \[
+     13 \times 0.25 = 3.25 \text{ dollars}
+     \]
+
+4. **Calculating the value of the dimes**:
+   - Tyrone has 20 dimes.
+   - Each dime is worth $0.10.
+   - The total value from the dimes is:
+     \[
+     20 \times 0.10 = 2.00 \text{ dollars}
+     \]
+
+5. **Calculating the value of the nickels**:
+   - Tyrone has 8 nickels.
+   - Each nickel is worth $0.05.
+   - The total value from the nickels is:
+     \[
+     8 \times 0.05 = 0.40 \text{ dollars}
+     \]
+
+6. **Calculating the value of the pennies**:
+   - Tyrone has 35 pennies.
+   - Each penny is worth $0.01.
+   - The total value from the pennies is:
+     \[
+     35 \times 0.01 = 0.35 \text{ dollars}
+     \]
+
+7. **Adding all the values together**:
+   - Now we add up all the amounts:
+     \[
+     2 + 5 + 3.25 + 2 + 0.40 + 0.35
+     \]
+   - First, we can add the dollar amounts:
+     \[
+     2 + 5 + 2 = 9
+     \]
+   - Then we add the cents:
+     \[
+     3.25 + 0.40 + 0.35 = 4.00
+     \]
+   - Finally, we combine the two totals:
+     \[
+     9 + 4 = 13
+     \]
+
+Tyrone has a total of $13. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>13</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we first need to determine the distance of each of Allyn's shots and how they relate to the distance from the starting tee to the hole.
+
+1. **First shot:** Allyn hit the golf ball 180 yards straight toward the hole. This means that after his first shot, he is 180 yards away from the starting tee.
+
+2. **Second shot:** He then hit the ball again, and it traveled half as far as the first shot. The distance of the second shot is:
+   \[
+   \text{Distance of second shot} = \frac{180}{2} = 90 \text{ yards}
+   \]
+   However, the problem states that after this second shot, the ball landed 20 yards beyond the hole. 
+
+   This means that the distance from his first shot (180 yards) plus the distance of the second shot (90 yards) equals the distance to the hole plus an additional 20 yards. We can express this relationship as follows:
+   \[
+   \text{Distance to the hole} + 20 = 180 + 90
+   \]
+   Simplifying the right side:
+   \[
+   \text{Distance to the hole} + 20 = 270
+   \]
+
+3. **Solving for the distance to the hole:** To find the distance to the hole, we need to subtract the 20 yards from both sides:
+   \[
+   \text{Distance to the hole} = 270 - 20 = 250 \text{ yards}
+   \]
+
+4. **Conclusion:** The distance from the starting tee to the hole is 250 yards.
+
+Therefore, we can summarize the total distance from the starting tee to the hole as follows:
+</reasoning>
+<answer>250</answer>

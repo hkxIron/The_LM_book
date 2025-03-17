@@ -1,0 +1,45 @@
+<reasoning>
+To determine how many pages Coral needs to read in the third week, we will break down her reading into steps:
+
+1. **Calculate how many pages Coral reads in the first week.**
+   - Coral reads half of the 600 pages in the first week.
+   - Calculation: 
+     \[
+     \text{Pages read in the first week} = \frac{600}{2} = 300
+     \]
+   - This means Coral has read 300 pages in the first week.
+
+2. **Determine how many pages are left after the first week.**
+   - We subtract the number of pages read from the total number of pages.
+   - Calculation:
+     \[
+     \text{Remaining pages after week 1} = 600 - 300 = 300
+     \]
+   - After the first week, Coral has 300 pages remaining to read.
+
+3. **Calculate how many pages Coral reads in the second week.**
+   - Coral reads 30 percent of the remaining 300 pages in the second week.
+   - Calculation:
+     \[
+     \text{Pages read in the second week} = 0.30 \times 300 = 90
+     \]
+   - So, Coral reads 90 pages in the second week.
+
+4. **Determine how many pages are left after the second week.**
+   - We again subtract the number of pages read in the second week from the remaining pages after the first week.
+   - Calculation:
+     \[
+     \text{Remaining pages after week 2} = 300 - 90 = 210
+     \]
+   - After the second week, Coral has 210 pages left to read.
+
+5. **Conclusion: Calculate how many pages Coral needs to read in the third week.**
+   - Since Coral has 210 pages left to read and she needs to finish the book, the number of pages she must read in the third week is exactly the remaining pages.
+   - Therefore:
+     \[
+     \text{Pages to read in week 3} = 210
+     \]
+
+So, Coral must read 210 pages in the third week to finish the book.
+</reasoning>
+<answer>210</answer>

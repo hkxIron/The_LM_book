@@ -1,0 +1,42 @@
+<reasoning>
+Let's denote the price Tommy bought his first house for as \( x \).
+
+According to the problem, Tommy's home is worth 25% more than he bought it for. This means the value of the house when he sells it can be calculated as:
+
+\[
+\text{Value of first house} = x + 0.25x = 1.25x
+\]
+
+Next, we know that Tommy sells this house and uses that money to buy a new house worth $500,000. He takes a loan for 75% of the new house's price. We can calculate the amount he needs to take a loan for:
+
+\[
+\text{Loan amount} = 0.75 \times 500,000 = 375,000
+\]
+
+This means that the amount he received from selling his first house must be the remaining 25% of the new house's price:
+
+\[
+\text{Amount received from selling first house} = 500,000 - 375,000 = 125,000
+\]
+
+Now we can set the amount he received from selling his first house equal to the value of the first house:
+
+\[
+1.25x = 125,000
+\]
+
+To find \( x \), we can divide both sides of the equation by 1.25:
+
+\[
+x = \frac{125,000}{1.25}
+\]
+
+Calculating this gives:
+
+\[
+x = 100,000
+\]
+
+So, Tommy bought his first house for $100,000.
+</reasoning>
+<answer>100000</answer>

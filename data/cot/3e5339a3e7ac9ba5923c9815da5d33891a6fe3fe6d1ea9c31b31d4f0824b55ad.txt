@@ -1,0 +1,18 @@
+<reasoning>
+Let's start solving this problem step by step.
+
+Step 1: Convert everything into the same units
+We're asked about the time Leo took in minutes, but we know the total time in hours. So let's convert the total time from hours to minutes. We know that 1 hour is 60 minutes, so 2 hours is 2 * 60 = 120 minutes.
+
+Step 2: Calculate time spent on the second part
+We're told that it took Leo twice as long to finish the second part as it did to finish the first part. The first part took 25 minutes, so the second part took 2 * 25 = 50 minutes.
+
+Step 3: Calculate time spent on the first and second parts combined
+Now, let's add the time he spent on the first and second parts. This is 25 minutes (for the first part) + 50 minutes (for the second part) = 75 minutes.
+
+Step 4: Calculate time spent on the third part
+Leo spent a total of 120 minutes on the assignment, and we've calculated that he spent 75 minutes on the first two parts. So, to find out how long he spent on the third part, we subtract the time spent on the first two parts from the total time. This is 120 minutes - 75 minutes = 45 minutes.
+
+So, Leo finished the third part of the assignment in 45 minutes.
+</reasoning>
+<answer>45</answer>

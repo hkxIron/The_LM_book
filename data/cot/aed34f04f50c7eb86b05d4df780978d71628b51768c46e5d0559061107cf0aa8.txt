@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we'll first need to determine how many newspapers Miranda delivers in a week, and then calculate the difference between her deliveries and Jake's deliveries over the course of a month.
+
+1. **Calculate Miranda's weekly deliveries**:
+   - Jake delivers 234 newspapers a week.
+   - Since Miranda delivers twice as many, we calculate her deliveries as follows:
+     \[
+     \text{Miranda's weekly deliveries} = 2 \times \text{Jake's weekly deliveries} = 2 \times 234 = 468
+     \]
+   So, Miranda delivers 468 newspapers in a week.
+
+2. **Determine the difference in weekly deliveries**:
+   - Now we find out how many more newspapers Miranda delivers than Jake in one week:
+     \[
+     \text{Difference} = \text{Miranda's weekly deliveries} - \text{Jake's weekly deliveries} = 468 - 234 = 234
+     \]
+   This means Miranda delivers 234 more newspapers than Jake in one week.
+
+3. **Calculate the monthly difference**:
+   - Since we want to find out how many more newspapers Miranda delivers than Jake in a month (4 weeks), we multiply the weekly difference by 4:
+     \[
+     \text{Monthly difference} = \text{Difference per week} \times 4 = 234 \times 4 = 936
+     \]
+   Therefore, over the course of a month, Miranda delivers 936 more newspapers than Jake.
+
+In summary, we found how many newspapers Miranda delivers in a week, calculated the difference in their deliveries for one week, and then extended that difference to a month.
+</reasoning>
+<answer>936</answer>

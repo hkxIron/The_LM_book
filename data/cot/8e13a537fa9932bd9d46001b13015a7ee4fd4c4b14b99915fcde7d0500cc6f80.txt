@@ -1,0 +1,29 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculating how much James sold his car for**: 
+   James sold his $20,000 car for 80% of its value. 
+   To find 80% of $20,000, we multiply:
+   \[
+   0.80 \times 20000 = 16000
+   \]
+   So, James sold his car for $16,000.
+
+2. **Calculating how much the new car costs**: 
+   The sticker price of the new car is $30,000, but James was able to buy it for 90% of its value.
+   To find 90% of $30,000, we multiply:
+   \[
+   0.90 \times 30000 = 27000
+   \]
+   Thus, James bought the new car for $27,000.
+
+3. **Calculating how much James is out of pocket**: 
+   Now we need to find out how much he spent out of his own pocket after selling his old car. We do this by subtracting the amount he received from selling his old car from the amount he spent on the new car:
+   \[
+   27000 - 16000 = 11000
+   \]
+   So, James is out of pocket $11,000.
+
+Therefore, he spent $11,000 more than he received from the sale of his old car.
+</reasoning>
+<answer>11000</answer>

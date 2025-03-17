@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of bronze watches**:
+   Julia owns 20 silver watches. It is stated that she has three times as many bronze watches as silver watches. 
+   Therefore, the number of bronze watches is:
+   \[
+   \text{Number of bronze watches} = 3 \times \text{Number of silver watches} = 3 \times 20 = 60
+   \]
+
+2. **Calculate the total number of watches before purchasing gold watches**:
+   Now, we need to find the total number of watches Julia owns before buying gold watches. This includes the silver and bronze watches:
+   \[
+   \text{Total watches before gold} = \text{Number of silver watches} + \text{Number of bronze watches} = 20 + 60 = 80
+   \]
+
+3. **Determine how many gold watches she will buy**:
+   Julia decides to buy gold watches, and the number of gold watches she buys will represent 10% of her total collection (which is currently 80 watches). We calculate 10% of 80:
+   \[
+   \text{Number of gold watches} = 10\% \times \text{Total watches before gold} = 0.10 \times 80 = 8
+   \]
+
+4. **Calculate the total number of watches after purchasing gold watches**:
+   Finally, we add the number of gold watches to the total number of watches she had before:
+   \[
+   \text{Total watches after gold} = \text{Total watches before gold} + \text{Number of gold watches} = 80 + 8 = 88
+   \]
+
+Thus, after purchasing the gold watches, Julia owns a total of 88 watches.
+</reasoning>
+<answer>88</answer>

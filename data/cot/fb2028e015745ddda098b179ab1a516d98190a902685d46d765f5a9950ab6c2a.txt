@@ -1,0 +1,44 @@
+<reasoning>
+To find the total number of apartment units in both buildings, we'll first calculate the number of units in one building, and then multiply that by 2 since there are two identical buildings.
+
+1. **Calculate the number of units in one building:**
+   - The first floor has 2 apartment units.
+   - The second, third, and fourth floors each have 5 apartment units.
+
+2. **Add the units from each floor:**
+   - First floor: 2 units
+   - Second floor: 5 units
+   - Third floor: 5 units
+   - Fourth floor: 5 units
+
+   Now, we can add these together:
+   \[
+   \text{Total units in one building} = 2 + 5 + 5 + 5
+   \]
+
+3. **Perform the addition:**
+   \[
+   2 + 5 = 7
+   \]
+   \[
+   7 + 5 = 12
+   \]
+   \[
+   12 + 5 = 17
+   \]
+   So, there are 17 apartment units in one building.
+
+4. **Multiply by the number of buildings:**
+   Since there are 2 identical buildings, we multiply the number of units in one building by 2:
+   \[
+   \text{Total units in both buildings} = 17 \times 2
+   \]
+
+5. **Perform the multiplication:**
+   \[
+   17 \times 2 = 34
+   \]
+
+Thus, the total number of apartment units Mr. Resty has in all is 34.
+</reasoning>
+<answer>34</answer>

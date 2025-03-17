@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many times a day Sandra should feed the puppies, we will follow these steps:
+
+1. **Calculate the total number of feedings per puppy for the entire period**: 
+   Sandra has 105 portions of formula for 5 days. This means we first need to determine how many portions she has in total for the puppies across those 5 days.
+
+2. **Determine the number of portions needed per day**: 
+   Since there are 105 portions given for 5 days, we can find out how many portions are available per day by dividing the total portions by the number of days:
+   \[
+   \text{Portions per day} = \frac{105 \text{ portions}}{5 \text{ days}} = 21 \text{ portions per day}
+   \]
+   This means Sandra has 21 portions available each day to feed the puppies.
+
+3. **Calculate the number of feedings per puppy per day**: 
+   Now, we need to determine how many puppies there are. Sandra has 7 puppies. To find out how many times a day she should feed each puppy, we will divide the total portions available per day by the number of puppies:
+   \[
+   \text{Feedings per puppy per day} = \frac{21 \text{ portions per day}}{7 \text{ puppies}} = 3 \text{ portions per puppy per day}
+   \]
+   This indicates that each puppy should receive 3 portions of formula every day.
+
+4. **Conclusion**: 
+   Since we calculated that each puppy should be fed 3 portions per day, that is the final answer for how many times a day Sandra should feed the puppies.
+</reasoning>
+<answer>3</answer>

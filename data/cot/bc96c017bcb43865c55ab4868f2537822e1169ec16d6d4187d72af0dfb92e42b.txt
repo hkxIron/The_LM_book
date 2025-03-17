@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we need to calculate how long each person held their breath underwater in seconds.
+
+1. **Convert Kelly's time to seconds**:
+   Kelly held her breath for 3 minutes. Since there are 60 seconds in a minute, we will convert minutes to seconds by multiplying:
+   \[
+   3 \text{ minutes} \times 60 \text{ seconds/minute} = 180 \text{ seconds}
+   \]
+   So, Kelly held her breath for 180 seconds.
+
+2. **Determine Brittany's time**:
+   Brittany held her breath for 20 seconds less than Kelly. We will subtract 20 seconds from Kelly's time:
+   \[
+   180 \text{ seconds} - 20 \text{ seconds} = 160 \text{ seconds}
+   \]
+   Therefore, Brittany held her breath for 160 seconds.
+
+3. **Determine Buffy's time**:
+   Buffy held her breath for 40 seconds less than Brittany. We will subtract 40 seconds from Brittany's time:
+   \[
+   160 \text{ seconds} - 40 \text{ seconds} = 120 \text{ seconds}
+   \]
+   Thus, Buffy held her breath for 120 seconds.
+
+Now, we summarize the final result:
+Buffy held her breath underwater for 120 seconds.
+</reasoning>
+<answer>120</answer>

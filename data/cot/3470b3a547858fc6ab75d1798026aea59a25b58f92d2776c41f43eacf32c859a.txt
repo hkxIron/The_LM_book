@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we need to determine how many years it takes for the tree to grow from its current height of 5 feet to a height of 23 feet, given that it gains 3 feet in height each year.
+
+1. **Identify the current height and the target height**: 
+   - The current height of the tree is 5 feet.
+   - The target height we want the tree to reach is 23 feet.
+
+2. **Calculate the height increase needed**:
+   - We need to find out how much more height the tree needs to gain to reach 23 feet.
+   - We calculate this by subtracting the current height from the target height:
+     \[
+     \text{Height increase needed} = \text{Target height} - \text{Current height} = 23 \text{ feet} - 5 \text{ feet} = 18 \text{ feet}
+     \]
+
+3. **Determine the growth per year**:
+   - The tree grows 3 feet each year.
+
+4. **Calculate the number of years needed to grow 18 feet**:
+   - We can find the number of years it will take to grow 18 feet by dividing the total height increase needed by the growth per year:
+     \[
+     \text{Number of years needed} = \frac{\text{Height increase needed}}{\text{Growth per year}} = \frac{18 \text{ feet}}{3 \text{ feet/year}} = 6 \text{ years}
+     \]
+
+5. **Calculate the age of the tree when it reaches 23 feet**:
+   - The tree is currently 1 year old. To find its age when it reaches 23 feet, we add the number of years needed to its current age:
+     \[
+     \text{Age when it reaches 23 feet} = \text{Current age} + \text{Number of years needed} = 1 \text{ year} + 6 \text{ years} = 7 \text{ years}
+     \]
+
+Therefore, when the tree is 23 feet tall, it will be 7 years old.
+</reasoning>
+<answer>7</answer>

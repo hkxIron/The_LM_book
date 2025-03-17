@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine the total number of calories in one block of cheese. Since there are 16 servings in a block and each serving contains 110 calories, we can calculate the total calories in one block as follows:
+
+Total calories in one block = Number of servings per block × Calories per serving  
+Total calories in one block = 16 servings × 110 calories/serving  
+
+Now, we perform the multiplication:  
+Total calories in one block = 16 × 110 = 1760 calories
+
+Next, we need to find out how many calories Rick has consumed after eating 5 servings of cheese. We can do this by multiplying the number of servings eaten by the calories per serving:
+
+Calories consumed = Servings eaten × Calories per serving  
+Calories consumed = 5 servings × 110 calories/serving  
+
+Now, we perform the multiplication:  
+Calories consumed = 5 × 110 = 550 calories
+
+Now, to find out how many calories are remaining in the block, we subtract the calories consumed from the total calories in the block:
+
+Calories remaining = Total calories in block - Calories consumed  
+Calories remaining = 1760 calories - 550 calories  
+
+Now, we perform the subtraction:  
+Calories remaining = 1760 - 550 = 1210 calories
+
+Therefore, the number of calories remaining in the block is 1210.
+</reasoning>
+<answer>1210</answer>

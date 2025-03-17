@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of books Janine read this month:** 
+   - Last month, she read 5 books.
+   - This month, she read twice as many books. 
+   - To find out how many books she read this month, we multiply the number of books from last month by 2.
+   - Calculation: \( 2 \times 5 = 10 \) books.
+
+2. **Calculate the total number of books read over the two months:** 
+   - Last month, she read 5 books, and this month, she read 10 books.
+   - To find the total, we add the number of books from both months.
+   - Calculation: \( 5 + 10 = 15 \) books.
+
+3. **Determine the total number of pages Janine read:** 
+   - Each book has 10 pages. 
+   - To find the total number of pages read, we multiply the total number of books by the number of pages per book.
+   - Calculation: \( 15 \times 10 = 150 \) pages.
+
+Therefore, after calculating the number of books read and the total pages, we find that Janine read a total of 150 pages over the two months.
+</reasoning>
+<answer>150</answer>

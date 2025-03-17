@@ -1,0 +1,29 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify the cost of the old car**: We are told that Ben sold his old car for $1800. This means that $1800 is the amount he received from selling it, but we need to find out how much the old car actually cost him.
+
+2. **Set up the relationship between the old and new car**: We are given that the new car cost twice as much as the old car. Let's denote the cost of the old car as \( x \). Therefore, the cost of the new car will be \( 2x \).
+
+3. **Establish the total cost of the new car**: According to the information provided, Ben sold the old car for $1800 and used that money to pay off part of the new car. After selling the old car, he still owes $2000 on the new car. This implies that the amount he has already paid (from selling the old car) plus the amount he still owes (which is $2000) equals the cost of the new car.
+
+   So we can set up the equation:
+   \[
+   1800 + 2000 = 2x
+   \]
+
+4. **Solve for \( x \)**: Now we can simplify the equation:
+   \[
+   3800 = 2x
+   \]
+
+   To find \( x \), we will divide both sides by 2:
+   \[
+   x = \frac{3800}{2} = 1900
+   \]
+
+5. **Conclusion**: The cost of Ben's old car was \( 1900 \) dollars.
+
+Therefore, the cost of the old car is:
+</reasoning>
+<answer>1900</answer>

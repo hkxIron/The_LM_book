@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many hours John volunteers per year, we need to follow these steps:
+
+1. **Determine the number of volunteer sessions per year**: Since John volunteers twice a month, we first calculate how many months are in a year. There are 12 months in a year.
+
+   So, the number of volunteer sessions per year is:
+   \[
+   2 \text{ sessions/month} \times 12 \text{ months/year} = 24 \text{ sessions/year}
+   \]
+
+2. **Calculate the total volunteer hours per year**: Now, we know that John volunteers for 3 hours each session. To find the total number of hours he volunteers in a year, we multiply the number of sessions by the number of hours per session.
+
+   So, the total hours he volunteers per year is:
+   \[
+   24 \text{ sessions/year} \times 3 \text{ hours/session} = 72 \text{ hours/year}
+   \]
+
+Therefore, after calculating the total hours, we find that John volunteers a total of 72 hours in a year.
+</reasoning>
+<answer>72</answer>

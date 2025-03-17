@@ -1,0 +1,55 @@
+<reasoning>
+To determine the total number of books Nancy had on her cart to start with, we need to follow these steps:
+
+1. **Count the books shelved from the top section**: 
+   - Nancy shelved 12 history books, 8 romance books, and 4 poetry books.
+   - We add these together: 
+     \[
+     12 + 8 + 4 = 24
+     \]
+   - So, there are 24 books from the top section.
+
+2. **Count the books shelved from the bottom section**:
+   - We are told that half of the books in the bottom section were mystery books, but we don't know the total number of books in the bottom section yet.
+   - However, we do know that she shelved 5 Western novels and 6 biographies from the bottom section.
+   - We add these together:
+     \[
+     5 + 6 = 11
+     \]
+   - So, Nancy shelved 11 books from the bottom section (excluding the mystery books).
+
+3. **Calculate the total number of books in the bottom section**:
+   - Let \( x \) be the total number of books in the bottom section.
+   - Since half of the books in the bottom section are mystery books, we can express that as \( \frac{x}{2} \).
+   - The total number of books shelved from the bottom section can be expressed as:
+     \[
+     \frac{x}{2} + 11 = x
+     \]
+   - Now we solve for \( x \):
+     \[
+     \frac{x}{2} + 11 = x
+     \]
+     \[
+     11 = x - \frac{x}{2}
+     \]
+     \[
+     11 = \frac{2x}{2} - \frac{x}{2}
+     \]
+     \[
+     11 = \frac{x}{2}
+     \]
+     \[
+     x = 22
+     \]
+   - So, there are 22 books in the bottom section.
+
+4. **Calculate the total number of books on the cart**:
+   - We have already calculated the number of books from the top section (24) and the bottom section (22).
+   - Therefore, the total number of books on the cart when Nancy started is:
+     \[
+     24 + 22 = 46
+     \]
+
+Finally, we conclude that Nancy had 46 books on the cart when she started.
+</reasoning>
+<answer>46</answer>

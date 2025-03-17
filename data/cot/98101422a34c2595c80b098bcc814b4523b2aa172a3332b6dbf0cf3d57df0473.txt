@@ -1,0 +1,36 @@
+<reasoning>
+First, we need to calculate the total cost of tickets for the students. We know that each student ticket costs $6 and there are 20 students.
+
+1. **Calculate the total for students:**
+   \[
+   \text{Total for students} = \text{Number of students} \times \text{Cost per student ticket}
+   \]
+   \[
+   \text{Total for students} = 20 \times 6 = 120
+   \]
+   This means that the total amount collected from student tickets is $120.
+
+Next, we will calculate the total cost of tickets for the adults. Each adult ticket costs $8 and there are 12 adults.
+
+2. **Calculate the total for adults:**
+   \[
+   \text{Total for adults} = \text{Number of adults} \times \text{Cost per adult ticket}
+   \]
+   \[
+   \text{Total for adults} = 12 \times 8 = 96
+   \]
+   Thus, the total amount collected from adult tickets is $96.
+
+Now, to find the total amount of money earned from ticket sales, we need to add the total from students and the total from adults.
+
+3. **Calculate the overall total:**
+   \[
+   \text{Total revenue} = \text{Total for students} + \text{Total for adults}
+   \]
+   \[
+   \text{Total revenue} = 120 + 96 = 216
+   \]
+
+Therefore, the total dollar amount of tickets sold is $216.
+</reasoning>
+<answer>216</answer>

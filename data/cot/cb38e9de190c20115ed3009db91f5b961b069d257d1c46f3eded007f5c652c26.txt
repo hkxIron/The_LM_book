@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much money Marcus will save by buying the discounted shoes instead of spending the maximum amount he was willing to pay, we need to go through the following steps:
+
+1. **Calculate the discount on the shoes**: The original price of the shoes is $120, and there is a discount of 30%. To calculate the discount amount, we can use the formula:
+   \[
+   \text{Discount} = \text{Original Price} \times \text{Discount Rate}
+   \]
+   Here, the discount rate is expressed as a decimal, so 30% becomes 0.30.
+
+   \[
+   \text{Discount} = 120 \times 0.30 = 36
+   \]
+
+2. **Determine the price after the discount**: Now, we subtract the discount from the original price to find the final price Marcus will pay for the shoes.
+   \[
+   \text{Final Price} = \text{Original Price} - \text{Discount}
+   \]
+   \[
+   \text{Final Price} = 120 - 36 = 84
+   \]
+
+3. **Calculate the amount saved compared to the maximum amount**: Marcus originally planned to spend no more than $130. Now we find out how much he saves by spending $84 instead of $130.
+   \[
+   \text{Savings} = \text{Maximum Amount} - \text{Final Price}
+   \]
+   \[
+   \text{Savings} = 130 - 84 = 46
+   \]
+
+Therefore, Marcus will save $46 by buying these discounted shoes instead of spending the maximum amount he was willing to pay.
+</reasoning>
+<answer>46</answer>

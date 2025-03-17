@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many eggs Lisa cooks for her family for breakfast in a year, let's break down the problem step by step.
+
+1. **Calculate the total number of eggs used each morning:**
+   - Lisa has 4 children, and she makes 2 eggs for each child. 
+     So, for the children: 
+     \[
+     4 \text{ children} \times 2 \text{ eggs/child} = 8 \text{ eggs}
+     \]
+   - Lisa also makes 3 eggs for her husband.
+   - Finally, she makes 2 eggs for herself.
+   - Therefore, the total number of eggs cooked in one morning is:
+     \[
+     \text{Total eggs} = 8 \text{ (children)} + 3 \text{ (husband)} + 2 \text{ (Lisa)} = 13 \text{ eggs}
+     \]
+
+2. **Determine how many days a year Lisa makes breakfast:**
+   - Lisa makes breakfast from Monday to Friday, which is 5 days a week.
+   - There are 52 weeks in a year, so the total number of breakfast days in a year is:
+     \[
+     5 \text{ days/week} \times 52 \text{ weeks} = 260 \text{ days}
+     \]
+
+3. **Calculate the total number of eggs cooked in a year:**
+   - Now, we multiply the number of eggs she cooks each morning by the number of days she cooks breakfast:
+     \[
+     \text{Total eggs in a year} = 13 \text{ eggs/morning} \times 260 \text{ mornings} = 3380 \text{ eggs}
+     \]
+
+Therefore, after performing all the calculations, we find that Lisa cooks a total of 3380 eggs for her family for breakfast in a year.
+</reasoning>
+<answer>3380</answer>

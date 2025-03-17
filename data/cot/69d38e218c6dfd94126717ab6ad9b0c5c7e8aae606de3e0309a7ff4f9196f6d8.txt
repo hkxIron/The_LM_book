@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many trees are not pine trees, we first need to determine how many of the 350 trees are pine trees. 
+
+1. **Calculate the number of pine trees**: 
+   We know that 70% of the trees are pine trees. To find the number of pine trees, we will multiply the total number of trees by 70% (or 0.70 in decimal form).
+
+   \[
+   \text{Number of pine trees} = 350 \times 0.70
+   \]
+
+   Now performing the multiplication:
+
+   \[
+   350 \times 0.70 = 245
+   \]
+
+   This tells us that there are 245 pine trees in the park.
+
+2. **Calculate the number of trees that are not pine trees**: 
+   To find the number of trees that are not pine trees, we subtract the number of pine trees from the total number of trees.
+
+   \[
+   \text{Number of non-pine trees} = \text{Total trees} - \text{Pine trees}
+   \]
+
+   Substituting in the numbers we have:
+
+   \[
+   \text{Number of non-pine trees} = 350 - 245
+   \]
+
+   Performing the subtraction:
+
+   \[
+   350 - 245 = 105
+   \]
+
+Thus, there are 105 trees in the park that are not pine trees.
+</reasoning>
+<answer>105</answer>

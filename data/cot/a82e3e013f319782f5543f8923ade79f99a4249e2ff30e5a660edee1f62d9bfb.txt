@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to calculate how many sun salutations Summer performs in a year based on her weekly routine.
+
+1. **Identify the number of weekdays in a week**: Summer performs sun salutations only on weekdays, which are Monday through Friday. This totals to 5 weekdays per week.
+
+2. **Calculate the number of weeks in a year**: There are 52 weeks in a year. 
+
+3. **Calculate the total number of weekdays in a year**: Since Summer performs yoga on 5 weekdays each week, we multiply the number of weekdays by the number of weeks:
+   \[
+   \text{Total weekdays} = 5 \text{ weekdays/week} \times 52 \text{ weeks/year} = 260 \text{ weekdays/year}
+   \]
+
+4. **Calculate the total number of sun salutations**: Summer performs 5 sun salutations on each weekday. Therefore, we multiply the total number of weekdays by the number of sun salutations she performs each day:
+   \[
+   \text{Total sun salutations} = 5 \text{ sun salutations/weekday} \times 260 \text{ weekdays} = 1300 \text{ sun salutations}
+   \]
+
+Thus, Summer will perform a total of 1300 sun salutations throughout an entire year.
+</reasoning>
+<answer>1300</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we need to determine how many fruits George and Amelia picked separately and then add those amounts together.
+
+1. **Determine the number of oranges George picked:**
+   - According to the problem, George picks 45 oranges.
+   - So, George's oranges = 45.
+
+2. **Determine the number of apples Amelia picked:**
+   - The problem states that George picks 5 more apples than Amelia.
+   - Let's denote the number of apples Amelia picked as A.
+   - Then, George's apples = A + 5.
+
+3. **Determine the number of oranges Amelia picked:**
+   - The problem also states that Amelia picks 18 fewer oranges than George.
+   - Since George picked 45 oranges, Amelia's oranges = 45 - 18 = 27.
+
+4. **Now, we know the following:**
+   - Amelia's oranges = 27.
+   - Amelia's apples = 15 (as stated in the problem).
+
+5. **Now let's summarize the total fruits picked by each:**
+   - Total fruits picked by George = number of oranges + number of apples = 45 + (A + 5).
+   - Total fruits picked by Amelia = number of oranges + number of apples = 27 + 15.
+
+6. **We need to find A (Amelia's apples) to complete George's total:**
+   - From step 2, we have George's apples as A + 5. 
+   - Since we know Amelia's apples = 15, we can find A: 
+     A = 15. 
+   - Thus, George's apples = 15 + 5 = 20.
+
+7. **Now we can calculate the total fruits for each:**
+   - Total fruits picked by George = 45 (oranges) + 20 (apples) = 65.
+   - Total fruits picked by Amelia = 27 (oranges) + 15 (apples) = 42.
+
+8. **Finally, we add both totals together:**
+   - Total fruits picked altogether = Total fruits by George + Total fruits by Amelia = 65 + 42 = 107.
+
+Therefore, the total number of fruits they picked altogether is:
+</reasoning>
+<answer>107</answer>

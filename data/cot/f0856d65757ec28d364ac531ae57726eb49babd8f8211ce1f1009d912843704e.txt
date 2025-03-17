@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many hours it took Joan to get to her family, we first need to calculate the driving time without considering breaks, and then add the time for the breaks.
+
+1. **Calculate the driving time:**
+   - Joan is driving a distance of 480 miles at a speed of 60 miles per hour (mph).
+   - To find the time taken to drive, we use the formula:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+     \]
+   - Plugging in the values:
+     \[
+     \text{Time} = \frac{480 \text{ miles}}{60 \text{ mph}} = 8 \text{ hours}
+     \]
+
+2. **Calculate the total break time:**
+   - Joan takes a lunch break of 30 minutes.
+   - She also takes 2 bathroom breaks, each lasting 15 minutes.
+   - First, calculate the total bathroom break time:
+     \[
+     \text{Total bathroom break time} = 2 \times 15 \text{ minutes} = 30 \text{ minutes}
+     \]
+   - Now, add the lunch break to the bathroom break time:
+     \[
+     \text{Total break time} = 30 \text{ minutes (lunch)} + 30 \text{ minutes (bathroom)} = 60 \text{ minutes}
+     \]
+   - Convert the total break time into hours:
+     \[
+     60 \text{ minutes} = 1 \text{ hour}
+     \]
+
+3. **Calculate the total time taken:**
+   - Now we add the driving time to the total break time:
+     \[
+     \text{Total time} = \text{Driving time} + \text{Total break time} = 8 \text{ hours} + 1 \text{ hour} = 9 \text{ hours}
+     \]
+
+Therefore, the total time it took Joan to get to her family is 9 hours.
+</reasoning>
+<answer>9</answer>

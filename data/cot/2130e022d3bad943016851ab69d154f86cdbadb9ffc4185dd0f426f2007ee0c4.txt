@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we first need to determine how many tattoos Jason has.
+
+1. **Calculate the number of tattoos Jason has**:
+   - Jason has tattoos on his arms: 2 tattoos on each arm.
+   - Assuming Jason has 2 arms, he has: 
+     \( 2 \text{ tattoos/arm} \times 2 \text{ arms} = 4 \text{ tattoos} \) on his arms.
+   - Jason has tattoos on his legs: 3 tattoos on each leg.
+   - Assuming Jason has 2 legs, he has: 
+     \( 3 \text{ tattoos/leg} \times 2 \text{ legs} = 6 \text{ tattoos} \) on his legs.
+   - Now, we add the tattoos on his arms and legs together:
+     \( 4 \text{ tattoos (arms)} + 6 \text{ tattoos (legs)} = 10 \text{ tattoos} \).
+
+2. **Determine how many tattoos Adam has**:
+   - According to the problem, Adam has three more than twice as many tattoos as Jason.
+   - First, calculate twice the number of tattoos Jason has:
+     \( 2 \times 10 \text{ tattoos} = 20 \text{ tattoos} \).
+   - Now, we add 3 more tattoos to this amount:
+     \( 20 \text{ tattoos} + 3 \text{ tattoos} = 23 \text{ tattoos} \).
+
+Therefore, Adam has 23 tattoos.
+</reasoning>
+<answer>23</answer>

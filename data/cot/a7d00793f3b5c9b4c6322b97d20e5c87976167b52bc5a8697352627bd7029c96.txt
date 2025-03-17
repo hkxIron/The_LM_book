@@ -1,0 +1,21 @@
+<reasoning>
+To solve this problem, we will break it down step by step.
+
+1. **Understanding the requirements for one pie**:
+   - James needs 200 blueberries for one pint of blueberry jam.
+   - Since there are 2 pints in a quart, he will need double the amount of blueberries for one quart. 
+   - Therefore, the blueberries needed for one quart of jam (which is required for one pie) is:
+     \[
+     200 \, \text{blueberries/pint} \times 2 \, \text{pints/quart} = 400 \, \text{blueberries/quart}
+     \]
+   This means James needs 400 blueberries to make the jam for one pie.
+
+2. **Calculating the total for 6 pies**:
+   - Now, since James wants to make 6 pies, we need to multiply the blueberries needed for one pie by 6:
+     \[
+     400 \, \text{blueberries/pie} \times 6 \, \text{pies} = 2400 \, \text{blueberries}
+     \]
+
+Therefore, James needs to pick a total of 2400 blueberries to make 6 pies.
+</reasoning>
+<answer>2400</answer>

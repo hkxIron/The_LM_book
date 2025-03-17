@@ -1,0 +1,54 @@
+<reasoning>
+Let's denote Leah's age as \( L \) and Rachel's age as \( R \). According to the problem, we know two things:
+
+1. Rachel is 4 years older than Leah: 
+   \[
+   R = L + 4
+   \]
+   
+2. The sum of their ages is 34:
+   \[
+   R + L = 34
+   \]
+
+Now, we can substitute the expression for \( R \) from the first equation into the second equation. This gives us:
+\[
+(L + 4) + L = 34
+\]
+
+Now, let's simplify this equation. Combining the terms, we have:
+\[
+2L + 4 = 34
+\]
+
+Next, we'll isolate \( L \) by first subtracting 4 from both sides:
+\[
+2L = 34 - 4
+\]
+\[
+2L = 30
+\]
+
+Now, we can solve for \( L \) by dividing both sides by 2:
+\[
+L = \frac{30}{2}
+\]
+\[
+L = 15
+\]
+
+Now that we have Leah's age, we can find Rachel's age using the first equation:
+\[
+R = L + 4
+\]
+Substituting \( L = 15 \):
+\[
+R = 15 + 4
+\]
+\[
+R = 19
+\]
+
+Therefore, Rachel is 19 years old.
+</reasoning>
+<answer>19</answer>

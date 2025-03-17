@@ -1,0 +1,30 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. Start with the initial number of passengers on the bus, which is 50.
+   - This is our starting point.
+
+2. At the first stop, 16 more passengers get on the bus. 
+   - To find the new total of passengers, we add the number of new passengers to the initial number: 
+   \[
+   50 + 16 = 66
+   \]
+   - Now there are 66 passengers on the bus after the first stop.
+
+3. Next, we need to account for the other stops. At these stops, 22 passengers get off the bus.
+   - We subtract the passengers getting off from the current total:
+   \[
+   66 - 22 = 44
+   \]
+   - After this, there are 44 passengers left on the bus.
+
+4. Additionally, at the same stops, 5 more passengers get on the bus.
+   - We add these passengers to the current total:
+   \[
+   44 + 5 = 49
+   \]
+   - Now there are 49 passengers on the bus after accounting for passengers getting off and on.
+
+Finally, we have calculated the total number of passengers on the bus at the last station.
+</reasoning>
+<answer>49</answer>

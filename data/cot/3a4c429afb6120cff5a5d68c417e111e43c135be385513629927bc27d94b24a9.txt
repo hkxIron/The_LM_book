@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many books Evan currently owns**:
+   - We know that Evan had 200 books two years ago.
+   - According to the problem, Evan now owns 40 fewer books than he did two years ago.
+   - Therefore, we calculate his current number of books as follows:
+     \[
+     \text{Current books} = 200 - 40 = 160
+     \]
+
+2. **Calculate how many books Evan will have in five years**:
+   - The problem states that in five years, Evan will have 60 more than five times as many books as he owns now.
+   - First, we need to find five times the number of books he owns now:
+     \[
+     5 \times \text{Current books} = 5 \times 160 = 800
+     \]
+   - Now, we add 60 to this amount to find out how many books he will have in five years:
+     \[
+     \text{Books in five years} = 800 + 60 = 860
+     \]
+
+Thus, after performing the calculations step by step and ensuring our understanding of the problem, we find that in five years, Evan will have a total of 860 books.
+</reasoning>
+<answer>860</answer>

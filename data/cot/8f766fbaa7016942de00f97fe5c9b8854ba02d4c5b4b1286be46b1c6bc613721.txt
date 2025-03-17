@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many pages Tom can read in 2 hours after increasing his reading speed, let's break the problem down into steps.
+
+1. **Determine Tom's initial reading speed**: We know that Tom can read 12 pages in 1 hour. This is his initial reading speed.
+
+2. **Calculate the increased reading speed**: If Tom increases his reading speed by a factor of 3, we simply multiply his initial reading speed by 3.
+   
+   \[
+   \text{Increased reading speed} = 12 \text{ pages/hour} \times 3 = 36 \text{ pages/hour}
+   \]
+
+3. **Determine the total pages read in 2 hours**: Now that we know Tom can read 36 pages in 1 hour, we can find out how many pages he reads in 2 hours by multiplying his new reading speed by 2.
+
+   \[
+   \text{Total pages in 2 hours} = 36 \text{ pages/hour} \times 2 \text{ hours} = 72 \text{ pages}
+   \]
+
+Thus, by following these steps, we have calculated that Tom would be able to read 72 pages in 2 hours after increasing his reading speed.
+</reasoning>
+<answer>72</answer>

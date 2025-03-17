@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many students identified chess or basketball as their favorite sport, we need to follow these steps:
+
+1. **Calculate the number of students who like basketball**: We know that 40% of the students like basketball. To find out how many students this represents, we multiply the total number of students by the percentage (in decimal form).
+   \[
+   \text{Students who like basketball} = 250 \times 0.40 = 100
+   \]
+
+2. **Calculate the number of students who like chess**: Similarly, we know that 10% of the students like chess. We will again multiply the total number of students by the percentage.
+   \[
+   \text{Students who like chess} = 250 \times 0.10 = 25
+   \]
+
+3. **Add the number of students who like basketball and chess**: Now that we have the number of students who like each sport, we can add these two results together to find the total number of students who identified either chess or basketball as their favorite sport.
+   \[
+   \text{Students who like chess or basketball} = 100 + 25 = 125
+   \]
+
+Therefore, the total number of students who identified chess or basketball as their favorite sport is:
+</reasoning>
+<answer>125</answer>

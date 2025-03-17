@@ -1,0 +1,18 @@
+<reasoning>
+First, we need to calculate the total cost of each item.
+
+For the hamburgers, we multiply the number of hamburgers (5) by the cost of each hamburger ($3): 5 * $3 = $15.
+
+For the French fries, we multiply the number of sets of fries (4) by the cost of each set of fries ($1.20): 4 * $1.20 = $4.80.
+
+For the soda, we multiply the number of cups of soda (5) by the cost of each cup of soda ($0.5): 5 * $0.5 = $2.50.
+
+The cost of the spaghetti is given as $2.7.
+
+Now, let's add up all these costs to get the total bill: $15 (burgers) + $4.80 (fries) + $2.50 (sodas) + $2.7 (spaghetti) = $25.00.
+
+The total bill is $25.00. Since the five friends are splitting the bill equally, we divide the total bill by the number of friends (5) to find out how much each person will pay: $25.00 / 5 = $5.00.
+
+So each friend will pay $5.00.
+</reasoning>
+<answer>5</answer>

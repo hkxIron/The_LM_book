@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of layers of rock**: We know there are a total of 25 layers of rock in the canyon.
+
+2. **Count the limestone layers**: There are 5 layers of limestone.
+
+3. **Calculate the remaining layers after limestone**: 
+   - Total layers = 25
+   - Limestone layers = 5
+   - Remaining layers = 25 - 5 = 20 layers
+
+4. **Determine the sandstone layers**: 
+   - Half of the remaining layers (20) are sandstone.
+   - Thus, the number of sandstone layers = 20 / 2 = 10 layers.
+
+5. **Calculate the remaining layers after sandstone**:
+   - Remaining layers after limestone and sandstone = 20 - 10 = 10 layers.
+
+6. **Identify the quartz layers**: 
+   - We know there are 4 layers of quartz.
+
+7. **Calculate the remaining layers after quartz**: 
+   - Remaining layers after limestone, sandstone, and quartz = 10 - 4 = 6 layers.
+
+8. **Determine the shale layers**: 
+   - Half of the remaining 6 layers are shale.
+   - Thus, the number of shale layers = 6 / 2 = 3 layers.
+
+9. **Calculate the remaining layers after shale**: 
+   - Remaining layers = 6 - 3 = 3 layers.
+
+10. **Identify the kinds of rock that make up only one layer**: 
+    - The remaining 3 layers are all different kinds of rock, which means there are 3 different kinds of rock that each make up only one layer.
+
+Therefore, after analyzing all the layers of rock and their distributions, we find that there are 3 kinds of rock that make up only one layer in the canyon's strata.
+</reasoning>
+<answer>3</answer>

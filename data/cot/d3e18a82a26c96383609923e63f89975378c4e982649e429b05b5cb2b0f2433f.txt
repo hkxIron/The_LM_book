@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine how many donuts Katie's family has. Since they finish 3 dozen donuts, we calculate that:
+
+\[ 
+3 \text{ dozen} = 3 \times 12 = 36 \text{ donuts} 
+\]
+
+Next, we know that each donut requires 2 ounces of coffee. To find the total amount of coffee needed for 36 donuts, we multiply the number of donuts by the amount of coffee per donut:
+
+\[ 
+36 \text{ donuts} \times 2 \text{ ounces/donut} = 72 \text{ ounces of coffee} 
+\]
+
+Now, we need to figure out how many pots of coffee Katie needs to make, since each pot contains 12 ounces. We divide the total ounces of coffee required by the ounces per pot:
+
+\[ 
+\frac{72 \text{ ounces}}{12 \text{ ounces/pot}} = 6 \text{ pots of coffee} 
+\]
+
+Next, we calculate the cost of making 6 pots of coffee. Since each pot costs $3 to make, we multiply the number of pots by the cost per pot:
+
+\[ 
+6 \text{ pots} \times 3 \text{ dollars/pot} = 18 \text{ dollars} 
+\]
+
+Thus, the total amount spent on coffee is $18.
+</reasoning>
+<answer>18</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find the total mask production in July, we start with the information given: the company produced 3000 masks in March and the production doubled each month.
+
+1. **Identify the initial production month and amount**: 
+   - March: 3000 masks
+
+2. **Determine the number of months from March to July**: 
+   - March to April: 1 month
+   - April to May: 2 months
+   - May to June: 3 months
+   - June to July: 4 months
+   - Total months = 4
+
+3. **Calculate the production for each subsequent month**: 
+   - Since the production doubles each month, we will multiply the number of masks produced in the previous month by 2 for each of the 4 months until July:
+   - April: 3000 masks × 2 = 6000 masks
+   - May: 6000 masks × 2 = 12000 masks
+   - June: 12000 masks × 2 = 24000 masks
+   - July: 24000 masks × 2 = 48000 masks
+
+4. **Final Calculation**: 
+   - After calculating the production for each month, we find that the total mask production in July is 48000 masks.
+
+Therefore, the total mask production in July is 48000 masks.
+</reasoning>
+<answer>48000</answer>

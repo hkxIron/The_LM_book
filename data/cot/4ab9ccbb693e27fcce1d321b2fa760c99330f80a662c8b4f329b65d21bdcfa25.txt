@@ -1,0 +1,43 @@
+<reasoning>
+Let’s break down the problem step by step.
+
+1. **Identify the number of cards Ann has:**
+   We know from the problem that Ann has 60 cards. 
+
+2. **Set up the relationship for Heike’s cards:**
+   The problem states that Ann has six times as many cards as Heike. Let’s denote the number of cards Heike has as \( H \). According to the information given:
+   \[
+   \text{Ann's cards} = 6H
+   \]
+   Since we know Ann has 60 cards:
+   \[
+   6H = 60
+   \]
+
+3. **Solve for Heike's cards:**
+   To find the number of cards Heike has, we will divide both sides of the equation by 6:
+   \[
+   H = \frac{60}{6} = 10
+   \]
+   Thus, Heike has 10 cards.
+
+4. **Set up the relationship for Anton’s cards:**
+   The problem states that Anton has three times as many cards as Heike. Therefore, the number of cards Anton has, denoted as \( A \), can be expressed as:
+   \[
+   A = 3H
+   \]
+   Substituting the value of \( H \) we found:
+   \[
+   A = 3 \times 10 = 30
+   \]
+   So, Anton has 30 cards.
+
+5. **Calculate how many more cards Ann has than Anton:**
+   To determine how many more cards Ann has than Anton, we subtract the number of cards Anton has from the number of cards Ann has:
+   \[
+   \text{Difference} = \text{Ann's cards} - \text{Anton’s cards} = 60 - 30 = 30
+   \]
+
+Therefore, Ann has 30 more cards than Anton.
+</reasoning>
+<answer>30</answer>

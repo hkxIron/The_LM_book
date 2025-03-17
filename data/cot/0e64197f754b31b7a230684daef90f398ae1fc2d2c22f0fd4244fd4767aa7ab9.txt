@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many green marbles Eric has, we start by understanding the total number of marbles and the distribution of the other colors.
+
+1. **Identify the total number of marbles**: Eric has a total of 20 marbles.
+
+2. **Identify the number of marbles of each color**: 
+    - He has 12 white marbles.
+    - He has 6 blue marbles.
+
+3. **Calculate the total number of non-green marbles**: 
+   We add the number of white and blue marbles together:
+   \[
+   \text{Total non-green marbles} = \text{White marbles} + \text{Blue marbles} = 12 + 6 = 18
+   \]
+   This tells us that Eric has 18 marbles that are either white or blue.
+
+4. **Determine the number of green marbles**: 
+   To find the number of green marbles, we subtract the total number of non-green marbles from the total number of marbles:
+   \[
+   \text{Green marbles} = \text{Total marbles} - \text{Total non-green marbles} = 20 - 18 = 2
+   \]
+
+So, Eric has 2 green marbles.
+</reasoning>
+<answer>2</answer>

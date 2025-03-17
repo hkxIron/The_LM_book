@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of silk pieces**: The problem states that there are ten pieces made with silk. So, we have:
+   \[
+   \text{Silk pieces} = 10
+   \]
+
+2. **Identify the number of cashmere pieces**: It is mentioned that there are half as many cashmere pieces as silk pieces. Therefore, the number of cashmere pieces is:
+   \[
+   \text{Cashmere pieces} = \frac{10}{2} = 5
+   \]
+
+3. **Calculate the total number of pieces**: Now we can find the total number of pieces made with silk and cashmere:
+   \[
+   \text{Total pieces} = \text{Silk pieces} + \text{Cashmere pieces} = 10 + 5 = 15
+   \]
+
+4. **Identify the total number of pieces in the line**: The problem states that the latest line has thirteen pieces. However, we just calculated that the total of silk and cashmere pieces amounts to fifteen. 
+
+5. **Determine the number of blended pieces**: Since we have a total of 15 pieces made with just silk and cashmere, but the total in the line is 13, this means there are some pieces that must be using a blend of both fabrics. The number of blended pieces can be calculated by subtracting the total pieces (15) from the line total (13):
+   \[
+   \text{Blended pieces} = \text{Total pieces} - \text{Total in the line} = 15 - 13 = 2
+   \]
+
+Therefore, the number of pieces that use a blend of cashmere and silk is 2.
+</reasoning>
+<answer>2</answer>

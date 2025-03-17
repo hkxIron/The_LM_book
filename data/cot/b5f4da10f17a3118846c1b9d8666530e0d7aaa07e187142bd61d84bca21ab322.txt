@@ -1,0 +1,29 @@
+<reasoning>
+To find the current price of RAM after the changes in price, we will follow these steps:
+
+1. **Calculate the price after the 30% increase**: 
+   - The original price of the RAM is $50.
+   - A 30% increase means we need to find 30% of $50, which is calculated as:
+     \[
+     0.30 \times 50 = 15
+     \]
+   - Now, we add this increase to the original price:
+     \[
+     50 + 15 = 65
+     \]
+   - So, after the 30% increase, the price of RAM is $65.
+
+2. **Calculate the price after the 20% decrease**:
+   - Now, we need to find 20% of the new price ($65). This is calculated as:
+     \[
+     0.20 \times 65 = 13
+     \]
+   - Next, we subtract this decrease from the price after the increase:
+     \[
+     65 - 13 = 52
+     \]
+   - Therefore, after the 20% decrease, the price of RAM is $52.
+
+In summary, we first increased the price by 30%, resulting in $65, and then decreased that price by 20%, resulting in a final price of $52.
+</reasoning>
+<answer>52</answer>

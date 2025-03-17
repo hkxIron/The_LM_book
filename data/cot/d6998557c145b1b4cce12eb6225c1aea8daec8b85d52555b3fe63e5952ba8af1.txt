@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Lyra has left in her budget after her purchases, we need to calculate the total cost of the food she bought.
+
+1. **Calculate the cost of the bucket of fried chicken:**
+   - The cost of the bucket of fried chicken is given as $12. 
+
+2. **Calculate the cost of the beef:**
+   - Lyra bought 5 pounds of beef, and the cost is $3 per pound.
+   - To find the total cost of the beef, we multiply the number of pounds by the cost per pound:
+     \[
+     \text{Cost of beef} = 5 \text{ pounds} \times 3 \text{ dollars per pound} = 15 \text{ dollars}
+     \]
+
+3. **Add the total costs together:**
+   - Now, we add the cost of the fried chicken and the cost of the beef:
+     \[
+     \text{Total cost} = \text{Cost of fried chicken} + \text{Cost of beef} = 12 \text{ dollars} + 15 \text{ dollars} = 27 \text{ dollars}
+     \]
+
+4. **Subtract the total cost from the budget:**
+   - Lyra's initial budget is $80. We subtract the total cost of her purchases from this budget to find out how much she has left:
+     \[
+     \text{Remaining budget} = \text{Initial budget} - \text{Total cost} = 80 \text{ dollars} - 27 \text{ dollars} = 53 \text{ dollars}
+     \]
+
+Therefore, after all calculations, Lyra has $53 left in her weekly budget.
+</reasoning>
+<answer>53</answer>

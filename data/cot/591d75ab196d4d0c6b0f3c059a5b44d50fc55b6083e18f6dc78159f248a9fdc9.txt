@@ -1,0 +1,36 @@
+<reasoning>
+To find the total number of wheels in the garage, we'll calculate the number of wheels for each type of vehicle and then sum them up.
+
+1. **Calculate the wheels from bicycles**: 
+   - Each bicycle has 2 wheels.
+   - There are 20 bicycles.
+   - Therefore, the total number of wheels from bicycles is:
+     \[
+     20 \text{ bicycles} \times 2 \text{ wheels/bicycle} = 40 \text{ wheels}
+     \]
+
+2. **Calculate the wheels from cars**: 
+   - Each car has 4 wheels.
+   - There are 10 cars.
+   - Therefore, the total number of wheels from cars is:
+     \[
+     10 \text{ cars} \times 4 \text{ wheels/car} = 40 \text{ wheels}
+     \]
+
+3. **Calculate the wheels from motorcycles**: 
+   - Each motorcycle has 2 wheels.
+   - There are 5 motorcycles.
+   - Therefore, the total number of wheels from motorcycles is:
+     \[
+     5 \text{ motorcycles} \times 2 \text{ wheels/motorcycle} = 10 \text{ wheels}
+     \]
+
+4. **Sum all the wheels**: 
+   - Now, we add the wheels from bicycles, cars, and motorcycles together:
+     \[
+     40 \text{ wheels (bicycles)} + 40 \text{ wheels (cars)} + 10 \text{ wheels (motorcycles)} = 90 \text{ wheels}
+     \]
+
+Therefore, the total number of wheels in the garage is 90.
+</reasoning>
+<answer>90</answer>

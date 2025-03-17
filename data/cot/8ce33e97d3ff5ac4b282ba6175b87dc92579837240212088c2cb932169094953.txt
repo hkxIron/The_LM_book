@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many square yards of sod Archie needs, we first need to calculate the area of the entire backyard and then subtract the area of the shed.
+
+1. **Calculate the area of the backyard**:
+   - The formula for the area of a rectangle is given by:
+     \[
+     \text{Area} = \text{length} \times \text{width}
+     \]
+   - For the backyard:
+     - Length = 20 yards
+     - Width = 13 yards
+   - Now we multiply these dimensions:
+     \[
+     \text{Area of backyard} = 20 \, \text{yards} \times 13 \, \text{yards} = 260 \, \text{square yards}
+     \]
+
+2. **Calculate the area of the shed**:
+   - Using the same formula for the shed:
+     - Length = 5 yards
+     - Width = 3 yards
+   - Now we multiply these dimensions:
+     \[
+     \text{Area of shed} = 5 \, \text{yards} \times 3 \, \text{yards} = 15 \, \text{square yards}
+     \]
+
+3. **Subtract the area of the shed from the area of the backyard**:
+   - To find the area that needs sod, we subtract the area of the shed from the area of the backyard:
+     \[
+     \text{Area for sod} = \text{Area of backyard} - \text{Area of shed}
+     \]
+   - Plugging in our previous calculations:
+     \[
+     \text{Area for sod} = 260 \, \text{square yards} - 15 \, \text{square yards} = 245 \, \text{square yards}
+     \]
+
+Therefore, Archie will need 245 square yards of sod for his backyard.
+</reasoning>
+<answer>245</answer>

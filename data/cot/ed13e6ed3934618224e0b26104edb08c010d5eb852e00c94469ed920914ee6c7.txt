@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote Bethany's current age as B and her younger sister's current age as S.
+
+1. From the problem, we know that in 5 years, her younger sister will be 16. This means we can express her sister's current age:
+   \[
+   S + 5 = 16
+   \]
+   To find S (the current age of her sister), we subtract 5 from both sides:
+   \[
+   S = 16 - 5 = 11
+   \]
+   So, her younger sister is currently 11 years old.
+
+2. Next, we use the information about their ages 3 years ago. Three years ago, Bethany's age was \(B - 3\) and her sister's age was \(S - 3\). According to the problem, Bethany was twice the age of her sister at that time:
+   \[
+   B - 3 = 2(S - 3)
+   \]
+   Now we substitute S with 11:
+   \[
+   B - 3 = 2(11 - 3)
+   \]
+   This simplifies to:
+   \[
+   B - 3 = 2(8)
+   \]
+   \[
+   B - 3 = 16
+   \]
+   Now, we add 3 to both sides to solve for B:
+   \[
+   B = 16 + 3 = 19
+   \]
+
+Therefore, Bethany is currently 19 years old.
+</reasoning>
+<answer>19</answer>

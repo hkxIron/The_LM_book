@@ -1,0 +1,40 @@
+<reasoning>
+Let's break this problem down step by step, using the information given.
+
+1. **Identify how much money Raquel has**: It is stated that Raquel has $40. 
+   - So, we can write: 
+     \[
+     R = 40
+     \]
+     where \( R \) is the amount of money Raquel has.
+
+2. **Determine how much money Nataly has**: We know that Nataly has three times as much money as Raquel. 
+   - Therefore, we can calculate Nataly's amount as follows:
+     \[
+     N = 3 \times R = 3 \times 40 = 120
+     \]
+     where \( N \) is the amount of money Nataly has.
+
+3. **Calculate how much money Tom has**: The problem states that Tom has a quarter as much money as Nataly. 
+   - We find Tom’s amount using the following calculation:
+     \[
+     T = \frac{1}{4} \times N = \frac{1}{4} \times 120 = 30
+     \]
+     where \( T \) is the amount of money Tom has.
+
+4. **Combine the amounts of money**: Now, we can find the total amount of money that Tom, Raquel, and Nataly have together.
+   - We add all their amounts together:
+     \[
+     \text{Total} = T + R + N = 30 + 40 + 120
+     \]
+     - Calculating this gives:
+     \[
+     \text{Total} = 30 + 40 = 70
+     \]
+     \[
+     \text{Total} = 70 + 120 = 190
+     \]
+
+Thus, the combined amount of money that Tom, Raquel, and Nataly have is $190.
+</reasoning>
+<answer>190</answer>

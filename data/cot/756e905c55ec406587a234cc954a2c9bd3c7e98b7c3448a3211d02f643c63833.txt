@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much John paid after tax, we need to calculate the total cost, which includes the original price of the earbuds and the tax amount.
+
+Step 1: Calculate the tax amount.
+To find the tax amount, we take the original price of the earbuds and multiply it by the tax rate (expressed as a decimal).
+
+The original price is $200, and the tax rate is 15%. First, we convert the percentage to a decimal by dividing by 100:
+15% = 15/100 = 0.15
+
+Now, we multiply the original price by the tax rate:
+Tax Amount = Original Price × Tax Rate
+Tax Amount = 200 × 0.15
+
+Calculating that gives:
+Tax Amount = 200 × 0.15 = 30
+
+Step 2: Calculate the total cost after tax.
+Now that we have the tax amount, we can find the total cost by adding the tax amount to the original price:
+Total Cost = Original Price + Tax Amount
+Total Cost = 200 + 30
+
+Calculating that gives:
+Total Cost = 200 + 30 = 230
+
+Therefore, the total amount John paid after tax is $230.
+</reasoning>
+<answer>230</answer>

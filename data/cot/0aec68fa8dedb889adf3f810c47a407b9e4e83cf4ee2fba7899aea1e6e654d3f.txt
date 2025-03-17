@@ -1,0 +1,36 @@
+<reasoning>
+Let's solve the problem step by step, keeping track of how much of the fence has been whitewashed and how much is left.
+
+1. **Total length of the fence**: The fence is 100 feet long.
+
+2. **First Friend (Ben)**: Ben whitewashed 10 feet of the fence.
+   - Remaining fence after Ben: 
+   \[
+   100 - 10 = 90 \text{ feet}
+   \]
+
+3. **Second Friend (Billy)**: Billy whitewashed a fifth of the remaining fence.
+   - Remaining fence after Ben was 90 feet. A fifth of this is calculated as:
+   \[
+   \frac{1}{5} \times 90 = 18 \text{ feet}
+   \]
+   - Now, we subtract the 18 feet that Billy whitewashed from the remaining fence:
+   \[
+   90 - 18 = 72 \text{ feet}
+   \]
+
+4. **Third Friend (Johnny)**: Johnny whitewashed a third of the remaining fence.
+   - The remaining fence after Billy is 72 feet. A third of this is calculated as:
+   \[
+   \frac{1}{3} \times 72 = 24 \text{ feet}
+   \]
+   - Now, we subtract the 24 feet that Johnny whitewashed from the remaining fence:
+   \[
+   72 - 24 = 48 \text{ feet}
+   \]
+
+5. **Final Calculation**: After all three friends have whitewashed the fence, we found that there are 48 feet of the fence still needing to be whitewashed.
+
+Therefore, the amount of the fence that still needs to be whitewashed is:
+</reasoning>
+<answer>48</answer>

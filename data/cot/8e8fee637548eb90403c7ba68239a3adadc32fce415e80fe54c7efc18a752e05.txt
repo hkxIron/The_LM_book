@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many minutes it takes Mark to finish making the bread, we need to add together all the time spent on each step of the process.
+
+1. **Time for rising**: Mark needs to let the dough rise for 120 minutes, and he does this twice. So we calculate the total rising time:
+   \[
+   120 \text{ minutes} \times 2 = 240 \text{ minutes}
+   \]
+
+2. **Time for kneading**: Mark spends 10 minutes kneading the dough. 
+
+3. **Time for baking**: Finally, he spends 30 minutes baking the bread.
+
+Now we can add all these times together:
+- Total rising time: 240 minutes
+- Kneading time: 10 minutes
+- Baking time: 30 minutes
+
+Now we sum these times:
+\[
+240 \text{ minutes} + 10 \text{ minutes} + 30 \text{ minutes} = 240 + 10 + 30 = 280 \text{ minutes}
+\]
+
+Therefore, the total time it takes Mark to finish making the bread is 280 minutes.
+</reasoning>
+<answer>280</answer>

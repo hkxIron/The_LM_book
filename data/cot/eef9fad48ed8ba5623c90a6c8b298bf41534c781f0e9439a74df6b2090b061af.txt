@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we first need to determine the distance that the bald eagle covers during its dive. 
+
+1. **Calculate the distance the bald eagle dives**:
+   The speed of the bald eagle is 100 miles per hour. We need to convert this speed into miles per second for easier calculations since the time given is in seconds.
+
+   - There are 3600 seconds in an hour, so we can convert 100 miles per hour to miles per second:
+     \[
+     \text{Speed in miles per second} = \frac{100 \text{ miles}}{3600 \text{ seconds}} \approx 0.02778 \text{ miles per second}
+     \]
+
+2. **Calculate the distance covered by the bald eagle in 30 seconds**:
+   Now that we have the speed in miles per second, we can find the distance covered in 30 seconds:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time} = 0.02778 \text{ miles/second} \times 30 \text{ seconds} \approx 0.8334 \text{ miles}
+   \]
+
+3. **Determine the speed of the peregrine falcon**:
+   The peregrine falcon dives at a speed that is twice that of the bald eagle:
+   \[
+   \text{Speed of peregrine falcon} = 2 \times 100 \text{ miles per hour} = 200 \text{ miles per hour}
+   \]
+   Again, we convert this speed to miles per second:
+   \[
+   \text{Speed in miles per second} = \frac{200 \text{ miles}}{3600 \text{ seconds}} \approx 0.05556 \text{ miles per second}
+   \]
+
+4. **Calculate the time it takes for the peregrine falcon to dive the same distance**:
+   We want to find out how long it takes for the peregrine falcon to dive the same distance of approximately 0.8334 miles. We use the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Time} = \frac{0.8334 \text{ miles}}{0.05556 \text{ miles/second}} \approx 15 \text{ seconds}
+   \]
+
+Therefore, it will take the peregrine falcon approximately 15 seconds to dive the same distance.
+</reasoning>
+<answer>15</answer>

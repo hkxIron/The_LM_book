@@ -1,0 +1,54 @@
+<reasoning>
+To solve this problem, we'll start by defining the lengths of the straight and crooked parts of the river.
+
+1. Let's denote the length of the crooked part of the river as \( x \) miles.
+2. According to the problem, the straight part of the river is "three times shorter" than the crooked part. This means that the straight part can be expressed as \( \frac{x}{3} \) miles.
+3. The total length of the river is given as 80 miles. Therefore, we can set up the equation:
+   \[
+   x + \frac{x}{3} = 80
+   \]
+   This equation combines the lengths of the straight and crooked parts to equal the total length of the river.
+
+4. To solve this equation, we first need to combine the terms on the left. To do this, we can rewrite \( x \) as \( \frac{3x}{3} \) (so they have a common denominator):
+   \[
+   \frac{3x}{3} + \frac{x}{3} = 80
+   \]
+   Simplifying the left side, we get:
+   \[
+   \frac{3x + x}{3} = 80
+   \]
+   This simplifies further to:
+   \[
+   \frac{4x}{3} = 80
+   \]
+
+5. Next, we will eliminate the fraction by multiplying both sides of the equation by 3:
+   \[
+   4x = 80 \times 3
+   \]
+   Calculating the right side gives:
+   \[
+   4x = 240
+   \]
+
+6. Now, we will solve for \( x \) by dividing both sides by 4:
+   \[
+   x = \frac{240}{4}
+   \]
+   This simplifies to:
+   \[
+   x = 60
+   \]
+
+7. Now that we have the length of the crooked part, we can find the length of the straight part using our earlier expression for it:
+   \[
+   \text{Straight part} = \frac{x}{3} = \frac{60}{3}
+   \]
+   Calculating this gives:
+   \[
+   \text{Straight part} = 20
+   \]
+
+Therefore, the length of the straight part of the river is 20 miles.
+</reasoning>
+<answer>20</answer>

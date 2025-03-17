@@ -1,0 +1,45 @@
+<reasoning>
+To find out how many points Team Soccer Stars earned at the end of the season, we will follow these steps:
+
+1. **Identify the number of wins, losses, and draws**: 
+   - They won 14 games.
+   - They lost 2 games.
+   - The total number of games played is 20.
+
+2. **Calculate the number of draws**: 
+   We can find the number of draws by subtracting the number of wins and losses from the total games played.
+   \[
+   \text{Draws} = \text{Total Games} - (\text{Wins} + \text{Losses})
+   \]
+   Substituting the values:
+   \[
+   \text{Draws} = 20 - (14 + 2) = 20 - 16 = 4
+   \]
+
+3. **Calculate the points from wins, draws, and losses**: 
+   - Each win gives 3 points, so the points from wins are:
+   \[
+   \text{Points from Wins} = \text{Wins} \times 3 = 14 \times 3 = 42
+   \]
+   - Each draw gives 1 point, so the points from draws are:
+   \[
+   \text{Points from Draws} = \text{Draws} \times 1 = 4 \times 1 = 4
+   \]
+   - Losses do not contribute any points, so the points from losses are:
+   \[
+   \text{Points from Losses} = 0
+   \]
+
+4. **Calculate the total points**:
+   Now, we add the points from wins and draws to find the total points:
+   \[
+   \text{Total Points} = \text{Points from Wins} + \text{Points from Draws} + \text{Points from Losses}
+   \]
+   Substituting the values:
+   \[
+   \text{Total Points} = 42 + 4 + 0 = 46
+   \]
+
+Therefore, Team Soccer Stars had a total of 46 points at the end of the season.
+</reasoning>
+<answer>46</answer>

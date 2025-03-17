@@ -1,0 +1,26 @@
+<reasoning>
+First, we need to determine the total number of cups of coffee that Angie has from the 3 lbs. of coffee she bought. 
+
+1. **Calculate the total cups from the coffee**: Since each pound of coffee brews about 40 cups, we can multiply the number of pounds by the cups per pound:
+   \[
+   \text{Total cups} = \text{lbs of coffee} \times \text{cups per lb} = 3 \, \text{lbs} \times 40 \, \text{cups/lb}
+   \]
+   Performing the multiplication:
+   \[
+   \text{Total cups} = 3 \times 40 = 120 \, \text{cups}
+   \]
+
+2. **Determine how many cups Angie drinks each day**: The problem states that Angie drinks 3 cups of coffee every day.
+
+3. **Calculate how many days the coffee will last**: We take the total number of cups of coffee and divide it by the number of cups Angie drinks per day:
+   \[
+   \text{Days coffee lasts} = \frac{\text{Total cups}}{\text{cups per day}} = \frac{120 \, \text{cups}}{3 \, \text{cups/day}}
+   \]
+   Now, we perform the division:
+   \[
+   \text{Days coffee lasts} = \frac{120}{3} = 40 \, \text{days}
+   \]
+
+Therefore, Angie’s coffee will last her for 40 days.
+</reasoning>
+<answer>40</answer>

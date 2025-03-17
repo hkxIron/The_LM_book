@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many more dollars the people at the gate paid for their tickets compared to those who pre-bought their tickets, we will follow these steps:
+
+1. **Calculate the total amount paid by the pre-bought ticket passengers**: 
+   There are 20 people who pre-bought tickets at $155 each. 
+   We can find the total amount paid by multiplying the number of passengers by the price per ticket:
+   \[
+   \text{Total for pre-bought tickets} = 20 \times 155
+   \]
+   Now, performing this multiplication:
+   \[
+   20 \times 155 = 3100
+   \]
+   So, the total amount paid by the pre-bought ticket passengers is $3100.
+
+2. **Calculate the total amount paid by the gate ticket passengers**: 
+   There are 30 people who bought tickets at the gate for $200 each. 
+   We will find the total amount paid by these passengers in the same way:
+   \[
+   \text{Total for gate tickets} = 30 \times 200
+   \]
+   Performing this multiplication:
+   \[
+   30 \times 200 = 6000
+   \]
+   Thus, the total amount paid by the gate ticket passengers is $6000.
+
+3. **Calculate the difference between the amounts paid by the gate ticket passengers and the pre-bought ticket passengers**: 
+   We subtract the total amount paid by the pre-bought passengers from the total amount paid by the gate passengers:
+   \[
+   \text{Difference} = 6000 - 3100
+   \]
+   Now performing this subtraction:
+   \[
+   6000 - 3100 = 2900
+   \]
+   Therefore, the people at the gate paid $2900 more than those who pre-bought their tickets.
+</reasoning>
+<answer>2900</answer>

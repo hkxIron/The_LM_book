@@ -1,0 +1,48 @@
+<reasoning>
+First, let's calculate the total number of cookies Linda wants to make for her classmates. Since there are 24 classmates and she wants to give each classmate 10 cookies, we multiply the number of classmates by the number of cookies per classmate:
+
+\[ 
+24 \text{ classmates} \times 10 \text{ cookies/classmate} = 240 \text{ cookies} 
+\]
+
+Next, we need to determine how many cookies Linda has already made. Each batch of cookies produces 4 dozen cookies. Since 1 dozen equals 12 cookies, we can calculate how many cookies are made in one batch:
+
+\[ 
+4 \text{ dozen} \times 12 \text{ cookies/dozen} = 48 \text{ cookies/batch} 
+\]
+
+Now, Linda made 2 batches of chocolate chip cookies and 1 batch of oatmeal raisin cookies. Let's calculate the total number of cookies she made:
+
+For chocolate chip cookies:
+\[ 
+2 \text{ batches} \times 48 \text{ cookies/batch} = 96 \text{ chocolate chip cookies} 
+\]
+
+For oatmeal raisin cookies:
+\[ 
+1 \text{ batch} \times 48 \text{ cookies/batch} = 48 \text{ oatmeal raisin cookies} 
+\]
+
+Now, we add the cookies from both types to find the total number of cookies she has made:
+
+\[ 
+96 \text{ chocolate chip cookies} + 48 \text{ oatmeal raisin cookies} = 144 \text{ cookies made} 
+\]
+
+Next, we need to find out how many more cookies Linda needs to bake. We do this by subtracting the number of cookies she has made from the total number of cookies she wants to make:
+
+\[ 
+240 \text{ cookies needed} - 144 \text{ cookies made} = 96 \text{ cookies needed} 
+\]
+
+Now, since each batch produces 48 cookies, we need to find out how many more batches she needs to bake to reach the total of 240 cookies:
+
+To find the number of additional batches required, we divide the number of cookies still needed by the number of cookies per batch:
+
+\[ 
+96 \text{ cookies needed} \div 48 \text{ cookies/batch} = 2 \text{ batches} 
+\]
+
+Thus, Linda needs to bake 2 more batches of cookies.
+</reasoning>
+<answer>2</answer>

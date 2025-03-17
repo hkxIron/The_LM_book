@@ -1,0 +1,21 @@
+<reasoning>
+First, let's start by determining how many cans Alyssa and Abigail have collected together so far. 
+
+1. **Count the total number of cans collected:**
+   - Alyssa has collected 30 cans.
+   - Abigail has collected 43 cans.
+   - To find the total, we add these two amounts together:
+     \[
+     30 + 43 = 73
+     \]
+
+2. **Determine how many more cans are needed:**
+   - The goal is to collect a total of 100 cans.
+   - Since they have already collected 73 cans, we need to find out how many more cans they need:
+     \[
+     100 - 73 = 27
+     \]
+
+Therefore, Alyssa and Abigail need to collect 27 more empty cans to reach their goal of 100 cans.
+</reasoning>
+<answer>27</answer>

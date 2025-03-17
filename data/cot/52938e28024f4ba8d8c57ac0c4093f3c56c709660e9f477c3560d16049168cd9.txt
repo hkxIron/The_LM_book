@@ -1,0 +1,48 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total number of oranges Mr. Salazar had:**
+   - One dozen is equal to 12 oranges. Therefore, seven dozen oranges is:
+     \[
+     7 \times 12 = 84 \text{ oranges}
+     \]
+   This means Mr. Salazar initially had 84 oranges.
+
+2. **Determine how many oranges he reserved for his friend:**
+   - He reserved \( \frac{1}{4} \) of his total oranges for his friend:
+     \[
+     \frac{1}{4} \times 84 = 21 \text{ oranges}
+     \]
+   So, Mr. Salazar reserved 21 oranges.
+
+3. **Calculate the number of oranges remaining after reserving some for his friend:**
+   - To find out how many oranges are left after reserving 21, we subtract:
+     \[
+     84 - 21 = 63 \text{ oranges}
+     \]
+   Now, Mr. Salazar has 63 oranges left.
+
+4. **Find out how many oranges he sold yesterday:**
+   - He sold \( \frac{3}{7} \) of the remaining oranges:
+     \[
+     \frac{3}{7} \times 63 = 27 \text{ oranges}
+     \]
+   Thus, Mr. Salazar sold 27 oranges yesterday.
+
+5. **Calculate the number of oranges left after the sale:**
+   - We subtract the 27 oranges he sold from the remaining 63:
+     \[
+     63 - 27 = 36 \text{ oranges}
+     \]
+   So, after the sale, Mr. Salazar has 36 oranges left.
+
+6. **Account for the rotten oranges he discovered today:**
+   - Mr. Salazar found 4 rotten oranges, which means we need to subtract these from the remaining oranges:
+     \[
+     36 - 4 = 32 \text{ oranges}
+     \]
+   Therefore, after accounting for the rotten oranges, Mr. Salazar has 32 oranges left to be sold today.
+
+Putting it all together, the final number of oranges left to be sold today is:
+</reasoning>
+<answer>32</answer>

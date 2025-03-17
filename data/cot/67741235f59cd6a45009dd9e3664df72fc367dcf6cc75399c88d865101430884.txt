@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of pages read in the first 10 chapters**: Each chapter has 40 pages. Therefore, for 10 chapters:
+   \[
+   \text{Pages in 10 chapters} = 10 \text{ chapters} \times 40 \text{ pages/chapter} = 400 \text{ pages}
+   \]
+
+2. **Calculate the pages read in the 11th chapter**: Mitchell has read 20 pages of the 11th chapter. 
+
+3. **Calculate the total number of pages read after 4 o'clock**: After 4 o'clock, Mitchell reads 2 more chapters. Each of these chapters also has 40 pages:
+   \[
+   \text{Pages in 2 additional chapters} = 2 \text{ chapters} \times 40 \text{ pages/chapter} = 80 \text{ pages}
+   \]
+
+4. **Add all the pages read together**: Now we will sum all the pages read:
+   \[
+   \text{Total pages read} = \text{Pages in 10 chapters} + \text{Pages in 11th chapter} + \text{Pages in 2 additional chapters}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Total pages read} = 400 \text{ pages} + 20 \text{ pages} + 80 \text{ pages} = 500 \text{ pages}
+   \]
+
+Therefore, the total number of pages that Mitchell had read altogether is:
+</reasoning>
+<answer>500</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+Let's go through the problem step by step.
+
+1. **Total Tomatoes Grown**: Haruto initially grew 127 tomatoes.
+
+2. **Tomatoes Eaten by Birds**: Out of the 127 tomatoes, 19 were eaten by birds. To find out how many tomatoes Haruto has left after the birds have eaten some, we subtract the number of tomatoes eaten from the total grown:
+   
+   \[
+   127 - 19 = 108
+   \]
+   
+   This means Haruto has 108 tomatoes left after the birds have eaten some.
+
+3. **Haruto Gives Half to a Friend**: Now, Haruto decides to give half of the 108 tomatoes to his friend. To find out how many tomatoes he gives away, we calculate half of 108:
+   
+   \[
+   \frac{108}{2} = 54
+   \]
+   
+   So, Haruto gives away 54 tomatoes to his friend.
+
+4. **Calculating Remaining Tomatoes**: To find out how many tomatoes Haruto has left after giving away half, we subtract the number of tomatoes given away from the total he had after the birds:
+   
+   \[
+   108 - 54 = 54
+   \]
+
+Now we can conclude that Haruto has 54 tomatoes left.
+</reasoning>
+<answer>54</answer>

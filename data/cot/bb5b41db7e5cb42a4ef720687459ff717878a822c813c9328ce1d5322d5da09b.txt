@@ -1,0 +1,36 @@
+<reasoning>
+To determine how much Harper will spend on mineral water for 240 days, we can follow these steps:
+
+1. **Calculate the total number of bottles needed for 240 days**:
+   Harper drinks 1/2 bottle of mineral water per day. Therefore, in 240 days, the total number of bottles she needs is:
+   \[
+   \text{Total bottles} = \text{Bottles per day} \times \text{Number of days} = \frac{1}{2} \times 240
+   \]
+   Now, calculating that:
+   \[
+   \text{Total bottles} = 120
+   \]
+
+2. **Determine how many cases she needs to buy**:
+   Since there are 24 bottles in each case, we need to calculate how many cases are required to get 120 bottles:
+   \[
+   \text{Cases needed} = \frac{\text{Total bottles}}{\text{Bottles per case}} = \frac{120}{24}
+   \]
+   Now, calculating that:
+   \[
+   \text{Cases needed} = 5
+   \]
+
+3. **Calculate the total cost for the cases**:
+   Each case costs $12.00, so the total cost for 5 cases is:
+   \[
+   \text{Total cost} = \text{Cases needed} \times \text{Cost per case} = 5 \times 12
+   \]
+   Now, calculating that:
+   \[
+   \text{Total cost} = 60
+   \]
+
+After following these steps, we find that Harper will spend a total of $60.00 on mineral water for 240 days.
+</reasoning>
+<answer>60</answer>

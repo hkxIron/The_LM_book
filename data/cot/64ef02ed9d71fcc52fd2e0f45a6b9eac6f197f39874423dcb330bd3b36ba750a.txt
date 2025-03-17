@@ -1,0 +1,37 @@
+<reasoning>
+To find the number of rooms with 2 windows, we first need to determine how many windows are accounted for by the rooms with 4 and 3 windows.
+
+1. **Calculate the total number of windows from the rooms with 4 windows:**
+   - There are 5 rooms with 4 windows each.
+   - Total windows from these rooms = 5 rooms × 4 windows/room = 20 windows.
+
+2. **Calculate the total number of windows from the rooms with 3 windows:**
+   - There are 8 rooms with 3 windows each.
+   - Total windows from these rooms = 8 rooms × 3 windows/room = 24 windows.
+
+3. **Add the windows from the rooms with 4 and 3 windows:**
+   - Total windows from both types of rooms = 20 windows + 24 windows = 44 windows.
+
+4. **Determine the number of windows left for the rooms with 2 windows:**
+   - Total windows in the building = 122 windows.
+   - Windows accounted for = 44 windows.
+   - Remaining windows = 122 windows - 44 windows = 78 windows.
+
+5. **Let \( x \) be the number of rooms with 2 windows.**
+   - Each of these rooms has 2 windows, so the total number of windows from these rooms can be expressed as \( 2x \).
+
+6. **Set up the equation for the number of windows:**
+   - We know that the total number of windows from the rooms with 2 windows must equal the remaining windows: 
+   \[
+   2x = 78
+   \]
+
+7. **Solve for \( x \):**
+   - Divide both sides by 2:
+   \[
+   x = \frac{78}{2} = 39
+   \]
+
+Thus, there are 39 rooms in the building with 2 windows each.
+</reasoning>
+<answer>39</answer>

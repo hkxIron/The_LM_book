@@ -1,0 +1,55 @@
+<reasoning>
+To solve the problem step by step, let's define the variables for each person's silver dollars:
+
+1. Let \( C \) represent the number of silver dollars Mr. Chiu has.
+2. From the problem, we know Mr. Chiu has 56 silver dollars, so \( C = 56 \).
+
+Next, we need to find out how many silver dollars Mr. Phung has. The problem states that Mr. Phung has 16 more silver dollars than Mr. Chiu.
+
+3. We can express the silver dollars Mr. Phung has (\( P \)) as:
+   \[
+   P = C + 16
+   \]
+   Substituting \( C = 56 \):
+   \[
+   P = 56 + 16 = 72
+   \]
+
+Now, we need to find out how many silver dollars Mr. Ha has. The problem states that Mr. Ha owns 5 more silver dollars than Mr. Phung.
+
+4. We can express the silver dollars Mr. Ha has (\( H \)) as:
+   \[
+   H = P + 5
+   \]
+   Substituting \( P = 72 \):
+   \[
+   H = 72 + 5 = 77
+   \]
+
+Now we have the number of silver dollars for each person:
+- Mr. Chiu has \( 56 \) silver dollars.
+- Mr. Phung has \( 72 \) silver dollars.
+- Mr. Ha has \( 77 \) silver dollars.
+
+5. Finally, we need to find the total number of silver dollars the three have. We can calculate this as:
+   \[
+   \text{Total} = C + P + H
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total} = 56 + 72 + 77
+   \]
+
+Now let's perform the addition step by step:
+- First, add \( 56 \) and \( 72 \):
+  \[
+  56 + 72 = 128
+  \]
+- Then, add \( 128 \) and \( 77 \):
+  \[
+  128 + 77 = 205
+  \]
+
+Therefore, the total number of silver dollars they have is \( 205 \).
+</reasoning>
+<answer>205</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+First, let's determine how much dye is needed for one blouse. We know that each blouse gets 20 black dots and each dot requires 10 ml of black dye.
+
+1. **Calculate the dye needed for one blouse:**
+   - Each blouse has 20 dots.
+   - Each dot uses 10 ml of dye.
+   - Therefore, the total dye needed for one blouse is:
+     \[
+     20 \text{ dots} \times 10 \text{ ml/dot} = 200 \text{ ml}
+     \]
+
+2. **Calculate the total dye needed for 100 blouses:**
+   - Now we need to find out how much dye is needed for 100 blouses.
+   - We already calculated that one blouse requires 200 ml of dye.
+   - Therefore, for 100 blouses, the total dye needed is:
+     \[
+     100 \text{ blouses} \times 200 \text{ ml/blouse} = 20000 \text{ ml}
+     \]
+
+3. **Determine the number of 400-ml bottles needed:**
+   - Each bottle contains 400 ml of dye.
+   - To find out how many bottles Jenna needs, we divide the total dye required by the amount in each bottle:
+     \[
+     \frac{20000 \text{ ml}}{400 \text{ ml/bottle}} = 50 \text{ bottles}
+     \]
+
+Therefore, Jenna needs to buy 50 bottles of dye to dye 100 blouses.
+</reasoning>
+<answer>50</answer>

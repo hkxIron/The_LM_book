@@ -1,0 +1,31 @@
+<reasoning>
+To find the total number of doors the construction company needs to buy, let’s go through the problem step by step.
+
+1. **Calculate the total number of apartments in one building:** 
+   Each building has 12 floors and each floor has 6 apartments. 
+   So, the total number of apartments in one building is:
+   \[
+   \text{Apartments per building} = \text{Floors} \times \text{Apartments per floor} = 12 \times 6 = 72
+   \]
+
+2. **Calculate the total number of apartments in both buildings:** 
+   Since there are 2 buildings, we multiply the number of apartments in one building by 2:
+   \[
+   \text{Total apartments} = \text{Apartments per building} \times 2 = 72 \times 2 = 144
+   \]
+
+3. **Determine the number of doors needed for all apartments:** 
+   Each apartment needs 7 doors. Therefore, the total number of doors needed for all apartments is:
+   \[
+   \text{Total doors needed} = \text{Total apartments} \times \text{Doors per apartment} = 144 \times 7
+   \]
+
+4. **Calculate the total number of doors:**
+   Now we perform the multiplication:
+   \[
+   144 \times 7 = 1008
+   \]
+
+Thus, the construction company needs to buy a total of 1008 doors.
+</reasoning>
+<answer>1008</answer>

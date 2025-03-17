@@ -1,0 +1,22 @@
+<reasoning>
+To determine how many free donuts Quinn would be eligible for, we need to follow these steps:
+
+1. **Calculate the total number of books read by Quinn**:
+   - Quinn reads 2 books per week and he plans to read for 10 weeks.
+   - To find the total number of books, we multiply the number of books he reads per week by the number of weeks:
+     \[
+     \text{Total books} = \text{Books per week} \times \text{Number of weeks} = 2 \times 10 = 20
+     \]
+   - This means Quinn will read a total of 20 books during the summer reading challenge.
+
+2. **Determine how many coupons Quinn earns**:
+   - For every 5 books read, Quinn earns 1 coupon for a free donut.
+   - To find out how many coupons he earns, we divide the total number of books by 5:
+     \[
+     \text{Coupons earned} = \frac{\text{Total books}}{5} = \frac{20}{5} = 4
+     \]
+   - Therefore, Quinn will earn 4 coupons for free donuts.
+
+Thus, after calculating the total number of books read and the corresponding coupons earned, we find that Quinn is eligible for 4 free donuts.
+</reasoning>
+<answer>4</answer>

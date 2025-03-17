@@ -1,0 +1,33 @@
+<reasoning>
+To determine how many shirts Shenny should pack for her vacation, we need to break down her shirt usage for the week.
+
+1. **Departure Day (Monday):** Shenny will wear a shirt that she will also wear on her return day, which is Sunday. So, this counts as one shirt.
+
+2. **Days in Between:** Shenny will be on vacation from Tuesday to Saturday, which is 5 days. According to the problem, she plans to wear two different shirts each day during these days.
+
+   - For Tuesday, she will wear 2 different shirts.
+   - For Wednesday, she will wear 2 different shirts.
+   - For Thursday, she will wear 2 different shirts.
+   - For Friday, she will wear 2 different shirts.
+   - For Saturday, she will wear 2 different shirts.
+
+   Since she wears 2 shirts each day over 5 days, we will calculate the total number of shirts she uses during this period:
+   
+   \[
+   5 \text{ days} \times 2 \text{ shirts/day} = 10 \text{ shirts}
+   \]
+
+3. **Return Day (Sunday):** As stated earlier, she will wear the same shirt she wore on her departure day, which means she does not need to pack an additional shirt for this day.
+
+Now, we add the shirts together:
+- Shirts for the departure and return: 1 shirt
+- Shirts for Tuesday to Saturday: 10 shirts
+
+So the total number of shirts Shenny needs to pack is:
+\[
+1 + 10 = 11 \text{ shirts}
+\]
+
+Therefore, Shenny should pack 11 shirts for her vacation.
+</reasoning>
+<answer>11</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the total number of trays baked:**
+   Frank bakes 2 trays of cookies per day for 6 days. To find the total number of trays baked, we multiply the number of trays per day by the number of days:
+   \[
+   \text{Total trays} = 2 \text{ trays/day} \times 6 \text{ days} = 12 \text{ trays}
+   \]
+
+2. **Calculate the total number of cookies made:**
+   Each tray makes 12 cookies. Therefore, the total number of cookies made is:
+   \[
+   \text{Total cookies} = 12 \text{ trays} \times 12 \text{ cookies/tray} = 144 \text{ cookies}
+   \]
+
+3. **Calculate the total number of cookies eaten by Frank:**
+   Frank eats 1 cookie each day for 6 days. So, the total number of cookies eaten by Frank is:
+   \[
+   \text{Cookies eaten by Frank} = 1 \text{ cookie/day} \times 6 \text{ days} = 6 \text{ cookies}
+   \]
+
+4. **Calculate the total number of cookies eaten by Ted:**
+   When Ted comes over on the sixth day, he eats 4 cookies. Thus, the total number of cookies eaten by Ted is:
+   \[
+   \text{Cookies eaten by Ted} = 4 \text{ cookies}
+   \]
+
+5. **Calculate the total number of cookies eaten:**
+   Now we combine the cookies eaten by Frank and Ted:
+   \[
+   \text{Total cookies eaten} = \text{Cookies eaten by Frank} + \text{Cookies eaten by Ted} = 6 \text{ cookies} + 4 \text{ cookies} = 10 \text{ cookies}
+   \]
+
+6. **Calculate the total number of cookies left after Ted eats:**
+   We subtract the total number of cookies eaten from the total number of cookies made:
+   \[
+   \text{Cookies left} = \text{Total cookies} - \text{Total cookies eaten} = 144 \text{ cookies} - 10 \text{ cookies} = 134 \text{ cookies}
+   \]
+
+Therefore, when Ted leaves, there are 134 cookies left.
+</reasoning>
+<answer>134</answer>

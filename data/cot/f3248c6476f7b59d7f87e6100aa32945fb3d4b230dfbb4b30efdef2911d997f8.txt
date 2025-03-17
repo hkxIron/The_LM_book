@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we will first need to calculate the total number of walls in the house. We will do this by considering the number of walls in each group of rooms.
+
+1. **Calculate the total walls in the first group of rooms (5 rooms with 4 walls each):**
+   - Each room has 4 walls.
+   - There are 5 such rooms.
+   - So, we multiply the number of rooms by the number of walls per room:
+     \[
+     \text{Total walls in first group} = 5 \text{ rooms} \times 4 \text{ walls/room} = 20 \text{ walls}
+     \]
+
+2. **Calculate the total walls in the second group of rooms (4 rooms with 5 walls each):**
+   - Each room has 5 walls.
+   - There are 4 such rooms.
+   - So, we multiply the number of rooms by the number of walls per room:
+     \[
+     \text{Total walls in second group} = 4 \text{ rooms} \times 5 \text{ walls/room} = 20 \text{ walls}
+     \]
+
+3. **Calculate the overall total number of walls in the house:**
+   - We add the total walls from both groups:
+     \[
+     \text{Total walls in the house} = 20 \text{ walls (first group)} + 20 \text{ walls (second group)} = 40 \text{ walls}
+     \]
+
+4. **Determine how many walls each person should paint:**
+   - There are 5 people in Amanda's family.
+   - To find out how many walls each person should paint, we divide the total number of walls by the number of people:
+     \[
+     \text{Walls per person} = \frac{40 \text{ walls}}{5 \text{ people}} = 8 \text{ walls/person}
+     \]
+
+Each person in Amanda's family should paint 8 walls to evenly divide the work.
+</reasoning>
+<answer>8</answer>

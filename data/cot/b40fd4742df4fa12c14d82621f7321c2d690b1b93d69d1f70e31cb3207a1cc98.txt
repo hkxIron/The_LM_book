@@ -1,0 +1,26 @@
+<reasoning>
+Let's start by determining how many questions Ryan composes based on the number of questions Bill composes.
+
+1. **Bill's Questions**: Bill composes 20 questions.
+
+2. **Ryan's Questions**: Ryan composes twice as many questions as Bill. To find out how many Ryan composes, we calculate:
+   \[
+   \text{Ryan's Questions} = 2 \times \text{Bill's Questions} = 2 \times 20 = 40
+   \]
+   So, Ryan composes 40 questions.
+
+3. **Frank's Questions**: Frank composes three times as many questions as Ryan. To find out how many Frank composes, we calculate:
+   \[
+   \text{Frank's Questions} = 3 \times \text{Ryan's Questions} = 3 \times 40 = 120
+   \]
+   Therefore, Frank composes 120 questions.
+
+4. **Types of Problems**: Each person has to compose 4 different types of math problems in equal proportion. We need to determine how many problems of each type Frank composes. To do this, we divide Frank's total questions by the number of types:
+   \[
+   \text{Problems per Type} = \frac{\text{Frank's Questions}}{4} = \frac{120}{4} = 30
+   \]
+   Thus, Frank composes 30 problems of each type.
+
+Therefore, the number of problems of each type that Frank composes is 30.
+</reasoning>
+<answer>30</answer>

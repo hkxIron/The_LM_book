@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we need to determine how many hours it will take for the three men to complete the 5 jobs and then calculate their total earnings based on their hourly wage.
+
+1. **Understanding the work rate**: 
+   We know that 3 men can complete 1 job in 1 hour. Therefore, if they work together, they can complete the jobs at the same rate. 
+
+2. **Calculating time for 5 jobs**: 
+   Since it takes 3 men 1 hour to complete 1 job, for 5 jobs, they will take:
+   \[
+   \text{Time for 5 jobs} = 5 \text{ jobs} \times 1 \text{ hour/job} = 5 \text{ hours}
+   \]
+
+3. **Calculating total earnings**: 
+   Each man earns $10 per hour. Therefore, the total hourly wage for all 3 men together is:
+   \[
+   \text{Total hourly wage} = 3 \text{ men} \times 10 \text{ dollars/man} = 30 \text{ dollars/hour}
+   \]
+
+4. **Finding total earnings for 5 hours**:
+   Now we will calculate how much they earn for 5 hours of work:
+   \[
+   \text{Total earnings} = \text{Total hourly wage} \times \text{Total hours} = 30 \text{ dollars/hour} \times 5 \text{ hours} = 150 \text{ dollars}
+   \]
+
+Thus, the total amount of money the three will earn when they complete the jobs is $150.
+</reasoning>
+<answer>150</answer>

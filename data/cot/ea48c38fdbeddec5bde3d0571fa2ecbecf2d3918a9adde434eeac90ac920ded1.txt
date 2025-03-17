@@ -1,0 +1,40 @@
+<reasoning>
+To find the percentage of exercises that were pushups, we first need to determine the total number of exercises Emmett did.
+
+1. **Calculate the total number of exercises:**
+   - Emmett does 12 jumping jacks, 8 pushups, and 20 situps.
+   - To find the total, we add these numbers together:
+     \[
+     \text{Total exercises} = \text{Jumping jacks} + \text{Pushups} + \text{Situps} = 12 + 8 + 20
+     \]
+   - Performing the addition:
+     \[
+     12 + 8 = 20 \\
+     20 + 20 = 40
+     \]
+   - So, the total number of exercises is 40.
+
+2. **Determine the number of pushups:**
+   - Emmett did 8 pushups.
+
+3. **Calculate the percentage of exercises that were pushups:**
+   - The percentage can be calculated using the formula:
+     \[
+     \text{Percentage of pushups} = \left( \frac{\text{Number of pushups}}{\text{Total exercises}} \right) \times 100
+     \]
+   - Substituting the values we found:
+     \[
+     \text{Percentage of pushups} = \left( \frac{8}{40} \right) \times 100
+     \]
+   - First, calculate \(\frac{8}{40}\):
+     \[
+     \frac{8}{40} = 0.2
+     \]
+   - Now, multiply by 100 to convert it to a percentage:
+     \[
+     0.2 \times 100 = 20
+     \]
+
+Thus, the percentage of Emmett's exercises that were pushups is 20%.
+</reasoning>
+<answer>20</answer>

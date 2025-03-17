@@ -1,0 +1,53 @@
+<reasoning>
+To find out how much is spent on groceries for the whole apartment, we first need to determine how much each roommate is supposed to pay in total for rent, utilities, and groceries.
+
+1. **Calculate the total expenses for the apartment**:
+   - Rent: $1100
+   - Utilities: $114
+   - Total expenses = Rent + Utilities = $1100 + $114
+
+   Let's calculate this:
+   \[
+   Total\ expenses = 1100 + 114 = 1214
+   \]
+
+2. **Determine how much each roommate pays**:
+   Since there are two roommates who split the expenses equally:
+   \[
+   Each\ roommate\ pays = \frac{Total\ expenses}{2} = \frac{1214}{2}
+   \]
+
+   Now, let's calculate this:
+   \[
+   Each\ roommate\ pays = 607
+   \]
+
+3. **Find out how much one roommate paid for groceries**:
+   We know that one roommate paid a total of $757. We need to find out how much of that was for groceries. To do this, we will subtract the amount that the roommate should have paid from what they actually paid:
+   \[
+   Amount\ spent\ on\ groceries = Amount\ paid\ by\ roommate - Amount\ each\ roommate\ pays
+   \]
+   Substituting in the values:
+   \[
+   Amount\ spent\ on\ groceries = 757 - 607
+   \]
+
+   Now let's calculate this:
+   \[
+   Amount\ spent\ on\ groceries = 150
+   \]
+
+4. **Calculate the total grocery expenses for the apartment**:
+   Since the roommates split grocery expenses equally, the total amount spent on groceries for the whole apartment would be double what one roommate paid for groceries:
+   \[
+   Total\ groceries\ for\ apartment = 2 \times Amount\ spent\ on\ groceries = 2 \times 150
+   \]
+   
+   Let's calculate this:
+   \[
+   Total\ groceries\ for\ apartment = 300
+   \]
+
+Therefore, the total amount for groceries for the whole apartment is $300.
+</reasoning>
+<answer>300</answer>

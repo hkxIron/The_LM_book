@@ -1,0 +1,22 @@
+<reasoning>
+We will first calculate how much Tina makes during normal working hours and then calculate the overtime.
+
+1. Normal working hours:
+
+Tina works 8 hours per day without overtime. So, for 5 days, total hours would be 8 hours/day * 5 days = 40 hours.
+
+As Tina makes $18.00 an hour, she would make 40 hours * $18.00/hour = $720.00 for normal working hours in 5 days.
+
+2. Overtime:
+
+Tina works 2 hours overtime every day (10 hours total - 8 hours normal = 2 hours overtime). So, for 5 days, total overtime hours would be 2 hours/day * 5 days = 10 hours.
+
+Overtime is calculated as hourly wage + 1/2 your hourly wage, which is $18.00/hour + 1/2 * $18.00/hour = $27.00/hour.
+
+So, she would make 10 hours * $27.00/hour = $270.00 for overtime in 5 days.
+
+Finally, we add the normal working hours pay and the overtime pay to find out how much she makes in total in 5 days.
+
+$720.00 (normal pay) + $270.00 (overtime pay) = $990.00
+</reasoning>
+<answer>990</answer>

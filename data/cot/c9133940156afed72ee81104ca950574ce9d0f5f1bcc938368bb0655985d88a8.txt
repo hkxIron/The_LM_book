@@ -1,0 +1,22 @@
+<reasoning>
+To solve the problem, we need to determine how many goats Max can get by trading his coconuts through crabs.
+
+1. **Trade Coconuts for Crabs**:
+   - Max can trade 3 coconuts for 1 crab. 
+   - To find out how many crabs Max can get with 342 coconuts, we need to divide the total number of coconuts by the number of coconuts required for one crab:
+   \[
+   \text{Number of crabs} = \frac{342 \text{ coconuts}}{3 \text{ coconuts/crab}} = 114 \text{ crabs}
+   \]
+   Here, I divided 342 by 3 because each crab requires 3 coconuts in the trade.
+
+2. **Trade Crabs for Goats**:
+   - Next, Max can trade 6 crabs for 1 goat.
+   - Now, we need to determine how many goats he can get with the 114 crabs he has:
+   \[
+   \text{Number of goats} = \frac{114 \text{ crabs}}{6 \text{ crabs/goat}} = 19 \text{ goats}
+   \]
+   I divided 114 by 6 because each goat requires 6 crabs in the trade.
+
+By following these steps, we find that Max can convert all of his 342 coconuts into 19 goats.
+</reasoning>
+<answer>19</answer>

@@ -1,0 +1,47 @@
+<reasoning>
+To find the total number of sandstone blocks in the four-layer pyramid, we will first determine the number of blocks in each layer, starting from the top layer and working our way down.
+
+1. **Identify the top layer**: 
+   The top layer has 1 block.
+
+2. **Determine the number of blocks in the second layer**: 
+   Each subsequent layer has three times as many blocks as the layer above it. Therefore, the second layer will have:
+   \[
+   3 \times 1 = 3 \text{ blocks}
+   \]
+
+3. **Determine the number of blocks in the third layer**: 
+   The third layer will have three times the number of blocks in the second layer:
+   \[
+   3 \times 3 = 9 \text{ blocks}
+   \]
+
+4. **Determine the number of blocks in the fourth layer**: 
+   The fourth layer will have three times the number of blocks in the third layer:
+   \[
+   3 \times 9 = 27 \text{ blocks}
+   \]
+
+5. **Calculate the total number of blocks in the pyramid**: 
+   Now, we add the number of blocks in each layer together:
+   \[
+   1 + 3 + 9 + 27
+   \]
+
+   Performing the addition step by step:
+   - First, add 1 and 3:
+     \[
+     1 + 3 = 4
+     \]
+   - Next, add 9:
+     \[
+     4 + 9 = 13
+     \]
+   - Finally, add 27:
+     \[
+     13 + 27 = 40
+     \]
+
+Therefore, the total number of sandstone blocks in the pyramid is 40.
+</reasoning>
+<answer>40</answer>

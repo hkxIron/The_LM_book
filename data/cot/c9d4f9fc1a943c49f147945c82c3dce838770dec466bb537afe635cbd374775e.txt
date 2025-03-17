@@ -1,0 +1,42 @@
+<reasoning>
+To determine how much money Gloria will have left after buying the cabin, we first need to calculate how much money she can raise by selling her trees.
+
+1. **Calculate the total money from selling cypress trees:**
+   Gloria has 20 cypress trees, and she will get $100 for each tree.
+   \[
+   \text{Total from cypress trees} = 20 \times 100 = 2000
+   \]
+
+2. **Calculate the total money from selling pine trees:**
+   Gloria has 600 pine trees, and she will get $200 for each tree.
+   \[
+   \text{Total from pine trees} = 600 \times 200 = 120000
+   \]
+
+3. **Calculate the total money from selling maple trees:**
+   Gloria has 24 maple trees, and she will get $300 for each tree.
+   \[
+   \text{Total from maple trees} = 24 \times 300 = 7200
+   \]
+
+4. **Sum the total amounts from all tree sales:**
+   Now, we will add the amounts from cypress, pine, and maple trees to find out how much money she raises in total.
+   \[
+   \text{Total money from trees} = 2000 + 120000 + 7200 = 129200
+   \]
+
+5. **Calculate the total amount of money Gloria has:**
+   Gloria has $150 in cash in addition to the money she raises from selling the trees.
+   \[
+   \text{Total money available} = 150 + 129200 = 129350
+   \]
+
+6. **Calculate how much Gloria will have left after buying the cabin:**
+   The cost of the mountain cabin is $129,000. We will subtract this amount from the total money available.
+   \[
+   \text{Money left after buying the cabin} = 129350 - 129000 = 350
+   \]
+
+After performing all the calculations, we find that Gloria will have $350 left after purchasing the cabin.
+</reasoning>
+<answer>350</answer>

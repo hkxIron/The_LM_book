@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we will first determine the total amount of food available in terms of "person-days," which represents how many people can be fed for how many days.
+
+1. **Calculate the total provisions in person-days:**
+   - We have enough provisions for 300 people for 90 days.
+   - Therefore, the total amount of food can be calculated as:
+     \[
+     \text{Total provisions} = 300 \text{ people} \times 90 \text{ days} = 27000 \text{ person-days}
+     \]
+   - This means we have enough food to feed 27000 people for one day, or any combination thereof.
+
+2. **Calculate how much food has been used after 30 days:**
+   - In the first 30 days, all 300 people are present. The food consumed in that time is:
+     \[
+     \text{Food consumed} = 300 \text{ people} \times 30 \text{ days} = 9000 \text{ person-days}
+     \]
+
+3. **Determine how much food is left after 30 days:**
+   - Now, we subtract the food consumed from the total provisions:
+     \[
+     \text{Food left} = 27000 \text{ person-days} - 9000 \text{ person-days} = 18000 \text{ person-days}
+     \]
+
+4. **Adjust for the change in the number of people:**
+   - After 30 days, 100 people leave, so now there are:
+     \[
+     \text{Remaining people} = 300 \text{ people} - 100 \text{ people} = 200 \text{ people}
+     \]
+
+5. **Calculate how many more days the remaining provisions will last for the 200 people:**
+   - We can find out how many days the remaining food will last by dividing the remaining food by the number of people:
+     \[
+     \text{Days left} = \frac{\text{Food left}}{\text{Remaining people}} = \frac{18000 \text{ person-days}}{200 \text{ people}} = 90 \text{ days}
+     \]
+
+In conclusion, the remaining provisions will last for 90 more days after the 100 people leave the castle.
+</reasoning>
+<answer>90</answer>

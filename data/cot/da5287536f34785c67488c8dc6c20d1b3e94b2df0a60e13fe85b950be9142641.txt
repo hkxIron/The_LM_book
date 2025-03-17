@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the relationship between Eustace and Milford's ages**:
+   We know that Eustace is currently twice as old as Milford. We can represent Milford's current age as \( m \). Therefore, Eustace's current age can be expressed as \( 2m \).
+
+2. **Using the information about Eustace's age in 3 years**:
+   In 3 years, Eustace will be 39 years old. We can write an equation to represent this:
+   \[
+   2m + 3 = 39
+   \]
+   Here, \( 2m \) is Eustace's current age, and adding 3 accounts for the 3 years in the future.
+
+3. **Solving for Milford's current age**:
+   To find \( m \), we need to solve the equation we just formed. First, we can subtract 3 from both sides:
+   \[
+   2m = 39 - 3
+   \]
+   This simplifies to:
+   \[
+   2m = 36
+   \]
+
+4. **Dividing both sides by 2**:
+   To isolate \( m \), we divide both sides by 2:
+   \[
+   m = \frac{36}{2}
+   \]
+   This gives us:
+   \[
+   m = 18
+   \]
+   So, Milford's current age is 18 years old.
+
+5. **Finding Milford's age in the future**:
+   The problem asks for Milford's age in 3 years. We can find this by adding 3 to his current age:
+   \[
+   18 + 3 = 21
+   \]
+
+Therefore, after going through all the steps, we conclude that in 3 years, Milford will be 21 years old.
+</reasoning>
+<answer>21</answer>

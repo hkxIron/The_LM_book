@@ -1,0 +1,33 @@
+<reasoning>
+To determine how many bandages were left in the box after Peggy applied them to her knees, we will follow these steps:
+
+1. **Calculate the initial number of bandages in the box.**  
+   A dozen is 12, so two dozen is:
+   \[
+   2 \times 12 = 24
+   \]
+   Since the box has 8 less than two dozen, we subtract 8 from 24:
+   \[
+   24 - 8 = 16
+   \]
+   Therefore, there are initially 16 bandages in the box.
+
+2. **Calculate the total number of bandages Peggy used.**  
+   Peggy used 2 bandages on her left knee and 3 bandages on her right knee. We sum these amounts:
+   \[
+   2 + 3 = 5
+   \]
+   Thus, Peggy used a total of 5 bandages.
+
+3. **Determine the number of bandages left after Peggy used them.**  
+   We subtract the number of bandages Peggy used from the initial number of bandages:
+   \[
+   16 - 5 = 11
+   \]
+   Therefore, there are 11 bandages left in the box after Peggy finished applying them.
+
+Putting this all together:
+
+Initially, there were 16 bandages. After using 5 bandages for her knees, Peggy has 11 bandages remaining.
+</reasoning>
+<answer>11</answer>

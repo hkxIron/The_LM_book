@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the costs of each item based on the information given.
+
+1. **Cost of a movie ticket**: 
+   The movie ticket costs $8.
+
+2. **Cost of a bucket of popcorn**: 
+   The problem states that popcorn costs three dollars less than a ticket. Therefore, we calculate the price of the popcorn:
+   \[
+   \text{Cost of popcorn} = \text{Cost of ticket} - 3 = 8 - 3 = 5 \text{ dollars}
+   \]
+
+3. **Cost of a drink**: 
+   A drink costs a dollar more than the popcorn. So, we calculate the drink's price:
+   \[
+   \text{Cost of drink} = \text{Cost of popcorn} + 1 = 5 + 1 = 6 \text{ dollars}
+   \]
+
+4. **Cost of a box of candy**: 
+   The candy costs half as much as the drink. Thus, we find the price of the candy:
+   \[
+   \text{Cost of candy} = \frac{1}{2} \times \text{Cost of drink} = \frac{1}{2} \times 6 = 3 \text{ dollars}
+   \]
+
+Now, let's calculate the total cost if the customer buys each item separately:
+\[
+\text{Total cost} = \text{Cost of ticket} + \text{Cost of popcorn} + \text{Cost of drink} + \text{Cost of candy}
+\]
+Substituting the values we calculated:
+\[
+\text{Total cost} = 8 + 5 + 6 + 3 = 22 \text{ dollars}
+\]
+
+Next, we compare this total with the deal offered by the movie theater company, which is $20.
+
+Now, we find the savings by subtracting the deal price from the total normal cost:
+\[
+\text{Savings} = \text{Total cost} - \text{Deal price} = 22 - 20 = 2 \text{ dollars}
+\]
+
+Thus, the deal saves a customer 2 dollars when they buy the ticket, popcorn, drink, and candy normally.
+</reasoning>
+<answer>2</answer>

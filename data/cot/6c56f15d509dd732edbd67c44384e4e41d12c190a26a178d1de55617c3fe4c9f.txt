@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the total number of flowers initially planted**:
+   - Dane's two daughters each plant 5 flowers.
+   - Therefore, the total number of flowers planted is: 
+     \( 2 \text{ daughters} \times 5 \text{ flowers each} = 10 \text{ flowers} \).
+
+2. **Calculate the total number of flowers after growth**:
+   - The initial 10 flowers grew into 20 more flowers.
+   - So, the total number of flowers after growth is:
+     \( 10 \text{ initial flowers} + 20 \text{ new flowers} = 30 \text{ flowers} \).
+
+3. **Account for the flowers that died**:
+   - Out of the 30 flowers, 10 died.
+   - Therefore, the number of flowers that remained is:
+     \( 30 \text{ flowers} - 10 \text{ dead flowers} = 20 \text{ flowers} \).
+
+4. **Distributing the remaining flowers into baskets**:
+   - The 20 remaining flowers are split between 5 different baskets.
+   - To find out how many flowers go into each basket, we divide the total number of flowers by the number of baskets:
+     \( \frac{20 \text{ flowers}}{5 \text{ baskets}} = 4 \text{ flowers per basket} \).
+
+Thus, each basket contains 4 flowers.
+</reasoning>
+<answer>4</answer>

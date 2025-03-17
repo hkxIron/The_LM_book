@@ -1,0 +1,44 @@
+<reasoning>
+To determine how many more blue tickets Tom Sawyer needs to earn a total of 10 yellow tickets to win a Bible, we need to follow these steps:
+
+1. **Calculate how many yellow tickets Tom has:**
+   Tom currently has 8 yellow tickets.
+
+2. **Determine how many more yellow tickets are needed:**
+   Since he needs a total of 10 yellow tickets, we calculate:
+   \[
+   10 - 8 = 2
+   \]
+   Tom needs 2 more yellow tickets.
+
+3. **Calculate how many red tickets are needed to obtain the additional yellow tickets:**
+   Each yellow ticket requires 10 red tickets, so to find out how many red tickets are needed for 2 yellow tickets, we calculate:
+   \[
+   2 \times 10 = 20
+   \]
+   Therefore, Tom needs 20 red tickets in total.
+
+4. **Determine how many additional red tickets are needed:**
+   Tom currently has 3 red tickets, so the number of additional red tickets needed is:
+   \[
+   20 - 3 = 17
+   \]
+   Tom needs 17 more red tickets.
+
+5. **Calculate how many blue tickets are needed to obtain the additional red tickets:**
+   Each red ticket requires 10 blue tickets. Therefore, to find out how many blue tickets are needed for 17 red tickets, we calculate:
+   \[
+   17 \times 10 = 170
+   \]
+   Tom needs 170 blue tickets in total to obtain 17 additional red tickets.
+
+6. **Determine how many additional blue tickets are needed:**
+   Tom currently has 7 blue tickets, so the number of additional blue tickets needed is:
+   \[
+   170 - 7 = 163
+   \]
+   Tom needs 163 more blue tickets.
+
+Thus, the final calculation shows that Tom Sawyer would need 163 more blue tickets to earn enough red tickets to eventually trade for the additional yellow tickets required to win the Bible.
+</reasoning>
+<answer>163</answer>

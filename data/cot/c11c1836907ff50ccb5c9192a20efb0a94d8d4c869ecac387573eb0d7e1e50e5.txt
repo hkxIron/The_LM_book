@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we first need to understand the current ages of Adam and Tom:
+
+- Adam's current age = 8 years
+- Tom's current age = 12 years
+
+Next, we can find their combined current age:
+
+Combined current age = Adam's age + Tom's age
+Combined current age = 8 + 12 = 20 years
+
+Now, we need to find out how many years from now their combined age will be 44 years. Let's denote the number of years from now as \( x \).
+
+In \( x \) years, Adam's age will be:
+- Adam's future age = 8 + \( x \)
+
+In \( x \) years, Tom's age will be:
+- Tom's future age = 12 + \( x \)
+
+Thus, their combined age in \( x \) years will be:
+Combined future age = (8 + \( x \)) + (12 + \( x \))
+Combined future age = 20 + 2\( x \)
+
+We want to set this equal to 44 years to find \( x \):
+20 + 2\( x \) = 44
+
+Next, we solve for \( x \):
+1. Subtract 20 from both sides:
+   2\( x \) = 44 - 20
+   2\( x \) = 24
+
+2. Now, divide both sides by 2:
+   \( x \) = 24 / 2
+   \( x \) = 12
+
+Thus, in 12 years, their combined age will be 44 years. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>12</answer>

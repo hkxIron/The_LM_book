@@ -1,0 +1,23 @@
+<reasoning>
+To find Rhett's monthly rent expense, we need to follow these steps:
+
+1. **Calculate Rhett's net monthly salary after taxes**:
+   - Rhett's gross salary is $5000.
+   - The tax rate is 10%, so we will calculate the tax amount by multiplying his gross salary by the tax rate.
+   - Tax amount = 10% of $5000 = 0.10 * 5000 = $500.
+   - Now, we subtract the tax amount from the gross salary to find the net salary.
+   - Net salary = Gross salary - Tax amount = $5000 - $500 = $4500.
+
+2. **Determine how much money Rhett will use from his next month's salary to pay the rent**:
+   - It is stated that Rhett will pay the total cost of his late rent payments with 3/5 of his next month's salary.
+   - We will calculate 3/5 of his net salary.
+   - 3/5 of $4500 = (3/5) * 4500 = 2700.
+
+3. **Understanding the rent payments**:
+   - Since Rhett has been late on two months of rent, the amount $2700 represents the total rent for those two months.
+   - To find the monthly rent expense, we divide the total payment for two months by 2.
+   - Monthly rent expense = Total rent for two months / 2 = $2700 / 2 = $1350.
+
+Thus, Rhett's rent expense per month is $1350.
+</reasoning>
+<answer>1350</answer>

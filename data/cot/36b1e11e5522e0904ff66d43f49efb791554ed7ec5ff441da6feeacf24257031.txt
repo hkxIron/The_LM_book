@@ -1,0 +1,41 @@
+<reasoning>
+To determine how much Luca paid for his drink, let's break down his expenses step by step.
+
+1. **Calculate the discount from the coupon**: 
+   The original price of the sandwich is $8. The coupon gives him a discount of a quarter of the price. 
+   - A quarter of $8 is calculated as:
+     \[
+     \text{Discount} = \frac{1}{4} \times 8 = 2
+     \]
+   - Therefore, the price of the sandwich after applying the coupon is:
+     \[
+     \text{Sandwich Price After Discount} = 8 - 2 = 6
+     \]
+
+2. **Add the cost of the avocado upgrade**: 
+   The upgrade for sliced avocado costs an additional $1. So, we need to add this to the discounted sandwich price:
+   \[
+   \text{Total Sandwich Cost} = 6 + 1 = 7
+   \]
+
+3. **Add the cost of the salad**: 
+   The salad costs $3. Now, we will combine this cost with the sandwich cost:
+   \[
+   \text{Total Cost of Sandwich and Salad} = 7 + 3 = 10
+   \]
+
+4. **Set up the equation for the total lunch bill**: 
+   We know that Luca's total lunch bill was $12. Therefore, if we let \( x \) be the cost of the drink, we can write the equation:
+   \[
+   10 + x = 12
+   \]
+
+5. **Solve for the cost of the drink**: 
+   To find \( x \), we subtract 10 from both sides of the equation:
+   \[
+   x = 12 - 10 = 2
+   \]
+
+Thus, Luca paid $2 for his drink.
+</reasoning>
+<answer>2</answer>

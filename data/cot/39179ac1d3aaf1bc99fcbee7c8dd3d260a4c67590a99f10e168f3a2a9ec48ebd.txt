@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Area of the Cloth**: Fatima starts with a piece of cloth that is 100 square inches.
+
+2. **First Cut**: When she cuts the cloth in half, she divides the total area by 2. 
+   \[
+   \text{Area after first cut} = \frac{100 \, \text{square inches}}{2} = 50 \, \text{square inches}
+   \]
+   So after the first cut, she keeps 50 square inches and donates 50 square inches.
+
+3. **Second Cut**: Fatima now has 50 square inches of cloth left. She will cut this piece in half as well. Again, she divides the area by 2:
+   \[
+   \text{Area after second cut} = \frac{50 \, \text{square inches}}{2} = 25 \, \text{square inches}
+   \]
+   After the second cut, she keeps 25 square inches and donates 25 square inches.
+
+4. **Total Cloth Donated**: Now we need to find out how much cloth she has donated in total. She donated 50 square inches after the first cut and 25 square inches after the second cut. We add these two amounts together:
+   \[
+   \text{Total donated} = 50 \, \text{square inches} + 25 \, \text{square inches} = 75 \, \text{square inches}
+   \]
+
+Now we can conclude that Fatima has donated a total of 75 square inches of cloth.
+</reasoning>
+<answer>75</answer>

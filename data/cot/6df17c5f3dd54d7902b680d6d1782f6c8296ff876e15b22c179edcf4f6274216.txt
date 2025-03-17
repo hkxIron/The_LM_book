@@ -1,0 +1,47 @@
+<reasoning>
+Let's define the ages of Ryanne and Hezekiah with variables. 
+
+1. Let \( H \) represent Hezekiah's age.
+2. Since Ryanne is 7 years older than Hezekiah, we can express Ryanne's age as \( H + 7 \).
+
+Now, according to the problem, the combined ages of Ryanne and Hezekiah equal 15 years. We can write this as an equation:
+
+\[
+H + (H + 7) = 15
+\]
+
+3. Now, we'll simplify the equation. Combine the terms on the left side:
+
+\[
+H + H + 7 = 15
+\]
+\[
+2H + 7 = 15
+\]
+
+4. Next, we need to isolate \( H \). To do this, we will first subtract 7 from both sides of the equation:
+
+\[
+2H + 7 - 7 = 15 - 7
+\]
+\[
+2H = 8
+\]
+
+5. Now, we will divide both sides by 2 to solve for \( H \):
+
+\[
+H = \frac{8}{2}
+\]
+\[
+H = 4
+\]
+
+So, Hezekiah is 4 years old. To confirm, we can check Ryanne's age:
+
+- Ryanne's age would be \( H + 7 = 4 + 7 = 11 \).
+- Together, their ages are \( 4 + 11 = 15 \), which matches the given condition.
+
+Therefore, Hezekiah's age is confirmed.
+</reasoning>
+<answer>4</answer>

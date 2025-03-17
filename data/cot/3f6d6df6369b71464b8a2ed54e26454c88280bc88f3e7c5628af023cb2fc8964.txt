@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we need to calculate the heights of Itzayana, Zora, and Brixton based on the information given about their relationships to each other's heights. 
+
+1. We know that Zara is 64 inches tall and has the same height as Brixton. 
+   Therefore, we can say:
+   Brixton's height = Zara's height = 64 inches.
+
+2. Next, we know that Zora is 8 inches shorter than Brixton. Since Brixton is 64 inches tall, we can calculate Zora's height:
+   Zora's height = Brixton's height - 8 inches = 64 inches - 8 inches = 56 inches.
+
+3. Itzayana is 4 inches taller than Zora. Now that we know Zora's height, we can calculate Itzayana's height:
+   Itzayana's height = Zora's height + 4 inches = 56 inches + 4 inches = 60 inches.
+
+Now we have the heights of all four people:
+- Zara: 64 inches
+- Brixton: 64 inches
+- Zora: 56 inches
+- Itzayana: 60 inches
+
+4. To find the average height of the four people, we will sum their heights and divide by the number of people (which is 4):
+   Total height = Zara's height + Brixton's height + Zora's height + Itzayana's height
+   Total height = 64 inches + 64 inches + 56 inches + 60 inches
+   Total height = 244 inches.
+
+5. Now, we divide the total height by the number of people to find the average:
+   Average height = Total height / Number of people = 244 inches / 4 = 61 inches.
+
+Therefore, the average height of the four people is 61 inches.
+</reasoning>
+<answer>61</answer>

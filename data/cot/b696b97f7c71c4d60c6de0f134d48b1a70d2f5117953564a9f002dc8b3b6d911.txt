@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we need to determine the relationship between the capacity of Jill's basket and Jack's basket, and then find out how many times Jack's current number of apples can fit into Jill's basket.
+
+1. **Determine the full capacity of Jack's basket**: 
+   - Jack's basket is full when it has 12 apples. 
+   - However, currently, there is space for 4 more apples, which means he currently has:
+     \[
+     \text{Current apples} = \text{Full capacity} - \text{Space left} = 12 - 4 = 8 \text{ apples}
+     \]
+
+2. **Determine the capacity of Jill's basket**:
+   - We know that Jill's basket can hold twice as much as Jack's basket when both are full. Therefore, if Jack's basket can hold 12 apples, then Jill's basket can hold:
+     \[
+     \text{Capacity of Jill's basket} = 2 \times \text{Capacity of Jack's basket} = 2 \times 12 = 24 \text{ apples}
+     \]
+
+3. **Calculate how many times Jack's current number of apples fits into Jill's basket**:
+   - We need to see how many times Jack's current number of apples (which is 8) can fit into Jill's basket (which has a capacity of 24). This can be calculated by dividing the capacity of Jill's basket by Jack's current number of apples:
+     \[
+     \text{Number of times} = \frac{\text{Capacity of Jill's basket}}{\text{Current apples of Jack}} = \frac{24}{8} = 3
+     \]
+
+Thus, Jill's basket can hold Jack's current number of apples 3 times.
+</reasoning>
+<answer>3</answer>

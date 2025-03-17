@@ -1,0 +1,34 @@
+<reasoning>
+Let's start by establishing what we know from the problem:
+
+1. Heath's current age is 16 years old.
+2. We need to find Jude's current age, which we will call \( J \).
+3. In 5 years, Heath will be 3 times as old as Jude.
+
+Now, let's calculate Heath’s age in 5 years:
+- Heath’s age in 5 years = Current age + 5 years = \( 16 + 5 = 21 \) years old.
+
+Next, we will calculate Jude’s age in 5 years:
+- Jude’s age in 5 years = Current age + 5 years = \( J + 5 \).
+
+According to the problem, in 5 years, Heath will be 3 times as old as Jude. We can write this as an equation:
+\[ 21 = 3(J + 5) \]
+
+Now, we will solve this equation step by step:
+
+1. Start by distributing the 3 on the right side:
+   \[ 21 = 3J + 15 \]
+
+2. Now, we need to isolate \( J \). First, subtract 15 from both sides:
+   \[ 21 - 15 = 3J \]
+   \[ 6 = 3J \]
+
+3. Finally, divide both sides by 3 to solve for \( J \):
+   \[ J = \frac{6}{3} = 2 \]
+
+Thus, Jude is currently 2 years old.
+
+Therefore, putting everything together:
+Jude's current age is 2 years old.
+</reasoning>
+<answer>2</answer>

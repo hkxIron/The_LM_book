@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to find the population of Salem. According to the problem, Salem's population is 15 times the size of Leesburg's population.
+
+1. **Calculate Salem's population:**
+   - We know Leesburg has 58940 people.
+   - Therefore, Salem's population = 15 * Leesburg's population
+   \[
+   \text{Salem's population} = 15 \times 58940 = 884100
+   \]
+
+2. **Adjust for the people moving out of Salem:**
+   - If 130000 people move out of Salem, we need to subtract this from Salem's current population.
+   \[
+   \text{New Salem's population} = 884100 - 130000 = 754100
+   \]
+
+3. **Calculate the number of women in Salem:**
+   - The problem states that half of Salem's population is women.
+   \[
+   \text{Number of women in Salem} = \frac{1}{2} \times \text{New Salem's population}
+   \]
+   \[
+   \text{Number of women in Salem} = \frac{1}{2} \times 754100 = 377050
+   \]
+
+Therefore, after following these steps and calculations, we find the number of women living in Salem.
+</reasoning>
+<answer>377050</answer>

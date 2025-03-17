@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we need to determine how many streetlights will be used and how many will remain unused.
+
+1. **Identify the total number of streetlights bought**: The city council bought 200 streetlights.
+
+2. **Determine the number of squares**: There are 15 squares in New York.
+
+3. **Identify how many streetlights each square will receive**: Each square will have 12 new streetlights.
+
+4. **Calculate the total number of streetlights needed for the squares**: 
+   We multiply the number of squares by the number of streetlights per square:
+   \[
+   \text{Total streetlights used} = \text{Number of squares} \times \text{Streetlights per square} = 15 \times 12
+   \]
+
+   Performing the calculation:
+   \[
+   15 \times 12 = 180
+   \]
+   This means that 180 streetlights will be used for the squares.
+
+5. **Calculate the number of unused streetlights**: 
+   To find the number of unused streetlights, we subtract the total streetlights used from the total streetlights bought:
+   \[
+   \text{Unused streetlights} = \text{Total streetlights bought} - \text{Total streetlights used} = 200 - 180
+   \]
+
+   Performing the calculation:
+   \[
+   200 - 180 = 20
+   \]
+   This means there will be 20 unused streetlights remaining.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To find the average speed in miles per hour, we can use the formula for speed, which is:
+
+\[ \text{Speed} = \frac{\text{Distance}}{\text{Time}} \]
+
+**Step 1: Identify the distance and time.**
+- The distance you ran is 12 miles.
+- The time taken is 90 minutes.
+
+**Step 2: Convert the time from minutes to hours.**
+Since speed is typically measured in miles per hour, we need to convert the time from minutes to hours. There are 60 minutes in an hour, so we convert 90 minutes to hours by dividing by 60:
+
+\[ \text{Time in hours} = \frac{90 \text{ minutes}}{60} = 1.5 \text{ hours} \]
+
+**Step 3: Calculate the average speed using the formula.**
+Now that we have the distance and the time in the correct units, we can calculate the average speed:
+
+\[ \text{Average Speed} = \frac{12 \text{ miles}}{1.5 \text{ hours}} \]
+
+**Step 4: Perform the division.**
+To calculate \( \frac{12}{1.5} \), we can perform the division:
+
+\[ 12 \div 1.5 = 8 \]
+
+This means the average speed is 8 miles per hour.
+
+Therefore, I calculated the average speed by converting the time to hours and using the speed formula to find the result.
+</reasoning>
+<answer>8</answer>

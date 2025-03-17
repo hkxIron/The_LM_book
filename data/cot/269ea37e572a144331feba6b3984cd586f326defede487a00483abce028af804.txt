@@ -1,0 +1,36 @@
+<reasoning>
+To find Dorothy's profit, we first need to determine her total revenue from selling the doughnuts and then subtract her costs.
+
+1. **Calculate Total Revenue**: 
+   - Dorothy sells each doughnut for $3.
+   - She made 25 doughnuts.
+   - To find the total revenue, we multiply the number of doughnuts by the price per doughnut:
+     \[
+     \text{Total Revenue} = \text{Number of Doughnuts} \times \text{Price per Doughnut}
+     \]
+     \[
+     \text{Total Revenue} = 25 \times 3
+     \]
+     \[
+     \text{Total Revenue} = 75
+     \]
+
+2. **Determine Costs**: 
+   - Dorothy spent $53 on the ingredients for the doughnuts.
+   - This amount represents her total costs.
+
+3. **Calculate Profit**: 
+   - Profit is calculated by subtracting total costs from total revenue:
+     \[
+     \text{Profit} = \text{Total Revenue} - \text{Total Costs}
+     \]
+     \[
+     \text{Profit} = 75 - 53
+     \]
+     \[
+     \text{Profit} = 22
+     \]
+
+Thus, after performing the calculations, we find that Dorothy's profit from selling the doughnuts is $22.
+</reasoning>
+<answer>22</answer>

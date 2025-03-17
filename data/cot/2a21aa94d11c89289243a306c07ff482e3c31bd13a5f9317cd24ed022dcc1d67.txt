@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the initial number of games Neil had**: According to the problem, Neil initially had 7 games.
+
+2. **Determine how many games Neil has after receiving games from Henry**: Henry gave Neil 6 games. So, we need to add those 6 games to the initial 7 games that Neil had:
+   \[
+   \text{Games Neil has now} = 7 + 6 = 13
+   \]
+
+3. **Relate the number of games Henry has to Neil's current total**: The problem states that after giving away the games, Henry has 4 times more games than Neil. Thus, we can express the number of games Henry has now as:
+   \[
+   \text{Games Henry has now} = 4 \times \text{Games Neil has now} = 4 \times 13 = 52
+   \]
+
+4. **Calculate how many games Henry had at first**: Since Henry gave away 6 games to Neil, to find out how many games Henry had at first, we need to add the 6 games he gave away to the number of games he has now:
+   \[
+   \text{Games Henry had at first} = \text{Games Henry has now} + 6 = 52 + 6 = 58
+   \]
+
+Thus, after all these calculations, we find that Henry initially had 58 games.
+</reasoning>
+<answer>58</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many points the first-place team beat Joe's team by, we first need to calculate the points earned by both teams.
+
+**Step 1: Calculate Joe's team's points.**
+- Joe's team won 1 game, which gives them:
+  \[
+  1 \text{ win} \times 3 \text{ points/win} = 3 \text{ points}
+  \]
+- Joe's team drew 3 games, which gives them:
+  \[
+  3 \text{ draws} \times 1 \text{ point/draw} = 3 \text{ points}
+  \]
+- Now, we add the points from wins and draws together:
+  \[
+  \text{Total points for Joe's team} = 3 \text{ points (from wins)} + 3 \text{ points (from draws)} = 6 \text{ points}
+  \]
+
+**Step 2: Calculate the first-place team's points.**
+- The first-place team won 2 games, which gives them:
+  \[
+  2 \text{ wins} \times 3 \text{ points/win} = 6 \text{ points}
+  \]
+- The first-place team tied 2 games, which gives them:
+  \[
+  2 \text{ draws} \times 1 \text{ point/draw} = 2 \text{ points}
+  \]
+- Now, we add the points from wins and draws together:
+  \[
+  \text{Total points for first-place team} = 6 \text{ points (from wins)} + 2 \text{ points (from draws)} = 8 \text{ points}
+  \]
+
+**Step 3: Calculate the difference in points between the first-place team and Joe's team.**
+- Now, we find out how many more points the first-place team has compared to Joe's team:
+  \[
+  \text{Difference in points} = \text{Points of first-place team} - \text{Points of Joe's team} = 8 \text{ points} - 6 \text{ points} = 2 \text{ points}
+  \]
+
+Thus, the first-place team beat Joe's team by 2 points.
+</reasoning>
+<answer>2</answer>

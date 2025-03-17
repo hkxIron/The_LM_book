@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, we first need to determine how many miles per gallon Martha's car gets. 
+
+1. **Identify Darlene's car fuel efficiency**: Darlene's car gets 20 miles/gallon. 
+
+2. **Calculate Martha's car fuel efficiency**: Since Martha's car gets half as many miles per gallon as Darlene’s car, we need to divide Darlene's fuel efficiency by 2. 
+   \[
+   \text{Martha's miles/gallon} = \frac{20 \text{ miles/gallon}}{2} = 10 \text{ miles/gallon}
+   \]
+   So, Martha's car gets 10 miles per gallon.
+
+3. **Determine the distance of the trip**: The trip is 300 miles long.
+
+4. **Calculate the number of gallons required for the trip**: To find out how many gallons of fuel Martha's car requires for the 300-mile trip, we divide the total distance by the miles per gallon that Martha's car achieves.
+   \[
+   \text{Gallons required} = \frac{300 \text{ miles}}{10 \text{ miles/gallon}} = 30 \text{ gallons}
+   \]
+
+Thus, Martha's car requires 30 gallons to make the 300-mile trip.
+</reasoning>
+<answer>30</answer>

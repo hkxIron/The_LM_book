@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we start by clarifying the information given:
+
+1. We have a rope that is 1165 cm long.
+2. This rope is cut into a total of 154 pieces.
+3. Out of these 154 pieces, 150 pieces are equally sized, while the remaining 4 pieces (since 154 - 150 = 4) are each 100 mm long.
+
+**Step 1: Convert the length of the rope from centimeters to millimeters.**
+- We know that 1 cm = 10 mm. Therefore, to convert 1165 cm to millimeters:
+  \[
+  1165 \text{ cm} \times 10 \text{ mm/cm} = 11650 \text{ mm}
+  \]
+  
+**Step 2: Calculate the total length of the 4 pieces that are 100 mm each.**
+- Since there are 4 pieces, each measuring 100 mm, the total length of these pieces is:
+  \[
+  4 \text{ pieces} \times 100 \text{ mm/piece} = 400 \text{ mm}
+  \]
+
+**Step 3: Subtract the total length of the 4 pieces from the total length of the rope.**
+- We need to find out how much length is left for the 150 equal pieces after accounting for the 400 mm used by the 4 pieces:
+  \[
+  11650 \text{ mm} - 400 \text{ mm} = 11250 \text{ mm}
+  \]
+
+**Step 4: Calculate the length of each of the 150 equal pieces.**
+- To find the length of each of the 150 equal pieces, we divide the remaining length (11250 mm) by the number of equal pieces (150):
+  \[
+  \frac{11250 \text{ mm}}{150 \text{ pieces}} = 75 \text{ mm/piece}
+  \]
+
+Thus, each of the 150 equal pieces is 75 mm long.
+</reasoning>
+<answer>75</answer>

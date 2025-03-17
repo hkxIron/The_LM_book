@@ -1,0 +1,40 @@
+<reasoning>
+To calculate Laran's profit over a 5-day school week, we need to determine her total revenue and total costs for the week, and then subtract the total costs from the total revenue.
+
+1. **Determine the daily sales**:
+   - Laran sells 5 posters each day.
+   - Out of these, 2 are large posters and 3 are small posters (since 5 - 2 = 3).
+
+2. **Calculate daily revenue**:
+   - **Revenue from large posters**: 
+     - Large posters sell for $10 each.
+     - Therefore, revenue from large posters per day = 2 large posters × $10/poster = $20.
+   - **Revenue from small posters**: 
+     - Small posters sell for $6 each.
+     - Therefore, revenue from small posters per day = 3 small posters × $6/poster = $18.
+   - **Total daily revenue**: 
+     - Total revenue = Revenue from large posters + Revenue from small posters = $20 + $18 = $38.
+
+3. **Calculate total revenue for the week**:
+   - Laran operates for 5 days a week.
+   - Total revenue for the week = Daily revenue × Number of days = $38 × 5 = $190.
+
+4. **Determine daily costs**:
+   - **Cost of large posters**: 
+     - Cost to produce each large poster = $5.
+     - Therefore, cost for large posters per day = 2 large posters × $5/poster = $10.
+   - **Cost of small posters**: 
+     - Cost to produce each small poster = $3.
+     - Therefore, cost for small posters per day = 3 small posters × $3/poster = $9.
+   - **Total daily costs**: 
+     - Total costs = Cost for large posters + Cost for small posters = $10 + $9 = $19.
+
+5. **Calculate total costs for the week**:
+   - Total costs for the week = Daily costs × Number of days = $19 × 5 = $95.
+
+6. **Calculate profit for the week**:
+   - Profit = Total revenue - Total costs = $190 - $95 = $95.
+
+Therefore, Laran's profit for the 5-day school week is $95.
+</reasoning>
+<answer>95</answer>

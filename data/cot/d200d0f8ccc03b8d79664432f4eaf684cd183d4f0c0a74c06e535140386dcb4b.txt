@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we first need to determine how many shoes Codger needs in total to have 5 complete 3-piece sets of shoes.
+
+1. **Calculate the total number of shoes for 5 sets**: 
+   Since each set consists of 3 shoes and Codger wants 5 sets, we multiply the number of sets by the number of shoes per set:
+   \[
+   5 \text{ sets} \times 3 \text{ shoes/set} = 15 \text{ shoes}
+   \]
+   Therefore, Codger needs a total of 15 shoes.
+
+2. **Determine how many shoes he currently owns**: 
+   Codger already owns a 3-piece set of shoes, which means he currently has:
+   \[
+   3 \text{ shoes}
+   \]
+   
+3. **Calculate how many additional shoes he needs**: 
+   To find out how many more shoes Codger needs to buy, we subtract the number of shoes he currently has from the total number of shoes he needs:
+   \[
+   15 \text{ shoes} - 3 \text{ shoes} = 12 \text{ shoes}
+   \]
+   This means he needs to buy 12 additional shoes.
+
+4. **Determine how many pairs of shoes he needs to buy**: 
+   Since shoes are sold in pairs, we need to find out how many pairs are needed for the 12 shoes. A pair consists of 2 shoes, so we divide the total number of shoes needed by 2:
+   \[
+   \frac{12 \text{ shoes}}{2 \text{ shoes/pair}} = 6 \text{ pairs}
+   \]
+
+Thus, Codger needs to buy 6 pairs of shoes to have a total of 5 complete 3-piece sets.
+</reasoning>
+<answer>6</answer>

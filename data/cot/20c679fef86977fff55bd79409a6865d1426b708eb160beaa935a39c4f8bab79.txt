@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, I'll break it down step by step.
+
+1. **Determine the number of mushrooms picked on the first day**: 
+   - They sold mushrooms for a total of $58 at a price of $2 per mushroom.
+   - To find the number of mushrooms, I divide the total earnings by the price per mushroom:
+   \[
+   \text{Number of mushrooms on the first day} = \frac{58}{2} = 29
+   \]
+
+2. **Find the number of mushrooms picked on the second day**: 
+   - According to the problem, they picked 12 mushrooms on the second day.
+   - So, the number of mushrooms on the second day is 12.
+
+3. **Calculate the number of mushrooms picked on the third day**: 
+   - They picked double the number of mushrooms they picked on the second day.
+   - Therefore, the number of mushrooms on the third day is:
+   \[
+   \text{Number of mushrooms on the third day} = 2 \times 12 = 24
+   \]
+
+4. **Calculate the total number of mushrooms picked over the three days**:
+   - Now, I will add up the number of mushrooms picked on each day:
+   \[
+   \text{Total mushrooms} = \text{Mushrooms on first day} + \text{Mushrooms on second day} + \text{Mushrooms on third day}
+   \]
+   \[
+   \text{Total mushrooms} = 29 + 12 + 24
+   \]
+   \[
+   \text{Total mushrooms} = 65
+   \]
+
+Therefore, the total number of mushrooms they picked during the trip is 65.
+</reasoning>
+<answer>65</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+To find the difference in percentage points between the percentage of nails painted blue and the percentage painted striped, we first need to identify how many nails are painted each color.
+
+1. **Total nails**: Jill has a total of 20 toenails and fingernails.
+
+2. **Nails painted blue**: Jill paints 8 of her nails blue.
+
+3. **Nails painted purple**: Jill paints 6 of her nails purple.
+
+4. **Calculating nails painted striped**: 
+   - First, we need to find out how many nails are left after accounting for the nails painted blue and purple.
+   - Total nails = 20
+   - Nails painted blue = 8
+   - Nails painted purple = 6
+   - Nails painted striped = Total nails - (Nails painted blue + Nails painted purple)
+   - Nails painted striped = 20 - (8 + 6)
+   - Nails painted striped = 20 - 14 = 6
+
+5. **Calculating the percentage of nails painted blue**:
+   - Percentage of nails painted blue = (Number of blue nails / Total nails) × 100
+   - Percentage of nails painted blue = (8 / 20) × 100 = 40%
+
+6. **Calculating the percentage of nails painted striped**:
+   - Percentage of nails painted striped = (Number of striped nails / Total nails) × 100
+   - Percentage of nails painted striped = (6 / 20) × 100 = 30%
+
+7. **Finding the difference in percentage points**:
+   - Difference = Percentage of nails painted blue - Percentage of nails painted striped
+   - Difference = 40% - 30% = 10 percentage points
+
+Therefore, the difference in percentage points between the percentage of nails painted blue and the percentage painted striped is 10.
+</reasoning>
+<answer>10</answer>

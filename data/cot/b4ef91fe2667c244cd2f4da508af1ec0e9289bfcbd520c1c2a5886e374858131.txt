@@ -1,0 +1,32 @@
+<reasoning>
+Let's start solving the problem step by step.
+
+1. **Determine Mandy's age when she started reading**: Mandy started reading at 6 years old. 
+
+2. **Calculate her age when she was twice that age**: If she was 6 years old, twice that age would be 6 * 2 = 12 years old.
+
+3. **Determine the length of the books she read at age 12**: At age 6, she read books with 8 pages. By the time she was 12, the books were 5 times longer. So, we calculate the length of those books as follows:
+   \[
+   8 \text{ pages} \times 5 = 40 \text{ pages}
+   \]
+
+4. **Calculate her age 8 years later**: If she was 12 years old and 8 years later, she would be:
+   \[
+   12 + 8 = 20 \text{ years old}
+   \]
+
+5. **Determine the length of the books she read at age 20**: At age 12, she read books with 40 pages. Now, we need to find out how long the books were when she was 20. The books were 3 times longer than the ones she read at age 12:
+   \[
+   40 \text{ pages} \times 3 = 120 \text{ pages}
+   \]
+
+6. **Calculate her current age**: Presently, she reads books that are 4 times longer than the ones at age 20. To know her current age, we can assume she has continued reading after age 20. However, the problem does not specify that she is currently at a specific age. We just need to find the current book length based on the previous reading.
+
+7. **Determine the length of the books she reads now**: Taking the books she read at age 20 (120 pages) and calculating how long the current books are:
+   \[
+   120 \text{ pages} \times 4 = 480 \text{ pages}
+   \]
+
+Therefore, Mandy currently reads books that have 480 pages.
+</reasoning>
+<answer>480</answer>

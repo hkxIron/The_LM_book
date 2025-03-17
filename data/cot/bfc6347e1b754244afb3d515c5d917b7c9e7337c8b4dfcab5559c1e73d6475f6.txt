@@ -1,0 +1,20 @@
+<reasoning>
+To solve this problem, we need to determine the number of kittens based on the information given about the number of puppies.
+
+1. First, we identify the number of puppies at the shelter, which is given as 32.
+
+2. Next, we need to calculate two times the number of puppies. This is done by multiplying the number of puppies (32) by 2:
+   \[
+   2 \times 32 = 64
+   \]
+   This tells us that twice the number of puppies is 64.
+
+3. The problem states that there are 14 more kittens than this amount (64). To find the total number of kittens, we add 14 to the doubled number of puppies:
+   \[
+   64 + 14 = 78
+   \]
+   This calculation shows that the total number of kittens is 78.
+
+Therefore, we have followed the steps to find that the number of kittens is based on the number of puppies, and we have calculated it correctly.
+</reasoning>
+<answer>78</answer>

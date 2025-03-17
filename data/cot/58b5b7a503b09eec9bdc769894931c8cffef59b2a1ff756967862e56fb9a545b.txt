@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we need to determine the total cost of replacing both the outside doors and the bedroom doors.
+
+1. **Calculate the cost of the outside doors:**
+   - John has 2 outside doors.
+   - Each outside door costs $20 to replace.
+   - Therefore, the total cost for the outside doors is calculated as:
+     \[
+     \text{Total cost for outside doors} = \text{Number of outside doors} \times \text{Cost per outside door}
+     \]
+     \[
+     = 2 \times 20 = 40
+     \]
+
+2. **Calculate the cost of the bedroom doors:**
+   - John has 3 bedroom doors.
+   - The cost of each bedroom door is half the cost of an outside door. Since an outside door costs $20, the cost of a bedroom door is:
+     \[
+     \text{Cost per bedroom door} = \frac{20}{2} = 10
+     \]
+   - Therefore, the total cost for the bedroom doors is calculated as:
+     \[
+     \text{Total cost for bedroom doors} = \text{Number of bedroom doors} \times \text{Cost per bedroom door}
+     \]
+     \[
+     = 3 \times 10 = 30
+     \]
+
+3. **Calculate the total cost for all doors:**
+   - We now add the total cost of the outside doors and the total cost of the bedroom doors:
+     \[
+     \text{Total cost} = \text{Total cost for outside doors} + \text{Total cost for bedroom doors}
+     \]
+     \[
+     = 40 + 30 = 70
+     \]
+
+Therefore, John pays a total of $70 to replace all the doors.
+</reasoning>
+<answer>70</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the weekly chocolate purchase**: Kantana buys 2 chocolates for herself and 1 for her sister every Saturday.
+   - For herself: 2 chocolates
+   - For her sister: 1 chocolate
+   - Total per Saturday = 2 + 1 = 3 chocolates
+
+2. **Calculate the total chocolates for a month**: Assuming there are 4 Saturdays in a month (which is a common assumption for simplicity), we can multiply the weekly total by the number of Saturdays.
+   - Total for 4 Saturdays = 3 chocolates/week * 4 weeks = 12 chocolates
+
+3. **Add the additional chocolates for Charlie**: Last Saturday, Kantana picked up an additional 10 chocolates as a birthday gift for her friend Charlie.
+   - Total chocolates for the month = chocolates for herself and her sister + chocolates for Charlie
+   - Total for the month = 12 chocolates (for herself and her sister) + 10 chocolates (for Charlie) = 22 chocolates
+
+Therefore, after calculating all of the chocolates Kantana bought for herself, her sister, and her friend, we find that she bought a total of 22 chocolates in the month.
+</reasoning>
+<answer>22</answer>

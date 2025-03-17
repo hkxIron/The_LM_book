@@ -1,0 +1,45 @@
+<reasoning>
+To solve this problem, we'll break down the number of messages sent each day and then add them together to find the total messages sent over the four days.
+
+1. **Monday**: We know that 300 messages were sent on Monday. 
+   \[
+   \text{Messages on Monday} = 300
+   \]
+
+2. **Tuesday**: On Tuesday, 200 messages were sent. 
+   \[
+   \text{Messages on Tuesday} = 200
+   \]
+
+3. **Wednesday**: We are told that there were 300 more messages on Wednesday than on Tuesday. Since 200 messages were sent on Tuesday, we calculate Wednesday's messages as follows:
+   \[
+   \text{Messages on Wednesday} = \text{Messages on Tuesday} + 300 = 200 + 300 = 500
+   \]
+
+4. **Thursday**: On Thursday, the number of messages sent was two times the number of messages sent on Wednesday. So we calculate Thursday's messages:
+   \[
+   \text{Messages on Thursday} = 2 \times \text{Messages on Wednesday} = 2 \times 500 = 1000
+   \]
+
+Now, we will add the messages sent over the four days together to find the total:
+\[
+\text{Total messages} = \text{Messages on Monday} + \text{Messages on Tuesday} + \text{Messages on Wednesday} + \text{Messages on Thursday}
+\]
+Substituting the values we found:
+\[
+\text{Total messages} = 300 + 200 + 500 + 1000
+\]
+Now we perform the arithmetic:
+\[
+300 + 200 = 500
+\]
+\[
+500 + 500 = 1000
+\]
+\[
+1000 + 1000 = 2000
+\]
+
+Thus, the total number of messages sent in the Whatsapp group after the four days is:
+</reasoning>
+<answer>2000</answer>

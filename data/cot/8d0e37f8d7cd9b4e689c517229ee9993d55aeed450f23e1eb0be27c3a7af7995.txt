@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many students do not play either basketball or volleyball, we can use the principle of inclusion-exclusion. Let's break this down step by step.
+
+1. **Determine the number of students who play basketball.**
+   - Half of the 20 students play basketball.
+   - Calculation: \( \frac{20}{2} = 10 \)
+   - So, there are 10 students who play basketball.
+
+2. **Determine the number of students who play volleyball.**
+   - Two-fifths of the 20 students play volleyball.
+   - Calculation: \( \frac{2}{5} \times 20 = 8 \)
+   - So, there are 8 students who play volleyball.
+
+3. **Determine the number of students who play both basketball and volleyball.**
+   - One-tenth of the 20 students play both games.
+   - Calculation: \( \frac{1}{10} \times 20 = 2 \)
+   - So, 2 students play both basketball and volleyball.
+
+4. **Use the inclusion-exclusion principle to find the total number of students who play at least one game (basketball or volleyball).**
+   - The formula for the union of two sets is:
+   \[
+   |A \cup B| = |A| + |B| - |A \cap B|
+   \]
+   Where:
+   - \( |A| \) is the number of students who play basketball (10),
+   - \( |B| \) is the number of students who play volleyball (8),
+   - \( |A \cap B| \) is the number of students who play both (2).
+   - Substituting the values:
+   \[
+   |A \cup B| = 10 + 8 - 2 = 16
+   \]
+   - So, 16 students play at least one game.
+
+5. **Calculate the number of students who do not play either game.**
+   - Total students in the class = 20.
+   - Students who play at least one game = 16.
+   - Calculation: \( 20 - 16 = 4 \)
+   - Therefore, 4 students do not play either basketball or volleyball.
+</reasoning>
+<answer>4</answer>

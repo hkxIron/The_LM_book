@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we will first determine how far Christina's friend drives while driving at a speed limit of 40 miles per hour for 3 hours. 
+
+1. **Calculate the distance driven by Christina's friend:**
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   Here, the speed is 40 miles per hour and the time is 3 hours.
+   \[
+   \text{Distance} = 40 \text{ miles/hour} \times 3 \text{ hours} = 120 \text{ miles}
+   \]
+   So, Christina's friend drives 120 miles.
+
+2. **Determine the remaining distance for Christina:**
+   The total distance of the drive is 210 miles, and her friend has already driven 120 miles.
+   \[
+   \text{Remaining Distance} = \text{Total Distance} - \text{Distance Driven by Friend}
+   \]
+   \[
+   \text{Remaining Distance} = 210 \text{ miles} - 120 \text{ miles} = 90 \text{ miles}
+   \]
+   This means Christina needs to drive 90 miles.
+
+3. **Calculate the time Christina will take to drive 90 miles at 30 miles per hour:**
+   We can use the distance formula again to find the time.
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Here, the distance is 90 miles and the speed is 30 miles per hour.
+   \[
+   \text{Time} = \frac{90 \text{ miles}}{30 \text{ miles/hour}} = 3 \text{ hours}
+   \]
+
+4. **Convert the time from hours to minutes:**
+   Since we need to express the time Christina drives in minutes, we convert hours to minutes. There are 60 minutes in an hour.
+   \[
+   \text{Time in minutes} = 3 \text{ hours} \times 60 \text{ minutes/hour} = 180 \text{ minutes}
+   \]
+
+Finally, Christina drives for 180 minutes.
+</reasoning>
+<answer>180</answer>

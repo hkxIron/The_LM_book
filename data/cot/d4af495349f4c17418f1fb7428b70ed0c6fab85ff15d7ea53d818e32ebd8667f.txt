@@ -1,0 +1,54 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total amount saved by Lindsey:**
+   - In September, Lindsey saved $50.
+   - In October, she saved $37.
+   - In November, she saved $11.
+   
+   To find the total amount saved, we add these amounts together:
+   \[
+   50 + 37 + 11
+   \]
+
+   Performing the addition step-by-step:
+   - First, add $50 and $37:
+     \[
+     50 + 37 = 87
+     \]
+   - Next, add $11 to the result:
+     \[
+     87 + 11 = 98
+     \]
+
+   So, Lindsey saved a total of $98.
+
+2. **Determine if Lindsey qualifies for the $25 from her mom:**
+   - Lindsey's total savings are $98, which is more than $75. Therefore, her mom gives her $25.
+
+3. **Calculate Lindsey's total amount after receiving the money from her mom:**
+   - Lindsey's total savings before the gift is $98.
+   - Adding the $25 from her mom:
+   \[
+   98 + 25 = 123
+   \]
+
+   Now, Lindsey has a total of $123.
+
+4. **Subtract the amount Lindsey spent on the video game:**
+   - Lindsey spent $87 on a video game.
+   - To find out how much money she has left, we subtract this expense from her total amount:
+   \[
+   123 - 87
+   \]
+
+   Performing the subtraction:
+   \[
+   123 - 87 = 36
+   \]
+
+   So, Lindsey has $36 left after her purchase.
+
+Therefore, the final amount of money Lindsey has left is:
+</reasoning>
+<answer>36</answer>

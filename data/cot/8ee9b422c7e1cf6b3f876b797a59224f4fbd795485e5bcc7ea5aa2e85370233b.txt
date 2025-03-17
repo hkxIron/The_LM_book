@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many miles Marcus's car has on it now, we need to follow these steps:
+
+1. **Determine the total amount of gas Marcus used for the trip.** 
+   - We know that Marcus filled his empty gas tank twice, and the tank holds 20 gallons. Thus, the total amount of gas he used is:
+   \[
+   2 \text{ fills} \times 20 \text{ gallons/fill} = 40 \text{ gallons}
+   \]
+
+2. **Calculate how many miles he can drive with that amount of gas.**
+   - Since the car gets 30 miles per gallon, we calculate the total distance that can be traveled with 40 gallons:
+   \[
+   40 \text{ gallons} \times 30 \text{ miles/gallon} = 1200 \text{ miles}
+   \]
+
+3. **Add the distance traveled to the initial mileage of the car.**
+   - Initially, the car had 1728 miles on it. We now add the miles traveled during the trip:
+   \[
+   1728 \text{ miles} + 1200 \text{ miles} = 2928 \text{ miles}
+   \]
+
+Therefore, the final mileage on Marcus's car after the trip is:
+</reasoning>
+<answer>2928</answer>

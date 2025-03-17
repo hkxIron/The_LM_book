@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much Silvia will save by buying from the cheaper store, we need to calculate the total cost of the guitar from both Guitar Center and Sweetwater.
+
+**Step 1: Calculate the cost from Guitar Center.**
+- The suggested retail price is $1000.
+- Guitar Center offers a 15% discount.
+- First, we need to calculate the amount of the discount:
+  
+  \( \text{Discount} = 1000 \times 0.15 = 150 \)
+
+- Now, subtract the discount from the original price to find the sale price:
+
+  \( \text{Sale Price} = 1000 - 150 = 850 \)
+
+- Guitar Center also has a shipping fee of $100, so we need to add this to the sale price:
+
+  \( \text{Total Cost at Guitar Center} = 850 + 100 = 950 \)
+
+**Step 2: Calculate the cost from Sweetwater.**
+- Sweetwater offers a 10% discount.
+- We calculate the amount of the discount:
+
+  \( \text{Discount} = 1000 \times 0.10 = 100 \)
+
+- Now, subtract the discount from the original price to find the sale price:
+
+  \( \text{Sale Price} = 1000 - 100 = 900 \)
+
+- Sweetwater has free shipping, so there are no additional costs:
+
+  \( \text{Total Cost at Sweetwater} = 900 \)
+
+**Step 3: Compare the total costs and calculate the savings.**
+- Now we compare the total costs from both stores:
+
+  \( \text{Total Cost at Guitar Center} = 950 \)
+  
+  \( \text{Total Cost at Sweetwater} = 900 \)
+
+- To find out how much Silvia saves by buying from the cheaper store (Sweetwater), we subtract the total cost at Sweetwater from the total cost at Guitar Center:
+
+  \( \text{Savings} = 950 - 900 = 50 \)
+
+Therefore, Silvia will save $50 by purchasing the guitar from Sweetwater instead of Guitar Center.
+</reasoning>
+<answer>50</answer>

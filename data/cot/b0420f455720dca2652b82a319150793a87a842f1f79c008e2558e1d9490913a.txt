@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we'll follow these steps:
+
+1. **Calculate the total length of east-west streets.**
+   There are 18 east-west streets, each 2 miles long. 
+   \[
+   \text{Total length of east-west streets} = 18 \text{ streets} \times 2 \text{ miles/street} = 36 \text{ miles}
+   \]
+
+2. **Calculate the total length of north-south streets.**
+   There are 10 north-south streets, each 4 miles long.
+   \[
+   \text{Total length of north-south streets} = 10 \text{ streets} \times 4 \text{ miles/street} = 40 \text{ miles}
+   \]
+
+3. **Calculate the total length of all streets.**
+   Now we add the lengths of both types of streets together.
+   \[
+   \text{Total length of all streets} = 36 \text{ miles} + 40 \text{ miles} = 76 \text{ miles}
+   \]
+
+4. **Calculate the total length of cable needed.**
+   It takes 5 miles of cable to electrify 1 mile of street.
+   \[
+   \text{Total cable needed} = 76 \text{ miles} \times 5 \text{ miles of cable/mile of street} = 380 \text{ miles of cable}
+   \]
+
+5. **Calculate the total cost of the cable.**
+   The cost of cable is $2000 per mile.
+   \[
+   \text{Total cost} = 380 \text{ miles of cable} \times 2000 \text{ dollars/mile} = 760000 \text{ dollars}
+   \]
+
+Therefore, the total cost of cable for the neighborhood is:
+</reasoning>
+<answer>760000</answer>

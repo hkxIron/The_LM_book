@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of roosters and hens:**
+   - Mrs. Fredrickson has a total of 80 chickens.
+   - According to the problem, 1/4 of the chickens are roosters.
+   - To find the number of roosters, we multiply the total number of chickens by 1/4:
+     \[
+     \text{Number of roosters} = 80 \times \frac{1}{4} = 20
+     \]
+   - Now, to find the number of hens, we subtract the number of roosters from the total number of chickens:
+     \[
+     \text{Number of hens} = 80 - 20 = 60
+     \]
+
+2. **Calculate the number of hens that lay eggs:**
+   - The problem states that only three-fourths of the hens lay eggs.
+   - To find the number of hens that lay eggs, we calculate:
+     \[
+     \text{Number of hens that lay eggs} = 60 \times \frac{3}{4} = 45
+     \]
+
+3. **Determine the number of hens that do not lay eggs:**
+   - To find the number of hens that do not lay eggs, we subtract the number of hens that lay eggs from the total number of hens:
+     \[
+     \text{Number of hens that do not lay eggs} = 60 - 45 = 15
+     \]
+
+4. **Count the total number of chickens that do not lay eggs:**
+   - Since all roosters do not lay eggs, we need to add the number of roosters to the number of hens that do not lay eggs:
+     \[
+     \text{Total chickens that do not lay eggs} = \text{Number of roosters} + \text{Number of hens that do not lay eggs} = 20 + 15 = 35
+     \]
+
+Therefore, the total number of chickens that do not lay eggs is 35.
+</reasoning>
+<answer>35</answer>

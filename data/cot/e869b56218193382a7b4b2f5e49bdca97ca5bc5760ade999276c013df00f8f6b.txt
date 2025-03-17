@@ -1,0 +1,44 @@
+<reasoning>
+To find out how much each student needs to spend on the uniforms, we will calculate the cost of each component of the uniform and then sum them up. 
+
+1. **Calculate the cost of the shirt:**
+   - The pants cost $20.
+   - The shirt costs twice as much as the pants. 
+   - Therefore, the cost of the shirt is: 
+     \[
+     \text{Cost of shirt} = 2 \times \text{Cost of pants} = 2 \times 20 = 40 \text{ dollars}
+     \]
+
+2. **Calculate the cost of the tie:**
+   - The tie costs 1/5 as much as the shirt.
+   - Thus, the cost of the tie is:
+     \[
+     \text{Cost of tie} = \frac{1}{5} \times \text{Cost of shirt} = \frac{1}{5} \times 40 = 8 \text{ dollars}
+     \]
+
+3. **Calculate the cost of the socks:**
+   - The socks cost $3 per pair.
+   - Therefore, the cost of the socks is:
+     \[
+     \text{Cost of socks} = 3 \text{ dollars}
+     \]
+
+4. **Calculate the total cost of one complete uniform:**
+   - A complete uniform consists of pants, shirt, tie, and socks. 
+   - Now, we add the costs together:
+     \[
+     \text{Total cost of one uniform} = \text{Cost of pants} + \text{Cost of shirt} + \text{Cost of tie} + \text{Cost of socks}
+     \]
+     \[
+     \text{Total cost of one uniform} = 20 + 40 + 8 + 3 = 71 \text{ dollars}
+     \]
+
+5. **Calculate the cost for five complete uniforms:**
+   - Each student needs to buy five complete uniforms. Therefore, we multiply the total cost of one uniform by 5:
+     \[
+     \text{Total cost for five uniforms} = 5 \times \text{Total cost of one uniform} = 5 \times 71 = 355 \text{ dollars}
+     \]
+
+Thus, each student will need to spend a total of $355 on the school uniforms.
+</reasoning>
+<answer>355</answer>

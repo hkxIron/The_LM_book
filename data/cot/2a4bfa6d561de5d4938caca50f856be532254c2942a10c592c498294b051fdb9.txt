@@ -1,0 +1,34 @@
+<reasoning>
+To determine Jessica's total monthly payment after adding the movie channels and the sports channels, we will follow these steps:
+
+1. **Identify the cost of the basic cable service**: Jessica pays $15 per month for her basic cable television service.
+
+2. **Calculate the cost of the movie channels**: Adding the movie channels costs an additional $12 per month. Therefore, the cost for the movie channels is $12.
+
+3. **Find the cost of the sports channels**: The sports channels cost $3 less per month than the movie channels. Since the movie channels cost $12, we calculate the sports channels' cost:
+   \[
+   \text{Cost of sports channels} = \text{Cost of movie channels} - 3 = 12 - 3 = 9
+   \]
+   So, the sports channels cost $9 per month.
+
+4. **Calculate the total monthly payment**: Now, we add up all the costs:
+   - Basic cable: $15
+   - Movie channels: $12
+   - Sports channels: $9
+
+   Therefore, the total monthly payment is:
+   \[
+   \text{Total payment} = \text{Basic cable} + \text{Movie channels} + \text{Sports channels} = 15 + 12 + 9
+   \]
+
+5. **Perform the final addition**:
+   \[
+   15 + 12 = 27
+   \]
+   \[
+   27 + 9 = 36
+   \]
+
+Thus, Jessica's total monthly payment after adding the movie and sports channels will be $36.
+</reasoning>
+<answer>36</answer>

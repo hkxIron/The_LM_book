@@ -1,0 +1,32 @@
+<reasoning>
+To determine how much money Wyatt has left after his purchases, we'll follow these steps:
+
+1. **Calculate the total cost of the loaves of bread**: 
+   Wyatt bought 5 loaves of bread at $5 each. 
+   We can calculate the total cost by multiplying the number of loaves by the price per loaf:
+   \[
+   \text{Total cost of bread} = 5 \text{ loaves} \times 5 \text{ dollars/loaf} = 25 \text{ dollars}
+   \]
+
+2. **Calculate the total cost of the cartons of orange juice**: 
+   Wyatt bought 4 cartons of orange juice at $2 each. 
+   We calculate the total cost in the same way:
+   \[
+   \text{Total cost of orange juice} = 4 \text{ cartons} \times 2 \text{ dollars/carton} = 8 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of all items**: 
+   Now, we can find the total cost of both the bread and the orange juice by adding their costs together:
+   \[
+   \text{Total cost} = \text{Total cost of bread} + \text{Total cost of orange juice} = 25 \text{ dollars} + 8 \text{ dollars} = 33 \text{ dollars}
+   \]
+
+4. **Calculate how much money Wyatt has left**: 
+   Wyatt started with $74, and we need to subtract the total cost of his purchases from this amount:
+   \[
+   \text{Money left} = 74 \text{ dollars} - 33 \text{ dollars} = 41 \text{ dollars}
+   \]
+
+Thus, after buying the bread and orange juice, Wyatt has $41 left.
+</reasoning>
+<answer>41</answer>

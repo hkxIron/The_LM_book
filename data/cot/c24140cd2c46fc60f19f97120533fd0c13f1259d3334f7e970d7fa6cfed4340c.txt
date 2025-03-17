@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much higher Janet's semester 1 average is compared to her semester 2 average, we'll first calculate her semester 1 average and then compare it to her semester 2 average.
+
+**Step 1: Calculate Janet's semester 1 average.**
+Janet's grades for semester 1 are 90, 80, 70, and 100. 
+
+To find the average, we need to sum these grades and then divide by the number of grades:
+
+1. Sum of grades:
+   \[
+   90 + 80 + 70 + 100 = 340
+   \]
+
+2. Number of grades:
+   \[
+   4
+   \]
+
+3. Average calculation:
+   \[
+   \text{Average} = \frac{\text{Sum of grades}}{\text{Number of grades}} = \frac{340}{4} = 85
+   \]
+
+So, Janet's semester 1 average is 85.
+
+**Step 2: Identify Janet's semester 2 average.**
+The problem states that her semester 2 average is 82%.
+
+**Step 3: Compare the two averages.**
+Now, we need to see how much higher her semester 1 average is compared to her semester 2 average:
+
+1. Difference calculation:
+   \[
+   \text{Difference} = \text{Semester 1 Average} - \text{Semester 2 Average} = 85 - 82 = 3
+   \]
+
+Therefore, Janet's semester 1 average is 3 percentage points higher than her semester 2 average.
+</reasoning>
+<answer>3</answer>

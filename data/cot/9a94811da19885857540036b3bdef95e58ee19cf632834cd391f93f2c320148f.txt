@@ -1,0 +1,39 @@
+<reasoning>
+To calculate the total earnings of the restaurant by the end of the month, we need to break down the earnings into weekdays and weekends.
+
+1. **Determine the earnings for weekdays:**
+   - The restaurant earns $600 each weekday.
+   - There are typically 5 weekdays in a week (Monday to Friday).
+   - Therefore, the total earnings for weekdays in one week can be calculated as:
+     \[
+     \text{Weekday earnings} = 600 \text{ dollars} \times 5 \text{ days} = 3000 \text{ dollars}
+     \]
+
+2. **Determine the earnings for weekends:**
+   - The restaurant earns twice as much on the weekend.
+   - Thus, the weekend earning per day is:
+     \[
+     \text{Weekend earning per day} = 2 \times 600 \text{ dollars} = 1200 \text{ dollars}
+     \]
+   - There are 2 weekend days in a week (Saturday and Sunday).
+   - Therefore, the total earnings for weekends in one week can be calculated as:
+     \[
+     \text{Weekend earnings} = 1200 \text{ dollars} \times 2 \text{ days} = 2400 \text{ dollars}
+     \]
+
+3. **Calculate total weekly earnings:**
+   - Now we can find the total earnings for one week by adding the weekday and weekend earnings together:
+     \[
+     \text{Total weekly earnings} = \text{Weekday earnings} + \text{Weekend earnings} = 3000 \text{ dollars} + 2400 \text{ dollars} = 5400 \text{ dollars}
+     \]
+
+4. **Calculate monthly earnings:**
+   - To find the monthly earnings, we need to consider how many weeks are in a month. Typically, a month has about 4 weeks (but the actual number of days can vary).
+   - Thus, we can estimate the monthly earnings by multiplying the total weekly earnings by 4:
+     \[
+     \text{Monthly earnings} = 5400 \text{ dollars} \times 4 \text{ weeks} = 21600 \text{ dollars}
+     \]
+
+So, the restaurant earns approximately $21,600 by the end of the month.
+</reasoning>
+<answer>21600</answer>

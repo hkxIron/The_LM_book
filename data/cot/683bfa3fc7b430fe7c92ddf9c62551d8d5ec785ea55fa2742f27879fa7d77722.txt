@@ -1,0 +1,65 @@
+<reasoning>
+Let's denote the number of loonies Antonella has as \( L \) and the number of toonies as \( T \). We know that:
+
+1. The total number of coins is 10:
+   \[
+   L + T = 10
+   \]
+
+2. The total amount of money she has after buying the Frappuccino is $11, which means before the purchase she had:
+   \[
+   11 + 3 = 14 \text{ dollars}
+   \]
+
+3. The value of the loonies and toonies can be expressed in dollars as:
+   \[
+   L + 2T = 14
+   \]
+
+Now, we have a system of two equations:
+1. \( L + T = 10 \)
+2. \( L + 2T = 14 \)
+
+We can solve this system step by step.
+
+**Step 1: Solve for \( L \) from the first equation.**
+
+From the first equation \( L + T = 10 \), we can express \( L \) in terms of \( T \):
+\[
+L = 10 - T
+\]
+
+**Step 2: Substitute \( L \) into the second equation.**
+
+Next, we substitute \( L \) in the second equation:
+\[
+(10 - T) + 2T = 14
+\]
+
+**Step 3: Simplify and solve for \( T \).**
+
+Now, simplify the equation:
+\[
+10 - T + 2T = 14
+\]
+\[
+10 + T = 14
+\]
+
+Now, subtract 10 from both sides:
+\[
+T = 4
+\]
+
+**Step 4: Find \( L \) using the value of \( T \).**
+
+Now that we have \( T \), we can find \( L \):
+\[
+L = 10 - T = 10 - 4 = 6
+\]
+
+Now we have \( L = 6 \) and \( T = 4 \). 
+
+Therefore, Antonella initially had 4 toonies.
+</reasoning>
+<answer>4</answer>

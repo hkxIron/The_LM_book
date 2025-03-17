@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many pitches Macy and Piper missed altogether, we need to follow these steps:
+
+1. **Calculate the total number of pitches for each person.** Each token allows 15 pitches, so we can multiply the number of tokens each person used by 15.
+
+   - For Macy:
+   \[
+   \text{Total pitches by Macy} = 11 \text{ tokens} \times 15 \text{ pitches/token} = 165 \text{ pitches}
+   \]
+
+   - For Piper:
+   \[
+   \text{Total pitches by Piper} = 17 \text{ tokens} \times 15 \text{ pitches/token} = 255 \text{ pitches}
+   \]
+
+2. **Sum the total pitches for both Macy and Piper.**
+   \[
+   \text{Total pitches} = \text{Total pitches by Macy} + \text{Total pitches by Piper} = 165 + 255 = 420 \text{ pitches}
+   \]
+
+3. **Calculate how many times each person hit the ball.** We already know from the problem that Macy hit the ball 50 times and Piper hit the ball 55 times.
+
+4. **Calculate the total number of hits.**
+   \[
+   \text{Total hits} = \text{Hits by Macy} + \text{Hits by Piper} = 50 + 55 = 105 \text{ hits}
+   \]
+
+5. **Determine the total number of misses.** To find the misses, we subtract the total hits from the total pitches:
+   \[
+   \text{Total misses} = \text{Total pitches} - \text{Total hits} = 420 - 105 = 315 \text{ misses}
+   \]
+
+Therefore, the total number of pitches that Macy and Piper missed altogether is:
+</reasoning>
+<answer>315</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Current Population Calculation**: 
+   The problem states that the population of Mojave was 4000 a decade ago and that it has increased three times since then. 
+   - To find the current population, I need to multiply the population from a decade ago by 3:
+     \[
+     \text{Current Population} = 4000 \times 3 = 12000
+     \]
+   Therefore, the current population of Mojave is 12000 people.
+
+2. **Future Population Calculation**: 
+   Next, the population analysis firm predicts that the population will increase by 40% over the next five years. 
+   - To find out how much the population will increase, I need to calculate 40% of the current population (12000):
+     \[
+     \text{Increase} = 12000 \times 0.40 = 4800
+     \]
+
+3. **Total Future Population**: 
+   Now, I can find the future population by adding the increase to the current population:
+   \[
+   \text{Future Population} = \text{Current Population} + \text{Increase} = 12000 + 4800 = 16800
+   \]
+
+Thus, after calculating the current population, the expected increase, and the total future population, I conclude that the population of Mojave in five years will be 16800.
+</reasoning>
+<answer>16800</answer>

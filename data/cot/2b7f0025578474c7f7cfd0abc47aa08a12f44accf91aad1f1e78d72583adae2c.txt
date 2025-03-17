@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much money the group earned from their candy bar sales, we'll follow these steps:
+
+1. **Calculate the total number of candy bars sold**: 
+   Each of the 20 members sold an average of 8 candy bars. Therefore, we multiply the number of members by the average number of candy bars sold per member.
+   \[
+   \text{Total candy bars sold} = \text{Number of members} \times \text{Average candy bars sold per member} = 20 \times 8
+   \]
+
+   Now, calculating that:
+   \[
+   20 \times 8 = 160
+   \]
+   So, the total number of candy bars sold is 160.
+
+2. **Calculate the total earnings from the candy bars**: 
+   Each candy bar costs $0.50. To find the total earnings, we need to multiply the total number of candy bars sold by the price of each candy bar.
+   \[
+   \text{Total earnings} = \text{Total candy bars sold} \times \text{Cost per candy bar} = 160 \times 0.50
+   \]
+
+   Now, calculating that:
+   \[
+   160 \times 0.50 = 80
+   \]
+
+Thus, the total money earned from the candy bar sales is $80.
+</reasoning>
+<answer>80</answer>

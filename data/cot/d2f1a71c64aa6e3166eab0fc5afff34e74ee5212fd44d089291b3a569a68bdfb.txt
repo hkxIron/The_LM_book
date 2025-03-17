@@ -1,0 +1,43 @@
+<reasoning>
+Let's denote Purity's share of the rent as \( P \).
+
+According to the problem:
+1. Sheila pays five times what Purity pays, so Sheila's share can be expressed as \( 5P \).
+2. Rose pays thrice what Purity pays, so Rose's share is \( 3P \).
+3. We know that Rose's share is $1,800, which gives us the equation:
+   \[
+   3P = 1800
+   \]
+
+Now, we'll solve for \( P \):
+1. To find \( P \), we divide both sides of the equation by 3:
+   \[
+   P = \frac{1800}{3} = 600
+   \]
+   So, Purity's share is $600.
+
+Next, we can find Sheila's share:
+1. Since Sheila pays five times Purity's share:
+   \[
+   5P = 5 \times 600 = 3000
+   \]
+   So, Sheila's share is $3,000.
+
+Now, we can calculate the total rent by adding together the shares of Sheila, Purity, and Rose:
+1. Total rent = Sheila's share + Purity's share + Rose's share:
+   \[
+   \text{Total rent} = 3000 + 600 + 1800
+   \]
+2. We calculate this step by step:
+   - First, add Sheila's share and Purity's share:
+     \[
+     3000 + 600 = 3600
+     \]
+   - Now, add Rose's share:
+     \[
+     3600 + 1800 = 5400
+     \]
+
+Therefore, the total house rent is $5,400.
+</reasoning>
+<answer>5400</answer>

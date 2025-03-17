@@ -1,0 +1,27 @@
+<reasoning>
+First, we need to find the total number of insects collected by both the boys and the girls. 
+
+1. **Calculate the total number of insects collected**:
+   - Boys collected 200 insects.
+   - Girls collected 300 insects.
+   - To find the total, we add these two amounts together:
+     \[
+     \text{Total insects} = 200 + 300 = 500
+     \]
+   This tells us that the entire class collected 500 insects.
+
+2. **Divide the total number of insects by the number of groups**:
+   - The teacher decided to divide the class into 4 equal groups.
+   - To determine how many insects each group gets, we divide the total number of insects by the number of groups:
+     \[
+     \text{Insects per group} = \frac{500}{4}
+     \]
+   We perform the division:
+     \[
+     500 \div 4 = 125
+     \]
+   This means that each group will receive 125 insects.
+
+Therefore, the number of insects given to each group is 125.
+</reasoning>
+<answer>125</answer>

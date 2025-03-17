@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many ducks Adelaide bought**: We know from the problem that Adelaide bought 30 ducks.
+
+2. **Set up the relationship between Ephraim and Adelaide**: The problem states that Adelaide bought twice the number of ducks that Ephraim bought. Therefore, we can let \( E \) represent the number of ducks Ephraim bought. This gives us the equation:
+   \[
+   30 = 2E
+   \]
+   To find \( E \), we solve for \( E \):
+   \[
+   E = \frac{30}{2} = 15
+   \]
+   So, Ephraim bought 15 ducks.
+
+3. **Set up the relationship between Ephraim and Kolton**: The problem also states that Ephraim bought 45 fewer ducks than Kolton. We can let \( K \) represent the number of ducks Kolton bought. This gives us the equation:
+   \[
+   E = K - 45
+   \]
+   Substituting the value of \( E \) we found:
+   \[
+   15 = K - 45
+   \]
+   To find \( K \), we solve for \( K \):
+   \[
+   K = 15 + 45 = 60
+   \]
+   So, Kolton bought 60 ducks.
+
+4. **Calculate the total number of ducks bought by all three**: Now we can find the total number of ducks bought by Adelaide, Ephraim, and Kolton:
+   \[
+   \text{Total ducks} = A + E + K = 30 + 15 + 60 = 105
+   \]
+
+5. **Calculate the average number of ducks**: The average number of ducks is calculated by dividing the total number of ducks by the number of students (which is 3):
+   \[
+   \text{Average} = \frac{\text{Total ducks}}{\text{Number of students}} = \frac{105}{3} = 35
+   \]
+
+Therefore, the average number of ducks that the three bought is:
+</reasoning>
+<answer>35</answer>

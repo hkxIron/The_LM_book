@@ -1,0 +1,57 @@
+<reasoning>
+Let's start by determining Grant's age in five years. Since he is currently 25 years old, we can calculate his age in five years as follows:
+
+1. **Calculate Grant's age in five years**:
+   \[
+   \text{Grant's age in 5 years} = 25 + 5 = 30
+   \]
+
+Now we know that in five years, Grant will be 30 years old. According to the problem, at that time, he will be 2/3 the age of the hospital. Let's denote the current age of the hospital as \( h \).
+
+2. **Determine the hospital's age in five years**:
+   The hospital's current age plus five years will be:
+   \[
+   \text{Hospital's age in 5 years} = h + 5
+   \]
+
+3. **Set up the equation**: 
+   According to the problem, in five years, Grant's age will be equal to 2/3 of the hospital's age:
+   \[
+   30 = \frac{2}{3}(h + 5)
+   \]
+
+4. **Eliminate the fraction**: 
+   To solve for \( h \), we can eliminate the fraction by multiplying both sides of the equation by 3:
+   \[
+   3 \times 30 = 2(h + 5)
+   \]
+   This simplifies to:
+   \[
+   90 = 2(h + 5)
+   \]
+
+5. **Distribute the 2**:
+   Now, distribute the 2 on the right side:
+   \[
+   90 = 2h + 10
+   \]
+
+6. **Isolate \( 2h \)**:
+   Next, we subtract 10 from both sides to isolate the term with \( h \):
+   \[
+   90 - 10 = 2h
+   \]
+   This simplifies to:
+   \[
+   80 = 2h
+   \]
+
+7. **Solve for \( h \)**:
+   Finally, divide both sides by 2 to find the current age of the hospital:
+   \[
+   h = \frac{80}{2} = 40
+   \]
+
+Thus, the current age of the hospital is 40 years.
+</reasoning>
+<answer>40</answer>

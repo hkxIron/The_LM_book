@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we need to find the area that Tommy can ride in and then compare it to the area that Tommy's friend's father allows his friend to ride in.
+
+1. **Determine Tommy's area of movement**:
+   - Tommy rides 2 blocks north, 3 blocks east, 2 blocks west, and 2 blocks south.
+   - First, we calculate his total displacement in the north-south direction:
+     - He rides 2 blocks north and then 2 blocks south, which means he doesn't go anywhere vertically. So, his net vertical displacement is 0 blocks.
+   - Next, we calculate his total displacement in the east-west direction:
+     - He rides 3 blocks east and then 2 blocks west. This gives him a net movement of 3 - 2 = 1 block east.
+   - Therefore, Tommy effectively rides in a rectangular area where he can move 1 block in the east-west direction and 0 blocks in the north-south direction. However, he initially moves 2 blocks north and south, making it a vertical movement of 4 blocks (2 blocks up and down) and a horizontal movement of 3 blocks east and 2 blocks west, or effectively 1 block east.
+   - Tommy’s total area of movement is the width multiplied by the height:
+     - Width = 3 blocks (east) + 2 blocks (west) = 5 blocks
+     - Height = 2 blocks (north) + 2 blocks (south) = 4 blocks
+     - Area = Width * Height = 5 blocks * 4 blocks = 20 square blocks.
+
+2. **Determine the area his friend can ride in**:
+   - Tommy's friend's father allows him to ride in an area of 80 square blocks.
+
+3. **Calculate how many times greater the area is**:
+   - We need to find the ratio of Tommy's friend's area to Tommy's area:
+     - Ratio = Area of friend's ride / Area of Tommy's ride = 80 square blocks / 20 square blocks = 4.
+
+This means that Tommy's friend's riding area is 4 times greater than Tommy's riding area.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>4</answer>

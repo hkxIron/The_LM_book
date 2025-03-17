@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much more money Farmer Brown will need, we will follow these steps:
+
+1. **Determine the original amount of hay and its cost**:  
+   Chester originally needed to deliver 10 bales of hay, and the cost per bale was $15.  
+   To find the total cost for the original hay, we multiply the number of bales by the cost per bale:  
+   \[
+   \text{Total cost of original hay} = 10 \text{ bales} \times 15 \text{ dollars/bale} = 150 \text{ dollars}
+   \]
+
+2. **Calculate the new delivery requirements**:  
+   Farmer Brown wants Chester to double the delivery of bales of hay. Therefore, the new amount of hay required is:  
+   \[
+   \text{New amount of hay} = 10 \text{ bales} \times 2 = 20 \text{ bales}
+   \]
+
+3. **Determine the cost of the new quality hay**:  
+   The new better-quality hay costs $18 per bale. We need to find the total cost for the new amount of hay:  
+   \[
+   \text{Total cost of new hay} = 20 \text{ bales} \times 18 \text{ dollars/bale} = 360 \text{ dollars}
+   \]
+
+4. **Calculate the difference in cost**:  
+   To find out how much more money Farmer Brown will need, we subtract the original cost from the new cost:  
+   \[
+   \text{Additional cost} = \text{Total cost of new hay} - \text{Total cost of original hay} = 360 \text{ dollars} - 150 \text{ dollars} = 210 \text{ dollars}
+   \]
+
+Thus, Farmer Brown will need an additional $210 to meet his new requirements for better quality hay.
+</reasoning>
+<answer>210</answer>

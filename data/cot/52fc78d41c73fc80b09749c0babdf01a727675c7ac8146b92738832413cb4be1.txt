@@ -1,0 +1,47 @@
+<reasoning>
+Let's calculate the total revenue from each type of candy sold, and then we'll sum these amounts to find the total money the candy store made.
+
+1. **Calculating the revenue from fudge**:
+   - The store sold 20 pounds of fudge.
+   - The price per pound of fudge is $2.50.
+   - To find the total revenue from fudge, multiply the number of pounds by the price per pound:
+     \[
+     \text{Revenue from fudge} = 20 \, \text{pounds} \times 2.50 \, \text{dollars/pound} = 50 \, \text{dollars}
+     \]
+
+2. **Calculating the revenue from chocolate truffles**:
+   - The store sold 5 dozen chocolate truffles.
+   - There are 12 truffles in a dozen, so the total number of truffles is:
+     \[
+     5 \, \text{dozen} \times 12 \, \text{truffles/dozen} = 60 \, \text{truffles}
+     \]
+   - The price per chocolate truffle is $1.50.
+   - To find the total revenue from chocolate truffles, multiply the number of truffles by the price per truffle:
+     \[
+     \text{Revenue from truffles} = 60 \, \text{truffles} \times 1.50 \, \text{dollars/truffle} = 90 \, \text{dollars}
+     \]
+
+3. **Calculating the revenue from chocolate-covered pretzels**:
+   - The store sold 3 dozen chocolate-covered pretzels.
+   - Again, there are 12 pretzels in a dozen, so the total number of pretzels is:
+     \[
+     3 \, \text{dozen} \times 12 \, \text{pretzels/dozen} = 36 \, \text{pretzels}
+     \]
+   - The price per chocolate-covered pretzel is $2.00.
+   - To find the total revenue from chocolate-covered pretzels, multiply the number of pretzels by the price per pretzel:
+     \[
+     \text{Revenue from pretzels} = 36 \, \text{pretzels} \times 2.00 \, \text{dollars/pretzel} = 72 \, \text{dollars}
+     \]
+
+4. **Calculating the total revenue**:
+   - Now, we will sum the revenues from all three types of candy:
+     \[
+     \text{Total revenue} = \text{Revenue from fudge} + \text{Revenue from truffles} + \text{Revenue from pretzels}
+     \]
+     \[
+     \text{Total revenue} = 50 \, \text{dollars} + 90 \, \text{dollars} + 72 \, \text{dollars} = 212 \, \text{dollars}
+     \]
+
+Therefore, the total money the candy store made is:
+</reasoning>
+<answer>212</answer>

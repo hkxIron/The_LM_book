@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down John's timeline step by step.
+
+1. **Acclimation Period**: John takes 1 year to get acclimated to school life. 
+   - This is straightforward: **1 year**.
+
+2. **Learning Basic Courses**: After the acclimation period, he spends 2 years learning the basics of his field.
+   - So far: 1 year (acclimation) + 2 years (basic courses) = **3 years**.
+
+3. **Research Period**: John spends 75% more time on research than he did learning the basics. 
+   - He spent 2 years learning the basics. To find 75% of that time, we calculate:
+     \[
+     0.75 \times 2 \text{ years} = 1.5 \text{ years}
+     \]
+   - Now, we add this to the time he spent learning the basics to find the total time spent on research:
+     \[
+     2 \text{ years} + 1.5 \text{ years} = 3.5 \text{ years}
+     \]
+   - Total so far: 3 years (previous total) + 3.5 years (research) = **6.5 years**.
+
+4. **Dissertation Writing**: He spends half as long on writing his dissertation as his acclimation period. 
+   - His acclimation period was 1 year, so half of that is:
+     \[
+     \frac{1 \text{ year}}{2} = 0.5 \text{ years}
+     \]
+   - Now, we add this time to the total time calculated so far:
+     \[
+     6.5 \text{ years} + 0.5 \text{ years} = 7 \text{ years}
+     \]
+
+Finally, we conclude that the total time John took to complete everything is **7 years**.
+
+Therefore, the total time it took him to do everything is:
+</reasoning>
+<answer>7</answer>

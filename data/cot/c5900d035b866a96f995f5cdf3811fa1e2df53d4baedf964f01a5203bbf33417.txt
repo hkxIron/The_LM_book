@@ -1,0 +1,42 @@
+<reasoning>
+First, we need to determine the speed of the train in miles per hour. To do this, we will use the formula:
+
+\[
+\text{Speed} = \frac{\text{Distance}}{\text{Time}}
+\]
+
+In this case, the distance is 360 miles and the time is 3 hours. So we plug in these values:
+
+\[
+\text{Speed} = \frac{360 \text{ miles}}{3 \text{ hours}}
+\]
+
+Now, we will perform the division:
+
+\[
+\text{Speed} = 120 \text{ miles per hour}
+\]
+
+Now that we know the speed of the train is 120 miles per hour, we can use this information to find out how long it will take to travel an additional 240 miles. We'll use the formula again, but rearranged to solve for time:
+
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
+\]
+
+Here, the distance we want to travel is 240 miles and the speed is 120 miles per hour. Now we can substitute these values into the formula:
+
+\[
+\text{Time} = \frac{240 \text{ miles}}{120 \text{ miles per hour}}
+\]
+
+Next, we perform the division:
+
+\[
+\text{Time} = 2 \text{ hours}
+\]
+
+Thus, it would take an additional 2 hours to travel the 240 miles at the same speed. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>2</answer>

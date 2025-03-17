@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many more words Matt can write with his right hand than with his left hand in 5 minutes, we'll follow these steps:
+
+1. **Calculate the total words written with the right hand in 5 minutes**:
+   - Matt writes 10 words per minute with his right hand.
+   - Thus, in 5 minutes, he would write:
+     \[
+     \text{Right hand words} = \text{words per minute} \times \text{minutes} = 10 \, \text{words/minute} \times 5 \, \text{minutes} = 50 \, \text{words}
+     \]
+
+2. **Calculate the total words written with the left hand in 5 minutes**:
+   - Matt writes 7 words per minute with his left hand.
+   - Therefore, in 5 minutes, he would write:
+     \[
+     \text{Left hand words} = 7 \, \text{words/minute} \times 5 \, \text{minutes} = 35 \, \text{words}
+     \]
+
+3. **Find the difference in words written between the right hand and the left hand**:
+   - Now, we subtract the number of words written with the left hand from the number of words written with the right hand:
+     \[
+     \text{Difference} = \text{Right hand words} - \text{Left hand words} = 50 \, \text{words} - 35 \, \text{words} = 15 \, \text{words}
+     \]
+
+Therefore, in 5 minutes, Matt would write 15 more words with his right hand than with his left.
+</reasoning>
+<answer>15</answer>

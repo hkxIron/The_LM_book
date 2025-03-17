@@ -1,0 +1,34 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Identify the initial number of data points**: Joe starts with 200 data points.
+
+2. **Calculate 20% of the initial data points**: 
+   To find 20% of 200, we need to multiply 200 by 0.20:
+   \[
+   200 \times 0.20 = 40
+   \]
+   This means Joe adds 40 more data points to his dataset.
+
+3. **Calculate the new total after adding the additional data points**: 
+   Now we add the 40 data points to the original 200:
+   \[
+   200 + 40 = 240
+   \]
+   So now, Joe has 240 data points in total.
+
+4. **Calculate 1/4 of the total data points**:
+   Next, we need to find 1/4 of the 240 data points:
+   \[
+   240 \times \frac{1}{4} = 60
+   \]
+   Thus, Joe will reduce his dataset by 60 data points.
+
+5. **Calculate the final total number of data points**:
+   Now, we subtract the 60 data points from the current total of 240:
+   \[
+   240 - 60 = 180
+   \]
+   Therefore, after all the additions and reductions, Joe has 180 data points in his dataset.
+</reasoning>
+<answer>180</answer>

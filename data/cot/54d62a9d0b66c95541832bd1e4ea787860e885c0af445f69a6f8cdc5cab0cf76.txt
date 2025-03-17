@@ -1,0 +1,24 @@
+<reasoning>
+Let's denote the number of letters in Samantha's last name as S, in Bobbie's last name as B, and in Jamie's last name as J.
+
+From the problem, we understand that:
+
+1. Samantha’s last name has three fewer letters than Bobbie’s last name. This can be expressed as:
+   S = B - 3
+
+2. If Bobbie took two letters off her last name, she would have a last name twice the length of Jamie’s. Given that Jamie's last name is "Grey", which has 4 letters, this can be written as:
+   B - 2 = 2*J
+   Since J = 4, we can substitute into the equation:
+   B - 2 = 2*4
+   B - 2 = 8
+   Now, solving for B, we get:
+   B = 8 + 2 = 10
+
+3. Now that we know B, we can substitute it back into our first equation to find S:
+   S = B - 3
+   S = 10 - 3
+   S = 7
+
+Therefore, Samantha's last name consists of 7 letters.
+</reasoning>
+<answer>7</answer>

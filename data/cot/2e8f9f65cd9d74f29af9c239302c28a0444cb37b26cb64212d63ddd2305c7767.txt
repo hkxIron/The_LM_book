@@ -1,0 +1,44 @@
+<reasoning>
+Let's define the number of games each player won:
+
+- Let \( J \) represent the number of games Jerry won.
+- Let \( D \) represent the number of games Dave won.
+- Let \( K \) represent the number of games Ken won.
+
+From the problem, we know the following:
+
+1. Jerry won 7 games: 
+   \[
+   J = 7
+   \]
+
+2. Dave won 3 more games than Jerry:
+   \[
+   D = J + 3 = 7 + 3 = 10
+   \]
+
+3. Ken won 5 more games than Dave:
+   \[
+   K = D + 5 = 10 + 5 = 15
+   \]
+
+Now, we have:
+
+- Jerry won \( J = 7 \) games
+- Dave won \( D = 10 \) games
+- Ken won \( K = 15 \) games
+
+To find the total number of games they played, we add the number of games each player won:
+\[
+\text{Total games} = J + D + K = 7 + 10 + 15
+\]
+
+Calculating this gives:
+\[
+7 + 10 = 17 \\
+17 + 15 = 32
+\]
+
+Therefore, the total number of games they played is 32.
+</reasoning>
+<answer>32</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine Jerry's Time in the Pool**: 
+   - Jerry was in the pool for 3 minutes.
+
+2. **Calculate Elaine's Time**: 
+   - Elaine stayed in the pool for twice as long as Jerry. 
+   - Since Jerry was in for 3 minutes, we calculate Elaine's time as follows:
+   \[
+   \text{Elaine's time} = 2 \times \text{Jerry's time} = 2 \times 3 = 6 \text{ minutes}
+   \]
+
+3. **Calculate George's Time**: 
+   - George stayed in the pool for one-third as long as Elaine.
+   - We calculate George's time by taking one-third of Elaine's time:
+   \[
+   \text{George's time} = \frac{1}{3} \times \text{Elaine's time} = \frac{1}{3} \times 6 = 2 \text{ minutes}
+   \]
+
+4. **Kramer's Time**: 
+   - Kramer could not find the pool, which means he was in the pool for 0 minutes.
+
+5. **Combine All Times**: 
+   - Now we need to find the combined total time that Jerry, Elaine, George, and Kramer spent in the pool. We add their times together:
+   \[
+   \text{Total time} = \text{Jerry's time} + \text{Elaine's time} + \text{George's time} + \text{Kramer's time}
+   \]
+   \[
+   \text{Total time} = 3 + 6 + 2 + 0 = 11 \text{ minutes}
+   \]
+
+Therefore, the combined total of minutes that Jerry and his friends were in the cold water is:
+</reasoning>
+<answer>11</answer>

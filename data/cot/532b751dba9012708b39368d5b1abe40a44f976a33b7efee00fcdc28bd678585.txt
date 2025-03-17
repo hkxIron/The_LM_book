@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the number of pages in the shortest book**:
+   The problem states that Jasmine's longest book has 396 pages. The shortest book has one-fourth as many pages as the longest. To find the number of pages in the shortest book, we calculate:
+   \[
+   \text{Pages in shortest book} = \frac{396}{4}
+   \]
+   Performing the division:
+   \[
+   \frac{396}{4} = 99
+   \]
+   So, the shortest book has 99 pages.
+
+2. **Determine the number of pages in the middle book**:
+   The problem also states that the book in the middle of her shelf has three times the number of pages of the shortest book. We already found that the shortest book has 99 pages. Now, we calculate:
+   \[
+   \text{Pages in middle book} = 3 \times 99
+   \]
+   Performing the multiplication:
+   \[
+   3 \times 99 = 297
+   \]
+   Therefore, the middle book has 297 pages.
+
+After going through the steps, we find that the middle book has 297 pages.
+</reasoning>
+<answer>297</answer>

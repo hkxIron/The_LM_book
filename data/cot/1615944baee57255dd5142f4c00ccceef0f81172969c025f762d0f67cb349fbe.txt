@@ -1,0 +1,58 @@
+<reasoning>
+To solve the problem, let's define the number of flowers in each color based on the information provided.
+
+1. We know there are 10 orange flowers. 
+   - Let the number of orange flowers = O = 10.
+
+2. The problem states that there are twice as many red flowers as orange flowers.
+   - Therefore, the number of red flowers (R) can be calculated as:
+     \[
+     R = 2 \times O = 2 \times 10 = 20
+     \]
+
+3. Next, we know that there are five fewer yellow flowers than red flowers.
+   - Thus, the number of yellow flowers (Y) can be calculated as:
+     \[
+     Y = R - 5 = 20 - 5 = 15
+     \]
+
+4. Now we have the counts for orange, red, and yellow flowers:
+   - Orange = 10
+   - Red = 20
+   - Yellow = 15
+
+5. We can find the total number of flowers accounted for so far:
+   \[
+   \text{Total counted} = O + R + Y = 10 + 20 + 15 = 45
+   \]
+
+6. The problem states the total number of flowers in the garden is 105. Now we can calculate how many flowers remain:
+   \[
+   \text{Remaining flowers} = 105 - 45 = 60
+   \]
+
+7. The remaining flowers are pink and purple flowers, and it is stated that there are the same amount of each. Let's denote the number of pink flowers as P and the number of purple flowers as Q.
+   - Since P = Q, we can express the total number of pink and purple flowers as:
+     \[
+     P + Q = 60
+     \]
+   - Substituting Q with P gives us:
+     \[
+     P + P = 60 \implies 2P = 60
+     \]
+
+8. Now, we can solve for P:
+   \[
+   P = \frac{60}{2} = 30
+   \]
+
+9. Since P = Q, we also have:
+   \[
+   Q = 30
+   \]
+
+10. Therefore, the number of pink and purple flowers is both 30.
+
+Putting it all together, we find that there are 30 pink flowers and 30 purple flowers.
+</reasoning>
+<answer>30</answer>

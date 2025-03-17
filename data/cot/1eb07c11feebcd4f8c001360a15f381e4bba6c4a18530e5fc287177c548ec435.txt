@@ -1,0 +1,42 @@
+<reasoning>
+To solve this problem, we need to break it down step by step and analyze the information given.
+
+1. **Understanding the Work Rate:**
+   We know that 10 people can shovel 10,000 pounds of coal in 10 days. First, we will calculate the work rate for these 10 people.
+   
+   Work done (in pounds) = 10,000 pounds  
+   Number of people = 10  
+   Number of days = 10  
+
+   To find the work rate per person per day, we can use the formula:
+   \[
+   \text{Work rate per person} = \frac{\text{Total work}}{\text{Number of people} \times \text{Number of days}}
+   \]
+   Substituting in the values:
+   \[
+   \text{Work rate per person} = \frac{10,000 \text{ pounds}}{10 \text{ people} \times 10 \text{ days}} = \frac{10,000}{100} = 100 \text{ pounds per person per day}
+   \]
+
+2. **Finding the Work Rate of Half the People:**
+   Now, we need to consider half of the original 10 people, which is 5 people. We can use the work rate we found to determine how much coal they can shovel in a day.
+   
+   Work rate of 5 people:
+   \[
+   \text{Total work rate of 5 people} = 5 \text{ people} \times 100 \text{ pounds per person per day} = 500 \text{ pounds per day}
+   \]
+
+3. **Determining the Time to Shovel 40,000 Pounds:**
+   Now that we know 5 people can shovel 500 pounds of coal per day, we want to find out how many days it will take to shovel 40,000 pounds.
+   
+   Using the formula:
+   \[
+   \text{Days needed} = \frac{\text{Total work}}{\text{Work rate}}
+   \]
+   Substituting in the values:
+   \[
+   \text{Days needed} = \frac{40,000 \text{ pounds}}{500 \text{ pounds per day}} = 80 \text{ days}
+   \]
+
+Thus, it will take 5 people a total of 80 days to shovel 40,000 pounds of coal.
+</reasoning>
+<answer>80</answer>

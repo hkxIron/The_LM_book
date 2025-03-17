@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Count of Books**: The library starts with a collection of 100 historical novels.
+
+2. **Books Borrowed on the First Day**: There are 5 people who each borrow 2 books. To find the total number of books borrowed on the first day, we multiply the number of people by the number of books each borrows:
+   \[
+   \text{Total books borrowed on the first day} = 5 \text{ people} \times 2 \text{ books/person} = 10 \text{ books}
+   \]
+
+3. **Books Remaining after the First Day**: After these 10 books are borrowed, we subtract this number from the initial count:
+   \[
+   \text{Books remaining after the first day} = 100 \text{ books} - 10 \text{ books} = 90 \text{ books}
+   \]
+
+4. **Books Borrowed on the Second Day**: On the second day, an additional 20 books are borrowed from the shelf.
+
+5. **Books Remaining after the Second Day**: Now we need to subtract the 20 books borrowed on the second day from the remaining books after the first day:
+   \[
+   \text{Books remaining after the second day} = 90 \text{ books} - 20 \text{ books} = 70 \text{ books}
+   \]
+
+In conclusion, after all the borrowing that took place over the two days, the number of books that remain on the shelf is 70.
+</reasoning>
+<answer>70</answer>

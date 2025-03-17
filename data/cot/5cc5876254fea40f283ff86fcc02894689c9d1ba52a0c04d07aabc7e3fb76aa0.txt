@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we first need to calculate the total storage space of the portable computer drive based on the number of photos it can hold and the size of each photo.
+
+1. **Calculate the total storage space of the drive**: 
+   The drive can hold 2000 photos, and each photo is 1.5 kilobytes. 
+   So, we multiply the number of photos by the size of each photo:
+   \[
+   \text{Total storage space} = 2000 \, \text{photos} \times 1.5 \, \text{KB/photo} = 3000 \, \text{KB}
+   \]
+
+2. **Calculate the amount of storage used by the already stored photos**:
+   We know that there are already 400 photos on the drive. We need to determine how much space those photos are using:
+   \[
+   \text{Storage used by 400 photos} = 400 \, \text{photos} \times 1.5 \, \text{KB/photo} = 600 \, \text{KB}
+   \]
+
+3. **Calculate the remaining storage space available for videos**:
+   To find out how much storage space is left for videos, we subtract the storage used by the photos from the total storage space:
+   \[
+   \text{Remaining storage} = 3000 \, \text{KB} - 600 \, \text{KB} = 2400 \, \text{KB}
+   \]
+
+4. **Determine how many 200-kilobyte videos can be stored in the remaining space**:
+   Now we divide the remaining storage space by the size of each video to find out how many videos can fit:
+   \[
+   \text{Number of videos} = \frac{2400 \, \text{KB}}{200 \, \text{KB/video}} = 12 \, \text{videos}
+   \]
+
+Therefore, the portable computer drive can store 12 videos after accounting for the photos already stored on it.
+</reasoning>
+<answer>12</answer>

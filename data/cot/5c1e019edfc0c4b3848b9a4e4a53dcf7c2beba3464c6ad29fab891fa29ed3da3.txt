@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the costs step by step.
+
+1. **Calculate the cost of the concert tickets:**
+   Seth and his brother want to buy 2 tickets, each costing $50.00. 
+   \[
+   \text{Cost of tickets} = 2 \times 50 = 100
+   \]
+
+2. **Calculate the processing fee:**
+   There is a 15% processing fee on the total cost of the tickets. First, we need to find 15% of the ticket cost.
+   \[
+   \text{Processing fee} = 0.15 \times 100 = 15
+   \]
+
+3. **Calculate the parking fee:**
+   The parking fee is $10.00, which is a fixed cost.
+   \[
+   \text{Parking fee} = 10
+   \]
+
+4. **Calculate the entrance fee:**
+   There is an entrance fee of $5.00 per person. Since there are 2 people, we calculate this as:
+   \[
+   \text{Entrance fee} = 2 \times 5 = 10
+   \]
+
+5. **Add all the costs together:**
+   Now we can sum up all the costs to find the total cost of going to the concert.
+   \[
+   \text{Total cost} = \text{Cost of tickets} + \text{Processing fee} + \text{Parking fee} + \text{Entrance fee}
+   \]
+   \[
+   \text{Total cost} = 100 + 15 + 10 + 10 = 135
+   \]
+
+Therefore, the total cost for Seth and his brother to go to the concert is $135.
+</reasoning>
+<answer>135</answer>

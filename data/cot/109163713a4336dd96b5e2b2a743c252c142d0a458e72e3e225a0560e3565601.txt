@@ -1,0 +1,29 @@
+<reasoning>
+First, let's determine how far Madison can spit a watermelon seed based on Billy's distance. 
+
+1. **Calculate Madison's distance**:
+   - Billy can spit a seed 30 inches.
+   - Madison can spit 20% farther than Billy.
+   - To find 20% of Billy's distance, we calculate:
+     \[
+     20\% \text{ of } 30 = 0.20 \times 30 = 6 \text{ inches}
+     \]
+   - Now, we add this to Billy's distance to find Madison's distance:
+     \[
+     \text{Madison's distance} = 30 \text{ inches} + 6 \text{ inches} = 36 \text{ inches}
+     \]
+
+2. **Calculate Ryan's distance**:
+   - Ryan can spit a seed 50% shorter than Madison.
+   - First, we need to calculate 50% of Madison's distance:
+     \[
+     50\% \text{ of } 36 = 0.50 \times 36 = 18 \text{ inches}
+     \]
+   - Now, we subtract this from Madison's distance to find Ryan's distance:
+     \[
+     \text{Ryan's distance} = 36 \text{ inches} - 18 \text{ inches} = 18 \text{ inches}
+     \]
+
+Therefore, Ryan can spit a watermelon seed a distance of 18 inches.
+</reasoning>
+<answer>18</answer>

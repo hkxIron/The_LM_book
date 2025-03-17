@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much Richard and Sarah save per month, we need to follow these steps:
+
+1. **Determine the total savings needed**: We know that the down payment for the house is $108,000.
+
+2. **Calculate the total time in months**: Since it will take them 3 years to save this amount, we need to convert the years into months. 
+   - There are 12 months in a year, so:
+   \[
+   3 \text{ years} \times 12 \text{ months/year} = 36 \text{ months}
+   \]
+   This means they have a total of 36 months to save the down payment.
+
+3. **Calculate the total monthly savings required**: To find out how much they need to save each month together, we divide the total down payment by the number of months they will save:
+   \[
+   \text{Monthly savings} = \frac{108000 \text{ dollars}}{36 \text{ months}} 
+   \]
+   Performing the division:
+   \[
+   \text{Monthly savings} = 3000 \text{ dollars/month}
+   \]
+
+4. **Determine the savings per person**: Since Richard and Sarah are sharing the savings equally, we will divide the total monthly savings by 2:
+   \[
+   \text{Savings per person} = \frac{3000 \text{ dollars/month}}{2} = 1500 \text{ dollars/month}
+   \]
+
+Thus, each person saves $1,500 per month.
+</reasoning>
+<answer>1500</answer>

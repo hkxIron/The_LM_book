@@ -1,0 +1,47 @@
+<reasoning>
+To find out how many blocks fell down, we first need to determine the height of each stack of blocks.
+
+1. **Determine the height of the first stack:**
+   The first stack is given as 7 blocks high.
+   - Height of the first stack = 7 blocks.
+
+2. **Determine the height of the second stack:**
+   The second stack is 5 blocks higher than the first stack.
+   - Height of the second stack = Height of the first stack + 5
+   - Height of the second stack = 7 + 5 = 12 blocks.
+
+3. **Determine the height of the final stack:**
+   The final stack is 7 blocks higher than the second stack.
+   - Height of the final stack = Height of the second stack + 7
+   - Height of the final stack = 12 + 7 = 19 blocks.
+
+Now we have the following heights:
+- First stack: 7 blocks
+- Second stack: 12 blocks
+- Final stack: 19 blocks
+
+Next, we calculate how many blocks fell down from each stack:
+
+4. **Calculate blocks that fell from the first stack:**
+   Since Jess' little sister knocked over the entire first stack:
+   - Blocks that fell from the first stack = 7 blocks.
+
+5. **Calculate blocks that fell from the second stack:**
+   In the second stack, Jess’ sister left 2 blocks standing.
+   - Therefore, blocks that fell from the second stack = Height of the second stack - Blocks left standing
+   - Blocks that fell from the second stack = 12 - 2 = 10 blocks.
+
+6. **Calculate blocks that fell from the final stack:**
+   In the final stack, Jess’ sister left 3 blocks standing.
+   - Therefore, blocks that fell from the final stack = Height of the final stack - Blocks left standing
+   - Blocks that fell from the final stack = 19 - 3 = 16 blocks.
+
+Now we can add up all the blocks that fell from each stack:
+
+7. **Total blocks that fell down:**
+   - Total blocks that fell = Blocks from the first stack + Blocks from the second stack + Blocks from the final stack
+   - Total blocks that fell = 7 + 10 + 16 = 33 blocks.
+
+Therefore, the total number of blocks that fell down is:
+</reasoning>
+<answer>33</answer>

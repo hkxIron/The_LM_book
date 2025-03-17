@@ -1,0 +1,34 @@
+<reasoning>
+To find the total number of sides on the cookie cutters, we will first determine the number of sides for each shape and then calculate the total based on how many of each shape there are.
+
+1. **Triangle**: A triangle has 3 sides. Emery has 6 triangle cookie cutters.
+   - So, the total number of sides from the triangles is:
+     \[
+     6 \text{ triangles} \times 3 \text{ sides/triangle} = 18 \text{ sides}
+     \]
+
+2. **Square**: A square has 4 sides. Emery has 4 square cookie cutters.
+   - So, the total number of sides from the squares is:
+     \[
+     4 \text{ squares} \times 4 \text{ sides/square} = 16 \text{ sides}
+     \]
+
+3. **Hexagon**: A hexagon has 6 sides. Emery has 2 hexagon cookie cutters.
+   - So, the total number of sides from the hexagons is:
+     \[
+     2 \text{ hexagons} \times 6 \text{ sides/hexagon} = 12 \text{ sides}
+     \]
+
+Now, let's add up all the sides from each type of cookie cutter:
+- Total sides from triangles = 18
+- Total sides from squares = 16
+- Total sides from hexagons = 12
+
+Now, we will sum these totals:
+\[
+18 + 16 + 12 = 46
+\]
+
+Therefore, the total number of sides on all the cookie cutters is 46.
+</reasoning>
+<answer>46</answer>

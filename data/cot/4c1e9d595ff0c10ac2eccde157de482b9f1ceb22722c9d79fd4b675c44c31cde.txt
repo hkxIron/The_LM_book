@@ -1,0 +1,27 @@
+<reasoning>
+To determine how much money Jackson needs to set aside from each paycheck to save $3,000.00 in 15 months, we can follow these steps:
+
+1. **Calculate the total number of paychecks Jackson will receive in 15 months**:
+   Since Jackson gets paid 2 times a month, we multiply the number of months by the number of paychecks per month.
+   \[
+   \text{Total Paychecks} = 15 \text{ months} \times 2 \text{ paychecks/month} = 30 \text{ paychecks}
+   \]
+   This step is done to find out how many times he will receive a paycheck in the period he is saving.
+
+2. **Determine how much he needs to save from each paycheck**:
+   To find out how much he needs to set aside per paycheck, we divide the total amount he wants to save by the total number of paychecks.
+   \[
+   \text{Amount per Paycheck} = \frac{\text{Total Savings Goal}}{\text{Total Paychecks}} = \frac{3000}{30}
+   \]
+   Here, we are calculating the amount he needs to save each paycheck to reach his savings goal.
+
+3. **Perform the division**:
+   Now, we perform the division to find the amount he needs to save per paycheck.
+   \[
+   \text{Amount per Paycheck} = 100
+   \]
+   This means Jackson needs to save $100 from each paycheck.
+
+Therefore, Jackson needs to set aside $100 per paycheck to save enough for his vacation.
+</reasoning>
+<answer>100</answer>

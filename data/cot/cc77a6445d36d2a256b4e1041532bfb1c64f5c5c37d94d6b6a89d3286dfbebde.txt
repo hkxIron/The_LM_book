@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many bars of candy Mark took, we first need to calculate the amount of added sugar he consumed from the soft drink and then determine how many bars of candy he consumed based on the information given.
+
+1. **Calculate the added sugar from the soft drink:**
+   - The soft drink contains 2500 calories in total, and 5% of those calories are from added sugar.
+   - To find the calories from added sugar, we calculate 5% of 2500 calories:
+     \[
+     \text{Added sugar from soft drink} = 2500 \times 0.05 = 125 \text{ calories}
+     \]
+
+2. **Determine the recommended intake of added sugar:**
+   - The recommended maximum intake of added sugar for men is 150 calories.
+   - If Mark exceeded this amount by 100%, then he consumed:
+     \[
+     \text{Exceeded intake} = 150 \times 2 = 300 \text{ calories}
+     \]
+
+3. **Calculate the total added sugar Mark consumed:**
+   - We know he consumed 125 calories from the soft drink. Let \( x \) be the total calories from the candy bars he consumed. Therefore, we have:
+     \[
+     125 + x = 300
+     \]
+   - To find \( x \), we solve for \( x \):
+     \[
+     x = 300 - 125 = 175 \text{ calories from candy}
+     \]
+
+4. **Calculate how many bars of candy he took:**
+   - Each bar of candy has 25 calories of added sugar. To find the number of bars, we divide the total calories from candy by the calories per bar:
+     \[
+     \text{Number of bars} = \frac{175}{25} = 7
+     \]
+
+Therefore, Mark took a total of 7 bars of candy.
+</reasoning>
+<answer>7</answer>

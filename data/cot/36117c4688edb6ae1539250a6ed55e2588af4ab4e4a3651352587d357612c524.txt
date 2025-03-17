@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we need to determine how many cookies Marissa should give each kid so that their total lunch calories equal 750. 
+
+1. **Calculate the calories from the burger**: Each kid gets a burger with 400 calories.
+   \[
+   \text{Calories from burger} = 400 \text{ calories}
+   \]
+
+2. **Calculate the calories from the carrot sticks**: Each kid gets 5 carrot sticks, and each stick has 20 calories.
+   \[
+   \text{Calories from carrot sticks} = 5 \text{ sticks} \times 20 \text{ calories/stick} = 100 \text{ calories}
+   \]
+
+3. **Add the calories from the burger and carrot sticks**: 
+   \[
+   \text{Total calories from burger and carrot sticks} = 400 \text{ calories} + 100 \text{ calories} = 500 \text{ calories}
+   \]
+
+4. **Determine how many calories are left for cookies**: Since each kid's total lunch should be 750 calories, we subtract the calories already accounted for (from the burger and carrot sticks):
+   \[
+   \text{Calories left for cookies} = 750 \text{ calories} - 500 \text{ calories} = 250 \text{ calories}
+   \]
+
+5. **Calculate how many cookies can be given**: Each cookie has 50 calories, so we divide the remaining calories by the calories per cookie to find the number of cookies:
+   \[
+   \text{Number of cookies} = \frac{\text{Calories left for cookies}}{\text{Calories per cookie}} = \frac{250 \text{ calories}}{50 \text{ calories/cookie}} = 5 \text{ cookies}
+   \]
+
+Therefore, Marissa should give each kid 5 cookies to reach a total of 750 calories for lunch.
+</reasoning>
+<answer>5</answer>

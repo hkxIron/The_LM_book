@@ -1,0 +1,18 @@
+<reasoning>
+To find the total number of members in the Math club, we start by identifying the number of male members based on the information provided.
+
+1. **Identify the number of female members**: The problem states that there are 6 female members in the Math club. 
+
+2. **Determine the number of male members**: The problem also states that there are two times as many males as females. Since we have 6 females, we can calculate the number of males:
+   \[
+   \text{Number of males} = 2 \times \text{Number of females} = 2 \times 6 = 12
+   \]
+
+3. **Calculate the total number of members**: Now that we know there are 6 females and 12 males, we can find the total number of members in the Math club by adding the number of males and females together:
+   \[
+   \text{Total members} = \text{Number of males} + \text{Number of females} = 12 + 6 = 18
+   \]
+
+Therefore, the total number of members in the Math club is 18.
+</reasoning>
+<answer>18</answer>

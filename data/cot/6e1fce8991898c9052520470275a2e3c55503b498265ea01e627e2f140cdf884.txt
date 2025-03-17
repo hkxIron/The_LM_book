@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many fish Paul caught when he was fishing for 12 hours, we first need to determine how many fish he catches per hour.
+
+1. We know from the problem that Paul catches 5 fish for every 2 hours. To find out how many fish he catches in 1 hour, we can set up a ratio:
+   \[
+   \text{Fish per hour} = \frac{5 \text{ fish}}{2 \text{ hours}} = 2.5 \text{ fish per hour}
+   \]
+   This means Paul catches 2.5 fish for every hour he spends fishing.
+
+2. Next, we need to calculate the total number of fish Paul catches when he fishes for 12 hours. We can do this by multiplying the number of fish he catches per hour by the total number of hours he fishes:
+   \[
+   \text{Total fish} = 2.5 \text{ fish/hour} \times 12 \text{ hours}
+   \]
+
+3. Performing the multiplication gives us:
+   \[
+   \text{Total fish} = 2.5 \times 12 = 30 \text{ fish}
+   \]
+
+Thus, after fishing for 12 hours, Paul caught a total of 30 fish.
+</reasoning>
+<answer>30</answer>

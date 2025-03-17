@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, we'll begin by calculating the total number of eggs Rhea buys in a week and then determine how many eggs are consumed by her family. Finally, we'll find out how many eggs are left over.
+
+1. **Calculate the total number of eggs Rhea buys each week:**
+   Rhea buys 2 trays of eggs each week. Since each tray contains 24 eggs, we can find the total number of eggs by multiplying the number of trays by the number of eggs per tray.
+
+   \[
+   \text{Total eggs bought} = \text{Number of trays} \times \text{Eggs per tray} = 2 \times 24 = 48
+   \]
+
+   So, Rhea buys a total of 48 eggs each week.
+
+2. **Calculate the total number of eggs consumed by the family each week:**
+   - The son and daughter eat 2 eggs every morning. Since there are 7 days in a week, we calculate their total weekly consumption:
+   
+   \[
+   \text{Total eggs eaten by son and daughter} = 2 \times 7 = 14
+   \]
+
+   - Rhea and her husband eat 4 eggs every night. Again, for 7 days, we calculate their total weekly consumption:
+
+   \[
+   \text{Total eggs eaten by Rhea and husband} = 4 \times 7 = 28
+   \]
+
+   - Now, we add the total eggs consumed by both groups:
+   
+   \[
+   \text{Total eggs consumed} = \text{Total by son and daughter} + \text{Total by Rhea and husband} = 14 + 28 = 42
+   \]
+
+3. **Calculate the number of eggs not being eaten:**
+   Now that we have the total number of eggs bought and the total consumed, we can find how many eggs are left over.
+
+   \[
+   \text{Eggs not eaten} = \text{Total eggs bought} - \text{Total eggs consumed} = 48 - 42 = 6
+   \]
+
+Thus, Rhea has 6 eggs that are not being eaten every week.
+</reasoning>
+<answer>6</answer>

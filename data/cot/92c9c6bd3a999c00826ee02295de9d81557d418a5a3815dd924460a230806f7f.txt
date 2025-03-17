@@ -1,0 +1,35 @@
+<reasoning>
+First, we need to determine how many slices of pizza were eaten by the family. Since the pizza has 16 slices in total and three-fourths of the pizza was eaten, we can calculate the number of slices eaten as follows:
+
+1. Calculate three-fourths of 16 slices:
+   \[
+   \text{Slices eaten} = \frac{3}{4} \times 16
+   \]
+
+   To do this multiplication, we can first calculate \(3 \times 16\):
+   \[
+   3 \times 16 = 48
+   \]
+   
+   Now we divide 48 by 4:
+   \[
+   \frac{48}{4} = 12
+   \]
+
+   Thus, the family ate 12 slices of pizza.
+
+Next, we need to find out how many slices are left after the family has eaten:
+
+2. Subtract the number of slices eaten from the total number of slices:
+   \[
+   \text{Slices left} = \text{Total slices} - \text{Slices eaten} = 16 - 12
+   \]
+
+   Performing the subtraction:
+   \[
+   16 - 12 = 4
+   \]
+
+Therefore, after the family ate three-fourths of the pizza, there are 4 slices left.
+</reasoning>
+<answer>4</answer>

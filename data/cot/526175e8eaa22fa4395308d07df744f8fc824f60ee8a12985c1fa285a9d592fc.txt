@@ -1,0 +1,43 @@
+<reasoning>
+Let's denote the total amount of money James won as \( x \).
+
+1. First, James donates half of his winnings back to the charity. This means he donates:
+   \[
+   \frac{x}{2}
+   \]
+
+2. After donating half, the amount of money he has left is:
+   \[
+   x - \frac{x}{2} = \frac{x}{2}
+   \]
+   This is because he started with \( x \) and gave away \( \frac{x}{2} \).
+
+3. Next, James spends $2 on a hot dog. So, the amount he has left after spending this money is:
+   \[
+   \frac{x}{2} - 2
+   \]
+
+4. We know that after all these transactions, James has $55 left. Therefore, we can set up the equation:
+   \[
+   \frac{x}{2} - 2 = 55
+   \]
+
+5. Now, let's solve for \( x \). First, we add 2 to both sides of the equation to isolate the term with \( x \):
+   \[
+   \frac{x}{2} = 55 + 2
+   \]
+   \[
+   \frac{x}{2} = 57
+   \]
+
+6. Next, we multiply both sides of the equation by 2 to solve for \( x \):
+   \[
+   x = 57 \times 2
+   \]
+   \[
+   x = 114
+   \]
+
+Thus, James won a total of $114.
+</reasoning>
+<answer>114</answer>

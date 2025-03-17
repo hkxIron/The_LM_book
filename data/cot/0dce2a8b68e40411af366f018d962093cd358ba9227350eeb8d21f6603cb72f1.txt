@@ -1,0 +1,27 @@
+<reasoning>
+To find out the total charges for Emmanuel in December, we need to calculate two parts: the cost of the international data for the 10 days and the regular monthly plan cost.
+
+1. **Calculate the cost of the international data:**
+   Emmanuel will stay in Guam for 10 days, and the cost for using international data is $3.50 per day. 
+
+   We can calculate the total cost for the international data by multiplying the daily rate by the number of days:
+   \[
+   \text{International Data Cost} = \text{Daily Rate} \times \text{Number of Days}
+   \]
+   \[
+   \text{International Data Cost} = 3.50 \times 10 = 35.00
+   \]
+
+2. **Add the regular monthly plan cost:**
+   Emmanuel has a regular monthly plan that costs $175. Since he will still need this plan even while using international data, we add this cost to the international data cost.
+
+   \[
+   \text{Total Cost for December} = \text{Regular Plan Cost} + \text{International Data Cost}
+   \]
+   \[
+   \text{Total Cost for December} = 175 + 35 = 210
+   \]
+
+Thus, the total charges for Emmanuel in December will be $210.
+</reasoning>
+<answer>210</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+To determine the cost of the bond paper needed for the office, we first need to find out how many reams of paper are required.
+
+1. **Calculate the number of reams needed**:  
+   Since each ream contains 500 sheets, we can find out how many reams are needed for 5000 sheets by dividing the total number of sheets by the number of sheets per ream.  
+   \[
+   \text{Number of reams} = \frac{\text{Total sheets needed}}{\text{Sheets per ream}} = \frac{5000 \text{ sheets}}{500 \text{ sheets per ream}} = 10 \text{ reams}
+   \]
+
+2. **Calculate the total cost**:  
+   Each ream costs $27. To find the total cost for 10 reams, we multiply the number of reams by the cost per ream.  
+   \[
+   \text{Total cost} = \text{Number of reams} \times \text{Cost per ream} = 10 \text{ reams} \times 27 \text{ dollars per ream} = 270 \text{ dollars}
+   \]
+
+Therefore, the office will need to spend $270 to buy their needed sheets of paper.
+</reasoning>
+<answer>270</answer>

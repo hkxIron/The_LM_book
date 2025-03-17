@@ -1,0 +1,42 @@
+<reasoning>
+To find the number of non-pizza eaters at Esme's school, we need to first determine how many teachers and staff members ate pizza, then subtract these numbers from the total number of teachers and staff.
+
+1. **Calculate the number of teachers who ate pizza:**
+   - The total number of teachers is 30.
+   - According to the problem, 2/3 of the teachers ate pizza.
+   - We calculate the number of teachers who ate pizza by multiplying the total number of teachers by 2/3:
+     \[
+     \text{Teachers who ate pizza} = 30 \times \frac{2}{3} = 20
+     \]
+   - This means 20 teachers ate pizza.
+
+2. **Calculate the number of staff members who ate pizza:**
+   - The total number of staff members is 45.
+   - According to the problem, 4/5 of the staff members ate pizza.
+   - We calculate the number of staff members who ate pizza by multiplying the total number of staff members by 4/5:
+     \[
+     \text{Staff members who ate pizza} = 45 \times \frac{4}{5} = 36
+     \]
+   - This means 36 staff members ate pizza.
+
+3. **Calculate the total number of pizza eaters:**
+   - Now we add the number of teachers and staff members who ate pizza:
+     \[
+     \text{Total pizza eaters} = \text{Teachers who ate pizza} + \text{Staff members who ate pizza} = 20 + 36 = 56
+     \]
+
+4. **Calculate the total number of people at the school:**
+   - The total number of teachers and staff members at Esme's school is:
+     \[
+     \text{Total people} = 30 + 45 = 75
+     \]
+
+5. **Calculate the number of non-pizza eaters:**
+   - We subtract the total number of pizza eaters from the total number of people to find the number of non-pizza eaters:
+     \[
+     \text{Non-pizza eaters} = \text{Total people} - \text{Total pizza eaters} = 75 - 56 = 19
+     \]
+
+Therefore, the number of non-pizza eaters at Esme's school is 19.
+</reasoning>
+<answer>19</answer>

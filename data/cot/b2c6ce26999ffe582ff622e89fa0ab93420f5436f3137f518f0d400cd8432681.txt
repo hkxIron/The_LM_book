@@ -1,0 +1,35 @@
+<reasoning>
+First, we need to calculate how many pieces of construction paper Kelly originally needed for her 8 students. Each student needs 3 pieces of construction paper.
+
+1. Calculate the total construction paper needed:
+   \[
+   \text{Total construction paper} = \text{Number of students} \times \text{Pieces per student} = 8 \times 3 = 24
+   \]
+   Therefore, Kelly needs a total of 24 pieces of construction paper.
+
+2. Next, we note that Kelly also needs to buy 6 bottles of glue.
+
+3. Now we can calculate the total number of supplies Kelly initially purchased, which includes both the construction paper and the glue:
+   \[
+   \text{Total supplies initially} = \text{Total construction paper} + \text{Bottles of glue} = 24 + 6 = 30
+   \]
+   So Kelly initially had 30 supplies.
+
+4. After buying the supplies, Kelly accidentally dropped half of them down a storm drain. We need to find out how many supplies were lost:
+   \[
+   \text{Supplies lost} = \frac{1}{2} \times \text{Total supplies initially} = \frac{1}{2} \times 30 = 15
+   \]
+
+5. Now we can calculate how many supplies Kelly has left after losing half:
+   \[
+   \text{Supplies left after loss} = \text{Total supplies initially} - \text{Supplies lost} = 30 - 15 = 15
+   \]
+
+6. Kelly then buys 5 more pieces of construction paper. We add this to the supplies she has left:
+   \[
+   \text{Total supplies after buying more} = \text{Supplies left after loss} + \text{Additional construction paper} = 15 + 5 = 20
+   \]
+
+Therefore, after all the calculations, the total number of supplies Kelly has left is:
+</reasoning>
+<answer>20</answer>

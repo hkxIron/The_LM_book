@@ -1,0 +1,26 @@
+<reasoning>
+First, we need to determine how many flowers Avery has in total based on the original bunch configuration.
+
+1. **Calculate the total number of flowers:**
+   Avery has 8 bunches, and each bunch contains 9 flowers. To find the total number of flowers, we multiply the number of bunches by the number of flowers per bunch:
+   \[
+   \text{Total flowers} = \text{Number of bunches} \times \text{Flowers per bunch} = 8 \times 9
+   \]
+   \[
+   \text{Total flowers} = 72
+   \]
+   Here, I multiplied 8 by 9 to find the total number of flowers in the shop.
+
+2. **Determine how many bunches she would have if she puts 12 flowers in each bunch:**
+   Now that we know Avery has 72 flowers in total, we need to find out how many bunches she can make if each bunch contains 12 flowers. We do this by dividing the total number of flowers by the number of flowers per bunch:
+   \[
+   \text{Number of bunches} = \frac{\text{Total flowers}}{\text{Flowers per bunch}} = \frac{72}{12}
+   \]
+   \[
+   \text{Number of bunches} = 6
+   \]
+   Here, I divided 72 by 12 to find out how many bunches can be made with the new configuration.
+
+Therefore, if Avery puts 12 flowers in each bunch, she would have 6 bunches.
+</reasoning>
+<answer>6</answer>

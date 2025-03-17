@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we need to calculate the total number of legs for the animals Adlai has, which are 2 dogs and 1 chicken.
+
+1. **Identify the number of legs each type of animal has**:
+   - A dog has 4 legs.
+   - A chicken has 2 legs.
+
+2. **Calculate the total number of legs from the dogs**:
+   - Since Adlai has 2 dogs, we calculate the legs contributed by the dogs:
+   \[
+   \text{Legs from dogs} = 2 \text{ dogs} \times 4 \text{ legs/dog} = 8 \text{ legs}
+   \]
+
+3. **Calculate the total number of legs from the chicken**:
+   - Since Adlai has 1 chicken, we calculate the legs contributed by the chicken:
+   \[
+   \text{Legs from chicken} = 1 \text{ chicken} \times 2 \text{ legs/chicken} = 2 \text{ legs}
+   \]
+
+4. **Add the legs from both dogs and the chicken together**:
+   - Now we sum the legs from the dogs and the chicken to find the total number of animal legs:
+   \[
+   \text{Total legs} = \text{Legs from dogs} + \text{Legs from chicken} = 8 \text{ legs} + 2 \text{ legs} = 10 \text{ legs}
+   \]
+
+Therefore, the total number of animal legs is 10.
+</reasoning>
+<answer>10</answer>

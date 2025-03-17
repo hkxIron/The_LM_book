@@ -1,0 +1,34 @@
+<reasoning>
+First, let's start by determining the proportion of individuals who like football from the given data. 
+
+1. We know that 24 out of 60 individuals like football. To find the proportion of people who like football, we can set up the ratio:
+   \[
+   \text{Proportion of individuals who like football} = \frac{24}{60}
+   \]
+
+2. Now, we'll simplify this fraction:
+   \[
+   \frac{24 \div 12}{60 \div 12} = \frac{2}{5}
+   \]
+   This means that 2 out of every 5 individuals like football.
+
+3. Next, we need to find out how many individuals in a group of 250 like football. We can use the proportion we just calculated:
+   \[
+   \text{Number of individuals who like football} = \frac{2}{5} \times 250
+   \]
+
+4. Now, we calculate the above expression:
+   \[
+   \frac{2 \times 250}{5} = \frac{500}{5} = 100
+   \]
+   So, 100 individuals out of 250 like football.
+
+5. From the problem statement, we know that 50% of those who like football actually play it. We need to find out how many individuals play football:
+   \[
+   \text{Number of individuals who play football} = 50\% \text{ of } 100 = \frac{50}{100} \times 100 = 50
+   \]
+   Therefore, 50 individuals play football.
+
+Putting it all together, we have determined that out of a group of 250 individuals, 50 individuals play football.
+</reasoning>
+<answer>50</answer>

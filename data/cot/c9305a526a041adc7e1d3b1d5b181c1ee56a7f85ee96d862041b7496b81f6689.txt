@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we'll follow these steps:
+
+1. **Determine the number of blue chips**: 
+   We know that one-sixth of the chips are blue. Since there are 60 pieces of chips in total, we calculate the number of blue chips as follows:
+   \[
+   \text{Number of blue chips} = \frac{1}{6} \times 60 = 10
+   \]
+   This means there are 10 blue chips in Lara's bag.
+
+2. **Identify the number of red chips**:
+   The problem states that there are 34 red chips. 
+
+3. **Calculate the total number of chips accounted for**:
+   We add the number of blue and red chips together to see how many chips we have accounted for so far:
+   \[
+   \text{Total accounted chips} = \text{Number of blue chips} + \text{Number of red chips} = 10 + 34 = 44
+   \]
+   So far, we have accounted for 44 chips.
+
+4. **Determine the number of green chips**:
+   To find out how many chips are green, we subtract the total accounted chips from the total number of chips in the bag:
+   \[
+   \text{Number of green chips} = \text{Total chips} - \text{Total accounted chips} = 60 - 44 = 16
+   \]
+
+After going through these steps, we find that there are 16 green chips in Lara's bag.
+</reasoning>
+<answer>16</answer>

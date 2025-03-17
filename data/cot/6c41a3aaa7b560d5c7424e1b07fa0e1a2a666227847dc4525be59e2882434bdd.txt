@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we need to determine the total cooking time for Carla to prepare 3 chicken-fried steaks and 1 batch of waffles.
+
+1. **Calculate the time to cook 3 steaks:**
+   - We know it takes Carla 6 minutes to cook one chicken-fried steak.
+   - To find the time for 3 steaks, we multiply the time for one steak by 3:
+     \[
+     \text{Time for 3 steaks} = 3 \times 6 \text{ minutes} = 18 \text{ minutes}
+     \]
+
+2. **Calculate the time to cook 1 batch of waffles:**
+   - It is given that Carla takes 10 minutes to cook a batch of waffles.
+
+3. **Add the total cooking times:**
+   - Now, we need to add the time for the 3 steaks and the time for the waffles:
+     \[
+     \text{Total time} = \text{Time for 3 steaks} + \text{Time for 1 batch of waffles}
+     \]
+     \[
+     \text{Total time} = 18 \text{ minutes} + 10 \text{ minutes} = 28 \text{ minutes}
+     \]
+
+Therefore, the total time it will take Carla to cook 3 chicken-fried steaks and a batch of waffles is 28 minutes.
+</reasoning>
+<answer>28</answer>

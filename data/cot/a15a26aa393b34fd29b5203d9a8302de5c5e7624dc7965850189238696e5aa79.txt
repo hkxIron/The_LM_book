@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many cards John has after accounting for his decks and the cards he throws away, we will follow these steps:
+
+1. **Calculate the total number of cards from the full decks**: 
+   - John has 3 full decks of cards.
+   - Each full deck contains 52 cards.
+   - Therefore, the number of cards from the full decks is:
+     \[
+     3 \text{ decks} \times 52 \text{ cards/deck} = 156 \text{ cards}
+     \]
+
+2. **Calculate the total number of cards from the half-full decks**:
+   - John has 3 half-full decks of cards.
+   - Each half-full deck contains half the number of cards in a full deck, which is:
+     \[
+     \frac{52}{2} = 26 \text{ cards}
+     \]
+   - Therefore, the number of cards from the half-full decks is:
+     \[
+     3 \text{ decks} \times 26 \text{ cards/deck} = 78 \text{ cards}
+     \]
+
+3. **Calculate the total number of cards before throwing any away**:
+   - Now, we add the cards from the full decks and the half-full decks:
+     \[
+     156 \text{ cards} + 78 \text{ cards} = 234 \text{ cards}
+     \]
+
+4. **Subtract the cards that John throws away**:
+   - John decides to throw away 34 cards.
+   - Therefore, the total number of cards John has after throwing some away is:
+     \[
+     234 \text{ cards} - 34 \text{ cards} = 200 \text{ cards}
+     \]
+
+After performing all these calculations and ensuring that the steps are clear, we find that John now has a total of 200 cards.
+</reasoning>
+<answer>200</answer>

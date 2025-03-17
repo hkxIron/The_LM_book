@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many minutes Jeff was able to run for the week, we will calculate his total running time on each day of the weekdays.
+
+1. **Determine the usual running time**: Jeff runs for 1 hour each weekday. Since 1 hour equals 60 minutes, we can say:
+   - Normal run time per day = 60 minutes.
+
+2. **Calculate the running time for Thursday**: On Thursday, Jeff cut short his run by 20 minutes. Therefore, the time he ran on Thursday is:
+   - Running time on Thursday = 60 minutes - 20 minutes = 40 minutes.
+
+3. **Calculate the running time for Friday**: On Friday, Jeff jogged 10 minutes more than his usual time. Thus, the time he ran on Friday is:
+   - Running time on Friday = 60 minutes + 10 minutes = 70 minutes.
+
+4. **Calculate the running time for the other weekdays**: Jeff runs 60 minutes on the other three weekdays (Monday, Tuesday, and Wednesday). Therefore:
+   - Running time on Monday = 60 minutes.
+   - Running time on Tuesday = 60 minutes.
+   - Running time on Wednesday = 60 minutes.
+
+5. **Sum up the total running time for the week**: To find the total minutes he ran for the week, we will add up the running time for all five days:
+   - Total running time = Running time on Monday + Tuesday + Wednesday + Thursday + Friday
+   - Total running time = 60 + 60 + 60 + 40 + 70
+
+Now, let's do the addition step-by-step:
+- First, add the three weekdays: 
+  60 + 60 + 60 = 180 minutes.
+- Then add Thursday's running time:
+  180 + 40 = 220 minutes.
+- Finally, add Friday's running time:
+  220 + 70 = 290 minutes.
+
+Therefore, the total running time for that week is 290 minutes.
+</reasoning>
+<answer>290</answer>

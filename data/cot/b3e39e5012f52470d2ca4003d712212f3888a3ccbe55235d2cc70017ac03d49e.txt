@@ -1,0 +1,26 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the initial number of sodas Marcy has:** 
+   Marcy starts with 22 sodas in her fridge.
+
+2. **Determine how many sodas Tina gives to Marcy:**
+   According to the problem, Tina gives Marcy 12 sodas plus two times the number of sodas Marcy originally had. 
+   Since Marcy had 22 sodas, we need to calculate two times that amount:
+   \[
+   2 \times 22 = 44
+   \]
+   So, Tina gives Marcy:
+   \[
+   12 + 44 = 56 \text{ sodas}
+   \]
+
+3. **Calculate the total number of sodas Marcy will have after receiving from Tina:**
+   Now, we need to add the number of sodas Tina gives to the number Marcy originally had:
+   \[
+   22 + 56 = 78
+   \]
+
+Therefore, after receiving the sodas from Tina, Marcy will have a total of 78 sodas for the party.
+</reasoning>
+<answer>78</answer>

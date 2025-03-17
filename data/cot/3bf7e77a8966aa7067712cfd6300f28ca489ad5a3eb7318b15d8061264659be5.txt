@@ -1,0 +1,23 @@
+<reasoning>
+Let's solve this problem step by step.
+
+1. **Start with the number of daisies Kylie originally has.** Kylie has 5 daisies to begin with.
+
+2. **Add the daisies given by her sister.** Kylie’s sister gave her another 9 daisies. So we can calculate the total number of daisies Kylie has now:
+   \[
+   5 \text{ (original daisies)} + 9 \text{ (sister's daisies)} = 14 \text{ daisies}
+   \]
+
+3. **Determine how many daisies Kylie gives to her mother.** Kylie then gives half of her daisies to her mother. To find out how many daisies that is, we need to take half of the total she now has:
+   \[
+   \frac{14}{2} = 7 \text{ daisies}
+   \]
+
+4. **Subtract the daisies given to her mother from her total.** Now, we subtract the 7 daisies that Kylie gave to her mother from the 14 daisies she had:
+   \[
+   14 \text{ (total daisies)} - 7 \text{ (daisies given to mother)} = 7 \text{ daisies left}
+   \]
+
+Thus, after giving half of her daisies to her mother, Kylie has 7 daisies left.
+</reasoning>
+<answer>7</answer>

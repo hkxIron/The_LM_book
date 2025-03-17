@@ -1,0 +1,26 @@
+<reasoning>
+To find the cost of each printer, we can start by determining the total cost of the keyboards and then use that information to find the remaining amount spent on the printers.
+
+1. **Calculate the total cost of the keyboards:**
+   - The cost of one keyboard is given as $20.
+   - The merchant bought 15 keyboards, so we multiply the number of keyboards by the cost of each.
+   \[
+   \text{Total cost of keyboards} = 15 \text{ keyboards} \times 20 \text{ dollars/keyboard} = 300 \text{ dollars}
+   \]
+
+2. **Determine the total amount spent on printers:**
+   - The total amount spent on both keyboards and printers is $2050.
+   - We subtract the total cost of the keyboards from the total amount spent to find the total cost of the printers.
+   \[
+   \text{Total cost of printers} = 2050 \text{ dollars} - 300 \text{ dollars} = 1750 \text{ dollars}
+   \]
+
+3. **Calculate the cost of one printer:**
+   - The merchant bought 25 printers, and we are looking for the cost of each printer. We divide the total cost of the printers by the number of printers.
+   \[
+   \text{Cost per printer} = \frac{1750 \text{ dollars}}{25 \text{ printers}} = 70 \text{ dollars/printer}
+   \]
+
+Thus, the cost of each printer is $70.
+</reasoning>
+<answer>70</answer>

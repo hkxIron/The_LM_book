@@ -1,0 +1,41 @@
+<reasoning>
+To find out how much time Adam spent at school during these three days, we will calculate the time spent each day step by step.
+
+1. **Calculate the time spent on Monday:**
+   - Adam had 6 lessons of 30 minutes each.
+   - First, we multiply the number of lessons by the duration of each lesson:
+     \[
+     6 \text{ lessons} \times 30 \text{ minutes/lesson} = 180 \text{ minutes}
+     \]
+   - Next, we convert minutes into hours since the final answer needs to be in hours:
+     \[
+     180 \text{ minutes} \div 60 \text{ minutes/hour} = 3 \text{ hours}
+     \]
+
+2. **Calculate the time spent on Tuesday:**
+   - Adam had 3 lessons of 1 hour each.
+   - We multiply the number of lessons by the duration of each lesson:
+     \[
+     3 \text{ lessons} \times 1 \text{ hour/lesson} = 3 \text{ hours}
+     \]
+
+3. **Calculate the time spent on Wednesday:**
+   - According to the problem, Adam spent twice as much time at school on Wednesday as he did on Tuesday.
+   - Since he spent 3 hours on Tuesday, we calculate Wednesday's time as follows:
+     \[
+     2 \times 3 \text{ hours} = 6 \text{ hours}
+     \]
+
+4. **Calculate the total time spent over the three days:**
+   - Now, we will sum the time spent on each day:
+     \[
+     \text{Total time} = \text{Monday} + \text{Tuesday} + \text{Wednesday} = 3 \text{ hours} + 3 \text{ hours} + 6 \text{ hours}
+     \]
+   - Adding these together:
+     \[
+     3 + 3 + 6 = 12 \text{ hours}
+     \]
+
+Therefore, Adam spent a total of 12 hours at school during these three days.
+</reasoning>
+<answer>12</answer>

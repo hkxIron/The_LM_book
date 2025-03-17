@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many glasses Wendy polished in total, we need to first determine the number of large glasses she polished.
+
+1. **Identify the number of small glasses polished**: 
+   Wendy polished 50 small glasses. This is given in the problem.
+
+2. **Determine the number of large glasses polished**:
+   The problem states that Wendy polished 10 more large glasses than small glasses. Since she polished 50 small glasses, we can calculate the number of large glasses by adding 10 to the number of small glasses:
+   
+   \[
+   \text{Number of large glasses} = \text{Number of small glasses} + 10 = 50 + 10 = 60
+   \]
+
+3. **Calculate the total number of glasses polished**:
+   To find the total number of glasses Wendy polished, we add the number of small glasses to the number of large glasses:
+   
+   \[
+   \text{Total glasses} = \text{Number of small glasses} + \text{Number of large glasses} = 50 + 60 = 110
+   \]
+
+Therefore, after performing the calculations step by step, we find that Wendy polished a total of 110 glasses.
+</reasoning>
+<answer>110</answer>

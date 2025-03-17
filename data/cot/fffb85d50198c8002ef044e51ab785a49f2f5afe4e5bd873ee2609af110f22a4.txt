@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many more toys Mohamed donated compared to Leila, we'll first calculate the total number of toys each of them donated.
+
+1. **Calculate Leila's total donation:**
+   - Leila donated 2 bags with 25 toys in each bag.
+   - To find the total number of toys Leila donated, we multiply the number of bags by the number of toys per bag:
+   \[
+   \text{Total toys donated by Leila} = 2 \text{ bags} \times 25 \text{ toys/bag} = 50 \text{ toys}
+   \]
+
+2. **Calculate Mohamed's total donation:**
+   - Mohamed donated 3 bags with 19 toys in each bag.
+   - To find the total number of toys Mohamed donated, we multiply the number of bags by the number of toys per bag:
+   \[
+   \text{Total toys donated by Mohamed} = 3 \text{ bags} \times 19 \text{ toys/bag} = 57 \text{ toys}
+   \]
+
+3. **Determine how many more toys Mohamed donated compared to Leila:**
+   - Now we subtract the total number of toys Leila donated from the total number of toys Mohamed donated:
+   \[
+   \text{Difference} = \text{Total toys donated by Mohamed} - \text{Total toys donated by Leila}
+   \]
+   \[
+   \text{Difference} = 57 \text{ toys} - 50 \text{ toys} = 7 \text{ toys}
+   \]
+
+Thus, Mohamed donated 7 more toys than Leila.
+</reasoning>
+<answer>7</answer>

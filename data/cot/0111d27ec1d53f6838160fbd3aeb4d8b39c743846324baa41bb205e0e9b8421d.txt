@@ -1,0 +1,56 @@
+<reasoning>
+To find the average typed words per minute for the team, we need to follow these steps:
+
+1. **Add the typing speeds of all employees together**: This will give us the total number of words typed per minute by the entire team.
+   
+   - Rudy's speed: 64 words/min
+   - Joyce's speed: 76 words/min
+   - Gladys's speed: 91 words/min
+   - Lisa's speed: 80 words/min
+   - Mike's speed: 89 words/min
+
+   Now, we will calculate the total:
+
+   \[
+   \text{Total speed} = 64 + 76 + 91 + 80 + 89
+   \]
+
+   I will add these values step by step:
+
+   - First, add Rudy and Joyce: 
+     \[
+     64 + 76 = 140
+     \]
+
+   - Then, add Gladys:
+     \[
+     140 + 91 = 231
+     \]
+
+   - Next, add Lisa:
+     \[
+     231 + 80 = 311
+     \]
+
+   - Finally, add Mike:
+     \[
+     311 + 89 = 400
+     \]
+
+   So, the total speed of the team is 400 words per minute.
+
+2. **Divide the total typing speed by the number of employees**: Since there are 5 employees, we will divide the total speed by 5 to find the average speed.
+
+   \[
+   \text{Average speed} = \frac{\text{Total speed}}{\text{Number of employees}} = \frac{400}{5}
+   \]
+
+   Now, calculating the average:
+
+   \[
+   \frac{400}{5} = 80
+   \]
+
+Therefore, the average typed words per minute for the team is 80.
+</reasoning>
+<answer>80</answer>

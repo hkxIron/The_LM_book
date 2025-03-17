@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step to find out how much Maria earned over the three days.
+
+**Step 1: Calculate the sales for each day.**
+
+- **Day 1:**
+  - Tulips sold: 30
+  - Roses sold: 20
+  
+- **Day 2:**
+  - Maria doubled her sales from Day 1.
+  - Tulips sold: 30 * 2 = 60
+  - Roses sold: 20 * 2 = 40
+
+- **Day 3:**
+  - Maria sold 10% of the tulips sold on Day 2 and 16 roses.
+  - Tulips sold on Day 3: 10% of 60 = 0.10 * 60 = 6
+  - Roses sold: 16
+
+**Step 2: Calculate the total number of flowers sold over the three days.**
+- Total tulips sold:
+  - Day 1: 30
+  - Day 2: 60
+  - Day 3: 6
+  - Total tulips = 30 + 60 + 6 = 96
+
+- Total roses sold:
+  - Day 1: 20
+  - Day 2: 40
+  - Day 3: 16
+  - Total roses = 20 + 40 + 16 = 76
+
+**Step 3: Calculate the total earnings from tulips and roses.**
+
+- Price of one tulip = $2
+- Price of one rose = $3
+
+**Calculating earnings from tulips:**
+- Earnings from tulips = Total tulips sold * Price per tulip
+- Earnings from tulips = 96 * 2 = $192
+
+**Calculating earnings from roses:**
+- Earnings from roses = Total roses sold * Price per rose
+- Earnings from roses = 76 * 3 = $228
+
+**Step 4: Calculate the total earnings.**
+- Total earnings = Earnings from tulips + Earnings from roses
+- Total earnings = $192 + $228 = $420
+
+Therefore, after calculating all the sales and earnings, we find that Maria earned a total of $420 over the three days.
+</reasoning>
+<answer>420</answer>

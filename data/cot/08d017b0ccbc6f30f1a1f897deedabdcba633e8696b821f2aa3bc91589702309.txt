@@ -1,0 +1,34 @@
+<reasoning>
+To determine how much you can save per apple by buying from the second store instead of the first store, we need to calculate the cost per apple at each store and then find the difference.
+
+1. **Calculate the cost per apple at the first store**:
+   - The first store charges $3 for 6 apples.
+   - To find the cost per apple, we divide the total price by the number of apples:
+     \[
+     \text{Cost per apple at first store} = \frac{3 \text{ dollars}}{6 \text{ apples}} = 0.5 \text{ dollars per apple}
+     \]
+   - Since we want the answer in cents, we convert dollars to cents:
+     \[
+     0.5 \text{ dollars} = 0.5 \times 100 = 50 \text{ cents per apple}
+     \]
+
+2. **Calculate the cost per apple at the second store**:
+   - The second store charges $4 for 10 apples.
+   - Similarly, we find the cost per apple:
+     \[
+     \text{Cost per apple at second store} = \frac{4 \text{ dollars}}{10 \text{ apples}} = 0.4 \text{ dollars per apple}
+     \]
+   - Converting this to cents:
+     \[
+     0.4 \text{ dollars} = 0.4 \times 100 = 40 \text{ cents per apple}
+     \]
+
+3. **Calculate the savings per apple**:
+   - Now we subtract the cost per apple at the second store from the cost per apple at the first store:
+     \[
+     \text{Savings per apple} = 50 \text{ cents per apple} - 40 \text{ cents per apple} = 10 \text{ cents per apple}
+     \]
+
+Therefore, by buying from the second store, you save 10 cents on each apple compared to buying from the first store.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine how many fish Perry caught.**
+   - Jordan caught 4 fish.
+   - Perry caught double what Jordan caught, which means:
+     \[
+     \text{Perry's fish} = 2 \times \text{Jordan's fish} = 2 \times 4 = 8
+     \]
+
+2. **Calculate the total number of fish caught.**
+   - To find the total catch, we add the number of fish caught by Jordan and Perry:
+     \[
+     \text{Total fish} = \text{Jordan's fish} + \text{Perry's fish} = 4 + 8 = 12
+     \]
+
+3. **Determine how many fish were lost when the boat tipped over.**
+   - They lost one-fourth of their total catch. To find out how many fish that is, we calculate:
+     \[
+     \text{Fish lost} = \frac{1}{4} \times \text{Total fish} = \frac{1}{4} \times 12 = 3
+     \]
+
+4. **Calculate how many fish remain after the loss.**
+   - To find the remaining fish, we subtract the number of fish lost from the total number of fish caught:
+     \[
+     \text{Fish remaining} = \text{Total fish} - \text{Fish lost} = 12 - 3 = 9
+     \]
+
+Therefore, after losing some fish in the incident, Jordan and Perry have 9 fish remaining.
+</reasoning>
+<answer>9</answer>

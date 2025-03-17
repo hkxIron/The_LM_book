@@ -1,0 +1,43 @@
+<reasoning>
+Let's define the amount Greg spent on the shirt as \( x \) dollars. According to the problem, the amount spent on shoes is 9 dollars more than twice the amount spent on the shirt. We can express this as:
+
+Amount spent on shoes = \( 2x + 9 \)
+
+Now, we know that the total amount spent on both the shirt and the shoes is 300 dollars. Therefore, we can set up the following equation:
+
+\[
+x + (2x + 9) = 300
+\]
+
+Next, we'll simplify the equation by combining like terms:
+
+\[
+x + 2x + 9 = 300
+\]
+\[
+3x + 9 = 300
+\]
+
+Now, we will isolate \( 3x \) by subtracting 9 from both sides:
+
+\[
+3x = 300 - 9
+\]
+\[
+3x = 291
+\]
+
+Next, we will solve for \( x \) by dividing both sides by 3:
+
+\[
+x = \frac{291}{3}
+\]
+\[
+x = 97
+\]
+
+Now that we have found \( x \), which represents the amount Greg spent on the shirt, we conclude that:
+
+Therefore, Greg spent 97 dollars on the shirt.
+</reasoning>
+<answer>97</answer>

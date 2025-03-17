@@ -1,0 +1,43 @@
+<reasoning>
+To solve this problem, we will first determine how many adults there are in the church, and then find out how many children are there. Finally, we will calculate the difference between the number of children and adults.
+
+1. **Calculate the number of adults**: We know that 40% of the church members are adults. To find the number of adults, we multiply the total number of members by 40%.
+
+   \[
+   \text{Number of adults} = 120 \times 0.40
+   \]
+
+   Performing the calculation:
+   \[
+   120 \times 0.40 = 48
+   \]
+
+   This means there are 48 adults in the church.
+
+2. **Calculate the number of children**: The rest of the members are children. Since there are 120 members in total, we can find the number of children by subtracting the number of adults from the total number of members.
+
+   \[
+   \text{Number of children} = 120 - 48
+   \]
+
+   Performing the calculation:
+   \[
+   120 - 48 = 72
+   \]
+
+   This means there are 72 children in the church.
+
+3. **Calculate how many more children there are than adults**: To find out how many more children there are than adults, we subtract the number of adults from the number of children.
+
+   \[
+   \text{Difference} = 72 - 48
+   \]
+
+   Performing the calculation:
+   \[
+   72 - 48 = 24
+   \]
+
+Thus, there are 24 more children than adults.
+</reasoning>
+<answer>24</answer>

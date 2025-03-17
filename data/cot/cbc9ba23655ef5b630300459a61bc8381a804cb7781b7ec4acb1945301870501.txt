@@ -1,0 +1,58 @@
+<reasoning>
+To solve this problem, we need to determine how much the paying students need to contribute to cover the cost of feeding all students, including those who receive free lunches.
+
+1. **Determine the total number of students**: 
+   We know that 40% of students receive a free lunch. This means that 60% of the students are paying students. Let's denote the total number of students as \( N \).
+
+2. **Calculate the number of students receiving free lunch**:
+   Since 40% receive free lunch, the number of students receiving free lunch is \( 0.4N \).
+
+3. **Calculate the number of paying students**:
+   The number of paying students would then be \( 0.6N \).
+
+4. **Total cost to feed students**:
+   We are given that it costs $210 to feed 50 students. This means that the total cost for feeding all students is $210.
+
+5. **Set up the equation for total cost**:
+   The total cost ($210) must be covered by the contributions of the paying students. Let \( P \) be the price each paying student pays for lunch. The total contribution from paying students can be expressed as:
+   \[
+   \text{Total contribution from paying students} = P \times (0.6N)
+   \]
+   Since this total contribution must equal the total cost of $210, we can set up the equation:
+   \[
+   P \times (0.6N) = 210
+   \]
+
+6. **Determine \( N \) from the number of students**:
+   We know that 50 students are mentioned, and since 40% are receiving free lunches, we can find \( N \):
+   \[
+   0.4N = 0.4 \times 50 = 20 \text{ (students on free lunch)}
+   \]
+   Therefore, the number of paying students is:
+   \[
+   0.6N = 50 - 20 = 30 \text{ (paying students)}
+   \]
+
+7. **Substituting \( N \) into the equation**:
+   Now we can substitute \( N = 50 \) into our earlier equation:
+   \[
+   P \times (0.6 \times 50) = 210
+   \]
+   Simplifying the left side:
+   \[
+   P \times 30 = 210
+   \]
+
+8. **Solve for \( P \)**:
+   To find \( P \), we divide both sides of the equation by 30:
+   \[
+   P = \frac{210}{30}
+   \]
+   Performing the division:
+   \[
+   P = 7
+   \]
+
+Thus, each paying student pays $7 for lunch.
+</reasoning>
+<answer>7</answer>

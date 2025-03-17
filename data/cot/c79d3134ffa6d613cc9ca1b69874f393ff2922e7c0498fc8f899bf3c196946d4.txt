@@ -1,0 +1,47 @@
+<reasoning>
+To solve the problem step by step, let's first identify the distances Nina travels.
+
+1. **Monthly Distance**: 
+   Nina travels at least 400 kilometers every month.
+
+2. **Every Second Month**: 
+   Every second month, she travels twice that distance. Therefore, in those months, she travels:
+   \[
+   2 \times 400 \text{ kilometers} = 800 \text{ kilometers}
+   \]
+
+3. **Travel Pattern**:
+   - Odd-numbered months: 400 kilometers
+   - Even-numbered months: 800 kilometers
+
+4. **Calculating the Total Distance for 2 Years**:
+   There are 12 months in a year, so in 2 years, there are:
+   \[
+   2 \text{ years} \times 12 \text{ months/year} = 24 \text{ months}
+   \]
+
+   Now, let's break down the total distance traveled over these 24 months:
+   - In the first month, she travels 400 kilometers.
+   - In the second month, she travels 800 kilometers.
+   - This pattern repeats for each pair of months.
+
+   To find out how many pairs of months there are in 24 months:
+   \[
+   \frac{24 \text{ months}}{2 \text{ months/pair}} = 12 \text{ pairs}
+   \]
+
+5. **Total Distance for Each Pair**:
+   Each pair of months (1 odd and 1 even) adds up to:
+   \[
+   400 \text{ kilometers} + 800 \text{ kilometers} = 1200 \text{ kilometers}
+   \]
+
+6. **Total Distance for 12 Pairs**:
+   Now, we multiply the distance per pair by the number of pairs:
+   \[
+   12 \text{ pairs} \times 1200 \text{ kilometers/pair} = 14400 \text{ kilometers}
+   \]
+
+Therefore, the total distance Nina would travel during 2 years is:
+</reasoning>
+<answer>14400</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many hours Thomas will spend on training in total, we need to calculate the total hours he trained in the first month and then add the hours he will train in the next 12 days.
+
+1. **Calculate the hours trained in the first month:**
+   Thomas trains for 5 hours every day for 30 days. 
+   To find the total hours for the month, we multiply the number of hours he trains each day by the number of days:
+   \[
+   5 \text{ hours/day} \times 30 \text{ days} = 150 \text{ hours}
+   \]
+   This means he trained for a total of 150 hours in the first month.
+
+2. **Calculate the hours trained in the next 12 days:**
+   Thomas continues to train for the next 12 days, still training for 5 hours each day. 
+   We again multiply the number of hours he trains each day by the number of additional days:
+   \[
+   5 \text{ hours/day} \times 12 \text{ days} = 60 \text{ hours}
+   \]
+   So, he will train for an additional 60 hours over the next 12 days.
+
+3. **Calculate the total training hours:**
+   Now, we need to add the hours he trained in the first month to the hours he will train in the next 12 days:
+   \[
+   150 \text{ hours} + 60 \text{ hours} = 210 \text{ hours}
+   \]
+
+Therefore, the total number of hours Thomas will spend on training is 210 hours.
+</reasoning>
+<answer>210</answer>

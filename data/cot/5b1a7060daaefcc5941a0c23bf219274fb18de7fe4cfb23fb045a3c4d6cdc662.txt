@@ -1,0 +1,33 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the number of muffins Melissa made**:  
+   Sasha made 30 muffins. Melissa made 4 times as many muffins as Sasha.  
+   So, we calculate Melissa's muffins as follows:  
+   \( \text{Melissa's muffins} = 4 \times \text{Sasha's muffins} = 4 \times 30 = 120 \) muffins.  
+   This means Melissa made 120 muffins.
+
+2. **Calculate the total number of muffins made by Sasha and Melissa**:  
+   Now, we need to find the total number of muffins made by both Sasha and Melissa.  
+   We add Sasha's muffins to Melissa's muffins:  
+   \( \text{Total muffins by Sasha and Melissa} = 30 + 120 = 150 \) muffins.
+
+3. **Calculate the number of muffins Tiffany made**:  
+   Tiffany made half of the total muffins made by Sasha and Melissa.  
+   We calculate Tiffany's muffins as follows:  
+   \( \text{Tiffany's muffins} = \frac{1}{2} \times \text{Total muffins by Sasha and Melissa} = \frac{1}{2} \times 150 = 75 \) muffins.  
+   This means Tiffany made 75 muffins.
+
+4. **Calculate the total number of muffins made by all three**:  
+   Now we sum all the muffins made by Sasha, Melissa, and Tiffany:  
+   \( \text{Total muffins} = \text{Sasha's muffins} + \text{Melissa's muffins} + \text{Tiffany's muffins} = 30 + 120 + 75 = 225 \) muffins.
+
+5. **Calculate the total money contributed to the fundraiser**:  
+   Each muffin sold for $4. Therefore, we calculate the total money from selling all the muffins:  
+   \( \text{Total money} = \text{Total muffins} \times \text{Price per muffin} = 225 \times 4 \).  
+   Now we perform the multiplication:  
+   \( 225 \times 4 = 900 \).
+
+Thus, the total amount of money contributed to the fundraiser by Sasha, Melissa, and Tiffany is $900.
+</reasoning>
+<answer>900</answer>

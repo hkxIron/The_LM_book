@@ -1,0 +1,36 @@
+<reasoning>
+Let's first define the variables based on the problem statement. 
+
+Let:
+- H = Hiram's age
+- A = Allyson's age
+
+From the problem, we know that:
+1. H = 40 (Hiram's current age)
+2. When we add 12 to Hiram's age, it should equal 4 less than twice Allyson's age. 
+
+Now we can set up the equation based on the information provided:
+
+H + 12 = 2A - 4
+
+Next, substituting H = 40 into the equation gives us:
+
+40 + 12 = 2A - 4
+
+Now we simplify the left side:
+
+52 = 2A - 4
+
+Next, we want to isolate the term involving A, so we add 4 to both sides of the equation:
+
+52 + 4 = 2A
+56 = 2A
+
+Now we divide both sides by 2 to solve for A:
+
+56 / 2 = A
+28 = A
+
+Thus, Allyson is 28 years old.
+</reasoning>
+<answer>28</answer>

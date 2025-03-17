@@ -1,0 +1,79 @@
+<reasoning>
+To solve the problem, we need to find out the total annual budget of Centerville, then determine how much was spent on the public parks, and finally calculate how much is left from the annual budget.
+
+1. **Calculating the Annual Budget**:
+   The town spends 15% of its annual budget on the public library. We know that the amount spent on the library is $3,000. To find the total annual budget, we can set up the equation:
+
+   \[
+   0.15 \times \text{Annual Budget} = 3000
+   \]
+
+   Now, we will solve for the Annual Budget:
+
+   \[
+   \text{Annual Budget} = \frac{3000}{0.15}
+   \]
+
+   Performing the division:
+
+   \[
+   \text{Annual Budget} = 20000
+   \]
+
+   This means the total annual budget of Centerville is $20,000.
+
+2. **Calculating the Amount Spent on Public Parks**:
+   According to the problem, Centerville spends 24% of its annual budget on public parks. We can find the amount spent on parks using the annual budget we calculated:
+
+   \[
+   \text{Amount spent on Parks} = 0.24 \times \text{Annual Budget}
+   \]
+
+   Plugging in the Annual Budget:
+
+   \[
+   \text{Amount spent on Parks} = 0.24 \times 20000
+   \]
+
+   Now, we perform the multiplication:
+
+   \[
+   \text{Amount spent on Parks} = 4800
+   \]
+
+   So, Centerville spent $4,800 on public parks.
+
+3. **Calculating the Remaining Budget**:
+   Now we can find out how much is left of the annual budget after spending on the library and the parks. First, we add the amounts spent:
+
+   \[
+   \text{Total spent} = \text{Amount spent on Library} + \text{Amount spent on Parks}
+   \]
+
+   Substituting the known values:
+
+   \[
+   \text{Total spent} = 3000 + 4800 = 7800
+   \]
+
+   Now, we subtract the total spent from the annual budget to find the remaining budget:
+
+   \[
+   \text{Remaining Budget} = \text{Annual Budget} - \text{Total spent}
+   \]
+
+   Plugging in the values:
+
+   \[
+   \text{Remaining Budget} = 20000 - 7800
+   \]
+
+   Performing the subtraction:
+
+   \[
+   \text{Remaining Budget} = 12200
+   \]
+
+Thus, the remaining amount of the annual budget is $12,200.
+</reasoning>
+<answer>12200</answer>

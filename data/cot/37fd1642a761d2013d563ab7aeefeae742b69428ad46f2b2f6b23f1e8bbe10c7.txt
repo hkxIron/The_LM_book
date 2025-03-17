@@ -1,0 +1,32 @@
+<reasoning>
+To find the total number of animals that Erica saw during her safari, we need to add the number of animals she saw each day.
+
+1. On Saturday, Erica saw:
+   - 3 lions
+   - 2 elephants
+   Total for Saturday = 3 + 2 = 5 animals
+
+2. On Sunday, she saw:
+   - 2 buffaloes
+   - 5 leopards
+   Total for Sunday = 2 + 5 = 7 animals
+
+3. On Monday, she saw:
+   - 5 rhinos
+   - 3 warthogs
+   Total for Monday = 5 + 3 = 8 animals
+
+Now, we will add the total number of animals she saw each day:
+
+Total animals = Total for Saturday + Total for Sunday + Total for Monday
+Total animals = 5 + 7 + 8
+
+Now, we perform the addition step-by-step:
+- First, add Saturday and Sunday: 
+  5 + 7 = 12
+- Then, add Monday's total:
+  12 + 8 = 20
+
+Therefore, the total number of animals that Erica saw during her safari is 20.
+</reasoning>
+<answer>20</answer>

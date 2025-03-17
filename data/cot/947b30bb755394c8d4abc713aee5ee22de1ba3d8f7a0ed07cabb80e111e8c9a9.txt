@@ -1,0 +1,27 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Calculate the total number of cakes Sara bakes in 5 days**: 
+   Sara bakes 10 cakes each day for 5 days. To find the total number of cakes, we multiply:
+   \[
+   10 \text{ cakes/day} \times 5 \text{ days} = 50 \text{ cakes}
+   \]
+   This means Sara has baked a total of 50 cakes.
+
+2. **Determine how many cakes are left after Carol eats some**: 
+   Carol eats 12 cakes from the 50 cakes that Sara baked. We subtract the number of cakes Carol eats from the total number of cakes:
+   \[
+   50 \text{ cakes} - 12 \text{ cakes} = 38 \text{ cakes}
+   \]
+   So, after Carol eats, there are 38 cakes remaining.
+
+3. **Calculate the number of cans of frosting needed for the remaining cakes**: 
+   It is given that it takes 2 cans of frosting to frost a single cake. To find out how many cans are needed for 38 cakes, we multiply the number of cakes by the number of cans needed per cake:
+   \[
+   38 \text{ cakes} \times 2 \text{ cans/cake} = 76 \text{ cans}
+   \]
+   Thus, Bob needs 76 cans of frosting to frost all the remaining cakes.
+
+Therefore, the total number of cans of frosting Bob needs is:
+</reasoning>
+<answer>76</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Convert gallons to pints**: First, we need to know how many pints are in 7 gallons, since the vampire's consumption is measured in pints. There are 8 pints in a gallon. 
+
+   \[
+   \text{Total pints per week} = 7 \text{ gallons} \times 8 \text{ pints/gallon} = 56 \text{ pints}
+   \]
+
+2. **Determine daily blood consumption**: Next, we need to find out how many pints the vampire consumes per day. We do this by dividing the total pints consumed in a week by the number of days in a week (7 days).
+
+   \[
+   \text{Pints per day} = \frac{56 \text{ pints}}{7 \text{ days}} = 8 \text{ pints/day}
+   \]
+
+3. **Calculate the number of people needed per day**: The vampire sucks 2 pints of blood from each person. To find out how many people he needs to suck blood from each day, we divide the daily blood consumption by the amount sucked from each person.
+
+   \[
+   \text{Number of people per day} = \frac{8 \text{ pints/day}}{2 \text{ pints/person}} = 4 \text{ people/day}
+   \]
+
+Now, we have determined that the vampire needs to suck blood from 4 people each day to survive.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>4</answer>

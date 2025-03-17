@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how the art kits are distributed:**
+   Liam has 20 art kits and he distributes them to 10 students, sharing 1 art kit for every 2 students. Since there are 10 students, the number of art kits needed is:
+   \[
+   \text{Number of art kits needed} = \frac{10 \text{ students}}{2 \text{ students per kit}} = 5 \text{ kits}
+   \]
+   This means that out of the 20 art kits, only 5 are needed for the 10 students.
+
+2. **Identify how many students are making artworks:**
+   The problem states that half the students make 3 artworks each, and half make 4 artworks each. Since there are 10 students:
+   \[
+   \text{Number of students making 3 artworks} = \frac{10}{2} = 5 \text{ students}
+   \]
+   \[
+   \text{Number of students making 4 artworks} = \frac{10}{2} = 5 \text{ students}
+   \]
+
+3. **Calculate the number of artworks made by each group:**
+   - For the 5 students making 3 artworks each:
+   \[
+   \text{Total artworks by this group} = 5 \text{ students} \times 3 \text{ artworks/student} = 15 \text{ artworks}
+   \]
+   
+   - For the 5 students making 4 artworks each:
+   \[
+   \text{Total artworks by this group} = 5 \text{ students} \times 4 \text{ artworks/student} = 20 \text{ artworks}
+   \]
+
+4. **Calculate the total number of artworks created by the whole class:**
+   To find the total artworks created by the whole class, we add the artworks made by both groups:
+   \[
+   \text{Total artworks} = 15 \text{ artworks} + 20 \text{ artworks} = 35 \text{ artworks}
+   \]
+
+Therefore, the whole class creates a total of 35 artworks.
+</reasoning>
+<answer>35</answer>

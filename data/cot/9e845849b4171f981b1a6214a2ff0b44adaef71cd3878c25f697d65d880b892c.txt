@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much Jackson pays for the tiles, we will first calculate the total area of the courtyard, then determine the total number of tiles needed, and finally calculate the cost of the tiles based on their quantities and prices. 
+
+1. **Calculate the area of the courtyard:**
+   The area of a rectangle is found by multiplying its length by its width. 
+   \[
+   \text{Area} = \text{Length} \times \text{Width} = 10 \, \text{feet} \times 25 \, \text{feet} = 250 \, \text{square feet}
+   \]
+   This means the courtyard has an area of 250 square feet.
+
+2. **Calculate the total number of tiles needed:**
+   Since Jackson needs 4 tiles per square foot, we multiply the area by the number of tiles per square foot.
+   \[
+   \text{Total tiles} = \text{Area} \times \text{Tiles per square foot} = 250 \, \text{square feet} \times 4 \, \text{tiles/square foot} = 1000 \, \text{tiles}
+   \]
+   Jackson needs a total of 1000 tiles.
+
+3. **Determine the quantity of green marble and red tiles:**
+   According to the problem, 40% of the tiles are green marble.
+   \[
+   \text{Green marble tiles} = 0.40 \times 1000 = 400 \, \text{tiles}
+   \]
+   The remaining tiles are red tiles.
+   \[
+   \text{Red tiles} = 1000 - 400 = 600 \, \text{tiles}
+   \]
+
+4. **Calculate the cost of the tiles:**
+   - Cost of green marble tiles:
+   \[
+   \text{Cost of green marble} = \text{Number of green tiles} \times \text{Cost per green tile} = 400 \, \text{tiles} \times 3 \, \text{dollars/tile} = 1200 \, \text{dollars}
+   \]
+   - Cost of red tiles:
+   \[
+   \text{Cost of red tiles} = \text{Number of red tiles} \times \text{Cost per red tile} = 600 \, \text{tiles} \times 1.50 \, \text{dollars/tile} = 900 \, \text{dollars}
+   \]
+
+5. **Calculate the total cost:**
+   Now, we add the costs of the green marble tiles and the red tiles together.
+   \[
+   \text{Total cost} = \text{Cost of green marble} + \text{Cost of red tiles} = 1200 \, \text{dollars} + 900 \, \text{dollars} = 2100 \, \text{dollars}
+   \]
+
+Therefore, Jackson pays a total of $2100 for the tiles.
+</reasoning>
+<answer>2100</answer>

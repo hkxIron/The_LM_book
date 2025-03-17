@@ -1,0 +1,60 @@
+<reasoning>
+Let's denote the price of the pants as \( P \). 
+
+1. According to the problem, the price of the shirt is three-quarters of the price of the pants. We can express this as:
+   \[
+   \text{Price of shirt} = \frac{3}{4} P
+   \]
+
+2. The price of the shoes is ten dollars more than the price of the pants. We can express this as:
+   \[
+   \text{Price of shoes} = P + 10
+   \]
+
+3. Now, we can write an equation for the total cost of all three items (shirt + pants + shoes), which is given to be $340:
+   \[
+   \text{Price of shirt} + \text{Price of pants} + \text{Price of shoes} = 340
+   \]
+   Substituting the expressions for the shirt and shoes, we get:
+   \[
+   \frac{3}{4} P + P + (P + 10) = 340
+   \]
+
+4. Now, let's combine the terms on the left side:
+   - The term \( P \) appears twice, so we have:
+   \[
+   \frac{3}{4} P + P + P = \frac{3}{4} P + \frac{4}{4} P + \frac{4}{4} P = \frac{3 + 4 + 4}{4} P = \frac{11}{4} P
+   \]
+   - Adding the constant:
+   \[
+   \frac{11}{4} P + 10 = 340
+   \]
+
+5. Next, we need to isolate \( P \). First, subtract 10 from both sides:
+   \[
+   \frac{11}{4} P = 340 - 10
+   \]
+   \[
+   \frac{11}{4} P = 330
+   \]
+
+6. Now, to solve for \( P \), multiply both sides by \( \frac{4}{11} \) to get \( P \) by itself:
+   \[
+   P = 330 \times \frac{4}{11}
+   \]
+
+7. Calculating \( 330 \div 11 \):
+   \[
+   330 \div 11 = 30
+   \]
+
+8. Now, multiply by 4:
+   \[
+   P = 30 \times 4 = 120
+   \]
+
+Thus, the price of the pants is \( P = 120 \).
+
+Therefore, the final answer is:
+</reasoning>
+<answer>120</answer>

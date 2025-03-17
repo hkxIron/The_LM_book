@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Total pages in the book**: The book has 98 pages.
+
+2. **Pages filled with images**: Half of the pages are filled with images. To find how many pages this is, we calculate:
+   \[
+   \text{Pages with images} = \frac{98}{2} = 49
+   \]
+   So, there are 49 pages filled with images.
+
+3. **Pages with introduction**: There are 11 pages dedicated to the introduction.
+
+4. **Calculating remaining pages**: To find out how many pages are left after subtracting the pages with images and the pages with the introduction, we perform the following calculation:
+   \[
+   \text{Remaining pages} = 98 - 49 - 11 = 38
+   \]
+   Thus, there are 38 pages remaining after accounting for the pages with images and the introduction.
+
+5. **Dividing remaining pages into blank and text pages**: According to the problem, half of the remaining pages are blank, and the other half are filled with text. Therefore, we calculate:
+   \[
+   \text{Pages with text} = \frac{38}{2} = 19
+   \]
+   Hence, there are 19 pages filled with text.
+
+By following these steps, we have determined that the number of pages with text in the book is 19.
+</reasoning>
+<answer>19</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we will first determine the lengths of each video Brian watches step-by-step and then sum them up to find the total time spent watching videos.
+
+1. **Length of the cat video**: 
+   The cat video is given as 4 minutes long. 
+   - Length of cat video = 4 minutes.
+
+2. **Length of the dog video**:
+   The dog video is twice as long as the cat video. Therefore, we calculate it as follows:
+   - Length of dog video = 2 × Length of cat video = 2 × 4 minutes = 8 minutes.
+
+3. **Length of the gorilla video**:
+   The gorilla video is twice as long as the combined lengths of the cat and dog videos. First, we need to find the total length of the cat and dog videos:
+   - Total length of cat and dog videos = Length of cat video + Length of dog video = 4 minutes + 8 minutes = 12 minutes.
+   Now we can calculate the length of the gorilla video:
+   - Length of gorilla video = 2 × Total length of cat and dog videos = 2 × 12 minutes = 24 minutes.
+
+4. **Total time spent watching videos**:
+   Now, we sum the lengths of all three videos:
+   - Total time = Length of cat video + Length of dog video + Length of gorilla video = 4 minutes + 8 minutes + 24 minutes.
+
+Calculating this gives:
+- Total time = 4 + 8 + 24 = 36 minutes.
+
+Thus, Brian spends a total of 36 minutes watching animal videos.
+</reasoning>
+<answer>36</answer>

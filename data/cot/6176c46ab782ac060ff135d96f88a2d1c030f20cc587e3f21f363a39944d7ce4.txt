@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Count of Cookies**:
+   - Alice baked 74 chocolate chip cookies.
+   - Bob baked 7 peanut butter cookies.
+
+   To find the total number of cookies they originally baked, we add these two amounts together:
+   \[
+   74 + 7 = 81
+   \]
+   So, initially, they had 81 cookies.
+
+2. **Additional Cookies Baked**:
+   - Alice baked 5 more cookies.
+   - Bob baked 36 more cookies.
+
+   We add these additional cookies to their initial total:
+   \[
+   81 + 5 + 36 = 122
+   \]
+   Now, they have a total of 122 cookies after baking more.
+
+3. **Total Edible Cookies**:
+   - It is given that they ended up with 93 edible cookies after some were accidentally thrown on the floor.
+   
+4. **Determining the Number of Cookies Thrown on the Floor**:
+   To find out how many cookies were thrown on the floor, we subtract the number of edible cookies from the total number of cookies they had after baking more:
+   \[
+   122 - 93 = 29
+   \]
+   Therefore, the number of cookies that were accidentally thrown on the floor is 29.
+</reasoning>
+<answer>29</answer>

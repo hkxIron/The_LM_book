@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate how much Ivan spent on cupcakes**: 
+   Ivan had $10 and spent 1/5 of it on cupcakes. To find out how much he spent, we multiply:
+   \[
+   \text{Amount spent on cupcakes} = \frac{1}{5} \times 10 = 2
+   \]
+   So, Ivan spent $2 on cupcakes.
+
+2. **Determine how much money Ivan had after buying cupcakes**:
+   After buying the cupcakes, we subtract the amount spent on cupcakes from the original amount:
+   \[
+   \text{Money left after cupcakes} = 10 - 2 = 8
+   \]
+   Now, Ivan has $8 left after buying the cupcakes.
+
+3. **Understand how much he has left after buying a milkshake**:
+   Ivan then spent some money on a milkshake and was left with $3. So, we need to find out how much he spent on the milkshake:
+   \[
+   \text{Amount spent on milkshake} = \text{Money left after cupcakes} - \text{Money left after milkshake}
+   \]
+   Substituting in the values:
+   \[
+   \text{Amount spent on milkshake} = 8 - 3 = 5
+   \]
+   Therefore, Ivan spent $5 on the milkshake.
+
+Finally, we summarize our findings:
+- He spent $2 on cupcakes.
+- After that, he had $8 left.
+- He spent $5 on a milkshake and had $3 remaining.
+
+Thus, the cost of the milkshake is:
+</reasoning>
+<answer>5</answer>

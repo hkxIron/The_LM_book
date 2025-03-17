@@ -1,0 +1,20 @@
+<reasoning>
+Let's start by defining the number of chocolate squares that Mike ate. According to the problem, Mike ate 20 chocolate squares.
+
+Now, we need to find out how many chocolate squares Jenny ate. The problem states that Jenny ate 5 more than thrice the number of chocolate squares that Mike ate. 
+
+1. First, calculate thrice the number of chocolate squares that Mike ate:
+   \[
+   3 \times \text{(number of chocolate squares Mike ate)} = 3 \times 20 = 60
+   \]
+   Here, we multiply 20 by 3 because Jenny's consumption is based on three times what Mike ate.
+
+2. Next, we need to add 5 to this result to find out how many chocolate squares Jenny ate:
+   \[
+   \text{Jenny's chocolate squares} = 60 + 5 = 65
+   \]
+   We add 5 because the problem states that Jenny ate 5 more than the thrice amount.
+
+Thus, after performing these calculations, we conclude that Jenny ate 65 chocolate squares.
+</reasoning>
+<answer>65</answer>

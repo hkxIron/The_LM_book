@@ -1,0 +1,38 @@
+<reasoning>
+Let's define the number of baseball game tickets sold as \( x \).
+
+According to the problem, the middle school sold 6 more than two times the number of fair tickets for the baseball game tickets. We know that 25 fair tickets were sold. Therefore, we can write the equation based on the information provided:
+
+\[
+\text{Number of fair tickets} = 25
+\]
+
+The expression for the number of baseball tickets sold based on the fair tickets is:
+
+\[
+\text{Baseball tickets} = 2 \times (\text{fair tickets}) + 6
+\]
+
+Substituting the value of fair tickets into the equation:
+
+\[
+x = 2 \times 25 + 6
+\]
+
+Now, let's solve for \( x \):
+
+1. First, calculate \( 2 \times 25 \):
+   \[
+   2 \times 25 = 50
+   \]
+
+2. Next, add 6 to this result:
+   \[
+   50 + 6 = 56
+   \]
+
+Thus, the number of baseball game tickets sold is \( 56 \).
+
+Therefore, the final answer is:
+</reasoning>
+<answer>56</answer>

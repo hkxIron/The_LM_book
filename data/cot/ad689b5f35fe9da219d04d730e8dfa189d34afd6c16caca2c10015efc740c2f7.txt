@@ -1,0 +1,21 @@
+<reasoning>
+Let's start by determining how much fried chicken each person ordered initially.
+
+1. **Kobe's Order**: Kobe ordered 5 pieces of fried chicken. 
+   - This is straightforward; we just note that Kobe has 5 pieces.
+
+2. **Pau's Order**: Pau ordered twice as much fried chicken as Kobe did. So we need to calculate what twice 5 is:
+   - Pau's order = 2 * Kobe's order = 2 * 5 = 10 pieces of fried chicken.
+
+3. **Total Order for Fried Chicken**: Now we calculate the total pieces of fried chicken they ordered together:
+   - Kobe's order (5 pieces) + Pau's order (10 pieces) = 5 + 10 = 15 pieces.
+
+4. **Another Set of Fried Chicken**: The problem states that they order another set of fried chicken. If we assume that this means they each order the same amount they did previously (which is the logical interpretation), then we would calculate that:
+   - Kobe orders another 5 pieces, and Pau orders another 10 pieces.
+
+5. **Calculating Pau's Total**: Now, let's calculate how many pieces Pau has eaten in total, including the second order.
+   - Pau's initial order (10 pieces) + Pau's second order (10 pieces) = 10 + 10 = 20 pieces.
+
+Thus, we have determined that Pau will have eaten a total of 20 pieces of fried chicken in all.
+</reasoning>
+<answer>20</answer>

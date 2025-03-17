@@ -1,0 +1,62 @@
+<reasoning>
+To solve the problem, we need to find out how many hours Gary worked that week based on his total paycheck and the wage structure.
+
+1. **Identify Gary's Normal Wage and Overtime Rate**:
+   - Gary's normal wage is $12 per hour.
+   - For any hours worked over 40 in a week, he earns 1.5 times his normal wage. 
+   - Thus, his overtime rate is \( 1.5 \times 12 = 18 \) dollars per hour.
+
+2. **Let’s denote the total hours worked**:
+   - Let \( h \) be the total hours Gary worked that week.
+
+3. **Determine Regular and Overtime Hours**:
+   - If Gary worked more than 40 hours, then:
+     - Regular hours = 40 hours
+     - Overtime hours = \( h - 40 \) (assuming \( h > 40 \))
+
+4. **Write the equation for total earnings**:
+   - The total earnings can be expressed as:
+     \[
+     \text{Total Pay} = (\text{Regular Hours} \times \text{Normal Wage}) + (\text{Overtime Hours} \times \text{Overtime Rate})
+     \]
+   - Plugging in the values we have:
+     \[
+     696 = (40 \times 12) + ((h - 40) \times 18)
+     \]
+
+5. **Calculate the regular pay for 40 hours**:
+   - Calculate \( 40 \times 12 \):
+     \[
+     40 \times 12 = 480
+     \]
+   - Thus, the equation now becomes:
+     \[
+     696 = 480 + (h - 40) \times 18
+     \]
+
+6. **Isolate the overtime part of the equation**:
+   - Subtract 480 from both sides:
+     \[
+     696 - 480 = (h - 40) \times 18
+     \]
+     \[
+     216 = (h - 40) \times 18
+     \]
+
+7. **Divide both sides by 18 to solve for \( h - 40 \)**:
+   \[
+   \frac{216}{18} = h - 40
+   \]
+   \[
+   12 = h - 40
+   \]
+
+8. **Solve for \( h \)**:
+   - Add 40 to both sides:
+     \[
+     h = 12 + 40 = 52
+     \]
+
+Therefore, Gary worked a total of 52 hours that week.
+</reasoning>
+<answer>52</answer>

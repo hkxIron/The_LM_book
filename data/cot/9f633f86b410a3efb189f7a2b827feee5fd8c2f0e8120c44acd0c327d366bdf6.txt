@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the price of the bed**: 
+   - The bed frame costs $75.
+   - The bed costs 10 times the price of the bed frame. 
+   - Therefore, the price of the bed is:
+     \[
+     \text{Price of bed} = 10 \times 75 = 750
+     \]
+
+2. **Calculate the total price before the discount**:
+   - Now, we add the price of the bed frame and the bed together:
+     \[
+     \text{Total price before discount} = 75 + 750 = 825
+     \]
+
+3. **Calculate the discount amount**:
+   - James gets a deal for 20% off the total price. 
+   - To find the discount amount, we calculate 20% of $825:
+     \[
+     \text{Discount} = 0.20 \times 825 = 165
+     \]
+
+4. **Calculate the total price after the discount**:
+   - Now, we subtract the discount from the total price:
+     \[
+     \text{Total price after discount} = 825 - 165 = 660
+     \]
+
+Now we have calculated all the necessary steps to find out how much James pays for everything after the discount.
+</reasoning>
+<answer>660</answer>

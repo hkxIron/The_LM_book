@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we will go through it step by step.
+
+1. **Determine the number of bolts needed:**  
+   Edward needs 40 feet of copper pipe. For every 5 feet of pipe, he needs one tightening bolt.  
+   To find the number of bolts, we divide the total length of the pipe by the length per bolt:  
+   \[
+   \text{Number of bolts} = \frac{40 \text{ feet}}{5 \text{ feet/bolt}} = 8 \text{ bolts}
+   \]  
+   This means Edward will need 8 bolts for the job.
+
+2. **Determine the number of washers needed:**  
+   For every bolt, Edward uses 2 washers. Therefore, to find the total number of washers needed:  
+   \[
+   \text{Number of washers} = 8 \text{ bolts} \times 2 \text{ washers/bolt} = 16 \text{ washers}
+   \]  
+   So, Edward will use 16 washers for the job.
+
+3. **Calculate the remaining washers:**  
+   Edward initially buys a bag containing 20 washers. After using 16 washers, we can find out how many are left by subtracting the used washers from the total washers:  
+   \[
+   \text{Remaining washers} = 20 \text{ washers} - 16 \text{ washers} = 4 \text{ washers}
+   \]  
+   Therefore, there will be 4 washers remaining in the bag after Edward completes the job.
+</reasoning>
+<answer>4</answer>

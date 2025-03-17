@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, let's start by identifying the number of notebooks and the number of pens.
+
+1. **Identify the number of notebooks**: 
+   We know from the problem that there are 30 notebooks on the shelf. 
+
+2. **Calculate the number of pens**: 
+   The problem states that there are 50 more pens than notebooks. Since there are 30 notebooks, we need to add 50 to this number to find the number of pens:
+   \[
+   \text{Number of pens} = \text{Number of notebooks} + 50 = 30 + 50 = 80
+   \]
+
+3. **Calculate the total number of items (notebooks + pens)**: 
+   Now that we know there are 30 notebooks and 80 pens, we can add these two quantities together to find the total number of items:
+   \[
+   \text{Total items} = \text{Number of notebooks} + \text{Number of pens} = 30 + 80 = 110
+   \]
+
+Therefore, after performing these calculations step by step, we find that the total number of notebooks and pens together is 110.
+</reasoning>
+<answer>110</answer>

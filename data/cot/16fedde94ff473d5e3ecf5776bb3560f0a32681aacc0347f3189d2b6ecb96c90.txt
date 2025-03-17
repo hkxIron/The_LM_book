@@ -1,0 +1,38 @@
+<reasoning>
+To determine how many packs of utensils John needs to buy to have 50 spoons, we'll follow these steps:
+
+1. **Understanding the contents of the pack**: Each pack contains an equal number of knives, forks, and spoons. Since the utensils are divided equally among the three types, we can denote the number of each type of utensil in a single pack as \( x \). Therefore, each pack contains \( x \) knives, \( x \) forks, and \( x \) spoons.
+
+2. **Determine the total number of spoons in one pack**: Since each pack contains \( x \) spoons, if John buys \( n \) packs, the total number of spoons he would have is \( n \times x \).
+
+3. **Setting up the equation**: John wants at least 50 spoons, so we can set up the equation:
+   \[
+   n \times x = 50
+   \]
+
+4. **Finding the value of \( x \)**: Since the problem states that each pack contains a total of 30 utensils (knives, forks, and spoons), we know that:
+   \[
+   x + x + x = 30
+   \]
+   This simplifies to:
+   \[
+   3x = 30
+   \]
+   Dividing both sides by 3 gives us:
+   \[
+   x = 10
+   \]
+
+5. **Substituting back into the equation**: Now that we know \( x \) is 10, we can substitute this value back into the equation for the spoons:
+   \[
+   n \times 10 = 50
+   \]
+
+6. **Solving for \( n \)**: To find \( n \), we divide both sides by 10:
+   \[
+   n = \frac{50}{10} = 5
+   \]
+
+Therefore, John needs to buy 5 packs of utensils to have at least 50 spoons.
+</reasoning>
+<answer>5</answer>

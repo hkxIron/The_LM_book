@@ -1,0 +1,58 @@
+<reasoning>
+To solve the problem, let's start by organizing the information we have about the trucks.
+
+1. **Identify the total number of trucks:**  
+   Carmen sees 50 trucks in total.
+
+2. **Determine how many of the trucks are red:**  
+   According to the problem, half of the trucks are red.  
+   \[
+   \text{Number of red trucks} = \frac{1}{2} \times 50 = 25
+   \]
+
+3. **Determine how many of the trucks are black:**  
+   20% of the trucks are black.  
+   \[
+   \text{Number of black trucks} = 0.20 \times 50 = 10
+   \]
+
+4. **Calculate how many trucks are white:**  
+   We know the total number of trucks is 50, and we have already accounted for the red and black trucks.  
+   \[
+   \text{Number of white trucks} = 50 - (\text{number of red trucks} + \text{number of black trucks}) 
+   \]
+   \[
+   \text{Number of white trucks} = 50 - (25 + 10) = 50 - 35 = 15
+   \]
+
+5. **Identify the total number of cars:**  
+   Carmen sees 40 cars, but we need to check how many of them are white or of another color. However, we don't need the breakdown of the cars for the purpose of this problem.
+
+6. **Calculate the total number of vehicles (trucks + cars):**  
+   \[
+   \text{Total vehicles} = \text{Total trucks} + \text{Total cars} = 50 + 40 = 90
+   \]
+
+7. **Find the probability of picking a white truck:**  
+   We want the percentage chance that a randomly selected vehicle is a white truck. We already calculated there are 15 white trucks. The probability can be calculated by:
+   \[
+   \text{Percentage chance} = \left(\frac{\text{Number of white trucks}}{\text{Total vehicles}}\right) \times 100
+   \]
+   \[
+   \text{Percentage chance} = \left(\frac{15}{90}\right) \times 100
+   \]
+
+8. **Calculate the percentage:**  
+   \[
+   \frac{15}{90} = \frac{1}{6} \approx 0.1667
+   \]
+   \[
+   0.1667 \times 100 \approx 16.67
+   \]
+
+9. **Round to the nearest integer:**  
+   Rounding 16.67 gives us 17.
+
+Therefore, the percentage chance that Carmen picks a white truck is 17%.
+</reasoning>
+<answer>17</answer>

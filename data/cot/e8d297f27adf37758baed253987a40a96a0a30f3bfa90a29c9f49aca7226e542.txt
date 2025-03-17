@@ -1,0 +1,35 @@
+<reasoning>
+First, let's determine the selling price of the house. James sells the house for 20% over market value.
+
+1. Calculate 20% of the market value:
+   \[
+   20\% \text{ of } 500,000 = 0.20 \times 500,000 = 100,000
+   \]
+
+2. Now, add this amount to the original market value to find the selling price:
+   \[
+   500,000 + 100,000 = 600,000
+   \]
+
+Next, we need to calculate the total revenue from the sale after taxes. The tax rate is 10%.
+
+3. Calculate the tax amount:
+   \[
+   \text{Tax} = 10\% \text{ of } 600,000 = 0.10 \times 600,000 = 60,000
+   \]
+
+4. Subtract the tax amount from the total selling price to find the net revenue:
+   \[
+   \text{Net Revenue} = 600,000 - 60,000 = 540,000
+   \]
+
+Now, we need to split the net revenue among James and his 3 brothers, which adds up to 4 people total.
+
+5. Divide the net revenue by the number of people:
+   \[
+   \text{Amount per person} = \frac{540,000}{4} = 135,000
+   \]
+
+Therefore, each person receives $135,000 after taxes.
+</reasoning>
+<answer>135000</answer>

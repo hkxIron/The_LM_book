@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of slices from Danny's watermelons**: 
+   - Danny has 3 watermelons.
+   - Each watermelon is cut into 10 slices.
+   - To find the total number of slices from Danny's watermelons, we multiply the number of watermelons by the number of slices per watermelon:
+     \[
+     3 \times 10 = 30 \text{ slices}
+     \]
+
+2. **Calculate the number of slices from Danny's sister's watermelon**:
+   - Danny's sister has 1 watermelon.
+   - She cuts her watermelon into 15 slices.
+   - Therefore, the total number of slices from her watermelon is:
+     \[
+     1 \times 15 = 15 \text{ slices}
+     \]
+
+3. **Combine the total slices from both Danny and his sister**:
+   - Now, we add the slices from Danny's watermelons and his sister's watermelon to find the total number of watermelon slices at the picnic:
+     \[
+     30 + 15 = 45 \text{ slices}
+     \]
+
+Putting all the steps together, we find that the total number of watermelon slices at the picnic is 45.
+</reasoning>
+<answer>45</answer>

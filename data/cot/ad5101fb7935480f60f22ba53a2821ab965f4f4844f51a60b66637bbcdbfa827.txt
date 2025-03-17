@@ -1,0 +1,45 @@
+<reasoning>
+To solve the problem, we need to first calculate the total time Maddie spends watching TV during the week, and then determine how much time she has left to watch over the weekend.
+
+1. **Calculate the total time for all episodes:**
+   Maddie watches 8 episodes, each lasting 44 minutes.
+   \[
+   \text{Total time for episodes} = 8 \times 44 = 352 \text{ minutes}
+   \]
+   This shows us how much time Maddie planned to watch in total.
+
+2. **Calculate the time she has already watched:**
+   - On Monday, she watched 138 minutes.
+   - On Thursday, she watched 21 minutes.
+   - On Friday, she watched 2 episodes. Each episode is 44 minutes, so:
+   \[
+   \text{Time on Friday} = 2 \times 44 = 88 \text{ minutes}
+   \]
+
+3. **Now, add the time she has watched during the week:**
+   \[
+   \text{Total watched during the week} = 138 + 21 + 88
+   \]
+   Let's calculate that:
+   \[
+   138 + 21 = 159
+   \]
+   \[
+   159 + 88 = 247 \text{ minutes}
+   \]
+
+4. **Calculate how much time she has left to watch over the weekend:**
+   We already calculated that she has a total of 352 minutes to watch. Now we will subtract the time she has already watched:
+   \[
+   \text{Remaining time} = 352 - 247
+   \]
+   Let's calculate that:
+   \[
+   352 - 247 = 105 \text{ minutes}
+   \]
+
+Thus, the total number of minutes Maddie can watch over the weekend is 105 minutes.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>105</answer>

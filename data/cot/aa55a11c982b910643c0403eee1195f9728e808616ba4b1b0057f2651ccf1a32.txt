@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much change Olivia received, we first need to calculate the total cost of the basketball cards and baseball cards she purchased.
+
+1. **Calculate the total cost of the basketball cards:**
+   Olivia bought 2 packs of basketball cards at $3 each. 
+   So, we multiply the number of packs by the price per pack:
+   \[
+   \text{Total cost of basketball cards} = 2 \text{ packs} \times 3 \text{ dollars/pack} = 6 \text{ dollars}
+   \]
+
+2. **Calculate the total cost of the baseball cards:**
+   Olivia bought 5 decks of baseball cards at $4 each. 
+   We multiply the number of decks by the price per deck:
+   \[
+   \text{Total cost of baseball cards} = 5 \text{ decks} \times 4 \text{ dollars/deck} = 20 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of all the cards:**
+   Now we add the total costs of basketball cards and baseball cards together:
+   \[
+   \text{Total cost of all cards} = 6 \text{ dollars} + 20 \text{ dollars} = 26 \text{ dollars}
+   \]
+
+4. **Calculate the change Olivia received:**
+   Olivia started with a $50 bill. To find the change, we subtract the total cost of the cards from the amount she paid:
+   \[
+   \text{Change} = 50 \text{ dollars} - 26 \text{ dollars} = 24 \text{ dollars}
+   \]
+
+Therefore, Olivia received $24 in change.
+</reasoning>
+<answer>24</answer>

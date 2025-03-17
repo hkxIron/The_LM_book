@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we need to determine how many dogs Mariel is walking based on the total number of legs that are tangled up.
+
+1. **Count the legs of the dogs**: Each dog has 4 legs. Therefore, if we denote the number of dogs Mariel is walking as \( d \), the total number of legs from Mariel's dogs is \( 4d \).
+
+2. **Count the legs of the other dog walker**: The problem states that there is another dog walker with 3 dogs. The total number of legs for these dogs is \( 4 \times 3 = 12 \) legs.
+
+3. **Count the legs of the humans**: Each dog walker has 2 legs. Therefore, the number of legs from the two dog walkers (Mariel and the other dog walker) is \( 2 + 2 = 4 \) legs.
+
+4. **Set up the equation**: The total number of legs tangled in the leashes is given as 36. So we can write the equation:
+   \[
+   4d + 12 + 4 = 36
+   \]
+
+5. **Simplify the equation**: Combining the constants on the left side gives:
+   \[
+   4d + 16 = 36
+   \]
+
+6. **Isolate \( d \)**: To solve for \( d \), we subtract 16 from both sides:
+   \[
+   4d = 36 - 16
+   \]
+   \[
+   4d = 20
+   \]
+
+7. **Solve for \( d \)**: Divide both sides by 4:
+   \[
+   d = \frac{20}{4} = 5
+   \]
+
+Thus, Mariel is walking 5 dogs.
+
+Therefore, the solution is:
+</reasoning>
+<answer>5</answer>

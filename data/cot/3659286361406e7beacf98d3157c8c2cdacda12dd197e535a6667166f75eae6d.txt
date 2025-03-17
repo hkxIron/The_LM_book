@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial number of cows**: We start with 200 cows on Happy Cattle Ranch.
+
+2. **Calculating the increase in cows each year**:
+   - The problem states that the number of cows increases by half the number of cows living on the ranch.
+   - Since there are 200 cows, the increase in the first year is:
+     \[
+     \text{Increase in Year 1} = \frac{200}{2} = 100
+     \]
+   - So, at the end of the first year, the total number of cows will be:
+     \[
+     \text{Total after Year 1} = 200 + 100 = 300
+     \]
+
+3. **Calculating the increase in the second year**:
+   - Now, we have 300 cows at the start of the second year. We again calculate the increase, which will be half of the current number of cows:
+     \[
+     \text{Increase in Year 2} = \frac{300}{2} = 150
+     \]
+   - Therefore, at the end of the second year, the total number of cows will be:
+     \[
+     \text{Total after Year 2} = 300 + 150 = 450
+     \]
+
+By following these steps, we have determined that in two years, after the yearly increases, the rancher will own a total of 450 cows.
+</reasoning>
+<answer>450</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To determine how many comics are now in Aston's box, let's break down the problem step by step.
+
+1. **Calculate the number of comics Aston can reconstruct from the 150 pages he found.** 
+   - Each comic has 25 pages.
+   - We need to find out how many full comics can be made from 150 pages by dividing the total number of pages by the number of pages per comic:
+     \[
+     \text{Number of comics} = \frac{\text{Total pages}}{\text{Pages per comic}} = \frac{150}{25}
+     \]
+   - Performing the division:
+     \[
+     \frac{150}{25} = 6
+     \]
+   - This means Aston can reconstruct 6 full comics from the pages he found.
+
+2. **Add the number of untorn comics already in the box to the newly reconstructed comics.**
+   - Aston already has 5 untorn comics in the box.
+   - Now, we need to add the 6 reconstructed comics to the 5 untorn comics:
+     \[
+     \text{Total comics in the box} = \text{Untorn comics} + \text{Reconstructed comics} = 5 + 6
+     \]
+   - Performing the addition:
+     \[
+     5 + 6 = 11
+     \]
+
+Therefore, the total number of comics now in Aston's box is 11.
+</reasoning>
+<answer>11</answer>

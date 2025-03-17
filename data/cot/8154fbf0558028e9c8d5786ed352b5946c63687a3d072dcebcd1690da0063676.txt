@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we need to figure out how many students Lucas has and how that will affect the number of chocolate pieces he makes for the upcoming Monday.
+
+1. **Determine the number of students Lucas has**: 
+   We know that Lucas makes 4 pieces of chocolate candy for each student every week. Last Monday, he made a total of 40 pieces of candy. 
+   We can find the number of students by dividing the total pieces made by the pieces per student:
+   \[
+   \text{Number of students} = \frac{40 \text{ pieces}}{4 \text{ pieces/student}} = 10 \text{ students}
+   \]
+   This tells us that Lucas has 10 students.
+
+2. **Account for the students not attending**: 
+   This upcoming Monday, we are told that 3 students will not be coming to class. Therefore, we need to calculate how many students will be present:
+   \[
+   \text{Students present} = 10 \text{ students} - 3 \text{ students} = 7 \text{ students}
+   \]
+
+3. **Calculate the pieces of chocolate candy for the present students**: 
+   Now that we know there will be 7 students in class, we can calculate how many pieces of chocolate candy Lucas will make. Since he makes 4 pieces of candy for each student, we multiply the number of present students by the pieces per student:
+   \[
+   \text{Total pieces of candy} = 7 \text{ students} \times 4 \text{ pieces/student} = 28 \text{ pieces}
+   \]
+
+Therefore, Lucas will make 28 pieces of chocolate candy for his class on Monday.
+</reasoning>
+<answer>28</answer>

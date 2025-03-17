@@ -1,0 +1,23 @@
+<reasoning>
+To find the total number of rattlesnakes in the park, we will follow these steps:
+
+1. **Identify the number of boa constrictors**: According to the problem, there are 40 boa constrictors.
+
+2. **Determine the number of pythons**: The problem states that there are three times as many pythons as boa constrictors. Since we have 40 boa constrictors, we can calculate the number of pythons:
+   \[
+   \text{Number of pythons} = 3 \times \text{Number of boa constrictors} = 3 \times 40 = 120
+   \]
+
+3. **Calculate the total number of snakes that are not rattlesnakes**: Now, we add the number of boa constrictors and pythons together to find the total number of non-rattlesnakes:
+   \[
+   \text{Total non-rattlesnakes} = \text{Number of boa constrictors} + \text{Number of pythons} = 40 + 120 = 160
+   \]
+
+4. **Find the total number of rattlesnakes**: Finally, to determine the number of rattlesnakes, we subtract the total number of non-rattlesnakes from the total number of snakes in the park:
+   \[
+   \text{Total number of rattlesnakes} = \text{Total number of snakes} - \text{Total non-rattlesnakes} = 200 - 160 = 40
+   \]
+
+Thus, after performing all the calculations, we find that there are 40 rattlesnakes in the park.
+</reasoning>
+<answer>40</answer>

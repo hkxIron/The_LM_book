@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many decorations have been handed out, we first need to calculate the total number of decorations in one box. 
+
+1. **Count the decorations in one box**:
+   - Each box contains:
+     - 4 pieces of tinsel
+     - 1 Christmas tree
+     - 5 snow globes
+
+   Now, we sum these amounts:
+   \[
+   4 \text{ (tinsel)} + 1 \text{ (Christmas tree)} + 5 \text{ (snow globes)} = 10 \text{ (total decorations in one box)}
+   \]
+
+2. **Count the number of boxes given out**:
+   - There are 11 families receiving a box, and one additional box is given to the community center. 
+   - Thus, the total number of boxes distributed is:
+   \[
+   11 \text{ (families)} + 1 \text{ (community center)} = 12 \text{ (total boxes)}
+   \]
+
+3. **Calculate the total number of decorations handed out**:
+   - Since each box contains 10 decorations, we multiply the number of boxes by the number of decorations per box:
+   \[
+   12 \text{ (boxes)} \times 10 \text{ (decorations per box)} = 120 \text{ (total decorations)}
+   \]
+
+Therefore, after calculating the total number of decorations given out, we find that:
+</reasoning>
+<answer>120</answer>

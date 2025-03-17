@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we need to find the number of non-foreign male students at this school, given the total number of students and the ratios provided.
+
+1. **Calculate the total number of females:**
+   The problem states that 2/3 of the population are females. Given that the total student population is 300, we can calculate the number of females as follows:
+   \[
+   \text{Number of females} = \frac{2}{3} \times 300 = 200
+   \]
+   Therefore, there are 200 female students.
+
+2. **Calculate the total number of males:**
+   To find the number of males, we subtract the number of females from the total student population:
+   \[
+   \text{Number of males} = 300 - 200 = 100
+   \]
+   Thus, there are 100 male students.
+
+3. **Calculate the number of foreign male students:**
+   According to the problem, one-tenth of the males are foreign students. We can calculate the number of foreign male students as follows:
+   \[
+   \text{Number of foreign male students} = \frac{1}{10} \times 100 = 10
+   \]
+   Therefore, there are 10 foreign male students.
+
+4. **Calculate the number of non-foreign male students:**
+   To find the number of non-foreign male students, we subtract the number of foreign male students from the total number of males:
+   \[
+   \text{Number of non-foreign male students} = 100 - 10 = 90
+   \]
+   Hence, there are 90 non-foreign male students.
+
+After going through these steps, we find the answer.
+</reasoning>
+<answer>90</answer>

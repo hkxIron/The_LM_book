@@ -1,0 +1,50 @@
+<reasoning>
+To solve this problem, we will first calculate how many cars Frank has sold in the first 7 days and then determine how many more he needs to sell in the remaining days to meet his quota.
+
+1. **Calculate cars sold in the first 3 days:**
+   Frank sold 5 cars each day for 3 days. 
+   \[
+   5 \text{ cars/day} \times 3 \text{ days} = 15 \text{ cars}
+   \]
+   So, he sold a total of 15 cars in the first 3 days.
+
+2. **Calculate cars sold in the next 4 days:**
+   Frank sold 3 cars each day for 4 days.
+   \[
+   3 \text{ cars/day} \times 4 \text{ days} = 12 \text{ cars}
+   \]
+   So, he sold a total of 12 cars in the next 4 days.
+
+3. **Calculate total cars sold in the first 7 days:**
+   Now, we add the cars sold in both periods:
+   \[
+   15 \text{ cars} + 12 \text{ cars} = 27 \text{ cars}
+   \]
+   Therefore, Frank has sold 27 cars in the first 7 days.
+
+4. **Determine Frank's sales quota:**
+   Frank needs to sell a total of 50 cars by the end of the month.
+
+5. **Calculate remaining cars needed to meet the quota:**
+   To find out how many more cars he needs to sell, we subtract the cars he has already sold from his quota:
+   \[
+   50 \text{ cars} - 27 \text{ cars} = 23 \text{ cars}
+   \]
+   This means Frank needs to sell 23 more cars.
+
+6. **Calculate remaining days in the month:**
+   Since Frank has already sold cars for 7 days, we subtract this from the total days in the month:
+   \[
+   30 \text{ days} - 7 \text{ days} = 23 \text{ days}
+   \]
+   Therefore, he has 23 days left in the month.
+
+7. **Determine how many cars he needs to sell each day for the remaining days:**
+   To find out how many cars he needs to sell per day over the next 23 days, we divide the remaining cars needed by the remaining number of days:
+   \[
+   \frac{23 \text{ cars}}{23 \text{ days}} = 1 \text{ car/day}
+   \]
+
+Therefore, Frank needs to sell 1 car each day for the remaining 23 days to meet his quota of 50 cars.
+</reasoning>
+<answer>23</answer>

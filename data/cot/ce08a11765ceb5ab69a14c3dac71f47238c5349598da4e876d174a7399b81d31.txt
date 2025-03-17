@@ -1,0 +1,36 @@
+<reasoning>
+To determine how much money Dorothy will have left after paying her taxes, we will follow these steps:
+
+1. **Calculate the amount of taxes Dorothy needs to pay.**
+   - We know that Dorothy earns $60,000 a year and she needs to pay 18% of this amount in taxes.
+   - To find 18% of $60,000, we can use the formula: 
+     \[
+     \text{Tax Amount} = \text{Annual Income} \times \text{Tax Rate}
+     \]
+   - Plugging in the numbers:
+     \[
+     \text{Tax Amount} = 60000 \times 0.18
+     \]
+   - Now let's calculate this:
+     \[
+     \text{Tax Amount} = 60000 \times 0.18 = 10800
+     \]
+   - So, Dorothy will pay $10,800 in taxes.
+
+2. **Calculate how much money will be left after paying taxes.**
+   - Now we subtract the tax amount from her annual income to find out how much she will have left:
+     \[
+     \text{Money Left} = \text{Annual Income} - \text{Tax Amount}
+     \]
+   - Plugging in the numbers:
+     \[
+     \text{Money Left} = 60000 - 10800
+     \]
+   - Now let's calculate this:
+     \[
+     \text{Money Left} = 60000 - 10800 = 49200
+     \]
+
+Therefore, after paying her taxes, Dorothy will have $49,200 left.
+</reasoning>
+<answer>49200</answer>

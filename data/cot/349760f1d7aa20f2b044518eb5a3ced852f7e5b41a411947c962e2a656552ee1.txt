@@ -1,0 +1,44 @@
+<reasoning>
+To find the difference in speed between the two spacecraft, we will first determine the speed of each spacecraft based on their travel times and the distance they covered.
+
+**Step 1: Calculate the travel time for the first spacecraft.**
+- The first spacecraft left at 3:00 pm and landed at 3:30 pm.
+- This means it traveled for 30 minutes.
+- To convert this time into hours, we divide by 60:
+  
+  \[
+  \text{Travel time (in hours)} = \frac{30 \text{ minutes}}{60} = 0.5 \text{ hours}
+  \]
+
+**Step 2: Calculate the speed of the first spacecraft.**
+- Speed is calculated as distance divided by time. Here, the distance is 448 miles and the time is 0.5 hours.
+  
+  \[
+  \text{Speed of first spacecraft} = \frac{448 \text{ miles}}{0.5 \text{ hours}} = 896 \text{ miles per hour}
+  \]
+
+**Step 3: Calculate the travel time for the second spacecraft.**
+- The second spacecraft landed 30 minutes later than the first, which means it landed at 4:00 pm.
+- Thus, it traveled from 3:00 pm to 4:00 pm, which is 1 hour.
+  
+  \[
+  \text{Travel time (in hours)} = 1 \text{ hour}
+  \]
+
+**Step 4: Calculate the speed of the second spacecraft.**
+- Again, using the formula for speed:
+  
+  \[
+  \text{Speed of second spacecraft} = \frac{448 \text{ miles}}{1 \text{ hour}} = 448 \text{ miles per hour}
+  \]
+
+**Step 5: Calculate the difference in speed between the two spacecraft.**
+- To find the difference in speed, we subtract the speed of the second spacecraft from the speed of the first spacecraft:
+  
+  \[
+  \text{Difference in speed} = 896 \text{ mph} - 448 \text{ mph} = 448 \text{ mph}
+  \]
+
+Therefore, the difference in speed between the two spacecraft is 448 miles per hour.
+</reasoning>
+<answer>448</answer>

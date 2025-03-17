@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we need to break it down into steps and calculate how far the ship was initially supposed to go, how far it actually traveled, and then determine how far the storm blew the ship backward.
+
+1. **Calculate the distance the ship was supposed to travel to reach halfway to the destination.**
+   The Skipper traveled due east for 20 hours at a speed of 30 kilometers per hour. 
+   We can calculate the distance using the formula:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   Substituting the given values, we have:
+   \[
+   \text{Distance} = 30 \text{ km/h} \times 20 \text{ h} = 600 \text{ km}
+   \]
+   This means the Skipper was supposed to travel 600 kilometers to reach halfway to the destination.
+
+2. **Determine the total distance to the destination.**
+   Since this distance (600 km) represents halfway to the destination, the total distance to the destination is:
+   \[
+   \text{Total distance} = 600 \text{ km} \times 2 = 1200 \text{ km}
+   \]
+
+3. **Calculate how far the ship was from the destination after the storm.**
+   After the storm, the Skipper found that he was only one-third of the way to his destination. So, we calculate one-third of the total distance to the destination:
+   \[
+   \text{Distance to destination after storm} = \frac{1}{3} \times 1200 \text{ km} = 400 \text{ km}
+   \]
+
+4. **Determine how far the ship had drifted backward due to the storm.**
+   Initially, the ship was at the 600 km mark (halfway to the destination), and after the storm, it ended up at the 400 km mark toward the destination. Thus, the drift backward is:
+   \[
+   \text{Drift} = \text{Initial distance} - \text{New distance} = 600 \text{ km} - 400 \text{ km} = 200 \text{ km}
+   \]
+
+Therefore, the ship had been blown 200 kilometers in a westward direction by the storm.
+</reasoning>
+<answer>200</answer>

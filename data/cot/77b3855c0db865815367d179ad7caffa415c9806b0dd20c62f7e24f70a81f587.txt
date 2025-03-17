@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Monday's Sales**: The restaurant sells 40 dinners on Monday. So, we have:
+   \[
+   \text{Dinners on Monday} = 40
+   \]
+
+2. **Tuesday's Sales**: On Tuesday, the restaurant sells 40 more dinners than it did on Monday. Therefore, the number of dinners sold on Tuesday is:
+   \[
+   \text{Dinners on Tuesday} = \text{Dinners on Monday} + 40 = 40 + 40 = 80
+   \]
+
+3. **Wednesday's Sales**: On Wednesday, they sold half the amount of dinners they sold on Tuesday. Thus, the number of dinners sold on Wednesday is:
+   \[
+   \text{Dinners on Wednesday} = \frac{1}{2} \times \text{Dinners on Tuesday} = \frac{1}{2} \times 80 = 40
+   \]
+
+4. **Thursday's Sales**: On Thursday, they sold 3 more dinners than they did on Wednesday. Therefore, the number of dinners sold on Thursday is:
+   \[
+   \text{Dinners on Thursday} = \text{Dinners on Wednesday} + 3 = 40 + 3 = 43
+   \]
+
+Now, we need to find the total number of dinners sold over the four days:
+\[
+\text{Total Dinners} = \text{Dinners on Monday} + \text{Dinners on Tuesday} + \text{Dinners on Wednesday} + \text{Dinners on Thursday}
+\]
+\[
+\text{Total Dinners} = 40 + 80 + 40 + 43
+\]
+
+Now, let's calculate that:
+\[
+40 + 80 = 120
+\]
+\[
+120 + 40 = 160
+\]
+\[
+160 + 43 = 203
+\]
+
+Thus, the total number of dinners sold in those 4 days is:
+</reasoning>
+<answer>203</answer>

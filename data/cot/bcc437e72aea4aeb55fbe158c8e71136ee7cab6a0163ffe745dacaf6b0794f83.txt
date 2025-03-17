@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many people sat at each table, we need to first determine the total number of people at the reunion. We can do this by adding the number of kids to the number of adults.
+
+1. **Calculate the total number of people:**
+   - Number of kids = 45
+   - Number of adults = 123
+   - Total number of people = Number of kids + Number of adults
+   \[
+   \text{Total number of people} = 45 + 123 = 168
+   \]
+
+2. **Calculate how many people sat at each table:**
+   - We have a total of 168 people and 14 tables.
+   - To find the number of people per table, we divide the total number of people by the number of tables.
+   \[
+   \text{People per table} = \frac{\text{Total number of people}}{\text{Number of tables}} = \frac{168}{14}
+   \]
+
+3. **Perform the division:**
+   - \(\frac{168}{14} = 12\)
+   - This means that each table had 12 people sitting at it.
+
+Therefore, after calculating the total number of people and dividing by the number of tables, we find that each table had an equal number of people.
+</reasoning>
+<answer>12</answer>

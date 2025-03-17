@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Mary's Weight**: We know from the problem that Mary weighs 160 lbs.
+
+2. **Determine Jamison's Weight**: The problem states that Mary weighs 20 lbs less than Jamison. Therefore, we can represent Jamison's weight (J) as:
+   \[
+   J = \text{Mary's weight} + 20 \text{ lbs} = 160 \text{ lbs} + 20 \text{ lbs} = 180 \text{ lbs}
+   \]
+
+3. **Calculate John's Weight**: Next, we need to find John's weight. The problem states that John weighs one-quarter times more than what Mary weighs. This means we can calculate John's weight (Jo) as:
+   \[
+   Jo = \text{Mary's weight} + \left(\frac{1}{4} \times \text{Mary's weight}\right)
+   \]
+   First, calculate one-quarter of Mary's weight:
+   \[
+   \frac{1}{4} \times 160 \text{ lbs} = 40 \text{ lbs}
+   \]
+   Now, add this to Mary's weight to find John's weight:
+   \[
+   Jo = 160 \text{ lbs} + 40 \text{ lbs} = 200 \text{ lbs}
+   \]
+
+4. **Calculate the Combined Weight**: Finally, we add together the weights of Mary, Jamison, and John:
+   \[
+   \text{Combined Weight} = \text{Mary's weight} + \text{Jamison's weight} + \text{John's weight}
+   \]
+   Substituting in the weights we found:
+   \[
+   \text{Combined Weight} = 160 \text{ lbs} + 180 \text{ lbs} + 200 \text{ lbs}
+   \]
+   Now, perform the addition:
+   \[
+   \text{Combined Weight} = 160 + 180 + 200 = 540 \text{ lbs}
+   \]
+
+Thus, the combined weight of the three individuals is 540 lbs.
+</reasoning>
+<answer>540</answer>

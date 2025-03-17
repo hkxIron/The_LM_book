@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, I will break it down step by step:
+
+1. **Identify the total number of boxes**: 
+   - There are 10 crates, and each crate contains 6 boxes. 
+   - To find the total number of boxes, I multiply the number of crates by the number of boxes per crate.
+   \[
+   \text{Total boxes} = 10 \text{ crates} \times 6 \text{ boxes/crate} = 60 \text{ boxes}
+   \]
+
+2. **Identify the total number of washing machines**:
+   - Each box contains 4 washing machines. 
+   - To find the total number of washing machines, I multiply the total number of boxes by the number of washing machines per box.
+   \[
+   \text{Total washing machines} = 60 \text{ boxes} \times 4 \text{ washing machines/box} = 240 \text{ washing machines}
+   \]
+
+3. **Determine how many washing machines were removed**:
+   - The problem states that 1 washing machine is removed from each box. Since there are 60 boxes, the total number of washing machines removed is equal to the number of boxes.
+   \[
+   \text{Washing machines removed} = 60 \text{ boxes} \times 1 \text{ washing machine/box} = 60 \text{ washing machines}
+   \]
+
+So, in total, 60 washing machines were removed from the shipping container.
+</reasoning>
+<answer>60</answer>

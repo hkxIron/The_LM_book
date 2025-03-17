@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the amount of money Randy had initially as \( x \).
+
+1. **Understanding the situation**: Randy starts with \( x \) dollars. Smith gives him $200, so now he has \( x + 200 \) dollars.
+
+2. **Transaction with Sally**: Randy then gives Sally $1,200. After this transaction, the amount of money Randy has left is:
+   \[
+   (x + 200) - 1200
+   \]
+
+3. **Setting up the equation**: We know that after giving Sally $1,200, Randy has $2,000 left. Therefore, we can set up the equation:
+   \[
+   (x + 200) - 1200 = 2000
+   \]
+
+4. **Solving the equation**: Let's simplify the left side of the equation:
+   \[
+   x + 200 - 1200 = 2000
+   \]
+   This simplifies to:
+   \[
+   x - 1000 = 2000
+   \]
+
+5. **Isolating \( x \)**: To find \( x \), we add 1000 to both sides:
+   \[
+   x = 2000 + 1000
+   \]
+   Simplifying this gives:
+   \[
+   x = 3000
+   \]
+
+Thus, Randy initially had $3,000.
+</reasoning>
+<answer>3000</answer>

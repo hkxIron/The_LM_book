@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step to find out how many square feet Elisa paints in total over the three days.
+
+1. **Calculate the amount painted on Monday**: 
+   Elisa paints 30 square feet on Monday. 
+   \[
+   \text{Monday's amount} = 30 \text{ square feet}
+   \]
+
+2. **Calculate the amount painted on Tuesday**: 
+   On Tuesday, she paints twice the amount she painted on Monday. To find this, we multiply the amount from Monday by 2.
+   \[
+   \text{Tuesday's amount} = 2 \times \text{Monday's amount} = 2 \times 30 = 60 \text{ square feet}
+   \]
+
+3. **Calculate the amount painted on Wednesday**: 
+   On Wednesday, she paints half as many square feet as she painted on Monday. To find this, we divide the amount from Monday by 2.
+   \[
+   \text{Wednesday's amount} = \frac{1}{2} \times \text{Monday's amount} = \frac{1}{2} \times 30 = 15 \text{ square feet}
+   \]
+
+4. **Calculate the total amount painted over the three days**: 
+   To find the total amount of square feet painted, we add the amounts from all three days together.
+   \[
+   \text{Total amount} = \text{Monday's amount} + \text{Tuesday's amount} + \text{Wednesday's amount} 
+   \]
+   \[
+   \text{Total amount} = 30 + 60 + 15 = 105 \text{ square feet}
+   \]
+
+Thus, after calculating all the amounts painted and summing them up, we find that Elisa paints a total of 105 square feet in her house.
+</reasoning>
+<answer>105</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many eggs Ben has now, we will follow these steps:
+
+1. **Identify the initial number of eggs**: Ben starts with 20 eggs in the fridge.
+
+2. **Calculate the total number of eggs eaten**: 
+   - Ben ate 4 eggs in the morning.
+   - He also ate 3 eggs in the afternoon.
+   - To find the total number of eggs eaten, we add these two amounts together:
+     \[
+     4 + 3 = 7
+     \]
+   Therefore, Ben ate a total of 7 eggs.
+
+3. **Subtract the total number of eggs eaten from the initial number of eggs**: 
+   - We start with 20 eggs and subtract the 7 eggs that he ate:
+     \[
+     20 - 7 = 13
+     \]
+   This calculation tells us how many eggs are left in the fridge after Ben has eaten some.
+
+By following these steps, we find that Ben has 13 eggs left in the fridge.
+</reasoning>
+<answer>13</answer>

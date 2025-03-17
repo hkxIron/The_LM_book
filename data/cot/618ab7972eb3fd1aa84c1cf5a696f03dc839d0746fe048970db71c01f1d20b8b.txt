@@ -1,0 +1,22 @@
+<reasoning>
+To solve the problem, we need to find out how many kilograms of tomatoes are required for 5 liters of ketchup, given that 69 kg of tomatoes are needed for 3 liters.
+
+1. **Determine the ratio of tomatoes to ketchup**: We know that 69 kg of tomatoes are used to make 3 liters of ketchup. Therefore, we can find out how many kilograms of tomatoes are needed for 1 liter of ketchup. 
+
+   \[
+   \text{Tomatoes per liter} = \frac{69 \text{ kg}}{3 \text{ liters}} = 23 \text{ kg/liter}
+   \]
+
+   This means that for every liter of ketchup, Ashley needs 23 kg of tomatoes.
+
+2. **Calculate the amount of tomatoes needed for 5 liters**: Now that we know the amount of tomatoes needed per liter, we can multiply this by the number of liters of ketchup Ashley wants to make (5 liters).
+
+   \[
+   \text{Tomatoes for 5 liters} = 23 \text{ kg/liter} \times 5 \text{ liters} = 115 \text{ kg}
+   \]
+
+   This tells us that Ashley needs 115 kg of tomatoes to make 5 liters of ketchup.
+
+Therefore, after performing these calculations, we conclude that Ashley will need a total of 115 kg of tomatoes.
+</reasoning>
+<answer>115</answer>

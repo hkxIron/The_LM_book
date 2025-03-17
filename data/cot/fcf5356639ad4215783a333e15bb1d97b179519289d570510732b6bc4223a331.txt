@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many more minutes Joan has for each question on the Math exam compared to the English exam, we need to follow these steps:
+
+1. **Calculate the time per question for the English exam**:
+   - The English exam has 30 questions and is to be completed in 1 hour. 
+   - First, we convert 1 hour to minutes: 
+     \[
+     1 \text{ hour} = 60 \text{ minutes}
+     \]
+   - Now, we find the time per question by dividing the total time by the number of questions:
+     \[
+     \text{Time per question for English} = \frac{60 \text{ minutes}}{30 \text{ questions}} = 2 \text{ minutes per question}
+     \]
+
+2. **Calculate the time per question for the Math exam**:
+   - The Math exam has 15 questions and is to be completed in 1.5 hours. 
+   - First, we convert 1.5 hours to minutes:
+     \[
+     1.5 \text{ hours} = 1.5 \times 60 \text{ minutes} = 90 \text{ minutes}
+     \]
+   - Now, we find the time per question by dividing the total time by the number of questions:
+     \[
+     \text{Time per question for Math} = \frac{90 \text{ minutes}}{15 \text{ questions}} = 6 \text{ minutes per question}
+     \]
+
+3. **Calculate the difference in time per question between the Math and English exams**:
+   - We subtract the time per question for the English exam from the time per question for the Math exam:
+     \[
+     \text{Difference} = 6 \text{ minutes per question} - 2 \text{ minutes per question} = 4 \text{ minutes}
+     \]
+
+Thus, Joan has 4 more minutes per question on the Math exam than on the English exam.
+</reasoning>
+<answer>4</answer>

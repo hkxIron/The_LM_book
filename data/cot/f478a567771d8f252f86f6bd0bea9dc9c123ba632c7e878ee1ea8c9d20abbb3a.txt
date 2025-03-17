@@ -1,0 +1,35 @@
+<reasoning>
+Let's solve this problem step by step.
+
+1. **Determine the total number of pencils Steve has initially.** 
+   - Steve has 2 boxes of pencils, and each box contains 12 pencils. 
+   - We calculate the total number of pencils by multiplying the number of boxes by the number of pencils per box:
+     \[
+     2 \text{ boxes} \times 12 \text{ pencils/box} = 24 \text{ pencils}
+     \]
+   - So, Steve starts with 24 pencils.
+
+2. **Calculate how many pencils Steve gave to Lauren.**
+   - According to the problem, Steve gave 6 pencils to Lauren. 
+
+3. **Calculate how many pencils Steve gave to Matt.**
+   - The problem states that Steve gave Matt 3 more pencils than he gave to Lauren. Since Lauren received 6 pencils, we calculate the number of pencils Matt received:
+     \[
+     \text{Pencils given to Matt} = 6 \text{ (pencils to Lauren)} + 3 = 9 \text{ pencils}
+     \]
+
+4. **Calculate the total number of pencils given away.**
+   - Now we know how many pencils Steve gave away in total:
+     \[
+     \text{Total pencils given away} = \text{Pencils to Lauren} + \text{Pencils to Matt} = 6 + 9 = 15 \text{ pencils}
+     \]
+
+5. **Determine how many pencils Steve has left.**
+   - We subtract the total number of pencils given away from the initial total:
+     \[
+     \text{Pencils left} = \text{Initial pencils} - \text{Total pencils given away} = 24 - 15 = 9 \text{ pencils}
+     \]
+
+Thus, after giving the pencils to Lauren and Matt, Steve has 9 pencils left.
+</reasoning>
+<answer>9</answer>

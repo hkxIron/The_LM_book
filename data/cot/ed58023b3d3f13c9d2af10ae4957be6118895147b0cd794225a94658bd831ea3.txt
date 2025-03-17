@@ -1,0 +1,26 @@
+<reasoning>
+To find the total number of miles that Harvey and Sam run together, we first need to determine how many miles Harvey runs.
+
+1. **Identify Sam's distance**: We know that Sam runs a total of 12 miles.
+
+2. **Calculate Harvey's distance**: According to the problem, Harvey runs 8 miles more than Sam. Therefore, we can calculate Harvey's distance as follows:
+   \[
+   \text{Harvey's distance} = \text{Sam's distance} + 8 \text{ miles}
+   \]
+   Substituting Sam's distance:
+   \[
+   \text{Harvey's distance} = 12 \text{ miles} + 8 \text{ miles} = 20 \text{ miles}
+   \]
+
+3. **Calculate the total distance run by both**: Now that we have both distances, we can add them together to find the total distance run by both friends:
+   \[
+   \text{Total distance} = \text{Sam's distance} + \text{Harvey's distance}
+   \]
+   Substituting the distances:
+   \[
+   \text{Total distance} = 12 \text{ miles} + 20 \text{ miles} = 32 \text{ miles}
+   \]
+
+Therefore, the total number of miles that Harvey and Sam run together is 32 miles.
+</reasoning>
+<answer>32</answer>

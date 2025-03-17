@@ -1,0 +1,40 @@
+<reasoning>
+To find the total number of employees in the factory after hiring 25% more workers, we will follow these steps:
+
+1. **Determine the number of new workers hired.**  
+   We start with the original number of employees, which is 852. To find out how many more workers were hired, we need to calculate 25% of 852.
+
+   \[
+   \text{Number of new workers} = 25\% \text{ of } 852 = 0.25 \times 852
+   \]
+
+   Performing the calculation:
+
+   \[
+   0.25 \times 852 = 213
+   \]
+
+   So, 213 new workers have been hired.
+
+2. **Calculate the new total number of employees.**  
+   Now that we know the number of new workers hired, we can add this to the original number of employees to find the total number of employees in the factory after the hiring.
+
+   \[
+   \text{Total employees now} = \text{Original employees} + \text{New workers}
+   \]
+
+   Substituting the values:
+
+   \[
+   \text{Total employees now} = 852 + 213
+   \]
+
+   Performing the addition:
+
+   \[
+   852 + 213 = 1065
+   \]
+
+Therefore, the total number of employees in the factory now is 1065.
+</reasoning>
+<answer>1065</answer>

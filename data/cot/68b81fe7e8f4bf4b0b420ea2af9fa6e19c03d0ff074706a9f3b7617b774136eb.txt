@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Jayson's age and his dad's age when Jayson is 10:**
+   - Jayson is 10 years old.
+   - According to the problem, his dad is four times his age.
+   - So, we calculate his dad's age: 
+     \[
+     \text{Dad's age} = 4 \times 10 = 40 \text{ years old}
+     \]
+
+2. **Determine Jayson's mom's age:**
+   - The problem states that his mom is 2 years younger than his dad.
+   - Therefore, we calculate his mom's age:
+     \[
+     \text{Mom's age} = \text{Dad's age} - 2 = 40 - 2 = 38 \text{ years old}
+     \]
+
+3. **Find out how old Jayson's mom was when he was born:**
+   - Since Jayson is currently 10 years old, we can find out how old his mom was when he was born by subtracting his current age from her current age:
+     \[
+     \text{Mom's age when Jayson was born} = \text{Mom's current age} - \text{Jayson's age} = 38 - 10 = 28 \text{ years old}
+     \]
+
+Thus, we have determined that Jayson's mom was 28 years old when he was born.
+</reasoning>
+<answer>28</answer>

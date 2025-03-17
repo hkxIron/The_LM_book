@@ -1,0 +1,29 @@
+<reasoning>
+To find the new price of the bicycle after a 15% increase on its previous selling price of $220, we will follow these steps:
+
+1. **Calculate the amount of the increase**: We need to find 15% of the original price, which is $220. To do this, we multiply $220 by 0.15 (since 15% as a decimal is 0.15).
+   \[
+   \text{Increase} = 220 \times 0.15
+   \]
+   Performing the calculation:
+   \[
+   \text{Increase} = 220 \times 0.15 = 33
+   \]
+   This means the selling price increased by $33.
+
+2. **Calculate the new price**: Now that we know the increase, we add this amount to the original price of the bicycle.
+   \[
+   \text{New Price} = \text{Original Price} + \text{Increase}
+   \]
+   Substituting the values:
+   \[
+   \text{New Price} = 220 + 33
+   \]
+   Performing the addition:
+   \[
+   \text{New Price} = 253
+   \]
+
+Thus, the new selling price of the bicycle, after the 15% increase, is $253.
+</reasoning>
+<answer>253</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To find out what grade Brittany got on her second test, we can use the formula for calculating an average. The average of two tests is the sum of the scores divided by the number of tests.
+
+1. Let's denote Brittany's first test score as \( T_1 = 78 \).
+2. Let \( T_2 \) be her second test score, which we need to find.
+3. Brittany's average after the second test is given as \( 81 \). Since she has taken two tests, we can express the average as:
+   \[
+   \text{Average} = \frac{T_1 + T_2}{2}
+   \]
+   Substituting the known values, we have:
+   \[
+   81 = \frac{78 + T_2}{2}
+   \]
+
+4. Next, we will solve for \( T_2 \). To eliminate the fraction, we can multiply both sides of the equation by 2:
+   \[
+   2 \times 81 = 78 + T_2
+   \]
+   This simplifies to:
+   \[
+   162 = 78 + T_2
+   \]
+
+5. Now, we isolate \( T_2 \) by subtracting 78 from both sides:
+   \[
+   T_2 = 162 - 78
+   \]
+   Performing the subtraction:
+   \[
+   T_2 = 84
+   \]
+
+Thus, Brittany scored 84 on her second test.
+</reasoning>
+<answer>84</answer>

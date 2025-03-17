@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the total number of shells collected over 6 days**:
+   Evie collects 10 shells each day. To find the total number of shells collected over 6 days, we multiply the number of shells collected each day by the number of days:
+   \[
+   \text{Total shells collected} = \text{Number of shells per day} \times \text{Number of days} = 10 \times 6
+   \]
+   This calculation gives:
+   \[
+   10 \times 6 = 60
+   \]
+   So, Evie has collected 60 shells in total after 6 days.
+
+2. **Account for the shells given to her brother**:
+   At the end of the 6 days, Evie gives away 2 shells to her brother. To find out how many shells she has left, we subtract the number of shells given away from the total number of shells collected:
+   \[
+   \text{Shells left} = \text{Total shells collected} - \text{Shells given away} = 60 - 2
+   \]
+   This calculation gives:
+   \[
+   60 - 2 = 58
+   \]
+   Therefore, after giving 2 shells to her brother, Evie has 58 shells remaining.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>58</answer>

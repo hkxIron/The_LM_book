@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many milkshakes Augustus and Luna have made in total, we will first calculate the number of milkshakes each of them makes in 8 hours, and then we will add those amounts together.
+
+1. **Calculate Augustus's production:**
+   - Augustus makes 3 milkshakes per hour.
+   - Since they have been working for 8 hours, we multiply his hourly production by the number of hours:
+     \[
+     3 \text{ milkshakes/hour} \times 8 \text{ hours} = 24 \text{ milkshakes}
+     \]
+   - This means Augustus has made 24 milkshakes.
+
+2. **Calculate Luna's production:**
+   - Luna makes 7 milkshakes per hour.
+   - Similarly, we multiply her hourly production by the number of hours:
+     \[
+     7 \text{ milkshakes/hour} \times 8 \text{ hours} = 56 \text{ milkshakes}
+     \]
+   - This means Luna has made 56 milkshakes.
+
+3. **Add the totals from Augustus and Luna:**
+   - Now we need to add the number of milkshakes made by Augustus and Luna to find the total:
+     \[
+     24 \text{ milkshakes} + 56 \text{ milkshakes} = 80 \text{ milkshakes}
+     \]
+
+Thus, after calculating both Augustus's and Luna's milkshake production and adding them together, we find that in total, they have made 80 milkshakes.
+</reasoning>
+<answer>80</answer>

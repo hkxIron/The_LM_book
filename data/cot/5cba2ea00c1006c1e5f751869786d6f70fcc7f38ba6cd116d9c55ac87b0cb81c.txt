@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate how many stickers Oliver used**: 
+   Oliver had 135 stickers in total and used 1/3 of them. To find out how many stickers that is, we multiply 135 by 1/3.
+   \[
+   \text{Used stickers} = 135 \times \frac{1}{3} = 45
+   \]
+   So, Oliver used 45 stickers.
+
+2. **Calculate the remaining stickers after using some**:
+   To find out how many stickers are left after using 45, we subtract the used stickers from the total.
+   \[
+   \text{Remaining stickers} = 135 - 45 = 90
+   \]
+   Now, Oliver has 90 stickers left.
+
+3. **Calculate how many stickers he gave to his friend**:
+   Next, Oliver gave away 2/5 of the remaining stickers (which is 90). We will multiply 90 by 2/5 to find out how many stickers he gave away.
+   \[
+   \text{Stickers given away} = 90 \times \frac{2}{5} = 36
+   \]
+   Therefore, Oliver gave 36 stickers to his friend.
+
+4. **Calculate how many stickers Oliver kept**:
+   To find out how many stickers Oliver kept, we subtract the stickers given away from the remaining stickers.
+   \[
+   \text{Stickers kept} = 90 - 36 = 54
+   \]
+   Thus, Oliver kept 54 stickers.
+
+Therefore, after performing all the calculations and reasoning through the problem, we find that Oliver kept 54 stickers.
+</reasoning>
+<answer>54</answer>

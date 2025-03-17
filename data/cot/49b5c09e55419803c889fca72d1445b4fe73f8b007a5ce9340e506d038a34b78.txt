@@ -1,0 +1,45 @@
+<reasoning>
+To find out how many pieces of clothing Nicole ends up with, we need to determine how many pieces each of her three older sisters gave to her and then add those to Nicole's original amount of clothing.
+
+1. **Nicole's Original Clothing**: 
+   Nicole starts with 10 pieces of clothing. 
+
+2. **First Older Sister**: 
+   The first sister had half as many clothes as Nicole. Since Nicole has 10 pieces:
+   \[
+   \text{First Sister's Clothes} = \frac{10}{2} = 5
+   \]
+
+3. **Second Older Sister**: 
+   The second sister had 2 more pieces of clothing than Nicole. Therefore, she had:
+   \[
+   \text{Second Sister's Clothes} = 10 + 2 = 12
+   \]
+
+4. **Third Older Sister (Oldest)**: 
+   The oldest sister had the average of what her three younger sisters had. We first need to find the total number of clothes of the first two sisters before calculating the average:
+   - First Sister: 5 pieces
+   - Second Sister: 12 pieces
+   - Nicole: 10 pieces
+
+   Now, we calculate the total:
+   \[
+   \text{Total Clothes of Sisters} = 5 + 12 + 10 = 27
+   \]
+   To find the average, we divide by 3 (the number of sisters):
+   \[
+   \text{Oldest Sister's Clothes} = \frac{27}{3} = 9
+   \]
+
+5. **Total Clothing After Receiving from Sisters**:
+   Now we add all the pieces of clothing Nicole received from her sisters to her original amount:
+   \[
+   \text{Total Clothing} = \text{Nicole's Original} + \text{First Sister's} + \text{Second Sister's} + \text{Oldest Sister's}
+   \]
+   \[
+   \text{Total Clothing} = 10 + 5 + 12 + 9 = 36
+   \]
+
+Therefore, Nicole ends up with a total of 36 pieces of clothing.
+</reasoning>
+<answer>36</answer>

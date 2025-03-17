@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many animals get sick, we first need to determine the total number of animals on the farm.
+
+1. **Count the total number of chickens, piglets, and goats**:
+   - Chickens: 26
+   - Piglets: 40
+   - Goats: 34
+
+   We add these numbers together:
+   \[
+   \text{Total animals} = \text{Chickens} + \text{Piglets} + \text{Goats} = 26 + 40 + 34
+   \]
+
+2. **Calculate the sum**:
+   - First, we add the chickens and piglets:
+   \[
+   26 + 40 = 66
+   \]
+   - Next, we add the result to the number of goats:
+   \[
+   66 + 34 = 100
+   \]
+   So, the total number of animals is 100.
+
+3. **Calculate how many animals get sick**:
+   - According to the problem, half of all the animals get sick. Therefore, we need to divide the total number of animals by 2:
+   \[
+   \text{Sick animals} = \frac{\text{Total animals}}{2} = \frac{100}{2}
+   \]
+
+4. **Perform the division**:
+   \[
+   \frac{100}{2} = 50
+   \]
+   Thus, 50 animals get sick.
+
+Therefore, after going through the calculations step by step, we find that the number of animals that get sick is:
+</reasoning>
+<answer>50</answer>

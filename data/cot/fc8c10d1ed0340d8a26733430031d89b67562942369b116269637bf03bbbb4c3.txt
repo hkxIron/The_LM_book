@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify how much money Howard has**:  
+   We know that Emani has $30 more than Howard. Since Emani has $150, we can find Howard's amount by subtracting $30 from Emani's amount.  
+   So, we calculate:  
+   \[ \text{Howard's amount} = \text{Emani's amount} - 30 = 150 - 30 = 120 \]  
+   Therefore, Howard has $120.
+
+2. **Calculate the total amount of money they have together**:  
+   Now that we know how much Emani and Howard have, we can find the total amount of money they have together by adding their amounts:  
+   \[ \text{Total amount} = \text{Emani's amount} + \text{Howard's amount} = 150 + 120 = 270 \]  
+   So, together they have $270.
+
+3. **Determine how much money each will get if they share equally**:  
+   To find out how much money each person would get when they share the total equally, we divide the total amount by 2:  
+   \[ \text{Amount each gets} = \frac{\text{Total amount}}{2} = \frac{270}{2} = 135 \]  
+   Therefore, each person will receive $135.
+
+In summary, Emani and Howard together have $270, and sharing it equally means each person gets $135.
+</reasoning>
+<answer>135</answer>

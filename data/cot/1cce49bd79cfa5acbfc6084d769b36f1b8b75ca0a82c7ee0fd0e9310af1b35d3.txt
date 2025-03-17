@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many large envelopes Angel used, we can break the problem down step by step.
+
+1. **Total Letters**: First, we know that Angel has written a total of 80 letters.
+
+2. **Letters in Small Envelopes**: We are told that 20 of these letters are in small envelopes. 
+
+3. **Letters in Large Envelopes**: To find out how many letters are in the large envelopes, we subtract the number of letters in small envelopes from the total letters:
+   \[
+   \text{Letters in large envelopes} = \text{Total letters} - \text{Letters in small envelopes} = 80 - 20 = 60.
+   \]
+   This means there are 60 letters that are put into large envelopes.
+
+4. **Large Envelopes Capacity**: We are told that each large envelope contains 2 letters. To find out how many large envelopes Angel used, we divide the number of letters in large envelopes by the number of letters each large envelope can hold:
+   \[
+   \text{Number of large envelopes} = \frac{\text{Letters in large envelopes}}{\text{Letters per large envelope}} = \frac{60}{2} = 30.
+   \]
+
+Thus, Angel used 30 large envelopes for her letters.
+</reasoning>
+<answer>30</answer>

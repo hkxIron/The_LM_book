@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many cans Jennifer bought initially**: According to the problem, Jennifer purchased 40 cans of milk. 
+   - So, she starts with 40 cans.
+
+2. **Understand the relationship between Jennifer's and Mark's purchases**: The problem states that for every 5 cans Mark bought, Jennifer bought 6 additional cans. We need to find out how many additional cans Jennifer bought based on the number of cans Mark purchased.
+
+3. **Calculate how many groups of 5 cans Mark purchased**: Mark bought 50 cans. To find out how many groups of 5 cans are in 50, we divide:
+   \[
+   \text{Number of groups} = \frac{50}{5} = 10
+   \]
+   - This means Mark's purchase consists of 10 groups of 5 cans.
+
+4. **Calculate how many additional cans Jennifer bought**: Since Jennifer buys 6 additional cans for every 5 cans Mark buys, we multiply the number of groups by 6:
+   \[
+   \text{Additional cans} = 10 \times 6 = 60
+   \]
+   - Therefore, Jennifer bought an additional 60 cans.
+
+5. **Calculate the total number of cans Jennifer brought home**: To find the total, we add the initial cans Jennifer bought to the additional cans:
+   \[
+   \text{Total cans} = 40 + 60 = 100
+   \]
+   - So, Jennifer brought home a total of 100 cans of milk.
+
+Therefore, we conclude that the total number of cans of milk Jennifer brought home from the store is:
+</reasoning>
+<answer>100</answer>

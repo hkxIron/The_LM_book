@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much money Claudia makes from her art classes, we need to calculate the total number of kids attending on both days and then multiply by the price per class.
+
+1. **Calculate the number of kids attending on Saturday:**
+   Claudia has 20 kids attending her class on Saturday.
+
+2. **Calculate the number of kids attending on Sunday:**
+   It is stated that half as many kids attend on Sunday compared to Saturday. Therefore, we take half of 20.
+   \[
+   \text{Kids on Sunday} = \frac{20}{2} = 10
+   \]
+
+3. **Calculate the total number of kids attending both days:**
+   Now, we add the kids from both days:
+   \[
+   \text{Total kids} = \text{Kids on Saturday} + \text{Kids on Sunday} = 20 + 10 = 30
+   \]
+
+4. **Calculate the total revenue:**
+   Claudia charges $10.00 per kid for her class. To find out how much she makes in total, we multiply the total number of kids by the cost per class.
+   \[
+   \text{Total revenue} = \text{Total kids} \times \text{Price per class} = 30 \times 10 = 300
+   \]
+
+Therefore, Claudia makes a total of $300 from her art classes over the weekend.
+</reasoning>
+<answer>300</answer>

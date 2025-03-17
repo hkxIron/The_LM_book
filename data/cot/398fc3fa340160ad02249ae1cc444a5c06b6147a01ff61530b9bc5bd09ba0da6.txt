@@ -1,0 +1,22 @@
+<reasoning>
+To determine how many more plates Xavier needs to buy, we first need to find out how many plates he currently has.
+
+1. **Calculate the total number of plates Xavier already has:**
+   - He has 21 green plates and 28 red plates.
+   - To find the total, we add these two quantities together:
+     \[
+     21 + 28 = 49
+     \]
+   - So, Xavier has 49 plates in total.
+
+2. **Determine how many more plates Xavier needs:**
+   - We know that Xavier needs a total of 84 plates for the party.
+   - To find out how many more plates he needs to buy, we subtract the number of plates he currently has from the total number of plates needed:
+     \[
+     84 - 49 = 35
+     \]
+   - Thus, Xavier needs to buy 35 more plates.
+
+Therefore, after calculating the total plates he has and how many more he needs, we conclude that Xavier should buy 35 more plates.
+</reasoning>
+<answer>35</answer>

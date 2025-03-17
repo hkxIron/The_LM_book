@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we will start by working backwards to find out how many penguins were in the colony at the beginning of the first year.
+
+1. **Current size of the colony**: We know that the current size of the colony is 1077 penguins.
+
+2. **Size increase due to harsh conditions**: We are told that this year, the colony gained only 129 penguins. This means we can find the size of the colony at the end of the previous year by subtracting this increase from the current size:
+   \[
+   \text{Size at the end of the previous year} = 1077 - 129 = 948
+   \]
+
+3. **Size increase in the previous year**: We also know that the colony tripled in size from the year before last to the end of the previous year. Let \( x \) be the size of the colony at the beginning of the previous year. Therefore, we have:
+   \[
+   3x = 948
+   \]
+   To find \( x \), we divide both sides by 3:
+   \[
+   x = \frac{948}{3} = 316
+   \]
+
+4. **Size at the beginning of the first year**: Now we need to find the size at the beginning of the first year. We know that the colony doubled in size from the beginning of the first year to the end of that year. Let \( y \) be the size of the colony at the beginning of the first year. Thus, we have:
+   \[
+   2y = 316
+   \]
+   Dividing both sides by 2 gives us:
+   \[
+   y = \frac{316}{2} = 158
+   \]
+
+5. **Total fish consumption**: Each penguin eats 1.5 fish per day. To find the total number of fish eaten by the entire colony at the beginning of the first year, we multiply the number of penguins by the amount of fish each penguin eats:
+   \[
+   \text{Total fish} = 158 \times 1.5
+   \]
+   Calculating this:
+   \[
+   158 \times 1.5 = 237
+   \]
+
+Thus, the total number of fish the whole colony caught per day to eat at the beginning of the first year is:
+</reasoning>
+<answer>237</answer>

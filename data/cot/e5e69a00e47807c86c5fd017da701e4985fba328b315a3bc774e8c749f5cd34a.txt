@@ -1,0 +1,39 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Calculate Mark's new hourly wage**:
+   - Mark received a 5% raise on his previous hourly wage of $40.
+   - To calculate the raise, we multiply the hourly wage by the percentage raise (expressed as a decimal): 
+     \[
+     \text{Raise} = 40 \times 0.05 = 2
+     \]
+   - Now, we add the raise to the original wage to find the new wage:
+     \[
+     \text{New hourly wage} = 40 + 2 = 42
+     \]
+
+2. **Calculate Mark's weekly earnings**:
+   - Mark works 8 hours a day for 5 days a week. First, we calculate his total hours worked in a week:
+     \[
+     \text{Total hours} = 8 \times 5 = 40
+     \]
+   - Now, we calculate his weekly earnings by multiplying his new hourly wage by the total hours worked:
+     \[
+     \text{Weekly earnings} = 42 \times 40 = 1680
+     \]
+
+3. **Calculate his total weekly expenses**:
+   - His old bills were $600 per week, and he added an additional $100 for a personal trainer. We calculate his total expenses as follows:
+     \[
+     \text{Total expenses} = 600 + 100 = 700
+     \]
+
+4. **Calculate how much Mark has leftover each week**:
+   - To find out how much he has leftover, we subtract his total expenses from his weekly earnings:
+     \[
+     \text{Leftover} = 1680 - 700 = 980
+     \]
+
+Therefore, Mark has $980 leftover each week after paying his bills and his personal trainer.
+</reasoning>
+<answer>980</answer>

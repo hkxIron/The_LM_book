@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the capacity of each cupboard:**
+   - **Tall cupboard:** It can hold 20 glasses.
+   - **Wide cupboard:** It holds twice as many glasses as the tall cupboard. Thus, it can hold:
+     \[
+     2 \times 20 = 40 \text{ glasses}
+     \]
+   - **Narrow cupboard:** It holds 15 glasses.
+
+2. **Total capacity of all cupboards:** We now add the capacities of the three cupboards together:
+   \[
+   \text{Total} = \text{Tall cupboard} + \text{Wide cupboard} + \text{Narrow cupboard}
+   \]
+   \[
+   \text{Total} = 20 + 40 + 15 = 75 \text{ glasses}
+   \]
+
+3. **Consider the broken shelf in the narrow cupboard:** The problem states that the narrow cupboard has 15 glasses divided equally among three shelves. This means each shelf originally held:
+   \[
+   \frac{15}{3} = 5 \text{ glasses per shelf}
+   \]
+   Since one of the shelves breaks, we need to determine how many glasses can be displayed in the remaining two shelves:
+   \[
+   2 \text{ shelves} \times 5 \text{ glasses/shelf} = 10 \text{ glasses}
+   \]
+
+4. **Calculate the total number of glasses currently displayed:** We now add the number of glasses displayed in the other two cupboards with the adjusted number of glasses in the narrow cupboard:
+   \[
+   \text{Total displayed} = \text{Tall cupboard} + \text{Wide cupboard} + \text{Adjusted Narrow cupboard}
+   \]
+   \[
+   \text{Total displayed} = 20 + 40 + 10 = 70 \text{ glasses}
+   \]
+
+Therefore, the current number of glasses being displayed is:
+</reasoning>
+<answer>70</answer>

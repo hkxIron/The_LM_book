@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many history books are on the table, we'll solve the problem step by step.
+
+1. **Calculate the number of reading books**:  
+   We know that two-fifths of the 10 books are reading books.  
+   \[
+   \text{Number of reading books} = \frac{2}{5} \times 10 = 4
+   \]
+   Therefore, there are 4 reading books.
+
+2. **Calculate the number of math books**:  
+   Next, we calculate the number of math books, which is three-tenths of the 10 books.  
+   \[
+   \text{Number of math books} = \frac{3}{10} \times 10 = 3
+   \]
+   Thus, there are 3 math books.
+
+3. **Determine the number of science books**:  
+   The problem states that there is one fewer science book than math books. Since we found there are 3 math books, this means:  
+   \[
+   \text{Number of science books} = 3 - 1 = 2
+   \]
+   Hence, there are 2 science books.
+
+4. **Calculate the total number of books accounted for**:  
+   Now, let's add up the number of reading, math, and science books to see how many books we have accounted for:  
+   \[
+   \text{Total accounted for} = \text{Reading books} + \text{Math books} + \text{Science books} = 4 + 3 + 2 = 9
+   \]
+
+5. **Find the number of history books**:  
+   Since there are 10 books in total, we can find the number of history books by subtracting the total accounted for from the total number of books:  
+   \[
+   \text{Number of history books} = 10 - 9 = 1
+   \]
+
+Thus, after going through all the steps, we find that there is 1 history book.
+</reasoning>
+<answer>1</answer>

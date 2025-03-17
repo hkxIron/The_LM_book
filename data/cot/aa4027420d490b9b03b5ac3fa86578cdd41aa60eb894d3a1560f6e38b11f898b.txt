@@ -1,0 +1,33 @@
+<reasoning>
+To find out how much you will save from buying 3 sets of 2 dozens compared to buying 6 sets of 1 dozen, we need to calculate the total costs for both options.
+
+1. **Calculate the cost of 2 dozens:**
+   From the problem, we know that buying 2 dozens costs $14.
+
+2. **Calculate the cost of 3 sets of 2 dozens:**
+   Since one set of 2 dozens costs $14, we can calculate the cost for 3 sets as follows:
+   \[
+   \text{Cost of 3 sets of 2 dozens} = 3 \times 14 = 42
+   \]
+
+3. **Calculate the cost of 1 dozen:**
+   From the problem, we know that buying a dozen of doughnuts costs $8.
+
+4. **Calculate the cost of 6 sets of 1 dozen:**
+   Since one dozen costs $8, we can calculate the cost for 6 sets as follows:
+   \[
+   \text{Cost of 6 sets of 1 dozen} = 6 \times 8 = 48
+   \]
+
+5. **Calculate the savings:**
+   Now, we find the difference in cost between buying 3 sets of 2 dozens and 6 sets of 1 dozen:
+   \[
+   \text{Savings} = \text{Cost of 6 sets of 1 dozen} - \text{Cost of 3 sets of 2 dozens}
+   \]
+   \[
+   \text{Savings} = 48 - 42 = 6
+   \]
+
+Therefore, the amount saved by buying 3 sets of 2 dozens instead of 6 sets of 1 dozen is $6.
+</reasoning>
+<answer>6</answer>

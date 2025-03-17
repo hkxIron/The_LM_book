@@ -1,0 +1,22 @@
+<reasoning>
+To solve the problem, we need to calculate the population of the original flock of ducks over the span of 5 years, considering the births and deaths that occur each year. 
+
+1. **Initial flock size**: We start with 100 ducks.
+
+2. **Annual changes**: Each year, 20 ducks are killed, and 30 ducks are born. Therefore, the net increase in the flock each year is:
+   - Ducks born: 30
+   - Ducks killed: 20
+   - Net change = 30 - 20 = 10 ducks increase per year.
+
+3. **Calculating the flock size after 5 years**: Since the flock increases by 10 ducks every year for 5 years, we can calculate the total increase over those years:
+   - Total increase over 5 years = 10 ducks/year × 5 years = 50 ducks.
+
+4. **New flock size after 5 years**: We add this increase to the original flock size:
+   - New flock size = Original size + Increase = 100 ducks + 50 ducks = 150 ducks.
+
+5. **Joining with another flock**: After 5 years, the original flock of 150 ducks joins another flock of 150 ducks. We need to add these two flocks together:
+   - Combined flock size = Original flock size + Other flock size = 150 ducks + 150 ducks = 300 ducks.
+
+Therefore, after performing the calculations step by step, we find that the total number of ducks in the combined flock is:
+</reasoning>
+<answer>300</answer>

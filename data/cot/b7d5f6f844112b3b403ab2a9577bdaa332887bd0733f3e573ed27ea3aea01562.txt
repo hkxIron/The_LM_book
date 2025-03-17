@@ -1,0 +1,41 @@
+<reasoning>
+To determine the percentage of female votes June needs to win, we will break the problem down into several steps.
+
+1. **Calculate the total number of votes needed to win**: 
+   Since June needs just over 50% of the total votes and there are 200 students, we first calculate 50% of 200.
+   \[
+   50\% \text{ of } 200 = 0.50 \times 200 = 100
+   \]
+   Therefore, she needs more than 100 votes to secure a win. The smallest integer greater than 100 is 101. 
+
+2. **Determine the number of boys and girls**:
+   We know that 60% of the students are boys. Thus, we calculate the number of boys:
+   \[
+   \text{Number of boys} = 60\% \text{ of } 200 = 0.60 \times 200 = 120
+   \]
+   The remaining students are girls:
+   \[
+   \text{Number of girls} = 200 - 120 = 80
+   \]
+
+3. **Calculate the number of male votes June receives**:
+   June receives 67.5% of the male votes. We find out how many male votes that is:
+   \[
+   \text{Male votes received} = 67.5\% \text{ of } 120 = 0.675 \times 120 = 81
+   \]
+
+4. **Calculate the number of votes she still needs from females**:
+   We now know that she has received 81 votes from boys. To find out how many more votes she needs, we subtract the votes she has from the total votes needed:
+   \[
+   \text{Votes needed from girls} = 101 - 81 = 20
+   \]
+
+5. **Calculate the percentage of female votes needed**:
+   To find the percentage of female votes she needs, we take the number of female votes needed and divide it by the total number of girls, then multiply by 100 to get the percentage:
+   \[
+   \text{Percentage of female votes needed} = \left(\frac{20}{80}\right) \times 100 = 25\%
+   \]
+
+Therefore, the smallest percentage of the female votes that June must receive to win the election is 25%.
+</reasoning>
+<answer>25</answer>

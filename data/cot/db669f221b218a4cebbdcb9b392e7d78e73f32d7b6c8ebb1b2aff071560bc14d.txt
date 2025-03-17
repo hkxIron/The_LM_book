@@ -1,0 +1,41 @@
+<reasoning>
+Let's start by calculating the total number of leaves Bronson collected.
+
+1. **Calculate the total leaves collected:**
+   - On Thursday, he collected 12 leaves.
+   - On Friday, he collected 13 leaves.
+   - Therefore, the total number of leaves collected is:
+     \[
+     12 + 13 = 25
+     \]
+   This means Bronson collected a total of 25 leaves.
+
+2. **Determine the number of Brown and Green leaves:**
+   - According to the problem, 20% of the leaves are Brown, and 20% are Green.
+   - First, let's calculate the number of Brown leaves:
+     \[
+     \text{Brown leaves} = 20\% \text{ of } 25 = 0.20 \times 25 = 5
+     \]
+   - Next, we calculate the number of Green leaves:
+     \[
+     \text{Green leaves} = 20\% \text{ of } 25 = 0.20 \times 25 = 5
+     \]
+
+3. **Calculate the total number of Brown and Green leaves:**
+   - The total number of Brown and Green leaves combined is:
+     \[
+     5 + 5 = 10
+     \]
+
+4. **Calculate the number of Yellow leaves:**
+   - To find the number of Yellow leaves, we subtract the number of Brown and Green leaves from the total number of leaves:
+     \[
+     \text{Yellow leaves} = \text{Total leaves} - \text{(Brown leaves + Green leaves)}
+     \]
+     \[
+     \text{Yellow leaves} = 25 - 10 = 15
+     \]
+
+Thus, after calculating, we find that Bronson collected 15 Yellow leaves.
+</reasoning>
+<answer>15</answer>

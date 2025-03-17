@@ -1,0 +1,38 @@
+<reasoning>
+Let's denote the number of apples Mary ate as \( x \). According to the problem, for each apple that Mary eats, she plants 2 trees from the remaining apples.
+
+1. **Start with the total number of apples**: Mary bought 6 apples from the store. So we have:
+   \[
+   \text{Total apples} = 6
+   \]
+
+2. **Determine the remaining apples after eating**: If Mary eats \( x \) apples, the number of remaining apples is:
+   \[
+   \text{Remaining apples} = 6 - x
+   \]
+
+3. **Calculate the number of trees planted**: For each apple that Mary eats, she plants 2 trees. Therefore, if she eats \( x \) apples, she will plant:
+   \[
+   \text{Trees planted} = 2x
+   \]
+
+4. **Set up the equation**: The total number of apples that she has after eating is equal to the number of trees planted plus the number of remaining apples. This gives us the equation:
+   \[
+   6 - x = 2x
+   \]
+
+5. **Solve the equation**:
+   - First, add \( x \) to both sides:
+     \[
+     6 = 3x
+     \]
+   - Next, divide both sides by 3:
+     \[
+     x = 2
+     \]
+
+Thus, Mary ate 2 apples.
+
+Therefore, the number of apples that Mary ate is:
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of pieces in the first puzzle**: 
+   The first puzzle has 1000 pieces.
+
+2. **Calculate the number of pieces in the second and third puzzles**: 
+   The second and third puzzles have 50% more pieces than the first puzzle. 
+   To find out how many pieces that is, we first calculate 50% of the first puzzle's pieces:
+   \[
+   50\% \text{ of } 1000 = 0.5 \times 1000 = 500
+   \]
+   Now, to find the total pieces in the second and third puzzles, we add this 50% increase to the original 1000 pieces:
+   \[
+   \text{Pieces in each of the second and third puzzles} = 1000 + 500 = 1500
+   \]
+
+3. **Calculate the total pieces across all puzzles**: 
+   We now know the number of pieces for each puzzle:
+   - First puzzle: 1000 pieces
+   - Second puzzle: 1500 pieces
+   - Third puzzle: 1500 pieces
+   
+   Now, we sum these amounts to find the total number of pieces:
+   \[
+   \text{Total pieces} = 1000 + 1500 + 1500 = 4000
+   \]
+
+Therefore, after adding the pieces from all three puzzles, we find that the total number of pieces is 4000.
+</reasoning>
+<answer>4000</answer>

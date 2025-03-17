@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine the number of chapters remaining**: 
+   Beth has a total of 8 chapters in the book. Since she has read 2 chapters, we need to find out how many chapters are left to read.
+   \[
+   \text{Remaining chapters} = \text{Total chapters} - \text{Chapters read} = 8 - 2 = 6
+   \]
+   This means Beth still has 6 chapters to read.
+
+2. **Find out how many chapters Beth reads per hour**:
+   We know that Beth read 2 chapters in 3 hours. To find her reading rate, we divide the number of chapters by the number of hours.
+   \[
+   \text{Reading rate} = \frac{\text{Chapters read}}{\text{Hours taken}} = \frac{2}{3} \text{ chapters per hour}
+   \]
+
+3. **Calculate the time needed to read the remaining chapters**:
+   Now we need to find out how long it will take her to read the remaining 6 chapters at her current reading rate. We can calculate the time required by dividing the remaining chapters by her reading rate:
+   \[
+   \text{Time needed} = \frac{\text{Remaining chapters}}{\text{Reading rate}} = \frac{6}{\frac{2}{3}}
+   \]
+   To divide by a fraction, we multiply by its reciprocal:
+   \[
+   \text{Time needed} = 6 \times \frac{3}{2} = \frac{18}{2} = 9 \text{ hours}
+   \]
+
+Therefore, Beth will need 9 hours to finish reading the remaining chapters.
+</reasoning>
+<answer>9</answer>

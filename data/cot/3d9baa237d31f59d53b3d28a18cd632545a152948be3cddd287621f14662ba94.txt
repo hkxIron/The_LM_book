@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate total savings**: First, we need to sum up the amounts Kate saved in March, April, and May.
+
+   - March savings: $27
+   - April savings: $13
+   - May savings: $28
+
+   Total savings = March savings + April savings + May savings
+   Total savings = 27 + 13 + 28
+
+   Now, let's perform the addition:
+   - 27 + 13 = 40
+   - 40 + 28 = 68
+
+   So, Kate saved a total of $68.
+
+2. **Calculate total spending**: Now let's sum up the amounts Kate spent on the keyboard and the mouse.
+
+   - Keyboard cost: $49
+   - Mouse cost: $5
+
+   Total spending = Keyboard cost + Mouse cost
+   Total spending = 49 + 5
+
+   Performing the addition:
+   - 49 + 5 = 54
+
+   So, Kate spent a total of $54.
+
+3. **Calculate remaining amount**: Now we need to find out how much money Kate has left after her savings and spending.
+
+   Remaining amount = Total savings - Total spending
+   Remaining amount = 68 - 54
+
+   Performing the subtraction:
+   - 68 - 54 = 14
+
+Therefore, Kate has $14 left after her savings and spending.
+</reasoning>
+<answer>14</answer>

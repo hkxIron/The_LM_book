@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many grams of birdseed Peter needs to buy for a week, we will calculate the daily food requirements for each type of bird and then find the total amount needed for the entire week.
+
+1. **Calculate the daily food requirement for parakeets:**
+   - Each parakeet eats 2 grams a day.
+   - Peter has 3 parakeets.
+   - Total daily food for parakeets = Number of parakeets × Food per parakeet = 3 × 2 = 6 grams.
+
+2. **Calculate the daily food requirement for parrots:**
+   - Each parrot eats 14 grams a day.
+   - Peter has 2 parrots.
+   - Total daily food for parrots = Number of parrots × Food per parrot = 2 × 14 = 28 grams.
+
+3. **Calculate the daily food requirement for finches:**
+   - Each finch eats half of what a parakeet eats.
+   - Since a parakeet eats 2 grams, a finch eats 2 / 2 = 1 gram a day.
+   - Peter has 4 finches.
+   - Total daily food for finches = Number of finches × Food per finch = 4 × 1 = 4 grams.
+
+4. **Calculate the total daily food requirement for all birds:**
+   - Total daily food = Total for parakeets + Total for parrots + Total for finches
+   - Total daily food = 6 grams (parakeets) + 28 grams (parrots) + 4 grams (finches) = 38 grams.
+
+5. **Calculate the total food requirement for a week:**
+   - There are 7 days in a week.
+   - Total weekly food = Total daily food × Number of days = 38 grams × 7 days = 266 grams.
+
+Therefore, Peter needs to buy 266 grams of birdseed to last a week.
+</reasoning>
+<answer>266</answer>

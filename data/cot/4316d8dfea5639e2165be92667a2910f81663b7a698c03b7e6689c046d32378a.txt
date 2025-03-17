@@ -1,0 +1,28 @@
+<reasoning>
+First, let's calculate the total number of calories Brandon gets from catching squirrels in one hour.
+
+1. **Calculate calories from squirrels:**
+   - He can catch 6 squirrels in 1 hour.
+   - Each squirrel has 300 calories.
+   - Therefore, the total calories from squirrels is:
+     \[
+     \text{Calories from squirrels} = 6 \text{ squirrels} \times 300 \text{ calories/squirrel} = 1800 \text{ calories}
+     \]
+
+2. **Calculate calories from rabbits:**
+   - He can catch 2 rabbits in 1 hour.
+   - Each rabbit has 800 calories.
+   - Therefore, the total calories from rabbits is:
+     \[
+     \text{Calories from rabbits} = 2 \text{ rabbits} \times 800 \text{ calories/rabbit} = 1600 \text{ calories}
+     \]
+
+3. **Calculate the difference in calories:**
+   - Now we need to find out how many more calories he gets from catching squirrels compared to rabbits:
+     \[
+     \text{Difference in calories} = \text{Calories from squirrels} - \text{Calories from rabbits} = 1800 \text{ calories} - 1600 \text{ calories} = 200 \text{ calories}
+     \]
+
+Therefore, by catching squirrels instead of rabbits, Brandon will gain 200 more calories per hour.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we first need to understand the relationship between the number of steps, blocks, and levels in the tower.
+
+1. **Identify the number of blocks per step**: According to the problem, each step is made up of 3 blocks of stone.
+
+2. **Identify the number of steps per level**: Each level has 8 steps.
+
+3. **Calculate the total number of blocks per level**: 
+   - Each level has 8 steps, and each step consists of 3 blocks. 
+   - Therefore, the total number of blocks per level is calculated as follows:
+     \[
+     \text{Blocks per level} = \text{Steps per level} \times \text{Blocks per step} = 8 \times 3 = 24 \text{ blocks}
+     \]
+
+4. **Determine the total number of blocks climbed**: Clara climbs past a total of 96 blocks.
+
+5. **Calculate the number of levels climbed**:
+   - To find the number of levels, we divide the total number of blocks by the number of blocks per level:
+     \[
+     \text{Levels} = \frac{\text{Total blocks}}{\text{Blocks per level}} = \frac{96}{24} = 4
+     \]
+
+Therefore, Clara has climbed 4 levels to reach the top of the tower.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much money John has made writing, we need to calculate the total number of books he has written in 20 years and then multiply that by the amount he earns per book.
+
+1. **Calculate the total number of months in 20 years**:
+   - There are 12 months in a year, so in 20 years, the total number of months is:
+     \[
+     20 \text{ years} \times 12 \text{ months/year} = 240 \text{ months}
+     \]
+   This means John has been writing for 240 months.
+
+2. **Determine how many books he writes in that time**:
+   - John writes a book every 2 months, so we need to divide the total number of months by the number of months per book:
+     \[
+     \frac{240 \text{ months}}{2 \text{ months/book}} = 120 \text{ books}
+     \]
+   This means John has written 120 books over the course of 20 years.
+
+3. **Calculate the total earnings from writing**:
+   - John earns an average of $30,000 per book. To find his total earnings, we multiply the number of books by the earnings per book:
+     \[
+     120 \text{ books} \times 30,000 \text{ dollars/book} = 3,600,000 \text{ dollars}
+     \]
+   Therefore, John's total earnings from writing is $3,600,000.
+</reasoning>
+<answer>3600000</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate how many hot dogs the 1st competitor ate:** 
+   The problem states that the 1st competitor ate 12 hot dogs.
+
+2. **Calculate how many hot dogs the 2nd competitor ate:** 
+   The 2nd competitor ate twice the amount of the 1st competitor. Therefore, we can calculate:
+   \[
+   \text{Hot dogs eaten by 2nd competitor} = 2 \times 12 = 24
+   \]
+
+3. **Calculate how many hot dogs the 3rd competitor ate:** 
+   The 3rd competitor ate 25% less than the 2nd competitor. To find 25% of the 2nd competitor's total, we do:
+   \[
+   25\% \text{ of } 24 = 0.25 \times 24 = 6
+   \]
+   Now, we subtract this amount from the 2nd competitor's total to find out how many hot dogs the 3rd competitor ate:
+   \[
+   \text{Hot dogs eaten by 3rd competitor} = 24 - 6 = 18
+   \]
+
+Therefore, the 3rd competitor ate 18 hot dogs.
+</reasoning>
+<answer>18</answer>

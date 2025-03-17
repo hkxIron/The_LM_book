@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. Michelle initially made 20 sandwiches.
+2. She gives 4 sandwiches to one co-worker. To find out how many sandwiches she has left after giving those away, we need to subtract the 4 sandwiches from the total she made.
+
+   Calculation: 
+   \( 20 - 4 = 16 \) sandwiches remaining.
+
+3. Next, it states that Michelle keeps twice the amount she gave away for herself. Since she gave away 4 sandwiches, we need to calculate how many sandwiches she keeps.
+
+   Calculation:
+   \( 2 \times 4 = 8 \) sandwiches for herself.
+
+4. Now, we need to find out how many sandwiches she has left after keeping 8 for herself. We already calculated that she had 16 sandwiches remaining after giving away 4.
+
+   Calculation:
+   \( 16 - 8 = 8 \) sandwiches remaining to give to her other co-workers.
+
+Therefore, after all the steps, Michelle has 8 sandwiches left to give to her other co-workers.
+</reasoning>
+<answer>8</answer>

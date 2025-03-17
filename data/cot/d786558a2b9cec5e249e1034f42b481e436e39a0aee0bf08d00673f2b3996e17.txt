@@ -1,0 +1,29 @@
+<reasoning>
+Let's denote the total number of fish in the tank as \( x \).
+
+1. **Understanding the problem**: We know that one third of the total fish are blue. Therefore, the number of blue fish can be expressed as:
+   \[
+   \text{Number of blue fish} = \frac{1}{3}x
+   \]
+
+2. **Identifying the spotted fish**: According to the problem, half of the blue fish have spots. Therefore, the number of blue, spotted fish can be expressed as:
+   \[
+   \text{Number of blue, spotted fish} = \frac{1}{2} \left( \frac{1}{3}x \right) = \frac{1}{6}x
+   \]
+
+3. **Setting up the equation**: We know from the problem that the number of blue, spotted fish is 10. Hence, we can set up the equation:
+   \[
+   \frac{1}{6}x = 10
+   \]
+
+4. **Solving for \( x \)**: To find \( x \), we multiply both sides of the equation by 6 to eliminate the fraction:
+   \[
+   x = 10 \times 6
+   \]
+   \[
+   x = 60
+   \]
+
+5. **Conclusion**: Therefore, the total number of fish in the tank is 60.
+</reasoning>
+<answer>60</answer>

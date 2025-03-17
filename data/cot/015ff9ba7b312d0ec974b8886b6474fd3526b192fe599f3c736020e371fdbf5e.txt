@@ -1,0 +1,27 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify the number of squirrels counted by the first student.**
+   - The first student counted 12 squirrels.
+
+2. **Determine how many squirrels the second student counted.**
+   - The problem states that the second student counted a third more squirrels than the first student. 
+   - To find out how many more squirrels that is, we need to calculate one third of the first student's count (which is 12).
+   - One third of 12 is calculated as: 
+     \[
+     \frac{12}{3} = 4
+     \]
+   - Therefore, the second student counted:
+     \[
+     12 + 4 = 16 \text{ squirrels}
+     \]
+
+3. **Add the counts from both students to find the total.**
+   - Now we add the number of squirrels counted by both students:
+     \[
+     12 + 16 = 28
+     \]
+
+Thus, the total number of squirrels counted by both students combined is 28.
+</reasoning>
+<answer>28</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+Let's start by determining how much money Phillip spent in total on the items he purchased.
+
+1. **Add the costs of the items:**
+   - Cost of oranges: $14
+   - Cost of apples: $25
+   - Cost of candy: $6
+
+   To find the total spending, we will add these amounts together:
+   \[
+   \text{Total spent} = 14 + 25 + 6
+   \]
+
+   Now, let's perform the addition step-by-step:
+   - First, add $14 and $25:
+     \[
+     14 + 25 = 39
+     \]
+   - Next, add $6 to $39:
+     \[
+     39 + 6 = 45
+     \]
+
+   Therefore, Phillip spent a total of $45.
+
+2. **Calculate the remaining money:**
+   Phillip started with $95. To find out how much money he has left after his purchases, we will subtract the total amount spent from the initial amount:
+   \[
+   \text{Money left} = 95 - 45
+   \]
+
+   Now, let's perform the subtraction:
+   \[
+   95 - 45 = 50
+   \]
+
+Therefore, Phillip has $50 left after his shopping.
+</reasoning>
+<answer>50</answer>

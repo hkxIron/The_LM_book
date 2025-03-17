@@ -1,0 +1,32 @@
+<reasoning>
+To find the wholesale price of the pants, we start by letting \( W \) represent the wholesale price. According to the problem, the store owner adds 80% to the wholesale price to arrive at the retail price. 
+
+This can be set up mathematically as follows:
+
+1. **Understanding the relationship**: The retail price \( R \) can be expressed in terms of the wholesale price \( W \) as:
+   \[
+   R = W + 0.80W
+   \]
+   This simplifies to:
+   \[
+   R = 1.80W
+   \]
+
+2. **Substituting the retail price**: We know from the problem that the retail price \( R \) is $36, so we can substitute that into the equation:
+   \[
+   36 = 1.80W
+   \]
+
+3. **Solving for the wholesale price \( W \)**: To find \( W \), we need to divide both sides of the equation by 1.80:
+   \[
+   W = \frac{36}{1.80}
+   \]
+
+4. **Calculating the value**: Now we can perform the division:
+   \[
+   W = \frac{36}{1.80} = 20
+   \]
+
+Therefore, the wholesale price of the pants is $20.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Mario's original salary**: We know that Mario's salary increased by 40% to reach $4000. We can use the formula for percentage increase:
+   \[
+   \text{New Salary} = \text{Original Salary} + (\text{Original Salary} \times \text{Percentage Increase})
+   \]
+   Let \( x \) be Mario's original salary. Therefore:
+   \[
+   4000 = x + (x \times 0.40)
+   \]
+   This can be rewritten as:
+   \[
+   4000 = x + 0.40x = 1.40x
+   \]
+   To find \( x \), we divide both sides by 1.40:
+   \[
+   x = \frac{4000}{1.40}
+   \]
+   Let's calculate this:
+   \[
+   x = 2857.14 \text{ (approximately)}
+   \]
+
+2. **Calculate Bob's salary last year**: We know that Bob's salary last year was three times Mario's salary this year (which is $4000). So:
+   \[
+   \text{Bob's last year salary} = 3 \times 4000 = 12000
+   \]
+
+3. **Determine Bob's current salary**: Bob's current salary is 20% more than his salary last year. We can calculate this using the percentage increase formula again:
+   \[
+   \text{Current Salary} = \text{Last Year Salary} + (\text{Last Year Salary} \times 0.20)
+   \]
+   Plugging in Bob's last year salary:
+   \[
+   \text{Current Salary} = 12000 + (12000 \times 0.20)
+   \]
+   This simplifies to:
+   \[
+   \text{Current Salary} = 12000 + 2400 = 14400
+   \]
+
+Therefore, Bob's current salary is:
+</reasoning>
+<answer>14400</answer>

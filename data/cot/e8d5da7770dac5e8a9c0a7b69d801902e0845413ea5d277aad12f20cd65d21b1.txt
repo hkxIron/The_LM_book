@@ -1,0 +1,70 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify the quantities**: We know that Bella has 60 marbles. According to the problem, she has two times as many marbles as frisbees. We can set up an equation to find the number of frisbees.
+
+   Let \( F \) be the number of frisbees. According to the information provided:
+   \[
+   60 = 2F
+   \]
+   To find \( F \), we solve for \( F \):
+   \[
+   F = \frac{60}{2} = 30
+   \]
+   So, Bella has 30 frisbees.
+
+2. **Find the number of deck cards**: The problem states that Bella has 20 more frisbees than deck cards. Let \( D \) be the number of deck cards. We can write this relationship as:
+   \[
+   F = D + 20
+   \]
+   Substituting the value of \( F \):
+   \[
+   30 = D + 20
+   \]
+   To find \( D \), we rearrange the equation:
+   \[
+   D = 30 - 20 = 10
+   \]
+   So, Bella has 10 deck cards.
+
+3. **Calculate the total number of items currently**: Now we can add up the current quantities of marbles, frisbees, and deck cards:
+   \[
+   \text{Total items} = \text{Marbles} + \text{Frisbees} + \text{Deck Cards} = 60 + 30 + 10 = 100
+   \]
+
+4. **Determine the additional items purchased**: The problem states that Bella buys \( \frac{2}{5} \) times more of each item. This means we need to calculate \( \frac{2}{5} \) of each current quantity:
+   - For marbles:
+     \[
+     \text{Marbles bought} = \frac{2}{5} \times 60 = 24
+     \]
+   - For frisbees:
+     \[
+     \text{Frisbees bought} = \frac{2}{5} \times 30 = 12
+     \]
+   - For deck cards:
+     \[
+     \text{Deck cards bought} = \frac{2}{5} \times 10 = 4
+     \]
+
+5. **Calculate the new totals of items**: Now, we can find the new totals by adding the amounts bought to the current amounts:
+   - New number of marbles:
+     \[
+     60 + 24 = 84
+     \]
+   - New number of frisbees:
+     \[
+     30 + 12 = 42
+     \]
+   - New number of deck cards:
+     \[
+     10 + 4 = 14
+     \]
+
+6. **Calculate the final total of all items**: Finally, we add the new quantities together to find the total number of items Bella will have:
+   \[
+   \text{Final total} = 84 + 42 + 14 = 140
+   \]
+
+Therefore, Bella will have a total of 140 items after her purchases.
+</reasoning>
+<answer>140</answer>

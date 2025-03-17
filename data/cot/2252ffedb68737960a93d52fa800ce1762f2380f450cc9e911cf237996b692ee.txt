@@ -1,0 +1,33 @@
+<reasoning>
+To determine how many buses are needed for the field trip, we will follow these steps:
+
+1. **Calculate the total number of students**: We will add the number of fifth graders, sixth graders, and seventh graders together.
+   - Fifth graders: 109
+   - Sixth graders: 115
+   - Seventh graders: 118
+
+   Calculation:
+   \[
+   109 + 115 + 118 = 342 \text{ students}
+   \]
+
+2. **Calculate the total number of chaperones**: We have 4 teachers and 2 parents from each grade. Since there are 3 grades, we will calculate the total number of parents and then add the teachers.
+   - Parents: \(2 \text{ parents} \times 3 \text{ grades} = 6 \text{ parents}\)
+   - Total chaperones = Teachers + Parents = \(4 \text{ teachers} + 6 \text{ parents} = 10 \text{ chaperones}\)
+
+3. **Calculate the total number of participants (students and chaperones)**: We will add the total number of students and chaperones together.
+   \[
+   342 \text{ students} + 10 \text{ chaperones} = 352 \text{ participants}
+   \]
+
+4. **Determine the number of buses needed**: We will divide the total number of participants by the number of seats available on each bus and round up since we can't have a fraction of a bus.
+   - Seats on each bus: 72
+   - To find the number of buses needed, we perform the division:
+   \[
+   \frac{352}{72} \approx 4.8889
+   \]
+   Since we need a whole number of buses, we round up to 5.
+
+Therefore, after calculating the total participants and considering the seating capacity per bus, we determine that 5 buses are necessary for the trip.
+</reasoning>
+<answer>5</answer>

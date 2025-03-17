@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of boxes in a dozen cartons**:
+   - We know that one carton contains 12 boxes.
+   - Therefore, for a dozen (which is 12) cartons, the total number of boxes is:
+     \[
+     12 \text{ cartons} \times 12 \text{ boxes/carton} = 144 \text{ boxes}
+     \]
+
+2. **Determine the total number of packs of cheese cookies**:
+   - Each box has 10 packs of cheese cookies.
+   - Thus, the total number of packs in 144 boxes is:
+     \[
+     144 \text{ boxes} \times 10 \text{ packs/box} = 1440 \text{ packs}
+     \]
+
+3. **Determine the cost per pack**:
+   - We know that a dozen cartons cost $1440.
+   - To find the price of each pack of cheese cookies, we divide the total cost by the total number of packs:
+     \[
+     \text{Price per pack} = \frac{\text{Total cost}}{\text{Total number of packs}} = \frac{1440}{1440} = 1
+     \]
+
+Thus, the price of a pack of cheese cookies is $1.
+</reasoning>
+<answer>1</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many pages are in Harry's book, we will follow these steps:
+
+1. **Identify the number of pages in Selena's book**: We know that Selena's book has 400 pages.
+
+2. **Calculate half of the pages in Selena's book**: To find half the number of pages, we will divide the total number of pages in Selena's book by 2.
+   \[
+   \text{Half of Selena's pages} = \frac{400}{2} = 200
+   \]
+
+3. **Determine the number of pages in Harry's book**: The problem states that Harry's book has 20 fewer pages than half the number of pages in Selena's book. Therefore, we will subtract 20 from the value we calculated in the previous step.
+   \[
+   \text{Pages in Harry's book} = 200 - 20 = 180
+   \]
+
+Thus, Harry's book has 180 pages.
+</reasoning>
+<answer>180</answer>

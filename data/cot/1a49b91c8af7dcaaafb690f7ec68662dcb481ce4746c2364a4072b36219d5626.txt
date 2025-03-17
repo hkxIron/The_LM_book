@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the distance traveled**: 
+   Rudolph traveled "2 more than 5 miles." To find this, we add 2 to 5.
+   \[
+   5 + 2 = 7 \text{ miles}
+   \]
+
+2. **Determine the number of stop signs encountered**: 
+   Rudolph encountered "3 less than 17 stop signs." To find this, we subtract 3 from 17.
+   \[
+   17 - 3 = 14 \text{ stop signs}
+   \]
+
+3. **Calculate the number of stop signs per mile**: 
+   To find how many stop signs per mile Rudolph encountered, we divide the total number of stop signs by the total distance traveled.
+   \[
+   \text{Stop signs per mile} = \frac{\text{Total stop signs}}{\text{Total miles}} = \frac{14}{7}
+   \]
+   When we divide 14 by 7, we get:
+   \[
+   \frac{14}{7} = 2 \text{ stop signs per mile}
+   \]
+
+Therefore, Rudolph encountered 2 stop signs per mile on his trip across town.
+</reasoning>
+<answer>2</answer>

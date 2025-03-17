@@ -1,0 +1,43 @@
+<reasoning>
+To find Ella's new salary, we can follow these steps:
+
+1. **Identify how much money she spent on video games last year**: We know that Ella spent $100 on video games, which is 40% of the money she made from babysitting last year. We can set up the equation to find out how much she made last year.
+
+   Let \( S \) be Ella's salary last year. According to the problem, 40% of her salary is equal to the amount she spent on video games:
+   \[
+   0.40 \times S = 100
+   \]
+
+2. **Solve for Ella's salary last year**: To find \( S \), we will divide both sides of the equation by 0.40:
+   \[
+   S = \frac{100}{0.40}
+   \]
+
+   Now, calculating the right side:
+   \[
+   S = 250
+   \]
+
+   So, Ella's salary last year was $250.
+
+3. **Calculate her raise**: This year, Ella received a 10% raise on her salary. To find her new salary, we first calculate 10% of her last year's salary:
+   \[
+   \text{Raise} = 0.10 \times 250
+   \]
+   Calculating this gives:
+   \[
+   \text{Raise} = 25
+   \]
+
+4. **Add the raise to last year's salary**: Now we add the raise to her last year's salary to find her new salary:
+   \[
+   \text{New Salary} = 250 + 25
+   \]
+   Calculating this gives:
+   \[
+   \text{New Salary} = 275
+   \]
+
+Therefore, Ella's new salary after the raise is $275.
+</reasoning>
+<answer>275</answer>

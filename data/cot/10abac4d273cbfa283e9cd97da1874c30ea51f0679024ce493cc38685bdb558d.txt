@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much money John makes, we will solve the problem step by step.
+
+1. **Calculate the total number of trees**: 
+   John has a plot of 3 trees by 4 trees. This means the total number of trees can be calculated by multiplying the number of rows by the number of trees in each row.
+   \[
+   \text{Total trees} = 3 \times 4 = 12 \text{ trees}
+   \]
+
+2. **Calculate the total number of apples produced**: 
+   Each tree gives 5 apples. Therefore, the total number of apples is calculated by multiplying the total number of trees by the number of apples each tree produces.
+   \[
+   \text{Total apples} = 12 \text{ trees} \times 5 \text{ apples/tree} = 60 \text{ apples}
+   \]
+
+3. **Calculate the total revenue from selling the apples**: 
+   John sells each apple for $0.5. To find out how much money he makes from selling all the apples, we multiply the total number of apples by the price per apple.
+   \[
+   \text{Total revenue} = 60 \text{ apples} \times 0.5 \text{ dollars/apple} = 30 \text{ dollars}
+   \]
+
+Therefore, John makes a total of 30 dollars from selling the apples.
+</reasoning>
+<answer>30</answer>

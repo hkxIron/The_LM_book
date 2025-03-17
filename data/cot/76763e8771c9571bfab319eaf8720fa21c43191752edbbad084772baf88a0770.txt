@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine how many oranges the boy gives to his brother**: 
+   The boy has 12 oranges and he gives one-third of this number to his brother. 
+   To find one-third of 12, we calculate:
+   
+   \[
+   \text{Oranges given to brother} = \frac{1}{3} \times 12 = 4
+   \]
+
+   So, the boy gives 4 oranges to his brother.
+
+2. **Calculate the number of oranges remaining after giving to his brother**: 
+   We subtract the number of oranges given to his brother from the total amount he originally had:
+   
+   \[
+   \text{Remaining oranges} = 12 - 4 = 8
+   \]
+
+3. **Determine how many oranges the boy gives to his friend**: 
+   Next, the boy gives one-fourth of the remaining oranges to his friend. Since we have 8 oranges remaining, we calculate one-fourth of this amount:
+   
+   \[
+   \text{Oranges given to friend} = \frac{1}{4} \times 8 = 2
+   \]
+
+   So, the boy gives 2 oranges to his friend.
+
+4. **Final count**: 
+   We have determined how many oranges his friend receives, which is the final step in the problem.
+
+Therefore, his friend gets 2 oranges.
+</reasoning>
+<answer>2</answer>

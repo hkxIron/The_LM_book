@@ -1,0 +1,31 @@
+<reasoning>
+To determine how many slices of pizza are left after Blanch eats throughout the day, we will follow these steps:
+
+1. **Start with the initial amount of pizza slices:** Blanch begins with 15 slices of pizza.
+   
+2. **Calculate the total number of slices eaten throughout the day:**
+   - For breakfast, she eats 4 slices.
+   - For lunch, she eats 2 slices.
+   - As a snack, she takes 2 slices.
+   - For dinner, she consumes 5 slices.
+
+3. **Add up all the slices she ate:**
+   - Breakfast: 4 slices
+   - Lunch: 2 slices
+   - Snack: 2 slices
+   - Dinner: 5 slices
+
+   Now, we can combine these amounts:
+   \[
+   4 + 2 + 2 + 5 = 13 \text{ slices eaten}
+   \]
+
+4. **Subtract the total slices eaten from the initial amount:**
+   Now we take the initial number of slices (15) and subtract the total slices eaten (13):
+   \[
+   15 - 13 = 2 \text{ slices remaining}
+   \]
+
+Thus, after eating throughout the day, Blanch has 2 slices of pizza left.
+</reasoning>
+<answer>2</answer>

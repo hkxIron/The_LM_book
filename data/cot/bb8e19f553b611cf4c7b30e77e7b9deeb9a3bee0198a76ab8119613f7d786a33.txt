@@ -1,0 +1,20 @@
+<reasoning>
+First, let's determine the total number of people Nelly needs to feed. Nelly has 14 friends, so:
+
+1 (Nelly) + 14 (friends) = 15 people in total.
+
+Next, we need to find out how many pizzas are required to feed 15 people. Since each pizza can feed 3 people, we can calculate the number of pizzas needed by dividing the total number of people by the number of people each pizza can feed:
+
+15 people / 3 people per pizza = 5 pizzas.
+
+Now, we need to calculate the total cost of these 5 pizzas. Each pizza costs $12, so:
+
+5 pizzas * $12 per pizza = $60.
+
+Now that we have the total cost of the pizzas, we need to find out how much Nelly earns by babysitting. She earns $4 per night. To find out how many nights she needs to babysit to earn enough for the pizzas, we divide the total cost by her nightly earnings:
+
+$60 total cost / $4 per night = 15 nights.
+
+Nelly will need to babysit for 15 nights to afford the pizza for herself and her friends.
+</reasoning>
+<answer>15</answer>

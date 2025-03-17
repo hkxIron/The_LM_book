@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much higher Jason will be than Matt after 7 minutes, we can break the problem down step by step.
+
+1. **Determine the height climbed by Matt**: 
+   - Matt climbs at a rate of 6 feet per minute.
+   - After 7 minutes, the height Matt climbs can be calculated as follows:
+     \[
+     \text{Height climbed by Matt} = \text{climbing rate} \times \text{time} = 6 \text{ feet/minute} \times 7 \text{ minutes} = 42 \text{ feet}
+     \]
+
+2. **Determine the height climbed by Jason**: 
+   - Jason climbs at a rate of 12 feet per minute.
+   - Similarly, after 7 minutes, the height Jason climbs can be calculated:
+     \[
+     \text{Height climbed by Jason} = \text{climbing rate} \times \text{time} = 12 \text{ feet/minute} \times 7 \text{ minutes} = 84 \text{ feet}
+     \]
+
+3. **Calculate how much higher Jason is than Matt**: 
+   - Now we find the difference in height between Jason and Matt:
+     \[
+     \text{Difference in height} = \text{Height of Jason} - \text{Height of Matt} = 84 \text{ feet} - 42 \text{ feet} = 42 \text{ feet}
+     \]
+
+Thus, after 7 minutes, Jason will be 42 feet higher than Matt.
+</reasoning>
+<answer>42</answer>

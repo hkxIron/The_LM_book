@@ -1,0 +1,30 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial amount of flour**: We start with 500 grams of flour.
+
+2. **Flour used for cookies**: Lucy used 240 grams of flour when she baked cookies on Tuesday. 
+   To find out how much flour is left after using the cookies, we subtract the amount used from the initial amount:
+   \[
+   \text{Flour left} = 500g - 240g = 260g
+   \]
+
+3. **Spillage**: Lucy accidentally spilled half of the flour that was left after baking. To find out how much flour was spilled, we calculate half of the remaining flour:
+   \[
+   \text{Flour spilled} = \frac{260g}{2} = 130g
+   \]
+   Now, we can find out how much flour is left after the spill by subtracting the spilled amount from the remaining amount:
+   \[
+   \text{Flour left after spill} = 260g - 130g = 130g
+   \]
+
+4. **Desired amount of flour**: Lucy wants to have a full bag of flour, which is 500 grams.
+
+5. **Flour needed to buy**: To find out how much more flour Lucy needs to buy, we subtract the amount of flour she currently has from the desired amount:
+   \[
+   \text{Flour needed} = 500g - 130g = 370g
+   \]
+
+Therefore, Lucy needs to buy 370 grams of flour to have a full bag in the cupboard.
+</reasoning>
+<answer>370</answer>

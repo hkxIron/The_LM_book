@@ -1,0 +1,27 @@
+<reasoning>
+Let's start by determining how many papayas turn yellow on Friday.
+
+1. **Identify the number of yellow papayas on Friday**: 
+   - On Friday, 2 fruits turn yellow.
+
+2. **Calculate the number of yellow papayas on Sunday**:
+   - We know that on Sunday, twice as many fruits turn yellow as on Friday. Since 2 fruits turned yellow on Friday, on Sunday:
+   \[
+   2 \times 2 = 4 \text{ fruits turn yellow on Sunday.}
+   \]
+
+3. **Calculate the total number of yellow papayas**:
+   - Now, we need to add the number of yellow fruits from both days:
+   \[
+   2 \text{ (Friday)} + 4 \text{ (Sunday)} = 6 \text{ total yellow fruits.}
+   \]
+
+4. **Determine the number of green papayas left on the tree**:
+   - Initially, there were 14 green papayas on the tree. After 6 turned yellow, the number of green papayas left is:
+   \[
+   14 - 6 = 8.
+   \]
+
+Therefore, after calculating the yellow papayas and subtracting from the original amount, we conclude that there are 8 green papayas left on the tree.
+</reasoning>
+<answer>8</answer>

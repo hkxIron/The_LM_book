@@ -1,0 +1,44 @@
+<reasoning>
+To find out how many beads Susan needs for 1 bracelet and 10 necklaces, let's break down the problem step by step.
+
+1. **Identify the number of each type of bead in the repeating pattern:**
+   - Green beads = 3
+   - Purple beads = 5
+   - Red beads = Twice as many as green beads = 2 * 3 = 6
+
+   So, the pattern contains:
+   - Green beads: 3
+   - Purple beads: 5
+   - Red beads: 6
+
+   Therefore, the total number of beads in one pattern is:
+   \[
+   3 \text{ (green)} + 5 \text{ (purple)} + 6 \text{ (red)} = 14 \text{ beads}
+   \]
+
+2. **Calculate the total number of beads needed for 1 bracelet:**
+   - Since the pattern repeats 3 times in a bracelet, we multiply the number of beads in one pattern by 3:
+   \[
+   14 \text{ beads per pattern} \times 3 \text{ patterns} = 42 \text{ beads for 1 bracelet}
+   \]
+
+3. **Calculate the total number of beads needed for 10 necklaces:**
+   - Each necklace has the pattern repeat 5 times, so we multiply the number of beads in one pattern by 5:
+   \[
+   14 \text{ beads per pattern} \times 5 \text{ patterns} = 70 \text{ beads for 1 necklace}
+   \]
+
+   - Now, for 10 necklaces, we multiply the number of beads needed for one necklace by 10:
+   \[
+   70 \text{ beads for 1 necklace} \times 10 \text{ necklaces} = 700 \text{ beads for 10 necklaces}
+   \]
+
+4. **Add the total beads needed for the bracelet and the necklaces:**
+   - Total beads needed = beads for 1 bracelet + beads for 10 necklaces:
+   \[
+   42 \text{ beads (bracelet)} + 700 \text{ beads (necklaces)} = 742 \text{ beads total}
+   \]
+
+Therefore, the total number of beads Susan needs to make 1 bracelet and 10 necklaces is:
+</reasoning>
+<answer>742</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many points Matt scored in the first quarter, we need to calculate the total points from both the 2-point shots and the 3-point shots he made.
+
+1. **Calculate points from 2-point shots:**
+   - Matt made 2-point shots four times.
+   - Each 2-point shot is worth 2 points.
+   - Therefore, the total points from 2-point shots is:
+     \( 
+     4 \text{ shots} \times 2 \text{ points/shot} = 8 \text{ points} 
+     \)
+
+2. **Calculate points from 3-point shots:**
+   - Matt made 3-point shots two times.
+   - Each 3-point shot is worth 3 points.
+   - Therefore, the total points from 3-point shots is:
+     \( 
+     2 \text{ shots} \times 3 \text{ points/shot} = 6 \text{ points} 
+     \)
+
+3. **Add the points from both types of shots:**
+   - Now, we combine the points from 2-point and 3-point shots to find the total score for the quarter:
+     \( 
+     8 \text{ points} + 6 \text{ points} = 14 \text{ points} 
+     \)
+
+So, after calculating the points from both the 2-point and 3-point shots, we find that Matt scored a total of 14 points in the first quarter.
+</reasoning>
+<answer>14</answer>

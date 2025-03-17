@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Calculate the total cost of the pineapples:**
+   Jonah bought 6 pineapples for $3 each. To find the total cost, we multiply the number of pineapples by the cost per pineapple.
+   \[
+   \text{Total Cost} = \text{Number of Pineapples} \times \text{Cost per Pineapple} = 6 \times 3 = 18
+   \]
+   Therefore, Jonah spent $18 on pineapples.
+
+2. **Calculate the total number of pineapple rings:**
+   Each pineapple can be cut into 12 pineapple rings. To find the total number of pineapple rings, we multiply the number of pineapples by the number of rings per pineapple.
+   \[
+   \text{Total Rings} = \text{Number of Pineapples} \times \text{Rings per Pineapple} = 6 \times 12 = 72
+   \]
+   So, Jonah can produce 72 pineapple rings.
+
+3. **Calculate the revenue from selling pineapple rings:**
+   Jonah sold 4 pineapple rings for $5 each. Since we need to find out how much revenue he made from selling all the pineapple rings, we first determine how many sets of 4 pineapple rings he can sell from the total of 72 rings.
+   \[
+   \text{Number of Sets of 4 Rings} = \frac{\text{Total Rings}}{4} = \frac{72}{4} = 18
+   \]
+   Now, we can calculate the total revenue from selling all the rings.
+   \[
+   \text{Total Revenue} = \text{Number of Sets} \times \text{Price per Set} = 18 \times 5 = 90
+   \]
+   Thus, Jonah made $90 from selling the pineapple rings.
+
+4. **Calculate the profit:**
+   Profit is calculated by subtracting the total cost from the total revenue.
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost} = 90 - 18 = 72
+   \]
+   Therefore, Jonah made a profit of $72.
+</reasoning>
+<answer>72</answer>

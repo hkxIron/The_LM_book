@@ -1,0 +1,20 @@
+<reasoning>
+First, we need to find out how much Mike originally got before spending on the shirt. To do this, we need to understand that the ratio 2:5 means that for every 2 parts that Mike gets, Johnson gets 5 parts.
+
+Given that Johnson got $2500 which corresponds to 5 parts of the ratio, we find the value of 1 part by dividing Johnson's share by 5.
+
+$2500 / 5 = $500. 
+
+This means each part of the ratio is worth $500. 
+
+Since Mike's share is 2 parts of the ratio, we multiply the value of 1 part by 2 to get Mike's original share.
+
+2 * $500 = $1000.
+
+Now, Mike spends $200 on a shirt. To find out how much he has left, we subtract the cost of the shirt from his original share.
+
+$1000 - $200 = $800.
+
+So, Mike will have $800 after spending some of his share on a shirt.
+</reasoning>
+<answer>800</answer>

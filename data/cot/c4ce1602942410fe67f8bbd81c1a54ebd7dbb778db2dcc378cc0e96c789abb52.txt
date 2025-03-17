@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the eating rate of the first competitor**: 
+   The first competitor can eat 10 hot dogs per minute.
+
+2. **Calculate the eating rate of the second competitor**: 
+   The second competitor can eat 3 times more than the first competitor. 
+   So, we multiply the first competitor's rate by 3:
+   \[
+   \text{Eating rate of second competitor} = 3 \times 10 = 30 \text{ hot dogs per minute}
+   \]
+
+3. **Calculate the eating rate of the third competitor**: 
+   The third competitor can eat twice as much as the second competitor. 
+   We will multiply the second competitor's rate by 2:
+   \[
+   \text{Eating rate of third competitor} = 2 \times 30 = 60 \text{ hot dogs per minute}
+   \]
+
+4. **Calculate how many hot dogs the third competitor can eat in 5 minutes**: 
+   Now we will multiply the eating rate of the third competitor by the time (5 minutes):
+   \[
+   \text{Total hot dogs eaten by the third competitor} = 60 \text{ hot dogs per minute} \times 5 \text{ minutes} = 300 \text{ hot dogs}
+   \]
+
+Therefore, the third competitor can eat 300 hot dogs after 5 minutes.
+</reasoning>
+<answer>300</answer>

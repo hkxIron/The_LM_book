@@ -1,0 +1,61 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Define the Variables**:
+   - Let \( E \) be the number of videos Ekon watched.
+   - Kelsey watched 43 more than Ekon, so Kelsey watched \( E + 43 \).
+   - Ekon watched 17 less than Uma, so if we let \( U \) be the number of videos Uma watched, then \( E = U - 17 \).
+
+2. **Set Up the Equation**:
+   Together, all three friends watched a total of 411 videos. Therefore, we can set up the equation:
+   \[
+   E + (E + 43) + U = 411
+   \]
+   Substituting \( E \) in terms of \( U \) gives us:
+   \[
+   (U - 17) + ((U - 17) + 43) + U = 411
+   \]
+
+3. **Simplify the Equation**:
+   Let's simplify the equation step by step:
+   - The expression \( (U - 17) + ((U - 17) + 43) + U \) simplifies to:
+     \[
+     (U - 17) + (U - 17 + 43) + U = (U - 17) + (U + 26) + U
+     \]
+   - Combine like terms:
+     \[
+     3U - 17 + 26 = 3U + 9
+     \]
+   - Now we have the equation:
+     \[
+     3U + 9 = 411
+     \]
+
+4. **Solve for U**:
+   To isolate \( U \), first subtract 9 from both sides:
+   \[
+   3U = 411 - 9
+   \]
+   \[
+   3U = 402
+   \]
+   Now divide both sides by 3:
+   \[
+   U = \frac{402}{3} = 134
+   \]
+
+5. **Find Ekon's Videos**:
+   Now that we know \( U = 134 \), we can find Ekon's videos:
+   \[
+   E = U - 17 = 134 - 17 = 117
+   \]
+
+6. **Find Kelsey's Videos**:
+   Finally, we can find Kelsey's videos:
+   \[
+   K = E + 43 = 117 + 43 = 160
+   \]
+
+Therefore, Kelsey watched 160 videos.
+</reasoning>
+<answer>160</answer>

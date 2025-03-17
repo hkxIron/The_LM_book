@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of pies Billie bakes**: 
+   Billie bakes 3 pies each day for 11 days. To find the total number of pies, we multiply the number of pies per day by the number of days:
+   \[
+   \text{Total pies} = 3 \text{ pies/day} \times 11 \text{ days} = 33 \text{ pies}
+   \]
+   This means Billie has baked 33 pumpkin pies in total.
+
+2. **Determine how many pies Tiffany eats**:
+   Tiffany comes over and eats 4 pies. We will subtract the number of pies she eats from the total number of pies Billie has:
+   \[
+   \text{Remaining pies} = 33 \text{ pies} - 4 \text{ pies} = 29 \text{ pies}
+   \]
+   After Tiffany eats, Billie has 29 pies left.
+
+3. **Calculate the amount of whipped cream needed for the remaining pies**:
+   We know that it takes 2 cans of whipped cream to cover 1 pie. To find out how many cans of whipped cream are needed for 29 pies, we multiply the number of remaining pies by the number of cans needed per pie:
+   \[
+   \text{Cans of whipped cream needed} = 29 \text{ pies} \times 2 \text{ cans/pie} = 58 \text{ cans}
+   \]
+   This means Billie needs to buy 58 cans of whipped cream to cover the remaining pies.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>58</answer>

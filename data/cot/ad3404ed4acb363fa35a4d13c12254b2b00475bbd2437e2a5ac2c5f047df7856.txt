@@ -1,0 +1,44 @@
+<reasoning>
+First, let's determine how many books Matias sold on each day.
+
+1. **Tuesday's Sales**: 
+   Matias sold 7 books on Tuesday. So, we can write:
+   \[
+   \text{Books sold on Tuesday} = 7
+   \]
+
+2. **Wednesday's Sales**: 
+   He sold three times as many books on Wednesday as he did on Tuesday. To find this, we multiply the number of books sold on Tuesday by 3:
+   \[
+   \text{Books sold on Wednesday} = 3 \times 7 = 21
+   \]
+
+3. **Thursday's Sales**: 
+   The sales from Wednesday were tripled on Thursday. Therefore, we take the number of books sold on Wednesday and multiply it by 3:
+   \[
+   \text{Books sold on Thursday} = 3 \times 21 = 63
+   \]
+
+4. **Total Sales Over Three Days**: 
+   Now, we need to find the total number of books sold over all three days. We do this by adding the sales from Tuesday, Wednesday, and Thursday:
+   \[
+   \text{Total Books Sold} = \text{Books sold on Tuesday} + \text{Books sold on Wednesday} + \text{Books sold on Thursday}
+   \]
+   Substituting the values:
+   \[
+   \text{Total Books Sold} = 7 + 21 + 63
+   \]
+
+5. **Calculating the Total**:
+   Now, let's perform the addition:
+   \[
+   7 + 21 = 28
+   \]
+   Then, adding Thursday’s sales:
+   \[
+   28 + 63 = 91
+   \]
+
+Therefore, the total number of books Matias sold during these three days combined is:
+</reasoning>
+<answer>91</answer>

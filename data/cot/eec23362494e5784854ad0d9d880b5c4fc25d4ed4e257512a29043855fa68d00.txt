@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to find out how many vegetables each student needs to eat in order to earn a total of 200 points for the class in 10 days. 
+
+1. **Determine the total points needed**: The class needs a total of 200 points to redeem for the movie day.
+
+2. **Calculate the points each student can earn**: Each student earns 2 points for eating their vegetables. 
+
+3. **Calculate total points earned by all students**: Since there are 25 students in the class, the total points they can earn if each student eats their vegetables can be calculated by the formula:
+   \[
+   \text{Total points} = \text{Number of students} \times \text{Points per student}
+   \]
+   Each student will earn points over the 10 days.
+
+4. **Calculate total points available in 10 days**: If each student eats their vegetables every day for 10 days, they will earn:
+   \[
+   \text{Total points} = 25 \text{ students} \times 2 \text{ points/student} \times 10 \text{ days} = 500 \text{ points}
+   \]
+
+   This means that if all students eat their vegetables every day for 10 days, they can earn 500 points, which is more than enough to meet the 200 points requirement for a movie day.
+
+5. **Calculate the average points needed per student**: To find out how many points each student needs to earn in total to contribute to the 200 points, we divide the total points needed by the number of students:
+   \[
+   \text{Average points per student} = \frac{200 \text{ points}}{25 \text{ students}} = 8 \text{ points/student}
+   \]
+
+6. **Calculate the number of vegetables each student needs to eat**: Since each student earns 2 points per day for eating vegetables, we need to find out how many days (or servings of vegetables) they need to eat to reach the 8 points:
+   \[
+   \text{Vegetables needed per student} = \frac{8 \text{ points}}{2 \text{ points/vegetable}} = 4 \text{ vegetables}
+   \]
+
+7. **Calculate the average number of vegetables eaten per school week**: Since the students have 10 days (which is 2 weeks) to earn these points, we need to find out how many vegetables they need to eat per week:
+   \[
+   \text{Average vegetables per week} = \frac{4 \text{ vegetables}}{2 \text{ weeks}} = 2 \text{ vegetables/week}
+   \]
+
+Thus, each student must eat an average of 2 vegetables per school week in order to reach the required points for the movie day.
+</reasoning>
+<answer>2</answer>

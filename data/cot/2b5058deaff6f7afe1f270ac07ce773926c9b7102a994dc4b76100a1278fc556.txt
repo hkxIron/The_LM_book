@@ -1,0 +1,54 @@
+<reasoning>
+To solve the problem, we first need to calculate the total number of appetizers Patsy needs for her guests.
+
+1. **Calculating Total Appetizers Needed**:
+   - Patsy has 30 guests and needs 6 appetizers for each guest.
+   - We can calculate the total number of appetizers needed by multiplying the number of guests by the number of appetizers per guest.
+
+   \[
+   \text{Total Appetizers Needed} = 30 \text{ guests} \times 6 \text{ appetizers/guest} = 180 \text{ appetizers}
+   \]
+
+2. **Calculating Total Appetizers Prepared**:
+   - Next, we need to find out how many appetizers Patsy has already prepared.
+   - She is making:
+     - 3 dozen deviled eggs
+     - 2 dozen pigs in a blanket
+     - 2 dozen kebabs
+
+   - We need to convert everything into individual appetizers. Since 1 dozen equals 12, we can calculate the total number of each appetizer:
+
+   \[
+   \text{Deviled Eggs} = 3 \text{ dozen} \times 12 = 36 \text{ deviled eggs}
+   \]
+   \[
+   \text{Pigs in a Blanket} = 2 \text{ dozen} \times 12 = 24 \text{ pigs in a blanket}
+   \]
+   \[
+   \text{Kebabs} = 2 \text{ dozen} \times 12 = 24 \text{ kebabs}
+   \]
+
+3. **Total Appetizers Prepared**:
+   - Now we add all the appetizers she has prepared together.
+
+   \[
+   \text{Total Appetizers Prepared} = 36 + 24 + 24 = 84 \text{ appetizers}
+   \]
+
+4. **Calculating Additional Appetizers Needed**:
+   - To find out how many more appetizers she needs to prepare, we subtract the total number of appetizers she has prepared from the total number of appetizers needed.
+
+   \[
+   \text{Additional Appetizers Needed} = 180 - 84 = 96 \text{ appetizers}
+   \]
+
+5. **Converting Additional Appetizers to Dozens**:
+   - Finally, we need to convert the additional appetizers needed into dozens since the question asks for dozens. 
+
+   \[
+   \text{Dozens Needed} = \frac{96 \text{ appetizers}}{12 \text{ appetizers/dozen}} = 8 \text{ dozen}
+   \]
+
+Therefore, Patsy needs to make 8 more dozen appetizers.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+To find out how much time both the cougar and the zebra sleep in one week, we need to follow these steps:
+
+1. **Determine the sleep time for each animal per night.**
+   - The cougar sleeps for 4 hours at night.
+   - The zebra sleeps for 2 hours more than the cougar, which means the zebra sleeps for \(4 + 2 = 6\) hours at night.
+
+2. **Calculate the total sleep time for each animal in one week.**
+   - There are 7 nights in a week, so we multiply the nightly sleep time by 7:
+     - For the cougar: \(4 \text{ hours/night} \times 7 \text{ nights} = 28 \text{ hours}\)
+     - For the zebra: \(6 \text{ hours/night} \times 7 \text{ nights} = 42 \text{ hours}\)
+
+3. **Add the total sleep times for both animals in one week.**
+   - Combine the total hours slept by the cougar and the zebra:
+     \[
+     28 \text{ hours} + 42 \text{ hours} = 70 \text{ hours}
+     \]
+
+Therefore, the total time both animals sleep in one week is 70 hours.
+</reasoning>
+<answer>70</answer>

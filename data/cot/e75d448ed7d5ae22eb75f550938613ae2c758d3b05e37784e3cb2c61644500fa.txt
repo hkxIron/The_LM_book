@@ -1,0 +1,26 @@
+<reasoning>
+To find the total number of oranges Nora picked, we need to add the number of oranges from each tree together.
+
+1. First, we identify the number of oranges picked from each tree:
+   - From the first tree, Nora picked 80 oranges.
+   - From the second tree, she picked 60 oranges.
+   - From the third tree, she picked 120 oranges.
+
+2. Next, we set up the addition of these three amounts:
+   \[
+   \text{Total oranges} = 80 + 60 + 120
+   \]
+
+3. Now, we will add the numbers step by step:
+   - First, add the oranges from the first two trees:
+     \[
+     80 + 60 = 140
+     \]
+   - Next, add the result to the oranges from the third tree:
+     \[
+     140 + 120 = 260
+     \]
+
+4. Therefore, the total number of oranges Nora picked is 260.
+</reasoning>
+<answer>260</answer>

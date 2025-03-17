@@ -1,0 +1,28 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine Jake's feeding allowance**: Jake's feeding allowance is given as $4. 
+
+2. **Calculate the amount Jake gave to his friend**: Jake gave one-quarter of his feeding allowance to his friend. To find one-quarter, we divide the total allowance by 4:
+   \[
+   \text{Amount given to friend} = \frac{4}{4} = 1 \text{ dollar}
+   \]
+   So, Jake gave $1 to his friend.
+
+3. **Determine the cost of one candy**: We know that each candy costs 20 cents. To make calculations easier, it can be helpful to convert this into dollars. Since 100 cents make up 1 dollar, we can express the cost of one candy in dollars:
+   \[
+   \text{Cost of one candy} = \frac{20}{100} = 0.20 \text{ dollars}
+   \]
+
+4. **Calculate how many candies can be bought with $1**: To find out how many candies Jake's friend can buy with the $1 he received, we divide the amount of money by the cost of one candy:
+   \[
+   \text{Number of candies} = \frac{1}{0.20}
+   \]
+   To perform this division, we can rewrite it as:
+   \[
+   \text{Number of candies} = \frac{1}{0.20} = 1 \div 0.20 = 1 \times 5 = 5
+   \]
+
+Therefore, Jake's friend can purchase 5 candies with the money given to him.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial Amount**: Lizzy starts with $30.
+
+2. **Loan Amount**: She loans out $15 to her friend. After loaning this amount, we can determine how much Lizzy has left.
+   - Amount left = Initial Amount - Loan Amount
+   - Amount left = $30 - $15 = $15
+
+3. **Interest Calculation**: Now, we need to calculate how much her friend will return, including the interest. The interest rate is 20%. 
+   - To find the interest on the loan amount, we calculate:
+   - Interest = Loan Amount × Interest Rate
+   - Interest = $15 × 20% = $15 × 0.20 = $3
+
+4. **Total Amount Returned**: Now, we add the original loan amount and the interest to find out how much Lizzy will receive back.
+   - Total Returned = Loan Amount + Interest
+   - Total Returned = $15 + $3 = $18
+
+5. **Final Amount**: Finally, we need to calculate how much Lizzy will have after her friend returns the money.
+   - Final Amount = Amount left + Total Returned
+   - Final Amount = $15 + $18 = $33
+
+Therefore, Lizzy will have a total of $33 after her friend returns the money with the interest.
+</reasoning>
+<answer>33</answer>

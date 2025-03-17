@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, we need to calculate the total cost of the ball bearings when purchased one at a time and then compare it to the total cost when purchased in bulk during the sale. I'll break this down step by step.
+
+1. **Calculate the total number of ball bearings needed:**
+   - John has 10 machines, and each machine requires 30 ball bearings.
+   - Therefore, the total number of ball bearings needed is:
+     \[
+     10 \text{ machines} \times 30 \text{ ball bearings/machine} = 300 \text{ ball bearings}
+     \]
+
+2. **Calculate the cost when buying one at a time:**
+   - The cost per ball bearing without any discount is $1.
+   - Therefore, if he buys 300 ball bearings one at a time, the total cost will be:
+     \[
+     300 \text{ ball bearings} \times 1 \text{ dollar/ball bearing} = 300 \text{ dollars}
+     \]
+
+3. **Calculate the cost during the sale:**
+   - The sale price is $0.75 per ball bearing.
+   - First, we calculate the total cost without any further discounts:
+     \[
+     300 \text{ ball bearings} \times 0.75 \text{ dollars/ball bearing} = 225 \text{ dollars}
+     \]
+
+4. **Apply the additional bulk discount:**
+   - John receives an additional 20% discount on the sale price.
+   - First, we calculate the amount of the discount:
+     \[
+     20\% \text{ of } 225 \text{ dollars} = 0.20 \times 225 = 45 \text{ dollars}
+     \]
+   - Then, we subtract the discount from the sale price:
+     \[
+     225 \text{ dollars} - 45 \text{ dollars} = 180 \text{ dollars}
+     \]
+
+5. **Calculate the amount saved:**
+   - Now, we can determine how much money John saved by buying all the ball bearings during the sale instead of one at a time:
+     \[
+     300 \text{ dollars} - 180 \text{ dollars} = 120 \text{ dollars}
+     \]
+
+Thus, John saved $120 by purchasing the ball bearings during the sale rather than buying them one at a time.
+</reasoning>
+<answer>120</answer>

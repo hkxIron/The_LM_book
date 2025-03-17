@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of caterpillars.**
+   - John has 4 jars, and each jar contains 10 caterpillars.
+   - To find the total number of caterpillars, we multiply the number of jars by the number of caterpillars in each jar:
+     \[
+     \text{Total caterpillars} = 4 \text{ jars} \times 10 \text{ caterpillars/jar} = 40 \text{ caterpillars}
+     \]
+
+2. **Determine how many caterpillars become butterflies.**
+   - According to the problem, 40% of the caterpillars fail to become butterflies. This means that 60% of them do become butterflies.
+   - To find the number of butterflies, we calculate 60% of the total caterpillars (40):
+     \[
+     \text{Butterflies} = 60\% \text{ of } 40 = 0.6 \times 40 = 24 \text{ butterflies}
+     \]
+
+3. **Calculate the total revenue from selling the butterflies.**
+   - John sells each butterfly for $3. Therefore, to find the total money he makes from selling the butterflies, we multiply the number of butterflies by the price per butterfly:
+     \[
+     \text{Total revenue} = 24 \text{ butterflies} \times 3 \text{ dollars/butterfly} = 72 \text{ dollars}
+     \]
+
+Therefore, after calculating everything, we find that John's total earnings from selling the butterflies is:
+</reasoning>
+<answer>72</answer>

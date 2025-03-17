@@ -1,0 +1,48 @@
+<reasoning>
+First, we will calculate the total cost for Hubert and then for Ian, and finally, we will add their totals together to find out how much they spend in all.
+
+**Step 1: Calculate Hubert's total cost.**
+- Hubert orders 8 boxes of pizza. Each box costs $14.
+- Therefore, the total cost of the pizza that Hubert orders is:
+  \[
+  8 \text{ boxes} \times 14 \text{ dollars/box} = 112 \text{ dollars}
+  \]
+
+- Hubert also orders 10 cans of soda. Each can costs $1.80.
+- Therefore, the total cost of the soda that Hubert orders is:
+  \[
+  10 \text{ cans} \times 1.80 \text{ dollars/can} = 18 \text{ dollars}
+  \]
+
+- Now, we add Hubert's pizza and soda costs together to find his total expenditure:
+  \[
+  112 \text{ dollars} + 18 \text{ dollars} = 130 \text{ dollars}
+  \]
+
+**Step 2: Calculate Ian's total cost.**
+- Ian orders 10 boxes of pizza. Each box costs $14.
+- Therefore, the total cost of the pizza that Ian orders is:
+  \[
+  10 \text{ boxes} \times 14 \text{ dollars/box} = 140 \text{ dollars}
+  \]
+
+- Ian also orders 15 cans of soda. Each can costs $1.80.
+- Therefore, the total cost of the soda that Ian orders is:
+  \[
+  15 \text{ cans} \times 1.80 \text{ dollars/can} = 27 \text{ dollars}
+  \]
+
+- Now, we add Ian's pizza and soda costs together to find his total expenditure:
+  \[
+  140 \text{ dollars} + 27 \text{ dollars} = 167 \text{ dollars}
+  \]
+
+**Step 3: Calculate the total expenditure for both Hubert and Ian.**
+- Now we need to add Hubert's total spending with Ian's total spending:
+  \[
+  130 \text{ dollars} + 167 \text{ dollars} = 297 \text{ dollars}
+  \]
+
+Therefore, the total amount that Hubert and Ian spend in all is:
+</reasoning>
+<answer>297</answer>

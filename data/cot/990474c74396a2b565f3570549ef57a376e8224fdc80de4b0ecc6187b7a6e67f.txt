@@ -1,0 +1,48 @@
+<reasoning>
+To find the speed of the fifth rollercoaster, we need to use the concept of average speed. The average speed is calculated by taking the total distance traveled and dividing it by the total time taken. However, in this case, we can use the speeds of the first four coasters and the average speed to find the speed of the fifth coaster.
+
+1. **Identify the given information**:
+   - Speed of the first coaster: 50 mph
+   - Speed of the second coaster: 62 mph
+   - Speed of the third coaster: 73 mph
+   - Speed of the fourth coaster: 70 mph
+   - Average speed of all five coasters: 59 mph
+
+2. **Set up the equation for average speed**:
+   The average speed formula can be rearranged to express the total speed of all coasters. The formula for average speed (\(S_{avg}\)) with \(n\) coasters is:
+   \[
+   S_{avg} = \frac{S_1 + S_2 + S_3 + S_4 + S_5}{n}
+   \]
+   In our case, \(n = 5\) and \(S_{avg} = 59\).
+
+3. **Substitute the known values into the equation**:
+   \[
+   59 = \frac{50 + 62 + 73 + 70 + S_5}{5}
+   \]
+
+4. **Multiply both sides by 5 to eliminate the denominator**:
+   \[
+   295 = 50 + 62 + 73 + 70 + S_5
+   \]
+
+5. **Calculate the sum of the speeds of the first four coasters**:
+   \[
+   50 + 62 + 73 + 70 = 255
+   \]
+
+6. **Now, substitute this sum back into the equation**:
+   \[
+   295 = 255 + S_5
+   \]
+
+7. **Isolate \(S_5\) to find the speed of the fifth coaster**:
+   \[
+   S_5 = 295 - 255
+   \]
+   \[
+   S_5 = 40
+   \]
+
+Therefore, the speed of the fifth rollercoaster is 40 miles per hour.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,53 @@
+<reasoning>
+Let's break down the information given step by step:
+
+1. **Total Donations**: The total number of donations is 300.
+
+2. **Basketball Hoops**: There are 60 basketball hoops. 
+
+3. **Basketballs with Hoops**: Half of the basketball hoops included basketballs. This means:
+   \[
+   \text{Basketballs with hoops} = \frac{60}{2} = 30
+   \]
+   So, there are 30 basketballs that came with the hoops.
+
+4. **Pool Floats**: There are 120 pool floats, but a quarter of them were damaged and discarded.
+   \[
+   \text{Damaged pool floats} = \frac{120}{4} = 30
+   \]
+   Therefore, the number of pool floats that are usable is:
+   \[
+   \text{Usable pool floats} = 120 - 30 = 90
+   \]
+
+5. **Other Donations**: Apart from the basketball hoops and pool floats, we have:
+   - Footballs: 50
+   - Tennis balls: 40
+
+6. **Calculating Total Donations So Far**: Now let's calculate how many donations we have accounted for so far:
+   \[
+   \text{Total accounted for} = \text{Basketball Hoops} + \text{Usable Pool Floats} + \text{Footballs} + \text{Tennis Balls}
+   \]
+   \[
+   = 60 + 90 + 50 + 40 = 240
+   \]
+
+7. **Remaining Donations**: Now we can find out how many donations are left that we haven't accounted for:
+   \[
+   \text{Remaining Donations} = \text{Total Donations} - \text{Total accounted for}
+   \]
+   \[
+   = 300 - 240 = 60
+   \]
+
+8. **Basketballs Calculation**: The remaining donations are all basketballs. Since we already have 30 basketballs from the hoops, we add the remaining donations:
+   \[
+   \text{Total Basketballs} = \text{Basketballs with Hoops} + \text{Remaining Donations}
+   \]
+   \[
+   = 30 + 60 = 90
+   \]
+
+Thus, the total number of basketballs that have been donated is 90.
+</reasoning>
+<answer>90</answer>

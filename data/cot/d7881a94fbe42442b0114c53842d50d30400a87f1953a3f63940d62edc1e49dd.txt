@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many widgets get shipped in each shipping box, we need to determine how many cartons can fit into the shipping box and then how many widgets are in those cartons.
+
+1. **Calculate the volume of a carton:**
+   The dimensions of each carton are 4 inches wide, 4 inches long, and 5 inches tall. 
+   \[
+   \text{Volume of a carton} = \text{Width} \times \text{Length} \times \text{Height} = 4 \, \text{inches} \times 4 \, \text{inches} \times 5 \, \text{inches} 
+   \]
+   \[
+   = 80 \, \text{cubic inches}
+   \]
+
+2. **Calculate the volume of the shipping box:**
+   The dimensions of the shipping box are 20 inches wide, 20 inches long, and 20 inches high.
+   \[
+   \text{Volume of the shipping box} = 20 \, \text{inches} \times 20 \, \text{inches} \times 20 \, \text{inches} 
+   \]
+   \[
+   = 8000 \, \text{cubic inches}
+   \]
+
+3. **Determine how many cartons fit in the shipping box:**
+   To find out how many cartons can fit in the shipping box, we divide the volume of the shipping box by the volume of one carton:
+   \[
+   \text{Number of cartons} = \frac{\text{Volume of the shipping box}}{\text{Volume of a carton}} = \frac{8000 \, \text{cubic inches}}{80 \, \text{cubic inches}} 
+   \]
+   \[
+   = 100 \, \text{cartons}
+   \]
+
+4. **Calculate the total number of widgets:**
+   Each carton contains 3 widgets. Therefore, to find the total number of widgets in the shipping box, we multiply the number of cartons by the number of widgets per carton:
+   \[
+   \text{Total number of widgets} = \text{Number of cartons} \times \text{Widgets per carton} = 100 \, \text{cartons} \times 3 \, \text{widgets/carton} 
+   \]
+   \[
+   = 300 \, \text{widgets}
+   \]
+
+Therefore, the total number of widgets that get shipped in each shipping box is:
+</reasoning>
+<answer>300</answer>

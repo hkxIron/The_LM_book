@@ -1,0 +1,96 @@
+<reasoning>
+Let's define the variables for the miles driven by each person:
+
+- Let \( K \) represent the miles driven by Kati.
+- Let \( M \) represent the miles driven by Michelle.
+- Let \( T \) represent the miles driven by Tracy.
+
+From the problem, we have the following relationships:
+
+1. The total distance is 1000 miles:
+   \[
+   T + M + K = 1000
+   \]
+
+2. Tracy drives 20 miles more than twice what Michelle drives:
+   \[
+   T = 2M + 20
+   \]
+
+3. Michelle drives 3 times the amount that Kati drives:
+   \[
+   M = 3K
+   \]
+
+Now we can substitute the expressions we have for \( T \) and \( M \) into the total distance equation. First, we can express \( K \) in terms of \( M \) using the third equation:
+
+\[
+K = \frac{M}{3}
+\]
+
+Now substitute \( T \) and \( K \) into the total distance equation:
+
+\[
+(2M + 20) + M + \frac{M}{3} = 1000
+\]
+
+Now combine the terms on the left side. First, let's convert everything to have a common denominator, which will be 3. So we rewrite the equation as follows:
+
+\[
+(2M + 20) + M + \frac{M}{3} = 1000
+\]
+
+This can be rewritten as:
+
+\[
+2M + M + \frac{M}{3} + 20 = 1000
+\]
+
+Combine \( 2M + M = 3M \):
+
+\[
+3M + \frac{M}{3} + 20 = 1000
+\]
+
+Now convert \( 3M \) into a fraction with a denominator of 3:
+
+\[
+\frac{9M}{3} + \frac{M}{3} + 20 = 1000
+\]
+
+Combining the fractions gives:
+
+\[
+\frac{10M}{3} + 20 = 1000
+\]
+
+Now, we can isolate the fraction by subtracting 20 from both sides:
+
+\[
+\frac{10M}{3} = 1000 - 20
+\]
+\[
+\frac{10M}{3} = 980
+\]
+
+Now, multiply both sides by 3 to eliminate the fraction:
+
+\[
+10M = 980 \times 3
+\]
+\[
+10M = 2940
+\]
+
+Next, divide both sides by 10 to solve for \( M \):
+
+\[
+M = \frac{2940}{10}
+\]
+\[
+M = 294
+\]
+
+Thus, the number of miles Michelle drives is \( 294 \).
+</reasoning>
+<answer>294</answer>

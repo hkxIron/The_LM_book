@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, we first need to determine how many doughnuts are in the box initially. 
+
+1. **Calculate the total number of doughnuts in the box**: 
+   Since the box holds 2 dozen doughnuts, we need to convert dozen to its numerical equivalent. 
+   We know that 1 dozen equals 12. Therefore, 2 dozen equals:
+   \[
+   2 \times 12 = 24 \text{ doughnuts}
+   \]
+   This tells us that at the start, there are 24 doughnuts in the box.
+
+2. **Subtract the number of doughnuts eaten**: 
+   The family ate 8 doughnuts, so we need to subtract this from the initial total of doughnuts:
+   \[
+   24 - 8 = 16
+   \]
+   This calculation shows how many doughnuts are left after some have been eaten.
+
+Therefore, after the family ate 8 doughnuts, there are 16 doughnuts remaining in the box.
+</reasoning>
+<answer>16</answer>

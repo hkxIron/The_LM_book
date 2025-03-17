@@ -1,0 +1,29 @@
+<reasoning>
+To calculate the number of days Anie needs to finish the job, we will follow these steps:
+
+1. **Determine Anie's total daily working hours**: 
+   Anie's normal work schedule is 10 hours per day, and she needs an additional 5 hours. Therefore, we will add these two values together to find her total working hours each day.
+
+   \[
+   \text{Total daily hours} = \text{Normal hours} + \text{Extra hours} = 10 \, \text{hours} + 5 \, \text{hours} = 15 \, \text{hours}
+   \]
+
+2. **Calculate the total number of days required to complete the project**: 
+   The project is estimated to take a total of 1500 hours. To find out how many days Anie will need to work, we will divide the total project hours by her total daily working hours.
+
+   \[
+   \text{Number of days} = \frac{\text{Total project hours}}{\text{Total daily hours}} = \frac{1500 \, \text{hours}}{15 \, \text{hours/day}}
+   \]
+
+3. **Perform the division**: 
+   Now we will calculate the division.
+
+   \[
+   \text{Number of days} = 100
+   \]
+
+This means that Anie will need 100 days to complete the project.
+
+Therefore, after performing the necessary calculations and reasoning through the steps:
+</reasoning>
+<answer>100</answer>

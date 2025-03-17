@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many packages the third butcher delivered, we first need to determine how much ground beef was delivered by the first two butchers.
+
+1. **Calculate the weight delivered by the first butcher:**
+   - The first butcher delivered 10 packages, and each package weighs 4 pounds.
+   - Therefore, the total weight from the first butcher is:
+     \[
+     10 \text{ packages} \times 4 \text{ pounds/package} = 40 \text{ pounds}
+     \]
+
+2. **Calculate the weight delivered by the second butcher:**
+   - The second butcher delivered 7 packages, with each package also weighing 4 pounds.
+   - Thus, the total weight from the second butcher is:
+     \[
+     7 \text{ packages} \times 4 \text{ pounds/package} = 28 \text{ pounds}
+     \]
+
+3. **Add the weights from the first two butchers:**
+   - Now we can add the total weight from both butchers:
+     \[
+     40 \text{ pounds} + 28 \text{ pounds} = 68 \text{ pounds}
+     \]
+
+4. **Determine the total weight from the third butcher:**
+   - We know the total weight delivered by all three butchers is 100 pounds.
+   - Therefore, the weight delivered by the third butcher is:
+     \[
+     100 \text{ pounds} - 68 \text{ pounds} = 32 \text{ pounds}
+     \]
+
+5. **Calculate the number of packages delivered by the third butcher:**
+   - Since each package weighs 4 pounds, we can find the number of packages delivered by the third butcher by dividing the total weight from the third butcher by the weight per package:
+     \[
+     \frac{32 \text{ pounds}}{4 \text{ pounds/package}} = 8 \text{ packages}
+     \]
+
+Thus, the third butcher delivered 8 packages.
+</reasoning>
+<answer>8</answer>

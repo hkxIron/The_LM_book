@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we first need to understand the ratio in which the cards are divided between Ellis and Orion. The ratio given is 11:9. This means for every 11 parts that Ellis gets, Orion gets 9 parts.
+
+1. **Calculate the total parts in the ratio**:
+   The total parts in the ratio can be found by adding the two parts together:
+   \[
+   11 + 9 = 20 \text{ parts}
+   \]
+
+2. **Determine the value of each part**:
+   Since there are 500 cards in total, we can find the value of one part by dividing the total number of cards by the total parts:
+   \[
+   \text{Value of each part} = \frac{500}{20} = 25 \text{ cards}
+   \]
+
+3. **Calculate the number of cards each friend receives**:
+   - For Ellis, who receives 11 parts:
+   \[
+   \text{Cards for Ellis} = 11 \times 25 = 275 \text{ cards}
+   \]
+   - For Orion, who receives 9 parts:
+   \[
+   \text{Cards for Orion} = 9 \times 25 = 225 \text{ cards}
+   \]
+
+4. **Find the difference in the number of cards**:
+   To find how many more cards Ellis received than Orion, we subtract the number of cards Orion received from the number of cards Ellis received:
+   \[
+   \text{Difference} = 275 - 225 = 50 \text{ cards}
+   \]
+
+Therefore, the final answer is that Ellis received 50 more cards than Orion.
+</reasoning>
+<answer>50</answer>

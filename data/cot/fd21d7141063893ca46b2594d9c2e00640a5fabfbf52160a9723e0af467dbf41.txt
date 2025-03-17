@@ -1,0 +1,20 @@
+<reasoning>
+To find the length of the rest of the snake's body minus the head, we will follow these steps:
+
+1. **Identify the total length of the snake**: The problem states that the snake is 10 feet long.
+
+2. **Determine the length of the head**: According to the problem, the length of the head is one-tenth of the total length of the snake. We will calculate this by multiplying the total length by \( \frac{1}{10} \).
+
+   \[
+   \text{Length of the head} = \text{Total length} \times \frac{1}{10} = 10 \text{ feet} \times \frac{1}{10} = 1 \text{ foot}
+   \]
+
+3. **Calculate the length of the rest of the body**: Now that we have the length of the head, we can find the length of the rest of the body by subtracting the length of the head from the total length of the snake.
+
+   \[
+   \text{Length of the rest of the body} = \text{Total length} - \text{Length of the head} = 10 \text{ feet} - 1 \text{ foot} = 9 \text{ feet}
+   \]
+
+Therefore, the length of the rest of the snake's body minus the head is 9 feet.
+</reasoning>
+<answer>9</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+To solve the problem, we need to determine the total number of glasses broken by both David and William.
+
+1. **Identify the number of glasses David broke**: According to the problem, David broke 2 glasses.
+
+2. **Calculate the number of glasses William broke**: The problem states that William broke 4 times the number of glasses that David broke. Since David broke 2 glasses, we can calculate this as follows:
+   \[
+   \text{Glasses broken by William} = 4 \times \text{Glasses broken by David} = 4 \times 2 = 8
+   \]
+
+3. **Add the number of glasses broken by both David and William**: To find the total number of glasses broken, we add the glasses broken by David and William:
+   \[
+   \text{Total glasses broken} = \text{Glasses broken by David} + \text{Glasses broken by William} = 2 + 8 = 10
+   \]
+
+Therefore, the total number of glasses broken at the party is 10.
+</reasoning>
+<answer>10</answer>

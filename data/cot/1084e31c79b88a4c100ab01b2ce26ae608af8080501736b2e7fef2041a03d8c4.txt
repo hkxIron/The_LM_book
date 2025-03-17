@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine John's sister's current age**: 
+   - John is currently 10 years old.
+   - His sister is twice his age, so we calculate her age by multiplying John's age by 2:
+     \[
+     \text{Sister's age} = 2 \times \text{John's age} = 2 \times 10 = 20 \text{ years old}
+     \]
+
+2. **Calculate the age difference**:
+   - John is 10 years old and his sister is 20 years old. The age difference between them is:
+     \[
+     \text{Age difference} = \text{Sister's age} - \text{John's age} = 20 - 10 = 10 \text{ years}
+     \]
+   - This means that John's sister is always 10 years older than him.
+
+3. **Determine their ages when John is 50**:
+   - When John is 50 years old, we need to find out how old his sister will be. Since she is always 10 years older, we add the age difference to John's age at that time:
+     \[
+     \text{Sister's age when John is 50} = \text{John's age} + \text{Age difference} = 50 + 10 = 60 \text{ years old}
+     \]
+
+Therefore, when John is 50 years old, his sister will be 60 years old.
+</reasoning>
+<answer>60</answer>

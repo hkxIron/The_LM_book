@@ -1,0 +1,22 @@
+<reasoning>
+To solve the problem, we'll break it down step by step.
+
+1. **Determine the age of the youngest sibling**: 
+   We know that the youngest sibling is 5 less than half of Kay's age. Since Kay is 32 years old, we first calculate half of Kay's age.
+   \[
+   \text{Half of Kay's age} = \frac{32}{2} = 16
+   \]
+   Now, we subtract 5 from this result to find the age of the youngest sibling.
+   \[
+   \text{Age of the youngest sibling} = 16 - 5 = 11
+   \]
+
+2. **Determine the age of the oldest sibling**: 
+   The oldest sibling is stated to be four times as old as the youngest sibling. Since we found the youngest sibling's age to be 11, we can calculate the oldest sibling's age by multiplying the youngest sibling's age by 4.
+   \[
+   \text{Age of the oldest sibling} = 4 \times 11 = 44
+   \]
+
+Thus, after calculating the ages step by step, we find that the oldest sibling is 44 years old.
+</reasoning>
+<answer>44</answer>

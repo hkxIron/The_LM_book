@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much Dabbie spent on all the turkeys, we need to follow these steps:
+
+1. **Calculate the weight of the third turkey:** 
+   - We know the second turkey weighs 9 kilograms. 
+   - The third turkey weighs twice the weight of the second turkey, so we calculate:
+     \[
+     \text{Weight of the third turkey} = 2 \times 9 \, \text{kg} = 18 \, \text{kg}
+     \]
+
+2. **Find the total weight of all the turkeys:**
+   - Now, we can add the weights of all three turkeys together:
+     \[
+     \text{Total weight} = \text{Weight of first turkey} + \text{Weight of second turkey} + \text{Weight of third turkey}
+     \]
+     \[
+     \text{Total weight} = 6 \, \text{kg} + 9 \, \text{kg} + 18 \, \text{kg} = 33 \, \text{kg}
+     \]
+
+3. **Calculate the total cost:**
+   - The cost of turkey is $2 per kilogram. Therefore, we will multiply the total weight by the price per kilogram:
+     \[
+     \text{Total cost} = \text{Total weight} \times \text{Cost per kilogram}
+     \]
+     \[
+     \text{Total cost} = 33 \, \text{kg} \times 2 \, \text{USD/kg} = 66 \, \text{USD}
+     \]
+
+Therefore, Dabbie spent a total of $66 on all the turkeys.
+</reasoning>
+<answer>66</answer>

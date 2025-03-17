@@ -1,0 +1,74 @@
+<reasoning>
+Let's denote the weights of Al, Ben, Carl, and Ed as follows:
+
+- Let \( A \) be the weight of Al.
+- Let \( B \) be the weight of Ben.
+- Let \( C \) be the weight of Carl.
+- Let \( E \) be the weight of Ed.
+
+From the problem, we have the following relationships:
+
+1. Al is 25 pounds heavier than Ben: 
+   \[
+   A = B + 25 
+   \]
+
+2. Ben is 16 pounds lighter than Carl: 
+   \[
+   B = C - 16 
+   \]
+
+3. Ed weighs 146 pounds and is 38 pounds lighter than Al: 
+   \[
+   E = 146 \quad \text{and} \quad E = A - 38 
+   \]
+
+Now, we can substitute \( E \) into the equation for \( A \):
+\[
+146 = A - 38 
+\]
+To find \( A \), we add 38 to both sides:
+\[
+A = 146 + 38 = 184 
+\]
+
+Now we know Al's weight:
+\[
+A = 184 
+\]
+
+Next, we can use the first equation to find Ben's weight:
+\[
+184 = B + 25 
+\]
+Subtracting 25 from both sides gives us:
+\[
+B = 184 - 25 = 159 
+\]
+
+Now we know Ben's weight:
+\[
+B = 159 
+\]
+
+Next, we use the second equation to find Carl's weight:
+\[
+B = C - 16 
+\]
+Substituting \( B = 159 \) into the equation gives us:
+\[
+159 = C - 16 
+\]
+Adding 16 to both sides results in:
+\[
+C = 159 + 16 = 175 
+\]
+
+Now we know Carl's weight:
+\[
+C = 175 
+\]
+
+Therefore, the weight of Carl is:
+</reasoning>
+<answer>175</answer>

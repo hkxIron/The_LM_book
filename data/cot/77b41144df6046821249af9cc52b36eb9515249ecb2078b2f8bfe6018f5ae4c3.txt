@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many bricks of snow Libby used for her igloo, we need to break down the problem into parts based on the structure of the igloo.
+
+1. **Identify the structure of the igloo**: 
+   - The igloo has a total of 10 rows.
+   - The bottom half consists of 5 rows (since the top half must also consist of 5 rows, given that the total is 10).
+   - In the bottom half, there are 12 bricks of snow in each row.
+   - In the top half, there are 8 bricks of snow in each row.
+
+2. **Calculate the total number of bricks in the bottom half**:
+   - For the bottom half, since there are 5 rows and each row has 12 bricks, we will multiply the number of rows by the number of bricks per row:
+   \[
+   \text{Bricks in the bottom half} = 5 \text{ rows} \times 12 \text{ bricks/row} = 60 \text{ bricks}
+   \]
+
+3. **Calculate the total number of bricks in the top half**:
+   - For the top half, which also has 5 rows with 8 bricks in each row, we do the same multiplication:
+   \[
+   \text{Bricks in the top half} = 5 \text{ rows} \times 8 \text{ bricks/row} = 40 \text{ bricks}
+   \]
+
+4. **Add the two halves together**:
+   - Now we need to combine the number of bricks from both halves to find the total number of bricks used for the igloo:
+   \[
+   \text{Total bricks} = \text{Bricks in the bottom half} + \text{Bricks in the top half} = 60 \text{ bricks} + 40 \text{ bricks} = 100 \text{ bricks}
+   \]
+
+Therefore, Libby used a total of 100 bricks of snow to build her igloo.
+</reasoning>
+<answer>100</answer>

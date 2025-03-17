@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the relationship between Christian's and Brian's ages**: 
+   We know from the problem statement that Christian is twice as old as Brian. We can express Christian's age (C) in terms of Brian's age (B) as:
+   \[
+   C = 2B
+   \]
+
+2. **Determine Brian's current age**: 
+   The problem states that in eight years, Brian will be 40 years old. We can express this mathematically:
+   \[
+   B + 8 = 40
+   \]
+   To find Brian's current age (B), we subtract 8 from both sides:
+   \[
+   B = 40 - 8
+   \]
+   \[
+   B = 32
+   \]
+   So, Brian is currently 32 years old.
+
+3. **Calculate Christian's current age**:
+   Now that we know Brian's age, we can find Christian's age using the relationship we established earlier:
+   \[
+   C = 2B = 2 \times 32
+   \]
+   \[
+   C = 64
+   \]
+   So, Christian is currently 64 years old.
+
+4. **Find out how old Christian will be in eight years**:
+   To determine Christian's age in eight years, we add 8 to his current age:
+   \[
+   C + 8 = 64 + 8
+   \]
+   \[
+   C + 8 = 72
+   \]
+   Therefore, Christian will be 72 years old in eight years.
+</reasoning>
+<answer>72</answer>

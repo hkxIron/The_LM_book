@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many boxes are needed to ship 5000 brochures, we first need to determine how many brochures fit in one box. 
+
+1. **Calculate the number of brochures per box**:
+   Since each box can only contain one-fifth of the brochures, we can find the number of brochures in one box by dividing the total number of brochures by 5. 
+
+   \[
+   \text{Brochures per box} = \frac{5000}{5}
+   \]
+
+   Performing this calculation:
+   \[
+   \text{Brochures per box} = 1000
+   \]
+
+   This means each box can hold 1000 brochures.
+
+2. **Calculate the number of boxes needed**:
+   Next, we need to find out how many boxes are required to ship all 5000 brochures. To do this, we divide the total number of brochures by the number of brochures that fit in one box.
+
+   \[
+   \text{Number of boxes} = \frac{5000}{1000}
+   \]
+
+   Performing this calculation:
+   \[
+   \text{Number of boxes} = 5
+   \]
+
+This means that we need 5 boxes to ship all 5000 brochures.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

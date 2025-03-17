@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many decorations Mrs. Jackson gave to her neighbor, we will follow these steps:
+
+1. **Calculate the total number of decorations Mrs. Jackson has.**  
+   Since she has 4 boxes and each box contains 15 decorations, we will multiply the number of boxes by the number of decorations per box.
+   \[
+   \text{Total decorations} = \text{Number of boxes} \times \text{Decorations per box} = 4 \times 15
+   \]
+   Performing this multiplication:
+   \[
+   4 \times 15 = 60
+   \]
+   So, Mrs. Jackson has a total of 60 decorations.
+
+2. **Determine how many decorations she used.**  
+   According to the problem, Mrs. Jackson used 35 decorations.
+
+3. **Calculate how many decorations are left after she used some.**  
+   To find out how many decorations are left, we subtract the number of decorations she used from the total number of decorations.
+   \[
+   \text{Decorations left} = \text{Total decorations} - \text{Decorations used} = 60 - 35
+   \]
+   Performing this subtraction:
+   \[
+   60 - 35 = 25
+   \]
+   Therefore, Mrs. Jackson has 25 decorations left.
+
+4. **Conclusion: Identify how many decorations she gives to her neighbor.**  
+   Since she gives all of the leftover decorations to her neighbor, the number of decorations she gives is 25.
+
+Thus, Mrs. Jackson gave her neighbor 25 decorations.
+</reasoning>
+<answer>25</answer>

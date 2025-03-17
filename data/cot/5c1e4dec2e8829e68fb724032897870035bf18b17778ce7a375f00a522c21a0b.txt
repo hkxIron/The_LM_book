@@ -1,0 +1,76 @@
+<reasoning>
+To find the average number of skips per round completed by Jeff, we first need to determine how many skips Jeff completed in each round based on the information given.
+
+1. **First Round**: 
+   - Sam skips 16 times.
+   - Since Sam completed 1 more skip than Jeff, we can set up the equation:
+     \[
+     \text{Jeff's skips} = \text{Sam's skips} - 1
+     \]
+     Thus, Jeff's skips in the first round:
+     \[
+     \text{Jeff's skips} = 16 - 1 = 15
+     \]
+
+2. **Second Round**:
+   - Sam skips 16 times.
+   - Jeff skipped 3 fewer times than Sam, so:
+     \[
+     \text{Jeff's skips} = \text{Sam's skips} - 3
+     \]
+     Thus, Jeff's skips in the second round:
+     \[
+     \text{Jeff's skips} = 16 - 3 = 13
+     \]
+
+3. **Third Round**:
+   - Sam skips 16 times.
+   - Jeff skipped 4 more times than Sam, so:
+     \[
+     \text{Jeff's skips} = \text{Sam's skips} + 4
+     \]
+     Thus, Jeff's skips in the third round:
+     \[
+     \text{Jeff's skips} = 16 + 4 = 20
+     \]
+
+4. **Fourth Round**:
+   - Sam skips 16 times.
+   - Jeff completed half the number of skips as Sam, so:
+     \[
+     \text{Jeff's skips} = \frac{1}{2} \times \text{Sam's skips}
+     \]
+     Thus, Jeff's skips in the fourth round:
+     \[
+     \text{Jeff's skips} = \frac{1}{2} \times 16 = 8
+     \]
+
+Now, we have the number of skips Jeff completed in each round:
+- First Round: 15 skips
+- Second Round: 13 skips
+- Third Round: 20 skips
+- Fourth Round: 8 skips
+
+5. **Total Skips by Jeff**:
+To find the total number of skips by Jeff, we sum the skips from all four rounds:
+\[
+\text{Total skips} = 15 + 13 + 20 + 8
+\]
+Calculating this gives:
+\[
+\text{Total skips} = 56
+\]
+
+6. **Average Skips**:
+To find the average number of skips per round, we divide the total skips by the number of rounds:
+\[
+\text{Average skips} = \frac{\text{Total skips}}{\text{Number of rounds}} = \frac{56}{4}
+\]
+Calculating this gives:
+\[
+\text{Average skips} = 14
+\]
+
+Therefore, the average number of skips per round completed by Jeff is:
+</reasoning>
+<answer>14</answer>

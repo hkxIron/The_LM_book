@@ -1,0 +1,40 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Starting with the initial amount of cookies:** 
+   Sabrina starts with 20 cookies.
+
+2. **Sabrina gives cookies to her brother:** 
+   She gives 10 cookies to her brother. 
+   So, we subtract the 10 cookies from her initial amount:
+   \[
+   20 - 10 = 10 \text{ cookies left}
+   \]
+
+3. **Her mother gives her cookies:** 
+   Her mother gives Sabrina half the number of cookies she gave her brother. 
+   Since her brother received 10 cookies, half of that is:
+   \[
+   \frac{10}{2} = 5 \text{ cookies}
+   \]
+   Now we add these 5 cookies to the amount Sabrina has:
+   \[
+   10 + 5 = 15 \text{ cookies}
+   \]
+
+4. **Sabrina gives two-thirds of her cookies to her sister:** 
+   Now, we need to find out how many cookies that is. Two-thirds of 15 cookies is calculated as follows:
+   \[
+   \frac{2}{3} \times 15 = 10 \text{ cookies}
+   \]
+   So, Sabrina gives 10 cookies to her sister. We subtract this from her current amount:
+   \[
+   15 - 10 = 5 \text{ cookies left}
+   \]
+
+5. **Final count:** 
+   After all the transactions, Sabrina has 5 cookies remaining.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

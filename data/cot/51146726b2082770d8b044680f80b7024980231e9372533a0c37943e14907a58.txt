@@ -1,0 +1,45 @@
+<reasoning>
+To solve this problem, we need to determine how many parking spaces are in section 2, given the total number of parking spaces and the information provided about sections 1 and 3.
+
+1. **Identify the total number of spaces**: The parking lot has a total of 1000 spaces.
+
+2. **Spaces in section 1**: We know from the problem that section 1 has 320 spaces.
+
+3. **Let’s denote the spaces in section 3**: We can let the number of spaces in section 3 be represented as \( x \).
+
+4. **Determine the spaces in section 2**: According to the problem, section 2 has 200 more spaces than section 3. Therefore, we can express the number of spaces in section 2 as \( x + 200 \).
+
+5. **Set up the equation**: Now we can set up an equation that represents the total number of spaces in all sections:
+   \[
+   \text{Spaces in section 1} + \text{Spaces in section 2} + \text{Spaces in section 3} = \text{Total spaces}
+   \]
+   Substituting the known values, we have:
+   \[
+   320 + (x + 200) + x = 1000
+   \]
+
+6. **Simplify the equation**: Combine like terms:
+   \[
+   320 + x + 200 + x = 1000 \\
+   2x + 520 = 1000
+   \]
+
+7. **Isolate \( x \)**: Now, we need to isolate \( x \) by first subtracting 520 from both sides:
+   \[
+   2x = 1000 - 520 \\
+   2x = 480
+   \]
+   Next, divide both sides by 2:
+   \[
+   x = \frac{480}{2} \\
+   x = 240
+   \]
+
+8. **Find the number of spaces in section 2**: Now that we have the value of \( x \) (the number of spaces in section 3), we can find the number of spaces in section 2:
+   \[
+   \text{Spaces in section 2} = x + 200 = 240 + 200 = 440
+   \]
+
+Thus, the number of parking spaces in section 2 is 440.
+</reasoning>
+<answer>440</answer>

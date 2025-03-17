@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many people live in the apartment complex, we first need to calculate the maximum occupancy of the apartments in one building, and then we will multiply that by the number of buildings. After that, we can find out how many people currently live there based on the 75% occupancy.
+
+**Step 1: Calculate the maximum occupancy for one building.**
+
+- Each building has:
+  - 10 studio apartments, which can accommodate 1 person each:  
+    \[ 10 \text{ studios} \times 1 \text{ person/studio} = 10 \text{ people} \]
+
+  - 20 two-person apartments, which can accommodate 2 people each:  
+    \[ 20 \text{ two-person apartments} \times 2 \text{ people/apartment} = 40 \text{ people} \]
+
+  - 5 four-person apartments, which can accommodate 4 people each:  
+    \[ 5 \text{ four-person apartments} \times 4 \text{ people/apartment} = 20 \text{ people} \]
+
+Now, we sum the maximum occupancy from each type of apartment to find the total maximum occupancy for one building:  
+\[ 10 \text{ people} + 40 \text{ people} + 20 \text{ people} = 70 \text{ people} \]
+
+**Step 2: Calculate the maximum occupancy for all buildings.**
+
+Since there are 4 identical buildings, we multiply the maximum occupancy of one building by the number of buildings:  
+\[ 70 \text{ people/building} \times 4 \text{ buildings} = 280 \text{ people} \]
+
+**Step 3: Calculate the current number of residents at 75% occupancy.**
+
+To find out how many people live in the apartment complex at 75% occupancy, we take 75% of the total maximum occupancy:  
+\[ 280 \text{ people} \times 0.75 = 210 \text{ people} \]
+
+Therefore, the total number of people living in the apartment complex is:
+</reasoning>
+<answer>210</answer>

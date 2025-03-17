@@ -1,0 +1,26 @@
+<reasoning>
+First, we need to determine the total number of trees that the company chopped down during the entire year. 
+
+1. **Calculate the total trees chopped down**:
+   - In the first half of the year, the company chopped down 200 trees.
+   - In the second half of the year, they chopped down an additional 300 trees.
+
+   To find the total trees chopped down:
+   \[
+   \text{Total trees chopped} = 200 + 300 = 500
+   \]
+
+2. **Determine how many trees need to be planted**:
+   - The company has a policy to plant three trees for every tree they chop down. Therefore, we need to multiply the total number of chopped trees by 3 to find out how many trees they need to plant.
+
+   To find the total trees to be planted:
+   \[
+   \text{Total trees to plant} = 500 \times 3 = 1500
+   \]
+
+3. **Final result**:
+   The company needs to plant 1500 trees to meet their sustainability goal.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>1500</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+Let's start by calculating how much silk Alex gives to his friends. 
+
+1. **Calculate the total silk given to friends**: 
+   Alex has 5 friends and gives each of them 20 meters of silk. So, the total amount of silk given away is:
+   \[
+   \text{Total silk given} = 5 \times 20 = 100 \text{ meters}
+   \]
+   This means Alex gives away 100 meters of silk.
+
+2. **Determine how much silk Alex has left**: 
+   Initially, Alex has 600 meters of silk. After giving away 100 meters, the amount of silk he has left is:
+   \[
+   \text{Silk left} = 600 - 100 = 500 \text{ meters}
+   \]
+   Now, Alex has 500 meters of silk remaining for himself to make dresses.
+
+3. **Calculate how many dresses Alex can make**: 
+   Each dress requires 5 meters of silk. To find out how many dresses Alex can make with 500 meters, we divide the total silk he has left by the amount of silk needed for each dress:
+   \[
+   \text{Number of dresses} = \frac{500}{5} = 100
+   \]
+   This means Alex can make 100 dresses with the silk he has left.
+
+Therefore, after considering the silk he gave to his friends and the silk he has available to make dresses, we find that Alex can make a total of 100 dresses.
+</reasoning>
+<answer>100</answer>

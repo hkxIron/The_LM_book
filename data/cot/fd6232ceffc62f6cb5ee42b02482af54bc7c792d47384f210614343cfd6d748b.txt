@@ -1,0 +1,27 @@
+<reasoning>
+To find Jane's speed in meters per minute, we need to follow these steps:
+
+1. **Convert kilometers to meters**: We know that 1 kilometer is equal to 1000 meters. Since Jane runs 3 kilometers, we calculate:
+   \[
+   3 \text{ kilometers} = 3 \times 1000 = 3000 \text{ meters}
+   \]
+   This tells us that Jane runs a total of 3000 meters.
+
+2. **Convert hours to minutes**: There are 60 minutes in an hour. Since Jane runs for 2 hours, we calculate:
+   \[
+   2 \text{ hours} = 2 \times 60 = 120 \text{ minutes}
+   \]
+   This means Jane runs for a total of 120 minutes.
+
+3. **Calculate speed in meters per minute**: Speed is calculated by dividing the distance traveled by the time taken. Thus, we find Jane's speed:
+   \[
+   \text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{3000 \text{ meters}}{120 \text{ minutes}}
+   \]
+   To perform the division:
+   \[
+   \text{Speed} = 25 \text{ meters per minute}
+   \]
+
+Therefore, after calculating her distance in meters and time in minutes, and dividing them to find her speed, we conclude:
+</reasoning>
+<answer>25</answer>

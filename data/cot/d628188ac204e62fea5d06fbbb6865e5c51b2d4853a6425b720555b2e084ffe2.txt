@@ -1,0 +1,22 @@
+<reasoning>
+To find the total earnings from the tickets in 6 minutes, we will break the problem down into clear steps.
+
+1. **Determine the number of tickets sold in one minute**: The problem states that the metro sells an average of 5 tickets per minute. This means that every minute, 5 tickets are sold.
+
+2. **Calculate the total number of tickets sold in 6 minutes**: Since 5 tickets are sold each minute, we can multiply the number of tickets sold per minute by the number of minutes:
+   \[
+   \text{Total tickets sold} = \text{Tickets per minute} \times \text{Number of minutes} = 5 \times 6 = 30
+   \]
+   Here, we multiplied 5 tickets by 6 minutes to find that 30 tickets are sold in total within 6 minutes.
+
+3. **Determine the price of one ticket**: The problem states that each ticket costs $3.
+
+4. **Calculate the total earnings from ticket sales**: To find the total earnings, we multiply the total number of tickets sold by the price of one ticket:
+   \[
+   \text{Total earnings} = \text{Total tickets sold} \times \text{Price per ticket} = 30 \times 3 = 90
+   \]
+   We multiplied 30 tickets by $3 to find the total earnings.
+
+Therefore, the total earnings from the tickets in 6 minutes will be $90.
+</reasoning>
+<answer>90</answer>

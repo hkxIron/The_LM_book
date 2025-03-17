@@ -1,0 +1,58 @@
+<reasoning>
+To determine how much more money Maisy will earn at her new job compared to her current job, we need to calculate her weekly earnings from both jobs.
+
+**Step 1: Calculate weekly earnings at the current job.**
+
+Maisy works 8 hours a week at a wage of $10 per hour. 
+
+To find her weekly earnings, we multiply the number of hours worked by the wage per hour:
+
+\[ 
+\text{Current Job Earnings} = \text{Hours} \times \text{Wage} 
+\]
+
+Substituting the values:
+
+\[ 
+\text{Current Job Earnings} = 8 \, \text{hours} \times 10 \, \text{dollars/hour} = 80 \, \text{dollars} 
+\]
+
+**Step 2: Calculate weekly earnings at the new job.**
+
+At the new job, Maisy works 4 hours a week at a wage of $15 per hour and receives an additional bonus of $35 if she exceeds her quota. 
+
+First, calculate her earnings from the hours worked:
+
+\[ 
+\text{New Job Earnings from Hours} = \text{Hours} \times \text{Wage} 
+\]
+
+Substituting the values:
+
+\[ 
+\text{New Job Earnings from Hours} = 4 \, \text{hours} \times 15 \, \text{dollars/hour} = 60 \, \text{dollars} 
+\]
+
+Now, add the bonus:
+
+\[ 
+\text{Total New Job Earnings} = \text{Earnings from Hours} + \text{Bonus} 
+\]
+\[ 
+\text{Total New Job Earnings} = 60 \, \text{dollars} + 35 \, \text{dollars} = 95 \, \text{dollars} 
+\]
+
+**Step 3: Calculate the difference in earnings between the new job and the current job.**
+
+Now, we subtract the earnings from the current job from the earnings at the new job:
+
+\[ 
+\text{Difference in Earnings} = \text{Total New Job Earnings} - \text{Current Job Earnings} 
+\]
+\[ 
+\text{Difference in Earnings} = 95 \, \text{dollars} - 80 \, \text{dollars} = 15 \, \text{dollars} 
+\]
+
+Therefore, Maisy will earn $15 more at her new job compared to her current job.
+</reasoning>
+<answer>15</answer>

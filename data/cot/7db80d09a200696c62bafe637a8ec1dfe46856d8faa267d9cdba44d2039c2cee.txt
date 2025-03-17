@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many students do not have glasses, we first need to determine how many students do have glasses. We know that 40 percent of the 325 students have glasses.
+
+1. **Calculating the number of students with glasses**: 
+   We can find 40 percent of 325 by using the formula:
+   \[
+   \text{Number of students with glasses} = \text{Total students} \times \frac{\text{Percentage}}{100}
+   \]
+   Substituting the values:
+   \[
+   \text{Number of students with glasses} = 325 \times \frac{40}{100}
+   \]
+
+2. **Performing the multiplication**: 
+   We simplify the multiplication:
+   \[
+   325 \times 0.4 = 130
+   \]
+   This means 130 students have glasses.
+
+3. **Calculating the number of students without glasses**: 
+   To find the number of students who do not have glasses, we subtract the number of students with glasses from the total number of students:
+   \[
+   \text{Number of students without glasses} = \text{Total students} - \text{Number of students with glasses}
+   \]
+   Substituting the values:
+   \[
+   \text{Number of students without glasses} = 325 - 130
+   \]
+
+4. **Performing the subtraction**: 
+   Now, let's do the subtraction:
+   \[
+   325 - 130 = 195
+   \]
+
+Therefore, the number of students who do not have glasses is 195.
+</reasoning>
+<answer>195</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many times Tyson scored one point, we can start by calculating the total points he scored from the three-point and two-point shots.
+
+1. **Calculate points from three-point shots:**
+   Tyson scored three points fifteen times. 
+   So, the total points from three-point shots is:
+   \[
+   3 \text{ points} \times 15 \text{ times} = 45 \text{ points}
+   \]
+
+2. **Calculate points from two-point shots:**
+   Tyson scored two points twelve times.
+   Thus, the total points from two-point shots is:
+   \[
+   2 \text{ points} \times 12 \text{ times} = 24 \text{ points}
+   \]
+
+3. **Add the points from three-point and two-point shots:**
+   Now, we can find the total points Tyson scored from both types of shots:
+   \[
+   45 \text{ points} + 24 \text{ points} = 69 \text{ points}
+   \]
+
+4. **Set up an equation for the one-point shots:**
+   We know that Tyson's total score was 75 points. Let \( x \) be the number of times he scored one point. The total points can be expressed as:
+   \[
+   69 \text{ points} + 1 \text{ point} \times x = 75 \text{ points}
+   \]
+
+5. **Solve for \( x \):**
+   Rearranging the equation gives:
+   \[
+   x = 75 - 69 = 6
+   \]
+
+Therefore, Tyson scored one point six times.
+</reasoning>
+<answer>6</answer>

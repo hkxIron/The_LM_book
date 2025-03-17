@@ -1,0 +1,48 @@
+<reasoning>
+Let's define the number of cards each person has:
+
+- Let \( L \) be the number of cards Lloyd has.
+- Since Mark has thrice as many cards as Lloyd, we can express Mark's cards as \( M = 3L \).
+- It is given that Mark has 10 fewer cards than Michael, so we can express this relationship as \( M = M_i - 10 \), where \( M_i \) is the number of cards Michael has.
+
+Given that Michael has 100 cards:
+
+\[
+M_i = 100
+\]
+
+Now we can substitute for \( M \):
+
+\[
+M = 100 - 10 = 90
+\]
+
+Now we know that Mark has 90 cards. We can use this to find out how many cards Lloyd has:
+
+\[
+M = 3L \implies 90 = 3L \implies L = \frac{90}{3} = 30
+\]
+
+So, Lloyd has 30 cards.
+
+Now we summarize what we have:
+
+- Lloyd has \( L = 30 \) cards.
+- Mark has \( M = 90 \) cards.
+- Michael has \( M_i = 100 \) cards.
+
+Next, we calculate the total number of cards they currently have:
+
+\[
+\text{Total cards} = L + M + M_i = 30 + 90 + 100 = 220
+\]
+
+The problem states they want a total of 300 cards. Therefore, we need to find how many more cards they need to collect:
+
+\[
+\text{Cards needed} = 300 - \text{Total cards} = 300 - 220 = 80
+\]
+
+Thus, they need to collect 80 more cards to reach a total of 300 cards.
+</reasoning>
+<answer>80</answer>

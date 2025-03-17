@@ -1,0 +1,55 @@
+<reasoning>
+To solve this problem, we need to calculate the total cost incurred by the company for each applicant and determine how much profit each applicant generates for the company in their first year.
+
+### Step 1: Calculate the cost for Applicant 1
+- **Salary:** $42,000
+- **Training Costs:** The applicant needs 3 months of training at $1,200 per month.
+  
+  \[
+  \text{Total Training Cost} = 3 \text{ months} \times 1200 = 3600
+  \]
+  
+- **Total Cost for Applicant 1:**
+  
+  \[
+  \text{Total Cost for Applicant 1} = \text{Salary} + \text{Total Training Cost} = 42000 + 3600 = 45600
+  \]
+
+### Step 2: Calculate the profit for Applicant 1
+- **Profit Generated:** The applicant will make the company $93,000 in the first year.
+  
+  \[
+  \text{Profit for Applicant 1} = \text{Profit Generated} - \text{Total Cost} = 93000 - 45600 = 47400
+  \]
+
+### Step 3: Calculate the cost for Applicant 2
+- **Salary:** $45,000
+- **Hiring Bonus:** 1% of the salary.
+  
+  \[
+  \text{Hiring Bonus} = 0.01 \times 45000 = 450
+  \]
+  
+- **Total Cost for Applicant 2:**
+  
+  \[
+  \text{Total Cost for Applicant 2} = \text{Salary} + \text{Hiring Bonus} = 45000 + 450 = 45450
+  \]
+
+### Step 4: Calculate the profit for Applicant 2
+- **Profit Generated:** The applicant will make the company $92,000 in the first year.
+  
+  \[
+  \text{Profit for Applicant 2} = \text{Profit Generated} - \text{Total Cost} = 92000 - 45450 = 46550
+  \]
+
+### Step 5: Compare the profits
+Now, we will find out how much more profit Applicant 1 makes compared to Applicant 2.
+
+\[
+\text{Difference in Profit} = \text{Profit for Applicant 1} - \text{Profit for Applicant 2} = 47400 - 46550 = 850
+\]
+
+Thus, Applicant 1 makes the company $850 more than Applicant 2 in the first year.
+</reasoning>
+<answer>850</answer>

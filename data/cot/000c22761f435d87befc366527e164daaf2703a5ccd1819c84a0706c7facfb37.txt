@@ -1,0 +1,20 @@
+<reasoning>
+First, let's determine how long it takes Jason to cut one lawn. We know that Jason takes 30 minutes to cut 1 lawn. 
+
+Next, we calculate how many lawns he cuts over the weekend. He cuts 8 yards on Saturday and 8 yards on Sunday. Therefore, the total number of lawns he cuts is:
+
+8 (Saturday) + 8 (Sunday) = 16 lawns
+
+Now, we need to find out how much time it takes him to cut all 16 lawns. Since he takes 30 minutes for each lawn, we can calculate the total time by multiplying the number of lawns by the time per lawn:
+
+Total time in minutes = Number of lawns × Time per lawn
+Total time in minutes = 16 lawns × 30 minutes/lawn = 480 minutes
+
+Now, we need to convert the total time from minutes to hours. Since there are 60 minutes in an hour, we divide the total minutes by 60:
+
+Total time in hours = Total time in minutes ÷ 60
+Total time in hours = 480 minutes ÷ 60 = 8 hours
+
+Thus, Jason spends a total of 8 hours cutting grass over the weekend.
+</reasoning>
+<answer>8</answer>

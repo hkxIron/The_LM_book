@@ -1,0 +1,55 @@
+<reasoning>
+Let's break down Tristan's study hours day by day and then determine how much time he has left for the weekend.
+
+1. **Monday:**
+   Tristan studies for 4 hours.
+   \[
+   \text{Monday hours} = 4 \text{ hours}
+   \]
+
+2. **Tuesday:**
+   He studies for twice the amount he studied on Monday. Therefore, the hours studied on Tuesday will be:
+   \[
+   \text{Tuesday hours} = 2 \times 4 = 8 \text{ hours}
+   \]
+
+3. **Wednesday, Thursday, and Friday:**
+   He studies for 3 hours each day for these three days.
+   \[
+   \text{Wednesday hours} = 3 \text{ hours}
+   \]
+   \[
+   \text{Thursday hours} = 3 \text{ hours}
+   \]
+   \[
+   \text{Friday hours} = 3 \text{ hours}
+   \]
+   To find the total hours for these three days, we can sum them up:
+   \[
+   \text{Total for Wed-Fri} = 3 + 3 + 3 = 9 \text{ hours}
+   \]
+
+4. **Total study hours from Monday to Friday:**
+   Now we can add all the hours together from Monday through Friday:
+   \[
+   \text{Total hours} = 4 + 8 + 9 = 21 \text{ hours}
+   \]
+
+5. **Total study hours Tristan aims for:**
+   Tristan wants to study for a total of 25 hours during the week.
+
+6. **Hours remaining for the weekend:**
+   To find out how many hours he has left to study on the weekend, we subtract the total hours he has already studied from his goal:
+   \[
+   \text{Remaining hours} = 25 - 21 = 4 \text{ hours}
+   \]
+
+7. **Dividing remaining hours evenly between Saturday and Sunday:**
+   He wants to divide the remaining hours equally between Saturday and Sunday. Therefore, we divide the remaining hours by 2:
+   \[
+   \text{Saturday hours} = \frac{4}{2} = 2 \text{ hours}
+   \]
+
+Thus, the number of hours Tristan spends studying on Saturday is:
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,45 @@
+<reasoning>
+To determine how much water John saved in June by replacing his toilet, we need to follow these steps:
+
+1. **Calculate the water used by the old toilet per flush:**
+   The old toilet uses 5 gallons of water per flush.
+
+2. **Calculate the total water used by the old toilet per day:**
+   His household flushed the toilet 15 times per day. Therefore, the total water used by the old toilet per day is:
+   \[
+   \text{Water used per day} = \text{Gallons per flush} \times \text{Number of flushes per day}
+   \]
+   \[
+   \text{Water used per day} = 5 \text{ gallons/flush} \times 15 \text{ flushes/day} = 75 \text{ gallons/day}
+   \]
+
+3. **Calculate the water used by the new toilet per flush:**
+   The new toilet uses 80% less water. To find out how much water it uses:
+   \[
+   \text{Water used per flush by new toilet} = \text{Old usage} \times (1 - 0.80) = 5 \text{ gallons} \times 0.20 = 1 \text{ gallon/flush}
+   \]
+
+4. **Calculate the total water used by the new toilet per day:**
+   Similar to the old toilet, we calculate:
+   \[
+   \text{Water used per day by new toilet} = 1 \text{ gallon/flush} \times 15 \text{ flushes/day} = 15 \text{ gallons/day}
+   \]
+
+5. **Calculate the daily water savings:**
+   The daily savings from using the new toilet is the difference between the old and new water usage:
+   \[
+   \text{Daily savings} = \text{Old usage} - \text{New usage}
+   \]
+   \[
+   \text{Daily savings} = 75 \text{ gallons/day} - 15 \text{ gallons/day} = 60 \text{ gallons/day}
+   \]
+
+6. **Calculate the total water savings for the month of June:**
+   June has 30 days, so we multiply the daily savings by 30:
+   \[
+   \text{Total savings in June} = \text{Daily savings} \times 30 \text{ days} = 60 \text{ gallons/day} \times 30 \text{ days} = 1800 \text{ gallons}
+   \]
+
+After completing all the calculations, we find that John saved a total of 1800 gallons of water in June by replacing his inefficient toilet with a more efficient one.
+</reasoning>
+<answer>1800</answer>

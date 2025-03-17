@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we start by determining how much wood Gerald will use to make 24 tables.
+
+1. **Calculate the total amount of wood needed for 24 tables**:
+   Each table requires 12 pieces of wood. Therefore, to find the total wood needed for 24 tables, we multiply the number of tables by the amount of wood per table:
+   \[
+   \text{Wood for tables} = 24 \text{ tables} \times 12 \text{ pieces of wood/table} = 288 \text{ pieces of wood}
+   \]
+
+2. **Subtract the wood used for tables from the total wood**:
+   Gerald starts with 672 pieces of wood. After using 288 pieces for the tables, we find out how much wood remains:
+   \[
+   \text{Remaining wood} = 672 \text{ pieces} - 288 \text{ pieces} = 384 \text{ pieces}
+   \]
+
+3. **Calculate how many chairs he can make with the remaining wood**:
+   Each chair requires 8 pieces of wood. Now, we divide the remaining wood by the amount needed for one chair to find the maximum number of chairs he can make:
+   \[
+   \text{Number of chairs} = \frac{384 \text{ pieces}}{8 \text{ pieces/chair}} = 48 \text{ chairs}
+   \]
+
+Therefore, Gerald can make 48 chairs after making 24 tables.
+</reasoning>
+<answer>48</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many albino 8-antlered deer there are, we will follow these steps:
+
+1. **Calculate the number of deer that have 8 antlers.**
+   - We know that 10% of the total deer in the park have 8 antlers.
+   - The total number of deer is 920.
+   - To find 10% of 920, we multiply 920 by 0.10 (which is the decimal form of 10%).
+
+   \[
+   920 \times 0.10 = 92
+   \]
+
+   So, there are 92 deer that have 8 antlers.
+
+2. **Calculate the number of those deer that also have albino fur.**
+   - We are told that a quarter of the deer that have 8 antlers also have albino fur.
+   - We will calculate a quarter of 92 by dividing 92 by 4.
+
+   \[
+   92 \div 4 = 23
+   \]
+
+   Thus, there are 23 deer that have both 8 antlers and albino fur.
+
+Now, we can conclude that the number of albino 8-antlered deer is 23.
+</reasoning>
+<answer>23</answer>

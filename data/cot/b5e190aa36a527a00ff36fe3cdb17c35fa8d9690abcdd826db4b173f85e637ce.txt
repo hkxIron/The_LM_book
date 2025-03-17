@@ -1,0 +1,31 @@
+<reasoning>
+Let's begin by determining the total length of the highway after the construction is completed. The highway is being extended from 200 miles to 650 miles.
+
+1. **Calculate the total extension needed:**
+   To find out how much needs to be added, we subtract the current length from the desired length:
+   \[
+   650 \text{ miles} - 200 \text{ miles} = 450 \text{ miles}
+   \]
+   This means we need to add a total of 450 miles to the highway.
+
+2. **Calculate the distance built in two days:**
+   On the first day, 50 miles are built. On the second day, three times this amount is built:
+   \[
+   \text{Miles built on the second day} = 3 \times 50 \text{ miles} = 150 \text{ miles}
+   \]
+
+3. **Total miles built after two days:**
+   Now, we add the miles built on both days:
+   \[
+   50 \text{ miles (Day 1)} + 150 \text{ miles (Day 2)} = 200 \text{ miles}
+   \]
+
+4. **Calculate the remaining miles needed:**
+   Now we need to find out how many miles still need to be added to reach the total of 450 miles:
+   \[
+   450 \text{ miles (total needed)} - 200 \text{ miles (built)} = 250 \text{ miles}
+   \]
+
+Therefore, the total number of miles still needed to finish extending the highway is 250 miles.
+</reasoning>
+<answer>250</answer>

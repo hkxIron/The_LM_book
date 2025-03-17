@@ -1,0 +1,28 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Calculate the total number of dandelion puffs given away**: 
+   - Caleb gave away 3 to his mom, 3 to his sister, 5 to his grandmother, and 2 to his dog. 
+   - So, we need to add these numbers together:
+     \[
+     3 + 3 + 5 + 2 = 13
+     \]
+   - This means Caleb gave away a total of 13 dandelion puffs.
+
+2. **Determine the remaining dandelion puffs**: 
+   - Caleb originally picked 40 dandelion puffs. Now, we subtract the number of puffs he gave away from the original amount:
+     \[
+     40 - 13 = 27
+     \]
+   - Caleb now has 27 dandelion puffs left.
+
+3. **Divide the remaining puffs among his 3 friends**: 
+   - To find out how many puffs each friend receives, we divide the remaining number of dandelion puffs by the number of friends:
+     \[
+     \frac{27}{3} = 9
+     \]
+   - Each friend receives 9 dandelion puffs.
+
+Thus, after solving the problem step by step and showing all calculations, we find that each friend received 9 dandelion puffs.
+</reasoning>
+<answer>9</answer>

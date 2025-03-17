@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many tires are in the parking lot, we need to consider both the tires on the cars and the spare tires. 
+
+1. **Determine the number of tires on the cars**: Each 4-wheel drive car has 4 tires. Since there are 30 cars, we multiply the number of cars by the number of tires per car.
+   \[
+   \text{Total tires on cars} = \text{Number of cars} \times \text{Tires per car} = 30 \times 4
+   \]
+   Calculating this gives:
+   \[
+   30 \times 4 = 120
+   \]
+   So, there are 120 tires on the cars.
+
+2. **Determine the number of spare tires**: If each of the 30 cars has 1 spare tire, we multiply the number of cars by the number of spare tires per car.
+   \[
+   \text{Total spare tires} = \text{Number of cars} \times \text{Spare tire per car} = 30 \times 1
+   \]
+   Calculating this gives:
+   \[
+   30 \times 1 = 30
+   \]
+   So, there are 30 spare tires.
+
+3. **Calculate the total number of tires in the parking lot**: To find the total number of tires, we add the total tires on the cars and the total spare tires together.
+   \[
+   \text{Total tires} = \text{Total tires on cars} + \text{Total spare tires} = 120 + 30
+   \]
+   Calculating this gives:
+   \[
+   120 + 30 = 150
+   \]
+
+Therefore, the total number of tires in the parking lot is 150.
+</reasoning>
+<answer>150</answer>

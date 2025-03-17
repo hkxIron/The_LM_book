@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Calculate the total number of oranges picked by Betty and Bill:**
+   - Betty picked 15 oranges.
+   - Bill picked 12 oranges.
+   - To find the combined total of oranges picked by Betty and Bill, we add these two amounts together:
+     \[
+     15 + 12 = 27
+     \]
+   Therefore, Betty and Bill picked a total of 27 oranges.
+
+2. **Determine how many oranges Frank picked:**
+   - Frank picked three times the number that Betty and Bill picked combined.
+   - We calculated that Betty and Bill picked 27 oranges, so we multiply this by 3 to find out how many oranges Frank picked:
+     \[
+     3 \times 27 = 81
+     \]
+   Thus, Frank picked 81 oranges.
+
+3. **Calculate the number of seeds Frank planted:**
+   - Frank planted 2 seeds from each of his oranges.
+   - Since Frank picked 81 oranges, the total number of seeds he planted is:
+     \[
+     2 \times 81 = 162
+     \]
+   Therefore, Frank planted 162 seeds.
+
+4. **Determine how many orange trees grew from the seeds:**
+   - According to the problem, each seed grows into one orange tree. Therefore, the number of orange trees is the same as the number of seeds:
+     \[
+     162 \text{ trees}
+     \]
+
+5. **Calculate the total number of oranges for Philip to pick:**
+   - Each orange tree produces 5 oranges.
+   - To find the total number of oranges produced by all the trees, we multiply the number of trees by the number of oranges each tree produces:
+     \[
+     162 \times 5 = 810
+     \]
+   Therefore, there are a total of 810 oranges for Philip to pick.
+
+In conclusion, after calculating each step, we found that Philip will have a total of 810 oranges to pick from the trees.
+</reasoning>
+<answer>810</answer>

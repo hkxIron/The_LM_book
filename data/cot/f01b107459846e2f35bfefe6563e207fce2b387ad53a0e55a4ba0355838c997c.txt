@@ -1,0 +1,33 @@
+<reasoning>
+Let's start by determining how many nails the fixer used for the kitchen repair.
+
+1. **Calculate the number of nails used for the kitchen**:
+   The fixer uses 30% of the nails in the container. Since there are 400 nails in total, we calculate 30% of 400:
+   \[
+   \text{Nails used for kitchen} = 0.30 \times 400 = 120
+   \]
+   This means the fixer used 120 nails for the kitchen.
+
+2. **Calculate the number of nails remaining after the kitchen repair**:
+   To find out how many nails are left in the container after using 120 nails, we subtract the number of nails used from the total:
+   \[
+   \text{Nails remaining after kitchen} = 400 - 120 = 280
+   \]
+   So, there are 280 nails remaining after the kitchen repair.
+
+3. **Calculate the number of nails used for the fence**:
+   Next, the fixer uses 70% of the remaining nails for the fence repair. Now, we find 70% of the remaining 280 nails:
+   \[
+   \text{Nails used for fence} = 0.70 \times 280 = 196
+   \]
+   This means the fixer used 196 nails for the fence.
+
+4. **Calculate the final number of nails remaining**:
+   Finally, we need to find out how many nails are left after the fence repair. We subtract the number of nails used for the fence from the remaining nails after the kitchen repair:
+   \[
+   \text{Final remaining nails} = 280 - 196 = 84
+   \]
+
+Therefore, after all the repairs are done, the number of nails remaining in the container is 84.
+</reasoning>
+<answer>84</answer>

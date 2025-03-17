@@ -1,0 +1,33 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total cost of the weight plates:**
+   James buys 200 pounds of weight plates at $1.2 per pound. To find the total cost, we multiply the number of pounds by the cost per pound:
+   \[
+   \text{Total cost of weight plates} = 200 \text{ pounds} \times 1.2 \text{ dollars/pound} = 240 \text{ dollars}
+   \]
+
+2. **Calculate the total cost of the weight vest and plates combined:**
+   Now, we need to add the cost of the weight vest ($250) to the total cost of the weight plates ($240):
+   \[
+   \text{Total cost} = 250 \text{ dollars} + 240 \text{ dollars} = 490 \text{ dollars}
+   \]
+
+3. **Determine the original price of a 200-pound weight vest:**
+   The problem states that a 200-pound weight vest would normally cost $700.
+
+4. **Apply the discount:**
+   There is a $100 discount on the 200-pound weight vest, so we subtract this discount from the original price:
+   \[
+   \text{Discounted price} = 700 \text{ dollars} - 100 \text{ dollars} = 600 \text{ dollars}
+   \]
+
+5. **Calculate the savings:**
+   Finally, we compare the total cost of James's weight vest and plates ($490) to the discounted price of the 200-pound weight vest ($600):
+   \[
+   \text{Savings} = \text{Discounted price} - \text{Total cost} = 600 \text{ dollars} - 490 \text{ dollars} = 110 \text{ dollars}
+   \]
+
+Therefore, James saves $110 with his vest.
+</reasoning>
+<answer>110</answer>

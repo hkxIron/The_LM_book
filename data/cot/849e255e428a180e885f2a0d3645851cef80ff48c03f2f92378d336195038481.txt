@@ -1,0 +1,54 @@
+<reasoning>
+To solve this problem, we need to set up equations based on the information given about Rebecca's purchases.
+
+1. **Define Variables:**
+   Let's define:
+   - \( t \) = the number of tent stakes
+   - \( d \) = the number of packets of drink mix
+   - \( w \) = the number of bottles of water
+
+2. **Set Up Equations:**
+   From the problem statement, we have the following relationships:
+   - Rebecca bought 3 times as many packets of drink mix as tent stakes: 
+     \[
+     d = 3t
+     \]
+   - She bought 2 more bottles of water than tent stakes:
+     \[
+     w = t + 2
+     \]
+   - The total number of items she bought is 22:
+     \[
+     t + d + w = 22
+     \]
+
+3. **Substitute Equations:**
+   Now we can substitute the expressions for \( d \) and \( w \) in the total items equation:
+   \[
+   t + (3t) + (t + 2) = 22
+   \]
+
+4. **Combine Like Terms:**
+   Simplifying the left side, we combine the terms:
+   \[
+   t + 3t + t + 2 = 22
+   \]
+   This simplifies to:
+   \[
+   5t + 2 = 22
+   \]
+
+5. **Solve for \( t \):**
+   Next, we need to isolate \( t \). First, subtract 2 from both sides:
+   \[
+   5t = 20
+   \]
+   Now, divide by 5:
+   \[
+   t = 4
+   \]
+
+6. **Conclusion:**
+   Therefore, Rebecca bought 4 tent stakes.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many spaces Susan has to move to reach the winning end space, we will calculate her total movement step by step.
+
+1. **Starting Point**: Susan begins at space 0.
+   
+2. **First Turn**: She moves forward 8 spaces.
+   - Calculation: 
+     - \(0 + 8 = 8\)
+   - Now she is at space 8.
+
+3. **Second Turn**: She moves forward 2 spaces.
+   - Calculation:
+     - \(8 + 2 = 10\)
+   - Now she is at space 10.
+   - However, she lands on a space that sends her back 5 spaces.
+   - Calculation:
+     - \(10 - 5 = 5\)
+   - Now she is at space 5.
+
+4. **Third Turn**: She moves forward 6 spaces.
+   - Calculation:
+     - \(5 + 6 = 11\)
+   - Now she is at space 11.
+
+5. **Calculating Remaining Spaces to Win**: The game requires her to reach space 48 to win.
+   - Calculation: 
+     - Remaining spaces = Total spaces - Current position
+     - \(48 - 11 = 37\)
+
+Therefore, Susan has 37 spaces left to move in order to reach the ending space and win the game.
+</reasoning>
+<answer>37</answer>

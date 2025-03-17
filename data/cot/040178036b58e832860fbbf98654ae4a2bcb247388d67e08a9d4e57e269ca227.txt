@@ -1,0 +1,40 @@
+<reasoning>
+To determine how many more married people there are than children at the birthday party, we will follow these steps:
+
+1. **Calculate the number of married guests**: 
+   Since 30% of the guests are married and there are 1000 guests, we can find the number of married guests by calculating 30% of 1000.
+
+   \[
+   \text{Number of married guests} = 30\% \times 1000 = 0.30 \times 1000 = 300
+   \]
+
+2. **Calculate the number of single guests**:
+   We know that 50% of the guests are single. Therefore, we can calculate the number of single guests as follows:
+
+   \[
+   \text{Number of single guests} = 50\% \times 1000 = 0.50 \times 1000 = 500
+   \]
+
+3. **Calculate the number of children**:
+   We know that the rest of the guests are children. To find this, we first need to determine the percentage of guests who are children. Since 30% are married and 50% are single, we can calculate the percentage of children as:
+
+   \[
+   \text{Percentage of children} = 100\% - (30\% + 50\%) = 100\% - 80\% = 20\%
+   \]
+
+   Now, we will calculate the number of children:
+
+   \[
+   \text{Number of children} = 20\% \times 1000 = 0.20 \times 1000 = 200
+   \]
+
+4. **Calculate the difference between married people and children**:
+   Now that we have the number of married guests (300) and the number of children (200), we can find out how many more married people there are than children:
+
+   \[
+   \text{Difference} = \text{Number of married guests} - \text{Number of children} = 300 - 200 = 100
+   \]
+
+Therefore, there are 100 more married people than children at the party.
+</reasoning>
+<answer>100</answer>

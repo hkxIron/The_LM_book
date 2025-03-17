@@ -1,0 +1,29 @@
+<reasoning>
+To solve this problem, we will analyze the melting process of the popsicles step by step.
+
+1. **Understanding the Melting Process**: 
+   - Let’s denote the melting speed of the first popsicle as \( S \).
+   - When the first popsicle melts, the remaining 5 popsicles will start melting. According to the problem, each remaining popsicle melts twice as fast as the previous one.
+
+2. **Melting Speeds**:
+   - The first popsicle melts at speed \( S \).
+   - When the first popsicle is gone, the remaining 5 popsicles will melt at:
+     - The second popsicle melts at speed \( 2S \).
+     - The third popsicle will then melt at speed \( 4S \) (since it’s twice the melting speed of the second).
+     - The fourth popsicle will melt at speed \( 8S \).
+     - The fifth popsicle will melt at speed \( 16S \).
+     - Finally, the sixth popsicle will melt at speed \( 32S \).
+
+3. **Finding the Last Popsicle’s Melting Speed**:
+   - The last popsicle (the sixth one) melts at \( 32S \).
+
+4. **Comparing Melting Speeds**:
+   - Now, we need to find out how many times faster the last popsicle’s melting speed is compared to the first popsicle’s speed.
+   - We do this by taking the ratio of the last popsicle's speed to the first popsicle's speed:
+     \[
+     \text{Ratio} = \frac{32S}{S} = 32
+     \]
+
+Therefore, the last popsicle melts 32 times faster than the first popsicle.
+</reasoning>
+<answer>32</answer>

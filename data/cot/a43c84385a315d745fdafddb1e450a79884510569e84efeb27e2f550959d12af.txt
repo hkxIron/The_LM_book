@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we start by identifying the weights of both Jack and Anna.
+
+1. **Identify the weights:**
+   - Jack's weight = 60 pounds
+   - Anna's weight = 40 pounds
+
+2. **Determine the weight difference:**
+   We need to find out how much heavier Jack is compared to Anna. To do this, we subtract Anna's weight from Jack's weight:
+   \[
+   \text{Weight difference} = \text{Jack's weight} - \text{Anna's weight} = 60 - 40 = 20 \text{ pounds}
+   \]
+
+3. **Calculate how many 4-pound rocks are needed to balance the weight:**
+   Since Jack is 20 pounds heavier than Anna, he needs to reduce his weight by 20 pounds to equal Anna's weight. Since each rock weighs 4 pounds, we can find out how many rocks he needs by dividing the weight difference by the weight of each rock:
+   \[
+   \text{Number of rocks} = \frac{\text{Weight difference}}{\text{Weight of each rock}} = \frac{20 \text{ pounds}}{4 \text{ pounds/rock}} = 5 \text{ rocks}
+   \]
+
+4. **Conclusion:**
+   Jack needs to hold 5 rocks to balance the see-saw with Anna.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

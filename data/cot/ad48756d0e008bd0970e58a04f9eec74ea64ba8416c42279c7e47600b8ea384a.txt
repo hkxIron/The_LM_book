@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we need to determine the speeds of both the father and the son and then find out where they will meet in the hallway.
+
+1. **Define the variables:**
+   - Let the speed of the son be \( v \) meters per second.
+   - Therefore, the speed of the father will be \( 3v \) meters per second (since the father is walking three times as fast as the son).
+
+2. **Calculate their combined speed:**
+   - The total speed at which they are approaching each other is the sum of their speeds: 
+   \[
+   v + 3v = 4v \text{ meters per second}
+   \]
+
+3. **Determine the time until they meet:**
+   - The total distance between them is the length of the hallway, which is 16 meters. 
+   - We can use the formula:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   - Rearranging this formula to find time gives us:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{16}{4v} = \frac{4}{v} \text{ seconds}
+   \]
+
+4. **Calculate the distance each person travels until they meet:**
+   - The distance the son travels in that time is:
+   \[
+   \text{Distance}_{\text{son}} = v \times \text{Time} = v \times \frac{4}{v} = 4 \text{ meters}
+   \]
+   - The distance the father travels in that time is:
+   \[
+   \text{Distance}_{\text{father}} = 3v \times \text{Time} = 3v \times \frac{4}{v} = 12 \text{ meters}
+   \]
+
+5. **Determine the meeting point:**
+   - Since the distance from the father's end to the meeting point is the distance he traveled, we can conclude that they meet 12 meters from the father's end of the hallway.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>12</answer>

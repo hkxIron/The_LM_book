@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many different movies Dalton, Hunter, and Alex saw, we can break it down step by step.
+
+1. **Identify the movies watched by each person:**
+   - Dalton watched 7 movies.
+   - Hunter watched 12 movies.
+   - Alex watched 15 movies.
+
+2. **Identify the movies they watched together:**
+   - They watched 2 movies together. This means these 2 movies are counted in each person's total.
+
+3. **Calculate the unique movies for each person:**
+   - Since they watched 2 movies together, we need to subtract these from each person's total to find out how many unique movies each person watched:
+     - Dalton's unique movies: 7 - 2 = 5
+     - Hunter's unique movies: 12 - 2 = 10
+     - Alex's unique movies: 15 - 2 = 13
+
+4. **Add up the unique movies:**
+   - Now we sum up the unique movies watched by each person plus the 2 movies they watched together:
+     - Total unique movies = Dalton's unique movies + Hunter's unique movies + Alex's unique movies + movies watched together
+     - Total unique movies = 5 (Dalton) + 10 (Hunter) + 13 (Alex) + 2 (together) = 30
+
+Thus, the total number of different movies they saw is 30.
+</reasoning>
+<answer>30</answer>

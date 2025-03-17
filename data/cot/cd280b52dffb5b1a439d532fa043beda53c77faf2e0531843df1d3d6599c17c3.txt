@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate how many action figures Angela sold at the pawnshop.**  
+   She sold a quarter of her 24 pieces. To find a quarter, we calculate:
+   \[
+   \text{Quarter sold} = \frac{1}{4} \times 24 = 6
+   \]
+   So, Angela sold 6 action figures.
+
+2. **Determine how many action figures she has left after the sale.**  
+   We subtract the number sold from the original total:
+   \[
+   \text{Remaining after sale} = 24 - 6 = 18
+   \]
+   Now, Angela has 18 action figures left.
+
+3. **Find out how many action figures she gave to her daughter.**  
+   She gave one-third of the remaining 18 pieces to her daughter. To find one-third, we calculate:
+   \[
+   \text{One-third given} = \frac{1}{3} \times 18 = 6
+   \]
+   So, Angela gave 6 action figures to her daughter.
+
+4. **Calculate how many action figures Angela has left after giving some to her daughter.**  
+   We subtract the number given to her daughter from the remaining total:
+   \[
+   \text{Final count} = 18 - 6 = 12
+   \]
+   Therefore, Angela has 12 action figures left.
+</reasoning>
+<answer>12</answer>

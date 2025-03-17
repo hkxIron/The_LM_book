@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much Martha has saved at the end of the week, we will break the problem down step by step.
+
+1. **Calculate Martha's daily savings**:
+   - Martha receives a daily allowance of $12.
+   - She decides to save half of this amount each day. 
+   - Half of $12 is calculated as follows:
+     \[
+     \text{Half of } 12 = \frac{12}{2} = 6
+     \]
+   Therefore, on most days, Martha saves $6.
+
+2. **Determine the number of days in a week**:
+   - A week has 7 days.
+
+3. **Calculate the total savings for 6 days**:
+   - Martha saves $6 each day for 6 days:
+     \[
+     \text{Total savings for 6 days} = 6 \times 6 = 36
+     \]
+
+4. **Calculate savings for the 1 day she saved only a quarter**:
+   - On one day, instead of saving $6, she saves only a quarter of her daily allowance.
+   - A quarter of $12 is calculated as follows:
+     \[
+     \text{Quarter of } 12 = \frac{12}{4} = 3
+     \]
+   Therefore, on this day, Martha saves $3.
+
+5. **Calculate total savings for the week**:
+   - Now we add the savings from the 6 days and the 1 day:
+     \[
+     \text{Total savings for the week} = 36 + 3 = 39
+     \]
+
+Thus, by following these steps, we find that at the end of the week, Martha has saved a total of $39.
+</reasoning>
+<answer>39</answer>

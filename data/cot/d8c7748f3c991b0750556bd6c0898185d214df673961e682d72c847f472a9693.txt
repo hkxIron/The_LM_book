@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much Carl personally owes, we need to first calculate the total costs of the accident and then determine what 20% of that total is, since that's what he will have to pay.
+
+1. **Calculate the total costs**: 
+   We add the property damage and the medical bills to find the total costs.
+
+   \[
+   \text{Total Costs} = \text{Property Damage} + \text{Medical Bills}
+   \]
+   \[
+   \text{Total Costs} = 40,000 + 70,000 = 110,000
+   \]
+
+   Here, we see that the total costs of the accident amount to $110,000.
+
+2. **Determine the amount Carl has to pay**:
+   Since Carl's insurance covers 80% of the total costs, he is responsible for the remaining 20%. 
+
+   To find out how much this 20% is, we calculate:
+
+   \[
+   \text{Carl's Payment} = 20\% \text{ of Total Costs} = 0.20 \times \text{Total Costs}
+   \]
+   \[
+   \text{Carl's Payment} = 0.20 \times 110,000 = 22,000
+   \]
+
+   So, Carl personally owes $22,000.
+
+Therefore, the amount Carl has to pay out of pocket is:
+</reasoning>
+<answer>22000</answer>

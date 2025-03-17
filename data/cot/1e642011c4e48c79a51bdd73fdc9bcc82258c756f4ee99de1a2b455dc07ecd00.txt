@@ -1,0 +1,25 @@
+<reasoning>
+To find the total number of family members on both sides, we need to first determine how many members are on John's mother's side.
+
+1. **Calculate the number of members on the mother's side**: 
+   - John has 10 members on his father's side.
+   - His mother's side is 30% larger than his father's side.
+   - To find 30% of 10, we calculate:
+     \[
+     30\% \text{ of } 10 = 0.30 \times 10 = 3
+     \]
+   - Now, we add this increase to the number of members on the father's side:
+     \[
+     10 + 3 = 13
+     \]
+   - Therefore, there are 13 members on John's mother's side.
+
+2. **Calculate the total number of family members**:
+   - Now we add the number of members from both sides:
+     \[
+     10 \text{ (father's side)} + 13 \text{ (mother's side)} = 23
+     \]
+
+Thus, after calculating the members from both sides and summing them up, we find the total number of family members.
+</reasoning>
+<answer>23</answer>

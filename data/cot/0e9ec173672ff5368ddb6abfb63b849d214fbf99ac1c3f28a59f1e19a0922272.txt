@@ -1,0 +1,44 @@
+<reasoning>
+To find out how much Mrs. Taylor paid for the two smart televisions after applying the discount, we can follow these steps:
+
+1. **Calculate the total cost of the televisions before the discount.**
+   Each television costs $650, and she bought two of them. So we multiply the cost of one television by the number of televisions:
+   \[
+   \text{Total cost} = 2 \times 650
+   \]
+
+   Performing the multiplication:
+   \[
+   \text{Total cost} = 1300
+   \]
+   This means the total cost before any discount is $1300.
+
+2. **Calculate the amount of discount applied.**
+   The discount is 25% of the total cost. First, we need to find 25% of $1300:
+   \[
+   \text{Discount} = 0.25 \times 1300
+   \]
+
+   Performing the multiplication:
+   \[
+   \text{Discount} = 325
+   \]
+   This means that the discount amount is $325.
+
+3. **Calculate the final price after applying the discount.**
+   To find out how much Mrs. Taylor actually paid, we subtract the discount from the total cost:
+   \[
+   \text{Final price} = \text{Total cost} - \text{Discount}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Final price} = 1300 - 325
+   \]
+
+   Performing the subtraction:
+   \[
+   \text{Final price} = 975
+   \]
+   Therefore, Mrs. Taylor paid $975 for the two televisions after the discount.
+</reasoning>
+<answer>975</answer>

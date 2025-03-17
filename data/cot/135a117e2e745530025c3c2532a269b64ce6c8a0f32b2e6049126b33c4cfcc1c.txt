@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many minutes Marcy spends with her cat in total, we need to consider the time she spends petting her cat and the time she spends combing it.
+
+1. First, we know that Marcy spends 12 minutes petting her cat. This is our starting time.
+
+2. Next, we need to find out how long she spends combing her cat. According to the problem, she spends 1/3 of the time she spends petting her cat on combing.
+
+3. We calculate 1/3 of the petting time:
+   \[
+   \text{Time spent combing} = \frac{1}{3} \times 12 \, \text{minutes}
+   \]
+
+4. Performing the multiplication:
+   \[
+   \frac{1}{3} \times 12 = 4 \, \text{minutes}
+   \]
+
+5. Now, we need to find the total time she spends with her cat by adding the time spent petting and the time spent combing:
+   \[
+   \text{Total time} = \text{Time spent petting} + \text{Time spent combing}
+   \]
+   \[
+   \text{Total time} = 12 \, \text{minutes} + 4 \, \text{minutes}
+   \]
+
+6. Performing the addition:
+   \[
+   12 + 4 = 16 \, \text{minutes}
+   \]
+
+Therefore, Marcy spends a total of 16 minutes with her cat.
+</reasoning>
+<answer>16</answer>

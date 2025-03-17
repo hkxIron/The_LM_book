@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much money John has left after his purchases, we will follow these steps:
+
+1. **Identify the initial amount of money John has**: John starts with €100.
+
+2. **Calculate the total cost of his purchases**: He buys a roast for €17 and vegetables for €11. To find the total cost, we need to add these two amounts together:
+   \[
+   \text{Total Cost} = \text{Cost of Roast} + \text{Cost of Vegetables} = 17 + 11
+   \]
+   Performing the addition:
+   \[
+   17 + 11 = 28
+   \]
+   So, the total cost of his purchases is €28.
+
+3. **Subtract the total cost from the initial amount**: Now we need to subtract the total cost of his purchases from the amount of money he had initially to find out how much he has left:
+   \[
+   \text{Money Left} = \text{Initial Amount} - \text{Total Cost} = 100 - 28
+   \]
+   Performing the subtraction:
+   \[
+   100 - 28 = 72
+   \]
+
+Therefore, after his purchases, John has €72 left.
+</reasoning>
+<answer>72</answer>

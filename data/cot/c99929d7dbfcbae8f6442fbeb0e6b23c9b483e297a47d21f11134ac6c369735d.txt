@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the initial finance fee**: The initial finance fee is 5% of the amount borrowed. Since George is borrowing $100, we calculate the first week's fee as follows:
+   \[
+   \text{First week fee} = 5\% \text{ of } 100 = 0.05 \times 100 = 5
+   \]
+   So, after the first week, George owes $5 in fees.
+
+2. **Determine the fee for the second week**: The problem states that the fee doubles every week. Therefore, the fee for the second week will be:
+   \[
+   \text{Second week fee} = 2 \times \text{First week fee} = 2 \times 5 = 10
+   \]
+   After the second week, George owes an additional $10 in fees.
+
+3. **Calculate the total fees after 2 weeks**: To find the total fees George has to pay after 2 weeks, we add the fees from both weeks together:
+   \[
+   \text{Total fees} = \text{First week fee} + \text{Second week fee} = 5 + 10 = 15
+   \]
+
+Therefore, after 2 weeks, George will have to pay a total of $15 in fees.
+</reasoning>
+<answer>15</answer>

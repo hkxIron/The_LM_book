@@ -1,0 +1,18 @@
+<reasoning>
+To determine how much it will cost Monty to feed 36 family members with the fried chicken bucket and sides, we need to follow these steps:
+
+1. **Identify how many servings are in one bucket:** The problem states that one 8 piece fried chicken bucket and 2 sides can feed 6 people. Therefore, for every bucket, 6 people are served.
+
+2. **Calculate how many buckets are needed for 36 people:** To find out how many buckets Monty needs, we divide the total number of family members (36) by the number of people each bucket can feed (6):
+   \[
+   \text{Number of buckets needed} = \frac{36}{6} = 6
+   \]
+
+3. **Determine the cost for the required number of buckets:** Since each bucket costs $12.00, we can calculate the total cost for 6 buckets by multiplying the cost of one bucket by the number of buckets needed:
+   \[
+   \text{Total cost} = 6 \times 12 = 72
+   \]
+
+Therefore, Monty will need to spend $72.00 to feed his 36 family members one serving of fried chicken and sides.
+</reasoning>
+<answer>72</answer>

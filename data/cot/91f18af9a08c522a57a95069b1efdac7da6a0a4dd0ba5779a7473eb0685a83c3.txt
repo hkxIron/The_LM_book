@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine how many cards Cindy collected**: 
+   - Nicole collected 400 Pokemon cards. 
+   - Cindy collected twice as many as Nicole. 
+   - Therefore, the number of cards Cindy collected is:
+   \[
+   2 \times 400 = 800
+   \]
+
+2. **Calculate the combined total of Nicole's and Cindy's cards**:
+   - Now we need to find the total number of cards collected by both Nicole and Cindy:
+   \[
+   400 + 800 = 1200
+   \]
+
+3. **Find out how many cards Rex collected**:
+   - Rex collected half of the combined total of Nicole's and Cindy's cards. 
+   - Therefore, the number of cards Rex collected is:
+   \[
+   \frac{1200}{2} = 600
+   \]
+
+4. **Calculate how many cards Rex has after sharing with his siblings**:
+   - Rex has three younger siblings, meaning there are four people in total (Rex and his three siblings).
+   - Rex divides his 600 cards equally among the four of them. 
+   - The number of cards each person gets is:
+   \[
+   \frac{600}{4} = 150
+   \]
+
+5. **Determine how many cards Rex has left**:
+   - Since Rex has 150 cards and he is sharing them equally, he will have 150 cards after sharing.
+   - Therefore, Rex has:
+   \[
+   600 - 150 = 450
+   \]
+   However, since we are asked for the number of cards Rex has left after sharing, he still has 150 cards that he received.
+
+Thus, Rex has left with:
+</reasoning>
+<answer>150</answer>

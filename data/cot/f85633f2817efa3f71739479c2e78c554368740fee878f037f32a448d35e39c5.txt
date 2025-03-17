@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we can set up a system of equations based on the information given.
+
+1. **Define Variables**:
+   Let \( R \) be the number of marbles Rhonda has. Since Amon owns 55 marbles more than Rhonda, we can express the number of marbles Amon has as \( R + 55 \).
+
+2. **Set Up the Equation**:
+   We know that together they have a total of 215 marbles. So we can write the equation:
+   \[
+   R + (R + 55) = 215
+   \]
+
+3. **Simplify the Equation**:
+   Combine like terms:
+   \[
+   2R + 55 = 215
+   \]
+
+4. **Isolate the Variable**:
+   Subtract 55 from both sides to isolate the terms with \( R \):
+   \[
+   2R = 215 - 55
+   \]
+   Calculating the right side gives us:
+   \[
+   2R = 160
+   \]
+
+5. **Solve for \( R \)**:
+   Divide both sides by 2:
+   \[
+   R = \frac{160}{2} = 80
+   \]
+
+Now, we have found that Rhonda has 80 marbles.
+
+Therefore, we conclude:
+</reasoning>
+<answer>80</answer>

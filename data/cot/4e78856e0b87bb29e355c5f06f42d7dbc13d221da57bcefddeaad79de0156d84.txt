@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many ounces of soda Peter bought, we need to determine how much money he spent on soda. 
+
+1. **Calculate How Much Money Peter Spent:**
+   Peter brought $2 with him and left with $0.50. To find out how much he spent, we subtract the amount he left with from the amount he brought:
+   \[
+   \text{Amount spent} = \text{Initial amount} - \text{Amount left}
+   \]
+   \[
+   \text{Amount spent} = 2.00 - 0.50 = 1.50
+   \]
+   So, Peter spent $1.50 on soda.
+
+2. **Determine the Cost per Ounce:**
+   We know that the soda costs $0.25 per ounce.
+
+3. **Calculate How Many Ounces of Soda He Bought:**
+   To find out how many ounces he bought, we need to divide the total amount he spent by the cost per ounce:
+   \[
+   \text{Ounces bought} = \frac{\text{Amount spent}}{\text{Cost per ounce}}
+   \]
+   \[
+   \text{Ounces bought} = \frac{1.50}{0.25}
+   \]
+   To perform this division, we can convert $0.25 to a fraction:
+   \[
+   0.25 = \frac{1}{4}
+   \]
+   Then, dividing by a fraction is the same as multiplying by its reciprocal:
+   \[
+   \text{Ounces bought} = 1.50 \times 4 = 6
+   \]
+
+Therefore, the total number of ounces of soda Peter bought is 6 ounces.
+</reasoning>
+<answer>6</answer>

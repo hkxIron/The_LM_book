@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much money Peter has left after his purchases, we need to calculate the total cost of each item he bought and then subtract that total from the $500 he started with.
+
+1. **Calculate the cost of potatoes:**
+   - Peter bought 6 kilos of potatoes at $2 per kilo.
+   - Total cost for potatoes = 6 kilos * $2/kilo = $12.
+
+2. **Calculate the cost of tomatoes:**
+   - Peter bought 9 kilos of tomatoes at $3 per kilo.
+   - Total cost for tomatoes = 9 kilos * $3/kilo = $27.
+
+3. **Calculate the cost of cucumbers:**
+   - Peter bought 5 kilos of cucumbers at $4 per kilo.
+   - Total cost for cucumbers = 5 kilos * $4/kilo = $20.
+
+4. **Calculate the cost of bananas:**
+   - Peter bought 3 kilos of bananas at $5 per kilo.
+   - Total cost for bananas = 3 kilos * $5/kilo = $15.
+
+5. **Add up all the costs to find the total amount spent:**
+   - Total amount spent = cost of potatoes + cost of tomatoes + cost of cucumbers + cost of bananas.
+   - Total amount spent = $12 + $27 + $20 + $15 = $74.
+
+6. **Subtract the total amount spent from the initial amount:**
+   - Remaining money = initial amount - total amount spent.
+   - Remaining money = $500 - $74 = $426.
+
+Therefore, after calculating all the costs and subtracting from the initial amount, we find that Peter has $426 left.
+</reasoning>
+<answer>426</answer>

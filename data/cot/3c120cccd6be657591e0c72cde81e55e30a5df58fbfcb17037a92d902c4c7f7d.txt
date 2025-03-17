@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much money Noemi began with, we can set up an equation based on the information given.
+
+1. **Define the variables**: 
+   Let \( x \) be the amount of money Noemi began with.
+
+2. **Account for losses**:
+   Noemi lost $400 on roulette and $500 on blackjack. The total amount she lost is:
+   \[
+   400 + 500 = 900 \text{ dollars}
+   \]
+
+3. **Set up the equation**: 
+   After losing $900, Noemi still has $800 left. This means that her initial amount minus her losses equals the amount she has now:
+   \[
+   x - 900 = 800
+   \]
+
+4. **Solve for \( x \)**:
+   To find \( x \), we need to isolate it by adding $900 to both sides of the equation:
+   \[
+   x - 900 + 900 = 800 + 900
+   \]
+   Simplifying this gives:
+   \[
+   x = 1700
+   \]
+
+5. **Conclusion**: 
+   Noemi began with $1700 before her gambling losses.
+
+Therefore, after going through the reasoning and calculations step by step, we find that Noemi started with:
+</reasoning>
+<answer>1700</answer>

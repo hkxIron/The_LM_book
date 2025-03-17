@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many fish are in the lake based on the number of ducks, we will calculate the number of fish associated with each type of duck and then sum them all up.
+
+1. **Calculating fish for white ducks:**
+   - There are 3 white ducks.
+   - For every white duck, there are 5 fish.
+   - Therefore, the total number of fish for white ducks is:
+     \[
+     \text{Fish from white ducks} = 3 \text{ ducks} \times 5 \text{ fish/duck} = 15 \text{ fish}
+     \]
+
+2. **Calculating fish for black ducks:**
+   - There are 7 black ducks.
+   - For every black duck, there are 10 fish.
+   - Therefore, the total number of fish for black ducks is:
+     \[
+     \text{Fish from black ducks} = 7 \text{ ducks} \times 10 \text{ fish/duck} = 70 \text{ fish}
+     \]
+
+3. **Calculating fish for multicolored ducks:**
+   - There are 6 multicolored ducks.
+   - For every multicolored duck, there are 12 fish.
+   - Therefore, the total number of fish for multicolored ducks is:
+     \[
+     \text{Fish from multicolored ducks} = 6 \text{ ducks} \times 12 \text{ fish/duck} = 72 \text{ fish}
+     \]
+
+4. **Calculating the total number of fish in the lake:**
+   - Now, we sum all the fish calculated from each type of duck:
+     \[
+     \text{Total fish} = \text{Fish from white ducks} + \text{Fish from black ducks} + \text{Fish from multicolored ducks}
+     \]
+     \[
+     \text{Total fish} = 15 \text{ fish} + 70 \text{ fish} + 72 \text{ fish} = 157 \text{ fish}
+     \]
+
+Thus, the total number of fish in the lake is 157.
+</reasoning>
+<answer>157</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we need to calculate the total number of client requests Maia receives over 5 days and then determine how many of those requests she does not complete.
+
+1. First, let's find out how many client requests Maia receives in one day. According to the problem, she receives 6 client requests every day.
+
+2. Next, we will calculate the total number of client requests she receives over 5 days. We can do this by multiplying the daily requests by the number of days:
+   \[
+   \text{Total requests over 5 days} = \text{Daily requests} \times \text{Number of days} = 6 \times 5
+   \]
+   Performing the multiplication:
+   \[
+   6 \times 5 = 30
+   \]
+   Thus, Maia receives a total of 30 client requests over 5 days.
+
+3. Now, we need to find out how many requests Maia works on during those 5 days. Since she works on 4 client requests each day, we can find the total number of requests she completes in 5 days:
+   \[
+   \text{Total completed requests} = \text{Requests per day} \times \text{Number of days} = 4 \times 5
+   \]
+   Calculating that:
+   \[
+   4 \times 5 = 20
+   \]
+   Therefore, Maia works on a total of 20 client requests over the 5 days.
+
+4. Finally, we need to find out how many requests remain after she has worked on the completed requests. We do this by subtracting the number of completed requests from the total number of requests received:
+   \[
+   \text{Remaining requests} = \text{Total requests} - \text{Total completed requests} = 30 - 20
+   \]
+   Performing the subtraction:
+   \[
+   30 - 20 = 10
+   \]
+   So, after 5 days, Maia will have 10 client requests remaining to work on.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To find out the original bet, we need to understand the payout structure of a blackjack in this casino. The payout for a blackjack (which is a score of 21 with your first two cards) is 3:2. This means that for every $2 you bet, you will receive $3 back if you win.
+
+1. We know that the payout is $60 for the blackjack.
+2. According to the payout ratio of 3:2, we can set up the following relationship: 
+
+   If your bet is \( B \), the payout can be calculated as:
+   \[
+   \text{Payout} = \frac{3}{2} \times B
+   \]
+3. We know the payout equals $60, so we can set up the equation:
+   \[
+   \frac{3}{2} \times B = 60
+   \]
+
+4. To find \( B \), we need to isolate it. First, we can multiply both sides of the equation by \( \frac{2}{3} \) to solve for \( B \):
+   \[
+   B = 60 \times \frac{2}{3}
+   \]
+
+5. Now we perform the multiplication:
+   \[
+   B = 60 \times \frac{2}{3} = 60 \times 0.6667 \approx 40
+   \]
+
+Thus, your original bet was $40.
+</reasoning>
+<answer>40</answer>

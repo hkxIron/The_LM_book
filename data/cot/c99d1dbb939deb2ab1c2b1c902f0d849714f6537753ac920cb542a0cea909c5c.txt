@@ -1,0 +1,45 @@
+<reasoning>
+To solve this problem, we need to determine the total number of students and then account for the adults on the bus.
+
+1. **Identify the number of boys**: 
+   We are given that the number of boys on the trip is 50.
+
+2. **Calculate the number of girls**: 
+   We know that Mr. Gordon has taken \( \frac{2}{5} \) times more girls than boys. This means that for every boy, there are \( \frac{2}{5} \) more girls than boys. Since there are 50 boys, we can calculate the number of girls as follows:
+   \[
+   \text{Number of girls} = 50 + \frac{2}{5} \times 50
+   \]
+
+   We can calculate \( \frac{2}{5} \times 50 \):
+   \[
+   \frac{2}{5} \times 50 = 20
+   \]
+
+   Therefore, the total number of girls is:
+   \[
+   \text{Number of girls} = 50 + 20 = 70
+   \]
+
+3. **Calculate the total number of students**: 
+   Now, we can find the total number of students (boys + girls):
+   \[
+   \text{Total number of students} = 50 \text{ (boys)} + 70 \text{ (girls)} = 120
+   \]
+
+4. **Account for the adults**:
+   The problem states that the bus has a driver and an assistant. We can assume that Mr. Gordon, as the teacher, is also included in the count of adults. Therefore, we have:
+   - 1 driver
+   - 1 assistant
+   - 1 teacher (Mr. Gordon)
+
+   That gives us a total of 3 adults.
+
+5. **Calculate the total number of people on the bus**: 
+   To find the total number of people on the bus, we add the total number of students to the number of adults:
+   \[
+   \text{Total number of people} = 120 \text{ (students)} + 3 \text{ (adults)} = 123
+   \]
+
+Therefore, the total number of people on the bus is:
+</reasoning>
+<answer>123</answer>

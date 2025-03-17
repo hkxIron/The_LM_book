@@ -1,0 +1,70 @@
+<reasoning>
+Let's denote the number of vampires as \( V \) and the number of werewolves as \( W \).
+
+1. **Understanding the problem:** 
+   - Van Helsing earns $5 for each vampire and $10 for each werewolf.
+   - He removes half of the vampires, so the number of vampires removed is \( \frac{V}{2} \).
+   - He removes 8 werewolves.
+   - His total earnings from these removals is $105.
+   - There are 4 times as many werewolves as vampires, which gives us the equation \( W = 4V \).
+
+2. **Setting up the equation for earnings:**
+   The total earnings can be calculated as follows:
+   \[
+   \text{Earnings} = (5 \text{ dollars per vampire} \times \frac{V}{2} \text{ vampires}) + (10 \text{ dollars per werewolf} \times 8 \text{ werewolves})
+   \]
+   This can be simplified to:
+   \[
+   \text{Earnings} = 5 \times \frac{V}{2} + 10 \times 8
+   \]
+   Simplifying further:
+   \[
+   \text{Earnings} = \frac{5V}{2} + 80
+   \]
+
+3. **Setting the earnings equal to $105:**
+   Now we can set up the equation:
+   \[
+   \frac{5V}{2} + 80 = 105
+   \]
+
+4. **Solving for \( V \):**
+   First, subtract 80 from both sides:
+   \[
+   \frac{5V}{2} = 105 - 80
+   \]
+   \[
+   \frac{5V}{2} = 25
+   \]
+   Now, multiply both sides by 2 to eliminate the fraction:
+   \[
+   5V = 50
+   \]
+   Finally, divide by 5:
+   \[
+   V = 10
+   \]
+
+5. **Finding the number of werewolves \( W \):**
+   Using the relationship \( W = 4V \):
+   \[
+   W = 4 \times 10 = 40
+   \]
+
+6. **Calculating the percentage of werewolves removed:**
+   Van Helsing removed 8 werewolves out of a total of 40 werewolves. Therefore, the percentage of werewolves removed can be calculated as:
+   \[
+   \text{Percentage} = \left( \frac{\text{Number of werewolves removed}}{\text{Total number of werewolves}} \right) \times 100
+   \]
+   Substituting the values:
+   \[
+   \text{Percentage} = \left( \frac{8}{40} \right) \times 100
+   \]
+   Simplifying:
+   \[
+   \text{Percentage} = 0.2 \times 100 = 20\%
+   \]
+
+Therefore, the percentage of the werewolves that Van Helsing removed is:
+</reasoning>
+<answer>20</answer>

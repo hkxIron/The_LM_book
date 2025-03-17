@@ -1,0 +1,30 @@
+<reasoning>
+To find the total cost of raising the child, we will break it down into different periods of their life and then sum the costs.
+
+1. **First 8 years**: 
+   - The cost per year is $10,000.
+   - Total cost for the first 8 years = $10,000/year * 8 years.
+   - Calculation: $10,000 * 8 = $80,000.
+
+2. **Next 10 years (from age 8 to age 18)**:
+   - The cost per year during this period is twice the cost of the first 8 years, which is $10,000 * 2 = $20,000.
+   - Total cost for these 10 years = $20,000/year * 10 years.
+   - Calculation: $20,000 * 10 = $200,000.
+
+3. **University tuition**:
+   - The cost for university is $250,000.
+
+Now, we sum all these costs:
+- Total cost = Cost for first 8 years + Cost for next 10 years + University tuition.
+- Calculation: $80,000 + $200,000 + $250,000.
+
+Let's calculate that step-by-step:
+- $80,000 + $200,000 = $280,000.
+- Then, $280,000 + $250,000 = $530,000.
+
+Finally, since John pays for half the cost of raising the child, we need to find half of the total cost:
+- Half of $530,000 = $530,000 / 2 = $265,000.
+
+Therefore, the total amount John pays for raising the child is:
+</reasoning>
+<answer>265000</answer>

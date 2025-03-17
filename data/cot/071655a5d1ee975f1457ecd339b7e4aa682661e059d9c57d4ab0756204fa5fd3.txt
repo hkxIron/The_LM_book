@@ -1,0 +1,46 @@
+<reasoning>
+Let's define the number of phone chargers that Anna has as \( x \).
+
+According to the problem, Anna has five times more laptop chargers than phone chargers. Therefore, the number of laptop chargers she has can be expressed as \( 5x \).
+
+Now we can set up an equation to represent the total number of chargers Anna has. The total number of chargers is the sum of the phone chargers and the laptop chargers:
+
+\[
+x + 5x = 24
+\]
+
+Now, let's combine the terms on the left side of the equation:
+
+\[
+6x = 24
+\]
+
+Next, we need to solve for \( x \) by dividing both sides of the equation by 6:
+
+\[
+x = \frac{24}{6}
+\]
+
+Calculating the right side gives:
+
+\[
+x = 4
+\]
+
+Thus, Anna has 4 phone chargers. 
+
+To confirm our solution, we can also calculate the number of laptop chargers:
+
+\[
+5x = 5 \times 4 = 20
+\]
+
+Now we can check the total number of chargers:
+
+\[
+4 \text{ (phone chargers)} + 20 \text{ (laptop chargers)} = 24 \text{ chargers}
+\]
+
+This checks out, confirming our solution is correct.
+</reasoning>
+<answer>4</answer>

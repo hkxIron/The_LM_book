@@ -1,0 +1,50 @@
+<reasoning>
+To determine the lowest grade the absent student can get for the class to still achieve an average score higher than 75%, we need to follow these steps:
+
+1. **Calculate the total score of the students who took the quiz:** 
+   Since there are 24 students present (25 total minus 1 absent), and their average score is 77%, we can find the total score of these 24 students. The average score is calculated as follows:
+   \[
+   \text{Total Score} = \text{Average Score} \times \text{Number of Students}
+   \]
+   Thus,
+   \[
+   \text{Total Score} = 77\% \times 24
+   \]
+   To express 77% as a decimal, we use \(0.77\):
+   \[
+   \text{Total Score} = 0.77 \times 24 = 18.48
+   \]
+   Since scores are typically whole numbers, we multiply by 100 to convert the percentage to a whole score:
+   \[
+   \text{Total Score} = 77 \times 24 = 1848
+   \]
+
+2. **Calculate the total score required for the class to get a pizza party:**
+   To find the total score needed for an average greater than 75%, we calculate the total score required for all 25 students:
+   \[
+   \text{Required Total Score} = 75\% \times 25 = 75 \times 25 = 1875
+   \]
+
+3. **Determine the score needed from the absent student:**
+   We need to find out what score the absent student needs to achieve to ensure the total score for all 25 students is at least 1875. We can set up the equation:
+   \[
+   \text{Total Score of 24 students} + \text{Score of Absent Student} \geq 1875
+   \]
+   Substituting in the total score of the 24 students:
+   \[
+   1848 + \text{Score of Absent Student} \geq 1875
+   \]
+
+4. **Solve for the Score of the Absent Student:**
+   Rearranging the inequality we have:
+   \[
+   \text{Score of Absent Student} \geq 1875 - 1848
+   \]
+   This simplifies to:
+   \[
+   \text{Score of Absent Student} \geq 27
+   \]
+
+Thus, the lowest grade the absent student can get for the class to still have a pizza party is 27.
+</reasoning>
+<answer>27</answer>

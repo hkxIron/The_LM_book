@@ -1,0 +1,26 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify how many turtles Kristen has**: The problem states that Kristen has 12 turtles. We will use this information to calculate how many turtles Kris has.
+
+2. **Calculate how many turtles Kris has**: According to the problem, Kris has 1/4 as many turtles as Kristen. So, we need to calculate:
+   \[
+   \text{Kris's turtles} = \frac{1}{4} \times \text{Kristen's turtles} = \frac{1}{4} \times 12 = 3
+   \]
+   Thus, Kris has 3 turtles.
+
+3. **Calculate how many turtles Trey has**: The problem states that Trey has 7 times as many turtles as Kris. Therefore, we calculate:
+   \[
+   \text{Trey's turtles} = 7 \times \text{Kris's turtles} = 7 \times 3 = 21
+   \]
+   So, Trey has 21 turtles.
+
+4. **Determine how many more turtles Trey has than Kristen**: Now we need to find out how many more turtles Trey has than Kristen. We will subtract the number of turtles Kristen has from the number of turtles Trey has:
+   \[
+   \text{Difference} = \text{Trey's turtles} - \text{Kristen's turtles} = 21 - 12 = 9
+   \]
+   Thus, Trey has 9 more turtles than Kristen.
+
+In summary, we have determined the number of turtles each person has and calculated the difference between Trey's and Kristen's turtles.
+</reasoning>
+<answer>9</answer>

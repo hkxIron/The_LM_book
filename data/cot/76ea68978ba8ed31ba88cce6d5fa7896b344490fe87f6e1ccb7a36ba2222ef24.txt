@@ -1,0 +1,27 @@
+<reasoning>
+To find out which box of macaroni and cheese has the better value, we need to calculate the price per ounce for each box. We'll do this step by step.
+
+1. **Calculate the price per ounce for the larger box:**
+   - The larger box has a weight of 30 ounces and costs $4.80.
+   - First, we convert the price into cents: $4.80 = 480 cents.
+   - Now, we calculate the price per ounce by dividing the total price by the number of ounces:
+     \[
+     \text{Price per ounce for larger box} = \frac{480 \text{ cents}}{30 \text{ ounces}} = 16 \text{ cents per ounce}
+     \]
+
+2. **Calculate the price per ounce for the smaller box:**
+   - The smaller box has a weight of 20 ounces and costs $3.40.
+   - Again, we convert the price into cents: $3.40 = 340 cents.
+   - We calculate the price per ounce by dividing the total price by the number of ounces:
+     \[
+     \text{Price per ounce for smaller box} = \frac{340 \text{ cents}}{20 \text{ ounces}} = 17 \text{ cents per ounce}
+     \]
+
+3. **Compare the price per ounce of both boxes:**
+   - The price per ounce for the larger box is 16 cents per ounce.
+   - The price per ounce for the smaller box is 17 cents per ounce.
+   - Since 16 cents is less than 17 cents, the larger box provides the better value.
+
+Therefore, the box with the better value is the larger box, and its price per ounce is 16 cents.
+</reasoning>
+<answer>16</answer>

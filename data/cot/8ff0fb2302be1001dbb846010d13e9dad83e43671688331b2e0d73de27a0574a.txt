@@ -1,0 +1,40 @@
+<reasoning>
+To figure out how much money the truck driver makes after driving for 10 hours, we will follow these steps:
+
+1. **Calculate the total distance driven in 10 hours.**
+   - The truck driver drives at a rate of 30 miles per hour. 
+   - If she drives for 10 hours, the total distance covered is:
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time} = 30 \, \text{miles/hour} \times 10 \, \text{hours} = 300 \, \text{miles}
+     \]
+
+2. **Calculate the total earnings from driving.**
+   - She earns $0.50 per mile. 
+   - For 300 miles, her total earnings would be:
+     \[
+     \text{Earnings} = \text{Distance} \times \text{Rate per mile} = 300 \, \text{miles} \times 0.50 \, \text{dollars/mile} = 150 \, \text{dollars}
+     \]
+
+3. **Calculate the total gas consumption.**
+   - The truck driver can drive 10 miles per gallon. 
+   - For 300 miles, the total gallons of gas used would be:
+     \[
+     \text{Gallons used} = \frac{\text{Distance}}{\text{Miles per gallon}} = \frac{300 \, \text{miles}}{10 \, \text{miles/gallon}} = 30 \, \text{gallons}
+     \]
+
+4. **Calculate the total cost of gas.**
+   - The cost of gas is $2 per gallon. 
+   - Therefore, the total cost for 30 gallons would be:
+     \[
+     \text{Gas Cost} = \text{Gallons used} \times \text{Cost per gallon} = 30 \, \text{gallons} \times 2 \, \text{dollars/gallon} = 60 \, \text{dollars}
+     \]
+
+5. **Calculate the net earnings.**
+   - Now we subtract the total cost of gas from the total earnings to find the net earnings:
+     \[
+     \text{Net Earnings} = \text{Earnings} - \text{Gas Cost} = 150 \, \text{dollars} - 60 \, \text{dollars} = 90 \, \text{dollars}
+     \]
+
+Therefore, after driving for 10 hours, the truck driver makes a net income of $90.
+</reasoning>
+<answer>90</answer>

@@ -1,0 +1,32 @@
+<reasoning>
+Let's denote the number of books that Susan has as \( S \). According to the problem, Lidia's collection is four times bigger than Susan's. Therefore, we can express Lidia's collection as \( 4S \).
+
+Now, we know that the total number of books that both Lidia and Susan have together is 3000. We can set up the following equation based on this information:
+
+\[
+S + 4S = 3000
+\]
+
+This simplifies to:
+
+\[
+5S = 3000
+\]
+
+Next, we need to solve for \( S \) by dividing both sides of the equation by 5:
+
+\[
+S = \frac{3000}{5}
+\]
+
+Now, performing the division:
+
+\[
+S = 600
+\]
+
+Thus, Susan has 600 books in her collection. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>600</answer>

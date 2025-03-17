@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many swans will be in the pond in ten years, we need to determine how many times the number of swans doubles in that time period.
+
+1. **Identify the time frame**: We know that the swans double every 2 years. We need to find out how many 2-year periods fit into 10 years.
+
+   \[
+   \text{Number of 2-year periods in 10 years} = \frac{10 \text{ years}}{2 \text{ years/period}} = 5 \text{ periods}
+   \]
+
+2. **Determine the doubling effect**: Since the number of swans doubles every period, we can use the formula for doubling, which is:
+
+   \[
+   \text{Number of swans after } n \text{ periods} = \text{initial number of swans} \times 2^n
+   \]
+
+   Here, the initial number of swans is 15, and \( n = 5 \).
+
+3. **Calculate the number of swans after 5 periods**:
+
+   \[
+   \text{Number of swans after 5 periods} = 15 \times 2^5
+   \]
+
+   First, we need to calculate \( 2^5 \):
+
+   \[
+   2^5 = 32
+   \]
+
+   Now, multiply this by the initial number of swans:
+
+   \[
+   15 \times 32 = 480
+   \]
+
+4. **Conclusion**: After 10 years, the number of swans in the pond will be 480.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>480</answer>

@@ -1,0 +1,58 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate Christine's total commission:**
+   Christine earns a 12% commission on the total sales. To find her commission, we need to multiply her total sales by the commission rate.
+
+   \[
+   \text{Total Sales} = 24000 \text{ dollars}
+   \]
+   \[
+   \text{Commission Rate} = 12\% = 0.12
+   \]
+   \[
+   \text{Total Commission} = \text{Total Sales} \times \text{Commission Rate} = 24000 \times 0.12
+   \]
+
+   Now, calculating that:
+   \[
+   24000 \times 0.12 = 2880 \text{ dollars}
+   \]
+
+   So, Christine's total commission for the month is $2880.
+
+2. **Determine how much she allocates to personal needs:**
+   According to the problem, 60% of her total earnings (commission) will go to her personal needs.
+
+   \[
+   \text{Percentage for Personal Needs} = 60\% = 0.60
+   \]
+   \[
+   \text{Amount for Personal Needs} = \text{Total Commission} \times \text{Percentage for Personal Needs} = 2880 \times 0.60
+   \]
+
+   Now, calculating that:
+   \[
+   2880 \times 0.60 = 1728 \text{ dollars}
+   \]
+
+   So, Christine allocates $1728 to her personal needs.
+
+3. **Calculate how much she saves:**
+   The remaining amount from her total commission is what she saves. Since she allocates 60% to personal needs, she saves the remaining 40%.
+
+   \[
+   \text{Percentage Saved} = 100\% - 60\% = 40\% = 0.40
+   \]
+   \[
+   \text{Amount Saved} = \text{Total Commission} \times \text{Percentage Saved} = 2880 \times 0.40
+   \]
+
+   Now, calculating that:
+   \[
+   2880 \times 0.40 = 1152 \text{ dollars}
+   \]
+
+   Therefore, Christine saves $1152 this month.
+</reasoning>
+<answer>1152</answer>

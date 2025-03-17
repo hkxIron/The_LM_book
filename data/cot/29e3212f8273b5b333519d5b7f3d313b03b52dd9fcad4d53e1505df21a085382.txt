@@ -1,0 +1,47 @@
+<reasoning>
+Let's start by breaking down the problem step by step.
+
+1. **Identify the initial numbers of elephants and hippos**:
+   - Initially, there are 20 elephants and 35 hippos.
+
+2. **Calculate the number of female hippos**:
+   - We know that the number of female hippos is \( \frac{5}{7} \) of the total number of hippos. 
+   - To find the number of female hippos, we calculate:
+     \[
+     \text{Number of female hippos} = \frac{5}{7} \times 35 = 25
+     \]
+   - This means there are 25 female hippos.
+
+3. **Calculate the total number of new baby hippos**:
+   - Each female hippo gives birth to 5 new baby hippos. Therefore, the total number of new baby hippos is calculated as follows:
+     \[
+     \text{Total baby hippos} = 25 \text{ female hippos} \times 5 \text{ babies each} = 125
+     \]
+
+4. **Determine the total number of hippos after the births**:
+   - Initially, there were 35 hippos, and now we add the 125 new baby hippos:
+     \[
+     \text{Total hippos after births} = 35 + 125 = 160
+     \]
+
+5. **Determine the total number of elephants after accounting for the information provided in the problem**:
+   - According to the problem, there are ten more newborn elephants than baby hippos. Since we found that there are 125 baby hippos, we can calculate the number of newborn elephants:
+     \[
+     \text{Newborn elephants} = 125 + 10 = 135
+     \]
+
+6. **Calculate the total number of elephants**:
+   - We start with 20 elephants and add the newborn elephants:
+     \[
+     \text{Total elephants after births} = 20 + 135 = 155
+     \]
+
+7. **Calculate the total number of animals**:
+   - Now, we add the total number of elephants and the total number of hippos to find the total number of animals:
+     \[
+     \text{Total animals} = 155 \text{ elephants} + 160 \text{ hippos} = 315
+     \]
+
+Therefore, the total number of animals is:
+</reasoning>
+<answer>315</answer>

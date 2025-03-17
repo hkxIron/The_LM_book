@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to calculate the total time Mike spends watching TV and playing video games over the course of a week.
+
+1. **Calculate the time spent watching TV in a week:**
+   Mike watches TV for 4 hours every day. There are 7 days in a week, so we multiply the hours per day by the number of days:
+   \[
+   \text{Total TV time} = 4 \text{ hours/day} \times 7 \text{ days} = 28 \text{ hours}
+   \]
+   This means Mike spends 28 hours watching TV in a week.
+
+2. **Calculate the time spent playing video games:**
+   On the days Mike plays video games, he plays for half as long as he watches TV. Since he watches TV for 4 hours a day, the time he spends playing video games on those days is:
+   \[
+   \text{Time playing video games per day} = \frac{4 \text{ hours}}{2} = 2 \text{ hours}
+   \]
+   He plays video games for 3 days a week, so we multiply the daily gaming time by the number of gaming days:
+   \[
+   \text{Total gaming time} = 2 \text{ hours/day} \times 3 \text{ days} = 6 \text{ hours}
+   \]
+   Thus, Mike spends 6 hours playing video games in a week.
+
+3. **Calculate the total time spent watching TV and playing video games in a week:**
+   To find the total time spent, we add the total TV time to the total gaming time:
+   \[
+   \text{Total time} = \text{Total TV time} + \text{Total gaming time} = 28 \text{ hours} + 6 \text{ hours} = 34 \text{ hours}
+   \]
+
+Therefore, Mike spends a total of 34 hours watching TV and playing video games in a week.
+</reasoning>
+<answer>34</answer>

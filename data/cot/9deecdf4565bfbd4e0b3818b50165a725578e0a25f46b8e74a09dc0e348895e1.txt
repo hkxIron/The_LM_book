@@ -1,0 +1,39 @@
+<reasoning>
+To find Mark's score, we can follow these steps:
+
+1. **Identify the variables**: Let's denote the least score as "L", Mark's score as "M", and the highest score as "H". We know from the problem that H = 98.
+
+2. **Determine the range**: The range of scores is given as 75. The range is calculated as the difference between the highest and the least score. Therefore, we can write the equation for the range as:
+   \[
+   \text{Range} = H - L
+   \]
+   Substituting the known values:
+   \[
+   75 = 98 - L
+   \]
+
+3. **Solve for L (the least score)**: Rearranging the equation to find L:
+   \[
+   L = 98 - 75
+   \]
+   Calculating this gives:
+   \[
+   L = 23
+   \]
+
+4. **Calculate Mark's score (M)**: According to the problem, Mark scored twice as much as the least score. Therefore, we can express Mark's score as:
+   \[
+   M = 2L
+   \]
+   Substituting the value of L we found:
+   \[
+   M = 2 \times 23
+   \]
+   Calculating this gives:
+   \[
+   M = 46
+   \]
+
+Thus, after following the steps and reasoning through the problem, we find that Mark's score is:
+</reasoning>
+<answer>46</answer>

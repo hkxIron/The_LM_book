@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much mass of apples Ali has left, we first need to calculate the total mass of apples he initially had. 
+
+1. **Calculate the total mass of apples:**
+   - We have three types of apples with the following masses:
+     - Kidney apples: 23 kg
+     - Golden apples: 37 kg
+     - Canada apples: 14 kg
+   - To find the total mass, we will sum these values:
+     \[
+     \text{Total mass} = 23 \, \text{kg} + 37 \, \text{kg} + 14 \, \text{kg}
+     \]
+   - Now we perform the addition:
+     \[
+     23 + 37 = 60
+     \]
+     \[
+     60 + 14 = 74
+     \]
+   - Thus, the total mass of apples is 74 kg.
+
+2. **Subtract the mass of apples sold:**
+   - Next, we know that 36 kg of apples were sold by noon. To find out how much mass of apples is left, we will subtract the mass of apples sold from the total mass.
+   \[
+   \text{Mass left} = \text{Total mass} - \text{Mass sold}
+   \]
+   \[
+   \text{Mass left} = 74 \, \text{kg} - 36 \, \text{kg}
+   \]
+   - Now we perform the subtraction:
+   \[
+   74 - 36 = 38
+   \]
+   - Therefore, the mass of apples that Ali has left is 38 kg.
+
+Thus, after performing the calculations, we conclude that Ali has 38 kg of apples remaining.
+</reasoning>
+<answer>38</answer>

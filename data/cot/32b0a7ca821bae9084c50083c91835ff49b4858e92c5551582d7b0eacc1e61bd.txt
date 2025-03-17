@@ -1,0 +1,41 @@
+<reasoning>
+To determine the longest boat Mitch can buy, we first need to calculate how much of his savings will be available for purchasing the boat after accounting for the costs of the license, registration, and docking fees.
+
+1. **Calculate the total amount Mitch needs to reserve for fees:**
+   - Mitch needs to keep $500 for license and registration.
+   - He also needs three times that amount for docking fees.
+   - So, the docking fees will be: \( 3 \times 500 = 1500 \).
+
+   Adding both amounts together:
+   \[
+   500 + 1500 = 2000
+   \]
+
+   Therefore, Mitch needs to reserve $2000 for fees.
+
+2. **Calculate the amount available for the boat:**
+   - Mitch has a total of $20,000 saved.
+   - After reserving $2000 for fees, the amount available for the boat is:
+   \[
+   20000 - 2000 = 18000
+   \]
+
+3. **Determine the cost of the boat per foot:**
+   - The cost of the boat is $1500 per foot.
+
+4. **Calculate the maximum length of the boat Mitch can buy:**
+   - To find out how many feet of boat he can afford, we divide the available amount by the cost per foot:
+   \[
+   \text{Maximum length} = \frac{18000}{1500}
+   \]
+
+   Performing the division:
+   \[
+   \frac{18000}{1500} = 12
+   \]
+
+   This means Mitch can buy a boat that is 12 feet long.
+
+Therefore, Mitch can buy a boat that is a maximum of 12 feet in length.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,19 @@
+<reasoning>
+To solve the problem, I will first determine the total number of children (girls and boys) at the park and then use that information to find out how many parents are present.
+
+1. **Calculate the total number of children:**
+   - There are 14 girls and 11 boys.
+   - Total children = Number of girls + Number of boys = 14 + 11 = 25.
+
+2. **Calculate the total number of people in the park:**
+   - We know that each of the 3 playgroups contains 25 people.
+   - Total people = Number of groups × Number of people per group = 3 × 25 = 75.
+
+3. **Determine the number of parents:**
+   - We have already found that there are 25 children in total.
+   - To find the number of parents, we subtract the number of children from the total number of people in the park.
+   - Number of parents = Total people - Total children = 75 - 25 = 50.
+
+Therefore, there are 50 parents at the park.
+</reasoning>
+<answer>50</answer>

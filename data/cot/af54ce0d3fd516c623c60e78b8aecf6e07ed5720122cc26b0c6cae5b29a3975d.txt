@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **First Year**: Grandma Molly created 4 statues.
+   - Total statues after the first year = 4.
+
+2. **Second Year**: She quadrupled the number of statues.
+   - To find the number of statues, we take the original 4 statues and multiply by 4:
+   \[
+   4 \times 4 = 16
+   \]
+   - Total statues after the second year = 16.
+
+3. **Third Year**: She added 12 statues but lost 3 due to a hail storm.
+   - First, we add the 12 new statues to the 16 existing statues:
+   \[
+   16 + 12 = 28
+   \]
+   - Then, we subtract the 3 broken statues:
+   \[
+   28 - 3 = 25
+   \]
+   - Total statues after the third year = 25.
+
+4. **Fourth Year**: She added twice as many statues as had been broken the year before.
+   - Since 3 statues were broken, we calculate twice that amount:
+   \[
+   2 \times 3 = 6
+   \]
+   - We then add these 6 new statues to the 25 existing statues:
+   \[
+   25 + 6 = 31
+   \]
+   - Total statues after the fourth year = 31.
+
+Therefore, the total number of turtle statues on Grandma Molly's front lawn at the end of the four years is:
+</reasoning>
+<answer>31</answer>

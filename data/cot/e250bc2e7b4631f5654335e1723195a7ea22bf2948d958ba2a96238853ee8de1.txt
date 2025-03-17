@@ -1,0 +1,21 @@
+<reasoning>
+First, let's find out the number of students that receive an average of $6 per day and the number of students that receive an average of $4 per day.
+
+2/3 of the 60 students receive an average of $6 per day. To find this, we multiply 2/3 by 60:
+(2/3)*60 = 40 students
+
+The rest of the students, which means 1 - 2/3 = 1/3 of the students, receive an average of $4 per day. We find this by multiplying 1/3 by 60: 
+(1/3)*60 = 20 students
+
+Next, we find the total daily allowance for each group of students:
+
+For the 40 students who get $6 per day, the total daily allowance is 40*$6 = $240.
+
+For the 20 students who get $4 per day, the total daily allowance is 20*$4 = $80.
+
+Finally, we add these two amounts together to find the total daily allowance for all 60 students: 
+$240 + $80 = $320.
+
+So, the total amount of money these 60 students get in a day is $320.
+</reasoning>
+<answer>320</answer>

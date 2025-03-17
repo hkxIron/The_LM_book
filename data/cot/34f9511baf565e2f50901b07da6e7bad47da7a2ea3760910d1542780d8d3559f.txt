@@ -1,0 +1,30 @@
+<reasoning>
+First, let's figure out how many bananas are in the piles that have 9 hands each. 
+
+Since each hand has 14 bananas and there are 9 hands per pile, we can multiply 14 bananas/hand by 9 hands/pile to find the number of bananas per pile. 
+
+14 bananas/hand * 9 hands/pile = 126 bananas/pile
+
+We know there are 6 piles like this, so we multiply the bananas per pile by the number of piles:
+
+126 bananas/pile * 6 piles = 756 bananas
+
+Next, let's figure out how many bananas are in the piles that have 12 hands. Each hand in these piles has 9 bananas, so 
+
+9 bananas/hand * 12 hands/pile = 108 bananas/pile
+
+There are 4 piles like this (since 10 total piles - 6 piles = 4 piles), so:
+
+108 bananas/pile * 4 piles = 432 bananas
+
+Now we add the total number of bananas from the two types of piles together to get the total number of bananas:
+
+756 bananas + 432 bananas = 1188 bananas
+
+Finally, we divide the total number of bananas by the number of monkeys to find out how many bananas each monkey gets:
+
+1188 bananas / 12 monkeys = 99 bananas/monkey
+
+So, each monkey gets 99 bananas.
+</reasoning>
+<answer>99</answer>

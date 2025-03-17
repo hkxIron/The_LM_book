@@ -1,0 +1,39 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the number of Judges under 30 years old**: 
+   We know that 10 percent of the Judges are under 30 years old. Since there are 40 Judges in total, we can calculate the number of Judges under 30 by multiplying the total number of Judges by the percentage (expressed as a decimal).
+
+   \[
+   \text{Judges under 30} = 40 \times 0.10 = 4
+   \]
+
+   Here, we multiplied 40 by 0.10 (10 percent) to find that there are 4 Judges under 30 years old.
+
+2. **Determine the number of Judges aged 30-50 years old**:
+   Next, we know that 60 percent of the Judges are between the ages of 30 and 50. We can calculate this similarly.
+
+   \[
+   \text{Judges aged 30-50} = 40 \times 0.60 = 24
+   \]
+
+   We multiplied 40 by 0.60 (60 percent) to find that there are 24 Judges aged between 30 and 50 years.
+
+3. **Calculate the number of Judges over 50 years old**:
+   To find the number of Judges over 50 years old, we need to subtract the number of Judges under 30 and those aged 30-50 from the total number of Judges.
+
+   \[
+   \text{Judges over 50} = 40 - (\text{Judges under 30} + \text{Judges aged 30-50})
+   \]
+
+   Substituting the values we calculated:
+
+   \[
+   \text{Judges over 50} = 40 - (4 + 24) = 40 - 28 = 12
+   \]
+
+   This calculation tells us that there are 12 Judges over the age of 50.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>12</answer>

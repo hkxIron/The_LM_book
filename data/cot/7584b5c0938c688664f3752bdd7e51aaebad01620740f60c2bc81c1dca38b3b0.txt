@@ -1,0 +1,24 @@
+<reasoning>
+First, we need to determine how many crates Lizzy will need to ship the total weight of fish.
+
+1. **Calculate the number of crates needed**:
+   We know that each crate can hold 30 pounds of fish. To find the number of crates needed, we divide the total weight of fish (540 pounds) by the weight capacity of each crate (30 pounds).
+
+   \[
+   \text{Number of crates} = \frac{\text{Total weight of fish}}{\text{Weight per crate}} = \frac{540 \text{ pounds}}{30 \text{ pounds/crate}} = 18 \text{ crates}
+   \]
+
+   This means Lizzy needs 18 crates to ship all 540 pounds of fish.
+
+2. **Calculate the total shipping cost**:
+   Now that we know how many crates Lizzy needs, we can calculate the total shipping cost. The cost to ship one crate is $1.5. Therefore, the total cost is found by multiplying the number of crates by the cost per crate.
+
+   \[
+   \text{Total cost} = \text{Number of crates} \times \text{Cost per crate} = 18 \text{ crates} \times 1.5 \text{ dollars/crate} = 27 \text{ dollars}
+   \]
+
+   Thus, Lizzy will pay a total of $27 for the shipment.
+
+Finally, the total amount Lizzy will pay for shipping is:
+</reasoning>
+<answer>27</answer>

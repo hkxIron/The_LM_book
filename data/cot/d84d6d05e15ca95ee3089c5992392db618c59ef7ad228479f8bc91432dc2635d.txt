@@ -1,0 +1,21 @@
+<reasoning>
+To find out how long Connor's puppy sleeps, we'll start by determining how long Luke sleeps first, since his sleep duration is based on Connor's.
+
+1. **Calculate Luke's sleep duration**:
+   - Connor sleeps for 6 hours.
+   - Luke sleeps 2 hours longer than Connor. 
+   - Therefore, we add 2 hours to Connor's sleep duration:
+     \[
+     \text{Luke's sleep} = \text{Connor's sleep} + 2 = 6 + 2 = 8 \text{ hours}
+     \]
+
+2. **Calculate the puppy's sleep duration**:
+   - The puppy sleeps twice as long as Luke.
+   - Since we found that Luke sleeps for 8 hours, we can calculate the puppy's sleep by multiplying Luke's sleep duration by 2:
+     \[
+     \text{Puppy's sleep} = 2 \times \text{Luke's sleep} = 2 \times 8 = 16 \text{ hours}
+     \]
+
+Therefore, Connor's puppy sleeps for 16 hours.
+</reasoning>
+<answer>16</answer>

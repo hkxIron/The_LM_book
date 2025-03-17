@@ -1,0 +1,48 @@
+<reasoning>
+To solve this problem, we need to determine how much money each machine holds and then find out how many machines there are in total.
+
+1. **Calculate the value of the quarters in one machine:**
+   - There are 80 quarters in each machine.
+   - The value of a quarter is $0.25.
+   - Therefore, the total value of quarters in one machine is:
+     \[
+     80 \text{ quarters} \times 0.25 \text{ dollars/quarter} = 20 \text{ dollars}
+     \]
+
+2. **Calculate the value of the dimes in one machine:**
+   - There are 100 dimes in each machine.
+   - The value of a dime is $0.10.
+   - Therefore, the total value of dimes in one machine is:
+     \[
+     100 \text{ dimes} \times 0.10 \text{ dollars/dime} = 10 \text{ dollars}
+     \]
+
+3. **Calculate the total value of change in one machine:**
+   - Now, we add the value of the quarters and dimes together to find the total money in one machine:
+     \[
+     20 \text{ dollars (from quarters)} + 10 \text{ dollars (from dimes)} = 30 \text{ dollars}
+     \]
+
+4. **Determine the total amount Erin has after emptying all machines:**
+   - According to the problem, Erin has a total of $90 after cashing in the change from all the machines.
+
+5. **Set up the equation to find the number of machines:**
+   - Let \( x \) represent the number of machines.
+   - The total amount of money from \( x \) machines is:
+     \[
+     30 \text{ dollars/machine} \times x \text{ machines} = 90 \text{ dollars}
+     \]
+
+6. **Solve for \( x \):**
+   - We can set up the equation:
+     \[
+     30x = 90
+     \]
+   - Now, divide both sides by 30 to isolate \( x \):
+     \[
+     x = \frac{90}{30} = 3
+     \]
+
+Therefore, the number of machines in the launderette is 3.
+</reasoning>
+<answer>3</answer>

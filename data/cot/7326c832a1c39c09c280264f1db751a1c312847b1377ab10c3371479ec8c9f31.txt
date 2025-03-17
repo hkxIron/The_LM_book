@@ -1,0 +1,32 @@
+<reasoning>
+To find the total length of Debra's show, we need to define the lengths of the interview segments based on the information provided.
+
+1. **Define the Length of the Third Segment:**  
+   We know that the third segment is 10 minutes long. Let's denote the lengths of the segments as follows:
+   - Let \( S_3 = 10 \) minutes (length of the third segment).
+
+2. **Determine the Length of the Second Segment:**  
+   According to the problem, the third segment is half as long as the second segment. This means we can express the second segment as:
+   \[
+   S_2 = 2 \times S_3 = 2 \times 10 = 20 \text{ minutes}
+   \]
+
+3. **Determine the Length of the First Segment:**  
+   The first segment is twice as long as the other two segments combined. The combined length of the second and third segments is:
+   \[
+   S_2 + S_3 = 20 + 10 = 30 \text{ minutes}
+   \]
+   Therefore, the first segment can be calculated as:
+   \[
+   S_1 = 2 \times (S_2 + S_3) = 2 \times 30 = 60 \text{ minutes}
+   \]
+
+4. **Calculate the Total Length of the Show:**  
+   Now that we have all the segment lengths, we can find the total length of the show by adding the lengths of all three segments together:
+   \[
+   \text{Total length} = S_1 + S_2 + S_3 = 60 + 20 + 10 = 90 \text{ minutes}
+   \]
+
+Therefore, the entire show lasts 90 minutes.
+</reasoning>
+<answer>90</answer>

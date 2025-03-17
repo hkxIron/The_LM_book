@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem step by step, we need to determine how many tomatoes Tedra harvested on Friday and then find out how many are remaining after he gives away 700 kg.
+
+1. **Harvest on Wednesday**: We know that Tedra harvested 400 kg on Wednesday. 
+   - This is already given in the problem.
+
+2. **Harvest on Thursday**: The problem states that he harvested half as much on Thursday as he did on Wednesday. 
+   - Since he harvested 400 kg on Wednesday, on Thursday he harvested:
+     \[
+     \text{Thursday's harvest} = \frac{400 \text{ kg}}{2} = 200 \text{ kg}
+     \]
+
+3. **Total Harvest on Wednesday and Thursday**: Now we need to calculate the total he harvested on Wednesday and Thursday:
+   \[
+   \text{Total harvest on Wed and Thu} = 400 \text{ kg} + 200 \text{ kg} = 600 \text{ kg}
+   \]
+
+4. **Total Harvest on Friday**: The problem states that the total harvest for Wednesday, Thursday, and Friday combined is 2000 kg. To find out how much he harvested on Friday, we can subtract the total of Wednesday and Thursday from the overall total:
+   \[
+   \text{Friday's harvest} = 2000 \text{ kg} - 600 \text{ kg} = 1400 \text{ kg}
+   \]
+
+5. **Remaining Tomatoes after Giving Away**: Tedra gives away 700 kg of the tomatoes he harvested on Friday. To find out how many are remaining, we subtract the amount given away from the total harvested on Friday:
+   \[
+   \text{Remaining tomatoes} = 1400 \text{ kg} - 700 \text{ kg} = 700 \text{ kg}
+   \]
+
+Thus, after following all the steps and calculations, we find that the number of tomatoes remaining after giving away 700 kg is 700 kg.
+</reasoning>
+<answer>700</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To determine how long it will be until James can lift heavy again, we will break the problem down into steps and add the time periods together.
+
+1. **Time until pain subsides**: James experienced pain for 3 days. This is the initial period we start with.
+
+2. **Time for the injury to fully heal**: The problem states that it will take at least 5 times the duration of the pain to fully heal. Since the pain lasted for 3 days, we'll calculate the healing time as follows:
+   \[
+   5 \times 3 = 15 \text{ days}
+   \]
+   Therefore, after the initial 3 days of pain, it will take another 15 days for the injury to fully heal.
+
+3. **Wait time before starting workouts**: After the injury has fully healed, James wants to wait an additional 3 days before he starts working out again. This means we will add another 3 days to the healing period:
+   \[
+   15 \text{ days (healing)} + 3 \text{ days (waiting)} = 18 \text{ days}
+   \]
+
+4. **Wait time before lifting heavy**: Finally, James plans to wait an additional 3 weeks before he starts lifting heavy. Since 3 weeks is equivalent to 21 days, we will add this to the previous total:
+   \[
+   18 \text{ days} + 21 \text{ days} = 39 \text{ days}
+   \]
+
+Now we have the total time from the day he got hurt until he can lift heavy again.
+
+Therefore, the total time until James can lift heavy again is:
+</reasoning>
+<answer>39</answer>

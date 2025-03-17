@@ -1,0 +1,34 @@
+<reasoning>
+To determine how much Gina makes per hour, we first need to calculate the total time it takes for her to complete the order of cups.
+
+1. **Determine the time to paint rose cups:**
+   Gina paints 6 rose cups in 1 hour. 
+   - The order requires 6 rose cups.
+   - Therefore, the time taken to paint 6 rose cups is:
+   \[
+   \text{Time for rose cups} = \frac{6 \text{ cups}}{6 \text{ cups/hour}} = 1 \text{ hour}
+   \]
+
+2. **Determine the time to paint lily cups:**
+   Gina paints 7 lily cups in 1 hour.
+   - The order requires 14 lily cups.
+   - Therefore, the time taken to paint 14 lily cups is:
+   \[
+   \text{Time for lily cups} = \frac{14 \text{ cups}}{7 \text{ cups/hour}} = 2 \text{ hours}
+   \]
+
+3. **Calculate the total time spent on the order:**
+   Now we add the time taken for both types of cups:
+   \[
+   \text{Total time} = \text{Time for rose cups} + \text{Time for lily cups} = 1 \text{ hour} + 2 \text{ hours} = 3 \text{ hours}
+   \]
+
+4. **Calculate Gina's hourly wage:**
+   Gina is paid a total of $90 for the order. To find out how much she makes per hour, we divide her total payment by the total time spent:
+   \[
+   \text{Hourly Wage} = \frac{\text{Total Payment}}{\text{Total Time}} = \frac{90 \text{ dollars}}{3 \text{ hours}} = 30 \text{ dollars/hour}
+   \]
+
+Therefore, Gina makes $30 per hour.
+</reasoning>
+<answer>30</answer>

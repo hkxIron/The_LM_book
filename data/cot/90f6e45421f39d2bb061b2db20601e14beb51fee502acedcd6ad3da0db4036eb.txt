@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many scientists are from the USA, we need to break down the information we have step by step.
+
+1. **Total number of scientists**: We are given that there are 70 scientists in total.
+
+2. **Scientists from Europe**: We know that half of the scientists are from Europe. To find this, we calculate:
+   \[
+   \text{Number of scientists from Europe} = \frac{1}{2} \times 70 = 35
+   \]
+   This means there are 35 scientists from Europe.
+
+3. **Scientists from Canada**: Next, we find out how many scientists are from Canada. We know that one-fifth of the scientists are from Canada. So, we calculate:
+   \[
+   \text{Number of scientists from Canada} = \frac{1}{5} \times 70 = 14
+   \]
+   This means there are 14 scientists from Canada.
+
+4. **Scientists from the USA**: To find the number of scientists from the USA, we subtract the number of scientists from Europe and Canada from the total number of scientists. 
+   \[
+   \text{Number of scientists from the USA} = \text{Total scientists} - \text{Scientists from Europe} - \text{Scientists from Canada}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Number of scientists from the USA} = 70 - 35 - 14 = 21
+   \]
+
+So, the final answer is that there are 21 scientists from the USA.
+</reasoning>
+<answer>21</answer>

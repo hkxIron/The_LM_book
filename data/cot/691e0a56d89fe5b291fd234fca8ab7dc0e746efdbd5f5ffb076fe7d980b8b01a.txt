@@ -1,0 +1,31 @@
+<reasoning>
+First, let's determine how much Mike saves each year by calculating 10% of his $150,000 salary.
+
+1. **Calculate Mike's Annual Savings:**
+   - Mike saves 10% of his salary.
+   - 10% of $150,000 is calculated as:
+     \[
+     \text{Annual Savings} = 0.10 \times 150,000 = 15,000
+     \]
+   Therefore, Mike saves $15,000 each year.
+
+2. **Determine the Down Payment Needed:**
+   - Mike needs to save 20% of the cost of a $450,000 house for the down payment.
+   - 20% of $450,000 is calculated as:
+     \[
+     \text{Down Payment} = 0.20 \times 450,000 = 90,000
+     \]
+   Therefore, the down payment he needs to save is $90,000.
+
+3. **Calculate How Many Years It Will Take to Save for the Down Payment:**
+   - To find out how long it will take Mike to save $90,000, we divide the total down payment by his annual savings:
+     \[
+     \text{Years to Save} = \frac{\text{Down Payment}}{\text{Annual Savings}} = \frac{90,000}{15,000}
+     \]
+   Performing the division:
+   \[
+   \text{Years to Save} = 6
+   \]
+   Therefore, it will take Mike 6 years to save for the down payment.
+</reasoning>
+<answer>6</answer>

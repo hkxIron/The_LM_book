@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we will first determine the current ages of all three siblings based on the information given.
+
+1. We know that the eldest child is currently 20 years old. 
+2. The siblings are born 5 years apart. Therefore, the second sibling, who is 5 years younger than the eldest, is:
+   \[
+   20 - 5 = 15 \text{ years old}
+   \]
+3. The youngest sibling, who is 5 years younger than the second sibling, is:
+   \[
+   15 - 5 = 10 \text{ years old}
+   \]
+
+Now we have the current ages of the siblings:
+- Eldest: 20 years
+- Second: 15 years
+- Youngest: 10 years
+
+4. Next, we need to calculate their ages 10 years from now. We will add 10 years to each sibling's current age:
+   - Eldest: 
+   \[
+   20 + 10 = 30 \text{ years}
+   \]
+   - Second: 
+   \[
+   15 + 10 = 25 \text{ years}
+   \]
+   - Youngest:
+   \[
+   10 + 10 = 20 \text{ years}
+   \]
+
+5. Now we will find the total of their ages 10 years from now by adding these ages together:
+   \[
+   30 + 25 + 20 = 75
+   \]
+
+Therefore, the total of the ages of the three siblings 10 years from now is 75.
+</reasoning>
+<answer>75</answer>

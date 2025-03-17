@@ -1,0 +1,42 @@
+<reasoning>
+Let's define the amount of money that Williams has as \( W \) dollars. According to the problem, Jackson has 5 times more money than Williams, which means Jackson has \( 5W \) dollars.
+
+Now, we know that together they have a total of $150. We can express this relationship with the following equation:
+
+\[
+W + 5W = 150
+\]
+
+Next, we will combine the terms on the left side of the equation:
+
+\[
+6W = 150
+\]
+
+Now, to find the value of \( W \), we need to divide both sides of the equation by 6:
+
+\[
+W = \frac{150}{6}
+\]
+
+Calculating this gives:
+
+\[
+W = 25
+\]
+
+Now that we know how much money Williams has, we can find out how much money Jackson has by substituting the value of \( W \) back into the expression for Jackson's money:
+
+\[
+Jackson's \, money = 5W = 5 \times 25
+\]
+
+Calculating this gives:
+
+\[
+Jackson's \, money = 125
+\]
+
+Therefore, Jackson has $125.
+</reasoning>
+<answer>125</answer>

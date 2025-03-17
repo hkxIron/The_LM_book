@@ -1,0 +1,34 @@
+<reasoning>
+To determine how many complete laps Lexi needs to run, we first need to convert the total distance she wants to run into a form that makes it easy to compare with the distance of one lap.
+
+1. **Convert the total distance to an improper fraction**: 
+   Lexi wants to run a total of three and one-fourth miles. We can convert this mixed number into an improper fraction. 
+
+   - First, multiply the whole number (3) by the denominator (4):
+     \( 3 \times 4 = 12 \)
+   - Next, add the numerator (1):
+     \( 12 + 1 = 13 \)
+   - Thus, three and one-fourth miles can be expressed as:
+     \[ 3 \frac{1}{4} = \frac{13}{4} \text{ miles} \]
+
+2. **Determine the distance of one lap**:
+   The problem states that one lap around the track measures a quarter of a mile, which can be expressed as:
+   \[ \frac{1}{4} \text{ miles} \]
+
+3. **Calculate the number of laps**:
+   To find out how many complete laps she must run, we will divide the total distance she wants to run by the distance of one lap:
+   \[
+   \text{Number of laps} = \frac{\text{Total distance}}{\text{Distance of one lap}} = \frac{\frac{13}{4}}{\frac{1}{4}}
+   \]
+
+   When we divide fractions, we multiply by the reciprocal:
+   \[
+   \frac{13}{4} \div \frac{1}{4} = \frac{13}{4} \times \frac{4}{1} = \frac{13 \times 4}{4 \times 1} = \frac{13}{1} = 13
+   \]
+
+4. **Conclusion**:
+   Lexi must run a total of 13 complete laps to cover three and one-fourth miles. 
+
+Therefore, after calculating the number of complete laps she needs to run:
+</reasoning>
+<answer>13</answer>

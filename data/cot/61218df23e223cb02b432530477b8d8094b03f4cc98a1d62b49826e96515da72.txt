@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we first need to determine how long it takes John to read one book. 
+
+1. **Calculate the time it takes John to read one book.** 
+   John's reading speed is 60% faster than his brother's. If his brother takes 8 hours to read one book, we need to find out how much time John takes.
+
+   First, we calculate the time it takes John to read one book using the formula for speed:
+   - If John's speed is 60% faster, he reads at a speed of: 
+   \[
+   \text{Speed of John} = \text{Speed of Brother} \times (1 + 0.6) = \text{Speed of Brother} \times 1.6
+   \]
+
+   Since speed is inversely related to time, if John's speed is 1.6 times his brother's speed, the time it takes John is:
+   \[
+   \text{Time for John} = \frac{\text{Time for Brother}}{1.6} = \frac{8 \text{ hours}}{1.6}
+   \]
+
+2. **Perform the division to find John's time:**
+   \[
+   \frac{8}{1.6} = 5 \text{ hours}
+   \]
+   This means John takes 5 hours to read one book.
+
+3. **Calculate the time it takes for John to read 3 books.**
+   Since John takes 5 hours to read one book, the time to read 3 books is simply:
+   \[
+   \text{Time for 3 books} = 3 \times \text{Time for 1 book} = 3 \times 5 \text{ hours} = 15 \text{ hours}
+   \]
+
+Therefore, it would take John 15 hours to read 3 books.
+</reasoning>
+<answer>15</answer>

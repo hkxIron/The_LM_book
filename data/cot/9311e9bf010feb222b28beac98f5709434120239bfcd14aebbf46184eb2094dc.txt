@@ -1,0 +1,26 @@
+<reasoning>
+First, let's determine how many flowers are in Peter's garden. Since Amanda has 20 flowers, and Peter has three times as many, we calculate Peter's flowers as follows:
+
+1. **Calculate the number of flowers in Peter's garden:**
+   \[
+   \text{Number of flowers in Peter's garden} = 3 \times \text{Number of flowers in Amanda's garden}
+   \]
+   \[
+   = 3 \times 20 = 60
+   \]
+
+Now, we know that Peter initially has 60 flowers.
+
+2. **Determine how many flowers Peter has left after giving away 15 flowers:**
+   We need to subtract the 15 flowers that Peter gave to his brother from the total number of flowers he had.
+
+   \[
+   \text{Number of flowers left in Peter's garden} = \text{Initial number of flowers} - \text{Number of flowers given away}
+   \]
+   \[
+   = 60 - 15 = 45
+   \]
+
+Therefore, after giving away 15 flowers, Peter has 45 flowers left in his garden.
+</reasoning>
+<answer>45</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much money Seal earns in his first 3 years from releasing songs, we will calculate the total number of songs he releases in that time period and then multiply that by the earnings per song.
+
+1. **Calculate the total number of months in 3 years:**
+   - Since 1 year has 12 months, we multiply the number of years by the number of months in a year:
+   \[
+   3 \text{ years} \times 12 \text{ months/year} = 36 \text{ months}
+   \]
+   This means Seal will be releasing songs for a total of 36 months.
+
+2. **Calculate the total number of songs released in 3 years:**
+   - Seal releases 3 songs every month. Therefore, we multiply the number of months by the number of songs released each month:
+   \[
+   36 \text{ months} \times 3 \text{ songs/month} = 108 \text{ songs}
+   \]
+   So, he will release a total of 108 songs in 3 years.
+
+3. **Calculate the total earnings from the songs:**
+   - Seal earns $2000 for each song. To find the total earnings, we multiply the total number of songs by the earnings per song:
+   \[
+   108 \text{ songs} \times 2000 \text{ dollars/song} = 216000 \text{ dollars}
+   \]
+   This means Seal will earn a total of $216,000 from his songs in the first 3 years.
+
+Therefore, after calculating the total number of songs and the earnings from those songs, we conclude:
+</reasoning>
+<answer>216000</answer>

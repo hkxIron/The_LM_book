@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the cost of the hamburgers**: 
+   Wilson buys 2 hamburgers, and each costs $5. 
+   So, we multiply the number of hamburgers by the cost per hamburger:
+   \[
+   2 \text{ hamburgers} \times 5 \text{ dollars/hamburger} = 10 \text{ dollars}
+   \]
+   This means the total cost for the hamburgers is $10.
+
+2. **Calculate the cost of the cola**: 
+   Wilson buys 3 bottles of cola, and each costs $2. 
+   We do the same multiplication:
+   \[
+   3 \text{ bottles} \times 2 \text{ dollars/bottle} = 6 \text{ dollars}
+   \]
+   Thus, the total cost for the cola is $6.
+
+3. **Add the costs together**: 
+   Now, we need to find the total cost before applying the discount:
+   \[
+   10 \text{ dollars (hamburgers)} + 6 \text{ dollars (cola)} = 16 \text{ dollars}
+   \]
+
+4. **Apply the discount coupon**: 
+   Wilson has a discount coupon worth $4. We subtract this discount from the total cost:
+   \[
+   16 \text{ dollars} - 4 \text{ dollars} = 12 \text{ dollars}
+   \]
+   Therefore, after applying the discount, Wilson pays $12 in total.
+
+So, after following all these steps, we find that Wilson pays a total of $12.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the number of sandwiches Ruth prepared as \( x \).
+
+1. **Understanding the situation**: 
+   - Ruth ate 1 sandwich.
+   - She gave 2 sandwiches to her brother.
+   - Her first cousin ate 2 sandwiches.
+   - Her two other cousins each ate 1 sandwich, which totals to 2 sandwiches.
+
+2. **Calculating the total sandwiches eaten**:
+   - Total sandwiches eaten:
+     - Ruth: 1
+     - Brother: 2
+     - First Cousin: 2
+     - Two Other Cousins: 1 + 1 = 2
+   - Now, let's sum these up:
+     \[
+     1 + 2 + 2 + 2 = 7
+     \]
+   - So, 7 sandwiches were eaten in total.
+
+3. **Adding the sandwiches left**:
+   - According to the problem, there were 3 sandwiches left after everyone had eaten.
+   - Therefore, the total number of sandwiches Ruth prepared can be calculated by adding the total eaten to the number left:
+     \[
+     x = 7 + 3
+     \]
+
+4. **Calculating the total**:
+   \[
+   x = 10
+   \]
+
+Thus, Ruth prepared a total of 10 sandwiches.
+</reasoning>
+<answer>10</answer>

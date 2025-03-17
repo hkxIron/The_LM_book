@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many more chickens are in Britney's flock than in Susie's, we will first determine the total number of chickens each person has.
+
+1. **Calculate Susie's total chickens:**
+   - Susie has 11 Rhode Island Reds and 6 Golden Comets.
+   - To find the total number of chickens Susie has, we add these two amounts together:
+     \[
+     \text{Total for Susie} = 11 + 6 = 17
+     \]
+   - So, Susie has 17 chickens in total.
+
+2. **Calculate Britney's chickens:**
+   - Britney has twice as many Rhode Island Reds as Susie. Since Susie has 11 Rhode Island Reds:
+     \[
+     \text{Rhode Island Reds for Britney} = 2 \times 11 = 22
+     \]
+   - Britney has half as many Golden Comets as Susie. Since Susie has 6 Golden Comets:
+     \[
+     \text{Golden Comets for Britney} = \frac{6}{2} = 3
+     \]
+   - Now, we find the total number of chickens that Britney has by adding her Rhode Island Reds and Golden Comets:
+     \[
+     \text{Total for Britney} = 22 + 3 = 25
+     \]
+   - So, Britney has 25 chickens in total.
+
+3. **Calculate the difference in the number of chickens:**
+   - Now, we want to find out how many more chickens Britney has than Susie. We subtract Susie's total from Britney's total:
+     \[
+     \text{Difference} = \text{Total for Britney} - \text{Total for Susie} = 25 - 17 = 8
+     \]
+
+Therefore, Britney has 8 more chickens than Susie.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the total number of sandwiches**: Bert made a total of 12 sandwiches.
+
+2. **Calculating the number of sandwiches eaten on the first day**: 
+   - On the first day, Bert ate half of the sandwiches he made.
+   - Since he made 12 sandwiches, half of that is:
+     \[
+     \frac{12}{2} = 6
+     \]
+   - So, Bert ate 6 sandwiches on the first day.
+
+3. **Calculating the number of sandwiches left after the first day**:
+   - To find out how many sandwiches he has left after the first day, we subtract the number of sandwiches eaten from the total:
+     \[
+     12 - 6 = 6
+     \]
+   - Thus, Bert has 6 sandwiches left after the first day.
+
+4. **Calculating the number of sandwiches eaten on the second day**:
+   - The problem states that the next day (the second day), Bert ate 2 sandwiches less than what he ate on the first day.
+   - Since he ate 6 sandwiches on the first day, the number of sandwiches he ate on the second day is:
+     \[
+     6 - 2 = 4
+     \]
+   - Therefore, Bert ate 4 sandwiches on the second day.
+
+5. **Calculating the number of sandwiches left after the second day**:
+   - Now we subtract the number of sandwiches he ate on the second day from the number of sandwiches he had left after the first day:
+     \[
+     6 - 4 = 2
+     \]
+   - So, Bert has 2 sandwiches left after the second day.
+
+In conclusion, after both days, Bert has 2 sandwiches remaining.
+</reasoning>
+<answer>2</answer>

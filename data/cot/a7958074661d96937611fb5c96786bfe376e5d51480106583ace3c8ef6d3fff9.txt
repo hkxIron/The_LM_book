@@ -1,0 +1,21 @@
+<reasoning>
+To find out how much land Jose will have after dividing the 20,000 square meters equally among himself and his four siblings, we first need to determine the total number of people involved in the division.
+
+1. **Count the total number of people**: 
+   Jose has 4 siblings, so including himself, there are:
+   \[
+   4 \text{ (siblings)} + 1 \text{ (Jose)} = 5 \text{ people}
+   \]
+
+2. **Divide the total land by the number of people**:
+   Now, we need to divide the total area of land, which is 20,000 square meters, by the total number of people (5):
+   \[
+   \text{Land per person} = \frac{20,000 \text{ square meters}}{5} = 4,000 \text{ square meters}
+   \]
+
+3. **Conclusion**:
+   Each person, including Jose, will receive 4,000 square meters of land.
+
+Therefore, after dividing the land with his siblings, Jose will have:
+</reasoning>
+<answer>4000</answer>

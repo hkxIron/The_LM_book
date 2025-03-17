@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many questions were asked in the competition, we will analyze the information given step by step.
+
+1. **Determine the number of questions Drew answered:**
+   Drew got 20 questions correct and 6 questions wrong. To find the total questions Drew answered, we add the correct answers to the wrong answers:
+   \[
+   \text{Total questions answered by Drew} = \text{Correct} + \text{Wrong} = 20 + 6 = 26
+   \]
+
+2. **Determine the number of questions Carla answered:**
+   Carla got 14 questions correct, and it is stated that she got twice as many questions wrong as the number of questions Drew got wrong (which is 6). Therefore, the number of questions Carla got wrong is:
+   \[
+   \text{Wrong questions by Carla} = 2 \times \text{Wrong questions by Drew} = 2 \times 6 = 12
+   \]
+   Now, we can find the total questions Carla answered:
+   \[
+   \text{Total questions answered by Carla} = \text{Correct} + \text{Wrong} = 14 + 12 = 26
+   \]
+
+3. **Calculate the total number of questions asked in the competition:**
+   Since each competitor was asked a different set of questions, we can find the total number of questions asked in the competition by adding the number of questions answered by Drew and Carla:
+   \[
+   \text{Total questions in the competition} = \text{Total questions by Drew} + \text{Total questions by Carla} = 26 + 26 = 52
+   \]
+
+Therefore, the total number of questions asked in the competition is:
+</reasoning>
+<answer>52</answer>

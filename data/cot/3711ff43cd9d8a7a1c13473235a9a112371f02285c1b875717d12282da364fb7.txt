@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many chapters Anna reads and how long she spends reading, we can follow these steps:
+
+1. **Determine the total number of chapters**: Anna's textbook has 31 chapters.
+
+2. **Identify the chapters she skips**: We need to find all the chapters that are divisible by 3. The chapters divisible by 3 from 1 to 31 are:
+   - 3, 6, 9, 12, 15, 18, 21, 24, 27, 30.
+   
+   We can see that these are obtained by multiplying 3 with integers 1 through 10 (since 3 * 10 = 30 is the largest multiple of 3 within 31). This means there are 10 chapters that Anna skips.
+
+3. **Calculate the number of chapters Anna reads**: 
+   - Total chapters - Chapters skipped = 31 - 10 = 21 chapters.
+   Anna reads 21 chapters.
+
+4. **Calculate the time spent reading**: Since it takes Anna 20 minutes to read each chapter, we can multiply the number of chapters she reads by the time it takes to read each chapter:
+   - Total time in minutes = Number of chapters read * Time per chapter
+   - Total time in minutes = 21 chapters * 20 minutes/chapter = 420 minutes.
+
+5. **Convert minutes to hours**: To find out how many hours she spends reading, we convert minutes to hours by dividing by 60 (since there are 60 minutes in an hour):
+   - Total time in hours = Total time in minutes / 60
+   - Total time in hours = 420 minutes / 60 = 7 hours.
+
+Therefore, Anna spends a total of 7 hours reading the textbook.
+</reasoning>
+<answer>7</answer>

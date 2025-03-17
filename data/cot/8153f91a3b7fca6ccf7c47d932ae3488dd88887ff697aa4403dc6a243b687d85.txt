@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many balls Alexia and Ermias inflated**:
+   - Alexia inflates 20 balls.
+   - Ermias inflates 5 more balls than Alexia. To find out how many balls Ermias inflated, we add 5 to the number of balls Alexia inflated:
+     \[
+     \text{Balls inflated by Ermias} = 20 + 5 = 25
+     \]
+
+2. **Calculate the total number of balls inflated**:
+   - Now, we add the number of balls inflated by Alexia and Ermias:
+     \[
+     \text{Total balls} = \text{Balls by Alexia} + \text{Balls by Ermias} = 20 + 25 = 45
+     \]
+
+3. **Determine the time taken to inflate the balls**:
+   - We know that each soccer ball takes 20 minutes to inflate. To find the total time taken to inflate all the balls, we multiply the total number of balls by the time taken to inflate one ball:
+     \[
+     \text{Total time} = \text{Total balls} \times \text{Time per ball} = 45 \times 20
+     \]
+
+4. **Perform the multiplication**:
+   - Now, we calculate:
+     \[
+     45 \times 20 = 900
+     \]
+
+Therefore, the total time in minutes they took to inflate all the soccer balls is 900 minutes.
+</reasoning>
+<answer>900</answer>

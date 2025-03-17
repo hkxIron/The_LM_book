@@ -1,0 +1,48 @@
+<reasoning>
+To find the percentage chance that Jack catches either Zika virus or malaria after being bitten by a random mosquito, we need to follow these steps:
+
+1. **Determine the probabilities of being bitten by an infected mosquito**:  
+   - 40% of the mosquitos are infected with malaria.  
+   - 20% of the mosquitos are infected with Zika virus.  
+   - Since these infections can occur independently, we can use the formula for the probability of either event happening. 
+
+2. **Calculate the probability of being bitten by a mosquito infected with either virus**:  
+   - The probability of being bitten by a mosquito that is infected with malaria is 0.40 (40%).  
+   - The probability of being bitten by a mosquito that is infected with Zika is 0.20 (20%).  
+   - The probability of being bitten by a mosquito that is infected with both malaria and Zika is not given, so we will assume for this calculation that they are mutually exclusive (which is a simplification, but typically used in such problems). 
+
+3. **Calculate the probability of being bitten by a mosquito infected with either virus**:  
+   - The probability of getting bitten by a mosquito infected with either malaria or Zika can be calculated as:
+     \[
+     P(\text{Malaria or Zika}) = P(\text{Malaria}) + P(\text{Zika}) - P(\text{Malaria and Zika})
+     \]
+   - Since we assume no overlap, \( P(\text{Malaria and Zika}) = 0 \):
+     \[
+     P(\text{Malaria or Zika}) = 0.40 + 0.20 - 0 = 0.60
+     \]
+
+4. **Determine the chance of getting infected after being bitten**:  
+   - Without the vaccine, the chance of getting infected after being bitten by either type of infected mosquito is 50%, or 0.50.  
+   - With the vaccine, Jack's chances of getting infected are reduced by 50%, hence:
+     \[
+     \text{Effective chance of infection} = 0.50 \times (1 - 0.50) = 0.50 \times 0.50 = 0.25
+     \]
+
+5. **Calculate the overall probability of getting infected with either virus**:  
+   - Now we multiply the probability of being bitten by an infected mosquito by the effective chance of infection:
+     \[
+     P(\text{Infected}) = P(\text{Malaria or Zika}) \times \text{Effective chance of infection}
+     \]
+     \[
+     P(\text{Infected}) = 0.60 \times 0.25 = 0.15
+     \]
+
+6. **Convert to percentage**:  
+   - To convert the probability into a percentage, we multiply by 100:
+     \[
+     P(\text{Infected}) \times 100 = 0.15 \times 100 = 15\%
+     \]
+
+Therefore, the final answer is that Jack has a 15% chance of catching either Zika virus or malaria after being bitten by a random mosquito.
+</reasoning>
+<answer>15</answer>

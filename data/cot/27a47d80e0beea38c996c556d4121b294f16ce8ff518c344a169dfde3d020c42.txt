@@ -1,0 +1,46 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify the number of cows We the People has**: 
+   We know from the problem that We the People has 17 cows.
+
+2. **Determine how many cows Happy Good Healthy Family has**: 
+   The problem states that they have two more than three times the number of cows We the People has. 
+   To find this, we can set up the equation:
+   \[
+   \text{Cows of Happy Good Healthy Family} = 3 \times \text{Cows of We the People} + 2
+   \]
+   Substituting the number of cows We the People has:
+   \[
+   \text{Cows of Happy Good Healthy Family} = 3 \times 17 + 2
+   \]
+
+3. **Calculate the number of cows Happy Good Healthy Family has**: 
+   First, we multiply:
+   \[
+   3 \times 17 = 51
+   \]
+   Now, we add 2:
+   \[
+   51 + 2 = 53
+   \]
+   So, Happy Good Healthy Family has 53 cows.
+
+4. **Calculate the total number of cows at the ranch**: 
+   To find the total number of cows when both groups are taken to the ranch, we sum the number of cows from both families:
+   \[
+   \text{Total cows} = \text{Cows of We the People} + \text{Cows of Happy Good Healthy Family}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total cows} = 17 + 53
+   \]
+
+5. **Perform the addition**: 
+   \[
+   17 + 53 = 70
+   \]
+
+Therefore, the total number of cows that will be at the ranch altogether is 70.
+</reasoning>
+<answer>70</answer>

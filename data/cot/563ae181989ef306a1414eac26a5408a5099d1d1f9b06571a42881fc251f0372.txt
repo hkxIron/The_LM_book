@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of bars taken by Thomas and his friends.**  
+   The chocolate box contains 200 bars. Thomas and his 4 friends take 1/4 of the bars.  
+   \[
+   \text{Bars taken} = \frac{1}{4} \times 200 = 50
+   \]  
+   So, Thomas and his friends take 50 bars.
+
+2. **Divide the bars equally among Thomas and his friends.**  
+   There are 5 people (Thomas and his 4 friends), so we divide the 50 bars among them.  
+   \[
+   \text{Bars per person} = \frac{50}{5} = 10
+   \]  
+   Each person initially gets 10 bars.
+
+3. **Adjust for the friend who returns 5 bars.**  
+   One of Thomas's friends returns 5 bars to the box.  
+   \[
+   \text{Bars in the box after return} = 200 - 50 + 5 = 155
+   \]  
+   Now, there are 155 bars left in the box after the return.
+
+4. **Calculate the number of bars taken by Piper.**  
+   Piper takes 5 fewer bars than the total taken by Thomas and his friends (which is 50).  
+   \[
+   \text{Bars taken by Piper} = 50 - 5 = 45
+   \]
+
+5. **Calculate the total number of bars left in the box after Piper takes her share.**  
+   We subtract the number of bars taken by Piper from the current number of bars in the box.  
+   \[
+   \text{Total bars left} = 155 - 45 = 110
+   \]  
+
+Therefore, the total number of bars left in the box is 110.
+</reasoning>
+<answer>110</answer>

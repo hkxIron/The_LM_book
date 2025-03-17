@@ -1,0 +1,57 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the number of strawberries Karlee has**:
+   Karlee has 100 grapes and it is given that she has \( \frac{3}{5} \) as many strawberries as grapes. 
+   To find the number of strawberries, we calculate:
+   \[
+   \text{Number of strawberries} = \frac{3}{5} \times 100 = 60
+   \]
+   This means Karlee has 60 strawberries.
+
+2. **Calculate the total number of fruits Karlee has initially**:
+   Now, we add the number of grapes and strawberries to find the total number of fruits.
+   \[
+   \text{Total fruits} = \text{Number of grapes} + \text{Number of strawberries} = 100 + 60 = 160
+   \]
+
+3. **Determine how many fruits Karlee gives to Giana and Ansley**:
+   Karlee gives each friend \( \frac{1}{5} \) of each fruit. 
+   First, we calculate \( \frac{1}{5} \) of grapes:
+   \[
+   \text{Grapes given to each friend} = \frac{1}{5} \times 100 = 20
+   \]
+   Since she gives this to two friends, the total grapes given away is:
+   \[
+   \text{Total grapes given} = 20 \times 2 = 40
+   \]
+   
+   Now, we calculate \( \frac{1}{5} \) of strawberries:
+   \[
+   \text{Strawberries given to each friend} = \frac{1}{5} \times 60 = 12
+   \]
+   Again, since she gives this to two friends, the total strawberries given away is:
+   \[
+   \text{Total strawberries given} = 12 \times 2 = 24
+   \]
+
+4. **Calculate how many fruits Karlee has left**:
+   Now we subtract the number of fruits given away from the initial amounts.
+   For grapes:
+   \[
+   \text{Remaining grapes} = 100 - 40 = 60
+   \]
+   For strawberries:
+   \[
+   \text{Remaining strawberries} = 60 - 24 = 36
+   \]
+
+5. **Find the total number of fruits left**:
+   Now we add the remaining grapes and strawberries to find the total number of fruits left.
+   \[
+   \text{Total fruits left} = \text{Remaining grapes} + \text{Remaining strawberries} = 60 + 36 = 96
+   \]
+
+Therefore, after giving away fruits to her friends, Karlee is left with a total of 96 fruits.
+</reasoning>
+<answer>96</answer>

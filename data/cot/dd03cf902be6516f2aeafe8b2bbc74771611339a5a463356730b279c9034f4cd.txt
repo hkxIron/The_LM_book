@@ -1,0 +1,40 @@
+<reasoning>
+First, let's calculate how much money Timothy spends on the t-shirts and bags.
+
+1. **Calculate the cost of the t-shirts:**
+   Timothy buys 2 t-shirts, and each t-shirt costs $8.
+   \[
+   \text{Cost of t-shirts} = 2 \times 8 = 16
+   \]
+
+2. **Calculate the cost of the bags:**
+   Timothy buys 2 bags, and each bag costs $10.
+   \[
+   \text{Cost of bags} = 2 \times 10 = 20
+   \]
+
+3. **Calculate the total amount spent:**
+   Now we add the cost of the t-shirts and the bags.
+   \[
+   \text{Total spent} = \text{Cost of t-shirts} + \text{Cost of bags} = 16 + 20 = 36
+   \]
+
+4. **Calculate the remaining money:**
+   Timothy started with $50, so we subtract the total amount he has spent from his starting amount.
+   \[
+   \text{Remaining money} = 50 - 36 = 14
+   \]
+
+5. **Determine how many key chains Timothy can buy:**
+   Key chains are sold at a rate of 3 pieces for $2. First, we need to find out how much one piece costs.
+   \[
+   \text{Cost per key chain} = \frac{2}{3} \text{ dollars (for 1 key chain)}
+   \]
+   Now, we can calculate how many key chains he can buy with the remaining $14.
+   \[
+   \text{Number of key chains} = \frac{\text{Remaining money}}{\text{Cost per key chain}} = \frac{14}{\frac{2}{3}} = 14 \times \frac{3}{2} = 21
+   \]
+
+Therefore, Timothy can buy 21 pieces of key chains with the amount of money he has left.
+</reasoning>
+<answer>21</answer>

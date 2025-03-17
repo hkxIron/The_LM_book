@@ -1,0 +1,37 @@
+<reasoning>
+Let's denote the speed of Chase as \( v \). According to the problem:
+
+1. Cameron drives at twice the speed of Chase, which means Cameron's speed is \( 2v \).
+2. Danielle drives at three times the speed of Cameron, so her speed is \( 3 \times (2v) = 6v \).
+
+Now, we know that it takes Danielle 30 minutes to travel from Granville to Salisbury. We can use this information to find out how far she travels.
+
+First, let's calculate the distance that Danielle travels:
+
+Distance = Speed × Time
+
+We know that Danielle's speed is \( 6v \) and her time is 30 minutes. We need to convert 30 minutes into hours, since speed is usually expressed in hours:
+
+30 minutes = 0.5 hours
+
+Now we can calculate the distance:
+
+Distance = Speed × Time = \( 6v \times 0.5 = 3v \).
+
+So, the distance from Granville to Salisbury is \( 3v \).
+
+Next, we need to find out how long it takes Chase to travel this same distance. Since Chase's speed is \( v \), we can use the distance formula again to find the time it takes Chase.
+
+Time = Distance / Speed
+
+We already calculated the distance as \( 3v \), and Chase's speed is \( v \). Therefore:
+
+Time for Chase = Distance / Speed = \( \frac{3v}{v} = 3 \) hours.
+
+Now, we need to convert the time from hours to minutes. Since there are 60 minutes in an hour:
+
+3 hours = \( 3 \times 60 = 180 \) minutes.
+
+So, it will take Chase 180 minutes to travel from Granville to Salisbury.
+</reasoning>
+<answer>180</answer>

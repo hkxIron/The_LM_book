@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many pages Nate has left to read in the 400-page book after finishing 20% of it, we can follow these steps:
+
+1. **Calculate how many pages Nate has read**: 
+   We know that Nate has read 20% of the book. To find out how many pages this is, we need to calculate 20% of 400 pages.
+
+   \[
+   \text{Pages read} = 20\% \times 400
+   \]
+
+   To convert 20% into a decimal, we divide by 100:
+
+   \[
+   20\% = \frac{20}{100} = 0.20
+   \]
+
+   Now calculate the pages:
+
+   \[
+   \text{Pages read} = 0.20 \times 400 = 80 \text{ pages}
+   \]
+
+2. **Calculate how many pages are left to read**: 
+   Now that we know Nate has read 80 pages, we can find out how many pages he has left by subtracting the pages he has read from the total number of pages in the book.
+
+   \[
+   \text{Pages left} = \text{Total pages} - \text{Pages read}
+   \]
+
+   Substituting the values we have:
+
+   \[
+   \text{Pages left} = 400 - 80 = 320 \text{ pages}
+   \]
+
+Therefore, Nate needs to read 320 more pages to finish the book.
+</reasoning>
+<answer>320</answer>

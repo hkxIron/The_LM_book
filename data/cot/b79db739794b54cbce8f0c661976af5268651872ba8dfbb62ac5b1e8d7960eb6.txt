@@ -1,0 +1,50 @@
+<reasoning>
+To solve the problem, let's define the variables and go through the steps one by one.
+
+1. **Understanding the Total Eggs**: The family prepared 3 dozen boiled eggs. Since 1 dozen is equal to 12, we have:
+   \[
+   3 \text{ dozen} = 3 \times 12 = 36 \text{ eggs}
+   \]
+
+2. **Calculating Eggs for Adults**: There are 3 adults, and each adult received 3 eggs. Therefore, the total number of eggs given to adults is:
+   \[
+   3 \text{ adults} \times 3 \text{ eggs/adult} = 9 \text{ eggs}
+   \]
+
+3. **Calculating Remaining Eggs for Children**: Now we need to find out how many eggs were left for the children after distributing to the adults:
+   \[
+   36 \text{ eggs} - 9 \text{ eggs} = 27 \text{ eggs}
+   \]
+
+4. **Distributing Eggs to Girls**: We know from the problem that there are 7 girls, and each girl received 1 egg. Therefore, the total number of eggs given to the girls is:
+   \[
+   7 \text{ girls} \times 1 \text{ egg/girl} = 7 \text{ eggs}
+   \]
+
+5. **Calculating Remaining Eggs for Boys**: After giving eggs to the girls, we find out how many eggs remain for the boys:
+   \[
+   27 \text{ eggs} - 7 \text{ eggs} = 20 \text{ eggs}
+   \]
+
+6. **Determining Eggs per Boy**: According to the problem, each boy received 1 more egg than each girl. Since each girl received 1 egg, each boy received:
+   \[
+   1 \text{ egg} + 1 = 2 \text{ eggs}
+   \]
+
+7. **Calculating the Number of Boys**: Let \( b \) be the number of boys. The total number of eggs distributed to boys can be expressed as:
+   \[
+   b \text{ boys} \times 2 \text{ eggs/boy} = 2b \text{ eggs}
+   \]
+   We know from step 5 that there are 20 eggs for the boys, so we set up the equation:
+   \[
+   2b = 20
+   \]
+
+8. **Solving for \( b \)**: To find the number of boys, we divide both sides of the equation by 2:
+   \[
+   b = \frac{20}{2} = 10
+   \]
+
+Thus, the number of boys who went on the trip is 10.
+</reasoning>
+<answer>10</answer>

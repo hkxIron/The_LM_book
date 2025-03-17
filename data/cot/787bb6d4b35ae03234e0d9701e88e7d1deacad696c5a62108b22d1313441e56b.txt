@@ -1,0 +1,53 @@
+<reasoning>
+Let’s define the number of pencils each person has using variables:
+
+1. Let \( C_c \) represent the number of pencils Caleb has.
+2. Let \( C_a \) represent the number of pencils Calen has.
+3. Let \( C_y \) represent the number of pencils Candy has.
+
+From the problem, we know the following:
+
+- Calen originally had 5 more pencils than Caleb: 
+  \[
+  C_a = C_c + 5
+  \]
+  
+- Caleb has 3 less than twice the number of pencils Candy has:
+  \[
+  C_c = 2C_y - 3
+  \]
+
+- After losing 10 pencils, Calen is left with 10 pencils:
+  \[
+  C_a - 10 = 10 \implies C_a = 20
+  \]
+
+Now we know that Calen originally had 20 pencils. We can substitute this value back into the first equation:
+
+\[
+C_a = C_c + 5 \implies 20 = C_c + 5
+\]
+To solve for \( C_c \), we subtract 5 from both sides:
+\[
+C_c = 20 - 5 = 15
+\]
+
+Now we know that Caleb has 15 pencils. Next, we can substitute this value into the second equation to find out how many pencils Candy has:
+
+\[
+C_c = 2C_y - 3 \implies 15 = 2C_y - 3
+\]
+To isolate \( C_y \), we first add 3 to both sides:
+\[
+15 + 3 = 2C_y \implies 18 = 2C_y
+\]
+Next, we divide both sides by 2:
+\[
+C_y = \frac{18}{2} = 9
+\]
+
+Thus, Candy has 9 pencils. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>9</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much change Kim gets, we need to follow these steps:
+
+1. **Calculate the total cost of the meal and drink**: 
+   - The meal costs $10.
+   - The drink costs $2.50.
+   - We add these two amounts together:  
+     \[
+     10 + 2.5 = 12.5
+     \]
+   Therefore, the total cost of the meal and drink is $12.50.
+
+2. **Calculate the tip amount**: 
+   - The tip is 20% of the total cost.
+   - To find 20% of $12.50, we multiply by 0.20:  
+     \[
+     12.5 \times 0.20 = 2.5
+     \]
+   So, the tip amount is $2.50.
+
+3. **Calculate the total amount Kim pays**: 
+   - We add the total cost of the meal and drink to the tip:  
+     \[
+     12.5 + 2.5 = 15
+     \]
+   Therefore, the total amount Kim pays is $15.
+
+4. **Calculate the change Kim receives**: 
+   - Kim pays with a $20 bill. To find the change, we subtract the total amount she paid from the amount she gave:  
+     \[
+     20 - 15 = 5
+     \]
+   Thus, Kim receives $5 in change.
+
+Therefore, the final amount of change Kim gets is:
+</reasoning>
+<answer>5</answer>

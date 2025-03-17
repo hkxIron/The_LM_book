@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many square tables are needed for 90 pupils, we start by calculating how many pupils can be seated at the rectangular tables.
+
+1. **Calculate the seating capacity of rectangular tables**:
+   - There are 7 rectangular tables.
+   - Each rectangular table seats 10 pupils.
+   - So, the total number of pupils that can be seated at the rectangular tables is:
+     \[
+     7 \text{ tables} \times 10 \text{ pupils/table} = 70 \text{ pupils}
+     \]
+
+2. **Determine how many more pupils need seating**:
+   - We need to accommodate 90 pupils in total.
+   - Since 70 pupils can be seated at the rectangular tables, we find the additional number of pupils that need to be seated:
+     \[
+     90 \text{ pupils} - 70 \text{ pupils} = 20 \text{ pupils}
+     \]
+
+3. **Calculate the number of square tables needed**:
+   - Each square table seats 4 pupils.
+   - To find out how many square tables are needed to seat the remaining 20 pupils, we divide the additional number of pupils by the seating capacity of a square table:
+     \[
+     \text{Number of square tables} = \frac{20 \text{ pupils}}{4 \text{ pupils/table}} = 5 \text{ tables}
+     \]
+
+Therefore, we need 5 square tables to accommodate the remaining pupils.
+</reasoning>
+<answer>5</answer>

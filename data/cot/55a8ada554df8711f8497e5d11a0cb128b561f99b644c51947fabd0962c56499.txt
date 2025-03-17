@@ -1,0 +1,30 @@
+<reasoning>
+To determine how much money Tommy needs to save up, we first need to calculate the total cost of the 8 new books. 
+
+1. **Calculate the total cost of the books**:
+   - Each book costs $5, and Tommy wants to buy 8 books.
+   - We multiply the number of books by the cost per book:
+     \[
+     \text{Total cost} = \text{Number of books} \times \text{Cost per book} = 8 \times 5
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Total cost} = 40
+     \]
+   This means Tommy needs a total of $40 to buy the books.
+
+2. **Determine how much more money Tommy needs**:
+   - Tommy already has $13. 
+   - To find out how much more he needs, we subtract the amount he currently has from the total cost:
+     \[
+     \text{Amount needed} = \text{Total cost} - \text{Amount Tommy has} = 40 - 13
+     \]
+   - Performing the subtraction:
+     \[
+     \text{Amount needed} = 27
+     \]
+   This shows that Tommy needs to save up an additional $27.
+
+Therefore, Tommy needs to save up $27 to buy the 8 new books.
+</reasoning>
+<answer>27</answer>

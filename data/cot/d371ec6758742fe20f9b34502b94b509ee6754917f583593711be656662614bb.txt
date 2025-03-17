@@ -1,0 +1,22 @@
+<reasoning>
+To determine how much oil Ellie needs in total to fix the bike, we need to break down the problem step by step.
+
+1. **Identify the number of wheels**: A standard bicycle has 2 wheels. 
+
+2. **Calculate the oil needed for the wheels**: Since Ellie needs 10ml of oil for each wheel, we multiply the oil needed per wheel by the number of wheels:
+   \[
+   \text{Oil for wheels} = 10 \text{ ml/wheel} \times 2 \text{ wheels} = 20 \text{ ml}
+   \]
+   This means Ellie needs 20ml of oil just for the wheels.
+
+3. **Calculate the oil needed for the rest of the bike**: Ellie also needs an additional 5ml of oil to fix the rest of the bike. 
+
+4. **Add the oil amounts together**: We now add the oil needed for the wheels and the oil needed for the rest of the bike:
+   \[
+   \text{Total oil needed} = \text{Oil for wheels} + \text{Oil for rest of bike} = 20 \text{ ml} + 5 \text{ ml} = 25 \text{ ml}
+   \]
+   This total represents the overall amount of oil Ellie needs.
+
+Therefore, after calculating the oil required for both the wheels and the rest of the bike, we find that Ellie needs a total of 25ml of oil.
+</reasoning>
+<answer>25</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To determine how many brownies each person can eat, we first need to find the total number of brownies in the pan.
+
+1. **Calculate the total number of brownies:**
+   Frank cuts the pan of brownies into 6 even columns and 3 even rows. The total number of brownies is calculated by multiplying the number of columns by the number of rows.
+
+   \[
+   \text{Total brownies} = \text{Number of columns} \times \text{Number of rows} = 6 \times 3
+   \]
+
+   Performing the multiplication:
+
+   \[
+   6 \times 3 = 18
+   \]
+
+   So, there are a total of 18 brownies.
+
+2. **Determine how many people are sharing the brownies:**
+   There are 6 people in total, including Frank.
+
+3. **Calculate how many brownies each person can eat:**
+   To find out how many brownies each person can have, we need to divide the total number of brownies by the number of people.
+
+   \[
+   \text{Brownies per person} = \frac{\text{Total brownies}}{\text{Number of people}} = \frac{18}{6}
+   \]
+
+   Performing the division:
+
+   \[
+   \frac{18}{6} = 3
+   \]
+
+   Therefore, each person can eat 3 brownies.
+</reasoning>
+<answer>3</answer>

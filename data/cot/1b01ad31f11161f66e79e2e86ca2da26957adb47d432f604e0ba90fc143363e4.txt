@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we will first determine how many sales were made in the fabric and jewelry sections, and then we will find out how many sales were in the stationery section by subtracting those from the total sales.
+
+1. **Calculate sales in the fabric section**: 
+   The store makes a third of its sales in the fabric section. We can calculate this by multiplying the total sales by \( \frac{1}{3} \).
+   \[
+   \text{Sales in fabric section} = \frac{1}{3} \times 36 = 12
+   \]
+   So, there were 12 sales in the fabric section.
+
+2. **Calculate sales in the jewelry section**: 
+   The store makes a quarter of its sales in the jewelry section. We can calculate this by multiplying the total sales by \( \frac{1}{4} \).
+   \[
+   \text{Sales in jewelry section} = \frac{1}{4} \times 36 = 9
+   \]
+   So, there were 9 sales in the jewelry section.
+
+3. **Calculate sales in the stationery section**: 
+   To find the sales in the stationery section, we need to subtract the sales from both the fabric and jewelry sections from the total sales.
+   \[
+   \text{Sales in stationery section} = \text{Total sales} - (\text{Sales in fabric section} + \text{Sales in jewelry section})
+   \]
+   Substituting the values we have,
+   \[
+   \text{Sales in stationery section} = 36 - (12 + 9) = 36 - 21 = 15
+   \]
+   Thus, there were 15 sales in the stationery section.
+
+Therefore, the number of sales in the stationery section is:
+</reasoning>
+<answer>15</answer>

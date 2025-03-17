@@ -1,0 +1,32 @@
+<reasoning>
+First, let's determine how many slices each person in the family wants.
+
+1. **Calculate the slices for the couple:**
+   The couple consists of 2 people, and each wants 3 slices of pizza. 
+   So, we calculate:
+   \[
+   2 \text{ (people)} \times 3 \text{ (slices per person)} = 6 \text{ slices}
+   \]
+
+2. **Calculate the slices for the children:**
+   The couple has 6 children, and each child wants 1 slice of pizza. 
+   So, we calculate:
+   \[
+   6 \text{ (children)} \times 1 \text{ (slice per child)} = 6 \text{ slices}
+   \]
+
+3. **Total slices needed:**
+   Now, we add the slices needed for both the couple and the children:
+   \[
+   6 \text{ (slices for couple)} + 6 \text{ (slices for children)} = 12 \text{ slices}
+   \]
+
+4. **Determine how many 4-slice pizzas to order:**
+   Each pizza has 4 slices. To find out how many pizzas are needed, we divide the total number of slices by the number of slices per pizza:
+   \[
+   \frac{12 \text{ (total slices)}}{4 \text{ (slices per pizza)}} = 3 \text{ pizzas}
+   \]
+
+Thus, after going through the calculations, we find that they need to order a total of 3 pizzas.
+</reasoning>
+<answer>3</answer>

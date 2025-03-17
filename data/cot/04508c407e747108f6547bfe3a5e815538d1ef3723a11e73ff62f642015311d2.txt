@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much money John makes from the crabs, we will follow these steps:
+
+1. **Calculate the total number of crabs collected per week:** 
+   - John reels in 3 crab baskets each week.
+   - Each basket holds 4 crabs.
+   - Therefore, the total number of crabs collected in a week is:
+     \[
+     \text{Total crabs per week} = \text{Number of baskets} \times \text{Crabs per basket} = 3 \text{ baskets} \times 4 \text{ crabs/basket} = 12 \text{ crabs}
+     \]
+
+2. **Calculate the total number of crabs collected in a week considering he collects twice a week:**
+   - Since John collects crabs twice a week, we need to multiply the number of crabs collected in one collection by 2:
+     \[
+     \text{Total crabs collected in a week} = 12 \text{ crabs} \times 2 = 24 \text{ crabs}
+     \]
+
+3. **Calculate the total earnings from selling the crabs:**
+   - Each crab sells for $3.
+   - Therefore, the total money made from selling the crabs is:
+     \[
+     \text{Total earnings} = \text{Total crabs} \times \text{Price per crab} = 24 \text{ crabs} \times 3 \text{ dollars/crab} = 72 \text{ dollars}
+     \]
+
+Therefore, John makes a total of $72 from selling the crabs each week.
+</reasoning>
+<answer>72</answer>

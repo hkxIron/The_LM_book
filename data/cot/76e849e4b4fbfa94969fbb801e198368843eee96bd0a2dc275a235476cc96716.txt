@@ -1,0 +1,24 @@
+<reasoning>
+To find the total number of visitors to the library for the week, we need to consider the number of visitors for each day.
+
+1. **Calculate the number of visitors on Monday:**
+   The problem states that Jenny's local library received 50 visitors on Monday. 
+   - So, Monday's visitors = 50.
+
+2. **Calculate the number of visitors on Tuesday:**
+   On Tuesday, the library received twice the number of visitors that it received on Monday. 
+   - Therefore, Tuesday's visitors = 2 * 50 = 100.
+
+3. **Calculate the number of visitors for the remaining days of the week:**
+   The remaining days of the week are Wednesday, Thursday, Friday, Saturday, and Sunday, which is a total of 5 days. 
+   The problem states that there was an average of 20 visitors each day for these remaining days.
+   - Total visitors for Wednesday to Sunday = 20 visitors/day * 5 days = 100 visitors.
+
+4. **Add all the visitors together:**
+   Now we can find the total number of visitors for the week by adding the visitors from each day together:
+   - Total visitors = Monday's visitors + Tuesday's visitors + Wednesday to Sunday visitors
+   - Total visitors = 50 + 100 + 100 = 250.
+
+Thus, the total number of visitors who went to the library that week is 250.
+</reasoning>
+<answer>250</answer>

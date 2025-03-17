@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many months it will take for the Sterling Auto Store to sell all 500 cars, we can follow these steps:
+
+1. **Calculate the total number of cars sold per month by all sales professionals.**
+   - Each salesperson sells 10 cars per month.
+   - There are 10 sales professionals.
+   - So, we can calculate the total cars sold per month by multiplying the number of sales professionals by the number of cars each sells:
+     \[
+     \text{Total cars sold per month} = \text{Number of sales professionals} \times \text{Cars sold per salesperson}
+     \]
+     \[
+     \text{Total cars sold per month} = 10 \times 10 = 100 \text{ cars}
+     \]
+
+2. **Determine how many months it will take to sell all 500 cars.**
+   - We need to divide the total number of cars (500) by the total number of cars sold per month (100):
+     \[
+     \text{Months to sell all cars} = \frac{\text{Total cars}}{\text{Total cars sold per month}}
+     \]
+     \[
+     \text{Months to sell all cars} = \frac{500}{100} = 5 \text{ months}
+     \]
+
+Therefore, it will take them 5 months to sell all of the cars at the Sterling Auto Store.
+</reasoning>
+<answer>5</answer>

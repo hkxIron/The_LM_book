@@ -1,0 +1,21 @@
+<reasoning>
+To solve this problem, we will break it down step by step.
+
+1. **Identify the total number of stops**: We know there are two stops with orders of two pizzas each. This means:
+   - 2 stops × 2 pizzas = 4 pizzas from these stops.
+   - The total number of pizzas is 12, so the remaining pizzas are:
+   - 12 total pizzas - 4 pizzas = 8 pizzas.
+   - Since each of the remaining stops is for a single pizza, there will be 8 more stops for the remaining 8 pizzas.
+
+   Therefore, the total number of stops is:
+   - 2 stops (for 2 pizzas each) + 8 stops (for single pizzas) = 10 stops.
+
+2. **Determine the time available for delivery**: The delivery person has a total of 40 minutes to deliver all the pizzas.
+
+3. **Calculate the average time per stop**: To find out how many minutes per stop the delivery person must average, we take the total time available and divide it by the total number of stops.
+   - Average time per stop = Total time available / Total number of stops
+   - Average time per stop = 40 minutes / 10 stops = 4 minutes per stop.
+
+Therefore, the delivery person needs to average 4 minutes per stop to deliver all of the pizzas in 40 minutes.
+</reasoning>
+<answer>4</answer>

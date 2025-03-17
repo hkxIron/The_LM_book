@@ -1,0 +1,44 @@
+<reasoning>
+Let's denote the depth of the river in mid-May as \( x \) feet.
+
+1. **Finding the depth in mid-June:**
+   - According to the problem, by mid-June, the river is 10 feet deeper than it was in mid-May. Therefore, the depth in mid-June can be expressed as:
+   \[
+   \text{Depth in mid-June} = x + 10
+   \]
+
+2. **Finding the depth in mid-July:**
+   - By mid-July, the river is three times deeper than it was in mid-June. So, we can express the depth in mid-July as:
+   \[
+   \text{Depth in mid-July} = 3 \times (x + 10)
+   \]
+
+3. **Setting up the equation using the given depth in mid-July:**
+   - We know from the problem that the river is 45 feet deep in mid-July. Therefore, we can set up the equation:
+   \[
+   3 \times (x + 10) = 45
+   \]
+
+4. **Solving for \( x \):**
+   - First, we simplify the equation:
+   \[
+   3(x + 10) = 45
+   \]
+   - Next, divide both sides by 3 to isolate \( x + 10 \):
+   \[
+   x + 10 = 15
+   \]
+   - Now, subtract 10 from both sides to solve for \( x \):
+   \[
+   x = 15 - 10
+   \]
+   \[
+   x = 5
+   \]
+
+5. **Conclusion:**
+   - The depth of the river in mid-May was \( 5 \) feet.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

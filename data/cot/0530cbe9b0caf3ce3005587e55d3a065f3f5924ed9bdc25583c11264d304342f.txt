@@ -1,0 +1,28 @@
+<reasoning>
+To determine the total cost for Christopher to have enough sugar substitutes for 90 days, we will follow these steps:
+
+1. **Calculate the number of packets needed per day**: Christopher uses 1 packet of sugar substitute for each coffee, and since he has 2 coffees a day, the total number of packets he uses per day is:
+   \[
+   2 \text{ packets/day}
+   \]
+
+2. **Calculate the total number of packets needed for 90 days**: Since he uses 2 packets each day, we can find out how many packets he will need for 90 days by multiplying the daily usage by the number of days:
+   \[
+   2 \text{ packets/day} \times 90 \text{ days} = 180 \text{ packets}
+   \]
+
+3. **Determine how many boxes are needed**: The packets come in boxes of 30. To find out how many boxes are required for 180 packets, we divide the total number of packets by the number of packets per box:
+   \[
+   \frac{180 \text{ packets}}{30 \text{ packets/box}} = 6 \text{ boxes}
+   \]
+
+4. **Calculate the total cost**: Each box costs $4.00. Therefore, the total cost for 6 boxes is:
+   \[
+   6 \text{ boxes} \times 4 \text{ dollars/box} = 24 \text{ dollars}
+   \]
+
+Now, we have calculated that Christopher will need 6 boxes of sugar substitute, which will cost him a total of $24. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>24</answer>

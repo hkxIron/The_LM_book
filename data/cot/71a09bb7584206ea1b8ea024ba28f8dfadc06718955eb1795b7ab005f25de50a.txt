@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we will calculate the total weight of the weights Harry put on the bar and then add the weight of the bar itself.
+
+1. **Calculate the total weight of the blue weights:**
+   - Each blue weight weighs 2 pounds.
+   - Harry uses 4 blue weights.
+   - To find the total weight of the blue weights, we multiply the number of blue weights by the weight of each:
+     \[
+     \text{Total weight of blue weights} = 4 \text{ blue weights} \times 2 \text{ pounds/blue weight} = 8 \text{ pounds}
+     \]
+
+2. **Calculate the total weight of the green weights:**
+   - Each green weight weighs 3 pounds.
+   - Harry uses 5 green weights.
+   - To find the total weight of the green weights, we multiply the number of green weights by the weight of each:
+     \[
+     \text{Total weight of green weights} = 5 \text{ green weights} \times 3 \text{ pounds/green weight} = 15 \text{ pounds}
+     \]
+
+3. **Calculate the total weight of the weights combined:**
+   - Now we add the total weights of the blue and green weights:
+     \[
+     \text{Total weight of all weights} = 8 \text{ pounds (blue)} + 15 \text{ pounds (green)} = 23 \text{ pounds}
+     \]
+
+4. **Add the weight of the bar:**
+   - The bar itself weighs 2 pounds. We need to add this weight to the total weight of the weights:
+     \[
+     \text{Total weight including the bar} = 23 \text{ pounds (weights)} + 2 \text{ pounds (bar)} = 25 \text{ pounds}
+     \]
+
+Therefore, the total amount of weight of Harry's custom creation is:
+</reasoning>
+<answer>25</answer>

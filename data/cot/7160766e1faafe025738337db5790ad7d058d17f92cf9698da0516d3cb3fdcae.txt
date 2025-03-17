@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of people in Willowdale City**: 
+   We are given that Willowdale City has 2000 people. 
+   - Willowdale = 2000
+
+2. **Calculate the number of people in Roseville City**:
+   The problem states that Roseville City has 500 less than thrice the number of people in Willowdale City. 
+   - First, we need to calculate thrice the population of Willowdale:
+     \[
+     3 \times 2000 = 6000
+     \]
+   - Now, we subtract 500 from this amount to find the population of Roseville City:
+     \[
+     6000 - 500 = 5500
+     \]
+   - So, Roseville City has 5500 people.
+
+3. **Calculate the number of people in Sun City**:
+   According to the information, Sun City has 1000 more than twice the number of people in Roseville City. 
+   - First, we calculate twice the population of Roseville:
+     \[
+     2 \times 5500 = 11000
+     \]
+   - Then, we add 1000 to this amount:
+     \[
+     11000 + 1000 = 12000
+     \]
+   - Therefore, Sun City has 12000 people.
+
+Now, let's summarize our findings:
+
+- Willowdale City: 2000 people
+- Roseville City: 5500 people
+- Sun City: 12000 people
+
+Thus, the number of people living in Sun City is 12000.
+</reasoning>
+<answer>12000</answer>

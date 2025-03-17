@@ -1,0 +1,21 @@
+<reasoning>
+To determine how many oranges Mark needs to pick out, we start by adding up the pieces of fruit he has already selected.
+
+1. **Count the pieces of fruit Mark already has**:
+   - He has chosen 3 apples.
+   - He has selected 4 bananas.
+   
+   So, we can sum these together:
+   \[
+   \text{Total fruit so far} = \text{apples} + \text{bananas} = 3 + 4 = 7
+   \]
+
+2. **Determine how many more pieces of fruit he needs**:
+   Mark wants a total of 12 pieces of fruit. We can find out how many more pieces he needs by subtracting the total fruit he has from the desired total.
+   \[
+   \text{Oranges needed} = \text{Total desired fruit} - \text{Total fruit so far} = 12 - 7 = 5
+   \]
+
+Thus, Mark needs to pick out 5 oranges to reach his goal of 12 total pieces of fruit.
+</reasoning>
+<answer>5</answer>

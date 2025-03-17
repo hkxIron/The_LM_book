@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many weeks it will take Sheena to sew all the bridesmaid dresses, we can follow these steps:
+
+1. **Calculate the total time needed to sew all the dresses.** 
+   - Sheena can sew one dress in 12 hours. 
+   - There are 5 bridesmaids, which means she needs to sew 5 dresses.
+   - Therefore, the total time required to sew all the dresses is:
+     \[
+     \text{Total time} = \text{Number of dresses} \times \text{Time per dress} = 5 \text{ dresses} \times 12 \text{ hours/dress} = 60 \text{ hours}
+     \]
+
+2. **Determine how many hours per week she sews.**
+   - Sheena sews for 4 hours each week.
+
+3. **Calculate the number of weeks needed to sew all the dresses.**
+   - To find out how many weeks it will take, we divide the total time needed by the number of hours she sews each week:
+     \[
+     \text{Number of weeks} = \frac{\text{Total time}}{\text{Hours per week}} = \frac{60 \text{ hours}}{4 \text{ hours/week}} = 15 \text{ weeks}
+     \]
+
+Therefore, after going through these calculations, we find that it will take Sheena 15 weeks to complete all the dresses.
+</reasoning>
+<answer>15</answer>

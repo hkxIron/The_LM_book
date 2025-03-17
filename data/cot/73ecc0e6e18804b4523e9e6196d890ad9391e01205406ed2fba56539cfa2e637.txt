@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we first need to determine how many episodes are in the first half of the season and how many are in the second half.
+
+1. **Determine the number of episodes in each half of the season:**
+   - Since there are a total of 22 episodes in the season, we can divide them into two halves.
+   - The first half will have \( \frac{22}{2} = 11 \) episodes.
+   - The second half will also have \( 11 \) episodes.
+
+2. **Calculate the cost of episodes in the first half:**
+   - Each episode in the first half costs $1000.
+   - Therefore, the total cost for the first half of the season is:
+     \[
+     11 \text{ episodes} \times 1000 \text{ dollars/episode} = 11000 \text{ dollars}
+     \]
+
+3. **Determine the cost of episodes in the second half:**
+   - The episodes in the second half cost 120% more than those in the first half. 
+   - To find the cost of each episode in the second half, we need to calculate 120% of $1000 and then add that to the original cost:
+     \[
+     120\% \text{ of } 1000 = 1.2 \times 1000 = 1200 \text{ dollars}
+     \]
+   - Thus, each episode in the second half costs \( 1000 + 1200 = 2200 \) dollars.
+
+4. **Calculate the total cost for the second half of the season:**
+   - There are 11 episodes in the second half, each costing $2200.
+   - Therefore, the total cost for the second half is:
+     \[
+     11 \text{ episodes} \times 2200 \text{ dollars/episode} = 24200 \text{ dollars}
+     \]
+
+5. **Calculate the total cost for the entire season:**
+   - Now we can find the total cost for the entire season by adding the costs of both halves:
+     \[
+     11000 \text{ dollars (first half)} + 24200 \text{ dollars (second half)} = 35200 \text{ dollars}
+     \]
+
+Thus, the total cost for the entire season is $35,200.
+</reasoning>
+<answer>35200</answer>

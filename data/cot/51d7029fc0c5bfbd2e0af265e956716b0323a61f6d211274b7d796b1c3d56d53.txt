@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Hajar's score**: Hajar's score is given as 24 points. We can denote this as:
+   \[
+   H = 24
+   \]
+
+2. **Understand the difference in scores**: The problem states that the difference in scores between Hajar and Farah is 21 points. Since Farah's score is higher than Hajar's, we can express this mathematically as:
+   \[
+   F - H = 21
+   \]
+   where \( F \) represents Farah's score.
+
+3. **Substitute Hajar's score into the equation**: We can substitute Hajar's score (24 points) into the equation:
+   \[
+   F - 24 = 21
+   \]
+
+4. **Solve for Farah's score**: To find \( F \), we need to isolate it on one side of the equation. We can do this by adding 24 to both sides:
+   \[
+   F = 21 + 24
+   \]
+   Calculating the right side gives:
+   \[
+   F = 45
+   \]
+
+5. **Calculate the sum of their scores**: Now that we have both Hajar's and Farah's scores, we can find the sum:
+   \[
+   \text{Sum} = H + F = 24 + 45
+   \]
+   Adding these together results in:
+   \[
+   \text{Sum} = 69
+   \]
+
+Thus, the sum of Hajar's and Farah's scores is 69.
+</reasoning>
+<answer>69</answer>

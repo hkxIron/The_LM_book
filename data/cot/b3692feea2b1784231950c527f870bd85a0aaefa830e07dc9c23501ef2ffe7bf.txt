@@ -1,0 +1,45 @@
+<reasoning>
+To find the total revenue of the concert, we need to calculate the revenue generated from both adult and child ticket sales.
+
+1. **Calculate the price of a child's ticket**: 
+   - The ticket price for adults is $26.
+   - Since the price for children is half of the adult price, we calculate:
+     \[
+     \text{Price for children} = \frac{26}{2} = 13
+     \]
+
+2. **Calculate the total revenue from adult tickets**: 
+   - There were 183 adults at the concert.
+   - To find the total revenue from adult tickets, we multiply the number of adults by the price of an adult ticket:
+     \[
+     \text{Revenue from adults} = 183 \times 26
+     \]
+   - Performing the multiplication:
+     \[
+     183 \times 26 = 4758
+     \]
+
+3. **Calculate the total revenue from child tickets**: 
+   - There were 28 children at the concert.
+   - To find the total revenue from child tickets, we multiply the number of children by the price of a child ticket:
+     \[
+     \text{Revenue from children} = 28 \times 13
+     \]
+   - Performing the multiplication:
+     \[
+     28 \times 13 = 364
+     \]
+
+4. **Calculate the total revenue of the concert**: 
+   - Now, we sum the total revenue from adults and children:
+     \[
+     \text{Total revenue} = \text{Revenue from adults} + \text{Revenue from children}
+     \]
+   - Substituting the values we calculated:
+     \[
+     \text{Total revenue} = 4758 + 364 = 5122
+     \]
+
+Thus, the total revenue of the concert is $5122.
+</reasoning>
+<answer>5122</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's denote the number of humans as \( H \). 
+
+According to the problem, there are twice as many centipedes as humans. This means that:
+
+\[
+\text{Number of centipedes} = 2H
+\]
+
+We are given that the number of centipedes is 100. Therefore, we can set up the equation:
+
+\[
+2H = 100
+\]
+
+To find the number of humans, we will divide both sides of the equation by 2:
+
+\[
+H = \frac{100}{2} = 50
+\]
+
+So, the number of humans on the island is 50.
+
+Next, we need to find the number of sheep. The problem states that there are half as many sheep as humans. This means:
+
+\[
+\text{Number of sheep} = \frac{H}{2} = \frac{50}{2} = 25
+\]
+
+Now that we have the number of humans and sheep, we can find the total number of humans and sheep together:
+
+\[
+\text{Total} = H + \text{Number of sheep} = 50 + 25 = 75
+\]
+
+In conclusion, the total number of sheep and humans on the island is:
+</reasoning>
+<answer>75</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Determine how many jellybeans Gigi has**: The problem states that Gigi has 15 jellybeans.
+
+2. **Calculate how many jellybeans Rory has**: It is given that Rory has 30 more jellybeans than Gigi. 
+   - Since Gigi has 15 jellybeans, we can find Rory's total by adding 30 to Gigi's count:
+   \[
+   \text{Rory's jellybeans} = \text{Gigi's jellybeans} + 30 = 15 + 30 = 45
+   \]
+
+3. **Calculate the total number of jellybeans both girls have**: 
+   - Now, we will add the number of jellybeans Rory has to the number of jellybeans Gigi has:
+   \[
+   \text{Total jellybeans} = \text{Rory's jellybeans} + \text{Gigi's jellybeans} = 45 + 15 = 60
+   \]
+
+4. **Calculate how many jellybeans Lorelai has eaten**: The problem states that Lorelai has eaten three times the total number of jellybeans that both girls have.
+   - Therefore, we will multiply the total number of jellybeans by 3:
+   \[
+   \text{Lorelai's eaten jellybeans} = 3 \times \text{Total jellybeans} = 3 \times 60 = 180
+   \]
+
+After calculating step by step, we find that Lorelai has eaten 180 jellybeans.
+</reasoning>
+<answer>180</answer>

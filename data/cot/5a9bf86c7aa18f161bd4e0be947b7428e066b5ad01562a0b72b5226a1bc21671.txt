@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of tickets ordered**:
+   Each roll contains 100 tickets, and there are 30 rolls. To find the total number of tickets, we multiply the number of rolls by the number of tickets per roll:
+   \[
+   \text{Total tickets} = 30 \text{ rolls} \times 100 \text{ tickets/roll} = 3000 \text{ tickets}
+   \]
+
+2. **Calculate the number of tickets bought by the 4th graders**:
+   The 4th graders bought 30% of the total tickets. We calculate 30% of 3000 tickets:
+   \[
+   \text{Tickets bought by 4th graders} = 0.30 \times 3000 = 900 \text{ tickets}
+   \]
+
+3. **Calculate the remaining tickets after the 4th graders' purchase**:
+   To find out how many tickets are left after the 4th graders' purchase, we subtract the number of tickets they bought from the total:
+   \[
+   \text{Remaining tickets} = 3000 - 900 = 2100 \text{ tickets}
+   \]
+
+4. **Calculate the number of tickets bought by the 5th graders**:
+   The 5th graders bought 50% of the remaining tickets. We calculate 50% of 2100 tickets:
+   \[
+   \text{Tickets bought by 5th graders} = 0.50 \times 2100 = 1050 \text{ tickets}
+   \]
+
+5. **Calculate the remaining tickets after the 5th graders' purchase**:
+   We now subtract the number of tickets bought by the 5th graders from the remaining tickets:
+   \[
+   \text{Remaining tickets} = 2100 - 1050 = 1050 \text{ tickets}
+   \]
+
+6. **Subtract the tickets bought by the 6th graders**:
+   The 6th graders bought a total of 100 tickets. To find out how many tickets are left after their purchase, we subtract:
+   \[
+   \text{Remaining tickets} = 1050 - 100 = 950 \text{ tickets}
+   \]
+
+So, after all purchases, the number of tickets left unsold is 950.
+</reasoning>
+<answer>950</answer>

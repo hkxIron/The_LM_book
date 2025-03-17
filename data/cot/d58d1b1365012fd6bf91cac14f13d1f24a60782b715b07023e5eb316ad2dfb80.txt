@@ -1,0 +1,63 @@
+<reasoning>
+Let's denote the number of purple cars as \( p \). 
+
+1. **Define the variables**:
+   - Let \( r \) be the number of red cars.
+   - Let \( g \) be the number of green cars.
+
+2. **Set up the relationships based on the problem**:
+   - According to the problem, Jason counted four times as many green cars as red cars:
+     \[
+     g = 4r
+     \]
+   - He also counted 6 more red cars than purple cars:
+     \[
+     r = p + 6
+     \]
+
+3. **Total cars counted**:
+   - The total number of cars is given as 312, which can be expressed as:
+     \[
+     p + r + g = 312
+     \]
+
+4. **Substituting for \( g \) and \( r \)**:
+   - Substitute \( g \) from the first equation and \( r \) from the second equation into the total cars equation:
+     \[
+     p + (p + 6) + 4(p + 6) = 312
+     \]
+
+5. **Simplifying the equation**:
+   - First, substitute \( r \):
+     \[
+     p + (p + 6) + 4(p + 6) = 312
+     \]
+   - This simplifies to:
+     \[
+     p + p + 6 + 4p + 24 = 312
+     \]
+   - Combine like terms:
+     \[
+     6p + 30 = 312
+     \]
+
+6. **Solving for \( p \)**:
+   - Subtract 30 from both sides:
+     \[
+     6p = 312 - 30
+     \]
+     \[
+     6p = 282
+     \]
+   - Now, divide by 6:
+     \[
+     p = \frac{282}{6}
+     \]
+     \[
+     p = 47
+     \]
+
+7. **Conclusion**:
+   Therefore, the number of purple cars Jason counted is \( 47 \).
+</reasoning>
+<answer>47</answer>

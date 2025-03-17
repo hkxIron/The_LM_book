@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we need to calculate how many macaroons Fran will have left after she eats some of them.
+
+1. **Identify the initial quantities of each type of macaroon.**
+   - Fran baked 50 red macaroons.
+   - Fran baked 40 green macaroons.
+
+2. **Determine how many green macaroons Fran ate.**
+   - Fran ate 15 green macaroons.
+
+3. **Calculate how many red macaroons Fran ate.**
+   - Fran ate twice as many red macaroons as the green macaroons she ate. Therefore, if she ate 15 green macaroons, she ate:
+   \[
+   2 \times 15 = 30 \text{ red macaroons}
+   \]
+
+4. **Calculate how many macaroons remain after Fran ate some.**
+   - Remaining green macaroons:
+   \[
+   40 \text{ (initial green)} - 15 \text{ (eaten green)} = 25 \text{ green macaroons remaining}
+   \]
+   - Remaining red macaroons:
+   \[
+   50 \text{ (initial red)} - 30 \text{ (eaten red)} = 20 \text{ red macaroons remaining}
+   \]
+
+5. **Now, let's calculate the total number of remaining macaroons.**
+   - Total remaining macaroons:
+   \[
+   25 \text{ (remaining green)} + 20 \text{ (remaining red)} = 45 \text{ macaroons remaining}
+   \]
+
+Therefore, after Fran eats the macaroons, she will have a total of 45 macaroons left.
+</reasoning>
+<answer>45</answer>

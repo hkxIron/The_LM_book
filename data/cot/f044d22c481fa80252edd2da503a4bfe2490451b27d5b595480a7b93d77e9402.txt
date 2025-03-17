@@ -1,0 +1,41 @@
+<reasoning>
+To find the average amount of fish caught by Aang, Sokka, and Toph, we will follow these steps:
+
+1. **Add the number of fish caught by each person**: 
+   - Aang caught 7 fish.
+   - Sokka caught 5 fish.
+   - Toph caught 12 fish.
+   
+   We add these numbers together:
+   \[
+   7 + 5 + 12
+   \]
+
+2. **Calculate the total**:
+   - First, we add 7 and 5:
+   \[
+   7 + 5 = 12
+   \]
+   - Next, we add this result to Toph's catch:
+   \[
+   12 + 12 = 24
+   \]
+   So, the total number of fish caught by all three is 24.
+
+3. **Count the number of people**:
+   - There are 3 people (Aang, Sokka, and Toph).
+
+4. **Calculate the average**:
+   - The average is found by dividing the total number of fish by the number of people:
+   \[
+   \text{Average} = \frac{\text{Total Fish}}{\text{Number of People}} = \frac{24}{3}
+   \]
+
+5. **Perform the division**:
+   - Now we divide 24 by 3:
+   \[
+   24 \div 3 = 8
+   \]
+   Therefore, the average amount of fish that each person caught is 8.
+</reasoning>
+<answer>8</answer>

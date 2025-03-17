@@ -1,0 +1,24 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Start with the initial amount of paper Fred has**: Fred begins with 212 sheets of paper.
+
+2. **Add the sheets Fred received from Jane**: Fred received another 307 sheets from Jane. To find out how many sheets he has after receiving them, we add these two amounts together:
+
+   \[
+   212 + 307 = 519
+   \]
+
+   This means Fred now has 519 sheets of paper.
+
+3. **Subtract the sheets Fred gave to Charles**: Fred then gives 156 sheets of paper to Charles. To find out how many sheets Fred has left, we subtract the amount he gave away from the total he has after receiving the sheets from Jane:
+
+   \[
+   519 - 156 = 363
+   \]
+
+   This calculation shows that after giving away sheets to Charles, Fred has 363 sheets of paper remaining.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>363</answer>

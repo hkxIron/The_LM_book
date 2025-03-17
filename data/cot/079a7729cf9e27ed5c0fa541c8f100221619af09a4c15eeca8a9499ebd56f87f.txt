@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many packs of notebook paper Chip will use after 6 weeks, we need to calculate the total number of pages he takes notes on and then determine how many packs that translates to.
+
+**Step 1: Calculate the total pages Chip takes notes on in one week.**
+
+Chip takes 2 pages of notes every day and he does this 5 days a week for each of his 5 classes. 
+
+First, we calculate the total pages per week for one class:
+- Pages per class per week = 2 pages/day * 5 days/week = 10 pages/week
+
+Now we multiply this by the number of classes:
+- Total pages per week = 10 pages/class * 5 classes = 50 pages/week
+
+**Step 2: Calculate the total pages Chip takes notes on in 6 weeks.**
+
+Now, we need to find out how many pages he takes notes on in 6 weeks:
+- Total pages in 6 weeks = 50 pages/week * 6 weeks = 300 pages
+
+**Step 3: Determine how many packs of notebook paper are needed.**
+
+Since each pack contains 100 sheets of paper, we now need to find out how many packs are required for 300 pages:
+- Number of packs needed = Total pages / Pages per pack = 300 pages / 100 pages/pack = 3 packs
+
+Therefore, Chip will use a total of 3 packs of notebook paper after 6 weeks.
+</reasoning>
+<answer>3</answer>

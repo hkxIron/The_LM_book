@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many apples Kayla picked:** 
+   We know from the problem statement that Kayla picked 20 apples.
+
+2. **Determine how many apples Caleb picked:** 
+   The problem states that Caleb picked 5 apples less than Kayla. Since Kayla picked 20 apples, we can calculate Caleb's total as follows:
+   \[
+   \text{Caleb's apples} = \text{Kayla's apples} - 5 = 20 - 5 = 15
+   \]
+   So, Caleb picked 15 apples.
+
+3. **Calculate how many apples Suraya picked:** 
+   The problem indicates that Suraya picked 12 apples more than Caleb. We have already calculated that Caleb picked 15 apples, thus we can find Suraya's total:
+   \[
+   \text{Suraya's apples} = \text{Caleb's apples} + 12 = 15 + 12 = 27
+   \]
+   Therefore, Suraya picked 27 apples.
+
+4. **Determine how many more apples Suraya picked than Kayla:** 
+   Now, we need to find out how many more apples Suraya picked compared to Kayla. We already know Kayla picked 20 apples and Suraya picked 27 apples, so we can calculate the difference:
+   \[
+   \text{Difference} = \text{Suraya's apples} - \text{Kayla's apples} = 27 - 20 = 7
+   \]
+
+Thus, Suraya picked 7 more apples than Kayla.
+</reasoning>
+<answer>7</answer>

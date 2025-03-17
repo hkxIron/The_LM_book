@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, we can follow these steps:
+
+1. **Identify the value of the known toy**: We know that one of the toys is worth $12.
+
+2. **Calculate the total value of the other toys**: Since Allie has a total of 9 toys and one of them is worth $12, we need to find the combined value of the remaining 8 toys. 
+   - Total value of all toys = $52
+   - Value of one toy = $12
+   - Therefore, the combined value of the other 8 toys is:
+     \[
+     \text{Total value of other toys} = \text{Total value of all toys} - \text{Value of one toy} = 52 - 12 = 40
+     \]
+
+3. **Determine the value of each of the other toys**: Since the remaining 8 toys are of the same value, we can find the value of one of these toys by dividing the total value of the other toys by the number of those toys:
+   \[
+   \text{Value of each of the other toys} = \frac{\text{Total value of other toys}}{\text{Number of other toys}} = \frac{40}{8} = 5
+   \]
+
+Thus, the value of one of the other toys is $5.
+</reasoning>
+<answer>5</answer>

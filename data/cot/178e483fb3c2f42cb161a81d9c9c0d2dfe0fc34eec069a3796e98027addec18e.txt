@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many goals the soccer team scored per game on average, we'll start by calculating the total number of slices Mr. Mitchell bought, then determine the total number of goals, and finally, find the average goals per game.
+
+1. **Calculate the total number of slices Mr. Mitchell bought**:
+   - Each large pizza has 12 slices.
+   - Mr. Mitchell bought 6 pizzas.
+   - Therefore, we multiply the number of pizzas by the number of slices per pizza:
+     \[
+     \text{Total slices} = 6 \, \text{pizzas} \times 12 \, \text{slices/pizza} = 72 \, \text{slices}
+     \]
+   This means Mr. Mitchell bought a total of 72 slices for the team.
+
+2. **Determine the total number of goals scored**:
+   - Since Mr. Mitchell bought one slice for every goal scored, the total number of goals scored by the team is equal to the total number of slices.
+   - Thus, the total number of goals scored is:
+     \[
+     \text{Total goals} = 72
+     \]
+
+3. **Calculate the average number of goals scored per game**:
+   - The team played 8 games during the season.
+   - To find the average goals per game, we divide the total number of goals by the number of games:
+     \[
+     \text{Average goals per game} = \frac{\text{Total goals}}{\text{Number of games}} = \frac{72}{8} = 9
+     \]
+
+This means, on average, the team scored 9 goals per game.
+</reasoning>
+<answer>9</answer>

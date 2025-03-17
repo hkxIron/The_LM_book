@@ -1,0 +1,36 @@
+<reasoning>
+To determine how many words Henri reads before his free time is up, we follow these steps:
+
+1. **Calculate the total time Henri spends watching movies**: 
+   - He watches one movie that is 3.5 hours and another movie that is 1.5 hours. 
+   - We add these two times together: 
+     \[
+     3.5 \text{ hours} + 1.5 \text{ hours} = 5 \text{ hours}
+     \]
+   - Therefore, Henri spends 5 hours watching movies.
+
+2. **Determine the remaining time for reading**: 
+   - Henri has a total of 8 hours for watching movies and reading. 
+   - We subtract the 5 hours spent on movies from the total time: 
+     \[
+     8 \text{ hours} - 5 \text{ hours} = 3 \text{ hours}
+     \]
+   - So, Henri has 3 hours left for reading.
+
+3. **Convert the reading time from hours to minutes**: 
+   - Since there are 60 minutes in an hour, we convert 3 hours into minutes:
+     \[
+     3 \text{ hours} \times 60 \text{ minutes/hour} = 180 \text{ minutes}
+     \]
+   - Therefore, Henri has 180 minutes available for reading.
+
+4. **Calculate the total number of words read**: 
+   - If Henri reads at a rate of 10 words per minute, we multiply his reading time in minutes by his reading speed:
+     \[
+     180 \text{ minutes} \times 10 \text{ words/minute} = 1800 \text{ words}
+     \]
+   - Thus, Henri reads a total of 1800 words.
+
+Therefore, after following all these steps and calculations, we find that Henri reads a total of 1800 words before his free time is up.
+</reasoning>
+<answer>1800</answer>

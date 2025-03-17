@@ -1,0 +1,43 @@
+<reasoning>
+To find out what score Randy needs on his fifth quiz to achieve an average of 94, we will follow these steps:
+
+1. **Calculate the total score needed for an average of 94 over 5 quizzes**: 
+   To find the total score required for an average, we multiply the desired average by the number of quizzes. 
+   \[
+   \text{Total needed} = \text{Desired average} \times \text{Number of quizzes} = 94 \times 5
+   \]
+   Performing the multiplication:
+   \[
+   94 \times 5 = 470
+   \]
+   This means Randy needs a total score of 470 points across all 5 quizzes.
+
+2. **Calculate the sum of the scores from the first four quizzes**: 
+   Now, we will add the scores from Randy's first four quizzes: 90, 98, 92, and 94.
+   \[
+   \text{Sum of first four quizzes} = 90 + 98 + 92 + 94
+   \]
+   Performing the addition step by step:
+   \[
+   90 + 98 = 188
+   \]
+   \[
+   188 + 92 = 280
+   \]
+   \[
+   280 + 94 = 374
+   \]
+   So, the total score from the first four quizzes is 374.
+
+3. **Determine the score needed on the fifth quiz**: 
+   To find out what score Randy needs on the fifth quiz, we subtract the sum of the first four quizzes from the total score needed.
+   \[
+   \text{Score needed on fifth quiz} = \text{Total needed} - \text{Sum of first four quizzes} = 470 - 374
+   \]
+   Performing the subtraction:
+   \[
+   470 - 374 = 96
+   \]
+   Therefore, Randy needs to score 96 on his fifth quiz to achieve an average of 94.
+</reasoning>
+<answer>96</answer>

@@ -1,0 +1,53 @@
+<reasoning>
+To find out how much money Joe has left after spending on chocolates and fruits, we will follow these steps:
+
+1. **Calculate the amount spent on chocolates**:
+   Joe spent 1/9 of his pocket money on chocolates. His total pocket money is $450. 
+   To find out how much he spent on chocolates, we multiply his total pocket money by 1/9:
+   \[
+   \text{Amount spent on chocolates} = \frac{1}{9} \times 450
+   \]
+   Performing the multiplication:
+   \[
+   450 \div 9 = 50
+   \]
+   So, Joe spent $50 on chocolates.
+
+2. **Calculate the amount spent on fruits**:
+   Joe spent 2/5 of his pocket money on fruits. Again, we multiply his total pocket money by 2/5:
+   \[
+   \text{Amount spent on fruits} = \frac{2}{5} \times 450
+   \]
+   Performing the multiplication:
+   \[
+   450 \div 5 = 90 \quad \text{(this is how much 1/5 of $450 is)}
+   \]
+   Then, multiplying by 2:
+   \[
+   90 \times 2 = 180
+   \]
+   So, Joe spent $180 on fruits.
+
+3. **Calculate the total amount spent**:
+   Now we add the amounts spent on chocolates and fruits:
+   \[
+   \text{Total spent} = \text{Amount spent on chocolates} + \text{Amount spent on fruits}
+   \]
+   Thus:
+   \[
+   \text{Total spent} = 50 + 180 = 230
+   \]
+
+4. **Calculate the remaining money**:
+   To find out how much money Joe has left, we subtract the total amount spent from his total pocket money:
+   \[
+   \text{Remaining money} = \text{Total pocket money} - \text{Total spent}
+   \]
+   Therefore:
+   \[
+   \text{Remaining money} = 450 - 230 = 220
+   \]
+
+So, Joe has $220 left after his purchases.
+</reasoning>
+<answer>220</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many barrels of water are left for the fourth neighborhood, we need to first calculate how much water is used by the first three neighborhoods combined.
+
+1. **Identify the usage of the first neighborhood**:
+   - The first neighborhood uses 150 barrels of water in a week.
+
+2. **Calculate the usage of the second neighborhood**:
+   - The second neighborhood uses twice as many barrels as the first neighborhood. 
+   - Therefore, the usage for the second neighborhood is: 
+     \[
+     2 \times 150 = 300 \text{ barrels}
+     \]
+
+3. **Calculate the usage of the third neighborhood**:
+   - The third neighborhood uses one hundred more barrels than the second neighborhood.
+   - Therefore, the usage for the third neighborhood is:
+     \[
+     300 + 100 = 400 \text{ barrels}
+     \]
+
+4. **Calculate the total usage of the first three neighborhoods**:
+   - Now, we add the usage of all three neighborhoods:
+     \[
+     150 + 300 + 400 = 850 \text{ barrels}
+     \]
+
+5. **Calculate the remaining barrels for the fourth neighborhood**:
+   - The water tower holds a total of 1200 barrels. To find out how many barrels are left for the fourth neighborhood, we subtract the total usage from the total capacity:
+     \[
+     1200 - 850 = 350 \text{ barrels}
+     \]
+
+Thus, the fourth neighborhood has 350 barrels of water left for its use.
+</reasoning>
+<answer>350</answer>

@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we need to determine how many apples Mary needs in total for 10 apple pies and then figure out how many more apples she needs to buy after considering the apples she already has.
+
+1. **Calculate the total number of apples needed for 10 pies**:
+   Each pie requires 8 apples. Therefore, to find out how many apples are needed for 10 pies, we multiply the number of pies by the number of apples per pie:
+   \[
+   \text{Total apples needed} = \text{Number of pies} \times \text{Apples per pie} = 10 \times 8 = 80
+   \]
+   This calculation tells us that Mary needs a total of 80 apples to bake 10 pies.
+
+2. **Determine how many apples Mary already has**:
+   Mary has already harvested 50 apples from her garden. 
+
+3. **Calculate how many more apples she needs to buy**:
+   To find out how many more apples Mary needs to buy, we subtract the number of apples she already has from the total number of apples needed:
+   \[
+   \text{Apples needed to buy} = \text{Total apples needed} - \text{Apples already harvested} = 80 - 50 = 30
+   \]
+   This calculation shows that Mary needs 30 more apples to have enough for her 10 pies.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

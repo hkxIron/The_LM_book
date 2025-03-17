@@ -1,0 +1,57 @@
+<reasoning>
+To find out how many apples Layla picked, we need to first understand the concept of average. The average number of apples picked by the three girls is calculated by adding the number of apples each girl picked and then dividing that total by the number of girls.
+
+1. Let's denote the number of apples Layla picked as L. 
+2. According to the problem, Maggie picked 40 apples, Kelsey picked 28 apples, and the average for the three of them is 30 apples. 
+
+We can set up the equation for the average:
+
+\[
+\text{Average} = \frac{\text{Total number of apples}}{\text{Number of girls}}
+\]
+
+3. We know that the average is 30 and there are 3 girls. Therefore, we can write:
+
+\[
+30 = \frac{40 + 28 + L}{3}
+\]
+
+4. To eliminate the fraction, we multiply both sides by 3:
+
+\[
+30 \times 3 = 40 + 28 + L
+\]
+
+5. This simplifies to:
+
+\[
+90 = 40 + 28 + L
+\]
+
+6. Next, we add 40 and 28:
+
+\[
+40 + 28 = 68
+\]
+
+7. So now our equation looks like this:
+
+\[
+90 = 68 + L
+\]
+
+8. To find L, we subtract 68 from both sides:
+
+\[
+L = 90 - 68
+\]
+
+9. Calculating this gives:
+
+\[
+L = 22
+\]
+
+Thus, Layla picked 22 apples.
+</reasoning>
+<answer>22</answer>

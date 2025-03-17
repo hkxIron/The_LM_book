@@ -1,0 +1,48 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the total number of slices from the pies:**
+   Rebecca bought 2 pies, and each pie is sliced into 8 slices. Therefore, the total number of slices can be calculated as:
+   \[
+   \text{Total slices} = 2 \, \text{pies} \times 8 \, \text{slices/pie} = 16 \, \text{slices}
+   \]
+
+2. **Calculate how many slices Rebecca ate:**
+   Rebecca ate 1 slice from each pie, which totals:
+   \[
+   \text{Slices eaten by Rebecca} = 1 \, \text{slice} + 1 \, \text{slice} = 2 \, \text{slices}
+   \]
+
+3. **Calculate the remaining slices after Rebecca ate:**
+   To find the remaining slices, we subtract the slices Rebecca ate from the total slices:
+   \[
+   \text{Remaining slices} = 16 \, \text{slices} - 2 \, \text{slices} = 14 \, \text{slices}
+   \]
+
+4. **Determine how many slices her family and friends ate:**
+   Her family and friends ate 50% of the remaining slices. We calculate 50% of 14 slices:
+   \[
+   \text{Slices eaten by family and friends} = 0.5 \times 14 \, \text{slices} = 7 \, \text{slices}
+   \]
+
+5. **Calculate the remaining slices after her family and friends ate:**
+   We now subtract the slices eaten by her family and friends from the remaining slices:
+   \[
+   \text{Remaining slices after family and friends} = 14 \, \text{slices} - 7 \, \text{slices} = 7 \, \text{slices}
+   \]
+
+6. **Determine how many slices Rebecca and her husband ate on Sunday:**
+   On Sunday evening, Rebecca and her husband each had another slice of pie:
+   \[
+   \text{Slices eaten on Sunday} = 1 \, \text{slice} + 1 \, \text{slice} = 2 \, \text{slices}
+   \]
+
+7. **Calculate the final number of slices remaining:**
+   Subtract the slices eaten on Sunday from the remaining slices:
+   \[
+   \text{Final remaining slices} = 7 \, \text{slices} - 2 \, \text{slices} = 5 \, \text{slices}
+   \]
+
+Therefore, after all the calculations, the number of slices remaining is:
+</reasoning>
+<answer>5</answer>

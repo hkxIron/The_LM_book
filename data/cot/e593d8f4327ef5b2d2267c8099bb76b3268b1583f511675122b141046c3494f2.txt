@@ -1,0 +1,48 @@
+<reasoning>
+Let's denote the number of phone messages Mindy has as \( x \). According to the problem, Mindy has 7 less than 9 times as many emails as phone messages. We can express the number of emails she has as:
+
+\[
+\text{Emails} = 9x - 7
+\]
+
+We also know that the total number of emails and phone messages combined is 93. Therefore, we can set up the following equation:
+
+\[
+\text{Emails} + \text{Phone Messages} = 93
+\]
+
+Substituting the expression for emails into this equation gives us:
+
+\[
+(9x - 7) + x = 93
+\]
+
+Now, let's combine like terms:
+
+\[
+9x - 7 + x = 93 \implies 10x - 7 = 93
+\]
+
+Next, we need to isolate \( x \). We can do this by adding 7 to both sides of the equation:
+
+\[
+10x - 7 + 7 = 93 + 7 \implies 10x = 100
+\]
+
+Now, divide both sides by 10 to solve for \( x \):
+
+\[
+x = \frac{100}{10} = 10
+\]
+
+Now that we have the number of phone messages \( x = 10 \), we can substitute back to find the number of emails:
+
+\[
+\text{Emails} = 9x - 7 = 9(10) - 7 = 90 - 7 = 83
+\]
+
+Thus, Mindy has 83 emails. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>83</answer>

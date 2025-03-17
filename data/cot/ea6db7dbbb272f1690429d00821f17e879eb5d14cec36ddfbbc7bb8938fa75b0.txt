@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many miles Nicki ran in total for the year, we first need to determine the total mileage for each half of the year separately.
+
+1. **Determine the mileage for the first half of the year**:
+   - Nicki ran 20 miles per week for the first half of the year. There are 26 weeks in half a year (since a year has 52 weeks).
+   - To find the total mileage for the first half, we multiply the weekly mileage by the number of weeks:
+     \[
+     \text{Total mileage for first half} = 20 \text{ miles/week} \times 26 \text{ weeks} = 520 \text{ miles}
+     \]
+
+2. **Determine the mileage for the second half of the year**:
+   - For the second half of the year, she increased her mileage to 30 miles per week for another 26 weeks.
+   - Similarly, we calculate the total mileage for the second half:
+     \[
+     \text{Total mileage for second half} = 30 \text{ miles/week} \times 26 \text{ weeks} = 780 \text{ miles}
+     \]
+
+3. **Calculate the total mileage for the year**:
+   - Now, we add the total mileage from both halves of the year to find the overall mileage:
+     \[
+     \text{Total mileage for the year} = 520 \text{ miles} + 780 \text{ miles} = 1300 \text{ miles}
+     \]
+
+Therefore, after calculating the total miles Nicki ran over the year, we find that she ran a total of 1300 miles.
+</reasoning>
+<answer>1300</answer>

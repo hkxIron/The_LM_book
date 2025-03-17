@@ -1,0 +1,38 @@
+<reasoning>
+Let's denote the initial number of strawberry plants that Mark planted as \( x \).
+
+1. **Understanding the growth of the plants:** 
+   Every month, the number of strawberry plants doubles. Therefore, after the first month, he will have \( 2x \) plants. After the second month, he will have \( 2(2x) = 4x \) plants. After the third month, he will have \( 2(4x) = 8x \) plants.
+
+2. **Accounting for the plants given away:**
+   After 3 months, Mark digs up 4 strawberry plants and gives them to his friend. So, the number of plants he has after giving away 4 plants is \( 8x - 4 \).
+
+3. **Setting up the equation:**
+   We know that after giving away the 4 plants, Mark still has 20 plants left. This gives us the equation:
+   \[
+   8x - 4 = 20
+   \]
+
+4. **Solving the equation:**
+   To solve for \( x \), we first add 4 to both sides of the equation:
+   \[
+   8x - 4 + 4 = 20 + 4
+   \]
+   Simplifying this, we get:
+   \[
+   8x = 24
+   \]
+
+   Next, we divide both sides by 8 to isolate \( x \):
+   \[
+   x = \frac{24}{8}
+   \]
+   Simplifying this gives:
+   \[
+   x = 3
+   \]
+
+5. **Conclusion:**
+   Therefore, Mark initially planted 3 strawberry plants.
+</reasoning>
+<answer>3</answer>

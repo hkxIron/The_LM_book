@@ -1,0 +1,66 @@
+<reasoning>
+To solve this problem, we will break it down into clear steps.
+
+1. **Calculate the total number of pens given to the students**: 
+   Sally has 44 students and she gives each student 7 pens. To find out how many pens she gave away in total, we multiply the number of students by the number of pens each received.
+
+   \[
+   \text{Total pens given} = 44 \times 7
+   \]
+
+   Performing the multiplication:
+
+   \[
+   44 \times 7 = 308
+   \]
+
+   So, Sally gave away 308 pens.
+
+2. **Calculate the remainder of pens after giving them to students**: 
+   We need to find out how many pens Sally has left after giving 308 pens to her students. We start with 342 pens and subtract the 308 pens given away.
+
+   \[
+   \text{Remainder of pens} = 342 - 308
+   \]
+
+   Performing the subtraction:
+
+   \[
+   342 - 308 = 34
+   \]
+
+   Therefore, Sally has 34 pens remaining.
+
+3. **Determine how many pens she left in her locker**: 
+   Sally leaves half of the remaining pens in her locker. To find out how many pens that is, we divide the remaining number of pens by 2.
+
+   \[
+   \text{Pens in locker} = \frac{34}{2}
+   \]
+
+   Performing the division:
+
+   \[
+   \frac{34}{2} = 17
+   \]
+
+   So, Sally leaves 17 pens in her locker.
+
+4. **Calculate how many pens she takes home**: 
+   The number of pens she takes home is the remainder of the pens after leaving half in her locker. Since she had 34 pens remaining and left 17 in her locker, we subtract the number left in the locker from the total remaining pens.
+
+   \[
+   \text{Pens taken home} = 34 - 17
+   \]
+
+   Performing the subtraction:
+
+   \[
+   34 - 17 = 17
+   \]
+
+   Thus, Sally takes home 17 pens.
+
+Now we summarize the result:
+</reasoning>
+<answer>17</answer>

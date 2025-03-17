@@ -1,0 +1,20 @@
+<reasoning>
+To solve this problem, we need to determine how much water the sprinkler system uses in a single day and then calculate how many days it would take to use a total of 50 liters.
+
+1. **Calculate the total water used in one day:**
+   - In the morning, the sprinkler system uses 4 liters.
+   - In the evening, it uses 6 liters.
+   - Therefore, the total water used in one day is:
+     \[
+     4 \text{ liters (morning)} + 6 \text{ liters (evening)} = 10 \text{ liters}
+     \]
+
+2. **Determine how many days it takes to use 50 liters:**
+   - Now that we know the sprinkler system uses 10 liters per day, we need to find out how many days it takes to reach 50 liters. We can do this by dividing the total amount of water by the daily usage:
+     \[
+     \text{Number of days} = \frac{50 \text{ liters}}{10 \text{ liters/day}} = 5 \text{ days}
+     \]
+
+Thus, after calculating the total water usage per day and dividing the total amount of water by the daily usage, we find that it takes 5 days for the sprinkler system to use 50 liters of water.
+</reasoning>
+<answer>5</answer>

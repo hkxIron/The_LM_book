@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many students were there last year, we need to understand that the current number of students (960) represents an increase of 20% over the previous year's total.
+
+1. **Identify the relationship**: If the number of students increased by 20%, that means the current number of students is 120% of the number of students from last year. We can express this mathematically as:
+   \[
+   \text{Current Students} = \text{Last Year's Students} \times 1.20
+   \]
+   or equivalently,
+   \[
+   \text{Last Year's Students} = \frac{\text{Current Students}}{1.20}
+   \]
+
+2. **Substitute the known value**: We know the current number of students is 960, so we will substitute that into the equation:
+   \[
+   \text{Last Year's Students} = \frac{960}{1.20}
+   \]
+
+3. **Calculate**: Now we perform the division:
+   \[
+   \text{Last Year's Students} = \frac{960}{1.20} = 800
+   \]
+
+This means there were 800 students last year. 
+
+Thus, my final answer is:
+</reasoning>
+<answer>800</answer>

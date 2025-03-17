@@ -1,0 +1,28 @@
+<reasoning>
+To determine how many shirts Mandy bought in total, we need to calculate the number of shirts she purchased from both the black and yellow packs.
+
+1. **Calculate the number of black shirts:**
+   - Mandy bought 3 packs of black shirts.
+   - Each pack contains 5 black shirts.
+   - Therefore, we multiply the number of packs by the number of shirts per pack:
+     \[
+     \text{Total black shirts} = 3 \text{ packs} \times 5 \text{ shirts per pack} = 15 \text{ black shirts}
+     \]
+
+2. **Calculate the number of yellow shirts:**
+   - Mandy bought 3 packs of yellow shirts.
+   - Each pack contains 2 yellow shirts.
+   - We multiply the number of packs by the number of shirts per pack:
+     \[
+     \text{Total yellow shirts} = 3 \text{ packs} \times 2 \text{ shirts per pack} = 6 \text{ yellow shirts}
+     \]
+
+3. **Add the total number of black shirts and yellow shirts:**
+   - Now, we need to find the total number of shirts by adding the number of black shirts and yellow shirts together:
+     \[
+     \text{Total shirts} = \text{Total black shirts} + \text{Total yellow shirts} = 15 + 6 = 21
+     \]
+
+Thus, Mandy bought a total of 21 shirts for her tennis team.
+</reasoning>
+<answer>21</answer>

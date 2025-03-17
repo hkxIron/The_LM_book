@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine Jason's age when he joined the military:** 
+   - Jason joined the military at age 18.
+
+2. **Calculate the time taken to reach the rank of chief:**
+   - It took him 8 years to achieve this rank.
+   - Therefore, his age when he became chief is: 
+     \[
+     18 + 8 = 26
+     \]
+
+3. **Calculate the time taken to go from chief to master chief:**
+   - The problem states that it took him 25% longer than the time it took to become chief.
+   - First, we find 25% of the 8 years it took to become chief:
+     \[
+     0.25 \times 8 = 2
+     \]
+   - Now, we add this to the original 8 years to find the total time taken to become master chief:
+     \[
+     8 + 2 = 10 \text{ years}
+     \]
+   - Therefore, his age when he became master chief is:
+     \[
+     26 + 10 = 36
+     \]
+
+4. **Determine the total time he spent in the military after becoming master chief:**
+   - He spent an additional 10 years in the military after reaching the rank of master chief.
+   - So, his age at retirement is:
+     \[
+     36 + 10 = 46
+     \]
+
+Thus, after going through all the steps, we find that Jason was 46 years old when he retired.
+</reasoning>
+<answer>46</answer>

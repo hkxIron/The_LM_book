@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Magazines bought on Friday**: Alexandra bought 8 magazines.
+   - We note that the total magazines after Friday is 8.
+
+2. **Magazines bought on Saturday**: She then bought 12 more magazines.
+   - To find the total after Saturday, we add the magazines bought on Friday and Saturday:
+   \[
+   8 + 12 = 20
+   \]
+   - Now she has 20 magazines.
+
+3. **Magazines bought on Sunday**: On Sunday, she bought four times the number of magazines she bought on Friday. Since she bought 8 magazines on Friday, we calculate:
+   \[
+   4 \times 8 = 32
+   \]
+   - So, she bought 32 magazines on Sunday. 
+
+4. **Total magazines after Sunday**: Now we add the magazines she had before Sunday to the ones she bought on Sunday:
+   \[
+   20 + 32 = 52
+   \]
+   - Now she has 52 magazines.
+
+5. **Magazines chewed by the dog**: Later, she discovered that her dog chewed up 4 magazines. To find the total number of magazines left, we subtract the chewed magazines:
+   \[
+   52 - 4 = 48
+   \]
+   - Now she has 48 magazines remaining.
+
+Therefore, after all the purchases and the incident with her dog, Alexandra has 48 magazines.
+</reasoning>
+<answer>48</answer>

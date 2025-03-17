@@ -1,0 +1,30 @@
+<reasoning>
+To solve how many water balloons Tom filled up, we need to follow a series of steps based on the relationships given in the problem.
+
+1. **Identify how many balloons Luke filled up**:
+   The problem states that Luke filled up one fourth as many balloons as Anthony. Since we know that Anthony filled up 44 water balloons, we can calculate how many balloons Luke filled.
+
+   \[
+   \text{Luke's balloons} = \frac{1}{4} \times \text{Anthony's balloons}
+   \]
+   Substituting in the number of balloons Anthony filled:
+   \[
+   \text{Luke's balloons} = \frac{1}{4} \times 44 = 11
+   \]
+
+2. **Determine how many balloons Tom filled up**:
+   The problem also states that Tom filled up 3 times as many water balloons as Luke. Now that we know Luke filled up 11 balloons, we can calculate how many balloons Tom filled.
+
+   \[
+   \text{Tom's balloons} = 3 \times \text{Luke's balloons}
+   \]
+   Substituting in the number of balloons Luke filled:
+   \[
+   \text{Tom's balloons} = 3 \times 11 = 33
+   \]
+
+After completing these calculations, we find that Tom filled up a total of 33 water balloons.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>33</answer>

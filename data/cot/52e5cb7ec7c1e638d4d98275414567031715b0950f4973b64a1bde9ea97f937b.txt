@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much money Alan spent at the market, we need to calculate the total cost of the eggs and the total cost of the chickens separately, and then add those two amounts together.
+
+1. **Calculate the cost of the eggs:**
+   - Alan bought 20 eggs at a price of $2 per egg.
+   - We can find the total cost of the eggs by multiplying the number of eggs by the price per egg:
+     \[
+     \text{Cost of eggs} = \text{Number of eggs} \times \text{Price per egg} = 20 \times 2
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Cost of eggs} = 20 \times 2 = 40
+     \]
+   - So, Alan spent $40 on eggs.
+
+2. **Calculate the cost of the chickens:**
+   - Alan bought 6 chickens at a price of $8 per chicken.
+   - We can find the total cost of the chickens by multiplying the number of chickens by the price per chicken:
+     \[
+     \text{Cost of chickens} = \text{Number of chickens} \times \text{Price per chicken} = 6 \times 8
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Cost of chickens} = 6 \times 8 = 48
+     \]
+   - So, Alan spent $48 on chickens.
+
+3. **Calculate the total money spent:**
+   - Now, we add the total cost of the eggs and the total cost of the chickens to find out how much Alan spent in total:
+     \[
+     \text{Total spent} = \text{Cost of eggs} + \text{Cost of chickens} = 40 + 48
+     \]
+   - Performing the addition:
+     \[
+     \text{Total spent} = 40 + 48 = 88
+     \]
+   - Therefore, Alan spent a total of $88 at the market.
+</reasoning>
+<answer>88</answer>

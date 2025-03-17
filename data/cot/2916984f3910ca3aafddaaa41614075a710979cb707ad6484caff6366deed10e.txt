@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the variables**:
+   - Let Asaf's age be \( A \) and Alexander's age be \( X \).
+   - Let the number of pencils Asaf has be \( P \).
+   - Alexander has \( P + 60 \) pencils since he has 60 more than Asaf.
+
+2. **Given information**:
+   - Asaf's age \( A = 50 \).
+   - The sum of their ages is \( A + X = 140 \).
+
+3. **Substituting Asaf's age into the age sum equation**:
+   - Substitute \( A = 50 \) into the equation \( A + X = 140 \):
+     \[
+     50 + X = 140
+     \]
+   - To find Alexander's age \( X \), we solve for \( X \):
+     \[
+     X = 140 - 50 = 90
+     \]
+   So, Alexander is 90 years old.
+
+4. **Understanding the age difference**:
+   - The age difference between Asaf and Alexander is \( X - A = 90 - 50 = 40 \).
+
+5. **Using the relationship of age difference and pencils**:
+   - According to the problem, the age difference is half the total number of pencils Asaf has:
+     \[
+     40 = \frac{1}{2} P
+     \]
+   - To find \( P \), we multiply both sides by 2:
+     \[
+     P = 40 \times 2 = 80
+     \]
+   So, Asaf has 80 pencils.
+
+6. **Calculating the number of pencils Alexander has**:
+   - Since Alexander has 60 more pencils than Asaf:
+     \[
+     \text{Pencils Alexander has} = P + 60 = 80 + 60 = 140
+     \]
+
+7. **Calculating the total number of pencils they have together**:
+   - The total number of pencils is:
+     \[
+     \text{Total pencils} = P + (P + 60) = 80 + 140 = 220
+     \]
+
+Now, having followed these steps clearly and calculated the total:
+</reasoning>
+<answer>220</answer>

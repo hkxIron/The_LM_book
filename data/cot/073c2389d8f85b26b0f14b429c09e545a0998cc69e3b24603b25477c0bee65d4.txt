@@ -1,0 +1,75 @@
+<reasoning>
+Let's start by determining how many scoops of ice cream Mary has in total.
+
+1. **Calculate Total Scoops in Cartons:**
+   - Each carton contains 10 scoops.
+   - Mary has 3 cartons, so the total number of scoops in all cartons is:
+     \[
+     3 \text{ cartons} \times 10 \text{ scoops/carton} = 30 \text{ scoops}
+     \]
+
+2. **Determine the Demand for Ice Cream:**
+   - Ethan wants:
+     - 1 scoop of vanilla
+     - 1 scoop of chocolate
+   - Lucas wants:
+     - 2 scoops of chocolate
+   - Danny wants:
+     - 2 scoops of chocolate
+   - Connor wants:
+     - 2 scoops of chocolate
+   - Olivia wants:
+     - 1 scoop of vanilla
+     - 1 scoop of strawberry
+   - Shannon wants:
+     - Twice as much as Olivia, which is:
+       - 2 scoops of vanilla
+       - 2 scoops of strawberry
+
+3. **Calculate Total Scoops Requested:**
+   - For chocolate:
+     - Ethan: 1 scoop
+     - Lucas: 2 scoops
+     - Danny: 2 scoops
+     - Connor: 2 scoops
+     - Total chocolate scoops:
+       \[
+       1 + 2 + 2 + 2 = 7 \text{ scoops of chocolate}
+       \]
+   
+   - For vanilla:
+     - Ethan: 1 scoop
+     - Olivia: 1 scoop
+     - Shannon: 2 scoops
+     - Total vanilla scoops:
+       \[
+       1 + 1 + 2 = 4 \text{ scoops of vanilla}
+       \]
+   
+   - For strawberry:
+     - Olivia: 1 scoop
+     - Shannon: 2 scoops
+     - Total strawberry scoops:
+       \[
+       1 + 2 = 3 \text{ scoops of strawberry}
+       \]
+
+4. **Summing Up Total Requested Scoops:**
+   Now we can sum the total number of scoops requested for each flavor.
+   - Total scoops requested:
+     \[
+     7 \text{ (chocolate)} + 4 \text{ (vanilla)} + 3 \text{ (strawberry)} = 14 \text{ scoops}
+     \]
+
+5. **Calculate Remaining Scoops:**
+   Finally, we find out how many scoops are left after fulfilling the requests.
+   - Total scoops initially = 30
+   - Total scoops requested = 14
+   - Remaining scoops:
+     \[
+     30 - 14 = 16 \text{ scoops}
+     \]
+
+Therefore, after distributing the requested scoops, Mary will have 16 scoops of ice cream left.
+</reasoning>
+<answer>16</answer>

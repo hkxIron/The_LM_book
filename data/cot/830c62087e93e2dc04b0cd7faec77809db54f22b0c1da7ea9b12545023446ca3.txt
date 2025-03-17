@@ -1,0 +1,30 @@
+<reasoning>
+To determine how long it will take Maryann to rescue her three friends, we need to calculate the total time it will take her to pick the locks on both the expensive and cheap handcuffs.
+
+1. **Identify the number of locks to pick**: 
+   - Each friend has expensive handcuffs on their hands (3 friends) and cheap handcuffs on their ankles (3 friends).
+   - This means Maryann needs to pick the locks on 3 pairs of expensive handcuffs and 3 pairs of cheap handcuffs.
+
+2. **Calculate the time for expensive handcuffs**: 
+   - Maryann can pick one pair of expensive handcuffs in 8 minutes.
+   - For 3 pairs of expensive handcuffs, the total time will be:
+     \[
+     3 \text{ pairs} \times 8 \text{ minutes per pair} = 24 \text{ minutes}
+     \]
+
+3. **Calculate the time for cheap handcuffs**: 
+   - Maryann can pick one pair of cheap handcuffs in 6 minutes.
+   - For 3 pairs of cheap handcuffs, the total time will be:
+     \[
+     3 \text{ pairs} \times 6 \text{ minutes per pair} = 18 \text{ minutes}
+     \]
+
+4. **Total time to rescue all friends**: 
+   - Now, we add the time taken for both types of handcuffs:
+     \[
+     24 \text{ minutes (for expensive handcuffs)} + 18 \text{ minutes (for cheap handcuffs)} = 42 \text{ minutes}
+     \]
+
+Therefore, the total time it will take for Maryann to free all of her friends is 42 minutes.
+</reasoning>
+<answer>42</answer>

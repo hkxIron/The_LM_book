@@ -1,0 +1,36 @@
+<reasoning>
+First, we need to determine how many tickets Wally gives away. Wally has a total of 400 tickets and he gives away 3/4 of them.
+
+1. **Calculate 3/4 of 400 tickets:**
+   \[
+   \text{Tickets given away} = \frac{3}{4} \times 400
+   \]
+   To perform the multiplication, we can multiply 400 by 3 and then divide by 4.
+   \[
+   \frac{3 \times 400}{4} = \frac{1200}{4} = 300
+   \]
+   So, Wally gives away 300 tickets.
+
+2. **Determine the ratio in which Jensen and Finley share the tickets:**
+   Jensen and Finley share the tickets in the ratio of 4:11. This means that for every 4 parts Jensen gets, Finley gets 11 parts.
+
+3. **Calculate the total number of parts:**
+   \[
+   \text{Total parts} = 4 + 11 = 15
+   \]
+
+4. **Find the value of one part:**
+   To find out how many tickets correspond to one part, we divide the total number of tickets shared (300) by the total number of parts (15):
+   \[
+   \text{Value of one part} = \frac{300}{15} = 20
+   \]
+
+5. **Calculate the number of tickets Finley gets:**
+   Finley receives 11 parts. So, we multiply the value of one part by the number of parts Finley gets:
+   \[
+   \text{Tickets Finley gets} = 11 \times 20 = 220
+   \]
+
+Therefore, Finley gets 220 tickets.
+</reasoning>
+<answer>220</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to calculate the total profit Peggy would make from both Sammy's and Bryan's offers, and then find the difference between the two.
+
+1. **Calculating Sammy's Offer:**
+   - Sammy is willing to buy all of Peggy's records for $4 each.
+   - Since Peggy has 200 records, we calculate:
+     \[
+     \text{Total from Sammy} = 200 \text{ records} \times 4 \text{ dollars/record} = 800 \text{ dollars}
+     \]
+
+2. **Calculating Bryan's Offer:**
+   - Bryan is only interested in half of Peggy's records and will pay $6 for each of those.
+   - Half of 200 records is:
+     \[
+     \text{Half of records} = \frac{200}{2} = 100 \text{ records}
+     \]
+   - Thus, the total amount Bryan will pay for the records he wants is:
+     \[
+     \text{Total from Bryan for interested records} = 100 \text{ records} \times 6 \text{ dollars/record} = 600 \text{ dollars}
+     \]
+   - For the other half (the remaining 100 records), Bryan will pay $1 each:
+     \[
+     \text{Total from Bryan for remaining records} = 100 \text{ records} \times 1 \text{ dollar/record} = 100 \text{ dollars}
+     \]
+   - Now we can calculate the total amount Bryan will pay:
+     \[
+     \text{Total from Bryan} = 600 \text{ dollars} + 100 \text{ dollars} = 700 \text{ dollars}
+     \]
+
+3. **Calculating the Difference in Profit:**
+   - Now we find the difference in profit between Sammy's and Bryan's offers:
+     \[
+     \text{Difference} = \text{Total from Sammy} - \text{Total from Bryan} = 800 \text{ dollars} - 700 \text{ dollars} = 100 \text{ dollars}
+     \]
+
+Thus, Peggy would make $100 more by selling her records to Sammy compared to Bryan.
+</reasoning>
+<answer>100</answer>

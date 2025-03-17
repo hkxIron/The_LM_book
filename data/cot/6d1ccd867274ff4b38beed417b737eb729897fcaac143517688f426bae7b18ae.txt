@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Starting Point**: Jeff currently has 3 cabinets over one counter. So, we start with:
+   \[
+   \text{Initial cabinets} = 3
+   \]
+
+2. **Installing More Cabinets**: Jeff installs twice as many cabinets over 3 different counters. We need to calculate how many cabinets that is. 
+
+   - First, we find out how many cabinets he installs per counter:
+   \[
+   \text{Cabinets per counter} = 2 \times 3 = 6
+   \]
+   This means Jeff installs 6 cabinets over each of the 3 counters.
+
+   - Now, we find the total number of cabinets installed over the 3 counters:
+   \[
+   \text{Total cabinets over 3 counters} = 6 \times 3 = 18
+   \]
+
+3. **Adding More Cabinets**: After installing the cabinets over the 3 counters, Jeff installs 5 more cabinets. We need to add these to the total number already calculated:
+   \[
+   \text{Total cabinets after adding more} = 18 + 5 = 23
+   \]
+
+4. **Calculating the Grand Total**: Now, we add the initial cabinets to the total cabinets installed:
+   \[
+   \text{Grand Total Cabinets} = 3 + 18 + 5 = 26
+   \]
+
+Thus, after all the installations, Jeff has a total of 26 cabinets in his kitchen.
+</reasoning>
+<answer>26</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to understand how to count the total number of heads and legs of the emus. 
+
+1. **Understanding the problem**: Each emu has 1 head and 2 legs. Therefore, if we denote the number of emus as \( x \), we can set up equations based on the total number of heads and legs.
+
+2. **Setting up the equations**:
+   - The number of heads: Since each emu has 1 head, the total number of heads contributed by \( x \) emus is \( x \).
+   - The number of legs: Since each emu has 2 legs, the total number of legs contributed by \( x \) emus is \( 2x \).
+
+3. **Total count**: According to the problem, the total count of heads and legs is 60. Therefore, we can set up the following equation:
+   \[
+   x + 2x = 60
+   \]
+
+4. **Combining like terms**: Simplifying the equation gives:
+   \[
+   3x = 60
+   \]
+
+5. **Solving for \( x \)**: To find the number of emus, we divide both sides of the equation by 3:
+   \[
+   x = \frac{60}{3} = 20
+   \]
+
+Thus, Farmer Brown has 20 emus in his flock.
+</reasoning>
+<answer>20</answer>

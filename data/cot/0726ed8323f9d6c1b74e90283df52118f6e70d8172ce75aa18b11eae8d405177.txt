@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we need to calculate the number of vehicles passing through both the old and new bridges and then find the total for a year.
+
+1. **Calculate the monthly vehicle count for the old bridge:**
+   The old bridge has 2000 vehicles passing through it every month.
+
+2. **Calculate the new bridge's capacity:**
+   The new bridge has twice the capacity of the old bridge. Therefore, its capacity is:
+   \[
+   2 \times 2000 = 4000 \text{ vehicles}
+   \]
+
+3. **Calculate the increase in vehicles for the new bridge:**
+   The new bridge is expected to have 60% more vehicles than the old bridge. First, we find 60% of the old bridge's monthly vehicle count:
+   \[
+   60\% \text{ of } 2000 = 0.6 \times 2000 = 1200 \text{ vehicles}
+   \]
+   Now, add this increase to the old bridge's monthly count to find the new bridge's vehicle count:
+   \[
+   2000 + 1200 = 3200 \text{ vehicles}
+   \]
+
+4. **Calculate the total number of vehicles passing through both bridges in one month:**
+   The total number of vehicles for one month is:
+   \[
+   2000 \text{ (old bridge)} + 3200 \text{ (new bridge)} = 5200 \text{ vehicles}
+   \]
+
+5. **Calculate the total number of vehicles for one year (12 months):**
+   To find the total for a year, we multiply the monthly total by 12:
+   \[
+   5200 \times 12 = 62400 \text{ vehicles}
+   \]
+
+Therefore, the total number of vehicles that pass through both bridges over the course of a year is:
+</reasoning>
+<answer>62400</answer>

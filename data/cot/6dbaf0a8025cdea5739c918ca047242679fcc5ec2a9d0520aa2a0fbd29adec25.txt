@@ -1,0 +1,35 @@
+<reasoning>
+First, we need to determine how many pounds of potato chips Lucy needs to buy for the party. Since there are 10 people at the party and each person is going to get 1.2 pounds of potato chips, we can calculate the total weight of potato chips needed by multiplying the number of people by the amount each person will receive.
+
+1. **Calculate total pounds needed:**
+   \[
+   \text{Total pounds} = \text{Number of people} \times \text{Pounds per person} = 10 \times 1.2
+   \]
+   \[
+   \text{Total pounds} = 12 \text{ pounds}
+   \]
+   Here, I multiplied 10 (the number of people) by 1.2 (the amount of chips each person gets) to find that Lucy needs a total of 12 pounds of potato chips.
+
+2. **Calculate the total cost in cents:**
+   Next, we calculate the total cost of the potato chips. The cost per pound is 25 cents, so we multiply the total pounds needed by the cost per pound.
+   \[
+   \text{Total cost in cents} = \text{Total pounds} \times \text{Cost per pound} = 12 \times 25
+   \]
+   \[
+   \text{Total cost in cents} = 300 \text{ cents}
+   \]
+   In this step, I multiplied the total weight (12 pounds) by the cost per pound (25 cents) to find that the total cost is 300 cents.
+
+3. **Convert the total cost to dollars:**
+   Since the problem asks for the total cost in dollars, we need to convert cents to dollars. There are 100 cents in a dollar, so we divide the total cost in cents by 100.
+   \[
+   \text{Total cost in dollars} = \frac{\text{Total cost in cents}}{100} = \frac{300}{100}
+   \]
+   \[
+   \text{Total cost in dollars} = 3 \text{ dollars}
+   \]
+   Here, I divided the total cost in cents (300) by 100 to convert it to dollars, resulting in a total cost of 3 dollars.
+
+Therefore, the total amount Lucy will pay for the potato chips is:
+</reasoning>
+<answer>3</answer>

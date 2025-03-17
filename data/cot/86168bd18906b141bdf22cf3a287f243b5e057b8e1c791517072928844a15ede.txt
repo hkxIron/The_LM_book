@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem, we will break it down into steps.
+
+1. **Determine the number of students in the Biology class**: 
+   The problem states that the Biology class has half as many students as the Physics class. Given that the Physics class has 200 students, we can calculate the number of students in the Biology class.
+   \[
+   \text{Number of students in Biology class} = \frac{200}{2} = 100
+   \]
+
+2. **Set up the relationship between boys and girls**: 
+   According to the problem, there are three times as many girls as boys in the Biology class. If we let \( b \) represent the number of boys in the Biology class, then the number of girls can be represented as \( 3b \) (since there are three times as many girls as boys).
+
+3. **Create an equation for the total number of students**: 
+   The total number of students in the Biology class consists of both boys and girls.
+   \[
+   b + 3b = 100
+   \]
+
+4. **Combine like terms**: 
+   We can simplify the equation:
+   \[
+   4b = 100
+   \]
+
+5. **Solve for \( b \)**: 
+   To find the number of boys, we will divide both sides of the equation by 4.
+   \[
+   b = \frac{100}{4} = 25
+   \]
+
+Thus, the number of boys in the Biology class is 25.
+</reasoning>
+<answer>25</answer>

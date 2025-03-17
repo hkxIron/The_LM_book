@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Amount**: Hannah started with $30.
+
+2. **Spending on Rides**: She spent half of her money on rides. To find out how much she spent on rides, we calculate half of $30:
+   \[
+   \text{Amount spent on rides} = \frac{30}{2} = 15
+   \]
+   So, Hannah spent $15 on rides.
+
+3. **Remaining Amount After Rides**: Next, we need to find out how much money Hannah has left after spending $15 on rides. We subtract the amount spent on rides from her initial amount:
+   \[
+   \text{Remaining after rides} = 30 - 15 = 15
+   \]
+
+4. **Spending on Dessert**: Hannah then spent $5 on dessert. We need to subtract this amount from her remaining money:
+   \[
+   \text{Remaining after dessert} = 15 - 5 = 10
+   \]
+   Therefore, after spending on dessert, Hannah has $10 left.
+
+By following these steps, we have calculated how much Hannah has after her spending.
+</reasoning>
+<answer>10</answer>

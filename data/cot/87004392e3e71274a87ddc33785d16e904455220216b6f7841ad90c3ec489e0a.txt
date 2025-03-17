@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many hours William rode his horse in those 6 days, we will break down the information given step by step.
+
+1. **Determine the maximum riding time per day:**  
+   William can ride for a maximum of 6 hours a day.
+
+2. **Identify how many days he rode the maximum time:**  
+   He used the maximum riding time (6 hours) only twice during the 6 days.
+
+3. **Calculate the total hours for the days he rode the maximum time:**  
+   Since he rode for 6 hours on two days, we calculate:
+   \[
+   6 \text{ hours/day} \times 2 \text{ days} = 12 \text{ hours}
+   \]
+
+4. **Determine the riding time for the other days:**  
+   The problem states that on two days he rode for 1.5 hours. So we add:
+   \[
+   1.5 \text{ hours/day} \times 2 \text{ days} = 3 \text{ hours}
+   \]
+
+5. **Calculate the riding time for the next two days (half the maximum time):**  
+   Half of the maximum riding time (which is 6 hours) is:
+   \[
+   6 \text{ hours} \div 2 = 3 \text{ hours}
+   \]
+   Therefore, on the next two days, he rode:
+   \[
+   3 \text{ hours/day} \times 2 \text{ days} = 6 \text{ hours}
+   \]
+
+6. **Add up all the hours William rode over the 6 days:**  
+   Now we sum the hours from all the days:
+   \[
+   12 \text{ hours (maximum time)} + 3 \text{ hours} + 6 \text{ hours} = 21 \text{ hours}
+   \]
+
+Thus, the total number of hours William rode his horse during those 6 days is 21.
+</reasoning>
+<answer>21</answer>

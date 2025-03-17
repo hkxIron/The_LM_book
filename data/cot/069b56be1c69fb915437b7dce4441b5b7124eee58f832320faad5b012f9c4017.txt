@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many foreign students will be at the university after the arrival of 200 new foreign students, we'll follow these steps:
+
+1. **Calculate the current number of foreign students**: 
+   Since 30% of the 1800 students are foreign students, we need to find 30% of 1800.
+
+   \[
+   \text{Number of foreign students} = 0.30 \times 1800
+   \]
+
+   Performing the multiplication:
+
+   \[
+   0.30 \times 1800 = 540
+   \]
+
+   So, currently, there are 540 foreign students at the university.
+
+2. **Add the new foreign students**:
+   Next, we will add the 200 new foreign students who will start studying at the university.
+
+   \[
+   \text{Total foreign students after new arrivals} = \text{Current foreign students} + \text{New foreign students}
+   \]
+
+   Plugging in the numbers:
+
+   \[
+   \text{Total foreign students} = 540 + 200
+   \]
+
+   Performing the addition:
+
+   \[
+   540 + 200 = 740
+   \]
+
+3. **Conclusion**:
+   The total number of foreign students studying at the university after the new arrivals will be 740.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>740</answer>

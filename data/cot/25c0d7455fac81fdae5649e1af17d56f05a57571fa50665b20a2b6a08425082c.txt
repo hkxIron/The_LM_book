@@ -1,0 +1,37 @@
+<reasoning>
+First, we need to determine the cost of each fruit per piece to identify which fruit is cheaper.
+
+**Step 1: Calculate the price per apple.**
+The stand sells 10 apples for $2. To find the price of one apple, we divide the total cost by the number of apples:
+\[
+\text{Price per apple} = \frac{2 \text{ dollars}}{10 \text{ apples}} = 0.20 \text{ dollars per apple}
+\]
+
+**Step 2: Calculate the price per orange.**
+The stand sells 5 oranges for $1.50. We perform a similar calculation to find the price of one orange:
+\[
+\text{Price per orange} = \frac{1.50 \text{ dollars}}{5 \text{ oranges}} = 0.30 \text{ dollars per orange}
+\]
+
+**Step 3: Compare the prices.**
+Now we compare the two prices:
+- Price per apple: $0.20
+- Price per orange: $0.30
+
+Since $0.20 (apple) < $0.30 (orange), apples are the cheaper fruit.
+
+**Step 4: Calculate the cost of buying 12 apples.**
+Now that we know the price per apple, we can calculate the total cost for 12 apples:
+\[
+\text{Total cost for 12 apples} = 12 \text{ apples} \times 0.20 \text{ dollars per apple} = 2.40 \text{ dollars}
+\]
+
+**Step 5: Convert the total cost to cents.**
+Since the problem asks for the cost in cents, we need to convert dollars to cents by multiplying by 100:
+\[
+\text{Total cost in cents} = 2.40 \text{ dollars} \times 100 \text{ cents/dollar} = 240 \text{ cents}
+\]
+
+Therefore, Jane would spend 240 cents if she bought 12 apples.
+</reasoning>
+<answer>240</answer>

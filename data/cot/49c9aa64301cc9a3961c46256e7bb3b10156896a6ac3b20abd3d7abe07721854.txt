@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many grams of fat Robbie consumes in a week from rice, we need to follow these steps:
+
+1. **Calculate the total rice consumed in one day**: 
+   - In the morning, he eats 3 cups of rice.
+   - In the afternoon, he eats 2 cups of rice.
+   - In the evening, he eats 5 cups of rice.
+
+   So, we add these amounts together:
+   \[
+   3 \text{ cups} + 2 \text{ cups} + 5 \text{ cups} = 10 \text{ cups}
+   \]
+   This means Robbie consumes 10 cups of rice each day.
+
+2. **Calculate the total fat consumed from rice in one day**:
+   - Each cup of rice contains 10 grams of fat.
+   - Therefore, we multiply the total cups of rice by the grams of fat per cup:
+   \[
+   10 \text{ cups} \times 10 \text{ grams/cup} = 100 \text{ grams}
+   \]
+   Thus, Robbie consumes 100 grams of fat from rice each day.
+
+3. **Calculate the total fat consumed in a week**:
+   - There are 7 days in a week, so we multiply the daily fat intake by 7:
+   \[
+   100 \text{ grams/day} \times 7 \text{ days} = 700 \text{ grams}
+   \]
+   Hence, Robbie consumes a total of 700 grams of fat from rice in a week.
+
+Therefore, after performing all calculations and summarizing the steps, we find that Robbie's weekly fat intake from rice is:
+</reasoning>
+<answer>700</answer>

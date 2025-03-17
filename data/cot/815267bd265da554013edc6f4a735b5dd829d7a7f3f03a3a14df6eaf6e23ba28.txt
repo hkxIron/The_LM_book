@@ -1,0 +1,57 @@
+<reasoning>
+Let's denote the number of rubber bands that Bailey has initially as \( B \). According to the problem, Justine has 10 more rubber bands than Bailey, so we can express Justine's rubber bands as:
+
+\[
+J = B + 10
+\]
+
+The problem also states that Justine has 2 fewer rubber bands than Ylona. Therefore, we can express Ylona's rubber bands in terms of Justine's as follows:
+
+\[
+Y = J + 2
+\]
+
+Now, substituting Justine's expression into Ylona's expression gives us:
+
+\[
+Y = (B + 10) + 2 = B + 12
+\]
+
+Next, we know that Bailey gives 2 bands each to Justine and Ylona. Therefore, after giving away 4 bands (2 to Justine and 2 to Ylona), Bailey will have:
+
+\[
+B - 4
+\]
+
+According to the problem, after giving away the bands, Bailey is left with 8 rubber bands. We can set up the equation:
+
+\[
+B - 4 = 8
+\]
+
+Now, we will solve for \( B \):
+
+\[
+B = 8 + 4
+\]
+\[
+B = 12
+\]
+
+Now that we know Bailey has 12 rubber bands, we can find the number of rubber bands Justine and Ylona have:
+
+1. Calculate Justine's rubber bands:
+
+\[
+J = B + 10 = 12 + 10 = 22
+\]
+
+2. Calculate Ylona's rubber bands:
+
+\[
+Y = J + 2 = 22 + 2 = 24
+\]
+
+Thus, Ylona had 24 rubber bands in the beginning.
+</reasoning>
+<answer>24</answer>

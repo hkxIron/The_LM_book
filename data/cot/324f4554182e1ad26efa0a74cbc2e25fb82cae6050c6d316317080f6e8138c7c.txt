@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Number of Goldfish**: Martin starts with 18 goldfish.
+
+2. **Weekly Changes**: Each week, 5 goldfish die, and Martin buys 3 new goldfish. To find out the net change in the number of goldfish each week, we need to subtract the number of goldfish that die from the number that Martin buys.
+
+   - Goldfish that die each week: 5
+   - Goldfish that Martin buys each week: 3
+   - Net change each week: 3 (new) - 5 (died) = -2
+
+   This means that each week, Martin loses 2 goldfish.
+
+3. **Total Weeks**: We need to calculate the changes over 7 weeks.
+
+4. **Total Loss Over 7 Weeks**: Since Martin loses 2 goldfish each week, over 7 weeks, the total loss will be:
+   - Total loss = 2 goldfish/week * 7 weeks = 14 goldfish
+
+5. **Final Calculation**: Now we subtract the total loss from the initial number of goldfish Martin has:
+   - Final number of goldfish = Initial goldfish - Total loss
+   - Final number of goldfish = 18 goldfish - 14 goldfish = 4 goldfish
+
+Therefore, after 7 weeks, Martin will have 4 goldfish left.
+</reasoning>
+<answer>4</answer>

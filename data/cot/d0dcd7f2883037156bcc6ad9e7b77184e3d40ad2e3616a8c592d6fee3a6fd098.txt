@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we need to determine how many of the 400 A4 pieces of paper are valid after accounting for the ones that did not print out to Cameron's desired quality.
+
+1. **Calculate the number of invalid papers**: We know that 40% of the papers are invalid. To find this, we will multiply the total number of papers by the percentage of invalid papers.
+
+   \[
+   \text{Number of invalid papers} = 400 \times 0.40
+   \]
+
+   This calculation gives us the total number of papers that are considered invalid.
+
+2. **Perform the multiplication**: 
+
+   \[
+   400 \times 0.40 = 160
+   \]
+
+   So, there are 160 invalid papers.
+
+3. **Calculate the number of valid papers**: To find the number of valid papers, we subtract the number of invalid papers from the total number of papers.
+
+   \[
+   \text{Number of valid papers} = 400 - 160
+   \]
+
+4. **Perform the subtraction**:
+
+   \[
+   400 - 160 = 240
+   \]
+
+   Thus, there are 240 valid papers remaining after removing the invalid ones.
+
+Therefore, the total number of valid documents is:
+</reasoning>
+<answer>240</answer>

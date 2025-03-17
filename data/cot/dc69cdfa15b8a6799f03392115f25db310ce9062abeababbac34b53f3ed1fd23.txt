@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we'll break it down into clear steps.
+
+1. **Determine the area of good soil and clay-rich soil:**
+   - Jorge has a total of 60 acres.
+   - One-third of the land is clay-rich soil. So, we first calculate the area of clay-rich soil:
+     \[
+     \text{Area of clay-rich soil} = \frac{1}{3} \times 60 = 20 \text{ acres}
+     \]
+   - The rest of the land is good soil. Therefore, the area of good soil is:
+     \[
+     \text{Area of good soil} = 60 - 20 = 40 \text{ acres}
+     \]
+
+2. **Calculate the yield per acre for each type of soil:**
+   - The yield for corn grown on good soil is 400 bushels per acre.
+   - The yield for corn grown on clay-rich soil is half of that, which is:
+     \[
+     \text{Yield on clay-rich soil} = \frac{400}{2} = 200 \text{ bushels per acre}
+     \]
+
+3. **Calculate the total yield from each type of soil:**
+   - For good soil, the total yield is:
+     \[
+     \text{Total yield from good soil} = \text{Area of good soil} \times \text{Yield on good soil} = 40 \times 400 = 16000 \text{ bushels}
+     \]
+   - For clay-rich soil, the total yield is:
+     \[
+     \text{Total yield from clay-rich soil} = \text{Area of clay-rich soil} \times \text{Yield on clay-rich soil} = 20 \times 200 = 4000 \text{ bushels}
+     \]
+
+4. **Sum the yields from both types of soil to find the total yield:**
+   - The total yield from both soils is:
+     \[
+     \text{Total yield} = \text{Total yield from good soil} + \text{Total yield from clay-rich soil} = 16000 + 4000 = 20000 \text{ bushels}
+     \]
+
+Therefore, after calculating all the yields based on the areas and the yields per acre, we find that Jorge's land yielded a total of:
+</reasoning>
+<answer>20000</answer>

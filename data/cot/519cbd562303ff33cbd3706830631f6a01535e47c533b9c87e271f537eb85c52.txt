@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Weight**: Tom originally could lift 80 kg per hand. Since he has two hands, we need to calculate the total weight he can lift initially.
+   \[
+   \text{Total initial weight} = 80 \, \text{kg/hand} \times 2 \, \text{hands} = 160 \, \text{kg}
+   \]
+
+2. **After Doubling the Weight**: Tom was able to double the amount he could lift per hand. Therefore, we calculate how much he can lift after this change.
+   \[
+   \text{New weight per hand} = 80 \, \text{kg} \times 2 = 160 \, \text{kg/hand}
+   \]
+   Now, calculating the total after doubling:
+   \[
+   \text{Total weight after doubling} = 160 \, \text{kg/hand} \times 2 \, \text{hands} = 320 \, \text{kg}
+   \]
+
+3. **Adding an Extra 10%**: Next, Tom specialized and gained an additional 10% on the total weight he can lift after doubling. To find this, we first calculate 10% of the total weight after doubling.
+   \[
+   10\% \text{ of } 320 \, \text{kg} = 0.10 \times 320 \, \text{kg} = 32 \, \text{kg}
+   \]
+   Now we add this extra weight to the total weight after doubling:
+   \[
+   \text{Total weight after adding 10\%} = 320 \, \text{kg} + 32 \, \text{kg} = 352 \, \text{kg}
+   \]
+
+Finally, the total weight Tom can hold after all these enhancements is 352 kg.
+
+Therefore, the final result is:
+</reasoning>
+<answer>352</answer>

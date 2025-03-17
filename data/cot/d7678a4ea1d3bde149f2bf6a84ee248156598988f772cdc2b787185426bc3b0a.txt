@@ -1,0 +1,50 @@
+<reasoning>
+To solve the problem, we need to find the dimensions of the rectangular patio given that the length is four times the width and the perimeter is 100 feet.
+
+1. **Define the variables**:
+   Let \( w \) be the width of the patio. According to the problem, the length \( l \) is four times the width:
+   \[
+   l = 4w
+   \]
+
+2. **Set up the perimeter formula**:
+   The formula for the perimeter \( P \) of a rectangle is given by:
+   \[
+   P = 2l + 2w
+   \]
+   We know the perimeter is 100 feet, so we can substitute this value into the equation:
+   \[
+   100 = 2l + 2w
+   \]
+
+3. **Substitute for length**:
+   We can substitute the expression for \( l \) (which is \( 4w \)) into the perimeter equation:
+   \[
+   100 = 2(4w) + 2w
+   \]
+   This simplifies to:
+   \[
+   100 = 8w + 2w
+   \]
+   Combining like terms gives:
+   \[
+   100 = 10w
+   \]
+
+4. **Solve for width**:
+   To find \( w \), we divide both sides of the equation by 10:
+   \[
+   w = \frac{100}{10} = 10
+   \]
+   So, the width of the patio is 10 feet.
+
+5. **Calculate the length**:
+   Now that we have the width, we can find the length using the relationship \( l = 4w \):
+   \[
+   l = 4 \times 10 = 40
+   \]
+   Thus, the length of the patio is 40 feet.
+
+Therefore, the length of the patio is:
+</reasoning>
+<answer>40</answer>

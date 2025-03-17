@@ -1,0 +1,61 @@
+<reasoning>
+Let's denote the total points scored by Taro as \( T \) and the total points scored by Vlad as \( V \). Since they earn 5 points for every win, the total points scored by both players can be expressed as:
+
+\[
+T + V
+\]
+
+We know they played 30 rounds, which means the total number of wins (and hence the total points) can be calculated as:
+
+\[
+\text{Total points} = 5 \times \text{Total wins}
+\]
+
+Since each round results in a win for either Taro or Vlad, the total number of wins is 30. Therefore, the total points scored is:
+
+\[
+T + V = 5 \times 30 = 150
+\]
+
+Now, according to the problem, Taro scored 4 points less than 3/5 of the total points scored. We can express this mathematically as:
+
+\[
+T = \frac{3}{5} (T + V) - 4
+\]
+
+Substituting \( T + V = 150 \) into the equation gives:
+
+\[
+T = \frac{3}{5} \times 150 - 4
+\]
+
+Calculating \( \frac{3}{5} \times 150 \):
+
+\[
+\frac{3}{5} \times 150 = 90
+\]
+
+Now substituting this back into the equation for \( T \):
+
+\[
+T = 90 - 4 = 86
+\]
+
+Now that we have \( T \), we can find \( V \) using the total points equation:
+
+\[
+T + V = 150
+\]
+\[
+86 + V = 150
+\]
+
+To find \( V \), we subtract \( 86 \) from both sides:
+
+\[
+V = 150 - 86 = 64
+\]
+
+Thus, the total points scored by Vlad is:
+</reasoning>
+<answer>64</answer>

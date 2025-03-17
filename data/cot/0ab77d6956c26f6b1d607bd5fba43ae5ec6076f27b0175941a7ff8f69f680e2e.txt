@@ -1,0 +1,61 @@
+<reasoning>
+To find out how many times each person bid on the desk, we first need to determine the total increase in price from the start of the auction to the end. 
+
+1. **Calculate the total price increase:**
+   - The initial price of the desk is $15.
+   - The final price of the desk is $65.
+   - The total increase in price is calculated as follows:
+     \[
+     \text{Total increase} = \text{Final price} - \text{Initial price} = 65 - 15 = 50
+     \]
+
+2. **Determine how many bids were made:**
+   - Every time someone bids, the price increases by $5. 
+   - To find the total number of bids, we divide the total increase by the amount the price increases with each bid:
+     \[
+     \text{Total number of bids} = \frac{\text{Total increase}}{\text{Increase per bid}} = \frac{50}{5} = 10
+     \]
+
+3. **Assuming two bidders are involved:**
+   - Since there are two people bidding, we need to find out how many bids each person made. 
+   - Let's denote the number of bids made by the first person as \( x \) and the number of bids made by the second person as \( y \). 
+   - We know that:
+     \[
+     x + y = 10
+     \]
+
+4. **Understanding the bidding pattern:**
+   - Typically in a bidding war, the bids might alternate between the two bidders. 
+   - A likely scenario is that one person would bid one more time than the other in order to win the auction (if they both started bidding at the same time). 
+
+5. **Possible distributions of bids:**
+   - If we assume one person bids one more time than the other, we can set up the equations:
+     \[
+     x = y + 1
+     \]
+   - Now we can substitute \( x \) into the first equation:
+     \[
+     (y + 1) + y = 10
+     \]
+     \[
+     2y + 1 = 10
+     \]
+     \[
+     2y = 9 \implies y = 4.5
+     \]
+   - Since we cannot have half bids, this scenario isn't valid. 
+
+6. **Examining whole number solutions:**
+   - Let’s try even splits:
+     - If \( x = 5 \) and \( y = 5 \), this is valid and sums to 10.
+     - If we try \( x = 6 \) and \( y = 4 \), that would also work since \( 6 + 4 = 10 \).
+
+Thus, the possible combinations of bids by the two bidders are:
+- Bidder 1: 5 bids, Bidder 2: 5 bids
+- Bidder 1: 6 bids, Bidder 2: 4 bids
+
+Therefore, we can conclude that each person has bid either 5 times each or one person bid 6 times and the other 4 times.
+
+Since the question asks for the number of bids made without specifying a preference, we will state both scenarios. However, the most common interpretation would be they both participated equally.
+</reasoning>
+<answer>5</answer>

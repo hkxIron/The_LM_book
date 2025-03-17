@@ -1,0 +1,18 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of boxes Travis consumes in a year:**
+   Since Travis eats 2 boxes of cereal every week and there are 52 weeks in a year, we can calculate the total number of boxes by multiplying the number of boxes per week by the number of weeks in a year.
+   \[
+   \text{Total boxes} = 2 \text{ boxes/week} \times 52 \text{ weeks} = 104 \text{ boxes}
+   \]
+
+2. **Calculate the total cost of the cereal:**
+   Each box of cereal costs $3.00. To find the total cost for the year, we multiply the total number of boxes by the cost per box.
+   \[
+   \text{Total cost} = 104 \text{ boxes} \times 3 \text{ dollars/box} = 312 \text{ dollars}
+   \]
+
+In conclusion, by calculating the total number of boxes Travis consumes in a year and then multiplying that by the cost of each box, we find out how much he spends on cereal.
+</reasoning>
+<answer>312</answer>

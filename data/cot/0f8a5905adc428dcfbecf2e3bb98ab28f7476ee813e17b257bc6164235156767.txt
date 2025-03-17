@@ -1,0 +1,28 @@
+<reasoning>
+Let's start by determining how much debt Jake still owes after his initial payment.
+
+1. Jake originally owed $100.
+2. He paid $40 towards this debt.
+
+To find out how much debt remains, we subtract the amount he paid from the total debt:
+
+Remaining debt = Total debt - Amount paid
+Remaining debt = $100 - $40
+Remaining debt = $60
+
+Now that we know Jake owes $60, we need to find out how many hours he has to work to pay off this remaining debt.
+
+3. Jake earns $15 for each hour of work.
+
+To find the number of hours he needs to work, we divide the remaining debt by the hourly wage:
+
+Hours worked = Remaining debt / Hourly wage
+Hours worked = $60 / $15
+
+Now we perform the division:
+
+Hours worked = 4
+
+Therefore, Jake needs to work 4 hours to pay off the remaining debt.
+</reasoning>
+<answer>4</answer>

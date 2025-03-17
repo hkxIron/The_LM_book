@@ -1,0 +1,30 @@
+<reasoning>
+To find the length of the shadows from the building 6 hours past noon, we start with the information that the shadows stretch an extra 5 feet for each hour after noon.
+
+1. **Determine the total stretch of shadows after 6 hours:**
+   Since the shadows stretch an additional 5 feet for each hour past noon, we can calculate the total length of the shadows at 6 hours past noon as follows:
+   \[
+   \text{Total length in feet} = 5 \text{ feet/hour} \times 6 \text{ hours}
+   \]
+
+2. **Calculate the total length in feet:**
+   Now we perform the multiplication:
+   \[
+   5 \times 6 = 30 \text{ feet}
+   \]
+
+3. **Convert feet to inches:**
+   Since the problem asks for the length in inches, we need to convert feet to inches. We know that 1 foot is equal to 12 inches. Therefore, we convert the total length in feet to inches:
+   \[
+   \text{Total length in inches} = 30 \text{ feet} \times 12 \text{ inches/foot}
+   \]
+
+4. **Calculate the total length in inches:**
+   Performing this multiplication gives:
+   \[
+   30 \times 12 = 360 \text{ inches}
+   \]
+
+Thus, the length of the shadows from the building 6 hours past noon is 360 inches.
+</reasoning>
+<answer>360</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial number of employees**: The company starts with 1000 employees.
+
+2. **First Round of Layoffs**: In the first round, we need to lay off 10% of the remaining employees. To find 10% of 1000:
+   \[
+   \text{Employees laid off in first round} = 10\% \times 1000 = \frac{10}{100} \times 1000 = 100
+   \]
+   After the first round, the number of employees remaining is:
+   \[
+   \text{Remaining employees after first round} = 1000 - 100 = 900
+   \]
+
+3. **Second Round of Layoffs**: Now we need to lay off 10% of the remaining 900 employees:
+   \[
+   \text{Employees laid off in second round} = 10\% \times 900 = \frac{10}{100} \times 900 = 90
+   \]
+   After the second round, the number of employees remaining is:
+   \[
+   \text{Remaining employees after second round} = 900 - 90 = 810
+   \]
+
+4. **Third Round of Layoffs**: Finally, we lay off 10% of the remaining 810 employees:
+   \[
+   \text{Employees laid off in third round} = 10\% \times 810 = \frac{10}{100} \times 810 = 81
+   \]
+   After the third round, the number of employees remaining is:
+   \[
+   \text{Remaining employees after third round} = 810 - 81 = 729
+   \]
+
+5. **Total Number of Employees Laid Off**: Now we sum up the number of employees laid off in each round:
+   \[
+   \text{Total laid off} = 100 + 90 + 81 = 271
+   \]
+
+Therefore, the total number of employees laid off is 271.
+</reasoning>
+<answer>271</answer>

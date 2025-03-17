@@ -1,0 +1,32 @@
+<reasoning>
+To solve this problem, we will first calculate the total cost of the sweaters and scarves that Maria wants to buy. Then, we will subtract that total cost from the amount she has saved to find out how much will be left in her savings.
+
+1. **Calculate the total cost of the sweaters:**
+   - Maria wants to buy 6 sweaters, and each sweater costs $30.
+   - We multiply the number of sweaters by the cost per sweater: 
+     \[
+     \text{Total cost of sweaters} = 6 \text{ sweaters} \times 30 \text{ dollars/sweater} = 180 \text{ dollars}
+     \]
+
+2. **Calculate the total cost of the scarves:**
+   - Maria wants to buy 6 scarves, and each scarf costs $20.
+   - We multiply the number of scarves by the cost per scarf:
+     \[
+     \text{Total cost of scarves} = 6 \text{ scarves} \times 20 \text{ dollars/scarf} = 120 \text{ dollars}
+     \]
+
+3. **Calculate the total cost of all items:**
+   - Now we add the total cost of sweaters and scarves to get the overall cost:
+     \[
+     \text{Total cost} = \text{Total cost of sweaters} + \text{Total cost of scarves} = 180 \text{ dollars} + 120 \text{ dollars} = 300 \text{ dollars}
+     \]
+
+4. **Subtract the total cost from the savings:**
+   - Maria has saved $500. We subtract the total cost from her savings to find out how much she will have left:
+     \[
+     \text{Remaining savings} = \text{Savings} - \text{Total cost} = 500 \text{ dollars} - 300 \text{ dollars} = 200 \text{ dollars}
+     \]
+
+Therefore, after buying all the sweaters and scarves, Maria will have $200 left in her savings.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,49 @@
+<reasoning>
+Let's start by calculating how much money Harry and Kevin have left after buying the materials for the balloon.
+
+1. **Calculate the total cost of the materials:**
+   We need to sum the costs of the giant sheet, the rope, and the propane tank with burner:
+   - Cost of the giant sheet = $42
+   - Cost of the rope = $18
+   - Cost of the propane tank and burner = $14
+
+   Now, we add these costs together:
+   \[
+   \text{Total cost} = 42 + 18 + 14
+   \]
+   \[
+   \text{Total cost} = 74
+   \]
+
+2. **Calculate the remaining money:**
+   Now, we subtract the total cost of the materials from the initial amount of money they had:
+   \[
+   \text{Remaining money} = 200 - 74
+   \]
+   \[
+   \text{Remaining money} = 126
+   \]
+
+3. **Calculate how much helium they can buy:**
+   The price of helium is $1.50 per ounce. To find out how many ounces of helium they can buy with the remaining money, we divide the remaining money by the price per ounce:
+   \[
+   \text{Ounces of helium} = \frac{126}{1.50}
+   \]
+   First, let's perform the division:
+   \[
+   \text{Ounces of helium} = 84
+   \]
+
+4. **Calculate how high the balloon can fly:**
+   We know that for every ounce of helium they buy, the balloon can fly 113 feet higher. So, to find the total height they can achieve, we multiply the number of ounces of helium by the height increase per ounce:
+   \[
+   \text{Total height} = 84 \times 113
+   \]
+   Now, let's calculate this multiplication:
+   \[
+   \text{Total height} = 9492
+   \]
+
+Therefore, the balloon can fly a total of 9492 feet up.
+</reasoning>
+<answer>9492</answer>

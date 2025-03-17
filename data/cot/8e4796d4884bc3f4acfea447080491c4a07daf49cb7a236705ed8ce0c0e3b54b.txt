@@ -1,0 +1,29 @@
+<reasoning>
+Let's denote the cost of jellyfish as \( x \). 
+
+1. Since the eel costs nine times as much as the jellyfish, we can express the cost of eel as \( 9x \).
+2. According to the problem, the combined cost of one order of jellyfish and one order of eel is $200. Therefore, we can set up the following equation:
+   \[
+   x + 9x = 200
+   \]
+   Here, \( x \) is the cost of the jellyfish and \( 9x \) is the cost of the eel.
+
+3. Now, we simplify the left side of the equation:
+   \[
+   10x = 200
+   \]
+   This is because \( x + 9x \) simplifies to \( 10x \).
+
+4. Next, we solve for \( x \) by dividing both sides of the equation by 10:
+   \[
+   x = \frac{200}{10} = 20
+   \]
+   Thus, the cost of the jellyfish is $20.
+
+5. Now, we need to find the cost of the eel. Since the eel costs nine times the amount of the jellyfish, we calculate:
+   \[
+   9x = 9 \times 20 = 180
+   \]
+   Therefore, the cost of the eel is $180.
+</reasoning>
+<answer>180</answer>

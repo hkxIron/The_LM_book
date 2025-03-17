@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we start by defining the number of selfies Malachi took last year and this year using the ratio given.
+
+1. **Understanding the ratio**: The ratio of selfies taken last year to this year is 10:17. This means for every 10 selfies taken last year, he took 17 selfies this year.
+
+2. **Defining variables**: Let the number of selfies taken last year be represented as \(10x\) and the number of selfies taken this year as \(17x\), where \(x\) is a common multiplier.
+
+3. **Setting up the equation**: According to the problem, the total number of selfies (photos) in his gallery is 2430. Therefore, we can set up the equation based on the total number of selfies:
+   \[
+   10x + 17x = 2430
+   \]
+
+4. **Combining like terms**: Now, we’ll combine the terms on the left side of the equation:
+   \[
+   27x = 2430
+   \]
+
+5. **Solving for \(x\)**: To find \(x\), we divide both sides of the equation by 27:
+   \[
+   x = \frac{2430}{27}
+   \]
+
+6. **Calculating \(x\)**: Performing the division:
+   \[
+   x = 90
+   \]
+
+7. **Finding the number of selfies**: Now that we have \(x\), we can find the actual number of selfies taken last year and this year:
+   - Last year: \(10x = 10 \times 90 = 900\)
+   - This year: \(17x = 17 \times 90 = 1530\)
+
+8. **Calculating the difference**: Finally, we need to find out how many more photos he took this year than last year:
+   \[
+   1530 - 900 = 630
+   \]
+
+Therefore, Malachi took 630 more selfies this year than last year.
+</reasoning>
+<answer>630</answer>

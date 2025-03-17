@@ -1,0 +1,32 @@
+<reasoning>
+To solve this problem step by step, we will first determine how much Maya can lift at the beginning, how much she can lift at her peak, and then find the difference between these two amounts.
+
+1. **Determine how much Maya can lift initially:**
+   - We know that America can lift 240 pounds. 
+   - Maya can lift a fourth of what America can lift. 
+   - So, we calculate Maya's initial lifting capacity as follows:
+     \[
+     \text{Maya's initial lift} = \frac{1}{4} \times 240 = 60 \text{ pounds}
+     \]
+   Therefore, Maya can lift 60 pounds at the start.
+
+2. **Determine America's peak lift:**
+   - It is given that America has hit her peak lift at 300 pounds.
+
+3. **Calculate Maya's peak lift:**
+   - At her peak, Maya can lift half of what America can lift. 
+   - Since America's peak is 300 pounds, we find Maya's peak lift:
+     \[
+     \text{Maya's peak lift} = \frac{1}{2} \times 300 = 150 \text{ pounds}
+     \]
+
+4. **Calculate the difference in lifting capacity:**
+   - Now we need to find out how many more pounds Maya can lift at her peak compared to her initial capacity.
+   - We subtract her initial lift from her peak lift:
+     \[
+     \text{Difference} = \text{Maya's peak lift} - \text{Maya's initial lift} = 150 - 60 = 90 \text{ pounds}
+     \]
+
+Thus, Maya can lift 90 more pounds now than when she started.
+</reasoning>
+<answer>90</answer>

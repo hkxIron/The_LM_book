@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Cory's Speed**: We know that Cory drives his wheelchair at 12 miles per hour. 
+
+2. **Determine Milo's Speed**: Since Cory can drive at twice the speed that Milo can roll downhill on his skateboard, we can express Milo's speed in terms of Cory's speed. 
+   - If Cory's speed is 12 mph, then Milo's speed (let's call it \(M\)) is half of that. Therefore, we have:
+   \[
+   M = \frac{12}{2} = 6 \text{ miles per hour}
+   \]
+   This means Milo can roll downhill on his skateboard at 6 miles per hour.
+
+3. **Find Milo's Running Speed**: The problem states that Milo can roll downhill on his skateboard at twice the speed that he can run. Let's denote Milo's running speed as \(R\).
+   - Since his skateboard speed is 6 mph, we can express his running speed as:
+   \[
+   R = \frac{6}{2} = 3 \text{ miles per hour}
+   \]
+   This means Milo can run at 3 miles per hour.
+
+4. **Calculate the Distance Milo Can Run in Two Hours**: Now that we know Milo's running speed is 3 mph, we can calculate the distance he can run in 2 hours. The formula for distance is:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   - Here, the speed is 3 mph and the time is 2 hours. So we calculate:
+   \[
+   \text{Distance} = 3 \text{ mph} \times 2 \text{ hours} = 6 \text{ miles}
+   \]
+
+Therefore, after calculating through all the steps, we find that Milo can run 6 miles in two hours.
+</reasoning>
+<answer>6</answer>

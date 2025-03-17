@@ -1,0 +1,35 @@
+<reasoning>
+To find out what Kat needs to score on her third test to achieve an average of at least 90%, we can break this problem down into several steps.
+
+1. **Understanding Average Calculation**: The average of a set of numbers is calculated by adding all the numbers together and then dividing by how many numbers there are. In Kat's case, she will have three test scores: the first test score, the second test score, and the third test score (which we will call \( x \)).
+
+2. **Set Up the Equation for Average**: The average score she needs after three tests is 90%. Therefore, we can set up the equation:
+   \[
+   \text{Average} = \frac{\text{Test 1} + \text{Test 2} + \text{Test 3}}{3} \geq 90
+   \]
+   Plugging in the known values:
+   \[
+   \frac{95 + 80 + x}{3} \geq 90
+   \]
+
+3. **Solve for \( x \)**: First, we multiply both sides of the inequality by 3 to eliminate the denominator:
+   \[
+   95 + 80 + x \geq 270
+   \]
+   Next, we combine the known test scores:
+   \[
+   175 + x \geq 270
+   \]
+   Now, we subtract 175 from both sides to solve for \( x \):
+   \[
+   x \geq 270 - 175
+   \]
+   \[
+   x \geq 95
+   \]
+
+4. **Conclusion**: This means that Kat needs to score at least 95% on her third test to achieve an average of at least 90% in her math class.
+
+Therefore, Kat needs to get a score of:
+</reasoning>
+<answer>95</answer>

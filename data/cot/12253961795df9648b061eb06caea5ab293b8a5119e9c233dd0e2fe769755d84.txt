@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Number of Birds**: On the first day, Cohen saw 300 fish-eater birds. This is our starting point.
+
+2. **Number of Birds on the Second Day**: The problem states that the number of birds doubled on the second day. To find the number of birds on the second day, we multiply the number of birds from the first day by 2:
+   \[
+   \text{Birds on second day} = 300 \times 2 = 600
+   \]
+   So, Cohen saw 600 birds on the second day.
+
+3. **Number of Birds on the Third Day**: On the third day, the number of birds reduced by 200. To find the number of birds on the third day, we subtract 200 from the number of birds on the second day:
+   \[
+   \text{Birds on third day} = 600 - 200 = 400
+   \]
+   Therefore, Cohen saw 400 birds on the third day.
+
+4. **Total Number of Birds Over the Three Days**: Now, we need to find the total number of birds Cohen saw over the three days. We add the number of birds from each day:
+   \[
+   \text{Total birds} = 300 + 600 + 400
+   \]
+   Calculating this gives:
+   \[
+   300 + 600 = 900
+   \]
+   And then:
+   \[
+   900 + 400 = 1300
+   \]
+
+Therefore, the total number of fish-eater birds Cohen saw in the three days is 1300.
+</reasoning>
+<answer>1300</answer>

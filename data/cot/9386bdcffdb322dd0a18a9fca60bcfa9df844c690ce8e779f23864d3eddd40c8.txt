@@ -1,0 +1,70 @@
+<reasoning>
+Let's define the weights of each dog using variables:
+
+- Let \( C \) be the weight of the chihuahua in pounds.
+- Let \( P \) be the weight of the pitbull in pounds.
+- Let \( G \) be the weight of the great dane in pounds.
+
+From the problem description, we have the following relationships:
+
+1. The combined weight of the three dogs is:
+   \[
+   C + P + G = 439
+   \]
+
+2. The pitbull weighs 3 times as much as the chihuahua:
+   \[
+   P = 3C
+   \]
+
+3. The great dane weighs 10 more pounds than triple the pitbull:
+   \[
+   G = 3P + 10
+   \]
+
+Now, we will substitute the expressions for \( P \) and \( G \) in terms of \( C \) into the first equation.
+
+First, substitute \( P = 3C \) into the equation for \( G \):
+\[
+G = 3(3C) + 10 = 9C + 10
+\]
+
+Now we substitute both \( P \) and \( G \) into the combined weight equation:
+\[
+C + 3C + (9C + 10) = 439
+\]
+
+Now simplify this equation:
+\[
+C + 3C + 9C + 10 = 439
+\]
+\[
+13C + 10 = 439
+\]
+
+Next, we will isolate \( C \) by first subtracting 10 from both sides:
+\[
+13C = 439 - 10
+\]
+\[
+13C = 429
+\]
+
+Now divide both sides by 13 to find \( C \):
+\[
+C = \frac{429}{13} = 33
+\]
+
+Now that we have \( C \), we can find \( P \):
+\[
+P = 3C = 3 \times 33 = 99
+\]
+
+Next, we can find \( G \) using the equation we derived for \( G \):
+\[
+G = 3P + 10 = 3 \times 99 + 10 = 297 + 10 = 307
+\]
+
+Thus, the weight of the great dane is:
+</reasoning>
+<answer>307</answer>

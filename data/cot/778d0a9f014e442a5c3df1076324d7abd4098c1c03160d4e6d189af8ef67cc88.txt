@@ -1,0 +1,29 @@
+<reasoning>
+To determine how many times Matthew will fill his 35-ounce water bottle each week, we first need to calculate how much water he drinks in a week.
+
+1. **Calculate daily water intake**: 
+   Matthew drinks 4 glasses of water per day, and each glass is 5 ounces.
+   \[
+   \text{Daily Water Intake} = \text{Number of Glasses} \times \text{Ounces per Glass} = 4 \times 5 = 20 \text{ ounces}
+   \]
+   This means Matthew drinks 20 ounces of water every day.
+
+2. **Calculate weekly water intake**:
+   Since there are 7 days in a week, we multiply his daily water intake by 7 to find out how much water he consumes in a week.
+   \[
+   \text{Weekly Water Intake} = \text{Daily Water Intake} \times 7 = 20 \times 7 = 140 \text{ ounces}
+   \]
+   Thus, Matthew drinks 140 ounces of water each week.
+
+3. **Determine how many times he fills the 35-ounce bottle**:
+   To find out how many times he will need to fill his 35-ounce water bottle in a week, we divide his weekly water intake by the capacity of the bottle:
+   \[
+   \text{Number of Fills} = \frac{\text{Weekly Water Intake}}{\text{Bottle Capacity}} = \frac{140}{35}
+   \]
+   Performing the division:
+   \[
+   \frac{140}{35} = 4
+   \]
+   Therefore, Matthew will fill his 35-ounce water bottle 4 times each week.
+</reasoning>
+<answer>4</answer>

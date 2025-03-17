@@ -1,0 +1,44 @@
+<reasoning>
+To find the total mass of vegetables that the merchant installed and then sold half of, we need to follow these steps:
+
+1. **Identify the weights of each vegetable.**
+   - Carrots: 15 kg
+   - Zucchini: 13 kg
+   - Broccoli: 8 kg
+
+2. **Calculate the total mass of the vegetables.**
+   We do this by adding the weights of all three types of vegetables together:
+   \[
+   \text{Total mass} = \text{mass of carrots} + \text{mass of zucchini} + \text{mass of broccoli}
+   \]
+   \[
+   \text{Total mass} = 15 \text{ kg} + 13 \text{ kg} + 8 \text{ kg}
+   \]
+
+3. **Perform the addition:**
+   - First, add the carrots and zucchini:
+     \[
+     15 + 13 = 28 \text{ kg}
+     \]
+   - Next, add the broccoli:
+     \[
+     28 + 8 = 36 \text{ kg}
+     \]
+
+4. **Now that we have the total mass, calculate how much was sold.**
+   The problem states that he sold only half of the total mass:
+   \[
+   \text{Mass sold} = \frac{\text{Total mass}}{2}
+   \]
+   \[
+   \text{Mass sold} = \frac{36 \text{ kg}}{2}
+   \]
+
+5. **Perform the division:**
+   \[
+   \text{Mass sold} = 18 \text{ kg}
+   \]
+
+Thus, the merchant sold 18 kg of vegetables.
+</reasoning>
+<answer>18</answer>

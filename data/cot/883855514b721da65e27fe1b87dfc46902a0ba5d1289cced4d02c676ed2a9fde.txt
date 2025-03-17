@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to determine how many balloons can be filled with helium and how many will be filled with ordinary air. 
+
+1. **Determine how many balloons can be inflated with helium:**
+   Each balloon requires 50 cm³ of helium to float. We have 1800 cm³ of helium available.
+
+   To find out how many balloons can be filled with helium, we divide the total amount of helium by the amount needed per balloon:
+   \[
+   \text{Number of helium balloons} = \frac{\text{Total helium}}{\text{Helium per balloon}} = \frac{1800 \, \text{cm}^3}{50 \, \text{cm}^3} = 36
+   \]
+   This means that 36 balloons can be filled with helium.
+
+2. **Determine how many balloons are filled with ordinary air:**
+   We know that Eva's mom bought a total of 50 balloons. To find out how many of these balloons are filled with ordinary air, we subtract the number of helium-filled balloons from the total number of balloons:
+   \[
+   \text{Number of air-filled balloons} = \text{Total balloons} - \text{Helium balloons} = 50 - 36 = 14
+   \]
+
+3. **Calculate the difference in the number of balloons touching the ceiling versus those that are not:**
+   The balloons that are filled with helium will be touching the ceiling, while those filled with ordinary air will not. We need to find out how many more balloons are touching the ceiling than those that are not:
+   \[
+   \text{Difference} = \text{Helium balloons} - \text{Air balloons} = 36 - 14 = 22
+   \]
+
+Finally, we conclude that there are 22 more balloons touching the ceiling than those that are not.
+</reasoning>
+<answer>22</answer>

@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much Vince saves after serving 80 customers, we will follow these steps:
+
+1. **Calculate Vince's total earnings from serving 80 customers:**
+   Vince earns $18 per head, and he serves 80 customers.
+   - Total earnings = Earnings per customer × Number of customers
+   - Total earnings = $18 × 80
+
+   Now, let's calculate that:
+   \[
+   18 \times 80 = 1440
+   \]
+   Therefore, Vince's total earnings for the month are $1440.
+
+2. **Calculate Vince's monthly expenses:**
+   Vince has fixed expenses for rent and electricity which amount to $280. Additionally, he allocates 20% of his earnings for recreation and relaxation.
+   - First, we will calculate 20% of his total earnings:
+   - Recreation and relaxation expenses = 20% of Total earnings
+   - Recreation and relaxation expenses = 0.20 × $1440
+
+   Let's calculate that:
+   \[
+   0.20 \times 1440 = 288
+   \]
+   Therefore, Vince's total monthly expenses are the sum of his fixed expenses and his recreation expenses:
+   - Total monthly expenses = Rent and electricity + Recreation expenses
+   - Total monthly expenses = $280 + $288
+
+   Now, let's calculate that:
+   \[
+   280 + 288 = 568
+   \]
+   Therefore, Vince's total monthly expenses are $568.
+
+3. **Calculate how much Vince saves:**
+   To find out how much Vince saves, we subtract his total monthly expenses from his total earnings:
+   - Savings = Total earnings - Total monthly expenses
+   - Savings = $1440 - $568
+
+   Now, let's calculate that:
+   \[
+   1440 - 568 = 872
+   \]
+   Therefore, Vince saves $872.
+</reasoning>
+<answer>872</answer>

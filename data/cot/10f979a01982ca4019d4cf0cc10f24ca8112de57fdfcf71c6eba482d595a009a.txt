@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we need to determine how many pfennigs Gerald has, how much he spends on the meat pie, and then find out how many pfennigs he has left.
+
+1. **Convert farthings to pfennigs:**
+   We know that Gerald has 54 farthings and that there are 6 farthings in a pfennig. To find out how many pfennigs he has, we divide the number of farthings by the number of farthings per pfennig:
+   \[
+   \text{Number of pfennigs} = \frac{\text{Number of farthings}}{\text{Farthings per pfennig}} = \frac{54}{6}
+   \]
+   Performing the division:
+   \[
+   \frac{54}{6} = 9
+   \]
+   Therefore, Gerald has 9 pfennigs.
+
+2. **Determine the cost of the meat pie:**
+   The meat pie costs 2 pfennigs.
+
+3. **Calculate how many pfennigs Gerald has left after buying the pie:**
+   To find out how many pfennigs Gerald has left after purchasing the pie, we subtract the cost of the pie from the total amount of pfennigs he has:
+   \[
+   \text{Pfennigs left} = \text{Total pfennigs} - \text{Cost of pie} = 9 - 2
+   \]
+   Performing the subtraction:
+   \[
+   9 - 2 = 7
+   \]
+   Therefore, after buying the meat pie, Gerald has 7 pfennigs left.
+</reasoning>
+<answer>7</answer>

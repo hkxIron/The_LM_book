@@ -1,0 +1,43 @@
+<reasoning>
+To find the cost of one chocolate bar, we need to set up an equation based on the information provided. 
+
+1. **Define Variables**:
+   - Let \( x \) be the cost of one chocolate bar.
+   - The cost of a pack of gummy bears is given as $2.
+   - The cost of a bag of chocolate chips is given as $5.
+
+2. **Determine Total Costs**:
+   - Jessica bought 10 chocolate bars, so the total cost for chocolate bars is \( 10x \).
+   - She bought 10 packs of gummy bears, so the total cost for gummy bears is \( 10 \times 2 = 20 \) dollars.
+   - She bought 20 bags of chocolate chips, so the total cost for chocolate chips is \( 20 \times 5 = 100 \) dollars.
+
+3. **Set Up the Equation**:
+   - The total cost of all the items is $150. We can write the equation as:
+     \[
+     10x + 20 + 100 = 150
+     \]
+
+4. **Combine Like Terms**:
+   - Combine the costs of gummy bears and chocolate chips:
+     \[
+     10x + 120 = 150
+     \]
+
+5. **Isolate the Variable**:
+   - Subtract 120 from both sides of the equation to solve for \( x \):
+     \[
+     10x = 150 - 120
+     \]
+     \[
+     10x = 30
+     \]
+
+6. **Solve for \( x \)**:
+   - Divide both sides by 10:
+     \[
+     x = \frac{30}{10} = 3
+     \]
+
+Therefore, the cost of one chocolate bar is $3.
+</reasoning>
+<answer>3</answer>

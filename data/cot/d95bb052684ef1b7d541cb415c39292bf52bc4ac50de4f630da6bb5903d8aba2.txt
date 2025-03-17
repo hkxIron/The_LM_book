@@ -1,0 +1,38 @@
+<reasoning>
+To find the difference in miles per gallon between Pria's actual mileage and the advertised mileage, we will follow these steps:
+
+1. **Calculate Pria's actual mileage**: 
+   - We know the total distance Pria drove is 372 miles and the amount of gas she used is the full tank of 12 gallons. 
+   - To calculate the actual miles per gallon (mpg), we use the formula: 
+
+     \[
+     \text{Miles per gallon} = \frac{\text{Total miles driven}}{\text{Gallons used}}
+     \]
+
+   Substituting the values:
+
+   \[
+   \text{Actual mpg} = \frac{372 \text{ miles}}{12 \text{ gallons}} = 31 \text{ mpg}
+   \]
+
+2. **Identify the advertised mileage**: 
+   - The advertised mileage is given as 35 miles per gallon.
+
+3. **Calculate the difference between the advertised mileage and the actual mileage**: 
+   - We find the difference by subtracting Pria's actual mileage from the advertised mileage:
+
+     \[
+     \text{Difference} = \text{Advertised mpg} - \text{Actual mpg}
+     \]
+
+   Substituting the values:
+
+   \[
+   \text{Difference} = 35 \text{ mpg} - 31 \text{ mpg} = 4 \text{ mpg}
+   \]
+
+This means Pria's mileage was 4 miles per gallon less than what was advertised.
+
+Therefore, the difference in miles per gallon between Pria's mileage and the advertised mileage is:
+</reasoning>
+<answer>4</answer>

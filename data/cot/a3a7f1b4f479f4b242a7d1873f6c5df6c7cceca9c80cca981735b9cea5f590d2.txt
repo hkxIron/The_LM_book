@@ -1,0 +1,51 @@
+<reasoning>
+First, we need to calculate the total number of peppers Joel picked throughout the week. We will add the number of peppers picked each day:
+
+- Sunday: 7 peppers
+- Monday: 12 peppers
+- Tuesday: 14 peppers
+- Wednesday: 12 peppers
+- Thursday: 5 peppers
+- Friday: 18 peppers
+- Saturday: 12 peppers
+
+Now, let's add these numbers together:
+
+\[ 
+7 + 12 + 14 + 12 + 5 + 18 + 12 
+\]
+
+Calculating step by step:
+
+1. \( 7 + 12 = 19 \)
+2. \( 19 + 14 = 33 \)
+3. \( 33 + 12 = 45 \)
+4. \( 45 + 5 = 50 \)
+5. \( 50 + 18 = 68 \)
+6. \( 68 + 12 = 80 \)
+
+Thus, the total number of peppers picked is 80.
+
+Next, we need to determine how many of these peppers are hot. We know that 20% of the peppers are hot. To find the number of hot peppers, we calculate 20% of 80:
+
+\[
+20\% \text{ of } 80 = 0.20 \times 80
+\]
+
+Calculating this:
+
+\[
+0.20 \times 80 = 16
+\]
+
+So, Joel picked 16 hot peppers.
+
+Now, to find the number of non-hot peppers, we subtract the number of hot peppers from the total number of peppers:
+
+\[
+80 - 16 = 64
+\]
+
+Therefore, the number of non-hot peppers Joel picked is 64.
+</reasoning>
+<answer>64</answer>

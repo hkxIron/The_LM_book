@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the daily practice time from Monday to Friday:** 
+   Elle practices for 30 minutes each day from Monday to Friday. Since there are 5 weekdays, we calculate the total practice time during these days:
+   \[
+   5 \text{ days} \times 30 \text{ minutes/day} = 150 \text{ minutes}
+   \]
+
+2. **Calculate the practice time on Saturday:**
+   On Saturday, Elle practices three times as much as she does on a weekday. Since she practices 30 minutes on a weekday, on Saturday she will practice:
+   \[
+   3 \times 30 \text{ minutes} = 90 \text{ minutes}
+   \]
+
+3. **Add the total practice time for the week:**
+   We now combine the practice time from Monday to Friday and the practice time on Saturday:
+   \[
+   150 \text{ minutes (Monday to Friday)} + 90 \text{ minutes (Saturday)} = 240 \text{ minutes}
+   \]
+
+4. **Convert the total minutes into hours:**
+   To find out how many hours Elle practices in a week, we convert minutes to hours. There are 60 minutes in an hour, so:
+   \[
+   \frac{240 \text{ minutes}}{60 \text{ minutes/hour}} = 4 \text{ hours}
+   \]
+
+Thus, Elle spends a total of 4 hours practicing piano each week.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many cookies Frank has, we'll break down the problem step by step.
+
+1. **Determine how many cookies Millie has**: The problem states that Millie has 4 cookies. So, we can note:
+   - Millie's cookies = 4
+
+2. **Calculate how many cookies Mike has**: According to the problem, Mike has three times as many cookies as Millie. We can calculate Mike's cookies as follows:
+   - Mike's cookies = 3 * Millie's cookies = 3 * 4 = 12
+
+3. **Calculate how many cookies Frank has**: The problem states that Frank has three less than half the number of cookies as Mike. First, we need to find half of Mike's cookies:
+   - Half of Mike's cookies = 12 / 2 = 6
+   Now, we find three less than this amount:
+   - Frank's cookies = Half of Mike's cookies - 3 = 6 - 3 = 3
+
+4. **Summarize the results**: We have calculated each person's number of cookies:
+   - Millie = 4 cookies
+   - Mike = 12 cookies
+   - Frank = 3 cookies
+
+Therefore, Frank has 3 cookies.
+</reasoning>
+<answer>3</answer>

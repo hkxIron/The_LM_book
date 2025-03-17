@@ -1,0 +1,33 @@
+<reasoning>
+To find out how much each student will contribute after using the class funds, we can follow these steps:
+
+1. **Identify the total contribution needed**: Each class is required to contribute $90 for the school activity.
+
+2. **Identify the class funds available**: Miss Evans' class has $14 in class funds.
+
+3. **Calculate the amount that needs to be covered after using the class funds**: We subtract the class funds from the total contribution.
+   \[
+   \text{Remaining amount} = \text{Total contribution} - \text{Class funds}
+   \]
+   \[
+   \text{Remaining amount} = 90 - 14 = 76
+   \]
+   This means that after using the $14 class funds, there is still $76 that needs to be contributed by the students.
+
+4. **Determine how much each student will contribute**: We need to divide the remaining amount by the number of students in the class.
+   \[
+   \text{Contribution per student} = \frac{\text{Remaining amount}}{\text{Number of students}}
+   \]
+   \[
+   \text{Contribution per student} = \frac{76}{19}
+   \]
+
+5. **Perform the division**:
+   - To calculate \( \frac{76}{19} \), we can do the division:
+   \[
+   76 \div 19 = 4
+   \]
+
+Thus, each student will contribute $4 after using the class funds.
+</reasoning>
+<answer>4</answer>

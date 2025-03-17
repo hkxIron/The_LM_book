@@ -1,0 +1,16 @@
+<reasoning>
+To solve the problem, we need to calculate Brenda's total lead after both players have made their plays.
+
+1. **Initial Lead**: Brenda is ahead by 22 points. This is our starting point.
+
+2. **Brenda's Play**: Brenda makes a 15-point play. We need to add this to her current lead. 
+   - Calculation: 22 points (initial lead) + 15 points (Brenda's play) = 37 points.
+   - Now Brenda is ahead by 37 points after her turn.
+
+3. **David's Play**: David responds with a 32-point play. We need to subtract David's play from Brenda's current lead. 
+   - Calculation: 37 points (Brenda's lead after her play) - 32 points (David's play) = 5 points.
+   - After David's turn, Brenda's lead is reduced to 5 points.
+
+Thus, after both players make their plays, we find that Brenda is now ahead by 5 points.
+</reasoning>
+<answer>5</answer>

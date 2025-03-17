@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total length of fishing line John bought**: 
+   - John buys 3 reels, each containing 100 meters of fishing line.
+   - To find the total length, we multiply the number of reels by the length of each reel:
+     \[
+     \text{Total length} = 3 \text{ reels} \times 100 \text{ m/reel} = 300 \text{ m}
+     \]
+   This step gives us the total amount of fishing line available to John.
+
+2. **Determine how many 10m sections can be cut from the total length**: 
+   - Now that we know John has 300 meters of fishing line, we need to see how many 10-meter sections he can cut from this total length.
+   - To find this, we divide the total length of the fishing line by the length of each section:
+     \[
+     \text{Number of sections} = \frac{300 \text{ m}}{10 \text{ m/section}} = 30 \text{ sections}
+     \]
+   This step shows us how many equal parts (sections) of 10 meters can be obtained from the total length of 300 meters.
+
+Therefore, John's total number of 10m sections is 30.
+</reasoning>
+<answer>30</answer>

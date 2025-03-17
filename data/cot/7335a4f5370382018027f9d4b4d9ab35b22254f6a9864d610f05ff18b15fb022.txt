@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Calculate the Total Number of Rows**: Juvy has a garden with a total of 20 rows.
+
+2. **Identify Rows with Other Plants**: 
+   - Juvy plants parsley in the first 3 rows.
+   - She plants rosemary in the last 2 rows.
+
+3. **Calculate the Number of Rows Used for Parsley and Rosemary**:
+   - Rows with parsley = 3
+   - Rows with rosemary = 2
+   - Total rows used for parsley and rosemary = 3 + 2 = 5 rows.
+
+4. **Calculate the Remaining Rows for Chives**:
+   - Total rows = 20
+   - Rows used for parsley and rosemary = 5
+   - Remaining rows for chives = 20 - 5 = 15 rows.
+
+5. **Determine the Number of Plants in Each Row**: Each row contains 10 plants.
+
+6. **Calculate the Total Number of Chives**:
+   - Since there are 15 rows left for chives and each row has 10 plants, we will multiply the number of rows by the number of plants per row: 
+   - Total chives = 15 rows * 10 plants per row = 150 plants.
+
+Therefore, after going through the calculations step by step, we find that Juvy will plant 150 chives.
+</reasoning>
+<answer>150</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To determine how many tents Matt's family will need, we first need to calculate the total number of people going on vacation and then figure out how many will sleep in the house and how many will sleep in tents.
+
+1. **Count Matt's family:**
+   - Matt (1)
+   - Mom (1)
+   - Dad (1)
+   - Older brother (1)
+   - Older brother's wife (1)
+   - Older brother's kids (4)
+
+   Adding these up: 
+   1 (Matt) + 1 (Mom) + 1 (Dad) + 1 (Brother) + 1 (Brother's Wife) + 4 (Brother's Kids) = 9 people total.
+
+2. **Count Uncle Joe's family:**
+   - Uncle Joe (1)
+   - Uncle Joe's wife (1)
+   - Uncle Joe's kids (3)
+
+   Adding these up:
+   1 (Uncle Joe) + 1 (Uncle Joe's Wife) + 3 (Uncle Joe's Kids) = 5 people total.
+
+3. **Total people going on vacation:**
+   Now, we combine both families:
+   9 (Matt's family) + 5 (Uncle Joe's family) = 14 people total.
+
+4. **Determine how many can sleep in the house:**
+   The house can sleep 4 people. Therefore:
+   - People sleeping in the house = 4
+   - People sleeping outside = Total people - People sleeping in the house
+   - People sleeping outside = 14 - 4 = 10 people.
+
+5. **Calculate how many tents are needed:**
+   Typically, tents accommodate 2 people each. Therefore, we need to divide the number of people sleeping outside by the number of people per tent:
+   - Tents needed = People sleeping outside / People per tent
+   - Tents needed = 10 / 2 = 5 tents.
+
+Therefore, they will need 5 tents for everyone sleeping outside.
+</reasoning>
+<answer>5</answer>

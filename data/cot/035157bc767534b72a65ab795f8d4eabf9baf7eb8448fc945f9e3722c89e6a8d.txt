@@ -1,0 +1,42 @@
+<reasoning>
+First, let's find out how much taller Alex needs to grow in order to meet the height requirement for the roller coaster. He currently is 48 inches tall and needs to be 54 inches tall.
+
+1. **Calculate the height difference:**
+   \[
+   54 \text{ inches} - 48 \text{ inches} = 6 \text{ inches}
+   \]
+   This means Alex needs to grow a total of 6 inches over the next year.
+
+2. **Determine Alex's normal growth over a year:**
+   Alex grows 1/3 of an inch per month. To find out how much he grows in a year (12 months), we multiply:
+   \[
+   \frac{1}{3} \text{ inch/month} \times 12 \text{ months} = 4 \text{ inches}
+   \]
+   So, Alex will naturally grow 4 inches in a year.
+
+3. **Calculate the additional growth needed:**
+   Since Alex needs to grow 6 inches in total and he will grow 4 inches naturally, we find the additional growth he needs:
+   \[
+   6 \text{ inches} - 4 \text{ inches} = 2 \text{ inches}
+   \]
+   Therefore, Alex needs an additional 2 inches of growth from hanging upside down.
+
+4. **Find out how many hours of hanging upside down are required for the additional growth:**
+   The rumor states that for every hour he hangs upside down, he grows 1/12 of an inch. To find out how many hours he needs to hang upside down to grow 2 inches, we set up the equation:
+   \[
+   \text{Let } h \text{ be the hours needed. Then, } \frac{1}{12}h = 2 \text{ inches}
+   \]
+   To solve for \(h\), multiply both sides by 12:
+   \[
+   h = 2 \times 12 = 24 \text{ hours}
+   \]
+   Therefore, Alex needs to hang upside down for a total of 24 hours over the course of the year.
+
+5. **Calculate the average number of hours he needs to hang upside down each month:**
+   Since there are 12 months in a year, we divide the total hours by 12:
+   \[
+   \frac{24 \text{ hours}}{12 \text{ months}} = 2 \text{ hours/month}
+   \]
+   Thus, Alex needs to hang upside down for an average of 2 hours each month.
+</reasoning>
+<answer>2</answer>

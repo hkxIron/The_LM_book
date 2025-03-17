@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we will break it down step by step:
+
+1. **Determine the total amount of soda Danny originally had**: 
+   Danny has 3 bottles of soda. Since we are interested in the percentage of one bottle, we can consider each bottle as 100%. Therefore, the total amount of soda he has is:
+   \[
+   3 \text{ bottles} = 3 \times 100\% = 300\%
+   \]
+
+2. **Calculate how much soda Danny drank**: 
+   Danny drinks 90% of one bottle. So, the amount he drank is:
+   \[
+   90\%
+   \]
+
+3. **Calculate how much soda Danny has after drinking**: 
+   After drinking 90% of one bottle, we subtract that from the total amount of soda he had:
+   \[
+   \text{Soda left after drinking} = 300\% - 90\% = 210\%
+   \]
+
+4. **Calculate how much soda Danny gave away**: 
+   Danny gives away 70% of each of the two remaining bottles. Since each bottle is 100%, the total amount given away from the two bottles is:
+   \[
+   70\% + 70\% = 140\%
+   \]
+
+5. **Calculate how much soda Danny has left after giving some away**: 
+   Now, we will subtract the amount he gave away from the amount of soda he had after drinking:
+   \[
+   \text{Soda left after giving away} = 210\% - 140\% = 70\%
+   \]
+
+6. **Final amount of soda left**: 
+   Danny has 70% of a bottle left.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>70</answer>

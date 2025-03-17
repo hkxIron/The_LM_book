@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Quantity of Lychees**:
+   Mr. Shaefer harvested 500 lychees. So initially, he has:
+   \[
+   \text{Initial lychees} = 500
+   \]
+
+2. **Selling Half of the Lychees**:
+   He sold half of the lychees. To find out how many he sold, we calculate:
+   \[
+   \text{Lychees sold} = \frac{500}{2} = 250
+   \]
+   Now, we need to determine how many lychees he took home after the sale:
+   \[
+   \text{Remaining lychees} = 500 - 250 = 250
+   \]
+
+3. **Eating 3/5 of the Remaining Lychees**:
+   Now, Mr. Shaefer and his family ate 3/5 of the remaining lychees. To find out how many lychees they ate, we calculate:
+   \[
+   \text{Lychees eaten} = \frac{3}{5} \times 250
+   = \frac{750}{5} = 150
+   \]
+
+4. **Calculating Remaining Lychees**:
+   To find out how many lychees are left after they ate, we subtract the number of lychees eaten from the number of remaining lychees:
+   \[
+   \text{Lychees remaining} = 250 - 150 = 100
+   \]
+
+Therefore, the number of lychees remaining is:
+</reasoning>
+<answer>100</answer>

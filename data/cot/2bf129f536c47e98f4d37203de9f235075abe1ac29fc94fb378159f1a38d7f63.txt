@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we need to determine how many cups of sugar are required for each of the three layers of the cake based on the given information.
+
+1. **First Layer**: The recipe states that the smallest layer of the cake requires 2 cups of sugar. We denote this as:
+   \[
+   \text{Sugar for first layer} = 2 \text{ cups}
+   \]
+
+2. **Second Layer**: The second layer is described as being twice as big as the first layer. Therefore, we calculate the amount of sugar for the second layer by multiplying the amount of sugar in the first layer by 2:
+   \[
+   \text{Sugar for second layer} = 2 \times 2 = 4 \text{ cups}
+   \]
+
+3. **Third Layer**: The third layer is stated to be three times larger than the second layer. To find the amount of sugar for the third layer, we multiply the amount of sugar for the second layer by 3:
+   \[
+   \text{Sugar for third layer} = 3 \times 4 = 12 \text{ cups}
+   \]
+
+Now that we have calculated the sugar needed for each layer, we find that the third layer requires 12 cups of sugar.
+
+Therefore, the total cups of sugar needed for the third layer is:
+</reasoning>
+<answer>12</answer>

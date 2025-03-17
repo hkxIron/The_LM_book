@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, let's define the prices of each item based on the information provided.
+
+1. **Identify the cost of tea**: We know that tea costs $10.
+
+2. **Relate the cost of tea to the package of cheese**: According to the problem, tea costs twice the price of a package of cheese. So if we let the price of cheese be \( C \), we can write:
+   \[
+   10 = 2C
+   \]
+   To find \( C \), we divide both sides by 2:
+   \[
+   C = \frac{10}{2} = 5
+   \]
+   Thus, the price of the cheese is $5.
+
+3. **Relate the cost of butter to the price of cheese**: We also know that the price of butter is 80% of the price of cheese. Therefore, we can calculate the price of butter \( B \) as follows:
+   \[
+   B = 0.8C = 0.8 \times 5 = 4
+   \]
+   This means the price of butter is $4.
+
+4. **Find the cost of bread**: The problem states that the bread was 2 times cheaper than the butter. This means the price of bread \( R \) can be calculated as:
+   \[
+   R = \frac{1}{2}B = \frac{1}{2} \times 4 = 2
+   \]
+   Therefore, the price of the bread is $2.
+
+5. **Calculate the total cost of all items**: Now we can add the prices of all items together:
+   - Price of butter = $4
+   - Price of bread = $2
+   - Price of cheese = $5
+   - Price of tea = $10
+
+   So, the total cost \( T \) is:
+   \[
+   T = B + R + C + \text{Tea} = 4 + 2 + 5 + 10 = 21
+   \]
+
+After calculating the total cost of all Ursula's purchases, we find that:
+</reasoning>
+<answer>21</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+To determine how many extra square feet the leftover grass seed could cover after Drew reseeds his lawn, we will follow these steps:
+
+1. **Calculate the area of Drew's lawn**: The area of a rectangle can be found using the formula:
+   \[
+   \text{Area} = \text{Length} \times \text{Width}
+   \]
+   In this case, the length is 22 feet and the width is 36 feet.
+
+   Let's calculate that:
+   \[
+   \text{Area} = 22 \, \text{feet} \times 36 \, \text{feet} = 792 \, \text{square feet}
+   \]
+
+2. **Calculate the total coverage of the grass seed bags**: Each bag covers 250 square feet. Drew bought 4 bags, so we multiply the number of bags by the coverage per bag:
+   \[
+   \text{Total Coverage} = 4 \, \text{bags} \times 250 \, \text{square feet/bag} = 1000 \, \text{square feet}
+   \]
+
+3. **Calculate the leftover coverage after reseeding**: We have the total coverage from the bags and the area of the lawn. The leftover coverage is calculated by subtracting the area of the lawn from the total coverage:
+   \[
+   \text{Leftover Coverage} = \text{Total Coverage} - \text{Area of Lawn}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Leftover Coverage} = 1000 \, \text{square feet} - 792 \, \text{square feet} = 208 \, \text{square feet}
+   \]
+
+Therefore, after reseeding his lawn, the leftover grass seed could cover an additional 208 square feet.
+</reasoning>
+<answer>208</answer>

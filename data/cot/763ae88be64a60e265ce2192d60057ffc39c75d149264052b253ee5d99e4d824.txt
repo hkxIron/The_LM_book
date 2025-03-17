@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of cows**: Adam has 12 cows. We will denote the number of cows as C.
+   - C = 12
+
+2. **Determine the number of sheep**: The problem states that Adam has twice as many sheep as he has cows. Therefore, we will calculate the number of sheep (S) as follows:
+   - S = 2 * C = 2 * 12 = 24
+
+3. **Calculate the number of pigs**: Adam buys 3 pigs for every sheep he has. Therefore, we will calculate the number of pigs (P) using the number of sheep:
+   - P = 3 * S = 3 * 24 = 72
+
+4. **Calculate the total number of animals on the farm**: Now, we need to find the total number of animals on the farm after the transaction. We will add the number of cows, sheep, and pigs:
+   - Total animals = C + S + P = 12 + 24 + 72
+
+5. **Perform the addition**:
+   - Total animals = 12 + 24 = 36
+   - Total animals = 36 + 72 = 108
+
+Therefore, after the transaction, Adam has a total of 108 animals on his farm.
+</reasoning>
+<answer>108</answer>

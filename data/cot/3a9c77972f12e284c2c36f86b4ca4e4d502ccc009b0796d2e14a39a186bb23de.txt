@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the cost of Uber:**
+   We know that the Uber ride costs $22. 
+
+2. **Determine the cost of Lyft:**
+   The problem states that an Uber ride costs $3 more than a Lyft ride. Therefore, we can express the cost of the Lyft ride (L) as:
+   \[
+   L + 3 = 22
+   \]
+   To find L, we subtract 3 from both sides:
+   \[
+   L = 22 - 3 = 19
+   \]
+   So the Lyft ride costs $19.
+
+3. **Determine the cost of the Taxi:**
+   The problem further states that a Lyft ride costs $4 more than a taxi ride. Let's denote the cost of the taxi ride as T. We can express this relationship as:
+   \[
+   T + 4 = 19
+   \]
+   To find T, we subtract 4 from both sides:
+   \[
+   T = 19 - 4 = 15
+   \]
+   Thus, the taxi ride costs $15.
+
+4. **Calculate the tip for the taxi driver:**
+   Trevor tips the taxi driver 20% of the original cost of the ride. We first need to find 20% of the taxi ride cost:
+   \[
+   \text{Tip} = 0.20 \times T = 0.20 \times 15 = 3
+   \]
+
+5. **Calculate the total cost of the taxi ride including the tip:**
+   Now we add the original taxi ride cost to the tip to find the total cost:
+   \[
+   \text{Total Cost} = T + \text{Tip} = 15 + 3 = 18
+   \]
+
+Therefore, the total cost of the ride downtown including the tip is:
+</reasoning>
+<answer>18</answer>

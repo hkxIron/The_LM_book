@@ -1,0 +1,32 @@
+<reasoning>
+To determine how much money Rubble will have left after buying the notebooks and pens, we will first calculate the total cost of the notebooks and the pens.
+
+1. **Calculate the cost of the notebooks**:
+   - Each notebook costs $4.00 and Rubble wants to buy 2 notebooks.
+   - Therefore, the total cost for the notebooks is:
+     \[
+     \text{Cost of notebooks} = \text{Number of notebooks} \times \text{Cost per notebook} = 2 \times 4 = 8 \text{ dollars}
+     \]
+
+2. **Calculate the cost of the pens**:
+   - Each pen costs $1.50 and Rubble wants to buy 2 pens.
+   - Therefore, the total cost for the pens is:
+     \[
+     \text{Cost of pens} = \text{Number of pens} \times \text{Cost per pen} = 2 \times 1.5 = 3 \text{ dollars}
+     \]
+
+3. **Calculate the total cost of the purchase**:
+   - Now, we will add the total cost of the notebooks and the pens together:
+     \[
+     \text{Total cost} = \text{Cost of notebooks} + \text{Cost of pens} = 8 + 3 = 11 \text{ dollars}
+     \]
+
+4. **Determine how much money Rubble has left**:
+   - Rubble originally has $15. We will subtract the total cost from the amount he has:
+     \[
+     \text{Money left} = \text{Original amount} - \text{Total cost} = 15 - 11 = 4 \text{ dollars}
+     \]
+
+So, after buying 2 notebooks and 2 pens, Rubble will have $4 left.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many coconuts Dante has**: 
+   We know that Paolo has 14 coconuts. Dante has three times as many coconuts as Paolo. To find out how many coconuts Dante has, we will multiply the number of coconuts Paolo has by 3.
+   
+   \[
+   \text{Dante's coconuts} = 3 \times \text{Paolo's coconuts} = 3 \times 14 = 42
+   \]
+
+   So, Dante has 42 coconuts.
+
+2. **Calculate how many coconuts Dante has left after selling some**:
+   Dante sold 10 of his coconuts. We need to subtract the number of coconuts he sold from the total number of coconuts he originally had.
+   
+   \[
+   \text{Dante's coconuts left} = \text{Dante's original coconuts} - \text{coconuts sold} = 42 - 10 = 32
+   \]
+
+   After selling 10 coconuts, Dante has 32 coconuts left.
+
+Therefore, the final result is:
+</reasoning>
+<answer>32</answer>

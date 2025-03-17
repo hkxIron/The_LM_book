@@ -1,0 +1,26 @@
+<reasoning>
+To find the total number of skips Bob and Jim achieved, we need to calculate the number of skips they each made and then sum those totals.
+
+1. **Calculate Bob's total skips**: 
+   - Bob can skip a rock 12 times. 
+   - Since he skipped 10 rocks, we multiply the number of skips per rock by the number of rocks he skipped:
+     \[
+     \text{Total skips by Bob} = 12 \text{ skips/rock} \times 10 \text{ rocks} = 120 \text{ skips}
+     \]
+
+2. **Calculate Jim's total skips**: 
+   - Jim can skip a rock 15 times. 
+   - Similar to Bob, we multiply the number of skips per rock by the number of rocks he skipped:
+     \[
+     \text{Total skips by Jim} = 15 \text{ skips/rock} \times 10 \text{ rocks} = 150 \text{ skips}
+     \]
+
+3. **Calculate the total skips by both Bob and Jim**: 
+   - Now, we add the total skips made by Bob and Jim:
+     \[
+     \text{Total skips} = \text{Total skips by Bob} + \text{Total skips by Jim} = 120 \text{ skips} + 150 \text{ skips} = 270 \text{ skips}
+     \]
+
+Therefore, the total number of skips that Bob and Jim achieved together is 270.
+</reasoning>
+<answer>270</answer>

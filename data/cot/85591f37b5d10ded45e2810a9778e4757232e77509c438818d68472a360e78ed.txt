@@ -1,0 +1,71 @@
+<reasoning>
+To find out how many fish remain after Danny sells some of them, we will follow these steps:
+
+1. **Calculate the total number of each type of fish before selling.** 
+   - Guppies: 94
+   - Angelfish: 76
+   - Tiger Sharks: 89
+   - Oscar Fish: 58
+
+   To find the total number of fish before selling, we sum these amounts:
+   \[
+   94 + 76 + 89 + 58
+   \]
+
+2. **Perform the calculation for the total:**
+   - First, add the guppies and angelfish:
+     \[
+     94 + 76 = 170
+     \]
+   - Next, add the tiger sharks:
+     \[
+     170 + 89 = 259
+     \]
+   - Finally, add the Oscar fish:
+     \[
+     259 + 58 = 317
+     \]
+
+   So, the total number of fish before selling is 317.
+
+3. **Calculate the total number of fish sold:**
+   - Guppies sold: 30
+   - Angelfish sold: 48
+   - Tiger Sharks sold: 17
+   - Oscar Fish sold: 24
+
+   We sum these amounts to find the total number of fish sold:
+   \[
+   30 + 48 + 17 + 24
+   \]
+
+4. **Perform the calculation for the total fish sold:**
+   - First, add the guppies and angelfish sold:
+     \[
+     30 + 48 = 78
+     \]
+   - Next, add the tiger sharks sold:
+     \[
+     78 + 17 = 95
+     \]
+   - Finally, add the Oscar fish sold:
+     \[
+     95 + 24 = 119
+     \]
+
+   So, the total number of fish sold is 119.
+
+5. **Calculate the remaining number of fish:**
+   To find how many fish remain, we subtract the total number of fish sold from the total number of fish before selling:
+   \[
+   317 - 119
+   \]
+
+6. **Perform the subtraction:**
+   \[
+   317 - 119 = 198
+   \]
+
+Thus, the number of fish that will remain after Danny sells some is 198.
+</reasoning>
+<answer>198</answer>

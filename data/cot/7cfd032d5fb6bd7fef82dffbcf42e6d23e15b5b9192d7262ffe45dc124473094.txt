@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the distance walked on Day 1**: Trish walks 1 mile on the first day.
+
+2. **Calculate the distance for subsequent days**: Since she doubles the distance each day, we can calculate the distance she walks on each day as follows:
+   - Day 1: 1 mile
+   - Day 2: \(1 \times 2 = 2\) miles
+   - Day 3: \(2 \times 2 = 4\) miles
+   - Day 4: \(4 \times 2 = 8\) miles
+   - Day 5: \(8 \times 2 = 16\) miles
+   - Day 6: \(16 \times 2 = 32\) miles
+   - Day 7: \(32 \times 2 = 64\) miles
+
+3. **Determine the target distance**: Trish needs to walk more than 10 times further than she did on the first day. Since she walked 1 mile on Day 1, 10 times that distance is:
+   \[
+   10 \times 1 = 10 \text{ miles}
+   \]
+
+4. **Compare each day's distance with the target distance**:
+   - Day 1: 1 mile (not more than 10 miles)
+   - Day 2: 2 miles (not more than 10 miles)
+   - Day 3: 4 miles (not more than 10 miles)
+   - Day 4: 8 miles (not more than 10 miles)
+   - Day 5: 16 miles (this is more than 10 miles)
+
+5. **Conclusion**: Trish first walks more than 10 miles on Day 5.
+
+Therefore, Trish walks more than 10 times further than she did on the first day on Day 5.
+</reasoning>
+<answer>5</answer>

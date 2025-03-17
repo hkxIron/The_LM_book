@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of phones Vivienne has**: 
+   The problem states that Vivienne has 40 phones.
+
+2. **Determine the number of phones Aliyah has**: 
+   According to the problem, Aliyah has 10 more phones than Vivienne. Therefore, we can calculate the number of phones Aliyah has by adding 10 to the number of phones Vivienne has:
+   \[
+   \text{Aliyah's phones} = \text{Vivienne's phones} + 10 = 40 + 10 = 50
+   \]
+
+3. **Calculate the total number of phones they have together**: 
+   Now, we will add the number of phones each sister has to find the total:
+   \[
+   \text{Total phones} = \text{Aliyah's phones} + \text{Vivienne's phones} = 50 + 40 = 90
+   \]
+
+4. **Determine the selling price of the phones**: 
+   The problem states that they sell their phones for $400 each.
+
+5. **Calculate the total amount of money they will receive from selling all their phones**: 
+   We will multiply the total number of phones by the price per phone to find the total revenue:
+   \[
+   \text{Total money} = \text{Total phones} \times \text{Price per phone} = 90 \times 400
+   \]
+   Now, let's do the multiplication:
+   \[
+   90 \times 400 = 36000
+   \]
+
+Therefore, the total amount of money Aliyah and Vivienne will have together from selling their phones is:
+</reasoning>
+<answer>36000</answer>

@@ -1,0 +1,62 @@
+<reasoning>
+To find the average number of pastries the baker sells each day of the week, we first need to determine how many pastries he sells each day.
+
+1. **Sales on Monday**: The problem states that on Monday, he sold 2 pastries. 
+   - Sales on Monday = 2
+
+2. **Sales on Tuesday**: According to the problem, the number of sales increases by 1 each day. Therefore, on Tuesday, he sells:
+   - Sales on Tuesday = Sales on Monday + 1 = 2 + 1 = 3
+
+3. **Sales on Wednesday**: Following the same pattern, on Wednesday he sells:
+   - Sales on Wednesday = Sales on Tuesday + 1 = 3 + 1 = 4
+
+4. **Sales on Thursday**: On Thursday, he sells:
+   - Sales on Thursday = Sales on Wednesday + 1 = 4 + 1 = 5
+
+5. **Sales on Friday**: On Friday, he sells:
+   - Sales on Friday = Sales on Thursday + 1 = 5 + 1 = 6
+
+6. **Sales on Saturday**: On Saturday, he sells:
+   - Sales on Saturday = Sales on Friday + 1 = 6 + 1 = 7
+
+7. **Sales on Sunday**: Finally, on Sunday, he sells:
+   - Sales on Sunday = Sales on Saturday + 1 = 7 + 1 = 8
+
+Now we can summarize the total sales for each day:
+
+- Monday: 2
+- Tuesday: 3
+- Wednesday: 4
+- Thursday: 5
+- Friday: 6
+- Saturday: 7
+- Sunday: 8
+
+8. **Total Sales for the Week**: To find the total number of pastries sold throughout the week, we sum the sales for each day:
+   \[
+   \text{Total Sales} = 2 + 3 + 4 + 5 + 6 + 7 + 8
+   \]
+
+   Performing the addition step by step:
+   - \(2 + 3 = 5\)
+   - \(5 + 4 = 9\)
+   - \(9 + 5 = 14\)
+   - \(14 + 6 = 20\)
+   - \(20 + 7 = 27\)
+   - \(27 + 8 = 35\)
+
+   Therefore, the total sales for the week is 35.
+
+9. **Calculating the Average Sales**: To find the average number of pastries sold per day, we divide the total sales by the number of days in the week (7):
+   \[
+   \text{Average Sales} = \frac{\text{Total Sales}}{7} = \frac{35}{7}
+   \]
+
+   Performing the division:
+   \[
+   \frac{35}{7} = 5
+   \]
+
+Thus, the average number of pastries the baker sells each day is 5.
+</reasoning>
+<answer>5</answer>

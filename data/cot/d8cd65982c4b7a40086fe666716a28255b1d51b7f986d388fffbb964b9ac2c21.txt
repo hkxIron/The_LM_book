@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many pages Maya read in total, we need to follow these steps:
+
+1. **Calculate the total pages Maya read last week**:
+   - Maya read 5 books, and each book had 300 pages. 
+   - To find the total pages for last week, we multiply the number of books by the number of pages per book.
+   \[
+   \text{Total pages last week} = 5 \text{ books} \times 300 \text{ pages/book}
+   \]
+   - Performing the multiplication:
+   \[
+   5 \times 300 = 1500 \text{ pages}
+   \]
+   - So, Maya read 1500 pages last week.
+
+2. **Calculate the total pages Maya read this week**:
+   - This week, Maya read twice as much as she did last week. 
+   - We can find the total pages for this week by multiplying last week's total by 2.
+   \[
+   \text{Total pages this week} = 2 \times 1500 \text{ pages}
+   \]
+   - Performing the multiplication:
+   \[
+   2 \times 1500 = 3000 \text{ pages}
+   \]
+   - So, Maya read 3000 pages this week.
+
+3. **Calculate the total pages read in both weeks**:
+   - To find the total pages read over both weeks, we add the pages read last week to the pages read this week.
+   \[
+   \text{Total pages} = \text{Total pages last week} + \text{Total pages this week}
+   \]
+   \[
+   \text{Total pages} = 1500 \text{ pages} + 3000 \text{ pages}
+   \]
+   - Performing the addition:
+   \[
+   1500 + 3000 = 4500 \text{ pages}
+   \]
+
+Therefore, Maya read a total of 4500 pages over the two weeks.
+</reasoning>
+<answer>4500</answer>

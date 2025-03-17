@@ -1,0 +1,51 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many tickets were sold**: 
+   We know that 900 tickets were sold.
+
+2. **Calculate how many people arrived before the concert started**:
+   Three-fourths of the ticket holders came before the start of the concert. 
+   \[
+   \text{People who came before} = \frac{3}{4} \times 900
+   \]
+   Calculating this:
+   \[
+   \frac{3 \times 900}{4} = \frac{2700}{4} = 675
+   \]
+
+3. **Calculate how many people remained after the early arrivals**:
+   The remaining people after those who arrived before the concert is:
+   \[
+   \text{Remaining people} = 900 - 675 = 225
+   \]
+
+4. **Calculate how many of the remaining people arrived a few minutes after the first song**:
+   Five-ninths of the remaining 225 people came after the first song.
+   \[
+   \text{People who came after the first song} = \frac{5}{9} \times 225
+   \]
+   Calculating this:
+   \[
+   \frac{5 \times 225}{9} = \frac{1125}{9} = 125
+   \]
+
+5. **Calculate how many people are left who did not go**:
+   After those who arrived after the first song, we need to account for the 80 people who arrived during the middle part of the concert.
+   First, we find out how many people did not go:
+   - Total who did not go includes those who were not among the early arrivals, those who didn’t come after the first song, and those who arrived late.
+   \[
+   \text{People who did not go} = 900 - (675 + 125 + 80)
+   \]
+   Calculating the total who came:
+   \[
+   675 + 125 + 80 = 880
+   \]
+   Now, subtracting from the total:
+   \[
+   900 - 880 = 20
+   \]
+
+Thus, the number of those who bought the tickets but did not go is 20.
+</reasoning>
+<answer>20</answer>

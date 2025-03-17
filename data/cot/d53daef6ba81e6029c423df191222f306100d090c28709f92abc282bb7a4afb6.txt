@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we will break it down into steps.
+
+1. **Identify the number of quarters:**
+   We know that Gloria has five times as many dimes as quarters. We are given that she has 350 dimes. 
+   Let the number of quarters be \( q \). According to the problem, we can express the relationship as:
+   \[
+   350 = 5q
+   \]
+   To find \( q \), we divide both sides of the equation by 5:
+   \[
+   q = \frac{350}{5} = 70
+   \]
+   So, Gloria has 70 quarters.
+
+2. **Calculate how many quarters she puts aside:**
+   Gloria decides to put 2/5 of her quarters aside. To find out how many quarters this is, we calculate:
+   \[
+   \text{Quarters put aside} = \frac{2}{5} \times 70 = 28
+   \]
+
+3. **Determine the remaining quarters:**
+   To find out how many quarters she has left after putting aside 2/5 of them, we subtract the quarters put aside from the total number of quarters:
+   \[
+   \text{Remaining quarters} = 70 - 28 = 42
+   \]
+
+4. **Calculate the total number of coins (quarters and dimes):**
+   Now, we need to find the combined total of dimes and the remaining quarters. We already know she has 350 dimes and now has 42 quarters:
+   \[
+   \text{Total coins} = \text{Dimes} + \text{Remaining Quarters} = 350 + 42 = 392
+   \]
+
+Therefore, after putting aside 2/5 of the quarters, the combined number of quarters and dimes Gloria has is:
+</reasoning>
+<answer>392</answer>

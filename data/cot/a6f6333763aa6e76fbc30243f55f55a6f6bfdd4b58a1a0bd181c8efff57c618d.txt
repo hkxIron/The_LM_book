@@ -1,0 +1,21 @@
+<reasoning>
+To solve this problem, we need to understand how the leaf moves in response to the gusts of wind. Each gust has two effects: it moves the leaf forward and then the wind swirls it back.
+
+1. **Determine the net movement for one gust:**
+   - The gust blows the leaf forward by 5 feet.
+   - Then, it swirls back and moves the leaf back by 2 feet.
+   - To find the net movement for one gust, we perform the following calculation:
+     \[
+     \text{Net movement} = \text{Forward distance} - \text{Backward distance} = 5 \text{ feet} - 2 \text{ feet} = 3 \text{ feet}
+     \]
+   - This means that after each gust, the leaf effectively moves 3 feet forward.
+
+2. **Calculate the total movement after 11 gusts:**
+   - Since each gust results in a net movement of 3 feet, we can calculate the total distance traveled after 11 gusts:
+     \[
+     \text{Total distance} = \text{Net movement per gust} \times \text{Number of gusts} = 3 \text{ feet/gust} \times 11 \text{ gusts} = 33 \text{ feet}
+     \]
+
+Therefore, after 11 gusts of wind, the leaf has traveled a total of 33 feet down the sidewalk.
+</reasoning>
+<answer>33</answer>

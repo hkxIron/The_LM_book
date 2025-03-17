@@ -1,0 +1,51 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Determine the cost of the initial purchase of water:**
+   - Jack bought 4 bottles of water, and each bottle costs $2.
+   - Therefore, the cost for the 4 bottles is calculated as follows:
+     \[ 
+     \text{Cost of water} = \text{Number of bottles} \times \text{Cost per bottle} = 4 \times 2 = 8 
+     \]
+   - So, Jack spent $8 on water.
+
+2. **Calculate how many bottles his mother asked him to buy:**
+   - His mother asked him to buy twice as many bottles as he already bought.
+   - Since he bought 4 bottles, the number to buy is:
+     \[ 
+     \text{Bottles to buy} = 2 \times \text{Bottles already bought} = 2 \times 4 = 8 
+     \]
+
+3. **Calculate the cost of the additional bottles:**
+   - Each bottle still costs $2, so the cost for the additional 8 bottles is:
+     \[ 
+     \text{Cost of additional bottles} = \text{Number of bottles} \times \text{Cost per bottle} = 8 \times 2 = 16 
+     \]
+
+4. **Calculate the total cost of water:**
+   - Now, we sum up the total cost of both the initial and additional bottles:
+     \[ 
+     \text{Total cost of water} = \text{Cost of initial bottles} + \text{Cost of additional bottles} = 8 + 16 = 24 
+     \]
+
+5. **Calculate the cost of the cheese:**
+   - Jack also bought half a pound of cheese. Since 1 pound of cheese costs $10, half a pound would cost:
+     \[ 
+     \text{Cost of cheese} = \frac{1}{2} \times 10 = 5 
+     \]
+
+6. **Calculate the total expenditure:**
+   - Now, we add the total cost of water and the cost of cheese to find Jack's total expenditure:
+     \[ 
+     \text{Total expenditure} = \text{Total cost of water} + \text{Cost of cheese} = 24 + 5 = 29 
+     \]
+
+7. **Calculate the remaining amount of money:**
+   - Jack started with $100, so to find out how much he has left after his purchases, we subtract his total expenditure from the initial amount:
+     \[ 
+     \text{Remaining amount} = \text{Initial amount} - \text{Total expenditure} = 100 - 29 = 71 
+     \]
+
+Therefore, after performing all the calculations, we find that Jack has $71 remaining.
+</reasoning>
+<answer>71</answer>

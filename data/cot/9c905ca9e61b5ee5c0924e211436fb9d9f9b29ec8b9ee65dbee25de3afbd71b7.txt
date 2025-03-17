@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many pies are not eaten with forks, we first need to determine how many pies are eaten with forks.
+
+1. **Calculate the number of pies eaten with forks:**
+   Since 68% of the pies are eaten with forks, we can calculate the number of pies eaten with forks by multiplying the total number of pies (2000) by the percentage (68%).
+
+   \[
+   \text{Number of pies eaten with forks} = 2000 \times 0.68
+   \]
+
+   Let's perform the multiplication:
+
+   \[
+   2000 \times 0.68 = 1360
+   \]
+
+   This means that 1360 pies are eaten with forks.
+
+2. **Calculate the number of pies not eaten with forks:**
+   To find the number of pies that are not eaten with forks, we subtract the number of pies eaten with forks from the total number of pies.
+
+   \[
+   \text{Number of pies not eaten with forks} = 2000 - 1360
+   \]
+
+   Now, let's perform the subtraction:
+
+   \[
+   2000 - 1360 = 640
+   \]
+
+Thus, the number of pies that are not eaten with forks is 640.
+</reasoning>
+<answer>640</answer>

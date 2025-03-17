@@ -1,0 +1,30 @@
+<reasoning>
+To find the price of one child's ticket, we will first determine how much was spent on adult tickets and then how much is left for the children's tickets.
+
+1. **Calculate total cost for adult tickets:**
+   - There are 10 adults, and each adult ticket costs $8.
+   - We can calculate the total cost for adult tickets by multiplying the number of adults by the price of one ticket:
+
+   \[
+   \text{Total cost for adults} = 10 \text{ adults} \times 8 \text{ dollars/adult} = 80 \text{ dollars}
+   \]
+
+2. **Determine the remaining amount for children's tickets:**
+   - The total bill for both adults and children is $124.
+   - To find out how much money was spent on children's tickets, we subtract the total cost of adult tickets from the total bill:
+
+   \[
+   \text{Total cost for children} = 124 \text{ dollars} - 80 \text{ dollars} = 44 \text{ dollars}
+   \]
+
+3. **Calculate the cost per child's ticket:**
+   - There are 11 children, and we need to find the price of one child's ticket.
+   - We can find the cost of one child's ticket by dividing the total cost for children's tickets by the number of children:
+
+   \[
+   \text{Price per child's ticket} = \frac{44 \text{ dollars}}{11 \text{ children}} = 4 \text{ dollars}
+   \]
+
+Thus, after analyzing the costs and performing the calculations, we conclude that the price of one child's ticket is $4.
+</reasoning>
+<answer>4</answer>

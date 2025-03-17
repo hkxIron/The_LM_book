@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many desserts each student gets, we first need to determine the total number of desserts available. 
+
+1. **Calculate the Total Number of Desserts**:
+   - We have 14 mini-cupcakes and 12 donut holes. To find the total number of desserts, we add these two amounts together:
+     \[
+     \text{Total Desserts} = \text{Mini-Cupcakes} + \text{Donut Holes} = 14 + 12
+     \]
+   - Performing the addition:
+     \[
+     14 + 12 = 26
+     \]
+   - So, there are 26 desserts in total.
+
+2. **Distributing the Desserts Equally Among Students**:
+   - Now, we need to divide the total number of desserts (26) by the number of students (13) to find out how many desserts each student will receive:
+     \[
+     \text{Desserts per Student} = \frac{\text{Total Desserts}}{\text{Number of Students}} = \frac{26}{13}
+     \]
+   - Performing the division:
+     \[
+     \frac{26}{13} = 2
+     \]
+
+Now, each student will receive 2 desserts. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>2</answer>

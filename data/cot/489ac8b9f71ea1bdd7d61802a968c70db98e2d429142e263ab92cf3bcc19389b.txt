@@ -1,0 +1,41 @@
+<reasoning>
+Let's denote the ages of the three brothers as \(x\), \(x+1\), and \(x+2\). Here, \(x\) represents the age of the youngest brother, \(x+1\) the age of the middle brother, and \(x+2\) the age of the oldest brother.
+
+1. First, we set up the equation for the sum of their ages:
+   \[
+   x + (x + 1) + (x + 2) = 96
+   \]
+   This equation states that the sum of their ages equals 96.
+
+2. Next, let's simplify the left side of the equation:
+   \[
+   x + x + 1 + x + 2 = 3x + 3
+   \]
+   So the equation becomes:
+   \[
+   3x + 3 = 96
+   \]
+
+3. Now we need to isolate \(x\). We can do this by subtracting 3 from both sides:
+   \[
+   3x = 96 - 3
+   \]
+   Simplifying the right side gives:
+   \[
+   3x = 93
+   \]
+
+4. Next, we divide both sides by 3 to solve for \(x\):
+   \[
+   x = \frac{93}{3}
+   \]
+   Performing the division gives:
+   \[
+   x = 31
+   \]
+
+5. Since \(x\) represents the age of the youngest brother, we conclude that the youngest brother is 31 years old.
+
+Therefore, the age of the youngest brother is:
+</reasoning>
+<answer>31</answer>

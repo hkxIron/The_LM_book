@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many strawberries Hannah has at the end of April, we will follow these steps:
+
+1. **Calculate the total number of strawberries harvested in April.**
+   - Hannah harvests 5 strawberries daily.
+   - April has 30 days.
+   - We can calculate the total strawberries harvested by multiplying the daily harvest by the number of days:
+     \[
+     \text{Total strawberries harvested} = 5 \text{ strawberries/day} \times 30 \text{ days} = 150 \text{ strawberries}
+     \]
+
+2. **Account for the strawberries given away and stolen.**
+   - Hannah gives away 20 strawberries to her friends.
+   - Additionally, 30 strawberries are stolen.
+   - We need to calculate the total number of strawberries lost:
+     \[
+     \text{Total strawberries lost} = 20 + 30 = 50 \text{ strawberries}
+     \]
+
+3. **Calculate the remaining strawberries.**
+   - To find out how many strawberries Hannah has left, we subtract the total strawberries lost from the total harvested:
+     \[
+     \text{Remaining strawberries} = \text{Total strawberries harvested} - \text{Total strawberries lost}
+     \]
+     \[
+     \text{Remaining strawberries} = 150 - 50 = 100 \text{ strawberries}
+     \]
+
+Now we have the final count of strawberries Hannah has at the end of April.
+
+Therefore, the final count of strawberries is:
+</reasoning>
+<answer>100</answer>

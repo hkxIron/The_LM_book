@@ -1,0 +1,53 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of barrettes**: 
+   The problem states that Annie has 6 barrettes.
+
+2. **Calculate the number of scrunchies**: 
+   It is given that Annie has twice as many scrunchies as barrettes. Therefore, we can calculate the number of scrunchies as follows:
+   \[
+   \text{Number of scrunchies} = 2 \times \text{Number of barrettes} = 2 \times 6 = 12
+   \]
+
+3. **Calculate the number of bobby pins**: 
+   The problem states that Annie has three fewer bobby pins than barrettes. Thus, we can calculate the number of bobby pins as follows:
+   \[
+   \text{Number of bobby pins} = \text{Number of barrettes} - 3 = 6 - 3 = 3
+   \]
+
+4. **Calculate the total number of hair decorations**: 
+   Now, we need to find the total number of hair decorations, which includes barrettes, scrunchies, and bobby pins. We can calculate this total as follows:
+   \[
+   \text{Total hair decorations} = \text{Number of barrettes} + \text{Number of scrunchies} + \text{Number of bobby pins} = 6 + 12 + 3 = 21
+   \]
+
+5. **Calculate the percentage of bobby pins**: 
+   To find the percentage of her hair decorations that are bobby pins, we use the formula:
+   \[
+   \text{Percentage of bobby pins} = \left(\frac{\text{Number of bobby pins}}{\text{Total hair decorations}}\right) \times 100
+   \]
+   Plugging in the numbers we calculated:
+   \[
+   \text{Percentage of bobby pins} = \left(\frac{3}{21}\right) \times 100
+   \]
+
+6. **Simplifying the fraction**: 
+   We can simplify the fraction \(\frac{3}{21}\) to \(\frac{1}{7}\).
+
+7. **Calculating the percentage**: 
+   Now we calculate the percentage:
+   \[
+   \frac{1}{7} \approx 0.142857
+   \]
+   Multiplying by 100 gives us approximately:
+   \[
+   0.142857 \times 100 \approx 14.2857
+   \]
+
+8. **Rounding to the nearest percent**: 
+   Rounding 14.2857 to the nearest whole number gives us 14%.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>14</answer>

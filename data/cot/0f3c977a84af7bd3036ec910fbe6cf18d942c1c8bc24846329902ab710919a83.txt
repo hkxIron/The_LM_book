@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we need to find out how much food coloring each hard candy uses, given the information about lollipops and the total amount of food coloring used.
+
+1. **Calculate the total food coloring used for the lollipops**: 
+   Each lollipop uses 5ml of food coloring. Since the candy store makes 100 lollipops, we can calculate the total amount of food coloring used for lollipops.
+   
+   \[
+   \text{Food coloring for lollipops} = \text{number of lollipops} \times \text{food coloring per lollipop}
+   \]
+   \[
+   \text{Food coloring for lollipops} = 100 \times 5 \text{ml} = 500 \text{ml}
+   \]
+
+2. **Determine the total food coloring used for hard candies**:
+   We know the total food coloring used by the end of the day is 600ml. To find out how much food coloring is used for the hard candies, we subtract the amount used for lollipops from the total.
+   
+   \[
+   \text{Food coloring for hard candies} = \text{total food coloring} - \text{food coloring for lollipops}
+   \]
+   \[
+   \text{Food coloring for hard candies} = 600 \text{ml} - 500 \text{ml} = 100 \text{ml}
+   \]
+
+3. **Calculate the food coloring needed for each hard candy**:
+   The store makes 5 hard candies. To find out how much food coloring each hard candy needs, we divide the total food coloring used for hard candies by the number of hard candies.
+   
+   \[
+   \text{Food coloring per hard candy} = \frac{\text{food coloring for hard candies}}{\text{number of hard candies}}
+   \]
+   \[
+   \text{Food coloring per hard candy} = \frac{100 \text{ml}}{5} = 20 \text{ml}
+   \]
+
+Therefore, each hard candy needs 20ml of food coloring.
+</reasoning>
+<answer>20</answer>

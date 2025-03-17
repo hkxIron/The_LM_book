@@ -1,0 +1,44 @@
+<reasoning>
+Let's denote the width of the rectangle as \( w \) meters. According to the problem, the length \( l \) of the rectangle is four times its width. We can express this relationship mathematically as:
+
+\[ l = 4w \]
+
+Next, we know that the area \( A \) of a rectangle is calculated using the formula:
+
+\[ A = l \times w \]
+
+From the problem, we know that the area of the rectangle is \( 100 \, m^2 \). Therefore, we can set up the equation:
+
+\[ 100 = l \times w \]
+
+Now, we can substitute the expression for \( l \) from the first equation into the area equation:
+
+\[ 100 = (4w) \times w \]
+
+This simplifies to:
+
+\[ 100 = 4w^2 \]
+
+Next, we need to solve for \( w^2 \). We can do this by dividing both sides of the equation by 4:
+
+\[ w^2 = \frac{100}{4} \]
+
+This simplifies to:
+
+\[ w^2 = 25 \]
+
+Now, to find \( w \), we take the square root of both sides:
+
+\[ w = \sqrt{25} \]
+
+This gives us:
+
+\[ w = 5 \, m \]
+
+Now that we have the width, we can find the length using the first equation we established:
+
+\[ l = 4w = 4 \times 5 = 20 \, m \]
+
+Therefore, the length of the rectangle is:
+</reasoning>
+<answer>20</answer>

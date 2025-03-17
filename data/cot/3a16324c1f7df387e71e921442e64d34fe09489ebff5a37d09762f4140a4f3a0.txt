@@ -1,0 +1,33 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Understanding the initial amount**: Ray has 175 cents in nickels. We need to convert this into the number of nickels. Since each nickel is worth 5 cents, we divide the total amount by the value of one nickel:
+   \[
+   \text{Number of nickels} = \frac{175 \text{ cents}}{5 \text{ cents/nickel}} = 35 \text{ nickels}
+   \]
+   This means Ray has 35 nickels in total.
+
+2. **Giving money to Peter**: Ray gives 30 cents to Peter. We need to find out how many nickels this amount corresponds to:
+   \[
+   \text{Nickels given to Peter} = \frac{30 \text{ cents}}{5 \text{ cents/nickel}} = 6 \text{ nickels}
+   \]
+   So, Peter receives 6 nickels.
+
+3. **Giving money to Randi**: Ray gives twice as many cents to Randi as he gave to Peter. Since Peter received 30 cents, Randi receives:
+   \[
+   \text{Cents given to Randi} = 2 \times 30 \text{ cents} = 60 \text{ cents}
+   \]
+   Now, we convert this amount into nickels:
+   \[
+   \text{Nickels given to Randi} = \frac{60 \text{ cents}}{5 \text{ cents/nickel}} = 12 \text{ nickels}
+   \]
+   Therefore, Randi receives 12 nickels.
+
+4. **Calculating the difference**: We need to find out how many more nickels Randi has than Peter. Peter has 6 nickels, and Randi has 12 nickels. The difference is:
+   \[
+   \text{Difference} = 12 \text{ nickels} - 6 \text{ nickels} = 6 \text{ nickels}
+   \]
+
+Thus, Randi has 6 more nickels than Peter.
+</reasoning>
+<answer>6</answer>

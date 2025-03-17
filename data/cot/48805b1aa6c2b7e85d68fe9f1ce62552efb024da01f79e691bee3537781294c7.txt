@@ -1,0 +1,37 @@
+<reasoning>
+Let's start by determining how many eggs Megan initially bought. 
+
+1. **Calculate the total number of eggs.**
+   Megan bought 2 dozen eggs. Since 1 dozen equals 12 eggs, we calculate:
+   \[
+   2 \text{ dozen} = 2 \times 12 = 24 \text{ eggs}
+   \]
+   So, she initially has 24 eggs.
+
+2. **Determine how many eggs were broken and cracked.**
+   According to the problem, 3 eggs broke. It also states that twice as many cracked. Therefore, we calculate the number of cracked eggs:
+   \[
+   \text{Cracked eggs} = 2 \times \text{broken eggs} = 2 \times 3 = 6 \text{ cracked eggs}
+   \]
+
+3. **Calculate the total number of eggs that are not in perfect condition.**
+   We add the broken eggs and the cracked eggs:
+   \[
+   \text{Total damaged eggs} = \text{broken eggs} + \text{cracked eggs} = 3 + 6 = 9 \text{ damaged eggs}
+   \]
+
+4. **Calculate the number of eggs that are still in perfect condition.**
+   To find the number of eggs still in perfect condition, we subtract the total damaged eggs from the initial total:
+   \[
+   \text{Perfect condition eggs} = \text{Total eggs} - \text{Total damaged eggs} = 24 - 9 = 15 \text{ eggs}
+   \]
+
+5. **Find the difference between the eggs that are still in perfect condition and those that are cracked.**
+   We already know there are 15 eggs in perfect condition and 6 cracked eggs. Now we find the difference:
+   \[
+   \text{Difference} = \text{Perfect condition eggs} - \text{Cracked eggs} = 15 - 6 = 9
+   \]
+
+Therefore, the difference between the eggs that are still in perfect condition and those that are cracked is 9.
+</reasoning>
+<answer>9</answer>

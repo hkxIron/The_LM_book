@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many ice cream cones Marco needs to sell to make a $200 profit, we will go through the problem step by step.
+
+1. **Define the variables**: 
+   - Let \( x \) be the number of ice cream cones sold.
+   - Each ice cream cone sells for $5.
+
+2. **Calculate total sales**: 
+   - The total sales from selling \( x \) ice cream cones is given by:
+   \[
+   \text{Total Sales} = 5x
+   \]
+
+3. **Calculate expenses**: 
+   - Marco's expenses are 80% of the total sales. Thus, the expenses can be expressed as:
+   \[
+   \text{Expenses} = 0.80 \times \text{Total Sales} = 0.80 \times 5x = 4x
+   \]
+
+4. **Define profit**: 
+   - Profit is calculated as total sales minus expenses:
+   \[
+   \text{Profit} = \text{Total Sales} - \text{Expenses} = 5x - 4x = x
+   \]
+
+5. **Set up the equation for the desired profit**: 
+   - We want Marco to make a profit of $200, so we set the profit equal to $200:
+   \[
+   x = 200
+   \]
+
+6. **Interpret the result**: 
+   - This means Marco needs to sell 200 ice cream cones to achieve a profit of $200.
+
+Therefore, after working through the calculations step by step, we find that:
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+To find the total number of fruit salads in both Angel's and Alaya's restaurants, we need to follow these steps:
+
+1. **Identify the number of fruit salads in Alaya's restaurant.** We know that Alaya's restaurant has 200 fruit salads.
+
+2. **Determine the number of fruit salads in Angel's restaurant.** Since Angel makes twice the number of fruit salads that Alaya makes, we calculate this by multiplying the number of fruit salads in Alaya's restaurant by 2:
+   \[
+   \text{Number of fruit salads in Angel's restaurant} = 2 \times 200 = 400
+   \]
+
+3. **Calculate the total number of fruit salads in both restaurants.** We add the number of fruit salads in both restaurants together:
+   \[
+   \text{Total number of fruit salads} = \text{Number in Alaya's} + \text{Number in Angel's} = 200 + 400 = 600
+   \]
+
+Therefore, the total number of fruit salads in both Angel's and Alaya's restaurants is 600.
+</reasoning>
+<answer>600</answer>

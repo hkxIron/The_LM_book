@@ -1,0 +1,40 @@
+<reasoning>
+First, let's break down the problem step by step.
+
+1. **Identify the initial salary**: Kirt's starting salary is $6000 per month.
+
+2. **Calculate the salary increase**: After one year, his salary increases by 30%. 
+   - To find the amount of the increase, we calculate 30% of $6000:
+     \[
+     \text{Increase} = 6000 \times 0.30 = 1800
+     \]
+
+3. **Determine the new salary**: After the increase, we add the increase to the original salary to find his new salary:
+   \[
+   \text{New Salary} = 6000 + 1800 = 7800
+   \]
+
+4. **Calculate the total earnings for the first year**: Kirt earns $6000 for each month in the first year. Since there are 12 months in a year:
+   \[
+   \text{Earnings in Year 1} = 6000 \times 12 = 72000
+   \]
+
+5. **Calculate the total earnings for the next two years**: For the second and third years, Kirt earns $7800 each month. Therefore, the total earnings for those two years will be:
+   \[
+   \text{Earnings in Year 2} = 7800 \times 12 = 93600
+   \]
+   \[
+   \text{Earnings in Year 3} = 7800 \times 12 = 93600
+   \]
+
+6. **Combine all earnings**: Now, we sum up the earnings from all three years:
+   \[
+   \text{Total Earnings} = \text{Earnings in Year 1} + \text{Earnings in Year 2} + \text{Earnings in Year 3}
+   \]
+   \[
+   \text{Total Earnings} = 72000 + 93600 + 93600 = 259200
+   \]
+
+Thus, Kirt's total earnings after 3 years is $259200.
+</reasoning>
+<answer>259200</answer>

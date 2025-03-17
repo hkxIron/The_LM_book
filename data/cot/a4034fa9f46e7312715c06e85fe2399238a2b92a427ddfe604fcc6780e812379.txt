@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, we need to calculate the time taken for each part of Toby's journey. We will use the formula:
+
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
+\]
+
+We'll break the journey into its four segments and calculate the time for each segment.
+
+1. **First Segment**: Toby pulls the loaded sled for 180 miles at a speed of 10 miles per hour.
+   \[
+   \text{Time for first segment} = \frac{180 \text{ miles}}{10 \text{ miles per hour}} = 18 \text{ hours}
+   \]
+
+2. **Second Segment**: Toby pulls the unloaded sled for 120 miles at a speed of 20 miles per hour.
+   \[
+   \text{Time for second segment} = \frac{120 \text{ miles}}{20 \text{ miles per hour}} = 6 \text{ hours}
+   \]
+
+3. **Third Segment**: Toby pulls the loaded sled for 80 miles at a speed of 10 miles per hour.
+   \[
+   \text{Time for third segment} = \frac{80 \text{ miles}}{10 \text{ miles per hour}} = 8 \text{ hours}
+   \]
+
+4. **Fourth Segment**: Toby pulls the unloaded sled for 140 miles at a speed of 20 miles per hour.
+   \[
+   \text{Time for fourth segment} = \frac{140 \text{ miles}}{20 \text{ miles per hour}} = 7 \text{ hours}
+   \]
+
+Now, we sum up all the times for the four segments to find the total time spent pulling the sled:
+
+\[
+\text{Total Time} = \text{Time for first segment} + \text{Time for second segment} + \text{Time for third segment} + \text{Time for fourth segment}
+\]
+\[
+\text{Total Time} = 18 \text{ hours} + 6 \text{ hours} + 8 \text{ hours} + 7 \text{ hours} = 39 \text{ hours}
+\]
+
+Therefore, the total time Toby spends pulling the sled is:
+</reasoning>
+<answer>39</answer>

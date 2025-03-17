@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we will break it down step by step.
+
+1. **Determine the number of pencils Bowen buys.**
+   - Bowen buys 40 pens. 
+   - He buys \( \frac{2}{5} \) times more pencils than pens. 
+   - First, we calculate \( \frac{2}{5} \) of the number of pens:
+     \[
+     \text{Additional pencils} = \frac{2}{5} \times 40 = \frac{80}{5} = 16 \text{ pencils}
+     \]
+   - Therefore, the total number of pencils Bowen buys is:
+     \[
+     \text{Total pencils} = \text{Additional pencils} + \text{Pens} = 16 + 40 = 56 \text{ pencils}
+     \]
+
+2. **Determine the cost of the pens.**
+   - Each pen costs 15 cents. 
+   - The total cost for 40 pens is:
+     \[
+     \text{Cost of pens} = 40 \times 15 = 600 \text{ cents}
+     \]
+
+3. **Determine the cost of the pencils.**
+   - Each pencil costs 25 cents.
+   - The total cost for 56 pencils is:
+     \[
+     \text{Cost of pencils} = 56 \times 25 = 1400 \text{ cents}
+     \]
+
+4. **Calculate the total amount Bowen spends.**
+   - We add the cost of the pens and the cost of the pencils together:
+     \[
+     \text{Total cost} = \text{Cost of pens} + \text{Cost of pencils} = 600 + 1400 = 2000 \text{ cents}
+     \]
+
+5. **Convert cents to dollars.**
+   - Since there are 100 cents in a dollar, we convert the total cost:
+     \[
+     \text{Total cost in dollars} = \frac{2000}{100} = 20 \text{ dollars}
+     \]
+
+Therefore, the total amount of money Bowen spends is:
+</reasoning>
+<answer>20</answer>

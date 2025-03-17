@@ -1,0 +1,37 @@
+<reasoning>
+To determine how much money each writer from fourth place onwards will earn, we need to follow these steps:
+
+1. **Calculate the total amount awarded for the top three places.**
+   - First place: $200
+   - Second place: $150
+   - Third place: $120
+
+   We will add these amounts together:
+   \[
+   200 + 150 + 120 = 470
+   \]
+
+2. **Subtract the total awarded for the top three places from the total prize pool.**
+   - Total prize pool: $800
+   - Amount awarded to the top three places: $470
+
+   We will subtract the amount awarded from the total prize pool:
+   \[
+   800 - 470 = 330
+   \]
+
+3. **Calculate the number of writers from fourth place onwards.**
+   - There are 18 novels in total, and the first three places are already awarded, so the number of writers from fourth place onwards is:
+   \[
+   18 - 3 = 15
+   \]
+
+4. **Determine how much each writer from fourth place onwards will earn.**
+   - We will divide the remaining amount ($330) equally among the 15 writers:
+   \[
+   \frac{330}{15} = 22
+   \]
+
+Therefore, each writer from fourth place onwards will earn $22.
+</reasoning>
+<answer>22</answer>

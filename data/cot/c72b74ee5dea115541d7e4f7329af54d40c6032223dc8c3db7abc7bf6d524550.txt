@@ -1,0 +1,32 @@
+<reasoning>
+To determine how much Mr. John will have left after deducting his monthly transport fare from his income, we can follow these steps:
+
+1. **Calculate Mr. John's monthly transport fare**: 
+   We know that he spends approximately 5% of his income on public transport. His monthly income is $2000. 
+   To find out how much he spends on transport, we calculate 5% of $2000.
+
+   \[
+   \text{Transport Fare} = 5\% \text{ of } 2000 = \frac{5}{100} \times 2000
+   \]
+
+2. **Perform the multiplication**:
+   Now we calculate the multiplication:
+   \[
+   \frac{5}{100} \times 2000 = 0.05 \times 2000 = 100
+   \]
+   So, Mr. John spends $100 on transport.
+
+3. **Calculate how much Mr. John has left after transport expenses**:
+   To find out how much Mr. John has left after his transport fare, we subtract the transport fare from his monthly income:
+   \[
+   \text{Remaining Income} = \text{Monthly Income} - \text{Transport Fare} = 2000 - 100
+   \]
+
+4. **Perform the subtraction**:
+   Now we do the subtraction:
+   \[
+   2000 - 100 = 1900
+   \]
+   Therefore, Mr. John will have $1900 left after deducting his monthly transport fare.
+</reasoning>
+<answer>1900</answer>

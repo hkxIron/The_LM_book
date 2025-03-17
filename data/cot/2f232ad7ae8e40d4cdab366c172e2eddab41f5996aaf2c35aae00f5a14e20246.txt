@@ -1,0 +1,51 @@
+<reasoning>
+Let's start by calculating the total cost of the socks Niko bought.
+
+1. **Calculate the total cost of the socks:**
+   Niko bought 9 pairs of socks, and each pair costs $2. 
+   \[
+   \text{Total Cost} = \text{Number of pairs} \times \text{Cost per pair} = 9 \times 2 = 18
+   \]
+   This means Niko spent $18 on the socks.
+
+2. **Calculate the profit from the four pairs of socks:**
+   Niko wants to gain a 25% profit on four pairs of socks. First, we need to find out how much he paid for these four pairs:
+   \[
+   \text{Cost of 4 pairs} = 4 \times 2 = 8
+   \]
+   Now, to find the profit:
+   \[
+   \text{Profit} = \text{Cost} \times \text{Profit Percentage} = 8 \times 0.25 = 2
+   \]
+   So, the total selling price for these four pairs will be:
+   \[
+   \text{Selling Price} = \text{Cost} + \text{Profit} = 8 + 2 = 10
+   \]
+
+3. **Calculate the profit from the remaining five pairs of socks:**
+   Niko plans to make a profit of $0.2 on each of the remaining five pairs:
+   \[
+   \text{Profit from 5 pairs} = 5 \times 0.2 = 1
+   \]
+   The total selling price for these five pairs will be:
+   \[
+   \text{Cost of 5 pairs} = 5 \times 2 = 10
+   \]
+   Therefore, the selling price for these five pairs will be:
+   \[
+   \text{Selling Price} = \text{Cost} + \text{Profit} = 10 + 1 = 11
+   \]
+
+4. **Calculate the total profit:**
+   Now, we can calculate Niko's total profit from all the pairs of socks:
+   \[
+   \text{Total Selling Price} = \text{Selling Price of 4 pairs} + \text{Selling Price of 5 pairs} = 10 + 11 = 21
+   \]
+   The total profit is then:
+   \[
+   \text{Total Profit} = \text{Total Selling Price} - \text{Total Cost} = 21 - 18 = 3
+   \]
+
+Therefore, Niko's total profit from selling the socks will be:
+</reasoning>
+<answer>3</answer>

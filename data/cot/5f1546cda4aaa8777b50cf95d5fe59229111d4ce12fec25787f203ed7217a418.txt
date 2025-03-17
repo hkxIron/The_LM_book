@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many meters Lisa will walk in two days, we can break the problem down into manageable steps.
+
+1. **Determine how many minutes Lisa walks in one hour**: 
+   - There are 60 minutes in one hour. So, Lisa walks for 60 minutes each day.
+
+2. **Calculate the distance Lisa walks in one day**: 
+   - Since Lisa walks 10 meters each minute, we can calculate the total distance she walks in one day by multiplying her walking speed (10 meters/minute) by the number of minutes she walks (60 minutes):
+   \[
+   \text{Distance in one day} = 10 \text{ meters/minute} \times 60 \text{ minutes} = 600 \text{ meters}
+   \]
+
+3. **Calculate the distance Lisa walks in two days**: 
+   - Now that we know how far she walks in one day (600 meters), we can find out how far she walks in two days by multiplying the daily distance by 2:
+   \[
+   \text{Distance in two days} = 600 \text{ meters/day} \times 2 \text{ days} = 1200 \text{ meters}
+   \]
+
+Therefore, the total distance Lisa walks in two days is 1200 meters.
+</reasoning>
+<answer>1200</answer>

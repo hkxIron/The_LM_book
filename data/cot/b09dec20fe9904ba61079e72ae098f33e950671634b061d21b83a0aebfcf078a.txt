@@ -1,0 +1,69 @@
+<reasoning>
+To find out how much money Reese originally had in her savings account, we can set up an equation based on the information given.
+
+Let's denote the amount Reese had in her savings account as \( x \).
+
+1. **Calculate the amount spent in February and March:**
+   - In February, Reese spent 20% of her savings: 
+     \[
+     \text{Amount spent in February} = 0.20 \times x
+     \]
+   - In March, she spent 40% of her savings:
+     \[
+     \text{Amount spent in March} = 0.40 \times x
+     \]
+
+2. **Total amount spent by the end of March:**
+   - The total spent from February and March combined:
+     \[
+     \text{Total spent by March} = (0.20 \times x) + (0.40 \times x) = 0.60 \times x
+     \]
+
+3. **Calculate the amount spent in April:**
+   - In April, she spent $1500.
+
+4. **Determine the total amount spent by the end of April:**
+   - By the end of April, the total amount that Reese has spent is:
+     \[
+     \text{Total spent} = 0.60 \times x + 1500
+     \]
+
+5. **Set up the equation for the remaining amount:**
+   - We know that after all these expenses, Reese has $2900 left. Therefore, we can express this as:
+     \[
+     x - (0.60 \times x + 1500) = 2900
+     \]
+
+6. **Simplify the equation:**
+   - First, simplify the left side:
+     \[
+     x - 0.60x - 1500 = 2900
+     \]
+   - This simplifies to:
+     \[
+     0.40x - 1500 = 2900
+     \]
+
+7. **Isolate \( x \):**
+   - Add 1500 to both sides:
+     \[
+     0.40x = 2900 + 1500
+     \]
+     \[
+     0.40x = 4400
+     \]
+
+8. **Solve for \( x \):**
+   - Divide both sides by 0.40:
+     \[
+     x = \frac{4400}{0.40}
+     \]
+     \[
+     x = 11000
+     \]
+
+So, Reese originally had $11,000 in her savings account. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>11000</answer>

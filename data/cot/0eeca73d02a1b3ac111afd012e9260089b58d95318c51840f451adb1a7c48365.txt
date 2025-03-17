@@ -1,0 +1,44 @@
+<reasoning>
+Let's denote the distance from Layla's house to the high school as \( x \) miles. 
+
+1. **Understanding the Journey**: 
+   - Layla rides from her house to the high school, which is \( x \) miles.
+   - Then, she rides 4 miles around the running track at a faster pace.
+   - Finally, she rides back home from the high school, which is again \( x \) miles.
+
+2. **Setting Up the Equation**:
+   - The total distance she rode is the sum of these three parts: 
+   \[
+   \text{Total distance} = x + 4 + x
+   \]
+   - This simplifies to:
+   \[
+   2x + 4
+   \]
+
+3. **Using the Given Information**:
+   - We know that her total mileage was 10 miles. Therefore, we can set up the equation:
+   \[
+   2x + 4 = 10
+   \]
+
+4. **Solving the Equation**:
+   - First, subtract 4 from both sides to isolate the term with \( x \):
+   \[
+   2x = 10 - 4
+   \]
+   \[
+   2x = 6
+   \]
+   - Next, divide both sides by 2 to solve for \( x \):
+   \[
+   x = \frac{6}{2}
+   \]
+   \[
+   x = 3
+   \]
+
+5. **Conclusion**:
+   - Therefore, the distance from Layla's house to the high school is \( 3 \) miles.
+</reasoning>
+<answer>3</answer>

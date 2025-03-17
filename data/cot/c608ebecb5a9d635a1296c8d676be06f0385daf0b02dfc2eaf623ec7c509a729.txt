@@ -1,0 +1,42 @@
+<reasoning>
+To determine how much more John's cow is worth after it gains weight, we will follow these steps:
+
+1. **Calculate the cow's new weight**: The cow's original weight is 400 pounds. After gaining weight, it increases to 1.5 times its starting weight. So, we calculate the new weight as follows:
+   \[
+   \text{New Weight} = \text{Original Weight} \times 1.5 = 400 \text{ pounds} \times 1.5
+   \]
+   This gives us:
+   \[
+   \text{New Weight} = 600 \text{ pounds}
+   \]
+
+2. **Calculate the value of the cow before weight gain**: The cow's weight before gaining weight is 400 pounds, and it sells for $3 per pound. Thus, we can calculate the value of the cow before the weight gain:
+   \[
+   \text{Value Before} = \text{Original Weight} \times \text{Price per Pound} = 400 \text{ pounds} \times 3 \text{ dollars/pound}
+   \]
+   This gives us:
+   \[
+   \text{Value Before} = 1200 \text{ dollars}
+   \]
+
+3. **Calculate the value of the cow after weight gain**: Now, we calculate the value of the cow after it has gained weight. The new weight is 600 pounds, and we again use the price of $3 per pound:
+   \[
+   \text{Value After} = \text{New Weight} \times \text{Price per Pound} = 600 \text{ pounds} \times 3 \text{ dollars/pound}
+   \]
+   This gives us:
+   \[
+   \text{Value After} = 1800 \text{ dollars}
+   \]
+
+4. **Calculate the increase in value**: To find out how much more the cow is worth after gaining weight, we subtract the original value from the new value:
+   \[
+   \text{Increase in Value} = \text{Value After} - \text{Value Before} = 1800 \text{ dollars} - 1200 \text{ dollars}
+   \]
+   This gives us:
+   \[
+   \text{Increase in Value} = 600 \text{ dollars}
+   \]
+
+Therefore, the cow is worth $600 more after gaining weight.
+</reasoning>
+<answer>600</answer>

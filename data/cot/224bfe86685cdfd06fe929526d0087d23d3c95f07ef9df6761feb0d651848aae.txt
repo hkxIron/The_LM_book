@@ -1,0 +1,26 @@
+<reasoning>
+To determine how many jellybeans are currently in the jar, we will follow each action step by step and keep track of the number of jellybeans.
+
+1. **Initial Count**: We start with 37 jellybeans in the jar.
+
+2. **Removing Jellybeans**: Pat removes 15 jellybeans from the jar. We need to subtract this number from the initial count:
+   \[
+   37 - 15 = 22
+   \]
+   Now, there are 22 jellybeans left in the jar.
+
+3. **Adding Jellybeans Back**: Pat then adds 5 of the removed jellybeans back into the jar. We will add this number to the current count:
+   \[
+   22 + 5 = 27
+   \]
+   Now, there are 27 jellybeans in the jar after adding them back.
+
+4. **Removing More Jellybeans**: Finally, Pat removes 4 more jellybeans. We will subtract this from the current count:
+   \[
+   27 - 4 = 23
+   \]
+   Now, there are 23 jellybeans left in the jar after this final removal.
+
+Therefore, after performing all of these actions, the total number of jellybeans currently in the jar is 23.
+</reasoning>
+<answer>23</answer>

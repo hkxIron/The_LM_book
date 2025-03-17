@@ -1,0 +1,40 @@
+<reasoning>
+To determine how many cans of juice are left to be loaded on the truck, we'll follow these steps:
+
+1. **Calculate the total number of cans in all 50 cartons.** 
+   Since each carton contains 20 cans of juice, we multiply the number of cartons by the number of cans per carton:
+
+   \[
+   \text{Total Cans} = \text{Number of Cartons} \times \text{Cans per Carton} = 50 \times 20
+   \]
+   Performing the multiplication:
+   \[
+   50 \times 20 = 1000
+   \]
+   So, there are 1000 cans of juice in total.
+
+2. **Calculate the number of cans that have been loaded onto the truck.**
+   Since only 40 cartons have been loaded onto the truck, we calculate the number of cans in those 40 cartons:
+
+   \[
+   \text{Cans Loaded} = \text{Number of Loaded Cartons} \times \text{Cans per Carton} = 40 \times 20
+   \]
+   Performing the multiplication:
+   \[
+   40 \times 20 = 800
+   \]
+   Therefore, 800 cans of juice have been loaded onto the truck.
+
+3. **Determine how many cans are left to be loaded onto the truck.**
+   To find the number of cans remaining to be loaded, we subtract the number of cans that have been loaded from the total number of cans:
+
+   \[
+   \text{Cans Remaining} = \text{Total Cans} - \text{Cans Loaded} = 1000 - 800
+   \]
+   Performing the subtraction:
+   \[
+   1000 - 800 = 200
+   \]
+   Hence, there are 200 cans of juice left to be loaded onto the truck.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find the total number of hours Bob logs in a month, we first need to determine how many hours he works in a week, and then how many weeks are typically in a month.
+
+1. **Calculate weekly hours:**
+   Bob logs 10 hours of work each day and works 5 days a week.
+   \[
+   \text{Weekly hours} = \text{Daily hours} \times \text{Number of days}
+   \]
+   Here, the daily hours are 10 and the number of days is 5.
+   \[
+   \text{Weekly hours} = 10 \text{ hours/day} \times 5 \text{ days} = 50 \text{ hours/week}
+   \]
+
+2. **Calculate monthly hours:**
+   There are typically about 4 weeks in a month. To find the total monthly hours, we multiply the weekly hours by the number of weeks in a month.
+   \[
+   \text{Monthly hours} = \text{Weekly hours} \times \text{Number of weeks}
+   \]
+   Using the calculated weekly hours:
+   \[
+   \text{Monthly hours} = 50 \text{ hours/week} \times 4 \text{ weeks} = 200 \text{ hours/month}
+   \]
+
+Therefore, Bob logs a total of 200 hours in a month.
+</reasoning>
+<answer>200</answer>

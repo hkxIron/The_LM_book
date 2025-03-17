@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much Danielle pays each month for her mortgage, we need to follow these steps:
+
+1. **Determine the total amount financed through the mortgage**: 
+   - Danielle bought the house for $280,000 and made a deposit of $40,000. 
+   - The amount she finances through the mortgage is calculated as:
+     \[
+     \text{Mortgage Amount} = \text{Purchase Price} - \text{Deposit} = 280,000 - 40,000 = 240,000
+     \]
+
+2. **Calculate the number of months for the mortgage payments**: 
+   - Since the mortgage is spread out over 10 years, we convert years into months:
+     \[
+     \text{Number of Months} = 10 \text{ years} \times 12 \text{ months/year} = 120 \text{ months}
+     \]
+
+3. **Calculate the monthly payment**: 
+   - The monthly payment is simply the total mortgage amount divided by the number of months:
+     \[
+     \text{Monthly Payment} = \frac{\text{Mortgage Amount}}{\text{Number of Months}} = \frac{240,000}{120}
+     \]
+   - Performing the division gives us:
+     \[
+     \text{Monthly Payment} = 2,000
+     \]
+
+4. **Convert the monthly payment to thousands of dollars**: 
+   - Since the problem asks for the payment in thousands of dollars, we divide the monthly payment by 1,000:
+     \[
+     \text{Monthly Payment in thousands} = \frac{2,000}{1,000} = 2
+     \]
+
+Therefore, after following all these steps and calculations, Danielle pays $2,000 each month, which is equivalent to 2 in thousands of dollars.
+</reasoning>
+<answer>2</answer>

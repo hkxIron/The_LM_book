@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of roommates Bob has**: The problem states that Bob has 10 roommates. We'll denote the number of Bob's roommates as \( B \). Thus, \( B = 10 \).
+
+2. **Calculate twice the number of Bob's roommates**: We need to find out how many roommates are twice as many as Bob's. This can be calculated by multiplying Bob's number of roommates by 2:
+   \[
+   2B = 2 \times 10 = 20
+   \]
+   So, twice the number of Bob's roommates is 20.
+
+3. **Determine how many more roommates John has than twice Bob's roommates**: The problem specifies that John has five more roommates than twice as many as Bob. We can express this relationship mathematically:
+   \[
+   J = 2B + 5
+   \]
+   where \( J \) is the number of John's roommates.
+
+4. **Substitute the value of \( 2B \)**: Now we can substitute the value we calculated for \( 2B \):
+   \[
+   J = 20 + 5
+   \]
+
+5. **Calculate the total number of John's roommates**: Adding these together gives us:
+   \[
+   J = 25
+   \]
+
+Therefore, John has 25 roommates.
+</reasoning>
+<answer>25</answer>

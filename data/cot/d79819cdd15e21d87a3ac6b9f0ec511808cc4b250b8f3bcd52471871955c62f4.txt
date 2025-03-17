@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine how much weight Diego has already purchased. He buys:
+
+- 1 pound of watermelon
+- 1 pound of grapes
+- 1 pound of oranges
+
+Now, we will add these weights together:
+
+1. Calculate the total weight of the fruits he has bought:
+   \[
+   1 \text{ (watermelon)} + 1 \text{ (grapes)} + 1 \text{ (oranges)} = 3 \text{ pounds}
+   \]
+
+This tells us that Diego has already purchased 3 pounds of fruit.
+
+Next, we need to find out how much weight he can still carry in his bookbag. Diego can carry a total of 20 pounds of fruit. So, we will subtract the weight of the fruits he has already bought from the total capacity of his bookbag:
+
+2. Calculate the remaining weight he can carry:
+   \[
+   20 \text{ (total capacity)} - 3 \text{ (weight of other fruits)} = 17 \text{ pounds}
+   \]
+
+This means Diego can still buy 17 pounds of apples without exceeding the weight limit of his bookbag.
+
+Therefore, the number of pounds of apples he can buy is 17.
+</reasoning>
+<answer>17</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of apples Merry had on Saturday and Sunday:**
+   - On Saturday, Merry had 50 boxes of apples, and each box contains 10 apples. Therefore, the total number of apples on Saturday is:
+     \[
+     50 \text{ boxes} \times 10 \text{ apples/box} = 500 \text{ apples}
+     \]
+   - On Sunday, Merry had 25 boxes of apples, so the total number of apples on Sunday is:
+     \[
+     25 \text{ boxes} \times 10 \text{ apples/box} = 250 \text{ apples}
+     \]
+   - Now, we add the apples from both days to find the total number of apples Merry had:
+     \[
+     500 \text{ apples (Saturday)} + 250 \text{ apples (Sunday)} = 750 \text{ apples}
+     \]
+
+2. **Determine how many apples were sold:**
+   - According to the problem, Merry sold a total of 720 apples on both days.
+
+3. **Calculate the number of apples left after sales:**
+   - To find out how many apples are left after selling 720 apples, we subtract the sold apples from the total apples:
+     \[
+     750 \text{ apples (total)} - 720 \text{ apples (sold)} = 30 \text{ apples left}
+     \]
+
+4. **Calculate how many boxes of apples are left:**
+   - Since there are 10 apples in each box, we can find out how many boxes are left by dividing the number of apples left by the number of apples per box:
+     \[
+     \frac{30 \text{ apples}}{10 \text{ apples/box}} = 3 \text{ boxes}
+     \]
+
+Therefore, after selling the apples, Merry has 3 boxes of apples left.
+</reasoning>
+<answer>3</answer>

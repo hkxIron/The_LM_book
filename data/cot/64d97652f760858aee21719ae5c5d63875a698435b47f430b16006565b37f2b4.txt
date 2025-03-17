@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many presents David got all together, we start by defining the variables involved in the problem.
+
+1. **Understanding the relationship between Christmas and birthday presents**: 
+   - Let \( B \) be the number of birthday presents. According to the problem, the number of Christmas presents \( C \) is twice the number of birthday presents. This can be expressed with the equation:
+   \[
+   C = 2B
+   \]
+
+2. **Using the information given**: 
+   - We know that David found a total of 60 Christmas presents, so we can substitute \( C \) with 60 in our equation:
+   \[
+   60 = 2B
+   \]
+
+3. **Solving for \( B \)**: 
+   - To find the number of birthday presents, we need to isolate \( B \). We will do this by dividing both sides of the equation by 2:
+   \[
+   B = \frac{60}{2} = 30
+   \]
+
+4. **Calculating the total number of presents**: 
+   - Now we know that David has 60 Christmas presents and 30 birthday presents. To find the total number of presents \( T \), we add the number of Christmas presents and birthday presents together:
+   \[
+   T = C + B = 60 + 30 = 90
+   \]
+
+Thus, David received a total of 90 presents altogether.
+</reasoning>
+<answer>90</answer>

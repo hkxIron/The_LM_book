@@ -1,0 +1,36 @@
+<reasoning>
+To determine how much money Aaron will owe his dad after including the interest fee, we need to follow these steps:
+
+1. **Calculate the total amount Aaron will pay each month:**  
+   Since Aaron is making payments of $100.00 per month for 12 months, we can calculate the total payment by multiplying the monthly payment by the number of months:
+   \[
+   \text{Total payment} = \text{Monthly payment} \times \text{Number of months} = 100 \times 12
+   \]
+   This gives us:
+   \[
+   \text{Total payment} = 1200
+   \]
+
+2. **Calculate the interest fee:**  
+   Aaron's father is charging a one-time interest fee of 10% on the total amount loaned. We need to calculate 10% of the total payment:
+   \[
+   \text{Interest} = 10\% \times \text{Total payment} = 0.10 \times 1200
+   \]
+   This results in:
+   \[
+   \text{Interest} = 120
+   \]
+
+3. **Calculate the total amount Aaron will owe his dad:**  
+   To find the total amount Aaron will owe, we add the total payment to the interest:
+   \[
+   \text{Total amount owed} = \text{Total payment} + \text{Interest} = 1200 + 120
+   \]
+   Therefore:
+   \[
+   \text{Total amount owed} = 1320
+   \]
+
+In conclusion, after calculating the total payments and the interest fee, we find that Aaron will owe his dad a total of $1320.
+</reasoning>
+<answer>1320</answer>

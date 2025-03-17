@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we will break down the time Matthew typically spends on each task and then adjust for the baking time that was affected by the oven failure.
+
+1. **Assembling Ingredients**: Matthew takes 1 hour to assemble the ingredients.
+   - This time remains the same regardless of the baking issue.
+
+2. **Baking Cakes**: Normally, Matthew takes 1.5 hours to bake the cakes. However, on the day of the oven failure, it took twice as long.
+   - Therefore, we calculate the new baking time:
+   \[
+   \text{New baking time} = 1.5 \text{ hours} \times 2 = 3 \text{ hours}
+   \]
+
+3. **Decorating Cakes**: Matthew takes 1 hour to decorate each cake, and this time is also unaffected by the baking issue.
+   - This time remains the same.
+
+Now, we will sum up all the times to find the total time Matthew spent making the cakes on that day:
+
+\[
+\text{Total time} = \text{Time to assemble} + \text{Time to bake} + \text{Time to decorate}
+\]
+\[
+\text{Total time} = 1 \text{ hour} + 3 \text{ hours} + 1 \text{ hour}
+\]
+\[
+\text{Total time} = 5 \text{ hours}
+\]
+
+Thus, it took Matthew 5 hours to make his famous caramel-apple coffee cakes on that particular day.
+</reasoning>
+<answer>5</answer>

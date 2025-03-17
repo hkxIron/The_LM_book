@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much money Roger still owes on his house, we will follow these steps:
+
+1. **Calculate the down payment**: 
+   Roger paid 20% of the total house price as a down payment. 
+   \[
+   \text{Down payment} = 20\% \text{ of } 100,000 = 0.20 \times 100,000 = 20,000
+   \]
+   This is the amount he paid upfront.
+
+2. **Calculate the remaining balance after the down payment**: 
+   After the down payment, we need to find out how much he has left to pay on the house.
+   \[
+   \text{Remaining balance} = \text{Total price} - \text{Down payment} = 100,000 - 20,000 = 80,000
+   \]
+   So, the remaining balance on the house is $80,000.
+
+3. **Calculate how much his parents paid**: 
+   Roger's parents paid off 30% of the remaining balance.
+   \[
+   \text{Parents' payment} = 30\% \text{ of } 80,000 = 0.30 \times 80,000 = 24,000
+   \]
+   This amount is what his parents contributed towards the house.
+
+4. **Calculate how much Roger still owes**: 
+   To find out how much Roger still owes, we subtract the amount his parents paid from the remaining balance.
+   \[
+   \text{Amount owed by Roger} = \text{Remaining balance} - \text{Parents' payment} = 80,000 - 24,000 = 56,000
+   \]
+   Therefore, the amount Roger still owes on his house is $56,000.
+</reasoning>
+<answer>56000</answer>

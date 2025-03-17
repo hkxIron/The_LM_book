@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Time spent turning the router off and on again**: 
+   Martha spends 10 minutes on this activity. 
+   So, we have:
+   \[
+   \text{Time turning the router} = 10 \text{ minutes}
+   \]
+
+2. **Time spent on hold with Comcast**: 
+   Martha spends six times as long on hold compared to the time spent turning the router. 
+   To find this, we multiply the time spent turning the router by 6:
+   \[
+   \text{Time on hold} = 6 \times 10 = 60 \text{ minutes}
+   \]
+
+3. **Time spent yelling at the customer service representative**: 
+   Martha spends half as much time yelling as she did on hold. So, we take the time spent on hold and divide it by 2:
+   \[
+   \text{Time yelling} = \frac{60}{2} = 30 \text{ minutes}
+   \]
+
+4. **Total time spent on all activities**: 
+   Now, we sum all the times:
+   \[
+   \text{Total time} = \text{Time turning the router} + \text{Time on hold} + \text{Time yelling}
+   \]
+   Substituting in the values we calculated:
+   \[
+   \text{Total time} = 10 + 60 + 30 = 100 \text{ minutes}
+   \]
+
+Therefore, Martha spent a total of 100 minutes on these activities.
+</reasoning>
+<answer>100</answer>

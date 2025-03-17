@@ -1,0 +1,40 @@
+<reasoning>
+To find out how much money Daniela spends during the sale, we will calculate the discounted prices for the shoes and the dress separately, and then sum them up.
+
+1. **Calculate the discount on the shoes:**
+   - Original price of one pair of shoes = $50
+   - Discount on shoes = 40%
+   - To find the discount amount, we multiply the original price by the discount percentage:
+     \[
+     \text{Discount on one pair of shoes} = 50 \times 0.40 = 20
+     \]
+   - Now, we subtract the discount from the original price to find the sale price:
+     \[
+     \text{Sale price of one pair of shoes} = 50 - 20 = 30
+     \]
+   - Since Daniela buys 2 pairs of shoes, we multiply the sale price of one pair by 2:
+     \[
+     \text{Total cost of shoes} = 30 \times 2 = 60
+     \]
+
+2. **Calculate the discount on the dress:**
+   - Original price of the dress = $100
+   - Discount on dresses = 20%
+   - To find the discount amount, we multiply the original price by the discount percentage:
+     \[
+     \text{Discount on the dress} = 100 \times 0.20 = 20
+     \]
+   - Now, we subtract the discount from the original price to find the sale price:
+     \[
+     \text{Sale price of the dress} = 100 - 20 = 80
+     \]
+
+3. **Calculate the total amount spent:**
+   - Now, we add the total cost of the shoes to the sale price of the dress:
+     \[
+     \text{Total amount spent} = 60 + 80 = 140
+     \]
+
+Therefore, after calculating the costs with discounts applied, we find that Daniela spends a total of $140.
+</reasoning>
+<answer>140</answer>

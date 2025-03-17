@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the profit for The Lion King**: 
+   The profit can be calculated by subtracting the cost to make the movie from the earnings at the box office. 
+   \[
+   \text{Profit}_{\text{Lion King}} = \text{Earnings} - \text{Cost} = 200 \text{ million} - 10 \text{ million} = 190 \text{ million}
+   \]
+
+2. **Determine the profit for Star Wars**: 
+   According to the problem, The Lion King's profit is half of what Star Wars made. Therefore, we can express Star Wars' profit as:
+   \[
+   \text{Profit}_{\text{Star Wars}} = 2 \times \text{Profit}_{\text{Lion King}} = 2 \times 190 \text{ million} = 380 \text{ million}
+   \]
+
+3. **Calculate the earnings for Star Wars**:
+   To find out how much Star Wars earned, we will add its profit to its production cost:
+   \[
+   \text{Earnings}_{\text{Star Wars}} = \text{Profit}_{\text{Star Wars}} + \text{Cost}_{\text{Star Wars}} = 380 \text{ million} + 25 \text{ million} = 405 \text{ million}
+   \]
+
+Thus, Star Wars earned 405 million at the box office.
+</reasoning>
+<answer>405</answer>

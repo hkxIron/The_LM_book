@@ -1,0 +1,27 @@
+<reasoning>
+Let's start by determining the discounted price of one t-shirt.
+
+1. **Find the discount on the t-shirt:**
+   The original price of the t-shirt is $20, and the discount is 50%. To find the discount amount, we multiply the original price by the discount percentage:
+   \[
+   \text{Discount} = 20 \times 0.50 = 10 \text{ dollars}
+   \]
+   This means each t-shirt is $10 off.
+
+2. **Calculate the sale price of one t-shirt:**
+   Now, we subtract the discount from the original price to find the sale price:
+   \[
+   \text{Sale Price} = 20 - 10 = 10 \text{ dollars}
+   \]
+   Each t-shirt costs $10 after the discount.
+
+3. **Calculate the total cost for all four friends:**
+   Since all four friends are buying one t-shirt each, we multiply the sale price of one t-shirt by the number of friends:
+   \[
+   \text{Total Cost} = 10 \times 4 = 40 \text{ dollars}
+   \]
+   The total amount they spent in the shop is $40.
+
+Therefore, the total amount of money spent by the four friends is:
+</reasoning>
+<answer>40</answer>

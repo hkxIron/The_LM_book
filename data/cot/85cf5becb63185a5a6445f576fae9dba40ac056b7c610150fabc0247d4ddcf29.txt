@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the information given in the problem step by step.
+
+1. **Identify the seedlings planted on the first day:**  
+   Remi planted 200 seedlings on the first day. 
+
+2. **Calculate the seedlings planted on the second day:**  
+   On the second day, he planted twice the number of seedlings he planted on the first day. Therefore, the number of seedlings planted on the second day is:
+   \[
+   \text{Seedlings on second day} = 2 \times 200 = 400
+   \]
+
+3. **Calculate the total seedlings planted by Remi over the two days:**  
+   Now, we can find the total number of seedlings planted by Remi over the two days:
+   \[
+   \text{Total seedlings planted by Remi} = 200 + 400 = 600
+   \]
+
+4. **Determine how many seedlings were planted in total:**  
+   The problem states that the total number of seedlings transferred to the farm over these two days was 1200.
+
+5. **Calculate the seedlings planted by his father:**  
+   To find out how many seedlings Remi's father planted, we subtract the number of seedlings Remi planted from the total:
+   \[
+   \text{Seedlings planted by father} = \text{Total seedlings} - \text{Total seedlings planted by Remi} = 1200 - 600 = 600
+   \]
+
+Thus, Remi's father planted 600 seedlings.
+</reasoning>
+<answer>600</answer>

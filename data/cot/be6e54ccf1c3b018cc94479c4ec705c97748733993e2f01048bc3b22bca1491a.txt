@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many carnations were in the third bouquet, we can start by using the information provided about the average number of carnations.
+
+1. **Understanding the average**: The average number of carnations in the three bouquets is given as 12. The average is calculated by dividing the total number of carnations by the number of bouquets. In this case, we have three bouquets.
+
+2. **Calculating the total number of carnations**: Since we know the average number of carnations per bouquet is 12, we can find the total number of carnations in all three bouquets by multiplying the average by the number of bouquets:
+   \[
+   \text{Total carnations} = \text{Average} \times \text{Number of bouquets} = 12 \times 3 = 36
+   \]
+   This means there are a total of 36 carnations across all three bouquets.
+
+3. **Adding the known quantities**: We know the number of carnations in the first bouquet (9) and the second bouquet (14). We can add these together to find out how many carnations are in the first two bouquets:
+   \[
+   \text{Carnations in the first two bouquets} = 9 + 14 = 23
+   \]
+
+4. **Finding the number of carnations in the third bouquet**: To find the number of carnations in the third bouquet, we subtract the total number of carnations in the first two bouquets from the total number of carnations:
+   \[
+   \text{Carnations in the third bouquet} = \text{Total carnations} - \text{Carnations in the first two bouquets} = 36 - 23 = 13
+   \]
+
+Therefore, the number of carnations in the third bouquet is 13.
+</reasoning>
+<answer>13</answer>

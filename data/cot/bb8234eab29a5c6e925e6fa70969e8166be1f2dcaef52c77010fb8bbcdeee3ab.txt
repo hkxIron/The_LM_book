@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much total weight Tom was moving with, we'll break it down step by step.
+
+1. **Calculate Tom's weight:**  
+   Tom weighs 150 kg.
+
+2. **Calculate the weight vest:**  
+   The weight vest weighs half of Tom's weight.  
+   Weight of the vest = \( \frac{150 \text{ kg}}{2} = 75 \text{ kg} \).
+
+3. **Calculate the weight he holds in each hand:**  
+   Tom holds 1.5 times his weight in each hand.  
+   Weight in each hand = \( 1.5 \times 150 \text{ kg} = 225 \text{ kg} \).
+
+4. **Calculate the total weight held in both hands:**  
+   Since he holds the same weight in both hands, we multiply the weight in one hand by 2.  
+   Total weight in both hands = \( 225 \text{ kg} \times 2 = 450 \text{ kg} \).
+
+5. **Calculate the total weight he is moving with:**  
+   To find the total weight he is moving with, we add the weight of the vest to the total weight he is holding.  
+   Total weight moved = Weight of the vest + Total weight in both hands  
+   Total weight moved = \( 75 \text{ kg} + 450 \text{ kg} = 525 \text{ kg} \).
+
+Therefore, Tom is moving a total weight of 525 kg.
+</reasoning>
+<answer>525</answer>

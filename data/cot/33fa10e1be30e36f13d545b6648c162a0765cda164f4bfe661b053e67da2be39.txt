@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the total number of attendees at the party**:
+   - We know there are 15 males at the party.
+   - The problem states there are 10 more girls than the males. Therefore, the number of girls is:
+     \[
+     \text{Number of girls} = 15 + 10 = 25
+     \]
+   - Now, we can find the total number of attendees:
+     \[
+     \text{Total attendees} = \text{Number of males} + \text{Number of girls} = 15 + 25 = 40
+     \]
+
+2. **Determine the total number of cans of soft drinks needed**:
+   - Each attendee receives 2 cans of soft drinks. Thus, the total number of cans required is:
+     \[
+     \text{Total cans} = \text{Total attendees} \times 2 = 40 \times 2 = 80
+     \]
+
+3. **Calculate how many boxes of soft drinks Mary needs to buy**:
+   - Each box contains 8 cans. To find out how many boxes are needed for 80 cans, we divide the total cans by the number of cans in each box:
+     \[
+     \text{Number of boxes} = \frac{\text{Total cans}}{\text{Cans per box}} = \frac{80}{8} = 10
+     \]
+
+4. **Calculate the total cost of the soft drinks**:
+   - Each box costs $5. Therefore, the total cost for 10 boxes is:
+     \[
+     \text{Total cost} = \text{Number of boxes} \times \text{Cost per box} = 10 \times 5 = 50
+     \]
+
+Now we have calculated that Mary spent $50 on soft drinks.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, let's define the number of fish each person has based on the information provided.
+
+1. **Find the number of fish Billy has:**
+   - Billy has 10 fish.
+   - So, we have:
+     - Billy = 10
+
+2. **Find the number of fish Tony has:**
+   - According to the problem, Tony has 3 times as many fish as Billy.
+   - Therefore, we can calculate Tony's fish:
+     - Tony = 3 × Billy = 3 × 10 = 30
+
+3. **Find the number of fish Sarah has:**
+   - The problem states that Sarah has 5 more fish than Tony.
+   - Thus, we can find Sarah's fish:
+     - Sarah = Tony + 5 = 30 + 5 = 35
+
+4. **Find the number of fish Bobby has:**
+   - Bobby has twice as many fish as Sarah.
+   - We can calculate Bobby's fish:
+     - Bobby = 2 × Sarah = 2 × 35 = 70
+
+5. **Calculate the total number of fish:**
+   - Now we add up the number of fish each person has:
+     - Total fish = Billy + Tony + Sarah + Bobby
+     - Total fish = 10 + 30 + 35 + 70
+
+Now, let's perform the final addition:
+- Total = 10 + 30 = 40
+- 40 + 35 = 75
+- 75 + 70 = 145
+
+Therefore, the total number of fish that all four people have put together is:
+</reasoning>
+<answer>145</answer>

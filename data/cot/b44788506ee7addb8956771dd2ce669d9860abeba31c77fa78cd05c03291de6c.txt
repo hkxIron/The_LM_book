@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine the total number of songs Kira has downloaded throughout the day. 
+
+1. In the morning, Kira downloads 10 songs. 
+   - This contributes 10 songs to her total.
+
+2. Later, she finds 15 more songs and downloads them. 
+   - Now, we add these 15 songs to the previous total: 
+   \[
+   10 + 15 = 25 \text{ songs}
+   \]
+
+3. At night, Kira's friend recommends 3 more songs, which she also downloads. 
+   - We add these 3 songs to the total we currently have:
+   \[
+   25 + 3 = 28 \text{ songs}
+   \]
+
+Next, we need to calculate the total memory space occupied by these 28 songs. We know that each song occupies 5 MB of space.
+
+4. To find the total memory used, we multiply the number of songs by the size of each song:
+   \[
+   28 \text{ songs} \times 5 \text{ MB/song} = 140 \text{ MB}
+   \]
+
+Thus, the total memory space that the new songs will occupy is 140 MB.
+</reasoning>
+<answer>140</answer>

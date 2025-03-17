@@ -1,0 +1,42 @@
+<reasoning>
+To find the average cost of each piece of fruit that Marcia buys, we need to follow these steps:
+
+1. **Calculate the total cost for each type of fruit Marcia buys.**  
+   - **Apples:** Marcia buys 12 apples, and each apple costs $2. So, the total cost for the apples is:
+     \[
+     \text{Total cost for apples} = 12 \text{ apples} \times 2 \text{ dollars/apple} = 24 \text{ dollars}
+     \]
+
+   - **Bananas:** Marcia buys 4 bananas, and each banana costs $1. So, the total cost for the bananas is:
+     \[
+     \text{Total cost for bananas} = 4 \text{ bananas} \times 1 \text{ dollar/banana} = 4 \text{ dollars}
+     \]
+
+   - **Oranges:** Marcia buys 4 oranges, and each orange costs $3. So, the total cost for the oranges is:
+     \[
+     \text{Total cost for oranges} = 4 \text{ oranges} \times 3 \text{ dollars/orange} = 12 \text{ dollars}
+     \]
+
+2. **Add up all the costs to find the total cost of all fruit.**
+   \[
+   \text{Total cost} = \text{Total cost for apples} + \text{Total cost for bananas} + \text{Total cost for oranges}
+   \]
+   \[
+   \text{Total cost} = 24 \text{ dollars} + 4 \text{ dollars} + 12 \text{ dollars} = 40 \text{ dollars}
+   \]
+
+3. **Calculate the total number of pieces of fruit Marcia buys.**  
+   - Marcia buys a total of:
+   \[
+   \text{Total pieces of fruit} = 12 \text{ apples} + 4 \text{ bananas} + 4 \text{ oranges} = 20 \text{ pieces of fruit}
+   \]
+
+4. **Calculate the average cost per piece of fruit.**  
+   To find the average cost, we divide the total cost by the total number of pieces of fruit:
+   \[
+   \text{Average cost per piece of fruit} = \frac{\text{Total cost}}{\text{Total pieces of fruit}} = \frac{40 \text{ dollars}}{20 \text{ pieces of fruit}} = 2 \text{ dollars/piece}
+   \]
+
+Therefore, the average cost of each piece of fruit is $2.
+</reasoning>
+<answer>2</answer>

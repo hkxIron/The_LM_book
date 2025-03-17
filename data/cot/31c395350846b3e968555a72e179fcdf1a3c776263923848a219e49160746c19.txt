@@ -1,0 +1,26 @@
+<reasoning>
+To determine how much time Delaney missed the bus by, we need to follow these steps:
+
+1. **Identify the bus departure time**: The bus leaves at 8:00 a.m.
+
+2. **Determine Delaney's travel time to the pick-up point**: Delaney takes 30 minutes to reach the pick-up point from his home.
+
+3. **Calculate the time Delaney left home**: Delaney woke up late and left his home at 7:50 a.m.
+
+4. **Calculate the time Delaney arrives at the pick-up point**: 
+   - He leaves at 7:50 a.m. and takes 30 minutes to get to the bus stop.
+   - Therefore, the time he arrives at the pick-up point is:
+     \[
+     7:50 \text{ a.m.} + 30 \text{ minutes} = 8:20 \text{ a.m.}
+     \]
+
+5. **Determine how late he is for the bus**:
+   - The bus leaves at 8:00 a.m., and Delaney arrives at 8:20 a.m.
+   - To find out how late he is, we subtract the bus departure time from his arrival time:
+     \[
+     8:20 \text{ a.m.} - 8:00 \text{ a.m.} = 20 \text{ minutes}
+     \]
+
+Thus, Delaney missed the bus by 20 minutes when he reached the pick-up point.
+</reasoning>
+<answer>20</answer>

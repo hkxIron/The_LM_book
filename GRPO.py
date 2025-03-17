@@ -13,7 +13,7 @@ from transformers.tokenization_utils_fast import PreTrainedTokenizerFast
 from transformers.modeling_utils import PreTrainedModel
 
 """
-grpo
+本代码从0开始实现grpo
 
 在deepseek-math中grpo去掉了critic model, 但保留了reward model
 而在deepseek r1中,grpo将reward model替换为了基于规则的系统,完全去掉了reward model
@@ -484,6 +484,8 @@ def compute_log_probabilities(model:PreTrainedModel,
     logits = logits[:, -logits_to_keep:, :]  # Shape: (batch_size, logits_to_keep=completion_seq_len, vocab_size)
 
     # Compute and return the log probabilities for the selected tokens.
+    # logits:(batch_size, logits_to_keep=completion_seq_len)
+    # input_ids:(batch_size, logits_to_keep=completion_seq_len)
     # probs: [batch_size, completion_seq_len]
     probs = selective_log_softmax(logits, input_ids)
     return probs
@@ -492,7 +494,7 @@ def create_completion_mask(completion_ids:torch.Tensor,
                            eos_token_id:int):
     """
     Create a binary mask for the generated completion tokens so that tokens after the first EOS are ignored.
-    第一个EOS token之后的token均不再需要, 均mask为0
+    直到第一个eos token以及之前的mask均为1,其余为0
 
     Args:
         completion_ids (torch.Tensor): Tensor of shape (batch_size, seq_len) with generated token ids.
@@ -580,8 +582,8 @@ def generate_completions(model:PreTrainedModel,
     tokenizer.padding_side  = "left"
     # inputs:[batch, seq_len]
     inputs: BatchEncoding = tokenizer(prompts, return_tensors="pt", padding=True, padding_side="left")
-    prompt_ids :torch.Tensor= inputs["input_ids"].to(device)      # Shape: (batch_size, prompt_seq_len)
-    prompt_mask :torch.Tensor= inputs["attention_mask"].to(device)  # Shape: (batch_size, prompt_seq_len)
+    prompt_ids:torch.Tensor= inputs["input_ids"].to(device)      # Shape: (batch_size, prompt_seq_len)
+    prompt_mask:torch.Tensor= inputs["attention_mask"].to(device)  # Shape: (batch_size, prompt_seq_len)
     prompt_length:int = prompt_ids.size(1)  # Save the prompt length to later separate prompt from completion.
 
     # Repeat each prompt num_generations times.
@@ -602,10 +604,12 @@ def generate_completions(model:PreTrainedModel,
     )
 
     # Remove the prompt portion from the generated output to isolate the completion tokens.
+    # 只取 response部分的token_id
     completion_ids :torch.Tensor = outputs[:, prompt_length:]  # Shape: (batch_size*num_generations, completion_seq_len)
 
     # Create a binary mask that ignores tokens beyond the first EOS token.
     # completion_mask:[batch_size*num_generations, completion_seq_len]
+    # completion_mask:直到第一个eos token以及之前的mask均为1,其余为0
     completion_mask = create_completion_mask(completion_ids, tokenizer.eos_token_id)
 
     return prompt_ids, prompt_mask, completion_ids, completion_mask
@@ -641,6 +645,10 @@ def generate_rollout_data(policy_model:PreTrainedModel,
     # Generate completions and associated masks.
     # We generate once, and then use the same completions to compute both sets of log probabilities.
     with torch.no_grad():
+        # prompt_ids:[batch_size*num_generations, prompt_seq_len]
+        # prompt_mask:[batch_size*num_generations, prompt_seq_len], 左pading
+        # completion_ids:[batch_size*num_generations, completion_seq_len]
+        # completion_mask:[batch_size*num_generations, completion_seq_len], 右padding
         prompt_ids, prompt_mask, completion_ids, completion_mask = generate_completions(
             policy_model, tokenizer, prompts, num_generations, max_completion_length
         )
@@ -683,6 +691,7 @@ def compute_group_relative_advantages(rewards:torch.Tensor, # [batch*num_generat
                                       num_generations:int):
     """
     Compute group-relative advantages for each prompt group.
+    此处并没有deepseek-math中的process supervision
     
     Args:
         rewards (torch.Tensor): Tensor of shape (batch_size * num_generations) containing rewards.
@@ -692,6 +701,7 @@ def compute_group_relative_advantages(rewards:torch.Tensor, # [batch*num_generat
         torch.Tensor: Tensor of advantages computed relative to the group mean.
     """
     # Reshape rewards to group by prompt
+    # rewards: [batch*num_generations]
     # rewards_by_group: [batch, num_generations]
     rewards_by_group = rewards.view(-1, num_generations)
     
@@ -719,10 +729,10 @@ def maximize_grpo_objective(model:PreTrainedModel,
                             ref_model:PreTrainedModel, 
                             rollout_data:Dict[str, Any], 
                             tokenizer:PreTrainedTokenizer, 
-                            reward_function:Callable, 
-                            optimizer:torch.optim.Optimizer, 
-                            beta:float, 
-                            epsilon:float)->float:
+                            reward_function:Callable=combined_reward, 
+                            optimizer:torch.optim.Optimizer=torch.optim.AdamW(), 
+                            beta:float=0.1, 
+                            epsilon:float=0.2)->float:
     """
     Update the policy model by maximizing the GRPO objective.
     
@@ -762,12 +772,13 @@ def maximize_grpo_objective(model:PreTrainedModel,
     
     # Compute rewards
     # rewards:[batch_size*num_generations], float
-    rewards = torch.tensor(
-        data=reward_function(prompts=repeated_prompts, completions=formatted_completions, answer=repeated_answers),
+    reward_list:List[float] = reward_function(prompts=repeated_prompts, completions=formatted_completions, answer=repeated_answers),
+    rewards: torch.Tensor = torch.tensor(
+        data=reward_list,
         dtype=torch.float32,
         device=next(model.parameters()).device
     )
-    avg_reward = rewards.mean().item()
+    avg_reward :float = rewards.mean().item()
     print(f"Average Reward: {avg_reward:.4f}")
     
     # Compute advantages using group-relative normalization
@@ -877,7 +888,7 @@ def train_with_grpo(model:PreTrainedModel,
             # Set old policy for this step
             with torch.no_grad():
                 # Generate completions and compute log probs
-                rollout_data:Dict[str, Any]= generate_rollout_data(
+                rollout_data:Dict[str, Any] = generate_rollout_data(
                     policy_model, 
                     reference_model, 
                     tokenizer, 
@@ -1021,7 +1032,8 @@ def train(base_model_path:str, data_path:str, output_model_path:str):
     # Step 0: INITIAL EVALUATION
     # -------------------------------
     # Load the complete training dataset using a helper function (assumed defined elsewhere).
-    all_data = prepare_dataset("train", data_path)
+    # all_data:每个元素中只有prompt, answer两个key
+    all_data: List[Dict[str, str]] = prepare_dataset("train", data_path)
     # Randomize the order of examples.
     random.shuffle(all_data)
     # Use a small subset (e.g., 30 examples) for evaluation.

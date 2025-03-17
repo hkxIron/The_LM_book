@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many tiles Mary will need for her mosaic, we first need to calculate the total area of the mosaic in square inches, since the tiles are measured in inches.
+
+1. **Convert the dimensions of the mosaic from feet to inches.**
+   - The height of the mosaic is 10 feet. Since there are 12 inches in a foot, we calculate:
+     \[
+     10 \text{ feet} \times 12 \text{ inches/foot} = 120 \text{ inches}
+     \]
+   - The length of the mosaic is 15 feet. We calculate:
+     \[
+     15 \text{ feet} \times 12 \text{ inches/foot} = 180 \text{ inches}
+     \]
+
+2. **Calculate the area of the mosaic in square inches.**
+   - The area \( A \) of a rectangle is given by the formula:
+     \[
+     A = \text{height} \times \text{length}
+     \]
+   - Substituting the dimensions we converted:
+     \[
+     A = 120 \text{ inches} \times 180 \text{ inches} = 21600 \text{ square inches}
+     \]
+
+3. **Determine how many 1-inch square tiles are needed.**
+   - Since each tile covers an area of 1 square inch, the total number of tiles required will be equal to the total area of the mosaic:
+     \[
+     \text{Number of tiles} = 21600 \text{ tiles}
+     \]
+
+Therefore, Mary will need 21,600 tiles to cover the mosaic.
+</reasoning>
+<answer>21600</answer>

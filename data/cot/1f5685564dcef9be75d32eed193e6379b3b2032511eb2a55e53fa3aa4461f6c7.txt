@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate how many marbles Ludo bought:**
+   Wolfgang bought 16 marbles. Ludo bought 1/4 times more than Wolfgang. To find out how many marbles Ludo bought, we calculate:
+   \[
+   Ludo's\ marbles = Wolfgang's\ marbles + \frac{1}{4} \times Wolfgang's\ marbles
+   \]
+   \[
+   Ludo's\ marbles = 16 + \frac{1}{4} \times 16 = 16 + 4 = 20
+   \]
+
+2. **Calculate how many marbles Michael bought:**
+   Michael bought 2/3 times as many marbles as the total number of marbles Wolfgang and Ludo bought together. First, we need to find the total number of marbles they both bought:
+   \[
+   Total\ marbles\ (Wolfgang\ and\ Ludo) = Wolfgang's\ marbles + Ludo's\ marbles = 16 + 20 = 36
+   \]
+   Now, we can find out how many marbles Michael bought:
+   \[
+   Michael's\ marbles = \frac{2}{3} \times Total\ marbles\ (Wolfgang\ and\ Ludo) = \frac{2}{3} \times 36 = 24
+   \]
+
+3. **Calculate the total number of marbles they have together:**
+   Now, we sum up all the marbles:
+   \[
+   Total\ marbles = Wolfgang's\ marbles + Ludo's\ marbles + Michael's\ marbles = 16 + 20 + 24 = 60
+   \]
+
+4. **Determine how many marbles each friend gets when shared equally:**
+   Since they decided to share the total number of marbles equally among the three of them, we divide the total number of marbles by 3:
+   \[
+   Marbles\ per\ friend = \frac{Total\ marbles}{3} = \frac{60}{3} = 20
+   \]
+
+Therefore, each friend gets 20 marbles.
+</reasoning>
+<answer>20</answer>

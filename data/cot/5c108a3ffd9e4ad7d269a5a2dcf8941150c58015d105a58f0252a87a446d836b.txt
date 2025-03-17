@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Breakfast Calories**: 
+   - John has breakfast which contains 500 calories.
+   - So, Breakfast = 500 calories.
+
+2. **Calculate Lunch Calories**: 
+   - Lunch contains 25% more calories than breakfast. 
+   - To find 25% of breakfast calories, we calculate:
+     - 25% of 500 = 0.25 * 500 = 125 calories.
+   - Now, we add this to the breakfast calories to find lunch calories:
+     - Lunch = Breakfast + 25% more = 500 + 125 = 625 calories.
+
+3. **Calculate Dinner Calories**: 
+   - Dinner is twice as many calories as lunch.
+   - So, Dinner = 2 * Lunch = 2 * 625 = 1250 calories.
+
+4. **Calculate Shake Calories**: 
+   - John has 3 shakes, and each shake contains 300 calories.
+   - Therefore, total calories from shakes = 3 * 300 = 900 calories.
+
+5. **Total Daily Caloric Intake**: 
+   - Now, we sum up all the calories from breakfast, lunch, dinner, and shakes:
+   - Total Calories = Breakfast + Lunch + Dinner + Shake Calories
+   - Total Calories = 500 + 625 + 1250 + 900.
+
+6. **Perform the Calculation**: 
+   - Let's add these together step by step:
+     - 500 + 625 = 1125
+     - 1125 + 1250 = 2375
+     - 2375 + 900 = 3275.
+
+Therefore, after calculating all the meals and shakes, John's total daily caloric intake is:
+</reasoning>
+<answer>3275</answer>

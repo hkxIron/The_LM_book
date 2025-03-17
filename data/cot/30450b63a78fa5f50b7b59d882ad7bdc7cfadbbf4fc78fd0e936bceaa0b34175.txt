@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify how many candies Adam has:**
+   Adam has 6 candies. 
+
+2. **Determine how many candies James has:**
+   According to the problem, James has 3 times the number of candies Adam has. Since Adam has 6 candies, we can calculate James's candies as follows:
+   \[
+   \text{James's candies} = 3 \times \text{Adam's candies} = 3 \times 6 = 18
+   \]
+
+3. **Determine how many candies Rubert has:**
+   The problem states that Rubert has 4 times the number of candies James has. Now that we know James has 18 candies, we can calculate Rubert's candies:
+   \[
+   \text{Rubert's candies} = 4 \times \text{James's candies} = 4 \times 18 = 72
+   \]
+
+4. **Calculate the total number of candies:**
+   Now, we can find the total number of candies by adding the candies that Adam, James, and Rubert have together:
+   \[
+   \text{Total candies} = \text{Adam's candies} + \text{James's candies} + \text{Rubert's candies}
+   \]
+   Substituting in the values we found:
+   \[
+   \text{Total candies} = 6 + 18 + 72
+   \]
+
+5. **Perform the addition:**
+   First, add Adam's and James's candies:
+   \[
+   6 + 18 = 24
+   \]
+   Now, add Rubert's candies to this total:
+   \[
+   24 + 72 = 96
+   \]
+
+Thus, the total number of candies that the three of them have is 96.
+</reasoning>
+<answer>96</answer>

@@ -1,0 +1,75 @@
+<reasoning>
+To solve the problem, let's define the variables:
+
+- Let \( p \) be the number of pens Isaac buys.
+- Let \( c \) be the number of pencils Isaac buys.
+
+From the problem, we have two key pieces of information:
+
+1. Isaac buys a total of 108 writing utensils (pens and pencils combined). This can be expressed mathematically as:
+   \[
+   p + c = 108
+   \]
+
+2. Isaac buys 12 more than 5 times the number of pencils than pens. This can be expressed as:
+   \[
+   c = 5p + 12
+   \]
+
+Now, we have a system of two equations:
+
+1. \( p + c = 108 \)  (Equation 1)
+2. \( c = 5p + 12 \)  (Equation 2)
+
+Next, we'll substitute Equation 2 into Equation 1. This means we will replace \( c \) in Equation 1 with the expression we found in Equation 2:
+
+Substituting gives us:
+\[
+p + (5p + 12) = 108
+\]
+
+Now, we can simplify this equation:
+\[
+p + 5p + 12 = 108
+\]
+\[
+6p + 12 = 108
+\]
+
+Next, we want to isolate \( p \). We can do this by subtracting 12 from both sides:
+\[
+6p = 108 - 12
+\]
+\[
+6p = 96
+\]
+
+Now, we will divide both sides by 6 to solve for \( p \):
+\[
+p = \frac{96}{6}
+\]
+\[
+p = 16
+\]
+
+Thus, Isaac buys 16 pens. 
+
+Now, let's verify by finding how many pencils he bought. We can substitute \( p = 16 \) back into Equation 2 to find \( c \):
+\[
+c = 5(16) + 12
+\]
+\[
+c = 80 + 12
+\]
+\[
+c = 92
+\]
+
+Now, let's check the total:
+\[
+p + c = 16 + 92 = 108
+\]
+
+This confirms that our solution is correct. Thus, the number of pens Isaac bought is:
+</reasoning>
+<answer>16</answer>

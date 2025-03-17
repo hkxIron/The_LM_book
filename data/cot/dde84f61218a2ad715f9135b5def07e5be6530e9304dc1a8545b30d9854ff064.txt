@@ -1,0 +1,52 @@
+<reasoning>
+To determine how much James's favorite basketball player gets paid, we first need to calculate the average points he scored over the five games.
+
+1. **Calculate the total points scored in the five games:**
+   - In the first game, he scored 30 points.
+   - In the second game, he scored 28 points.
+   - In the third game, he scored 32 points.
+   - In the fourth game, he scored 34 points.
+   - In the fifth game, he scored 26 points.
+
+   We will add these scores together:
+   \[
+   \text{Total Points} = 30 + 28 + 32 + 34 + 26
+   \]
+
+2. **Perform the addition:**
+   - First, add 30 and 28:
+     \[
+     30 + 28 = 58
+     \]
+   - Next, add 32 to 58:
+     \[
+     58 + 32 = 90
+     \]
+   - Then, add 34 to 90:
+     \[
+     90 + 34 = 124
+     \]
+   - Finally, add 26 to 124:
+     \[
+     124 + 26 = 150
+     \]
+   So, the total points scored over the five games is 150.
+
+3. **Calculate the average points per game:**
+   - The average is calculated by dividing the total points by the number of games:
+   \[
+   \text{Average Points} = \frac{\text{Total Points}}{\text{Number of Games}} = \frac{150}{5}
+   \]
+
+4. **Perform the division:**
+   \[
+   \frac{150}{5} = 30
+   \]
+   The average points scored per game is 30.
+
+5. **Determine the payment based on the average:**
+   - Since the player averaged 30 points, which is equal to the threshold of 30 points, he qualifies for the higher payment of $10,000.
+
+Therefore, the player gets paid $10,000 for the week.
+</reasoning>
+<answer>10000</answer>

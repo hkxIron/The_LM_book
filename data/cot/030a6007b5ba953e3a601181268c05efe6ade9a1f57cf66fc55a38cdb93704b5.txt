@@ -1,0 +1,21 @@
+<reasoning>
+To find the total wait time for John to receive both doses of the vaccine, we need to add the wait times for each dose together.
+
+1. **Identify the wait time for the first dose:**
+   John has to wait 20 minutes for the first dose. This is straightforward, as it is given in the problem.
+
+2. **Calculate the wait time for the second dose:**
+   The problem states that the wait time for the second dose is half as long as the first dose. To find half of 20 minutes, we perform the following calculation:
+   \[
+   \text{Wait time for second dose} = \frac{20 \text{ minutes}}{2} = 10 \text{ minutes}
+   \]
+
+3. **Add the wait times together:**
+   Now, we sum the wait times for both doses:
+   \[
+   \text{Total wait time} = \text{Wait time for first dose} + \text{Wait time for second dose} = 20 \text{ minutes} + 10 \text{ minutes} = 30 \text{ minutes}
+   \]
+
+Therefore, the total wait time for John to receive both doses of the vaccine is 30 minutes.
+</reasoning>
+<answer>30</answer>

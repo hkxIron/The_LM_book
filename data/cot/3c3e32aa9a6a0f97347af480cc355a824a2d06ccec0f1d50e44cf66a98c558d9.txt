@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of marshmallows Joe has**:
+   Joe's dad has 21 marshmallows. According to the problem, Joe has four times as many marshmallows as his dad. 
+   So, we calculate Joe's marshmallows as:
+   \[
+   \text{Joe's marshmallows} = 4 \times \text{Dad's marshmallows} = 4 \times 21 = 84
+   \]
+   Therefore, Joe has 84 marshmallows.
+
+2. **Calculate how many marshmallows Joe's dad roasts**:
+   Joe's dad roasts a third of his marshmallows. To find this amount, we calculate:
+   \[
+   \text{Marshmallows roasted by Dad} = \frac{1}{3} \times \text{Dad's marshmallows} = \frac{1}{3} \times 21 = 7
+   \]
+   Thus, Joe's dad roasts 7 marshmallows.
+
+3. **Calculate how many marshmallows Joe roasts**:
+   Joe roasts half of his marshmallows. We find this amount by calculating:
+   \[
+   \text{Marshmallows roasted by Joe} = \frac{1}{2} \times \text{Joe's marshmallows} = \frac{1}{2} \times 84 = 42
+   \]
+   Therefore, Joe roasts 42 marshmallows.
+
+4. **Calculate the total number of marshmallows roasted**:
+   Now, to find the total marshmallows roasted by both Joe and his dad, we add the marshmallows roasted by each:
+   \[
+   \text{Total marshmallows roasted} = \text{Marshmallows roasted by Dad} + \text{Marshmallows roasted by Joe} = 7 + 42 = 49
+   \]
+
+Therefore, the total number of marshmallows they roasted is:
+</reasoning>
+<answer>49</answer>

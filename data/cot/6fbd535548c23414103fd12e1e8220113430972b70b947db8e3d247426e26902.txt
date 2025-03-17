@@ -1,0 +1,25 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the total capacity of the large planters**: 
+   - Oshea has 4 large planters, and each can hold 20 seeds.
+   - Therefore, the total number of seeds that can be planted in the large planters is calculated by multiplying the number of large planters by the number of seeds each can hold:
+   \[
+   4 \text{ planters} \times 20 \text{ seeds/planter} = 80 \text{ seeds}
+   \]
+
+2. **Determine how many seeds remain after using the large planters**:
+   - Oshea bought a total of 200 seeds. After using the large planters, we need to subtract the seeds that can be planted in them:
+   \[
+   200 \text{ seeds} - 80 \text{ seeds} = 120 \text{ seeds left}
+   \]
+
+3. **Calculate how many small planters are needed for the remaining seeds**:
+   - Each small planter can hold 4 seeds. To find out how many small planters are needed to hold the remaining 120 seeds, we divide the number of seeds left by the capacity of each small planter:
+   \[
+   \frac{120 \text{ seeds}}{4 \text{ seeds/planter}} = 30 \text{ small planters}
+   \]
+
+Therefore, to plant all the basil seeds, Oshea will need 30 small planters.
+</reasoning>
+<answer>30</answer>

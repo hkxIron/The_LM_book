@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of aprons Heather needs to sew**: 
+   Heather needs to sew a total of 150 aprons.
+
+2. **Calculate how many aprons she has already sewn**: 
+   She has already sewn 13 aprons.
+
+3. **Calculate how many aprons she sewed today**: 
+   Today, she sewed three times as many as she did yesterday (which was 13). 
+   So, the number of aprons she sewed today is:
+   \[
+   3 \times 13 = 39
+   \]
+
+4. **Calculate the total number of aprons she has sewn so far**: 
+   Adding the aprons she has sewn already and those sewn today:
+   \[
+   13 + 39 = 52
+   \]
+
+5. **Calculate how many aprons are remaining to be sewn**: 
+   Subtract the total sewn from the total needed:
+   \[
+   150 - 52 = 98
+   \]
+   This means she still needs to sew 98 aprons.
+
+6. **Calculate how many aprons she should sew tomorrow**: 
+   She wants to sew half of the remaining aprons:
+   \[
+   \frac{98}{2} = 49
+   \]
+   Therefore, she should sew 49 aprons tomorrow.
+
+After going through all the steps and calculations, we find that she should sew 49 aprons tomorrow.
+</reasoning>
+<answer>49</answer>

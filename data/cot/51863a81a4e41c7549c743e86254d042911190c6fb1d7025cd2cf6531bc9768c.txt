@@ -1,0 +1,43 @@
+<reasoning>
+To determine how many bags of grass seeds Amanda needs, we will first calculate the total area of the lot, then calculate the area that will be covered with concrete, and finally find the area that needs to be covered with grass. After that, we will calculate how many bags of grass seeds are required based on the coverage of each bag.
+
+1. **Calculate the total area of the lot:**
+   The area of a rectangle is found by multiplying its length by its width. 
+   Here, the lot measures 120 feet by 60 feet.
+
+   \[
+   \text{Total Area} = 120 \text{ feet} \times 60 \text{ feet} = 7200 \text{ square feet}
+   \]
+
+   This tells us the total area of the lot.
+
+2. **Calculate the area covered with concrete:**
+   The area that will be covered with concrete measures 40 feet by 40 feet. We will also use the area formula for a rectangle.
+
+   \[
+   \text{Concrete Area} = 40 \text{ feet} \times 40 \text{ feet} = 1600 \text{ square feet}
+   \]
+
+   This tells us the area that will not need grass seeds.
+
+3. **Calculate the area that needs grass seeds:**
+   We subtract the area covered with concrete from the total area of the lot to find the area that needs grass seeds.
+
+   \[
+   \text{Grass Area} = \text{Total Area} - \text{Concrete Area} = 7200 \text{ square feet} - 1600 \text{ square feet} = 5600 \text{ square feet}
+   \]
+
+   This is the area that Amanda needs to cover with grass seeds.
+
+4. **Calculate how many bags of grass seeds are needed:**
+   Each bag of grass seeds covers 56 square feet. To find out how many bags are needed, we divide the grass area by the coverage of one bag.
+
+   \[
+   \text{Number of Bags} = \frac{\text{Grass Area}}{\text{Coverage per Bag}} = \frac{5600 \text{ square feet}}{56 \text{ square feet/bag}} = 100
+   \]
+
+   Thus, Amanda needs to buy 100 bags of grass seeds.
+
+Therefore, the total number of bags of grass seeds Amanda needs is:
+</reasoning>
+<answer>100</answer>

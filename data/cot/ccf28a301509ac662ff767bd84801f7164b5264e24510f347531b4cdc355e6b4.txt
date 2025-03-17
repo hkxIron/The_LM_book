@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of Dutch people on the bus.**  
+   We know that 3/5 of the 90 people are Dutch. To find this, we multiply 90 by 3/5:
+   \[
+   \text{Number of Dutch} = 90 \times \frac{3}{5}
+   \]
+   Calculating this gives:
+   \[
+   90 \times \frac{3}{5} = 90 \times 0.6 = 54
+   \]
+   So, there are 54 Dutch people on the bus.
+
+2. **Determine the number of Dutch who are also American.**  
+   We are told that half of the Dutch people are also American. So we calculate half of the 54 Dutch:
+   \[
+   \text{Number of Dutch Americans} = 54 \times \frac{1}{2}
+   \]
+   Calculating this gives:
+   \[
+   54 \times 0.5 = 27
+   \]
+   Therefore, there are 27 Dutch Americans.
+
+3. **Determine how many of the Dutch Americans got window seats.**  
+   It states that 1/3 of the Dutch Americans got window seats. So we find 1/3 of the 27 Dutch Americans:
+   \[
+   \text{Number of Dutch Americans with window seats} = 27 \times \frac{1}{3}
+   \]
+   Calculating this gives:
+   \[
+   27 \times \frac{1}{3} = 9
+   \]
+   Thus, 9 Dutch Americans got window seats.
+
+Finally, we conclude that the number of Dutch Americans who sat at the windows is 9.
+</reasoning>
+<answer>9</answer>

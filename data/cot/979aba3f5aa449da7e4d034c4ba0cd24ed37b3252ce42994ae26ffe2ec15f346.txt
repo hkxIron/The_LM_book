@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many people are going to Michonne's birthday party, we need to add up the number of friends she invited and the additional friends they are bringing.
+
+1. **Count the friends Michonne invited:**
+   - Michonne invited 6 friends from school.
+   - Michonne invited 12 friends from her neighborhood.
+   - Therefore, the total number of friends Michonne invited is:
+     \[
+     6 + 12 = 18
+     \]
+
+2. **Calculate how many additional friends will be brought:**
+   - Each of Michonne's 18 invited friends is allowed to bring 2 additional friends.
+   - So, the total number of additional friends being brought is:
+     \[
+     18 \times 2 = 36
+     \]
+
+3. **Calculate the total number of people at the party:**
+   - To find the total number of people at the party, we add the number of friends Michonne invited to the number of additional friends:
+     \[
+     18 + 36 = 54
+     \]
+
+Therefore, the total number of people going to Michonne’s birthday party is 54.
+</reasoning>
+<answer>54</answer>

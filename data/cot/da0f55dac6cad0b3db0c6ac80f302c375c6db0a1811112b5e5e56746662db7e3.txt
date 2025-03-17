@@ -1,0 +1,23 @@
+<reasoning>
+First, we need to determine the number of members remaining in the Facebook group after the removal of the 20 members. 
+
+1. **Calculate the remaining members:**
+   - Original number of members = 150
+   - Members removed = 20
+   - Remaining members = 150 - 20 = 130
+
+Now that we know there are 130 members left, we can proceed to calculate how many messages these remaining members will send in a week.
+
+2. **Calculate the total messages posted by remaining members in one day:**
+   - Each remaining member posts 50 messages per day.
+   - Total messages per day = Number of remaining members × Messages per member per day
+   - Total messages per day = 130 × 50 = 6500 messages
+
+3. **Calculate the total messages posted by remaining members in a week:**
+   - There are 7 days in a week.
+   - Total messages in a week = Total messages per day × Number of days in a week
+   - Total messages in a week = 6500 × 7 = 45500 messages
+
+Thus, the total number of messages the remaining members would send in a week is:
+</reasoning>
+<answer>45500</answer>

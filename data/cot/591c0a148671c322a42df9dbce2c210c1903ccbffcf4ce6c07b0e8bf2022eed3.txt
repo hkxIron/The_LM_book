@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total bracelets made in the first 5 days:**
+   Chantel makes 2 friendship bracelets every day for 5 days. 
+   So, the total number of bracelets made in 5 days = number of days × number of bracelets per day.
+   \[
+   5 \text{ days} \times 2 \text{ bracelets/day} = 10 \text{ bracelets}
+   \]
+   Therefore, after 5 days, Chantel has made 10 bracelets.
+
+2. **Calculate the total bracelets after giving away some:**
+   She gives away 3 bracelets to her friends at school.
+   So, the number of bracelets left after giving them away = total bracelets made - bracelets given away.
+   \[
+   10 \text{ bracelets} - 3 \text{ bracelets} = 7 \text{ bracelets}
+   \]
+   Now, Chantel has 7 bracelets left.
+
+3. **Calculate the total bracelets made in the next 4 days:**
+   For the next 4 days, she makes 3 friendship bracelets every day.
+   So, the total number of bracelets made in 4 days = number of days × number of bracelets per day.
+   \[
+   4 \text{ days} \times 3 \text{ bracelets/day} = 12 \text{ bracelets}
+   \]
+   After 4 more days, Chantel has made an additional 12 bracelets.
+
+4. **Calculate the total bracelets after the second giveaway:**
+   Now, she gives away 6 bracelets at soccer practice.
+   So, the total number of bracelets after this giveaway = total bracelets left + new bracelets made - bracelets given away.
+   \[
+   7 \text{ bracelets} + 12 \text{ bracelets} - 6 \text{ bracelets} = 13 \text{ bracelets}
+   \]
+
+In conclusion, after all the days of making and giving away bracelets, Chantel ends up with 13 bracelets.
+</reasoning>
+<answer>13</answer>

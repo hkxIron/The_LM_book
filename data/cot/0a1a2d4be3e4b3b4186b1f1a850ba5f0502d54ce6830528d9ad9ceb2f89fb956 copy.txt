@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the number of guests**: Oleg is organizing an event with a total of 80 guests.
+
+2. **Determine the number of men**: We know that there are 40 men.
+
+3. **Calculate the number of women**: The problem states that the number of women is half the number of men. Since there are 40 men, the number of women is:
+   \[
+   \text{Number of women} = \frac{40}{2} = 20
+   \]
+
+4. **Calculate the number of children**: To find the number of children, we need to subtract the number of men and women from the total number of guests:
+   \[
+   \text{Total guests} = \text{Number of men} + \text{Number of women} + \text{Number of children}
+   \]
+   Plugging in the numbers we know:
+   \[
+   80 = 40 + 20 + \text{Number of children}
+   \]
+   Simplifying this, we find:
+   \[
+   80 = 60 + \text{Number of children}
+   \]
+   Therefore, the number of children is:
+   \[
+   \text{Number of children} = 80 - 60 = 20
+   \]
+
+5. **Adding children to the guest list**: The problem states that Oleg added 10 children to the guest list. To find the new total number of children, we add these 10 children to the original 20 children:
+   \[
+   \text{New number of children} = 20 + 10 = 30
+   \]
+
+Thus, after adding the 10 children to the guest list, the total number of children at the event will be 30.
+</reasoning>
+<answer>30</answer>

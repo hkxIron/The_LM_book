@@ -1,0 +1,29 @@
+<reasoning>
+To determine the minimum current load that the transformer must be able to carry, we need to follow these steps:
+
+1. **Identify the running current for each machine**: Each of the three units of machinery requires a running current of 40A.
+
+2. **Calculate the total running current for all machines**: Since there are three machines, we multiply the running current of one machine by the number of machines:
+   \[
+   \text{Total running current} = 3 \text{ machines} \times 40A = 120A
+   \]
+   This is the current needed while the machines are running.
+
+3. **Determine the starting current for each machine**: Each machine requires at least twice its running current for starting. Therefore, the starting current for one machine is:
+   \[
+   \text{Starting current for one machine} = 2 \times 40A = 80A
+   \]
+
+4. **Calculate the total starting current for all machines**: Now we need to find the total starting current for all three machines:
+   \[
+   \text{Total starting current} = 3 \text{ machines} \times 80A = 240A
+   \]
+
+5. **Determine the minimum current load for the transformer**: The transformer must be able to handle the total starting current, which is the maximum demand it will face. Thus, the minimum current load that the transformer must be able to carry is:
+   \[
+   \text{Minimum current load for transformer} = 240A
+   \]
+
+Therefore, the transformer must be able to carry a minimum current load of 240A to accommodate the starting needs of all three machines.
+</reasoning>
+<answer>240</answer>

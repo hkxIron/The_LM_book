@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we start by determining how many people actually ran last year. 
+
+1. **Calculate the number of participants who showed up last year:**
+   - Last year, 200 people signed up for the Fun Run.
+   - Out of those, 40 people did not show up. 
+   - Therefore, the number of people who did show up is calculated as:
+     \[
+     200 - 40 = 160
+     \]
+   This means that 160 people participated in the Fun Run last year.
+
+2. **Determine how many runners there will be this year:**
+   - The problem states that this year there will be twice as many runners as last year. 
+   - Since 160 people ran last year, we calculate the expected number of runners this year by doubling the number of participants:
+     \[
+     2 \times 160 = 320
+     \]
+   This indicates that there will be 320 runners this year.
+
+Thus, the total number of people who will run this year is 320.
+</reasoning>
+<answer>320</answer>

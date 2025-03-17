@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many kilograms of cabbage Johannes sold, we need to first understand how much he earns per kilogram and then use his total earnings to calculate the amount sold.
+
+1. **Identify the price per kilogram**: 
+   Johannes sells cabbage for $2 per kilogram.
+
+2. **Calculate total earnings**:
+   We need to add up the earnings from last Wednesday, last Friday, and today:
+   - Last Wednesday: $30
+   - Last Friday: $24
+   - Today: $42
+
+   Now, we perform the addition:
+   \[
+   30 + 24 + 42
+   \]
+
+   To calculate:
+   - First, add $30 and $24:
+     \[
+     30 + 24 = 54
+     \]
+   - Then add $42 to the result:
+     \[
+     54 + 42 = 96
+     \]
+
+   So, Johannes' total earnings over the three days is $96.
+
+3. **Calculate the total kilograms sold**:
+   Since Johannes earns $2 for each kilogram of cabbage sold, we can find out how many kilograms he sold by dividing his total earnings by the price per kilogram:
+   \[
+   \text{Total kilograms sold} = \frac{\text{Total earnings}}{\text{Price per kilogram}} = \frac{96}{2}
+   \]
+
+   Performing the division:
+   \[
+   96 \div 2 = 48
+   \]
+
+Thus, Johannes was able to sell a total of 48 kilograms of cabbage.
+</reasoning>
+<answer>48</answer>

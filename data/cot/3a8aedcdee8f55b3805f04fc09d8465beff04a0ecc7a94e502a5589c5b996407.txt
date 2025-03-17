@@ -1,0 +1,22 @@
+<reasoning>
+First, we sum up all the hard hats in the truck. 
+
+We have 26 pink hard hats, 15 green hard hats, and 24 yellow hard hats. 
+
+So, the total number of hard hats in the truck is 26 (pink) + 15 (green) + 24 (yellow) = 65 hard hats.
+
+Then, Carl takes away 4 pink hard hats. 
+
+This means the number of hard hats in the truck is now 65 (original total) - 4 (taken by Carl) = 61 hard hats.
+
+Next, John takes away 6 pink hard hats and twice as many green hard hats. 
+
+For the pink hard hats John took, the number of hard hats now is 61 (current total) - 6 (taken by John) = 55 hard hats.
+
+For the green hard hats John took, he took twice as many as the pink ones he took. So, he took 2 * 6 = 12 green hard hats.
+
+This means the final number of hard hats in the truck is now 55 (current total) - 12 (green hard hats taken by John) = 43 hard hats.
+
+So, after Carl and John took away some of the hard hats, there are 43 hard hats left in the truck.
+</reasoning>
+<answer>43</answer>

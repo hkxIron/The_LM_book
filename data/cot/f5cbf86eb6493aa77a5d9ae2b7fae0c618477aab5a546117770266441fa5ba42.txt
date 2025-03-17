@@ -1,0 +1,68 @@
+<reasoning>
+Let's denote the number of quarters John has as \( q \).
+
+According to the problem:
+1. John has three more dimes than quarters, so the number of dimes \( d \) can be expressed as:
+   \[
+   d = q + 3
+   \]
+
+2. John has 6 fewer nickels than quarters, so the number of nickels \( n \) can be expressed as:
+   \[
+   n = q - 6
+   \]
+
+Now, we know that the total number of coins (quarters, dimes, and nickels) is 63. Therefore, we can write the equation:
+\[
+q + d + n = 63
+\]
+
+Substituting the expressions for \( d \) and \( n \) into the equation:
+\[
+q + (q + 3) + (q - 6) = 63
+\]
+
+Now, let's combine the terms:
+\[
+q + q + 3 + q - 6 = 63
+\]
+\[
+3q - 3 = 63
+\]
+
+Next, we will isolate \( q \) by first adding 3 to both sides:
+\[
+3q = 63 + 3
+\]
+\[
+3q = 66
+\]
+
+Now, we divide both sides by 3 to solve for \( q \):
+\[
+q = \frac{66}{3}
+\]
+\[
+q = 22
+\]
+
+Now that we have found the number of quarters, we can verify the number of dimes and nickels:
+- The number of dimes \( d \) is:
+  \[
+  d = q + 3 = 22 + 3 = 25
+  \]
+- The number of nickels \( n \) is:
+  \[
+  n = q - 6 = 22 - 6 = 16
+  \]
+
+Finally, let's check the total number of coins:
+\[
+q + d + n = 22 + 25 + 16 = 63
+\]
+
+Since the total is correct, we have confirmed our solution.
+
+Therefore, the number of quarters John has is:
+</reasoning>
+<answer>22</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we will define the number of questions each person answered correctly based on the information given.
+
+1. **Define Variables:**
+   - Let \( C \) be the number of questions Campbell answered correctly.
+   - Let \( K \) be the number of questions Kelsey answered correctly.
+   - Let \( M \) be the number of questions Martin answered correctly.
+
+2. **Given Information:**
+   - We know from the problem that Campbell answered 35 questions correctly. Therefore, we set:
+     \[
+     C = 35
+     \]
+   - The problem states that Kelsey answered eight more questions than Campbell. Thus, we can express Kelsey’s score in terms of Campbell’s:
+     \[
+     K = C + 8
+     \]
+   - Substituting Campbell's score into Kelsey's equation:
+     \[
+     K = 35 + 8 = 43
+     \]
+   - Now, Martin answered three fewer questions than Kelsey. Therefore, we can express Martin’s score as:
+     \[
+     M = K - 3
+     \]
+   - Substituting Kelsey’s score into Martin’s equation:
+     \[
+     M = 43 - 3 = 40
+     \]
+
+3. **Final Calculation:**
+   - We have calculated that Martin answered 40 questions correctly.
+
+Therefore, after going through the steps, we conclude that Martin answered 40 questions correctly.
+</reasoning>
+<answer>40</answer>

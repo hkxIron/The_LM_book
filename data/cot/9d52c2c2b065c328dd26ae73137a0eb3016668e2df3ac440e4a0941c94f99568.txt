@@ -1,0 +1,78 @@
+<reasoning>
+Let's denote the initial amount of money Susan had as \( x \).
+
+1. In September, Susan spent \( \frac{1}{5} \) of her total amount:
+   \[
+   \text{Amount spent in September} = \frac{1}{5} x
+   \]
+
+2. In October, she spent \( \frac{1}{4} \) of her total amount:
+   \[
+   \text{Amount spent in October} = \frac{1}{4} x
+   \]
+
+3. In November, she spent a fixed amount of $120:
+   \[
+   \text{Amount spent in November} = 120
+   \]
+
+4. After these expenditures, she had $540 left. We can now set up the equation to represent the total money after her expenses:
+   \[
+   x - \left(\frac{1}{5} x + \frac{1}{4} x + 120\right) = 540
+   \]
+
+5. To simplify, combine the fractions \( \frac{1}{5} x \) and \( \frac{1}{4} x \). To do this, we need a common denominator, which is 20:
+   \[
+   \frac{1}{5} x = \frac{4}{20} x \quad \text{and} \quad \frac{1}{4} x = \frac{5}{20} x
+   \]
+   So,
+   \[
+   \frac{1}{5} x + \frac{1}{4} x = \frac{4}{20} x + \frac{5}{20} x = \frac{9}{20} x
+   \]
+
+6. We substitute this back into our equation:
+   \[
+   x - \left(\frac{9}{20} x + 120\right) = 540
+   \]
+
+7. Distributing the negative sign:
+   \[
+   x - \frac{9}{20} x - 120 = 540
+   \]
+
+8. Combine the \( x \) terms:
+   \[
+   \left(1 - \frac{9}{20}\right)x - 120 = 540
+   \]
+   The coefficient of \( x \) becomes:
+   \[
+   1 - \frac{9}{20} = \frac{20}{20} - \frac{9}{20} = \frac{11}{20}
+   \]
+   Thus, we have:
+   \[
+   \frac{11}{20} x - 120 = 540
+   \]
+
+9. Now, add 120 to both sides:
+   \[
+   \frac{11}{20} x = 540 + 120
+   \]
+   \[
+   \frac{11}{20} x = 660
+   \]
+
+10. To solve for \( x \), multiply both sides by the reciprocal of \( \frac{11}{20} \):
+    \[
+    x = 660 \times \frac{20}{11}
+    \]
+
+11. Calculating \( 660 \times \frac{20}{11} \):
+    - First, calculate \( 660 \times 20 = 13200 \)
+    - Now divide by 11:
+    \[
+    \frac{13200}{11} = 1200
+    \]
+
+Therefore, Susan initially had $1200.
+</reasoning>
+<answer>1200</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To calculate the total cost for Joanie to join the gym for the first 3 years, we need to consider both the down payment and the monthly fees.
+
+1. **Identify the costs:**
+   - The down payment is $50.
+   - The monthly cost is $12.
+
+2. **Calculate the total number of months in 3 years:**
+   - There are 12 months in a year, so in 3 years, there will be:
+     \[
+     3 \text{ years} \times 12 \text{ months/year} = 36 \text{ months}
+     \]
+
+3. **Calculate the total cost for the monthly fees over 3 years:**
+   - The monthly fee is $12, so for 36 months, the total cost for the monthly fees will be:
+     \[
+     36 \text{ months} \times 12 \text{ dollars/month} = 432 \text{ dollars}
+     \]
+
+4. **Add the down payment to the total monthly fees:**
+   - Now, we need to add the down payment of $50 to the total monthly fees:
+     \[
+     432 \text{ dollars} + 50 \text{ dollars} = 482 \text{ dollars}
+     \]
+
+5. **Conclusion:**
+   - Therefore, the total amount Joanie will need to pay for the first 3 years is $482.
+</reasoning>
+<answer>482</answer>

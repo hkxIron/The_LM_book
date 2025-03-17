@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Find the number of apartments with at least 1 resident**:
+   We're told that 85% of the 120 apartments have at least 1 resident. To find the number of apartments with at least 1 resident, we calculate:
+   \[
+   \text{Apartments with at least 1 resident} = 120 \times 0.85
+   \]
+   \[
+   = 102
+   \]
+   So, there are 102 apartments that have at least 1 resident.
+
+2. **Find the number of apartments with at least 2 residents**:
+   Similarly, we know that 60% of the apartments have at least 2 residents. We calculate this as follows:
+   \[
+   \text{Apartments with at least 2 residents} = 120 \times 0.60
+   \]
+   \[
+   = 72
+   \]
+   Therefore, there are 72 apartments that have at least 2 residents.
+
+3. **Determine the number of apartments with exactly 1 resident**:
+   To find the number of apartments that have exactly 1 resident, we take the total number of apartments with at least 1 resident and subtract the number of apartments with at least 2 residents:
+   \[
+   \text{Apartments with exactly 1 resident} = \text{Apartments with at least 1 resident} - \text{Apartments with at least 2 residents}
+   \]
+   \[
+   = 102 - 72
+   \]
+   \[
+   = 30
+   \]
+
+Therefore, after performing the calculations and explaining each step, we find that the number of apartments that have only one resident is:
+</reasoning>
+<answer>30</answer>

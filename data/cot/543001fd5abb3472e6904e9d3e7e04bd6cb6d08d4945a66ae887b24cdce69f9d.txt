@@ -1,0 +1,55 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the total number of students in Alec's class.**
+   - We know from the problem that there are 60 students in total.
+
+2. **Calculate the number of votes Alec needs to achieve three-quarters of the class.**
+   - Three-quarters of 60 students is calculated as follows:
+     \[
+     \text{Votes needed} = \frac{3}{4} \times 60 = 45 \text{ votes}
+     \]
+
+3. **Identify how many votes Alec currently has.**
+   - Half of the class has already committed to voting for him. So, we calculate half of 60:
+     \[
+     \text{Votes committed} = \frac{1}{2} \times 60 = 30 \text{ votes}
+     \]
+
+4. **Determine how many students are left who have not committed to voting for Alec.**
+   - Since half of the class (30 students) is already voting for him, the remaining students in the class would be:
+     \[
+     \text{Remaining students} = 60 - 30 = 30 \text{ students}
+     \]
+
+5. **Calculate how many of the remaining students are thinking about voting for Alec.**
+   - Out of the remaining 30 students, 5 have said they are thinking about voting for him. This means Alec has:
+     \[
+     \text{Votes from those thinking about voting for him} = 5 \text{ votes}
+     \]
+
+6. **Survey results: Determine how many students will vote for Alec after addressing their concerns.**
+   - After surveying the students who are thinking about voting for someone else, a fifth of these students (the remaining 30) decide to support him:
+     \[
+     \text{Students thinking about voting for someone else} = 30 - 5 = 25 \text{ students}
+     \]
+   - A fifth of these 25 students will vote for Alec:
+     \[
+     \text{Votes gained from addressing concerns} = \frac{1}{5} \times 25 = 5 \text{ votes}
+     \]
+
+7. **Calculate Alec's total votes after gaining support.**
+   - Now we add the votes he initially had and the votes gained from the survey:
+     \[
+     \text{Total votes for Alec} = 30 + 5 + 5 = 40 \text{ votes}
+     \]
+
+8. **Determine how many more votes Alec needs to reach his goal.**
+   - To find out how many more votes Alec needs to meet the 45 votes required:
+     \[
+     \text{Votes needed} = 45 - 40 = 5 \text{ votes}
+     \]
+
+Thus, Alec needs 5 more votes to reach his goal.
+</reasoning>
+<answer>5</answer>

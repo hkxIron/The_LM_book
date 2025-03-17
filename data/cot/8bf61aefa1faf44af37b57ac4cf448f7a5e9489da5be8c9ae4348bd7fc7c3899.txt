@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the initial number of rabbits in the cage**: According to the problem, there are currently 13 rabbits in the cage.
+
+2. **Calculate the total number of rabbits after adding seven more**: If we add 7 rabbits to the 13 already in the cage, we perform the following calculation:
+   \[
+   13 + 7 = 20
+   \]
+   This means there will be 20 rabbits in the cage after the addition.
+
+3. **Establish the relationship between the rabbits in the cage and the rabbits Jasper saw**: The problem states that the number of rabbits in the cage (which is now 20) will be 1/3 of the number of rabbits Jasper saw. We can set up the equation as follows:
+   \[
+   20 = \frac{1}{3} \times \text{(number of rabbits Jasper saw)}
+   \]
+
+4. **Solve for the number of rabbits Jasper saw**: To find the total number of rabbits Jasper saw, we can multiply both sides of the equation by 3 to isolate the variable:
+   \[
+   \text{(number of rabbits Jasper saw)} = 20 \times 3
+   \]
+   Now, calculating that gives:
+   \[
+   \text{(number of rabbits Jasper saw)} = 60
+   \]
+
+5. **Conclusion**: Therefore, the number of rabbits Jasper saw in the park today is 60.
+</reasoning>
+<answer>60</answer>

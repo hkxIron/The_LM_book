@@ -1,0 +1,40 @@
+<reasoning>
+To find the total number of fireworks lit during the display, we need to break down the problem into several parts: 
+
+1. **Fireworks for the full year**: The year is 2023, which has the digits 2, 0, 2, 3. Each digit requires 6 fireworks.
+   - For the digit 2: 6 fireworks
+   - For the digit 0: 6 fireworks
+   - For the digit 2: 6 fireworks
+   - For the digit 3: 6 fireworks
+
+   We calculate the total for the digits:
+   \[
+   \text{Total for digits} = 4 \text{ digits} \times 6 \text{ fireworks per digit} = 4 \times 6 = 24 \text{ fireworks}
+   \]
+
+2. **Fireworks for "HAPPY NEW YEAR"**: We need to count the letters in "HAPPY NEW YEAR".
+   - The phrase "HAPPY NEW YEAR" consists of 12 letters.
+   - Each letter requires 5 fireworks.
+
+   We calculate the total for the letters:
+   \[
+   \text{Total for letters} = 12 \text{ letters} \times 5 \text{ fireworks per letter} = 12 \times 5 = 60 \text{ fireworks}
+   \]
+
+3. **Additional fireworks**: The problem states that they light another 50 boxes of fireworks, and each box contains 8 fireworks.
+   - Therefore, we calculate the total fireworks from the boxes:
+   \[
+   \text{Total from boxes} = 50 \text{ boxes} \times 8 \text{ fireworks per box} = 50 \times 8 = 400 \text{ fireworks}
+   \]
+
+4. **Total fireworks lit**: Now we add all the fireworks together:
+   \[
+   \text{Total fireworks} = \text{Total for digits} + \text{Total for letters} + \text{Total from boxes}
+   \]
+   \[
+   \text{Total fireworks} = 24 + 60 + 400 = 484
+   \]
+
+Therefore, the total number of fireworks lit during the display is 484.
+</reasoning>
+<answer>484</answer>

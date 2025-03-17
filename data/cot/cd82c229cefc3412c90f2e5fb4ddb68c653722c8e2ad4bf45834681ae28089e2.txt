@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem, we need to break down the orders for bacon sandwiches and then find out how many customers are in the group that arrived.
+
+1. **Calculate the total number of bacon sandwiches ordered by the local offices:**
+   - There are 3 local offices, and each one ordered 10 bacon sandwiches.
+   - Therefore, the total number of sandwiches ordered by the local offices is calculated as:
+     \[
+     3 \text{ offices} \times 10 \text{ sandwiches/office} = 30 \text{ sandwiches}
+     \]
+
+2. **Determine the total number of bacon sandwiches made by the café:**
+   - It is given that the café makes a total of 54 bacon sandwiches.
+
+3. **Calculate the number of bacon sandwiches requested by the group of customers:**
+   - To find out how many bacon sandwiches were made for the group of customers, we subtract the number of sandwiches ordered by the local offices from the total sandwiches made:
+     \[
+     54 \text{ total sandwiches} - 30 \text{ sandwiches for offices} = 24 \text{ sandwiches for the group}
+     \]
+
+4. **Identify how many sandwiches each customer in the group ordered:**
+   - It is stated that half of the group that arrived has asked for 4 bacon sandwiches each.
+
+5. **Let \( x \) be the total number of customers in the group. Then half of the customers would be \( \frac{x}{2} \).**
+   - The total number of sandwiches ordered by the group can be expressed as:
+     \[
+     \frac{x}{2} \text{ customers} \times 4 \text{ sandwiches/customer} = 2x \text{ sandwiches}
+     \]
+
+6. **Set up the equation based on the sandwiches made for the group:**
+   - We know that the total number of sandwiches made for the group is 24. Thus, we can set up the equation:
+     \[
+     2x = 24
+     \]
+
+7. **Solve for \( x \):**
+   - To find \( x \), divide both sides of the equation by 2:
+     \[
+     x = \frac{24}{2} = 12
+     \]
+
+Now we conclude that there are 12 customers in the group that arrived.
+</reasoning>
+<answer>12</answer>

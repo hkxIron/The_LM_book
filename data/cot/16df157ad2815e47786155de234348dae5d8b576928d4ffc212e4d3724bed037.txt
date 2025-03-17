@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the total number of teams and members**: There are 4 teams and each team has 10 members. 
+   - So, the total number of members is calculated as:
+   \[
+   \text{Total members} = \text{Number of teams} \times \text{Members per team} = 4 \times 10 = 40
+   \]
+
+2. **Calculate the total number of pairs of skates needed**: Each member needs 2 pairs of roller skates (one for competition and one as a backup).
+   - Therefore, the total number of pairs of skates is:
+   \[
+   \text{Total pairs of skates} = \text{Total members} \times 2 = 40 \times 2 = 80
+   \]
+
+3. **Determine the number of sets of laces per pair of skates**: Each pair of skates comes with 3 sets of laces.
+   - Hence, the total number of sets of laces handed out is:
+   \[
+   \text{Total sets of laces} = \text{Total pairs of skates} \times \text{Sets of laces per pair} = 80 \times 3 = 240
+   \]
+
+4. **Final Calculation**: We have calculated all the required quantities, and the final result is the total number of sets of laces handed out.
+
+Therefore, the total number of sets of laces handed out is 240.
+</reasoning>
+<answer>240</answer>

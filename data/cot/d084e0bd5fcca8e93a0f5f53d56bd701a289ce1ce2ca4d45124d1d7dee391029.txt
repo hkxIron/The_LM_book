@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the size of Class A based on Class B**:
+   - We know that Class A is twice as big as Class B. 
+   - If Class B has 20 people, we can calculate the size of Class A as follows:
+     \[
+     \text{Size of Class A} = 2 \times \text{Size of Class B} = 2 \times 20 = 40
+     \]
+   - So, Class A has 40 people.
+
+2. **Determine the size of Class C based on Class A**:
+   - We are also told that Class A is a third the size of Class C. 
+   - This means that Class C is three times the size of Class A. We can calculate the size of Class C as follows:
+     \[
+     \text{Size of Class C} = 3 \times \text{Size of Class A} = 3 \times 40 = 120
+     \]
+   - Therefore, Class C has 120 people.
+
+By following these steps, we find that the number of people in Class C is 120.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To find the total distance Christina walked during the week, we need to calculate her daily walking distance and then sum it up for the entire week.
+
+1. **Calculate the daily distance from home to school and back**:
+   - Christina walks 7 km to school. 
+   - She returns home covering the same distance of 7 km.
+   - Therefore, the total distance she walks to and from school each day is:
+     \[
+     7 \text{ km (to school)} + 7 \text{ km (return home)} = 14 \text{ km}
+     \]
+
+2. **Calculate the total distance for Monday to Thursday**:
+   - Christina walks 14 km each day from Monday to Thursday. That’s 4 days.
+   - The total distance for these 4 days is:
+     \[
+     4 \times 14 \text{ km} = 56 \text{ km}
+     \]
+
+3. **Calculate the distance for Friday**:
+   - On Friday, in addition to walking to school and back, Christina walks an extra distance to her friend's place. 
+   - The extra distance to her friend's place is 2 km.
+   - Therefore, on Friday, her total walking distance is:
+     \[
+     7 \text{ km (to school)} + 7 \text{ km (return home)} + 2 \text{ km (to friend's)} + 2 \text{ km (return home from friend's)} = 18 \text{ km}
+     \]
+
+4. **Add the distances for the whole week**:
+   - Now we add the distance walked from Monday to Thursday and the distance on Friday:
+     \[
+     56 \text{ km (Mon-Thurs)} + 18 \text{ km (Friday)} = 74 \text{ km}
+     \]
+
+Thus, Christina covered a total of 74 kilometers that week.
+</reasoning>
+<answer>74</answer>

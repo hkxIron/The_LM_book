@@ -1,0 +1,48 @@
+<reasoning>
+To find out how many loaves of bread the baker bakes in 3 weeks, we will break down the problem step by step.
+
+1. **Calculate the number of loaves baked in one hour with one oven:**
+   The baker bakes 5 loaves per hour in one oven.
+
+2. **Calculate the total number of loaves baked in one hour with 4 ovens:**
+   Since he has 4 ovens, we multiply the number of loaves baked in one hour by the number of ovens:
+   \[
+   5 \text{ loaves/hour} \times 4 \text{ ovens} = 20 \text{ loaves/hour}
+   \]
+   This means the baker can bake 20 loaves of bread in one hour using all 4 ovens.
+
+3. **Calculate the total number of loaves baked from Monday to Friday (5 days):**
+   He bakes for 5 hours each day from Monday to Friday. Thus, the total number of hours he bakes in 5 days is:
+   \[
+   5 \text{ hours/day} \times 5 \text{ days} = 25 \text{ hours}
+   \]
+   Now, we can calculate the total number of loaves baked in these 25 hours:
+   \[
+   20 \text{ loaves/hour} \times 25 \text{ hours} = 500 \text{ loaves}
+   \]
+
+4. **Calculate the total number of loaves baked on Saturday and Sunday (2 days):**
+   He bakes for 2 hours each day on the weekend, so the total number of hours he bakes in 2 days is:
+   \[
+   2 \text{ hours/day} \times 2 \text{ days} = 4 \text{ hours}
+   \]
+   Now, calculate the total number of loaves baked in these 4 hours:
+   \[
+   20 \text{ loaves/hour} \times 4 \text{ hours} = 80 \text{ loaves}
+   \]
+
+5. **Calculate the total number of loaves baked in one week:**
+   Now, we add the loaves baked during the weekdays and the weekend:
+   \[
+   500 \text{ loaves (Mon-Fri)} + 80 \text{ loaves (Sat-Sun)} = 580 \text{ loaves}
+   \]
+
+6. **Calculate the total number of loaves baked in 3 weeks:**
+   Since the baker operates on the same schedule every week, we multiply the total loaves baked in one week by 3:
+   \[
+   580 \text{ loaves/week} \times 3 \text{ weeks} = 1740 \text{ loaves}
+   \]
+
+Therefore, the total number of loaves of bread the baker bakes in 3 weeks is:
+</reasoning>
+<answer>1740</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To find the average number of songs the band will play in the third and fourth sets, we first need to determine how many songs they have already played and how many remain in their repertoire.
+
+1. **Calculate the total number of songs played so far:**
+   The band has played 5 songs in the first set and 7 songs in the second set. We need to add these together:
+   \[
+   5 \text{ (first set)} + 7 \text{ (second set)} = 12 \text{ songs played}
+   \]
+
+2. **Account for the encore songs:**
+   The band will also play 2 songs for their encore. We will add these to the total songs played:
+   \[
+   12 \text{ (songs played)} + 2 \text{ (encore)} = 14 \text{ songs played in total}
+   \]
+
+3. **Determine how many songs are left in the repertoire:**
+   The band has a total of 30 songs in their repertoire. Therefore, we can find the number of songs remaining by subtracting the total songs played from the total repertoire:
+   \[
+   30 \text{ (total songs)} - 14 \text{ (songs played)} = 16 \text{ songs remaining}
+   \]
+
+4. **Calculate the average number of songs played in the third and fourth sets:**
+   Now, we need to distribute the remaining 16 songs across the third and fourth sets. Since there are two sets, we will divide the remaining songs by 2:
+   \[
+   \frac{16 \text{ (remaining songs)}}{2 \text{ (sets)}} = 8 \text{ songs per set}
+   \]
+
+Thus, on average, the band will play 8 songs in each of the third and fourth sets.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+To solve this problem, we'll first determine how many drops of solution are used on average for each beaker that is tested. Since we know that 45 drops are used in total and all 8 beakers with copper ions are found, we can find out how many beakers were tested in total.
+
+1. **Identify how many beakers were tested**: Each beaker tested takes 3 drops to determine if it has copper ions. Therefore, we can set up the equation:
+   \[
+   \text{Number of beakers tested} \times 3 = 45
+   \]
+   To find the number of beakers tested, we divide the total drops used by the drops per beaker:
+   \[
+   \text{Number of beakers tested} = \frac{45}{3} = 15
+   \]
+
+2. **Determine how many beakers have copper ions**: We know that there are 8 beakers with copper ions.
+
+3. **Calculate the number of beakers without copper ions tested**: Since a total of 15 beakers were tested and 8 of those contain copper ions, the number of beakers tested that do not contain copper ions is:
+   \[
+   \text{Number of beakers without copper ions tested} = \text{Total beakers tested} - \text{Beakers with copper ions} = 15 - 8 = 7
+   \]
+
+Thus, we have determined that 7 beakers without copper ions were tested.
+</reasoning>
+<answer>7</answer>

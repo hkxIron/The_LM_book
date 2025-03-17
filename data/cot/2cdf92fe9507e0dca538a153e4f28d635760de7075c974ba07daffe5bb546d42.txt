@@ -1,0 +1,46 @@
+<reasoning>
+To determine the number of ripe mangoes remaining after Lindsay eats some, we will follow these steps:
+
+1. **Calculate the total number of ripe mangoes.**  
+   We know that 3/5 of the mangoes are ripe. Since there are 400 mangoes on the tree, we can find the number of ripe mangoes by multiplying the total number of mangoes by 3/5.
+
+   \[
+   \text{Number of ripe mangoes} = \frac{3}{5} \times 400
+   \]
+
+   Performing the multiplication:
+   \[
+   = \frac{3 \times 400}{5} = \frac{1200}{5} = 240
+   \]
+
+   So, there are 240 ripe mangoes.
+
+2. **Calculate how many ripe mangoes Lindsay eats.**  
+   Lindsay eats 60% of the ripe mangoes. We will calculate 60% of 240 ripe mangoes.
+
+   \[
+   \text{Number of mangoes eaten} = 0.60 \times 240
+   \]
+
+   Performing the multiplication:
+   \[
+   = 0.60 \times 240 = 144
+   \]
+
+   Thus, Lindsay eats 144 ripe mangoes.
+
+3. **Calculate the number of ripe mangoes remaining.**  
+   To find the remaining ripe mangoes, we subtract the number of ripe mangoes eaten from the total number of ripe mangoes.
+
+   \[
+   \text{Ripe mangoes remaining} = 240 - 144
+   \]
+
+   Performing the subtraction:
+   \[
+   = 96
+   \]
+
+Thus, the number of ripe mangoes remaining is 96.
+</reasoning>
+<answer>96</answer>

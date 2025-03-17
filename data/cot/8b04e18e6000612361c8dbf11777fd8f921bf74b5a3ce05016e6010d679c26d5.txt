@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much Layla earned babysitting, we need to calculate her earnings from each family separately and then sum those amounts.
+
+1. **Calculate earnings from the Donaldsons:**
+   - The rate for babysitting for the Donaldsons is $15 per hour.
+   - Layla babysat for the Donaldsons for 7 hours.
+   - So, we multiply the hourly rate by the number of hours:
+     \[
+     \text{Earnings from Donaldsons} = 15 \text{ (dollars/hour)} \times 7 \text{ (hours)} = 105 \text{ dollars}
+     \]
+
+2. **Calculate earnings from the Merck family:**
+   - The rate for babysitting for the Merck family is $18 per hour.
+   - Layla babysat for the Merck family for 6 hours.
+   - We multiply the hourly rate by the number of hours:
+     \[
+     \text{Earnings from Merck family} = 18 \text{ (dollars/hour)} \times 6 \text{ (hours)} = 108 \text{ dollars}
+     \]
+
+3. **Calculate earnings from the Hille family:**
+   - The rate for babysitting for the Hille family is $20 per hour.
+   - Layla babysat for the Hille family for 3 hours.
+   - We multiply the hourly rate by the number of hours:
+     \[
+     \text{Earnings from Hille family} = 20 \text{ (dollars/hour)} \times 3 \text{ (hours)} = 60 \text{ dollars}
+     \]
+
+4. **Sum all earnings:**
+   - Now, we add up all the earnings from each family to find the total amount Layla earned:
+     \[
+     \text{Total earnings} = \text{Earnings from Donaldsons} + \text{Earnings from Merck family} + \text{Earnings from Hille family}
+     \]
+     \[
+     \text{Total earnings} = 105 \text{ dollars} + 108 \text{ dollars} + 60 \text{ dollars} = 273 \text{ dollars}
+     \]
+
+Therefore, Layla earned a total of 273 dollars babysitting.
+</reasoning>
+<answer>273</answer>

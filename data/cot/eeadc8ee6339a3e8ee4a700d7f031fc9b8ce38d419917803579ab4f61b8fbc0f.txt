@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many doughnuts are given away at the end of the day, we can follow these steps:
+
+1. First, we need to calculate the total number of doughnuts sold by the bakery. Since each box holds 10 doughnuts and the bakery sold 27 boxes, we multiply the number of boxes sold by the number of doughnuts per box:
+   \[
+   \text{Total sold doughnuts} = 27 \text{ boxes} \times 10 \text{ doughnuts/box} = 270 \text{ doughnuts}
+   \]
+   Here, we are multiplying the number of boxes sold by the number of doughnuts in each box to find the total number of doughnuts sold.
+
+2. Next, we need to find out how many doughnuts were left at the end of the day. We do this by subtracting the total number of doughnuts sold from the total number of doughnuts made:
+   \[
+   \text{Doughnuts given away} = \text{Total made doughnuts} - \text{Total sold doughnuts}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Doughnuts given away} = 300 \text{ doughnuts} - 270 \text{ doughnuts} = 30 \text{ doughnuts}
+   \]
+   In this step, we are determining the leftover doughnuts by taking the difference between the total made and the total sold.
+
+After these calculations, we find that the bakery gives away 30 doughnuts at the end of the day.
+</reasoning>
+<answer>30</answer>

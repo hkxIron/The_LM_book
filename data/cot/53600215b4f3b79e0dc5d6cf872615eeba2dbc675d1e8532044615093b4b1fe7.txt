@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we will break it down step by step.
+
+1. **Calculate the total number of knockouts:** 
+   We know that 50 percent of Rocky's fights were knockouts. Since he boxed 190 fights, we need to find 50 percent of 190.
+   
+   \[
+   \text{Number of knockouts} = 50\% \text{ of } 190 = 0.50 \times 190
+   \]
+
+   Now, performing the multiplication:
+   
+   \[
+   0.50 \times 190 = 95
+   \]
+
+   So, Rocky had 95 knockouts in total.
+
+2. **Calculate the number of first-round knockouts:**
+   Next, we know that 20 percent of the knockouts were in the first round. We need to find 20 percent of the 95 knockouts.
+
+   \[
+   \text{First-round knockouts} = 20\% \text{ of } 95 = 0.20 \times 95
+   \]
+
+   Now, performing the multiplication:
+   
+   \[
+   0.20 \times 95 = 19
+   \]
+
+   Therefore, Rocky had 19 knockouts in the first round.
+
+Combining these calculations, we find that the number of first-round knockouts is 19.
+</reasoning>
+<answer>19</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To find the average weight of Rachel, Jimmy, and Adam, we will first determine the weights of Jimmy and Adam based on the information given about Rachel's weight.
+
+1. **Weight of Rachel**: We are given that Rachel weighs 75 pounds.
+
+2. **Weight of Jimmy**: The problem states that Rachel weighs 6 pounds less than Jimmy. Therefore, we can find Jimmy's weight by adding 6 pounds to Rachel's weight:
+   \[
+   \text{Weight of Jimmy} = \text{Weight of Rachel} + 6 = 75 + 6 = 81 \text{ pounds}
+   \]
+
+3. **Weight of Adam**: We are also told that Rachel weighs 15 pounds more than Adam. To find Adam's weight, we subtract 15 pounds from Rachel's weight:
+   \[
+   \text{Weight of Adam} = \text{Weight of Rachel} - 15 = 75 - 15 = 60 \text{ pounds}
+   \]
+
+4. **Calculating the average weight**: Now that we have the weights of all three individuals, we can calculate the average weight. The average weight is found by adding all the weights together and then dividing by the number of individuals:
+   \[
+   \text{Average weight} = \frac{\text{Weight of Rachel} + \text{Weight of Jimmy} + \text{Weight of Adam}}{3}
+   \]
+   Substituting the weights we found:
+   \[
+   \text{Average weight} = \frac{75 + 81 + 60}{3}
+   \]
+
+5. **Performing the addition**: We first add the weights together:
+   \[
+   75 + 81 = 156
+   \]
+   \[
+   156 + 60 = 216
+   \]
+
+6. **Dividing by the number of individuals**:
+   \[
+   \text{Average weight} = \frac{216}{3} = 72 \text{ pounds}
+   \]
+
+Therefore, the average weight of Rachel, Jimmy, and Adam is 72 pounds.
+</reasoning>
+<answer>72</answer>

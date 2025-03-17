@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we will go through the process step by step, calculating the weight remaining on the truck after each delivery.
+
+1. **Determine the initial weight of the load**: 
+   The tractor trailer starts with a load of 50,000 pounds.
+
+2. **Calculate the weight unloaded at the first store**: 
+   We need to find 10% of the total weight. 
+   \[
+   \text{Weight unloaded at the first store} = 10\% \text{ of } 50000 = 0.10 \times 50000 = 5000 \text{ pounds}
+   \]
+   So, we unload 5,000 pounds at the first store.
+
+3. **Calculate the remaining weight after the first delivery**: 
+   To find the remaining weight, we subtract the weight unloaded from the initial weight.
+   \[
+   \text{Remaining weight after first store} = 50000 - 5000 = 45000 \text{ pounds}
+   \]
+
+4. **Calculate the weight unloaded at the second store**: 
+   Now we need to find 20% of the remaining weight (which is 45,000 pounds).
+   \[
+   \text{Weight unloaded at the second store} = 20\% \text{ of } 45000 = 0.20 \times 45000 = 9000 \text{ pounds}
+   \]
+   So, we unload 9,000 pounds at the second store.
+
+5. **Calculate the remaining weight after the second delivery**: 
+   Again, we subtract the weight unloaded at the second store from the remaining weight after the first store.
+   \[
+   \text{Remaining weight after second store} = 45000 - 9000 = 36000 \text{ pounds}
+   \]
+
+After completing both deliveries, the weight left on the truck is 36,000 pounds.
+
+Therefore, the final weight left on the truck after the two deliveries is:
+</reasoning>
+<answer>36000</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To determine how much Calum can spend on each disco ball, we first need to calculate the total cost of the boxes of food he is purchasing.
+
+1. **Calculate the total cost of the boxes of food**: 
+   - Calum is buying 10 boxes of food, and each box costs $25. 
+   - To find the total cost for food, we multiply the number of boxes by the cost per box:
+     \[
+     \text{Total cost of food} = 10 \text{ boxes} \times 25 \text{ dollars/box} = 250 \text{ dollars}
+     \]
+
+2. **Determine the remaining budget for disco balls**:
+   - Calum has a total budget of $330. We need to subtract the total cost of the food from this budget to find out how much he can spend on the disco balls.
+     \[
+     \text{Remaining budget for disco balls} = 330 \text{ dollars} - 250 \text{ dollars} = 80 \text{ dollars}
+     \]
+
+3. **Calculate the cost per disco ball**:
+   - Calum needs to buy 4 disco balls. To find out how much he can spend on each disco ball, we divide the remaining budget by the number of disco balls:
+     \[
+     \text{Cost per disco ball} = \frac{80 \text{ dollars}}{4 \text{ disco balls}} = 20 \text{ dollars/disco ball}
+     \]
+
+Putting all of this together, we find that Calum can afford to spend $20 on each disco ball.
+</reasoning>
+<answer>20</answer>

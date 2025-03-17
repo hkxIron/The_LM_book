@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify Variables**: 
+   Let the number of clownfish in the aquarium be \( c \) and the number of blowfish be \( b \). According to the problem, we know that \( c = b \) since the aquarium holds an equal number of clownfish and blowfish.
+
+2. **Total Fish in the Aquarium**: 
+   The total number of fish in the aquarium is given as 100. Therefore, we can set up the equation:
+   \[
+   c + b = 100
+   \]
+   Since \( c = b \), we can rewrite this as:
+   \[
+   2c = 100
+   \]
+   Solving for \( c \), we divide both sides by 2:
+   \[
+   c = 50
+   \]
+   Thus, there are 50 clownfish and also 50 blowfish in the aquarium.
+
+3. **Blowfish in the Display Tank**: 
+   We know that 26 blowfish stay in their own tank. Therefore, the number of blowfish that swim into the display tank is:
+   \[
+   b - 26 = 50 - 26 = 24
+   \]
+
+4. **Clownfish Joining the Blowfish**: 
+   An equal number of clownfish join the blowfish in the display tank. Since there are 24 blowfish in the display tank, 24 clownfish also join them. 
+
+5. **Total Fish in the Display Tank**: 
+   Now, the total number of fish in the display tank is:
+   \[
+   24 \text{ (blowfish)} + 24 \text{ (clownfish)} = 48 \text{ fish}
+   \]
+
+6. **Clownfish Swimming Back**: 
+   According to the problem, one-third of these clownfish swim back to their own tank. We need to find out how many clownfish that is:
+   \[
+   \text{One-third of 24 clownfish} = \frac{24}{3} = 8
+   \]
+   So, 8 clownfish swim back to their own tank.
+
+7. **Clownfish Remaining in the Display Tank**: 
+   To find out how many clownfish are left in the display tank after 8 swim back, we subtract 8 from the 24 clownfish that were initially there:
+   \[
+   24 - 8 = 16
+   \]
+
+So, the number of clownfish now in the display tank is 16.
+</reasoning>
+<answer>16</answer>

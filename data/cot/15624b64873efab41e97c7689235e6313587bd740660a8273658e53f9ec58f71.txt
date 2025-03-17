@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many hours Melissa spends driving in a year, we can break down the problem into the following steps:
+
+1. **Determine the frequency of her trips**: Melissa drives to town twice each month. Therefore, in one year, which has 12 months, the total number of trips she makes is:
+   \[
+   2 \text{ trips/month} \times 12 \text{ months} = 24 \text{ trips/year}
+   \]
+   This calculation shows how many times she goes to town in a year.
+
+2. **Calculate the driving time for each trip**: We are told that it takes her 3 hours to drive to town and back. Therefore, each trip takes 3 hours.
+
+3. **Calculate the total driving time in a year**: To find the total amount of time she spends driving in a year, we multiply the number of trips by the time per trip:
+   \[
+   24 \text{ trips} \times 3 \text{ hours/trip} = 72 \text{ hours}
+   \]
+   This step adds up all the driving time across the year based on the number of trips and the duration of each trip.
+
+Thus, the total number of hours Melissa spends driving in a year is 72.
+</reasoning>
+<answer>72</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total produce of mangoes**: According to the problem, Mr. Sergio produced 400 kg of mangoes.
+
+2. **Calculate the total produce of apples**: The problem states that the total produce of apples was twice the total produce of mangoes. Thus, we can calculate the total produce of apples as follows:
+   \[
+   \text{Total produce of apples} = 2 \times \text{Total produce of mangoes} = 2 \times 400 \, \text{kg} = 800 \, \text{kg}
+   \]
+
+3. **Calculate the total produce of oranges**: The problem also states that the total produce of oranges was 200 kg more than that of mangoes. Therefore, we can find the total produce of oranges:
+   \[
+   \text{Total produce of oranges} = \text{Total produce of mangoes} + 200 \, \text{kg} = 400 \, \text{kg} + 200 \, \text{kg} = 600 \, \text{kg}
+   \]
+
+4. **Calculate the total amount of fruit produced**: Now we can find the total produce of all fruits:
+   \[
+   \text{Total produce} = \text{Total produce of apples} + \text{Total produce of mangoes} + \text{Total produce of oranges}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Total produce} = 800 \, \text{kg} + 400 \, \text{kg} + 600 \, \text{kg} = 1800 \, \text{kg}
+   \]
+
+5. **Calculate the total money earned**: Mr. Sergio sold the fruits at $50 per kg. Therefore, we can calculate the total amount of money he got by multiplying the total produce by the price per kg:
+   \[
+   \text{Total money earned} = \text{Total produce} \times \text{Price per kg} = 1800 \, \text{kg} \times 50 \, \text{USD/kg}
+   \]
+   Now we perform the multiplication:
+   \[
+   \text{Total money earned} = 1800 \times 50 = 90000 \, \text{USD}
+   \]
+
+After performing all the calculations, we find that Mr. Sergio earned a total of $90,000 from selling his fruits.
+</reasoning>
+<answer>90000</answer>

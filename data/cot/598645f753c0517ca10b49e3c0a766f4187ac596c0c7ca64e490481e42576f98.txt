@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many hours it will take to process all of Alex's 960 pictures, we first need to determine the total time in minutes that the program will take to process those pictures.
+
+1. **Calculate total processing time in minutes:**
+   The program takes 2 minutes to process each picture. Since Alex has 960 pictures, we can calculate the total processing time by multiplying the number of pictures by the time per picture:
+   \[
+   \text{Total time in minutes} = \text{Number of pictures} \times \text{Time per picture} = 960 \times 2
+   \]
+
+2. **Perform the multiplication:**
+   \[
+   960 \times 2 = 1920 \text{ minutes}
+   \]
+   This means it will take a total of 1920 minutes to process all pictures.
+
+3. **Convert minutes to hours:**
+   Next, we need to convert the total time from minutes to hours. There are 60 minutes in an hour, so we divide the total minutes by 60:
+   \[
+   \text{Total time in hours} = \frac{\text{Total time in minutes}}{60} = \frac{1920}{60}
+   \]
+
+4. **Perform the division:**
+   \[
+   \frac{1920}{60} = 32 \text{ hours}
+   \]
+   Therefore, it will take 32 hours to process all of the pictures.
+
+In conclusion, the total time required for processing is calculated, and we have confirmed that it will take 32 hours.
+</reasoning>
+<answer>32</answer>

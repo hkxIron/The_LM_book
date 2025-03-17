@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of people at the second showing**: 
+   - The problem states that 200 people bought tickets for the first showing. For the second showing, three times as many people show up. 
+   - To find the number of people for the second showing, we multiply the number of people in the first showing by 3.
+   \[
+   3 \times 200 = 600
+   \]
+   So, 600 people attended the second showing.
+
+2. **Calculate the total number of attendees**: 
+   - Now, we add the number of attendees from both showings to find the total number of tickets sold.
+   \[
+   200 + 600 = 800
+   \]
+   Thus, a total of 800 tickets were sold across both showings.
+
+3. **Determine the income from ticket sales**: 
+   - Each ticket costs $25. To find the total income from ticket sales, we multiply the total number of tickets sold by the price of each ticket.
+   \[
+   800 \times 25 = 20000
+   \]
+   Therefore, the total income from ticket sales is $20,000.
+
+Putting it all together, we have calculated the total income from both showings of the show.
+</reasoning>
+<answer>20000</answer>

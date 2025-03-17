@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much John's outfit cost, we need to determine the cost of both his pants and his shirt.
+
+1. **Find the cost of the pants**: 
+   We know that John's pants cost $50. 
+
+2. **Calculate the cost of the shirt**: 
+   The shirt costs 60% more than the pants. To find 60% of the pants' cost, we calculate:
+   \[
+   60\% \text{ of } 50 = 0.60 \times 50 = 30
+   \]
+   So, the shirt costs $30 more than the pants.
+
+3. **Add the cost of the shirt to the cost of the pants**: 
+   The total cost of the shirt is the cost of the pants plus the additional amount:
+   \[
+   \text{Cost of shirt} = \text{Cost of pants} + \text{Increase} = 50 + 30 = 80
+   \]
+
+4. **Calculate the total cost of the outfit**:
+   Now, we add the cost of the pants and the cost of the shirt together:
+   \[
+   \text{Total cost of outfit} = \text{Cost of pants} + \text{Cost of shirt} = 50 + 80 = 130
+   \]
+
+Therefore, the total cost of John's outfit is $130.
+</reasoning>
+<answer>130</answer>

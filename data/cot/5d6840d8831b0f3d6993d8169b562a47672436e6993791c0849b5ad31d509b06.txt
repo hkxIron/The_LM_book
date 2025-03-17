@@ -1,0 +1,46 @@
+<reasoning>
+To find out how many miles Tom rides his bike in a year, we need to calculate the distance he covers in two parts of the year: the first 183 days and the remaining days.
+
+1. **Calculate the distance for the first 183 days:**
+   - Tom rides 30 miles per day for the first 183 days.
+   - To find the total distance, we multiply the number of days by the miles per day:
+     \[
+     \text{Distance for the first 183 days} = 30 \text{ miles/day} \times 183 \text{ days}
+     \]
+   - Performing the multiplication:
+     \[
+     30 \times 183 = 5490 \text{ miles}
+     \]
+
+2. **Determine the number of days remaining in the year:**
+   - There are 365 days in a year, so the number of days remaining after the first 183 days is:
+     \[
+     \text{Remaining days} = 365 - 183 = 182 \text{ days}
+     \]
+
+3. **Calculate the distance for the remaining 182 days:**
+   - For these days, Tom rides 35 miles per day. We again use multiplication:
+     \[
+     \text{Distance for the remaining 182 days} = 35 \text{ miles/day} \times 182 \text{ days}
+     \]
+   - Performing the multiplication:
+     \[
+     35 \times 182 = 6370 \text{ miles}
+     \]
+
+4. **Add both distances to find the total distance for the year:**
+   - Now we combine the distances from both parts of the year:
+     \[
+     \text{Total distance} = \text{Distance for the first 183 days} + \text{Distance for the remaining 182 days}
+     \]
+     \[
+     \text{Total distance} = 5490 \text{ miles} + 6370 \text{ miles}
+     \]
+   - Performing the addition:
+     \[
+     5490 + 6370 = 11860 \text{ miles}
+     \]
+
+Therefore, the total distance Tom rides in a year is 11,860 miles.
+</reasoning>
+<answer>11860</answer>

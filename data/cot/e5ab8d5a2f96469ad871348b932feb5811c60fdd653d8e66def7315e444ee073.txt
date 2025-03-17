@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we'll break it down into steps based on the information provided.
+
+1. **Distance to the first friend's house**: Danny drives 8 miles to the first friend's house.
+
+2. **Distance to the second friend's house**: The problem states that the distance to the second friend's house is half the distance to the first friend's house. So, we calculate that as follows:
+   \[
+   \text{Distance to the second friend's house} = \frac{8 \text{ miles}}{2} = 4 \text{ miles}
+   \]
+
+3. **Total distance driven so far**: Now we add the distance driven to the first friend's house and the distance to the second friend's house:
+   \[
+   \text{Total distance so far} = 8 \text{ miles} + 4 \text{ miles} = 12 \text{ miles}
+   \]
+
+4. **Distance from the second friend's house to work**: The problem states that Danny drives 3 times the total distance driven so far to get to work. We calculate this distance:
+   \[
+   \text{Distance to work} = 3 \times 12 \text{ miles} = 36 \text{ miles}
+   \]
+
+5. **Final calculation**: Therefore, the total distance that Danny drives between the second friend's house and work is 36 miles.
+
+So, we conclude that the distance Danny drives between the second friend's house and work is:
+</reasoning>
+<answer>36</answer>

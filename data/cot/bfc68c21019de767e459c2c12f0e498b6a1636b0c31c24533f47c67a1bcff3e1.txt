@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we will first determine how many of Julian's friends are boys and how many are girls, and then we will find out how many of Boyd's friends are boys based on the information given.
+
+1. **Finding the number of boys and girls among Julian’s friends:**
+   - Julian has 80 friends in total.
+   - 60% of Julian's friends are boys. To find the number of boys, we calculate:
+     \[
+     \text{Number of boys} = 60\% \text{ of } 80 = 0.6 \times 80 = 48
+     \]
+   - The remaining friends are girls, which is 40% of Julian's friends:
+     \[
+     \text{Number of girls} = 40\% \text{ of } 80 = 0.4 \times 80 = 32
+     \]
+
+2. **Finding the number of girls among Boyd’s friends:**
+   - Boyd has twice as many friends who are girls as Julian. Since Julian has 32 girls, Boyd has:
+     \[
+     \text{Number of girls} = 2 \times 32 = 64
+     \]
+
+3. **Finding the total number of friends Boyd has:**
+   - Boyd has 100 friends in total. We already found out that he has 64 girls. To find the number of boys:
+     \[
+     \text{Number of boys} = \text{Total friends} - \text{Number of girls} = 100 - 64 = 36
+     \]
+
+4. **Calculating the percentage of Boyd’s friends that are boys:**
+   - To find the percentage of Boyd's friends who are boys, we use the formula:
+     \[
+     \text{Percentage of boys} = \left( \frac{\text{Number of boys}}{\text{Total friends}} \right) \times 100 = \left( \frac{36}{100} \right) \times 100 = 36\%
+     \]
+
+Thus, the percentage of Boyd’s friends that are boys is 36%.
+</reasoning>
+<answer>36</answer>

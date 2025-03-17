@@ -1,0 +1,20 @@
+<reasoning>
+First, let's determine how many cups of banana mush Hannah can make with 20 bananas. We know from the problem that it takes 4 bananas to make 1 cup of banana mush.
+
+1. **Calculate the number of cups of banana mush:**
+   - We divide the total number of bananas by the number of bananas needed for one cup of mush:
+   \[
+   \text{Cups of banana mush} = \frac{\text{Total bananas}}{\text{Bananas per cup}} = \frac{20}{4} = 5
+   \]
+   This means Hannah can make 5 cups of banana mush with 20 bananas.
+
+2. **Determine how many cups of flour are needed:**
+   - The problem states that for every cup of banana mush, Hannah needs to use 3 cups of flour. Therefore, we can find out how many cups of flour she needs by multiplying the number of cups of banana mush by the number of cups of flour required per cup of mush:
+   \[
+   \text{Cups of flour} = \text{Cups of banana mush} \times \text{Cups of flour per cup of mush} = 5 \times 3 = 15
+   \]
+   This means Hannah will need 15 cups of flour for her banana bread.
+
+Therefore, the final result for how many cups of flour she should use is:
+</reasoning>
+<answer>15</answer>

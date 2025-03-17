@@ -1,0 +1,72 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the total duration and remaining pills**: Mr. Johnson has a prescription of pills that lasts for 30 days. After four-fifths of the days, he has 12 pills left. First, we need to calculate how many days four-fifths of 30 days is.
+
+   \[
+   \text{Days consumed} = \frac{4}{5} \times 30 = 24 \text{ days}
+   \]
+
+   So, Mr. Johnson has taken pills for 24 days.
+
+2. **Calculating the total number of pills**: Since we know that after 24 days he has 12 pills left, we can determine how many pills he started with. Let \( x \) be the total number of pills he had at the beginning.
+
+   The number of pills consumed in 24 days is:
+   \[
+   \text{Pills consumed} = x - 12
+   \]
+
+3. **Finding the daily dosage**: We need to determine how many pills he is taking each day. Let \( d \) be the daily dosage. The total number of pills consumed over 24 days can also be expressed as:
+   \[
+   \text{Pills consumed} = d \times 24
+   \]
+
+   Therefore, we can set up the equation:
+   \[
+   x - 12 = d \times 24
+   \]
+
+4. **Finding the amount left after 30 days**: Since he takes the same dose daily for 30 days, the total number of pills consumed after 30 days would be:
+   \[
+   \text{Total pills consumed in 30 days} = d \times 30
+   \]
+
+   This also means:
+   \[
+   x - \text{Total pills consumed in 30 days} = 0
+   \]
+   Since by the end of 30 days he would be out of pills.
+
+5. **Relating the equations**: From the second statement, we have:
+   \[
+   x = d \times 30
+   \]
+
+   Now substituting \( x \) from the above equation into the first equation \( x - 12 = d \times 24 \):
+   \[
+   d \times 30 - 12 = d \times 24
+   \]
+
+6. **Solving for \( d \)**: Rearranging the equation gives us:
+   \[
+   d \times 30 - d \times 24 = 12
+   \]
+
+   This simplifies to:
+   \[
+   d \times (30 - 24) = 12
+   \]
+
+   Which gives:
+   \[
+   d \times 6 = 12
+   \]
+
+   Now, divide both sides by 6:
+   \[
+   d = \frac{12}{6} = 2
+   \]
+
+Thus, Mr. Johnson is supposed to take 2 pills a day.
+</reasoning>
+<answer>2</answer>

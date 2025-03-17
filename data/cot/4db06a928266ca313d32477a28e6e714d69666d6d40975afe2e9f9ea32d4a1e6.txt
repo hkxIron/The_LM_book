@@ -1,0 +1,26 @@
+<reasoning>
+To determine how many more days Hazel can miss without having to take her final exams, we first need to calculate what 5% of the school year (180 days) is. 
+
+1. **Calculate 5% of 180 days**:
+   \[
+   5\% \text{ of } 180 = 0.05 \times 180
+   \]
+   Performing the multiplication:
+   \[
+   0.05 \times 180 = 9
+   \]
+   This means Hazel can miss a maximum of 9 days of school.
+
+2. **Determine how many days Hazel has already missed**:
+   Hazel has missed 6 days.
+
+3. **Calculate how many more days Hazel can miss**:
+   We need to find the difference between the maximum days she can miss (9 days) and the days she has already missed (6 days):
+   \[
+   9 - 6 = 3
+   \]
+   This shows that Hazel can still miss 3 more days without having to take her exams.
+
+Putting it all together, Hazel can miss up to 9 days in total, has already missed 6, and can miss 3 more days.
+</reasoning>
+<answer>3</answer>

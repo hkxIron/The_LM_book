@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many peanut butter and jelly sandwiches Jackson ate for lunch this school year, we first need to calculate how many Wednesdays and Fridays are in the 36 weeks of school.
+
+1. **Calculate total Wednesdays and Fridays**:
+   - In 36 weeks, there are 36 Wednesdays and 36 Fridays (assuming there is one of each in every week).
+
+2. **Calculate total sandwiches without absences**:
+   - If Jackson attends all the Wednesdays and Fridays, he would eat a sandwich on each of those days. Therefore, the total number of sandwiches without any absences would be:
+     \[
+     \text{Total sandwiches} = \text{Wednesdays} + \text{Fridays} = 36 + 36 = 72
+     \]
+
+3. **Account for absences**:
+   - Jackson missed 1 Wednesday and 2 Fridays. Therefore, we need to subtract the sandwiches he did not eat due to these absences:
+     - Sandwiches missed: 1 (Wednesday) + 2 (Fridays) = 3 sandwiches.
+
+4. **Calculate total sandwiches eaten**:
+   - Now, we subtract the sandwiches missed from the total sandwiches:
+     \[
+     \text{Sandwiches eaten} = \text{Total sandwiches} - \text{Sandwiches missed} = 72 - 3 = 69
+     \]
+
+Therefore, after accounting for the days he missed, Jackson ate a total of 69 peanut butter and jelly sandwiches this school year.
+</reasoning>
+<answer>69</answer>

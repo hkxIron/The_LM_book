@@ -1,0 +1,38 @@
+<reasoning>
+To find out how long Kitty has spent cleaning just the living room over 4 weeks, we first need to calculate how much time she spends cleaning in one week.
+
+1. **Calculate the weekly cleaning time:**
+   - Picking up toys and straightening the living room: 5 minutes
+   - Vacuuming the living room floor, seating, and drapes: 20 minutes
+   - Cleaning the windows: 15 minutes
+   - Dusting the furniture: 10 minutes
+
+2. **Add the times together for one week:**
+   \[
+   \text{Total time in one week} = 5 + 20 + 15 + 10
+   \]
+   Now, let's compute that:
+   \[
+   5 + 20 = 25 \text{ minutes}
+   \]
+   \[
+   25 + 15 = 40 \text{ minutes}
+   \]
+   \[
+   40 + 10 = 50 \text{ minutes}
+   \]
+   So, Kitty spends 50 minutes cleaning the living room each week.
+
+3. **Calculate the total time over 4 weeks:**
+   Now, we multiply the weekly cleaning time by the number of weeks:
+   \[
+   \text{Total time in 4 weeks} = 50 \times 4
+   \]
+   Doing the multiplication:
+   \[
+   50 \times 4 = 200 \text{ minutes}
+   \]
+
+Thus, after 4 weeks, Kitty has spent a total of 200 minutes cleaning just the living room.
+</reasoning>
+<answer>200</answer>

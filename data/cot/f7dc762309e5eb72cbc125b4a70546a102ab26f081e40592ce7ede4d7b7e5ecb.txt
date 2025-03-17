@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step to find out how many white lights Malcolm had initially.
+
+1. **Identifying the number of colored lights Malcolm is buying:**
+   - He buys 12 red lights.
+   - For the blue lights, he buys 3 times as many as the red lights. Thus:
+     \[
+     \text{Number of blue lights} = 3 \times 12 = 36
+     \]
+   - He also buys 6 green lights.
+
+2. **Calculate the total number of colored lights he has bought so far:**
+   - Total colored lights purchased:
+     \[
+     \text{Total colored lights} = \text{Red lights} + \text{Blue lights} + \text{Green lights}
+     \]
+     \[
+     = 12 + 36 + 6 = 54
+     \]
+
+3. **Considering the remaining lights he needs to buy:**
+   - Malcolm has 5 more colored lights to buy. Therefore, the total number of colored lights he will have after purchasing these additional lights is:
+     \[
+     \text{Total colored lights after purchase} = 54 + 5 = 59
+     \]
+
+4. **Finding out the initial number of white lights:**
+   - We know that the total number of lights in the house, before replacing any, consists of white lights and the colored lights he will have after all purchases. Since he is replacing all white lights with colored lights, the total number of colored lights (after all purchases) will equal the initial number of white lights.
+   - Hence, the number of white lights Malcolm had initially is equal to the total number of colored lights after purchasing all colored lights:
+     \[
+     \text{Initial number of white lights} = 59
+     \]
+
+Therefore, we conclude that the number of white lights Malcolm had initially is:
+</reasoning>
+<answer>59</answer>

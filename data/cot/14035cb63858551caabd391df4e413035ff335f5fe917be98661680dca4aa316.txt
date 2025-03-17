@@ -1,0 +1,22 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine how much Patrick saved**: The bicycle costs $150, and Patrick saved half of this price. To find out how much he saved, we need to calculate half of $150.
+   
+   \[
+   \text{Amount saved} = \frac{150}{2} = 75
+   \]
+
+   So, Patrick has saved $75.
+
+2. **Account for the money lent to his friend**: After saving $75, Patrick lent $50 to his friend. We need to subtract the amount he lent from the amount he saved to find out how much he has left.
+
+   \[
+   \text{Amount left} = 75 - 50 = 25
+   \]
+
+   Therefore, after lending $50, Patrick has $25 remaining.
+
+Putting it all together, we find that Patrick has $25 left after his savings and the loan to his friend.
+</reasoning>
+<answer>25</answer>

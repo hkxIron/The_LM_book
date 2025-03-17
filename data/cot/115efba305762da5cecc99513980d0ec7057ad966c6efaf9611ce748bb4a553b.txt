@@ -1,0 +1,28 @@
+<reasoning>
+To determine how many weeks of daily tea Marco can get from a box of tea leaves, we need to follow these steps:
+
+1. **Calculate the total number of days Marco can brew tea from the box.** 
+   - Marco uses \( \frac{1}{5} \) of an ounce per day. 
+   - The box contains 28 ounces. 
+   - To find out how many days he can brew tea, we will divide the total ounces in the box by the amount he uses daily:
+
+   \[
+   \text{Number of days} = \frac{\text{Total ounces in box}}{\text{Ounces used per day}} = \frac{28 \text{ ounces}}{\frac{1}{5} \text{ ounce per day}}
+   \]
+
+   - Dividing by a fraction is the same as multiplying by its reciprocal:
+
+   \[
+   \frac{28}{\frac{1}{5}} = 28 \times 5 = 140 \text{ days}
+   \]
+
+2. **Convert days into weeks.**
+   - There are 7 days in a week, so to find out how many weeks Marco can brew tea, we divide the total number of days by 7:
+
+   \[
+   \text{Number of weeks} = \frac{\text{Number of days}}{7} = \frac{140 \text{ days}}{7} = 20 \text{ weeks}
+   \]
+
+Therefore, Marco can brew tea for a total of 20 weeks from a box of tea leaves.
+</reasoning>
+<answer>20</answer>

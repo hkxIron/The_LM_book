@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we need to find out how much Mia spent on each parent's gift after determining how much she spent on her siblings.
+
+1. **Calculate the total spending on siblings:**  
+   Mia has 3 siblings and she spent $30 on each of them.  
+   So, we calculate:  
+   \( 3 \text{ siblings} \times 30 \text{ dollars/sibling} = 90 \text{ dollars} \)  
+   This means Mia spent a total of $90 on her siblings.
+
+2. **Determine the remaining amount spent on parents:**  
+   Mia spent a total of $150 on Christmas gifts.  
+   Now, we subtract the amount spent on siblings from the total spending:  
+   \( 150 \text{ dollars} - 90 \text{ dollars} = 60 \text{ dollars} \)  
+   This means Mia spent $60 on her parents' gifts combined.
+
+3. **Calculate the amount spent on each parent's gift:**  
+   Since the gifts for each parent are of equal value and there are 2 parents, we divide the total amount spent on parents by 2:  
+   \( \frac{60 \text{ dollars}}{2 \text{ parents}} = 30 \text{ dollars} \)  
+   Therefore, each parent received gifts worth $30.
+
+Thus, after following these steps and performing the calculations, we find that Mia spent $30 on each parent's gift.
+</reasoning>
+<answer>30</answer>

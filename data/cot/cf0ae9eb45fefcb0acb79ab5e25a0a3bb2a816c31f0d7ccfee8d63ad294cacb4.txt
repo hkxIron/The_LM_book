@@ -1,0 +1,52 @@
+<reasoning>
+To find out how many cows on Mr. Maximilian's farm have no spot, we will follow these steps:
+
+1. **Calculate the number of cows with a red spot.**
+   - We know that 40% of the total 140 cows have a red spot.
+   - To find this, we can calculate: 
+     \[
+     \text{Cows with red spot} = 0.40 \times 140
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Cows with red spot} = 56
+     \]
+
+2. **Determine the number of cows without a red spot.**
+   - To find the cows without a red spot, we subtract the number of cows with a red spot from the total number of cows:
+     \[
+     \text{Cows without red spot} = 140 - 56
+     \]
+   - Calculating this gives:
+     \[
+     \text{Cows without red spot} = 84
+     \]
+
+3. **Calculate the number of cows with a blue spot.**
+   - We know that 25% of the cows without a red spot have a blue spot.
+   - We can calculate the number of cows with a blue spot as follows:
+     \[
+     \text{Cows with blue spot} = 0.25 \times 84
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Cows with blue spot} = 21
+     \]
+
+4. **Determine the number of cows with no spots.**
+   - Now, we need to find the cows with no spots by subtracting the number of cows with a blue spot from the cows without a red spot:
+     \[
+     \text{Cows with no spots} = \text{Cows without red spot} - \text{Cows with blue spot}
+     \]
+   - Substituting in the numbers we have:
+     \[
+     \text{Cows with no spots} = 84 - 21
+     \]
+   - Performing the subtraction:
+     \[
+     \text{Cows with no spots} = 63
+     \]
+
+After completing the calculations, we find that there are 63 cows on the farm that have no spot.
+</reasoning>
+<answer>63</answer>

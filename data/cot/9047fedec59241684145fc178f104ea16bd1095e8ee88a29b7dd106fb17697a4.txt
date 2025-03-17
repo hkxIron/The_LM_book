@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of bricks Tom needs**: Tom needs a total of 1000 bricks.
+
+2. **Calculate how many bricks he buys at a discount and at full price**: Since he can buy half of the bricks at a discount, he will buy:
+   \[
+   \frac{1000}{2} = 500 \text{ bricks at a discount}
+   \]
+   and
+   \[
+   \frac{1000}{2} = 500 \text{ bricks at full price}
+   \]
+
+3. **Determine the price of the bricks**: The original price of the bricks is $0.50 per brick.
+
+4. **Calculate the discounted price**: Since he can buy half of the bricks for 50% off:
+   \[
+   50\% \text{ off of } 0.50 = 0.50 \times 0.50 = 0.25
+   \]
+   Therefore, the discounted price is $0.25 per brick.
+
+5. **Calculate the total cost for the discounted bricks**:
+   \[
+   500 \text{ bricks} \times 0.25 \text{ dollars/brick} = 125 \text{ dollars}
+   \]
+
+6. **Calculate the total cost for the full-priced bricks**:
+   \[
+   500 \text{ bricks} \times 0.50 \text{ dollars/brick} = 250 \text{ dollars}
+   \]
+
+7. **Find the total amount Tom spends**: Add the cost of the discounted bricks and the full-priced bricks:
+   \[
+   125 \text{ dollars} + 250 \text{ dollars} = 375 \text{ dollars}
+   \]
+
+Thus, Tom spends a total of $375 on the bricks.
+</reasoning>
+<answer>375</answer>

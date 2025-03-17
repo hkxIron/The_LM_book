@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Calculate the volume of the pool**: 
+   The volume \( V \) of a rectangular pool can be calculated using the formula:
+   \[
+   V = \text{length} \times \text{width} \times \text{depth}
+   \]
+   Given the dimensions:
+   - Length = 10 feet
+   - Width = 8 feet
+   - Depth = 6 feet
+
+   Plugging in the values:
+   \[
+   V = 10 \, \text{feet} \times 8 \, \text{feet} \times 6 \, \text{feet}
+   \]
+   \[
+   V = 480 \, \text{cubic feet}
+   \]
+
+2. **Determine how many quarts of chlorine are needed**:
+   Gary needs 1 quart of chlorine for every 120 cubic feet of water. To find out how many quarts he needs, we divide the total volume of the pool by the volume covered by one quart:
+   \[
+   \text{Quarts needed} = \frac{V}{120 \, \text{cubic feet/quart}}
+   \]
+   Using the volume we calculated:
+   \[
+   \text{Quarts needed} = \frac{480 \, \text{cubic feet}}{120 \, \text{cubic feet/quart}} = 4 \, \text{quarts}
+   \]
+
+3. **Calculate the total cost of chlorine**:
+   The cost of chlorine is $3 per quart. Hence, to find the total cost, we multiply the number of quarts needed by the cost per quart:
+   \[
+   \text{Total cost} = \text{Quarts needed} \times \text{Cost per quart}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total cost} = 4 \, \text{quarts} \times 3 \, \text{dollars/quart} = 12 \, \text{dollars}
+   \]
+
+Therefore, after calculating the volume of the pool, determining the number of quarts of chlorine required, and calculating the total cost, we find that Gary spends $12 on chlorine.
+</reasoning>
+<answer>12</answer>

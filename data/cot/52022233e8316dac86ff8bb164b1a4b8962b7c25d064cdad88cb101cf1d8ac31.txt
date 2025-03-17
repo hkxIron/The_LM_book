@@ -1,0 +1,25 @@
+<reasoning>
+To determine how much money John has left in his piggy bank after saving for 2 years and spending some on car repairs, we can follow these steps:
+
+1. **Calculate the total amount saved in 2 years**:
+   - John puts $25 into his piggy bank every month.
+   - There are 12 months in a year, so over 2 years, he saves money for a total of:
+     \[
+     2 \text{ years} \times 12 \text{ months/year} = 24 \text{ months}
+     \]
+   - Now, we multiply the number of months by the amount saved each month:
+     \[
+     24 \text{ months} \times 25 \text{ dollars/month} = 600 \text{ dollars}
+     \]
+   - This means John has saved a total of $600 over 2 years.
+
+2. **Subtract the amount spent on car repairs**:
+   - John spent $400 to repair his car. To find out how much money he has left, we subtract this amount from his total savings:
+     \[
+     600 \text{ dollars} - 400 \text{ dollars} = 200 \text{ dollars}
+     \]
+   - Thus, after spending $400 on car repairs, John has $200 left in his piggy bank.
+
+By following these steps, we have determined how much money John has remaining after his expenses.
+</reasoning>
+<answer>200</answer>

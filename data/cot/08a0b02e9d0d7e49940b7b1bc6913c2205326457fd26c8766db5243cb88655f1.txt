@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many logs Jerry gets from the trees he cuts, we need to calculate the total number of logs produced by each type of tree and then sum them up.
+
+1. **Calculate logs from pine trees:**
+   Jerry cuts down 8 pine trees, and each pine tree produces 80 logs. 
+   We calculate the total logs from pine trees as follows:
+   \[
+   \text{Logs from pine trees} = 8 \, \text{trees} \times 80 \, \text{logs/tree} = 640 \, \text{logs}
+   \]
+
+2. **Calculate logs from maple trees:**
+   Jerry cuts down 3 maple trees, and each maple tree produces 60 logs.
+   We calculate the total logs from maple trees as follows:
+   \[
+   \text{Logs from maple trees} = 3 \, \text{trees} \times 60 \, \text{logs/tree} = 180 \, \text{logs}
+   \]
+
+3. **Calculate logs from walnut trees:**
+   Jerry cuts down 4 walnut trees, and each walnut tree produces 100 logs.
+   We calculate the total logs from walnut trees as follows:
+   \[
+   \text{Logs from walnut trees} = 4 \, \text{trees} \times 100 \, \text{logs/tree} = 400 \, \text{logs}
+   \]
+
+4. **Sum the total logs from all trees:**
+   Now we add the logs from pine, maple, and walnut trees together:
+   \[
+   \text{Total logs} = \text{Logs from pine trees} + \text{Logs from maple trees} + \text{Logs from walnut trees}
+   \]
+   \[
+   \text{Total logs} = 640 \, \text{logs} + 180 \, \text{logs} + 400 \, \text{logs} = 1220 \, \text{logs}
+   \]
+
+Therefore, Jerry gets a total of 1220 logs from the trees he cut down.
+</reasoning>
+<answer>1220</answer>

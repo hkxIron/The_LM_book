@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of points that Callum earned, we first need to determine how many matches Krishna won and how many matches Callum won.
+
+1. **Determine the total number of matches played:**  
+   We know that Krishna and Callum played a total of 8 matches.
+
+2. **Calculate the number of matches Krishna won:**  
+   According to the problem, Krishna won 3/4 of the matches. 
+   To find out how many matches this represents, we calculate:
+   \[
+   \text{Matches Krishna won} = \frac{3}{4} \times 8 = 6
+   \]
+
+3. **Calculate the number of matches Callum won:**  
+   To find out how many matches Callum won, we subtract the number of matches Krishna won from the total matches played:
+   \[
+   \text{Matches Callum won} = 8 - 6 = 2
+   \]
+
+4. **Calculate the total points Callum earned:**  
+   Since Callum earns 10 points for each match he wins, we can calculate his total points by multiplying the number of matches he won by the points per match:
+   \[
+   \text{Total points Callum earned} = 2 \times 10 = 20
+   \]
+
+Therefore, Callum earned a total of 20 points in the game.
+</reasoning>
+<answer>20</answer>

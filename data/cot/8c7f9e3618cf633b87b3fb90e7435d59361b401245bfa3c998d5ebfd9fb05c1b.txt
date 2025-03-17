@@ -1,0 +1,28 @@
+<reasoning>
+First, let's determine how much pizza Daria eats. We know that Daria consumes 2.5 times the amount that Don eats. Since Don eats 80 pizzas, we can calculate Daria's consumption as follows:
+
+1. **Calculate Daria's pizza consumption**:
+   \[
+   \text{Daria's pizzas} = 2.5 \times \text{Don's pizzas} = 2.5 \times 80
+   \]
+
+   Now, we multiply:
+   \[
+   2.5 \times 80 = 200
+   \]
+   So, Daria eats 200 pizzas.
+
+2. **Calculate the total pizzas consumed by both**:
+   Now, we need to find the total amount of pizza consumed by both Daria and Don. We add the number of pizzas each has eaten:
+   \[
+   \text{Total pizzas} = \text{Daria's pizzas} + \text{Don's pizzas} = 200 + 80
+   \]
+
+   Now, we add:
+   \[
+   200 + 80 = 280
+   \]
+
+Thus, the total number of pizzas consumed by both Daria and Don is 280.
+</reasoning>
+<answer>280</answer>

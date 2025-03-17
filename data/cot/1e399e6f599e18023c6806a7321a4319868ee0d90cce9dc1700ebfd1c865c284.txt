@@ -1,0 +1,19 @@
+<reasoning>
+First, let's calculate how much Ann spent on shorts and shoes.
+
+She bought 5 pairs of shorts at $7 each, so that's 5 * 7 = $<<5*7=35>>35
+She bought 2 pairs of shoes at $10 each, so that's 2 * 10 = $<<2*10=20>>20
+
+The total cost of shorts and shoes is 35 + 20 = $<<35+20=55>>55
+
+We know that Ann spent a total of $75, so if we subtract the amount she spent on shorts and shoes from the total, we can find out how much she spent on tops.
+
+So, 75 - 55 = $<<75-55=20>>20
+
+We know she bought 4 tops, all at the same price. So to find out the price of each top, we need to divide the total cost of the tops by the number of tops.
+
+So, 20 ÷ 4 = $<<20/4=5>>5
+
+So, each top cost $5.
+</reasoning>
+<answer>5</answer>

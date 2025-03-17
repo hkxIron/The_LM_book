@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much Tim paid for the cabinet after the discount, we can follow these steps:
+
+1. **Calculate the discount amount**: We need to find 15% of the original price, which is $1200. To do this, we convert the percentage to a decimal by dividing by 100. So, 15% becomes 0.15. Then, we multiply the original price by this decimal.
+
+   \[
+   \text{Discount} = 1200 \times 0.15
+   \]
+
+   Now, calculating this:
+
+   \[
+   \text{Discount} = 1200 \times 0.15 = 180
+   \]
+
+   This tells us that the discount amount is $180.
+
+2. **Subtract the discount from the original price**: To find out how much Tim actually paid after the discount, we subtract the discount from the original price.
+
+   \[
+   \text{Amount Paid} = \text{Original Price} - \text{Discount}
+   \]
+
+   Plugging in the values we have:
+
+   \[
+   \text{Amount Paid} = 1200 - 180 = 1020
+   \]
+
+   This means Tim paid $1020 for the cabinet after applying the discount.
+
+Therefore, the amount Tim paid for the cabinet after the discount is:
+</reasoning>
+<answer>1020</answer>

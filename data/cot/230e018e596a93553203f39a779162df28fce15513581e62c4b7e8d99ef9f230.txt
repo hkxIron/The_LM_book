@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many points Donovan Mitchell needs to average per game over the next 5 games to reach his goal of averaging 30 points per game for the entire 20-game season, we will follow these steps:
+
+1. **Calculate the total points he needs to reach his goal:** 
+   Since his goal is to average 30 points across 20 games, we can calculate the total points he needs by multiplying the desired average by the total number of games.
+
+   \[
+   \text{Total points needed} = \text{Average goal} \times \text{Total games} = 30 \text{ points/game} \times 20 \text{ games} = 600 \text{ points}
+   \]
+
+   This means he needs to score a total of 600 points over the 20 games.
+
+2. **Calculate the total points he has scored so far:**
+   Since he has played 15 games and is averaging 26 points per game, we can find out how many points he has scored so far by multiplying his average by the number of games played.
+
+   \[
+   \text{Points scored so far} = \text{Average points} \times \text{Games played} = 26 \text{ points/game} \times 15 \text{ games} = 390 \text{ points}
+   \]
+
+   This means he has scored a total of 390 points in the first 15 games.
+
+3. **Calculate how many more points he needs to score to reach his goal:**
+   Now, we will subtract the points he has scored so far from the total points needed to find out how many more points he needs.
+
+   \[
+   \text{Points needed} = \text{Total points needed} - \text{Points scored so far} = 600 \text{ points} - 390 \text{ points} = 210 \text{ points}
+   \]
+
+   So, he needs to score 210 more points in the remaining 5 games.
+
+4. **Calculate the average points he needs to score in the next 5 games:**
+   To find out the average points he needs to score in the next 5 games, we divide the points needed by the number of games remaining.
+
+   \[
+   \text{Average points needed} = \frac{\text{Points needed}}{\text{Games remaining}} = \frac{210 \text{ points}}{5 \text{ games}} = 42 \text{ points/game}
+   \]
+
+   This means Donovan Mitchell needs to average 42 points per game in the next 5 games to reach his goal of averaging 30 points over the entire season.
+
+Therefore, the final result is:
+</reasoning>
+<answer>42</answer>

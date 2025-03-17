@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many more days it will take for Bert to have the same number of kangaroos as Kameron, we can follow these steps:
+
+1. **Identify the current number of kangaroos**:
+   - Kameron has 100 kangaroos.
+   - Bert has 20 kangaroos.
+
+2. **Determine the difference in the number of kangaroos**:
+   We need to find out how many more kangaroos Bert needs to reach the same number as Kameron. 
+   \[
+   \text{Difference} = \text{Kameron's kangaroos} - \text{Bert's kangaroos} = 100 - 20 = 80
+   \]
+   This means Bert needs 80 more kangaroos to have the same number as Kameron.
+
+3. **Calculate the rate at which Bert buys kangaroos**:
+   Bert buys kangaroos at a rate of 2 kangaroos per day.
+
+4. **Determine how many days it will take Bert to acquire the required number of kangaroos**:
+   To find out how many days it will take Bert to get the 80 kangaroos he needs, we divide the total number of kangaroos he needs by the rate at which he buys them:
+   \[
+   \text{Days} = \frac{\text{Difference}}{\text{Rate}} = \frac{80}{2} = 40
+   \]
+
+Therefore, it will take Bert 40 more days to have the same number of kangaroos as Kameron does now.
+</reasoning>
+<answer>40</answer>

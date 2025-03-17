@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step to find out how many kilometers Kristine traveled in total.
+
+1. **Distance Traveled by Train**: 
+   Kristine drove a train for 300 km. 
+   - This is straightforward; we note that she traveled 300 km by train.
+
+2. **Distance Traveled by Bus**: 
+   She rode the bus for half the distance of the train. 
+   - Half of 300 km is calculated as follows:
+     \[
+     \text{Bus distance} = \frac{300 \text{ km}}{2} = 150 \text{ km}
+     \]
+
+3. **Distance Traveled by Cab**: 
+   After arriving in the city, she took a cab and drove three times fewer kilometers than she rode the bus. 
+   - This means the distance traveled by cab is:
+     \[
+     \text{Cab distance} = \frac{150 \text{ km}}{3} = 50 \text{ km}
+     \]
+
+4. **Total Distance Traveled**: 
+   Now, we need to find the total distance Kristine traveled by adding the distances traveled by train, bus, and cab:
+   \[
+   \text{Total distance} = \text{Train distance} + \text{Bus distance} + \text{Cab distance}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total distance} = 300 \text{ km} + 150 \text{ km} + 50 \text{ km}
+   \]
+
+5. **Performing the Addition**: 
+   Now, let's do the addition:
+   \[
+   300 + 150 = 450
+   \]
+   Then:
+   \[
+   450 + 50 = 500
+   \]
+
+Therefore, the total distance Kristine traveled to reach her destination is 500 km.
+</reasoning>
+<answer>500</answer>

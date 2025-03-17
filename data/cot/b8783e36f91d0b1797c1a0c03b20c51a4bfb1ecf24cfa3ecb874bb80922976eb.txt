@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many more centimeters Mary needs to grow to ride Kingda Ka, we will follow these steps:
+
+1. **Determine Mary's height**: We know that Mary's brother is 180 cm tall and that Mary is 2/3 the height of her brother. To find Mary's height, we will calculate:
+   \[
+   \text{Mary's height} = \frac{2}{3} \times \text{Brother's height}
+   \]
+   Substituting in the height of her brother:
+   \[
+   \text{Mary's height} = \frac{2}{3} \times 180 \, \text{cm}
+   \]
+
+2. **Calculate Mary's height**: Now we perform the multiplication.
+   \[
+   \text{Mary's height} = \frac{2 \times 180}{3} = \frac{360}{3} = 120 \, \text{cm}
+   \]
+   So, Mary is 120 cm tall.
+
+3. **Determine the height difference to the minimum requirement**: The minimum height to ride the roller coaster is 140 cm. We now need to find out how many more centimeters Mary needs to grow to reach this height:
+   \[
+   \text{Height needed to grow} = \text{Minimum height} - \text{Mary's height}
+   \]
+   Substituting the values:
+   \[
+   \text{Height needed to grow} = 140 \, \text{cm} - 120 \, \text{cm} = 20 \, \text{cm}
+   \]
+
+Therefore, Mary needs to grow 20 more centimeters to ride Kingda Ka.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many CDs Kristine and Dawn have together, we can follow these steps:
+
+1. **Determine the number of CDs Dawn has**: We know from the problem that Dawn has 10 CDs.
+
+2. **Determine the number of CDs Kristine has**: The problem states that Kristine has 7 more CDs than Dawn. Since Dawn has 10 CDs, we can calculate the number of CDs Kristine has by adding 7 to the number of CDs Dawn has:
+   \[
+   \text{Number of CDs Kristine has} = \text{Number of CDs Dawn has} + 7 = 10 + 7 = 17
+   \]
+
+3. **Calculate the total number of CDs they have together**: Now that we know how many CDs each person has, we can find the total number of CDs by adding the number of CDs Kristine has to the number of CDs Dawn has:
+   \[
+   \text{Total CDs} = \text{Number of CDs Kristine} + \text{Number of CDs Dawn} = 17 + 10 = 27
+   \]
+
+Therefore, combining all their CDs gives us the total amount.
+</reasoning>
+<answer>27</answer>

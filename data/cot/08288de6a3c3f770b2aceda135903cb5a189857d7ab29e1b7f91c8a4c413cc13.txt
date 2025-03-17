@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we need to find out how many blind students there are, given that the number of deaf students is three times the number of blind students.
+
+1. **Identify the information provided**: 
+   - The number of deaf students is given as 180.
+   - The relationship between the number of deaf students (D) and blind students (B) is given as D = 3B.
+
+2. **Set up the equation**: 
+   - Since we know D = 180, we can substitute this into the equation:
+     \[
+     180 = 3B
+     \]
+
+3. **Solve for the number of blind students (B)**:
+   - To find B, we will divide both sides of the equation by 3:
+     \[
+     B = \frac{180}{3}
+     \]
+   - Performing the division:
+     \[
+     B = 60
+     \]
+
+4. **Calculate the total number of students**:
+   - The total number of students (T) is the sum of deaf students and blind students:
+     \[
+     T = D + B
+     \]
+   - Substituting the values we have:
+     \[
+     T = 180 + 60
+     \]
+   - Performing the addition:
+     \[
+     T = 240
+     \]
+
+Thus, the total number of students at the school is 240.
+</reasoning>
+<answer>240</answer>

@@ -1,0 +1,60 @@
+<reasoning>
+First, let's denote the capacity of the second bowl as \( C_2 \). According to the problem, the second bowl has 600 marbles, so we can express this as:
+
+\[
+C_2 = 600
+\]
+
+Next, we know that the capacity of the first bowl \( C_1 \) is equal to \( \frac{3}{4} \) of the capacity of the second bowl. We can express this relationship mathematically as follows:
+
+\[
+C_1 = \frac{3}{4} C_2
+\]
+
+Now, substituting the value of \( C_2 \) into this equation:
+
+\[
+C_1 = \frac{3}{4} \times 600
+\]
+
+Next, we will calculate \( C_1 \):
+
+\[
+C_1 = \frac{3 \times 600}{4}
+\]
+
+Calculating the multiplication:
+
+\[
+3 \times 600 = 1800
+\]
+
+Now, we divide 1800 by 4 to find \( C_1 \):
+
+\[
+C_1 = \frac{1800}{4} = 450
+\]
+
+Now we have the number of marbles in both bowls: the first bowl has 450 marbles and the second bowl has 600 marbles.
+
+To find the total number of marbles both bowls are holding together, we will add the number of marbles in both bowls:
+
+\[
+\text{Total marbles} = C_1 + C_2
+\]
+
+Substituting the values we found:
+
+\[
+\text{Total marbles} = 450 + 600
+\]
+
+Now we will calculate the total:
+
+\[
+\text{Total marbles} = 1050
+\]
+
+Therefore, the total number of marbles both bowls are holding together is:
+</reasoning>
+<answer>1050</answer>

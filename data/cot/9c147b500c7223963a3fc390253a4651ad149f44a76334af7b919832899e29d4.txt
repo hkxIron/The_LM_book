@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many pieces of clothing Brie needs to put in the washer, we first need to determine how many of each type of clothing she has in her hamper based on the percentages given.
+
+1. **Calculating the number of blouses in the hamper:**
+   - Brie has a total of 12 blouses.
+   - Today, she has 75% of her blouses in the hamper.
+   - To find the number of blouses in the hamper, we calculate 75% of 12.
+   \[
+   0.75 \times 12 = 9
+   \]
+   So, there are 9 blouses in the hamper.
+
+2. **Calculating the number of skirts in the hamper:**
+   - Brie has a total of 6 skirts.
+   - Today, she has 50% of her skirts in the hamper.
+   - To find the number of skirts in the hamper, we calculate 50% of 6.
+   \[
+   0.50 \times 6 = 3
+   \]
+   So, there are 3 skirts in the hamper.
+
+3. **Calculating the number of slacks in the hamper:**
+   - Brie has a total of 8 slacks.
+   - Today, she has 25% of her slacks in the hamper.
+   - To find the number of slacks in the hamper, we calculate 25% of 8.
+   \[
+   0.25 \times 8 = 2
+   \]
+   So, there are 2 slacks in the hamper.
+
+4. **Calculating the total number of clothing pieces in the hamper:**
+   Now, we will add the number of blouses, skirts, and slacks in the hamper to find the total number of pieces of clothing that need to be washed.
+   \[
+   9 \text{ (blouses)} + 3 \text{ (skirts)} + 2 \text{ (slacks)} = 14
+   \]
+
+Therefore, Brie needs to put a total of 14 pieces of clothing in the washer.
+</reasoning>
+<answer>14</answer>

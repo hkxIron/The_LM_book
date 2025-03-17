@@ -1,0 +1,65 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding Wanda's Contribution**:
+   - We know that Wanda brings 90 pieces of bread.
+   - According to the problem, Wanda brings three times as many pieces of bread as treats. 
+   - Let's denote the number of treats Wanda brings as \( T_W \). So, we can set up the equation:
+     \[
+     3T_W = 90
+     \]
+   - To find \( T_W \), we divide both sides by 3:
+     \[
+     T_W = \frac{90}{3} = 30
+     \]
+
+2. **Calculating Total Contributions of Wanda**:
+   - Now we know that Wanda brings 90 pieces of bread and 30 treats.
+   - The total number of items Wanda brought is:
+     \[
+     \text{Total}_W = \text{Bread} + \text{Treats} = 90 + 30 = 120
+     \]
+
+3. **Understanding Jane's Contribution**:
+   - The problem states that Jane brings 75% as many pieces of bread as treats.
+   - Let’s denote the number of treats Jane brings as \( T_J \).
+   - Therefore, the number of pieces of bread Jane brings can be expressed as:
+     \[
+     B_J = 0.75 T_J
+     \]
+
+4. **Finding the Number of Treats Jane Brings**:
+   - We know from Wanda's contribution that she brings half as many treats as Jane. Thus:
+     \[
+     T_W = \frac{1}{2} T_J
+     \]
+   - Since we found that \( T_W = 30 \), we can substitute this into the equation:
+     \[
+     30 = \frac{1}{2} T_J
+     \]
+   - To find \( T_J \), we multiply both sides by 2:
+     \[
+     T_J = 30 \times 2 = 60
+     \]
+
+5. **Calculating Bread Brought by Jane**:
+   - Now that we know Jane brings 60 treats, we can find the number of pieces of bread she brings using the equation we set earlier:
+     \[
+     B_J = 0.75 T_J = 0.75 \times 60 = 45
+     \]
+
+6. **Calculating Total Contributions of Jane**:
+   - The total number of items Jane brought is:
+     \[
+     \text{Total}_J = B_J + T_J = 45 + 60 = 105
+     \]
+
+7. **Calculating the Total Number of Pieces of Bread and Treats**:
+   - Now we can find the overall total brought by both Wanda and Jane:
+     \[
+     \text{Total} = \text{Total}_W + \text{Total}_J = 120 + 105 = 225
+     \]
+
+Therefore, the total number of pieces of bread and treats that Wanda and Jane brought to the zoo is:
+</reasoning>
+<answer>225</answer>

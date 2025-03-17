@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Total Money**: Monica and Sheila have a total of $50 from their mother.
+
+2. **Cost of Toilet Paper**: The toilet paper costs $12. 
+
+   \[
+   \text{Remaining money after buying toilet paper} = 50 - 12 = 38
+   \]
+
+3. **Cost of Groceries**: The problem states that the groceries cost twice the cost of the toilet paper. 
+
+   \[
+   \text{Cost of groceries} = 2 \times 12 = 24
+   \]
+
+4. **Money Remaining After Groceries**: Now, subtract the cost of groceries from the remaining money after buying the toilet paper:
+
+   \[
+   \text{Remaining money after groceries} = 38 - 24 = 14
+   \]
+
+5. **Total Money Left to Spend**: They have $14 left to spend on themselves. 
+
+6. **Cost of Boots**: Each pair of boots costs 3 times the amount they have left:
+
+   \[
+   \text{Cost of one pair of boots} = 3 \times 14 = 42
+   \]
+
+   Since they want to buy two pairs of boots, the total cost becomes:
+
+   \[
+   \text{Total cost for two pairs of boots} = 2 \times 42 = 84
+   \]
+
+7. **Calculating the Shortfall**: Now we will find out how much more money they need to buy the boots. They currently have $14, but the total cost for the boots is $84. 
+
+   \[
+   \text{Amount needed} = 84 - 14 = 70
+   \]
+
+8. **Dividing the Shortfall Between Monica and Sheila**: Since they need to share the additional money evenly, we divide the shortfall by 2:
+
+   \[
+   \text{Amount each needs to add} = \frac{70}{2} = 35
+   \]
+
+So, Monica and Sheila each need to add $35 of their own money in order to buy two pairs of boots.
+</reasoning>
+<answer>35</answer>

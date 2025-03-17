@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, we'll follow these steps:
+
+1. **Count the fish on each day**: We know that on day one, Mabel counts 15 fish. On day two, she counts three times as many as she did on day one. So, we calculate the number of fish counted on day two:
+   \[
+   \text{Fish on day two} = 3 \times \text{Fish on day one} = 3 \times 15 = 45
+   \]
+
+2. **Total fish counted over the two days**: Now we'll add the number of fish counted on both days to find the total:
+   \[
+   \text{Total fish} = \text{Fish on day one} + \text{Fish on day two} = 15 + 45 = 60
+   \]
+
+3. **Calculate the number of sharks**: We know that 25% of the fish counted will be sharks. Therefore, we can calculate the number of sharks by taking 25% of the total fish:
+   \[
+   \text{Number of sharks} = 0.25 \times \text{Total fish} = 0.25 \times 60 = 15
+   \]
+
+Thus, Mabel counted a total of 15 sharks over the two days.
+</reasoning>
+<answer>15</answer>

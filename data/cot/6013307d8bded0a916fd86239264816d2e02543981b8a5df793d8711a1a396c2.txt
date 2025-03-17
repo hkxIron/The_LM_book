@@ -1,0 +1,30 @@
+<reasoning>
+To find the total weight of the lorry when it is loaded with bags of apples, we need to follow these steps:
+
+1. **Identify the weight of the lorry when empty**: We are given that the lorry weighs 500 pounds when it is empty.
+
+2. **Calculate the total weight of the bags of apples**: We know that there are 20 bags of apples, and each bag weighs 60 pounds. To find the total weight of the apples, we multiply the number of bags by the weight of each bag:
+   \[
+   \text{Weight of apples} = \text{Number of bags} \times \text{Weight per bag} = 20 \times 60
+   \]
+
+3. **Perform the multiplication**: 
+   \[
+   20 \times 60 = 1200 \text{ pounds}
+   \]
+   This tells us that the total weight of the 20 bags of apples is 1200 pounds.
+
+4. **Add the weight of the empty lorry to the weight of the apples**: Now, we need to find the total weight of the lorry when it is loaded. We do this by adding the weight of the empty lorry to the total weight of the apples:
+   \[
+   \text{Total weight} = \text{Weight of lorry} + \text{Weight of apples} = 500 + 1200
+   \]
+
+5. **Perform the addition**:
+   \[
+   500 + 1200 = 1700 \text{ pounds}
+   \]
+   This gives us the total weight of the lorry when it is loaded with the apples.
+
+Therefore, the total weight of the lorry loaded with 20 bags of apples is 1700 pounds.
+</reasoning>
+<answer>1700</answer>

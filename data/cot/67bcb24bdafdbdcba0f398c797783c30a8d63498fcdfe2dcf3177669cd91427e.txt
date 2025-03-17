@@ -1,0 +1,32 @@
+<reasoning>
+Let's start by calculating the total cost of the hamburgers that Annie buys. 
+
+1. **Calculating the cost of hamburgers:**
+   - Annie buys 8 hamburgers, and each hamburger costs $4.
+   - To find the total cost for the hamburgers, we multiply the number of hamburgers by the price per hamburger:
+     \[
+     \text{Total cost of hamburgers} = 8 \text{ hamburgers} \times 4 \text{ dollars/hamburger} = 32 \text{ dollars}
+     \]
+
+2. **Calculating the cost of milkshakes:**
+   - Next, Annie buys 6 milkshakes, and each milkshake costs $3.
+   - To find the total cost for the milkshakes, we multiply the number of milkshakes by the price per milkshake:
+     \[
+     \text{Total cost of milkshakes} = 6 \text{ milkshakes} \times 3 \text{ dollars/milkshake} = 18 \text{ dollars}
+     \]
+
+3. **Calculating the total expenditure:**
+   - Now we need to find the total amount Annie spends on both hamburgers and milkshakes. We add the total cost of hamburgers to the total cost of milkshakes:
+     \[
+     \text{Total expenditure} = 32 \text{ dollars} + 18 \text{ dollars} = 50 \text{ dollars}
+     \]
+
+4. **Calculating the remaining amount:**
+   - Annie started with $120. To find out how much money she has left after her purchases, we subtract her total expenditure from her initial amount:
+     \[
+     \text{Money left} = 120 \text{ dollars} - 50 \text{ dollars} = 70 \text{ dollars}
+     \]
+
+Therefore, after buying 8 hamburgers and 6 milkshakes, Annie has $70 left.
+</reasoning>
+<answer>70</answer>

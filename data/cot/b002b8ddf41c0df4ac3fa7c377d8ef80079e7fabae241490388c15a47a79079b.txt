@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many precious stones agate has**: The problem states that agate has 30 precious stones.
+
+2. **Determine how many precious stones olivine has**: The problem indicates that olivine has 5 more precious stones than agate. Since agate has 30 precious stones, we can calculate the number of precious stones olivine has as follows:
+   \[
+   \text{Olivine} = \text{Agate} + 5 = 30 + 5 = 35
+   \]
+   Thus, olivine has 35 precious stones.
+
+3. **Calculate the number of precious stones diamond has**: According to the problem, diamond has 11 more precious stones than olivine. We can find this value using the number of precious stones olivine has:
+   \[
+   \text{Diamond} = \text{Olivine} + 11 = 35 + 11 = 46
+   \]
+   Therefore, diamond has 46 precious stones.
+
+4. **Find the total number of precious stones**: Now, we need to find the total number of precious stones by adding the precious stones of agate, olivine, and diamond:
+   \[
+   \text{Total} = \text{Agate} + \text{Olivine} + \text{Diamond} = 30 + 35 + 46
+   \]
+   Let's calculate this:
+   \[
+   \text{Total} = 30 + 35 = 65
+   \]
+   Then adding diamond's stones:
+   \[
+   \text{Total} = 65 + 46 = 111
+   \]
+
+So, the total number of precious stones they have together is 111.
+</reasoning>
+<answer>111</answer>

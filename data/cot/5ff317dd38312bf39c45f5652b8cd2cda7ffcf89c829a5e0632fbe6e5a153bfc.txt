@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the number of bats Randy has as \( b \).
+
+According to the problem, Randy has 1 more baseball glove than 7 times the number of bats he has. This can be expressed with the equation:
+
+\[
+\text{Number of gloves} = 7 \times \text{Number of bats} + 1
+\]
+
+We know that Randy has 29 baseball gloves. Therefore, we can set up the equation as follows:
+
+\[
+29 = 7b + 1
+\]
+
+Now, we need to solve for \( b \). First, we will isolate \( 7b \) by subtracting 1 from both sides of the equation:
+
+\[
+29 - 1 = 7b
+\]
+\[
+28 = 7b
+\]
+
+Next, we will solve for \( b \) by dividing both sides of the equation by 7:
+
+\[
+b = \frac{28}{7}
+\]
+\[
+b = 4
+\]
+
+Thus, Randy has 4 bats.
+</reasoning>
+<answer>4</answer>

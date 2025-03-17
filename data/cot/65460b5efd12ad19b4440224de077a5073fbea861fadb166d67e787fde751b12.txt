@@ -1,0 +1,69 @@
+<reasoning>
+Let's define the variables for the number of cans each person brought:
+
+- Let \( R \) be the number of cans Rachel brought in.
+- Then Jaydon, who brings in 5 more than twice what Rachel brought in, can be represented as \( J = 2R + 5 \).
+- Mark brings in 4 times as many cans as Jaydon, so we can represent Mark's contribution as \( M = 4J \).
+
+We know the total number of cans brought in by all three is 135, so we can set up the equation:
+
+\[
+R + J + M = 135
+\]
+
+Now, substituting the expressions for \( J \) and \( M \) into the total:
+
+\[
+R + (2R + 5) + 4(2R + 5) = 135
+\]
+
+Let's simplify this step by step:
+
+1. First, simplify \( M \):
+   \[
+   M = 4(2R + 5) = 8R + 20
+   \]
+
+2. Now substitute \( J \) and \( M \) back into the total:
+   \[
+   R + (2R + 5) + (8R + 20) = 135
+   \]
+
+3. Combine like terms:
+   \[
+   R + 2R + 5 + 8R + 20 = 135
+   \]
+   \[
+   11R + 25 = 135
+   \]
+
+4. Now, isolate \( R \) by subtracting 25 from both sides:
+   \[
+   11R = 135 - 25
+   \]
+   \[
+   11R = 110
+   \]
+
+5. Divide by 11 to solve for \( R \):
+   \[
+   R = \frac{110}{11} = 10
+   \]
+
+Now that we know Rachel brought in 10 cans, we can find how many Jaydon brought in:
+
+\[
+J = 2R + 5 = 2(10) + 5 = 20 + 5 = 25
+\]
+
+Next, we can find how many cans Mark brought in:
+
+\[
+M = 4J = 4(25) = 100
+\]
+
+So, Mark brought in 100 cans. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+To find the number of goals each of the two players scored, we need to follow these steps:
+
+1. **Identify the total goals scored by the two players**: We know that the goals scored by the two players account for 20% of all goals scored in the league. Since we are told that the total number of goals scored in the league against Barca is 300, we can calculate the total goals scored by the two players.
+
+   We can use the formula for percentage to find this:
+   \[
+   \text{Goals scored by the two players} = 20\% \times \text{Total goals}
+   \]
+   Plugging in the total goals:
+   \[
+   \text{Goals scored by the two players} = 0.20 \times 300
+   \]
+
+2. **Calculate the goals scored by the two players**:
+   \[
+   0.20 \times 300 = 60
+   \]
+
+   This means the two players together scored 60 goals.
+
+3. **Determine the number of goals each player scored**: Since we know they scored an equal number of goals, we divide the total goals scored by the two players by 2:
+   \[
+   \text{Goals per player} = \frac{60}{2}
+   \]
+
+4. **Calculate the goals per player**:
+   \[
+   \frac{60}{2} = 30
+   \]
+
+Therefore, each player scored 30 goals.
+</reasoning>
+<answer>30</answer>

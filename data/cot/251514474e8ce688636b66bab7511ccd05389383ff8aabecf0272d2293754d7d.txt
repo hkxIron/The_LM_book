@@ -1,0 +1,26 @@
+<reasoning>
+To determine how many men with beards have been Scrabble champions in the last 25 years, we will follow these steps:
+
+1. **Calculate the total number of champions**: Since there is one champion per year for 25 years, the total number of champions is:
+   \[
+   \text{Total champions} = 25 \text{ years}
+   \]
+
+2. **Determine the number of women champions**: Given that 60% of the champions have been women, we can calculate the number of women champions as follows:
+   \[
+   \text{Number of women champions} = 60\% \text{ of } 25 = 0.6 \times 25 = 15
+   \]
+
+3. **Calculate the number of men champions**: Since the rest of the champions are men, we find the number of men champions by subtracting the number of women champions from the total number of champions:
+   \[
+   \text{Number of men champions} = \text{Total champions} - \text{Number of women champions} = 25 - 15 = 10
+   \]
+
+4. **Determine the number of men with beards**: We are told that 40% of the men had a beard. Therefore, we can calculate the number of men with beards:
+   \[
+   \text{Number of men with beards} = 40\% \text{ of men champions} = 0.4 \times 10 = 4
+   \]
+
+Thus, the number of men with beards who have been Scrabble champions in the last 25 years is 4.
+</reasoning>
+<answer>4</answer>

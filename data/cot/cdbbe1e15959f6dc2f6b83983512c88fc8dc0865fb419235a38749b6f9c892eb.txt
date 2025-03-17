@@ -1,0 +1,29 @@
+<reasoning>
+To determine how many cans of paint Lucille needs, we first need to calculate the total area of the walls she plans to paint.
+
+1. **Calculate the area of the first two walls:**
+   Each of the two walls is 3 meters wide and 2 meters tall.
+   - Area of one wall = width × height = 3 m × 2 m = 6 square meters.
+   - Therefore, the area of the two walls = 2 × 6 square meters = 12 square meters.
+
+2. **Calculate the area of the third wall:**
+   The third wall is 5 meters wide and 2 meters tall.
+   - Area of the third wall = width × height = 5 m × 2 m = 10 square meters.
+
+3. **Calculate the area of the fourth wall:**
+   The fourth wall is 4 meters wide and 2 meters tall.
+   - Area of the fourth wall = width × height = 4 m × 2 m = 8 square meters.
+
+4. **Calculate the total area of all four walls:**
+   Now we can add the areas of all the walls together:
+   - Total area = area of first two walls + area of third wall + area of fourth wall
+   - Total area = 12 square meters + 10 square meters + 8 square meters = 30 square meters.
+
+5. **Determine how many cans of paint are needed:**
+   Each can of paint covers 2 square meters.
+   - To find the number of cans needed, divide the total area by the coverage of one can:
+   - Number of cans needed = Total area / Coverage per can = 30 square meters / 2 square meters per can = 15 cans.
+
+Therefore, Lucille needs 15 cans of paint to cover all the walls.
+</reasoning>
+<answer>15</answer>

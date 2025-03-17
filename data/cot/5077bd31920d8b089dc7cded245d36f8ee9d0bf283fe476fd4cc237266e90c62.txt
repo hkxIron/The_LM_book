@@ -1,0 +1,19 @@
+<reasoning>
+To find out how many movies are shown in total throughout the day at the movie theater, we can follow these steps:
+
+1. **Determine the number of movie slots available per screen**:
+   Each movie lasts 2 hours, and the theater is open for 8 hours. To find out how many 2-hour slots fit into 8 hours, we divide the total hours by the duration of each movie:
+   \[
+   \text{Number of slots per screen} = \frac{8 \text{ hours}}{2 \text{ hours/movie}} = 4 \text{ movies}
+   \]
+   This means each screen can show 4 movies in a day.
+
+2. **Calculate the total number of movies shown**:
+   Since there are 6 screens in the theater, and each screen shows 4 movies, we can find the total number of movies by multiplying the number of screens by the number of movies each screen can show:
+   \[
+   \text{Total movies} = 6 \text{ screens} \times 4 \text{ movies/screen} = 24 \text{ movies}
+   \]
+
+Thus, the movie theater shows a total of 24 movies throughout the day.
+</reasoning>
+<answer>24</answer>

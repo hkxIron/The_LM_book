@@ -1,0 +1,37 @@
+<reasoning>
+To determine how much Lovely will earn from selling her books, we will break down the problem step by step.
+
+1. **Identify the total number of books**: Lovely has a total of 10 books.
+
+2. **Calculate the number of books that can be sold for $2.50**: According to the problem, two-fifths of Lovely's books can be sold for $2.50 each.
+   \[
+   \text{Number of books sold for } \$2.50 = \frac{2}{5} \times 10 = 4
+   \]
+   This calculation shows that 4 of her books can be sold for $2.50 each.
+
+3. **Calculate the number of books that can be sold for $2**: The remaining books will be sold for $2 each. We first need to find out how many books are left after selling the 4 books.
+   \[
+   \text{Number of books sold for } \$2 = 10 - 4 = 6
+   \]
+   This means 6 of her books can be sold for $2 each.
+
+4. **Calculate the total earnings from the books sold for $2.50**: We multiply the number of books sold at this price by the price per book.
+   \[
+   \text{Earnings from } \$2.50 \text{ books} = 4 \times 2.50 = 10
+   \]
+   Lovely will earn $10 from selling the 4 books at $2.50 each.
+
+5. **Calculate the total earnings from the books sold for $2**: Similarly, we multiply the number of books sold at this price by the price per book.
+   \[
+   \text{Earnings from } \$2 \text{ books} = 6 \times 2 = 12
+   \]
+   Lovely will earn $12 from selling the 6 books at $2 each.
+
+6. **Calculate the total earnings from all sold books**: Finally, we add the earnings from both sets of books together.
+   \[
+   \text{Total earnings} = 10 + 12 = 22
+   \]
+
+Therefore, Lovely will earn a total of $22 if all 10 books were sold.
+</reasoning>
+<answer>22</answer>

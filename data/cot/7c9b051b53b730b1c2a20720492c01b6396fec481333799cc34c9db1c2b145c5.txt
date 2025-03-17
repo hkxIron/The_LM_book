@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem, we need to determine how many boys and girls were in the stadium initially, how many left, and how many remained.
+
+1. **Calculate the number of boys:**
+   We know that there were 600 people in total and 240 of them were girls. Therefore, we can find the number of boys by subtracting the number of girls from the total number of people.
+
+   \[
+   \text{Number of boys} = \text{Total people} - \text{Number of girls} = 600 - 240 = 360
+   \]
+
+2. **Calculate how many boys left:**
+   According to the problem, one-fourth of the boys left early. We find this by calculating one-fourth of 360.
+
+   \[
+   \text{Boys that left} = \frac{1}{4} \times 360 = 90
+   \]
+
+3. **Calculate how many girls left:**
+   The problem states that one-eighth of the girls left early. We calculate one-eighth of 240.
+
+   \[
+   \text{Girls that left} = \frac{1}{8} \times 240 = 30
+   \]
+
+4. **Calculate the total number of people who left:**
+   Now, we can find the total number of people who left the stadium by adding the number of boys and girls that left.
+
+   \[
+   \text{Total that left} = \text{Boys that left} + \text{Girls that left} = 90 + 30 = 120
+   \]
+
+5. **Calculate the number of people remaining:**
+   Finally, we find the number of people that remained in the stadium by subtracting the total number of people that left from the initial total.
+
+   \[
+   \text{People remaining} = \text{Total people} - \text{Total that left} = 600 - 120 = 480
+   \]
+
+Therefore, the final answer is:
+</reasoning>
+<answer>480</answer>

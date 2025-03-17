@@ -1,0 +1,34 @@
+<reasoning>
+To determine the distance from Missouri to New York when driving, we need to follow these steps:
+
+1. **Calculate the driving distance between Arizona and New York.**
+   The flying distance is given as 2,000 miles. When driving, the distance increases by 40%. To find the driving distance, we can calculate it as follows:
+   \[
+   \text{Driving distance} = \text{Flying distance} + (0.40 \times \text{Flying distance})
+   \]
+   This can be simplified to:
+   \[
+   \text{Driving distance} = 2,000 + (0.40 \times 2,000)
+   \]
+   Now, we calculate \(0.40 \times 2,000\):
+   \[
+   0.40 \times 2,000 = 800
+   \]
+   So, the driving distance is:
+   \[
+   \text{Driving distance} = 2,000 + 800 = 2,800 \text{ miles}
+   \]
+
+2. **Determine the distance from Missouri to New York when driving.**
+   Missouri is stated to be midway between Arizona and New York. Therefore, the distance from Missouri to New York can be calculated by taking half of the driving distance:
+   \[
+   \text{Distance from Missouri to New York} = \frac{\text{Driving distance}}{2}
+   \]
+   Substituting the driving distance we calculated:
+   \[
+   \text{Distance from Missouri to New York} = \frac{2,800}{2} = 1,400 \text{ miles}
+   \]
+
+Thus, the distance from Missouri to New York, when driving, is 1,400 miles.
+</reasoning>
+<answer>1400</answer>

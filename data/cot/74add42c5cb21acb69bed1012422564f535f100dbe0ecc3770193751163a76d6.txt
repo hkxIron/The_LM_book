@@ -1,0 +1,34 @@
+<reasoning>
+First, let's determine how many doughnuts Samuel and Cathy bought in total. 
+
+1. **Calculating the number of doughnuts**: 
+   - Samuel bought 2 dozen doughnuts. Since 1 dozen equals 12, we can calculate the total number of doughnuts Samuel bought:
+     \[
+     2 \text{ dozen} = 2 \times 12 = 24 \text{ doughnuts}
+     \]
+   - Cathy bought 3 dozen doughnuts. We calculate the total number of doughnuts Cathy bought:
+     \[
+     3 \text{ dozen} = 3 \times 12 = 36 \text{ doughnuts}
+     \]
+
+2. **Finding the total number of doughnuts**: 
+   Now, we add the number of doughnuts Samuel and Cathy bought together:
+   \[
+   \text{Total doughnuts} = 24 + 36 = 60 \text{ doughnuts}
+   \]
+
+3. **Sharing the doughnuts evenly**: 
+   They planned to share these 60 doughnuts with their 8 other friends, which makes a total of:
+   \[
+   2 \text{ (Samuel and Cathy)} + 8 \text{ (friends)} = 10 \text{ people}
+   \]
+
+4. **Calculating the number of doughnuts per person**: 
+   To find out how many doughnuts each person will receive, we divide the total number of doughnuts by the total number of people:
+   \[
+   \text{Doughnuts per person} = \frac{60 \text{ doughnuts}}{10 \text{ people}} = 6 \text{ doughnuts per person}
+   \]
+
+Thus, each person, including Samuel and Cathy, will receive 6 doughnuts.
+</reasoning>
+<answer>6</answer>

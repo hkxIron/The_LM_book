@@ -1,0 +1,29 @@
+<reasoning>
+Let's break this down step by step:
+
+1. **Identify the total land available**: Job has a total of 150 hectares of land.
+
+2. **Subtract the land occupied by the house and farm machinery**: 
+   - Job's house and farm machinery occupy 25 hectares. 
+   - So, we calculate the remaining land after accounting for this:
+     \[
+     150 \text{ hectares} - 25 \text{ hectares} = 125 \text{ hectares}
+     \]
+
+3. **Subtract the land reserved for future expansion**: 
+   - Job has reserved 15 hectares for future expansion. 
+   - We subtract this from the remaining land:
+     \[
+     125 \text{ hectares} - 15 \text{ hectares} = 110 \text{ hectares}
+     \]
+
+4. **Subtract the land dedicated to rearing cattle**: 
+   - Job dedicates 40 hectares to rearing cattle. 
+   - We now subtract this from the remaining land:
+     \[
+     110 \text{ hectares} - 40 \text{ hectares} = 70 \text{ hectares}
+     \]
+
+5. **Conclusion**: The remaining land is used for crop production. Therefore, Job uses 70 hectares of land for growing crops.
+</reasoning>
+<answer>70</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To find the average distance traveled per day, we need to follow these steps:
+
+1. **Calculate the total distance traveled**: We will add the distances traveled on each day together.
+   - Distance on Monday: 12 miles
+   - Distance on Tuesday: 18 miles
+   - Distance on Wednesday: 21 miles
+
+   Now we add these distances:
+   \[
+   \text{Total Distance} = 12 + 18 + 21
+   \]
+
+2. **Perform the addition**: Let's calculate the total distance.
+   - First, add 12 and 18:
+   \[
+   12 + 18 = 30
+   \]
+   - Now, add 30 and 21:
+   \[
+   30 + 21 = 51
+   \]
+
+   So, the total distance traveled is 51 miles.
+
+3. **Count the number of days**: We need to determine how many days the vehicle was driven. In this case, it was driven for 3 days (Monday, Tuesday, and Wednesday).
+
+4. **Calculate the average distance**: The average distance is calculated by dividing the total distance by the number of days:
+   \[
+   \text{Average Distance} = \frac{\text{Total Distance}}{\text{Number of Days}} = \frac{51}{3}
+   \]
+
+5. **Perform the division**: Now, let's calculate this division.
+   \[
+   \frac{51}{3} = 17
+   \]
+
+Therefore, the average distance traveled per day is 17 miles.
+</reasoning>
+<answer>17</answer>

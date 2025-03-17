@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Determine how many action figures there are**: We know that ¼ of the toys in the box are action figures. Since there are a total of 24 toys, we can calculate the number of action figures by multiplying the total number of toys by ¼.
+
+   \[
+   \text{Number of action figures} = 24 \times \frac{1}{4}
+   \]
+
+   Calculating this gives:
+
+   \[
+   \text{Number of action figures} = 24 \div 4 = 6
+   \]
+
+   So, there are 6 action figures.
+
+2. **Calculate the number of dolls**: Since the remaining toys are all dolls, we can find the number of dolls by subtracting the number of action figures from the total number of toys.
+
+   \[
+   \text{Number of dolls} = \text{Total toys} - \text{Number of action figures}
+   \]
+   
+   Substituting the values we have:
+
+   \[
+   \text{Number of dolls} = 24 - 6
+   \]
+
+   This simplifies to:
+
+   \[
+   \text{Number of dolls} = 18
+   \]
+
+Therefore, the total number of dolls in the box is 18.
+</reasoning>
+<answer>18</answer>

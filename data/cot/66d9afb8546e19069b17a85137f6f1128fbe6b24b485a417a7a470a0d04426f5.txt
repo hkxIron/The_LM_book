@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Start at the First Floor**: Earl starts delivering newspapers on the first floor. We can denote the first floor as floor 1.
+
+2. **Go Up 5 Floors**: From the first floor, if Earl goes up 5 floors, he will be at:
+   \[
+   1 + 5 = 6 \text{ (6th floor)}
+   \]
+
+3. **Go Down 2 Floors**: Next, he goes down 2 floors from the 6th floor:
+   \[
+   6 - 2 = 4 \text{ (4th floor)}
+   \]
+
+4. **Go Up 7 Floors**: Then, he goes up 7 floors from the 4th floor:
+   \[
+   4 + 7 = 11 \text{ (11th floor)}
+   \]
+
+5. **Distance to the Top of the Building**: We are told that at the 11th floor, he is 9 floors away from the top of the building. Let’s denote the total number of floors in the building as \( x \). Therefore, we can express this relationship as:
+   \[
+   x - 11 = 9
+   \]
+
+6. **Solve for \( x \)**: To find the total number of floors \( x \), we can add 11 to both sides of the equation:
+   \[
+   x = 9 + 11
+   \]
+   \[
+   x = 20
+   \]
+
+So, the total number of floors in the building is 20.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>20</answer>

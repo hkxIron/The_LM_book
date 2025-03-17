@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many sheets of paper Barbara removed from the chest of drawers, we need to calculate the total number of sheets in each type of paper bundle and then sum them up.
+
+1. **Calculate the number of sheets from colored paper:**
+   - Barbara has 3 bundles of colored paper.
+   - Each bundle contains 2 sheets.
+   - Therefore, the total number of sheets of colored paper is:
+     \[
+     3 \text{ bundles} \times 2 \text{ sheets/bundle} = 6 \text{ sheets}
+     \]
+
+2. **Calculate the number of sheets from white paper:**
+   - Barbara has 2 bunches of white paper.
+   - Each bunch contains 4 sheets.
+   - Therefore, the total number of sheets of white paper is:
+     \[
+     2 \text{ bunches} \times 4 \text{ sheets/bunch} = 8 \text{ sheets}
+     \]
+
+3. **Calculate the number of sheets from scrap paper:**
+   - Barbara has 5 heaps of scrap paper.
+   - Each heap contains 20 sheets.
+   - Therefore, the total number of sheets of scrap paper is:
+     \[
+     5 \text{ heaps} \times 20 \text{ sheets/heap} = 100 \text{ sheets}
+     \]
+
+4. **Add all the sheets together:**
+   Now that we have the number of sheets from each type of paper, we can sum them up:
+   \[
+   6 \text{ sheets (colored)} + 8 \text{ sheets (white)} + 100 \text{ sheets (scrap)} = 114 \text{ sheets}
+   \]
+
+Therefore, the total number of sheets of paper that Barbara removed from the chest of drawers is:
+</reasoning>
+<answer>114</answer>

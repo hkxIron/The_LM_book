@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many more pancakes Luther needs to make so that everyone can have a second pancake, we can follow these steps:
+
+1. **Determine the total number of pancakes needed for everyone to have a second pancake.** 
+   Since there are 8 people in Luther's family and each person is to have 2 pancakes, we calculate the total pancakes needed by multiplying the number of people by the number of pancakes each person will have:
+   \[
+   \text{Total pancakes needed} = 8 \text{ people} \times 2 \text{ pancakes/person} = 16 \text{ pancakes}
+   \]
+
+2. **Calculate how many pancakes Luther has already made.**
+   Luther has already made 12 pancakes.
+
+3. **Calculate how many more pancakes are needed.**
+   To find out how many more pancakes Luther needs to make, we subtract the number of pancakes he has already made from the total number of pancakes needed:
+   \[
+   \text{Pancakes needed} = \text{Total pancakes needed} - \text{Pancakes made}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Pancakes needed} = 16 \text{ pancakes} - 12 \text{ pancakes} = 4 \text{ pancakes}
+   \]
+
+Therefore, Luther needs to make 4 more pancakes so that everyone can have a second pancake.
+</reasoning>
+<answer>4</answer>

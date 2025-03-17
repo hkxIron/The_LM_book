@@ -1,0 +1,100 @@
+<reasoning>
+Let's denote the five numbers of Brad's zip code as \( a, b, c, d, e \).
+
+1. **Understanding the conditions:**
+   - The numbers add up to 10: 
+     \[
+     a + b + c + d + e = 10
+     \]
+   - The first and second numbers are the same:
+     \[
+     a = b
+     \]
+   - The third number is zero:
+     \[
+     c = 0
+     \]
+   - The fourth number is double the first number:
+     \[
+     d = 2a
+     \]
+   - The fourth and fifth numbers add up to 8:
+     \[
+     d + e = 8
+     \]
+
+2. **Substituting known values:**
+   Start by substituting \( b \) and \( c \) into the first equation:
+   \[
+   a + a + 0 + d + e = 10
+   \]
+   This simplifies to:
+   \[
+   2a + d + e = 10
+   \]
+
+3. **Using the relationship between \( d \) and \( a \):**
+   Substitute \( d = 2a \) into the equation:
+   \[
+   2a + 2a + e = 10
+   \]
+   This simplifies to:
+   \[
+   4a + e = 10
+   \]
+
+4. **Substituting \( d \) into the equation for \( e \):**
+   We also have the equation \( d + e = 8 \):
+   Substitute \( d = 2a \):
+   \[
+   2a + e = 8
+   \]
+
+5. **Solving for \( e \):**
+   Now, we have two equations:
+   1. \( 4a + e = 10 \)
+   2. \( 2a + e = 8 \)
+
+   We can solve these equations simultaneously. First, from the second equation, we can express \( e \):
+   \[
+   e = 8 - 2a
+   \]
+
+6. **Substituting \( e \) into the first equation:**
+   Now substitute \( e = 8 - 2a \) into the first equation:
+   \[
+   4a + (8 - 2a) = 10
+   \]
+   Simplifying gives:
+   \[
+   4a + 8 - 2a = 10
+   \]
+   This simplifies to:
+   \[
+   2a + 8 = 10
+   \]
+   Subtracting 8 from both sides:
+   \[
+   2a = 2
+   \]
+   Dividing by 2:
+   \[
+   a = 1
+   \]
+
+7. **Finding the other values:**
+   Now we can find \( b, c, d, \) and \( e \):
+   - \( b = a = 1 \)
+   - \( c = 0 \)
+   - \( d = 2a = 2 \times 1 = 2 \)
+   - \( e = 8 - 2a = 8 - 2 \times 1 = 6 \)
+
+8. **Writing the zip code:**
+   The zip code consists of the numbers \( a, b, c, d, e \):
+   \[
+   (1, 1, 0, 2, 6)
+   \]
+
+Thus, Brad's zip code is 11026.
+</reasoning>
+<answer>11026</answer>

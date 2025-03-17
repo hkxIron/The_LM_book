@@ -1,0 +1,47 @@
+<reasoning>
+To solve this problem, we will break it down step by step.
+
+1. **Determine the number of girls and boys in the class:**
+   - The total number of students in June's class is 25.
+   - 60% of the students are girls. To find the number of girls:
+     \[
+     \text{Number of girls} = 60\% \times 25 = 0.6 \times 25 = 15
+     \]
+   - The remaining students are boys, so:
+     \[
+     \text{Number of boys} = 25 - \text{Number of girls} = 25 - 15 = 10
+     \]
+
+2. **Calculate the number of boys who like and do not like basketball:**
+   - According to the problem, 40% of the boys like playing basketball. To find this number:
+     \[
+     \text{Boys who like basketball} = 40\% \times 10 = 0.4 \times 10 = 4
+     \]
+   - Thus, the number of boys who do not like basketball is:
+     \[
+     \text{Boys who don't like basketball} = \text{Total boys} - \text{Boys who like basketball} = 10 - 4 = 6
+     \]
+
+3. **Determine the number of girls who like playing basketball:**
+   - The problem states that the number of girls who like playing basketball is double the number of boys who don't like basketball. Since we found that 6 boys don't like basketball:
+     \[
+     \text{Girls who like basketball} = 2 \times \text{Boys who don't like basketball} = 2 \times 6 = 12
+     \]
+
+4. **Calculate the percentage of girls in the class that like playing basketball:**
+   - We have found that there are 12 girls who like basketball. The total number of girls is 15. Now, we calculate the percentage:
+     \[
+     \text{Percentage of girls who like basketball} = \left(\frac{\text{Girls who like basketball}}{\text{Total girls}}\right) \times 100 = \left(\frac{12}{15}\right) \times 100
+     \]
+   - Simplifying this gives:
+     \[
+     \frac{12}{15} = 0.8
+     \]
+   - Therefore, the percentage is:
+     \[
+     0.8 \times 100 = 80\%
+     \]
+
+Thus, the final result is the percentage of girls in the class who like playing basketball.
+</reasoning>
+<answer>80</answer>

@@ -1,0 +1,32 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial Number of Biscuits**: Randy starts with 32 biscuits.
+   - We denote this as: 
+     \[
+     \text{Initial biscuits} = 32
+     \]
+
+2. **Biscuits Given by Father**: His father gave him 13 more biscuits.
+   - We add this amount to Randy's initial biscuits:
+     \[
+     \text{Biscuits after father's gift} = 32 + 13 = 45
+     \]
+
+3. **Biscuits Given by Mother**: His mother also gave him 15 biscuits.
+   - We add this amount to the biscuits he currently has:
+     \[
+     \text{Biscuits after mother's gift} = 45 + 15 = 60
+     \]
+
+4. **Biscuits Eaten by Brother**: Randy's brother ate 20 biscuits.
+   - Now, we subtract the biscuits eaten by his brother from the total Randy has:
+     \[
+     \text{Biscuits left} = 60 - 20 = 40
+     \]
+
+Now, we have calculated the total number of biscuits Randy has after all the gifts and after his brother ate some.
+
+Therefore, Randy is left with 40 biscuits.
+</reasoning>
+<answer>40</answer>

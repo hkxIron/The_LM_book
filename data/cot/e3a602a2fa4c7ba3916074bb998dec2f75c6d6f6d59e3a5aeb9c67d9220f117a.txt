@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we need to determine how many eggs each hen lays in a week based on the information provided.
+
+1. **Determine the total number of eggs sold**: 
+   We know that Krista sold $120 worth of eggs. Since she sells the eggs for $3 a dozen, we can calculate the number of dozens sold.
+
+   \[
+   \text{Total dozens sold} = \frac{\text{Total amount sold}}{\text{Price per dozen}} = \frac{120}{3} = 40 \text{ dozens}
+   \]
+
+2. **Convert dozens to individual eggs**:
+   Since there are 12 eggs in a dozen, we can find the total number of eggs sold.
+
+   \[
+   \text{Total eggs sold} = \text{Total dozens sold} \times 12 = 40 \times 12 = 480 \text{ eggs}
+   \]
+
+3. **Calculate the weekly egg production**:
+   Krista sold these eggs over a period of 4 weeks. Therefore, we can calculate the total number of eggs sold per week.
+
+   \[
+   \text{Eggs sold per week} = \frac{\text{Total eggs sold}}{\text{Number of weeks}} = \frac{480}{4} = 120 \text{ eggs per week}
+   \]
+
+4. **Determine the number of eggs laid by each hen**:
+   Krista has 10 hens. To find out how many eggs each hen lays in a week, we divide the total number of eggs sold per week by the number of hens.
+
+   \[
+   \text{Eggs laid per hen per week} = \frac{\text{Eggs sold per week}}{\text{Number of hens}} = \frac{120}{10} = 12 \text{ eggs per hen per week}
+   \]
+
+Therefore, each hen lays 12 eggs in a week.
+</reasoning>
+<answer>12</answer>

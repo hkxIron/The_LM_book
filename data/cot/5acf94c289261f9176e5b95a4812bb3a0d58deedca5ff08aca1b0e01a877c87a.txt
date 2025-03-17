@@ -1,0 +1,77 @@
+<reasoning>
+Let's define the number of each type of duck with variables:
+
+- Let \( C \) be the number of Cayugas.
+- Let \( M \) be the number of Muscovy ducks.
+- Let \( K \) be the number of Khaki Campbells.
+
+From the problem, we have the following relationships:
+
+1. There are 4 more Muscovy ducks than Cayugas:
+   \[
+   M = C + 4
+   \]
+
+2. There are 3 more than twice as many Cayugas as Khaki Campbells:
+   \[
+   C = 2K + 3
+   \]
+
+3. The total number of ducks is 90:
+   \[
+   M + C + K = 90
+   \]
+
+Now, let's substitute the expressions we have into the total ducks equation.
+
+First, substitute \( M \) from equation 1 into equation 3:
+\[
+(C + 4) + C + K = 90
+\]
+This simplifies to:
+\[
+2C + K + 4 = 90
+\]
+Subtract 4 from both sides:
+\[
+2C + K = 86
+\]
+
+Next, we substitute \( C \) from equation 2 into this equation. We have:
+\[
+C = 2K + 3
+\]
+Substituting this into \( 2C + K = 86 \):
+\[
+2(2K + 3) + K = 86
+\]
+Distributing the 2 gives:
+\[
+4K + 6 + K = 86
+\]
+Combine like terms:
+\[
+5K + 6 = 86
+\]
+Now, subtract 6 from both sides:
+\[
+5K = 80
+\]
+Finally, divide by 5:
+\[
+K = 16
+\]
+
+Now that we have \( K \), we can find \( C \) using equation 2:
+\[
+C = 2(16) + 3 = 32 + 3 = 35
+\]
+
+Now we can find \( M \) using equation 1:
+\[
+M = C + 4 = 35 + 4 = 39
+\]
+
+Thus, the final answer is:
+</reasoning>
+<answer>39</answer>

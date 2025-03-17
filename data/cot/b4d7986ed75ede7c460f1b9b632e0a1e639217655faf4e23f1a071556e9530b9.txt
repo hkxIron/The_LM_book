@@ -1,0 +1,58 @@
+<reasoning>
+Let's denote Sandy's current age as \( S \). According to the problem, Sandy's monthly phone bill expense is equal to ten times her age. Therefore, her phone bill can be expressed as:
+
+\[
+\text{Phone Bill} = 10S
+\]
+
+Next, we are given that in two years, Sandy will be three times as old as Kim. Currently, Kim is 10 years old, so in two years, Kim will be:
+
+\[
+\text{Kim's age in 2 years} = 10 + 2 = 12
+\]
+
+Now, we can express Sandy's age in two years as well. In two years, Sandy's age will be:
+
+\[
+\text{Sandy's age in 2 years} = S + 2
+\]
+
+According to the problem, in two years, Sandy's age will be three times Kim's age at that time:
+
+\[
+S + 2 = 3 \times 12
+\]
+
+Now, let's calculate the right side of the equation:
+
+\[
+3 \times 12 = 36
+\]
+
+So we have:
+
+\[
+S + 2 = 36
+\]
+
+To find Sandy's current age \( S \), we will solve for \( S \) by subtracting 2 from both sides of the equation:
+
+\[
+S = 36 - 2 = 34
+\]
+
+Now we know Sandy's current age is 34 years. To find her monthly phone bill expense, we substitute \( S \) back into the equation for the phone bill:
+
+\[
+\text{Phone Bill} = 10S = 10 \times 34
+\]
+
+Calculating that gives:
+
+\[
+10 \times 34 = 340
+\]
+
+Therefore, Sandy's monthly phone bill expense is:
+</reasoning>
+<answer>340</answer>

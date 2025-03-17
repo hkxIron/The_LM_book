@@ -1,0 +1,29 @@
+<reasoning>
+To find the total points scored by Wade and his teammates after 5 games, we'll first calculate the total points for both Wade and his teammates separately and then sum them up.
+
+1. **Calculate Wade's total points over 5 games:**
+   - Wade averages 20 points per game.
+   - Over 5 games, the total points scored by Wade can be calculated by multiplying his average points per game by the number of games.
+   - So, we calculate: 
+     \[
+     \text{Wade's total points} = 20 \text{ points/game} \times 5 \text{ games} = 100 \text{ points}
+     \]
+
+2. **Calculate his teammates' total points over 5 games:**
+   - Wade's teammates average 40 points per game.
+   - Similarly, we calculate the total points scored by his teammates over 5 games:
+   - So, we calculate: 
+     \[
+     \text{Teammates' total points} = 40 \text{ points/game} \times 5 \text{ games} = 200 \text{ points}
+     \]
+
+3. **Calculate the total points for the team:**
+   - Now, we add Wade's total points and his teammates' total points to get the overall total points for the team:
+   - Therefore, we calculate: 
+     \[
+     \text{Total team points} = \text{Wade's total points} + \text{Teammates' total points} = 100 \text{ points} + 200 \text{ points} = 300 \text{ points}
+     \]
+
+Therefore, the total points scored by Wade and his teammates after 5 games is 300.
+</reasoning>
+<answer>300</answer>

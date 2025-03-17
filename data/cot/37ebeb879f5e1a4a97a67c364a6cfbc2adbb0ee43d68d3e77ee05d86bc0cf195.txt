@@ -1,0 +1,45 @@
+<reasoning>
+First, we need to calculate the amounts that Maria pays for tax and insurance from her monthly salary.
+
+1. **Calculate the tax amount**:
+   - Maria's salary = $2000
+   - Tax rate = 20%
+   - To find the tax amount, we multiply her salary by the tax rate:
+     \[
+     \text{Tax amount} = 2000 \times 0.20 = 400
+     \]
+
+2. **Calculate the insurance amount**:
+   - Insurance rate = 5%
+   - To find the insurance amount, we multiply her salary by the insurance rate:
+     \[
+     \text{Insurance amount} = 2000 \times 0.05 = 100
+     \]
+
+3. **Calculate the total deductions**:
+   - Total deductions = Tax amount + Insurance amount
+     \[
+     \text{Total deductions} = 400 + 100 = 500
+     \]
+
+4. **Calculate the amount left after deductions**:
+   - Amount left after deductions = Salary - Total deductions
+     \[
+     \text{Amount left} = 2000 - 500 = 1500
+     \]
+
+5. **Calculate the utility bills payment**:
+   - Maria spends a quarter of the money left on utility bills:
+     \[
+     \text{Utility bills payment} = \frac{1}{4} \times 1500 = 375
+     \]
+
+6. **Calculate the final amount after utility bills**:
+   - Final amount = Amount left after deductions - Utility bills payment
+     \[
+     \text{Final amount} = 1500 - 375 = 1125
+     \]
+
+Therefore, after all deductions and paying for utility bills, Maria has $1125 left.
+</reasoning>
+<answer>1125</answer>

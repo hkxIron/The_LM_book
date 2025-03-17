@@ -1,0 +1,54 @@
+<reasoning>
+Let's start by calculating the total cost of the items Mr. Callen bought.
+
+1. **Calculate the total cost of paintings:**
+   - Mr. Callen bought 10 paintings at $40 each.
+   - Total cost for paintings = Number of paintings × Cost per painting
+   - Total cost for paintings = 10 × 40 = $400
+
+2. **Calculate the total cost of wooden toys:**
+   - He bought 8 wooden toys at $20 each.
+   - Total cost for wooden toys = Number of toys × Cost per toy
+   - Total cost for wooden toys = 8 × 20 = $160
+
+3. **Calculate the total cost of all items:**
+   - Total cost = Total cost of paintings + Total cost of wooden toys
+   - Total cost = $400 + $160 = $560
+
+Next, we need to calculate the selling prices of the items after the reductions.
+
+4. **Calculate the selling price of paintings:**
+   - The original selling price of each painting is $40.
+   - The selling price is reduced by 10%.
+   - Reduction = 10% of $40 = 0.10 × 40 = $4
+   - Selling price after reduction = Original price - Reduction
+   - Selling price after reduction = $40 - $4 = $36
+
+5. **Calculate the total selling price for paintings:**
+   - Total selling price for paintings = Number of paintings × Selling price per painting
+   - Total selling price for paintings = 10 × 36 = $360
+
+6. **Calculate the selling price of wooden toys:**
+   - The original selling price of each wooden toy is $20.
+   - The selling price is reduced by 15%.
+   - Reduction = 15% of $20 = 0.15 × 20 = $3
+   - Selling price after reduction = Original price - Reduction
+   - Selling price after reduction = $20 - $3 = $17
+
+7. **Calculate the total selling price for wooden toys:**
+   - Total selling price for wooden toys = Number of toys × Selling price per toy
+   - Total selling price for wooden toys = 8 × 17 = $136
+
+8. **Calculate the total selling price of all items:**
+   - Total selling price = Total selling price for paintings + Total selling price for wooden toys
+   - Total selling price = $360 + $136 = $496
+
+Now we can calculate the total loss Mr. Callen made from the sale of the items.
+
+9. **Calculate the total loss:**
+   - Total loss = Total cost - Total selling price
+   - Total loss = $560 - $496 = $64
+
+Thus, Mr. Callen made a total loss of $64 from the sale of the items.
+</reasoning>
+<answer>64</answer>

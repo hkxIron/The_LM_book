@@ -1,0 +1,30 @@
+<reasoning>
+To find the average speed of Mr. Maxwell's return journey, we first need to determine the distance he travels to work in the morning.
+
+1. **Calculate the distance to work in the morning**: 
+   Since Mr. Maxwell drives at an average speed of 30 mph and it takes him 1 hour to get to work, we can use the formula for distance:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   Plugging in the values:
+   \[
+   \text{Distance} = 30 \, \text{mph} \times 1 \, \text{hr} = 30 \, \text{miles}
+   \]
+   This means the distance from Mr. Maxwell's home to his workplace is 30 miles.
+
+2. **Determine the time taken for the return journey**:
+   We know it takes him 1.5 hours to drive back home.
+
+3. **Calculate the average speed for the return journey**:
+   Now that we have the distance for the return journey (which is the same as the distance to work, 30 miles), we can again use the speed formula:
+   \[
+   \text{Speed} = \frac{\text{Distance}}{\text{Time}}
+   \]
+   Plugging in the distance and time for the return journey:
+   \[
+   \text{Speed} = \frac{30 \, \text{miles}}{1.5 \, \text{hrs}} = 20 \, \text{mph}
+   \]
+
+Thus, Mr. Maxwell's average speed on his return journey is 20 mph.
+</reasoning>
+<answer>20</answer>

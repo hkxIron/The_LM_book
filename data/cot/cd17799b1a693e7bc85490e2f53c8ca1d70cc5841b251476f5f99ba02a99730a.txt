@@ -1,0 +1,45 @@
+<reasoning>
+First, let's calculate how much money Bert earned from selling the toy phones.
+
+1. Bert sold 8 toy phones for $18 each. 
+   - To find out Bert's total earnings, we multiply the number of toy phones sold by the price per phone:
+   \[
+   \text{Bert's earnings} = 8 \text{ phones} \times 18 \text{ dollars/phone}
+   \]
+   - Calculating this gives:
+   \[
+   8 \times 18 = 144 \text{ dollars}
+   \]
+   So, Bert earned $144.
+
+Next, let's calculate how much money Tory earned from selling the toy guns.
+
+2. Tory sold 7 toy guns for $20 each. 
+   - To find out Tory's total earnings, we multiply the number of toy guns sold by the price per gun:
+   \[
+   \text{Tory's earnings} = 7 \text{ guns} \times 20 \text{ dollars/gun}
+   \]
+   - Calculating this gives:
+   \[
+   7 \times 20 = 140 \text{ dollars}
+   \]
+   So, Tory earned $140.
+
+Now, we need to find out how much more Bert earned than Tory.
+
+3. To find the difference in earnings, we subtract Tory's earnings from Bert's earnings:
+   \[
+   \text{Difference} = \text{Bert's earnings} - \text{Tory's earnings}
+   \]
+   - Substituting the values we calculated:
+   \[
+   \text{Difference} = 144 \text{ dollars} - 140 \text{ dollars}
+   \]
+   - Performing the subtraction gives:
+   \[
+   144 - 140 = 4 \text{ dollars}
+   \]
+
+Therefore, Bert earned $4 more than Tory.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of people**: Brenda has 9 friends, so the total number of people is:
+   \[
+   1 \text{ (Brenda)} + 9 \text{ (friends)} = 10 \text{ people}
+   \]
+
+2. **Calculate the total number of slices needed**: Since each person will eat 2 slices, we need to find the total number of slices required:
+   \[
+   10 \text{ people} \times 2 \text{ slices per person} = 20 \text{ slices}
+   \]
+
+3. **Find out how many slices are in one pizza**: We know that each pizza has 4 slices.
+
+4. **Calculate the number of pizzas needed**: To find out how many pizzas to order, we divide the total number of slices by the number of slices per pizza:
+   \[
+   \frac{20 \text{ slices}}{4 \text{ slices per pizza}} = 5 \text{ pizzas}
+   \]
+
+Therefore, Brenda and her friends need to order 5 pizzas to have enough slices for everyone.
+</reasoning>
+<answer>5</answer>

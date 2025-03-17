@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much total Preston received, we need to calculate the total cost of the sandwiches, add the delivery fee, and then include the tip.
+
+1. **Calculate the cost of the sandwiches**:
+   - Preston charges $5 for each sandwich.
+   - Abra Company orders 18 sandwiches.
+   - Therefore, the cost for the sandwiches is calculated as:
+     \[
+     \text{Cost of sandwiches} = \text{Number of sandwiches} \times \text{Price per sandwich}
+     \]
+     \[
+     \text{Cost of sandwiches} = 18 \times 5 = 90
+     \]
+
+2. **Add the delivery fee**:
+   - Preston charges a delivery fee of $20.
+   - So, we add this delivery fee to the cost of the sandwiches:
+     \[
+     \text{Total before tip} = \text{Cost of sandwiches} + \text{Delivery fee}
+     \]
+     \[
+     \text{Total before tip} = 90 + 20 = 110
+     \]
+
+3. **Calculate the tip**:
+   - Abra Company tips Preston 10% of the total before tip.
+   - We calculate the tip as:
+     \[
+     \text{Tip} = 0.10 \times \text{Total before tip}
+     \]
+     \[
+     \text{Tip} = 0.10 \times 110 = 11
+     \]
+
+4. **Calculate the total amount received by Preston**:
+   - Now we add the tip to the total before tip:
+     \[
+     \text{Total amount received} = \text{Total before tip} + \text{Tip}
+     \]
+     \[
+     \text{Total amount received} = 110 + 11 = 121
+     \]
+
+Thus, the total amount Preston received from Abra Company is $121.
+</reasoning>
+<answer>121</answer>

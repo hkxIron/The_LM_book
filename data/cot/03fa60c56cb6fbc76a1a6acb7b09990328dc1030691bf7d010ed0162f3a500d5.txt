@@ -1,0 +1,48 @@
+<reasoning>
+To find out how much money Hannah has left after her sales and purchases, we will follow these steps:
+
+1. Calculate the total money earned from selling cookies.
+2. Calculate the total money earned from selling cupcakes.
+3. Add the total earnings from both cookies and cupcakes.
+4. Calculate the total cost of the measuring spoons.
+5. Subtract the total cost of the measuring spoons from the total earnings to find out how much money she has left.
+
+Let's break it down step by step:
+
+**Step 1: Calculate the total money earned from selling cookies.**
+Hannah sold 40 cookies at $0.8 each. To find the total, we multiply the number of cookies by the price per cookie:
+\[
+\text{Total from cookies} = 40 \times 0.8 = 32
+\]
+This means she earned $32 from selling cookies.
+
+**Step 2: Calculate the total money earned from selling cupcakes.**
+Hannah sold 30 cupcakes at $2 each. Again, we multiply the number of cupcakes by the price per cupcake:
+\[
+\text{Total from cupcakes} = 30 \times 2 = 60
+\]
+Thus, she earned $60 from selling cupcakes.
+
+**Step 3: Add the total earnings from both cookies and cupcakes.**
+Now, we add the earnings from cookies and cupcakes:
+\[
+\text{Total earnings} = \text{Total from cookies} + \text{Total from cupcakes} = 32 + 60 = 92
+\]
+So, Hannah earned a total of $92 from selling cookies and cupcakes.
+
+**Step 4: Calculate the total cost of the measuring spoons.**
+Hannah bought 2 sets of measuring spoons for $6.5 each. To find the total cost, we multiply the number of sets by the price per set:
+\[
+\text{Total cost of measuring spoons} = 2 \times 6.5 = 13
+\]
+This means she spent $13 on measuring spoons.
+
+**Step 5: Subtract the total cost of the measuring spoons from the total earnings.**
+Finally, we find out how much money she has left by subtracting the total cost from the total earnings:
+\[
+\text{Money left} = \text{Total earnings} - \text{Total cost of measuring spoons} = 92 - 13 = 79
+\]
+
+Therefore, after all the sales and purchases, Hannah has $79 left.
+</reasoning>
+<answer>79</answer>

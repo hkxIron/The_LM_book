@@ -1,0 +1,28 @@
+<reasoning>
+To determine how many bottles of shampoo Brittany needs for a leap year, we will follow these steps:
+
+1. **Calculate the Total Number of Days in a Leap Year:**
+   A leap year has 366 days (one extra day in February).
+
+2. **Determine How Many Days Brittany Washes Her Hair:**
+   Brittany washes her hair every other day. To find out how many days she washes her hair in a leap year, we divide the total number of days by 2:
+   \[
+   \text{Number of Hair Washes} = \frac{366 \text{ days}}{2} = 183 \text{ washes}
+   \]
+
+3. **Calculate Total Amount of Shampoo Used:**
+   Brittany uses \( \frac{1}{4} \) ounce of shampoo for each wash. To find the total amount of shampoo used in a leap year, we multiply the number of washes by the amount of shampoo she uses per wash:
+   \[
+   \text{Total Shampoo Used} = 183 \text{ washes} \times \frac{1}{4} \text{ ounce/wash} = \frac{183}{4} \text{ ounces} = 45.75 \text{ ounces}
+   \]
+
+4. **Determine the Number of Bottles Needed:**
+   Each bottle of shampoo contains 14 ounces. To find out how many bottles she needs, we divide the total amount of shampoo by the amount in one bottle:
+   \[
+   \text{Number of Bottles} = \frac{45.75 \text{ ounces}}{14 \text{ ounces/bottle}} \approx 3.26
+   \]
+   Since she cannot buy a fraction of a bottle, we round up to the nearest whole number. Therefore, she needs 4 bottles of shampoo.
+
+In conclusion, after performing the calculations, we determine that Brittany needs 4 bottles of shampoo to get through a leap year.
+</reasoning>
+<answer>4</answer>

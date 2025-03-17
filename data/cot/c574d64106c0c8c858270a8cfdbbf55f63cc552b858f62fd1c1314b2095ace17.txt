@@ -1,0 +1,58 @@
+<reasoning>
+To determine how many jumping jacks Kenny needs to do on Saturday to beat his total from last week, we first need to calculate how many jumping jacks he has done so far this week.
+
+1. **Calculate Total Jumping Jacks for the Week So Far:**
+   - Sunday: 34
+   - Monday: 20
+   - Tuesday: Skipped (0)
+   - Wednesday: 123
+   - Thursday: 64
+   - Friday: 23
+
+Now, we add these values together to find the total jumping jacks done from Sunday to Friday:
+
+\[
+34 + 20 + 0 + 123 + 64 + 23
+\]
+
+Let's do the addition step by step:
+- Add Sunday and Monday: \( 34 + 20 = 54 \)
+- Add Tuesday (0): \( 54 + 0 = 54 \)
+- Add Wednesday: \( 54 + 123 = 177 \)
+- Add Thursday: \( 177 + 64 = 241 \)
+- Add Friday: \( 241 + 23 = 264 \)
+
+So, the total number of jumping jacks he has done from Sunday to Friday is 264.
+
+2. **Determine How Many More Jumping Jacks are Needed on Saturday:**
+Last week, Kenny did 324 jumping jacks. To ensure he does more this week, we need to find out how many he needs to do on Saturday:
+
+\[
+\text{Total needed this week} > 324
+\]
+\[
+\text{Total so far} + \text{Saturday's jumping jacks} > 324
+\]
+
+Let \( x \) be the number of jumping jacks he needs to do on Saturday:
+
+\[
+264 + x > 324
+\]
+
+Now, we solve for \( x \):
+\[
+x > 324 - 264
+\]
+\[
+x > 60
+\]
+
+This means Kenny needs to do more than 60 jumping jacks on Saturday to beat last week's total.
+
+3. **Conclusion:**
+Since he must do more than 60, the minimum whole number of jumping jacks he can do on Saturday is 61.
+
+Therefore, Kenny needs to do at least 61 jumping jacks on Saturday to ensure he beats last week's total.
+</reasoning>
+<answer>61</answer>

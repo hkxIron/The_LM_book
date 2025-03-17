@@ -1,0 +1,40 @@
+<reasoning>
+To find the percentage increase in Kathleen's weekly allowance, we need to follow these steps:
+
+1. **Calculate Kathleen's middle school allowance**: 
+   - According to the problem, her allowance was $2 more than $8.
+   - So, we can calculate it as:
+     \[
+     \text{Middle School Allowance} = 8 + 2 = 10
+     \]
+
+2. **Calculate Kathleen's senior year allowance**:
+   - In her senior year, her allowance was $5 more than twice her middle school allowance. 
+   - First, we calculate twice her middle school allowance:
+     \[
+     2 \times \text{Middle School Allowance} = 2 \times 10 = 20
+     \]
+   - Now, add $5 to this amount:
+     \[
+     \text{Senior Year Allowance} = 20 + 5 = 25
+     \]
+
+3. **Determine the increase in allowance**:
+   - We need to find the increase in her allowance from middle school to senior year:
+     \[
+     \text{Increase} = \text{Senior Year Allowance} - \text{Middle School Allowance} = 25 - 10 = 15
+     \]
+
+4. **Calculate the percentage increase**:
+   - The formula for percentage increase is:
+     \[
+     \text{Percentage Increase} = \left( \frac{\text{Increase}}{\text{Original Amount}} \right) \times 100\%
+     \]
+   - Here, the original amount is her middle school allowance ($10), and the increase is $15:
+     \[
+     \text{Percentage Increase} = \left( \frac{15}{10} \right) \times 100\% = 1.5 \times 100\% = 150\%
+     \]
+
+Therefore, the percentage increase in Kathleen's weekly allowance is 150%.
+</reasoning>
+<answer>150</answer>

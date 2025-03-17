@@ -1,0 +1,38 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the number of white cookies**: Cristian has 80 white cookies initially.
+
+2. **Calculate the number of black cookies**: According to the problem, Cristian has 50 more black cookies than white cookies. Therefore, the number of black cookies can be calculated as:
+   \[
+   \text{Number of black cookies} = \text{Number of white cookies} + 50 = 80 + 50 = 130
+   \]
+
+3. **Calculate the number of cookies eaten**:
+   - **Black cookies eaten**: He eats half of the black cookies. The number of black cookies eaten is:
+   \[
+   \text{Black cookies eaten} = \frac{1}{2} \times 130 = 65
+   \]
+   - **White cookies eaten**: He eats three-quarters of the white cookies. The number of white cookies eaten is:
+   \[
+   \text{White cookies eaten} = \frac{3}{4} \times 80 = 60
+   \]
+
+4. **Calculate the remaining cookies**:
+   - **Remaining black cookies**: The remaining black cookies after eating are:
+   \[
+   \text{Remaining black cookies} = \text{Initial black cookies} - \text{Black cookies eaten} = 130 - 65 = 65
+   \]
+   - **Remaining white cookies**: The remaining white cookies after eating are:
+   \[
+   \text{Remaining white cookies} = \text{Initial white cookies} - \text{White cookies eaten} = 80 - 60 = 20
+   \]
+
+5. **Calculate the total remaining cookies**: Finally, we add the remaining black and white cookies together:
+   \[
+   \text{Total remaining cookies} = \text{Remaining black cookies} + \text{Remaining white cookies} = 65 + 20 = 85
+   \]
+
+Therefore, Cristian has 85 cookies remaining in the cookie jar altogether.
+</reasoning>
+<answer>85</answer>

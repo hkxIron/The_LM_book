@@ -1,0 +1,38 @@
+<reasoning>
+First, we need to determine the total cost of the bulk bag of mixed nuts after applying the coupon. The original cost of the bag is $25.00, and there is a $5.00 coupon available.
+
+1. **Calculate the discounted price**:
+   \[
+   \text{Discounted price} = \text{Original price} - \text{Coupon value}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Discounted price} = 25.00 - 5.00 = 20.00
+   \]
+   So, the bag of mixed nuts now costs $20.00.
+
+2. **Determine the number of servings**:
+   Since Hayden eats 1 oz of mixed nuts as a serving and the bag contains 40 oz, the total number of servings in the bag is:
+   \[
+   \text{Number of servings} = \text{Total ounces} = 40
+   \]
+
+3. **Calculate the cost per serving**:
+   Now that we have the total cost after the coupon and the number of servings, we can find the cost per serving:
+   \[
+   \text{Cost per serving} = \frac{\text{Discounted price}}{\text{Number of servings}}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Cost per serving} = \frac{20.00}{40} = 0.50
+   \]
+
+4. **Convert the cost per serving to cents**:
+   Since the question asks for the cost in cents, we need to convert dollars to cents by multiplying by 100 (since 1 dollar = 100 cents):
+   \[
+   \text{Cost per serving in cents} = 0.50 \times 100 = 50
+   \]
+
+Therefore, the final cost of each serving of nuts, in cents, after the coupon is applied is:
+</reasoning>
+<answer>50</answer>

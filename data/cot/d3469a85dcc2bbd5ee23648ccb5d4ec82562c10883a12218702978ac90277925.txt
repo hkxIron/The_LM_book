@@ -1,0 +1,18 @@
+<reasoning>
+To find the total number of people in the house, we need to account for everyone mentioned in the problem.
+
+1. **Identify how many people are in the bedroom:** 
+   - Charlie and his wife Susan make 2 people.
+   - Sarah enters the bedroom with 4 friends. This adds 1 (Sarah) + 4 (her friends) = 5 people.
+   - So, in the bedroom: 2 (Charlie and Susan) + 5 (Sarah and her friends) = 7 people.
+
+2. **Identify how many people are in the living room:** 
+   - The problem states there are 8 people in the living room.
+
+3. **Calculate the total number of people in the house:**
+   - We add the number of people in the bedroom to the number of people in the living room: 
+   - Total = 7 (bedroom) + 8 (living room) = 15 people.
+
+Therefore, the total number of people in the house is 15.
+</reasoning>
+<answer>15</answer>

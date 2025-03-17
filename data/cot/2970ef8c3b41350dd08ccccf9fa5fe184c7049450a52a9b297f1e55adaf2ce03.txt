@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate how many cookies Javier's wife took**: 
+   Since his wife took 30% of the 200 cookies, we need to calculate 30% of 200.
+   \[
+   30\% \text{ of } 200 = \frac{30}{100} \times 200 = 0.3 \times 200 = 60
+   \]
+   So, Javier's wife took 60 cookies.
+
+2. **Calculate the remaining cookies after his wife took her share**:
+   To find out how many cookies are left after his wife took 60 cookies, we subtract the number of cookies she took from the total.
+   \[
+   \text{Remaining cookies} = 200 - 60 = 140
+   \]
+
+3. **Calculate how many cookies Javier's daughter took**:
+   His daughter took 40 cookies from the remaining 140 cookies. Thus, we simply note that she took 40 cookies.
+
+4. **Calculate the cookies left after his daughter took her share**:
+   We now subtract the 40 cookies taken by his daughter from the remaining cookies we found in the previous step.
+   \[
+   \text{Remaining cookies after daughter} = 140 - 40 = 100
+   \]
+
+5. **Calculate how many cookies Javier ate**:
+   Javier ate half of the remaining cookies. We take half of the 100 cookies left.
+   \[
+   \text{Cookies Javier ate} = \frac{100}{2} = 50
+   \]
+
+6. **Calculate how many cookies were not eaten**:
+   Finally, to find out how many cookies were not eaten, we subtract the cookies eaten by his wife, daughter, and himself from the total cookies.
+   The total cookies eaten are:
+   \[
+   \text{Total cookies eaten} = 60 \text{ (wife)} + 40 \text{ (daughter)} + 50 \text{ (Javier)} = 150
+   \]
+   Therefore, the number of cookies not eaten is:
+   \[
+   \text{Cookies not eaten} = 200 - 150 = 50
+   \]
+
+So, we calculated each step to find out how many cookies were not eaten.
+</reasoning>
+<answer>50</answer>

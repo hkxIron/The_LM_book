@@ -1,0 +1,18 @@
+<reasoning>
+To determine the total number of fish at the aquarium, we first need to find out how many sharks there are based on the information given about the stingrays.
+
+1. **Identify the number of stingrays**: We know from the problem that there are 28 stingrays.
+
+2. **Calculate the number of sharks**: The problem states that there are twice as many sharks as stingrays. Therefore, we calculate the number of sharks by multiplying the number of stingrays by 2:
+   \[
+   \text{Number of sharks} = 2 \times \text{Number of stingrays} = 2 \times 28 = 56
+   \]
+
+3. **Calculate the total number of fish**: To find the total number of fish in the aquarium, we add the number of sharks and the number of stingrays together:
+   \[
+   \text{Total number of fish} = \text{Number of sharks} + \text{Number of stingrays} = 56 + 28 = 84
+   \]
+
+Therefore, the total number of fish in the aquarium is 84.
+</reasoning>
+<answer>84</answer>

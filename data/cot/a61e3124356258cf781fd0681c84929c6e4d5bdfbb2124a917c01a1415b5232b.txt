@@ -1,0 +1,19 @@
+<reasoning>
+To solve the problem, we need to determine how many batches of pizza dough Bruce can make in a week given his usage of flour.
+
+1. **Determine the number of sacks of flour used in a week**: 
+   Bruce uses 5 sacks of flour per day. There are 7 days in a week, so we multiply the daily usage by the number of days in a week:
+   \[
+   5 \text{ sacks/day} \times 7 \text{ days} = 35 \text{ sacks/week}
+   \]
+   This means Bruce will use a total of 35 sacks of flour in one week.
+
+2. **Calculate the number of batches of pizza dough that can be made with the sacks of flour**:
+   We know that one sack of flour can make 15 batches of pizza dough. Therefore, if Bruce has 35 sacks of flour, we can calculate the total number of batches by multiplying the number of sacks by the number of batches per sack:
+   \[
+   35 \text{ sacks} \times 15 \text{ batches/sack} = 525 \text{ batches}
+   \]
+
+Therefore, after calculating both the number of sacks used and the total batches produced, we can conclude that Bruce can make a total of 525 batches of pizza dough in a week.
+</reasoning>
+<answer>525</answer>

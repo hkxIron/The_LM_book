@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we need to find the number of women who work in retail in Los Angeles, given the population and the fractions provided.
+
+1. **Determine the total number of women in Los Angeles**:
+   - The total population of Los Angeles is 6 million people.
+   - According to the problem, half of the population is women. 
+   - Therefore, we calculate the number of women by taking half of the total population:
+     \[
+     \text{Number of women} = \frac{1}{2} \times 6,000,000
+     \]
+   - This simplifies to:
+     \[
+     \text{Number of women} = 3,000,000
+     \]
+
+2. **Calculate the number of women who work in retail**:
+   - We are told that 1/3 of the women work in retail. 
+   - To find the number of women working in retail, we multiply the number of women by 1/3:
+     \[
+     \text{Number of women working in retail} = \frac{1}{3} \times 3,000,000
+     \]
+   - This simplifies to:
+     \[
+     \text{Number of women working in retail} = 1,000,000
+     \]
+
+Thus, the total number of women working in retail in Los Angeles is 1,000,000.
+</reasoning>
+<answer>1000000</answer>

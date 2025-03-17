@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much Tilly bought each bag for, we need to set up the problem using the information provided.
+
+1. **Determine the total revenue from selling the bags:**
+   Tilly sells each bag for $10 and she needs to sell 100 bags.
+   So, the total revenue (R) from selling the bags can be calculated as:
+   \[
+   R = \text{Number of bags} \times \text{Price per bag} = 100 \times 10 = 1000
+   \]
+   This means Tilly will earn $1000 from selling all the bags.
+
+2. **Determine the desired profit:**
+   Tilly wants to make a profit of $300. Profit is calculated as the revenue minus the total cost (C). Therefore, we can set up the equation:
+   \[
+   \text{Profit} = R - C
+   \]
+   Plugging in the values we have:
+   \[
+   300 = 1000 - C
+   \]
+
+3. **Solve for the total cost (C):**
+   Rearranging the equation gives us:
+   \[
+   C = 1000 - 300 = 700
+   \]
+   This means Tilly spent a total of $700 to buy the bags.
+
+4. **Determine the cost per bag:**
+   To find out how much she paid for each bag, we divide the total cost by the number of bags:
+   \[
+   \text{Cost per bag} = \frac{C}{\text{Number of bags}} = \frac{700}{100} = 7
+   \]
+   So, Tilly bought each bag for $7.
+
+Therefore, Tilly bought each bag for $7.
+</reasoning>
+<answer>7</answer>

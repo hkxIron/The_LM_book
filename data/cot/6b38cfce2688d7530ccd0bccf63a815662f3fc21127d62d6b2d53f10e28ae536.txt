@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we need to determine how many questions each person answered correctly and then find the difference between their correct answers. Here’s how we can do this step by step:
+
+1. **Calculate the number of incorrect answers Lyssa had**:
+   - We know that Lyssa answered 20% of the items incorrectly. 
+   - The total number of items on the exam is 75.
+   - To find 20% of 75, we can multiply:
+     \[
+     0.20 \times 75 = 15
+     \]
+   This means Lyssa got 15 questions wrong.
+
+2. **Calculate the number of correct answers Lyssa had**:
+   - To find the number of correct answers, we subtract the number of incorrect answers from the total number of items:
+     \[
+     75 - 15 = 60
+     \]
+   So, Lyssa answered 60 questions correctly.
+
+3. **Determine how many correct answers Precious had**:
+   - We are told that Precious made 12 mistakes. 
+   - To find how many questions Precious answered correctly, we subtract the number of mistakes from the total number of items:
+     \[
+     75 - 12 = 63
+     \]
+   Therefore, Precious answered 63 questions correctly.
+
+4. **Calculate how many more correct answers Lyssa had compared to Precious**:
+   - We now find the difference between Lyssa's and Precious's correct answers:
+     \[
+     60 - 63 = -3
+     \]
+   This indicates that Lyssa actually answered 3 fewer questions correctly than Precious.
+
+In conclusion, Lyssa answered 3 fewer questions correctly than Precious.
+</reasoning>
+<answer>3</answer>

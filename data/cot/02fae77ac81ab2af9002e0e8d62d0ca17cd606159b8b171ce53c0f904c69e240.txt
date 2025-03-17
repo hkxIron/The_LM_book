@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step, calculating the number of pots, plates, and cutlery that both Angela and Sharon want.
+
+1. **Angela's Supplies:**
+   - Angela has 20 pots.
+   - To find the number of plates Angela has, we know she has 6 more than three times the number of pots. Therefore, we calculate:
+     \[
+     \text{Number of plates} = 3 \times \text{Number of pots} + 6 = 3 \times 20 + 6 = 60 + 6 = 66
+     \]
+   - Now, we find the number of cutlery Angela has, which is half as many as the plates. So we calculate:
+     \[
+     \text{Number of cutlery} = \frac{\text{Number of plates}}{2} = \frac{66}{2} = 33
+     \]
+
+2. **Summarizing Angela's Supplies:**
+   - Pots: 20
+   - Plates: 66
+   - Cutlery: 33
+
+3. **Sharon's Supplies:**
+   - Sharon wants to buy half as many pots as Angela. Thus, the number of pots Sharon wants is:
+     \[
+     \text{Sharon's pots} = \frac{1}{2} \times \text{Angela's pots} = \frac{1}{2} \times 20 = 10
+     \]
+   - Sharon wants 20 less than three times as many plates as Angela. So we calculate:
+     \[
+     \text{Sharon's plates} = 3 \times \text{Angela's plates} - 20 = 3 \times 66 - 20 = 198 - 20 = 178
+     \]
+   - Sharon wants twice as much cutlery as Angela. Hence, we calculate:
+     \[
+     \text{Sharon's cutlery} = 2 \times \text{Angela's cutlery} = 2 \times 33 = 66
+     \]
+
+4. **Total Kitchen Supplies for Sharon:**
+   - Now we sum up all the kitchen supplies Sharon wants:
+     \[
+     \text{Total supplies} = \text{Sharon's pots} + \text{Sharon's plates} + \text{Sharon's cutlery}
+     \]
+     \[
+     \text{Total supplies} = 10 + 178 + 66 = 254
+     \]
+
+Therefore, the total number of kitchen supplies Sharon wants to buy is 254.
+</reasoning>
+<answer>254</answer>

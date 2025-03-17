@@ -1,0 +1,50 @@
+<reasoning>
+Let's break down Renata's spending and winnings step by step to find out how much money she ended up with.
+
+1. **Initial Amount**: Renata started with $10.
+
+2. **Donation for Charity Draw**: She made a $4 donation. 
+   - After this, her remaining amount is:
+     \[
+     10 - 4 = 6
+     \]
+
+3. **Winning from the Charity Draw**: She won $90 as the 5th prize.
+   - Now, she adds this to her remaining amount:
+     \[
+     6 + 90 = 96
+     \]
+
+4. **Gambling at the Casinos**: 
+   - She lost $50 at the first slot machine:
+     \[
+     96 - 50 = 46
+     \]
+   - Then she lost $10 at the second slot machine:
+     \[
+     46 - 10 = 36
+     \]
+   - Finally, she lost $5 at the last slot machine:
+     \[
+     36 - 5 = 31
+     \]
+
+5. **Buying Water and Lottery Ticket**: 
+   - She bought a $1 bottle of water, so her remaining amount is:
+     \[
+     31 - 1 = 30
+     \]
+   - She also bought a $1 lottery ticket, so her remaining amount is:
+     \[
+     30 - 1 = 29
+     \]
+
+6. **Winning from the Lottery Ticket**: She won an instant prize of $65.
+   - Now she adds this to her remaining amount:
+     \[
+     29 + 65 = 94
+     \]
+
+Putting it all together, Renata ended up with $94.
+</reasoning>
+<answer>94</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+First, let's calculate how much money Bill earned from selling the 8 ounces of fool's gold. 
+
+1. **Calculate total earnings from the sale**:
+   - Bill sold 8 ounces at $9 per ounce.
+   - To find the total earnings, we multiply the number of ounces by the price per ounce: 
+     \[
+     \text{Total Earnings} = \text{Number of ounces} \times \text{Price per ounce} = 8 \times 9
+     \]
+   - Performing the multiplication:
+     \[
+     8 \times 9 = 72
+     \]
+   - Therefore, Bill earned $72 from selling the fool's gold.
+
+2. **Account for the fine**:
+   - Bill was fined $50 after being arrested by the sheriff.
+   - We need to subtract this fine from his total earnings to find out how much money he has left:
+     \[
+     \text{Money Left} = \text{Total Earnings} - \text{Fine} = 72 - 50
+     \]
+   - Performing the subtraction:
+     \[
+     72 - 50 = 22
+     \]
+   - So, after paying the fine, Bill is left with $22.
+
+Therefore, Bill's final amount of money after selling the fool's gold and paying the fine is:
+</reasoning>
+<answer>22</answer>

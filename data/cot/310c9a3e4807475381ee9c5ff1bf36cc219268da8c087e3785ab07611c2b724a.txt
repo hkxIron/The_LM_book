@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Understanding the Situation**: Susan picks strawberries in groups of 5 but eats 1 strawberry from each group. This means for every handful of 5 strawberries she picks, only 4 strawberries will go into her basket.
+
+2. **Calculating Effective Strawberries Picked Per Handful**: Since she eats 1 out of every 5 strawberries, the number of strawberries that actually get into her basket from each handful is:
+   \[
+   5 - 1 = 4
+   \]
+   This means for every handful of 5 strawberries, she ends up with 4 strawberries in her basket.
+
+3. **Finding How Many Handfuls Are Needed**: Since her basket can hold 60 strawberries, we need to find out how many handfuls of 5 strawberries she needs to pick to have 60 strawberries in her basket. We can set up the equation:
+   \[
+   4 \times \text{number of handfuls} = 60
+   \]
+   To find the number of handfuls, we divide both sides by 4:
+   \[
+   \text{number of handfuls} = \frac{60}{4} = 15
+   \]
+   Therefore, Susan needs to pick 15 handfuls.
+
+4. **Calculating Total Strawberries Picked**: Since each handful consists of 5 strawberries, the total number of strawberries she picks is:
+   \[
+   15 \times 5 = 75
+   \]
+
+5. **Conclusion**: Susan will actually pick a total of 75 strawberries before filling her basket with 60 strawberries.
+
+Thus, the final answer is:
+</reasoning>
+<answer>75</answer>

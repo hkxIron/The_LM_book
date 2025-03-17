@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much Mike paid for the camera and lens, we need to first calculate the cost of the new camera model and then the cost of the lens after the discount.
+
+Step 1: Calculate the cost of the new camera model.
+- The old camera costs $4000.
+- The new model costs 30% more than the old model. 
+- To find 30% of the old model's cost, we calculate:
+  \[
+  30\% \text{ of } 4000 = 0.30 \times 4000 = 1200
+  \]
+
+- Now, we add this amount to the old model's cost to get the price of the new camera:
+  \[
+  \text{Cost of new camera} = 4000 + 1200 = 5200
+  \]
+
+Step 2: Calculate the cost of the lens after the discount.
+- The lens originally costs $400.
+- Mike gets a $200 discount on the lens.
+- We subtract the discount from the original price:
+  \[
+  \text{Cost of lens after discount} = 400 - 200 = 200
+  \]
+
+Step 3: Calculate the total amount Mike paid for the camera and lens.
+- Now, we add the cost of the new camera to the cost of the lens:
+  \[
+  \text{Total cost} = \text{Cost of new camera} + \text{Cost of lens after discount}
+  \]
+  \[
+  \text{Total cost} = 5200 + 200 = 5400
+  \]
+
+Therefore, Mike paid a total of $5400 for the new camera and the lens.
+</reasoning>
+<answer>5400</answer>

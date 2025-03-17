@@ -1,0 +1,24 @@
+<reasoning>
+To find the distance from the beach to the fourth buoy, we first need to determine the distance between the buoys.
+
+1. **Understanding the problem**: We know that the swimmer has reached the third buoy after swimming 72 meters. This means that the distance from the beach to the third buoy is 72 meters.
+
+2. **Identify the pattern**: Since the buoys are placed at even intervals, we can find the distance between each buoy by dividing the distance to the third buoy by 3 (because the third buoy means there are two intervals before it).
+
+   \[
+   \text{Distance between buoys} = \frac{\text{Distance to third buoy}}{3} = \frac{72 \text{ meters}}{3} = 24 \text{ meters}
+   \]
+
+3. **Finding the distance to the fourth buoy**: Now that we know the distance between each buoy is 24 meters, we can find the distance to the fourth buoy by adding this distance to the distance to the third buoy.
+
+   \[
+   \text{Distance to fourth buoy} = \text{Distance to third buoy} + \text{Distance between buoys}
+   \]
+
+   \[
+   \text{Distance to fourth buoy} = 72 \text{ meters} + 24 \text{ meters} = 96 \text{ meters}
+   \]
+
+Thus, the distance from the beach to the fourth buoy is 96 meters.
+</reasoning>
+<answer>96</answer>

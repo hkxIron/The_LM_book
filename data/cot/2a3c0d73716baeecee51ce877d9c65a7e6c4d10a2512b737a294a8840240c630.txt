@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the selling price of the geckos**: Brandon sold the geckos for $100. This is the amount he received from the sale.
+
+2. **Determine the selling price of the geckos at the pet shop**: The problem states that the pet shop sells the geckos for $5 more than 3 times the amount Brandon received. We can calculate this as follows:
+   - First, calculate 3 times the amount Brandon received: 
+   \[
+   3 \times 100 = 300
+   \]
+   - Then, add $5 to this amount:
+   \[
+   300 + 5 = 305
+   \]
+   So, the pet shop sells the geckos for $305.
+
+3. **Calculate the profit for the pet shop**: The profit is determined by subtracting the cost price (what Brandon sold them for) from the selling price (what the pet shop sells them for):
+   \[
+   \text{Profit} = \text{Selling Price} - \text{Cost Price} = 305 - 100 = 205
+   \]
+
+After calculating the profit, I can conclude that the pet shop profits $205 from selling the geckos.
+</reasoning>
+<answer>205</answer>

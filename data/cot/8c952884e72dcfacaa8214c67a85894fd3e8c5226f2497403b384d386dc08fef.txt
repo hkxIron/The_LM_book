@@ -1,0 +1,37 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. Identify how many sheets Tommy has based on the information about Jimmy.
+2. Determine how many sheets Jimmy will have after receiving sheets from Ashton.
+3. Calculate the difference in the number of sheets between Jimmy and Tommy after the transfer.
+
+**Step 1:** 
+We know that Jimmy has 32 sheets. According to the problem, Tommy has 10 more sheets than Jimmy. 
+
+So, we calculate Tommy's sheets:
+- Tommy's sheets = Jimmy's sheets + 10
+- Tommy's sheets = 32 + 10 = 42
+
+This means Tommy has 42 sheets.
+
+**Step 2:** 
+Now, we need to find out how many sheets Jimmy will have after Ashton gives him 40 sheets.
+
+So, we calculate Jimmy's new total:
+- New total of Jimmy's sheets = Jimmy's current sheets + sheets given by Ashton
+- New total of Jimmy's sheets = 32 + 40 = 72
+
+Now, Jimmy has 72 sheets after receiving the extra sheets from Ashton.
+
+**Step 3:** 
+Finally, we need to determine how many more sheets Jimmy has than Tommy now.
+
+To find that, we calculate the difference between Jimmy's new total and Tommy's total:
+- Difference = Jimmy's new sheets - Tommy's sheets
+- Difference = 72 - 42 = 30
+
+This means that after receiving the sheets from Ashton, Jimmy will have 30 more sheets than Tommy.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

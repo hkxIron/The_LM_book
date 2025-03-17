@@ -1,0 +1,47 @@
+<reasoning>
+To find out how much profit John makes in a month, we need to calculate his total revenue from selling the computers, subtract his total costs (which include both the cost of the parts and his fixed expenses), and then determine the profit.
+
+**Step 1: Calculate the selling price of one computer.**
+The cost of the parts for one computer is $800. He sells the computers for 1.4 times the value of the components.
+
+So, the selling price (SP) of one computer is:
+\[ \text{SP} = 1.4 \times 800 \]
+
+Calculating this gives:
+\[ \text{SP} = 1120 \]
+
+**Step 2: Calculate the total revenue from selling 60 computers.**
+John builds and sells 60 computers a month. Therefore, his total revenue (TR) is:
+\[ \text{TR} = \text{SP} \times \text{Number of computers sold} \]
+\[ \text{TR} = 1120 \times 60 \]
+
+Calculating this gives:
+\[ \text{TR} = 67200 \]
+
+**Step 3: Calculate the total cost for parts for 60 computers.**
+The total cost for parts (TC) is calculated as:
+\[ \text{TC} = \text{Cost per computer} \times \text{Number of computers} \]
+\[ \text{TC} = 800 \times 60 \]
+
+Calculating this gives:
+\[ \text{TC} = 48000 \]
+
+**Step 4: Calculate total monthly expenses.**
+John has fixed expenses which include rent and other extra expenses. The total expenses (TE) can be calculated as:
+\[ \text{TE} = \text{Rent} + \text{Extra expenses} + \text{Total cost of parts} \]
+\[ \text{TE} = 5000 + 3000 + 48000 \]
+
+Calculating this gives:
+\[ \text{TE} = 56000 \]
+
+**Step 5: Calculate the profit.**
+Profit (P) is calculated by subtracting total expenses from total revenue:
+\[ P = \text{TR} - \text{TE} \]
+\[ P = 67200 - 56000 \]
+
+Calculating this gives:
+\[ P = 11200 \]
+
+Therefore, John makes a profit of $11,200 each month.
+</reasoning>
+<answer>11200</answer>

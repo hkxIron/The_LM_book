@@ -1,0 +1,28 @@
+<reasoning>
+Let's analyze the problem step by step.
+
+1. **Understanding the AdBlock Performance**:
+   Hannah's AdBlock blocks 80% of ads since it only allows 20% of ads to pass through. This means that if we consider 100 ads in total, the AdBlock allows 20 ads to be seen.
+
+2. **Identifying Interesting Ads**:
+   Out of the 20% of ads that are allowed through (which is 20 ads), 20% of these ads are interesting. We need to find how many interesting ads there are:
+   - 20% of 20 ads = 0.20 * 20 = 4 interesting ads.
+
+3. **Calculating Uninteresting Ads**:
+   Since there are 20 ads that are allowed through and 4 of them are interesting, we can find out how many of them are not interesting (uninteresting):
+   - Total allowed ads = 20
+   - Interesting ads = 4
+   - Uninteresting ads = Total allowed ads - Interesting ads = 20 - 4 = 16 uninteresting ads.
+
+4. **Finding Total Uninteresting Ads**:
+   Now, we need to find out the total number of ads that are uninteresting and are not blocked at all. We know that there are 80 ads that are blocked (since 100 total - 20 allowed = 80 blocked). Since the 16 uninteresting ads are among the allowed ads (the ones that are not blocked), we conclude that:
+   - Total uninteresting ads = 80 blocked ads + 16 uninteresting ads that are allowed through.
+
+5. **Calculating the Percentage of Uninteresting and Not Blocked Ads**:
+   From our analysis, we see that the total number of ads that are uninteresting and not blocked is 16. Since we are considering the original 100 ads to find the percentage:
+   - Percentage of uninteresting and not blocked ads = (Number of uninteresting and not blocked ads / Total ads) * 100
+   - Percentage = (16 / 100) * 100 = 16%.
+
+Therefore, the percentage of ads that aren't interesting and don't get blocked is:
+</reasoning>
+<answer>16</answer>

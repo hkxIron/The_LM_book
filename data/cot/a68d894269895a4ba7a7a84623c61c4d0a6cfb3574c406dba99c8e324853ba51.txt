@@ -1,0 +1,32 @@
+<reasoning>
+To solve this problem, we need to follow these steps:
+
+1. **Determine the total amount of solution in the test tubes**: 
+   We know that there are 6 test tubes, and each contains 7 mL of solution. To find the total volume of solution, we multiply the number of test tubes by the volume of solution in each tube. 
+
+   Calculation:
+   \[
+   \text{Total solution} = \text{Number of test tubes} \times \text{Volume per test tube} = 6 \times 7 \, \text{mL} 
+   \]
+
+   Performing the multiplication:
+   \[
+   6 \times 7 = 42 \, \text{mL}
+   \]
+
+2. **Distribute the total solution evenly into the beakers**:
+   Dr. Igor takes all 42 mL of solution and distributes it into 3 beakers. To find out how much solution is in each beaker, we divide the total amount of solution by the number of beakers. 
+
+   Calculation:
+   \[
+   \text{Solution per beaker} = \frac{\text{Total solution}}{\text{Number of beakers}} = \frac{42 \, \text{mL}}{3}
+   \]
+
+   Performing the division:
+   \[
+   \frac{42}{3} = 14 \, \text{mL}
+   \]
+
+Thus, after distributing the solution evenly into the beakers, each beaker contains 14 mL of solution.
+</reasoning>
+<answer>14</answer>

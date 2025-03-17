@@ -1,0 +1,19 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the weight of the first bell**: The problem states that the first bell takes 50 pounds of bronze. 
+   - So, the weight of the first bell is 50 pounds.
+
+2. **Calculate the weight of the second bell**: The second bell is twice the size of the first bell. This means it requires twice the amount of bronze used for the first bell.
+   - Weight of the second bell = 2 * Weight of the first bell = 2 * 50 pounds = 100 pounds.
+
+3. **Calculate the weight of the third bell**: The third bell is four times the size of the second bell. This means it requires four times the amount of bronze used for the second bell.
+   - Weight of the third bell = 4 * Weight of the second bell = 4 * 100 pounds = 400 pounds.
+
+4. **Calculate the total weight of bronze needed**: Now, we need to add the weights of all three bells together to find the total amount of bronze needed.
+   - Total weight = Weight of the first bell + Weight of the second bell + Weight of the third bell
+   - Total weight = 50 pounds + 100 pounds + 400 pounds = 550 pounds.
+
+Thus, the total amount of bronze Martin needs for casting the three bells is 550 pounds.
+</reasoning>
+<answer>550</answer>

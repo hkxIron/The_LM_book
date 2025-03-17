@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we need to follow a series of steps to determine how many three-pointers Duke made in the final game and compare that to his normal amount.
+
+1. **Determine how many points Duke scored in the final game.**  
+   Since Duke needed 17 points to tie the record and then broke the record by 5 points, we can calculate his total points in the final game as follows:
+   - Old record: 257 points
+   - Points needed to tie: 17 points
+   - Points scored in the game: 17 + 5 = 22 points
+
+2. **Calculate points scored from free throws and regular baskets.**  
+   - Duke made 5 free throws, each worth 1 point, contributing:  
+     \( 5 \text{ free throws} \times 1 \text{ point each} = 5 \text{ points} \)
+   - He also made 4 regular baskets, each worth 2 points, contributing:  
+     \( 4 \text{ baskets} \times 2 \text{ points each} = 8 \text{ points} \)
+
+3. **Add the points from free throws and baskets.**  
+   - Total points from free throws and baskets:  
+     \( 5 \text{ points} + 8 \text{ points} = 13 \text{ points} \)
+
+4. **Determine how many points Duke scored from three-pointers.**  
+   - Total points scored in the game: 22 points  
+   - Points scored from free throws and baskets: 13 points  
+   - Therefore, points from three-pointers:  
+     \( 22 \text{ points} - 13 \text{ points} = 9 \text{ points} \)
+
+5. **Calculate the number of three-pointers made.**  
+   - Each three-pointer is worth 3 points, so to find the number of three-pointers made:  
+     \( \text{Number of three-pointers} = \frac{9 \text{ points}}{3 \text{ points each}} = 3 \text{ three-pointers} \)
+
+6. **Determine how many three-pointers Duke normally scores.**  
+   - According to the problem, Duke normally scores 2 three-pointers per game.
+
+7. **Calculate how many more three-pointers he scored in the final game compared to his normal amount.**  
+   - Additional three-pointers scored:  
+     \( 3 \text{ three-pointers in final game} - 2 \text{ normal three-pointers} = 1 \text{ additional three-pointer} \)
+
+Therefore, Duke scored 1 more three-pointer in the final game compared to his normal amount.
+</reasoning>
+<answer>1</answer>

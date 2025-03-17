@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many miles Wendy drove on the third day, we need to first add the miles she drove on the first and second days, and then subtract that sum from the total miles driven on the trip.
+
+1. **Calculate the total miles driven on the first two days:**
+   - Wendy drove 125 miles on the first day.
+   - Wendy drove 223 miles on the second day.
+   - We add these two amounts together:
+     \[
+     125 + 223 = 348
+     \]
+   This sum represents the total miles driven over the first two days.
+
+2. **Subtract the total miles driven on the first two days from the overall trip total:**
+   - The total miles that Wendy drove for the trip is 493 miles.
+   - We subtract the sum of the first two days from the total miles:
+     \[
+     493 - 348 = 145
+     \]
+   This result tells us how many miles Wendy drove on the third day.
+
+Therefore, Wendy drove 145 miles on the third day.
+</reasoning>
+<answer>145</answer>

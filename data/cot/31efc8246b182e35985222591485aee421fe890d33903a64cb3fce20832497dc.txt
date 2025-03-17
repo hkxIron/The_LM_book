@@ -1,0 +1,36 @@
+<reasoning>
+Let's define the amount of money Yasmin had in her bank account before the deposit as \( x \).
+
+After Yasmin deposits the $50 check, her new balance will be \( x + 50 \).
+
+According to the problem, the check was worth a quarter of her new balance. Therefore, we can set up the equation:
+
+\[
+50 = \frac{1}{4}(x + 50)
+\]
+
+Now, we will solve this equation step by step.
+
+1. **Multiply both sides by 4** to eliminate the fraction:
+   \[
+   4 \times 50 = x + 50
+   \]
+   This simplifies to:
+   \[
+   200 = x + 50
+   \]
+
+2. **Subtract 50 from both sides** to isolate \( x \):
+   \[
+   200 - 50 = x
+   \]
+   This simplifies to:
+   \[
+   150 = x
+   \]
+
+So, Yasmin had $150 in her account before she deposited the check.
+
+Therefore, the amount of money Yasmin had in her account before the deposit is:
+</reasoning>
+<answer>150</answer>

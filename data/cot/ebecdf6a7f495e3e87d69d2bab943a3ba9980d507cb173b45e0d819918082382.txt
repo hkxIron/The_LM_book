@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much money Doctor Lindsay receives in a typical 8-hour day, we first need to determine how many patients she sees in that time frame, and then calculate the total income from those visits.
+
+1. **Calculate the total number of adult and child patients seen in an hour:**
+   - Doctor Lindsay sees 4 adult patients and 3 child patients each hour.
+   - Total patients per hour = 4 adult patients + 3 child patients = 7 patients.
+
+2. **Determine the number of patients seen in an 8-hour day:**
+   - Since she sees 7 patients each hour, in an 8-hour day, she will see:
+   - Total patients in 8 hours = 7 patients/hour * 8 hours = 56 patients.
+
+3. **Calculate the total income from adult patients:**
+   - The cost for an adult's office visit is $50.
+   - In 8 hours, she sees 4 adult patients per hour, so the total number of adult patients in 8 hours is:
+   - Total adult patients = 4 adult patients/hour * 8 hours = 32 adult patients.
+   - Total income from adult patients = 32 adult patients * $50/adult visit = $1600.
+
+4. **Calculate the total income from child patients:**
+   - The cost for a child's office visit is $25.
+   - In 8 hours, she sees 3 child patients per hour, so the total number of child patients in 8 hours is:
+   - Total child patients = 3 child patients/hour * 8 hours = 24 child patients.
+   - Total income from child patients = 24 child patients * $25/child visit = $600.
+
+5. **Calculate the total income for the day:**
+   - We now add the total income from adult patients and child patients together:
+   - Total income = Total income from adult patients + Total income from child patients
+   - Total income = $1600 + $600 = $2200.
+
+Thus, Doctor Lindsay receives a total of $2200 in a typical 8-hour day for seeing all her patients.
+</reasoning>
+<answer>2200</answer>

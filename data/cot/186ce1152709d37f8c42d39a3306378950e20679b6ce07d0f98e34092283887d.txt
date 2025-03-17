@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much weight Lindsey will squat, we need to calculate the total resistance from the exercise bands and then add the weight of the dumbbell.
+
+1. **Calculate the resistance from the exercise bands**: Lindsey has 2 exercise bands, and each band adds 5 pounds of resistance. Therefore, the total resistance from the bands is calculated as follows:
+   \[
+   \text{Total resistance from bands} = \text{Number of bands} \times \text{Resistance per band}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Total resistance from bands} = 2 \times 5 = 10 \text{ pounds}
+   \]
+
+2. **Determine the total resistance when doubling up the bands**: Lindsey doubles up the bands, which means she effectively has 4 bands (2 sets of 2). Therefore, we calculate the total resistance again:
+   \[
+   \text{Total resistance from doubled bands} = 4 \times 5 = 20 \text{ pounds}
+   \]
+
+3. **Add the weight of the dumbbell**: Lindsey is also lifting a 10-pound dumbbell. To find the total weight she will squat, we add the total resistance from the bands to the weight of the dumbbell:
+   \[
+   \text{Total weight squatted} = \text{Total resistance from bands} + \text{Weight of dumbbell}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total weight squatted} = 20 + 10 = 30 \text{ pounds}
+   \]
+
+Therefore, Lindsey will squat a total of 30 pounds.
+</reasoning>
+<answer>30</answer>

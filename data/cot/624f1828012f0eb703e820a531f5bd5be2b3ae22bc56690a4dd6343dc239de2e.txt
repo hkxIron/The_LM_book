@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, let's first define the prices of the dresses for each lady based on the information given.
+
+1. We know that Pauline's dress costs $30. 
+   - Let's denote the cost of Pauline's dress as P = $30.
+
+2. Next, we find the cost of Jean's dress. The problem states that Jean's dress was $10 less than Pauline's dress.
+   - So, we calculate Jean's dress as J = P - $10 = $30 - $10 = $20.
+
+3. Now, we determine the cost of Ida's dress. The problem states that Ida's dress was $30 more than Jean's dress.
+   - Therefore, Ida's dress cost I = J + $30 = $20 + $30 = $50.
+
+4. Finally, we calculate the cost of Patty's dress. The problem states that Patty's dress was $10 more than Ida's dress.
+   - Hence, Patty's dress cost Pa = I + $10 = $50 + $10 = $60.
+
+Now, we can summarize the costs:
+- Pauline's dress (P) = $30
+- Jean's dress (J) = $20
+- Ida's dress (I) = $50
+- Patty's dress (Pa) = $60
+
+To find the total amount spent by all the ladies on their dresses, we add up all the individual costs:
+Total cost = P + J + I + Pa = $30 + $20 + $50 + $60.
+
+Now we perform the addition step by step:
+- First, add Pauline's and Jean's dress costs: $30 + $20 = $50.
+- Next, add Ida's dress cost: $50 + $50 = $100.
+- Finally, add Patty's dress cost: $100 + $60 = $160.
+
+Therefore, the total amount spent on dresses by all the ladies is $160.
+</reasoning>
+<answer>160</answer>

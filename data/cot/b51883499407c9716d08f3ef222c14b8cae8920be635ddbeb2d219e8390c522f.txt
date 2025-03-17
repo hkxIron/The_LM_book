@@ -1,0 +1,36 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the total cost of the instant cameras:**
+   Selene buys 2 instant cameras at $110 each. To find the total cost for the cameras, we multiply the number of cameras by the price per camera:
+   \[
+   \text{Total cost of cameras} = 2 \times 110 = 220
+   \]
+
+2. **Calculate the total cost of the digital photo frames:**
+   Selene buys 3 digital photo frames at $120 each. To find the total cost for the frames, we multiply the number of frames by the price per frame:
+   \[
+   \text{Total cost of frames} = 3 \times 120 = 360
+   \]
+
+3. **Calculate the total cost before the discount:**
+   Now, we add the total cost of the cameras and the total cost of the frames to find the overall cost before any discounts:
+   \[
+   \text{Total cost before discount} = 220 + 360 = 580
+   \]
+
+4. **Calculate the discount amount:**
+   Selene receives a 5% discount on the total cost. To find the discount amount, we multiply the total cost by the discount rate (expressed as a decimal, which is 0.05):
+   \[
+   \text{Discount} = 580 \times 0.05 = 29
+   \]
+
+5. **Calculate the final amount to be paid:**
+   To find out how much Selene actually pays after applying the discount, we subtract the discount from the total cost:
+   \[
+   \text{Final amount} = 580 - 29 = 551
+   \]
+
+Therefore, after calculating all the steps, Selene pays a total of $551.
+</reasoning>
+<answer>551</answer>

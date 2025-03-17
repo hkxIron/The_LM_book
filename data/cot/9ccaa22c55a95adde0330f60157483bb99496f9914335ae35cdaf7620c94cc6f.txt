@@ -1,0 +1,37 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the miles run from Monday to Wednesday**: 
+   Scott runs 3 miles each day from Monday to Wednesday. 
+   So for these three days, we calculate:
+   \[
+   3 \text{ miles/day} \times 3 \text{ days} = 9 \text{ miles}
+   \]
+   This means Scott runs a total of 9 miles from Monday to Wednesday.
+
+2. **Calculate the miles run on Thursday and Friday**: 
+   On Thursday and Friday, Scott runs twice the distance he runs on Monday. Since he runs 3 miles on Monday, we calculate:
+   \[
+   2 \times 3 \text{ miles} = 6 \text{ miles}
+   \]
+   Thus, on both Thursday and Friday, he runs 6 miles each day. We need to find the total distance he runs on these two days:
+   \[
+   6 \text{ miles/day} \times 2 \text{ days} = 12 \text{ miles}
+   \]
+
+3. **Total miles run in one week**: 
+   Now we can add the total miles run from Monday to Wednesday to the total from Thursday and Friday:
+   \[
+   9 \text{ miles (Mon-Wed)} + 12 \text{ miles (Thu-Fri)} = 21 \text{ miles}
+   \]
+   So Scott runs a total of 21 miles in one week.
+
+4. **Calculate the total miles run in 4 weeks**: 
+   To find out how much he runs in a month with 4 weeks, we multiply the weekly mileage by 4:
+   \[
+   21 \text{ miles/week} \times 4 \text{ weeks} = 84 \text{ miles}
+   \]
+
+Therefore, the total number of miles Scott will run in a month with 4 weeks is 84 miles.
+</reasoning>
+<answer>84</answer>

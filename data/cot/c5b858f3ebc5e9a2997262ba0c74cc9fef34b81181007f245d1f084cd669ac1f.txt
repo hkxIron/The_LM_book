@@ -1,0 +1,44 @@
+<reasoning>
+Let's break this problem down step by step to find out how much Tom pays in a year for his medication and doctor visits.
+
+1. **Determine the cost of medication per day:**
+   Tom takes 2 pills every day, and each pill costs $5. 
+   To find the daily cost, we multiply the number of pills by the cost per pill:
+   \[
+   \text{Daily cost} = 2 \text{ pills/day} \times \$5/\text{pill} = \$10/\text{day}
+   \]
+
+2. **Calculate the annual medication cost:**
+   There are 365 days in a year, so we multiply the daily cost by the number of days in a year:
+   \[
+   \text{Annual medication cost} = \$10/\text{day} \times 365 \text{ days} = \$3650
+   \]
+
+3. **Determine the insurance coverage:**
+   Insurance covers 80% of the cost of the medication. To find out how much Tom pays after insurance, we first calculate 80% of the total annual medication cost:
+   \[
+   \text{Insurance coverage} = 0.80 \times \$3650 = \$2920
+   \]
+   Now, we subtract this amount from the total medication cost to find out what Tom pays:
+   \[
+   \text{Tom's cost for medication} = \$3650 - \$2920 = \$730
+   \]
+
+4. **Calculate the cost of doctor visits:**
+   Tom visits the doctor every 6 months, which means he goes twice a year. Each visit costs $400:
+   \[
+   \text{Annual doctor visit cost} = 2 \text{ visits/year} \times \$400/\text{visit} = \$800
+   \]
+
+5. **Total annual cost:**
+   Now, we add Tom's medication cost and his doctor visit cost to find the total amount he pays in a year:
+   \[
+   \text{Total annual cost} = \text{Tom's cost for medication} + \text{Annual doctor visit cost}
+   \]
+   \[
+   \text{Total annual cost} = \$730 + \$800 = \$1530
+   \]
+
+Therefore, Tom pays a total of $1530 a year for everything.
+</reasoning>
+<answer>1530</answer>

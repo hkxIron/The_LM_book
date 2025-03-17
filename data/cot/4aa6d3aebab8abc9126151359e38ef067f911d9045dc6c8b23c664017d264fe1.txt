@@ -1,0 +1,67 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Determine the number of black balloons**: 
+   We know that there are 3414 yellow balloons and that there are 1762 more black balloons than yellow balloons. To find the number of black balloons, we add the number of yellow balloons to the additional amount of black balloons.
+
+   \[
+   \text{Number of black balloons} = \text{Number of yellow balloons} + \text{More black balloons}
+   \]
+
+   Plugging in the values:
+
+   \[
+   \text{Number of black balloons} = 3414 + 1762
+   \]
+
+   Let's perform the addition:
+
+   \[
+   3414 + 1762 = 5176
+   \]
+
+   Therefore, there are 5176 black balloons.
+
+2. **Calculate the total number of balloons**:
+   Now, we need to find the total number of balloons by adding the yellow and black balloons together.
+
+   \[
+   \text{Total number of balloons} = \text{Number of yellow balloons} + \text{Number of black balloons}
+   \]
+
+   Plugging in the values:
+
+   \[
+   \text{Total number of balloons} = 3414 + 5176
+   \]
+
+   Performing the addition:
+
+   \[
+   3414 + 5176 = 8590
+   \]
+
+   So, the total number of balloons is 8590.
+
+3. **Divide the total number of balloons among the schools**:
+   We need to divide the total number of balloons by the number of schools, which is 10.
+
+   \[
+   \text{Balloons per school} = \frac{\text{Total number of balloons}}{\text{Number of schools}}
+   \]
+
+   Plugging in the values:
+
+   \[
+   \text{Balloons per school} = \frac{8590}{10}
+   \]
+
+   Performing the division:
+
+   \[
+   8590 \div 10 = 859
+   \]
+
+   Therefore, each school will receive 859 balloons.
+</reasoning>
+<answer>859</answer>

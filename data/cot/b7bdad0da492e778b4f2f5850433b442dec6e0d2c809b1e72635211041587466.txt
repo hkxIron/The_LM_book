@@ -1,0 +1,49 @@
+<reasoning>
+To solve the problem, we need to calculate the total travel time for both Luke and Paula from home to work and back home.
+
+1. **Calculate Paula's travel time to work:**
+   - Luke takes 70 minutes to get to work.
+   - Paula takes \( \frac{3}{5} \) of Luke's time.
+   - To find Paula's time, we multiply Luke's time by \( \frac{3}{5} \):
+     \[
+     \text{Paula's time} = 70 \times \frac{3}{5}
+     \]
+   - Performing the multiplication:
+     \[
+     70 \times \frac{3}{5} = 70 \times 0.6 = 42 \text{ minutes}
+     \]
+   - So, Paula takes 42 minutes to get to work.
+
+2. **Calculate Luke's travel time back home:**
+   - Luke rides his bike back home at a speed that is 5 times slower than the bus.
+   - Since the bus takes 70 minutes, the speed of the bike is \( \frac{1}{5} \) of the bus's speed.
+   - The time taken to travel back on the bike is 5 times the time taken by the bus:
+     \[
+     \text{Luke's bike time} = 70 \times 5 = 350 \text{ minutes}
+     \]
+
+3. **Calculate Paula's travel time back home:**
+   - Paula takes the bus back home. Since she takes 42 minutes to get to work, she will take the same amount of time to get back home:
+     \[
+     \text{Paula's bus time back} = 42 \text{ minutes}
+     \]
+
+4. **Calculate the total travel time for both Luke and Paula:**
+   - Total time for Luke (to work and back):
+     \[
+     \text{Total time for Luke} = 70 + 350 = 420 \text{ minutes}
+     \]
+   - Total time for Paula (to work and back):
+     \[
+     \text{Total time for Paula} = 42 + 42 = 84 \text{ minutes}
+     \]
+
+5. **Calculate the overall total travel time:**
+   - Now, we sum up both of their total travel times:
+     \[
+     \text{Overall total time} = 420 + 84 = 504 \text{ minutes}
+     \]
+
+Therefore, the total amount of time they take traveling from home to work and back each day is:
+</reasoning>
+<answer>504</answer>

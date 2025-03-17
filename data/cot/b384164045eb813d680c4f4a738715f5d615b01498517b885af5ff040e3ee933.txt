@@ -1,0 +1,28 @@
+<reasoning>
+First, let's calculate how much Dale's breakfast cost.
+
+Dale had 2 slices of toast which cost £1 each and 2 eggs which cost £3 each. 
+
+So, the cost of Dale's toast is 2 slices * £1/slice = £2.
+And, the cost of Dale's eggs is 2 eggs * £3/egg = £6.
+
+Adding these two amounts together gives the total cost of Dale's breakfast.
+£2 (for toast) + £6 (for eggs) = £8.
+
+Now, let's calculate how much Andrew's breakfast cost.
+
+Andrew had 1 slice of toast which cost £1 and 2 eggs which cost £3 each.
+
+So, the cost of Andrew's toast is 1 slice * £1/slice = £1.
+And, the cost of Andrew's eggs is 2 eggs * £3/egg = £6.
+
+Adding these two amounts together gives the total cost of Andrew's breakfast.
+£1 (for toast) + £6 (for eggs) = £7.
+
+Finally, we add the cost of Dale's and Andrew's breakfasts together to find the total cost.
+
+£8 (Dale's breakfast) + £7 (Andrew's breakfast) = £15.
+
+So, the total cost of their breakfast was £15.
+</reasoning>
+<answer>15</answer>

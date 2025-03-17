@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to first determine how many rubber bands Michael has used to make the 22 small balls and then calculate how many rubber bands are left from the total pack he brought to class.
+
+1. **Calculate the total number of rubber bands used for the small balls:**
+   Each small ball uses 50 rubber bands. Therefore, for 22 small balls, the total number of rubber bands used is:
+   \[
+   \text{Rubber bands used for small balls} = 22 \text{ balls} \times 50 \text{ bands/ball} = 1100 \text{ bands}
+   \]
+   This calculation tells us how many rubber bands have already been used.
+
+2. **Determine the total number of rubber bands available:**
+   Michael brought a total of 5,000 rubber bands to class. 
+
+3. **Calculate the remaining rubber bands:**
+   Now we subtract the number of rubber bands used for the small balls from the total number of rubber bands:
+   \[
+   \text{Remaining rubber bands} = 5000 \text{ bands} - 1100 \text{ bands} = 3900 \text{ bands}
+   \]
+   This gives us the number of rubber bands he has left to use for large balls.
+
+4. **Calculate how many large balls can be made with the remaining rubber bands:**
+   Each large ball requires 300 rubber bands. To find out how many large balls can be made with the remaining 3900 rubber bands, we perform the following calculation:
+   \[
+   \text{Number of large balls} = \frac{3900 \text{ bands}}{300 \text{ bands/ball}} = 13 \text{ balls}
+   \]
+   This division tells us how many complete large balls can be made with the remaining rubber bands.
+
+Therefore, Michael can make 13 large balls with the remaining rubber bands.
+</reasoning>
+<answer>13</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we need to determine how much money you save through the online sale and then subtract that from your total purchase amount.
+
+1. **Identify the total purchase amount**: You are making a purchase of $250.
+
+2. **Calculate the savings based on the sale**: The sale offers $10 off for every $100 spent. First, we need to find out how many hundreds are in $250:
+   \[
+   \text{Number of hundreds} = \frac{250}{100} = 2.5
+   \]
+   Since you can only benefit from whole hundreds, we take only the whole number part, which is 2.
+
+3. **Calculate the total discount**: Since you get $10 off for each complete $100 spent, we calculate the total discount:
+   \[
+   \text{Total discount} = 2 \times 10 = 20
+   \]
+
+4. **Determine the final amount paid**: Now, we subtract the discount from the original purchase amount:
+   \[
+   \text{Final amount paid} = 250 - 20 = 230
+   \]
+
+Therefore, after applying the discount, you end up paying $230.
+</reasoning>
+<answer>230</answer>

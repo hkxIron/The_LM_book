@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the amount of lobster in the other two harbors**: 
+   Each of the two other harbors has 80 pounds of lobster. Therefore, we need to find the total amount of lobster in these two harbors combined.
+
+   Calculation:
+   \[
+   80 \text{ pounds} + 80 \text{ pounds} = 160 \text{ pounds}
+   \]
+
+   So, the other two harbors together hold 160 pounds of lobster.
+
+2. **Determine the amount of lobster in Hooper Bay**:
+   According to the problem, Hooper Bay has twice as many pounds of lobster as the two other harbors combined.
+
+   Calculation:
+   \[
+   2 \times 160 \text{ pounds} = 320 \text{ pounds}
+   \]
+
+   Thus, Hooper Bay has 320 pounds of lobster.
+
+3. **Calculate the total amount of lobster in all three harbors**:
+   Now we need to sum the amount of lobster in all three harbors: the two other harbors and Hooper Bay.
+
+   Calculation:
+   \[
+   160 \text{ pounds} + 320 \text{ pounds} = 480 \text{ pounds}
+   \]
+
+Therefore, the total amount of lobster held by the three harbors is 480 pounds.
+</reasoning>
+<answer>480</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To determine how much Jackson spends on champagne for the hot tub, we will follow these steps:
+
+1. **Convert gallons to quarts**: We need to find out how many quarts are in 40 gallons since each bottle of champagne holds 1 quart. We know that there are 4 quarts in a gallon. Therefore, to convert gallons to quarts, we multiply the number of gallons by 4.
+
+   \[
+   40 \text{ gallons} \times 4 \text{ quarts/gallon} = 160 \text{ quarts}
+   \]
+
+   This means Jackson needs 160 quarts of champagne for the hot tub.
+
+2. **Determine the number of bottles needed**: Since each bottle holds 1 quart, the number of bottles required will equal the number of quarts.
+
+   \[
+   \text{Number of bottles} = 160 \text{ quarts} = 160 \text{ bottles}
+   \]
+
+3. **Calculate the total cost without discount**: Each bottle of champagne costs $50. To find the total cost without the discount, we multiply the number of bottles by the price per bottle.
+
+   \[
+   \text{Total cost without discount} = 160 \text{ bottles} \times 50 \text{ dollars/bottle} = 8000 \text{ dollars}
+   \]
+
+4. **Calculate the discount**: Jackson receives a 20% discount on the total cost. First, we find the amount of the discount.
+
+   \[
+   \text{Discount amount} = 20\% \text{ of } 8000 \text{ dollars} = 0.20 \times 8000 = 1600 \text{ dollars}
+   \]
+
+5. **Calculate the final cost after discount**: We subtract the discount from the total cost.
+
+   \[
+   \text{Final cost} = 8000 \text{ dollars} - 1600 \text{ dollars} = 6400 \text{ dollars}
+   \]
+
+Therefore, after following all these steps, we find that Jackson spends $6400 on champagne for the hot tub.
+</reasoning>
+<answer>6400</answer>

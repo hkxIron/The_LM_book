@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many yards of ribbon will be left after using some for the gifts, we can follow these steps:
+
+1. **Calculate the total amount of ribbon used for the gifts**: 
+   We know that each gift uses 2 yards of ribbon and there are 6 gifts. We can find the total ribbon used by multiplying the number of gifts by the amount of ribbon used per gift.
+
+   \[
+   \text{Total ribbon used} = \text{Number of gifts} \times \text{Ribbon per gift} = 6 \times 2
+   \]
+
+   This gives us:
+
+   \[
+   6 \times 2 = 12 \text{ yards}
+   \]
+
+   So, 12 yards of ribbon will be used for the gifts.
+
+2. **Calculate the remaining ribbon**:
+   Now, we need to subtract the total ribbon used from the initial amount of ribbon Josh has. He starts with 18 yards of ribbon.
+
+   \[
+   \text{Remaining ribbon} = \text{Initial ribbon} - \text{Total ribbon used} = 18 - 12
+   \]
+
+   This gives us:
+
+   \[
+   18 - 12 = 6 \text{ yards}
+   \]
+
+Therefore, after using 12 yards of ribbon for the 6 gifts, there will be 6 yards of ribbon left.
+</reasoning>
+<answer>6</answer>

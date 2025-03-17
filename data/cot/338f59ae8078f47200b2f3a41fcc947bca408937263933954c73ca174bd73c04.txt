@@ -1,0 +1,34 @@
+<reasoning>
+To determine how many fish fillets Luke has, we can break the problem down into several steps.
+
+1. **Calculate the total number of fish Luke catches**: 
+   - Luke catches 2 fish every day for 30 days. 
+   - To find the total number of fish, we multiply the number of fish caught per day by the number of days:
+     \[
+     \text{Total fish} = 2 \text{ fish/day} \times 30 \text{ days}
+     \]
+
+2. **Perform the multiplication**: 
+   - Now, we compute:
+     \[
+     \text{Total fish} = 2 \times 30 = 60
+     \]
+   - So, Luke catches a total of 60 fish.
+
+3. **Calculate the total number of fish fillets**: 
+   - Each fish gives Luke 2 fillets.
+   - To find the total number of fillets, we multiply the total number of fish by the number of fillets per fish:
+     \[
+     \text{Total fillets} = 60 \text{ fish} \times 2 \text{ fillets/fish}
+     \]
+
+4. **Perform the multiplication for fillets**: 
+   - Now, we compute:
+     \[
+     \text{Total fillets} = 60 \times 2 = 120
+     \]
+   - Thus, Luke has a total of 120 fish fillets.
+
+Therefore, after going through the steps and calculations, we find that Luke has 120 fish fillets.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the firefighter's total earnings for the month.**
+   - The firefighter works 48 hours a week and is paid $30 per hour.
+   - First, we find out how much he earns in a week: 
+     \[
+     \text{Weekly Earnings} = 48 \text{ hours} \times 30 \text{ dollars/hour} = 1440 \text{ dollars}
+     \]
+   - Since there are approximately 4 weeks in a month, we will multiply the weekly earnings by 4 to find the monthly earnings:
+     \[
+     \text{Monthly Earnings} = 1440 \text{ dollars/week} \times 4 \text{ weeks} = 5760 \text{ dollars}
+     \]
+
+2. **Calculate the monthly expenses.**
+   - The firefighter pays 1/3 of his earnings on rent. First, we calculate how much that is:
+     \[
+     \text{Rent} = \frac{1}{3} \times 5760 \text{ dollars} = 1920 \text{ dollars}
+     \]
+   - Next, we add the other monthly expenses (food and taxes):
+     - Food = $500
+     - Taxes = $1000
+   - Now, let's find the total monthly expenses:
+     \[
+     \text{Total Expenses} = \text{Rent} + \text{Food} + \text{Taxes} = 1920 \text{ dollars} + 500 \text{ dollars} + 1000 \text{ dollars} = 3420 \text{ dollars}
+     \]
+
+3. **Calculate the total amount of money the firefighter has after paying his monthly expenses.**
+   - We will subtract the total expenses from the monthly earnings:
+     \[
+     \text{Remaining Amount} = \text{Monthly Earnings} - \text{Total Expenses} = 5760 \text{ dollars} - 3420 \text{ dollars} = 2340 \text{ dollars}
+     \]
+
+Therefore, the total amount of money the firefighter has after paying his monthly expenses is:
+</reasoning>
+<answer>2340</answer>

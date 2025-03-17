@@ -1,0 +1,21 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Manu's time**: 
+   We know that Patrick finishes the race in 60 seconds. Manu took 12 more seconds than Patrick. So, we can calculate Manu's time as follows:
+   \[
+   \text{Manu's time} = \text{Patrick's time} + 12 \text{ seconds} = 60 \text{ seconds} + 12 \text{ seconds} = 72 \text{ seconds}
+   \]
+
+2. **Calculate Amy's speed**:
+   The problem states that Amy is twice as fast as Manu. To find Amy's time, we first need to consider their speeds. Speed is inversely proportional to time when the distance is constant. This means if Amy is twice as fast as Manu, then her time will be half of Manu's time.
+
+3. **Calculate Amy's time**:
+   Since Manu took 72 seconds, Amy, being twice as fast, will take half of that time:
+   \[
+   \text{Amy's time} = \frac{\text{Manu's time}}{2} = \frac{72 \text{ seconds}}{2} = 36 \text{ seconds}
+   \]
+
+Therefore, Amy finished the race in 36 seconds.
+</reasoning>
+<answer>36</answer>

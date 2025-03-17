@@ -1,0 +1,32 @@
+<reasoning>
+Let's denote the amount of money Blake initially gave to Connie as \( x \).
+
+1. **Understanding the problem**: 
+   - Connie uses the money \( x \) to buy land.
+   - The land triples in value after one year. Therefore, the value of the land after one year is \( 3x \).
+   
+2. **Calculating the sale of the land**:
+   - After one year, Connie sells the land for \( 3x \).
+
+3. **Connie's action after selling the land**:
+   - Connie gives half of the money she received from the sale to Blake. This means she gives Blake half of \( 3x \), which is \( \frac{3x}{2} \).
+   
+4. **Setting up the equation based on the information given**:
+   - We know that Connie gave Blake $30,000. Therefore, we can set up the following equation:
+   \[
+   \frac{3x}{2} = 30,000
+   \]
+
+5. **Solving for \( x \)**:
+   - To isolate \( x \), we first multiply both sides of the equation by 2 to eliminate the fraction:
+   \[
+   3x = 60,000
+   \]
+   - Next, we divide both sides by 3 to solve for \( x \):
+   \[
+   x = \frac{60,000}{3} = 20,000
+   \]
+
+Thus, Blake initially gave Connie \( 20,000 \) dollars.
+</reasoning>
+<answer>20000</answer>

@@ -1,0 +1,50 @@
+<reasoning>
+Let's break down the problem step by step, keeping track of each type of animal John has.
+
+1. **Determine the number of monkeys**:
+   - John has 15 snakes.
+   - He has twice as many monkeys as snakes.
+   - Therefore, the number of monkeys is calculated as:
+     \[
+     \text{Number of monkeys} = 2 \times \text{Number of snakes} = 2 \times 15 = 30
+     \]
+
+2. **Determine the number of lions**:
+   - John has 5 fewer lions than monkeys.
+   - Therefore, the number of lions is:
+     \[
+     \text{Number of lions} = \text{Number of monkeys} - 5 = 30 - 5 = 25
+     \]
+
+3. **Determine the number of pandas**:
+   - John has 8 more pandas than lions.
+   - Therefore, the number of pandas is:
+     \[
+     \text{Number of pandas} = \text{Number of lions} + 8 = 25 + 8 = 33
+     \]
+
+4. **Determine the number of dogs**:
+   - John has 1/3 as many dogs as pandas.
+   - Therefore, the number of dogs is:
+     \[
+     \text{Number of dogs} = \frac{1}{3} \times \text{Number of pandas} = \frac{1}{3} \times 33 = 11
+     \]
+
+5. **Calculate the total number of animals**:
+   - Now, we can sum up all the animals:
+     \[
+     \text{Total animals} = \text{Number of snakes} + \text{Number of monkeys} + \text{Number of lions} + \text{Number of pandas} + \text{Number of dogs} 
+     \]
+     \[
+     = 15 + 30 + 25 + 33 + 11
+     \]
+
+   - Performing the addition step by step:
+     - First, add snakes and monkeys: \(15 + 30 = 45\)
+     - Then add lions: \(45 + 25 = 70\)
+     - Then add pandas: \(70 + 33 = 103\)
+     - Finally, add dogs: \(103 + 11 = 114\)
+
+Thus, John has a total of 114 animals.
+</reasoning>
+<answer>114</answer>

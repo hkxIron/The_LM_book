@@ -1,0 +1,57 @@
+<reasoning>
+Let's start by defining the variables based on the information given:
+
+1. Let \( T \) represent the number of photos Tom has.
+2. Let \( I \) represent the number of photos Tim has.
+3. Let \( P \) represent the number of photos Paul has.
+
+From the problem, we can derive the following equations:
+
+1. According to the problem, Paul has 10 photos more than Tim. This can be expressed as:
+   \[
+   P = I + 10
+   \]
+
+2. Tim has one hundred photos less than the total amount of photos, which is 152. Therefore, we can write:
+   \[
+   I = 152 - 100
+   \]
+
+Now, let's calculate the number of photos Tim has (I):
+\[
+I = 152 - 100 = 52
+\]
+
+Now that we know how many photos Tim has, we can find out how many photos Paul has using the first equation:
+\[
+P = I + 10 = 52 + 10 = 62
+\]
+
+Next, we know the total number of photos collected by Tom, Tim, and Paul together is 152. Thus, we can set up the equation for the total:
+\[
+T + I + P = 152
+\]
+
+Substituting the values we know (I = 52 and P = 62) into the equation:
+\[
+T + 52 + 62 = 152
+\]
+
+Now, let's simplify the equation:
+\[
+T + 114 = 152
+\]
+
+To isolate \( T \), we subtract 114 from both sides:
+\[
+T = 152 - 114
+\]
+\[
+T = 38
+\]
+
+Thus, Tom has 38 photos.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>38</answer>

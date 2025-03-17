@@ -1,0 +1,38 @@
+<reasoning>
+To find the average price of each DVD that Duke bought, we need to follow these steps:
+
+1. **Calculate the total cost of DVDs from the first box.**
+   - Duke found 10 movies at $2.00 each. 
+   - To find the total cost, we multiply the number of movies by the price per movie:
+     \[
+     \text{Total cost from first box} = 10 \times 2 = 20 \text{ dollars}
+     \]
+
+2. **Calculate the total cost of DVDs from the second box.**
+   - Duke found 5 movies at $5.00 each.
+   - Again, we multiply the number of movies by the price per movie:
+     \[
+     \text{Total cost from second box} = 5 \times 5 = 25 \text{ dollars}
+     \]
+
+3. **Calculate the total cost of all DVDs.**
+   - Now, we sum the total costs from both boxes:
+     \[
+     \text{Total cost} = \text{Total cost from first box} + \text{Total cost from second box} = 20 + 25 = 45 \text{ dollars}
+     \]
+
+4. **Calculate the total number of DVDs purchased.**
+   - Duke bought 10 DVDs from the first box and 5 DVDs from the second box:
+     \[
+     \text{Total DVDs} = 10 + 5 = 15
+     \]
+
+5. **Calculate the average price per DVD.**
+   - The average price is found by dividing the total cost by the total number of DVDs:
+     \[
+     \text{Average price} = \frac{\text{Total cost}}{\text{Total DVDs}} = \frac{45}{15} = 3 \text{ dollars}
+     \]
+
+Therefore, the average price of each DVD that Duke bought is $3.00.
+</reasoning>
+<answer>3</answer>

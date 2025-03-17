@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many dozen donuts Javier needs to buy and sell to raise $96, we can break it down step by step.
+
+1. **Determine the profit per dozen**: 
+   - Javier buys each dozen donuts for $2.40.
+   - Each dozen consists of 12 donuts, and he sells each donut for $1.
+   - Therefore, the revenue from selling one dozen donuts is:
+     \[
+     12 \text{ donuts} \times 1 \text{ dollar per donut} = 12 \text{ dollars}
+     \]
+   - Now, we can calculate the profit made from selling one dozen donuts:
+     \[
+     \text{Profit per dozen} = \text{Revenue from selling} - \text{Cost of buying} = 12 \text{ dollars} - 2.40 \text{ dollars} = 9.60 \text{ dollars}
+     \]
+
+2. **Determine how many dozens are needed to reach the goal**:
+   - Javier wants to raise a total of $96.
+   - Since he makes a profit of $9.60 for each dozen sold, we can find out how many dozens he needs to sell by dividing the total amount he wants to raise by the profit per dozen:
+     \[
+     \text{Number of dozens} = \frac{\text{Total amount to raise}}{\text{Profit per dozen}} = \frac{96 \text{ dollars}}{9.60 \text{ dollars}} = 10
+     \]
+
+Therefore, Javier needs to buy and sell **10 dozen donuts** to reach his goal of raising $96.
+</reasoning>
+<answer>10</answer>

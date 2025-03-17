@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate Silas's contribution**: Since Silas is paying for half of the bill, we first find out how much half of the $150 bill is.
+
+   \[
+   \text{Silas's share} = \frac{150}{2} = 75
+   \]
+
+   This means Silas will pay $75.
+
+2. **Calculate the remaining bill**: The remaining amount of the bill that the other friends need to split is also $75 since the total bill is $150.
+
+3. **Calculate the tip**: We need to calculate a 10% tip on the entire bill to determine how much more needs to be paid.
+
+   \[
+   \text{Tip} = 0.10 \times 150 = 15
+   \]
+
+4. **Total amount to be split**: Now, we add the tip to the remaining bill to find out the total amount the other friends need to cover.
+
+   \[
+   \text{Total remaining amount} = 75 + 15 = 90
+   \]
+
+5. **Split the total remaining amount among the friends**: There are 5 friends left (since Silas is paying his share). We will divide the total remaining amount by 5 to find out how much each friend needs to pay.
+
+   \[
+   \text{Amount per friend} = \frac{90}{5} = 18
+   \]
+
+Therefore, each of the remaining friends will pay $18.
+</reasoning>
+<answer>18</answer>

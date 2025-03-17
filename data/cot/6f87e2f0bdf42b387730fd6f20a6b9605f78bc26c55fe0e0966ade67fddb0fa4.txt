@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much money Du Chin remains with after setting aside the money for buying ingredients, we will go through the problem step by step.
+
+1. **Calculate the total sales from the meat pies:**
+   Du Chin bakes and sells 200 meat pies at $20 each. To find the total sales, we multiply the number of pies by the price per pie:
+   \[
+   \text{Total Sales} = \text{Number of Pies} \times \text{Price per Pie} = 200 \times 20
+   \]
+   Doing the calculation:
+   \[
+   \text{Total Sales} = 4000
+   \]
+   This means Du Chin earns $4000 from selling the pies.
+
+2. **Calculate the amount set aside for ingredients:**
+   Du Chin uses 3/5 of his total sales to buy ingredients. To find out how much he sets aside, we multiply the total sales by 3/5:
+   \[
+   \text{Amount for Ingredients} = \text{Total Sales} \times \frac{3}{5} = 4000 \times \frac{3}{5}
+   \]
+   First, calculate 4000 times 3:
+   \[
+   4000 \times 3 = 12000
+   \]
+   Now divide by 5:
+   \[
+   \text{Amount for Ingredients} = \frac{12000}{5} = 2400
+   \]
+   So, Du Chin sets aside $2400 for buying ingredients.
+
+3. **Calculate the remaining money after buying ingredients:**
+   To find out how much money Du Chin has left after setting aside the money for ingredients, we subtract the amount for ingredients from the total sales:
+   \[
+   \text{Remaining Money} = \text{Total Sales} - \text{Amount for Ingredients} = 4000 - 2400
+   \]
+   Doing the subtraction:
+   \[
+   \text{Remaining Money} = 1600
+   \]
+
+Therefore, after setting aside the money for buying ingredients, Du Chin remains with $1600.
+</reasoning>
+<answer>1600</answer>

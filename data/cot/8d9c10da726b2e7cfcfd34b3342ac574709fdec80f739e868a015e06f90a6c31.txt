@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of infertile eggs**: 
+   The gecko lays 30 eggs per year, and 20 percent of them are infertile. To find the number of infertile eggs, we multiply the total number of eggs by the percentage that are infertile (20%).
+
+   \[
+   \text{Infertile eggs} = 30 \times 0.20 = 6
+   \]
+
+   Explanation: We are calculating 20% of 30 to determine how many of the laid eggs do not develop.
+
+2. **Calculate the number of fertile eggs**: 
+   Next, we subtract the number of infertile eggs from the total number of eggs to find the number of fertile eggs.
+
+   \[
+   \text{Fertile eggs} = 30 - 6 = 24
+   \]
+
+   Explanation: We subtract the infertile eggs from the total to find out how many eggs are potentially capable of hatching.
+
+3. **Calculate the number of eggs that will not hatch due to calcification**: 
+   A third of the remaining (fertile) eggs will not hatch due to calcification issues. To find the number of eggs that will not hatch, we calculate one-third of the fertile eggs.
+
+   \[
+   \text{Eggs not hatching} = \frac{1}{3} \times 24 = 8
+   \]
+
+   Explanation: We are calculating one-third of the 24 fertile eggs to determine how many will not hatch due to calcification.
+
+4. **Calculate the number of eggs that actually hatch**: 
+   Finally, we subtract the number of eggs that do not hatch from the number of fertile eggs to find out how many eggs actually hatch.
+
+   \[
+   \text{Hatching eggs} = 24 - 8 = 16
+   \]
+
+   Explanation: We subtract the eggs that will not hatch from the total number of fertile eggs to find out how many successfully hatch.
+
+Therefore, the total number of eggs that actually hatch is:
+</reasoning>
+<answer>16</answer>

@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the costs for the first gym membership:**
+   - The monthly cost of the cheap gym is $10.
+   - The sign-up fee for this gym is $50.
+   - There are 12 months in a year, so the total cost for one year (monthly fees plus sign-up fee) is calculated as follows:
+     \[
+     \text{Total cost for first gym} = (\text{Monthly fee} \times \text{Number of months}) + \text{Sign-up fee}
+     \]
+     \[
+     \text{Total cost for first gym} = (10 \times 12) + 50 = 120 + 50 = 170
+     \]
+
+2. **Determine the costs for the second gym membership:**
+   - The second gym is 3 times more expensive than the first gym. Since the first gym costs $10 a month, the second gym costs:
+     \[
+     \text{Monthly fee for second gym} = 3 \times 10 = 30
+     \]
+   - The sign-up fee for the second gym is equivalent to 4 months of membership. Therefore, the sign-up fee is:
+     \[
+     \text{Sign-up fee for second gym} = \text{Monthly fee} \times 4 = 30 \times 4 = 120
+     \]
+   - Now, we will calculate the total cost for the second gym for one year:
+     \[
+     \text{Total cost for second gym} = (\text{Monthly fee} \times \text{Number of months}) + \text{Sign-up fee}
+     \]
+     \[
+     \text{Total cost for second gym} = (30 \times 12) + 120 = 360 + 120 = 480
+     \]
+
+3. **Calculate the total cost for both gym memberships:**
+   - Now we add the total costs from both gyms:
+     \[
+     \text{Total cost for both gyms} = \text{Total cost for first gym} + \text{Total cost for second gym}
+     \]
+     \[
+     \text{Total cost for both gyms} = 170 + 480 = 650
+     \]
+
+Therefore, after calculating all the costs, John paid a total of $650 for gym memberships in the first year.
+</reasoning>
+<answer>650</answer>

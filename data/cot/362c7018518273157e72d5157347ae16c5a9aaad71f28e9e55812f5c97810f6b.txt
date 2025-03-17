@@ -1,0 +1,40 @@
+<reasoning>
+First, we need to calculate the total cost of the ping pong balls without the discount. Since Johnny is buying 10,000 ping pong balls at a price of $0.10 each, we can use the formula:
+
+Total Cost = Price per Ball × Number of Balls
+
+Substituting in the values:
+
+Total Cost = $0.10 × 10,000
+
+Now, let's do the multiplication:
+
+Total Cost = $1,000
+
+Next, since Johnny gets a 30% discount for buying in bulk, we need to calculate how much the discount is. The discount can be found by multiplying the total cost by the discount percentage:
+
+Discount Amount = Total Cost × Discount Percentage
+
+Substituting in the values:
+
+Discount Amount = $1,000 × 0.30
+
+Now, calculating the discount:
+
+Discount Amount = $300
+
+Now, we subtract the discount amount from the total cost to find out how much Johnny actually pays:
+
+Amount Paid = Total Cost - Discount Amount
+
+Substituting in the values:
+
+Amount Paid = $1,000 - $300
+
+Calculating this gives:
+
+Amount Paid = $700
+
+Therefore, after applying the 30% discount, Johnny pays $700 for the 10,000 ping pong balls.
+</reasoning>
+<answer>700</answer>

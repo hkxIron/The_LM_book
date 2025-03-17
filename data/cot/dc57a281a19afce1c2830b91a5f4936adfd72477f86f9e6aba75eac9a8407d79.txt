@@ -1,0 +1,19 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Wednesday's sales**: The problem states that 15 copies were sold on Wednesday. 
+   - So, Wednesday's sales = 15 copies.
+
+2. **Calculate Thursday's sales**: On Thursday, the book sold three times the amount sold on Wednesday. 
+   - Therefore, Thursday's sales = 3 times Wednesday's sales = 3 × 15 = 45 copies.
+
+3. **Calculate Friday's sales**: On Friday, the book sold one-fifth the number of copies it did on Thursday. 
+   - Therefore, Friday's sales = (1/5) × Thursday's sales = (1/5) × 45 = 9 copies.
+
+4. **Calculate total sales by Friday**: Now, we need to find the total sales from Wednesday to Friday. 
+   - Total sales = Wednesday's sales + Thursday's sales + Friday's sales
+   - Total sales = 15 + 45 + 9 = 69 copies.
+
+Therefore, after calculating the sales for each day and summing them up, we find that the bookstore sold a total of 69 copies by Friday.
+</reasoning>
+<answer>69</answer>

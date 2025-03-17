@@ -1,0 +1,42 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine how many cookies the adults eat.**  
+   We are given that there are 120 cookies in total and that the adults eat 1/3 of the cookies. To find out how many cookies they eat, we multiply the total number of cookies by 1/3:
+   \[
+   \text{Cookies eaten by adults} = \frac{1}{3} \times 120
+   \]
+
+   Performing the multiplication:
+   \[
+   \frac{1}{3} \times 120 = 40
+   \]
+   So, the adults eat 40 cookies.
+
+2. **Calculate the remaining cookies after the adults eat.**  
+   Now we need to determine how many cookies are left after the adults have eaten their share. We subtract the number of cookies eaten by the adults from the total cookies:
+   \[
+   \text{Remaining cookies} = 120 - 40
+   \]
+
+   Performing the subtraction:
+   \[
+   120 - 40 = 80
+   \]
+   Thus, there are 80 cookies remaining.
+
+3. **Distribute the remaining cookies to the children.**  
+   The remaining cookies are given to the four children to divide equally. To find out how many cookies each child gets, we divide the remaining number of cookies by the number of children:
+   \[
+   \text{Cookies per child} = \frac{80}{4}
+   \]
+
+   Performing the division:
+   \[
+   \frac{80}{4} = 20
+   \]
+   Therefore, each child receives 20 cookies.
+
+In summary, after calculating how many cookies the adults eat, determining the remaining cookies, and dividing them among the children, we find that each child gets 20 cookies.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the original number of dolls in Lucy's collection as \( x \).
+
+According to the problem, Ethyl bought Lucy two new dolls, which increased her doll collection by 25%. This means that the addition of these two dolls is equivalent to 25% of the original number of dolls.
+
+To express this mathematically, we can set up the following equation:
+
+\[
+2 = 0.25x
+\]
+
+This equation states that 2 (the number of new dolls) is equal to 25% (or 0.25) of the original number of dolls \( x \).
+
+Now, we need to solve for \( x \). To do this, we can isolate \( x \) by dividing both sides of the equation by 0.25:
+
+\[
+x = \frac{2}{0.25}
+\]
+
+Calculating the right side:
+
+\[
+x = 2 \div 0.25 = 2 \times 4 = 8
+\]
+
+So, the original number of dolls in Lucy's collection is 8.
+
+Next, we need to find out the total number of dolls in her collection after the addition of the two new dolls:
+
+\[
+\text{Total dolls} = x + 2 = 8 + 2 = 10
+\]
+
+Therefore, the total number of dolls in Lucy's collection after receiving the two new dolls is 10.
+</reasoning>
+<answer>10</answer>

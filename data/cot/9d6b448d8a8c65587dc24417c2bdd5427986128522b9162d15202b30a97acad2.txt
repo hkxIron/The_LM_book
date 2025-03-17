@@ -1,0 +1,42 @@
+<reasoning>
+To find the total area of the triangular-shaped houses made by Zion and his friends, we will first calculate the area of Zion's triangular house and then multiply that by the number of houses (including his friends').
+
+1. **Calculate the area of Zion's triangular house:**
+   The formula for the area of a triangle is given by:
+   \[
+   \text{Area} = \frac{1}{2} \times \text{base} \times \text{height}
+   \]
+   Here, the base of the triangle is 40 centimeters and the height is 20 centimeters.
+
+   Plugging in the values:
+   \[
+   \text{Area} = \frac{1}{2} \times 40 \, \text{cm} \times 20 \, \text{cm}
+   \]
+
+   First, we calculate \(40 \times 20\):
+   \[
+   40 \times 20 = 800
+   \]
+   
+   Now, we apply the \( \frac{1}{2} \):
+   \[
+   \text{Area} = \frac{1}{2} \times 800 = 400 \, \text{cm}^2
+   \]
+
+2. **Calculate the total area for all three houses:**
+   Since Zion has two friends who also built similar triangular houses, we have a total of 3 houses. To find the total area, we multiply the area of one house by the number of houses:
+   \[
+   \text{Total Area} = \text{Area of one house} \times \text{Number of houses}
+   \]
+   \[
+   \text{Total Area} = 400 \, \text{cm}^2 \times 3
+   \]
+
+   Now calculating the total area:
+   \[
+   400 \times 3 = 1200 \, \text{cm}^2
+   \]
+
+Therefore, the total area of the triangular houses that Zion and his friends made is:
+</reasoning>
+<answer>1200</answer>

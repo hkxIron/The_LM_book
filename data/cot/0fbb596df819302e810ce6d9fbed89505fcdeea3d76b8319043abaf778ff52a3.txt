@@ -1,0 +1,38 @@
+<reasoning>
+To find the new price of the movie ticket after a 20% decrease, we need to follow these steps:
+
+1. **Calculate the amount of the decrease**: First, we need to find out how much 20% of $100 is. To do this, we can convert the percentage to a decimal by dividing by 100. Thus, 20% becomes 0.20.
+
+   \[
+   \text{Decrease} = 100 \times 0.20
+   \]
+
+   Performing the multiplication:
+
+   \[
+   \text{Decrease} = 20
+   \]
+
+   This means the price of the ticket has decreased by $20.
+
+2. **Subtract the decrease from the original price**: Next, we subtract the decrease from the original ticket price to find the new price.
+
+   \[
+   \text{New Price} = \text{Original Price} - \text{Decrease}
+   \]
+
+   Substituting the values we have:
+
+   \[
+   \text{New Price} = 100 - 20
+   \]
+
+   Performing the subtraction:
+
+   \[
+   \text{New Price} = 80
+   \]
+
+Therefore, the new price of the movie ticket after a 20% decrease is $80.
+</reasoning>
+<answer>80</answer>

@@ -1,0 +1,61 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the Problem:**
+   We need to calculate how many times Sarah and Ellie saw their reflections in the house of mirrors. There are two types of mirrors: tall mirrors and wide mirrors. We know how many times each of them saw their reflections in each type of mirror and how many times they passed through those mirrors.
+
+2. **Calculating Sarah's Reflections:**
+   - **Tall Mirrors:** 
+     - Sarah sees her reflection 10 times each time she is in the tall mirrors.
+     - She passed through the tall mirrors 3 times.
+     - So, we calculate her total reflections in tall mirrors as:
+       \[
+       \text{Sarah's tall reflections} = 10 \text{ reflections} \times 3 \text{ passes} = 30 \text{ reflections}
+       \]
+
+   - **Wide Mirrors:**
+     - Sarah sees her reflection 5 times each time she is in the wide mirrors.
+     - She passed through the wide mirrors 5 times.
+     - So, we calculate her total reflections in wide mirrors as:
+       \[
+       \text{Sarah's wide reflections} = 5 \text{ reflections} \times 5 \text{ passes} = 25 \text{ reflections}
+       \]
+
+   - **Total Reflections for Sarah:**
+     - Now we add the reflections from both types of mirrors:
+       \[
+       \text{Total reflections for Sarah} = 30 \text{ (tall)} + 25 \text{ (wide)} = 55 \text{ reflections}
+       \]
+
+3. **Calculating Ellie's Reflections:**
+   - **Tall Mirrors:**
+     - Ellie sees her reflection 6 times each time she is in the tall mirrors.
+     - She passed through the tall mirrors 3 times.
+     - So, we calculate her total reflections in tall mirrors as:
+       \[
+       \text{Ellie's tall reflections} = 6 \text{ reflections} \times 3 \text{ passes} = 18 \text{ reflections}
+       \]
+
+   - **Wide Mirrors:**
+     - Ellie sees her reflection 3 times each time she is in the wide mirrors.
+     - She passed through the wide mirrors 5 times.
+     - So, we calculate her total reflections in wide mirrors as:
+       \[
+       \text{Ellie's wide reflections} = 3 \text{ reflections} \times 5 \text{ passes} = 15 \text{ reflections}
+       \]
+
+   - **Total Reflections for Ellie:**
+     - Now we add her reflections from both types of mirrors:
+       \[
+       \text{Total reflections for Ellie} = 18 \text{ (tall)} + 15 \text{ (wide)} = 33 \text{ reflections}
+       \]
+
+4. **Calculating the Overall Total Reflections:**
+   - Finally, we add Sarah's and Ellie's total reflections:
+     \[
+     \text{Total reflections} = 55 \text{ (Sarah)} + 33 \text{ (Ellie)} = 88 \text{ reflections}
+     \]
+
+So, after going through all the calculations and reasoning, we conclude that Sarah and Ellie together saw their reflections a total of 88 times.
+</reasoning>
+<answer>88</answer>

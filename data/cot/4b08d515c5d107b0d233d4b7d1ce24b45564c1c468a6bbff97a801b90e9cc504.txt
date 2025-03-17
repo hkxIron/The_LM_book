@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we start by understanding the ratio of the ages of Halima, Beckham, and Michelle, which is given as 4:3:7. This means that for every 4 parts of Halima's age, Beckham has 3 parts, and Michelle has 7 parts.
+
+1. **Define the parts of the ratio**: 
+   Let the common multiple of the ratio parts be \( x \). Therefore, we can express their ages as:
+   - Halima's age = \( 4x \)
+   - Beckham's age = \( 3x \)
+   - Michelle's age = \( 7x \)
+
+2. **Set up the equation for the total age**:
+   According to the problem, the total age of the three siblings is 126. So we write the equation:
+   \[
+   4x + 3x + 7x = 126
+   \]
+   This simplifies to:
+   \[
+   14x = 126
+   \]
+
+3. **Solve for \( x \)**:
+   To find \( x \), we divide both sides of the equation by 14:
+   \[
+   x = \frac{126}{14} = 9
+   \]
+
+4. **Calculate each sibling's age**:
+   Now that we have \( x \), we can find the actual ages:
+   - Halima's age = \( 4x = 4 \cdot 9 = 36 \)
+   - Beckham's age = \( 3x = 3 \cdot 9 = 27 \)
+   - Michelle's age = \( 7x = 7 \cdot 9 = 63 \)
+
+5. **Calculate the age difference between Halima and Beckham**:
+   To find the age difference, we subtract Beckham's age from Halima's age:
+   \[
+   \text{Age difference} = 36 - 27 = 9
+   \]
+
+Finally, the age difference between Halima and Beckham is computed.
+</reasoning>
+<answer>9</answer>

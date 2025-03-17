@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the information given in the problem step by step:
+
+1. **Identify the ages of the family members**:
+   - Kaydence's father is 60 years old.
+   - Kaydence's mother is 2 years younger than Kaydence's father. So, she is:
+     \[
+     60 - 2 = 58 \text{ years old}
+     \]
+   - Kaydence's brother is half the age of Kaydence's father. Therefore, he is:
+     \[
+     \frac{60}{2} = 30 \text{ years old}
+     \]
+   - Kaydence's sister is 40 years old.
+
+2. **Sum these ages**:
+   To find Kaydence's age, we first need to calculate the total age of the family members we know:
+   - Father's age: 60
+   - Mother's age: 58
+   - Brother's age: 30
+   - Sister's age: 40
+
+   Now, we add these ages together:
+   \[
+   60 + 58 + 30 + 40 = 188
+   \]
+
+3. **Calculate Kaydence's age**:
+   We know that the total age of all the family members is 200. Thus, we can set up the equation to find Kaydence's age (let's denote Kaydence's age as \( K \)):
+   \[
+   188 + K = 200
+   \]
+
+   To find \( K \), we subtract 188 from both sides:
+   \[
+   K = 200 - 188
+   \]
+   \[
+   K = 12
+   \]
+
+4. **Conclusion**:
+   Thus, Kaydence is 12 years old.
+</reasoning>
+<answer>12</answer>

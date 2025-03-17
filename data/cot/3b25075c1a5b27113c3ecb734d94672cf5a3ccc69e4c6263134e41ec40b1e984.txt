@@ -1,0 +1,33 @@
+<reasoning>
+To find the total time it will take Amelia to wash and dry all three loads of laundry, we need to add together the time for each load in the washing machine and the dryer.
+
+1. **Calculate the total time for the whites load:**
+   - Washing time: 72 minutes
+   - Drying time: 50 minutes
+   - Total for whites: \(72 + 50 = 122\) minutes
+
+2. **Calculate the total time for the darks load:**
+   - Washing time: 58 minutes
+   - Drying time: 65 minutes
+   - Total for darks: \(58 + 65 = 123\) minutes
+
+3. **Calculate the total time for the colors load:**
+   - Washing time: 45 minutes
+   - Drying time: 54 minutes
+   - Total for colors: \(45 + 54 = 99\) minutes
+
+4. **Now, sum all the total times for each load:**
+   - Total time for all loads: \(122 + 123 + 99\)
+
+5. **Calculate the final total:**
+   - Adding these together: 
+   \[
+   122 + 123 = 245
+   \]
+   \[
+   245 + 99 = 344
+   \]
+
+Therefore, the total time it will take Amelia to wash and dry all three loads is 344 minutes.
+</reasoning>
+<answer>344</answer>

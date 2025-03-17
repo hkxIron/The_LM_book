@@ -1,0 +1,52 @@
+<reasoning>
+To solve the problem, we'll follow these steps:
+
+1. **Identify the number of cows Matthews has.** 
+   The problem states that Matthews has 60 cows. 
+
+2. **Calculate the number of cows Aaron has.**
+   According to the problem, Aaron has four times as many cows as Matthews. Since Matthews has 60 cows, we can find Aaron's number of cows by multiplying:
+   \[
+   \text{Aaron's cows} = 4 \times \text{Matthews' cows} = 4 \times 60 = 240.
+   \]
+   So, Aaron has 240 cows.
+
+3. **Determine the total number of cows they have together (Aaron and Matthews).**
+   We can add the number of cows Aaron and Matthews have together:
+   \[
+   \text{Total cows (Aaron + Matthews)} = \text{Aaron's cows} + \text{Matthews' cows} = 240 + 60 = 300.
+   \]
+
+4. **Find the number of cows Marovich has.**
+   The problem states that together, Aaron and Matthews have 30 more cows than Marovich. We can express this mathematically:
+   \[
+   \text{Total cows (Aaron + Matthews)} = \text{Marovich's cows} + 30.
+   \]
+   We already calculated that Aaron and Matthews together have 300 cows, so we can set up the equation:
+   \[
+   300 = \text{Marovich's cows} + 30.
+   \]
+   To find Marovich's cows, we will subtract 30 from both sides:
+   \[
+   \text{Marovich's cows} = 300 - 30 = 270.
+   \]
+
+5. **Calculate the total number of cows for all three (Aaron, Matthews, Marovich).**
+   Now, we can sum the number of cows each person has:
+   \[
+   \text{Total cows (Aaron + Matthews + Marovich)} = \text{Aaron's cows} + \text{Matthews' cows} + \text{Marovich's cows} = 240 + 60 + 270.
+   \]
+
+   We can calculate this step-by-step:
+   - First, add Aaron's and Matthews' cows:
+     \[
+     240 + 60 = 300.
+     \]
+   - Then add Marovich's cows:
+     \[
+     300 + 270 = 570.
+     \]
+
+Thus, the total number of cows they all have together is 570.
+</reasoning>
+<answer>570</answer>

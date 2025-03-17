@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many purses and handbags Tirzah has that are genuine, we will break the problem down into steps.
+
+1. **Calculate the number of fake purses**:
+   - Tirzah has a total of 26 purses.
+   - Half of the purses are fake. 
+   - To find half of 26, we divide 26 by 2: 
+     \[
+     \text{Fake purses} = \frac{26}{2} = 13
+     \]
+
+2. **Calculate the number of authentic purses**:
+   - Since there are 26 purses in total and 13 are fake, the number of authentic purses is:
+     \[
+     \text{Authentic purses} = 26 - 13 = 13
+     \]
+
+3. **Calculate the number of fake handbags**:
+   - Tirzah has a total of 24 handbags.
+   - One-fourth of the handbags are fake. 
+   - To find one-fourth of 24, we divide 24 by 4:
+     \[
+     \text{Fake handbags} = \frac{24}{4} = 6
+     \]
+
+4. **Calculate the number of authentic handbags**:
+   - Since there are 24 handbags in total and 6 are fake, the number of authentic handbags is:
+     \[
+     \text{Authentic handbags} = 24 - 6 = 18
+     \]
+
+5. **Calculate the total number of genuine purses and handbags**:
+   - Now we add the number of authentic purses and authentic handbags together:
+     \[
+     \text{Total genuine items} = \text{Authentic purses} + \text{Authentic handbags} = 13 + 18 = 31
+     \]
+
+Therefore, the total number of genuine purses and handbags that Tirzah has is:
+</reasoning>
+<answer>31</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify how many tennis balls Lily has**: 
+   We are told that Lily has 3 tennis balls.
+
+2. **Determine how many tennis balls Frodo has**: 
+   The problem states that Frodo has 8 more tennis balls than Lily. Since Lily has 3 tennis balls, we can calculate Frodo's quantity as:
+   \[
+   \text{Frodo's tennis balls} = \text{Lily's tennis balls} + 8 = 3 + 8 = 11
+   \]
+
+3. **Calculate how many tennis balls Brian has**: 
+   The problem states that Brian has twice as many tennis balls as Frodo. We already found out that Frodo has 11 tennis balls, so we calculate Brian's quantity as:
+   \[
+   \text{Brian's tennis balls} = 2 \times \text{Frodo's tennis balls} = 2 \times 11 = 22
+   \]
+
+Thus, after calculating each step, we find that Brian has 22 tennis balls.
+</reasoning>
+<answer>22</answer>

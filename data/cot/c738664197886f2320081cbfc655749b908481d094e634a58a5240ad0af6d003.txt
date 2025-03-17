@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, let's follow the steps carefully and calculate how many oranges each person has.
+
+1. **Determine how many oranges Betty has**: 
+   We know from the problem that Betty has 12 oranges. 
+   - So, \( \text{Betty's oranges} = 12 \).
+
+2. **Calculate how many oranges Sandra has**:
+   The problem states that Sandra has 3 times as many oranges as Betty. We can calculate Sandra's oranges as follows:
+   \[
+   \text{Sandra's oranges} = 3 \times \text{Betty's oranges} = 3 \times 12
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Sandra's oranges} = 36
+   \]
+
+3. **Calculate how many oranges Emily has**:
+   Now, we know that Emily has 7 times as many oranges as Sandra. We can calculate Emily's oranges as follows:
+   \[
+   \text{Emily's oranges} = 7 \times \text{Sandra's oranges} = 7 \times 36
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Emily's oranges} = 252
+   \]
+
+Now that we have determined how many oranges Emily has, we can conclude with the final answer.
+
+Therefore, Emily has 252 oranges.
+</reasoning>
+<answer>252</answer>

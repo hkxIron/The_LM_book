@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of matches won by the home team**: The problem states that the home team has won 3 matches.
+
+2. **Determine the number of matches won by the rival team**: The problem indicates that the rival team has won twice as many matches as the home team. Since the home team won 3 matches, we calculate the rival team's wins as:
+   \[
+   \text{Rival team's wins} = 2 \times \text{Home team's wins} = 2 \times 3 = 6
+   \]
+
+3. **Count the draws for both teams**: According to the problem, both teams drew 4 matches each.
+
+4. **Count the total number of matches played by each team**: 
+   - The home team played:
+   \[
+   \text{Home team's matches} = \text{Wins} + \text{Draws} = 3 + 4 = 7
+   \]
+   - The rival team played:
+   \[
+   \text{Rival team's matches} = \text{Wins} + \text{Draws} = 6 + 4 = 10
+   \]
+
+5. **Calculate the total number of matches played by both teams**: Now, we combine the total matches played by each team:
+   \[
+   \text{Total matches} = \text{Home team's matches} + \text{Rival team's matches} = 7 + 10 = 17
+   \]
+
+Thus, the total number of matches played by both teams is 17.
+</reasoning>
+<answer>17</answer>

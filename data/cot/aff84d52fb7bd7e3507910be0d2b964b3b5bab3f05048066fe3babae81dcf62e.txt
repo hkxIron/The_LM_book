@@ -1,0 +1,16 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the promotion:** Bob is participating in a "buy one get one free" promotion. This means that for every nose spray he buys, he will receive another one for free. 
+
+2. **Calculating the effective amount he pays:** Since Bob buys 10 nose sprays, we can determine how many he actually pays for. Under the "buy one get one free" offer, for every two nose sprays, he pays for only one. Therefore:
+   - If he buys 10 sprays, he effectively pays for half of them, since each purchase gives him another one for free.
+   - So, the number of sprays he pays for is 10 / 2 = 5 sprays.
+
+3. **Calculating the total cost:** Each nose spray costs $3. Now, we will calculate the total cost for the 5 sprays he has to pay for:
+   - Total cost = Number of sprays paid for × Cost per spray
+   - Total cost = 5 sprays × $3/spray = $15.
+
+Therefore, Bob pays a total of $15 for the nose sprays.
+</reasoning>
+<answer>15</answer>

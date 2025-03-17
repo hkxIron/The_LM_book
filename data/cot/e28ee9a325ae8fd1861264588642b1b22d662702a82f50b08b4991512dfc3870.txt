@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many kids finish in less than 6 minutes**:
+   We know there are 40 kids running the race. To find 10% of them:
+   \[
+   \text{Kids finishing in less than 6 minutes} = 10\% \times 40 = 0.10 \times 40 = 4
+   \]
+   So, 4 kids finish in less than 6 minutes.
+
+2. **Calculate how many kids finish in less than 8 minutes**:
+   The problem states that three times the number of kids that finished in less than 6 minutes finish in less than 8 minutes:
+   \[
+   \text{Kids finishing in less than 8 minutes} = 3 \times 4 = 12
+   \]
+   Therefore, 12 kids finish in less than 8 minutes.
+
+3. **Determine the total number of kids who finished in less than 8 minutes**:
+   Since 4 kids finished in less than 6 minutes, we already counted them in the 12 kids finishing in less than 8 minutes. Hence:
+   \[
+   \text{Only those finishing between 6 and 8 minutes} = 12 - 4 = 8
+   \]
+   There are 8 kids who finish between 6 and 8 minutes.
+
+4. **Calculate how many kids remain after those who finished in less than 8 minutes**:
+   To find the remaining kids after accounting for those who finished in less than 8 minutes:
+   \[
+   \text{Remaining kids} = 40 - 12 = 28
+   \]
+
+5. **Determine how many kids take more than 14 minutes**:
+   Now we know that \(\frac{1}{6}\) of the remaining kids take more than 14 minutes. We need to calculate:
+   \[
+   \text{Kids taking more than 14 minutes} = \frac{1}{6} \times 28 = \frac{28}{6} \approx 4.67
+   \]
+   Since we can't have a fraction of a kid, we round down to the nearest whole number, which is 4 (assuming we are looking for whole kids).
+
+Thus, the number of kids who take more than 14 minutes is:
+</reasoning>
+<answer>4</answer>

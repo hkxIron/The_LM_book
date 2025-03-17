@@ -1,0 +1,36 @@
+<reasoning>
+To determine how many games the basketball team can lose to still achieve a winning percentage of 60%, we need to break down the problem step by step.
+
+1. **Calculate the total number of games after the remaining games are played:**
+   The team has already played 40 games and has 10 more games to play. 
+   \[
+   \text{Total games} = 40 + 10 = 50
+   \]
+
+2. **Determine how many wins are needed to achieve a winning percentage of 60%:**
+   To find out how many wins are needed to have a winning percentage of 60% after playing 50 games, we can calculate:
+   \[
+   \text{Wins needed} = 60\% \times 50 = 0.6 \times 50 = 30
+   \]
+
+3. **Calculate the number of wins the team already has:**
+   The team won 70% of the 40 games it has played:
+   \[
+   \text{Wins so far} = 70\% \times 40 = 0.7 \times 40 = 28
+   \]
+
+4. **Determine how many more wins are needed:**
+   Since the team already has 28 wins, we subtract this from the total wins needed (30):
+   \[
+   \text{Additional wins needed} = 30 - 28 = 2
+   \]
+
+5. **Calculate how many games can be lost:**
+   The team has 10 games remaining. Since they need to win 2 of these games, the number of games they can lose is:
+   \[
+   \text{Games that can be lost} = 10 - 2 = 8
+   \]
+
+Therefore, the basketball team can lose 8 games and still win 60% of their total games.
+</reasoning>
+<answer>8</answer>

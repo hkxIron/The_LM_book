@@ -1,0 +1,40 @@
+<reasoning>
+To determine how many bricks Cooper needs to complete his fence, we will first calculate the volume of the fence he is building. 
+
+1. **Understanding the dimensions of the walls**: 
+   - Each wall has a length of 20 bricks and a height of 5 bricks. The depth of the wall is 2 bricks.
+   - This means each wall is essentially a rectangular prism (a 3D rectangle).
+
+2. **Calculating the volume of one wall**:
+   - The volume \( V \) of a rectangular prism can be calculated using the formula:
+     \[
+     V = \text{length} \times \text{height} \times \text{depth}
+     \]
+   - For one wall:
+     \[
+     V = 20 \text{ bricks} \times 5 \text{ bricks} \times 2 \text{ bricks}
+     \]
+   - Now calculating the volume:
+     \[
+     V = 20 \times 5 = 100 \text{ bricks (area of one wall)}
+     \]
+     \[
+     V = 100 \times 2 = 200 \text{ bricks (volume of one wall)}
+     \]
+
+3. **Calculating the total number of walls**:
+   - Since Cooper has four walls, we multiply the volume of one wall by the total number of walls:
+     \[
+     \text{Total Volume} = 200 \text{ bricks} \times 4
+     \]
+   - Now calculating the total volume:
+     \[
+     \text{Total Volume} = 800 \text{ bricks}
+     \]
+
+4. **Conclusion**: 
+   - Cooper needs a total of 800 bricks to build his fence around his property.
+
+Therefore, the total number of bricks needed is:
+</reasoning>
+<answer>800</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many people in the salon are not clients, we can follow these steps:
+
+1. **Determine the number of clients:** Since each manicure costs $20.00 and the salon made $200.00, we can find the number of clients by dividing the total revenue by the cost per manicure. 
+   - Calculation: 
+   \[
+   \text{Number of clients} = \frac{\text{Total revenue}}{\text{Cost per manicure}} = \frac{200}{20} = 10
+   \]
+   This means there are 10 clients in the salon.
+
+2. **Calculate the total number of fingers:** We know that there are 210 fingers in total in the salon.
+
+3. **Calculate the total number of fingers contributed by the clients:** Each client has 10 fingers. Therefore, the total number of fingers from the clients can be calculated as:
+   - Calculation:
+   \[
+   \text{Total fingers from clients} = \text{Number of clients} \times \text{Fingers per client} = 10 \times 10 = 100
+   \]
+
+4. **Determine the number of fingers contributed by non-clients:** To find out how many fingers come from people who are not clients, we subtract the number of fingers contributed by the clients from the total number of fingers.
+   - Calculation:
+   \[
+   \text{Fingers from non-clients} = \text{Total fingers} - \text{Fingers from clients} = 210 - 100 = 110
+   \]
+
+5. **Calculate the number of non-clients:** Since each non-client also has 10 fingers, we can find the number of non-clients by dividing the number of fingers from non-clients by the number of fingers per person.
+   - Calculation:
+   \[
+   \text{Number of non-clients} = \frac{\text{Fingers from non-clients}}{\text{Fingers per person}} = \frac{110}{10} = 11
+   \]
+
+Thus, there are 11 people in the salon who are not clients.
+</reasoning>
+<answer>11</answer>

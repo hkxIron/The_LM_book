@@ -1,0 +1,28 @@
+<reasoning>
+To find out how long it will take before Dara reaches the minimum age of 25 years required to be employed, we need to follow these steps:
+
+1. **Determine Jane's Current Age**: We know that Jane is currently 28 years old.
+
+2. **Calculate Jane's Age in 6 Years**: In 6 years, Jane will be:
+   \[
+   28 + 6 = 34 \text{ years old}
+   \]
+
+3. **Find Dara's Age in 6 Years**: According to the problem, in 6 years, Dara will be half the age of Jane. Therefore, Dara's age in 6 years will be:
+   \[
+   \frac{34}{2} = 17 \text{ years old}
+   \]
+
+4. **Calculate Dara's Current Age**: Since we know that in 6 years Dara will be 17, we can find Dara's current age by subtracting 6 from 17:
+   \[
+   17 - 6 = 11 \text{ years old}
+   \]
+
+5. **Determine How Many Years Until Dara is 25**: To find out how many more years it will take for Dara to reach the minimum age of 25, we subtract Dara's current age from 25:
+   \[
+   25 - 11 = 14 \text{ years}
+   \]
+
+Therefore, it will take 14 years for Dara to reach the minimum required age of 25 years to be employed at the company.
+</reasoning>
+<answer>14</answer>

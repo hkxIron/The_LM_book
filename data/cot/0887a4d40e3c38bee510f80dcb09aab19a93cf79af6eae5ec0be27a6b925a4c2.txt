@@ -1,0 +1,69 @@
+<reasoning>
+To find the number of fish left in the sea after the fishers catch some, we will follow these steps:
+
+1. **Identify the total number of fish**: 
+   We have:
+   - 1,800 fish swimming westward
+   - 3,200 fish swimming eastward
+   - 500 fish swimming north
+
+   We add these together to find the total number of fish:
+   \[
+   \text{Total fish} = 1,800 + 3,200 + 500
+   \]
+
+   Now, calculating this:
+   \[
+   1,800 + 3,200 = 5,000
+   \]
+   \[
+   5,000 + 500 = 5,500
+   \]
+   So, the total number of fish is 5,500.
+
+2. **Calculate the number of fish caught by fishers**:
+   - Fishers catch \( \frac{2}{5} \) of the fish that swam eastward:
+     \[
+     \text{Fish caught eastward} = \frac{2}{5} \times 3,200
+     \]
+     Calculating this:
+     \[
+     \frac{2 \times 3,200}{5} = \frac{6,400}{5} = 1,280
+     \]
+
+   - Fishers also catch \( \frac{3}{4} \) of the fish that swam westward:
+     \[
+     \text{Fish caught westward} = \frac{3}{4} \times 1,800
+     \]
+     Calculating this:
+     \[
+     \frac{3 \times 1,800}{4} = \frac{5,400}{4} = 1,350
+     \]
+
+3. **Total fish caught**:
+   Now we add the fish caught from both directions:
+   \[
+   \text{Total fish caught} = 1,280 + 1,350
+   \]
+   Calculating this:
+   \[
+   1,280 + 1,350 = 2,630
+   \]
+
+4. **Calculate the number of fish left**:
+   We subtract the total fish caught from the total number of fish:
+   \[
+   \text{Fish left} = \text{Total fish} - \text{Total fish caught}
+   \]
+   Thus:
+   \[
+   \text{Fish left} = 5,500 - 2,630
+   \]
+   Performing this subtraction:
+   \[
+   5,500 - 2,630 = 2,870
+   \]
+
+Thus, the number of fish left in the sea is 2,870.
+</reasoning>
+<answer>2870</answer>

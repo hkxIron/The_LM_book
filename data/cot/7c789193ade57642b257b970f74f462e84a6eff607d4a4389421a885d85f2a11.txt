@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Start with the initial amount of brownies:**
+   Mother made 2 dozen brownies. Since 1 dozen is equal to 12, we calculate:
+   \[
+   2 \text{ dozen} = 2 \times 12 = 24 \text{ brownies}
+   \]
+
+2. **Account for the brownies eaten by Father:**
+   Father ate 8 brownies. We need to subtract this amount from the total:
+   \[
+   24 \text{ brownies} - 8 \text{ brownies} = 16 \text{ brownies remaining}
+   \]
+
+3. **Account for the brownies eaten by Mooney:**
+   Mooney then ate 4 brownies. We subtract this amount from the remaining brownies:
+   \[
+   16 \text{ brownies} - 4 \text{ brownies} = 12 \text{ brownies remaining}
+   \]
+
+4. **Calculate the additional brownies made the next morning:**
+   The next morning, Mother made another 2 dozen brownies. Again, we calculate:
+   \[
+   2 \text{ dozen} = 2 \times 12 = 24 \text{ brownies}
+   \]
+
+5. **Add the new brownies to the remaining brownies:**
+   Now we need to add the brownies made the next morning to the brownies that were left:
+   \[
+   12 \text{ brownies remaining} + 24 \text{ new brownies} = 36 \text{ brownies total}
+   \]
+
+Thus, after all the eating and the new batch being made, the total number of brownies left on the counter is 36.
+</reasoning>
+<answer>36</answer>

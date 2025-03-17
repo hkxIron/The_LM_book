@@ -1,0 +1,30 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the number of face-masks made in the first hour**:
+   - Manolo makes face-masks at the rate of one every four minutes. 
+   - In one hour (which is 60 minutes), we need to find out how many 4-minute intervals fit into 60 minutes.
+   - To do this, we divide 60 minutes by 4 minutes:
+     \[
+     \text{Number of face-masks in the first hour} = \frac{60}{4} = 15
+     \]
+   - Therefore, in the first hour, Manolo makes 15 face-masks.
+
+2. **Determine the number of face-masks made in the remaining three hours**:
+   - After the first hour, Manolo's rate changes to one face-mask every six minutes.
+   - We have three hours left, which is 180 minutes (since 3 hours × 60 minutes/hour = 180 minutes).
+   - We will now find out how many 6-minute intervals fit into 180 minutes:
+     \[
+     \text{Number of face-masks in the next three hours} = \frac{180}{6} = 30
+     \]
+   - Therefore, in the next three hours, Manolo makes 30 face-masks.
+
+3. **Calculate the total number of face-masks made in the four-hour shift**:
+   - Now, we add the face-masks made in the first hour to the face-masks made in the next three hours:
+     \[
+     \text{Total face-masks} = 15 + 30 = 45
+     \]
+
+In conclusion, after calculating the face-masks made in each part of the shift, we find that Manolo makes a total of 45 face-masks in a four-hour shift.
+</reasoning>
+<answer>45</answer>

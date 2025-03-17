@@ -1,0 +1,37 @@
+<reasoning>
+Let's start by determining the total number of chocolates Nida has and how many are already boxed.
+
+1. Nida initially has 50 chocolates, which includes 5 pieces that are not in a box. This means the number of chocolates that are already in boxes is:
+   \[
+   50 - 5 = 45 \text{ chocolates in boxes}
+   \]
+
+2. Nida's friend brought 25 more chocolates. Therefore, the new total number of chocolates is:
+   \[
+   50 + 25 = 75 \text{ chocolates in total}
+   \]
+
+3. Now we know that there are 75 chocolates in total. We need to determine how many boxes are required to store all of these chocolates. We are told that Nida has 3 filled boxes. 
+
+4. Since we need to find out how many more boxes are needed, we first need to determine how many chocolates fit in each box (though we are not given a specific number, we can denote it as \( x \) for now). So we will assume that the 3 boxes are filled with chocolates, meaning:
+   \[
+   3 \text{ boxes} \times x \text{ chocolates per box} = 45 \text{ chocolates in boxes}
+   \]
+   From this, we can calculate:
+   \[
+   x = \frac{45}{3} = 15 \text{ chocolates per box}
+   \]
+
+5. Now, we need to find out how many boxes are required for the total of 75 chocolates. We can calculate it by dividing the total chocolates by the capacity of each box:
+   \[
+   \text{Total boxes needed} = \frac{75}{15} = 5 \text{ boxes}
+   \]
+
+6. Since Nida already has 3 boxes, we can now find out how many more boxes are needed by subtracting the already available boxes from the total boxes needed:
+   \[
+   \text{More boxes needed} = 5 - 3 = 2
+   \]
+
+Therefore, Nida needs 2 more boxes to store all of the chocolates.
+</reasoning>
+<answer>2</answer>

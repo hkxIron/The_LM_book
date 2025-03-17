@@ -1,0 +1,53 @@
+<reasoning>
+To solve this problem, we'll start by calculating the total cost of Jenna's outing, which includes the concert ticket and the drink tickets.
+
+1. **Calculate the cost of the drink tickets**:
+   - Each drink ticket costs $7, and she wants to buy 5 of them. 
+   - So, the total cost of the drink tickets is:
+     \[
+     \text{Total cost of drink tickets} = 5 \times 7 = 35
+     \]
+   
+2. **Calculate the total cost of the outing**:
+   - The concert ticket costs $181. 
+   - Adding the cost of the drink tickets to the concert ticket gives us:
+     \[
+     \text{Total cost of outing} = \text{Cost of concert ticket} + \text{Cost of drink tickets} = 181 + 35 = 216
+     \]
+
+3. **Calculate Jenna's weekly salary**:
+   - Jenna earns $18 an hour and works 30 hours a week. 
+   - Therefore, her weekly salary is:
+     \[
+     \text{Weekly salary} = 18 \times 30 = 540
+     \]
+
+4. **Calculate Jenna's monthly salary**:
+   - Assuming there are about 4 weeks in a month, her monthly salary can be approximated as:
+     \[
+     \text{Monthly salary} = 540 \times 4 = 2160
+     \]
+
+5. **Calculate the percentage of her monthly salary spent on the outing**:
+   - To find the percentage spent, we use the formula:
+     \[
+     \text{Percentage spent} = \left( \frac{\text{Total cost of outing}}{\text{Monthly salary}} \right) \times 100
+     \]
+   - Plugging in the values we calculated:
+     \[
+     \text{Percentage spent} = \left( \frac{216}{2160} \right) \times 100
+     \]
+
+6. **Perform the calculation**:
+   - First, calculate the fraction:
+     \[
+     \frac{216}{2160} = 0.1
+     \]
+   - Now, multiply by 100 to find the percentage:
+     \[
+     0.1 \times 100 = 10
+     \]
+
+Thus, Jenna will spend 10% of her monthly salary on the outing.
+</reasoning>
+<answer>10</answer>

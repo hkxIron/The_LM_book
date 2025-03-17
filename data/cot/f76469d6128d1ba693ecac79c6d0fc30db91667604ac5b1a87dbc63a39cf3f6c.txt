@@ -1,0 +1,46 @@
+<reasoning>
+To solve this problem, we need to find out the total number of chips that Viviana and Susana have by calculating the number of chocolate chips and vanilla chips each one has. Let's break it down step by step.
+
+1. **Identify the given information:**
+   - Viviana has 20 vanilla chips.
+   - Susana has 25 chocolate chips.
+   - Viviana has five more chocolate chips than Susana.
+
+2. **Calculate the number of chocolate chips Viviana has:**
+   Since we know that Viviana has five more chocolate chips than Susana, we can express Viviana's chocolate chips as:
+   \[
+   \text{Viviana's Chocolate Chips} = \text{Susana's Chocolate Chips} + 5
+   \]
+   Plugging in the value for Susana's chocolate chips:
+   \[
+   \text{Viviana's Chocolate Chips} = 25 + 5 = 30
+   \]
+
+3. **Calculate the number of vanilla chips Susana has:**
+   We know that Susana has \( \frac{3}{4} \) as many vanilla chips as Viviana. Since Viviana has 20 vanilla chips:
+   \[
+   \text{Susana's Vanilla Chips} = \frac{3}{4} \times 20
+   \]
+   Now we perform the multiplication:
+   \[
+   \text{Susana's Vanilla Chips} = \frac{3 \times 20}{4} = \frac{60}{4} = 15
+   \]
+
+4. **Now, we can find the total number of chips for each person:**
+   - **Total for Viviana:**
+     - Chocolate Chips: 30
+     - Vanilla Chips: 20
+     - Total for Viviana = 30 + 20 = 50
+   - **Total for Susana:**
+     - Chocolate Chips: 25
+     - Vanilla Chips: 15
+     - Total for Susana = 25 + 15 = 40
+
+5. **Finally, calculate the combined total number of chips:**
+   \[
+   \text{Total Chips} = \text{Total for Viviana} + \text{Total for Susana} = 50 + 40 = 90
+   \]
+
+Therefore, the total number of chips that Viviana and Susana have together is:
+</reasoning>
+<answer>90</answer>

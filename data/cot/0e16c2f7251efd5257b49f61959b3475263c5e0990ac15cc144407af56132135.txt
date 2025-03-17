@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many people are left relaxing on the beach, we will first calculate the number of people in each row after some have left to wade in the water.
+
+1. **First Row**:
+   - Originally, there are 24 people.
+   - 3 people get up to wade in the water.
+   - To find the remaining people in the first row, we subtract the people who left:
+     \[
+     24 - 3 = 21 \text{ people left in the first row.}
+     \]
+
+2. **Second Row**:
+   - Originally, there are 20 people.
+   - 5 people from this row go to join the first row in the water.
+   - To find the remaining people in the second row, we subtract those who left:
+     \[
+     20 - 5 = 15 \text{ people left in the second row.}
+     \]
+
+3. **Third Row**:
+   - The third row starts with 18 people.
+   - No one from the third row has left, so the number of people remains the same:
+     \[
+     \text{18 people left in the third row.}
+     \]
+
+4. **Total People Relaxing on the Beach**:
+   - Now we need to find the total number of people left relaxing on the beach by adding the remaining people in all three rows:
+     \[
+     21 \text{ (first row)} + 15 \text{ (second row)} + 18 \text{ (third row)} = 54 \text{ people left relaxing on the beach.}
+     \]
+
+Therefore, the total number of people left relaxing on the beach is 54.
+</reasoning>
+<answer>54</answer>

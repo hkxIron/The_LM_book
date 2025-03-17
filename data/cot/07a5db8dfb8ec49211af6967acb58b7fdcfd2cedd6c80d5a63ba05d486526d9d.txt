@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much money Olivia made this week, we need to calculate her total hours worked and then multiply that by her hourly wage.
+
+1. **Calculate total hours worked:**
+   - On Monday, Olivia worked 4 hours.
+   - On Wednesday, she worked 3 hours.
+   - On Friday, she worked 6 hours.
+   
+   Now, we add these hours together:
+   \[
+   4 \, \text{(Monday)} + 3 \, \text{(Wednesday)} + 6 \, \text{(Friday)} = 4 + 3 + 6
+   \]
+   \[
+   = 13 \, \text{hours}
+   \]
+
+2. **Calculate total earnings:**
+   Olivia earns $9 per hour. To find her total earnings, we multiply her total hours worked by her hourly wage:
+   \[
+   13 \, \text{hours} \times 9 \, \text{(dollars/hour)} = 117 \, \text{dollars}
+   \]
+
+Therefore, after calculating the total hours worked and using the hourly wage to find the earnings, we determine that Olivia made a total of $117 this week.
+</reasoning>
+<answer>117</answer>

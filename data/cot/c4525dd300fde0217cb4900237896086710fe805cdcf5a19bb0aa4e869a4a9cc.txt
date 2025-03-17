@@ -1,0 +1,32 @@
+<reasoning>
+To determine how much money Joe has left after his purchases, we will first calculate the total cost of the notebooks and books he bought.
+
+1. **Calculate the cost of the notebooks:**
+   - Joe bought 7 notebooks, and each notebook costs $4.
+   - To find the total cost of the notebooks, we multiply the number of notebooks by the cost per notebook:
+     \[
+     \text{Total cost of notebooks} = 7 \text{ notebooks} \times 4 \text{ dollars/notebook} = 28 \text{ dollars}
+     \]
+
+2. **Calculate the cost of the books:**
+   - Joe bought 2 books, and each book costs $7.
+   - To find the total cost of the books, we multiply the number of books by the cost per book:
+     \[
+     \text{Total cost of books} = 2 \text{ books} \times 7 \text{ dollars/book} = 14 \text{ dollars}
+     \]
+
+3. **Calculate the total cost of all items:**
+   - Now, we add the total cost of the notebooks and the total cost of the books to find the total expenditure:
+     \[
+     \text{Total cost} = \text{Total cost of notebooks} + \text{Total cost of books} = 28 \text{ dollars} + 14 \text{ dollars} = 42 \text{ dollars}
+     \]
+
+4. **Calculate how much money Joe has left:**
+   - Joe started with $56. To find out how much he has left after his purchases, we subtract the total cost from the amount he started with:
+     \[
+     \text{Money left} = 56 \text{ dollars} - 42 \text{ dollars} = 14 \text{ dollars}
+     \]
+
+Therefore, after buying the notebooks and books, Joe has $14 left.
+</reasoning>
+<answer>14</answer>

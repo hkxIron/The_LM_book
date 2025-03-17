@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many pages Lance should read tomorrow to finish the book, we'll break down the problem step by step.
+
+1. **Identify Total Pages and Days**: 
+   Lance has a 100-page book and he wants to finish it in 3 days. 
+
+2. **Calculate Pages Read Yesterday**: 
+   Yesterday, Lance read 35 pages.
+
+3. **Calculate Pages Read Today**: 
+   Today, he read 5 fewer pages than yesterday. So, we calculate:
+   \[
+   \text{Pages read today} = \text{Pages read yesterday} - 5 = 35 - 5 = 30 \text{ pages}
+   \]
+
+4. **Calculate Total Pages Read So Far**: 
+   Now we sum the pages read yesterday and today:
+   \[
+   \text{Total pages read} = \text{Pages read yesterday} + \text{Pages read today} = 35 + 30 = 65 \text{ pages}
+   \]
+
+5. **Determine Remaining Pages**: 
+   To find out how many pages Lance has left to read, we subtract the total pages read from the total number of pages in the book:
+   \[
+   \text{Remaining pages} = \text{Total pages} - \text{Total pages read} = 100 - 65 = 35 \text{ pages}
+   \]
+
+6. **Calculate Pages to Read Tomorrow**: 
+   Since Lance has 1 more day (tomorrow) to read, he needs to read the remaining pages to finish the book. Therefore, he should read:
+   \[
+   \text{Pages to read tomorrow} = \text{Remaining pages} = 35 \text{ pages}
+   \]
+
+After following all these steps, Lance should read 35 pages tomorrow to finish the book.
+</reasoning>
+<answer>35</answer>

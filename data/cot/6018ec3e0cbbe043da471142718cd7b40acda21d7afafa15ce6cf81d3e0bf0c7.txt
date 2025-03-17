@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to calculate how many books remain in the library after some are taken out and others are returned.
+
+1. **Start with the initial number of books**: The library originally has 336 books.
+
+2. **Subtract the books taken out on Monday**: On Monday, 124 books are taken out. We need to subtract this number from the original total:
+   \[
+   336 - 124 = 212
+   \]
+   This means after Monday, there are 212 books left in the library.
+
+3. **Add the books that are brought back on Tuesday**: On Tuesday, 22 books are returned to the library. We need to add this number to the remaining books:
+   \[
+   212 + 22 = 234
+   \]
+   Now, after Tuesday, the total number of books in the library is 234.
+
+Therefore, we have followed the steps to find the final count of books in the library after the transactions.
+</reasoning>
+<answer>234</answer>

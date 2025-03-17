@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the Initial Situation**: Barbie bought 12 pairs of earrings. Since each pair consists of 2 earrings, we need to calculate the total number of earrings Barbie has.
+   \[
+   \text{Total earrings} = 12 \text{ pairs} \times 2 \text{ earrings/pair} = 24 \text{ earrings}
+   \]
+
+2. **Giving Half to Alissa**: Barbie gave half of her earrings to Alissa. To find out how many earrings this is, we divide the total number of earrings by 2.
+   \[
+   \text{Earrings given to Alissa} = \frac{24 \text{ earrings}}{2} = 12 \text{ earrings}
+   \]
+
+3. **Understanding Alissa's Collection**: The problem states that after receiving the earrings, Alissa's total number of collections (earrings) is triple the number of earrings she was given. This means we need to find out what this total number is.
+   \[
+   \text{Alissa's total earrings} = 3 \times \text{Earrings given to Alissa} = 3 \times 12 \text{ earrings} = 36 \text{ earrings}
+   \]
+
+4. **Conclusion**: Since Alissa received 12 earrings from Barbie and her total number of earrings is now 36, the number of earrings Alissa has now is indeed 36.
+
+Thus, Alissa now has a total of:
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much more Anna made from plain lemonade than strawberry lemonade, we need to calculate the total earnings from plain lemonade first.
+
+1. **Calculate earnings from plain lemonade:**
+   - Anna sold 36 glasses of plain lemonade.
+   - Each glass was sold for $0.75.
+   - To find the total earnings from plain lemonade, we multiply the number of glasses by the price per glass:
+     \[
+     \text{Earnings from plain lemonade} = 36 \text{ glasses} \times 0.75 \text{ dollars/glass}
+     \]
+
+   - Performing the multiplication:
+     \[
+     36 \times 0.75 = 27
+     \]
+   - So, Anna made $27 from selling plain lemonade.
+
+2. **Total earnings from strawberry lemonade:** 
+   - It is given that Anna made $16 from selling strawberry lemonade.
+
+3. **Calculate the difference in earnings:**
+   - To find how much more she made from plain lemonade than from strawberry lemonade, we subtract the earnings from strawberry lemonade from the earnings from plain lemonade:
+     \[
+     \text{Difference} = \text{Earnings from plain lemonade} - \text{Earnings from strawberry lemonade}
+     \]
+     \[
+     \text{Difference} = 27 - 16
+     \]
+
+   - Performing the subtraction:
+     \[
+     27 - 16 = 11
+     \]
+
+Thus, Anna made $11 more from plain lemonade than from strawberry lemonade.
+</reasoning>
+<answer>11</answer>

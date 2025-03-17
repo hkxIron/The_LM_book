@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, we'll first calculate the total number of popsicle sticks brought by the boys and then the total brought by the girls. Finally, we'll find the difference between the two totals.
+
+1. **Calculate the total number of popsicle sticks brought by the boys**:
+   - There are 10 boys, and each boy brought 15 popsicle sticks.
+   - To find the total for the boys, we multiply the number of boys by the number of popsicle sticks each brought:
+     \[
+     \text{Total boys' popsicle sticks} = 10 \times 15
+     \]
+   - Now, performing the multiplication:
+     \[
+     10 \times 15 = 150
+     \]
+   - So, the boys brought a total of 150 popsicle sticks.
+
+2. **Calculate the total number of popsicle sticks brought by the girls**:
+   - There are 12 girls, and each girl brought 12 popsicle sticks.
+   - To find the total for the girls, we multiply the number of girls by the number of popsicle sticks each brought:
+     \[
+     \text{Total girls' popsicle sticks} = 12 \times 12
+     \]
+   - Now, performing the multiplication:
+     \[
+     12 \times 12 = 144
+     \]
+   - So, the girls brought a total of 144 popsicle sticks.
+
+3. **Calculate how many fewer popsicle sticks the girls brought than the boys**:
+   - To find the difference, we subtract the total number of popsicle sticks brought by the girls from the total brought by the boys:
+     \[
+     \text{Difference} = \text{Total boys' popsicle sticks} - \text{Total girls' popsicle sticks}
+     \]
+   - Substituting the totals we found:
+     \[
+     \text{Difference} = 150 - 144
+     \]
+   - Performing the subtraction:
+     \[
+     150 - 144 = 6
+     \]
+
+Thus, the girls brought 6 fewer popsicle sticks than the boys.
+</reasoning>
+<answer>6</answer>

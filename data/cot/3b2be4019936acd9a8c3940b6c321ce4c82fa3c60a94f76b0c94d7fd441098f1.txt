@@ -1,0 +1,41 @@
+<reasoning>
+To find out how many tickets Russel and Jen used at the circus, we need to calculate the total tickets spent by each of them based on the cost of the games they played and then sum those amounts.
+
+1. **Calculate the tickets used by Jen:**
+   - Jen played the shooting game twice.
+   - The cost of one shooting game is 5 tickets.
+   - Therefore, the total tickets used by Jen is calculated as follows:
+     \[
+     \text{Total tickets used by Jen} = \text{Number of games} \times \text{Cost per game} = 2 \times 5
+     \]
+   - Performing the multiplication:
+     \[
+     2 \times 5 = 10
+     \]
+   - Thus, Jen used 10 tickets.
+
+2. **Calculate the tickets used by Russel:**
+   - Russel rode the carousel three times.
+   - The cost of one carousel ride is 3 tickets.
+   - Therefore, the total tickets used by Russel is calculated as follows:
+     \[
+     \text{Total tickets used by Russel} = \text{Number of rides} \times \text{Cost per ride} = 3 \times 3
+     \]
+   - Performing the multiplication:
+     \[
+     3 \times 3 = 9
+     \]
+   - Thus, Russel used 9 tickets.
+
+3. **Calculate the total tickets used by both:**
+   - Now, we add the total tickets used by Jen and Russel:
+     \[
+     \text{Total tickets used} = \text{Tickets used by Jen} + \text{Tickets used by Russel} = 10 + 9
+     \]
+   - Performing the addition:
+     \[
+     10 + 9 = 19
+     \]
+   - Therefore, the total number of tickets used by both Russel and Jen is 19.
+</reasoning>
+<answer>19</answer>

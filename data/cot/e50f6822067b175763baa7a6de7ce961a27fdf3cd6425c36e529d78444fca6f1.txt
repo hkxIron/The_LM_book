@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to determine the maximum weight of a robot given the constraints provided.
+
+1. **Identify the standard weight of the robot**: The standard robot weighs 100 pounds. 
+
+2. **Determine the minimum weight condition**: According to the problem, each robot must be no less than 5 pounds heavier than the standard robot. Therefore, we calculate the minimum weight as follows:
+   \[
+   \text{Minimum weight} = \text{Standard weight} + 5 = 100 + 5 = 105 \text{ pounds}
+   \]
+
+3. **Determine the maximum weight condition**: The problem states that each robot can be no more than twice the minimum weight. We have already calculated the minimum weight as 105 pounds. Now we calculate the maximum weight:
+   \[
+   \text{Maximum weight} = 2 \times \text{Minimum weight} = 2 \times 105 = 210 \text{ pounds}
+   \]
+
+4. **Conclusion**: We have calculated both the minimum and maximum weights for the robots in the competition. The maximum weight of a robot is thus 210 pounds.
+
+Therefore, the maximum weight of a robot in the competition is:
+</reasoning>
+<answer>210</answer>

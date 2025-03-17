@@ -1,0 +1,51 @@
+<reasoning>
+To solve this problem, we need to determine how much Jerry charges for each piercing and then calculate the total income from all the piercings he does.
+
+1. **Determine the charge for nose piercings:**
+   Jerry charges $20 for each nose piercing. 
+
+2. **Calculate the total for nose piercings:**
+   Jerry pierces 6 noses. Therefore, the income from nose piercings is:
+   \[
+   \text{Income from noses} = \text{Number of noses} \times \text{Charge per nose} = 6 \times 20
+   \]
+   Now, let's compute that:
+   \[
+   6 \times 20 = 120
+   \]
+   So, Jerry earns $120 from piercing noses.
+
+3. **Determine the charge for ear piercings:**
+   Jerry charges 50% more than $20 for ear piercings. To find this, we calculate 50% of $20:
+   \[
+   50\% \text{ of } 20 = 0.5 \times 20 = 10
+   \]
+   Now, add this to the original $20 charge:
+   \[
+   \text{Charge per ear} = 20 + 10 = 30
+   \]
+   So, Jerry charges $30 for each ear piercing.
+
+4. **Calculate the total for ear piercings:**
+   Jerry pierces 9 ears. Therefore, the income from ear piercings is:
+   \[
+   \text{Income from ears} = \text{Number of ears} \times \text{Charge per ear} = 9 \times 30
+   \]
+   Now, let's compute that:
+   \[
+   9 \times 30 = 270
+   \]
+   So, Jerry earns $270 from piercing ears.
+
+5. **Calculate the total income:**
+   Now we can find Jerry's total income by adding the income from nose piercings and ear piercings together:
+   \[
+   \text{Total Income} = \text{Income from noses} + \text{Income from ears} = 120 + 270
+   \]
+   Let's compute that:
+   \[
+   120 + 270 = 390
+   \]
+   Therefore, Jerry's total earnings from all the piercings are $390.
+</reasoning>
+<answer>390</answer>

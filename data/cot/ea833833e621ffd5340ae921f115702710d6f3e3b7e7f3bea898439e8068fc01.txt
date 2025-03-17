@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Understand the time interval**: We know that it snowed for 1 hour. Since 1 hour is equal to 60 minutes, we will use this to calculate how many 5-minute intervals there are in 60 minutes.
+
+   - There are \( \frac{60 \text{ minutes}}{5 \text{ minutes}} = 12 \) intervals of 5 minutes in 1 hour.
+
+2. **Calculate the total number of additional snowflakes**: We know that it snowed 4 snowflakes every 5 minutes. Since there are 12 intervals, we can determine the total additional snowflakes that fell during this time.
+
+   - Total additional snowflakes = \( 4 \text{ snowflakes/interval} \times 12 \text{ intervals} = 48 \text{ snowflakes} \).
+
+3. **Set up the equation for the total number of snowflakes**: We know that there were 58 snowflakes after 1 hour. Let \( x \) represent the number of snowflakes there were at first. The equation can be written as:
+
+   \[
+   x + 48 = 58
+   \]
+
+4. **Solve for \( x \)**: To find the number of snowflakes at first, we will isolate \( x \) on one side of the equation.
+
+   - Subtract 48 from both sides:
+   \[
+   x = 58 - 48
+   \]
+   - Calculate the right side:
+   \[
+   x = 10
+   \]
+
+5. **Conclusion**: Therefore, the number of snowflakes at first was 10.
+</reasoning>
+<answer>10</answer>

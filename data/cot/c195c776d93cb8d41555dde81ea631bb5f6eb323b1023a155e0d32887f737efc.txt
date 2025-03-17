@@ -1,0 +1,49 @@
+<reasoning>
+To find out how many tins of beans are left after accounting for the damaged tins, we will follow these steps:
+
+1. **Calculate the Total Number of Tins of Beans Delivered:**
+   We know that there are 15 cases of tins, and each case contains 24 tins. To find the total number of tins, we multiply the number of cases by the number of tins per case.
+
+   \[
+   \text{Total Tins} = \text{Number of Cases} \times \text{Tins per Case} = 15 \times 24
+   \]
+
+   Performing the multiplication:
+
+   \[
+   15 \times 24 = 360
+   \]
+
+   So, there are 360 tins of beans delivered.
+
+2. **Calculate the Number of Damaged Tins:**
+   Next, we need to find out how many tins are damaged. We know that 5% of the tins are damaged. To find the number of damaged tins, we can calculate 5% of the total number of tins.
+
+   \[
+   \text{Damaged Tins} = 5\% \text{ of Total Tins} = 0.05 \times 360
+   \]
+
+   Performing the multiplication:
+
+   \[
+   0.05 \times 360 = 18
+   \]
+
+   So, there are 18 damaged tins.
+
+3. **Calculate the Number of Tins Left After Damaging:**
+   Finally, we subtract the number of damaged tins from the total number of tins to find out how many tins are left.
+
+   \[
+   \text{Tins Left} = \text{Total Tins} - \text{Damaged Tins} = 360 - 18
+   \]
+
+   Performing the subtraction:
+
+   \[
+   360 - 18 = 342
+   \]
+
+Thus, the number of tins of beans left is 342.
+</reasoning>
+<answer>342</answer>

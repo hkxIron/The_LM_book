@@ -1,0 +1,36 @@
+<reasoning>
+To find out how long the movie theater operates each day, we need to calculate the total time taken for the movies and advertisements throughout the day.
+
+1. **Convert the movie duration into minutes**: 
+   The movie is 1.5 hours long. Since 1 hour is 60 minutes, we can convert 1.5 hours to minutes:
+   \[
+   1.5 \text{ hours} = 1.5 \times 60 = 90 \text{ minutes}
+   \]
+
+2. **Calculate the total duration of the advertisements**:
+   The advertisement duration is 20 minutes, and since this advertisement occurs before each of the 6 showings of the movie, we need to multiply the advertisement time by the number of showings:
+   \[
+   \text{Total advertisement time} = 20 \text{ minutes} \times 6 = 120 \text{ minutes}
+   \]
+
+3. **Calculate the total duration of the movies**:
+   Each movie lasts 90 minutes, and since it is shown 6 times, we multiply the movie duration by the number of showings:
+   \[
+   \text{Total movie time} = 90 \text{ minutes} \times 6 = 540 \text{ minutes}
+   \]
+
+4. **Add the total advertisement time to the total movie time**:
+   Now we need to find the total operating time of the movie theater by summing the total advertisement time and the total movie time:
+   \[
+   \text{Total operating time} = 120 \text{ minutes} + 540 \text{ minutes} = 660 \text{ minutes}
+   \]
+
+5. **Convert the total operating time back into hours**:
+   Since we need the answer in hours, we convert minutes to hours by dividing by 60:
+   \[
+   \text{Total operating time in hours} = \frac{660 \text{ minutes}}{60} = 11 \text{ hours}
+   \]
+
+Therefore, the movie theater operates for a total of 11 hours each day.
+</reasoning>
+<answer>11</answer>

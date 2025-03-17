@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much money Teagan, Rex, and Toni saved altogether, we need to calculate the total amount of money each child has in dollars and then add those amounts together.
+
+1. First, let's calculate how much money Teagan has saved. Teagan saved 200 pennies. Since there are 100 pennies in a dollar, we can convert pennies to dollars by dividing the number of pennies by 100. 
+   \[
+   \text{Teagan's money in dollars} = \frac{200 \text{ pennies}}{100} = 2 \text{ dollars}
+   \]
+
+2. Next, we calculate how much money Rex has saved. Rex has 100 nickels. Each nickel is worth 5 cents, or $0.05. We can find the total value of the nickels by multiplying the number of nickels by the value of one nickel.
+   \[
+   \text{Rex's money in dollars} = 100 \text{ nickels} \times 0.05 \text{ dollars/nickel} = 5 \text{ dollars}
+   \]
+
+3. Finally, we calculate how much money Toni has saved. Toni has 330 dimes. Each dime is worth 10 cents, or $0.10. We can find the total value of the dimes by multiplying the number of dimes by the value of one dime.
+   \[
+   \text{Toni's money in dollars} = 330 \text{ dimes} \times 0.10 \text{ dollars/dime} = 33 \text{ dollars}
+   \]
+
+4. Now that we have the amounts saved by each child, we can add them together to find the total amount saved by all three kids.
+   \[
+   \text{Total money saved} = \text{Teagan's money} + \text{Rex's money} + \text{Toni's money}
+   \]
+   \[
+   \text{Total money saved} = 2 \text{ dollars} + 5 \text{ dollars} + 33 \text{ dollars} = 40 \text{ dollars}
+   \]
+
+Therefore, the total amount of money saved by Teagan, Rex, and Toni altogether is 40 dollars.
+</reasoning>
+<answer>40</answer>

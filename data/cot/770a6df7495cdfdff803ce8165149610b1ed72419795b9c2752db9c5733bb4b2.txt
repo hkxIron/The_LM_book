@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Identify the profit and the goal**: The trader made a profit of $960. She needs to raise $610 for her next shipment.
+
+2. **Calculate half of the profit**: Since the trader splits her profit in half, we need to find half of $960.
+   \[
+   \text{Half of profit} = \frac{960}{2} = 480
+   \]
+   This means she has $480 to work with from her profit.
+
+3. **Add the donation to half of the profit**: The trader received a total donation of $310 from her family and friends. Now, we need to add this to the half of her profit to see how much total money she has.
+   \[
+   \text{Total money} = \text{Half of profit} + \text{Donation} = 480 + 310 = 790
+   \]
+
+4. **Calculate how much she made above her goal**: Now, we need to see how much this total money exceeds her goal of $610.
+   \[
+   \text{Excess amount} = \text{Total money} - \text{Goal} = 790 - 610 = 180
+   \]
+
+Therefore, the amount of money she made above her goal is $180.
+</reasoning>
+<answer>180</answer>

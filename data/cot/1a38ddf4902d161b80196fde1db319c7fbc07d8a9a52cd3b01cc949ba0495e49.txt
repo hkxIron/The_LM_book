@@ -1,0 +1,43 @@
+<reasoning>
+To solve this problem step by step, we will calculate the total revenue from the sale of the items after applying the discount and then subtract the amount owed to the creditors.
+
+1. **Determine the total retail value of all items**:
+   The store has 2000 items, and each item normally retails for $50. Therefore, we can calculate the total retail value as follows:
+   \[
+   \text{Total retail value} = \text{Number of items} \times \text{Retail price per item} = 2000 \times 50 = 100000
+   \]
+   This means the total inventory would have been worth $100,000 without any discounts.
+
+2. **Calculate the discount amount**:
+   The store is offering an 80% discount. To find the discount amount on each item, we calculate:
+   \[
+   \text{Discount per item} = \text{Retail price} \times \text{Discount percentage} = 50 \times 0.80 = 40
+   \]
+
+3. **Calculate the sale price per item after discount**:
+   We subtract the discount from the retail price to find the sale price:
+   \[
+   \text{Sale price per item} = \text{Retail price} - \text{Discount per item} = 50 - 40 = 10
+   \]
+
+4. **Determine how many items were sold**:
+   The store sold 90% of the 2000 items:
+   \[
+   \text{Number of items sold} = \text{Total items} \times \text{Percentage sold} = 2000 \times 0.90 = 1800
+   \]
+
+5. **Calculate total revenue from sales**:
+   Now we can calculate the total revenue generated from selling the 1800 items:
+   \[
+   \text{Total revenue} = \text{Number of items sold} \times \text{Sale price per item} = 1800 \times 10 = 18000
+   \]
+
+6. **Subtract the amount owed to creditors**:
+   The store owed $15,000 to its creditors. To find out how much money they have left after paying off this debt, we subtract the amount owed from the total revenue:
+   \[
+   \text{Money left after sale} = \text{Total revenue} - \text{Amount owed} = 18000 - 15000 = 3000
+   \]
+
+Therefore, after selling the items and paying off the creditors, the store has $3,000 left.
+</reasoning>
+<answer>3000</answer>

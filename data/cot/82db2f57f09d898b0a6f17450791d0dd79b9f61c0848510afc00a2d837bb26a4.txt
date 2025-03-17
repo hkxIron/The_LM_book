@@ -1,0 +1,30 @@
+<reasoning>
+Let's start by determining the ages of Omi and Arlette based on Kimiko's age.
+
+1. **Finding Omi's Age**: 
+   Since Omi is twice as old as Kimiko, we can calculate Omi's age by multiplying Kimiko's age by 2.
+   \[
+   \text{Omi's Age} = 2 \times \text{Kimiko's Age} = 2 \times 28 = 56
+   \]
+   So, Omi is 56 years old.
+
+2. **Finding Arlette's Age**: 
+   Arlette is \( \frac{3}{4} \) times as old as Kimiko. We can calculate Arlette's age by multiplying Kimiko's age by \( \frac{3}{4} \).
+   \[
+   \text{Arlette's Age} = \frac{3}{4} \times \text{Kimiko's Age} = \frac{3}{4} \times 28 = 21
+   \]
+   Thus, Arlette is 21 years old.
+
+3. **Calculating the Average Age**: 
+   To find the average age of Omi, Kimiko, and Arlette, we need to sum their ages and then divide by the number of individuals (which is 3).
+   \[
+   \text{Total Age} = \text{Omi's Age} + \text{Kimiko's Age} + \text{Arlette's Age} = 56 + 28 + 21 = 105
+   \]
+   Now, we can calculate the average:
+   \[
+   \text{Average Age} = \frac{\text{Total Age}}{3} = \frac{105}{3} = 35
+   \]
+
+Therefore, the average age of Omi, Kimiko, and Arlette is 35 years.
+</reasoning>
+<answer>35</answer>

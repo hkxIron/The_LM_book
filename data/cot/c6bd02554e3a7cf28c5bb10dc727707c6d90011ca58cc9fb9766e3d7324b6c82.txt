@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of fish caught by the pelican**:
+   The problem states that the pelican caught 13 fish. 
+   \[
+   \text{Fish caught by pelican} = 13
+   \]
+
+2. **Determine the number of fish caught by the kingfisher**:
+   The kingfisher caught 7 more fish than the pelican. So, we add 7 to the number of fish caught by the pelican:
+   \[
+   \text{Fish caught by kingfisher} = 13 + 7 = 20
+   \]
+
+3. **Calculate the total number of fish caught by the pelican and the kingfisher**:
+   Now, we need to find the total amount of fish caught by both birds:
+   \[
+   \text{Total fish} = \text{Fish caught by pelican} + \text{Fish caught by kingfisher} = 13 + 20 = 33
+   \]
+
+4. **Determine how many fish the fisherman caught**:
+   The fisherman caught 3 times the total amount of fish that the pelican and kingfisher caught. So, we multiply the total amount by 3:
+   \[
+   \text{Fish caught by fisherman} = 3 \times 33 = 99
+   \]
+
+5. **Find how many more fish the fisherman caught than the pelican**:
+   To find out how many more fish the fisherman caught than the pelican, we subtract the number of fish caught by the pelican from the number of fish caught by the fisherman:
+   \[
+   \text{More fish caught by fisherman than pelican} = 99 - 13 = 86
+   \]
+
+Thus, the fisherman caught 86 more fish than the pelican.
+</reasoning>
+<answer>86</answer>

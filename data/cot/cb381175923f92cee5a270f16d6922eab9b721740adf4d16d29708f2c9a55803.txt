@@ -1,0 +1,44 @@
+<reasoning>
+Let's denote the years for each dig site as follows:
+
+- Let \( x \) be the year of the second dig site.
+- Then the first dig site is \( x + 352 \) (since it is 352 years more recent than the second).
+- The third dig site is \( (x + 352) - 3700 \) (since it is 3700 years older than the first).
+- The fourth dig site is \( 2 \times \) (the year of the third dig site).
+
+According to the problem, the fourth dig site is dated 8400 BC, which we will treat as a negative number for calculations: \( -8400 \).
+
+Now we can express the relationships we've established in equations:
+
+1. The third dig site is \( x + 352 - 3700 = x - 3348 \).
+2. The fourth dig site is \( 2 \times (x - 3348) \).
+
+Since we know that the fourth dig site is \( -8400 \), we can set up the equation:
+
+\[
+2 \times (x - 3348) = -8400
+\]
+
+Now, let's solve for \( x \):
+
+1. Divide both sides by 2 to simplify:
+   \[
+   x - 3348 = -4200
+   \]
+
+2. Next, add 3348 to both sides:
+   \[
+   x = -4200 + 3348
+   \]
+   \[
+   x = -852
+   \]
+
+Now, we can interpret \( x \). The second dig site is dated \( -852 \), which corresponds to 852 BC.
+
+To summarize:
+- The second dig site is dated 852 BC.
+
+Thus, the final answer is:
+</reasoning>
+<answer>852</answer>

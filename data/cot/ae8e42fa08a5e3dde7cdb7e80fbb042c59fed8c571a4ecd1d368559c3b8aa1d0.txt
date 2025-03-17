@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we need to determine the total number of dresses Jane sews and then calculate how many ribbons she uses based on that number.
+
+1. **Calculate the number of dresses sewn in the first 7 days.**
+   Jane sews 2 dresses a day for 7 days. We can find the total dresses sewn during this period by multiplying the number of dresses per day by the number of days:
+   \[
+   \text{Dresses in first 7 days} = 2 \text{ dresses/day} \times 7 \text{ days} = 14 \text{ dresses}
+   \]
+
+2. **Calculate the number of dresses sewn in the next 2 days.**
+   For the next 2 days, Jane sews 3 dresses a day. We can find the total for this period as well:
+   \[
+   \text{Dresses in next 2 days} = 3 \text{ dresses/day} \times 2 \text{ days} = 6 \text{ dresses}
+   \]
+
+3. **Find the total number of dresses sewn.**
+   Now, we add the dresses from both periods together:
+   \[
+   \text{Total dresses} = 14 \text{ dresses} + 6 \text{ dresses} = 20 \text{ dresses}
+   \]
+
+4. **Calculate the total number of ribbons used.**
+   Jane adds 2 ribbons to each dress. Therefore, the total number of ribbons can be calculated by multiplying the total number of dresses by the number of ribbons per dress:
+   \[
+   \text{Total ribbons} = 20 \text{ dresses} \times 2 \text{ ribbons/dress} = 40 \text{ ribbons}
+   \]
+
+Thus, after calculating all the steps, we find that Jane uses a total of 40 ribbons.
+</reasoning>
+<answer>40</answer>

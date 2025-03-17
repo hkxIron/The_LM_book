@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we first need to understand the total number of pieces of fried chicken and how they were distributed.
+
+1. **Total Pieces of Chicken**: Mrs. Crocker made a total of 11 pieces of fried chicken.
+
+2. **Pieces Eaten by Lyndee**: We know that Lyndee ate 1 piece of chicken.
+
+3. **Pieces Eaten by Friends**: The remaining pieces were eaten by Lyndee's friends. Since each friend ate 2 pieces, we need to find out how many pieces were consumed by the friends.
+
+4. **Calculate Remaining Pieces**: 
+   - We subtract the piece that Lyndee ate from the total:
+   \[
+   11 - 1 = 10
+   \]
+   This means there are 10 pieces of chicken left for the friends.
+
+5. **Determine the Number of Friends**: 
+   - Each friend ate 2 pieces. To find out how many friends there are, we divide the total remaining pieces by the number of pieces each friend ate:
+   \[
+   \text{Number of friends} = \frac{10}{2} = 5
+   \]
+
+Therefore, Lyndee had 5 friends over.
+</reasoning>
+<answer>5</answer>

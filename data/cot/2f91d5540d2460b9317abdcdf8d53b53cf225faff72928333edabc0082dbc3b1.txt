@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Debt**: Greg lent Tessa $40. So, initially, Tessa owes Greg $40.
+
+2. **Partial Payment**: A week later, Tessa pays back half of her debt. Half of $40 is:
+   \[
+   \frac{40}{2} = 20
+   \]
+   After this payment, the amount Tessa still owes is:
+   \[
+   40 - 20 = 20
+   \]
+   So now, Tessa owes Greg $20.
+
+3. **New Loan**: A few days later, Tessa asks Greg for an additional $10. This means we add this amount to what she already owes:
+   \[
+   20 + 10 = 30
+   \]
+   Now, Tessa owes Greg $30 in total.
+
+Therefore, after considering the initial loan, the partial payment, and the new loan, Tessa still owes Greg $30.
+</reasoning>
+<answer>30</answer>

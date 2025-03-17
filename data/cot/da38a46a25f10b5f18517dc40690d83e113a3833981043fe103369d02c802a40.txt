@@ -1,0 +1,34 @@
+<reasoning>
+To determine the final price of the shirt after the profit and sale are applied, we will follow these steps:
+
+1. **Calculate the selling price of the shirt before the sale:**
+   The store buys the shirt for $20 and marks it up by 30%. 
+   To find the selling price, we calculate 30% of $20 and then add that to the original price.
+
+   - Calculate 30% of $20:
+     \[
+     0.30 \times 20 = 6
+     \]
+   - Now add this profit to the original cost:
+     \[
+     20 + 6 = 26
+     \]
+   So, the original selling price of the shirt is $26.
+
+2. **Calculate the sale price:**
+   The shirt is now on sale for 50% off the selling price of $26. 
+   To find the sale price, we calculate 50% of $26 and subtract it from the original selling price.
+
+   - Calculate 50% of $26:
+     \[
+     0.50 \times 26 = 13
+     \]
+   - Now subtract this discount from the original selling price:
+     \[
+     26 - 13 = 13
+     \]
+   Therefore, the price of the shirt after the sale is $13.
+
+Finally, after performing all calculations step by step, we find that the final price of the shirt is:
+</reasoning>
+<answer>13</answer>

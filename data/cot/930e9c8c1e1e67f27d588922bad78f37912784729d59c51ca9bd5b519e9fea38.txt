@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much Harry spends every year to feed all his pets, we need to calculate the monthly feeding cost for each type of pet and then multiply that by 12 to get the annual cost.
+
+1. **Calculate the monthly feeding cost for geckos:**
+   - Harry has 3 geckos.
+   - The cost to feed each gecko is $15.
+   - Therefore, the total monthly cost for geckos is:
+     \[
+     3 \text{ geckos} \times 15 \text{ dollars/gecko} = 45 \text{ dollars}
+     \]
+
+2. **Calculate the monthly feeding cost for iguanas:**
+   - Harry has 2 iguanas.
+   - The cost to feed each iguana is $5.
+   - Therefore, the total monthly cost for iguanas is:
+     \[
+     2 \text{ iguanas} \times 5 \text{ dollars/iguana} = 10 \text{ dollars}
+     \]
+
+3. **Calculate the monthly feeding cost for snakes:**
+   - Harry has 4 snakes.
+   - The cost to feed each snake is $10.
+   - Therefore, the total monthly cost for snakes is:
+     \[
+     4 \text{ snakes} \times 10 \text{ dollars/snake} = 40 \text{ dollars}
+     \]
+
+4. **Calculate the total monthly feeding cost for all pets:**
+   - Now, we add the monthly costs for geckos, iguanas, and snakes:
+     \[
+     45 \text{ dollars} + 10 \text{ dollars} + 40 \text{ dollars} = 95 \text{ dollars}
+     \]
+
+5. **Calculate the annual feeding cost:**
+   - To find the annual cost, we multiply the total monthly feeding cost by 12 (the number of months in a year):
+     \[
+     95 \text{ dollars/month} \times 12 \text{ months} = 1140 \text{ dollars}
+     \]
+
+Therefore, Harry spends a total of $1140 every year to feed all his pets.
+</reasoning>
+<answer>1140</answer>

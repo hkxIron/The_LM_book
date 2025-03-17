@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, let's start by determining how many nickels Ray has initially.
+
+1. **Calculate the initial number of nickels.** 
+   Ray has 95 cents in nickels. Each nickel is worth 5 cents. To find the number of nickels, we divide the total amount of money by the value of one nickel:
+   \[
+   \text{Number of nickels} = \frac{95 \text{ cents}}{5 \text{ cents/nickel}} = 19 \text{ nickels}
+   \]
+
+2. **Calculate how much Ray gives to Peter.**
+   Ray gives 25 cents to Peter. 
+
+3. **Calculate how much Ray gives to Randi.**
+   According to the problem, Ray gives twice as many cents to Randi as he gave to Peter. Since he gave Peter 25 cents, he gives Randi:
+   \[
+   \text{Amount given to Randi} = 2 \times 25 \text{ cents} = 50 \text{ cents}
+   \]
+
+4. **Calculate the total amount given away.**
+   Now, let's find the total amount of money that Ray has given away:
+   \[
+   \text{Total given away} = 25 \text{ cents} + 50 \text{ cents} = 75 \text{ cents}
+   \]
+
+5. **Calculate how much money Ray has left.**
+   We subtract the total amount given away from the initial amount Ray had:
+   \[
+   \text{Amount left} = 95 \text{ cents} - 75 \text{ cents} = 20 \text{ cents}
+   \]
+
+6. **Calculate how many nickels are left.**
+   Finally, we need to determine how many nickels Ray has left. Since Ray still has 20 cents and each nickel is worth 5 cents, we can find the remaining number of nickels:
+   \[
+   \text{Remaining nickels} = \frac{20 \text{ cents}}{5 \text{ cents/nickel}} = 4 \text{ nickels}
+   \]
+
+Therefore, after giving money to Peter and Randi, Ray has 4 nickels left.
+</reasoning>
+<answer>4</answer>

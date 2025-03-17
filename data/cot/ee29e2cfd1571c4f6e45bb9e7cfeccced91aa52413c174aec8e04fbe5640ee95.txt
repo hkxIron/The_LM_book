@@ -1,0 +1,52 @@
+<reasoning>
+Let's start by determining how many guests want steak and how many want chicken.
+
+1. **Define the number of chicken guests**: 
+   Let \( x \) be the number of guests who want chicken. According to the problem, 3 times as many guests want steak as chicken. This can be expressed as:
+   \[
+   \text{Number of steak guests} = 3x
+   \]
+
+2. **Set up the equation**: 
+   Since the total number of guests is 80, we can write the equation:
+   \[
+   x + 3x = 80
+   \]
+   This simplifies to:
+   \[
+   4x = 80
+   \]
+
+3. **Solve for \( x \)**: 
+   To find \( x \), we will divide both sides of the equation by 4:
+   \[
+   x = \frac{80}{4} = 20
+   \]
+   So, there are 20 guests who want chicken.
+
+4. **Calculate the number of steak guests**: 
+   Now we can find the number of guests who want steak:
+   \[
+   \text{Number of steak guests} = 3x = 3 \times 20 = 60
+   \]
+
+5. **Calculate the cost for each type of entree**: 
+   - The cost for chicken entrees:
+   \[
+   \text{Total chicken cost} = \text{Number of chicken guests} \times \text{Cost per chicken entree} = 20 \times 18 = 360
+   \]
+
+   - The cost for steak entrees:
+   \[
+   \text{Total steak cost} = \text{Number of steak guests} \times \text{Cost per steak entree} = 60 \times 25 = 1500
+   \]
+
+6. **Calculate the total catering budget**: 
+   Now we can find the total catering budget by adding the costs of both types of entrees:
+   \[
+   \text{Total catering budget} = \text{Total chicken cost} + \text{Total steak cost} = 360 + 1500 = 1860
+   \]
+
+Therefore, the total catering budget for Jenny's wedding is:
+</reasoning>
+<answer>1860</answer>

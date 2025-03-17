@@ -1,0 +1,38 @@
+<reasoning>
+To find out how tall the sunflowers from Packet B were, we need to understand that the sunflowers from Packet A are 20% taller than those from Packet B. This means that the height of the sunflowers from Packet A is equal to the height of the sunflowers from Packet B plus 20% of the height of the sunflowers from Packet B.
+
+Let's denote the height of the sunflowers from Packet B as \( b \). According to the problem, the height of the sunflowers from Packet A, which is 192 inches, can be expressed as:
+
+\[
+\text{Height of Packet A} = \text{Height of Packet B} + 20\% \text{ of Height of Packet B}
+\]
+
+This can be rewritten mathematically as:
+
+\[
+192 = b + 0.2b
+\]
+
+The term \( 0.2b \) represents 20% of \( b \). Now we can combine the terms on the right side:
+
+\[
+192 = b + 0.2b = 1.2b
+\]
+
+Next, we will solve for \( b \) by dividing both sides of the equation by 1.2:
+
+\[
+b = \frac{192}{1.2}
+\]
+
+Now we will perform the division:
+
+\[
+b = 160
+\]
+
+So, the height of the sunflowers from Packet B is 160 inches.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>160</answer>

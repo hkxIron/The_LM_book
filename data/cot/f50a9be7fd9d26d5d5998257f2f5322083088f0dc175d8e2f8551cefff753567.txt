@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many students didn't pass their exams, we first need to determine how many students passed. Since 75% of the students passed their exams, we can calculate that number first.
+
+Step 1: Calculate the number of students who passed.
+To find 75% of 804 students, we multiply 804 by 0.75 (which is the decimal equivalent of 75%).
+
+\[ 
+804 \times 0.75 = 603 
+\]
+
+This means 603 students passed their exams.
+
+Step 2: Calculate the number of students who didn't pass.
+To find out how many students didn't pass, we subtract the number of students who passed from the total number of students.
+
+\[ 
+804 - 603 = 201 
+\]
+
+Therefore, the number of students who didn't pass their exams is 201.
+</reasoning>
+<answer>201</answer>

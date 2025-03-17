@@ -1,0 +1,36 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the number of firecrackers remaining after the police confiscated some**: 
+   Jerry originally bought 48 firecrackers, and the police confiscated 12. 
+   To find the remaining firecrackers, we subtract the confiscated amount from the original total:
+   \[
+   48 - 12 = 36
+   \]
+   So, Jerry has 36 firecrackers left.
+
+2. **Determine how many of the remaining firecrackers are defective**: 
+   We know that 1/6 of the remaining firecrackers are defective. 
+   To find the number of defective firecrackers, we calculate:
+   \[
+   \frac{1}{6} \times 36 = 6
+   \]
+   This means there are 6 defective firecrackers.
+
+3. **Calculate the number of good firecrackers**: 
+   To find out how many firecrackers are good, we subtract the defective ones from the remaining total:
+   \[
+   36 - 6 = 30
+   \]
+   Thus, Jerry has 30 good firecrackers.
+
+4. **Determine how many firecrackers Jerry set off**: 
+   Jerry sets off half of the good firecrackers. To find out how many that is, we calculate:
+   \[
+   \frac{1}{2} \times 30 = 15
+   \]
+   Therefore, Jerry set off 15 firecrackers.
+
+In conclusion, we have followed each step logically to arrive at the final result.
+</reasoning>
+<answer>15</answer>

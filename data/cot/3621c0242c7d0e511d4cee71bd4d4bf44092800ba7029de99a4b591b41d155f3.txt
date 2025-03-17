@@ -1,0 +1,37 @@
+<reasoning>
+Let's denote the number of toys Kamari has as \( K \). According to the problem, Anais has 30 more toys than Kamari, so we can express the number of toys Anais has as \( K + 30 \).
+
+Next, we know that the total number of toys they have together is 160. We can set up the equation based on the total number of toys:
+
+\[
+K + (K + 30) = 160
+\]
+
+Now, let's simplify this equation step by step:
+
+1. Combine like terms: 
+   - \( K + K \) gives us \( 2K \).
+   - This results in the equation:
+   \[
+   2K + 30 = 160
+   \]
+
+2. Next, we want to isolate \( 2K \). To do this, we subtract 30 from both sides of the equation:
+   \[
+   2K + 30 - 30 = 160 - 30
+   \]
+   This simplifies to:
+   \[
+   2K = 130
+   \]
+
+3. Now, we divide both sides by 2 to solve for \( K \):
+   \[
+   K = \frac{130}{2} = 65
+   \]
+
+Now we have found that Kamari has \( 65 \) toys.
+
+Therefore, the number of toys in Kamari's box is:
+</reasoning>
+<answer>65</answer>

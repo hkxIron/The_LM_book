@@ -1,0 +1,36 @@
+<reasoning>
+Let's break the problem down step by step.
+
+1. **Determine the depth of the father's hole:**
+   The father dug a hole at a rate of 4 feet per hour for 400 hours. To find the depth of his hole, we multiply the rate by the time:
+   \[
+   \text{Depth of father's hole} = \text{Rate} \times \text{Time} = 4 \text{ feet/hour} \times 400 \text{ hours}
+   \]
+   \[
+   \text{Depth of father's hole} = 1600 \text{ feet}
+   \]
+
+2. **Calculate twice the depth of the father's hole:**
+   We now need to find twice the depth of the father's hole:
+   \[
+   \text{Twice the depth of father's hole} = 2 \times 1600 \text{ feet} = 3200 \text{ feet}
+   \]
+
+3. **Determine the depth of Michael's hole:**
+   Michael wants to dig a hole that is 400 feet less than twice the depth of his father's hole. To find this, we subtract 400 feet from the twice depth we calculated:
+   \[
+   \text{Depth of Michael's hole} = 3200 \text{ feet} - 400 \text{ feet} = 2800 \text{ feet}
+   \]
+
+4. **Calculate the time it will take for Michael to dig his hole:**
+   Michael will dig his hole at the same rate as his father, which is 4 feet per hour. To find the time it will take Michael to dig his hole, we divide the depth of Michael's hole by the rate at which he digs:
+   \[
+   \text{Time for Michael} = \frac{\text{Depth of Michael's hole}}{\text{Rate}} = \frac{2800 \text{ feet}}{4 \text{ feet/hour}}
+   \]
+   \[
+   \text{Time for Michael} = 700 \text{ hours}
+   \]
+
+Therefore, the total time it will take for Michael to dig his hole is 700 hours.
+</reasoning>
+<answer>700</answer>

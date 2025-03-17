@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many shirts Brian has**: 
+   It's given that Brian has 3 shirts. 
+   - So, \( \text{Brian's shirts} = 3 \).
+
+2. **Calculate how many shirts Andrew has**: 
+   The problem states that Andrew has 6 times as many shirts as Brian. 
+   - Therefore, we can calculate Andrew's shirts as follows:
+   \[
+   \text{Andrew's shirts} = 6 \times \text{Brian's shirts} = 6 \times 3 = 18
+   \]
+
+3. **Calculate how many shirts Steven has**: 
+   The problem states that Steven has 4 times as many shirts as Andrew. 
+   - Thus, we calculate Steven's shirts as follows:
+   \[
+   \text{Steven's shirts} = 4 \times \text{Andrew's shirts} = 4 \times 18 = 72
+   \]
+
+Now that we have calculated the number of shirts Steven has, we can summarize our findings:
+
+- Brian has 3 shirts.
+- Andrew has 18 shirts.
+- Steven has 72 shirts.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>72</answer>

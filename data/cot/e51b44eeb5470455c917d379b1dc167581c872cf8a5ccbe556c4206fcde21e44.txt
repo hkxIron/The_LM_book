@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem, we first need to determine the number of cats and dogs on the street.
+
+1. **Determine the number of cats:**
+   We know that two-thirds of the animals are cats. We can calculate the number of cats by multiplying the total number of animals by two-thirds.
+
+   \[
+   \text{Number of cats} = \frac{2}{3} \times 300
+   \]
+
+   To perform the multiplication:
+
+   \[
+   \text{Number of cats} = 200
+   \]
+
+   So, there are 200 cats on the street.
+
+2. **Determine the number of dogs:**
+   To find the number of dogs, we subtract the number of cats from the total number of animals.
+
+   \[
+   \text{Number of dogs} = 300 - \text{Number of cats}
+   \]
+   \[
+   \text{Number of dogs} = 300 - 200 = 100
+   \]
+
+   Therefore, there are 100 dogs on the street.
+
+3. **Calculate the total number of legs of dogs:**
+   Each dog has 4 legs. We can calculate the total number of legs of the dogs by multiplying the number of dogs by the number of legs per dog.
+
+   \[
+   \text{Total legs of dogs} = \text{Number of dogs} \times 4
+   \]
+   \[
+   \text{Total legs of dogs} = 100 \times 4 = 400
+   \]
+
+Thus, the total number of legs of the dogs on the street is 400.
+</reasoning>
+<answer>400</answer>

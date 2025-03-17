@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many sodas James drinks per day, we first need to calculate the total number of sodas he has.
+
+1. **Calculate the total number of sodas in the packs:**
+   James buys 5 packs of sodas, and each pack contains 12 sodas. 
+   So, we multiply the number of packs by the number of sodas per pack:
+   \[
+   5 \text{ packs} \times 12 \text{ sodas/pack} = 60 \text{ sodas}
+   \]
+
+2. **Add the sodas he already had:**
+   James already had 10 sodas before buying the packs. We add this to the total number of sodas from the packs:
+   \[
+   60 \text{ sodas} + 10 \text{ sodas} = 70 \text{ sodas}
+   \]
+
+3. **Determine how many days he consumed the sodas:**
+   James finishes all of the sodas in 1 week. Since 1 week is equal to 7 days, we will use this to find out how many sodas he drinks each day.
+
+4. **Calculate the daily soda consumption:**
+   To find out how many sodas he drinks per day, we divide the total number of sodas by the number of days:
+   \[
+   \frac{70 \text{ sodas}}{7 \text{ days}} = 10 \text{ sodas/day}
+   \]
+
+Therefore, James drinks 10 sodas each day.
+</reasoning>
+<answer>10</answer>

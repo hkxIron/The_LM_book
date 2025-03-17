@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we need to establish the relationship between your age and your dog's age. 
+
+1. Let's denote your current age as \( x \).
+2. According to the information given, you were 15 years old when your dog was born. This means that your dog's age can be expressed as \( x - 15 \) (since you were 15 when the dog was born).
+3. We are also told that two years from now, your dog will be 4 years old. This means that in two years, your dog will be \( 4 \) years old.
+
+Now, let's set up the equation:
+
+4. In two years, your dog's current age \( (x - 15) \) will be increased by 2 years. So we can write:
+   \[
+   (x - 15) + 2 = 4
+   \]
+
+5. Simplifying this equation gives:
+   \[
+   x - 15 + 2 = 4
+   \]
+   \[
+   x - 13 = 4
+   \]
+
+6. Next, we will isolate \( x \):
+   \[
+   x = 4 + 13
+   \]
+   \[
+   x = 17
+   \]
+
+This tells us that your current age is 17 years old.
+
+Therefore, after following the steps and reasoning through the problem, I conclude:
+</reasoning>
+<answer>17</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of lunches**: Mrs. Gable brought 20 lunches for 20 students. This means each student received one lunch.
+
+2. **Determine the number of animal crackers per lunch**: Each pack of animal crackers contains 10 animal crackers. Since there is one pack for each lunch, each student has 10 animal crackers.
+
+3. **Calculate the total number of animal crackers**: To find the total number of animal crackers, we multiply the number of lunches (which is the same as the number of students) by the number of animal crackers per lunch.
+   \[
+   \text{Total animal crackers} = \text{Number of students} \times \text{Animal crackers per lunch} = 20 \times 10 = 200
+   \]
+   This means there are 200 animal crackers in total.
+
+4. **Consider the students who did not eat their animal crackers**: We know that 2 students did not eat their animal crackers. Therefore, we need to find out how many students did eat their animal crackers.
+   \[
+   \text{Students who ate animal crackers} = \text{Total students} - \text{Students who did not eat} = 20 - 2 = 18
+   \]
+
+5. **Calculate the total number of animal crackers eaten**: Now, we multiply the number of students who ate the animal crackers by the number of animal crackers each student had.
+   \[
+   \text{Animal crackers eaten} = \text{Students who ate} \times \text{Animal crackers per student} = 18 \times 10 = 180
+   \]
+
+Thus, the total number of animal crackers eaten among Mrs. Gable’s students is 180.
+</reasoning>
+<answer>180</answer>

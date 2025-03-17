@@ -1,0 +1,43 @@
+<reasoning>
+To solve this problem, I will first calculate the total area of the road that Mark wants to pave, then determine how many truckloads of asphalt he will need, and finally calculate the total cost including sales tax.
+
+1. **Calculate the area of the road:**
+   The area of a rectangle is given by the formula:
+   \[
+   \text{Area} = \text{Length} \times \text{Width}
+   \]
+   Here, the length is 2000 feet and the width is 20 feet.
+   \[
+   \text{Area} = 2000 \, \text{feet} \times 20 \, \text{feet} = 40000 \, \text{square feet}
+   \]
+   Therefore, the total area of the road is 40000 square feet.
+
+2. **Determine how many truckloads of asphalt are needed:**
+   Each truckload covers 800 square feet. To find the number of truckloads required, we divide the total area by the area covered by one truckload:
+   \[
+   \text{Number of truckloads} = \frac{\text{Total Area}}{\text{Area per Truckload}} = \frac{40000 \, \text{square feet}}{800 \, \text{square feet}} = 50
+   \]
+   Therefore, Mark will need 50 truckloads of asphalt.
+
+3. **Calculate the total cost of the truckloads:**
+   The cost of each truckload is $75. Therefore, the total cost before tax is:
+   \[
+   \text{Total Cost before Tax} = \text{Number of Truckloads} \times \text{Cost per Truckload} = 50 \times 75 = 3750
+   \]
+   So, the total cost before tax is $3750.
+
+4. **Calculate the sales tax:**
+   The sales tax is 20% of the total cost. To find the sales tax, we multiply the total cost by 20%:
+   \[
+   \text{Sales Tax} = 0.20 \times 3750 = 750
+   \]
+   Therefore, the sales tax is $750.
+
+5. **Calculate the final total cost:**
+   To find the total amount Mark needs to pay, we add the sales tax to the total cost before tax:
+   \[
+   \text{Total Cost} = \text{Total Cost before Tax} + \text{Sales Tax} = 3750 + 750 = 4500
+   \]
+   Thus, the total amount Mark will need to pay for the asphalt is $4500.
+</reasoning>
+<answer>4500</answer>

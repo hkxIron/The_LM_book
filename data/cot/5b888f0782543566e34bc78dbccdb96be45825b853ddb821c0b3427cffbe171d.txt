@@ -1,0 +1,36 @@
+<reasoning>
+To determine the total number of fishes caught by Jackson, Jonah, and George during the 5-day fishing competition, we need to calculate the total for each person and then sum these totals.
+
+1. **Calculate Jackson's total catch:**
+   - Jackson catches 6 fishes per day.
+   - Over 5 days, the total number of fishes he catches is:
+     \[
+     \text{Total for Jackson} = 6 \text{ fishes/day} \times 5 \text{ days} = 30 \text{ fishes}
+     \]
+
+2. **Calculate Jonah's total catch:**
+   - Jonah catches 4 fishes per day.
+   - Over 5 days, the total number of fishes he catches is:
+     \[
+     \text{Total for Jonah} = 4 \text{ fishes/day} \times 5 \text{ days} = 20 \text{ fishes}
+     \]
+
+3. **Calculate George's total catch:**
+   - George catches 8 fishes per day.
+   - Over 5 days, the total number of fishes he catches is:
+     \[
+     \text{Total for George} = 8 \text{ fishes/day} \times 5 \text{ days} = 40 \text{ fishes}
+     \]
+
+4. **Sum the totals to find the total catch by the team:**
+   - Now we add the total catches of Jackson, Jonah, and George:
+     \[
+     \text{Total catch} = \text{Total for Jackson} + \text{Total for Jonah} + \text{Total for George}
+     \]
+     \[
+     \text{Total catch} = 30 \text{ fishes} + 20 \text{ fishes} + 40 \text{ fishes} = 90 \text{ fishes}
+     \]
+
+Therefore, the total number of fishes caught by Jackson, Jonah, and George throughout the competition is 90.
+</reasoning>
+<answer>90</answer>

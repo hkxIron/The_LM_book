@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we need to determine how many laps Rosie completes around the track while Lou runs his three miles.
+
+1. **Determine the length of the track**: The track is stated to be one-quarter of a mile long.
+
+2. **Calculate how many laps Lou runs**: Lou runs a total of three miles. To find out how many laps he completes, we divide the total distance he runs by the length of the track.
+   \[
+   \text{Laps by Lou} = \frac{\text{Total distance Lou runs}}{\text{Length of the track}} = \frac{3 \text{ miles}}{0.25 \text{ miles/lap}} = 3 \div 0.25
+   \]
+   Dividing by a fraction is the same as multiplying by its reciprocal:
+   \[
+   3 \div 0.25 = 3 \times 4 = 12
+   \]
+   Therefore, Lou completes 12 laps around the track.
+
+3. **Determine Rosie's running speed**: Rosie runs at twice the speed of Lou. This means that she will complete laps in half the time it takes Lou to run his three miles.
+
+4. **Calculate how many laps Rosie runs**: Since Rosie runs at twice Lou's speed, she will cover the same distance in half the time. However, she will run for the same duration as Lou, which is the time it takes him to run three miles.
+
+   - Since Lou runs 3 miles at a speed of \( V \) (let's say miles per hour), the time it takes him to run 3 miles is:
+   \[
+   \text{Time for Lou} = \frac{3 \text{ miles}}{V} \text{ hours}
+   \]
+   - During the same time, Rosie, running at \( 2V \), covers a distance of:
+   \[
+   \text{Distance for Rosie} = \text{Speed} \times \text{Time} = 2V \times \frac{3}{V} = 6 \text{ miles}
+   \]
+
+5. **Calculate how many laps Rosie completes**:
+   \[
+   \text{Laps by Rosie} = \frac{\text{Total distance Rosie runs}}{\text{Length of the track}} = \frac{6 \text{ miles}}{0.25 \text{ miles/lap}} = 6 \div 0.25
+   \]
+   Again, dividing by a fraction is the same as multiplying by its reciprocal:
+   \[
+   6 \div 0.25 = 6 \times 4 = 24
+   \]
+
+Therefore, Rosie circles the track 24 times during their workout.
+</reasoning>
+<answer>24</answer>

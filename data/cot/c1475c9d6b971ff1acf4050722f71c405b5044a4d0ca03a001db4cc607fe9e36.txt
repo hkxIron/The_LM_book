@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, let's denote the current age of Cori and her aunt.
+
+1. Cori's current age is given as 3 years.
+
+2. We need to determine the aunt's current age. Let's denote her current age as \( x \).
+
+3. In 5 years, Cori will be 3 + 5 = 8 years old.
+
+4. We are told that in 5 years, Cori will be one-third the age of her aunt. Therefore, in 5 years, the aunt's age will be \( x + 5 \).
+
+5. We can set up the equation based on the information provided:
+   \[
+   8 = \frac{1}{3}(x + 5)
+   \]
+   This equation states that Cori's age in 5 years (which is 8) is equal to one-third of her aunt's age in 5 years (which is \( x + 5 \)).
+
+6. To eliminate the fraction, we can multiply both sides of the equation by 3:
+   \[
+   3 \times 8 = x + 5
+   \]
+   Simplifying this gives:
+   \[
+   24 = x + 5
+   \]
+
+7. Now we will solve for \( x \) by subtracting 5 from both sides:
+   \[
+   x = 24 - 5
+   \]
+   Simplifying gives:
+   \[
+   x = 19
+   \]
+
+8. Therefore, the aunt's current age is 19 years.
+
+So, after going through all the steps and calculations, we conclude:
+</reasoning>
+<answer>19</answer>

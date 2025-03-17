@@ -1,0 +1,20 @@
+<reasoning>
+To solve this problem, we need to determine Jan's new skipping speed after she doubles her original speed, and then calculate how many skips she performs in 5 minutes at that new speed.
+
+1. **Determine Jan's doubled speed**: 
+   - Jan's original speed is 70 skips per minute.
+   - When she doubles her speed, we multiply her original speed by 2:
+   \[
+   \text{New Speed} = 70 \text{ skips/minute} \times 2 = 140 \text{ skips/minute}
+   \]
+
+2. **Calculate the total skips in 5 minutes**: 
+   - Now that we know her new speed is 140 skips per minute, we need to find out how many skips she does in 5 minutes.
+   - We do this by multiplying her new speed by the amount of time (in minutes):
+   \[
+   \text{Total Skips} = 140 \text{ skips/minute} \times 5 \text{ minutes} = 700 \text{ skips}
+   \]
+
+Therefore, after doubling her speed and skipping for 5 minutes, Jan will perform a total of 700 skips.
+</reasoning>
+<answer>700</answer>

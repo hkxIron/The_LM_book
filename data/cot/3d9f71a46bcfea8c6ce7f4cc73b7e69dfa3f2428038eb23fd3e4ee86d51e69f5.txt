@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many attendees at Simon's birthday party did not bring gifts, we will first calculate how many boys and girls brought gifts, and then determine how many did not bring gifts.
+
+1. **Calculate the number of boys who brought gifts:**
+   - There are 16 boys at the party.
+   - According to the problem, three-fourths of the boys brought gifts.
+   - We calculate three-fourths of 16:
+     \[
+     \text{Boys who brought gifts} = \frac{3}{4} \times 16 = 12
+     \]
+   - So, 12 boys brought gifts.
+
+2. **Calculate the number of girls who brought gifts:**
+   - There are 14 girls at the party.
+   - According to the problem, six-sevenths of the girls brought gifts.
+   - We calculate six-sevenths of 14:
+     \[
+     \text{Girls who brought gifts} = \frac{6}{7} \times 14 = 12
+     \]
+   - So, 12 girls brought gifts.
+
+3. **Calculate the total number of attendees who brought gifts:**
+   - Now we add the boys and girls who brought gifts:
+     \[
+     \text{Total who brought gifts} = 12 \text{ (boys)} + 12 \text{ (girls)} = 24
+     \]
+
+4. **Calculate the total number of attendees at the party:**
+   - The total number of boys and girls is:
+     \[
+     \text{Total attendees} = 16 \text{ (boys)} + 14 \text{ (girls)} = 30
+     \]
+
+5. **Calculate the number of attendees who did not bring gifts:**
+   - We subtract the total number of attendees who brought gifts from the total number of attendees:
+     \[
+     \text{Total who did not bring gifts} = 30 - 24 = 6
+     \]
+
+Therefore, the final answer for the number of attendees who did not bring gifts is:
+</reasoning>
+<answer>6</answer>

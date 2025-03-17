@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many questions John got right on the test, we will calculate the number of correct answers for each section of the test separately and then add them together.
+
+1. **Calculate the correct answers for the first 40 questions:**
+   - John got 90% of the first 40 questions right.
+   - To find out how many questions that is, we calculate \( 90\% \) of 40.
+   - This can be done by multiplying \( 40 \) by \( 0.90 \):
+     \[
+     40 \times 0.90 = 36
+     \]
+   - So, John got 36 questions right from the first 40.
+
+2. **Calculate the correct answers for the next 40 questions:**
+   - John got 95% of the next 40 questions right.
+   - Similarly, we calculate \( 95\% \) of 40 by multiplying \( 40 \) by \( 0.95 \):
+     \[
+     40 \times 0.95 = 38
+     \]
+   - Therefore, John got 38 questions right from the second 40.
+
+3. **Add the correct answers from both sections:**
+   - Now we need to find the total number of questions John got right by adding the correct answers from both sections:
+     \[
+     36 + 38 = 74
+     \]
+
+Thus, John got a total of 74 questions right on the test.
+</reasoning>
+<answer>74</answer>

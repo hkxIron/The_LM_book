@@ -1,0 +1,41 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the total number of people contributing to the pot**: 
+   Josh has 7 friends, and including himself, that makes a total of 8 people.
+
+   \[
+   \text{Total people} = 7 \text{ friends} + 1 \text{ Josh} = 8 \text{ people}
+   \]
+
+2. **Calculate the total amount of money in the pot**: 
+   Each person puts in 5 dollars, so we multiply the number of people by the amount each person contributes.
+
+   \[
+   \text{Total money} = 8 \text{ people} \times 5 \text{ dollars/person} = 40 \text{ dollars}
+   \]
+
+3. **Determine how much first place gets**: 
+   First place receives 80% of the total money. To find 80% of 40 dollars, we can multiply 40 by 0.80.
+
+   \[
+   \text{First place} = 40 \text{ dollars} \times 0.80 = 32 \text{ dollars}
+   \]
+
+4. **Calculate the remaining money after first place is awarded**: 
+   To find out how much money is left for second and third place, we subtract the amount awarded to first place from the total pot.
+
+   \[
+   \text{Remaining money} = 40 \text{ dollars} - 32 \text{ dollars} = 8 \text{ dollars}
+   \]
+
+5. **Split the remaining money between second and third place**: 
+   The second and third place split the remaining money equally. Therefore, each of them gets half of 8 dollars.
+
+   \[
+   \text{Second place} = \text{Third place} = \frac{8 \text{ dollars}}{2} = 4 \text{ dollars}
+   \]
+
+Thus, the amount of money that third place gets is 4 dollars.
+</reasoning>
+<answer>4</answer>

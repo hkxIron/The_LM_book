@@ -1,0 +1,123 @@
+<reasoning>
+Let's denote the number of marbles I currently have as \( x \) and the number of marbles my brother has as \( y \). According to the problem, we have the following information:
+
+1. If I give my brother 2 marbles, I will have double the number of marbles he has.
+2. My friend will have triple the number of marbles I do after this transaction.
+3. The total number of marbles we have together is 63.
+
+Now, let's express the first condition mathematically:
+
+After giving 2 marbles to my brother:
+- I will have \( x - 2 \) marbles.
+- My brother will have \( y + 2 \) marbles.
+
+According to the problem, after this transaction, I will have double what my brother has:
+
+\[
+x - 2 = 2(y + 2)
+\]
+
+Now, let's simplify this equation:
+
+1. Distribute on the right side: 
+   \[
+   x - 2 = 2y + 4
+   \]
+
+2. Rearranging gives:
+   \[
+   x = 2y + 6 \quad \text{(Equation 1)}
+   \]
+
+Next, let's analyze the second condition about my friend. We don't know how many marbles my friend has, so let's denote it as \( z \). The problem states that my friend will have triple the number of marbles I do after I give away the 2 marbles:
+
+\[
+z = 3(x - 2) \quad \text{(Equation 2)}
+\]
+
+Finally, we know the total number of marbles together:
+
+\[
+x + y + z = 63 \quad \text{(Equation 3)}
+\]
+
+Now we can substitute Equation 2 into Equation 3:
+
+\[
+x + y + 3(x - 2) = 63
+\]
+
+Let's expand and simplify this equation:
+
+1. Expanding:
+   \[
+   x + y + 3x - 6 = 63
+   \]
+
+2. Combine like terms:
+   \[
+   4x + y - 6 = 63
+   \]
+
+3. Rearranging gives:
+   \[
+   4x + y = 69 \quad \text{(Equation 4)}
+   \]
+
+Now, we have two equations (Equation 1 and Equation 4):
+
+1. \( x = 2y + 6 \)
+2. \( 4x + y = 69 \)
+
+Now let's substitute Equation 1 into Equation 4:
+
+\[
+4(2y + 6) + y = 69
+\]
+
+Expanding gives:
+
+\[
+8y + 24 + y = 69
+\]
+
+Combining like terms results in:
+
+\[
+9y + 24 = 69
+\]
+
+Now, subtract 24 from both sides:
+
+\[
+9y = 45
+\]
+
+Dividing by 9 gives:
+
+\[
+y = 5
+\]
+
+Now that we have \( y \), we can substitute it back into Equation 1 to find \( x \):
+
+\[
+x = 2(5) + 6
+\]
+\[
+x = 10 + 6
+\]
+\[
+x = 16
+\]
+
+Thus, I have 16 marbles. 
+
+Now we should check:
+- If I give my brother 2 marbles, I will have \( 16 - 2 = 14 \) and my brother will have \( 5 + 2 = 7 \). Indeed \( 14 = 2 \times 7 \).
+- My friend will have \( 3(14) = 42 \).
+- The total is \( 16 + 5 + 42 = 63 \), which is correct.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>16</answer>

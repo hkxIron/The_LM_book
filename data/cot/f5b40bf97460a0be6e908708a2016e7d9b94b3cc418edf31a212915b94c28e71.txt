@@ -1,0 +1,43 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the average points scored by UF in the previous 24 games.**
+   - To find the average points per game, we divide the total points scored by the number of games played.
+   - UF scored a total of 720 points in 24 games.
+
+   \[
+   \text{Average points per game} = \frac{720 \text{ points}}{24 \text{ games}} = 30 \text{ points per game}
+   \]
+
+2. **Determine the points scored by UF in the championship game.**
+   - According to the problem, UF scored 2 points less than half of what they averaged in their previous games.
+   - We first find half of the average points per game:
+
+   \[
+   \text{Half of average points} = \frac{30}{2} = 15
+   \]
+
+   - Then, subtract 2 points from this value:
+
+   \[
+   \text{Points scored by UF in championship} = 15 - 2 = 13
+   \]
+
+3. **Find the points scored by UF's opponent.**
+   - The problem states that UF's opponent lost by 2 points. This means that if we let \( x \) be the points scored by the opponent, then:
+
+   \[
+   x + 2 = 13
+   \]
+
+   - We solve for \( x \):
+
+   \[
+   x = 13 - 2 = 11
+   \]
+
+Putting all the calculations together, we find that the opponent scored 11 points.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>11</answer>

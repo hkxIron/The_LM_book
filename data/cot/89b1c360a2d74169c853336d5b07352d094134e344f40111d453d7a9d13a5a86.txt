@@ -1,0 +1,32 @@
+<reasoning>
+To find out how long it takes Jill to run up and down a 900-foot hill, we need to calculate the time taken for each leg of the run: going up the hill and coming down the hill.
+
+1. **Calculate the time to run up the hill:**
+   - Jill's speed while running up is 9 feet/second.
+   - The distance she runs up is 900 feet.
+   - We can use the formula for time which is: 
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+     \]
+   - Substituting in the values for running up:
+     \[
+     \text{Time}_{up} = \frac{900 \text{ feet}}{9 \text{ feet/second}} = 100 \text{ seconds}
+     \]
+
+2. **Calculate the time to run down the hill:**
+   - Jill's speed while running down is 12 feet/second.
+   - The distance she runs down is also 900 feet.
+   - Using the same time formula:
+     \[
+     \text{Time}_{down} = \frac{900 \text{ feet}}{12 \text{ feet/second}} = 75 \text{ seconds}
+     \]
+
+3. **Calculate the total time taken for the entire run:**
+   - We add the time taken to go up and the time taken to come down:
+     \[
+     \text{Total Time} = \text{Time}_{up} + \text{Time}_{down} = 100 \text{ seconds} + 75 \text{ seconds} = 175 \text{ seconds}
+     \]
+
+In conclusion, Jill takes a total of 175 seconds to run up and down the hill.
+</reasoning>
+<answer>175</answer>

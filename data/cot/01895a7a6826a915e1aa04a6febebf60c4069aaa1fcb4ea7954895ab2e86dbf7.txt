@@ -1,0 +1,32 @@
+<reasoning>
+To find Malou's average score from her three quizzes, we need to follow these steps:
+
+1. **Add up the scores**: We need to sum the scores from each of her quizzes. Malou scored 91, 90, and 92. So, we calculate:
+   \[
+   91 + 90 + 92
+   \]
+
+2. **Calculate the total**: Performing the addition:
+   - First, add 91 and 90:
+     \[
+     91 + 90 = 181
+     \]
+   - Next, add the result to 92:
+     \[
+     181 + 92 = 273
+     \]
+   So, Malou's total score from the three quizzes is 273.
+
+3. **Divide by the number of quizzes**: To find the average, we divide the total score by the number of quizzes, which is 3:
+   \[
+   \text{Average} = \frac{273}{3}
+   \]
+
+4. **Calculate the average**: Now we perform the division:
+   \[
+   \frac{273}{3} = 91
+   \]
+
+Therefore, Malou's average score across her three quizzes is 91.
+</reasoning>
+<answer>91</answer>

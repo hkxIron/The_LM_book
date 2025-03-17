@@ -1,0 +1,51 @@
+<reasoning>
+To determine how much money Rocco has, we'll first calculate the total number of coins he has in each type (quarters, dimes, nickels, and pennies) and then convert those totals into monetary value.
+
+1. **Calculate the total number of each type of coin:**
+   - Rocco has 4 piles of quarters. Since each pile has 10 coins:
+     \[
+     \text{Total quarters} = 4 \text{ piles} \times 10 \text{ coins/pile} = 40 \text{ quarters}
+     \]
+   - Rocco has 6 piles of dimes:
+     \[
+     \text{Total dimes} = 6 \text{ piles} \times 10 \text{ coins/pile} = 60 \text{ dimes}
+     \]
+   - Rocco has 9 piles of nickels:
+     \[
+     \text{Total nickels} = 9 \text{ piles} \times 10 \text{ coins/pile} = 90 \text{ nickels}
+     \]
+   - Rocco has 5 piles of pennies:
+     \[
+     \text{Total pennies} = 5 \text{ piles} \times 10 \text{ coins/pile} = 50 \text{ pennies}
+     \]
+
+2. **Convert the number of coins into dollar amounts:**
+   - Each quarter is worth $0.25, so:
+     \[
+     \text{Value of quarters} = 40 \text{ quarters} \times 0.25 \text{ dollars/quarter} = 10 \text{ dollars}
+     \]
+   - Each dime is worth $0.10, so:
+     \[
+     \text{Value of dimes} = 60 \text{ dimes} \times 0.10 \text{ dollars/dime} = 6 \text{ dollars}
+     \]
+   - Each nickel is worth $0.05, so:
+     \[
+     \text{Value of nickels} = 90 \text{ nickels} \times 0.05 \text{ dollars/nickel} = 4.5 \text{ dollars}
+     \]
+   - Each penny is worth $0.01, so:
+     \[
+     \text{Value of pennies} = 50 \text{ pennies} \times 0.01 \text{ dollars/penny} = 0.5 \text{ dollars}
+     \]
+
+3. **Calculate the total amount of money Rocco has:**
+   Now we add the values of all the coins together:
+   \[
+   \text{Total amount} = \text{Value of quarters} + \text{Value of dimes} + \text{Value of nickels} + \text{Value of pennies}
+   \]
+   \[
+   \text{Total amount} = 10 + 6 + 4.5 + 0.5 = 21 \text{ dollars}
+   \]
+
+Therefore, Rocco has a total of $21.
+</reasoning>
+<answer>21</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many kids are going to soccer camp:**
+   We know there are 2,000 kids in total and half of them are going to soccer camp. To find the number of kids going to soccer camp, we calculate:
+   \[
+   \text{Kids going to soccer camp} = \frac{2000}{2} = 1000
+   \]
+   So, there are 1,000 kids going to soccer camp.
+
+2. **Determine how many kids are going to soccer camp in the morning:**
+   We are told that \( \frac{1}{4} \) of the kids going to soccer camp are going in the morning. To find this number, we calculate:
+   \[
+   \text{Kids going to soccer camp in the morning} = \frac{1}{4} \times 1000 = 250
+   \]
+   Thus, 250 kids are going to soccer camp in the morning.
+
+3. **Determine how many kids are going to soccer camp in the afternoon:**
+   Since we know the total number of kids going to soccer camp is 1,000, and we have already calculated that 250 kids are going in the morning, we can find the number of kids going to soccer camp in the afternoon by subtracting the morning kids from the total:
+   \[
+   \text{Kids going to soccer camp in the afternoon} = 1000 - 250 = 750
+   \]
+   Therefore, 750 kids are going to soccer camp in the afternoon.
+</reasoning>
+<answer>750</answer>

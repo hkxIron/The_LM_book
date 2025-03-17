@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many cars the company needs to add to its monthly production rate to reach the target of 1800 cars per year, we will follow these steps:
+
+1. **Determine the current annual production**: The company currently produces 100 cars per month. To find the annual production, we multiply the monthly production by the number of months in a year (12).
+   \[
+   \text{Current Annual Production} = 100 \text{ cars/month} \times 12 \text{ months} = 1200 \text{ cars/year}
+   \]
+
+2. **Identify the target annual production**: The target production is given as 1800 cars per year.
+
+3. **Calculate the difference**: Next, we need to find out how many additional cars the company needs to produce to meet the target. We do this by subtracting the current annual production from the target annual production.
+   \[
+   \text{Additional Cars Needed} = 1800 \text{ cars/year} - 1200 \text{ cars/year} = 600 \text{ cars/year}
+   \]
+
+4. **Convert the additional cars needed into a monthly increase**: Since production is typically measured monthly, we will divide the additional cars needed by 12 months to find out how many more cars need to be produced each month.
+   \[
+   \text{Additional Cars per Month} = \frac{600 \text{ cars/year}}{12 \text{ months}} = 50 \text{ cars/month}
+   \]
+
+Thus, the company needs to increase its monthly production by 50 cars to meet the target of 1800 cars per year.
+</reasoning>
+<answer>50</answer>

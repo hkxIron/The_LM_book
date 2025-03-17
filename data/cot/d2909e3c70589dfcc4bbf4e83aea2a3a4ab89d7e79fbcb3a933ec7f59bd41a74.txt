@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Distribution of Chocolate Bars**: 
+   Matilda had 20 chocolate bars and she shared them evenly among herself and her 4 sisters. This means there are a total of 5 people (Matilda + 4 sisters).
+
+   To find out how many chocolate bars each person received, we divide the total number of chocolate bars by the number of people:
+   \[
+   \text{Chocolate per person} = \frac{20 \text{ chocolate bars}}{5 \text{ people}} = 4 \text{ chocolate bars per person}
+   \]
+   So, each of Matilda and her 4 sisters received 4 chocolate bars.
+
+2. **Giving Up Half of Their Chocolate Bars**:
+   Next, they each decided to give up half of their chocolate bars for their father. Since each person has 4 chocolate bars:
+   \[
+   \text{Half of chocolate bars} = \frac{4 \text{ chocolate bars}}{2} = 2 \text{ chocolate bars}
+   \]
+   Therefore, each person gives 2 chocolate bars to their father. Since there are 5 people, the total number of chocolate bars given to their father is:
+   \[
+   \text{Total for father} = 2 \text{ chocolate bars/person} \times 5 \text{ people} = 10 \text{ chocolate bars}
+   \]
+
+3. **Father's Actions with the Chocolate Bars**:
+   Now, the father starts with 10 chocolate bars. According to the problem, he gives 3 chocolate bars to their mother and eats 2 chocolate bars himself. We will calculate how many he has left:
+   \[
+   \text{Chocolate bars after giving to mother} = 10 \text{ chocolate bars} - 3 \text{ chocolate bars} = 7 \text{ chocolate bars}
+   \]
+   Then, after eating 2 chocolate bars:
+   \[
+   \text{Chocolate bars left} = 7 \text{ chocolate bars} - 2 \text{ chocolate bars} = 5 \text{ chocolate bars}
+   \]
+
+Therefore, after all the transactions, Matilda's father has 5 chocolate bars left.
+</reasoning>
+<answer>5</answer>

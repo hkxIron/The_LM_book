@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem, we'll break it down into steps:
+
+1. **Calculate the total number of cookies Meena bakes**: 
+   Meena bakes 5 dozen cookies. Since 1 dozen is equal to 12, we can calculate the total cookies as follows:
+   \[
+   5 \text{ dozen} = 5 \times 12 = 60 \text{ cookies}
+   \]
+   Therefore, Meena starts with 60 cookies.
+
+2. **Determine how many cookies Mr. Stone buys**:
+   Mr. Stone buys 2 dozen cookies. We again convert dozen to the number of cookies:
+   \[
+   2 \text{ dozen} = 2 \times 12 = 24 \text{ cookies}
+   \]
+
+3. **Calculate the number of cookies left after Mr. Stone's purchase**:
+   We subtract the cookies sold to Mr. Stone from the total cookies:
+   \[
+   60 \text{ cookies} - 24 \text{ cookies} = 36 \text{ cookies}
+   \]
+
+4. **Find out how many cookies Brock buys**:
+   Brock buys 7 cookies, so we note this down as 7 cookies.
+
+5. **Calculate how many cookies Katy buys**:
+   Katy buys twice as many cookies as Brock. Since Brock bought 7 cookies, we calculate:
+   \[
+   2 \times 7 = 14 \text{ cookies}
+   \]
+
+6. **Calculate the total number of cookies sold to Brock and Katy**:
+   We add the cookies sold to both friends:
+   \[
+   7 \text{ cookies (Brock)} + 14 \text{ cookies (Katy)} = 21 \text{ cookies}
+   \]
+
+7. **Determine how many cookies Meena has left after selling to Brock and Katy**:
+   Now we subtract the total cookies sold to Brock and Katy from the remaining cookies after Mr. Stone's purchase:
+   \[
+   36 \text{ cookies} - 21 \text{ cookies} = 15 \text{ cookies}
+   \]
+
+Therefore, after all the sales, Meena has 15 cookies left.
+</reasoning>
+<answer>15</answer>

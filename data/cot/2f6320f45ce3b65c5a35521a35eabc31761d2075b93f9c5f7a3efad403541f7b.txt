@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem of how much Cole has to pay for the fence, we will follow these steps:
+
+1. **Determine the lengths of the sides Cole needs to fence.**
+   - Cole's backyard is 9 feet on each of the two sides and 18 feet along the back. Since he will be fencing only three sides, he needs to fence one side of 9 feet, one side of 18 feet (the back), and the other side is also 9 feet.
+
+2. **Calculate the total length of the fence.**
+   - The total length Cole needs to fence is:
+     \[
+     9 \text{ feet (left side)} + 18 \text{ feet (back)} + 9 \text{ feet (right side)} = 36 \text{ feet}
+     \]
+
+3. **Account for the contributions from the neighbors.**
+   - The neighbor behind him is paying for half of their shared side, which is the back side (18 feet). Thus, the neighbor will cover:
+     \[
+     \frac{1}{2} \times 18 \text{ feet} = 9 \text{ feet}
+     \]
+   - The neighbor on his left is paying for a third of their shared side, which is the left side (9 feet). Thus, the neighbor will cover:
+     \[
+     \frac{1}{3} \times 9 \text{ feet} = 3 \text{ feet}
+     \]
+
+4. **Calculate the total contribution from neighbors.**
+   - Now, we add the contributions from both neighbors:
+     \[
+     9 \text{ feet (from back neighbor)} + 3 \text{ feet (from left neighbor)} = 12 \text{ feet}
+     \]
+
+5. **Calculate the length of fence Cole has to pay for.**
+   - To find out how much fencing Cole is responsible for, we subtract the contributions from the total length:
+     \[
+     36 \text{ feet (total length)} - 12 \text{ feet (neighbors' contributions)} = 24 \text{ feet}
+     \]
+
+6. **Calculate the cost of the fencing.**
+   - The cost of the fencing is $3 per foot, so we multiply the total length of fencing Cole has to pay for by the cost per foot:
+     \[
+     24 \text{ feet} \times 3 \text{ dollars/foot} = 72 \text{ dollars}
+     \]
+
+Therefore, after going through all the calculations, we find that Cole has to pay a total of $72 for the fence.
+</reasoning>
+<answer>72</answer>

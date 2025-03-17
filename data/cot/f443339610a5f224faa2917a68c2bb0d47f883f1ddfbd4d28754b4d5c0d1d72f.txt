@@ -1,0 +1,22 @@
+<reasoning>
+Let's start by determining how many doubles Rob has.
+
+1. **Calculate the number of doubles Rob has**: 
+   Since one third of Rob's 24 baseball cards are doubles, we can calculate the number of doubles by multiplying the total number of cards by one third.
+   
+   \[
+   \text{Number of doubles Rob has} = \frac{1}{3} \times 24 = 8
+   \]
+   Therefore, Rob has 8 doubles.
+
+2. **Calculate how many doubles Jess has**:
+   We are told that Jess has 5 times as many doubles as Rob. Therefore, we can find the number of doubles Jess has by multiplying the number of doubles Rob has by 5.
+   
+   \[
+   \text{Number of doubles Jess has} = 5 \times \text{Number of doubles Rob has} = 5 \times 8 = 40
+   \]
+   Therefore, Jess has 40 doubles.
+
+Now that we have completed all the calculations, we can conclude:
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+To find the total number of marigolds sold during the sale, we will break down the sales day by day and then sum them up.
+
+1. **First Day Sales:**
+   - On the first day, 14 marigolds were sold.
+   - So, the total sold after the first day is 14.
+
+2. **Second Day Sales:**
+   - On the second day, 25 more marigolds were sold.
+   - To find the total after the second day, we add the sales from the first day to the sales from the second day:
+     \[
+     14 + 25 = 39
+     \]
+   - Therefore, the total sold after the second day is 39.
+
+3. **Third Day Sales:**
+   - On the third day, the center sold two times the number of marigolds sold on the second day. Since 25 marigolds were sold on the second day, we calculate:
+     \[
+     2 \times 25 = 50
+     \]
+   - So, 50 marigolds were sold on the third day.
+
+4. **Total Sales Calculation:**
+   - Now, to find the total number of marigolds sold during the sale, we add the sales from all three days:
+     \[
+     14 + 25 + 50 = 89
+     \]
+
+Therefore, the total number of marigolds sold during the sale is:
+</reasoning>
+<answer>89</answer>

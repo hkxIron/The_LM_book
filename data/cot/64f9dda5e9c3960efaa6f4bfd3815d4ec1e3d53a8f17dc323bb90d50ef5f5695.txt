@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Vampires**: We start with 2 vampires in the village.
+
+2. **Vampires Created in One Night**: Each vampire turns 5 more people into vampires. Since there are 2 vampires, we first calculate how many new vampires are created in one night:
+   - Each vampire turns 5 people into vampires, so for 2 vampires: 
+   \[
+   2 \text{ vampires} \times 5 \text{ people/vampire} = 10 \text{ new vampires}
+   \]
+
+3. **Total Vampires After One Night**: We now add the newly created vampires to the original count:
+   - Starting with 2 vampires and adding the 10 new vampires:
+   \[
+   2 + 10 = 12 \text{ vampires after the first night}
+   \]
+
+4. **Vampires Created in the Second Night**: Now we need to calculate how many new vampires are created on the second night. Since the number of vampires has increased to 12, we calculate the new vampires created with this new total:
+   - Each of the 12 vampires turns 5 people into vampires:
+   \[
+   12 \text{ vampires} \times 5 \text{ people/vampire} = 60 \text{ new vampires}
+   \]
+
+5. **Total Vampires After Two Nights**: Finally, we add the new vampires created in the second night to the total from the first night:
+   - Starting with 12 vampires and adding the 60 new vampires:
+   \[
+   12 + 60 = 72 \text{ vampires after the second night}
+   \]
+
+After going through all the steps, we find that the total number of vampires after two nights is:
+</reasoning>
+<answer>72</answer>

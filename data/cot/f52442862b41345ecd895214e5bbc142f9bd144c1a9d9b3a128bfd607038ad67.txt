@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the total number of pencils Ken had**: Ken started with 50 pencils.
+
+2. **Determine how many pencils Ken gave to Manny**: According to the problem, Ken gave 10 pencils to Manny.
+
+3. **Calculate how many pencils Ken gave to Nilo**: The problem states that Nilo received "ten more pencils than he gave to Manny." Since Manny received 10 pencils, Nilo received:
+   \[
+   10 + 10 = 20 \text{ pencils}
+   \]
+
+4. **Calculate the total number of pencils given away**: Now we need to find out how many pencils Ken gave away in total. He gave 10 pencils to Manny and 20 pencils to Nilo:
+   \[
+   10 + 20 = 30 \text{ pencils}
+   \]
+
+5. **Determine how many pencils Ken kept**: To find out how many pencils Ken has left, we subtract the total number of pencils given away from the initial amount of pencils he had:
+   \[
+   50 - 30 = 20 \text{ pencils}
+   \]
+
+Thus, Ken kept 20 pencils after sharing with Manny and Nilo.
+</reasoning>
+<answer>20</answer>

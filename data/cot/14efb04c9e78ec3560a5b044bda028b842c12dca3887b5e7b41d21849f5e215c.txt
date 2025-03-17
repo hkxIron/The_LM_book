@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Total Students**: We start with a total of 92 students.
+
+2. **Students Riding the Bus**: We know that 20 students ride the school bus home. We need to find out how many students are left after accounting for the bus riders.
+   \[
+   \text{Remaining students} = \text{Total students} - \text{Students riding the bus}
+   \]
+   \[
+   \text{Remaining students} = 92 - 20 = 72
+   \]
+   Now, there are 72 students remaining after the bus riders have been accounted for.
+
+3. **Students Riding Bikes**: According to the problem, \( \frac{5}{8} \) of the remaining students ride their own bike home. We need to calculate how many students that is:
+   \[
+   \text{Students riding bikes} = \frac{5}{8} \times \text{Remaining students}
+   \]
+   \[
+   \text{Students riding bikes} = \frac{5}{8} \times 72
+   \]
+   To perform the multiplication:
+   \[
+   \frac{5 \times 72}{8} = \frac{360}{8} = 45
+   \]
+   So, 45 students ride their bikes home.
+
+4. **Students Walking Home**: We can find the number of students who walk home by subtracting the students that ride the bus and those that ride bikes from the total number of students.
+   \[
+   \text{Students walking} = \text{Total students} - (\text{Students riding the bus} + \text{Students riding bikes})
+   \]
+   \[
+   \text{Students walking} = 92 - (20 + 45)
+   \]
+   \[
+   \text{Students walking} = 92 - 65 = 27
+   \]
+   Thus, 27 students walk home.
+
+Therefore, the number of students walking home is:
+</reasoning>
+<answer>27</answer>

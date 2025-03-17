@@ -1,0 +1,38 @@
+<reasoning>
+To determine how many marbles remain in Mr. Julien's store after the customers have made their purchases, we need to follow these steps:
+
+1. **Calculate the total number of marbles sold**: We know that there were 20 customers and each bought 15 marbles. To find the total number of marbles sold, we multiply the number of customers by the number of marbles each customer purchased.
+
+   \[
+   \text{Total marbles sold} = \text{Number of customers} \times \text{Marbles per customer}
+   \]
+   \[
+   \text{Total marbles sold} = 20 \times 15
+   \]
+
+   Now, let's calculate that:
+
+   \[
+   20 \times 15 = 300
+   \]
+
+   Therefore, a total of 300 marbles were sold.
+
+2. **Subtract the total number of marbles sold from the initial number of marbles**: Mr. Julien's store originally had 400 marbles. After selling 300 marbles, we need to find out how many marbles are left in the store.
+
+   \[
+   \text{Remaining marbles} = \text{Initial marbles} - \text{Total marbles sold}
+   \]
+   \[
+   \text{Remaining marbles} = 400 - 300
+   \]
+
+   Now, let's do that calculation:
+
+   \[
+   400 - 300 = 100
+   \]
+
+Thus, after all the sales, there are 100 marbles remaining in Mr. Julien's store.
+</reasoning>
+<answer>100</answer>

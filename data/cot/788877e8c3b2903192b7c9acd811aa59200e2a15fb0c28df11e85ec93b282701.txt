@@ -1,0 +1,54 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Calculate the number of red cards**: We know that 2/5 of the cards are red. Since there are 120 cards in total, we can calculate the number of red cards by multiplying 120 by 2/5.
+
+   \[
+   \text{Number of red cards} = 120 \times \frac{2}{5}
+   \]
+
+   Let's compute this:
+   \[
+   120 \times \frac{2}{5} = 120 \times 0.4 = 48
+   \]
+
+   So, there are 48 red cards.
+
+2. **Calculate the number of remaining cards**: Next, we'll find out how many cards are left after accounting for the red cards. We subtract the number of red cards from the total number of cards.
+
+   \[
+   \text{Remaining cards} = 120 - 48 = 72
+   \]
+
+   Therefore, there are 72 cards remaining after removing the red cards.
+
+3. **Calculate the number of black cards**: We are told that 5/9 of the remaining cards are black. So, we need to calculate 5/9 of the 72 remaining cards.
+
+   \[
+   \text{Number of black cards} = 72 \times \frac{5}{9}
+   \]
+
+   Now we'll compute this:
+   \[
+   72 \times \frac{5}{9} = 72 \div 9 \times 5 = 8 \times 5 = 40
+   \]
+
+   So, there are 40 black cards.
+
+4. **Calculate the number of green cards**: Finally, we need to determine the number of green cards by subtracting the number of red and black cards from the total number of cards.
+
+   \[
+   \text{Number of green cards} = 120 - \text{Number of red cards} - \text{Number of black cards}
+   \]
+
+   Plugging in the values we found:
+   \[
+   \text{Number of green cards} = 120 - 48 - 40
+   \]
+   \[
+   = 120 - 88 = 32
+   \]
+
+Therefore, the number of green cards in the box is 32.
+</reasoning>
+<answer>32</answer>

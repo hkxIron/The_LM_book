@@ -1,0 +1,38 @@
+<reasoning>
+Let's denote Fred's weekly allowance as \( A \).
+
+1. **Understanding the problem**: 
+   - Fred spent half of his allowance going to the movies. This means he spent \( \frac{A}{2} \).
+   - After spending on movies, he earned 6 dollars from washing the car.
+   - At the end, he has 14 dollars left.
+
+2. **Set up the equation**: 
+   - After spending half of his allowance, Fred has \( A - \frac{A}{2} = \frac{A}{2} \) left.
+   - Then, he earns 6 dollars from washing the car, so we add that to what he has left: \( \frac{A}{2} + 6 \).
+   - We know that this total equals 14 dollars, so we can set up the equation:
+     \[
+     \frac{A}{2} + 6 = 14
+     \]
+
+3. **Solve the equation**:
+   - First, subtract 6 from both sides to isolate the term with \( A \):
+     \[
+     \frac{A}{2} = 14 - 6
+     \]
+     \[
+     \frac{A}{2} = 8
+     \]
+   - Next, multiply both sides by 2 to solve for \( A \):
+     \[
+     A = 8 \times 2
+     \]
+     \[
+     A = 16
+     \]
+
+4. **Conclusion**:
+   - Fred’s weekly allowance is 16 dollars.
+
+Therefore, Fred’s weekly allowance is calculated as follows:
+</reasoning>
+<answer>16</answer>

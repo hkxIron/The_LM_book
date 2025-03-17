@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many apples each guest eats on average, we need to follow a series of steps:
+
+1. **Calculate the total number of servings**: Jessica plans to make 3 pies, and each pie contains 8 servings. 
+   \[
+   \text{Total servings} = \text{Number of pies} \times \text{Servings per pie} = 3 \times 8 = 24 \text{ servings}
+   \]
+   Here, we multiply the number of pies by the number of servings in each pie to find the total servings available to guests.
+
+2. **Calculate the total number of apples needed**: Since each serving requires 1.5 apples, we can find the total number of apples needed for all servings.
+   \[
+   \text{Total apples} = \text{Total servings} \times \text{Apples per serving} = 24 \times 1.5 = 36 \text{ apples}
+   \]
+   We multiply the total number of servings by the number of apples required for each serving to determine how many apples Jessica needs in total.
+
+3. **Calculate the average number of apples eaten per guest**: Jessica has 12 guests, so we can find out how many apples each guest eats on average by dividing the total number of apples by the number of guests.
+   \[
+   \text{Average apples per guest} = \frac{\text{Total apples}}{\text{Number of guests}} = \frac{36}{12} = 3 \text{ apples}
+   \]
+   Here, we divide the total number of apples by the number of guests to find the average consumption per guest.
+
+Thus, after going through each calculation step, we find that on average, each guest eats 3 apples.
+</reasoning>
+<answer>3</answer>

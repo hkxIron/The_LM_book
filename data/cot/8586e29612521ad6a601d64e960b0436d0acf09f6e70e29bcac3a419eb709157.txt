@@ -1,0 +1,49 @@
+<reasoning>
+To solve the problem, we need to determine the cost of lunch for each of the three friends: Adam, Rick, and Jose.
+
+1. **Identify the cost of Jose's lunch**: 
+   - We are given that Jose's lunch cost $45.
+   - So, we have: 
+     \[
+     \text{Cost of Jose's lunch} = 45
+     \]
+
+2. **Determine the cost of Rick's lunch**: 
+   - The problem states that Rick and Jose ate lunch of the same price. Therefore, Rick's lunch also costs $45.
+   - So, we have:
+     \[
+     \text{Cost of Rick's lunch} = 45
+     \]
+
+3. **Calculate the cost of Adam's lunch**: 
+   - We know that Adam spends two-thirds as much money on lunch as Rick. 
+   - To find Adam's lunch cost, we calculate:
+     \[
+     \text{Cost of Adam's lunch} = \frac{2}{3} \times \text{Cost of Rick's lunch}
+     \]
+   - Substituting the cost of Rick's lunch into the equation:
+     \[
+     \text{Cost of Adam's lunch} = \frac{2}{3} \times 45
+     \]
+   - Now, we calculate:
+     \[
+     \text{Cost of Adam's lunch} = \frac{90}{3} = 30
+     \]
+
+4. **Calculate the total cost of lunch for all three friends**: 
+   - We now add up the costs of lunch for Adam, Rick, and Jose:
+     \[
+     \text{Total cost} = \text{Cost of Adam's lunch} + \text{Cost of Rick's lunch} + \text{Cost of Jose's lunch}
+     \]
+   - Substituting the values we found:
+     \[
+     \text{Total cost} = 30 + 45 + 45
+     \]
+   - Now, we calculate:
+     \[
+     \text{Total cost} = 120
+     \]
+
+Thus, after calculating the individual costs and summing them up, the total cost of lunch for all three friends is $120.
+</reasoning>
+<answer>120</answer>

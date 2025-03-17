@@ -1,0 +1,35 @@
+<reasoning>
+Let's denote the number of buttons Kendra made as \( k \).
+
+1. According to the problem, Sue made half as many buttons as Kendra and she made 6 buttons. This means:
+   \[
+   \frac{k}{2} = 6
+   \]
+   To find \( k \), we multiply both sides of the equation by 2:
+   \[
+   k = 6 \times 2 = 12
+   \]
+   So, Kendra made 12 buttons.
+
+2. Now, according to the problem, Mari made 4 more than five times as many buttons as Kendra. We can express this mathematically as:
+   \[
+   m = 5k + 4
+   \]
+   where \( m \) is the number of buttons Mari made. 
+
+3. We already found \( k = 12 \), so we substitute \( k \) into the equation for \( m \):
+   \[
+   m = 5(12) + 4
+   \]
+   First, we calculate \( 5 \times 12 \):
+   \[
+   5 \times 12 = 60
+   \]
+   Next, we add 4:
+   \[
+   m = 60 + 4 = 64
+   \]
+
+Therefore, Mari made 64 buttons.
+</reasoning>
+<answer>64</answer>

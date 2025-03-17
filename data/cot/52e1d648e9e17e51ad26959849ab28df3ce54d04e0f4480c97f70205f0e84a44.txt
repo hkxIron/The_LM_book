@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem, we need to calculate the total number of years Tony spent in school for his education.
+
+1. **Calculating the years for the first degree:** Tony went to college for 4 years to get his first degree in science.
+
+   \[
+   \text{Years for first degree} = 4
+   \]
+
+2. **Calculating the years for the second and third degrees:** Tony then obtained 2 more degrees, each taking the same amount of time as his first degree. Since each of these degrees also took 4 years, we need to multiply 4 years by 2 degrees.
+
+   \[
+   \text{Years for second and third degrees} = 4 \times 2 = 8
+   \]
+
+3. **Calculating the years for the graduate degree:** Tony also completed a graduate degree in physics, which took another 2 years.
+
+   \[
+   \text{Years for graduate degree} = 2
+   \]
+
+4. **Adding all the years together:** Now we add all the years spent on each degree to find the total time spent in school.
+
+   \[
+   \text{Total years} = \text{Years for first degree} + \text{Years for second and third degrees} + \text{Years for graduate degree}
+   \]
+   \[
+   \text{Total years} = 4 + 8 + 2 = 14
+   \]
+
+Therefore, the total number of years Tony went to school to become an astronaut is 14 years.
+</reasoning>
+<answer>14</answer>

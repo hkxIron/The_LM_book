@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total cookies given to Tim and Mike:**
+   Uncle Jude gave 15 cookies to Tim and 23 cookies to Mike. 
+   To find the total cookies given to Tim and Mike, we add these two amounts together:
+   \[
+   15 + 23 = 38
+   \]
+   So, Uncle Jude gave away a total of 38 cookies to Tim and Mike.
+
+2. **Calculate the number of cookies remaining after giving to Tim and Mike:**
+   Uncle Jude originally baked 256 cookies. We need to subtract the 38 cookies he gave away from the total:
+   \[
+   256 - 38 = 218
+   \]
+   This means there are 218 cookies left after giving some to Tim and Mike.
+
+3. **Determine how many cookies were given to Anna:**
+   The problem states that Uncle Jude gave twice as many cookies to Anna as he gave to Tim. Since he gave 15 cookies to Tim, he gave:
+   \[
+   2 \times 15 = 30
+   \]
+   cookies to Anna.
+
+4. **Calculate the cookies left in the fridge:**
+   We need to find out how many cookies Uncle Jude put in the fridge. We know he had 218 cookies left after giving to Tim and Mike, and he also gave 30 cookies to Anna. We can find the number of cookies left for the fridge by subtracting the cookies given to Anna from the remaining cookies:
+   \[
+   218 - 30 = 188
+   \]
+   Therefore, Uncle Jude put 188 cookies in the fridge.
+
+Thus, after following these steps, we conclude that the number of cookies Uncle Jude put in the fridge is:
+</reasoning>
+<answer>188</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many books Beatrix has:** 
+   We know from the problem that Beatrix has 30 books. 
+
+2. **Determine how many books Alannah has:**
+   The problem states that Alannah has 20 more books than Beatrix. So we can calculate Alannah's books as follows:
+   \[
+   \text{Alannah's books} = \text{Beatrix's books} + 20 = 30 + 20 = 50
+   \]
+
+3. **Calculate how many books Queen has:**
+   According to the problem, Queen has 1/5 times more books than Alannah. To find out how many books Queen has, we first find 1/5 of Alannah's books (which is 50):
+   \[
+   \text{1/5 of Alannah's books} = \frac{1}{5} \times 50 = 10
+   \]
+   Now, we add this to Alannah's books to find out the total number of books Queen has:
+   \[
+   \text{Queen's books} = \text{Alannah's books} + \frac{1}{5} \times \text{Alannah's books} = 50 + 10 = 60
+   \]
+
+4. **Calculate the total number of books all three have together:**
+   Now that we know how many books each person has, we can add them together:
+   \[
+   \text{Total books} = \text{Beatrix's books} + \text{Alannah's books} + \text{Queen's books} = 30 + 50 + 60
+   \]
+   Calculating this gives:
+   \[
+   \text{Total books} = 30 + 50 + 60 = 140
+   \]
+
+Therefore, the total number of books that Alannah, Beatrix, and Queen have together is:
+</reasoning>
+<answer>140</answer>

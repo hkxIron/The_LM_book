@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total sales**: We know from the problem that the total amount of goods sold is $80.
+
+2. **Determine the credit sales**: The problem states that \( \frac{2}{5} \) of the total sales were credit sales. To find the amount of credit sales, we calculate:
+   \[
+   \text{Credit Sales} = \frac{2}{5} \times 80
+   \]
+   To do this multiplication:
+   \[
+   \frac{2}{5} \times 80 = \frac{2 \times 80}{5} = \frac{160}{5} = 32
+   \]
+   So, the credit sales amount to $32.
+
+3. **Calculate the cash sales**: The rest of the sales would be cash sales. Since the total sales amount to $80 and the credit sales are $32, we can calculate the cash sales as follows:
+   \[
+   \text{Cash Sales} = \text{Total Sales} - \text{Credit Sales}
+   \]
+   Substituting in our values:
+   \[
+   \text{Cash Sales} = 80 - 32 = 48
+   \]
+
+Therefore, after determining the total sales, calculating the credit sales, and finding the cash sales, we find that Mr. Brandon received $48 from cash sales.
+</reasoning>
+<answer>48</answer>

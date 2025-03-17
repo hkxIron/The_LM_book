@@ -1,0 +1,33 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the number of sour candies:** 
+   Henley bought 300 candies, and 40% of them were sour. To find the number of sour candies, we calculate 40% of 300.
+
+   \[
+   \text{Number of sour candies} = 0.40 \times 300 = 120
+   \]
+
+   This means there are 120 sour candies.
+
+2. **Calculate the number of good candies:**
+   To find the number of good candies, we subtract the number of sour candies from the total number of candies.
+
+   \[
+   \text{Number of good candies} = 300 - 120 = 180
+   \]
+
+   So, there are 180 good candies.
+
+3. **Share the good candies equally among Henley and her two brothers:**
+   There are three people in total (Henley and her two brothers). To find out how many good candies each person gets, we divide the number of good candies by 3.
+
+   \[
+   \text{Candies per person} = \frac{180}{3} = 60
+   \]
+
+   Therefore, each person gets 60 candies.
+
+Putting it all together, each of them receives 60 good candies after separating out the sour ones.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,50 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine Monica's earrings based on Bella's earrings:**
+   Bella has 10 earrings, which is 25% of Monica's earrings. We can express this mathematically as:
+   \[
+   10 = 0.25 \times \text{Monica's earrings}
+   \]
+   To find the number of earrings Monica has, we can rearrange the equation:
+   \[
+   \text{Monica's earrings} = \frac{10}{0.25}
+   \]
+   Calculating that gives:
+   \[
+   \text{Monica's earrings} = 10 \div 0.25 = 10 \times 4 = 40
+   \]
+   So, Monica has 40 earrings.
+
+2. **Determine Rachel's earrings based on Monica's earrings:**
+   The problem states that Monica has twice as many earrings as Rachel. We can express this as:
+   \[
+   \text{Monica's earrings} = 2 \times \text{Rachel's earrings}
+   \]
+   Substituting the number of earrings Monica has:
+   \[
+   40 = 2 \times \text{Rachel's earrings}
+   \]
+   Rearranging gives us:
+   \[
+   \text{Rachel's earrings} = \frac{40}{2} = 20
+   \]
+   So, Rachel has 20 earrings.
+
+3. **Calculate the total number of earrings:**
+   Now we can find the total number of earrings by adding Bella's, Monica's, and Rachel's earrings:
+   \[
+   \text{Total earrings} = \text{Bella's earrings} + \text{Monica's earrings} + \text{Rachel's earrings}
+   \]
+   Substituting the known values:
+   \[
+   \text{Total earrings} = 10 + 40 + 20
+   \]
+   Adding these together:
+   \[
+   \text{Total earrings} = 70
+   \]
+
+Therefore, the total number of earrings that all of the friends have is:
+</reasoning>
+<answer>70</answer>

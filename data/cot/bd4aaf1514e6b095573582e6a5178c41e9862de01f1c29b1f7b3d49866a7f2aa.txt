@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to determine how many old books Brianna will need to reread in order to ensure she has enough books to read two books each month this year.
+
+1. **Identify how many months are in a year:** 
+   There are 12 months in a year. Since Brianna reads 2 books each month, we can calculate the total number of books she needs for the year:
+   \[
+   \text{Total books needed} = 2 \text{ books/month} \times 12 \text{ months} = 24 \text{ books}
+   \]
+
+2. **Calculate the total number of new books Brianna has:**
+   - She received 6 books as a gift.
+   - She bought 8 new books.
+   - She plans to borrow 2 fewer books than she bought. Since she bought 8 books, she will borrow:
+   \[
+   8 \text{ (bought)} - 2 = 6 \text{ (borrowed)}
+   \]
+   Now, we can add these amounts together to find the total number of new books Brianna has:
+   \[
+   \text{Total new books} = 6 \text{ (gift)} + 8 \text{ (bought)} + 6 \text{ (borrowed)} = 20 \text{ new books}
+   \]
+
+3. **Determine how many old books Brianna needs to reread:**
+   We already calculated that she needs a total of 24 books for the year. Now, we will subtract the total number of new books from the total needed:
+   \[
+   \text{Old books needed} = \text{Total books needed} - \text{Total new books} = 24 - 20 = 4 \text{ old books}
+   \]
+
+Thus, Brianna will need to reread 4 of her old books to have enough to read 2 books each month for the year.
+</reasoning>
+<answer>4</answer>

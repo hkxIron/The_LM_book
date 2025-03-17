@@ -1,0 +1,34 @@
+<reasoning>
+To find Elizabeth's net profit, we need to calculate her total costs and total revenue, then subtract the total costs from the total revenue.
+
+**Step 1: Calculate total costs.**
+Elizabeth uses $3.00 worth of ingredients to make one bag of granola. Since she makes 20 bags, we can calculate her total costs as follows:
+
+Total costs = Cost per bag × Number of bags  
+Total costs = $3.00 × 20 = $60.00
+
+**Step 2: Calculate total revenue from selling the bags.**
+She sells 15 bags at $6.00 each first. The revenue from these sales is:
+
+Revenue from first 15 bags = Price per bag × Number of bags sold  
+Revenue from first 15 bags = $6.00 × 15 = $90.00
+
+Next, she marks down the remaining 5 bags to $4.00 each and sells them. The revenue from these is:
+
+Revenue from remaining 5 bags = Price per bag × Number of bags sold  
+Revenue from remaining 5 bags = $4.00 × 5 = $20.00
+
+Now, we calculate the total revenue by adding the revenue from both sales:
+
+Total revenue = Revenue from first 15 bags + Revenue from remaining 5 bags  
+Total revenue = $90.00 + $20.00 = $110.00
+
+**Step 3: Calculate net profit.**
+Net profit is calculated by subtracting total costs from total revenue:
+
+Net profit = Total revenue - Total costs  
+Net profit = $110.00 - $60.00 = $50.00
+
+Therefore, Elizabeth's net profit from selling the granola bags is:
+</reasoning>
+<answer>50</answer>

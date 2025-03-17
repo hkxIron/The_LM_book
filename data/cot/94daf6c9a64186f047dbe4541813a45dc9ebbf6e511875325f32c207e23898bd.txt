@@ -1,0 +1,40 @@
+<reasoning>
+To find the total value of all the treats DJ Snake received, we will calculate the value of each gift separately and then sum them up.
+
+1. **Calculate the value of the hotel stay:**  
+   Moksi took DJ Snake and his fiancée to a hotel for two nights at $4000 per night.  
+   - First, we multiply the cost per night by the number of nights:  
+     \[
+     4000 \, \text{(cost per night)} \times 2 \, \text{(number of nights)} = 8000
+     \]
+   - So, the total cost of the hotel stay is $8000.
+
+2. **Value of the car:**  
+   Lil Jon bought them a car worth $30000.  
+   - This is already given as $30000.
+
+3. **Value of the house:**  
+   Wynter presented them with a house worth four times the value of the car.  
+   - We already know the value of the car is $30000, so we will calculate the house value:  
+     \[
+     4 \times 30000 = 120000
+     \]
+   - Therefore, the value of the house is $120000.
+
+4. **Calculate the total value of all gifts:**  
+   Now, we will add the values of the hotel stay, the car, and the house to find the total value of the treats:  
+   \[
+   8000 \, \text{(hotel)} + 30000 \, \text{(car)} + 120000 \, \text{(house)}
+   \]
+   - First, add the hotel and car:  
+     \[
+     8000 + 30000 = 38000
+     \]
+   - Now, add the house value:  
+     \[
+     38000 + 120000 = 158000
+     \]
+
+Therefore, the total value of all the treats DJ Snake received on his engagement day is $158000.
+</reasoning>
+<answer>158000</answer>

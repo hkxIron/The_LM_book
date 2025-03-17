@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Define the time spent on each subject**: 
+   - Let the time spent on biology be \( B \).
+   - According to the problem, Max took 20 minutes to finish tasks from biology, so \( B = 20 \) minutes.
+
+2. **Calculate the time spent on history**:
+   - The problem states that it took Max two times more time to finish history than biology.
+   - Therefore, the time spent on history \( H \) can be calculated as:
+     \[
+     H = 2 \times B = 2 \times 20 = 40 \text{ minutes}
+     \]
+
+3. **Calculate the time spent on geography**:
+   - The problem states that geography took Max the most time, specifically three times more than history.
+   - Thus, the time spent on geography \( G \) can be calculated as:
+     \[
+     G = 3 \times H = 3 \times 40 = 120 \text{ minutes}
+     \]
+
+4. **Calculate the total time spent**:
+   - Now, we need to find the total time Max spent on his homework by adding the time spent on all three subjects:
+     \[
+     \text{Total time} = B + H + G = 20 + 40 + 120
+     \]
+   - Performing the addition:
+     \[
+     \text{Total time} = 20 + 40 = 60
+     \]
+     \[
+     \text{Total time} = 60 + 120 = 180 \text{ minutes}
+     \]
+
+Therefore, Max spent a total of 180 minutes doing his homework.
+</reasoning>
+<answer>180</answer>

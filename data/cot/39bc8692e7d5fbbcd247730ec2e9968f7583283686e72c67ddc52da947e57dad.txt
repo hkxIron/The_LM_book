@@ -1,0 +1,36 @@
+<reasoning>
+First, let's determine how much oil was in the 4000-liter tank initially. Since it was full, it had 4000 liters of oil.
+
+Next, we need to find out how much oil is three-quarters of the 4000 liters. To do this, we multiply 4000 liters by \(\frac{3}{4}\):
+
+\[
+\text{Oil poured} = 4000 \times \frac{3}{4} = 3000 \text{ liters}
+\]
+
+Now, we calculate how much oil remains in the original 4000-liter tank after pouring out 3000 liters:
+
+\[
+\text{Remaining oil in 4000-liter tank} = 4000 - 3000 = 1000 \text{ liters}
+\]
+
+Next, we need to find out how much oil is currently in the large tanker. The large tanker already had 3000 liters of oil before pouring in the additional oil:
+
+\[
+\text{Total oil in large tanker after pouring} = 3000 + 3000 = 6000 \text{ liters}
+\]
+
+Now, we want to determine how much oil is needed to make the large tanker half-full. The capacity of the large tanker is 20000 liters, so half-full would be:
+
+\[
+\text{Half-full capacity} = \frac{20000}{2} = 10000 \text{ liters}
+\]
+
+Finally, we calculate how much more oil is needed to reach this half-full capacity:
+
+\[
+\text{Additional oil needed} = 10000 - 6000 = 4000 \text{ liters}
+\]
+
+Thus, the amount of additional oil needed to make the large tanker half-full is:
+</reasoning>
+<answer>4000</answer>

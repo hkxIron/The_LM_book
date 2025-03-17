@@ -1,0 +1,44 @@
+<reasoning>
+To determine how many squares Yuko must move to be in front of his brother, we first need to calculate the total number of squares each player will move based on the values of their rolled dice.
+
+1. **Calculating Yuri's Move:**
+   - Yuri rolled a 2, 4, and 5. 
+   - To find the total number of squares he moves, we add these three values together: 
+     \[
+     2 + 4 + 5 = 11
+     \]
+   - Therefore, Yuri moves 11 squares.
+
+2. **Calculating Yuko's Move:**
+   - Yuko rolled a 1, 5, and X (where X is the value of the last die that we need to determine).
+   - We can calculate the total of the known dice first:
+     \[
+     1 + 5 = 6
+     \]
+   - Thus, Yuko's move depends on the value of X, and his total move will be:
+     \[
+     6 + X
+     \]
+
+3. **Finding X:**
+   - We need Yuko's total move (6 + X) to be greater than Yuri's total move (11) so that he can be in front of his brother. This gives us the inequality:
+     \[
+     6 + X > 11
+     \]
+   - To find the minimum value of X that satisfies this inequality, we can subtract 6 from both sides:
+     \[
+     X > 11 - 6
+     \]
+     \[
+     X > 5
+     \]
+
+4. **Determining the Minimum Value for X:**
+   - Since X must be a number on a standard die, the smallest integer value that satisfies \(X > 5\) is 6.
+
+5. **Conclusion:**
+   - Therefore, for Yuko to move in front of Yuri, the last die (X) must show a value of at least 6.
+
+Thus, Yuko must move 6 squares with his last die to ensure he is in front of Yuri.
+</reasoning>
+<answer>6</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how much Jake has after buying the motorcycle:**
+   - Jake starts with $5000.
+   - He spends $2800 on a motorcycle.
+   - To find out how much he has left, we subtract the amount spent from his initial amount:
+     \[
+     5000 - 2800 = 2200
+     \]
+   - So, after purchasing the motorcycle, Jake has $2200 left.
+
+2. **Calculate how much he spends on the concert ticket:**
+   - Jake now has $2200.
+   - He spends half of this amount on a concert ticket. To find half of $2200, we divide by 2:
+     \[
+     \frac{2200}{2} = 1100
+     \]
+   - This means Jake spends $1100 on the concert ticket.
+
+3. **Determine how much money Jake has after buying the concert ticket:**
+   - Now we need to find out how much he has after this purchase. We subtract the concert ticket cost from the amount he had after buying the motorcycle:
+     \[
+     2200 - 1100 = 1100
+     \]
+   - After buying the concert ticket, Jake has $1100 left.
+
+4. **Calculate how much he loses:**
+   - Jake then loses a fourth of what he has left. To find a fourth of $1100, we divide by 4:
+     \[
+     \frac{1100}{4} = 275
+     \]
+   - This means Jake loses $275.
+
+5. **Determine how much money Jake has after the loss:**
+   - Finally, we subtract the amount lost from his current amount:
+     \[
+     1100 - 275 = 825
+     \]
+   - Therefore, after all expenditures and losses, Jake has $825 left.
+
+So, after following all these steps, we find that Jake has a total of:
+</reasoning>
+<answer>825</answer>

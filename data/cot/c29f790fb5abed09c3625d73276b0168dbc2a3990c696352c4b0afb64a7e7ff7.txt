@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the Total Count Mary Thinks There Are**: Mary thinks there are 60 animals in total.
+
+2. **Account for Double-Counting**: Mary double-counted 7 sheep. This means she counted these 7 sheep twice. If she counted them once, there would be 7 fewer in her total count. Therefore, we need to subtract these 7 from her count:
+
+   \[
+   60 - 7 = 53
+   \]
+
+3. **Account for Forgotten Counts**: Mary forgot to count 3 pigs. This means there are actually 3 more animals that she did not include in her total. We need to add these 3 to the adjusted total:
+
+   \[
+   53 + 3 = 56
+   \]
+
+4. **Final Calculation**: After adjusting for the double-counting and the forgotten pigs, we find that the actual total number of animals in the petting zoo is 56.
+
+Therefore, the actual number of animals is:
+</reasoning>
+<answer>56</answer>

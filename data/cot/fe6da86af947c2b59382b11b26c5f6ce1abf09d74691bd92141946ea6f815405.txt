@@ -1,0 +1,26 @@
+<reasoning>
+To find John's height after his growth spurt, we first need to calculate how much he grew over the 3 months.
+
+1. **Calculate total growth in inches**: 
+   - John grew 2 inches per month for 3 months. 
+   - We multiply the growth per month by the number of months: 
+     \[
+     \text{Total growth} = 2 \text{ inches/month} \times 3 \text{ months} = 6 \text{ inches}
+     \]
+
+2. **Add the growth to John's original height**: 
+   - John was originally 66 inches tall. 
+   - Now we add the total growth to his original height:
+     \[
+     \text{New height} = 66 \text{ inches} + 6 \text{ inches} = 72 \text{ inches}
+     \]
+
+3. **Convert inches to feet**: 
+   - There are 12 inches in a foot, so we convert John's height from inches to feet by dividing by 12:
+     \[
+     \text{Height in feet} = \frac{72 \text{ inches}}{12 \text{ inches/foot}} = 6 \text{ feet}
+     \]
+
+Therefore, after calculating the growth and converting the height to feet, we find that John is now 6 feet tall.
+</reasoning>
+<answer>6</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+Let's start by defining the ages of each person based on the information given.
+
+1. Beckett's age is given as 12 years.
+   - \( \text{Beckett's age} = 12 \)
+
+2. We know Beckett is three years younger than Olaf. To find Olaf's age, we add 3 to Beckett's age:
+   - \( \text{Olaf's age} = \text{Beckett's age} + 3 = 12 + 3 = 15 \)
+
+3. Shannen is two years younger than Olaf. To find Shannen's age, we subtract 2 from Olaf's age:
+   - \( \text{Shannen's age} = \text{Olaf's age} - 2 = 15 - 2 = 13 \)
+
+4. Now we need to find Jack's age. It is stated that Jack is five more than twice as old as Shannen. First, we calculate twice Shannen's age:
+   - \( \text{Twice Shannen's age} = 2 \times \text{Shannen's age} = 2 \times 13 = 26 \)
+
+5. Now, we add 5 to this value to find Jack's age:
+   - \( \text{Jack's age} = 26 + 5 = 31 \)
+
+6. Now we have the ages of all four people:
+   - Beckett = 12
+   - Olaf = 15
+   - Shannen = 13
+   - Jack = 31
+
+7. Finally, we need to find the sum of their ages:
+   - \( \text{Sum of ages} = \text{Beckett's age} + \text{Olaf's age} + \text{Shannen's age} + \text{Jack's age} \)
+   - \( \text{Sum of ages} = 12 + 15 + 13 + 31 \)
+
+Now, let's calculate this sum:
+- \( 12 + 15 = 27 \)
+- \( 27 + 13 = 40 \)
+- \( 40 + 31 = 71 \)
+
+Thus, the sum of the ages of all 4 people is 71.
+</reasoning>
+<answer>71</answer>

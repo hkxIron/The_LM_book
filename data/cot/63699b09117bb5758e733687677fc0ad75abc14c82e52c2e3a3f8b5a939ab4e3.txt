@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total cost of the makeup set.**
+   The makeup set costs $65.
+
+2. **Find out how much money Gabby currently has.**
+   Gabby already has $35.
+
+3. **Calculate the additional amount Gabby receives from her mom.**
+   Gabby's mom gives her $20.
+
+4. **Calculate Gabby’s total amount of money after receiving the additional amount.**
+   We add the money Gabby already has to the money her mom gave her:
+   \[
+   \text{Total money Gabby has} = \text{Money she has} + \text{Money from mom}
+   \]
+   \[
+   \text{Total money Gabby has} = 35 + 20 = 55
+   \]
+   Now, Gabby has $55 in total.
+
+5. **Determine how much more money Gabby needs to buy the makeup set.**
+   We subtract the total amount of money Gabby has from the cost of the makeup set:
+   \[
+   \text{Money needed} = \text{Cost of makeup set} - \text{Total money Gabby has}
+   \]
+   \[
+   \text{Money needed} = 65 - 55 = 10
+   \]
+
+Therefore, Gabby needs an additional $10 to buy the makeup set.
+</reasoning>
+<answer>10</answer>

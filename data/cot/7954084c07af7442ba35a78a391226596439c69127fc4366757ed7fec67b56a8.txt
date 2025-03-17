@@ -1,0 +1,49 @@
+<reasoning>
+To find the total number of chairs in the hall, we will break down the problem step by step.
+
+1. **Determine the number of tables with 2 chairs**:
+   - Half of the tables have 2 chairs each. Since there are 32 tables,
+   \[
+   \text{Number of tables with 2 chairs} = \frac{32}{2} = 16 \text{ tables}
+   \]
+
+2. **Determine the number of tables with 3 chairs**:
+   - We are given that 5 tables have 3 chairs each. 
+   \[
+   \text{Number of tables with 3 chairs} = 5 \text{ tables}
+   \]
+
+3. **Determine the number of tables with 4 chairs**:
+   - To find the number of tables with 4 chairs, we first need to calculate how many tables are accounted for so far:
+   \[
+   \text{Total tables accounted for} = 16 \text{ (2 chairs)} + 5 \text{ (3 chairs)} = 21 \text{ tables}
+   \]
+   - Now, we can find the remaining tables that have 4 chairs:
+   \[
+   \text{Number of tables with 4 chairs} = 32 - 21 = 11 \text{ tables}
+   \]
+
+4. **Calculate the total number of chairs**:
+   - Now we will calculate the total number of chairs from all types of tables:
+     - For tables with 2 chairs:
+     \[
+     \text{Chairs from 2-chair tables} = 16 \times 2 = 32 \text{ chairs}
+     \]
+     - For tables with 3 chairs:
+     \[
+     \text{Chairs from 3-chair tables} = 5 \times 3 = 15 \text{ chairs}
+     \]
+     - For tables with 4 chairs:
+     \[
+     \text{Chairs from 4-chair tables} = 11 \times 4 = 44 \text{ chairs}
+     \]
+
+5. **Add the total number of chairs together**:
+   - Finally, we sum all the chairs together to get the total:
+   \[
+   \text{Total chairs} = 32 \text{ (from 2-chair tables)} + 15 \text{ (from 3-chair tables)} + 44 \text{ (from 4-chair tables)} = 91 \text{ chairs}
+   \]
+
+Therefore, the total number of chairs in the hall is:
+</reasoning>
+<answer>91</answer>

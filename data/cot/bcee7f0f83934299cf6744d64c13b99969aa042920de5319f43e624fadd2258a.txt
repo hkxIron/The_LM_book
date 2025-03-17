@@ -1,0 +1,59 @@
+<reasoning>
+First, we need to calculate the amounts Ben will allocate for each of his expenses based on the fractions provided.
+
+1. **Calculate the amount for the kitchen:**
+   - The fraction for the kitchen is \( \frac{1}{22} \).
+   - To find the amount, we multiply the total bonus by this fraction:
+   \[
+   \text{Kitchen amount} = 1496 \times \frac{1}{22}
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Kitchen amount} = \frac{1496}{22} = 68
+   \]
+
+2. **Calculate the amount for holidays:**
+   - The fraction for holidays is \( \frac{1}{4} \).
+   - We multiply the total bonus by this fraction:
+   \[
+   \text{Holidays amount} = 1496 \times \frac{1}{4}
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Holidays amount} = \frac{1496}{4} = 374
+   \]
+
+3. **Calculate the amount for Christmas gifts:**
+   - The fraction for Christmas gifts is \( \frac{1}{8} \).
+   - We multiply the total bonus by this fraction:
+   \[
+   \text{Christmas gifts amount} = 1496 \times \frac{1}{8}
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Christmas gifts amount} = \frac{1496}{8} = 187
+   \]
+
+4. **Sum the expenses:**
+   - Now, we add up all the amounts allocated to find the total expenses:
+   \[
+   \text{Total expenses} = \text{Kitchen amount} + \text{Holidays amount} + \text{Christmas gifts amount}
+   \]
+   - Substituting the calculated values:
+   \[
+   \text{Total expenses} = 68 + 374 + 187 = 629
+   \]
+
+5. **Calculate the remaining amount:**
+   - Finally, we subtract the total expenses from the total bonus to find out how much Ben will have left:
+   \[
+   \text{Remaining amount} = 1496 - 629
+   \]
+   - Performing the subtraction:
+   \[
+   \text{Remaining amount} = 867
+   \]
+
+Thus, after all the allocations, the amount Ben will still have left is:
+</reasoning>
+<answer>867</answer>

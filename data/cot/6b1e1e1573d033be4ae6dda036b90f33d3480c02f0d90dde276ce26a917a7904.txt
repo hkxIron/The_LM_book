@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many postcards Bernie sells:**
+   - Bernie has a total of 18 unique postcards.
+   - He decided to sell half of his collection.
+   - To find half, we divide 18 by 2: 
+     \[
+     \text{Postcards sold} = \frac{18}{2} = 9
+     \]
+   So, Bernie sells 9 postcards.
+
+2. **Calculate the earnings from selling postcards:**
+   - He sells each postcard for $15.
+   - To calculate the total earnings from selling 9 postcards, we multiply the number of postcards sold by the price per postcard:
+     \[
+     \text{Total earnings} = 9 \times 15 = 135
+     \]
+   So, Bernie earns $135 from selling his postcards.
+
+3. **Determine how many new postcards Bernie can buy:**
+   - Bernie wants to spend all of his earnings ($135) to buy new postcards, which cost $5 each.
+   - To find out how many new postcards he can buy, we divide his total earnings by the cost per postcard:
+     \[
+     \text{Postcards bought} = \frac{135}{5} = 27
+     \]
+   So, Bernie can buy 27 new postcards.
+
+4. **Calculate Bernie's total postcards after transactions:**
+   - Initially, Bernie had 18 postcards.
+   - He sold 9 postcards, so now he has:
+     \[
+     18 - 9 = 9
+     \]
+   - Then, he bought 27 new postcards, so we add those to his remaining postcards:
+     \[
+     9 + 27 = 36
+     \]
+   Therefore, after all the transactions, Bernie has a total of 36 postcards.
+</reasoning>
+<answer>36</answer>

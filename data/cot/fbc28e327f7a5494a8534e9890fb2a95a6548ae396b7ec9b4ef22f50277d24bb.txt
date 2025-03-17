@@ -1,0 +1,45 @@
+<reasoning>
+Let's denote the amount of money Pop spends as \( P \).
+
+According to the problem:
+1. Crackle spends 3 times as much as Pop, so we can express Crackle's spending as \( C = 3P \).
+2. Snap spends twice as much as Crackle, so we can express Snap's spending as \( S = 2C = 2(3P) = 6P \).
+
+Now, we can express the total spending of Snap, Crackle, and Pop in terms of \( P \):
+\[
+S + C + P = 150
+\]
+Substituting the expressions for \( S \) and \( C \) into this equation gives us:
+\[
+6P + 3P + P = 150
+\]
+
+Now, we can combine the terms on the left side:
+\[
+(6P + 3P + P) = 10P
+\]
+So, we have:
+\[
+10P = 150
+\]
+
+Next, we solve for \( P \) by dividing both sides of the equation by 10:
+\[
+P = \frac{150}{10} = 15
+\]
+
+Therefore, Pop spent $15. 
+
+Now let's summarize:
+- Pop = \( P = 15 \)
+- Crackle = \( C = 3P = 3 \times 15 = 45 \)
+- Snap = \( S = 6P = 6 \times 15 = 90 \)
+
+Finally, we check that the total spending sums to $150:
+\[
+S + C + P = 90 + 45 + 15 = 150
+\]
+
+This confirms our calculations are correct.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the information given in the problem step by step.
+
+1. **Understanding the relationship between Bonny's and Becky's shoes:**
+   Bonny bought her 13th pair of shoes, which means Bonny has a total of 13 pairs of shoes. According to the problem, this amount is 5 less than twice the number of pairs of shoes Becky has. We can represent the number of pairs of shoes Becky has as \( b \).
+
+   The relationship can be expressed in the equation:
+   \[
+   13 = 2b - 5
+   \]
+
+2. **Solving for Becky's shoes:**
+   Next, we need to isolate \( b \) in the equation we formed. To do this, we start by adding 5 to both sides:
+   \[
+   13 + 5 = 2b
+   \]
+   \[
+   18 = 2b
+   \]
+
+   Now, we divide both sides by 2 to solve for \( b \):
+   \[
+   b = \frac{18}{2} = 9
+   \]
+
+   So, Becky has 9 pairs of shoes.
+
+3. **Finding the number of shoes Bobby has:**
+   The problem states that Bobby has 3 times as many pairs of shoes as Becky. Since we found that Becky has 9 pairs of shoes, we can determine Bobby's pairs of shoes using the equation:
+   \[
+   \text{Bobby's shoes} = 3b = 3 \times 9 = 27
+   \]
+
+Thus, Bobby has 27 pairs of shoes.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>27</answer>

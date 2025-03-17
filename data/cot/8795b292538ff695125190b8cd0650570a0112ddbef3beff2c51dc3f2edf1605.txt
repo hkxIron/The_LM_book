@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the total costs into three parts: the cost of renting the car, the cost of gas, and the cost of driving the mileage.
+
+1. **Cost of renting the car**: 
+   John pays a flat rate for renting the car. This cost is given as $150. 
+   So, the cost of renting the car is:
+   \[
+   \text{Cost of renting the car} = 150
+   \]
+
+2. **Cost of gas**: 
+   John buys 8 gallons of gas at a price of $3.50 per gallon. To find the total cost of gas, we multiply the number of gallons by the price per gallon:
+   \[
+   \text{Cost of gas} = 8 \text{ gallons} \times 3.50 \text{ dollars/gallon} = 28
+   \]
+
+3. **Cost of mileage**: 
+   John drives 320 miles and it costs $0.50 per mile. To find the total cost for mileage, we multiply the number of miles driven by the cost per mile:
+   \[
+   \text{Cost of mileage} = 320 \text{ miles} \times 0.50 \text{ dollars/mile} = 160
+   \]
+
+Now, we need to sum all of these costs to find the total expense:
+\[
+\text{Total Cost} = \text{Cost of renting the car} + \text{Cost of gas} + \text{Cost of mileage}
+\]
+Substituting in our values:
+\[
+\text{Total Cost} = 150 + 28 + 160
+\]
+Calculating this gives:
+\[
+\text{Total Cost} = 338
+\]
+
+Therefore, the total cost for John's car rental and expenses is:
+</reasoning>
+<answer>338</answer>

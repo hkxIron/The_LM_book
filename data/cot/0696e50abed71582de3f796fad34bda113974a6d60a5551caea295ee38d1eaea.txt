@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many dogs Justin has.** 
+   We know from the problem that Justin has 14 dogs. 
+
+2. **Calculate how many dogs Rico has.**
+   The problem states that Rico has 10 more dogs than Justin. 
+   Therefore, we calculate Rico's dogs as follows:
+   \[ 
+   \text{Rico's dogs} = \text{Justin's dogs} + 10 = 14 + 10 = 24 
+   \]
+
+3. **Calculate how many dogs Camden has.**
+   Camden has \( \frac{3}{4} \) of the number of dogs that Rico has. 
+   To find how many dogs Camden has, we multiply Rico's amount by \( \frac{3}{4} \):
+   \[
+   \text{Camden's dogs} = \frac{3}{4} \times \text{Rico's dogs} = \frac{3}{4} \times 24 
+   \]
+   Now we calculate:
+   \[
+   \frac{3 \times 24}{4} = \frac{72}{4} = 18 
+   \]
+   So, Camden has 18 dogs.
+
+4. **Calculate the total number of legs that Camden's dogs have.**
+   Each dog has 4 legs. Therefore, to find the total number of legs for Camden's 18 dogs, we multiply the number of dogs by the number of legs per dog:
+   \[
+   \text{Total legs} = \text{Camden's dogs} \times \text{legs per dog} = 18 \times 4 
+   \]
+   Now we calculate:
+   \[
+   18 \times 4 = 72 
+   \]
+   Thus, the total number of legs that Camden's dogs have is 72.
+
+Therefore, after completing all the steps and calculations:
+</reasoning>
+<answer>72</answer>

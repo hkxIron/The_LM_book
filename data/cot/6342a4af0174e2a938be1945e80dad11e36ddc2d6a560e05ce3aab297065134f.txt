@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we first need to calculate the total number of squares in the grid. The grid has 10 rows and 15 squares in each row. 
+
+1. **Calculate total squares:**
+   \[
+   \text{Total squares} = \text{Number of rows} \times \text{Number of squares per row} = 10 \times 15 = 150
+   \]
+
+2. **Determine squares colored red:**
+   Marla colors 4 rows of 6 squares in the middle of the grid red. 
+   \[
+   \text{Squares colored red} = 4 \text{ rows} \times 6 \text{ squares per row} = 24
+   \]
+
+3. **Determine squares colored blue:**
+   She colors all squares in the first 2 and last 2 rows blue. 
+   - Each of these 4 rows has 15 squares.
+   \[
+   \text{Squares colored blue} = 4 \text{ rows} \times 15 \text{ squares per row} = 60
+   \]
+
+4. **Calculate the number of squares that are not colored blue or red:**
+   First, we need to add the squares that are red and blue.
+   \[
+   \text{Total squares colored} = \text{Squares colored red} + \text{Squares colored blue} = 24 + 60 = 84
+   \]
+
+5. **Determine squares colored green:**
+   To find the number of squares colored green, we subtract the total squares colored from the total number of squares in the grid.
+   \[
+   \text{Squares colored green} = \text{Total squares} - \text{Total squares colored} = 150 - 84 = 66
+   \]
+
+Therefore, Marla colors 66 squares green.
+</reasoning>
+<answer>66</answer>

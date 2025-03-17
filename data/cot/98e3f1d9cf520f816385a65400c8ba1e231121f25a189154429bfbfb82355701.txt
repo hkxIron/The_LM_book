@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of baby mice Brenda had:**  
+   Brenda's adult mice had three litters of 8 mice each. To find the total number of baby mice, we multiply the number of litters by the number of babies per litter:
+   \[
+   \text{Total baby mice} = 3 \text{ litters} \times 8 \text{ mice/litter} = 24 \text{ baby mice}
+   \]
+
+2. **Determine how many baby mice Brenda gave to Robbie:**  
+   Brenda gave a sixth of the baby mice to Robbie. We need to calculate one sixth of the total baby mice:
+   \[
+   \text{Baby mice given to Robbie} = \frac{1}{6} \times 24 = 4 \text{ baby mice}
+   \]
+
+3. **Calculate how many baby mice Brenda sold to the pet store:**  
+   Brenda sold three times the number of babies she gave to Robbie. We need to multiply the number given to Robbie by 3:
+   \[
+   \text{Baby mice sold to pet store} = 3 \times 4 = 12 \text{ baby mice}
+   \]
+
+4. **Determine how many baby mice Brenda has left after giving some to Robbie and selling some to the pet store:**  
+   We subtract the number of baby mice given to Robbie and sold to the pet store from the total number of baby mice:
+   \[
+   \text{Baby mice left} = 24 - 4 - 12 = 8 \text{ baby mice}
+   \]
+
+5. **Calculate how many baby mice are sold to snake owners:**  
+   The problem states that half of the remaining mice were sold to snake owners. We need to find half of the remaining baby mice (which we calculated as 8):
+   \[
+   \text{Baby mice sold to snake owners} = \frac{1}{2} \times 8 = 4 \text{ baby mice}
+   \]
+
+6. **Calculate the final number of baby mice Brenda has left:**  
+   After selling to snake owners, we need to find how many baby mice are left:
+   \[
+   \text{Baby mice left after selling to snake owners} = 8 - 4 = 4 \text{ baby mice}
+   \]
+
+Therefore, the number of baby mice Brenda had left is:
+</reasoning>
+<answer>4</answer>

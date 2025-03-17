@@ -1,0 +1,29 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the weight of one-eighth of the cake.**
+   Since the total weight of the cake is 400 grams and it is divided into eight equal parts, we need to find out how much one part weighs. 
+
+   \[
+   \text{Weight of one part} = \frac{400 \text{ grams}}{8} = 50 \text{ grams}
+   \]
+
+   Therefore, each part of the cake weighs 50 grams.
+
+2. **Calculate how much Nathalie ate.**
+   Nathalie eats one-eighth of the cake, which we just determined weighs 50 grams.
+
+   \[
+   \text{Nathalie's portion} = 50 \text{ grams}
+   \]
+
+3. **Calculate how much Pierre ate.**
+   Pierre eats double what Nathalie ate. So we will multiply Nathalie's portion by 2 to find out how much Pierre consumed.
+
+   \[
+   \text{Pierre's portion} = 2 \times \text{Nathalie's portion} = 2 \times 50 \text{ grams} = 100 \text{ grams}
+   \]
+
+Thus, Pierre ate 100 grams of the cake.
+</reasoning>
+<answer>100</answer>

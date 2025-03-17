@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of guests.** 
+   Wickham invites 30 people, and half of these guests bring a plus one. Since half of 30 is 15, this means 15 guests bring an additional person. Therefore, the total number of guests can be calculated as follows:
+   \[
+   \text{Total guests} = \text{Invited guests} + \text{Plus ones}
+   \]
+   \[
+   \text{Total guests} = 30 + 15 = 45
+   \]
+
+2. **Understand the meal serving plan.**
+   Wickham plans to serve a 3-course meal. This means each guest will need a plate for each course. Therefore, for every guest, he will need 3 plates.
+
+3. **Calculate the total number of plates needed.**
+   To find the total number of plates, we multiply the total number of guests by the number of plates needed per guest:
+   \[
+   \text{Total plates} = \text{Total guests} \times \text{Plates per guest}
+   \]
+   \[
+   \text{Total plates} = 45 \times 3 = 135
+   \]
+
+Therefore, Wickham needs a total of 135 plates for his Christmas party guests.
+</reasoning>
+<answer>135</answer>

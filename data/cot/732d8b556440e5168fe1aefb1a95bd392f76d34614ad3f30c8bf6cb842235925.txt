@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of teaspoons**: 
+   Braelynn has 24 knives. Since she has twice as many teaspoons as knives, we calculate the number of teaspoons as follows:
+   \[
+   \text{Number of teaspoons} = 2 \times \text{Number of knives} = 2 \times 24 = 48
+   \]
+
+2. **Calculate the number of additional knives**:
+   Braelynn bought \( \frac{1}{3} \) as many additional knives. To find the number of additional knives:
+   \[
+   \text{Additional knives} = \frac{1}{3} \times \text{Number of knives} = \frac{1}{3} \times 24 = 8
+   \]
+
+3. **Calculate the number of additional teaspoons**:
+   She bought \( \frac{2}{3} \) as many additional teaspoons. To find the number of additional teaspoons:
+   \[
+   \text{Additional teaspoons} = \frac{2}{3} \times \text{Number of teaspoons} = \frac{2}{3} \times 48 = 32
+   \]
+
+4. **Calculate the new totals for knives and teaspoons**:
+   Now we can find the new totals:
+   - New total number of knives:
+     \[
+     \text{Total knives} = \text{Original knives} + \text{Additional knives} = 24 + 8 = 32
+     \]
+   - New total number of teaspoons:
+     \[
+     \text{Total teaspoons} = \text{Original teaspoons} + \text{Additional teaspoons} = 48 + 32 = 80
+     \]
+
+5. **Calculate the total number of cutlery pieces**:
+   Finally, we add the total number of knives and teaspoons together:
+   \[
+   \text{Total cutlery pieces} = \text{Total knives} + \text{Total teaspoons} = 32 + 80 = 112
+   \]
+
+Therefore, the total number of cutlery pieces she has in her kitchen is:
+</reasoning>
+<answer>112</answer>

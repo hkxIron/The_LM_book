@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much time Joan has left for her finger exerciser, we first need to calculate the total time she has spent on her activities so far.
+
+1. **Convert the total available time into minutes:**
+   Joan has 2 hours. Since 1 hour equals 60 minutes, we can convert this into minutes:
+   \[
+   2 \text{ hours} = 2 \times 60 = 120 \text{ minutes}
+   \]
+
+2. **Add up the time spent on each activity:**
+   - Time spent on piano: 30 minutes
+   - Time spent writing music: 25 minutes
+   - Time spent reading about the history of the piano: 38 minutes
+
+   Now we sum these times:
+   \[
+   30 + 25 + 38 = 93 \text{ minutes}
+   \]
+
+3. **Calculate the remaining time:**
+   Now we subtract the total time spent from the total available time:
+   \[
+   120 \text{ minutes} - 93 \text{ minutes} = 27 \text{ minutes}
+   \]
+
+So, Joan has 27 minutes left to use the special finger exerciser.
+</reasoning>
+<answer>27</answer>

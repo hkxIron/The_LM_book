@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many bottles of soda the store owner ordered in April and May, we need to calculate the total number of bottles from both months.
+
+1. **Calculate the number of bottles ordered in April**: 
+   The store owner ordered 20 cases of bottles in April. Since there are 20 bottles per case, we multiply the number of cases by the number of bottles per case:
+   \[
+   \text{Bottles in April} = 20 \text{ cases} \times 20 \text{ bottles per case} = 400 \text{ bottles}
+   \]
+
+2. **Calculate the number of bottles ordered in May**: 
+   The store owner ordered 30 cases of bottles in May. Again, since there are 20 bottles per case, we perform the same multiplication:
+   \[
+   \text{Bottles in May} = 30 \text{ cases} \times 20 \text{ bottles per case} = 600 \text{ bottles}
+   \]
+
+3. **Add the total number of bottles from both months**: 
+   Now that we have the number of bottles ordered in both months, we can find the total by adding the bottles from April and May:
+   \[
+   \text{Total Bottles} = \text{Bottles in April} + \text{Bottles in May} = 400 \text{ bottles} + 600 \text{ bottles} = 1000 \text{ bottles}
+   \]
+
+Therefore, the total number of bottles of soda the store owner ordered in April and May is:
+</reasoning>
+<answer>1000</answer>

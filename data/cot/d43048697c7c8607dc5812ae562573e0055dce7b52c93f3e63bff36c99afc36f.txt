@@ -1,0 +1,27 @@
+<reasoning>
+To find Marion's score, we first need to determine Ella's score based on the information given. 
+
+1. **Calculate Ella's Score**: 
+   - Ella took a 40-item exam and got 4 answers incorrect. 
+   - To find the number of correct answers Ella had, we subtract her incorrect answers from the total number of questions:
+     \[
+     \text{Correct answers by Ella} = 40 - 4 = 36
+     \]
+
+2. **Determine Marion's Score**: 
+   - The problem states that Marion's score is 6 more than half of Ella's score.
+   - First, we need to find half of Ella's score:
+     \[
+     \text{Half of Ella's score} = \frac{36}{2} = 18
+     \]
+   - Now, we add 6 to this value to find Marion's score:
+     \[
+     \text{Marion's score} = 18 + 6 = 24
+     \]
+
+Therefore, Marion's score is calculated as follows:
+- Ella scored 36 correct answers.
+- Half of Ella's score is 18.
+- Marion's score is 18 + 6 = 24.
+</reasoning>
+<answer>24</answer>

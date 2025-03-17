@@ -1,0 +1,43 @@
+<reasoning>
+To solve this problem, we will follow Lucca's actions step by step, calculating how many pieces of bread he has left after each day.
+
+1. **Initial amount of bread**: Lucca starts with 200 pieces of bread.
+
+2. **Bread eaten on the first day**: 
+   - Lucca ate \( \frac{1}{4} \) of the 200 pieces of bread.
+   - Calculation: 
+     \[
+     \frac{1}{4} \times 200 = 50
+     \]
+   - After eating 50 pieces, we need to find the remaining pieces:
+     \[
+     200 - 50 = 150
+     \]
+
+3. **Bread eaten on the second day**:
+   - Lucca then ate \( \frac{2}{5} \) of the remaining 150 pieces.
+   - Calculation:
+     \[
+     \frac{2}{5} \times 150 = 60
+     \]
+   - Now, we calculate the remaining pieces after the second day:
+     \[
+     150 - 60 = 90
+     \]
+
+4. **Bread eaten on the third day**:
+   - On the third day, Lucca ate \( \frac{1}{2} \) of the remaining 90 pieces.
+   - Calculation:
+     \[
+     \frac{1}{2} \times 90 = 45
+     \]
+   - Finally, we find out how many pieces are left after the third day:
+     \[
+     90 - 45 = 45
+     \]
+
+After following these steps, we find that the total number of pieces of bread remaining after the three days is 45.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>45</answer>

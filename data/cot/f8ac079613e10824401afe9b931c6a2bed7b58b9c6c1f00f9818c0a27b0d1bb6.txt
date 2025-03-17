@@ -1,0 +1,16 @@
+<reasoning>
+The boxer starts off weighing 97 kg and is set to lose 3 kg per month for the next 4 months. 
+
+To find out how much the boxer will weigh on the day of the fight, we can calculate the total weight he will lose over the 4 months and subtract it from his initial weight. 
+
+The total weight loss over 4 months is calculated by multiplying the monthly weight loss (3 kg) by the number of months (4). 
+
+3 kg/month * 4 months = 12 kg
+
+Now we subtract this total weight loss from the initial weight of the boxer:
+
+97 kg - 12 kg = 85 kg
+
+So, the boxer will weigh 85 kg on the day of the fight.
+</reasoning>
+<answer>85</answer>

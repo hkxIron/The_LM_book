@@ -1,0 +1,33 @@
+<reasoning>
+Let's break the problem down step by step.
+
+1. **Identify the amount spent on Adidas sneakers**: We are given that Mimi spent $600 on Adidas sneakers.
+
+2. **Calculate the amount spent on Nike sneakers**: According to the problem, Mimi spent thrice as much on Nike sneakers as she did on Adidas. So, we calculate the amount spent on Nike:
+   \[
+   \text{Amount spent on Nike} = 3 \times \text{Amount spent on Adidas} = 3 \times 600 = 1800
+   \]
+
+3. **Calculate the amount spent on Skechers**: The problem states that what she spent on Adidas was 1/5 the cost of Skechers. Let \( x \) represent the amount spent on Skechers. We can set up the equation:
+   \[
+   \text{Amount spent on Adidas} = \frac{1}{5} \times \text{Amount spent on Skechers} \implies 600 = \frac{1}{5} x
+   \]
+   To find \( x \), we can multiply both sides by 5:
+   \[
+   x = 600 \times 5 = 3000
+   \]
+   Therefore, Mimi spent $3,000 on Skechers.
+
+4. **Calculate the total amount spent on sneakers**: Now, we can find the total amount spent on all sneakers (Adidas, Nike, and Skechers):
+   \[
+   \text{Total spent on sneakers} = \text{Adidas} + \text{Nike} + \text{Skechers} = 600 + 1800 + 3000 = 5400
+   \]
+
+5. **Determine the amount spent on clothes**: We know that Mimi's total spending was $8,000. To find out how much she spent on clothes, we subtract the total amount spent on sneakers from the total amount spent:
+   \[
+   \text{Amount spent on clothes} = \text{Total spending} - \text{Total spent on sneakers} = 8000 - 5400 = 2600
+   \]
+
+Therefore, the amount Mimi spent on clothes is $2,600.
+</reasoning>
+<answer>2600</answer>

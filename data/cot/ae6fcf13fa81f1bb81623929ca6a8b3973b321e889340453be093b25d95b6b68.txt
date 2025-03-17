@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Rachel's grandfather's age**: 
+   Rachel is 12 years old. According to the problem, her grandfather is 7 times her age.
+   \[
+   \text{Grandfather's age} = 7 \times \text{Rachel's age} = 7 \times 12 = 84 \text{ years old}
+   \]
+
+2. **Calculate Rachel's mother's age**: 
+   The problem states that her mother is half her grandfather's age.
+   \[
+   \text{Mother's age} = \frac{1}{2} \times \text{Grandfather's age} = \frac{1}{2} \times 84 = 42 \text{ years old}
+   \]
+
+3. **Calculate Rachel's father's age**: 
+   Rachel's father is 5 years older than her mother.
+   \[
+   \text{Father's age} = \text{Mother's age} + 5 = 42 + 5 = 47 \text{ years old}
+   \]
+
+4. **Calculate how many years until Rachel is 25 years old**: 
+   Rachel is currently 12 years old, so we need to find out how many years it will be until she is 25.
+   \[
+   \text{Years until Rachel is 25} = 25 - 12 = 13 \text{ years}
+   \]
+
+5. **Calculate the father's age when Rachel is 25**: 
+   We add the years until Rachel is 25 to her father's current age.
+   \[
+   \text{Father's future age} = \text{Father's current age} + \text{Years until Rachel is 25} = 47 + 13 = 60 \text{ years old}
+   \]
+
+Therefore, when Rachel is 25 years old, her father will be 60 years old.
+</reasoning>
+<answer>60</answer>

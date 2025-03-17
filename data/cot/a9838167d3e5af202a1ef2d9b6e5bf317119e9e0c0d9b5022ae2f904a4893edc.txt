@@ -1,0 +1,46 @@
+<reasoning>
+First, let's calculate the cost per backpack. The salesman bought 48 backpacks for $576. To find the cost per backpack, we divide the total cost by the number of backpacks:
+
+Cost per backpack = Total cost / Number of backpacks
+Cost per backpack = $576 / 48
+Cost per backpack = $12
+
+Next, we will determine how much money the salesman made from selling the backpacks. 
+
+1. He sold 17 backpacks at $18 each:
+Revenue from 17 backpacks = Number sold * Price per backpack
+Revenue from 17 backpacks = 17 * $18
+Revenue from 17 backpacks = $306
+
+2. He sold 10 backpacks to a department store for $25 each:
+Revenue from 10 backpacks = Number sold * Price per backpack
+Revenue from 10 backpacks = 10 * $25
+Revenue from 10 backpacks = $250
+
+Now, let's find out how many backpacks are left after selling 17 and 10:
+
+Total backpacks sold = 17 + 10 = 27
+Remaining backpacks = Total backpacks - Total backpacks sold
+Remaining backpacks = 48 - 27
+Remaining backpacks = 21
+
+3. The remainder of 21 backpacks were sold for $22 each:
+Revenue from remaining backpacks = Number sold * Price per backpack
+Revenue from remaining backpacks = 21 * $22
+Revenue from remaining backpacks = $462
+
+Now, we can sum up all the revenues to find the total revenue:
+
+Total revenue = Revenue from 17 backpacks + Revenue from 10 backpacks + Revenue from remaining backpacks
+Total revenue = $306 + $250 + $462
+Total revenue = $1018
+
+Now we can calculate the profit. Profit is defined as total revenue minus total cost:
+
+Profit = Total revenue - Total cost
+Profit = $1018 - $576
+Profit = $442
+
+Thus, the salesman's profit is:
+</reasoning>
+<answer>442</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the number of fish Kenneth has.**  
+   We know that Kenneth has three times as many fish as Micah. Since Micah has 7 fish, we calculate Kenneth's fish as follows:
+   \[
+   \text{Kenneth's fish} = 3 \times \text{Micah's fish} = 3 \times 7 = 21
+   \]
+   So, Kenneth has 21 fish.
+
+2. **Determine the number of fish Matthias has.**  
+   We know that Matthias has 15 less fish than Kenneth. We can find Matthias's number of fish by subtracting 15 from Kenneth's total:
+   \[
+   \text{Matthias's fish} = \text{Kenneth's fish} - 15 = 21 - 15 = 6
+   \]
+   Thus, Matthias has 6 fish.
+
+3. **Calculate the total number of fish.**  
+   Now that we have the number of fish each boy has, we can find the total by adding Micah's, Kenneth's, and Matthias's fish together:
+   \[
+   \text{Total fish} = \text{Micah's fish} + \text{Kenneth's fish} + \text{Matthias's fish} = 7 + 21 + 6
+   \]
+   Performing the addition:
+   \[
+   7 + 21 = 28 \quad \text{and then} \quad 28 + 6 = 34
+   \]
+
+Therefore, the total number of fish the boys have in their aquariums is:
+</reasoning>
+<answer>34</answer>

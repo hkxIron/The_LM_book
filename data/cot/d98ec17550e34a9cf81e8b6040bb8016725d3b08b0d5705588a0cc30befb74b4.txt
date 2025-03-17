@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much money Monica took to the bank in total, we need to break this problem down step by step.
+
+1. **Calculate the amount of money saved each time:**  
+   Monica saves $15 every week. Since it took 60 weeks for her moneybox to get full, we can calculate the total amount saved in one full cycle.  
+   \[
+   \text{Total savings in one cycle} = \text{Amount saved per week} \times \text{Number of weeks}
+   \]
+   \[
+   = 15 \times 60
+   \]
+
+2. **Perform the multiplication:**  
+   Now, we multiply 15 by 60.  
+   \[
+   15 \times 60 = 900
+   \]
+   So, Monica saves $900 each time she fills the moneybox.
+
+3. **Calculate the total amount saved over 5 cycles:**  
+   Since Monica goes through this process 5 times (filling the moneybox and taking it to the bank), we need to multiply the amount saved in one cycle by 5.  
+   \[
+   \text{Total savings after 5 cycles} = \text{Total savings in one cycle} \times \text{Number of cycles}
+   \]
+   \[
+   = 900 \times 5
+   \]
+
+4. **Perform the final multiplication:**  
+   Now, we multiply 900 by 5.  
+   \[
+   900 \times 5 = 4500
+   \]
+
+Thus, the total amount of money Monica took to the bank after 5 cycles of saving is $4500.
+</reasoning>
+<answer>4500</answer>

@@ -1,0 +1,43 @@
+<reasoning>
+To determine how many milligrams each part of the dose will be, we will solve the problem step-by-step.
+
+1. **Calculate the total amount of medicine needed for the child**: 
+   The instructions state that the child needs 5 ml of medicine for every kilogram of weight. Given that the child weighs 30 kilograms, we can calculate the total volume of medicine needed.
+
+   \[
+   \text{Total medicine (ml)} = \text{Weight (kg)} \times \text{Dose per kg (ml/kg)} = 30 \, \text{kg} \times 5 \, \text{ml/kg}
+   \]
+
+   This gives us:
+   \[
+   \text{Total medicine (ml)} = 30 \times 5 = 150 \, \text{ml}
+   \]
+
+2. **Divide the total dose into 3 equal parts**: 
+   Now that we have the total amount of medicine needed, we need to split this into 3 equal doses.
+
+   \[
+   \text{Dose per part (ml)} = \frac{\text{Total medicine (ml)}}{3} = \frac{150 \, \text{ml}}{3}
+   \]
+
+   This gives us:
+   \[
+   \text{Dose per part (ml)} = 50 \, \text{ml}
+   \]
+
+3. **Convert the volume of medicine from milliliters to milligrams**: 
+   To convert milliliters of medicine to milligrams, we need to know the concentration of the medicine. However, since the problem does not specify a concentration, we will assume the density of the medicine is 1 mg/ml (which is common for many liquid medications).
+
+   Thus:
+   \[
+   \text{Dose per part (mg)} = \text{Dose per part (ml)} \times \text{Density (mg/ml)} = 50 \, \text{ml} \times 1 \, \text{mg/ml}
+   \]
+
+   This gives us:
+   \[
+   \text{Dose per part (mg)} = 50 \, \text{mg}
+   \]
+
+Therefore, each part of the dose will be 50 mg.
+</reasoning>
+<answer>50</answer>

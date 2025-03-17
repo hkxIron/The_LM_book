@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Bob's discount**:
+   - Bob's original bill is $30.
+   - He has a discount of 5%.
+   - To find the discount amount, we calculate 5% of $30:
+     \[
+     \text{Discount for Bob} = 0.05 \times 30 = 1.5
+     \]
+   - Now, we subtract the discount from Bob's original bill to find out how much he has to pay:
+     \[
+     \text{Amount Bob pays} = 30 - 1.5 = 28.5
+     \]
+
+2. **Calculate Kate's discount**:
+   - Kate's original bill is $25.
+   - She has a discount of 2%.
+   - To find the discount amount, we calculate 2% of $25:
+     \[
+     \text{Discount for Kate} = 0.02 \times 25 = 0.5
+     \]
+   - Now, we subtract the discount from Kate's original bill to find out how much she has to pay:
+     \[
+     \text{Amount Kate pays} = 25 - 0.5 = 24.5
+     \]
+
+3. **Calculate the total amount they have to pay**:
+   - Now we add the amounts that Bob and Kate each have to pay:
+     \[
+     \text{Total amount} = \text{Amount Bob pays} + \text{Amount Kate pays} = 28.5 + 24.5
+     \]
+   - Performing the addition:
+     \[
+     \text{Total amount} = 53
+     \]
+
+Thus, after calculating the discounts and the total amount they have to pay, we find:
+</reasoning>
+<answer>53</answer>

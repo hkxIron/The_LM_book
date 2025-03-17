@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much money was made from selling the cookies, we will calculate the total income from each type of cookie separately and then sum the two amounts.
+
+1. **Calculate the income from chocolate cookies:**
+   - We have 220 chocolate cookies.
+   - Each chocolate cookie is sold for $1.
+   - So, the total income from chocolate cookies is calculated as follows:
+     \[
+     \text{Income from chocolate cookies} = \text{Number of chocolate cookies} \times \text{Price per chocolate cookie}
+     \]
+     \[
+     = 220 \times 1 = 220
+     \]
+
+2. **Calculate the income from vanilla cookies:**
+   - We have 70 vanilla cookies.
+   - Each vanilla cookie is sold for $2.
+   - So, the total income from vanilla cookies is calculated as follows:
+     \[
+     \text{Income from vanilla cookies} = \text{Number of vanilla cookies} \times \text{Price per vanilla cookie}
+     \]
+     \[
+     = 70 \times 2 = 140
+     \]
+
+3. **Sum the incomes from both types of cookies:**
+   - Now, we will add the income from chocolate cookies and vanilla cookies to find the total income:
+     \[
+     \text{Total Income} = \text{Income from chocolate cookies} + \text{Income from vanilla cookies}
+     \]
+     \[
+     = 220 + 140 = 360
+     \]
+
+Therefore, the total money made from selling the cookies is $360.
+</reasoning>
+<answer>360</answer>

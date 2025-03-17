@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of games played**: 
+   Oliver has 4 friends, and he wants each of them to play 60 games. So, we first calculate how many games will be played in total:
+   \[
+   \text{Total games} = \text{Number of friends} \times \text{Games per friend} = 4 \times 60 = 240
+   \]
+
+2. **Determine the total number of tokens needed**: 
+   Each game costs 2 tokens. Therefore, we need to calculate the total number of tokens needed for 240 games:
+   \[
+   \text{Total tokens} = \text{Total games} \times \text{Tokens per game} = 240 \times 2 = 480
+   \]
+
+3. **Determine how many sets of tokens Oliver needs to buy**: 
+   Tokens are sold at 30 for $1. To find out how many sets of 30 tokens are needed for 480 tokens, we divide the total tokens by 30:
+   \[
+   \text{Sets of tokens} = \frac{\text{Total tokens}}{30} = \frac{480}{30} = 16
+   \]
+
+4. **Calculate the total cost**: 
+   Since each set of 30 tokens costs $1, we find the total cost by multiplying the number of sets by the cost per set:
+   \[
+   \text{Total cost} = \text{Sets of tokens} \times \text{Cost per set} = 16 \times 1 = 16
+   \]
+
+Therefore, the total cost for Oliver to buy enough tokens for his friends to play their games is $16.
+</reasoning>
+<answer>16</answer>

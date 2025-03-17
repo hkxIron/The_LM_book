@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we need to determine how long it takes Rachel to paint the house based on the information about Matt and Patty.
+
+1. **Calculate Patty's time to paint the house:**
+   - We know that Matt can paint the house in 12 hours.
+   - Patty can paint the house in one third of the time it takes Matt. 
+   - So, we calculate Patty's time:
+     \[
+     \text{Patty's time} = \frac{12}{3} = 4 \text{ hours}
+     \]
+   This means Patty can paint the house in 4 hours.
+
+2. **Calculate Rachel's time to paint the house:**
+   - We know Rachel takes 5 more than double the amount of time as Patty.
+   - First, we calculate double Patty's time:
+     \[
+     \text{Double Patty's time} = 2 \times 4 = 8 \text{ hours}
+     \]
+   - Now, we add 5 hours to this amount to find Rachel's time:
+     \[
+     \text{Rachel's time} = 8 + 5 = 13 \text{ hours}
+     \]
+   This means Rachel can paint the house in 13 hours.
+
+Therefore, Rachel takes 13 hours to paint the house.
+</reasoning>
+<answer>13</answer>

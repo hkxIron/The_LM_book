@@ -1,0 +1,72 @@
+<reasoning>
+Let's define the amount of practice Johnny has currently as \( x \) (in whatever unit of practice we're measuring, such as hours). According to the problem, 20 days ago, Johnny had half as much practice as he has now. This means that 20 days ago, he had:
+
+\[
+\frac{x}{2}
+\]
+
+Since he has been practicing the same amount each day, let’s denote the amount of practice he does per day as \( d \). Therefore, we can express Johnny's practice from 20 days ago in terms of \( d \):
+
+\[
+x - 20d = \frac{x}{2}
+\]
+
+Now, we need to solve for \( x \) in terms of \( d \). We can start by multiplying both sides of the equation by 2 to eliminate the fraction:
+
+\[
+2(x - 20d) = x
+\]
+
+Distributing on the left side gives:
+
+\[
+2x - 40d = x
+\]
+
+Next, let's isolate \( x \) by subtracting \( x \) from both sides:
+
+\[
+2x - x - 40d = 0
+\]
+\[
+x - 40d = 0
+\]
+\[
+x = 40d
+\]
+
+This tells us that Johnny's current amount of practice \( x \) is 40 times the daily practice amount \( d \).
+
+Next, we want to find out how many days will pass before Johnny has 3 times as much practice as he does currently. We want to find \( n \), the number of days from now, such that:
+
+\[
+x + nd = 3x
+\]
+
+Substituting \( x = 40d \) into the equation gives:
+
+\[
+40d + nd = 3(40d)
+\]
+\[
+40d + nd = 120d
+\]
+
+Now we will isolate \( n \):
+
+\[
+nd = 120d - 40d
+\]
+\[
+nd = 80d
+\]
+
+Assuming \( d \) is not zero (since he practices every day), we can divide both sides by \( d \):
+
+\[
+n = 80
+\]
+
+Therefore, it will take 80 days for Johnny to have 3 times as much practice as he does currently.
+</reasoning>
+<answer>80</answer>

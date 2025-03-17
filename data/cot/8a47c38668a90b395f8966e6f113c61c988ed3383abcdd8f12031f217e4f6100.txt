@@ -1,0 +1,37 @@
+<reasoning>
+To determine how many lions were in Londolozi at first, we need to analyze the situation step by step.
+
+1. **Understanding the monthly changes**: 
+   - Each month, 5 lion cubs are born.
+   - Each month, 1 lion dies.
+   - Therefore, the net increase in lions each month is:
+     \[
+     5 \text{ (born)} - 1 \text{ (died)} = 4 \text{ lions per month}
+     \]
+
+2. **Calculating the total change over a year**: 
+   - Since there are 12 months in a year, the total increase in the lion population over a year is:
+     \[
+     4 \text{ lions/month} \times 12 \text{ months} = 48 \text{ lions}
+     \]
+
+3. **Setting up the equation**:
+   - Let's denote the initial number of lions as \( x \).
+   - After one year, the total number of lions would be the initial number plus the net increase over the year. Hence, we can set up the equation:
+     \[
+     x + 48 = 148
+     \]
+
+4. **Solving for the initial number of lions**:
+   - To find \( x \), we can rearrange the equation:
+     \[
+     x = 148 - 48
+     \]
+   - Performing the subtraction gives:
+     \[
+     x = 100
+     \]
+
+Thus, there were 100 lions in Londolozi at the beginning.
+</reasoning>
+<answer>100</answer>

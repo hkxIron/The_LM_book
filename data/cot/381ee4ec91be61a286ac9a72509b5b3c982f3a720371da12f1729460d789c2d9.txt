@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, I will first calculate the total number of calories Jacob consumed throughout the day by adding up the calories for each meal. Then, I will compare that total to his daily goal of 1800 calories to find out how many more calories he consumed than he planned.
+
+1. **Calculate total calories consumed:**
+   - Jacob's breakfast: 400 calories
+   - Jacob's lunch: 900 calories
+   - Jacob's dinner: 1100 calories
+
+   I will add these values together to find the total calories consumed:
+   \[
+   \text{Total calories} = 400 + 900 + 1100
+   \]
+
+   Performing the addition step by step:
+   - First, add breakfast and lunch:
+     \[
+     400 + 900 = 1300
+     \]
+   - Now, add the dinner calories:
+     \[
+     1300 + 1100 = 2400
+     \]
+
+   Therefore, Jacob consumed a total of 2400 calories.
+
+2. **Compare total calories consumed to the planned intake:**
+   - Jacob's planned intake: 1800 calories
+   - Total calories consumed: 2400 calories
+
+   To find out how many more calories Jacob ate than he planned, I will subtract the planned intake from the total calories consumed:
+   \[
+   \text{Excess calories} = 2400 - 1800
+   \]
+
+   Performing the subtraction:
+   \[
+   2400 - 1800 = 600
+   \]
+
+Thus, Jacob ate 600 more calories than he planned.
+</reasoning>
+<answer>600</answer>

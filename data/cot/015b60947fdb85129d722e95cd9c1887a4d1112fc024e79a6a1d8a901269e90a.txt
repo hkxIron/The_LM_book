@@ -1,0 +1,33 @@
+<reasoning>
+To determine how much of a head start the turtle needs to finish in a tie with the hare, we first need to calculate the time it takes for each pet to complete the 20-foot race.
+
+1. **Calculate the time for the hare:**
+   - The hare runs at a speed of 10 feet/second.
+   - To find the time it takes for the hare to run 20 feet, we can use the formula:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+     \]
+   - Plugging in the values for the hare:
+     \[
+     \text{Time for hare} = \frac{20 \text{ feet}}{10 \text{ feet/second}} = 2 \text{ seconds}
+     \]
+
+2. **Calculate the time for the turtle without a head start:**
+   - The turtle crawls at a speed of 1 foot/second.
+   - Using the same formula for the turtle:
+     \[
+     \text{Time for turtle} = \frac{20 \text{ feet}}{1 \text{ foot/second}} = 20 \text{ seconds}
+     \]
+
+3. **Calculate the difference in time:**
+   - To tie, the turtle must finish the race at the same time as the hare. Since the hare takes 2 seconds and the turtle takes 20 seconds, we find the difference:
+     \[
+     \text{Time difference} = \text{Time for turtle} - \text{Time for hare} = 20 \text{ seconds} - 2 \text{ seconds} = 18 \text{ seconds}
+     \]
+
+4. **Determine the head start needed for the turtle:**
+   - The turtle needs a head start of 18 seconds to tie with the hare. This means if the turtle starts 18 seconds before the hare, both will finish the race at the same time.
+
+Therefore, the turtle needs a head start of 18 seconds to finish in a tie with the hare.
+</reasoning>
+<answer>18</answer>

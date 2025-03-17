@@ -1,0 +1,34 @@
+<reasoning>
+To find the total number of cartons accepted by the customers, we will follow these steps:
+
+1. **Determine the number of cartons delivered to each customer**: 
+   We know that Kayden delivered a total of 400 cartons equally among four customers. To find out how many cartons each customer received, we divide the total number of cartons by the number of customers.
+
+   \[
+   \text{Cartons per customer} = \frac{400 \text{ cartons}}{4 \text{ customers}} = 100 \text{ cartons/customer}
+   \]
+
+2. **Calculate the number of damaged cartons returned by each customer**: 
+   Each customer returned 60 cartons damaged. Since there are four customers, we will calculate the total number of damaged cartons returned.
+
+   \[
+   \text{Total damaged cartons} = 60 \text{ cartons/customer} \times 4 \text{ customers} = 240 \text{ cartons}
+   \]
+
+3. **Calculate the number of cartons accepted by each customer**: 
+   To find out how many cartons each customer accepted after returning the damaged ones, we subtract the number of damaged cartons each customer returned from the number of cartons they received.
+
+   \[
+   \text{Cartons accepted per customer} = 100 \text{ cartons} - 60 \text{ damaged cartons} = 40 \text{ cartons}
+   \]
+
+4. **Calculate the total number of cartons accepted by all customers**: 
+   Finally, to find out the total number of cartons accepted by all customers, we multiply the number of cartons accepted by each customer by the total number of customers.
+
+   \[
+   \text{Total accepted cartons} = 40 \text{ cartons/customer} \times 4 \text{ customers} = 160 \text{ cartons}
+   \]
+
+Thus, after all calculations, we find that the total number of cartons accepted by the customers is:
+</reasoning>
+<answer>160</answer>

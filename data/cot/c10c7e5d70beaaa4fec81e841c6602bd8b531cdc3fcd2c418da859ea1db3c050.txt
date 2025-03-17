@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Starting Amount**: John starts with a box of 40 light bulbs.
+
+2. **Using Some Bulbs**: He uses 16 light bulbs. To find out how many he has left after using them, we subtract the number of bulbs used from the starting amount:
+   \[
+   40 - 16 = 24
+   \]
+   Now, John has 24 light bulbs left.
+
+3. **Giving Half to a Friend**: Next, John gives half of the remaining 24 bulbs to a friend. To find out how many bulbs he gives away, we calculate half of 24:
+   \[
+   \frac{24}{2} = 12
+   \]
+   So, John gives 12 light bulbs to his friend.
+
+4. **Calculating Remaining Bulbs**: Finally, we need to find out how many light bulbs John has left after giving 12 away. We subtract the number of bulbs given away from the remaining amount:
+   \[
+   24 - 12 = 12
+   \]
+   Therefore, John has 12 light bulbs left.
+
+Putting this all together, we see that after using some bulbs and giving half of the remaining ones to a friend, John ends up with:
+</reasoning>
+<answer>12</answer>

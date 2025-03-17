@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many hours Melissa has to work, we need to first determine how many dresses she can make with the 56 square meters of fabric. 
+
+1. **Calculate the number of dresses Melissa can make:**
+   - Each dress requires 4 square meters of fabric.
+   - We divide the total amount of fabric by the fabric required per dress:
+     \[
+     \text{Number of dresses} = \frac{\text{Total fabric}}{\text{Fabric per dress}} = \frac{56 \text{ m}^2}{4 \text{ m}^2} = 14 \text{ dresses}
+     \]
+   This means Melissa can make 14 dresses with the fabric she has.
+
+2. **Calculate the total hours required to make those dresses:**
+   - Each dress takes 3 hours to make.
+   - We multiply the number of dresses by the hours required per dress:
+     \[
+     \text{Total hours} = \text{Number of dresses} \times \text{Hours per dress} = 14 \text{ dresses} \times 3 \text{ hours/dress} = 42 \text{ hours}
+     \]
+   This means Melissa will need a total of 42 hours to make all the dresses.
+
+Therefore, Melissa has to work for 42 hours to make the dresses.
+</reasoning>
+<answer>42</answer>

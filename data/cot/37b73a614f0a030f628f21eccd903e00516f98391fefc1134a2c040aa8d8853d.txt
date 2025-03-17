@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understand the current situation**: Eighteen hours ago, Beth and I took 100 photographs. This is our current total.
+
+2. **Calculate 20% fewer photographs**: We need to determine how many photographs we will take today if we are taking 20% fewer than the 100 photographs we took earlier. 
+
+   - First, we calculate 20% of 100:
+     \[
+     20\% \text{ of } 100 = 0.20 \times 100 = 20
+     \]
+
+   - Next, we subtract this value from the original 100 photographs to find out how many photographs we will take today:
+     \[
+     100 - 20 = 80
+     \]
+
+   So, we will take 80 photographs today.
+
+3. **Determine the target**: The problem states that we want to reach a total of 300 photographs. We already have 100 photographs taken and we will take 80 more today.
+
+4. **Calculate the total photographs after today**: We add the photographs taken 18 hours ago to the photographs we will take today:
+   \[
+   100 + 80 = 180
+   \]
+
+5. **Find out how many more photographs are needed to reach 300**: We now need to see how many more photographs we need to take to reach the target of 300 photographs:
+   \[
+   300 - 180 = 120
+   \]
+
+Therefore, we need to take 120 more photographs to reach the target of 300 photographs.
+</reasoning>
+<answer>120</answer>

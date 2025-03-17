@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many pieces of fruit Mark ate in the first four days of the week, we can break down the problem step by step.
+
+1. **Total pieces of fruit Mark had:** Mark initially had 10 pieces of fruit.
+
+2. **Pieces of fruit kept for next week:** On Friday, he decided to keep 2 pieces of fruit for next week. This means that these 2 pieces won't be eaten this week.
+
+3. **Pieces of fruit brought to school on Friday:** Mark then brought 3 pieces of fruit to school on Friday. This means these 3 pieces are the ones he is consuming on that day.
+
+4. **Calculating pieces of fruit eaten:** We need to determine how many pieces of fruit he ate in the first four days of the week. First, let's calculate how many pieces of fruit Mark has eaten during the week so far:
+   - He started with 10 pieces.
+   - He kept 2 pieces for next week.
+   - Therefore, the number of pieces he could potentially eat this week is: 
+     \( 10 - 2 = 8 \) pieces.
+
+5. **Understanding the pieces eaten until Friday:** Since Mark was only bringing 3 pieces to school on Friday, we can conclude that he ate the remaining pieces during the first four days of the week. We can calculate how many pieces he ate before Friday:
+   - He has 8 pieces available before Friday, and since he is bringing 3 pieces to school on that day, he must have eaten:
+     \( 8 - 3 = 5 \) pieces of fruit during the first four days.
+
+Therefore, Mark ate a total of 5 pieces of fruit in the first four days of the week.
+</reasoning>
+<answer>5</answer>

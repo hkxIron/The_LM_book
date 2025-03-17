@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we need to determine how many friends attended the wedding reception based on the information provided about the couple's family invitations.
+
+1. **Calculate the number of family members invited**: 
+   - The bride invited 20 couples. Since each couple consists of 2 people, the total number of people from the bride's side is:
+     \[
+     20 \text{ couples} \times 2 \text{ people per couple} = 40 \text{ people}
+     \]
+   - Similarly, the groom also invited 20 couples, which means the total number of people from the groom's side is also:
+     \[
+     20 \text{ couples} \times 2 \text{ people per couple} = 40 \text{ people}
+     \]
+
+2. **Add the total number of family members**: 
+   - Now, we combine the number of guests from both sides of the family:
+     \[
+     40 \text{ (bride's side)} + 40 \text{ (groom's side)} = 80 \text{ family members}
+     \]
+
+3. **Determine the total number of guests**:
+   - We know the total number of guests at the reception is 180 people. 
+
+4. **Calculate the number of friends**: 
+   - To find the number of friends who attended, we subtract the number of family members from the total number of guests:
+     \[
+     180 \text{ total guests} - 80 \text{ family members} = 100 \text{ friends}
+     \]
+
+Therefore, the number of friends who attended the reception is 100.
+</reasoning>
+<answer>100</answer>

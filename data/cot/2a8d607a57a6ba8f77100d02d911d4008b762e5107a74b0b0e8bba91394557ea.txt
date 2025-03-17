@@ -1,0 +1,90 @@
+<reasoning>
+To determine the difference between the total monthly costs of the two apartments after factoring in utility and driving-related costs, we will break down the calculations step by step.
+
+### Step 1: Calculate the total monthly cost for each apartment.
+
+**Apartment 1:**
+- Rent: $800
+- Utilities: $260
+
+Total cost for Apartment 1:
+\[
+\text{Total Cost}_1 = \text{Rent} + \text{Utilities} = 800 + 260 = 1060
+\]
+
+**Apartment 2:**
+- Rent: $900
+- Utilities: $200
+
+Total cost for Apartment 2:
+\[
+\text{Total Cost}_2 = \text{Rent} + \text{Utilities} = 900 + 200 = 1100
+\]
+
+### Step 2: Calculate the driving costs for each apartment.
+
+The driving cost is calculated based on the distance driven per day, the number of days worked per month, and the cost per mile.
+
+**Apartment 1:**
+- Daily driving distance: 31 miles
+- Number of days per month: 20 days
+- Cost per mile: $0.58
+
+Driving cost for Apartment 1:
+\[
+\text{Driving Cost}_1 = \text{Daily Distance} \times \text{Days} \times \text{Cost per Mile} = 31 \times 20 \times 0.58
+\]
+Calculating that:
+\[
+31 \times 20 = 620
+\]
+\[
+620 \times 0.58 = 359.6
+\]
+Total driving cost (rounded to the nearest dollar):
+\[
+\text{Driving Cost}_1 \approx 360
+\]
+
+**Apartment 2:**
+- Daily driving distance: 21 miles
+
+Driving cost for Apartment 2:
+\[
+\text{Driving Cost}_2 = 21 \times 20 \times 0.58
+\]
+Calculating that:
+\[
+21 \times 20 = 420
+\]
+\[
+420 \times 0.58 = 243.6
+\]
+Total driving cost (rounded to the nearest dollar):
+\[
+\text{Driving Cost}_2 \approx 244
+\]
+
+### Step 3: Calculate the total monthly costs including driving for each apartment.
+
+**Apartment 1:**
+\[
+\text{Total Monthly Cost}_1 = \text{Total Cost}_1 + \text{Driving Cost}_1 = 1060 + 360 = 1420
+\]
+
+**Apartment 2:**
+\[
+\text{Total Monthly Cost}_2 = \text{Total Cost}_2 + \text{Driving Cost}_2 = 1100 + 244 = 1344
+\]
+
+### Step 4: Find the difference between the total monthly costs of the two apartments.
+
+Now we calculate the difference:
+\[
+\text{Difference} = \text{Total Monthly Cost}_1 - \text{Total Monthly Cost}_2 = 1420 - 1344 = 76
+\]
+
+### Conclusion
+The difference between the total monthly costs of the two apartments, after factoring in utility and driving-related costs, is:
+</reasoning>
+<answer>76</answer>

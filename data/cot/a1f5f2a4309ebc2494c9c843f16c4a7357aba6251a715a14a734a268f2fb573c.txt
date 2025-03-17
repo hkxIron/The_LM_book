@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many calories James burns per week, we need to calculate the total number of calories he burns in one class and then multiply that by the number of classes he takes each week.
+
+1. **Calculate the total minutes James works out in one class:**
+   - He works out for 1.5 hours each class.
+   - We need to convert hours into minutes. Since there are 60 minutes in an hour, we can calculate:
+   \[
+   1.5 \text{ hours} \times 60 \text{ minutes/hour} = 90 \text{ minutes}
+   \]
+   This tells us that James works out for 90 minutes each time he attends the class.
+
+2. **Calculate the total calories burned in one class:**
+   - We know he burns 7 calories per minute.
+   - To find the total calories burned in one class, we multiply the number of minutes by the calories burned per minute:
+   \[
+   90 \text{ minutes} \times 7 \text{ calories/minute} = 630 \text{ calories}
+   \]
+   This means that in one spinning class, James burns 630 calories.
+
+3. **Calculate the total calories burned per week:**
+   - James takes the spinning class 3 times a week.
+   - To find the total calories burned in a week, we multiply the calories burned in one class by the number of classes per week:
+   \[
+   630 \text{ calories/class} \times 3 \text{ classes/week} = 1890 \text{ calories/week}
+   \]
+   Therefore, the total number of calories James burns in a week from his spinning classes is 1890.
+</reasoning>
+<answer>1890</answer>

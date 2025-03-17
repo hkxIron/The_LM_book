@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine how many lollipops Sarah shared with Julie. Sarah bought a total of 12 lollipops, and she offered to share one-quarter of them with Julie.
+
+1. **Calculate one-quarter of the lollipops Sarah bought:**
+   \[
+   \text{Lollipops shared} = \frac{1}{4} \times 12 = 3
+   \]
+   Sarah shared 3 lollipops with Julie.
+
+2. **Next, we need to find out the cost per lollipop.** Sarah bought 12 lollipops for a total of 3 dollars, so we divide the total cost by the number of lollipops:
+   \[
+   \text{Cost per lollipop} = \frac{3 \text{ dollars}}{12 \text{ lollipops}} = 0.25 \text{ dollars per lollipop}
+   \]
+   This means each lollipop costs 25 cents.
+
+3. **Now, we calculate the total cost of the 3 lollipops that Julie is reimbursing Sarah for:**
+   \[
+   \text{Total cost for shared lollipops} = 3 \text{ lollipops} \times 0.25 \text{ dollars per lollipop} = 0.75 \text{ dollars}
+   \]
+
+4. **Finally, since we need to find out how much money, in cents, Julie gave Sarah, we convert dollars to cents:**
+   \[
+   0.75 \text{ dollars} = 75 \text{ cents}
+   \]
+
+Therefore, Julie gave Sarah 75 cents to reimburse her for the shared lollipops.
+</reasoning>
+<answer>75</answer>

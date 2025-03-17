@@ -1,0 +1,46 @@
+<reasoning>
+To determine how many shirts Kendra needs for two weeks, we first need to calculate her total shirt usage per week.
+
+1. **Calculate the number of shirts worn during weekdays:**
+   - Kendra wears one shirt each day for school from Monday to Friday. 
+   - This totals to:
+     \[
+     5 \text{ shirts (one for each weekday)}
+     \]
+
+2. **Calculate the number of after-school club shirts worn:**
+   - Kendra changes into a different shirt for an after-school club three days a week (let's assume this is Monday, Wednesday, and Friday).
+   - This totals to:
+     \[
+     3 \text{ shirts (one for each of the three club days)}
+     \]
+
+3. **Calculate the number of shirts worn on Saturday:**
+   - Kendra wears one shirt all day on Saturday. 
+   - This adds:
+     \[
+     1 \text{ shirt}
+     \]
+
+4. **Calculate the number of shirts worn on Sunday:**
+   - Kendra wears one shirt to church and a different shirt for the rest of the day on Sunday. 
+   - This totals to:
+     \[
+     2 \text{ shirts (one for church and one for the rest of the day)}
+     \]
+
+5. **Sum the total shirts worn in one week:**
+   - Now, we can add all the shirts worn in one week:
+     \[
+     5 \text{ (weekdays)} + 3 \text{ (after-school clubs)} + 1 \text{ (Saturday)} + 2 \text{ (Sunday)} = 11 \text{ shirts}
+     \]
+
+6. **Calculate the total shirts needed for two weeks:**
+   - Since Kendra wants to do laundry once every two weeks, we multiply the weekly total by 2:
+     \[
+     11 \text{ shirts/week} \times 2 \text{ weeks} = 22 \text{ shirts}
+     \]
+
+Therefore, Kendra needs a total of 22 shirts to only do laundry once every two weeks.
+</reasoning>
+<answer>22</answer>

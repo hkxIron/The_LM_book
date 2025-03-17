@@ -1,0 +1,21 @@
+<reasoning>
+To solve this problem, we need to determine the total number of pages read in a year based on the number of novels read in a month and the number of pages in each novel.
+
+1. **Calculate the total pages read in a month:**
+   - You read 4 novels each with 200 pages.
+   - To find the total pages read in a month, we multiply the number of novels by the number of pages per novel:
+     \[
+     \text{Pages per month} = 4 \text{ novels} \times 200 \text{ pages/novel} = 800 \text{ pages}
+     \]
+   - This calculation tells us that in one month, you read 800 pages.
+
+2. **Calculate the total pages read in a year:**
+   - There are 12 months in a year, so we multiply the pages read in a month by the number of months in a year:
+     \[
+     \text{Pages per year} = 800 \text{ pages/month} \times 12 \text{ months} = 9600 \text{ pages}
+     \]
+   - This calculation gives us the total number of pages read in a year.
+
+Therefore, by multiplying the monthly total by the number of months, we find that you will read 9600 pages of novels in a year.
+</reasoning>
+<answer>9600</answer>

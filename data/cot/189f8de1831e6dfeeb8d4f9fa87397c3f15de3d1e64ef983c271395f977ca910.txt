@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many balloons are left after some have burst, we need to follow these steps:
+
+1. **Determine the initial number of balloons**: 
+   - We have 20 red balloons and 15 green balloons. 
+   - To find the total number of balloons before any burst, we add the two amounts together:
+     \[
+     20 \text{ (red)} + 15 \text{ (green)} = 35 \text{ (total balloons)}
+     \]
+
+2. **Calculate the number of balloons that burst**:
+   - According to the problem, 3 red balloons and 2 green balloons burst. 
+   - We find the total number of balloons that burst by adding these amounts:
+     \[
+     3 \text{ (red burst)} + 2 \text{ (green burst)} = 5 \text{ (total burst)}
+     \]
+
+3. **Subtract the burst balloons from the initial total**:
+   - Now we subtract the total number of burst balloons from the initial total we calculated:
+     \[
+     35 \text{ (initial total)} - 5 \text{ (burst)} = 30 \text{ (remaining balloons)}
+     \]
+
+Now we can conclude that after accounting for the balloons that burst, there are 30 balloons left at the birthday party.
+</reasoning>
+<answer>30</answer>

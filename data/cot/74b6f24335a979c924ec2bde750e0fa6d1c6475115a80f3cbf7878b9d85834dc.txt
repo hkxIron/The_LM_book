@@ -1,0 +1,26 @@
+<reasoning>
+To determine how many packs of baby wipes Randy will need for 360 days, we first need to calculate the total number of wipes he will use in that time frame.
+
+1. **Calculate the total number of walks**: 
+   Randy walks his dog twice a day, so over 360 days, the total number of walks can be calculated as:
+   \[
+   2 \text{ walks/day} \times 360 \text{ days} = 720 \text{ walks}
+   \]
+   This means Randy wipes his dog's paws a total of 720 times.
+
+2. **Determine the number of wipes used**:
+   Since he wipes his dog's paws once after each walk, he will use 1 wipe per walk. Therefore, the total number of wipes needed is:
+   \[
+   720 \text{ wipes}
+   \]
+
+3. **Calculate the number of packs required**:
+   Each pack contains 120 wipes. To find out how many packs are needed, we divide the total number of wipes by the number of wipes per pack:
+   \[
+   \frac{720 \text{ wipes}}{120 \text{ wipes/pack}} = 6 \text{ packs}
+   \]
+   Since 720 is exactly divisible by 120, Randy will need exactly 6 packs of wipes.
+
+Therefore, Randy will need 6 packs of baby wipes to ensure he has enough for 360 days.
+</reasoning>
+<answer>6</answer>

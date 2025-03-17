@@ -1,0 +1,48 @@
+<reasoning>
+Let's start by determining the current ages of Raven and Phoebe. We know that Phoebe is currently 10 years old.
+
+1. **Determine Phoebe's age in 5 years**:
+   - Since Phoebe is currently 10 years old, in 5 years, she will be:
+     \[
+     10 + 5 = 15 \text{ years old}
+     \]
+
+2. **Set up the equation for Raven's age in 5 years**:
+   - According to the problem, in 5 years, Raven will be 4 times as old as Phoebe. Thus, we can express Raven's age in 5 years as:
+     \[
+     R + 5
+     \]
+   - Here, \( R \) represents Raven's current age.
+
+3. **Formulate the equation**:
+   - We know that in 5 years, Raven's age \( R + 5 \) is equal to 4 times Phoebe's age at that time:
+     \[
+     R + 5 = 4 \times 15
+     \]
+
+4. **Calculate 4 times Phoebe's age in 5 years**:
+   - Now, we calculate \( 4 \times 15 \):
+     \[
+     4 \times 15 = 60
+     \]
+
+5. **Substitute back into the equation**:
+   - Now we substitute this value back into the equation we set up:
+     \[
+     R + 5 = 60
+     \]
+
+6. **Solve for Raven's current age**:
+   - To find Raven's current age, we will subtract 5 from both sides of the equation:
+     \[
+     R = 60 - 5
+     \]
+     \[
+     R = 55
+     \]
+
+So, Raven is currently 55 years old.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>55</answer>

@@ -1,0 +1,52 @@
+<reasoning>
+To solve the problem, we will first calculate the net amounts each person has after all debts are settled.
+
+1. **Identify the debts:**
+   - Earl owes Fred $28.
+   - Fred owes Greg $32.
+   - Greg owes Earl $40.
+
+2. **Calculating the net amounts:**
+   - **Earl's initial amount:** $90
+     - After paying Fred $28, Earl will have:
+       \[
+       90 - 28 = 62
+       \]
+     - Earl will receive $40 from Greg, so his new total will be:
+       \[
+       62 + 40 = 102
+       \]
+
+   - **Fred's initial amount:** $48
+     - Fred will receive $28 from Earl, so his new total will be:
+       \[
+       48 + 28 = 76
+       \]
+     - Fred will pay Greg $32, so his new total will be:
+       \[
+       76 - 32 = 44
+       \]
+
+   - **Greg's initial amount:** $36
+     - Greg will receive $32 from Fred, so his new total will be:
+       \[
+       36 + 32 = 68
+       \]
+     - Greg will pay $40 to Earl, so his new total will be:
+       \[
+       68 - 40 = 28
+       \]
+
+3. **Final amounts after all debts are settled:**
+   - Earl: $102
+   - Fred: $44
+   - Greg: $28
+
+4. **Calculating how much Greg and Earl have together:**
+   \[
+   102 + 28 = 130
+   \]
+
+Therefore, after all debts are paid, Greg and Earl together have $130.
+</reasoning>
+<answer>130</answer>

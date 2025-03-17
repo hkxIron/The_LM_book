@@ -1,0 +1,42 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the total number of dolls Ivy has.**
+   Since we know that 2/3 of Ivy's dolls are collector's editions and that she has 20 collector's edition dolls, we can set up the equation. Let \( x \) be the total number of dolls Ivy has.
+
+   \[
+   \frac{2}{3} x = 20
+   \]
+
+   To find \( x \), we will solve for it by multiplying both sides of the equation by the reciprocal of \(\frac{2}{3}\), which is \(\frac{3}{2}\).
+
+   \[
+   x = 20 \times \frac{3}{2}
+   \]
+
+   Calculating this gives:
+
+   \[
+   x = 20 \times 1.5 = 30
+   \]
+
+   So, Ivy has a total of 30 dolls.
+
+2. **Determine how many dolls Dina has.**
+   According to the problem, Dina has twice as many dolls as Ivy. Since we found that Ivy has 30 dolls, we can calculate the number of dolls Dina has using the following equation:
+
+   \[
+   \text{Dina's dolls} = 2 \times \text{Ivy's dolls}
+   \]
+
+   Substituting in the number of dolls Ivy has:
+
+   \[
+   \text{Dina's dolls} = 2 \times 30 = 60
+   \]
+
+Thus, Dina has 60 dolls.
+
+Therefore, after carefully calculating the total number of dolls Ivy has and using that to find out how many dolls Dina has:
+</reasoning>
+<answer>60</answer>

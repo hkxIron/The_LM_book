@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the Earnings**: According to the problem, Jason has earned an amount equal to his initial investment twice over in 5 months. This means that if his initial investment is \( I \), then his total earnings over 5 months is \( 2I \). 
+
+2. **Current Value of Investment**: We are given that Jason's investment is currently worth $90. The current value of his investment can be expressed as the initial investment plus the total earnings. Therefore, we can write the equation:
+   \[
+   I + 2I = 90
+   \]
+   This simplifies to:
+   \[
+   3I = 90
+   \]
+
+3. **Finding the Initial Investment**: To find \( I \), we divide both sides of the equation by 3:
+   \[
+   I = \frac{90}{3} = 30
+   \]
+   So, Jason's initial investment was $30.
+
+4. **Total Earnings**: Now we need to determine Jason's total earnings. Since he earned twice his investment, we have:
+   \[
+   \text{Total Earnings} = 2I = 2 \times 30 = 60
+   \]
+
+5. **Calculating Monthly Earnings**: We know that these total earnings were made over 5 months. To find out how much he earned per month, we divide the total earnings by the number of months:
+   \[
+   \text{Monthly Earnings} = \frac{\text{Total Earnings}}{5} = \frac{60}{5} = 12
+   \]
+
+Thus, Jason has been earning $12 per month from his investment.
+</reasoning>
+<answer>12</answer>

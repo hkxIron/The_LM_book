@@ -1,0 +1,67 @@
+<reasoning>
+To determine how much the rancher will need to spend on feed corn, we first need to calculate how long the pasture will last with the given number of animals.
+
+1. **Calculate the total grass consumption per month:**
+   - Each cow eats 2 acres of grass per month.
+   - Each sheep eats 1 acre of grass per month.
+   - The rancher has 5 cows and 8 sheep.
+
+   For the cows:
+   \[
+   \text{Total grass consumed by cows} = \text{Number of cows} \times \text{Grass consumption per cow} = 5 \times 2 = 10 \text{ acres}
+   \]
+
+   For the sheep:
+   \[
+   \text{Total grass consumed by sheep} = \text{Number of sheep} \times \text{Grass consumption per sheep} = 8 \times 1 = 8 \text{ acres}
+   \]
+
+   Now, we add these two amounts together to find the total grass consumption per month:
+   \[
+   \text{Total grass consumption per month} = 10 + 8 = 18 \text{ acres}
+   \]
+
+2. **Calculate how long the grass will last:**
+   - The rancher has a total of 144 acres of grass.
+   - To find out how many months the grass will last, we divide the total grass by the monthly consumption:
+   \[
+   \text{Months grass lasts} = \frac{\text{Total grass}}{\text{Total grass consumption per month}} = \frac{144}{18} = 8 \text{ months}
+   \]
+
+3. **Determine how long the animals will need additional feed:**
+   - A year has 12 months, and since the grass will last for 8 months, the animals will need feed corn for the remaining months:
+   \[
+   \text{Months needing feed} = 12 - 8 = 4 \text{ months}
+   \]
+
+4. **Calculate the total amount of feed corn needed:**
+   - Each bag of feed corn can feed each cow for 1 month and each sheep for 2 months.
+   - First, let's find out how many bags of feed corn are needed for the cows and the sheep during the 4 months.
+
+   For the cows (5 cows):
+   - Each cow will need 1 bag per month, so for 4 months:
+   \[
+   \text{Bags for cows} = \text{Number of cows} \times \text{Months needing feed} = 5 \times 4 = 20 \text{ bags}
+   \]
+
+   For the sheep (8 sheep):
+   - Each sheep will need half a bag per month (since each bag feeds a sheep for 2 months), so for 4 months:
+   \[
+   \text{Bags for sheep} = \frac{\text{Number of sheep} \times \text{Months needing feed}}{2} = \frac{8 \times 4}{2} = 16 \text{ bags}
+   \]
+
+5. **Calculate the total number of bags of feed corn:**
+   - Now, we add the total bags needed for cows and sheep:
+   \[
+   \text{Total bags needed} = \text{Bags for cows} + \text{Bags for sheep} = 20 + 16 = 36 \text{ bags}
+   \]
+
+6. **Calculate the total cost of the feed corn:**
+   - Each bag of feed corn costs $10:
+   \[
+   \text{Total cost} = \text{Total bags needed} \times \text{Cost per bag} = 36 \times 10 = 360
+   \]
+
+Therefore, the rancher will need to spend $360 on feed corn to feed his animals for the year.
+</reasoning>
+<answer>360</answer>

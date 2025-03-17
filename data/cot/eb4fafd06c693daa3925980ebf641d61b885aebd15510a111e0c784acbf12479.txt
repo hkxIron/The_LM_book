@@ -1,0 +1,39 @@
+<reasoning>
+Let's solve the problem step by step by calculating the growth of the papaya tree each year and then summing up the growth to find the total height after 5 years.
+
+1. **First Year:**
+   The tree grows 2 feet in the first year.
+   - Growth in Year 1 = 2 feet.
+
+2. **Second Year:**
+   The tree grows 50% more than the first year. 
+   - 50% of the first year's growth (2 feet) = 0.5 * 2 = 1 foot.
+   - Therefore, growth in Year 2 = First Year Growth + Additional Growth = 2 + 1 = 3 feet.
+
+3. **Third Year:**
+   The tree grows 50% more than in the second year.
+   - 50% of the second year's growth (3 feet) = 0.5 * 3 = 1.5 feet.
+   - Therefore, growth in Year 3 = Second Year Growth + Additional Growth = 3 + 1.5 = 4.5 feet.
+
+4. **Fourth Year:**
+   The tree grows twice as much as in the third year.
+   - Therefore, growth in Year 4 = 2 * Third Year Growth = 2 * 4.5 = 9 feet.
+
+5. **Fifth Year:**
+   The tree grows half as much as the fourth year.
+   - Therefore, growth in Year 5 = 0.5 * Fourth Year Growth = 0.5 * 9 = 4.5 feet.
+
+Now, we will sum up the growth from each year to find the total height of the tree after 5 years:
+
+- Total height = Growth in Year 1 + Growth in Year 2 + Growth in Year 3 + Growth in Year 4 + Growth in Year 5
+- Total height = 2 + 3 + 4.5 + 9 + 4.5
+
+Calculating this step-by-step:
+- 2 + 3 = 5
+- 5 + 4.5 = 9.5
+- 9.5 + 9 = 18.5
+- 18.5 + 4.5 = 23
+
+Therefore, after 5 years, the tree is 23 feet tall.
+</reasoning>
+<answer>23</answer>

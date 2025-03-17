@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much Tim paid after insurance covered 80% of the costs, we will break the problem down into steps.
+
+1. **Calculate the total cost of the MRI.**
+   The cost of the MRI is given as $1200. 
+
+   Total MRI cost = $1200
+
+2. **Calculate the doctor's examination fee.**
+   The doctor charges $300 per hour, and the examination lasts for 30 minutes. Since 30 minutes is half an hour, we need to calculate the cost for half an hour.
+
+   Cost for 30 minutes = $300 * (30 minutes / 60 minutes) = $300 * 0.5 = $150
+
+3. **Add the examination fee to the MRI cost.**
+   We also have a $150 fee just for being seen by the doctor. So, we need to add this fee to the MRI cost and the examination fee.
+
+   Total cost = MRI cost + Examination fee + Fee for being seen 
+   Total cost = $1200 + $150 + $150 = $1500
+
+4. **Calculate the total cost after insurance coverage.**
+   Insurance covers 80%, so Tim is responsible for 20% of the total cost. 
+
+   Amount covered by insurance = Total cost * 80% = $1500 * 0.8 = $1200
+
+   Amount Tim has to pay = Total cost - Amount covered by insurance 
+   Amount Tim has to pay = $1500 - $1200 = $300
+
+Now, we have calculated the total amount Tim needs to pay after insurance.
+
+Therefore, Tim paid $300.
+</reasoning>
+<answer>300</answer>

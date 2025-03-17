@@ -1,0 +1,49 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Initial Deposit and Interest Calculation for the First Year**:
+   - Tony deposits $1,000 in a savings account.
+   - The interest rate for the first year is 20%.
+   - To calculate the interest earned in the first year, we use the formula:
+     \[
+     \text{Interest} = \text{Principal} \times \text{Rate}
+     \]
+   - Here, the principal is $1,000 and the rate is 20% (or 0.20 in decimal form):
+     \[
+     \text{Interest} = 1,000 \times 0.20 = 200
+     \]
+   - So, at the end of the first year, the total amount in the account is:
+     \[
+     \text{Total after 1 year} = \text{Principal} + \text{Interest} = 1,000 + 200 = 1,200
+     \]
+
+2. **Withdrawal for the TV**:
+   - Tony takes out half of the money after the first year. Half of $1,200 is:
+     \[
+     \text{Amount withdrawn} = \frac{1,200}{2} = 600
+     \]
+   - The remaining amount in the account after this withdrawal is:
+     \[
+     \text{Remaining amount} = 1,200 - 600 = 600
+     \]
+
+3. **Interest Calculation for the Second Year**:
+   - The remaining amount of $600 will now earn 15% interest for the second year.
+   - Using the same interest formula:
+     \[
+     \text{Interest} = \text{Principal} \times \text{Rate}
+     \]
+   - The principal for the second year is $600 and the rate is 15% (or 0.15 in decimal):
+     \[
+     \text{Interest} = 600 \times 0.15 = 90
+     \]
+   - Therefore, the total amount in the account at the end of the second year is:
+     \[
+     \text{Total after 2 years} = \text{Remaining amount} + \text{Interest} = 600 + 90 = 690
+     \]
+
+Now, let's summarize everything to find out how much is now in the account.
+
+After all calculations, the final amount in the account after two years is:
+</reasoning>
+<answer>690</answer>

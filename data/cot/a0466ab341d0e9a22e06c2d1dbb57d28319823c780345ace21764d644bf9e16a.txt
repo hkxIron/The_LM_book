@@ -1,0 +1,25 @@
+<reasoning>
+Let's start by determining how many siblings Billy has.
+
+1. **Identify the number of sisters**: The problem states that Billy has 2 sisters.
+
+2. **Determine the number of brothers**: The problem also states that Billy has twice as many brothers as sisters. Since he has 2 sisters, we can calculate the number of brothers:
+   \[
+   \text{Number of brothers} = 2 \times \text{Number of sisters} = 2 \times 2 = 4
+   \]
+
+3. **Calculate total siblings**: Now, we can find out how many siblings Billy has in total by adding the number of brothers and sisters:
+   \[
+   \text{Total siblings} = \text{Number of sisters} + \text{Number of brothers} = 2 + 4 = 6
+   \]
+
+4. **Determine how many sodas each sibling can get**: Billy wants to distribute a 12 pack of soda equally among his 6 siblings. To find out how many sodas each sibling can receive, we divide the total number of sodas by the number of siblings:
+   \[
+   \text{Sodas per sibling} = \frac{\text{Total sodas}}{\text{Total siblings}} = \frac{12}{6} = 2
+   \]
+
+Now we have determined that each sibling can receive 2 sodas.
+
+Therefore, the final result is:
+</reasoning>
+<answer>2</answer>

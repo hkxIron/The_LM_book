@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the number of people the canoe can carry with the dog**: 
+   The canoe can carry a total of 6 people, but when Penny takes her dog, it can only accommodate 2/3 of that number. 
+   \[
+   \text{Number of people with dog} = \frac{2}{3} \times 6 = 4
+   \]
+   This means that with the dog, there can be 4 people in the canoe.
+
+2. **Calculate the total weight of the people**: 
+   Each person weighs 140 pounds. Therefore, the total weight of the 4 people is:
+   \[
+   \text{Weight of people} = 4 \times 140 = 560 \text{ pounds}
+   \]
+
+3. **Calculate the weight of the dog**: 
+   The dog weighs 1/4 of the weight of a person. Since a person weighs 140 pounds, the weight of the dog is:
+   \[
+   \text{Weight of dog} = \frac{1}{4} \times 140 = 35 \text{ pounds}
+   \]
+
+4. **Calculate the total weight carried by the canoe**: 
+   Now we need to add the weight of the people to the weight of the dog to find the total weight in the canoe:
+   \[
+   \text{Total weight} = \text{Weight of people} + \text{Weight of dog} = 560 + 35 = 595 \text{ pounds}
+   \]
+
+Therefore, the total weight the canoe was carrying is:
+</reasoning>
+<answer>595</answer>

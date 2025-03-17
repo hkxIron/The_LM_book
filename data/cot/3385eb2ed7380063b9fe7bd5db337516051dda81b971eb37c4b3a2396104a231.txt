@@ -1,0 +1,30 @@
+<reasoning>
+First, let's determine how many flags Jay and Gloria need to buy for their party.
+
+1. Jay invited 22 people and Gloria invited 36 people. To find the total number of guests, we add these two numbers together:
+   \[
+   22 + 36 = 58
+   \]
+   Therefore, they have 58 guests.
+
+2. Since Jay and Gloria also want 1 flag each for themselves, we need to add 2 more flags to the total:
+   \[
+   58 + 2 = 60
+   \]
+   So, they need a total of 60 flags.
+
+3. Next, we need to calculate how many sets of flags they will need to buy. The craft store sells 5 flags for $1.00. To find out how many sets of 5 flags are needed for 60 flags, we divide the total number of flags by the number of flags per set:
+   \[
+   60 \div 5 = 12
+   \]
+   This means they need to buy 12 sets of flags.
+
+4. Now we need to determine the cost. Since each set of 5 flags costs $1.00, we multiply the number of sets by the cost per set:
+   \[
+   12 \times 1 = 12
+   \]
+   Therefore, they will spend a total of $12.00 at the craft store.
+
+In conclusion, after calculating the total number of flags and determining the cost based on the store's pricing, we find the total amount they will spend.
+</reasoning>
+<answer>12</answer>

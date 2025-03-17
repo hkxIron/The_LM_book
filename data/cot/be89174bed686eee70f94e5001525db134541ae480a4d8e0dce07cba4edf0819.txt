@@ -1,0 +1,60 @@
+<reasoning>
+First, let's calculate how many crackers Darren bought. He bought 4 boxes of crackers, and each box contained 24 crackers. 
+
+To find the total number of crackers Darren bought, we multiply the number of boxes by the number of crackers per box:
+
+\[
+\text{Total crackers Darren bought} = \text{Number of boxes} \times \text{Crackers per box} = 4 \times 24
+\]
+
+Calculating this gives:
+
+\[
+4 \times 24 = 96
+\]
+
+So, Darren bought 96 crackers.
+
+Next, we need to find out how many boxes of crackers Calvin bought. The problem states that Calvin bought one box less than twice as many boxes as Darren. Since Darren bought 4 boxes, we first calculate twice that amount:
+
+\[
+\text{Twice the number of boxes Darren bought} = 2 \times 4 = 8
+\]
+
+Now, we subtract one box from this amount to find out how many boxes Calvin bought:
+
+\[
+\text{Number of boxes Calvin bought} = 8 - 1 = 7
+\]
+
+Now we need to calculate how many crackers Calvin bought. Since Calvin bought 7 boxes and each box also contains 24 crackers, we can calculate the total number of crackers Calvin bought in the same way:
+
+\[
+\text{Total crackers Calvin bought} = \text{Number of boxes} \times \text{Crackers per box} = 7 \times 24
+\]
+
+Calculating this gives:
+
+\[
+7 \times 24 = 168
+\]
+
+Now we have the number of crackers each person bought:
+- Darren bought 96 crackers.
+- Calvin bought 168 crackers.
+
+To find the total number of crackers they bought altogether, we add the number of crackers each person bought:
+
+\[
+\text{Total crackers} = \text{Crackers Darren bought} + \text{Crackers Calvin bought} = 96 + 168
+\]
+
+Calculating this gives:
+
+\[
+96 + 168 = 264
+\]
+
+Therefore, the total number of crackers they bought altogether is:
+</reasoning>
+<answer>264</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate how many mangoes Mr. Wong sold at the market.**  
+   Mr. Wong harvested a total of 560 mangoes. He sold half of them at the market. To find out how many he sold, we divide the total number of mangoes by 2:
+   \[
+   \text{Mangoes sold} = \frac{560}{2} = 280
+   \]
+   Therefore, Mr. Wong sold 280 mangoes at the market.
+
+2. **Calculate how many mangoes Mr. Wong has left after selling some.**  
+   After selling half, he has the other half left:
+   \[
+   \text{Mangoes left} = 560 - 280 = 280
+   \]
+   So, Mr. Wong has 280 mangoes remaining.
+
+3. **Distribute the remaining mangoes evenly among his 8 neighbors.**  
+   To find out how many mangoes each neighbor receives, we take the total number of mangoes left and divide it by the number of neighbors:
+   \[
+   \text{Mangoes per neighbor} = \frac{280}{8} = 35
+   \]
+   Each neighbor receives 35 mangoes.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>35</answer>

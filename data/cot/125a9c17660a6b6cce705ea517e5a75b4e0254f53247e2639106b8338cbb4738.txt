@@ -1,0 +1,36 @@
+<reasoning>
+To find the combined length of the CDs that James buys, we need to follow these steps:
+
+1. **Identify the lengths of the CDs**:
+   - James has 2 CDs that are each 1.5 hours long. 
+   - The length of the third CD is twice that of the 1.5-hour CDs.
+
+2. **Calculate the length of the third CD**:
+   - Since the third CD is twice the length of the other CDs, we calculate it as follows:
+     \[
+     \text{Length of third CD} = 2 \times 1.5 \text{ hours} = 3 \text{ hours}
+     \]
+
+3. **Determine the total length of all the CDs**:
+   - Now, we add the lengths of all three CDs together:
+     - Length of first CD: 1.5 hours
+     - Length of second CD: 1.5 hours
+     - Length of third CD: 3 hours
+   - We can set up the addition:
+     \[
+     \text{Total length} = 1.5 + 1.5 + 3
+     \]
+
+4. **Perform the addition**:
+   - First, add the lengths of the first two CDs:
+     \[
+     1.5 + 1.5 = 3 \text{ hours}
+     \]
+   - Next, add this result to the length of the third CD:
+     \[
+     3 + 3 = 6 \text{ hours}
+     \]
+
+Thus, the combined length of the CDs that James buys is 6 hours.
+</reasoning>
+<answer>6</answer>

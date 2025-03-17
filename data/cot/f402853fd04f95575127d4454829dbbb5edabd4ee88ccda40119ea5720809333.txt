@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many more worms Mama bird needs to catch to feed her 6 babies for 3 days, we'll follow these steps:
+
+1. **Calculate the total number of worms needed for 3 days:**
+   Each baby needs 3 worms a day. Since there are 6 babies, the total number of worms needed in one day is:
+   \[
+   6 \text{ babies} \times 3 \text{ worms/baby} = 18 \text{ worms}
+   \]
+   Now, to find the total for 3 days:
+   \[
+   18 \text{ worms/day} \times 3 \text{ days} = 54 \text{ worms}
+   \]
+
+2. **Calculate the total number of worms Mama bird and Papa bird have:**
+   Papa bird caught 9 worms. Mama bird caught 13 worms but had 2 stolen, so the number of worms she has is:
+   \[
+   13 \text{ worms} - 2 \text{ stolen} = 11 \text{ worms}
+   \]
+   Now, we add the worms caught by both:
+   \[
+   9 \text{ worms (Papa)} + 11 \text{ worms (Mama)} = 20 \text{ worms}
+   \]
+
+3. **Determine how many more worms are needed:**
+   We need to find out how many more worms are required to reach the total of 54 worms. We subtract the total worms they currently have from the total needed:
+   \[
+   54 \text{ worms needed} - 20 \text{ worms available} = 34 \text{ worms needed}
+   \]
+
+Therefore, Mama bird needs to catch 34 more worms to feed her babies for 3 days.
+</reasoning>
+<answer>34</answer>

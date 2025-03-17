@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of water balloons**: 
+   - Milly and Floretta have 3 packs of their own water balloons. Each pack contains 6 balloons, so:
+     \[
+     \text{Balloons from Milly and Floretta} = 3 \text{ packs} \times 6 \text{ balloons/pack} = 18 \text{ balloons}
+     \]
+   - They also use 2 packs from the neighbor, which also contain 6 balloons each:
+     \[
+     \text{Balloons from neighbor} = 2 \text{ packs} \times 6 \text{ balloons/pack} = 12 \text{ balloons}
+     \]
+   - Now, we add both amounts together to find the total number of water balloons:
+     \[
+     \text{Total balloons} = 18 + 12 = 30 \text{ balloons}
+     \]
+
+2. **Split the balloons evenly**:
+   - Since there are 30 balloons and they split them evenly between Milly and Floretta:
+     \[
+     \text{Balloons per person} = \frac{30 \text{ balloons}}{2} = 15 \text{ balloons}
+     \]
+
+3. **Account for the extra balloons Milly takes**:
+   - Milly takes an extra 7 balloons, so we need to calculate how many balloons Milly ends up with:
+     \[
+     \text{Milly's total} = 15 + 7 = 22 \text{ balloons}
+     \]
+   - Therefore, Floretta will have the remaining balloons:
+     \[
+     \text{Floretta's total} = 30 - \text{Milly's total} = 30 - 22 = 8 \text{ balloons}
+     \]
+
+So, after all calculations, Floretta is left with 8 water balloons.
+</reasoning>
+<answer>8</answer>

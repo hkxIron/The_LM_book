@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many more tails than heads were flipped, we can follow these steps:
+
+1. **Identify the total number of flips**: The problem states that the coin was flipped 211 times.
+
+2. **Identify the number of heads**: It is given that the solver got heads 65 times.
+
+3. **Calculate the number of tails**: Since there are only heads and tails in a coin flip, we can find the number of tails by subtracting the number of heads from the total number of flips:
+   \[
+   \text{Number of tails} = \text{Total flips} - \text{Number of heads}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Number of tails} = 211 - 65 = 146
+   \]
+
+4. **Determine how many more tails than heads were flipped**: To find the difference between the number of tails and heads, we subtract the number of heads from the number of tails:
+   \[
+   \text{Difference} = \text{Number of tails} - \text{Number of heads}
+   \]
+   Substituting the calculated values:
+   \[
+   \text{Difference} = 146 - 65 = 81
+   \]
+
+Thus, the solver got 81 more tails than heads.
+</reasoning>
+<answer>81</answer>

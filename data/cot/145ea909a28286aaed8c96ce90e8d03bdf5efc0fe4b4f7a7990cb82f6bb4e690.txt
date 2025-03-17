@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many iPods Emmy has after losing some.** 
+   Emmy originally has 14 iPods and she loses 6. We can calculate how many she has left by subtracting the lost iPods from her original amount:
+   \[
+   14 - 6 = 8
+   \]
+   So, Emmy has 8 iPods remaining.
+
+2. **Determine how many iPods Rosa has.** 
+   According to the problem, Emmy still has twice as many iPods as Rosa after losing some. Let’s denote the number of iPods Rosa has as \( R \).
+   The relationship given in the problem can be expressed as:
+   \[
+   8 = 2R
+   \]
+   To find how many iPods Rosa has, we can solve for \( R \) by dividing both sides of the equation by 2:
+   \[
+   R = \frac{8}{2} = 4
+   \]
+   Therefore, Rosa has 4 iPods.
+
+3. **Calculate the total number of iPods that Emmy and Rosa have together.**
+   We can find the total by adding the number of iPods Emmy has to the number Rosa has:
+   \[
+   8 + 4 = 12
+   \]
+
+Thus, Emmy and Rosa have a total of 12 iPods together.
+</reasoning>
+<answer>12</answer>

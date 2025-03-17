@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down John's lifting weights step by step to find out his new total after the changes he experienced.
+
+1. **Calculate the new squat weight**:
+   - John used to squat 700 pounds.
+   - He lost 30% of his squat lift. 
+   - To find out how much weight he lost, we calculate 30% of 700:
+     \[
+     \text{Weight lost in squat} = 700 \times 0.30 = 210
+     \]
+   - Now, we subtract this weight loss from his original squat weight:
+     \[
+     \text{New squat weight} = 700 - 210 = 490
+     \]
+
+2. **Calculate the new bench weight**:
+   - John used to bench 400 pounds.
+   - He did not lose any weight on the bench since he could train at home.
+   - Therefore, his new bench weight remains:
+     \[
+     \text{New bench weight} = 400
+     \]
+
+3. **Calculate the new deadlift weight**:
+   - John used to deadlift 800 pounds.
+   - He lost 200 pounds on his deadlift.
+   - We subtract the weight loss from his original deadlift weight:
+     \[
+     \text{New deadlift weight} = 800 - 200 = 600
+     \]
+
+4. **Calculate the new total weight lifted**:
+   - Now we add the new weights for squat, bench, and deadlift together:
+     \[
+     \text{Total weight} = \text{New squat weight} + \text{New bench weight} + \text{New deadlift weight}
+     \]
+     \[
+     \text{Total weight} = 490 + 400 + 600 = 1490
+     \]
+
+Therefore, after calculating the new weights for each lift, we find that John's new total weight lifted is 1490 pounds.
+</reasoning>
+<answer>1490</answer>

@@ -1,0 +1,78 @@
+<reasoning>
+To solve the problem, we need to determine how many games Sarah won based on the information given.
+
+1. **Understand the structure of the games played**:
+   - Total games played = 100
+   - Games tied = 40
+   - Let \( W \) be the number of games Sarah won.
+   - Let \( L \) be the number of games Sarah lost.
+
+2. **Establish the relationship between games**:
+   We know that:
+   \[
+   W + T + L = 100
+   \]
+   where \( T \) is the number of games tied. Substituting the known values:
+   \[
+   W + 40 + L = 100
+   \]
+
+   Rearranging this gives:
+   \[
+   W + L = 60 \quad \text{(Equation 1)}
+   \]
+
+3. **Calculate her net earnings**:
+   - Sarah earns $1 for each win, $0 for each tie, and loses $2 for each loss.
+   - Hence, her total earnings can be expressed as:
+   \[
+   \text{Earnings} = 1W + 0T - 2L
+   \]
+   Since we know she lost $30, we can set up the equation:
+   \[
+   W - 2L = -30 \quad \text{(Equation 2)}
+   \]
+
+4. **Solve the system of equations**:
+   Now we have two equations to solve:
+   - Equation 1: \( W + L = 60 \)
+   - Equation 2: \( W - 2L = -30 \)
+
+   From Equation 1, we can express \( W \) in terms of \( L \):
+   \[
+   W = 60 - L
+   \]
+
+   Now substitute \( W \) in Equation 2:
+   \[
+   (60 - L) - 2L = -30
+   \]
+
+   Simplifying this:
+   \[
+   60 - L - 2L = -30
+   \]
+   \[
+   60 - 3L = -30
+   \]
+   \[
+   -3L = -30 - 60
+   \]
+   \[
+   -3L = -90
+   \]
+   \[
+   L = 30
+   \]
+
+5. **Find the number of wins \( W \)**:
+   Now substitute back to find \( W \):
+   \[
+   W = 60 - L = 60 - 30 = 30
+   \]
+
+Thus, Sarah won 30 games.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

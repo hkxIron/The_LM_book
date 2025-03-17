@@ -1,0 +1,43 @@
+<reasoning>
+Let's start by determining how many hats Zola has based on the information provided.
+
+1. **Calculate Zola's red hats**: 
+   Paityn has 20 red hats. Zola has \( \frac{4}{5} \) times as many red hats as Paityn.
+   \[
+   \text{Zola's red hats} = \frac{4}{5} \times 20 = \frac{80}{5} = 16
+   \]
+   So, Zola has 16 red hats.
+
+2. **Calculate Zola's blue hats**: 
+   Paityn has 24 blue hats. Zola has twice the number of blue hats as Paityn.
+   \[
+   \text{Zola's blue hats} = 2 \times 24 = 48
+   \]
+   Therefore, Zola has 48 blue hats.
+
+3. **Calculate the total number of hats each person has**:
+   - **Total hats for Paityn**:
+   \[
+   \text{Total hats for Paityn} = \text{Red hats} + \text{Blue hats} = 20 + 24 = 44
+   \]
+
+   - **Total hats for Zola**:
+   \[
+   \text{Total hats for Zola} = \text{Red hats} + \text{Blue hats} = 16 + 48 = 64
+   \]
+
+4. **Combine the total number of hats**:
+   Now, we add both Paityn's and Zola's hats together.
+   \[
+   \text{Total hats combined} = 44 + 64 = 108
+   \]
+
+5. **Share the hats equally between Paityn and Zola**:
+   Since there are 2 people, we divide the total number of hats by 2.
+   \[
+   \text{Hats per person} = \frac{108}{2} = 54
+   \]
+
+Thus, each person will get 54 hats.
+</reasoning>
+<answer>54</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many doves Giselle has now, we will follow these steps:
+
+1. **Calculate the total number of eggs laid by the doves**: 
+   - Giselle has 20 female doves, and each dove lays 3 eggs.
+   - Therefore, the total number of eggs can be calculated as:
+     \[
+     \text{Total eggs} = \text{Number of doves} \times \text{Eggs per dove} = 20 \times 3 = 60 \text{ eggs}
+     \]
+
+2. **Calculate how many eggs hatched**: 
+   - We know that 3/4 of the eggs hatched. To find this, we multiply the total number of eggs by 3/4:
+     \[
+     \text{Hatched eggs} = \frac{3}{4} \times 60 = 45 \text{ eggs}
+     \]
+
+3. **Calculate the total number of doves now**: 
+   - Originally, Giselle had 20 doves. After the eggs hatched, she gains the number of hatched doves.
+   - Therefore, the total number of doves now is:
+     \[
+     \text{Total doves} = \text{Original doves} + \text{Hatched doves} = 20 + 45 = 65 \text{ doves}
+     \]
+
+In conclusion, after performing the calculations, we find that Giselle now has a total of 65 doves.
+</reasoning>
+<answer>65</answer>

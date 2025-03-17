@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Count of Tennis Balls**: 
+   Bertha starts with 2 balls and gives one away to her partner. So, the number of tennis balls she has now is:
+   \[
+   2 - 1 = 1
+   \]
+
+2. **Events Over 20 Games**: 
+   We need to analyze what happens to her tennis balls over the course of 20 games. We'll look at three different events:
+   - Losing a ball every 5 games,
+   - A ball wearing out every 10 games,
+   - Buying a canister of three balls every 4 games.
+
+3. **Losing Balls**:
+   Every 5 games she loses a ball. In 20 games, the number of balls lost is:
+   \[
+   \frac{20}{5} = 4 \text{ balls lost}
+   \]
+
+4. **Wearing Out Balls**:
+   Every 10 games, one of her tennis balls wears out. In 20 games, the number of balls worn out is:
+   \[
+   \frac{20}{10} = 2 \text{ balls worn out}
+   \]
+
+5. **Buying Balls**:
+   She buys a canister of three balls every 4 games. In 20 games, the number of canisters bought is:
+   \[
+   \frac{20}{4} = 5 \text{ canisters}
+   \]
+   Since each canister contains 3 balls, the total number of balls bought is:
+   \[
+   5 \times 3 = 15 \text{ balls bought}
+   \]
+
+6. **Calculating the Final Count**:
+   Now we can calculate the final number of tennis balls Bertha has after 20 games:
+   - Starting with 1 ball,
+   - Adding the 15 balls she bought,
+   - Subtracting the 4 balls she lost,
+   - Subtracting the 2 balls that wore out.
+
+   The final calculation is:
+   \[
+   1 + 15 - 4 - 2 = 10
+   \]
+
+Therefore, after 20 games, Bertha has 10 tennis balls left.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,68 @@
+<reasoning>
+Let's denote the current ages of Anne, Emile, and Maude as A, E, and M, respectively. According to the problem, we know the following:
+
+1. By the time Anne is two times as old as Emile, Emile will be six times as old as Maude.
+2. We are given that Maude will be 8 years old.
+
+Since we need to understand how the ages relate to each other, let's first establish the relationship when Maude is 8 years old. 
+
+Let's denote the number of years from now until Maude is 8 years old as x. We have:
+- Maude's current age (M) is not given, but we will say Maude is currently M years old, and in x years she will be 8 years old. Therefore, we have:
+  
+  M + x = 8
+  This means x = 8 - M.
+
+Now, we want to find the ages of Anne and Emile in x years:
+- In x years, Anne's age will be A + x.
+- In x years, Emile's age will be E + x.
+
+According to the problem, by the time Anne is two times as old as Emile, we can set up the equation:
+- A + x = 2(E + x) (this means Anne's age in x years is two times Emile's age in x years).
+
+Also, at that same time, Emile will be six times as old as Maude:
+- E + x = 6(8) (because we know Maude will be 8 years old).
+
+Now we can solve for E + x:
+- E + x = 48.
+
+We also know from our previous equation:
+- A + x = 2(E + x).
+
+Substituting E + x = 48 into the equation for Anne's age:
+- A + x = 2(48) = 96.
+
+Now we have two equations:
+1. E + x = 48
+2. A + x = 96
+
+Next, we can find x from the first equation:
+- Since E + x = 48, we can express x as:
+  x = 48 - E.
+
+Now substituting this into the second equation for A:
+- A + (48 - E) = 96.
+- A + 48 - E = 96.
+- A - E = 96 - 48.
+- A - E = 48.
+- Therefore, we have A = E + 48.
+
+Now we know that when Maude is 8 years old, Emile's age will be E and Anne's age will be E + 48. 
+
+Since we don't have the current value of E, but we know that by the time Maude is 8, E + x = 48, we can find out how old Anne will be when Maude is 8, by calculating A in terms of E.
+
+If we substitute E from the first equation:
+- E + (8 - M) = 48.
+- From here we cannot determine E specifically without knowing M's current age.
+
+However, since we're interested in finding Anne's age when Maude turns 8, we can conclude that:
+- If we assume M was younger than 8, with A = E + 48, and we already established that Emile will be 48 minus the years until Maude is 8, we know that Anne will be 48 years older than Emile.
+
+Finally, since we are looking for Anne's age when Maude will be 8 years old, we can conclude she will be:
+- A = 48 + E.
+
+Thus, if E is 0, then A = 48. But to solve for how old Anne will be specifically, we can simply use our prior equation:
+- A will be 96 when x = 0.
+
+Therefore, when Maude turns 8, Anne will be 96.
+</reasoning>
+<answer>96</answer>

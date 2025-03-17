@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many more minutes Matt worked on Wednesday than on Tuesday, let's break it down step by step.
+
+1. **Determine Monday's Work**: 
+   - Matt worked for 450 minutes on Monday. 
+   - This value is given directly.
+
+2. **Calculate Tuesday's Work**:
+   - On Tuesday, Matt worked half the number of minutes he worked on Monday. 
+   - To find this, we divide Monday's minutes by 2:
+     \[
+     \text{Tuesday's work} = \frac{450}{2} = 225 \text{ minutes}
+     \]
+
+3. **Determine Wednesday's Work**:
+   - On Wednesday, Matt worked for 300 minutes. 
+   - This value is also given directly.
+
+4. **Find the Difference Between Wednesday and Tuesday**:
+   - To find out how many more minutes he worked on Wednesday than on Tuesday, we subtract Tuesday's minutes from Wednesday's minutes:
+     \[
+     \text{Difference} = \text{Wednesday's work} - \text{Tuesday's work} = 300 - 225
+     \]
+     \[
+     \text{Difference} = 75 \text{ minutes}
+     \]
+
+Therefore, Matt worked 75 more minutes on Wednesday than on Tuesday.
+</reasoning>
+<answer>75</answer>

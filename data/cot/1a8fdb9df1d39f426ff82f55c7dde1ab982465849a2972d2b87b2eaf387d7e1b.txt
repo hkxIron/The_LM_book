@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we need to follow these steps:
+
+1. **Determine Georgie's current speed**: 
+   Georgie runs 40 yards in 5 seconds. To find his speed in yards per second, we divide the distance by the time.
+   \[
+   \text{Current speed} = \frac{40 \text{ yards}}{5 \text{ seconds}} = 8 \text{ yards/second}
+   \]
+
+2. **Calculate the improved speed**: 
+   Georgie can improve his speed by 40%. To find the new speed, we first calculate 40% of his current speed:
+   \[
+   40\% \text{ of } 8 \text{ yards/second} = 0.4 \times 8 = 3.2 \text{ yards/second}
+   \]
+   Now, we add this improvement to his current speed to get his new speed:
+   \[
+   \text{New speed} = 8 \text{ yards/second} + 3.2 \text{ yards/second} = 11.2 \text{ yards/second}
+   \]
+
+3. **Calculate the distance he can run in 10 seconds at the new speed**: 
+   To find out how far he can run in 10 seconds at this new speed, we multiply his new speed by the time:
+   \[
+   \text{Distance in 10 seconds} = 11.2 \text{ yards/second} \times 10 \text{ seconds} = 112 \text{ yards}
+   \]
+
+Therefore, after following these steps, we find that Georgie will be able to run 112 yards in 10 seconds after improving his speed.
+</reasoning>
+<answer>112</answer>

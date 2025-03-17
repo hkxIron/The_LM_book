@@ -1,0 +1,47 @@
+<reasoning>
+Let's denote the initial number of oranges as \( O \) and the initial number of limes as \( L \).
+
+1. **Understanding the problem**: We know that after Martin ate half of his fruits, he had 50 oranges left. This means that the initial number of oranges must have been double that, because he ate half.
+
+   So we can set up the equation for oranges:
+   \[
+   O - \frac{O}{2} = 50
+   \]
+   Simplifying this, we find:
+   \[
+   \frac{O}{2} = 50
+   \]
+   Multiplying both sides by 2 gives us:
+   \[
+   O = 100
+   \]
+   Therefore, Martin initially had 100 oranges.
+
+2. **Finding the number of limes**: The problem states that after eating half of the fruits, he has twice as many oranges as limes. 
+
+   Let's denote the number of limes he had initially as \( L \). After eating half of his fruits, the relationship between the number of oranges and limes is:
+   \[
+   \frac{O}{2} = 2 \times \frac{L}{2}
+   \]
+   Substituting \( O = 100 \):
+   \[
+   \frac{100}{2} = 2 \times \frac{L}{2}
+   \]
+   Simplifying gives us:
+   \[
+   50 = L
+   \]
+   Therefore, Martin initially had 50 limes.
+
+3. **Calculating the total initial number of fruits**: The total number of fruits Martin initially had is the sum of the initial oranges and limes:
+   \[
+   \text{Total fruits} = O + L = 100 + 50
+   \]
+   Adding these together gives us:
+   \[
+   \text{Total fruits} = 150
+   \]
+
+Therefore, Martin initially had 150 fruits.
+</reasoning>
+<answer>150</answer>

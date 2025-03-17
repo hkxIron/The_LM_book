@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many cows are on the farm, we will go through the following steps:
+
+1. **Determine the average milk production per cow per week**:
+   - We know that 6 cows produce 108 liters of milk in a week. 
+   - To find out how much one cow produces in a week, we will divide the total liters by the number of cows:
+     \[
+     \text{Milk per cow per week} = \frac{108 \text{ liters}}{6 \text{ cows}} = 18 \text{ liters per cow}
+     \]
+
+2. **Find the total milk produced in one week**:
+   - We know that in five weeks, the cows produced a total of 2160 liters of milk.
+   - To find out how much milk was produced in one week, we divide the total by 5:
+     \[
+     \text{Milk per week} = \frac{2160 \text{ liters}}{5 \text{ weeks}} = 432 \text{ liters per week}
+     \]
+
+3. **Calculate the number of cows needed to produce 432 liters in one week**:
+   - Now, we will find out how many cows are needed to produce 432 liters in one week, knowing that each cow produces 18 liters per week:
+     \[
+     \text{Number of cows} = \frac{432 \text{ liters}}{18 \text{ liters per cow}} = 24 \text{ cows}
+     \]
+
+Thus, we have determined that there are 24 cows on the farm.
+</reasoning>
+<answer>24</answer>

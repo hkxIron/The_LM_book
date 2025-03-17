@@ -1,0 +1,25 @@
+<reasoning>
+First, let's calculate the cost of the first 10 tickets without any discount. 
+
+Step 1: Calculate the cost of 10 tickets
+The cost of one ticket is $40. To find the cost of 10 tickets, we multiply the cost of one ticket by 10.
+Cost of 10 tickets = 10 * $40 = $400
+
+Next, let's calculate the discount for the remaining tickets. Mr. Benson bought 12 tickets in total, so he bought 2 tickets with the discount.
+
+Step 2: Calculate the cost of the remaining tickets with discount
+The cost of one ticket with the 5% discount can be found by multiplying the original cost by 5% (or 0.05) and subtracting that from the original cost. 
+Discounted cost of one ticket = $40 - ($40 * 0.05) = $38
+
+Mr. Benson bought 2 discounted tickets, so we multiply the discounted cost by 2.
+Cost of 2 discounted tickets = 2 * $38 = $76
+
+Finally, we add the cost of the 10 tickets without discount and the cost of the 2 tickets with discount to find out how much Mr. Benson paid in total.
+
+Step 3: Calculate the total cost
+Total cost = Cost of 10 tickets + Cost of 2 discounted tickets
+Total cost = $400 + $76 = $476
+
+Therefore, Mr. Benson paid $476 in total for the 12 tickets.
+</reasoning>
+<answer>476</answer>

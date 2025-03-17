@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we need to find Hannah's age based on the information provided about her brothers' ages.
+
+1. **Calculate the sum of her brothers' ages**: 
+   Each of Hannah's brothers is 8 years old, and there are 3 brothers. 
+   So, we calculate the sum of their ages as follows:
+   \[
+   \text{Sum of brothers' ages} = 3 \times 8 = 24
+   \]
+   This means that the total age of Hannah's brothers is 24 years.
+
+2. **Find Hannah's age**: 
+   According to the problem, Hannah is twice as old as the sum of her brothers' ages. 
+   Therefore, we can express Hannah's age (H) mathematically as:
+   \[
+   H = 2 \times \text{(Sum of brothers' ages)} = 2 \times 24
+   \]
+   Now, we need to calculate this:
+   \[
+   H = 2 \times 24 = 48
+   \]
+   This tells us that Hannah is 48 years old.
+
+In summary, we calculated the sum of her brothers' ages and then found that Hannah's age is twice that sum.
+</reasoning>
+<answer>48</answer>

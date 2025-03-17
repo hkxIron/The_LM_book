@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the time period:** George has been receiving a special $1 bill from his parents every year since his 15th birthday. Since he is now celebrating his 25th birthday, that means he has received these bills for 10 years (from age 15 to age 25).
+
+2. **Calculate the total number of special bills:** Since he receives 1 special bill each year for 10 years, he has a total of:
+   \[
+   10 \text{ bills}
+   \]
+
+3. **Determine how many bills he has left after spending some:** George spent 20% of his special bills. To find out how many he spent, we calculate 20% of 10 bills:
+   \[
+   0.20 \times 10 = 2 \text{ bills}
+   \]
+   Therefore, he has:
+   \[
+   10 - 2 = 8 \text{ bills left}
+   \]
+
+4. **Calculate how much he will receive for exchanging the left bills:** For each bill he exchanges, he will receive $1.5. Thus, the total amount he receives for 8 bills is:
+   \[
+   8 \text{ bills} \times 1.5 \text{ dollars/bill} = 12 \text{ dollars}
+   \]
+
+In summary, George will exchange 8 bills and receive a total of $12 from his parents.
+</reasoning>
+<answer>12</answer>

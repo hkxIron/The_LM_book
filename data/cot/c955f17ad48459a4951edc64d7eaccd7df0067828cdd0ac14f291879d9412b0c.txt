@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many blueberries Miss Darlington had in total, we need to follow these steps:
+
+1. **Identify the amount of blueberries in the first basket**: Miss Darlington starts with 20 blueberries.
+
+2. **Determine the amount of blueberries in the additional baskets**: She picked 9 more baskets, and each basket contains the same amount of blueberries, which is 20.
+
+3. **Calculate the total number of blueberries in the additional baskets**: To find out how many blueberries are in the 9 additional baskets, we multiply the number of baskets by the amount in each basket:
+   \[
+   9 \text{ baskets} \times 20 \text{ blueberries per basket} = 180 \text{ blueberries}
+   \]
+
+4. **Add the original amount of blueberries to the total from the additional baskets**: Now we need to add the 20 blueberries from the first basket to the total from the 9 additional baskets:
+   \[
+   20 \text{ blueberries} + 180 \text{ blueberries} = 200 \text{ blueberries}
+   \]
+
+So, after calculating all of this, Miss Darlington has a total of 200 blueberries.
+</reasoning>
+<answer>200</answer>

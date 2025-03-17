@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we will follow a step-by-step approach, calculating the number of paper boats left after each event.
+
+1. **Calculate the number of boats eaten by fish:**
+   - Madison made a total of 30 paper boats.
+   - 20% of these boats are eaten by fish. To find 20% of 30, we multiply:
+     \[
+     20\% \text{ of } 30 = \frac{20}{100} \times 30 = 0.2 \times 30 = 6
+     \]
+   - Therefore, 6 boats are eaten by fish.
+
+2. **Calculate the number of boats remaining after the fish eat some:**
+   - We subtract the number of boats eaten by fish from the total number of boats:
+     \[
+     30 - 6 = 24
+     \]
+   - So, after the fish, Madison has 24 boats left.
+
+3. **Calculate the number of boats shot with flaming arrows:**
+   - Madison shoots 2 of the remaining boats with flaming arrows. We need to subtract these from the current total:
+     \[
+     24 - 2 = 22
+     \]
+   - Therefore, after shooting 2 boats, Madison has 22 boats left.
+
+Putting it all together, after calculating the number of boats left after both events (fish eating and shooting), we find that the total number of paper boats remaining is 22.
+</reasoning>
+<answer>22</answer>

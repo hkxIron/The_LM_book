@@ -1,0 +1,21 @@
+<reasoning>
+To find the total amount of soap contained in the 2 boxes, we can follow these steps:
+
+1. **Determine the number of packages in one box:** 
+   Since each box contains 6 packages, we can calculate the number of packages in 2 boxes.
+   \[
+   \text{Total packages in 2 boxes} = 6 \text{ packages/box} \times 2 \text{ boxes} = 12 \text{ packages}
+   \]
+
+2. **Calculate the total number of soaps in those packages:** 
+   Since each package contains 192 soaps, we can calculate the total number of soaps in 12 packages.
+   \[
+   \text{Total soaps} = 192 \text{ soaps/package} \times 12 \text{ packages} = 2304 \text{ soaps}
+   \]
+
+3. **Final total:** 
+   We have determined that the total number of soaps contained in the 2 boxes is 2304.
+
+Therefore, the total number of soaps in the 2 boxes is:
+</reasoning>
+<answer>2304</answer>

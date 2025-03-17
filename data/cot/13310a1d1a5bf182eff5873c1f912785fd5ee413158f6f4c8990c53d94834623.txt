@@ -1,0 +1,51 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Distance of Veronica's flashlight:**
+   We know from the problem that Veronica's flashlight can be seen from a distance of 1000 feet. 
+
+   \[
+   \text{Distance of Veronica's flashlight} = 1000 \text{ feet}
+   \]
+
+2. **Distance of Freddie's flashlight:**
+   The problem states that Freddie's flashlight can be seen at a distance three times farther than Veronica's flashlight. Therefore, we calculate Freddie's distance as follows:
+
+   \[
+   \text{Distance of Freddie's flashlight} = 3 \times \text{Distance of Veronica's flashlight}
+   \]
+   \[
+   \text{Distance of Freddie's flashlight} = 3 \times 1000 = 3000 \text{ feet}
+   \]
+
+3. **Distance of Velma's flashlight:**
+   The problem further states that Velma's flashlight could be seen at a distance 2000 feet less than 5 times farther than Freddie's flashlight. First, we calculate 5 times the distance of Freddie's flashlight:
+
+   \[
+   \text{Distance 5 times Freddie's flashlight} = 5 \times \text{Distance of Freddie's flashlight}
+   \]
+   \[
+   \text{Distance 5 times Freddie's flashlight} = 5 \times 3000 = 15000 \text{ feet}
+   \]
+
+   Now, we subtract 2000 feet from this distance to find the distance of Velma's flashlight:
+
+   \[
+   \text{Distance of Velma's flashlight} = 15000 - 2000 = 13000 \text{ feet}
+   \]
+
+4. **Calculating how much farther Velma's flashlight can be seen compared to Veronica's:**
+   Now that we have the distances for both flashlights, we need to find the difference between Velma's and Veronica's distances:
+
+   \[
+   \text{Difference} = \text{Distance of Velma's flashlight} - \text{Distance of Veronica's flashlight}
+   \]
+   \[
+   \text{Difference} = 13000 - 1000 = 12000 \text{ feet}
+   \]
+
+Finally, we conclude:
+
+Therefore, Velma's flashlight can be seen 12000 feet farther than Veronica's flashlight.
+</reasoning>
+<answer>12000</answer>

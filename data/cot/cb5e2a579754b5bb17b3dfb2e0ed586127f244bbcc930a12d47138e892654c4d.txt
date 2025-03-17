@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to determine how many pounds of laundry Jon has and how many loads it will take to wash that weight using his laundry machine.
+
+1. **Calculate the total weight of the shirts**: 
+   - We know that 4 shirts weigh 1 pound. 
+   - Therefore, to find the weight of 20 shirts, we first calculate how many groups of 4 shirts are in 20 shirts. 
+   - This can be done by dividing 20 by 4:
+     \[
+     \frac{20 \text{ shirts}}{4 \text{ shirts/pound}} = 5 \text{ pounds}
+     \]
+   - So, 20 shirts weigh 5 pounds.
+
+2. **Calculate the total weight of the pants**:
+   - We know that 2 pairs of pants weigh 1 pound.
+   - Therefore, to find the weight of 20 pairs of pants, we first calculate how many groups of 2 pairs of pants are in 20 pairs. 
+   - This can be done by dividing 20 by 2:
+     \[
+     \frac{20 \text{ pants}}{2 \text{ pants/pound}} = 10 \text{ pounds}
+     \]
+   - So, 20 pairs of pants weigh 10 pounds.
+
+3. **Calculate the total weight of the laundry**:
+   - Now we add the weight of the shirts and the pants together:
+     \[
+     5 \text{ pounds (shirts)} + 10 \text{ pounds (pants)} = 15 \text{ pounds}
+     \]
+   - Thus, Jon has 15 pounds of laundry to wash.
+
+4. **Determine the number of loads needed**:
+   - Jon's laundry machine can handle 5 pounds at a time.
+   - To find out how many loads he needs, we divide the total weight of the laundry by the machine's capacity:
+     \[
+     \frac{15 \text{ pounds}}{5 \text{ pounds/load}} = 3 \text{ loads}
+     \]
+
+Therefore, Jon needs to do 3 loads of laundry to wash all of his shirts and pants.
+</reasoning>
+<answer>3</answer>

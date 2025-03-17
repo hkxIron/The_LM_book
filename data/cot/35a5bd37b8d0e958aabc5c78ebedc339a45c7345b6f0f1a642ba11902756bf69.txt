@@ -1,0 +1,39 @@
+<reasoning>
+To determine how much the school needs to raise on the final day to reach their goal of $750, we first need to calculate how much money they have already collected from the families that have donated.
+
+1. **Calculate contributions from Bronze Status families**: 
+   There are 10 Bronze Status families, and each donated $25. 
+   So, the total contribution from Bronze families is:
+   \[
+   10 \times 25 = 250
+   \]
+
+2. **Calculate contributions from Silver Status families**: 
+   There are 7 Silver Status families, and each donated $50.
+   So, the total contribution from Silver families is:
+   \[
+   7 \times 50 = 350
+   \]
+
+3. **Calculate contributions from Gold Status families**: 
+   There is 1 Gold Status family, and they donated $100.
+   So, the total contribution from Gold families is:
+   \[
+   1 \times 100 = 100
+   \]
+
+4. **Calculate the total amount collected so far**: 
+   Now, we add up all the contributions:
+   \[
+   250 + 350 + 100 = 700
+   \]
+
+5. **Determine how much more money is needed**: 
+   The school’s goal is $750. So, we subtract the amount collected from the goal:
+   \[
+   750 - 700 = 50
+   \]
+
+Therefore, the school needs to raise $50 on the final day to reach their goal.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down Flynn's TV watching habits step by step.
+
+1. **Calculate weekday viewing time**: 
+   Flynn watches 30 minutes of TV each weeknight. Since there are 5 weekdays, we multiply the daily viewing time by the number of weekdays:
+   \[
+   30 \text{ minutes/day} \times 5 \text{ days/week} = 150 \text{ minutes/week}
+   \]
+
+2. **Convert weekday viewing time to hours**: 
+   To convert minutes to hours, we divide by 60 (since there are 60 minutes in an hour):
+   \[
+   150 \text{ minutes/week} \div 60 = 2.5 \text{ hours/week}
+   \]
+
+3. **Calculate weekend viewing time**: 
+   On the weekends, Flynn watches an additional 2 hours of TV. Since this is a total for both Saturday and Sunday, we keep it as is:
+   \[
+   \text{Weekend viewing} = 2 \text{ hours/week}
+   \]
+
+4. **Calculate total weekly viewing time**: 
+   Now, we can find the total viewing time per week by adding the weekday and weekend viewing times together:
+   \[
+   2.5 \text{ hours/week (weekdays)} + 2 \text{ hours/week (weekends)} = 4.5 \text{ hours/week}
+   \]
+
+5. **Calculate total viewing time for 52 weeks**: 
+   To find the total amount of TV watched in a year (52 weeks), we multiply the weekly total by 52:
+   \[
+   4.5 \text{ hours/week} \times 52 \text{ weeks} = 234 \text{ hours/year}
+   \]
+
+Therefore, Flynn watches a total of 234 hours of TV in 52 weeks.
+</reasoning>
+<answer>234</answer>

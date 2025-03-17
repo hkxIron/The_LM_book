@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much Ivan paid in total for the Uno Giant Family Cards, we will follow these steps:
+
+1. **Determine the cost of one card without the discount:**  
+   The price of one Uno Giant Family Card is given as $12.
+
+2. **Calculate the total cost for ten cards without the discount:**  
+   To find the cost of buying ten cards without any discount, we multiply the price of one card by the number of cards:
+   \[
+   \text{Total cost without discount} = 10 \times 12 = 120
+   \]
+   This means if Ivan bought ten cards without any discount, he would pay $120.
+
+3. **Calculate the discount per card:**  
+   Ivan received a discount of $2 on each card. 
+
+4. **Calculate the total discount for ten cards:**  
+   To find the total discount Ivan received when buying ten cards, we multiply the discount per card by the number of cards:
+   \[
+   \text{Total discount} = 10 \times 2 = 20
+   \]
+   Therefore, the total discount Ivan received is $20.
+
+5. **Calculate the final amount Ivan paid:**  
+   Now, we subtract the total discount from the total cost without the discount:
+   \[
+   \text{Final amount paid} = \text{Total cost without discount} - \text{Total discount}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Final amount paid} = 120 - 20 = 100
+   \]
+
+Thus, Ivan paid a total of $100 for the ten Uno Giant Family Cards.
+</reasoning>
+<answer>100</answer>

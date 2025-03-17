@@ -1,0 +1,25 @@
+<reasoning>
+First, let's determine the total amount of money that Gail has from the bills we know about.
+
+1. **Calculate the total amount from the $5 bills:**
+   - Gail has 4 bills of $5 each.
+   - So, the total from $5 bills = 4 * $5 = $20.
+
+2. **Calculate the total amount from the $20 bills:**
+   - Gail has 3 bills of $20 each.
+   - So, the total from $20 bills = 3 * $20 = $60.
+
+3. **Now, let's add the amounts from the $5 and $20 bills:**
+   - Total amount from $5 and $20 bills = $20 (from $5 bills) + $60 (from $20 bills) = $80.
+
+4. **Determine how much money is left for the $10 bills:**
+   - Gail has a total of $100.
+   - The amount left for $10 bills = Total amount - Amount from $5 and $20 bills = $100 - $80 = $20.
+
+5. **Calculate the number of $10 bills:**
+   - Each $10 bill is worth $10, so to find the number of $10 bills, we divide the remaining amount by the value of one $10 bill.
+   - Number of $10 bills = Amount left for $10 bills / Value of one $10 bill = $20 / $10 = 2.
+
+Therefore, Gail has 2 $10 bills in her wallet.
+</reasoning>
+<answer>2</answer>

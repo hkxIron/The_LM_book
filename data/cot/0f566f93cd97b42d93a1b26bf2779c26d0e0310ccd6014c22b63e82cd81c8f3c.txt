@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the original amount of money Sid has**: Sid starts with $48.
+
+2. **Identify the amount spent on snacks**: Sid spends $8 on snacks.
+
+3. **Determine how much money Sid has left after buying snacks**: 
+   - Initially, he has $48.
+   - After spending $8 on snacks, the amount left is:
+     \[
+     48 - 8 = 40
+     \]
+
+4. **Understand the condition about the remaining money**: The problem states that after his purchases, Sid has $4 more than half of his original money left. 
+   - Half of his original money ($48) is:
+     \[
+     \frac{48}{2} = 24
+     \]
+   - Therefore, $4 more than half of his original money is:
+     \[
+     24 + 4 = 28
+     \]
+
+5. **Set up the equation for the total amount left**: 
+   - We know that after spending on snacks and computer accessories, Sid has $28 left. 
+   - Let \( x \) be the amount spent on computer accessories. Therefore, the equation representing the total money left is:
+     \[
+     40 - x = 28
+     \]
+
+6. **Solve the equation for \( x \)**:
+   - To find \( x \), we can rearrange the equation:
+     \[
+     40 - 28 = x
+     \]
+     \[
+     x = 12
+     \]
+
+7. **Conclusion**: Sid spent $12 on computer accessories.
+
+Therefore, the amount Sid spent on computer accessories is:
+</reasoning>
+<answer>12</answer>

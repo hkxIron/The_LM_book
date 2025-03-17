@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of bricks in the wall after Joe and Adam made their modifications, we can follow these steps:
+
+1. **Calculate the number of bricks before adding the courses**:  
+   They initially built a wall with 3 courses, and each course contains 400 bricks. 
+   \[
+   \text{Bricks in 3 courses} = 3 \times 400 = 1200 \text{ bricks}
+   \]
+
+2. **Calculate the number of bricks after adding 2 more courses**:  
+   They then added 2 more courses, so now there are a total of \(3 + 2 = 5\) courses.
+   \[
+   \text{Bricks in 5 courses} = 5 \times 400 = 2000 \text{ bricks}
+   \]
+
+3. **Adjust for the removal of half the bricks in the last course**:  
+   The last course of bricks contains 400 bricks, and they took out half of these bricks. Therefore, the number of bricks removed is:
+   \[
+   \text{Bricks removed} = \frac{400}{2} = 200 \text{ bricks}
+   \]
+   Now, we need to subtract these bricks from the total number of bricks:
+   \[
+   \text{Total bricks after removal} = 2000 - 200 = 1800 \text{ bricks}
+   \]
+
+Thus, the total number of bricks the wall has after all modifications is 1800.
+</reasoning>
+<answer>1800</answer>

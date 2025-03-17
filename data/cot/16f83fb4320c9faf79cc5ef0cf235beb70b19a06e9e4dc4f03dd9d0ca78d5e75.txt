@@ -1,0 +1,18 @@
+<reasoning>
+Let's break down the problem step by step.
+
+First, we know that Mark has 10 yellow flowers. 
+
+According to the problem, there are 80% more purple flowers than yellow flowers. To find out the number of purple flowers, we calculate 80% of the number of yellow flowers and add it to the number of yellow flowers. 
+
+80% of 10 is 8 (0.8 * 10 = 8), so Mark has 10 (yellow) + 8 (additional purple) = 18 purple flowers.
+
+So far, Mark has 10 yellow flowers and 18 purple flowers, that is 10 + 18 = 28 flowers.
+
+Now, the problem also states that there are only 25% as many green flowers as there are yellow and purple flowers. To find out the number of green flowers, we calculate 25% of the total number of yellow and purple flowers.
+
+25% of 28 is 7 (0.25 * 28 = 7), so Mark has 7 green flowers.
+
+So, the total number of flowers that Mark has in his garden is the sum of yellow, purple, and green flowers, that is 10 + 18 + 7.
+</reasoning>
+<answer>35</answer>

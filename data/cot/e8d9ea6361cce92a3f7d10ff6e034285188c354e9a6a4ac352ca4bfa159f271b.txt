@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of slices needed for her friends.**
+   Amber has invited 8 friends, and each friend wants 2 slices of cake. Therefore, the total number of slices needed is:
+   \[
+   \text{Total slices needed} = \text{Number of friends} \times \text{Slices per friend} = 8 \times 2 = 16 \text{ slices}
+   \]
+
+2. **Calculate the total number of slices produced by the cakes Amber bakes.**
+   Each cake makes 6 slices. If Amber bakes 4 cakes, the total number of slices she will have is:
+   \[
+   \text{Total slices baked} = \text{Number of cakes} \times \text{Slices per cake} = 4 \times 6 = 24 \text{ slices}
+   \]
+
+3. **Determine how many slices Amber will eat.**
+   According to the problem, Amber will eat 3 slices herself.
+
+4. **Calculate the number of slices left after Amber eats her share.**
+   After Amber eats 3 slices, the remaining number of slices will be:
+   \[
+   \text{Remaining slices} = \text{Total slices baked} - \text{Slices eaten by Amber} = 24 - 3 = 21 \text{ slices}
+   \]
+
+5. **Calculate how many slices are left over after serving her friends.**
+   Now, we subtract the total number of slices needed for her friends from the remaining slices:
+   \[
+   \text{Slices left over} = \text{Remaining slices} - \text{Total slices needed} = 21 - 16 = 5 \text{ slices}
+   \]
+
+Thus, after serving her friends and considering how many she ate, Amber will have 5 slices left over.
+</reasoning>
+<answer>5</answer>

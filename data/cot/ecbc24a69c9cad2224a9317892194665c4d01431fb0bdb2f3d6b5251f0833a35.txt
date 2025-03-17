@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the number of marbles Archie started with as \( x \).
+
+1. **Calculate the number of marbles lost in the street:**
+   - Archie loses 60% of his marbles. This means he retains 40% of them.
+   - The number of marbles left after losing 60% is:
+     \[
+     \text{Marbles left after street} = 0.4x
+     \]
+
+2. **Calculate the number of marbles lost down the sewer:**
+   - Of the remaining marbles, he loses half down the sewer. This means he retains half of the 40% that he had after losing the first 60%. 
+   - The number of marbles left after losing half of the remaining marbles is:
+     \[
+     \text{Marbles left after sewer} = 0.5 \times 0.4x = 0.2x
+     \]
+
+3. **Set up the equation based on the information given:**
+   - We know that after all these losses, Archie has 20 marbles left:
+     \[
+     0.2x = 20
+     \]
+
+4. **Solve for \( x \):**
+   - To find \( x \), we will divide both sides of the equation by 0.2:
+     \[
+     x = \frac{20}{0.2}
+     \]
+   - Calculating the right side:
+     \[
+     x = 100
+     \]
+
+Therefore, Archie started with 100 marbles.
+</reasoning>
+<answer>100</answer>

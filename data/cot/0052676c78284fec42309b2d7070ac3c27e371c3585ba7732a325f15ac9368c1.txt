@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of students Adam teaches each year:**
+   - In the first year, Adam teaches 40 students.
+   - For the following years (2nd to 10th), he teaches 50 students each year.
+
+2. **Calculate the number of students taught in the first year:**
+   - First year = 40 students.
+
+3. **Calculate the total number of students taught in the subsequent years (2nd to 10th):**
+   - There are 9 more years (from year 2 to year 10).
+   - Each of these years, Adam teaches 50 students.
+   - So, for these 9 years: 
+     \[
+     9 \text{ years} \times 50 \text{ students/year} = 450 \text{ students}
+     \]
+
+4. **Add the students taught in the first year to the total from the subsequent years:**
+   - Total students taught over 10 years:
+     \[
+     40 \text{ (first year)} + 450 \text{ (next 9 years)} = 490 \text{ students}
+     \]
+
+Therefore, after calculating the total number of students Adam will teach over the 10 years, we find:
+</reasoning>
+<answer>490</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+Let's start by identifying the ages of Mr. Bernard and Luke.
+
+1. We know Luke's current age is 20 years. 
+2. In eight years, Luke will be 20 + 8 = 28 years old.
+
+Next, we need to determine Mr. Bernard's age in eight years. The problem states that in eight years, Mr. Bernard will be 3 times as old as Luke is now. 
+
+3. Since Luke's current age is 20, we calculate Mr. Bernard's age in eight years as follows:
+   - Mr. Bernard's age in 8 years = 3 * Luke's current age
+   - Mr. Bernard's age in 8 years = 3 * 20 = 60 years
+
+Now, we can find Mr. Bernard's current age:
+
+4. To find Mr. Bernard's current age, we subtract 8 from his age in eight years:
+   - Mr. Bernard's current age = 60 - 8 = 52 years
+
+Now we have both their current ages:
+- Luke is currently 20 years old.
+- Mr. Bernard is currently 52 years old.
+
+Next, we need to find their average age.
+
+5. The average age is calculated by adding their ages together and dividing by 2:
+   - Average age = (Luke's current age + Mr. Bernard's current age) / 2
+   - Average age = (20 + 52) / 2
+   - Average age = 72 / 2 = 36 years
+
+Finally, we need to find 10 years less than their average age:
+
+6. To find 10 years less than their average age, we subtract 10 from the average:
+   - 10 years less than average age = Average age - 10
+   - 10 years less than average age = 36 - 10 = 26 years
+
+Therefore, the answer to the problem is:
+</reasoning>
+<answer>26</answer>

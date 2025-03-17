@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Amount**: Lily starts with $55 in her account.
+   
+2. **Spending on Shirt**: She spends $7 on a shirt. To find out how much money she has left after this purchase, we subtract the amount spent on the shirt from her initial amount:
+   \[
+   55 - 7 = 48
+   \]
+   After buying the shirt, Lily has $48 left in her account.
+
+3. **Spending on Another Item**: Next, she spends thrice the amount she spent on the shirt. Since she spent $7 on the shirt, we calculate thrice that amount:
+   \[
+   3 \times 7 = 21
+   \]
+   So, she spent $21 at the second shop.
+
+4. **Final Amount**: Now, we need to subtract this new expenditure from the amount she had left after buying the shirt:
+   \[
+   48 - 21 = 27
+   \]
+   Therefore, after all her purchases, Lily has $27 left in her account.
+
+Putting it all together, the calculations show that Lily had $55, spent $7 on a shirt, then spent $21 in another shop, leaving her with $27.
+</reasoning>
+<answer>27</answer>

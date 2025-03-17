@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many balloons Janeth has left after blowing up the balloons, we will follow these steps:
+
+1. **Calculate the total number of round balloons:**
+   Janeth bought 5 bags of round balloons, and each bag contains 20 balloons. So, we can calculate the total number of round balloons by multiplying the number of bags by the number of balloons in each bag:
+   \[
+   \text{Total round balloons} = 5 \text{ bags} \times 20 \text{ balloons/bag} = 100 \text{ round balloons}
+   \]
+
+2. **Calculate the total number of long balloons:**
+   Janeth also bought 4 bags of long balloons, with each bag containing 30 balloons. Similarly, we calculate the total number of long balloons:
+   \[
+   \text{Total long balloons} = 4 \text{ bags} \times 30 \text{ balloons/bag} = 120 \text{ long balloons}
+   \]
+
+3. **Calculate the total number of balloons before any burst:**
+   Now we add the total number of round balloons to the total number of long balloons to find the total number of balloons before any burst:
+   \[
+   \text{Total balloons} = 100 \text{ round balloons} + 120 \text{ long balloons} = 220 \text{ balloons}
+   \]
+
+4. **Account for the bursting of the balloons:**
+   We know that 5 round balloons burst while blowing them up. To find out how many balloons are left, we subtract the number of burst balloons from the total number of balloons:
+   \[
+   \text{Balloons left} = 220 \text{ balloons} - 5 \text{ burst balloons} = 215 \text{ balloons}
+   \]
+
+Therefore, after calculating all steps, the number of balloons left is:
+</reasoning>
+<answer>215</answer>

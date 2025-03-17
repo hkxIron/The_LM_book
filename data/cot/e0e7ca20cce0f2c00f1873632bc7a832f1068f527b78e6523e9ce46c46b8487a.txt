@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the depth of the river in mid-May.**
+   - The problem states that in mid-May, the river is 5 feet deep.
+   - So, we have:
+     \[
+     \text{Depth in mid-May} = 5 \text{ feet}
+     \]
+
+2. **Calculate the depth of the river in mid-June.**
+   - It is given that by mid-June, the river is 10 feet deeper than it was in mid-May.
+   - Therefore, we calculate the depth in mid-June as follows:
+     \[
+     \text{Depth in mid-June} = \text{Depth in mid-May} + 10 \text{ feet} = 5 \text{ feet} + 10 \text{ feet} = 15 \text{ feet}
+     \]
+
+3. **Calculate the depth of the river in mid-July.**
+   - By mid-July, the river is three times deeper than it was in mid-June.
+   - Thus, we calculate the depth in mid-July:
+     \[
+     \text{Depth in mid-July} = 3 \times \text{Depth in mid-June} = 3 \times 15 \text{ feet} = 45 \text{ feet}
+     \]
+
+Putting all these steps together, the depth of the river by mid-July is 45 feet.
+</reasoning>
+<answer>45</answer>

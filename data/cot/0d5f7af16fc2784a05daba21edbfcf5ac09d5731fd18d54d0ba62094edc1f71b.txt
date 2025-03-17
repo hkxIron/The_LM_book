@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to establish the relationships between the speeds of Pete, Susan, and Tracy based on the information given.
+
+1. **Identify Pete's walking speed on his hands**: We are told that Pete walks on his hands at a speed of 2 miles per hour.
+
+2. **Determine Tracy's speed**: The problem states that Pete walks on his hands at one quarter the speed that Tracy does cartwheels. If Pete's speed on his hands is 2 miles per hour, we can express Tracy's speed as follows:
+   \[
+   \text{Tracy's speed} = 4 \times \text{Pete's speed on hands} = 4 \times 2 = 8 \text{ miles per hour}
+   \]
+
+3. **Find Susan's speed**: The problem states that Tracy does one-handed cartwheels twice as fast as Susan walks forward. Thus, we can express Susan's speed in terms of Tracy's speed:
+   \[
+   \text{Susan's speed} = \frac{1}{2} \times \text{Tracy's speed} = \frac{1}{2} \times 8 = 4 \text{ miles per hour}
+   \]
+
+4. **Calculate Pete's backward walking speed**: We are given that Pete walks backwards three times faster than Susan walks forwards. Hence, we can find Pete's backward walking speed using Susan's speed:
+   \[
+   \text{Pete's backward speed} = 3 \times \text{Susan's speed} = 3 \times 4 = 12 \text{ miles per hour}
+   \]
+
+Now that we have calculated Pete's backward walking speed, we can summarize:
+
+- Pete walks on his hands at 2 miles per hour.
+- Tracy walks at 8 miles per hour.
+- Susan walks at 4 miles per hour.
+- Pete walks backwards at 12 miles per hour.
+
+Therefore, the final answer for how fast Pete can walk backwards is:
+</reasoning>
+<answer>12</answer>

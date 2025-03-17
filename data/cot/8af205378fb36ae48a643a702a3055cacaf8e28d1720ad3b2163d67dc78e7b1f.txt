@@ -1,0 +1,36 @@
+<reasoning>
+To solve how many trading cards Jim gave away, we need to first calculate the total number of sets he gave away and then multiply that by the number of cards in each set.
+
+1. **Calculate the total number of sets given away:**
+   - Jim gives away 8 sets to his brother.
+   - He gives away 5 sets to his sister.
+   - He gives away 2 sets to his friend.
+
+   Now, we add these amounts together:
+
+   \[
+   \text{Total sets} = 8 + 5 + 2 = 15
+   \]
+
+   Here, we are adding the number of sets given to each person to find the total sets.
+
+2. **Calculate the total number of cards given away:**
+   - We know that each set contains 13 trading cards. 
+   - To find out how many cards Jim gave away in total, we multiply the total number of sets by the number of cards in each set:
+
+   \[
+   \text{Total cards given away} = \text{Total sets} \times \text{Cards per set} = 15 \times 13
+   \]
+
+   Now, we perform the multiplication:
+
+   \[
+   15 \times 13 = 195
+   \]
+
+3. **Final calculation:**
+   - Now we know that Jim gave away a total of 195 trading cards.
+
+Therefore, Jim gave away a total of 195 trading cards.
+</reasoning>
+<answer>195</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+To find out how many calories Zoe ate, we need to calculate the total calories from the strawberries and the yogurt separately, and then sum them together.
+
+1. **Calculating calories from strawberries:**
+   - Zoe ate 12 strawberries, and each strawberry has 4 calories.
+   - To find the total calories from strawberries, we multiply the number of strawberries by the calories per strawberry:
+     \[
+     \text{Calories from strawberries} = 12 \text{ strawberries} \times 4 \text{ calories/strawberry}
+     \]
+     \[
+     \text{Calories from strawberries} = 48 \text{ calories}
+     \]
+   This calculation shows how we determine the total calorie intake from the strawberries.
+
+2. **Calculating calories from yogurt:**
+   - Zoe ate 6 ounces of yogurt, and each ounce of yogurt has 17 calories.
+   - To find the total calories from yogurt, we multiply the number of ounces by the calories per ounce:
+     \[
+     \text{Calories from yogurt} = 6 \text{ ounces} \times 17 \text{ calories/ounce}
+     \]
+     \[
+     \text{Calories from yogurt} = 102 \text{ calories}
+     \]
+   This step calculates the calorie intake from the yogurt.
+
+3. **Total calories consumed:**
+   - Now, we add the calories from the strawberries and the yogurt to find out the total calories Zoe consumed:
+     \[
+     \text{Total calories} = \text{Calories from strawberries} + \text{Calories from yogurt}
+     \]
+     \[
+     \text{Total calories} = 48 \text{ calories} + 102 \text{ calories}
+     \]
+     \[
+     \text{Total calories} = 150 \text{ calories}
+     \]
+   This final calculation gives us the total calorie intake.
+
+Therefore, after calculating the calories from both components of Zoe's snack, we find that she consumed a total of 150 calories.
+</reasoning>
+<answer>150</answer>

@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much money Janice makes for working 60 hours in a week, we need to break down her work hours into regular and overtime hours.
+
+1. **Identify Regular and Overtime Hours**:
+   - Janice is paid $10 per hour for the first 40 hours.
+   - Any hours worked beyond 40 hours are considered overtime and are paid at $15 per hour.
+   - In this case, Janice works 60 hours total.
+
+2. **Calculate Regular Hours**:
+   - The first 40 hours are regular hours.
+   - Therefore, her regular hours = 40 hours.
+
+3. **Calculate Overtime Hours**:
+   - Overtime hours = Total hours worked - Regular hours
+   - Overtime hours = 60 hours - 40 hours = 20 hours.
+
+4. **Calculate Earnings from Regular Hours**:
+   - For the first 40 hours, Janice earns:
+   \[
+   \text{Regular Earnings} = \text{Regular Hours} \times \text{Rate for Regular Hours}
+   \]
+   \[
+   \text{Regular Earnings} = 40 \text{ hours} \times 10 \text{ dollars/hour} = 400 \text{ dollars}
+   \]
+
+5. **Calculate Earnings from Overtime Hours**:
+   - For the 20 overtime hours, Janice earns:
+   \[
+   \text{Overtime Earnings} = \text{Overtime Hours} \times \text{Rate for Overtime Hours}
+   \]
+   \[
+   \text{Overtime Earnings} = 20 \text{ hours} \times 15 \text{ dollars/hour} = 300 \text{ dollars}
+   \]
+
+6. **Calculate Total Earnings**:
+   - Now we add both the regular earnings and the overtime earnings to find her total pay for the week:
+   \[
+   \text{Total Earnings} = \text{Regular Earnings} + \text{Overtime Earnings}
+   \]
+   \[
+   \text{Total Earnings} = 400 \text{ dollars} + 300 \text{ dollars} = 700 \text{ dollars}
+   \]
+
+Therefore, Janice makes a total of $700 for working 60 hours that week.
+</reasoning>
+<answer>700</answer>

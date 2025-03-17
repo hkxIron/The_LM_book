@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we first need to determine how many books Flo wrote. We're given that Zig wrote four times as many books as Flo.
+
+1. Let's denote the number of books Flo wrote as \( F \).
+2. According to the problem, Zig wrote 4 times the number of books Flo wrote, which can be expressed as:
+   \[
+   Z = 4F
+   \]
+   where \( Z \) is the number of books Zig wrote.
+
+3. We know from the problem statement that Zig wrote 60 books. Therefore, we can set up the equation:
+   \[
+   60 = 4F
+   \]
+
+4. To find \( F \), we need to solve for \( F \) by dividing both sides of the equation by 4:
+   \[
+   F = \frac{60}{4}
+   \]
+
+5. Now, calculating the right side gives us:
+   \[
+   F = 15
+   \]
+   This means Flo wrote 15 books.
+
+6. Next, we need to find the total number of books written by both Zig and Flo. We add the number of books written by each:
+   \[
+   \text{Total} = Z + F = 60 + 15
+   \]
+
+7. Performing the addition:
+   \[
+   \text{Total} = 75
+   \]
+
+Therefore, the total number of books written by Zig and Flo together is 75.
+</reasoning>
+<answer>75</answer>

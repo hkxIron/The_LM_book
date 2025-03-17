@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we need to determine how many calories are in the entire package of candy first and then calculate how many calories John consumed when he ate half the package.
+
+1. **Calculate the total calories in the package:**
+   - The package has 3 servings, and each serving contains 120 calories.
+   - To find the total calories, we multiply the number of servings by the calories per serving:
+     \[
+     \text{Total calories} = \text{Number of servings} \times \text{Calories per serving} = 3 \times 120
+     \]
+   - Performing the multiplication:
+     \[
+     3 \times 120 = 360
+     \]
+   - So, the total calories in the entire package is 360 calories.
+
+2. **Determine how many calories John eats:**
+   - John eats half of the package. To find out how many calories that is, we can divide the total calories by 2:
+     \[
+     \text{Calories eaten by John} = \frac{\text{Total calories}}{2} = \frac{360}{2}
+     \]
+   - Performing the division:
+     \[
+     \frac{360}{2} = 180
+     \]
+   - Therefore, John consumed 180 calories.
+
+By following these steps, we’ve calculated the total calories in the package and how many calories John ate.
+</reasoning>
+<answer>180</answer>

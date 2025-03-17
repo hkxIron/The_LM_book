@@ -1,0 +1,49 @@
+<reasoning>
+Let's denote the number of dresses Ana has as \( x \). According to the problem, Lisa has 18 more dresses than Ana, which we can express as \( x + 18 \).
+
+Now, we can set up an equation to represent the total number of dresses they have together. The equation will be:
+
+\[
+x + (x + 18) = 48
+\]
+
+This equation states that the number of dresses Ana has plus the number of dresses Lisa has equals the total number of dresses, which is 48.
+
+Next, let's simplify the equation:
+
+1. Combine like terms:
+   \[
+   x + x + 18 = 48
+   \]
+   This simplifies to:
+   \[
+   2x + 18 = 48
+   \]
+
+2. Now, we need to isolate \( 2x \) by subtracting 18 from both sides:
+   \[
+   2x + 18 - 18 = 48 - 18
+   \]
+   This gives us:
+   \[
+   2x = 30
+   \]
+
+3. Next, we divide both sides by 2 to solve for \( x \):
+   \[
+   x = \frac{30}{2}
+   \]
+   This results in:
+   \[
+   x = 15
+   \]
+
+Now, we have found that Ana has 15 dresses. 
+
+To confirm, we can check how many dresses Lisa has:
+- Lisa's number of dresses is \( x + 18 = 15 + 18 = 33 \).
+- Together, they have \( 15 + 33 = 48 \), which matches the information given in the problem.
+
+Therefore, Ana has:
+</reasoning>
+<answer>15</answer>

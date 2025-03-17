@@ -1,0 +1,31 @@
+<reasoning>
+To find the total number of books that Darla, Katie, and Gary have, we will break the problem down step by step.
+
+1. **Determine the number of books Katie has.**
+   - We know that Darla has 6 books.
+   - Katie has half as many books as Darla. So, we calculate:
+     \[
+     \text{Katie's books} = \frac{1}{2} \times \text{Darla's books} = \frac{1}{2} \times 6 = 3
+     \]
+
+2. **Calculate the total number of books that Darla and Katie have combined.**
+   - Now, we will add the number of books Darla has to the number of books Katie has:
+     \[
+     \text{Total books of Darla and Katie} = \text{Darla's books} + \text{Katie's books} = 6 + 3 = 9
+     \]
+
+3. **Determine the number of books Gary has.**
+   - Gary has 5 times the number of books that Darla and Katie have combined. We found that together they have 9 books, so we calculate:
+     \[
+     \text{Gary's books} = 5 \times \text{Total books of Darla and Katie} = 5 \times 9 = 45
+     \]
+
+4. **Calculate the total number of books that all three have.**
+   - Finally, we need to sum the number of books each person has:
+     \[
+     \text{Total books} = \text{Darla's books} + \text{Katie's books} + \text{Gary's books} = 6 + 3 + 45 = 54
+     \]
+
+Therefore, the total number of books that Darla, Katie, and Gary have together is 54.
+</reasoning>
+<answer>54</answer>

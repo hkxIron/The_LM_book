@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many building blocks Jesse started with, we need to add up the number of building blocks he used for each structure and then add the number of blocks he has left.
+
+1. **Calculate the total number of building blocks used**:
+   - Jesse built a building with 80 blocks.
+   - He then built a farmhouse with 123 blocks.
+   - Lastly, he added a fenced-in area made of 57 blocks.
+
+   We will add these three amounts together:
+   \[
+   80 + 123 + 57
+   \]
+
+   First, let's add 80 and 123:
+   \[
+   80 + 123 = 203
+   \]
+   Now, add the result to 57:
+   \[
+   203 + 57 = 260
+   \]
+
+   So, Jesse used a total of 260 building blocks.
+
+2. **Add the building blocks he has left**:
+   - Jesse has 84 building blocks remaining.
+
+   To find out how many building blocks he started with, we add the total blocks used to the blocks left:
+   \[
+   260 + 84
+   \]
+   Now perform the addition:
+   \[
+   260 + 84 = 344
+   \]
+
+Thus, Jesse started with a total of 344 building blocks.
+</reasoning>
+<answer>344</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of medium ceiling lights**: We know from the problem that there are 12 medium ceiling lights.
+
+2. **Calculate the number of large ceiling lights**: According to the problem, there are twice as many large ceiling lights as medium ceiling lights. Since there are 12 medium ceiling lights, we can calculate the number of large ceiling lights as follows:
+   \[
+   \text{Number of large lights} = 2 \times \text{Number of medium lights} = 2 \times 12 = 24
+   \]
+
+3. **Calculate the number of small ceiling lights**: The problem states that there are ten more small lights than medium lights. Therefore, the number of small ceiling lights can be calculated as:
+   \[
+   \text{Number of small lights} = \text{Number of medium lights} + 10 = 12 + 10 = 22
+   \]
+
+4. **Determine the total number of bulbs needed for each type of light**:
+   - For the medium ceiling lights (each requires 2 bulbs):
+     \[
+     \text{Total bulbs for medium lights} = 12 \times 2 = 24
+     \]
+   - For the large ceiling lights (each requires 3 bulbs):
+     \[
+     \text{Total bulbs for large lights} = 24 \times 3 = 72
+     \]
+   - For the small ceiling lights (each requires 1 bulb):
+     \[
+     \text{Total bulbs for small lights} = 22 \times 1 = 22
+     \]
+
+5. **Calculate the total number of bulbs needed**: Now we sum all the bulbs needed for each type of light:
+   \[
+   \text{Total bulbs needed} = \text{Total bulbs for medium lights} + \text{Total bulbs for large lights} + \text{Total bulbs for small lights}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total bulbs needed} = 24 + 72 + 22 = 118
+   \]
+
+Therefore, the total number of bulbs I should buy is 118.
+</reasoning>
+<answer>118</answer>

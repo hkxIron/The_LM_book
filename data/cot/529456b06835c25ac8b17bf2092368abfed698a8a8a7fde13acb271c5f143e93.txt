@@ -1,0 +1,55 @@
+<reasoning>
+To solve this problem step by step, I will first calculate how much water the tank loses during the specified periods before the second attempt at repair and filling.
+
+1. **Calculate the initial water loss**:
+   The tank loses water for the first 5 hours at a rate of 32,000 gallons/hour.
+
+   \[
+   \text{Water lost in first 5 hours} = 32,000 \text{ gallons/hour} \times 5 \text{ hours} = 160,000 \text{ gallons}
+   \]
+
+2. **Determine the water left after the first loss**:
+   Initially, the tank is filled to its maximum capacity of 350,000 gallons. After losing 160,000 gallons, we subtract this amount from the total.
+
+   \[
+   \text{Water left} = 350,000 \text{ gallons} - 160,000 \text{ gallons} = 190,000 \text{ gallons}
+   \]
+
+3. **Calculate the water loss during the second period**:
+   After the repair, the tank loses water at a rate of 10,000 gallons/hour for 10 hours.
+
+   \[
+   \text{Water lost in next 10 hours} = 10,000 \text{ gallons/hour} \times 10 \text{ hours} = 100,000 \text{ gallons}
+   \]
+
+4. **Determine the water left after the second loss**:
+   Now, we subtract the additional 100,000 gallons lost from the remaining water.
+
+   \[
+   \text{Water left} = 190,000 \text{ gallons} - 100,000 \text{ gallons} = 90,000 \text{ gallons}
+   \]
+
+5. **Calculate the amount of water filled during the third period**:
+   After the second attempt at repair, the tank starts filling at 40,000 gallons/hour for 3 hours.
+
+   \[
+   \text{Water filled in 3 hours} = 40,000 \text{ gallons/hour} \times 3 \text{ hours} = 120,000 \text{ gallons}
+   \]
+
+6. **Determine the total water in the tank after filling**:
+   We add the water filled to the remaining water in the tank.
+
+   \[
+   \text{Total water in tank} = 90,000 \text{ gallons} + 120,000 \text{ gallons} = 210,000 \text{ gallons}
+   \]
+
+7. **Calculate the amount of water missing to reach maximum capacity**:
+   Finally, we need to find out how many gallons are missing to reach the maximum capacity of 350,000 gallons.
+
+   \[
+   \text{Water missing} = 350,000 \text{ gallons} - 210,000 \text{ gallons} = 140,000 \text{ gallons}
+   \]
+
+Thus, the tank needs an additional 140,000 gallons to be at maximum capacity again.
+</reasoning>
+<answer>140000</answer>

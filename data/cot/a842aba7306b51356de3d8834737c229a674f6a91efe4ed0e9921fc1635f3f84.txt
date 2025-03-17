@@ -1,0 +1,42 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the initial amount Opal won**: 
+   Opal won $100.00 from the horse race.
+
+2. **Calculate the amount she put into savings from her initial winnings**: 
+   She put half of her winnings into savings. 
+   \[
+   \text{Amount in savings from winnings} = \frac{100}{2} = 50
+   \]
+   So, Opal put $50.00 into savings from her initial winnings.
+
+3. **Calculate the amount she bet with the remaining winnings**: 
+   The other half of her winnings is also $50.00, which she used to make another bet.
+
+4. **Determine her profit from the second bet**: 
+   She made a 60% profit on the $50.00 she bet. To find the profit, we calculate 60% of $50.00:
+   \[
+   \text{Profit} = 0.60 \times 50 = 30
+   \]
+   Thus, her total earnings from this bet would be the original amount bet plus the profit:
+   \[
+   \text{Total earnings from second bet} = 50 + 30 = 80
+   \]
+
+5. **Calculate how much she put into savings this time**: 
+   Again, she puts half of her earnings from the second bet into savings:
+   \[
+   \text{Amount in savings from second earnings} = \frac{80}{2} = 40
+   \]
+   Therefore, she put $40.00 into savings from her second bet.
+
+6. **Calculate the total amount she put into savings**: 
+   Finally, we add the amounts she saved from both parts:
+   \[
+   \text{Total savings} = 50 + 40 = 90
+   \]
+
+Therefore, Opal put a total of $90.00 into her savings after both betting rounds.
+</reasoning>
+<answer>90</answer>

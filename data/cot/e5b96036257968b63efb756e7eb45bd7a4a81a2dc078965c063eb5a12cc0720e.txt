@@ -1,0 +1,31 @@
+<reasoning>
+Let's start solving the problem step by step.
+
+1. **Identify the number of tomatoes from the first plant.** 
+   - The first tomato plant bore 8 tomatoes.
+
+2. **Determine the number of tomatoes from the second plant.** 
+   - The second plant bore 4 more tomatoes than the first. 
+   - So, the second plant has: 
+     \( 8 + 4 = 12 \) tomatoes.
+
+3. **Calculate the total number of tomatoes from the first two plants.** 
+   - Now, we add the number of tomatoes from the first and second plants:
+     \( 8 + 12 = 20 \) tomatoes.
+
+4. **Determine the number of tomatoes from the remaining two plants.** 
+   - Each of the two remaining plants bore three times the number of tomatoes as the first two plants combined. 
+   - Therefore, the number of tomatoes each of these plants bore is:
+     \( 3 \times 20 = 60 \) tomatoes each.
+
+5. **Calculate the total number of tomatoes from the two remaining plants.** 
+   - Since there are two remaining plants, the total from these two plants is:
+     \( 60 \times 2 = 120 \) tomatoes.
+
+6. **Find the total number of tomatoes Mabel has.** 
+   - Finally, we sum the tomatoes from all four plants:
+     \( 20 + 120 = 140 \) tomatoes.
+
+Therefore, Mabel has a total of 140 tomatoes.
+</reasoning>
+<answer>140</answer>

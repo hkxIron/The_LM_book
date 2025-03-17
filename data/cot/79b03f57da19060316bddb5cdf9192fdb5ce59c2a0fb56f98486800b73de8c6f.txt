@@ -1,0 +1,45 @@
+<reasoning>
+To solve this problem, we need to define variables to represent the number of cats and dogs at the animal shelter.
+
+1. Let \( d \) represent the number of dogs.
+2. According to the problem, the number of cats is 20 more than the number of dogs. Therefore, we can express the number of cats as:
+   \[
+   c = d + 20
+   \]
+
+3. We know the total number of animals received by the shelter is 60. This gives us the equation:
+   \[
+   d + c = 60
+   \]
+
+4. Now, we can substitute the expression for \( c \) from the second equation into the first equation:
+   \[
+   d + (d + 20) = 60
+   \]
+
+5. Simplifying this equation:
+   \[
+   2d + 20 = 60
+   \]
+
+6. Next, we will isolate \( d \) by first subtracting 20 from both sides:
+   \[
+   2d = 60 - 20
+   \]
+   \[
+   2d = 40
+   \]
+
+7. Now, divide both sides by 2 to solve for \( d \):
+   \[
+   d = \frac{40}{2} = 20
+   \]
+
+8. With \( d \) now known, we can find the number of cats \( c \) using the equation for cats:
+   \[
+   c = d + 20 = 20 + 20 = 40
+   \]
+
+Thus, the shelter took in 40 cats.
+</reasoning>
+<answer>40</answer>

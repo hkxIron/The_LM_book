@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of limbs for one alien**:
+   - Each alien has 3 arms and 8 legs.
+   - To find the total number of limbs for one alien, we add the number of arms and legs:
+     \[
+     \text{Total limbs for one alien} = \text{arms} + \text{legs} = 3 + 8 = 11
+     \]
+
+2. **Calculate the number of limbs for five aliens**:
+   - Since one alien has 11 limbs, we multiply this by 5 to find the total for 5 aliens:
+     \[
+     \text{Total limbs for five aliens} = 5 \times 11 = 55
+     \]
+
+3. **Determine the number of limbs for one Martian**:
+   - Martians have half as many legs and twice as many arms as aliens.
+   - Therefore, Martians have:
+     - Arms: \(2 \times 3 = 6\) arms
+     - Legs: \(\frac{8}{2} = 4\) legs
+   - Now, we add the number of arms and legs for one Martian:
+     \[
+     \text{Total limbs for one Martian} = \text{arms} + \text{legs} = 6 + 4 = 10
+     \]
+
+4. **Calculate the number of limbs for five Martians**:
+   - Since one Martian has 10 limbs, we multiply this by 5 to find the total for 5 Martians:
+     \[
+     \text{Total limbs for five Martians} = 5 \times 10 = 50
+     \]
+
+5. **Find the difference in the number of limbs between five aliens and five Martians**:
+   - We subtract the total number of limbs for five Martians from the total for five aliens:
+     \[
+     \text{Difference} = \text{Total limbs for five aliens} - \text{Total limbs for five Martians} = 55 - 50 = 5
+     \]
+
+Thus, five aliens have 5 more limbs than five Martians.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Find the total number of candies**: We need to add the number of candies that Mark, Peter, and John have together.
+
+   - Mark has 30 candies.
+   - Peter has 25 candies.
+   - John has 35 candies.
+
+   Now, we add these amounts together:
+   \[
+   \text{Total candies} = 30 + 25 + 35
+   \]
+
+2. **Calculating the total**:
+   \[
+   30 + 25 = 55
+   \]
+   Then we add John’s candies:
+   \[
+   55 + 35 = 90
+   \]
+   So, the total number of candies is 90.
+
+3. **Share the total equally among the three**: Since they are sharing the candies equally, we need to divide the total number of candies by the number of people (which is 3).
+
+   \[
+   \text{Candies per person} = \frac{90}{3}
+   \]
+
+4. **Calculating the candies per person**:
+   \[
+   \frac{90}{3} = 30
+   \]
+
+Therefore, each of them will have 30 candies after sharing.
+</reasoning>
+<answer>30</answer>

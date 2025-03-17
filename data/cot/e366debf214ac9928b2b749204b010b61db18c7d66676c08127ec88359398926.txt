@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the number of turtles on Lonely Island as \( L \).
+
+According to the problem, we know that:
+- Happy Island has 60 turtles.
+- The number of turtles on Happy Island is 10 more than 2 times the number of turtles on Lonely Island.
+
+We can express this relationship with the following equation:
+\[
+60 = 2L + 10
+\]
+
+Now, let's solve for \( L \):
+1. **Subtract 10 from both sides** to isolate the term involving \( L \):
+   \[
+   60 - 10 = 2L
+   \]
+   This simplifies to:
+   \[
+   50 = 2L
+   \]
+
+2. **Divide both sides by 2** to solve for \( L \):
+   \[
+   L = \frac{50}{2}
+   \]
+   This simplifies to:
+   \[
+   L = 25
+   \]
+
+Thus, there are 25 turtles on Lonely Island.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>25</answer>

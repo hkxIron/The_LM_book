@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we need to determine how many blocks were left in the Jenga tower before Jess's turn in the sixth round.
+
+1. **Start with the total number of blocks**: The Jenga set has a total of 54 blocks.
+
+2. **Calculate the number of blocks removed in the first 5 rounds**: Each of the 5 players removes 1 block per round. Since there are 5 rounds, we can calculate the total number of blocks removed during these rounds:
+   \[
+   \text{Total blocks removed in 5 rounds} = 5 \text{ players} \times 5 \text{ rounds} = 25 \text{ blocks}
+   \]
+
+3. **Calculate the number of blocks remaining after 5 rounds**: We subtract the total number of blocks removed from the initial total:
+   \[
+   \text{Blocks remaining after 5 rounds} = 54 \text{ blocks} - 25 \text{ blocks} = 29 \text{ blocks}
+   \]
+
+4. **Consider the sixth round**: In the sixth round, Jess's father removes 1 block first. Therefore, we need to subtract this additional block from the remaining blocks:
+   \[
+   \text{Blocks remaining after Jess's father} = 29 \text{ blocks} - 1 \text{ block} = 28 \text{ blocks}
+   \]
+
+5. **Determine the number of blocks before Jess's turn**: Right before Jess's turn, there were 28 blocks left in the tower.
+
+Therefore, the number of blocks in the tower before Jess's turn was 28.
+</reasoning>
+<answer>28</answer>

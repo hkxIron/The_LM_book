@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down Ryan's commuting times for each method of transportation he uses in a week.
+
+1. **Biking**: 
+   - Ryan bikes **once a week** and it takes him **30 minutes**.
+   - Total biking time = 1 day × 30 minutes = **30 minutes**.
+
+2. **Bus**: 
+   - Ryan takes the bus **three times a week**. The bus takes **10 minutes longer** than biking.
+   - Biking time is 30 minutes, so the bus takes 30 + 10 = **40 minutes**.
+   - Total bus time = 3 days × 40 minutes = **120 minutes**.
+
+3. **Getting a ride from a friend**: 
+   - Ryan gets a ride from a friend **once a week**. The ride cuts two-thirds off his biking time.
+   - Biking time is 30 minutes, and two-thirds of that is (2/3) * 30 = 20 minutes. 
+   - Therefore, the time taken by his friend is 30 - 20 = **10 minutes**.
+   - Total ride time = 1 day × 10 minutes = **10 minutes**.
+
+Now, let's add up all the commuting times:
+
+- Total commuting time = Total biking time + Total bus time + Total ride time 
+- Total commuting time = 30 minutes (biking) + 120 minutes (bus) + 10 minutes (ride)
+- Total commuting time = 30 + 120 + 10 = **160 minutes**.
+
+Therefore, Ryan spends **160 minutes** every week commuting to work.
+</reasoning>
+<answer>160</answer>

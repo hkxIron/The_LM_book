@@ -1,0 +1,40 @@
+<reasoning>
+Let's denote the cost of a small puzzle as \( S \) and the cost of a large puzzle as \( L \). From the problem, we know the following:
+
+1. The cost of a large puzzle: 
+   \[
+   L = 15
+   \]
+
+2. The cost of a small puzzle and a large puzzle together:
+   \[
+   S + L = 23
+   \]
+
+Now, we can substitute the value of \( L \) into the second equation to find \( S \):
+\[
+S + 15 = 23
+\]
+
+Next, we will solve for \( S \) by subtracting 15 from both sides:
+\[
+S = 23 - 15
+\]
+\[
+S = 8
+\]
+
+Now we know that the cost of a small puzzle is \( S = 8 \) and the cost of a large puzzle is \( L = 15 \).
+
+Now, we need to find out the total cost for 1 large puzzle and 3 small puzzles. We can calculate this as follows:
+- The cost of 1 large puzzle is \( L = 15 \).
+- The cost of 3 small puzzles is \( 3 \times S = 3 \times 8 = 24 \).
+
+Next, we will add the costs together:
+\[
+\text{Total cost} = L + 3S = 15 + 24 = 39
+\]
+
+Therefore, the total amount we would pay for 1 large puzzle and 3 small puzzles is:
+</reasoning>
+<answer>39</answer>

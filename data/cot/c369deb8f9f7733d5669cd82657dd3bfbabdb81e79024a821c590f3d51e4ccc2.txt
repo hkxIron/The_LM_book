@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step to find out how many seeds are in bucket C.
+
+1. **Identify the number of seeds in bucket B**: 
+   The problem states that bucket B has 30 seeds. 
+   So, we can write:
+   - Seeds in bucket B = 30
+
+2. **Calculate the number of seeds in bucket A**: 
+   The problem also states that there are ten more seeds in bucket A than in bucket B. 
+   To find the number of seeds in bucket A, we can add 10 to the number of seeds in bucket B:
+   - Seeds in bucket A = Seeds in bucket B + 10
+   - Seeds in bucket A = 30 + 10 = 40
+
+3. **Find the total number of seeds in buckets A, B, and C**:
+   We know that the total number of seeds in all three buckets is 100. 
+   We can express this as:
+   - Total seeds = Seeds in bucket A + Seeds in bucket B + Seeds in bucket C
+   - 100 = 40 + 30 + Seeds in bucket C
+
+4. **Calculate the number of seeds in bucket C**:
+   Now, we can rearrange the equation to solve for the number of seeds in bucket C:
+   - Seeds in bucket C = Total seeds - (Seeds in bucket A + Seeds in bucket B)
+   - Seeds in bucket C = 100 - (40 + 30)
+   - Seeds in bucket C = 100 - 70 = 30
+
+Thus, the number of seeds in bucket C is 30.
+</reasoning>
+<answer>30</answer>

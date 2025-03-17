@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many points Olaf scored and then the total points they both scored, we'll follow these steps:
+
+1. **Determine how many points Olaf scored**: The problem states that Olaf scored three times more points than his dad. Since his dad scored 7 points, we need to calculate Olaf’s score by multiplying his dad's score by 3.
+
+   \[
+   \text{Olaf's score} = 3 \times \text{Dad's score} = 3 \times 7
+   \]
+
+   Calculating this gives us:
+
+   \[
+   \text{Olaf's score} = 21
+   \]
+
+2. **Calculate the total points scored by both**: Now that we have Olaf's score (21 points) and his dad's score (7 points), we can find the total score by adding both scores together.
+
+   \[
+   \text{Total score} = \text{Olaf's score} + \text{Dad's score} = 21 + 7
+   \]
+
+   Performing this addition gives us:
+
+   \[
+   \text{Total score} = 28
+   \]
+
+Therefore, by determining Olaf's score based on his dad's score and then summing their scores, we find the total points scored.
+</reasoning>
+<answer>28</answer>

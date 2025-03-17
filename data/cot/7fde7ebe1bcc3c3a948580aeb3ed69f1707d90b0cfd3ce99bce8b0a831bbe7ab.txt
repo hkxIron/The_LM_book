@@ -1,0 +1,48 @@
+<reasoning>
+To find the difference in price between the two stores after applying the discounts, we'll first calculate the discounted prices at each store.
+
+**Step 1: Calculate the discounted price at the first store.**
+The first store offers the computer for $950 with a 6% discount. We need to calculate the amount of the discount and then subtract it from the original price.
+
+1. Calculate the discount amount:
+   \[
+   \text{Discount Amount} = \text{Original Price} \times \text{Discount Rate}
+   \]
+   \[
+   \text{Discount Amount} = 950 \times 0.06 = 57
+   \]
+
+2. Subtract the discount from the original price to find the final price:
+   \[
+   \text{Final Price at Store 1} = \text{Original Price} - \text{Discount Amount}
+   \]
+   \[
+   \text{Final Price at Store 1} = 950 - 57 = 893
+   \]
+
+**Step 2: Calculate the discounted price at the second store.**
+The second store sells the computer for €920 with a 5% discount. We will follow the same process.
+
+1. Calculate the discount amount:
+   \[
+   \text{Discount Amount} = 920 \times 0.05 = 46
+   \]
+
+2. Subtract the discount from the original price to find the final price:
+   \[
+   \text{Final Price at Store 2} = 920 - 46 = 874
+   \]
+
+**Step 3: Calculate the difference between the two final prices.**
+Now we need to find the difference between the final prices at the two stores:
+
+\[
+\text{Difference} = \text{Final Price at Store 1} - \text{Final Price at Store 2}
+\]
+\[
+\text{Difference} = 893 - 874 = 19
+\]
+
+Thus, the difference in price between the two stores is $19.
+</reasoning>
+<answer>19</answer>

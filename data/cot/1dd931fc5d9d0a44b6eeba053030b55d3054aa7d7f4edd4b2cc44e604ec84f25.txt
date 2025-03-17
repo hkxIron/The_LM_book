@@ -1,0 +1,22 @@
+<reasoning>
+To determine how many people Maurice can invite to the cookout, we need to calculate the total amount of ground beef he has purchased and then figure out how many 2-pound burgers he can make from that.
+
+1. **Calculate the total weight of ground beef purchased:** 
+   Maurice buys 4 packages of ground beef, and each package weighs 5 pounds. 
+   - Total weight = Number of packages × Weight per package 
+   - Total weight = 4 packages × 5 pounds/package = 20 pounds of ground beef.
+
+2. **Determine how many 2-pound burgers can be made:**
+   Since each burger weighs 2 pounds, we can find the number of burgers by dividing the total weight of the ground beef by the weight of each burger.
+   - Number of burgers = Total weight of ground beef ÷ Weight of each burger 
+   - Number of burgers = 20 pounds ÷ 2 pounds/burger = 10 burgers.
+
+3. **Include Maurice in the count of people:**
+   Since Maurice himself will also have a burger, we need to consider that when calculating the number of people he can invite. 
+   - If Maurice is having one burger, then the number of people he can invite is the total number of burgers minus 1 (for himself).
+   - Number of people Maurice can invite = Total burgers - 1 
+   - Number of people Maurice can invite = 10 burgers - 1 = 9 people.
+
+Therefore, Maurice can invite 9 people to the cookout.
+</reasoning>
+<answer>9</answer>

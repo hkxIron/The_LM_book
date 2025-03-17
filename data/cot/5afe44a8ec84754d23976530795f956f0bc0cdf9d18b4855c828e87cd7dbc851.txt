@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we will first calculate the selling price of Mr. Grey's house when Mr. Brown buys it, then we will find the selling price when Mr. Brown sells it after one year.
+
+1. **Calculate Mr. Grey's selling price to Mr. Brown:**
+   Mr. Grey's original house value = $100,000
+   Mr. Grey sells the house at a profit of 10%. 
+   To find the selling price, we calculate 10% of $100,000 and add it to the original value.
+
+   \[
+   \text{Profit} = 10\% \text{ of } 100,000 = 0.10 \times 100,000 = 10,000
+   \]
+   \[
+   \text{Selling price} = 100,000 + 10,000 = 110,000
+   \]
+
+   Therefore, Mr. Brown buys the house for $110,000.
+
+2. **Calculate Mr. Brown's selling price after one year:**
+   Now, Mr. Brown sells the house at a loss of 10%. 
+   First, we need to calculate 10% of $110,000 and subtract it from the price Mr. Brown paid.
+
+   \[
+   \text{Loss} = 10\% \text{ of } 110,000 = 0.10 \times 110,000 = 11,000
+   \]
+   \[
+   \text{Selling price} = 110,000 - 11,000 = 99,000
+   \]
+
+   Therefore, Mr. Brown's selling price is $99,000.
+</reasoning>
+<answer>99000</answer>

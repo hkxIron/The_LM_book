@@ -1,0 +1,37 @@
+<reasoning>
+To solve the problem step by step, we need to determine how many of the 80 students are half-day students and then subtract that number from the total to find out how many are full-day students.
+
+1. **Find the number of half-day students**: We know that 25% of the students are half-day students. To find 25% of 80, we can convert the percentage to a decimal and multiply:
+   \[
+   25\% = \frac{25}{100} = 0.25
+   \]
+   Now, we multiply this decimal by the total number of students (80):
+   \[
+   \text{Number of half-day students} = 0.25 \times 80
+   \]
+
+2. **Calculate the result**:
+   \[
+   0.25 \times 80 = 20
+   \]
+   So, there are 20 half-day students.
+
+3. **Find the number of full-day students**: To find the number of full-day students, we subtract the number of half-day students from the total number of students:
+   \[
+   \text{Number of full-day students} = \text{Total students} - \text{Half-day students}
+   \]
+   \[
+   \text{Number of full-day students} = 80 - 20
+   \]
+
+4. **Calculate the result**:
+   \[
+   80 - 20 = 60
+   \]
+   Therefore, there are 60 full-day students.
+
+Putting it all together:
+- We calculated that there are 20 half-day students (25% of 80).
+- We then found that the remaining students, who are full-day students, are 60.
+</reasoning>
+<answer>60</answer>

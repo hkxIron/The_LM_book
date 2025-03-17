@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Karen's Age**:
+   Given that Karen is currently 2 years old, we can denote:
+   - Karen's age = 2 years
+
+2. **Calculate Carla's Age**:
+   According to the problem, Carla is currently 2 years older than Karen. Thus:
+   - Carla's age = Karen's age + 2
+   - Carla's age = 2 + 2 = 4 years
+
+3. **Calculate Ty's Age**:
+   The problem states that Ty is currently 4 years more than two times Carla's age. We can express this mathematically:
+   - Ty's age = 2 * Carla's age + 4
+   - Ty's age = 2 * 4 + 4 = 8 + 4 = 12 years
+
+4. **Calculate Frank's Age in 5 Years**:
+   In 5 years, Frank will be three times as old as Ty is now. We need to find Frank's current age and then add 5 years to it. Let's denote Frank's current age as F:
+   - Frank's age in 5 years = F + 5
+   - According to the problem, F + 5 = 3 * (Ty's current age)
+   - Therefore: F + 5 = 3 * 12 = 36
+
+5. **Solve for Frank's Current Age**:
+   Now we can solve for F:
+   - F + 5 = 36
+   - F = 36 - 5
+   - F = 31 years
+
+6. **Determine Frank's Age in 5 Years**:
+   Now we simply add 5 years to Frank's current age to find out how old he will be in 5 years:
+   - Frank's age in 5 years = 31 + 5 = 36 years
+
+Thus, Frank will be 36 years old in 5 years.
+</reasoning>
+<answer>36</answer>

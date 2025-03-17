@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much the 40th president saved for his reelection campaign, we will break down the problem step by step.
+
+1. **Total Funds Raised**: The total amount raised is $10,000.
+
+2. **Funds Raised by Friends**: His friends raised 40% of the total amount. 
+   - We calculate 40% of $10,000:
+     \[
+     \text{Friends' Funds} = 0.40 \times 10,000 = 4,000
+     \]
+   So, his friends raised $4,000.
+
+3. **Remaining Amount After Friends' Contribution**: 
+   To find the remaining amount after the friends' contribution, we subtract the friends' funds from the total amount:
+   \[
+   \text{Remaining Amount} = 10,000 - 4,000 = 6,000
+   \]
+
+4. **Funds Raised by Family**: His family raised 30% of the remaining amount ($6,000).
+   - We calculate 30% of $6,000:
+     \[
+     \text{Family's Funds} = 0.30 \times 6,000 = 1,800
+     \]
+   So, his family raised $1,800.
+
+5. **Remaining Amount After Family's Contribution**: 
+   To find out how much is left after the family's contribution, we subtract the family's funds from the remaining amount:
+   \[
+   \text{Remaining Amount After Family} = 6,000 - 1,800 = 4,200
+   \]
+
+6. **Conclusion**: The remaining amount after contributions from friends and family is the amount he saved for his own campaign.
+   Thus, he saved $4,200 for the presidency.
+
+Therefore, the president saved $4,200 for his campaign.
+</reasoning>
+<answer>4200</answer>

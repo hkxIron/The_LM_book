@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many clerks are needed to process 2400 forms in an 8-hour day, we can break the problem down into steps.
+
+1. **Calculate the total forms processed by one clerk in one day**: 
+   A clerk processes 25 forms per hour. Since there are 8 hours in a day, we multiply the number of forms processed per hour by the number of hours in a day:
+   
+   \[
+   \text{Forms processed by one clerk in one day} = 25 \, \text{forms/hour} \times 8 \, \text{hours} = 200 \, \text{forms}
+   \]
+
+   This means one clerk can process 200 forms in an 8-hour day.
+
+2. **Determine the total number of clerks needed**: 
+   Now, we need to find out how many clerks are required to process a total of 2400 forms in that same 8-hour day. We do this by dividing the total number of forms by the number of forms one clerk can process in a day:
+   
+   \[
+   \text{Number of clerks} = \frac{2400 \, \text{forms}}{200 \, \text{forms/clerk}} = 12 \, \text{clerks}
+   \]
+
+   This indicates that we need 12 clerks to process all 2400 forms in one day.
+
+Therefore, hiring 12 clerks will ensure that all forms are processed within the required time frame.
+</reasoning>
+<answer>12</answer>

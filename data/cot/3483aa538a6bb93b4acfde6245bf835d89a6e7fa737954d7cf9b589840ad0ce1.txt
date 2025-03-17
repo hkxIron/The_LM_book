@@ -1,0 +1,30 @@
+<reasoning>
+To find Grover's total profit, we need to follow these steps:
+
+1. **Calculate the total number of face masks**: Since each box has 20 face masks and Grover bought 3 boxes, we can calculate the total number of face masks by multiplying the number of boxes by the number of masks per box.
+
+   \[
+   \text{Total face masks} = \text{Number of boxes} \times \text{Masks per box} = 3 \times 20 = 60 \text{ face masks}
+   \]
+
+2. **Calculate the total revenue from selling the face masks**: Grover plans to sell each face mask for $0.50. We can find the total revenue by multiplying the total number of face masks by the price per mask.
+
+   \[
+   \text{Total revenue} = \text{Total face masks} \times \text{Price per mask} = 60 \times 0.50 = 30 \text{ dollars}
+   \]
+
+3. **Calculate the total cost**: Grover bought the 3 boxes of masks for $15. This is his total cost.
+
+   \[
+   \text{Total cost} = 15 \text{ dollars}
+   \]
+
+4. **Calculate the total profit**: To find the profit, we subtract the total cost from the total revenue.
+
+   \[
+   \text{Total profit} = \text{Total revenue} - \text{Total cost} = 30 - 15 = 15 \text{ dollars}
+   \]
+
+By following these steps, we have determined that Grover will make a total profit of $15 from selling the face masks.
+</reasoning>
+<answer>15</answer>

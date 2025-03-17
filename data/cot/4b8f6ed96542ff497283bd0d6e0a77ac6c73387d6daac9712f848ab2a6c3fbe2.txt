@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of pencils**: 
+   We are given that there are 8 pencils. 
+
+   - Pencils = 8
+
+2. **Calculate the number of blue pens**:
+   The problem states that there are twice as many blue pens as pencils. Since we have 8 pencils, the number of blue pens can be calculated as follows:
+
+   \[
+   \text{Blue pens} = 2 \times \text{Pencils} = 2 \times 8 = 16
+   \]
+
+3. **Calculate the number of black pens**:
+   We know from the problem that there are ten more black pens than blue pens. Since we calculated that there are 16 blue pens, we can find the number of black pens:
+
+   \[
+   \text{Black pens} = \text{Blue pens} + 10 = 16 + 10 = 26
+   \]
+
+4. **Calculate the number of red pens**:
+   The problem states that there are two fewer red pens than pencils. Since we have already established that there are 8 pencils, we can find the number of red pens:
+
+   \[
+   \text{Red pens} = \text{Pencils} - 2 = 8 - 2 = 6
+   \]
+
+5. **Calculate the total number of pens**:
+   Now we need to find the total number of pens, which includes black pens, blue pens, and red pens. We add them together:
+
+   \[
+   \text{Total pens} = \text{Black pens} + \text{Blue pens} + \text{Red pens} 
+   \]
+   Substituting the values we found:
+
+   \[
+   \text{Total pens} = 26 + 16 + 6 = 48
+   \]
+
+Therefore, the total number of pens in Sam's collection is:
+</reasoning>
+<answer>48</answer>

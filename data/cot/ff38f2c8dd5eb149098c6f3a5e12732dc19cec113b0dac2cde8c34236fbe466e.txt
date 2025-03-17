@@ -1,0 +1,55 @@
+<reasoning>
+To find out how many articles of clothing Adam and his friends are donating in total, we'll break down the problem step by step.
+
+1. **Calculate the total number of articles Adam is donating:**
+   - Adam has:
+     - 4 pairs of pants,
+     - 4 jumpers,
+     - 4 pajama sets (which is 4 tops and 4 bottoms, so 8 articles total),
+     - 20 t-shirts.
+     
+   - Now we need to add these together:
+     - Pants: 4
+     - Jumpers: 4
+     - Pajama sets: 4 (tops) + 4 (bottoms) = 8
+     - T-shirts: 20
+     
+   Total from Adam:
+   \[
+   4 + 4 + 4 + 4 + 20 = 36 \text{ articles}
+   \]
+
+2. **Calculate the total amount of clothing donated by Adam's friends:**
+   - Adam has 36 articles of clothing, and he has 3 friends each donating the same amount as Adam.
+   - Therefore, the total clothing donated by his friends is:
+   \[
+   3 \times 36 = 108 \text{ articles}
+   \]
+
+3. **Calculate the total amount of clothing before deciding to keep half:**
+   - Now we add Adam's donations to his friends' donations:
+   \[
+   36 + 108 = 144 \text{ articles}
+   \]
+
+4. **Calculate how many articles Adam wants to keep:**
+   - Adam decides to keep half of his clothing:
+   \[
+   \frac{36}{2} = 18 \text{ articles}
+   \]
+
+5. **Calculate how many articles Adam will donate:**
+   - Since Adam is keeping 18 articles, the amount he will donate is:
+   \[
+   36 - 18 = 18 \text{ articles}
+   \]
+
+6. **Calculate the total donations:**
+   - Finally, we add the articles Adam donates to the total donated by his friends:
+   \[
+   18 + 108 = 126 \text{ articles}
+   \]
+
+Therefore, the total number of articles of clothing being donated is:
+</reasoning>
+<answer>126</answer>

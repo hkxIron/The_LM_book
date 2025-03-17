@@ -1,0 +1,31 @@
+<reasoning>
+Let's calculate the daily milk production of each cow step by step.
+
+1. **Calculate Bess's milk production**: 
+   - We know that Bess gives 2 pails of milk every day.
+   - So, Bess's daily production = 2 pails.
+
+2. **Calculate Brownie's milk production**:
+   - Brownie produces three times the amount that Bess produces.
+   - Therefore, Brownie's daily production = 3 * Bess's daily production = 3 * 2 pails = 6 pails.
+
+3. **Calculate Daisy's milk production**:
+   - Daisy produces one pail more than Bess.
+   - Thus, Daisy's daily production = Bess's daily production + 1 pail = 2 pails + 1 pail = 3 pails.
+
+Now, we have the daily milk production of each cow:
+- Bess: 2 pails
+- Brownie: 6 pails
+- Daisy: 3 pails
+
+4. **Calculate the total daily milk production**:
+   - Total daily production = Bess's milk + Brownie's milk + Daisy's milk
+   - Total daily production = 2 pails + 6 pails + 3 pails = 11 pails.
+
+5. **Calculate the weekly milk production**:
+   - There are 7 days in a week, so we multiply the total daily production by 7.
+   - Weekly production = Total daily production * 7 = 11 pails * 7 = 77 pails.
+
+Therefore, by adding up the contributions from all three cows and scaling it to a week, we find the total amount of milk Farmer Red gets.
+</reasoning>
+<answer>77</answer>

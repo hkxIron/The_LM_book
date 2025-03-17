@@ -1,0 +1,40 @@
+<reasoning>
+To find the total number of wheels that Dimitri saw at the park, we'll calculate the number of wheels contributed by both the bicycles and the tricycles.
+
+1. **Calculate the number of wheels from bicycles:**
+   - Each bicycle has 2 wheels.
+   - There are 6 adults riding bicycles.
+   - Therefore, the total number of wheels from bicycles is calculated as follows:
+     \[
+     \text{Number of wheels from bicycles} = \text{Number of bicycles} \times \text{Wheels per bicycle} = 6 \text{ bicycles} \times 2 \text{ wheels/bicycle}
+     \]
+   - Performing the multiplication:
+     \[
+     6 \times 2 = 12 \text{ wheels}
+     \]
+
+2. **Calculate the number of wheels from tricycles:**
+   - Each tricycle has 3 wheels.
+   - There are 15 children riding tricycles.
+   - Therefore, the total number of wheels from tricycles is calculated as follows:
+     \[
+     \text{Number of wheels from tricycles} = \text{Number of tricycles} \times \text{Wheels per tricycle} = 15 \text{ tricycles} \times 3 \text{ wheels/tricycle}
+     \]
+   - Performing the multiplication:
+     \[
+     15 \times 3 = 45 \text{ wheels}
+     \]
+
+3. **Calculate the total number of wheels:**
+   - Now, we add the number of wheels from bicycles and tricycles to get the total number of wheels:
+     \[
+     \text{Total wheels} = \text{Wheels from bicycles} + \text{Wheels from tricycles} = 12 + 45
+     \]
+   - Performing the addition:
+     \[
+     12 + 45 = 57
+     \]
+
+Thus, the total number of wheels that Dimitri saw at the park is 57.
+</reasoning>
+<answer>57</answer>

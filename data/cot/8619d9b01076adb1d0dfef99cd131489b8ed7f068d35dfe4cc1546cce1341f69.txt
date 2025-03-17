@@ -1,0 +1,75 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the Variables**:
+   - Let \( O \) be the price of an orange.
+   - Let \( P \) be the price of a pear.
+   - Let \( B \) be the price of a banana.
+
+2. **Set Up the Equations**:
+   - From the information given, we know:
+     - \( P = 90 \) (the price of a pear is $90).
+     - The total cost of an orange and a pear is $120, so we can write the equation:
+       \[
+       O + P = 120
+       \]
+     - Substituting \( P \) into the equation gives:
+       \[
+       O + 90 = 120
+       \]
+
+3. **Solve for the Price of an Orange**:
+   - To isolate \( O \), subtract 90 from both sides:
+     \[
+     O = 120 - 90 = 30
+     \]
+   - Thus, the price of an orange \( O \) is $30.
+
+4. **Determine the Price of a Banana**:
+   - We are also given that the difference between the price of an orange and the price of a pear equals the price of a banana:
+     \[
+     O - P = B
+     \]
+   - Substituting the known values:
+     \[
+     30 - 90 = B
+     \]
+   - This simplifies to:
+     \[
+     B = -60
+     \]
+   - Since a negative price doesn't make sense in this context, we must have made a mistake interpreting the difference. Let's re-evaluate. The correct interpretation should be:
+     \[
+     P - O = B \quad \text{(since pears are more expensive)}
+     \]
+   - Therefore:
+     \[
+     90 - 30 = B \quad \Rightarrow \quad B = 60
+     \]
+
+5. **Calculate the Total Price of Bananas and Oranges**:
+   - We need to buy 200 bananas and twice as many oranges as bananas.
+   - Since we have 200 bananas, the number of oranges will be:
+     \[
+     2 \times 200 = 400 \text{ oranges}
+     \]
+
+6. **Calculate the Total Cost**:
+   - The total cost for 200 bananas:
+     \[
+     200 \times 60 = 12000
+     \]
+   - The total cost for 400 oranges:
+     \[
+     400 \times 30 = 12000
+     \]
+
+7. **Combine the Costs**:
+   - The total cost for 200 bananas and 400 oranges is:
+     \[
+     12000 + 12000 = 24000
+     \]
+
+Therefore, the total price of buying 200 bananas and twice as many oranges as bananas is:
+</reasoning>
+<answer>24000</answer>

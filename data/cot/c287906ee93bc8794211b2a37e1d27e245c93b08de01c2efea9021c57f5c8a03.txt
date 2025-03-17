@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem step by step, we will first calculate Andy's weight after his growth and weight gain, then determine how much weight he lost over the next three months.
+
+1. **Initial Weight**: Andy started the year weighing 156 pounds.
+
+2. **Weight Gain**: He gained 36 pounds. To find his new weight after the gain, we add the weight gain to the initial weight:
+   \[
+   156 + 36 = 192 \text{ pounds}
+   \]
+   So, after the weight gain, Andy weighs 192 pounds.
+
+3. **Weight Loss Calculation**: Andy lost an eighth of his weight every month over 3 months. First, we need to calculate how much he lost each month.
+
+   - **Weight Loss in One Month**: To find out how much weight he loses in one month, we calculate an eighth of his current weight (192 pounds):
+   \[
+   \frac{192}{8} = 24 \text{ pounds}
+   \]
+
+4. **Total Weight Loss Over 3 Months**: Since he loses 24 pounds each month, we multiply this monthly loss by the number of months (3 months):
+   \[
+   24 \times 3 = 72 \text{ pounds}
+   \]
+
+5. **Final Weight**: Now we need to calculate Andy's weight after losing 72 pounds from his weight after the gain:
+   \[
+   192 - 72 = 120 \text{ pounds}
+   \]
+
+6. **Weight Difference**: Finally, we need to find out how much less Andy weighs now compared to the beginning of the year. To do this, we subtract his current weight from his initial weight:
+   \[
+   156 - 120 = 36 \text{ pounds}
+   \]
+
+Therefore, Andy weighs 36 pounds less now than at the beginning of the year.
+</reasoning>
+<answer>36</answer>

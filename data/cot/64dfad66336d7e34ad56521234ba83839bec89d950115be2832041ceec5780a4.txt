@@ -1,0 +1,35 @@
+<reasoning>
+Let's define the ages of the classmates in terms of Aivo's age. We will use Aivo's age as the base reference.
+
+1. **Define Aivo's age**: Let Aivo's age be \( A \) months.
+  
+2. **Determine Therese's age**: We know that Therese is 5 months older than Aivo. Therefore:
+   \[
+   \text{Therese's age} = A + 5
+   \]
+
+3. **Determine Jolyn's age**: Jolyn is 2 months older than Therese. Thus:
+   \[
+   \text{Jolyn's age} = (A + 5) + 2 = A + 7
+   \]
+
+4. **Determine Leon's age**: Leon is 2 months older than Aivo. Hence:
+   \[
+   \text{Leon’s age} = A + 2
+   \]
+
+5. **Find the age difference between Jolyn and Leon**: We need to calculate how much older Jolyn is than Leon. We do this by subtracting Leon's age from Jolyn's age:
+   \[
+   \text{Difference} = \text{Jolyn's age} - \text{Leon’s age} = (A + 7) - (A + 2)
+   \]
+
+6. **Simplify the expression**:
+   \[
+   \text{Difference} = A + 7 - A - 2 = 5
+   \]
+
+This means Jolyn is 5 months older than Leon.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,46 @@
+<reasoning>
+To find out how many English-language books have been published outside the country, we can follow these steps:
+
+1. **Calculate the number of English-language books**: We know that 80% of the total number of books are in English. Therefore, we calculate 80% of 2300 books.
+
+   \[
+   \text{Number of English books} = 0.80 \times 2300
+   \]
+
+   Performing the multiplication:
+
+   \[
+   0.80 \times 2300 = 1840
+   \]
+
+   This means there are 1840 English-language books in the library.
+
+2. **Calculate the number of English-language books published in the country**: We know that 60% of the English books were published in the country. So we calculate 60% of the 1840 English books.
+
+   \[
+   \text{Number of English books published in the country} = 0.60 \times 1840
+   \]
+
+   Performing the multiplication:
+
+   \[
+   0.60 \times 1840 = 1104
+   \]
+
+   This means that 1104 English-language books were published in the country.
+
+3. **Determine the number of English-language books published outside the country**: To find out how many English-language books were published outside the country, we subtract the number of books published in the country from the total number of English-language books.
+
+   \[
+   \text{Number of English books published outside the country} = 1840 - 1104
+   \]
+
+   Performing the subtraction:
+
+   \[
+   1840 - 1104 = 736
+   \]
+
+Thus, the number of English-language books published outside the country is 736.
+</reasoning>
+<answer>736</answer>

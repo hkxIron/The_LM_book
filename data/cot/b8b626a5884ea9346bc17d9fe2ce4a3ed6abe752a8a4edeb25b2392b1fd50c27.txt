@@ -1,0 +1,52 @@
+<reasoning>
+To find out how much money Teal makes from her sales of pumpkin and custard pies, we will follow these steps:
+
+1. **Calculate the total number of slices from the pumpkin pies.**  
+   Each pumpkin pie is cut into 8 slices, and Teal sells 4 pumpkin pies.  
+   So, we multiply the number of pies by the number of slices per pie:
+
+   \[
+   \text{Total pumpkin pie slices} = 4 \text{ pies} \times 8 \text{ slices/pie} = 32 \text{ slices}
+   \]
+
+   This calculation helps us determine how many slices of pumpkin pie are available for sale.
+
+2. **Calculate the total revenue from pumpkin pie sales.**  
+   The price of a slice of pumpkin pie is $5. Now we can calculate the total revenue from selling all the slices of pumpkin pie:
+
+   \[
+   \text{Revenue from pumpkin pie} = 32 \text{ slices} \times 5 \text{ dollars/slice} = 160 \text{ dollars}
+   \]
+
+   This step shows how we can determine the income generated from the pumpkin pie slices.
+
+3. **Calculate the total number of slices from the custard pies.**  
+   Each custard pie is cut into 6 slices, and Teal sells 5 custard pies. We multiply the number of pies by the number of slices per pie:
+
+   \[
+   \text{Total custard pie slices} = 5 \text{ pies} \times 6 \text{ slices/pie} = 30 \text{ slices}
+   \]
+
+   This calculation gives us the total number of custard pie slices available for sale.
+
+4. **Calculate the total revenue from custard pie sales.**  
+   The price of a slice of custard pie is $6. Now we can calculate the total revenue from selling all the slices of custard pie:
+
+   \[
+   \text{Revenue from custard pie} = 30 \text{ slices} \times 6 \text{ dollars/slice} = 180 \text{ dollars}
+   \]
+
+   This step allows us to find out how much income is generated from the custard pie slices.
+
+5. **Calculate the total revenue from both types of pies.**  
+   Now that we have the revenue from both the pumpkin and custard pies, we can find the total revenue by adding both amounts together:
+
+   \[
+   \text{Total revenue} = \text{Revenue from pumpkin pie} + \text{Revenue from custard pie} = 160 \text{ dollars} + 180 \text{ dollars} = 340 \text{ dollars}
+   \]
+
+   This final step gives us the total money Teal makes from selling both types of pies.
+
+Therefore, Teal makes a total of $340 from her sales.
+</reasoning>
+<answer>340</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+Let's define the lengths of the snakes using variables. 
+
+1. Let \( J \) represent the length of Jenny's snake in inches.
+2. According to the problem, Jake's snake is 12 inches longer than Jenny's snake. Therefore, we can represent the length of Jake's snake as \( J + 12 \).
+
+Next, we know from the problem that the combined length of both snakes is 70 inches. We can set up an equation to represent this:
+
+3. The combined length of the two snakes can be expressed as:
+   \[
+   J + (J + 12) = 70
+   \]
+
+4. Now, let's simplify the equation:
+   \[
+   J + J + 12 = 70
+   \]
+   \[
+   2J + 12 = 70
+   \]
+
+5. Next, we will solve for \( J \) by first isolating the term with \( J \):
+   \[
+   2J = 70 - 12
+   \]
+   \[
+   2J = 58
+   \]
+
+6. Now, divide both sides by 2 to find \( J \):
+   \[
+   J = \frac{58}{2} = 29
+   \]
+
+7. Now that we have the length of Jenny's snake, we can find the length of Jake's snake:
+   \[
+   \text{Length of Jake's snake} = J + 12 = 29 + 12 = 41
+   \]
+
+Therefore, Jake's snake is 41 inches long.
+</reasoning>
+<answer>41</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+To find the total time James spent on both artifacts, we need to break down the time spent on each one into research and expedition phases.
+
+1. **First Artifact**:
+   - Research time: 6 months
+   - Expedition time: 2 years
+
+   First, let's convert the expedition time from years to months to keep the units consistent. There are 12 months in a year, so:
+   - 2 years = 2 * 12 months = 24 months
+
+   Now, we can calculate the total time for the first artifact:
+   - Total time for first artifact = Research time + Expedition time
+   - Total time for first artifact = 6 months + 24 months = 30 months
+
+2. **Second Artifact**:
+   - The second artifact takes 3 times as long for both research and discovery as the first artifact. 
+
+   For the second artifact:
+   - Research time for the second artifact = 3 * Research time of the first artifact
+   - Research time for the second artifact = 3 * 6 months = 18 months
+
+   The expedition time is also 3 times that of the first expedition:
+   - Expedition time for the second artifact = 3 * Expedition time of the first artifact
+   - Expedition time for the second artifact = 3 * 24 months = 72 months
+
+   Now, we calculate the total time for the second artifact:
+   - Total time for second artifact = Research time + Expedition time
+   - Total time for second artifact = 18 months + 72 months = 90 months
+
+3. **Total Time for Both Artifacts**:
+   Now, we add the total time spent on both artifacts:
+   - Total time = Total time for first artifact + Total time for second artifact
+   - Total time = 30 months + 90 months = 120 months
+
+Therefore, the total time that James spent to find both artifacts is 120 months.
+
+Finally, let's express this in years for clarity:
+- 120 months = 120 / 12 = 10 years
+
+Thus, the total time taken to find both artifacts is 10 years.
+</reasoning>
+<answer>10</answer>

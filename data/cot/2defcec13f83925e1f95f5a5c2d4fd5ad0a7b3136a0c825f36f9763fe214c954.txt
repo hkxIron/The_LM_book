@@ -1,0 +1,38 @@
+<reasoning>
+Let's denote the number of $20 bills as \( x \). According to the problem, the number of $10 bills is twice the number of $20 bills, so we can express the number of $10 bills as \( 2x \).
+
+Now, we can set up an equation based on the total amount of money in the fund. The value of the $20 bills can be calculated as:
+
+\[
+20x
+\]
+
+And the value of the $10 bills can be calculated as:
+
+\[
+10(2x) = 20x
+\]
+
+Now, we can combine the values of the $10 and $20 bills to set up the equation:
+
+\[
+20x + 20x = 120
+\]
+
+This simplifies to:
+
+\[
+40x = 120
+\]
+
+Next, we will solve for \( x \) by dividing both sides of the equation by 40:
+
+\[
+x = \frac{120}{40} = 3
+\]
+
+Now that we have found \( x \), which represents the number of $20 bills, we can conclude that Karen has 3 $20 bills.
+
+Therefore, the number of $20 bills in Karen's class fund is:
+</reasoning>
+<answer>3</answer>

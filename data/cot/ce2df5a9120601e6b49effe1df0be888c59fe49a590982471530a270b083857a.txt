@@ -1,0 +1,34 @@
+<reasoning>
+Let's denote the amount of money Nigel gave away as \( x \).
+
+1. **Initial Amount**: Nigel initially had $45. 
+2. **Amount After Giving Away**: After giving away \( x \), he has \( 45 - x \) left.
+3. **Mother's Contribution**: His mother then gives him $80, so now his total amount of money is \( 45 - x + 80 \).
+
+Next, we simplify this expression:
+\[
+45 - x + 80 = 125 - x
+\]
+
+4. **Setting Up the Equation**: According to the problem, this total amount is now $10 more than twice what he originally had. Twice his original amount is \( 2 \times 45 = 90 \). Therefore, we can set up the equation:
+\[
+125 - x = 90 + 10
+\]
+This simplifies to:
+\[
+125 - x = 100
+\]
+
+5. **Solving for \( x \)**: Now, we can solve for \( x \):
+\[
+125 - 100 = x
+\]
+\[
+x = 25
+\]
+
+Thus, Nigel gave away $25. 
+
+Therefore, the amount of money Nigel gave away is:
+</reasoning>
+<answer>25</answer>

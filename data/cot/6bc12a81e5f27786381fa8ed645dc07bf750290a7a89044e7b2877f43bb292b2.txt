@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the cost of a blue pen**: 
+   - The problem states that a blue pen costs 10 cents each.
+
+2. **Calculate the total cost for blue pens**: 
+   - Maci needs 10 blue pens. 
+   - To find the total cost for blue pens, we multiply the number of blue pens by the cost per pen:
+     \[
+     \text{Total cost for blue pens} = 10 \text{ pens} \times 10 \text{ cents/pen} = 100 \text{ cents}
+     \]
+
+3. **Determine the cost of a red pen**: 
+   - The problem states that a red pen costs twice as much as a blue pen. Since a blue pen costs 10 cents, a red pen costs:
+     \[
+     \text{Cost of a red pen} = 2 \times 10 \text{ cents} = 20 \text{ cents}
+     \]
+
+4. **Calculate the total cost for red pens**: 
+   - Maci needs 15 red pens. 
+   - To find the total cost for red pens, we multiply the number of red pens by the cost per red pen:
+     \[
+     \text{Total cost for red pens} = 15 \text{ pens} \times 20 \text{ cents/pen} = 300 \text{ cents}
+     \]
+
+5. **Calculate the total cost for all pens**: 
+   - Now that we have the total costs for both blue and red pens, we can find the overall cost by adding the two amounts together:
+     \[
+     \text{Total cost} = \text{Total cost for blue pens} + \text{Total cost for red pens} = 100 \text{ cents} + 300 \text{ cents} = 400 \text{ cents}
+     \]
+
+6. **Convert the total cost into dollars**: 
+   - Since there are 100 cents in a dollar, we can convert cents to dollars:
+     \[
+     \text{Total cost in dollars} = \frac{400 \text{ cents}}{100} = 4 \text{ dollars}
+     \]
+
+Therefore, Maci pays a total of 4 dollars for the pens.
+</reasoning>
+<answer>4</answer>

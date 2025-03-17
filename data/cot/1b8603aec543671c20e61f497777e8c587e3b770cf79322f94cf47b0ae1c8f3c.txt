@@ -1,0 +1,24 @@
+<reasoning>
+First, let's calculate the total amount of food that one dog eats in a day. Each dog eats 250 grams of food per day.
+
+Next, since Emily has 4 dogs, we need to find out how much food all 4 dogs eat in one day. We do this by multiplying the amount of food one dog eats by the number of dogs:
+
+\[
+\text{Total food for 4 dogs per day} = 250 \text{ grams/dog} \times 4 \text{ dogs} = 1000 \text{ grams}
+\]
+
+Now, we need to determine how much food all 4 dogs will eat over the 14 days of Emily's vacation. We multiply the daily food requirement for the 4 dogs by the number of days:
+
+\[
+\text{Total food for 14 days} = 1000 \text{ grams/day} \times 14 \text{ days} = 14000 \text{ grams}
+\]
+
+Since the question asks for the amount of food in kilograms, we need to convert grams to kilograms. We know that 1 kilogram is equal to 1000 grams, so we divide the total grams by 1000:
+
+\[
+\text{Total food in kilograms} = \frac{14000 \text{ grams}}{1000} = 14 \text{ kilograms}
+\]
+
+This calculation shows that Emily needs to buy 14 kilograms of food for her 4 dogs to ensure they are well-fed during her vacation.
+</reasoning>
+<answer>14</answer>

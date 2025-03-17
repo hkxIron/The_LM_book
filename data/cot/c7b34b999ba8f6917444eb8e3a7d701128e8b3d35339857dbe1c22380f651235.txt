@@ -1,0 +1,40 @@
+<reasoning>
+To calculate Irene's total income for the week, we will break it down into two parts: her regular income for the first 40 hours and her income from overtime hours.
+
+1. **Calculate Regular Income:**
+   Irene earns $500 for working 40 hours a week. This means that for the first 40 hours, her income is simply $500. 
+
+   So, 
+   \[
+   \text{Regular Income} = 500
+   \]
+
+2. **Calculate Overtime Hours:**
+   Last week, Irene worked a total of 50 hours. To find her overtime hours, we subtract her regular hours from the total hours worked:
+   \[
+   \text{Overtime Hours} = 50 - 40 = 10 \text{ hours}
+   \]
+
+3. **Calculate Overtime Income:**
+   For every hour of overtime, Irene earns an additional $20. Therefore, we can calculate her total overtime income:
+   \[
+   \text{Overtime Income} = \text{Overtime Hours} \times \text{Overtime Rate}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Overtime Income} = 10 \text{ hours} \times 20 = 200
+   \]
+
+4. **Calculate Total Income:**
+   Now, we add her regular income and her overtime income to find her total income for the week:
+   \[
+   \text{Total Income} = \text{Regular Income} + \text{Overtime Income}
+   \]
+   Substituting the values:
+   \[
+   \text{Total Income} = 500 + 200 = 700
+   \]
+
+Thus, Irene's total income for the week is $700.
+</reasoning>
+<answer>700</answer>

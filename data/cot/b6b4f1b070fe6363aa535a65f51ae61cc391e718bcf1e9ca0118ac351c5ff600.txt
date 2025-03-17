@@ -1,0 +1,44 @@
+<reasoning>
+Let's denote the number of cans of corn that Beth bought as \( x \).
+
+According to the problem, she bought 15 more cans of peas than twice the number of cans of corn. We can express this relationship with the following equation:
+
+\[
+\text{Cans of peas} = 2 \times \text{Cans of corn} + 15
+\]
+
+We know that Beth bought 35 cans of peas. Thus, we can substitute 35 for the number of cans of peas in our equation:
+
+\[
+35 = 2x + 15
+\]
+
+Now, let's solve for \( x \), which represents the number of cans of corn. First, we'll isolate the term involving \( x \) by subtracting 15 from both sides of the equation:
+
+\[
+35 - 15 = 2x
+\]
+
+This simplifies to:
+
+\[
+20 = 2x
+\]
+
+Next, we divide both sides by 2 to solve for \( x \):
+
+\[
+x = \frac{20}{2}
+\]
+
+This gives us:
+
+\[
+x = 10
+\]
+
+Thus, Beth bought 10 cans of corn. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we need to calculate the total distance that both birds traveled while making their trips to collect building materials.
+
+1. **Identify the number of trips made by each bird**: Each bird made 10 round trips. Since there are 2 birds, we will consider the total number of trips for both birds. 
+
+2. **Calculate the total number of round trips**: 
+   - Each bird makes 10 round trips, so for 2 birds, the total number of round trips is:
+   \[
+   10 \text{ trips/bird} \times 2 \text{ birds} = 20 \text{ total round trips}
+   \]
+
+3. **Determine the distance of each round trip**: 
+   - The building materials are located 200 miles away. Since a round trip means going to the location and coming back, the distance for one round trip is:
+   \[
+   200 \text{ miles (to)} + 200 \text{ miles (back)} = 400 \text{ miles per round trip}
+   \]
+
+4. **Calculate the total distance for all round trips**:
+   - Now we multiply the total number of round trips by the distance of each round trip to find the total distance covered:
+   \[
+   20 \text{ round trips} \times 400 \text{ miles/round trip} = 8000 \text{ miles}
+   \]
+
+Thus, the total distance that both birds covered in their trips is 8000 miles.
+</reasoning>
+<answer>8000</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to determine how much Sally will make this month after her raise and then add that to what she earned last month.
+
+1. **Calculate Sally's raise**: 
+   - Sally earned $1000 last month. She received a 10% raise this month.
+   - To find the amount of the raise, we calculate 10% of $1000.
+   - We can do this by multiplying $1000 by 0.10 (since 10% as a decimal is 0.10).
+   - Calculation: 
+     \[
+     \text{Raise} = 1000 \times 0.10 = 100
+     \]
+
+2. **Calculate Sally's earnings this month**:
+   - Now, we need to add the raise to her original salary to find out how much she will make this month.
+   - That means we add the raise ($100) to her previous salary ($1000).
+   - Calculation:
+     \[
+     \text{Total this month} = 1000 + 100 = 1100
+     \]
+
+3. **Calculate total earnings for the two months**:
+   - Now, we add her earnings from last month ($1000) to her earnings this month ($1100).
+   - Calculation:
+     \[
+     \text{Total for two months} = 1000 + 1100 = 2100
+     \]
+
+Therefore, after calculating Sally's raise and her total earnings for the two months, we find that she will make a total of $2100.
+</reasoning>
+<answer>2100</answer>

@@ -1,0 +1,53 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Thomas's total savings**:
+   - Thomas saves $40 every month.
+   - He has been saving for 6 years. 
+   - First, we need to convert years into months: 
+     \[
+     6 \text{ years} = 6 \times 12 \text{ months} = 72 \text{ months}
+     \]
+   - Now, we can calculate the total amount Thomas has saved:
+     \[
+     \text{Total savings of Thomas} = \text{Monthly savings} \times \text{Number of months}
+     \]
+     \[
+     \text{Total savings of Thomas} = 40 \times 72 = 2880
+     \]
+
+2. **Calculate Joseph's monthly savings**:
+   - Joseph saves 2/5 times less than Thomas. This means we need to find out what 2/5 of Thomas's monthly savings is:
+     \[
+     \text{Amount Joseph saves per month} = 40 - \left(\frac{2}{5} \times 40\right)
+     \]
+   - Calculate \( \frac{2}{5} \times 40 \):
+     \[
+     \frac{2}{5} \times 40 = \frac{80}{5} = 16
+     \]
+   - Thus, Joseph saves:
+     \[
+     \text{Joseph's monthly savings} = 40 - 16 = 24
+     \]
+
+3. **Calculate Joseph's total savings**:
+   - Now, we will calculate how much Joseph has saved over the same 6 years (72 months):
+     \[
+     \text{Total savings of Joseph} = \text{Monthly savings} \times \text{Number of months}
+     \]
+     \[
+     \text{Total savings of Joseph} = 24 \times 72 = 1728
+     \]
+
+4. **Calculate their total savings altogether**:
+   - Finally, we need to add both Thomas's and Joseph's total savings together:
+     \[
+     \text{Total savings} = \text{Total savings of Thomas} + \text{Total savings of Joseph}
+     \]
+     \[
+     \text{Total savings} = 2880 + 1728 = 4608
+     \]
+
+Therefore, the total amount they have in their savings accounts altogether is:
+</reasoning>
+<answer>4608</answer>

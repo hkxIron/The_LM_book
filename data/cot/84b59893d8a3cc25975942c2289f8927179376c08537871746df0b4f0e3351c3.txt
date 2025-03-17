@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step to find out how many more weeks Bob needs to win to save up for the puppy.
+
+1. **Identify how much Bob has already earned**: 
+   Bob has won first place for the first 2 weeks, earning $100 each week. Therefore, we calculate his total earnings for these 2 weeks:
+   \[
+   \text{Total earnings from 2 weeks} = 2 \times 100 = 200 \text{ dollars}
+   \]
+
+2. **Determine how much more Bob needs**:
+   The puppy costs $1000. Since Bob has already earned $200, we need to find out how much more he needs to save:
+   \[
+   \text{Amount needed} = 1000 - 200 = 800 \text{ dollars}
+   \]
+
+3. **Calculate how many additional weeks Bob must win**:
+   Each additional week that Bob wins provides him with another $100. We can determine the number of weeks needed by dividing the amount he still needs by the prize amount per week:
+   \[
+   \text{Number of additional weeks} = \frac{800}{100} = 8 \text{ weeks}
+   \]
+
+Thus, Bob must win first place for at least 8 more weeks to have enough money for the puppy.
+</reasoning>
+<answer>8</answer>

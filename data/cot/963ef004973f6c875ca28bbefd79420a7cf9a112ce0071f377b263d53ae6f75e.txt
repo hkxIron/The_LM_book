@@ -1,0 +1,44 @@
+<reasoning>
+To find out how much the baker earned in April, we need to calculate the total earnings from the cakes and the pies separately, and then sum those amounts.
+
+1. **Calculate the earnings from the cakes**:
+   - The baker sold 453 cakes, and each cake is sold for $12.
+   - To find the total earnings from the cakes, we multiply the number of cakes sold by the price per cake:
+     \[
+     \text{Earnings from cakes} = 453 \text{ cakes} \times 12 \text{ dollars/cake}
+     \]
+   - Performing the multiplication:
+     \[
+     453 \times 12 = 5436
+     \]
+   - So, the baker earned $5436 from selling cakes.
+
+2. **Calculate the earnings from the pies**:
+   - The baker sold 126 pies, and each pie is sold for $7.
+   - To find the total earnings from the pies, we multiply the number of pies sold by the price per pie:
+     \[
+     \text{Earnings from pies} = 126 \text{ pies} \times 7 \text{ dollars/pie}
+     \]
+   - Performing the multiplication:
+     \[
+     126 \times 7 = 882
+     \]
+   - So, the baker earned $882 from selling pies.
+
+3. **Calculate the total earnings**:
+   - Now, we add the earnings from cakes and pies together to find the total earnings:
+     \[
+     \text{Total earnings} = \text{Earnings from cakes} + \text{Earnings from pies}
+     \]
+   - Substituting the values we calculated:
+     \[
+     \text{Total earnings} = 5436 + 882
+     \]
+   - Performing the addition:
+     \[
+     5436 + 882 = 6318
+     \]
+
+Therefore, the baker earned a total of $6318 in April.
+</reasoning>
+<answer>6318</answer>

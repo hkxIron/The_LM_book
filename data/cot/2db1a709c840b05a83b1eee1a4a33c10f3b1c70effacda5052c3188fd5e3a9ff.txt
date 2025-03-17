@@ -1,0 +1,42 @@
+<reasoning>
+To determine how many pages Berry needs to read on Saturday to achieve his average goal of 50 pages per day for the week, we can follow these steps:
+
+1. **Calculate the total number of pages Berry wants to read for the week**: 
+   Since there are 7 days in a week and he wants to average 50 pages per day, we multiply:
+   \[
+   50 \text{ pages/day} \times 7 \text{ days} = 350 \text{ pages}
+   \]
+   This is the total number of pages Berry needs to read by the end of Saturday.
+
+2. **Add up the pages Berry has already read from Sunday to Friday**: 
+   He read the following pages:
+   - Sunday: 43 pages
+   - Monday: 65 pages
+   - Tuesday: 28 pages
+   - Wednesday: 0 pages (no reading)
+   - Thursday: 70 pages
+   - Friday: 56 pages
+
+   Now, we calculate the total pages read:
+   \[
+   43 + 65 + 28 + 0 + 70 + 56
+   \]
+
+   Performing the addition step by step:
+   - First, add Sunday and Monday: \( 43 + 65 = 108 \)
+   - Then add Tuesday: \( 108 + 28 = 136 \)
+   - Adding Wednesday (which is 0, so it doesn't change the total): \( 136 + 0 = 136 \)
+   - Adding Thursday: \( 136 + 70 = 206 \)
+   - Finally, adding Friday: \( 206 + 56 = 262 \)
+
+   So, the total number of pages Berry has read so far is 262 pages.
+
+3. **Calculate how many more pages Berry needs to read on Saturday**: 
+   To find out how many pages Berry needs to read on Saturday, we subtract the total pages he has read from the total pages he wants to read:
+   \[
+   350 \text{ pages} - 262 \text{ pages} = 88 \text{ pages}
+   \]
+
+Therefore, Berry needs to read 88 pages on Saturday to reach his goal of averaging 50 pages per day for the week.
+</reasoning>
+<answer>88</answer>

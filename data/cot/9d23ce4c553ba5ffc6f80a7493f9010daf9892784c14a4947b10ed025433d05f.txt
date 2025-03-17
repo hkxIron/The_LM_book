@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of balls Matthias has without holes, we can follow these steps:
+
+1. **Calculate the number of soccer balls without holes:**
+   - Matthias has a total of 40 soccer balls.
+   - Out of these, 30 soccer balls have holes.
+   - To find the number of soccer balls without holes, we subtract the number of soccer balls with holes from the total number of soccer balls:
+     \[
+     \text{Soccer balls without holes} = \text{Total soccer balls} - \text{Soccer balls with holes} = 40 - 30 = 10
+     \]
+
+2. **Calculate the number of basketballs without holes:**
+   - Matthias has a total of 15 basketballs.
+   - Out of these, 7 basketballs have holes.
+   - To find the number of basketballs without holes, we subtract the number of basketballs with holes from the total number of basketballs:
+     \[
+     \text{Basketballs without holes} = \text{Total basketballs} - \text{Basketballs with holes} = 15 - 7 = 8
+     \]
+
+3. **Calculate the total number of balls without holes:**
+   - Now we add the number of soccer balls without holes and the number of basketballs without holes to get the total number of balls without holes:
+     \[
+     \text{Total balls without holes} = \text{Soccer balls without holes} + \text{Basketballs without holes} = 10 + 8 = 18
+     \]
+
+Therefore, Matthias has 18 balls in total without holes.
+</reasoning>
+<answer>18</answer>

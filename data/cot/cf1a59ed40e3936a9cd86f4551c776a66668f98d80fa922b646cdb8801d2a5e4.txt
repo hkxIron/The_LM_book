@@ -1,0 +1,24 @@
+<reasoning>
+To find the average number of people added each year in Maryville from 2000 to 2005, we will follow these steps:
+
+1. **Determine the total population increase**: We need to subtract the population in 2000 from the population in 2005. 
+   - Population in 2000 = 450,000
+   - Population in 2005 = 467,000
+   - Increase in population = 467,000 - 450,000
+
+2. **Calculate the population increase**:
+   - Increase in population = 467,000 - 450,000 = 17,000
+
+3. **Determine the number of years between 2000 and 2005**: 
+   - The number of years from 2000 to 2005 is 5 years.
+
+4. **Calculate the average annual increase**: To find the average number of people added each year, we divide the total increase in population by the number of years.
+   - Average annual increase = Total increase / Number of years
+   - Average annual increase = 17,000 / 5
+
+5. **Perform the division**:
+   - Average annual increase = 17,000 / 5 = 3,400
+
+Now, we have calculated that the average number of people added each year from 2000 to 2005 is 3,400.
+</reasoning>
+<answer>3400</answer>

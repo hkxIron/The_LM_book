@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, we need to calculate the total surface area of the walls that Matt needs to paint. We'll do this for both the living room and the bedroom separately, and then sum the areas.
+
+**Step 1: Calculate the area of the living room walls.**
+
+The living room is square, measuring 40 feet by 40 feet. Since all walls are 10 feet tall, the area of each wall can be calculated as follows:
+
+- Each wall's area = Height × Width
+- Height = 10 feet
+- Width of each wall = 40 feet
+
+Now, we calculate the area of one wall:
+Area of one wall = 10 ft × 40 ft = 400 square feet.
+
+Since there are three walls in the living room to paint, we calculate the total area for these three walls:
+Total area of living room walls = 3 × 400 square feet = 1200 square feet.
+
+**Step 2: Calculate the area of the bedroom walls.**
+
+The bedroom is rectangular, measuring 10 feet by 12 feet. Again, the height of all walls is 10 feet. The area of each wall can be calculated for both pairs of walls:
+
+1. For the two 10-foot walls:
+- Area of one 10-foot wall = Height × Width = 10 ft × 10 ft = 100 square feet.
+- Total area for two 10-foot walls = 2 × 100 square feet = 200 square feet.
+
+2. For the two 12-foot walls:
+- Area of one 12-foot wall = Height × Width = 10 ft × 12 ft = 120 square feet.
+- Total area for two 12-foot walls = 2 × 120 square feet = 240 square feet.
+
+Now, we sum the total area of the walls in the bedroom:
+Total area of bedroom walls = 200 square feet + 240 square feet = 440 square feet.
+
+**Step 3: Combine the areas from the living room and bedroom.**
+
+Now that we have the areas for both rooms, we can calculate the total area that Matt needs to paint:
+Total area to paint = Total area of living room walls + Total area of bedroom walls
+Total area to paint = 1200 square feet + 440 square feet = 1640 square feet.
+
+Thus, the total square feet of wall that Matt needs to paint is 1640.
+</reasoning>
+<answer>1640</answer>

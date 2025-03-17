@@ -1,0 +1,37 @@
+<reasoning>
+To solve the problem, we need to determine how many books Albert has based on the number of books Stu has, and then we will add the number of books they both have together.
+
+1. **Identify the number of books Stu has**: 
+   We know that Stu has 9 books.
+
+2. **Calculate the number of books Albert has**: 
+   The problem states that Albert has 4 times as many books as Stu. Since Stu has 9 books, we can find the number of books Albert has by multiplying the number of books Stu has by 4.
+
+   \[
+   \text{Number of books Albert has} = 4 \times \text{Number of books Stu has} = 4 \times 9
+   \]
+
+   Now, let's do the multiplication:
+
+   \[
+   4 \times 9 = 36
+   \]
+
+   So, Albert has 36 books.
+
+3. **Calculate the total number of books**: 
+   Now, we will add the number of books Stu has to the number of books Albert has to find the total number of books.
+
+   \[
+   \text{Total number of books} = \text{Number of books Stu has} + \text{Number of books Albert has} = 9 + 36
+   \]
+
+   Now, let's do the addition:
+
+   \[
+   9 + 36 = 45
+   \]
+
+Therefore, the total number of books that Stu and Albert have is 45.
+</reasoning>
+<answer>45</answer>

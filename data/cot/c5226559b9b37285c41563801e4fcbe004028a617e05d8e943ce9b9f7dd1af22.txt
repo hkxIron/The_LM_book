@@ -1,0 +1,69 @@
+<reasoning>
+To solve the problem, we will first define the variables representing the years of experience each coworker has:
+
+- Let \( R \) be Roger's years of experience.
+- Let \( P \) be Peter's years of experience.
+- Let \( T \) be Tom's years of experience.
+- Let \( B \) be Robert's years of experience.
+- Let \( M \) be Mike's years of experience.
+
+From the information given in the problem, we can set up the following equations:
+
+1. **Roger's Experience**: Roger states that he has the same amount of experience in years as all four of the others combined. This gives us the equation:
+   \[
+   R = P + T + B + M
+   \]
+
+2. **Peter's Experience**: Peter says that when he came to the company, his daughter was 7 years old and now she is 19 years old. This means Peter has been with the company for:
+   \[
+   19 - 7 = 12 \text{ years}
+   \]
+   Therefore, \( P = 12 \).
+
+3. **Tom's Experience**: Tom states that he has twice as many years of experience as Robert. This gives us the equation:
+   \[
+   T = 2B
+   \]
+
+4. **Robert's Experience**: Robert states that he has 4 years of experience less than Peter, which gives us:
+   \[
+   B = P - 4
+   \]
+   Substituting \( P = 12 \):
+   \[
+   B = 12 - 4 = 8
+   \]
+
+5. **Mike's Experience**: Robert also states that he has 2 more years of experience than Mike, leading to:
+   \[
+   B = M + 2
+   \]
+   Substituting \( B = 8 \):
+   \[
+   8 = M + 2 \implies M = 6
+   \]
+
+Now we can calculate Tom's experience using the equation \( T = 2B \):
+\[
+T = 2 \cdot 8 = 16
+\]
+
+Now we have the years of experience for all coworkers:
+- \( P = 12 \)
+- \( B = 8 \)
+- \( M = 6 \)
+- \( T = 16 \)
+
+Now we substitute these values back into Roger's equation:
+\[
+R = P + T + B + M = 12 + 16 + 8 + 6 = 42
+\]
+
+Roger has 42 years of experience. He plans to retire when he accumulates 50 years of experience. To find out how many more years he has to work before he retires, we subtract his current experience from his retirement goal:
+\[
+50 - R = 50 - 42 = 8
+\]
+
+Therefore, Roger has 8 more years to work before he retires.
+</reasoning>
+<answer>8</answer>

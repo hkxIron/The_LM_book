@@ -1,0 +1,57 @@
+<reasoning>
+To solve the problem, we need to determine the condition when Emily is half the age of Rachel.
+
+1. **Understanding current ages**: We know that Emily is currently 20 years old and Rachel is 24 years old. The age difference between them is:
+   \[
+   \text{Age difference} = 24 - 20 = 4 \text{ years}
+   \]
+
+2. **Setting up the age condition**: We want to find out when Emily's age is half of Rachel's age. Let's denote Emily's age at that time as \( E \) and Rachel's age as \( R \). We know that:
+   \[
+   E = \text{Emily's current age} + t
+   \]
+   \[
+   R = \text{Rachel's current age} + t
+   \]
+   where \( t \) is the number of years from now.
+
+3. **Expressing their ages**: Since Emily is currently 20, we can express her age in terms of \( t \):
+   \[
+   E = 20 + t
+   \]
+   Rachel, who is currently 24, will be:
+   \[
+   R = 24 + t
+   \]
+
+4. **Setting up the equation for half the age**: We want Emily's age to be half of Rachel's age, which gives us the equation:
+   \[
+   20 + t = \frac{1}{2} (24 + t)
+   \]
+
+5. **Solving the equation**: To eliminate the fraction, we can multiply both sides by 2:
+   \[
+   2(20 + t) = 24 + t
+   \]
+   Simplifying this gives:
+   \[
+   40 + 2t = 24 + t
+   \]
+
+6. **Rearranging the equation**: Now, we will isolate \( t \) by moving \( t \) to one side:
+   \[
+   2t - t = 24 - 40
+   \]
+   This simplifies to:
+   \[
+   t = -16
+   \]
+
+7. **Interpreting the result**: The negative value of \( t \) indicates that this situation occurred 16 years ago. So, we need to find Rachel's age at that time:
+   \[
+   \text{Rachel's age 16 years ago} = 24 - 16 = 8
+   \]
+
+Therefore, when Emily was half Rachel's age, Rachel was 8 years old.
+</reasoning>
+<answer>8</answer>

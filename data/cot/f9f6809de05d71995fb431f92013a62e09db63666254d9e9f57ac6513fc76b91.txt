@@ -1,0 +1,39 @@
+<reasoning>
+To find the total time Andrew takes to reach the Bronx from Manhattan, we need to add the time he spends on each mode of transportation: the subway, the train, and biking.
+
+1. **Subway time**: Andrew rides the subway for 10 hours. 
+   - This is a straightforward piece of information provided in the problem.
+
+2. **Train time**: Andrew takes the train for twice as much time as the subway ride.
+   - Since he rides the subway for 10 hours, the time spent on the train is calculated as follows:
+     \[
+     \text{Train time} = 2 \times \text{Subway time} = 2 \times 10 \text{ hours} = 20 \text{ hours}
+     \]
+
+3. **Biking time**: Andrew bikes for 8 hours.
+   - This is also a piece of information given in the problem.
+
+Now, we will add all these times together to find the total time Andrew takes.
+
+4. **Total time calculation**:
+   \[
+   \text{Total time} = \text{Subway time} + \text{Train time} + \text{Biking time}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total time} = 10 \text{ hours} + 20 \text{ hours} + 8 \text{ hours}
+   \]
+
+5. Now, we perform the addition step by step:
+   - First, add the subway and train times:
+     \[
+     10 \text{ hours} + 20 \text{ hours} = 30 \text{ hours}
+     \]
+   - Next, add the biking time:
+     \[
+     30 \text{ hours} + 8 \text{ hours} = 38 \text{ hours}
+     \]
+
+Therefore, the total time Andrew takes to reach the Bronx from Manhattan is 38 hours.
+</reasoning>
+<answer>38</answer>

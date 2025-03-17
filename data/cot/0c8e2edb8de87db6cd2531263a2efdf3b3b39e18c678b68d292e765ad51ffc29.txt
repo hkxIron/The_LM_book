@@ -1,0 +1,51 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculating the number of shrimp caught by Austin**:
+   - Victor caught 26 shrimp.
+   - Austin caught 8 less than Victor. 
+   - So, we calculate Austin's catch: 
+     \[
+     \text{Austin's shrimp} = 26 - 8 = 18
+     \]
+
+2. **Calculating the total shrimp caught by Victor and Austin**:
+   - Now, we need to find the total number of shrimp caught by Victor and Austin together:
+     \[
+     \text{Total shrimp by Victor and Austin} = 26 + 18 = 44
+     \]
+
+3. **Calculating the number of shrimp caught by Brian**:
+   - Brian caught half of the total shrimp caught by Victor and Austin:
+     \[
+     \text{Brian's shrimp} = \frac{44}{2} = 22
+     \]
+
+4. **Finding the total number of shrimp caught by all three**:
+   - Now, let's find the total number of shrimp caught by all the boys:
+     \[
+     \text{Total shrimp} = 26 + 18 + 22 = 66
+     \]
+
+5. **Calculating the number of tails of shrimp**:
+   - The problem states that they sold shrimp for $7 for every 11 tails.
+   - Since they have 66 shrimp, we need to find out how many sets of 11 tails they have:
+     \[
+     \text{Number of sets of 11 tails} = \frac{66}{11} = 6
+     \]
+
+6. **Calculating total earnings from selling the shrimp**:
+   - Now, we find the total earnings from selling all the shrimp:
+     \[
+     \text{Total earnings} = 6 \times 7 = 42
+     \]
+
+7. **Dividing the earnings equally among the three boys**:
+   - Finally, we divide the total earnings equally among Victor, Austin, and Brian:
+     \[
+     \text{Earnings per boy} = \frac{42}{3} = 14
+     \]
+
+Thus, each boy makes $14.
+</reasoning>
+<answer>14</answer>

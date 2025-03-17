@@ -1,0 +1,40 @@
+<reasoning>
+Let's start by calculating how many tourists are there after the first incident with the anacondas.
+
+1. **Initial number of tourists**: There are 30 tourists in total.
+2. **Tourists eaten by anacondas**: 2 tourists are eaten by anacondas. 
+   - To find out how many are left after this incident, we subtract the number of tourists eaten from the initial total:
+   \[
+   30 - 2 = 28
+   \]
+   Now, there are 28 tourists remaining.
+
+3. **Half of the remaining tourists try to pet poisonous dart frogs**: We need to find out how many tourists this is.
+   - Half of 28 tourists is:
+   \[
+   \frac{28}{2} = 14
+   \]
+   So, 14 tourists try to pet the poisonous dart frogs.
+
+4. **Tourists who get poisoned**: All 14 tourists who tried to pet the frogs get poisoned.
+   - Thus, the number of poisoned tourists is 14.
+
+5. **Recovery of poisoned tourists**: We know that only \(\frac{1}{7}\) of the poisoned tourists recover.
+   - To find out how many recover, we calculate:
+   \[
+   \frac{14}{7} = 2
+   \]
+   Therefore, 2 tourists recover from the poisoning.
+
+6. **Total number of tourists left at the end of the tour**: We need to add the tourists who recovered back to those who were not poisoned.
+   - The number of tourists who were not poisoned is:
+   \[
+   28 - 14 = 14
+   \]
+   - Adding the tourists who recovered:
+   \[
+   14 + 2 = 16
+   \]
+   Thus, at the end of the tour, there are 16 tourists left.
+</reasoning>
+<answer>16</answer>

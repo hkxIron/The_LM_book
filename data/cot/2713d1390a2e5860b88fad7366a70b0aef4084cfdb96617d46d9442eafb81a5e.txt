@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we will start by determining the weights of Verna and Sherry step by step based on the information given.
+
+1. **Identify Haley's Weight**: 
+   We know from the problem that Haley weighs 103 pounds. 
+   \[
+   \text{Haley's weight} = 103 \text{ pounds}
+   \]
+
+2. **Calculate Verna's Weight**:
+   The problem states that Verna weighs 17 pounds more than Haley. Thus, we can find Verna's weight by adding 17 pounds to Haley's weight.
+   \[
+   \text{Verna's weight} = \text{Haley's weight} + 17 = 103 + 17 = 120 \text{ pounds}
+   \]
+
+3. **Calculate Sherry's Weight**: 
+   Next, the problem states that Verna weighs half as much as Sherry. This means we can set up the equation where Verna's weight is half of Sherry's weight.
+   Let Sherry's weight be denoted as \( S \).
+   \[
+   \text{Verna's weight} = \frac{1}{2} S \quad \Rightarrow \quad 120 = \frac{1}{2} S
+   \]
+   To solve for \( S \), we multiply both sides by 2:
+   \[
+   S = 120 \times 2 = 240 \text{ pounds}
+   \]
+
+4. **Calculate the Total Weight of Verna and Sherry**:
+   Now that we have both Verna's and Sherry's weights, we can find the total weight by adding them together.
+   \[
+   \text{Total weight of Verna and Sherry} = \text{Verna's weight} + \text{Sherry's weight} = 120 + 240 = 360 \text{ pounds}
+   \]
+
+Therefore, the combined weight of Verna and Sherry is:
+</reasoning>
+<answer>360</answer>

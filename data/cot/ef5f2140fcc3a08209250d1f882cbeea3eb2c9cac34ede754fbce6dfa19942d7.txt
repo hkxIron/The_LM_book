@@ -1,0 +1,38 @@
+<reasoning>
+First, let's determine the new price of lemons after the increase. Erick planned to sell lemons at $8 each, and the price increased by $4. 
+
+1. Calculate the new price of lemons:
+   - Original price of lemons = $8
+   - Increase in price = $4
+   - New price of lemons = Original price + Increase = $8 + $4 = $12
+
+Now, we know that the new price of lemons is $12 each.
+
+2. Next, we need to find the increase in the price of grapes. The problem states that the price of grapes increased by half the price that the price of lemons increased per grape. Since the price of lemons increased by $4, we calculate half of this amount:
+
+   - Increase in price of grapes = 1/2 * Increase in price of lemons = 1/2 * $4 = $2
+
+3. Now, calculate the new price of grapes. Erick had planned to sell grapes at $7 each, so with the increase of $2:
+
+   - Original price of grapes = $7
+   - Increase in price = $2
+   - New price of grapes = Original price + Increase = $7 + $2 = $9
+
+Now we have both new prices:
+- New price of lemons = $12
+- New price of grapes = $9
+
+4. Next, we calculate how much money Erick collects from selling all the lemons and grapes at the new prices. 
+
+   - For lemons, he has 80 lemons:
+     - Total money from lemons = Number of lemons * New price of lemons = 80 * $12 = $960
+
+   - For grapes, he has 140 grapes:
+     - Total money from grapes = Number of grapes * New price of grapes = 140 * $9 = $1260
+
+5. Finally, we add the total money collected from lemons and grapes:
+   - Total money = Total money from lemons + Total money from grapes = $960 + $1260 = $2220
+
+Therefore, after selling all the fruits at the new prices, Erick collected a total of $2220.
+</reasoning>
+<answer>2220</answer>

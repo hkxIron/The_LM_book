@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much money Janet makes, we need to calculate her earnings from both her exterminator work and her sculpture sales separately, and then add them together.
+
+1. **Calculate earnings from exterminator work:**
+   - Janet earns $70 per hour.
+   - She works for 20 hours.
+   - To find her total earnings from exterminator work, we multiply her hourly rate by the number of hours worked:
+     \[
+     \text{Earnings from exterminator work} = 70 \text{ (dollars/hour)} \times 20 \text{ (hours)}
+     \]
+     \[
+     = 1400 \text{ dollars}
+     \]
+   - So, Janet makes $1400 from her exterminator work.
+
+2. **Calculate earnings from selling sculptures:**
+   - Janet sells a 5-pound sculpture and a 7-pound sculpture.
+   - The price per pound for her sculptures is $20.
+   - First, we calculate the total weight of the sculptures:
+     \[
+     \text{Total weight} = 5 \text{ pounds} + 7 \text{ pounds} = 12 \text{ pounds}
+     \]
+   - Now, we calculate her earnings from the sculptures by multiplying the total weight by the price per pound:
+     \[
+     \text{Earnings from sculptures} = 20 \text{ (dollars/pound)} \times 12 \text{ (pounds)}
+     \]
+     \[
+     = 240 \text{ dollars}
+     \]
+   - So, Janet makes $240 from selling her sculptures.
+
+3. **Calculate total earnings:**
+   - To find her total earnings, we add her earnings from exterminator work and her earnings from sculptures:
+     \[
+     \text{Total earnings} = \text{Earnings from exterminator work} + \text{Earnings from sculptures}
+     \]
+     \[
+     = 1400 \text{ dollars} + 240 \text{ dollars}
+     \]
+     \[
+     = 1640 \text{ dollars}
+     \]
+
+Therefore, Janet's total earnings amount to $1640.
+</reasoning>
+<answer>1640</answer>

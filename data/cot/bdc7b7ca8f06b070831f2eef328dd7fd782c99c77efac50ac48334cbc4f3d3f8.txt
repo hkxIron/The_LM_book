@@ -1,0 +1,34 @@
+<reasoning>
+To determine how many months Gerald spends in jail, we will follow these steps:
+
+1. **Identify the Sentence Terms**: 
+   - Gerald is sentenced to 3 months for assault.
+   - He is also sentenced to 2 years for poisoning.
+
+2. **Convert Years to Months**: 
+   - Since there are 12 months in a year, we need to convert the 2-year sentence into months: 
+   \[
+   2 \text{ years} = 2 \times 12 = 24 \text{ months}
+   \]
+
+3. **Calculate Total Sentence Before Extension**: 
+   - Now, we can add the time for both offenses:
+   \[
+   \text{Total months} = 3 \text{ months (assault)} + 24 \text{ months (poisoning)} = 27 \text{ months}
+   \]
+
+4. **Determine the Extension of the Sentence**: 
+   - The judge extends the sentence by 1/3 because this is Gerald's third offense. To find 1/3 of the total sentence:
+   \[
+   \text{Extension} = \frac{1}{3} \times 27 \text{ months} = 9 \text{ months}
+   \]
+
+5. **Add the Extension to the Total Sentence**: 
+   - Finally, we add the extension to the total sentence:
+   \[
+   \text{Final Total} = 27 \text{ months} + 9 \text{ months} = 36 \text{ months}
+   \]
+
+Therefore, Gerald spends a total of 36 months in jail.
+</reasoning>
+<answer>36</answer>

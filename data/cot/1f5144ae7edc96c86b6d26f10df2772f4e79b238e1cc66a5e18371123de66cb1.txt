@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many people will actually attend Laura's wedding, we first need to calculate how many people are expected not to show up based on the percentage given.
+
+1. **Calculate the number of people who are expected not to show up**:
+   - We know that 5% of the attendees typically do not show up.
+   - We can calculate 5% of 220 by multiplying 220 by 0.05 (which is the decimal equivalent of 5%).
+
+   \[
+   \text{Number not showing up} = 220 \times 0.05 = 11
+   \]
+
+   This means that approximately 11 people are expected not to attend.
+
+2. **Calculate the expected number of attendees**:
+   - To find the number of people who will actually attend, we subtract the number not showing up from the total expected attendees.
+
+   \[
+   \text{Number attending} = 220 - 11 = 209
+   \]
+
+Therefore, after calculating the expected number of attendees by taking into account the percentage that typically does not show up, we find that Laura can expect 209 attendees at her wedding.
+</reasoning>
+<answer>209</answer>

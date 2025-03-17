@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many substitute teachers walk out after 1 hour.**
+   We start with 60 substitute teachers. According to the problem, 50% of them walk out after 1 hour. To find out how many that is, we calculate:
+
+   \[
+   50\% \text{ of } 60 = 0.5 \times 60 = 30
+   \]
+
+   This means 30 substitute teachers walk out after 1 hour.
+
+2. **Calculate the number of substitute teachers remaining after 1 hour.**
+   To find out how many teachers are left after 1 hour, we subtract the number who walked out from the original number:
+
+   \[
+   60 - 30 = 30
+   \]
+
+   So, there are 30 substitute teachers remaining after 1 hour.
+
+3. **Determine how many of the remaining teachers quit before lunch.**
+   Now, we know that 30% of the remaining teachers quit before lunch. We calculate 30% of 30:
+
+   \[
+   30\% \text{ of } 30 = 0.3 \times 30 = 9
+   \]
+
+   This means 9 substitute teachers quit before lunch.
+
+4. **Calculate the final number of substitute teachers left after lunch.**
+   Now we subtract the number of teachers who quit before lunch from the number remaining after 1 hour:
+
+   \[
+   30 - 9 = 21
+   \]
+
+   Therefore, after lunch, there are 21 substitute teachers left.
+</reasoning>
+<answer>21</answer>

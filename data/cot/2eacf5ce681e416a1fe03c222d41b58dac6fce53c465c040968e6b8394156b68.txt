@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many days Kelly spent at her sister's house, we first need to break down the entire duration of her vacation into the different components.
+
+1. **Total duration of vacation**: Kelly's vacation is 3 weeks. Since there are 7 days in a week, we calculate:
+   \[
+   3 \text{ weeks} \times 7 \text{ days/week} = 21 \text{ days}
+   \]
+
+2. **Days spent traveling and visiting relatives**:
+   - **Day 1**: Traveling (1 day)
+   - **Days 2-6**: At Grandparents' house (5 days)
+   - **Day 7**: Traveling (1 day)
+   - **Days 8-12**: At brother's house (5 days)
+   - **Days 13-14**: Traveling to sister's house (2 days)
+   - **Days 15-X**: At sister's house (unknown number of days)
+   - **Days Y-Z**: Traveling home (2 days)
+
+3. **Calculating the known days**:
+   We already have the days calculated up to the point before she visits her sister:
+   - Traveling: 1 + 1 + 2 + 2 = 6 days
+   - At Grandparents' house: 5 days
+   - At brother's house: 5 days
+
+   Adding these together:
+   \[
+   1 + 5 + 1 + 5 + 2 = 14 \text{ days}
+   \]
+
+4. **Calculating remaining days**:
+   We subtract the days already accounted for from the total vacation days:
+   \[
+   21 \text{ days (total)} - 14 \text{ days (spent)} = 7 \text{ days}
+   \]
+
+5. **Days left for sister's house**:
+   Kelly spends the last 2 days traveling home. Thus, we need to subtract those from the remaining days:
+   \[
+   7 \text{ days remaining} - 2 \text{ days traveling home} = 5 \text{ days at sister's house}
+   \]
+
+Therefore, Kelly spent 5 days at her sister's house.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's denote the number of mangoes that Dilan has as \( D \) and the number of mangoes that Ashley has as \( A \).
+
+According to the problem, Alexis has four times as many mangoes as Dilan and Ashley combined. This can be expressed with the equation:
+\[
+A + D = \frac{60}{4}
+\]
+This equation states that the combined number of mangoes Dilan and Ashley have is one-fourth of Alexis's mangoes, because Alexis has four times that amount.
+
+Now, calculating the right side of the equation:
+\[
+A + D = 15
+\]
+This means that together, Dilan and Ashley have 15 mangoes.
+
+Next, we need to find the total number of mangoes that all three (Alexis, Dilan, and Ashley) have combined:
+\[
+\text{Total mangoes} = A + D + 60
+\]
+Since we know \( A + D = 15 \), we can substitute this into the total:
+\[
+\text{Total mangoes} = 15 + 60
+\]
+Calculating this gives:
+\[
+\text{Total mangoes} = 75
+\]
+
+Therefore, the total number of mangoes that all of them have combined is:
+</reasoning>
+<answer>75</answer>

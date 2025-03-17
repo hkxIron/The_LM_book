@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we start by understanding the ratio of dogs to cats that Heloise has, which is given as 10:17. This means that for every 10 dogs, there are 17 cats.
+
+1. **Calculate the total parts of the ratio**: 
+   The total parts in the ratio of dogs to cats is:
+   \[
+   10 + 17 = 27 \text{ parts}
+   \]
+
+2. **Determine the value of one part**: 
+   Since the total number of pets is 189, we can find the value of one part by dividing the total number of pets by the total parts:
+   \[
+   \text{Value of one part} = \frac{189}{27} = 7
+   \]
+
+3. **Calculate the number of dogs and cats**:
+   Now, we can find the actual number of dogs and cats using the value of one part:
+   - Number of dogs:
+   \[
+   \text{Number of dogs} = 10 \times 7 = 70
+   \]
+   - Number of cats:
+   \[
+   \text{Number of cats} = 17 \times 7 = 119
+   \]
+
+4. **Find out how many dogs Heloise has after giving some away**:
+   Heloise gives away 10 dogs to her friend Janet. Therefore, we subtract the 10 dogs from the total number of dogs she initially had:
+   \[
+   \text{Remaining dogs} = 70 - 10 = 60
+   \]
+
+Therefore, after giving away 10 dogs, Heloise now has 60 dogs left.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step to find out how many apples Bill has left after giving some away and using some for baking.
+
+1. **Initial Number of Apples**:
+   Bill picked a total of 50 apples.
+
+2. **Apples Given to Kids**:
+   Bill sends each of his two children to school with 3 apples for their favorite teachers.
+   - Since there are 2 children and each gets 3 apples, we calculate the total apples given to the kids:
+   \[
+   2 \text{ children} \times 3 \text{ apples/child} = 6 \text{ apples}
+   \]
+
+3. **Apples Used for Baking**:
+   His wife Jill bakes two apple pies, using 10 apples for each pie.
+   - We calculate the total apples used for the pies:
+   \[
+   2 \text{ pies} \times 10 \text{ apples/pie} = 20 \text{ apples}
+   \]
+
+4. **Total Apples Used**:
+   Now we need to find out the total number of apples that have been used (both given to the kids and used for baking):
+   \[
+   6 \text{ apples (to kids)} + 20 \text{ apples (for pies)} = 26 \text{ apples}
+   \]
+
+5. **Apples Left**:
+   Finally, we subtract the total apples used from the initial number of apples to find out how many apples Bill has left:
+   \[
+   50 \text{ apples (initial)} - 26 \text{ apples (used)} = 24 \text{ apples}
+   \]
+
+Therefore, Bill has 24 apples left after sending some to school with his kids and using some for baking.
+</reasoning>
+<answer>24</answer>

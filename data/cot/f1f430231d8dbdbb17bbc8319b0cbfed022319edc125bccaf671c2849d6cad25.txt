@@ -1,0 +1,53 @@
+<reasoning>
+To find Brian's total commission, we need to calculate the commission from each house sale and then sum those amounts.
+
+1. **Calculate the commission for each house:**
+   - The formula for commission is:
+     \[
+     \text{Commission} = \text{Sale Price} \times \text{Commission Rate}
+     \]
+   - The commission rate is 2%, which can be expressed as a decimal: \( 2\% = 0.02 \).
+
+2. **Find the commission for the first house:**
+   - Sale price = $157,000
+   - Commission for the first house:
+     \[
+     \text{Commission}_1 = 157,000 \times 0.02 = 3,140
+     \]
+
+3. **Find the commission for the second house:**
+   - Sale price = $499,000
+   - Commission for the second house:
+     \[
+     \text{Commission}_2 = 499,000 \times 0.02 = 9,980
+     \]
+
+4. **Find the commission for the third house:**
+   - Sale price = $125,000
+   - Commission for the third house:
+     \[
+     \text{Commission}_3 = 125,000 \times 0.02 = 2,500
+     \]
+
+5. **Calculate the total commission:**
+   - We add the commissions from all three sales:
+     \[
+     \text{Total Commission} = \text{Commission}_1 + \text{Commission}_2 + \text{Commission}_3
+     \]
+     \[
+     \text{Total Commission} = 3,140 + 9,980 + 2,500
+     \]
+
+6. **Perform the addition:**
+   - First, add the first two:
+     \[
+     3,140 + 9,980 = 13,120
+     \]
+   - Now add the third:
+     \[
+     13,120 + 2,500 = 15,620
+     \]
+
+Therefore, Brian’s total commission on the three sales is:
+</reasoning>
+<answer>15620</answer>

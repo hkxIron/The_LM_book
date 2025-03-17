@@ -1,0 +1,48 @@
+<reasoning>
+Let's start by defining the variables we need for this problem.
+
+1. Let \( f \) represent the number of female attendees.
+2. According to the problem, the number of male attendees \( m \) can be expressed as \( m = f + 4 \) because there are 4 more male attendees than female attendees.
+
+Now, we know the total number of attendees is 120. This gives us the equation:
+
+\[
+m + f = 120
+\]
+
+Now, we can substitute the expression for \( m \) from our earlier step into this equation:
+
+\[
+(f + 4) + f = 120
+\]
+
+Now, let's simplify this equation:
+
+\[
+2f + 4 = 120
+\]
+
+Next, we need to isolate \( f \). We can do this by subtracting 4 from both sides:
+
+\[
+2f = 120 - 4
+\]
+\[
+2f = 116
+\]
+
+Now, divide both sides by 2 to solve for \( f \):
+
+\[
+f = \frac{116}{2} = 58
+\]
+
+Now that we have the number of female attendees, we can find the number of male attendees using the expression we defined earlier:
+
+\[
+m = f + 4 = 58 + 4 = 62
+\]
+
+Therefore, the number of male attendees is:
+</reasoning>
+<answer>62</answer>

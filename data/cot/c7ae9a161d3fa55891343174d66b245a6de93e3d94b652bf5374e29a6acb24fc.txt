@@ -1,0 +1,36 @@
+<reasoning>
+Let's break the problem down step by step.
+
+1. **Identify the amount of food each guinea pig eats:**
+   - The first guinea pig eats 2 cups of food. 
+   - The second guinea pig eats twice as much as the first one. Since the first one eats 2 cups, we calculate:
+     \[
+     \text{Food for second guinea pig} = 2 \times 2 = 4 \text{ cups}
+     \]
+   - The third guinea pig eats 3 cups more than the second one. So, we calculate:
+     \[
+     \text{Food for third guinea pig} = 4 + 3 = 7 \text{ cups}
+     \]
+
+2. **Calculate the total amount of food needed for all three guinea pigs:**
+   - We add the amount of food each guinea pig eats:
+     \[
+     \text{Total food} = \text{Food for first} + \text{Food for second} + \text{Food for third}
+     \]
+   - Substituting the values we found:
+     \[
+     \text{Total food} = 2 + 4 + 7
+     \]
+
+3. **Perform the final addition:**
+   - Now we compute the total:
+     \[
+     2 + 4 = 6
+     \]
+     \[
+     6 + 7 = 13
+     \]
+
+Therefore, Rollo needs a total of 13 cups of food to feed all his guinea pigs.
+</reasoning>
+<answer>13</answer>

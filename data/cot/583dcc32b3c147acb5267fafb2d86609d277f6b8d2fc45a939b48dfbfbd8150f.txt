@@ -1,0 +1,52 @@
+<reasoning>
+To solve this problem, we will keep track of the number of animals in the zoo at each step and set up an equation to find out how many lion cubs were born.
+
+1. **Starting Number of Animals**: The zoo begins with 68 animals.
+
+2. **Gorilla Family Departure**: They send away a gorilla family of 6. 
+   \[
+   68 - 6 = 62
+   \]
+   Now, the zoo has 62 animals.
+
+3. **Adoption of Hippopotamus**: They adopt one hippopotamus, adding 1 animal.
+   \[
+   62 + 1 = 63
+   \]
+   Now, the zoo has 63 animals.
+
+4. **Inclusion of Rhinos**: They take in 3 endangered rhinos.
+   \[
+   63 + 3 = 66
+   \]
+   Now, the zoo has 66 animals.
+
+5. **Birth of Lion Cubs**: Let \( x \) be the number of lion cubs born. After the lioness gives birth, the total number of animals becomes:
+   \[
+   66 + x
+   \]
+
+6. **Opening of Meerkat Exhibit**: They open an exhibit with twice as many meerkats as the number of lion cubs. Thus, the number of meerkats is \( 2x \).
+   \[
+   \text{Total animals now} = 66 + x + 2x = 66 + 3x
+   \]
+
+7. **Final Count of Animals**: We know that after all these changes, the zoo has 90 animals.
+   \[
+   66 + 3x = 90
+   \]
+
+8. **Solving for \( x \)**: We will isolate \( x \) in the equation.
+   \[
+   3x = 90 - 66
+   \]
+   \[
+   3x = 24
+   \]
+   \[
+   x = \frac{24}{3} = 8
+   \]
+
+Therefore, the number of lion cubs born at the zoo is 8.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+To find out how many people in the theater have green eyes, we first need to determine how many people have each eye color based on the information given.
+
+1. We start with the total number of people in the theater, which is 100.
+
+2. Next, we know that 19 people have blue eyes. This is a fixed value.
+
+3. Now, we calculate the number of people with brown eyes. The problem states that half of the 19 blue-eyed people have brown eyes. To find the number of brown-eyed people, we can calculate:
+   \[
+   \text{Number of brown-eyed people} = \frac{19}{2} = 9.5
+   \]
+   However, since this doesn't make sense in the context of counting people (we cannot have half a person), we need to interpret that the problem likely means that there are 19 blue-eyed, and the remaining people are divided among brown, black, and green.
+
+4. The problem states that half of the total people (100) have brown eyes, which means:
+   \[
+   \text{Number of brown-eyed people} = \frac{100}{2} = 50
+   \]
+
+5. Next, we calculate the number of people with black eyes. The problem states that a quarter of the people have black eyes. Thus:
+   \[
+   \text{Number of black-eyed people} = \frac{100}{4} = 25
+   \]
+
+6. Now, we add the number of people with blue, brown, and black eyes to find out how many people have green eyes. We have:
+   - Blue eyes: 19
+   - Brown eyes: 50
+   - Black eyes: 25
+
+   Adding these together:
+   \[
+   19 + 50 + 25 = 94
+   \]
+
+7. To find the number of people with green eyes, we subtract the total number of people with blue, brown, and black eyes from the total number of people in the theater:
+   \[
+   \text{Number of green-eyed people} = 100 - 94 = 6
+   \]
+
+Therefore, the number of people with green eyes is 6.
+</reasoning>
+<answer>6</answer>

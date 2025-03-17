@@ -1,0 +1,38 @@
+<reasoning>
+To find out Lizette's average score on her first two quizzes, we can start by using the information given about her average score after three quizzes.
+
+1. **Understanding the Average Calculation**: The average score is calculated by taking the total score and dividing it by the number of quizzes. In this case, Lizette's average score after three quizzes is 94. Since we know she scored 92 on her third quiz, we can express the average as follows:
+
+   \[
+   \text{Average} = \frac{\text{Total score of quizzes}}{\text{Number of quizzes}}
+   \]
+
+   For Lizette, after three quizzes, this formula can be written as:
+   
+   \[
+   94 = \frac{Q_1 + Q_2 + 92}{3}
+   \]
+
+   where \(Q_1\) and \(Q_2\) are the scores of her first two quizzes.
+
+2. **Calculating Total Score for Three Quizzes**: To find the total score from all three quizzes, we can multiply the average by the number of quizzes:
+   
+   \[
+   \text{Total score of quizzes} = 94 \times 3 = 282
+   \]
+
+3. **Finding the Total Score of First Two Quizzes**: Now, we know the total score for all three quizzes is 282, and we can subtract the score of the third quiz (92) to find the total score of the first two quizzes:
+
+   \[
+   Q_1 + Q_2 = 282 - 92 = 190
+   \]
+
+4. **Calculating the Average of the First Two Quizzes**: To find the average score of the first two quizzes, we divide the total score of the first two quizzes by 2:
+
+   \[
+   \text{Average of } Q_1 \text{ and } Q_2 = \frac{Q_1 + Q_2}{2} = \frac{190}{2} = 95
+   \]
+
+Thus, Lizette's average score in her first two quizzes is 95.
+</reasoning>
+<answer>95</answer>

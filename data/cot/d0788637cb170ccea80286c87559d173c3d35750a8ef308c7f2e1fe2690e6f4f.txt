@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many students Beth had in her class at the end of her final year, we can break the problem down into steps.
+
+1. **Initial number of students**: Beth started with 150 students in her class.
+
+2. **Adding students**: The following year, 30 more students joined her class. To find the new total, we add the number of new students to the initial number:
+   \[
+   150 + 30 = 180
+   \]
+   Now, Beth has 180 students in her class.
+
+3. **Students leaving**: In her final year, 15 students left the class. To find out the total after some students left, we subtract the number of students who left from the current total:
+   \[
+   180 - 15 = 165
+   \]
+   After the students left, Beth has 165 students remaining in her class.
+
+Therefore, after following these steps, we conclude that Beth had 165 students in her class at the end of her final year.
+</reasoning>
+<answer>165</answer>

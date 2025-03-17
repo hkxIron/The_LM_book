@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many senior students did not get any scholarships, we first need to calculate how many students received each type of scholarship and then subtract that from the total number of students.
+
+1. **Calculate the number of students who received a full merit scholarship**:
+   - We know that 5% of the 300 senior students received a full merit scholarship.
+   - To calculate 5% of 300, we can use the formula: 
+     \[
+     \text{Number of full merit scholarships} = \frac{5}{100} \times 300
+     \]
+   - Simplifying this:
+     \[
+     \text{Number of full merit scholarships} = 0.05 \times 300 = 15
+     \]
+
+2. **Calculate the number of students who received a half merit scholarship**:
+   - Next, we calculate the number of students who received a half merit scholarship, which is 10% of the 300 senior students.
+   - Using the same method:
+     \[
+     \text{Number of half merit scholarships} = \frac{10}{100} \times 300
+     \]
+   - Simplifying this:
+     \[
+     \text{Number of half merit scholarships} = 0.10 \times 300 = 30
+     \]
+
+3. **Total number of students who received scholarships**:
+   - Now we add the number of students who received full merit scholarships and half merit scholarships:
+     \[
+     \text{Total scholarships} = \text{Number of full merit scholarships} + \text{Number of half merit scholarships} = 15 + 30 = 45
+     \]
+
+4. **Calculate the number of students who did not receive any scholarships**:
+   - Finally, we subtract the total number of students who received scholarships from the total number of senior students:
+     \[
+     \text{Number of students without scholarships} = 300 - 45 = 255
+     \]
+
+Therefore, the number of senior students who did not get any scholarships is 255.
+</reasoning>
+<answer>255</answer>

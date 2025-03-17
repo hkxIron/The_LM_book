@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much longer Nick's cell phone needs to be charged to reach 100% charge, we can follow these steps:
+
+1. **Determine the current charge percentage**: We know that after 45 minutes of charging, the phone has reached a 25% charge.
+
+2. **Calculate the remaining charge needed**: Since the phone needs to reach 100% charge and it is currently at 25%, we can calculate the remaining charge needed by subtracting the current charge from 100%:
+   \[
+   100\% - 25\% = 75\%
+   \]
+   This means the phone needs an additional 75% charge.
+
+3. **Find the charging rate**: We need to determine how long it takes to charge the phone to 100% from 0%. Since it took 45 minutes to charge 25%, we can find out how long it takes to charge 1% and then use that to find out how long it takes to charge 75%.
+
+   To find the time taken for 1% charge:
+   \[
+   \text{Time for 1%} = \frac{45 \text{ minutes}}{25} = 1.8 \text{ minutes per percent}
+   \]
+
+4. **Calculate the time needed to charge the remaining 75%**: Now we can multiply the time per percent by the remaining percentage:
+   \[
+   75\% \times 1.8 \text{ minutes per percent} = 135 \text{ minutes}
+   \]
+
+Therefore, the phone must be charged for an additional 135 minutes to reach 100% charge.
+</reasoning>
+<answer>135</answer>

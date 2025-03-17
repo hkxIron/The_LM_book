@@ -1,0 +1,38 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial number of cows**: The man started with 39 cows.
+
+2. **Cows that died**: Last year, 25 cows died. To find out how many cows he had after this, we subtract the number of cows that died from the initial number.
+   \[
+   39 - 25 = 14
+   \]
+   So, he had 14 cows left after the deaths.
+
+3. **Cows sold**: The man sold 6 cows. We will subtract this from the current number of cows.
+   \[
+   14 - 6 = 8
+   \]
+   Now, he has 8 cows.
+
+4. **Cows that increased**: This year, the number of cows increased by 24. We will add this to the current number of cows.
+   \[
+   8 + 24 = 32
+   \]
+   Now, he has 32 cows after the increase.
+
+5. **Cows purchased**: The man bought 43 more cows. We will add this to the total.
+   \[
+   32 + 43 = 75
+   \]
+   Now, he has 75 cows after the purchase.
+
+6. **Cows received as a gift**: Finally, his friend gave him 8 cows. We will add this to the total.
+   \[
+   75 + 8 = 83
+   \]
+   Now, he has 83 cows.
+
+After going through all these steps, we find that the man currently has a total of 83 cows.
+</reasoning>
+<answer>83</answer>

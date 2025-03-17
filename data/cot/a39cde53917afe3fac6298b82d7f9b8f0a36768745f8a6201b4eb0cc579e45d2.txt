@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much each of the two other puppies costs, we will follow these steps:
+
+1. **Calculate the total cost of the three puppies on sale.**  
+   We know that each of the three puppies costs $150. Therefore, we can multiply the cost of one puppy by the number of puppies:  
+   \[
+   \text{Total cost of three puppies} = 3 \times 150 = 450
+   \]
+
+2. **Determine the remaining amount spent on the other two puppies.**  
+   Since Arven spent a total of $800 on all five puppies, we need to subtract the total cost of the three puppies from the total amount spent:  
+   \[
+   \text{Remaining amount for two puppies} = 800 - 450 = 350
+   \]
+
+3. **Find the cost of each of the two other puppies.**  
+   Since the two remaining puppies cost the same, we can divide the remaining amount by 2 to find the cost of each of the two puppies:  
+   \[
+   \text{Cost of each of the two puppies} = \frac{350}{2} = 175
+   \]
+
+Therefore, each of the two other puppies costs $175.
+</reasoning>
+<answer>175</answer>

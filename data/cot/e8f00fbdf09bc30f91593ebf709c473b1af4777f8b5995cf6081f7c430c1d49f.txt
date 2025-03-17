@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many ounces of water are needed to fill all 10 glasses to the brim, we will follow these steps:
+
+1. **Determine the total capacity of one glass:** Each glass has a capacity of 6 ounces.
+
+2. **Calculate how much water is currently in one glass:** Since each glass is 4/5 full, we can find out how much water is currently in one glass by multiplying the glass's capacity by the fraction that is full:
+   \[
+   \text{Water in one glass} = 6 \text{ ounces} \times \frac{4}{5} = 6 \times 0.8 = 4.8 \text{ ounces}
+   \]
+
+3. **Calculate the amount of water needed to fill one glass to the brim:** To find out how much more water is needed to fill one glass to the brim (which is 6 ounces), we subtract the amount of water currently in the glass from the total capacity:
+   \[
+   \text{Water needed for one glass} = 6 \text{ ounces} - 4.8 \text{ ounces} = 1.2 \text{ ounces}
+   \]
+
+4. **Calculate the total amount of water needed for all 10 glasses:** Since we have 10 glasses, we need to multiply the amount of water needed for one glass by the total number of glasses:
+   \[
+   \text{Total water needed} = 10 \text{ glasses} \times 1.2 \text{ ounces/glass} = 12 \text{ ounces}
+   \]
+
+Thus, after calculating the required amounts step-by-step, we find that:
+</reasoning>
+<answer>12</answer>

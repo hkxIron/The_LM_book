@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **First Competitor's Jump**: The first competitor jumped a distance of 22 feet. 
+   - So, we have:
+     \[
+     \text{First Competitor's Jump} = 22 \text{ feet}
+     \]
+
+2. **Second Competitor's Jump**: The second competitor jumped one foot farther than the first competitor. 
+   - Therefore, the second competitor's jump is:
+     \[
+     \text{Second Competitor's Jump} = 22 \text{ feet} + 1 \text{ foot} = 23 \text{ feet}
+     \]
+
+3. **Third Competitor's Jump**: The third competitor jumped two feet shorter than the second competitor. 
+   - Thus, we calculate the third competitor's jump as follows:
+     \[
+     \text{Third Competitor's Jump} = 23 \text{ feet} - 2 \text{ feet} = 21 \text{ feet}
+     \]
+
+4. **Fourth Competitor's Jump**: The fourth competitor jumped three feet further than the third competitor. 
+   - Now, we can find the distance jumped by the fourth competitor:
+     \[
+     \text{Fourth Competitor's Jump} = 21 \text{ feet} + 3 \text{ feet} = 24 \text{ feet}
+     \]
+
+Now we have calculated the jumps for each competitor, and specifically the fourth competitor's jump.
+</reasoning>
+<answer>24</answer>

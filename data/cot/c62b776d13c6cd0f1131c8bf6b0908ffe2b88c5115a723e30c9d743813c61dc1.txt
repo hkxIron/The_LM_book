@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Identify distances**: We know that Ken's house is 4 miles away from Dawn's house. According to the problem, Ken's house is also twice as far from Dawn's house as Mary's house is from Dawn's house. 
+
+2. **Calculate the distance from Mary's house to Dawn's house**: Since Ken's house is 4 miles from Dawn's house, and it is stated that this distance is twice the distance from Mary's house to Dawn's, we can set up the equation:
+   \[
+   \text{Distance from Ken to Dawn} = 2 \times \text{Distance from Mary to Dawn}
+   \]
+   Plugging in the known distance:
+   \[
+   4 = 2 \times \text{Distance from Mary to Dawn}
+   \]
+   To find the distance from Mary to Dawn, we divide both sides by 2:
+   \[
+   \text{Distance from Mary to Dawn} = \frac{4}{2} = 2 \text{ miles}
+   \]
+
+3. **Determine the route Ken will take**: Ken starts at his house, goes to Dawn's house, then to Mary's house, then back to Dawn's house, and finally returns to his own house.
+
+4. **Calculate the total distance covered**:
+   - First, Ken goes from his house to Dawn's house: **4 miles**.
+   - Next, he goes from Dawn's house to Mary's house: **2 miles**.
+   - Then, he returns from Mary's house back to Dawn's house: **2 miles**.
+   - Finally, he returns from Dawn's house back to his own house: **4 miles**.
+
+5. **Add all the distances together**:
+   \[
+   \text{Total distance} = 4 + 2 + 2 + 4
+   \]
+   Performing the addition:
+   \[
+   \text{Total distance} = 12 \text{ miles}
+   \]
+
+Therefore, the total distance Ken covers during his journey is 12 miles.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+Let's start by determining how many apples Jack will have after giving some to his father.
+
+1. **Calculate the apples after giving to father:**
+   Jack bought 55 apples and gives away 10 to his father. 
+   To find out how many apples Jack has left, we subtract the 10 from the 55.
+   \[
+   55 - 10 = 45
+   \]
+   So, after giving 10 apples to his father, Jack has 45 apples left.
+
+2. **Divide the remaining apples among friends:**
+   Jack wants to share the remaining 45 apples equally between himself and his 4 friends. This means there are a total of 5 people (Jack + 4 friends).
+   To find out how many apples each person gets, we divide the 45 apples by 5.
+   \[
+   45 \div 5 = 9
+   \]
+   Therefore, each person will receive 9 apples.
+
+Now, we can conclude the problem.
+</reasoning>
+<answer>9</answer>

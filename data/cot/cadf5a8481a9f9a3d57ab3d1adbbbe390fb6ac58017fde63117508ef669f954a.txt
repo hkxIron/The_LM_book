@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many kilograms of tomatoes Marta had ready for sale on Tuesday, we will go through the problem step by step.
+
+1. **Initial Shipment**: On Friday, Marta received a shipment of 1000 kg of tomatoes. This is the starting amount she has in the store.
+
+2. **Sales on Saturday**: On Saturday, Marta sold 300 kg of tomatoes. We need to subtract this amount from the initial shipment to find out how many tomatoes are left after the sales.
+   \[
+   1000 \text{ kg} - 300 \text{ kg} = 700 \text{ kg}
+   \]
+   So, after Saturday's sales, Marta has 700 kg of tomatoes left.
+
+3. **Rotten Tomatoes on Sunday**: The store was closed on Sunday, resulting in 200 kg of tomatoes rotting and being thrown away. We need to subtract this rotten amount from the remaining tomatoes.
+   \[
+   700 \text{ kg} - 200 \text{ kg} = 500 \text{ kg}
+   \]
+   Now, after accounting for the rotten tomatoes, Marta has 500 kg of tomatoes left.
+
+4. **New Shipment on Monday**: On Monday, another shipment arrived that was twice the size of the first shipment. The first shipment was 1000 kg, so the new shipment is:
+   \[
+   2 \times 1000 \text{ kg} = 2000 \text{ kg}
+   \]
+   We will add this new shipment to the remaining tomatoes.
+
+5. **Total Tomatoes on Tuesday**: Now, we add the remaining tomatoes after Sunday to the new shipment received on Monday.
+   \[
+   500 \text{ kg} + 2000 \text{ kg} = 2500 \text{ kg}
+   \]
+
+Thus, on Tuesday, Marta has 2500 kg of tomatoes ready for sale.
+</reasoning>
+<answer>2500</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem, we need to determine how much food the third dog eats based on the information given about the other two dogs and the average consumption of all three dogs.
+
+1. **Calculate the total food consumption of all three dogs per week**: 
+   The average food consumption for the three dogs is given as 15 pounds per week. Since there are 3 dogs, we can calculate the total food consumption as follows:
+
+   \[
+   \text{Total food consumption} = \text{Average consumption} \times \text{Number of dogs}
+   \]
+   \[
+   \text{Total food consumption} = 15 \, \text{pounds/week} \times 3 = 45 \, \text{pounds/week}
+   \]
+
+   This means all three dogs together eat 45 pounds of food a week.
+
+2. **Determine the food consumption of the first dog**:
+   The first dog eats 13 pounds of food a week.
+
+3. **Determine the food consumption of the second dog**:
+   The second dog eats double what the first dog eats. Therefore, we can calculate it as:
+
+   \[
+   \text{Second dog's consumption} = 2 \times \text{First dog's consumption} = 2 \times 13 \, \text{pounds/week} = 26 \, \text{pounds/week}
+   \]
+
+4. **Calculate the food consumption of the third dog**:
+   Now we have the total food consumption and the amount eaten by the first two dogs. We can find out how much the third dog eats by subtracting the consumption of the first and second dogs from the total consumption:
+
+   \[
+   \text{Third dog's consumption} = \text{Total food consumption} - (\text{First dog's consumption} + \text{Second dog's consumption})
+   \]
+   \[
+   \text{Third dog's consumption} = 45 \, \text{pounds/week} - (13 \, \text{pounds/week} + 26 \, \text{pounds/week})
+   \]
+   \[
+   \text{Third dog's consumption} = 45 \, \text{pounds/week} - 39 \, \text{pounds/week} = 6 \, \text{pounds/week}
+   \]
+
+Thus, the third dog eats 6 pounds of food a week.
+</reasoning>
+<answer>6</answer>

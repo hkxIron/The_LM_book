@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we first need to determine how many people bought coffee at Fatima's restaurant.
+
+1. **Calculate the number of people who bought coffee**: We know that 3/5 of the 25 people served bought coffee. To find this, we multiply 25 by 3/5.
+
+   \[
+   \text{Number of people who bought coffee} = 25 \times \frac{3}{5}
+   \]
+
+   Now, we perform the multiplication:
+
+   \[
+   25 \times \frac{3}{5} = \frac{25 \times 3}{5} = \frac{75}{5} = 15
+   \]
+
+   So, 15 people bought coffee.
+
+2. **Calculate the number of people who did not buy coffee**: To find out how many people did not buy coffee, we subtract the number of people who bought coffee from the total number of people served.
+
+   \[
+   \text{Number of people who did not buy coffee} = 25 - 15
+   \]
+
+   Performing the subtraction gives us:
+
+   \[
+   25 - 15 = 10
+   \]
+
+Thus, 10 people did not buy coffee.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>10</answer>

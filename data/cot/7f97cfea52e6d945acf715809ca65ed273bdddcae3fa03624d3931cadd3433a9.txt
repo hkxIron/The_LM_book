@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much Hank spent on apples and pears, we'll calculate the cost of each type of fruit separately and then sum those amounts.
+
+1. **Calculate the cost of apples:**
+   - The cost of apples is $40 for a dozen.
+   - Hank bought 14 dozen of apples.
+   
+   To find the total cost for apples, we multiply the number of dozens by the cost per dozen:
+   \[
+   \text{Total cost for apples} = 14 \, \text{dozen} \times 40 \, \text{dollars/dozen}
+   \]
+   \[
+   \text{Total cost for apples} = 560 \, \text{dollars}
+   \]
+
+2. **Calculate the cost of pears:**
+   - The cost of pears is $50 for a dozen.
+   - Hank also bought 14 dozen of pears.
+   
+   To find the total cost for pears, we do the same multiplication:
+   \[
+   \text{Total cost for pears} = 14 \, \text{dozen} \times 50 \, \text{dollars/dozen}
+   \]
+   \[
+   \text{Total cost for pears} = 700 \, \text{dollars}
+   \]
+
+3. **Add the costs of apples and pears:**
+   Now, we add the total costs of apples and pears to find the overall total:
+   \[
+   \text{Total cost} = \text{Total cost for apples} + \text{Total cost for pears}
+   \]
+   \[
+   \text{Total cost} = 560 \, \text{dollars} + 700 \, \text{dollars}
+   \]
+   \[
+   \text{Total cost} = 1260 \, \text{dollars}
+   \]
+
+Therefore, the total amount Hank spent is $1260.
+</reasoning>
+<answer>1260</answer>

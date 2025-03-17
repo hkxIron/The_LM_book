@@ -1,0 +1,63 @@
+<reasoning>
+Let's start by calculating the total number of crayons Nori had initially.
+
+1. **Calculate the total number of crayons:**
+   Nori had 4 boxes of crayons, and each box contained 8 crayons. Therefore, the total number of crayons can be calculated as follows:
+   \[
+   \text{Total crayons} = \text{Number of boxes} \times \text{Crayons per box} = 4 \times 8
+   \]
+   Calculating this:
+   \[
+   4 \times 8 = 32
+   \]
+   So, Nori initially had 32 crayons.
+
+2. **Determine how many crayons Nori gave away:**
+   Nori gave 5 crayons to Mae. We need to denote the number of crayons she gave to Lea as \( x \). Therefore, the total number of crayons Nori gave away is:
+   \[
+   \text{Total given away} = 5 + x
+   \]
+
+3. **Set up the equation for the remaining crayons:**
+   Nori has 15 crayons left after giving some away. So we can set up the equation:
+   \[
+   \text{Initial crayons} - \text{Total given away} = \text{Crayons left}
+   \]
+   Substituting the values we have:
+   \[
+   32 - (5 + x) = 15
+   \]
+
+4. **Solve for \( x \):**
+   Let's simplify the equation:
+   \[
+   32 - 5 - x = 15
+   \]
+   \[
+   27 - x = 15
+   \]
+   Now, we isolate \( x \):
+   \[
+   -x = 15 - 27
+   \]
+   \[
+   -x = -12
+   \]
+   Therefore:
+   \[
+   x = 12
+   \]
+
+5. **Determine how many more crayons Nori gave to Lea than Mae:**
+   Nori gave 5 crayons to Mae and 12 crayons to Lea. We want to find out how many more crayons she gave to Lea than Mae:
+   \[
+   \text{More to Lea than Mae} = x - 5
+   \]
+   Substituting the value of \( x \):
+   \[
+   12 - 5 = 7
+   \]
+
+Thus, Nori gave 7 more crayons to Lea than she did to Mae.
+</reasoning>
+<answer>7</answer>

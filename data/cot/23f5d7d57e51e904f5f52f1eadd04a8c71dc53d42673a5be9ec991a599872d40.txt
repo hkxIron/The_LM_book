@@ -1,0 +1,28 @@
+<reasoning>
+First, let's determine how many slices of cheesecake Penny has from the 7 cheesecake pies. Since each cheesecake pie is cut into 6 slices, we can calculate the total number of slices as follows:
+
+1. **Calculate total slices:** 
+   \[
+   \text{Total slices} = \text{Number of pies} \times \text{Slices per pie} = 7 \times 6
+   \]
+   This gives us:
+   \[
+   \text{Total slices} = 42
+   \]
+   Here, we multiply 7 (the number of pies) by 6 (the number of slices each pie is cut into) to find the total number of slices available for sale.
+
+Next, we need to calculate the total revenue from selling all these slices. Each slice is sold for $7.
+
+2. **Calculate total revenue:**
+   \[
+   \text{Total revenue} = \text{Total slices} \times \text{Price per slice} = 42 \times 7
+   \]
+   Now, performing the multiplication:
+   \[
+   \text{Total revenue} = 294
+   \]
+   In this step, we multiply the total number of slices (42) by the price per slice ($7) to find out how much money Penny makes from selling all the slices.
+
+Therefore, the total amount of money Penny makes from selling the cheesecake slices is:
+</reasoning>
+<answer>294</answer>

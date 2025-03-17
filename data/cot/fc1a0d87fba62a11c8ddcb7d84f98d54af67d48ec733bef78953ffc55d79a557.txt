@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much Maria paid in total after receiving a 25% discount of $40, we can follow these steps:
+
+1. **Identify the original price before the discount**: 
+   The discount of $40 corresponds to 25% of the original price. We can represent the original price as \( x \). Therefore, we can write the equation:
+   \[
+   0.25x = 40
+   \]
+   This means that 25% of the original price \( x \) is equal to $40.
+
+2. **Solve for the original price \( x \)**: 
+   To isolate \( x \), we divide both sides of the equation by 0.25:
+   \[
+   x = \frac{40}{0.25}
+   \]
+
+3. **Calculate the original price**: 
+   Performing the division:
+   \[
+   x = 40 \div 0.25 = 40 \times 4 = 160
+   \]
+   So, the original price of the DVDs before the discount was $160.
+
+4. **Calculate the amount Maria paid after the discount**: 
+   To find the total amount Maria paid, we subtract the discount from the original price:
+   \[
+   \text{Amount paid} = \text{Original price} - \text{Discount}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Amount paid} = 160 - 40 = 120
+   \]
+
+Therefore, after calculating these steps, we find that the total amount Maria paid for the DVDs is $120.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,50 @@
+<reasoning>
+Let's break down the costs step by step.
+
+1. **Calculate the cost of one ticket**: 
+   Each movie ticket costs $5. 
+
+2. **Calculate the cost of popcorn**: 
+   The cost of the popcorn is 80% of the cost of the ticket. 
+   \[
+   \text{Cost of popcorn} = 0.80 \times \text{Cost of ticket} = 0.80 \times 5 = 4
+   \]
+   Therefore, each set of popcorn costs $4.
+
+3. **Calculate the cost of soda**: 
+   The cost of a can of soda is 50% of the cost of the popcorn.
+   \[
+   \text{Cost of soda} = 0.50 \times \text{Cost of popcorn} = 0.50 \times 4 = 2
+   \]
+   Thus, each can of soda costs $2.
+
+4. **Calculate the total cost for the tickets**: 
+   The family bought 4 tickets.
+   \[
+   \text{Total cost for tickets} = 4 \times \text{Cost of one ticket} = 4 \times 5 = 20
+   \]
+
+5. **Calculate the total cost for the popcorn**: 
+   The family bought 2 sets of popcorn.
+   \[
+   \text{Total cost for popcorn} = 2 \times \text{Cost of one set of popcorn} = 2 \times 4 = 8
+   \]
+
+6. **Calculate the total cost for the soda**: 
+   The family bought 4 cans of soda.
+   \[
+   \text{Total cost for soda} = 4 \times \text{Cost of one can of soda} = 4 \times 2 = 8
+   \]
+
+7. **Calculate the total spending**: 
+   Now, we add all these costs together to find the total amount spent by the family.
+   \[
+   \text{Total spending} = \text{Total cost for tickets} + \text{Total cost for popcorn} + \text{Total cost for soda}
+   \]
+   \[
+   \text{Total spending} = 20 + 8 + 8 = 36
+   \]
+
+Therefore, the family spent a total of $36.
+</reasoning>
+<answer>36</answer>

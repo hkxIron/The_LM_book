@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many apples were bought by the two men and three women, we first need to determine how many apples each woman bought.
+
+1. **Calculate the number of apples bought by the two men**:
+   - Each man bought 30 apples.
+   - Therefore, the total number of apples bought by both men is:
+     \[
+     2 \times 30 = 60 \text{ apples}
+     \]
+
+2. **Determine how many apples each woman bought**:
+   - We know that the men bought 20 apples less than each woman. If \( x \) is the number of apples each woman bought, then we can set up the equation:
+     \[
+     30 = x - 20
+     \]
+   - To find \( x \), we solve the equation:
+     \[
+     x = 30 + 20 = 50 \text{ apples}
+     \]
+   - Thus, each woman bought 50 apples.
+
+3. **Calculate the total number of apples bought by the three women**:
+   - Since there are three women, the total number of apples bought by them is:
+     \[
+     3 \times 50 = 150 \text{ apples}
+     \]
+
+4. **Calculate the total number of apples bought by both men and women**:
+   - Now, we add the total number of apples bought by the men and women:
+     \[
+     60 + 150 = 210 \text{ apples}
+     \]
+
+Therefore, combining all the results, the total number of apples bought by the two men and three women is:
+</reasoning>
+<answer>210</answer>

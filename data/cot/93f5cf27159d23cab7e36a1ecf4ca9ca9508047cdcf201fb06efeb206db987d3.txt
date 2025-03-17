@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Fritz's amount**: We know that Fritz has 40 dollars. 
+
+2. **Calculate half of Fritz's amount**: We need to find half of Fritz's money because Sean's amount is based on this. 
+   \[
+   \text{Half of Fritz's amount} = \frac{40}{2} = 20 \text{ dollars}
+   \]
+
+3. **Calculate Sean's amount**: According to the problem, Sean has 4 dollars more than half of Fritz's amount. So we add 4 dollars to the half we just calculated.
+   \[
+   \text{Sean's amount} = 20 + 4 = 24 \text{ dollars}
+   \]
+
+4. **Calculate Rick's amount**: The problem states that Rick has 3 times as much money as Sean. We will multiply Sean's amount by 3 to find Rick's money.
+   \[
+   \text{Rick's amount} = 3 \times 24 = 72 \text{ dollars}
+   \]
+
+Now we have the amounts for both Rick and Sean:
+- Sean has 24 dollars.
+- Rick has 72 dollars.
+
+Therefore, the final amounts are:
+- Sean: 24 dollars
+- Rick: 72 dollars
+
+Thus, the total amounts of money both Sean and Rick have are 24 and 72 dollars, respectively.
+</reasoning>
+<answer>96</answer>

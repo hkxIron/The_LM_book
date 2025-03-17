@@ -1,0 +1,19 @@
+<reasoning>
+To find out how many marbles are in the jar, we need to first determine how many marbles Leo has, since we know how many Ben has.
+
+1. **Identify the number of marbles Ben has**: Ben has 56 marbles.
+
+2. **Calculate the number of marbles Leo has**: Leo has 20 more marbles than Ben. To find out how many marbles Leo has, we add 20 to the number of marbles Ben has:
+   \[
+   \text{Marbles Leo has} = \text{Marbles Ben has} + 20 = 56 + 20 = 76
+   \]
+   So, Leo has 76 marbles.
+
+3. **Calculate the total number of marbles in the jar**: Now, we need to find the total number of marbles by adding the number of marbles Ben has to the number of marbles Leo has:
+   \[
+   \text{Total marbles} = \text{Marbles Ben has} + \text{Marbles Leo has} = 56 + 76 = 132
+   \]
+
+Therefore, the total number of marbles in the jar is 132.
+</reasoning>
+<answer>132</answer>

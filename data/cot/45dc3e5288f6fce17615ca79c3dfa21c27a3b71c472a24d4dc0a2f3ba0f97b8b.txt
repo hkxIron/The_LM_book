@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we need to break down the information we have about the life cycle of the butterfly.
+
+1. We know that the total time it takes for a butterfly egg to become a butterfly is 120 days. This entire duration includes the time spent as a larva and the time spent in a cocoon.
+
+2. Let's denote:
+   - The time spent in the cocoon as \( C \) days.
+   - The time spent as a larva as \( L \) days.
+
+3. According to the problem, we have the relationship that each butterfly spends 3 times as much time as a larva compared to the time spent in a cocoon. We can express this relationship as:
+   \[
+   L = 3C
+   \]
+
+4. Now, since the total time for development is 120 days, we can set up the following equation:
+   \[
+   L + C = 120
+   \]
+
+5. We can substitute the expression for \( L \) from step 3 into the equation from step 4:
+   \[
+   3C + C = 120
+   \]
+
+6. Combine like terms:
+   \[
+   4C = 120
+   \]
+
+7. Now, to find \( C \), we divide both sides by 4:
+   \[
+   C = \frac{120}{4} = 30
+   \]
+
+This means each butterfly spends 30 days in the cocoon.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

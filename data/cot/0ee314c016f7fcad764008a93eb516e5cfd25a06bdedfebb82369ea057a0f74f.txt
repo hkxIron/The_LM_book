@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much Whitney spent in total, we need to calculate the cost of the books and the magazines separately and then add those amounts together.
+
+1. **Calculate the cost of the books:**
+   - Whitney bought 9 books about whales and 7 books about fish. 
+   - First, we need to find the total number of books she bought:
+     \[
+     9 + 7 = 16 \text{ books}
+     \]
+   - Each book costs $11, so we multiply the total number of books by the cost per book:
+     \[
+     16 \text{ books} \times 11 \text{ dollars/book} = 176 \text{ dollars}
+     \]
+
+2. **Calculate the cost of the magazines:**
+   - Whitney bought 3 magazines, and each magazine costs $1. 
+   - Therefore, we multiply the number of magazines by the cost per magazine:
+     \[
+     3 \text{ magazines} \times 1 \text{ dollar/magazine} = 3 \text{ dollars}
+     \]
+
+3. **Add the total costs together:**
+   - Now, we add the total cost of the books to the total cost of the magazines:
+     \[
+     176 \text{ dollars} + 3 \text{ dollars} = 179 \text{ dollars}
+     \]
+
+Therefore, after calculating the costs of both books and magazines, we find that Whitney spent a total of $179.
+</reasoning>
+<answer>179</answer>

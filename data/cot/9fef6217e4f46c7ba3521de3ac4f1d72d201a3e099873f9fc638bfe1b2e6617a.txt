@@ -1,0 +1,23 @@
+<reasoning>
+To find the total number of balloons, we will break the problem down into steps.
+
+1. **Determine the number of bags of balloons in total.**
+   - The store ordered 5 boxes of balloons.
+   - Each box contains 8 bags of balloons.
+   - To find the total number of bags, we multiply the number of boxes by the number of bags per box:
+     \[
+     \text{Total bags} = 5 \, \text{boxes} \times 8 \, \text{bags/box} = 40 \, \text{bags}
+     \]
+   - This means there are 40 bags of balloons.
+
+2. **Determine the total number of balloons.**
+   - We know that each bag contains 12 balloons.
+   - To find the total number of balloons, we multiply the total number of bags by the number of balloons per bag:
+     \[
+     \text{Total balloons} = 40 \, \text{bags} \times 12 \, \text{balloons/bag} = 480 \, \text{balloons}
+     \]
+   - This means there are a total of 480 balloons.
+
+Therefore, after calculating the number of bags and then the number of balloons based on those bags, we arrive at the final answer.
+</reasoning>
+<answer>480</answer>

@@ -1,0 +1,20 @@
+<reasoning>
+To solve this problem, we will first calculate the time it takes Derek to walk 20 miles without his brother and then calculate the time it takes to walk the same distance with his brother. Finally, we will find the difference between these two times to determine how many minutes longer it takes when he walks with his brother.
+
+1. **Calculate the time it takes to walk 20 miles without his brother:**
+   - Derek takes 9 minutes to walk 1 mile without his brother.
+   - To find the time for 20 miles, we multiply the time for 1 mile by 20.
+   - Calculation: \( 9 \text{ minutes/mile} \times 20 \text{ miles} = 180 \text{ minutes} \)
+
+2. **Calculate the time it takes to walk 20 miles with his brother:**
+   - Derek takes 12 minutes to walk 1 mile with his brother.
+   - Again, we multiply the time for 1 mile by 20 to get the total time for 20 miles.
+   - Calculation: \( 12 \text{ minutes/mile} \times 20 \text{ miles} = 240 \text{ minutes} \)
+
+3. **Find the difference in time between walking with and without his brother:**
+   - We subtract the time it takes without his brother from the time it takes with his brother.
+   - Calculation: \( 240 \text{ minutes} - 180 \text{ minutes} = 60 \text{ minutes} \)
+
+Therefore, it takes Derek 60 minutes longer to walk 20 miles if he has to take his brother.
+</reasoning>
+<answer>60</answer>

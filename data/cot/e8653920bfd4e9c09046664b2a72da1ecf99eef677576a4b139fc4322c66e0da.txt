@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we need to determine how long it takes for the sheepdog to catch the sheep after it starts running.
+
+1. **Identify the speeds of the sheep and the sheepdog:**
+   - The sheep runs at a speed of 12 feet per second.
+   - The sheepdog runs at a speed of 20 feet per second.
+
+2. **Determine the initial distance between the sheep and the sheepdog:**
+   - The sheep is initially 160 feet away from the sheepdog.
+
+3. **Calculate the relative speed between the sheepdog and the sheep:**
+   - The sheepdog is faster than the sheep, so we can find the rate at which the dog is closing the gap by subtracting the sheep's speed from the dog's speed:
+     \[
+     \text{Relative Speed} = \text{Speed of Dog} - \text{Speed of Sheep} = 20 \text{ feet/second} - 12 \text{ feet/second} = 8 \text{ feet/second}
+     \]
+   - This means that for every second that passes, the dog reduces the distance between itself and the sheep by 8 feet.
+
+4. **Calculate the time it takes for the dog to close the initial distance of 160 feet:**
+   - We use the formula:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Relative Speed}} = \frac{160 \text{ feet}}{8 \text{ feet/second}} = 20 \text{ seconds}
+     \]
+
+Therefore, it takes the sheepdog 20 seconds to catch the sheep.
+</reasoning>
+<answer>20</answer>

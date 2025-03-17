@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the total parts in the ratio**: The ratio of marbles shared by Brittany, Alex, and Jamy is 3:5:7. We first find the total number of parts in this ratio.
+   - Total parts = 3 (Brittany) + 5 (Alex) + 7 (Jamy) = 15 parts.
+
+2. **Calculate the value of each part**: Since the total number of marbles is 600, we need to divide this total by the total parts to find the value of one part.
+   - Value of one part = Total marbles / Total parts = 600 / 15 = 40 marbles.
+
+3. **Determine the number of marbles each person has**: Now we can find out how many marbles each person has by multiplying the number of parts they have by the value of one part.
+   - Brittany's marbles = 3 parts × 40 marbles/part = 120 marbles.
+   - Alex's marbles = 5 parts × 40 marbles/part = 200 marbles.
+   - Jamy's marbles = 7 parts × 40 marbles/part = 280 marbles.
+
+4. **Calculate how many marbles Brittany gives to Alex**: Brittany gives Alex half of her marbles, so we need to calculate half of Brittany's total.
+   - Half of Brittany's marbles = 120 marbles / 2 = 60 marbles.
+
+5. **Determine the new total for Alex after receiving marbles from Brittany**: Now, we add the 60 marbles that Alex receives from Brittany to Alex's original amount to find out how many marbles Alex has now.
+   - New total for Alex = Original marbles + Marbles received from Brittany = 200 marbles + 60 marbles = 260 marbles.
+
+Therefore, after all the calculations, Alex now has a total of 260 marbles.
+</reasoning>
+<answer>260</answer>

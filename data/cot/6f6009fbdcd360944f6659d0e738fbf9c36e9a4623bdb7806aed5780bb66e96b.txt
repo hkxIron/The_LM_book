@@ -1,0 +1,46 @@
+<reasoning>
+To determine how much too much the three children weigh together to cross the bridge, we need to first find the weights of Megan and Mike based on the information provided about Kelly.
+
+1. **Find Megan's weight**: 
+   We know that Kelly weighs 34 kilograms and that this is 15% less than Megan's weight. This means we can express Megan's weight in terms of Kelly's weight. If we let M be Megan's weight, we can write the equation:
+   \[
+   K = M - 0.15M
+   \]
+   Since K (Kelly's weight) is 34 kilograms, we can substitute:
+   \[
+   34 = M - 0.15M
+   \]
+   Simplifying the right side:
+   \[
+   34 = 0.85M
+   \]
+   To find M, we divide both sides by 0.85:
+   \[
+   M = \frac{34}{0.85} \approx 40
+   \]
+
+2. **Find Mike's weight**: 
+   Mike weighs 5 kilograms more than Megan. Since we found Megan's weight to be approximately 40 kilograms, we can calculate Mike's weight (let's denote it as W):
+   \[
+   W = M + 5 = 40 + 5 = 45
+   \]
+
+3. **Calculate the total weight of all three children**:
+   Now that we have all three weights:
+   - Kelly: 34 kg
+   - Megan: 40 kg
+   - Mike: 45 kg
+   The total weight \( T \) is:
+   \[
+   T = K + M + W = 34 + 40 + 45 = 119
+   \]
+
+4. **Determine how much too much they weigh**:
+   The bridge can hold up to 100 kilograms. To find out how much too much they weigh, we subtract the bridge's limit from their total weight:
+   \[
+   \text{Excess weight} = T - \text{Bridge limit} = 119 - 100 = 19
+   \]
+
+Thus, the three children weigh 19 kilograms too much to cross the bridge safely.
+</reasoning>
+<answer>19</answer>

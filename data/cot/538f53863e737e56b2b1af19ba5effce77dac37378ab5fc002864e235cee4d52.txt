@@ -1,0 +1,30 @@
+<reasoning>
+To determine how many words Bo needs to learn each day, we first need to find out how many words he already knows and how many words he has left to learn.
+
+1. **Calculate the number of words Bo knows**:
+   - Bo has a total of 800 flashcards.
+   - He knows 20% of the words on them.
+   - To find 20% of 800, we multiply 800 by 0.20:
+     \[
+     800 \times 0.20 = 160
+     \]
+   - So, Bo knows 160 words.
+
+2. **Calculate the number of words Bo needs to learn**:
+   - To find out how many words he has left to learn, we subtract the number of words he knows from the total number of words:
+     \[
+     800 - 160 = 640
+     \]
+   - Thus, Bo needs to learn 640 words.
+
+3. **Calculate how many words he needs to learn per day**:
+   - Bo has 40 days to learn the remaining words.
+   - To find out how many words he needs to learn each day, we divide the number of words he needs to learn by the number of days:
+     \[
+     \frac{640}{40} = 16
+     \]
+   - Therefore, Bo needs to learn 16 words per day.
+
+In conclusion, Bo has to learn 16 words each day to complete his goal.
+</reasoning>
+<answer>16</answer>

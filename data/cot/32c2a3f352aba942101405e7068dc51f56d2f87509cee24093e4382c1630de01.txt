@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of T-shirts Dave bought, we need to calculate the number of white T-shirts and the number of blue T-shirts separately and then add them together.
+
+1. **Calculate the number of white T-shirts:**
+   - Dave bought 3 packs of white T-shirts.
+   - Each pack contains 6 T-shirts.
+   - So, we multiply the number of packs by the number of T-shirts per pack:
+     \[
+     \text{Number of white T-shirts} = 3 \text{ packs} \times 6 \text{ T-shirts/pack} = 18 \text{ white T-shirts}
+     \]
+
+2. **Calculate the number of blue T-shirts:**
+   - Dave bought 2 packs of blue T-shirts.
+   - Each pack contains 4 T-shirts.
+   - Similarly, we multiply the number of packs by the number of T-shirts per pack:
+     \[
+     \text{Number of blue T-shirts} = 2 \text{ packs} \times 4 \text{ T-shirts/pack} = 8 \text{ blue T-shirts}
+     \]
+
+3. **Add the number of white T-shirts and blue T-shirts:**
+   - Now, we add the total number of white T-shirts and blue T-shirts together to find the overall total:
+     \[
+     \text{Total T-shirts} = 18 \text{ white T-shirts} + 8 \text{ blue T-shirts} = 26 \text{ T-shirts}
+     \]
+
+Therefore, after performing all these calculations, we conclude that Dave bought a total of 26 T-shirts for his basketball team.
+</reasoning>
+<answer>26</answer>

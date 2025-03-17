@@ -1,0 +1,53 @@
+<reasoning>
+To solve the problem, we need to determine how many pages each person has read in 240 minutes and then sum those amounts to find the total.
+
+1. **Calculate the reading rate of each person:**
+   - **Rene:** 
+     - He reads 30 pages in 60 minutes. 
+     - To find how many pages he reads in 240 minutes, we can set up the proportion:
+       \[
+       \text{Pages read by Rene} = \left(\frac{30 \text{ pages}}{60 \text{ minutes}}\right) \times 240 \text{ minutes}
+       \]
+       Simplifying this:
+       \[
+       \text{Pages read by Rene} = 30 \times 4 = 120 \text{ pages}
+       \]
+
+   - **Lulu:**
+     - She reads 27 pages in 60 minutes. 
+     - To find how many pages she reads in 240 minutes:
+       \[
+       \text{Pages read by Lulu} = \left(\frac{27 \text{ pages}}{60 \text{ minutes}}\right) \times 240 \text{ minutes}
+       \]
+       Simplifying this:
+       \[
+       \text{Pages read by Lulu} = 27 \times 4 = 108 \text{ pages}
+       \]
+
+   - **Cherry:**
+     - She reads 25 pages in 60 minutes.
+     - To find how many pages she reads in 240 minutes:
+       \[
+       \text{Pages read by Cherry} = \left(\frac{25 \text{ pages}}{60 \text{ minutes}}\right) \times 240 \text{ minutes}
+       \]
+       Simplifying this:
+       \[
+       \text{Pages read by Cherry} = 25 \times 4 = 100 \text{ pages}
+       \]
+
+2. **Add the total pages read by all three:**
+   - Now we sum the pages read by Rene, Lulu, and Cherry:
+   \[
+   \text{Total pages} = \text{Pages read by Rene} + \text{Pages read by Lulu} + \text{Pages read by Cherry}
+   \]
+   \[
+   \text{Total pages} = 120 + 108 + 100
+   \]
+   Adding these together:
+   \[
+   \text{Total pages} = 328
+   \]
+
+Therefore, they have finished reading a total of 328 pages in 240 minutes.
+</reasoning>
+<answer>328</answer>

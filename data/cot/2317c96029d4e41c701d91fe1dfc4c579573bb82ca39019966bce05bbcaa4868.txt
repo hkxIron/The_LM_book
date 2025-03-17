@@ -1,0 +1,34 @@
+<reasoning>
+To determine how much John paid for the camera rental, we can follow these steps:
+
+1. **Calculate the weekly rental fee**: 
+   The rental fee is 10% of the value of the camera. The value of the camera is $5000.
+   \[
+   \text{Weekly rental fee} = 10\% \text{ of } 5000 = \frac{10}{100} \times 5000 = 500
+   \]
+   So, the weekly rental fee is $500.
+
+2. **Calculate the total rental fee for 4 weeks**: 
+   Since John is renting the camera for 4 weeks, we multiply the weekly rental fee by the number of weeks.
+   \[
+   \text{Total rental fee for 4 weeks} = 500 \times 4 = 2000
+   \]
+   Therefore, the total rental fee for 4 weeks is $2000.
+
+3. **Calculate the friend's contribution**: 
+   John's friend agreed to pay 40% of the total rental fee. We need to find out how much this is.
+   \[
+   \text{Friend's contribution} = 40\% \text{ of } 2000 = \frac{40}{100} \times 2000 = 800
+   \]
+   Thus, John's friend will contribute $800.
+
+4. **Calculate John's payment**: 
+   To find out how much John actually pays, we subtract the friend's contribution from the total rental fee.
+   \[
+   \text{John's payment} = \text{Total rental fee} - \text{Friend's contribution} = 2000 - 800 = 1200
+   \]
+   Therefore, John pays $1200.
+
+Putting it all together, we find that John's payment for renting the camera is $1200.
+</reasoning>
+<answer>1200</answer>

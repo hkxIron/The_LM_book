@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem, we need to establish the relationships between the distances run by Xavier, Katie, and Cole.
+
+1. **Identify the relationships**:
+   - We know that Xavier runs three times as many miles as Katie.
+   - We also know that Katie runs four times as many miles as Cole.
+
+2. **Set up the equations**:
+   - Let the number of miles Cole runs be represented by \( C \).
+   - Since Katie runs four times as many miles as Cole, we can express Katie's miles as \( K = 4C \).
+   - Since Xavier runs three times as many miles as Katie, we can express Xavier's miles as \( X = 3K \).
+
+3. **Substituting the known values**:
+   - We know that Xavier runs 84 miles, so we can set up the equation:
+     \[
+     X = 84
+     \]
+   - Substituting \( K \) into the equation for Xavier gives us:
+     \[
+     84 = 3K
+     \]
+
+4. **Solving for Katie's miles**:
+   - To find \( K \), we solve the equation \( 84 = 3K \):
+     \[
+     K = \frac{84}{3} = 28
+     \]
+   - This tells us that Katie runs 28 miles.
+
+5. **Finding Cole's miles**:
+   - Now we can find the number of miles Cole runs using the relationship \( K = 4C \):
+     \[
+     28 = 4C
+     \]
+   - Solving for \( C \) gives:
+     \[
+     C = \frac{28}{4} = 7
+     \]
+   - This means Cole runs 7 miles.
+
+Putting it all together, we have determined that Cole runs 7 miles based on the relationships and the known distance run by Xavier.
+</reasoning>
+<answer>7</answer>

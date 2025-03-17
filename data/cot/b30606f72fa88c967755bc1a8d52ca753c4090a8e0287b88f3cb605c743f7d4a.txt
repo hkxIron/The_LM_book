@@ -1,0 +1,27 @@
+<reasoning>
+To find the profit James gains from the advertising, we need to follow these steps:
+
+1. **Calculate the total revenue from the customers who made purchases.** 
+   - James brought in 100 customers, and 80% of them made a purchase.
+   - First, we calculate the number of customers who bought something:
+     \[
+     \text{Number of customers who bought something} = 100 \times 0.8 = 80
+     \]
+
+2. **Determine the total sales from those customers.**
+   - Each of the 80 customers bought something that cost $25. 
+   - We calculate the total revenue:
+     \[
+     \text{Total revenue} = 80 \times 25 = 2000
+     \]
+
+3. **Calculate the total cost and profit.**
+   - James spent $1000 on advertising, which is his total cost.
+   - We find the profit by subtracting the advertising cost from the total revenue:
+     \[
+     \text{Profit} = \text{Total revenue} - \text{Cost} = 2000 - 1000 = 1000
+     \]
+
+In conclusion, after accounting for the advertising expenses, James gains a profit of $1000 from the ad.
+</reasoning>
+<answer>1000</answer>

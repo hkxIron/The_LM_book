@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many mushrooms GiGi cut up initially, we need to add up all the pieces of mushrooms that were used by Kenny and Karla, as well as the pieces that remained on the cutting board.
+
+1. **Identify the pieces used by Kenny and Karla:**
+   - Kenny used 38 pieces of mushrooms.
+   - Karla used 42 pieces of mushrooms.
+
+2. **Calculate the total pieces used:**
+   We add the pieces used by Kenny and Karla:
+   \[
+   38 + 42 = 80
+   \]
+   Therefore, Kenny and Karla together used 80 pieces of mushrooms.
+
+3. **Add the remaining pieces:**
+   We know there were 8 pieces left on the cutting board. To find the total number of pieces GiGi cut up, we add the pieces used by Kenny and Karla to the pieces remaining:
+   \[
+   80 + 8 = 88
+   \]
+   Thus, the total number of mushroom pieces that GiGi cut up is 88.
+
+4. **Calculate the initial number of mushrooms:**
+   Since each mushroom was cut into 4 pieces, we need to divide the total number of pieces by 4 to find the number of mushrooms:
+   \[
+   \frac{88}{4} = 22
+   \]
+
+Therefore, GiGi cut up 22 mushrooms at the beginning.
+</reasoning>
+<answer>22</answer>

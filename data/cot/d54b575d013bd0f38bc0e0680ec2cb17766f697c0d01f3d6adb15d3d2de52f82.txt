@@ -1,0 +1,41 @@
+<reasoning>
+To find out how far Carson walks in one night, we first need to calculate the perimeter of the warehouse. The warehouse is rectangular, and the perimeter (P) can be calculated using the formula:
+
+\[ P = 2 \times (length + width) \]
+
+Here, the length is 600 feet and the width is 400 feet. 
+
+1. **Calculate the perimeter:**
+   \[
+   P = 2 \times (600 + 400) 
+   \]
+   \[
+   = 2 \times 1000 
+   \]
+   \[
+   = 2000 \text{ feet}
+   \]
+
+So, the perimeter of the warehouse is 2000 feet. This means that one complete circle around the warehouse is 2000 feet.
+
+2. **Determine how many circles Carson actually walks:**
+   Carson is supposed to circle the warehouse 10 times but skips 2 times. Therefore, the number of circles he actually walks is:
+   \[
+   10 - 2 = 8 \text{ times}
+   \]
+
+3. **Calculate the total distance Carson walks:**
+   To find the total distance walked, we multiply the number of circles he walks by the perimeter:
+   \[
+   \text{Total distance} = 8 \times P
+   \]
+   \[
+   = 8 \times 2000 
+   \]
+   \[
+   = 16000 \text{ feet}
+   \]
+
+Therefore, Carson walks a total distance of 16000 feet in one night.
+</reasoning>
+<answer>16000</answer>

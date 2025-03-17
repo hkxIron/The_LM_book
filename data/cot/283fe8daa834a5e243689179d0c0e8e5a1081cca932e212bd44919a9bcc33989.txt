@@ -1,0 +1,32 @@
+<reasoning>
+First, we need to calculate the total cost of all the items that Michael wants to buy. The costs are as follows:
+
+- Cake: $20
+- Bouquet: $36
+- Balloons: $5
+
+Now, let's add these amounts together to find the total expense.
+
+1. **Add the cost of the cake and the bouquet:**
+   \[
+   20 + 36 = 56
+   \]
+   This means the total for the cake and bouquet is $56.
+
+2. **Now, add the cost of the balloons to this total:**
+   \[
+   56 + 5 = 61
+   \]
+   So, the total cost for the cake, bouquet, and balloons is $61.
+
+Next, we need to determine how much more money Michael needs. He currently has $50.
+
+3. **Subtract the amount of money Michael has from the total cost:**
+   \[
+   61 - 50 = 11
+   \]
+   This means Michael needs an additional $11 to be able to buy all the items.
+
+Therefore, after calculating the total cost of the items and comparing it to the amount of money Michael has, we find:
+</reasoning>
+<answer>11</answer>

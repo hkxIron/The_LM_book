@@ -1,0 +1,52 @@
+<reasoning>
+Let's denote the number of cans Juwan collected as \( J \).
+
+1. According to the problem, Solomon collected three times as many cans as Juwan. Therefore, we can express Solomon's collection in terms of Juwan's:
+   \[
+   S = 3J
+   \]
+   where \( S \) is the number of cans Solomon collected.
+
+2. We know from the problem that Solomon collected 66 cans. So we can set up the equation:
+   \[
+   3J = 66
+   \]
+
+3. To find \( J \), we will divide both sides of the equation by 3:
+   \[
+   J = \frac{66}{3} = 22
+   \]
+   This tells us that Juwan collected 22 cans.
+
+4. Now, we need to find out how many cans Levi collected. The problem states that Levi collected half of what Juwan collected. Therefore:
+   \[
+   L = \frac{1}{2} J
+   \]
+   where \( L \) is the number of cans Levi collected.
+
+5. Substituting the value of \( J \) into the equation gives us:
+   \[
+   L = \frac{1}{2} \times 22 = 11
+   \]
+   Thus, Levi collected 11 cans.
+
+6. Now, we need to find the total number of cans collected by all three boys. We can express this as:
+   \[
+   \text{Total} = S + J + L
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total} = 66 + 22 + 11
+   \]
+
+7. Now, let's perform the addition:
+   \[
+   \text{Total} = 66 + 22 = 88
+   \]
+   \[
+   \text{Total} = 88 + 11 = 99
+   \]
+
+Therefore, the total number of cans collected by Solomon, Juwan, and Levi is:
+</reasoning>
+<answer>99</answer>

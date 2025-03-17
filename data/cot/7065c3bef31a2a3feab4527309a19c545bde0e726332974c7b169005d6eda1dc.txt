@@ -1,0 +1,40 @@
+<reasoning>
+Let's denote the number of shark sightings in Cape May as \( x \).
+
+According to the problem, Daytona Beach has 5 more than triple the number of shark sightings in Cape May. Therefore, we can set up the following equation based on this information:
+
+\[
+26 = 3x + 5
+\]
+
+Here, \( 3x \) represents triple the number of sightings in Cape May, and we add 5 because Daytona Beach has 5 more sightings than that.
+
+Now, let's solve for \( x \):
+
+1. **Subtract 5 from both sides**: This will help isolate the term with \( x \).
+
+\[
+26 - 5 = 3x
+\]
+\[
+21 = 3x
+\]
+
+2. **Divide both sides by 3**: This will give us the value of \( x \) (the number of shark sightings in Cape May).
+
+\[
+\frac{21}{3} = x
+\]
+\[
+x = 7
+\]
+
+So, Cape May has 7 shark sightings.
+
+To summarize:
+- We set up the equation based on the relationship between shark sightings in Daytona Beach and Cape May.
+- We solved for \( x \) by first isolating it and then dividing.
+
+Therefore, the number of shark sightings in Cape May is:
+</reasoning>
+<answer>7</answer>

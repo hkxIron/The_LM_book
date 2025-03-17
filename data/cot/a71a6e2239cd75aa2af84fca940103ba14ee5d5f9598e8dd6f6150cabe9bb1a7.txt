@@ -1,0 +1,48 @@
+<reasoning>
+To determine how much Bran still needs to pay for his tuition fee, we can break down the problem into several steps:
+
+1. **Calculate the amount covered by the scholarship**: 
+   The scholarship covers 30% of Bran's tuition fee. First, we need to find out how much this percentage is in dollar terms.
+
+   \[
+   \text{Scholarship amount} = 30\% \text{ of } \$90 = 0.30 \times 90 = 27
+   \]
+
+   This means the scholarship will cover $27 of the tuition fee.
+
+2. **Calculate Bran's remaining tuition fee**:
+   Next, we need to find out how much Bran has to pay after the scholarship has been applied.
+
+   \[
+   \text{Remaining tuition fee} = \text{Total tuition fee} - \text{Scholarship amount}
+   \]
+   \[
+   = 90 - 27 = 63
+   \]
+
+   So, after the scholarship, Bran's remaining tuition fee is $63.
+
+3. **Calculate how much Bran earns from his part-time job in 3 months**:
+   Bran earns $15 per month, and since he needs to pay his tuition fee within 3 months, we need to calculate his total earnings over that period.
+
+   \[
+   \text{Total earnings in 3 months} = 3 \times 15 = 45
+   \]
+
+   Therefore, Bran will earn $45 from his part-time job over the next 3 months.
+
+4. **Calculate the final amount Bran still needs to pay**:
+   Now, we can find out how much Bran still needs to pay after considering his earnings.
+
+   \[
+   \text{Amount still needed to pay} = \text{Remaining tuition fee} - \text{Total earnings}
+   \]
+   \[
+   = 63 - 45 = 18
+   \]
+
+   This means Bran still needs to pay $18 after his earnings from the part-time job.
+
+Thus, the final amount Bran still needs to pay towards his tuition fee is:
+</reasoning>
+<answer>18</answer>

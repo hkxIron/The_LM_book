@@ -1,0 +1,31 @@
+<reasoning>
+To determine how much the class was able to gather together for the science project, we'll follow these steps:
+
+1. **Identify the total number of students and their contributions**: There are 25 students in total. Each student is supposed to pay $50.
+
+2. **Calculate the contribution of students who paid the full amount**: Since 4 students paid half, that means the number of students who paid the full amount is:
+   \[
+   25 - 4 = 21 \text{ students}
+   \]
+   Each of these 21 students paid $50, so their total contribution is:
+   \[
+   21 \times 50 = 1050 \text{ dollars}
+   \]
+
+3. **Calculate the contribution of the students who paid half**: The 4 students who paid half paid:
+   \[
+   \frac{50}{2} = 25 \text{ dollars each}
+   \]
+   Therefore, the total contribution from these 4 students is:
+   \[
+   4 \times 25 = 100 \text{ dollars}
+   \]
+
+4. **Add the contributions together to find the total amount gathered**: Now we add the contributions from both groups of students:
+   \[
+   1050 + 100 = 1150 \text{ dollars}
+   \]
+
+By going through these steps, I calculated the total amount gathered by the class for the science project.
+</reasoning>
+<answer>1150</answer>

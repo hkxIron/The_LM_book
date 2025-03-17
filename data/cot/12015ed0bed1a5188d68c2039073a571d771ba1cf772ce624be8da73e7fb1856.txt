@@ -1,0 +1,66 @@
+<reasoning>
+To find the total number of people at the concert, we can set up the problem using variables and percentages based on the information given.
+
+1. Let's denote the total number of people at the concert as \( x \).
+
+2. According to the problem, \( \frac{2}{3} \) of the audience is there for the second band. Therefore, the number of people there for the second band is:
+   \[
+   \text{People for second band} = \frac{2}{3}x
+   \]
+
+3. The remaining \( \frac{1}{3} \) of the audience is there for the first band. So, the number of people for the first band is:
+   \[
+   \text{People for first band} = \frac{1}{3}x
+   \]
+
+4. We are told that 50% of the audience for the second band is under the age of 30. Therefore, the number of people under the age of 30 who are there for the second band is:
+   \[
+   \text{People under 30 for second band} = 0.5 \times \frac{2}{3}x = \frac{1}{3}x
+   \]
+
+5. Of this group (the people under 30 for the second band), 60% are women. This means that the number of women under 30 is:
+   \[
+   \text{Women under 30} = 0.6 \times \frac{1}{3}x = \frac{0.6}{3}x = 0.2x
+   \]
+
+6. We know from the problem that there are 20 men under the age of 30. Since the total number of people under 30 for the second band is \( \frac{1}{3}x \), we can find the number of men under 30 by subtracting the number of women from the total:
+   \[
+   \text{Men under 30} = \frac{1}{3}x - 0.2x
+   \]
+
+7. Setting the equation for men under 30 equal to 20 gives us:
+   \[
+   \frac{1}{3}x - 0.2x = 20
+   \]
+
+8. To solve this equation, we first need to express \( 0.2x \) in terms of a fraction with a common denominator with \( \frac{1}{3}x \):
+   \[
+   0.2x = \frac{2}{10}x = \frac{1}{5}x
+   \]
+   To convert \( \frac{1}{5}x \) to a fraction with a denominator of 15, we multiply the numerator and denominator by 3:
+   \[
+   \frac{1}{5}x = \frac{3}{15}x
+   \]
+
+9. Now, convert \( \frac{1}{3}x \) to have a denominator of 15 as well:
+   \[
+   \frac{1}{3}x = \frac{5}{15}x
+   \]
+
+10. Now we can rewrite the equation:
+   \[
+   \frac{5}{15}x - \frac{3}{15}x = 20
+   \]
+   This simplifies to:
+   \[
+   \frac{2}{15}x = 20
+   \]
+
+11. To isolate \( x \), multiply both sides by \( \frac{15}{2} \):
+   \[
+   x = 20 \times \frac{15}{2} = 20 \times 7.5 = 150
+   \]
+
+Thus, the total number of people at the concert is 150.
+</reasoning>
+<answer>150</answer>

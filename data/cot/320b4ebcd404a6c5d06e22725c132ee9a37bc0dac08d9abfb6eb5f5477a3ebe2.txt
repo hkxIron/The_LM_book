@@ -1,0 +1,29 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the quantities of ingredients**: 
+   - Marly adds 2 quarts of milk.
+   - He adds three times as much chicken stock as the milk. To find the amount of chicken stock, we calculate:
+     \[
+     3 \times 2 \text{ quarts (milk)} = 6 \text{ quarts (chicken stock)}
+     \]
+   - Marly also adds 1 quart of pureed vegetables.
+
+2. **Calculate the total volume of the soup**: 
+   - Now, we can find the total volume of the soup by adding the amounts of all the ingredients together:
+     \[
+     \text{Total soup} = \text{milk} + \text{chicken stock} + \text{pureed vegetables}
+     \]
+     \[
+     \text{Total soup} = 2 \text{ quarts} + 6 \text{ quarts} + 1 \text{ quart} = 9 \text{ quarts}
+     \]
+
+3. **Determine how many bags are needed**: 
+   - Marly divides the soup into bags that can hold 3 quarts each. To find out how many bags he needs, we divide the total volume of the soup by the capacity of each bag:
+     \[
+     \text{Number of bags} = \frac{\text{Total soup}}{\text{Capacity of each bag}} = \frac{9 \text{ quarts}}{3 \text{ quarts/bag}} = 3 \text{ bags}
+     \]
+
+Therefore, after calculating the total volume of soup and determining how many bags are needed based on their capacity, we find that Marly needs 3 bags to store the soup.
+</reasoning>
+<answer>3</answer>

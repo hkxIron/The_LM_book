@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the gifts from Mike and Harry**:
+   - Mike has given Tom 17 stamps. 
+   - According to the problem, Harry’s gift is "10 more stamps than twice Mike’s gift." 
+
+2. **Calculate Harry's gift**:
+   - To find out how many stamps Harry gave, we first calculate twice Mike's gift:
+     \[
+     2 \times \text{Mike's gift} = 2 \times 17 = 34 \text{ stamps}
+     \]
+   - Now, we add 10 stamps to this amount to find Harry's gift:
+     \[
+     \text{Harry's gift} = 34 + 10 = 44 \text{ stamps}
+     \]
+
+3. **Calculate the total number of stamps Tom now has**:
+   - Initially, Tom had 3,000 stamps.
+   - Now we add the stamps given by Mike and Harry to Tom’s initial collection:
+     \[
+     \text{Total Stamps} = \text{Initial Stamps} + \text{Mike's gift} + \text{Harry's gift}
+     \]
+   - Plugging in the values:
+     \[
+     \text{Total Stamps} = 3000 + 17 + 44
+     \]
+
+4. **Perform the addition**:
+   - First, add Mike's gift:
+     \[
+     3000 + 17 = 3017
+     \]
+   - Now add Harry's gift:
+     \[
+     3017 + 44 = 3061
+     \]
+
+Therefore, Tom's collection now has a total of 3,061 stamps.
+</reasoning>
+<answer>3061</answer>

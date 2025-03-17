@@ -1,0 +1,56 @@
+<reasoning>
+To solve this problem, we will first determine the number of American and European swallows in the flock, then calculate the maximum weight each type of swallow can carry, and finally find the total weight the flock can carry.
+
+1. **Identify the number of swallows**: 
+   We know that there are 90 swallows in total, and that there are twice as many American swallows as European swallows. 
+   Let's denote the number of European swallows as \( E \) and the number of American swallows as \( A \). According to the problem:
+   \[
+   A = 2E
+   \]
+   Since the total number of swallows is 90, we can write:
+   \[
+   A + E = 90
+   \]
+   Now, substituting \( A = 2E \) into the total equation gives us:
+   \[
+   2E + E = 90
+   \]
+   Simplifying this, we have:
+   \[
+   3E = 90
+   \]
+   Dividing both sides by 3, we find:
+   \[
+   E = 30
+   \]
+   Now substituting back to find \( A \):
+   \[
+   A = 2E = 2 \times 30 = 60
+   \]
+
+2. **Determine the maximum weight each type of swallow can carry**:
+   - The maximum weight that an American swallow can carry is 5 pounds.
+   - The maximum weight that a European swallow can carry is twice that of the American swallow:
+   \[
+   2 \times 5 = 10 \text{ pounds}
+   \]
+
+3. **Calculate the total weight the flock can carry**:
+   - For the American swallows:
+   \[
+   \text{Total weight carried by American swallows} = A \times \text{weight per American swallow} = 60 \times 5 = 300 \text{ pounds}
+   \]
+   - For the European swallows:
+   \[
+   \text{Total weight carried by European swallows} = E \times \text{weight per European swallow} = 30 \times 10 = 300 \text{ pounds}
+   \]
+
+4. **Combine the weights**:
+   Now, we add the total weights from both types of swallows:
+   \[
+   \text{Total maximum weight} = 300 + 300 = 600 \text{ pounds}
+   \]
+
+Therefore, the maximum combined weight the flock can carry is:
+</reasoning>
+<answer>600</answer>

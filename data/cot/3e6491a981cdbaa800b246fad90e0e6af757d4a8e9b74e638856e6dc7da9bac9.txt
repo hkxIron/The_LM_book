@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, we will define the current ages of Xavier and Yasmin in terms of variables and then use the information given to find their ages.
+
+1. Let's denote Yasmin's current age as \( Y \).
+2. Since Xavier is twice as old as Yasmin, we can express Xavier's current age as \( X = 2Y \).
+
+Next, we need to analyze the information given about Xavier's age in the future:
+
+3. The problem states that Xavier will be 30 years old in six years. This can be written as an equation:
+   \[
+   X + 6 = 30
+   \]
+   Here, we are adding 6 years to Xavier's current age to find his age in 6 years.
+
+4. Now, we can solve this equation for \( X \):
+   \[
+   X = 30 - 6
+   \]
+   \[
+   X = 24
+   \]
+   This means Xavier is currently 24 years old.
+
+5. Now that we know \( X \), we can find Yasmin's age using the relationship we defined earlier:
+   \[
+   X = 2Y \implies 24 = 2Y
+   \]
+   To find \( Y \), divide both sides by 2:
+   \[
+   Y = \frac{24}{2} = 12
+   \]
+   So, Yasmin is currently 12 years old.
+
+6. Now, we need to find the total of their ages now:
+   \[
+   \text{Total age} = X + Y = 24 + 12 = 36
+   \]
+
+Therefore, the total of Xavier and Yasmin's ages now is 36.
+</reasoning>
+<answer>36</answer>

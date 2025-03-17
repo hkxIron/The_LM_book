@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many cards Malcom has left after giving half of his cards to his friend Mark, we can follow these steps:
+
+1. **Determine the number of cards Malcom has initially.**  
+   Brandon has 20 baseball cards. According to the problem, Malcom has 8 more cards than Brandon.  
+   So, we add 8 to Brandon's total:  
+   \[
+   \text{Malcom's cards} = 20 + 8 = 28
+   \]  
+   This means Malcom starts with 28 cards.
+
+2. **Calculate how many cards Malcom gives to Mark.**  
+   The problem states that Malcom gives half of his cards to Mark. To find half of Malcom's cards, we divide the total number of cards he has by 2:  
+   \[
+   \text{Cards given to Mark} = \frac{28}{2} = 14
+   \]  
+   Thus, Malcom gives away 14 cards.
+
+3. **Find out how many cards Malcom has left after giving some to Mark.**  
+   To find the remaining number of cards, we subtract the number of cards given to Mark from Malcom's initial total:  
+   \[
+   \text{Malcom's remaining cards} = 28 - 14 = 14
+   \]  
+   Therefore, Malcom has 14 cards left after giving half of his cards away.
+
+Putting this all together, we find that Malcom ends up with 14 cards.
+</reasoning>
+<answer>14</answer>

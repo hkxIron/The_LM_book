@@ -1,0 +1,51 @@
+<reasoning>
+To find MegaCorp's fine, we need to first calculate its annual profits. Here's how we can do that step by step:
+
+1. **Calculate Daily Earnings**: 
+   MegaCorp earns $3,000,000 from mining and $5,000,000 from oil refining each day. We will add these two amounts to find the total daily earnings.
+   \[
+   \text{Total Daily Earnings} = \text{Earnings from Mining} + \text{Earnings from Oil Refining}
+   \]
+   \[
+   \text{Total Daily Earnings} = 3,000,000 + 5,000,000 = 8,000,000
+   \]
+
+2. **Calculate Annual Earnings**: 
+   Since there are 365 days in a year, we will multiply the total daily earnings by 365 to find the annual earnings.
+   \[
+   \text{Annual Earnings} = \text{Total Daily Earnings} \times 365
+   \]
+   \[
+   \text{Annual Earnings} = 8,000,000 \times 365 = 2,920,000,000
+   \]
+
+3. **Calculate Annual Expenses**: 
+   MegaCorp has monthly expenses of $30,000,000. To find the annual expenses, we multiply the monthly expenses by 12 (the number of months in a year).
+   \[
+   \text{Annual Expenses} = \text{Monthly Expenses} \times 12
+   \]
+   \[
+   \text{Annual Expenses} = 30,000,000 \times 12 = 360,000,000
+   \]
+
+4. **Calculate Annual Profits**:
+   We can find the annual profits by subtracting the annual expenses from the annual earnings.
+   \[
+   \text{Annual Profits} = \text{Annual Earnings} - \text{Annual Expenses}
+   \]
+   \[
+   \text{Annual Profits} = 2,920,000,000 - 360,000,000 = 2,560,000,000
+   \]
+
+5. **Calculate the Fine**:
+   MegaCorp is fined 1% of its annual profits. We will calculate this by multiplying the annual profits by 0.01 (which represents 1%).
+   \[
+   \text{Fine} = \text{Annual Profits} \times 0.01
+   \]
+   \[
+   \text{Fine} = 2,560,000,000 \times 0.01 = 25,600,000
+   \]
+
+Thus, after calculating MegaCorp's annual profits and applying the fine percentage, we find that the fine is:
+</reasoning>
+<answer>25600000</answer>

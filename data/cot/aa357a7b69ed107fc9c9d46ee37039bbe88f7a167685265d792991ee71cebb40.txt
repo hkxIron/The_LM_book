@@ -1,0 +1,40 @@
+<reasoning>
+Let's denote the original number of dust particles on the porch before Samuel swept it as \( x \).
+
+1. Samuel cleared nine-tenths of the dust particles. This means that he left one-tenth of the dust particles on the porch after sweeping. Therefore, the number of dust particles remaining after sweeping can be calculated as:
+   \[
+   \text{Dust particles remaining} = \frac{1}{10}x
+   \]
+
+2. After Samuel swept the porch, he walked across it and his shoes left behind 223 dust particles. We know that after he walked across, there were 331 dust particles on the porch. Thus, we can formulate the equation:
+   \[
+   \frac{1}{10}x + 223 = 331
+   \]
+
+3. Now, let's solve for \( x \). First, we will isolate \( \frac{1}{10}x \) by subtracting 223 from both sides:
+   \[
+   \frac{1}{10}x = 331 - 223
+   \]
+
+4. Calculating the right side:
+   \[
+   331 - 223 = 108
+   \]
+   So now we have:
+   \[
+   \frac{1}{10}x = 108
+   \]
+
+5. To find \( x \), we multiply both sides of the equation by 10:
+   \[
+   x = 10 \times 108
+   \]
+
+6. Performing the multiplication:
+   \[
+   x = 1080
+   \]
+
+Thus, the original number of dust particles on the porch before Samuel swept was 1080.
+</reasoning>
+<answer>1080</answer>

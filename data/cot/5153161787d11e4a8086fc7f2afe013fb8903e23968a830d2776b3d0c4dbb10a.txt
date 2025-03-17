@@ -1,0 +1,59 @@
+<reasoning>
+To solve this problem, we need to analyze the information given step by step.
+
+1. **Identify the total number of students**: The total number of students in the class is given as 280.
+
+2. **Define variables for absent students**:
+   - Let \( A_1 \) be the number of absent students on the first day.
+   - Let \( A_2 \) be the number of absent students on the second day.
+   - Let \( A_3 \) be the number of absent students on the third day.
+
+3. **Determine the number of students present each day**:
+   - On the first day, the number of students present is \( 280 - A_1 \).
+   - On the second day, it is stated that the number of students present was 40 more than the first day. Therefore, the number of students present on the second day is \( (280 - A_1) + 40 = 320 - A_1 \).
+   - This means that the number of absent students on the second day can be calculated as:
+     \[
+     A_2 = 280 - (320 - A_1) = A_1 - 40
+     \]
+
+4. **Analyze the third day**:
+   - It is given that on the third day, \( \frac{1}{7} \) of the total students called in sick. Thus, the number of students who called in sick on the third day is:
+     \[
+     A_3 = \frac{1}{7} \times 280 = 40
+     \]
+
+5. **Relate the number of absent students from the second day**: 
+   - We know from the problem statement that the number of students who didn’t turn up on the second day \( A_2 \) was twice the number of absent students on the third day \( A_3 \):
+     \[
+     A_2 = 2 \times A_3 = 2 \times 40 = 80
+     \]
+
+6. **Equate and solve for \( A_1 \)**:
+   - We have the expression for \( A_2 \):
+     \[
+     A_2 = A_1 - 40
+     \]
+   - Substituting \( A_2 = 80 \):
+     \[
+     80 = A_1 - 40
+     \]
+   - Solving for \( A_1 \):
+     \[
+     A_1 = 80 + 40 = 120
+     \]
+
+7. **Summarize**:
+   - Now we have:
+     - \( A_1 = 120 \) (absent on the first day)
+     - \( A_2 = 80 \) (absent on the second day)
+     - \( A_3 = 40 \) (absent on the third day)
+
+8. **Calculate the total number of absent students**:
+   - Total absent students over the three days:
+     \[
+     A_1 + A_2 + A_3 = 120 + 80 + 40 = 240
+     \]
+
+Therefore, the total number of absent students in the three days is:
+</reasoning>
+<answer>240</answer>

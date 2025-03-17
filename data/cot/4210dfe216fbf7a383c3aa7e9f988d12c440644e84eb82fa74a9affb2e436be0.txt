@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many more pages Jessy needs to read per day to finish the book in one week, we can follow these steps:
+
+1. **Determine Jessy's current reading plan**: 
+   Jessy plans to read 3 times daily, 6 pages each time. 
+   First, we calculate the total number of pages she reads in one day:
+   \[
+   \text{Pages per day} = 3 \text{ (times)} \times 6 \text{ (pages each time)} = 18 \text{ pages}
+   \]
+
+2. **Calculate the total number of pages she will read in a week**:
+   Since there are 7 days in a week, we can multiply the daily reading by 7:
+   \[
+   \text{Total pages in a week} = 18 \text{ (pages per day)} \times 7 \text{ (days)} = 126 \text{ pages}
+   \]
+
+3. **Determine how many pages she needs to read to finish the book**:
+   The book has a total of 140 pages. Therefore, we need to find out how many pages she is short:
+   \[
+   \text{Pages needed} = 140 \text{ (total pages)} - 126 \text{ (pages read in a week)} = 14 \text{ pages}
+   \]
+
+4. **Calculate how many more pages she needs to read per day**:
+   To find out how many additional pages Jessy needs to read each day to meet her goal, we divide the extra pages needed by the number of days in a week:
+   \[
+   \text{Additional pages per day} = \frac{14 \text{ (additional pages)}}{7 \text{ (days)}} = 2 \text{ pages}
+   \]
+
+Thus, Jessy needs to read 2 more pages each day to achieve her goal of finishing the book in one week.
+</reasoning>
+<answer>2</answer>

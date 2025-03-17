@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Total Raisins Counted**: We know Balki counted a total of 437 raisins across 5 boxes.
+
+2. **Raisins in the First Two Boxes**: We are given that in the first box, there are 72 raisins, and in the second box, there are 74 raisins. Let's add these two amounts together:
+   \[
+   72 + 74 = 146
+   \]
+   So, there are 146 raisins in the first two boxes.
+
+3. **Raisins in the Remaining Boxes**: To find out how many raisins are left for the other three boxes, we subtract the total counted in the first two boxes from the total number of raisins:
+   \[
+   437 - 146 = 291
+   \]
+   Therefore, there are 291 raisins remaining for the three boxes.
+
+4. **Raisins in Each of the Remaining Boxes**: Since the problem states that the other three boxes have the same number of raisins, we can find out how many raisins are in each of those boxes by dividing the remaining total by 3:
+   \[
+   291 \div 3 = 97
+   \]
+   So, each of the three boxes contains 97 raisins.
+
+Thus, after calculating the amounts step-by-step, we find that each of the other three boxes has 97 raisins.
+</reasoning>
+<answer>97</answer>

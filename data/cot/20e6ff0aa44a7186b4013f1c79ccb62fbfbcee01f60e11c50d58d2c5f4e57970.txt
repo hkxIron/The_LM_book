@@ -1,0 +1,18 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many dice Ivan has**: According to the problem, Ivan has 20 dice.
+
+2. **Determine how many dice Jerry has**: The problem states that Jerry has twice as many dice as Ivan. To find this, we can multiply the number of dice Ivan has by 2:
+   \[
+   \text{Jerry's dice} = 2 \times \text{Ivan's dice} = 2 \times 20 = 40
+   \]
+
+3. **Calculate the total number of dice they have together**: To find the total number of dice that Ivan and Jerry have, we simply add the number of dice each of them has:
+   \[
+   \text{Total dice} = \text{Ivan's dice} + \text{Jerry's dice} = 20 + 40 = 60
+   \]
+
+By following these steps, we have determined that Ivan has 20 dice and Jerry has 40 dice, leading to a total of 60 dice between them.
+</reasoning>
+<answer>60</answer>

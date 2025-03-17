@@ -1,0 +1,26 @@
+<reasoning>
+To find the total distance that both rabbits will hop in 5 minutes, we will first calculate the distance each rabbit can hop in that time period and then add those distances together.
+
+1. **Calculate the distance the white rabbit hops in 5 minutes:**
+   - The white rabbit hops at a rate of 15 meters per minute.
+   - To find the total distance in 5 minutes, we multiply the rate by the time:
+     \[
+     \text{Distance of white rabbit} = 15 \, \text{meters/minute} \times 5 \, \text{minutes} = 75 \, \text{meters}
+     \]
+
+2. **Calculate the distance the brown rabbit hops in 5 minutes:**
+   - The brown rabbit hops at a rate of 12 meters per minute.
+   - Similarly, we multiply the rate by the time:
+     \[
+     \text{Distance of brown rabbit} = 12 \, \text{meters/minute} \times 5 \, \text{minutes} = 60 \, \text{meters}
+     \]
+
+3. **Calculate the total distance hopped by both rabbits:**
+   - Now we add the distances of both rabbits together:
+     \[
+     \text{Total distance} = \text{Distance of white rabbit} + \text{Distance of brown rabbit} = 75 \, \text{meters} + 60 \, \text{meters} = 135 \, \text{meters}
+     \]
+
+Thus, the total distance that the two rabbits will hop in 5 minutes is 135 meters.
+</reasoning>
+<answer>135</answer>

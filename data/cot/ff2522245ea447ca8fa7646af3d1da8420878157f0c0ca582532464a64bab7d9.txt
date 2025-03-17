@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many students prefer goldfish in total across the three classes, we will follow these steps:
+
+1. **Determine the number of students in each class who prefer goldfish**:
+   - **Miss Johnson's class**: 
+     - The fraction of students who prefer goldfish is \( \frac{1}{6} \).
+     - To find how many students that is, we multiply the total number of students (30) by this fraction:
+       \[
+       \text{Goldfish in Miss Johnson's class} = 30 \times \frac{1}{6} = 5
+       \]
+   
+   - **Mr. Feldstein's class**:
+     - The fraction of students who prefer goldfish is \( \frac{2}{3} \).
+     - Again, we multiply the total number of students by this fraction:
+       \[
+       \text{Goldfish in Mr. Feldstein's class} = 30 \times \frac{2}{3} = 20
+       \]
+   
+   - **Ms. Henderson's class**:
+     - The fraction of students who prefer goldfish is \( \frac{1}{5} \).
+     - We perform the same calculation:
+       \[
+       \text{Goldfish in Ms. Henderson's class} = 30 \times \frac{1}{5} = 6
+       \]
+
+2. **Add the number of students who prefer goldfish across all classes**:
+   - Now we will sum the number of students who prefer goldfish from all three classes:
+   \[
+   \text{Total goldfish preference} = 5 + 20 + 6 = 31
+   \]
+
+Therefore, the total number of students who prefer goldfish is 31.
+</reasoning>
+<answer>31</answer>

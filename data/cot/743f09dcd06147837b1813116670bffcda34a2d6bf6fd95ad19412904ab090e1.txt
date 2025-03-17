@@ -1,0 +1,61 @@
+<reasoning>
+To solve the problem, we need to determine how many eggs Jane's chickens lay in two weeks and how much money that will generate when sold.
+
+### Step 1: Calculate the total number of eggs produced in one week
+Jane has 10 chickens, and each chicken lays 6 eggs per week. Therefore, the total number of eggs produced in one week is calculated as follows:
+
+\[
+\text{Total eggs in one week} = \text{Number of chickens} \times \text{Eggs per chicken per week}
+\]
+
+Substituting in the values:
+
+\[
+\text{Total eggs in one week} = 10 \times 6 = 60 \text{ eggs}
+\]
+
+### Step 2: Calculate the total number of eggs produced in two weeks
+Now that we know the total number of eggs produced in one week, we can find out how many eggs are produced in two weeks:
+
+\[
+\text{Total eggs in two weeks} = \text{Total eggs in one week} \times 2
+\]
+
+Substituting in the value we calculated earlier:
+
+\[
+\text{Total eggs in two weeks} = 60 \times 2 = 120 \text{ eggs}
+\]
+
+### Step 3: Calculate how many dozens of eggs this is
+Since Jane sells the eggs by the dozen, we need to convert the total number of eggs into dozens. 
+
+To find out how many dozens are in 120 eggs, we use the following calculation:
+
+\[
+\text{Dozens of eggs} = \frac{\text{Total eggs}}{12}
+\]
+
+Calculating:
+
+\[
+\text{Dozens of eggs} = \frac{120}{12} = 10 \text{ dozens}
+\]
+
+### Step 4: Calculate the total sales from selling the eggs
+Jane sells the eggs for $2 per dozen. To find out how much money she makes from selling 10 dozens, we calculate:
+
+\[
+\text{Total sales} = \text{Dozens of eggs} \times \text{Price per dozen}
+\]
+
+Substituting in the values:
+
+\[
+\text{Total sales} = 10 \times 2 = 20
+\]
+
+### Conclusion
+Thus, Jane will make a total of $20 from selling all her eggs over the course of two weeks.
+</reasoning>
+<answer>20</answer>

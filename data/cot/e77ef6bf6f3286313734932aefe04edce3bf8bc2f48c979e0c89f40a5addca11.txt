@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much Mr. Roberts can save by paying cash for the television instead of financing it, we need to calculate the total cost of the financing option.
+
+1. **Understanding the financing option**: Mr. Roberts would pay a down payment of $120, and then $30 per month for 12 months. 
+
+2. **Calculating the total monthly payments**: We calculate the total of the monthly payments by multiplying the monthly payment amount by the number of months:
+   \[
+   \text{Total monthly payments} = \text{Monthly payment} \times \text{Number of months} = 30 \times 12
+   \]
+   So:
+   \[
+   30 \times 12 = 360
+   \]
+   This means he will pay a total of $360 in monthly payments.
+
+3. **Calculating the total cost of the financed television**: Now we add the down payment to the total monthly payments to get the total cost of the financed television:
+   \[
+   \text{Total cost financed} = \text{Down payment} + \text{Total monthly payments} = 120 + 360
+   \]
+   Thus:
+   \[
+   120 + 360 = 480
+   \]
+   Therefore, the total cost of the financed television is $480.
+
+4. **Calculating the savings by paying cash**: Now that we have both costs, we can find out how much Mr. Roberts saves by paying cash. We do this by subtracting the cash price from the total financed cost:
+   \[
+   \text{Savings} = \text{Total cost financed} - \text{Cash price} = 480 - 400
+   \]
+   So:
+   \[
+   480 - 400 = 80
+   \]
+   Therefore, by paying cash, Mr. Roberts saves $80.
+</reasoning>
+<answer>80</answer>

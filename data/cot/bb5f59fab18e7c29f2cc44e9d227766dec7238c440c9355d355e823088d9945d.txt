@@ -1,0 +1,20 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of friends Ocho has.**  
+   Ocho has a total of 8 friends.
+
+2. **Determine how many of his friends are girls.**  
+   The problem states that half of Ocho's friends are girls. So, we can calculate the number of girls:
+   - Number of girls = Total friends / 2 = 8 / 2 = 4 girls.
+
+3. **Calculate the number of boys among Ocho's friends.**  
+   Since half of his friends are girls, the remaining friends must be boys. We can find the number of boys by subtracting the number of girls from the total number of friends:
+   - Number of boys = Total friends - Number of girls = 8 - 4 = 4 boys.
+
+4. **Conclusion about the boys who play theater with Ocho.**  
+   The problem specifies that Ocho's friends who are boys like to play theater with him. Since we have determined that there are 4 boys, all of these boys play theater with him.
+
+Therefore, the number of boys who play theater with Ocho is 4.
+</reasoning>
+<answer>4</answer>

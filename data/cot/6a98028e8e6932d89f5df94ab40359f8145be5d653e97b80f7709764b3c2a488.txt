@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much interest the loan shark charges Jerry in the second month, we first need to determine how much Jerry owes at the end of the first month after interest is applied, and then calculate the interest for the second month based on that new total.
+
+1. **Calculate the interest for the first month**: 
+   - The principal amount is $200.
+   - The interest rate is 10% per month.
+   - To find the interest for the first month, we multiply the principal by the interest rate:
+   \[
+   \text{Interest for first month} = 200 \times 0.10 = 20
+   \]
+   This means at the end of the first month, Jerry will owe:
+   \[
+   \text{Total owed after first month} = 200 + 20 = 220
+   \]
+
+2. **Calculate the interest for the second month**: 
+   - Now, we will use the new principal amount of $220 to calculate the interest for the second month.
+   - Again, we apply the same interest rate of 10%:
+   \[
+   \text{Interest for second month} = 220 \times 0.10 = 22
+   \]
+
+Therefore, the loan shark charges Jerry $22 in interest for the second month.
+</reasoning>
+<answer>22</answer>

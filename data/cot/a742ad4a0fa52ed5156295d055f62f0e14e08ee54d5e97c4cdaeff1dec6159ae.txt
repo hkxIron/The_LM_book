@@ -1,0 +1,27 @@
+<reasoning>
+To calculate Sean's net profit from selling patches, we will follow these steps:
+
+1. **Calculate the total cost of purchasing the patches**: 
+   - Since Sean orders 100 patches at a cost of $1.25 per patch, we can find the total cost by multiplying the number of patches by the cost per patch.
+   - Calculation: 
+     \[
+     \text{Total Cost} = 100 \text{ patches} \times 1.25 \text{ dollars/patch} = 125 \text{ dollars}
+     \]
+
+2. **Calculate the total revenue from selling the patches**:
+   - Sean sells each patch for $12.00. To find the total revenue from selling all 100 patches, we multiply the number of patches by the selling price per patch.
+   - Calculation:
+     \[
+     \text{Total Revenue} = 100 \text{ patches} \times 12.00 \text{ dollars/patch} = 1200 \text{ dollars}
+     \]
+
+3. **Calculate the net profit**:
+   - The net profit is determined by subtracting the total cost from the total revenue.
+   - Calculation:
+     \[
+     \text{Net Profit} = \text{Total Revenue} - \text{Total Cost} = 1200 \text{ dollars} - 125 \text{ dollars} = 1075 \text{ dollars}
+     \]
+
+Therefore, after calculating the total cost, total revenue, and net profit, we find that Sean's net profit from selling the patches is:
+</reasoning>
+<answer>1075</answer>

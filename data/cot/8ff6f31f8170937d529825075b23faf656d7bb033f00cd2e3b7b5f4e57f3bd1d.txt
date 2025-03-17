@@ -1,0 +1,29 @@
+<reasoning>
+To find Stella's profit, we first need to calculate her total revenue from selling all the merchandise, and then we will subtract her total expenses.
+
+1. **Calculate Sales Revenue:**
+   - **Dolls:** 
+     - Stella has 3 dolls priced at $5 each.
+     - Total revenue from dolls = Number of dolls × Price per doll = 3 × $5 = $15.
+   
+   - **Clocks:**
+     - Stella has 2 clocks priced at $15 each.
+     - Total revenue from clocks = Number of clocks × Price per clock = 2 × $15 = $30.
+   
+   - **Glasses:**
+     - Stella has 5 glasses priced at $4 each.
+     - Total revenue from glasses = Number of glasses × Price per glass = 5 × $4 = $20.
+
+2. **Calculate Total Revenue:**
+   - Now we add up all the revenue from dolls, clocks, and glasses.
+   - Total revenue = Revenue from dolls + Revenue from clocks + Revenue from glasses
+   - Total revenue = $15 + $30 + $20 = $65.
+
+3. **Calculate Profit:**
+   - To find the profit, we subtract Stella's total expenses from her total revenue.
+   - Total expenses = $40 (the amount she spent to buy everything).
+   - Profit = Total revenue - Total expenses = $65 - $40 = $25.
+
+Therefore, Stella will make a profit of $25 from selling all of her merchandise.
+</reasoning>
+<answer>25</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Initial collection**: Phil starts with 50 state quarters.
+   - **Reasoning**: This is the starting point of his collection.
+
+2. **Doubling the collection**: In the next year, he doubles his collection.
+   - Calculation: 50 quarters × 2 = 100 quarters.
+   - **Reasoning**: Doubling means multiplying the initial amount by 2.
+
+3. **Monthly collection for the next year**: In the following year, he collects 3 quarters each month.
+   - Calculation: 3 quarters/month × 12 months = 36 quarters.
+   - **Reasoning**: There are 12 months in a year, so we multiply the monthly collection by 12 to find the total for the year.
+
+4. **Adding the new collection to the existing collection**: Now we add the quarters collected to the total.
+   - Total after this addition: 100 quarters + 36 quarters = 136 quarters.
+   - **Reasoning**: We are combining the total quarters from the previous year with the new ones collected.
+
+5. **Collecting every third month in the next year**: In the year after that, he collects 1 quarter every third month.
+   - Since there are 12 months in a year, he collects quarters in 4 months (months 3, 6, 9, and 12).
+   - Calculation: 1 quarter × 4 months = 4 quarters.
+   - **Reasoning**: Collecting every third month means he collects in 4 specific months.
+
+6. **Adding this new collection to the total**: Now we add these quarters to the existing total.
+   - Total after this addition: 136 quarters + 4 quarters = 140 quarters.
+   - **Reasoning**: We are continuing to accumulate the total.
+
+7. **Losing a quarter of the collection**: In the next year, he loses a quarter of his collection.
+   - Calculation: 140 quarters × (1/4) = 35 quarters lost.
+   - **Reasoning**: Losing a quarter means he loses 25% of his total collection, which we calculate by multiplying by 1/4.
+
+8. **Calculating the remaining collection**: Now we subtract the lost quarters from the total.
+   - Total after the loss: 140 quarters - 35 quarters = 105 quarters.
+   - **Reasoning**: We need to find out how many quarters remain after losing some.
+
+Therefore, after losing some quarters, Phil has 105 quarters left.
+</reasoning>
+<answer>105</answer>

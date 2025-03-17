@@ -1,0 +1,39 @@
+<reasoning>
+To determine the total number of items on the math quiz, we can set up an equation based on the percentage score Louie obtained.
+
+1. **Understanding the percentage**: If Louie scored 80%, this means he got 80% of the questions correct. 
+
+2. **Setting up the equation**: Let \( x \) represent the total number of items on the quiz. If he made 5 mistakes, then the number of questions he answered correctly is \( x - 5 \).
+
+3. **Writing the equation**: Since Louie got 80% of the questions correct, we can express this as:
+   \[
+   \frac{x - 5}{x} = 0.80
+   \]
+
+4. **Cross-multiplying to eliminate the fraction**: We can rearrange the equation to solve for \( x \):
+   \[
+   x - 5 = 0.80x
+   \]
+   Now, we'll move \( 0.80x \) to the left side:
+   \[
+   x - 0.80x = 5
+   \]
+   This simplifies to:
+   \[
+   0.20x = 5
+   \]
+
+5. **Dividing both sides by 0.20**: To find \( x \), we can divide both sides by 0.20:
+   \[
+   x = \frac{5}{0.20}
+   \]
+   Calculating this gives:
+   \[
+   x = 25
+   \]
+
+This means there were 25 items on the math quiz.
+
+Therefore, the total number of items on the quiz is:
+</reasoning>
+<answer>25</answer>

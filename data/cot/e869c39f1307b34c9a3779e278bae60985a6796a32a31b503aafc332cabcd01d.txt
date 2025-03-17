@@ -1,0 +1,43 @@
+<reasoning>
+To find the original borrowed amount, we can use the formula for simple interest, which is:
+
+\[ \text{Interest} = \text{Principal} \times \text{Rate} \times \text{Time} \]
+
+Where:
+- Interest is the total interest earned or paid,
+- Principal is the original amount borrowed,
+- Rate is the interest rate (as a decimal),
+- Time is the duration of the loan in years.
+
+Given:
+- Interest = $1500
+- Rate = 12% = 0.12 (as a decimal)
+- Time = 1 year
+
+Now, we can rearrange the formula to solve for the Principal:
+
+\[ \text{Principal} = \frac{\text{Interest}}{\text{Rate} \times \text{Time}} \]
+
+Substituting the values we have into the formula:
+
+\[ \text{Principal} = \frac{1500}{0.12 \times 1} \]
+
+Now, calculating the denominator:
+
+\[ 0.12 \times 1 = 0.12 \]
+
+Next, we will divide the total interest by this value:
+
+\[ \text{Principal} = \frac{1500}{0.12} \]
+
+Now, we will perform the division:
+
+\[ \text{Principal} = 1500 \div 0.12 \]
+
+Calculating this gives:
+
+\[ \text{Principal} = 12500 \]
+
+Thus, the original amount borrowed was $12,500.
+</reasoning>
+<answer>12500</answer>

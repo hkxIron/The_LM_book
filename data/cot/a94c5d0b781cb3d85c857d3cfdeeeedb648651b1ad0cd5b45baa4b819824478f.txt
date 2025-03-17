@@ -1,0 +1,57 @@
+<reasoning>
+Let's break down the problem step by step to calculate the total revenue the theater made on Friday night.
+
+1. **Calculate the revenue from matinee tickets**:
+   - The price of a matinee ticket is $5.
+   - There were 32 matinee customers.
+   - To find the revenue from matinee tickets, we multiply the number of customers by the price per ticket:
+     \[
+     \text{Revenue from matinee} = 32 \text{ customers} \times 5 \text{ dollars/ticket} = 160 \text{ dollars}
+     \]
+
+2. **Calculate the revenue from evening tickets**:
+   - The price of an evening ticket is $7.
+   - There were 40 evening customers.
+   - To find the revenue from evening tickets, we multiply the number of customers by the price per ticket:
+     \[
+     \text{Revenue from evening} = 40 \text{ customers} \times 7 \text{ dollars/ticket} = 280 \text{ dollars}
+     \]
+
+3. **Calculate the revenue from opening night tickets**:
+   - The price of an opening night ticket is $10.
+   - There were 58 opening night customers.
+   - To find the revenue from opening night tickets, we multiply the number of customers by the price per ticket:
+     \[
+     \text{Revenue from opening night} = 58 \text{ customers} \times 10 \text{ dollars/ticket} = 580 \text{ dollars}
+     \]
+
+4. **Calculate the total revenue from ticket sales**:
+   - Now we add all the ticket revenues together:
+     \[
+     \text{Total ticket revenue} = 160 + 280 + 580 = 1020 \text{ dollars}
+     \]
+
+5. **Calculate the revenue from popcorn sales**:
+   - The price of a bucket of popcorn is $10.
+   - Half of the total customers bought popcorn. First, we need to find the total number of customers:
+     \[
+     \text{Total customers} = 32 + 40 + 58 = 130 \text{ customers}
+     \]
+   - Half of the customers is:
+     \[
+     \text{Customers buying popcorn} = \frac{130}{2} = 65 \text{ customers}
+     \]
+   - To find the revenue from popcorn, we multiply the number of popcorn buyers by the price per bucket:
+     \[
+     \text{Revenue from popcorn} = 65 \text{ customers} \times 10 \text{ dollars/popcorn} = 650 \text{ dollars}
+     \]
+
+6. **Calculate the total revenue for the night**:
+   - Finally, we add the total ticket revenue and the popcorn revenue together:
+     \[
+     \text{Total revenue} = 1020 + 650 = 1670 \text{ dollars}
+     \]
+
+Therefore, the theater made a total of $1670 on Friday night.
+</reasoning>
+<answer>1670</answer>

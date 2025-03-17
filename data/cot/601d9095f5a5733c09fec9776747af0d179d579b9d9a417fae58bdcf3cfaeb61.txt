@@ -1,0 +1,41 @@
+<reasoning>
+To find out how many basketballs Lucca and Lucien have in total, we will calculate the number of basketballs each of them has separately and then sum those amounts.
+
+1. **Calculating Lucca's basketballs**:
+   - Lucca has a total of 100 balls.
+   - We know that 10 percent of his balls are basketballs. 
+   - To find out how many basketballs Lucca has, we will calculate 10 percent of 100.
+   - The formula to calculate 10 percent is: 
+     \[
+     \text{Number of basketballs} = \text{Total balls} \times \frac{\text{Percentage}}{100}
+     \]
+   - Plugging in the numbers:
+     \[
+     \text{Number of basketballs} = 100 \times \frac{10}{100} = 100 \times 0.1 = 10
+     \]
+   - So, Lucca has 10 basketballs.
+
+2. **Calculating Lucien's basketballs**:
+   - Lucien has a total of 200 balls.
+   - We know that 20 percent of his balls are basketballs.
+   - To find out how many basketballs Lucien has, we will calculate 20 percent of 200.
+   - Using the same formula:
+     \[
+     \text{Number of basketballs} = 200 \times \frac{20}{100}
+     \]
+   - Plugging in the numbers:
+     \[
+     \text{Number of basketballs} = 200 \times 0.2 = 40
+     \]
+   - So, Lucien has 40 basketballs.
+
+3. **Finding the total number of basketballs**:
+   - Now that we have both amounts, we will add the number of basketballs Lucca has and the number of basketballs Lucien has.
+   - Total basketballs = Lucca's basketballs + Lucien's basketballs:
+     \[
+     \text{Total basketballs} = 10 + 40 = 50
+     \]
+
+Therefore, Lucca and Lucien together have a total of 50 basketballs.
+</reasoning>
+<answer>50</answer>

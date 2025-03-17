@@ -1,0 +1,42 @@
+<reasoning>
+First, we need to calculate the total cost of the 7 items that John buys. Each item costs $200, so we multiply the number of items by the cost per item.
+
+1. Calculate the total cost before any discounts:
+   \[
+   \text{Total Cost} = \text{Number of Items} \times \text{Cost per Item}
+   \]
+   \[
+   \text{Total Cost} = 7 \times 200 = 1400
+   \]
+
+Now that we have the total cost of $1400, we need to check if this amount is eligible for the discount. The store gives a 10% discount on the amount over $1000.
+
+2. Determine the amount that is over $1000:
+   \[
+   \text{Amount over } 1000 = \text{Total Cost} - 1000
+   \]
+   \[
+   \text{Amount over } 1000 = 1400 - 1000 = 400
+   \]
+
+Next, we calculate the discount on the amount over $1000.
+
+3. Calculate the discount:
+   \[
+   \text{Discount} = 10\% \text{ of Amount over } 1000
+   \]
+   \[
+   \text{Discount} = 0.10 \times 400 = 40
+   \]
+
+4. Now, subtract the discount from the total cost to find the final cost:
+   \[
+   \text{Final Cost} = \text{Total Cost} - \text{Discount}
+   \]
+   \[
+   \text{Final Cost} = 1400 - 40 = 1360
+   \]
+
+Therefore, after applying the discount, John's order costs $1360.
+</reasoning>
+<answer>1360</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much Jenna spends on gas during her trip, we will follow these steps:
+
+1. **Calculate the distance Jenna drives during each segment of her trip.**
+   
+   - For the first segment, she drives for 2 hours at a speed of 60 miles per hour (mph).
+     \[
+     \text{Distance}_1 = \text{Speed} \times \text{Time} = 60 \text{ mph} \times 2 \text{ hours} = 120 \text{ miles}
+     \]
+     
+   - For the second segment, she drives for 3 hours at a speed of 50 mph.
+     \[
+     \text{Distance}_2 = \text{Speed} \times \text{Time} = 50 \text{ mph} \times 3 \text{ hours} = 150 \text{ miles}
+     \]
+
+2. **Calculate the total distance driven.**
+   \[
+   \text{Total Distance} = \text{Distance}_1 + \text{Distance}_2 = 120 \text{ miles} + 150 \text{ miles} = 270 \text{ miles}
+   \]
+
+3. **Determine how many gallons of gas Jenna uses for her trip.**
+   - We know that Jenna can drive 30 miles on one gallon of gas. Therefore, to find out how many gallons she needs, we divide the total distance by the distance per gallon.
+   \[
+   \text{Gallons of gas} = \frac{\text{Total Distance}}{\text{Miles per gallon}} = \frac{270 \text{ miles}}{30 \text{ miles per gallon}} = 9 \text{ gallons}
+   \]
+
+4. **Calculate the cost of the gas.**
+   - If one gallon of gas costs $2, we can find the total cost by multiplying the number of gallons used by the cost per gallon.
+   \[
+   \text{Total Cost} = \text{Gallons of gas} \times \text{Cost per gallon} = 9 \text{ gallons} \times 2 \text{ dollars per gallon} = 18 \text{ dollars}
+   \]
+
+Therefore, Jenna spends a total of $18 on gas for her trip.
+</reasoning>
+<answer>18</answer>

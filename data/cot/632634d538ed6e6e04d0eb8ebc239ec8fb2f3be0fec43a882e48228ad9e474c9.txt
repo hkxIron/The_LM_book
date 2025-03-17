@@ -1,0 +1,52 @@
+<reasoning>
+To solve the problem, let's follow these steps:
+
+1. **Identify the number of experienced sailors**: 
+   The crew consists of 17 sailors, and there are 5 inexperienced sailors. 
+   Therefore, the number of experienced sailors is:
+   \[
+   \text{Number of experienced sailors} = 17 - 5 = 12
+   \]
+
+2. **Determine the hourly wage of inexperienced sailors**: 
+   The problem states that inexperienced sailors are paid $10 per hour.
+
+3. **Calculate the weekly earnings of inexperienced sailors**:
+   Each inexperienced sailor works 60 hours per week. Therefore, the weekly earnings of one inexperienced sailor is:
+   \[
+   \text{Weekly earnings (one inexperienced sailor)} = 10 \text{ (dollars/hour)} \times 60 \text{ (hours/week)} = 600 \text{ dollars/week}
+   \]
+
+4. **Calculate the total weekly earnings for all inexperienced sailors**:
+   Since there are 5 inexperienced sailors, the total weekly earnings for all inexperienced sailors is:
+   \[
+   \text{Total weekly earnings (inexperienced sailors)} = 600 \text{ (dollars/week)} \times 5 = 3000 \text{ dollars/week}
+   \]
+
+5. **Calculate the hourly wage of experienced sailors**:
+   Each experienced sailor is paid 1/5 times more than the inexperienced sailors. This means they earn:
+   \[
+   \text{Hourly wage (experienced sailor)} = 10 \text{ (dollars)} + \left(\frac{1}{5} \times 10\right) = 10 + 2 = 12 \text{ dollars/hour}
+   \]
+
+6. **Calculate the weekly earnings of experienced sailors**:
+   The weekly earnings of one experienced sailor working 60 hours is:
+   \[
+   \text{Weekly earnings (one experienced sailor)} = 12 \text{ (dollars/hour)} \times 60 \text{ (hours/week)} = 720 \text{ dollars/week}
+   \]
+
+7. **Calculate the total weekly earnings for all experienced sailors**:
+   With 12 experienced sailors, the total weekly earnings for all experienced sailors is:
+   \[
+   \text{Total weekly earnings (experienced sailors)} = 720 \text{ (dollars/week)} \times 12 = 8640 \text{ dollars/week}
+   \]
+
+8. **Calculate the total monthly earnings of experienced sailors**:
+   Assuming 4 weeks in a month, the total monthly earnings for experienced sailors is:
+   \[
+   \text{Total monthly earnings (experienced sailors)} = 8640 \text{ (dollars/week)} \times 4 = 34560 \text{ dollars/month}
+   \]
+
+Thus, the total combined monthly earnings of the experienced sailors is:
+</reasoning>
+<answer>34560</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much the temperature will decrease by, we first need to calculate what 3/4 of the current temperature (84 degrees) is. 
+
+1. **Calculate 3/4 of the current temperature**: 
+   We do this by multiplying the current temperature by 3/4.
+   \[
+   \text{New Temperature} = 84 \times \frac{3}{4}
+   \]
+
+2. **Perform the multiplication**:
+   First, calculate \(84 \times 3\):
+   \[
+   84 \times 3 = 252
+   \]
+   Then divide by 4:
+   \[
+   \frac{252}{4} = 63
+   \]
+   So, the new temperature after one hour will be 63 degrees.
+
+3. **Calculate the temperature decrease**:
+   Now, we find out how much the temperature has decreased by subtracting the new temperature from the current temperature:
+   \[
+   \text{Decrease} = \text{Current Temperature} - \text{New Temperature} = 84 - 63
+   \]
+
+4. **Perform the subtraction**:
+   \[
+   84 - 63 = 21
+   \]
+
+Thus, the temperature will decrease by 21 degrees.
+</reasoning>
+<answer>21</answer>

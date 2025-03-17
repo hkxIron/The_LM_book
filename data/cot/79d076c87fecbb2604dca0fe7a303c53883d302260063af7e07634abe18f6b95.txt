@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much money Nina made over the weekend, we'll calculate the total earnings from each type of jewelry she sold and then sum those amounts.
+
+1. **Calculate earnings from necklaces**:
+   - Nina sold 5 necklaces at $25.00 each.
+   - Earnings from necklaces = Number of necklaces sold × Price per necklace
+   - Earnings from necklaces = 5 × 25 = $125.00
+
+2. **Calculate earnings from bracelets**:
+   - Nina sold 10 bracelets at $15.00 each.
+   - Earnings from bracelets = Number of bracelets sold × Price per bracelet
+   - Earnings from bracelets = 10 × 15 = $150.00
+
+3. **Calculate earnings from earrings**:
+   - Nina sold 20 pairs of earrings at $10.00 each.
+   - Earnings from earrings = Number of earrings sold × Price per pair of earrings
+   - Earnings from earrings = 20 × 10 = $200.00
+
+4. **Calculate earnings from jewelry ensembles**:
+   - Nina received 2 orders for a complete jewelry ensemble at $45.00 each.
+   - Earnings from ensembles = Number of ensembles sold × Price per ensemble
+   - Earnings from ensembles = 2 × 45 = $90.00
+
+5. **Sum all earnings**:
+   - Total earnings = Earnings from necklaces + Earnings from bracelets + Earnings from earrings + Earnings from ensembles
+   - Total earnings = 125 + 150 + 200 + 90
+
+Now, let's add these amounts together:
+- 125 + 150 = 275
+- 275 + 200 = 475
+- 475 + 90 = 565
+
+Therefore, Nina made a total of $565.00 over the weekend.
+</reasoning>
+<answer>565</answer>

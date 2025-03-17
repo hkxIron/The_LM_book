@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Amount**: Julia starts with $40. 
+   - This is our starting point for the calculations.
+
+2. **First Purchase**: She spends half of her money to buy a new game.
+   - Half of $40 is calculated as follows:
+     \[
+     \text{Half of } 40 = \frac{40}{2} = 20
+     \]
+   - After buying the game, the amount of money she has left is:
+     \[
+     40 - 20 = 20
+     \]
+
+3. **Second Purchase**: Now, she spends a quarter of what she has left on in-game purchases.
+   - A quarter of $20 is calculated as follows:
+     \[
+     \text{Quarter of } 20 = \frac{20}{4} = 5
+     \]
+   - After spending this amount on in-game purchases, we calculate how much money she has remaining:
+     \[
+     20 - 5 = 15
+     \]
+
+4. **Final Calculation**: Thus, the amount of money Julia has left after both purchases is $15.
+
+Therefore, we conclude that Julia has $15 remaining after her expenditures.
+</reasoning>
+<answer>15</answer>

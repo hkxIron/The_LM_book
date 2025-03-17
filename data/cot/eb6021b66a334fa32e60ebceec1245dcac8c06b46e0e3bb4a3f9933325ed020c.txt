@@ -1,0 +1,32 @@
+<reasoning>
+First, let's determine how many pencils each student wants to buy and how much each student will spend.
+
+1. **Calculate the total number of pencils each student wants:**
+   - Tolu wants 3 pencils.
+   - Robert wants 5 pencils.
+   - Melissa wants 2 pencils.
+
+2. **Add the number of pencils together:**
+   \[
+   3 + 5 + 2 = 10
+   \]
+   This means they want a total of 10 pencils.
+
+3. **Determine the price for one pencil:**
+   The price of one pencil is 20 cents. 
+
+4. **Calculate the total cost in cents:**
+   To find out how much they will spend altogether in cents, multiply the total number of pencils by the price per pencil:
+   \[
+   10 \text{ pencils} \times 20 \text{ cents/pencil} = 200 \text{ cents}
+   \]
+
+5. **Convert the total cost from cents to dollars:**
+   Since there are 100 cents in a dollar, we convert the total cost to dollars by dividing by 100:
+   \[
+   \frac{200 \text{ cents}}{100} = 2 \text{ dollars}
+   \]
+
+Thus, the students will spend a total of 2 dollars at the stationery shop.
+</reasoning>
+<answer>2</answer>

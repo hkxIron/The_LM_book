@@ -1,0 +1,53 @@
+<reasoning>
+To solve this problem, we will first calculate the total distance Kona drives on his trip that includes the bakery stop, and then we will calculate the total distance he would drive without the bakery stop. Finally, we will find the difference between these two distances to determine how many additional miles he drove because of the bakery stop.
+
+1. **Calculate the total distance with the bakery stop:**
+   - From his apartment to the bakery: 9 miles
+   - From the bakery to his grandmother's house: 24 miles
+   - From his grandmother's house back to his apartment: 27 miles
+
+   To find the total distance of the trip with the bakery stop, we need to add these distances together:
+   \[
+   \text{Total distance with bakery} = 9 \text{ miles} + 24 \text{ miles} + 27 \text{ miles}
+   \]
+
+   Let's compute this:
+   \[
+   9 + 24 = 33 \text{ miles}
+   \]
+   \[
+   33 + 27 = 60 \text{ miles}
+   \]
+
+   So, the total distance with the bakery stop is 60 miles.
+
+2. **Calculate the total distance without the bakery stop:**
+   - From his apartment to his grandmother's house: He drives directly, which is the sum of the distance from the apartment to the bakery and from the bakery to the grandmother's house. Since he goes from the apartment to the grandmother's house without stopping at the bakery, we need to find the direct distance:
+   
+   The distance from the apartment to the bakery is 9 miles and from the bakery to the grandmother's house is 24 miles, so:
+   \[
+   \text{Total distance without bakery} = 9 \text{ miles} + 24 \text{ miles} + 27 \text{ miles} - 9 \text{ miles} = 24 + 27 = 51 \text{ miles}
+   \]
+
+   However, that's incorrect. The right way is to simply consider the distance back:
+   \[
+   \text{Distance from apartment to grandmother} = 9 + 24 + 27 - (9 + 24) = 27 \text{ miles} (the direct distance)
+   \]
+
+   Hence, the round trip without the bakery is:
+   \[
+   27 \text{ miles to grandmother's} + 27 \text{ miles back} = 54 \text{ miles}
+   \]
+
+3. **Calculate the additional miles driven due to the bakery stop:**
+   Now we will find the difference between the total distance with the bakery stop and the total distance without the bakery stop.
+   \[
+   \text{Additional miles} = \text{Total distance with bakery} - \text{Total distance without bakery}
+   \]
+   \[
+   \text{Additional miles} = 60 \text{ miles} - 54 \text{ miles} = 6 \text{ miles}
+   \]
+
+Therefore, the total additional miles Kona drove round trip because of the bakery stop is:
+</reasoning>
+<answer>6</answer>

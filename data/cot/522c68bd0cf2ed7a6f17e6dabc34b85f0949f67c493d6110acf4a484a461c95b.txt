@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we will first determine the cost of one plastic chair and then the cost of one portable table.
+
+1. **Determine the cost of one plastic chair**:
+   We know that five plastic chairs cost $55. To find the cost of one chair, we divide the total cost by the number of chairs:
+   \[
+   \text{Cost of one chair} = \frac{55}{5} = 11
+   \]
+   So, each plastic chair costs $11.
+
+2. **Determine the cost of three plastic chairs**:
+   Since we already know the cost of one chair, we can calculate the cost of three chairs:
+   \[
+   \text{Cost of three chairs} = 3 \times 11 = 33
+   \]
+   Thus, three plastic chairs cost $33.
+
+3. **Determine the cost of one portable table**:
+   According to the problem, three plastic chairs cost as much as one portable table. Therefore, the cost of one portable table is also $33.
+
+4. **Calculate the total cost for Manny's purchase**:
+   Manny wants to buy one portable table and two chairs. We have the costs:
+   - Cost of one portable table = $33
+   - Cost of two chairs = 2 \times 11 = 22
+
+   Now, we add these amounts together to find the total cost:
+   \[
+   \text{Total cost} = 33 + 22 = 55
+   \]
+
+5. **Determine how much money Manny will have left**:
+   Manny starts with $100. To find out how much he will have left after his purchase, we subtract the total cost from his starting amount:
+   \[
+   \text{Amount left} = 100 - 55 = 45
+   \]
+
+Therefore, after calculating all the costs and the remaining balance, we find that Manny will have $45 left.
+</reasoning>
+<answer>45</answer>

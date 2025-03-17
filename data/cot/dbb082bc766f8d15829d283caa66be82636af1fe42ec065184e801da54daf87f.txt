@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many days it will take for the paint mixer to make 360 drums of paint, we first need to determine how many drums he makes per day.
+
+1. **Calculate the number of drums made per day**:
+   The paint mixer takes 3 days to make 18 drums. To find out how many drums he makes in one day, we divide the total number of drums by the number of days:
+   \[
+   \text{Drums per day} = \frac{\text{Total drums}}{\text{Total days}} = \frac{18 \text{ drums}}{3 \text{ days}} = 6 \text{ drums per day}
+   \]
+   This means the paint mixer makes 6 drums of paint each day.
+
+2. **Calculate the number of days required to make 360 drums**:
+   Now that we know the rate at which he makes paint, we can find out how many days it will take to make 360 drums. We will divide the total number of drums needed by the number of drums made per day:
+   \[
+   \text{Days required} = \frac{\text{Total drums needed}}{\text{Drums per day}} = \frac{360 \text{ drums}}{6 \text{ drums per day}} = 60 \text{ days}
+   \]
+   This means it will take the paint mixer 60 days to make 360 drums of paint.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>60</answer>

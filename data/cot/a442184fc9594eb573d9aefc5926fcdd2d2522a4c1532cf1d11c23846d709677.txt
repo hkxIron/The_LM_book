@@ -1,0 +1,42 @@
+<reasoning>
+First, we need to determine the total number of participants in the Easter egg hunt. 
+
+1. **Count the kids**: Shonda has 2 kids.
+2. **Count the friends**: There are 10 friends.
+3. **Count the adults**: There are 7 other adults.
+
+Now, we can add these numbers together to find the total number of participants:
+
+Total participants = Kids + Friends + Adults  
+Total participants = 2 + 10 + 7  
+Total participants = 19.
+
+Next, we need to calculate the total number of Easter eggs available.
+
+4. **Count the baskets**: There are 15 Easter egg baskets.
+5. **Count the eggs per basket**: Each basket holds 12 Easter eggs.
+
+Now, we can find the total number of Easter eggs by multiplying the number of baskets by the number of eggs per basket:
+
+Total eggs = Baskets × Eggs per basket  
+Total eggs = 15 × 12  
+Total eggs = 180.
+
+Now we have the total number of eggs (180) and the total number of participants (19). 
+
+Next, we will find out how many eggs each person gets by dividing the total number of eggs by the total number of participants:
+
+Eggs per person = Total eggs ÷ Total participants  
+Eggs per person = 180 ÷ 19.
+
+To perform the division:
+
+180 ÷ 19 = 9.47368 (approximately).
+
+Since we're looking for a whole number of eggs each person gets, we can round down to the nearest whole number:
+
+Each person will receive 9 eggs (since they cannot receive a fraction of an egg).
+
+Therefore, after distributing the Easter eggs equally among all participants:
+</reasoning>
+<answer>9</answer>

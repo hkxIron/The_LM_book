@@ -1,0 +1,41 @@
+<reasoning>
+First, let's calculate the total number of apples packed in the first week.
+
+1. **Determine the number of apples packed per day in the first week:**
+   - Malcolm packs 50 boxes each day.
+   - Each box contains 40 apples.
+   - Therefore, the total number of apples packed per day is:
+     \[
+     50 \text{ boxes} \times 40 \text{ apples/box} = 2000 \text{ apples}
+     \]
+
+2. **Calculate the total number of apples packed in the first week:**
+   - There are 7 days in a week, so:
+     \[
+     2000 \text{ apples/day} \times 7 \text{ days} = 14000 \text{ apples}
+     \]
+
+Next, let's calculate the total number of apples packed in the second week.
+
+3. **Determine the new number of apples packed per day in the second week:**
+   - In the second week, they packed 500 fewer apples per day:
+     \[
+     2000 \text{ apples} - 500 \text{ apples} = 1500 \text{ apples}
+     \]
+
+4. **Calculate the total number of apples packed in the second week:**
+   - Again, for 7 days:
+     \[
+     1500 \text{ apples/day} \times 7 \text{ days} = 10500 \text{ apples}
+     \]
+
+Finally, we will find the total number of apples packed over the two weeks.
+
+5. **Sum the apples packed in both weeks:**
+   \[
+   14000 \text{ apples (first week)} + 10500 \text{ apples (second week)} = 24500 \text{ apples}
+   \]
+
+Therefore, the total number of apples packed in the two weeks is:
+</reasoning>
+<answer>24500</answer>

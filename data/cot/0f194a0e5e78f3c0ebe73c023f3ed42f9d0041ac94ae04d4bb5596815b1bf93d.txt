@@ -1,0 +1,33 @@
+<reasoning>
+Let's denote the amount of money Yoque borrowed as \( x \).
+
+1. **Understanding the total repayment**: Yoque agreed to pay back the borrowed amount plus an additional 10%. This means the total amount she has to pay back is:
+   \[
+   \text{Total repayment} = x + 0.1x = 1.1x
+   \]
+   This expression accounts for the borrowed amount plus the additional 10%.
+
+2. **Monthly payments**: Yoque plans to pay $15 per month for 11 months. Therefore, the total amount she will pay over these 11 months is:
+   \[
+   \text{Total payments} = 15 \text{ (dollars/month)} \times 11 \text{ (months)} = 165 \text{ dollars}
+   \]
+
+3. **Setting up the equation**: Since the total repayment she must make is equal to the total payments, we can set up the equation:
+   \[
+   1.1x = 165
+   \]
+   This equation represents that the total repayment (1.1 times the borrowed amount) equals the total amount she will pay ($165).
+
+4. **Solving for \( x \)**: To find out how much money Yoque borrowed, we can solve for \( x \) by dividing both sides of the equation by 1.1:
+   \[
+   x = \frac{165}{1.1}
+   \]
+
+5. **Calculating the division**: Now we perform the calculation:
+   \[
+   x = 150
+   \]
+
+Therefore, the amount of money Yoque borrowed is $150.
+</reasoning>
+<answer>150</answer>

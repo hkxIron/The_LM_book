@@ -1,0 +1,43 @@
+<reasoning>
+To find out how much James paid in total for the dirt bikes, off-road vehicles, and registration, we'll break down the costs step by step.
+
+1. **Calculating the cost of the dirt bikes:**
+   James buys 3 dirt bikes, and each costs $150. 
+   To find the total cost of the dirt bikes, we multiply the number of dirt bikes by the cost per bike:
+   \[
+   \text{Cost of dirt bikes} = 3 \times 150 = 450
+   \]
+   So, James paid $450 for the dirt bikes.
+
+2. **Calculating the cost of the off-road vehicles:**
+   James buys 4 off-road vehicles, and each costs $300.
+   To find the total cost of the off-road vehicles, we multiply the number of vehicles by the cost per vehicle:
+   \[
+   \text{Cost of off-road vehicles} = 4 \times 300 = 1200
+   \]
+   Therefore, James paid $1200 for the off-road vehicles.
+
+3. **Calculating the registration cost:**
+   There is a registration cost of $25 for each vehicle (which includes dirt bikes and off-road vehicles). Since James has 3 dirt bikes and 4 off-road vehicles, the total number of vehicles is:
+   \[
+   \text{Total number of vehicles} = 3 + 4 = 7
+   \]
+   Now, we calculate the total registration cost by multiplying the number of vehicles by the registration cost per vehicle:
+   \[
+   \text{Total registration cost} = 7 \times 25 = 175
+   \]
+   So, James paid $175 for registration.
+
+4. **Calculating the total cost:**
+   Now, we add up all the costs to find the total amount James paid:
+   \[
+   \text{Total cost} = \text{Cost of dirt bikes} + \text{Cost of off-road vehicles} + \text{Total registration cost}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Total cost} = 450 + 1200 + 175 = 1825
+   \]
+
+Therefore, James paid a total of $1825 for everything.
+</reasoning>
+<answer>1825</answer>

@@ -1,0 +1,53 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the number of pages in the geography textbook**:
+   - We know that her geography textbook has 70 more pages than her history textbook.
+   - The history textbook has 160 pages.
+   - Therefore, the number of pages in the geography textbook is calculated as follows:
+     \[
+     \text{Pages in Geography} = 160 + 70 = 230
+     \]
+
+2. **Determine the number of pages in the math textbook**:
+   - The math textbook has half of the sum of the pages in the history and geography textbooks.
+   - First, we calculate the sum of pages in the history and geography textbooks:
+     \[
+     \text{Sum of History and Geography} = 160 + 230 = 390
+     \]
+   - Now we find half of this sum for the math textbook:
+     \[
+     \text{Pages in Math} = \frac{390}{2} = 195
+     \]
+
+3. **Determine the number of pages in the science textbook**:
+   - The science textbook has twice the number of pages of the history textbook.
+   - Since the history textbook has 160 pages, we calculate:
+     \[
+     \text{Pages in Science} = 2 \times 160 = 320
+     \]
+
+4. **Calculate the total number of pages in all textbooks**:
+   - Now that we have the number of pages in each textbook, we can find the total:
+     \[
+     \text{Total Pages} = \text{Pages in History} + \text{Pages in Geography} + \text{Pages in Math} + \text{Pages in Science}
+     \]
+     \[
+     \text{Total Pages} = 160 + 230 + 195 + 320
+     \]
+
+5. **Perform the final addition**:
+   - Let's add them up step by step:
+     \[
+     160 + 230 = 390
+     \]
+     \[
+     390 + 195 = 585
+     \]
+     \[
+     585 + 320 = 905
+     \]
+
+Therefore, the total number of pages in all of Suzanna's textbooks is:
+</reasoning>
+<answer>905</answer>

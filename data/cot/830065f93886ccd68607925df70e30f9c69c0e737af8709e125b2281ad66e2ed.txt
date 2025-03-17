@@ -1,0 +1,22 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial number of chickens**: Wendi initially brought home 4 chickens. 
+   - So, we start with 4 chickens.
+
+2. **Doubling the chickens**: Wendi then brought home enough additional chickens to double the number of chickens she owned. 
+   - Since she had 4 chickens, doubling that means she needs to have 8 chickens in total (4 original + 4 additional).
+   - Therefore, Wendi brought home 4 additional chickens (8 - 4 = 4).
+
+3. **Dog ate one chicken**: Next, a neighbor's dog ate one of her chickens.
+   - So, we take 1 chicken away from her total. 
+   - Wendi now has 8 - 1 = 7 chickens.
+
+4. **Finding additional chickens**: Finally, Wendi found an additional 4 less than ten chickens. 
+   - "4 less than ten" means she found 10 - 4 = 6 chickens.
+   - Now, we add these 6 chickens to her current total.
+   - Wendi now has 7 + 6 = 13 chickens.
+
+Therefore, after all these steps, Wendi has 13 chickens.
+</reasoning>
+<answer>13</answer>

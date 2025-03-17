@@ -1,0 +1,16 @@
+<reasoning>
+To solve the problem, we start by determining how long it takes David to wash one window.
+
+1. **Calculate the time per window**: Since it takes David 10 minutes to wash 4 windows, we can find the time it takes to wash one window by dividing the total time by the number of windows washed.
+   \[
+   \text{Time per window} = \frac{10 \text{ minutes}}{4 \text{ windows}} = 2.5 \text{ minutes per window}
+   \]
+
+2. **Calculate the total time for all windows**: Now that we know it takes 2.5 minutes to wash one window, we can find out how long it will take David to wash all 64 windows by multiplying the time per window by the total number of windows.
+   \[
+   \text{Total time} = 64 \text{ windows} \times 2.5 \text{ minutes per window} = 160 \text{ minutes}
+   \]
+
+Therefore, it will take David 160 minutes to wash all of the windows in his house.
+</reasoning>
+<answer>160</answer>

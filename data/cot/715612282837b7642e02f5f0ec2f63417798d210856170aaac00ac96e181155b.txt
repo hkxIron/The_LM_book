@@ -1,0 +1,19 @@
+<reasoning>
+To find out how many more pens Alex will have than Jane after a month, we first need to calculate how many pens Alex has at the end of each week.
+
+1. **Calculate pens Alex has after each week:**
+   - In the first week, Alex has 4 pens.
+   - In the second week, her collection doubles: \( 4 \times 2 = 8 \) pens.
+   - In the third week, it doubles again: \( 8 \times 2 = 16 \) pens.
+   - In the fourth week, it doubles once more: \( 16 \times 2 = 32 \) pens.
+
+2. **Total pens Alex has after 4 weeks:**
+   - After 4 weeks, Alex will have 32 pens.
+
+3. **Calculate how many more pens Alex has than Jane:**
+   - We know Jane has 16 pens after a month.
+   - Now, we find the difference: \( 32 - 16 = 16 \).
+
+Therefore, Alex has 16 more pens than Jane after a month.
+</reasoning>
+<answer>16</answer>

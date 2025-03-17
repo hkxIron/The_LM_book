@@ -1,0 +1,18 @@
+<reasoning>
+Given the problem, we know that the monster consumed 847 people over 300 years, and each ship has twice as many people as the last ship. We need to find the number of people on the first ship.
+
+Let's denote the number of people on the first ship as x. 
+
+Since each new ship has twice as many people as the last, the number of people on the second ship would be 2x, and the number of people on the third ship would be 2*2x=4x.
+
+So, the total number of people that the monster consumed over the 300 years is x + 2x + 4x = 847.
+
+This simplifies to 7x = 847.
+
+From here, we need to isolate x, which represents the number of people on the first ship. To do this, we divide both sides by 7.
+
+x = 847 / 7.
+
+Let's perform the division to find the value of x.
+</reasoning>
+<answer>121</answer>

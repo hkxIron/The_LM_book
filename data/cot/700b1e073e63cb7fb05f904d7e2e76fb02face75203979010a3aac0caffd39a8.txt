@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the duration of the boat trip**: The problem states that the boat trip takes up to 2 hours. This means the maximum time for the boat trip is 2 hours.
+
+2. **Determine the duration of the plane trip**: According to the problem, the plane trip is four times longer than the boat trip. To find the duration of the plane trip, we will multiply the duration of the boat trip by 4.
+
+   \[
+   \text{Plane trip duration} = 4 \times \text{Boat trip duration}
+   \]
+   Given that the boat trip lasts up to 2 hours:
+   \[
+   \text{Plane trip duration} = 4 \times 2 = 8 \text{ hours}
+   \]
+
+3. **Calculate the total travel time**: Now we need to find the total time Tom spends traveling to the island. This is the sum of the time spent on the plane and the time spent on the boat.
+
+   \[
+   \text{Total travel time} = \text{Plane trip duration} + \text{Boat trip duration}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total travel time} = 8 \text{ hours} + 2 \text{ hours} = 10 \text{ hours}
+   \]
+
+Therefore, Tom is able to get to the "Virgo" island in 10 hours.
+</reasoning>
+<answer>10</answer>

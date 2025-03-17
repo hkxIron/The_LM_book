@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of chickens in the coop**:
+   We know that there are 14 chickens in the coop. 
+
+2. **Calculate the number of chickens in the run**:
+   The problem states that there are twice as many chickens in the run as in the coop. So, we calculate:
+   \[
+   \text{Number of chickens in the run} = 2 \times 14 = 28
+   \]
+   This means there are 28 chickens in the run.
+
+3. **Determine the number of free ranging chickens**:
+   The problem also states that there are 4 less than double the number of chickens in the run that are free ranging. First, we calculate double the number of chickens in the run:
+   \[
+   \text{Double the number of chickens in the run} = 2 \times 28 = 56
+   \]
+   Now, we find the number of free ranging chickens by taking 4 less than this amount:
+   \[
+   \text{Number of free ranging chickens} = 56 - 4 = 52
+   \]
+
+So, the total number of chickens that are free ranging is 52.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>52</answer>

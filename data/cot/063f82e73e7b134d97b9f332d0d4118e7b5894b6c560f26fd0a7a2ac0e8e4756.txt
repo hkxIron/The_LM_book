@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many turtles Marion and Martha received together, we can break the problem down into steps.
+
+1. **Identify the number of turtles Martha received**: 
+   According to the problem, Martha received 40 turtles.
+
+2. **Determine how many turtles Marion received**: 
+   The problem states that Marion received 20 more turtles than Martha. Since Martha received 40 turtles, we can calculate the number of turtles Marion received by adding 20 to the number of turtles Martha received.
+   \[
+   \text{Marion's turtles} = \text{Martha's turtles} + 20 = 40 + 20 = 60
+   \]
+
+3. **Calculate the total number of turtles received together**:
+   Now that we know how many turtles each person received, we can find the total by adding the number of turtles Marion received to the number of turtles Martha received.
+   \[
+   \text{Total turtles} = \text{Martha's turtles} + \text{Marion's turtles} = 40 + 60 = 100
+   \]
+
+Therefore, Marion and Martha received a total of 100 turtles together.
+</reasoning>
+<answer>100</answer>

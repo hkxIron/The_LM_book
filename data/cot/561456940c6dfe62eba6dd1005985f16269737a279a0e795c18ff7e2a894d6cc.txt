@@ -1,0 +1,34 @@
+<reasoning>
+To find out how far the monkey swings in 30 minutes, we need to follow these steps:
+
+1. **Convert the time from minutes to seconds**: 
+   Since the monkey swings for 30 minutes, and there are 60 seconds in a minute, we multiply the number of minutes by the number of seconds per minute.
+
+   \[
+   30 \text{ minutes} \times 60 \text{ seconds/minute} = 1800 \text{ seconds}
+   \]
+
+   This tells us that the monkey swings for a total of 1800 seconds.
+
+2. **Calculate the distance the monkey swings**: 
+   We know that the monkey swings at an average speed of 1.2 meters per second. To find the total distance, we multiply the speed by the total time in seconds.
+
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   \[
+   \text{Distance} = 1.2 \text{ meters/second} \times 1800 \text{ seconds}
+   \]
+
+3. **Perform the multiplication**: 
+   Now we calculate:
+
+   \[
+   1.2 \times 1800 = 2160 \text{ meters}
+   \]
+
+   This means that in 30 minutes, the monkey swings a total of 2160 meters.
+
+Therefore, we can conclude that the monkey swings a distance of 2160 meters in 30 minutes.
+</reasoning>
+<answer>2160</answer>

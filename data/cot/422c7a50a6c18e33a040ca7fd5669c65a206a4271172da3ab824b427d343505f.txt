@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the cost of one chair**:
+   We know that a chair costs 1/7 of the cost of a table. Since the table costs $140, we can calculate the cost of one chair by multiplying the cost of the table by 1/7.
+   \[
+   \text{Cost of one chair} = \frac{1}{7} \times 140
+   \]
+
+2. **Calculate the cost of the chair**:
+   Now, we perform the calculation:
+   \[
+   \text{Cost of one chair} = \frac{140}{7} = 20
+   \]
+   So, one chair costs $20.
+
+3. **Calculate the total cost of 4 chairs**:
+   Since we need to buy 4 chairs, we multiply the cost of one chair by 4:
+   \[
+   \text{Cost of 4 chairs} = 4 \times 20
+   \]
+
+4. **Perform the multiplication**:
+   Carrying out the multiplication gives:
+   \[
+   \text{Cost of 4 chairs} = 80
+   \]
+
+5. **Calculate the total cost of the table and 4 chairs**:
+   Now we add the cost of the table to the cost of the 4 chairs:
+   \[
+   \text{Total cost} = \text{Cost of table} + \text{Cost of 4 chairs} = 140 + 80
+   \]
+
+6. **Final addition**:
+   Performing the final addition results in:
+   \[
+   \text{Total cost} = 220
+   \]
+
+Therefore, the total cost to buy a table and 4 chairs is $220.
+</reasoning>
+<answer>220</answer>

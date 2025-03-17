@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of boxes Robie has now**: 
+   Robie has 5 boxes with him after giving away 2 boxes. 
+   This means he originally had:
+   \[
+   5 \text{ boxes} + 2 \text{ boxes} = 7 \text{ boxes}
+   \]
+   So, Robie started with 7 boxes of hockey cards.
+
+2. **Determine the total number of cards in the boxes**: 
+   Each box contains 10 cards. Therefore, the total number of cards in the 7 boxes is:
+   \[
+   7 \text{ boxes} \times 10 \text{ cards/box} = 70 \text{ cards}
+   \]
+
+3. **Account for the cards that were not placed in a box**: 
+   According to the problem, there were also 5 cards that were not placed in a box. To find the total number of cards Robie had in the beginning, we need to add these unboxed cards to the cards in the boxes:
+   \[
+   70 \text{ cards in boxes} + 5 \text{ unboxed cards} = 75 \text{ cards}
+   \]
+
+Thus, Robie had a total of 75 cards in the beginning.
+</reasoning>
+<answer>75</answer>

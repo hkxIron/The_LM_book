@@ -1,0 +1,45 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine the price of the 16-inch portrait**:
+   - We know that the 8-inch portrait sells for $5.
+   - The price of the 16-inch portrait is twice that of the 8-inch portrait.
+   - Therefore, the price of the 16-inch portrait is:
+     \[
+     2 \times 5 = 10
+     \]
+   So, the 16-inch portrait sells for $10.
+
+2. **Calculate the total earnings from 8-inch portraits**:
+   - Sansa sells 3 of the 8-inch portraits each day.
+   - The earnings from the 8-inch portraits in one day are:
+     \[
+     3 \times 5 = 15
+     \]
+   So, she earns $15 from 8-inch portraits each day.
+
+3. **Calculate the total earnings from 16-inch portraits**:
+   - Sansa sells 5 of the 16-inch portraits each day.
+   - The earnings from the 16-inch portraits in one day are:
+     \[
+     5 \times 10 = 50
+     \]
+   So, she earns $50 from 16-inch portraits each day.
+
+4. **Calculate the total earnings per day**:
+   - Now we can find the total earnings for one day by summing the earnings from both types of portraits:
+     \[
+     15 + 50 = 65
+     \]
+   So, Sansa earns $65 each day.
+
+5. **Calculate the total earnings over 3 days**:
+   - To find out how much she earns in 3 days, we multiply her daily earnings by 3:
+     \[
+     65 \times 3 = 195
+     \]
+   Thus, over the course of 3 days, Sansa earns $195.
+
+Therefore, Sansa earns a total of $195 every 3 days.
+</reasoning>
+<answer>195</answer>

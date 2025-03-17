@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the points from each of the three darts thrown by Don.
+
+1. **Bullseye Dart:**
+   - The first dart is a bullseye which is worth 50 points.
+   - Therefore, the score from the bullseye is: **50 points**.
+
+2. **Missed Dart:**
+   - The second dart completely missed the target and received no points.
+   - Hence, the score from the missed dart is: **0 points**.
+
+3. **Third Dart:**
+   - The third dart is worth half the points of the bullseye.
+   - Since the bullseye is worth 50 points, half of that is calculated as follows:
+     \[
+     \text{Half of Bullseye} = \frac{50}{2} = 25 \text{ points}
+     \]
+
+Now, we will sum all the points from the three darts:
+- Points from the bullseye: 50 points
+- Points from the missed dart: 0 points
+- Points from the third dart: 25 points
+
+Adding these together:
+\[
+\text{Total Score} = 50 + 0 + 25 = 75 \text{ points}
+\]
+
+Therefore, the final score from these 3 throws is 75 points.
+</reasoning>
+<answer>75</answer>

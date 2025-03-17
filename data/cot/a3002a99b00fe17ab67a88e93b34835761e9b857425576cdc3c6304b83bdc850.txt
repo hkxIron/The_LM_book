@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much money Tina has left after her savings and expenses, we will follow these steps:
+
+1. **Calculate Total Savings**: First, we need to add up the amounts Tina saved in June, July, and August.
+
+   - In June, she saved $27.
+   - In July, she saved $14.
+   - In August, she saved $21.
+
+   So, we add these amounts together:
+   \[
+   27 + 14 + 21 = 62
+   \]
+   This means Tina saved a total of $62 over these three months.
+
+2. **Calculate Total Expenses**: Next, we need to add up the amounts Tina spent on books and shoes.
+
+   - She spent $5 on books.
+   - She spent $17 on shoes.
+
+   We add these expenses together:
+   \[
+   5 + 17 = 22
+   \]
+   Therefore, Tina spent a total of $22.
+
+3. **Calculate Remaining Money**: Now, we subtract Tina's total expenses from her total savings to find out how much she has left.
+
+   We take her total savings of $62 and subtract her total expenses of $22:
+   \[
+   62 - 22 = 40
+   \]
+   Thus, Tina has $40 left after her savings and expenses.
+</reasoning>
+<answer>40</answer>

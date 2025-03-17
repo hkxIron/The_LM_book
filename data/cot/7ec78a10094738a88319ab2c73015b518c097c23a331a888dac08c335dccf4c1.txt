@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to first find out how many boys and girls there are in the family based on the given ratio and the total number of children.
+
+1. **Understanding the Ratio**: The ratio of boys to girls is given as 5:7. This means that for every 5 boys, there are 7 girls. We can denote the number of boys as \(5x\) and the number of girls as \(7x\), where \(x\) is a common multiplier.
+
+2. **Calculating the Total Number of Children**: The total number of children in the family is the sum of boys and girls. Therefore, we can write the equation:
+   \[
+   5x + 7x = 180
+   \]
+   Combining like terms gives:
+   \[
+   12x = 180
+   \]
+
+3. **Solving for \(x\)**: To find \(x\), we divide both sides of the equation by 12:
+   \[
+   x = \frac{180}{12} = 15
+   \]
+
+4. **Finding the Number of Boys and Girls**: Now that we have \(x\), we can calculate the number of boys and girls:
+   - Number of boys = \(5x = 5 \times 15 = 75\)
+   - Number of girls = \(7x = 7 \times 15 = 105\)
+
+5. **Distributing the Money Among Boys**: The total amount of money given to the boys is $3900. We need to find out how much each boy receives. To do this, we divide the total amount of money by the number of boys:
+   \[
+   \text{Amount per boy} = \frac{3900}{75}
+   \]
+
+6. **Calculating the Amount per Boy**: Now we perform the division:
+   \[
+   \frac{3900}{75} = 52
+   \]
+
+Thus, each boy receives $52.
+
+Therefore, the amount of money each boy receives is:
+</reasoning>
+<answer>52</answer>

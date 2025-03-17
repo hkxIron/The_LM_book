@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much Roe should save in December, we first need to calculate how much she has already saved from January to November.
+
+1. **Calculate savings from January to July:**
+   - Roe saved $10 per month for 7 months (January to July).
+   - Calculation: 
+     \[
+     10 \, \text{dollars/month} \times 7 \, \text{months} = 70 \, \text{dollars}
+     \]
+   - So, she saved a total of $70 from January to July.
+
+2. **Calculate savings from August to November:**
+   - Roe saved $15 per month for 4 months (August to November).
+   - Calculation: 
+     \[
+     15 \, \text{dollars/month} \times 4 \, \text{months} = 60 \, \text{dollars}
+     \]
+   - Thus, she saved a total of $60 from August to November.
+
+3. **Calculate total savings from January to November:**
+   - Now, we add the savings from both periods.
+   - Calculation:
+     \[
+     70 \, \text{dollars} + 60 \, \text{dollars} = 130 \, \text{dollars}
+     \]
+   - Therefore, Roe has saved $130 from January to November.
+
+4. **Calculate how much she needs to save in December:**
+   - Roe wants to have a total of $150 by the end of the year.
+   - We need to determine how much more she needs to save in December.
+   - Calculation:
+     \[
+     150 \, \text{dollars} - 130 \, \text{dollars} = 20 \, \text{dollars}
+     \]
+   - Thus, she should save $20 in December to reach her goal.
+
+Therefore, Roe should save $20 in December to have a total savings of $150 for the year.
+</reasoning>
+<answer>20</answer>

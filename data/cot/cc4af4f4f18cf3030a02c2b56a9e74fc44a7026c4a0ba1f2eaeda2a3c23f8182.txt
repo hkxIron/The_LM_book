@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many Snickers bars Jaron needs to sell to earn enough points for the Nintendo Switch, we need to follow these steps:
+
+1. **Calculate the points Jaron has already earned**:  
+   Jaron has sold 8 chocolate bunnies, and each bunny is worth 100 points.  
+   So, we can calculate his current points as follows:  
+   \[
+   \text{Points from chocolate bunnies} = 8 \times 100 = 800 \text{ points}
+   \]
+
+2. **Determine how many points he still needs**:  
+   Jaron needs a total of 2000 points to win the Nintendo Switch. We can find out how many more points he needs by subtracting the points he has from the total points required:  
+   \[
+   \text{Points needed} = 2000 - 800 = 1200 \text{ points}
+   \]
+
+3. **Calculate how many Snickers bars he needs to sell**:  
+   Each Snickers bar earns 25 points. To find out how many Snickers Jaron needs to sell to earn the remaining 1200 points, we divide the points needed by the points per Snickers bar:  
+   \[
+   \text{Number of Snickers bars needed} = \frac{1200}{25}
+   \]
+
+4. **Perform the division**:  
+   \[
+   \frac{1200}{25} = 48
+   \]
+
+So, Jaron needs to sell 48 Snickers bars to earn enough points to win the Nintendo Switch.
+</reasoning>
+<answer>48</answer>

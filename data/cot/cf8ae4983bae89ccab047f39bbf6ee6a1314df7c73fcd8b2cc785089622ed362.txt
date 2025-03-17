@@ -1,0 +1,49 @@
+<reasoning>
+Let's denote the number of years of experience Bill has now as \( b \) and the number of years of experience Joan has now as \( j \).
+
+1. **Understanding the problem**: We know that 5 years ago, Joan had 3 times as much experience as Bill. This means that 5 years ago, Bill's experience was \( b - 5 \) and Joan's experience was \( j - 5 \).
+
+2. **Setting up the first equation**: From the information given, we can write the equation for their experiences 5 years ago:
+   \[
+   j - 5 = 3(b - 5)
+   \]
+   This reflects that Joan's experience 5 years ago was 3 times Bill's experience 5 years ago.
+
+3. **Expanding the equation**: Let's simplify this equation:
+   \[
+   j - 5 = 3b - 15
+   \]
+   Adding 5 to both sides gives:
+   \[
+   j = 3b - 10 \quad (1)
+   \]
+
+4. **Setting up the second equation**: Now, the problem states that currently, Joan has twice as much experience as Bill. So we can write:
+   \[
+   j = 2b \quad (2)
+   \]
+
+5. **Substituting the equations**: Now we can substitute equation (2) into equation (1):
+   \[
+   2b = 3b - 10
+   \]
+   This allows us to solve for \( b \).
+
+6. **Rearranging the equation**: Let's rearrange this equation:
+   \[
+   2b - 3b = -10
+   \]
+   This simplifies to:
+   \[
+   -b = -10
+   \]
+   Multiplying both sides by -1 gives:
+   \[
+   b = 10
+   \]
+
+7. **Conclusion**: Bill has 10 years of experience now.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we need to determine the total weight of the people already in the elevator and then find out how much weight can still be added without exceeding the maximum limit of 600 pounds.
+
+1. **Calculate the total weight of the adults:**
+   - There are 3 adults with an average weight of 140 pounds.
+   - Total weight of the adults can be calculated as:
+     \[
+     \text{Total weight of adults} = \text{Number of adults} \times \text{Average weight of adults} = 3 \times 140 = 420 \text{ pounds}
+     \]
+
+2. **Calculate the total weight of the children:**
+   - There are 2 children with an average weight of 64 pounds.
+   - Total weight of the children can be calculated as:
+     \[
+     \text{Total weight of children} = \text{Number of children} \times \text{Average weight of children} = 2 \times 64 = 128 \text{ pounds}
+     \]
+
+3. **Calculate the total weight already in the elevator:**
+   - Now, we can find the combined weight of both adults and children:
+     \[
+     \text{Total weight in elevator} = \text{Total weight of adults} + \text{Total weight of children} = 420 + 128 = 548 \text{ pounds}
+     \]
+
+4. **Determine the maximum additional weight allowed:**
+   - The elevator has a maximum weight limit of 600 pounds. We now subtract the current total weight from this limit to find out how much more weight can be added:
+     \[
+     \text{Maximum additional weight} = \text{Maximum weight limit} - \text{Total weight in elevator} = 600 - 548 = 52 \text{ pounds}
+     \]
+
+5. **Conclusion:**
+   - The maximum weight of the next person who can get in the elevator without exceeding the limit is 52 pounds.
+
+Therefore, the maximum weight of the next person to get in the elevator so that it will not be overloaded is:
+</reasoning>
+<answer>52</answer>

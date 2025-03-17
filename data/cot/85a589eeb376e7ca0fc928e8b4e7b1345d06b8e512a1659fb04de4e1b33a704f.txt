@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many laps Jasmine swims in five weeks, we need to determine the total number of laps she swims each week and then multiply that by the number of weeks.
+
+1. **Calculate the number of laps per week**:
+   - Jasmine swims 12 laps each day from Monday to Friday. 
+   - There are 5 days in a week. 
+   - So, we multiply the number of laps per day by the number of days in a week:
+     \[
+     \text{Laps per week} = 12 \text{ laps/day} \times 5 \text{ days/week} = 60 \text{ laps/week}
+     \]
+   - This means Jasmine swims 60 laps each week.
+
+2. **Calculate the total number of laps in five weeks**:
+   - Now that we know she swims 60 laps in one week, we can find out how many laps she swims in five weeks by multiplying the number of laps per week by the number of weeks:
+     \[
+     \text{Total laps in five weeks} = 60 \text{ laps/week} \times 5 \text{ weeks} = 300 \text{ laps}
+     \]
+
+Therefore, after calculating the total number of laps she swims over five weeks, we find that:
+</reasoning>
+<answer>300</answer>

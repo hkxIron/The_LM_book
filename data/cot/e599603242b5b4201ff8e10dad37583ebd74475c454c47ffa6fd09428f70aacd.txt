@@ -1,0 +1,32 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Understanding the problem**: Carmen has 25 sprigs of parsley initially. She decorates 8 plates using 1 whole sprig for each plate and 12 plates using 1/2 a sprig for each plate. We need to find out how many sprigs she has left after decorating the plates.
+
+2. **Calculating the number of sprigs used on the plates**:
+   - For the 8 plates that she decorates with 1 whole sprig each:
+     \[
+     \text{Total sprigs used} = 8 \times 1 = 8 \text{ sprigs}
+     \]
+
+   - For the 12 plates that she decorates with 1/2 a sprig each:
+     \[
+     \text{Total sprigs used} = 12 \times \frac{1}{2} = 12 \times 0.5 = 6 \text{ sprigs}
+     \]
+
+3. **Adding the total sprigs used**:
+   Now, we need to add the total number of sprigs used for both types of plates:
+   \[
+   \text{Total sprigs used} = 8 \text{ sprigs} + 6 \text{ sprigs} = 14 \text{ sprigs}
+   \]
+
+4. **Calculating the remaining sprigs**:
+   We started with 25 sprigs and used 14 sprigs. To find out how many sprigs are left, we subtract the number of sprigs used from the initial amount:
+   \[
+   \text{Sprigs left} = 25 - 14 = 11 \text{ sprigs}
+   \]
+
+5. **Conclusion**:
+   Therefore, after decorating the plates, Carmen has 11 sprigs of parsley left.
+</reasoning>
+<answer>11</answer>

@@ -1,0 +1,18 @@
+<reasoning>
+To find out how much total weight John moves while bench pressing, we can break it down step by step.
+
+1. **Calculate the weight lifted in one set**: 
+   John lifts 15 pounds for 10 repetitions (reps) in one set. To find the total weight lifted in one set, we multiply the weight per rep by the number of reps:
+   \[
+   \text{Weight per set} = \text{Weight per rep} \times \text{Number of reps} = 15 \, \text{pounds} \times 10 \, \text{reps} = 150 \, \text{pounds}
+   \]
+
+2. **Calculate the total weight lifted in all sets**:
+   John does 3 sets in total. To find the total weight lifted across all sets, we multiply the weight lifted in one set by the number of sets:
+   \[
+   \text{Total weight} = \text{Weight per set} \times \text{Number of sets} = 150 \, \text{pounds} \times 3 \, \text{sets} = 450 \, \text{pounds}
+   \]
+
+Therefore, the total weight that John moves is 450 pounds.
+</reasoning>
+<answer>450</answer>

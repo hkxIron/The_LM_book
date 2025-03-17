@@ -1,0 +1,26 @@
+<reasoning>
+Let's break this down step by step.
+
+Step 1: Find out how much oil is in the 10 cans that are holding 8 liters each. This means we multiply the number of cans, which is 10, by the amount of oil each of them holds, which is 8 liters. 
+
+10 cans * 8 liters/can = 80 liters
+
+Step 2: Subtract the amount of oil in those 10 cans from the total amount of oil, which is 290 liters. 
+
+290 liters - 80 liters = 210 liters
+
+This tells us that the remaining oil, which is in the other cans, amounts to 210 liters. 
+
+Step 3: Find out how many remaining cans there are. We do this by subtracting the number of cans that we know the capacity of (10 cans) from the total number of cans (24 cans).
+
+24 cans - 10 cans = 14 cans
+
+So, we have 14 cans that are holding the remaining 210 liters of oil.
+
+Step 4: Find out how much oil each of these remaining cans is holding. We do this by dividing the total amount of oil in these cans (210 liters) by the number of these cans (14 cans).
+
+210 liters / 14 cans = 15 liters/can
+
+So, each of the remaining cans is holding 15 liters of oil.
+</reasoning>
+<answer>15</answer>

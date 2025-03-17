@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of notebooks that John and his wife bought for their children, we need to calculate how many notebooks each of them bought separately and then add those amounts together.
+
+1. **Calculate the number of notebooks John bought:**
+   - John bought 2 notebooks for each of his 3 children.
+   - So we multiply the number of children (3) by the number of notebooks per child (2):
+     \[
+     \text{Notebooks bought by John} = 3 \times 2 = 6
+     \]
+   - This means John bought a total of 6 notebooks for his children.
+
+2. **Calculate the number of notebooks John's wife bought:**
+   - John's wife bought 5 notebooks for each of the same 3 children.
+   - We multiply the number of children (3) by the number of notebooks per child (5):
+     \[
+     \text{Notebooks bought by John's wife} = 3 \times 5 = 15
+     \]
+   - This means John's wife bought a total of 15 notebooks for their children.
+
+3. **Calculate the total number of notebooks bought:**
+   - Now, we add the number of notebooks bought by John and the number bought by his wife:
+     \[
+     \text{Total notebooks} = \text{Notebooks bought by John} + \text{Notebooks bought by John's wife} = 6 + 15 = 21
+     \]
+
+Therefore, the total number of notebooks that John and his wife bought for their children is 21.
+</reasoning>
+<answer>21</answer>

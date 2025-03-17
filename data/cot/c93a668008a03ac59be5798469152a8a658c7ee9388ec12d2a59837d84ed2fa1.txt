@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many students are in Mr. Johnson's class, we start with the information given about Mrs. Finley's class.
+
+1. **Identify the number of students in Mrs. Finley's class**: 
+   Mrs. Finley's class has 24 students. 
+
+2. **Calculate half the number of students in Mrs. Finley's class**: 
+   We need to find half of 24. This is done by dividing 24 by 2:
+   \[
+   \frac{24}{2} = 12
+   \]
+   This means half of Mrs. Finley's class has 12 students.
+
+3. **Add 10 to half the number of students**: 
+   The problem states that Mr. Johnson's class has 10 more than half the number of students in Mrs. Finley's class. Therefore, we add 10 to the 12 we just calculated:
+   \[
+   12 + 10 = 22
+   \]
+   This means Mr. Johnson's class has 22 students.
+
+Therefore, after performing these calculations, we conclude that Mr. Johnson's class has 22 students.
+</reasoning>
+<answer>22</answer>

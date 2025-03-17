@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we need to establish a relationship based on the information given.
+
+1. We know that it took Dawn 20 minutes to wash the dishes. We'll denote the time it took Andy to put away the laundry as \( A \) minutes. 
+
+2. According to the problem, Andy took six minutes more than two times the amount of time it took Dawn. We can express this relationship mathematically. Since Dawn took 20 minutes, we can write:
+   \[
+   A = 2 \times 20 + 6
+   \]
+
+3. Now, we will calculate \( A \):
+   - First, we calculate \( 2 \times 20 \):
+     \[
+     2 \times 20 = 40
+     \]
+   - Next, we add 6 to this result:
+     \[
+     40 + 6 = 46
+     \]
+
+Thus, it took Andy 46 minutes to put away the laundry.
+</reasoning>
+<answer>46</answer>

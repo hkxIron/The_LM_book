@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we will start by determining how many incorrect answers Sylvia had and then calculate her correct answers. After that, we will find out Sergio's correct answers and finally compare the two to see how many more correct answers Sergio has than Sylvia.
+
+1. **Determine the number of incorrect answers Sylvia had:**
+   Sylvia had one-fifth of incorrect answers in the exam. Since there were 50 questions in total, we can calculate the number of incorrect answers by taking one-fifth of 50:
+   \[
+   \text{Incorrect answers by Sylvia} = \frac{1}{5} \times 50 = 10
+   \]
+   This means Sylvia answered 10 questions incorrectly.
+
+2. **Calculate the number of correct answers Sylvia had:**
+   To find out how many correct answers Sylvia had, we subtract the number of incorrect answers from the total number of questions:
+   \[
+   \text{Correct answers by Sylvia} = 50 - 10 = 40
+   \]
+
+3. **Determine the number of incorrect answers Sergio had:**
+   It is given that Sergio made 4 mistakes. Therefore, the number of incorrect answers Sergio had is simply 4.
+
+4. **Calculate the number of correct answers Sergio had:**
+   Similarly to Sylvia, we subtract the number of Sergio's incorrect answers from the total number of questions:
+   \[
+   \text{Correct answers by Sergio} = 50 - 4 = 46
+   \]
+
+5. **Compare the correct answers of Sylvia and Sergio:**
+   Now we will find out how many more correct answers Sergio has than Sylvia by subtracting Sylvia's correct answers from Sergio's correct answers:
+   \[
+   \text{Difference in correct answers} = \text{Correct answers by Sergio} - \text{Correct answers by Sylvia} = 46 - 40 = 6
+   \]
+
+Thus, Sergio has 6 more correct answers than Sylvia.
+</reasoning>
+<answer>6</answer>

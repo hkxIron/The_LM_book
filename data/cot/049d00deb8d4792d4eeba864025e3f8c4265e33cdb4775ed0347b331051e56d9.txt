@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many Asian countries Cornelia has visited, we will follow these steps:
+
+1. **Identify the total number of countries visited**: Cornelia has visited a total of 42 countries.
+
+2. **Determine the number of countries visited in Europe and South America**:
+   - Number of countries visited in Europe = 20
+   - Number of countries visited in South America = 10
+
+3. **Calculate the total number of countries visited in Europe and South America**:
+   We add the countries from Europe and South America:
+   \[
+   \text{Total in Europe and South America} = 20 + 10 = 30
+   \]
+
+4. **Find the number of countries not in Europe or South America**:
+   We subtract the total from Europe and South America from the total number of countries:
+   \[
+   \text{Remaining countries} = \text{Total countries} - \text{Total in Europe and South America}
+   \]
+   \[
+   \text{Remaining countries} = 42 - 30 = 12
+   \]
+
+5. **Determine how many of the remaining countries are in Asia**:
+   According to the problem, half of the remaining countries are in Asia. Therefore, we calculate:
+   \[
+   \text{Asian countries} = \frac{1}{2} \times \text{Remaining countries}
+   \]
+   \[
+   \text{Asian countries} = \frac{1}{2} \times 12 = 6
+   \]
+
+Thus, Cornelia has visited 6 Asian countries.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6</answer>

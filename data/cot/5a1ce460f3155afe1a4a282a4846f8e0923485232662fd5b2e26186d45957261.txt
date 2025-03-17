@@ -1,0 +1,35 @@
+<reasoning>
+Let's solve this problem step by step.
+
+1. **Initial Count of Cotton Candies**: Cersei starts with 50 cotton candies.
+
+2. **Giving to Her Brother and Sister**: She gives 5 cotton candies to her brother and 5 cotton candies to her sister. 
+   - Total given away to brother and sister = 5 + 5 = 10 cotton candies.
+   - Now, we subtract this from the initial count: 
+     \[
+     50 - 10 = 40
+     \]
+   - So, Cersei has 40 cotton candies left after giving to her siblings.
+
+3. **Giving to Her Cousin**: Cersei then gives one-fourth of the remaining cotton candies to her cousin. 
+   - To find one-fourth of 40, we calculate:
+     \[
+     \frac{40}{4} = 10
+     \]
+   - So, she gives 10 cotton candies to her cousin.
+   - Now we subtract this from the current count:
+     \[
+     40 - 10 = 30
+     \]
+   - Now, Cersei has 30 cotton candies left after giving to her cousin.
+
+4. **Cotton Candies Eaten by Cersei**: Next, we know that Cersei ate 12 cotton candies. 
+   - We subtract the number of cotton candies she ate from the current count:
+     \[
+     30 - 12 = 18
+     \]
+   - Therefore, after eating 12 cotton candies, Cersei has 18 cotton candies left.
+
+So, after performing all the calculations, we find that Cersei has 18 cotton candies remaining.
+</reasoning>
+<answer>18</answer>

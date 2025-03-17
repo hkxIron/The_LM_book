@@ -1,0 +1,46 @@
+<reasoning>
+To find the percentage of Carla's seeds that come from the dandelions, I will follow these steps:
+
+1. **Calculate the total number of seeds from the sunflowers.**  
+   Carla has 6 sunflowers, and each sunflower has 9 seeds.  
+   So, the total number of seeds from the sunflowers is calculated as follows:  
+   \[
+   \text{Seeds from sunflowers} = \text{Number of sunflowers} \times \text{Seeds per sunflower} = 6 \times 9 = 54
+   \]
+
+2. **Calculate the total number of seeds from the dandelions.**  
+   Carla has 8 dandelions, and each dandelion has 12 seeds.  
+   So, the total number of seeds from the dandelions is calculated as follows:  
+   \[
+   \text{Seeds from dandelions} = \text{Number of dandelions} \times \text{Seeds per dandelion} = 8 \times 12 = 96
+   \]
+
+3. **Calculate the total number of seeds from both types of plants.**  
+   The total number of seeds is the sum of the seeds from sunflowers and dandelions:  
+   \[
+   \text{Total seeds} = \text{Seeds from sunflowers} + \text{Seeds from dandelions} = 54 + 96 = 150
+   \]
+
+4. **Calculate the percentage of seeds that come from the dandelions.**  
+   To find the percentage of seeds from dandelions, I will use the formula:  
+   \[
+   \text{Percentage from dandelions} = \left( \frac{\text{Seeds from dandelions}}{\text{Total seeds}} \right) \times 100
+   \]  
+   Plugging in the values:  
+   \[
+   \text{Percentage from dandelions} = \left( \frac{96}{150} \right) \times 100
+   \]
+
+5. **Perform the division and multiplication.**  
+   First, calculate \( \frac{96}{150} \):
+   \[
+   \frac{96}{150} = 0.64
+   \]  
+   Now, multiply by 100 to convert to a percentage:  
+   \[
+   0.64 \times 100 = 64
+   \]
+
+Therefore, the percentage of Carla's seeds that come from the dandelions is 64%.
+</reasoning>
+<answer>64</answer>

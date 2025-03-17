@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many toy cars Bobby will have in three years, we need to calculate the growth of his toy cars year by year, using the 50% increase each year. 
+
+1. **Initial amount of toy cars:** Bobby starts with 16 toy cars.
+
+2. **Calculating the increase for the first year:**
+   - A 50% increase means we take 50% of 16 and add it to the original amount.
+   - 50% of 16 is calculated as:
+     \[
+     0.50 \times 16 = 8
+     \]
+   - Therefore, after the first year, Bobby will have:
+     \[
+     16 + 8 = 24 \text{ toy cars}
+     \]
+
+3. **Calculating the increase for the second year:**
+   - Now, we start with 24 toy cars and apply the same 50% increase.
+   - 50% of 24 is:
+     \[
+     0.50 \times 24 = 12
+     \]
+   - After the second year, Bobby will have:
+     \[
+     24 + 12 = 36 \text{ toy cars}
+     \]
+
+4. **Calculating the increase for the third year:**
+   - Starting with 36 toy cars, we apply the 50% increase again.
+   - 50% of 36 is:
+     \[
+     0.50 \times 36 = 18
+     \]
+   - After the third year, Bobby will have:
+     \[
+     36 + 18 = 54 \text{ toy cars}
+     \]
+
+Overall, we have calculated the number of toy cars Bobby will have at the end of each year, leading to the final total after three years.
+
+Therefore, Bobby will have a total of 54 toy cars after three years.
+</reasoning>
+<answer>54</answer>

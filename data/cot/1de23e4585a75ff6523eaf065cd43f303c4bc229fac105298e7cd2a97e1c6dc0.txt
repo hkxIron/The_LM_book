@@ -1,0 +1,25 @@
+<reasoning>
+To find the average number of carnations in the bouquets, we need to follow these steps:
+
+1. **Add the total number of carnations**: We will sum up the number of carnations in each bouquet.
+   - The first bouquet has 9 carnations.
+   - The second bouquet has 14 carnations.
+   - The third bouquet has 13 carnations.
+
+   So, we calculate the total:
+   \[
+   9 + 14 + 13 = 36
+   \]
+   This step is important because the average is calculated based on the total quantity.
+
+2. **Count the number of bouquets**: Next, we need to determine how many bouquets there are. In this case, there are 3 bouquets (the first, second, and third).
+
+3. **Calculate the average**: The average is found by dividing the total number of carnations by the number of bouquets. Thus, we compute:
+   \[
+   \text{Average} = \frac{\text{Total Carnations}}{\text{Number of Bouquets}} = \frac{36}{3} = 12
+   \]
+   This step gives us the average number of carnations per bouquet, which is essential to understand how many carnations are typically found in each bouquet.
+
+Therefore, after performing these calculations, we find that the average number of carnations in the bouquets is 12.
+</reasoning>
+<answer>12</answer>

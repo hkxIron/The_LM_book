@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many episodes Donna can watch in a week, we need to break it down into weekdays and weekend days.
+
+1. **Calculate weekday episodes:**
+   - Donna watches 8 episodes each day during the weekdays.
+   - There are 5 weekdays (Monday to Friday).
+   - Therefore, the total number of episodes she can watch during the weekdays is:
+     \[
+     8 \text{ episodes/day} \times 5 \text{ days} = 40 \text{ episodes}
+     \]
+
+2. **Calculate weekend episodes:**
+   - On each weekend day (Saturday and Sunday), she can watch three times the number of episodes she can watch on the weekdays.
+   - Since she watches 8 episodes on a weekday, on the weekend she can watch:
+     \[
+     3 \times 8 \text{ episodes} = 24 \text{ episodes/day}
+     \]
+   - There are 2 weekend days.
+   - Therefore, the total number of episodes she can watch during the weekend is:
+     \[
+     24 \text{ episodes/day} \times 2 \text{ days} = 48 \text{ episodes}
+     \]
+
+3. **Calculate the total episodes in a week:**
+   - Now, we add the total episodes watched during the weekdays and the total episodes watched during the weekend:
+     \[
+     40 \text{ episodes (weekdays)} + 48 \text{ episodes (weekend)} = 88 \text{ episodes}
+     \]
+
+Thus, Donna can watch a total of 88 episodes in a week.
+</reasoning>
+<answer>88</answer>

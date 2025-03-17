@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we need to determine how many pies each person (Bill, Adam, and Sierra) ate based on the information given.
+
+1. **Identify how many pies Sierra ate**: We know from the problem that Sierra ate 12 pies.
+
+2. **Set up the relationship for Bill**: The problem states that Sierra eats twice as many pies as Bill. Therefore, we can set up the equation:
+   \[
+   \text{Sierra's pies} = 2 \times \text{Bill's pies}
+   \]
+   Substituting Sierra's pies into the equation gives:
+   \[
+   12 = 2 \times \text{Bill's pies}
+   \]
+
+3. **Solve for Bill's pies**: To find out how many pies Bill ate, we need to isolate the variable (Bill's pies) in the equation. We can do this by dividing both sides of the equation by 2:
+   \[
+   \text{Bill's pies} = \frac{12}{2} = 6
+   \]
+   So, Bill ate 6 pies.
+
+4. **Determine how many pies Adam ate**: The problem also states that Adam eats three more pies than Bill. We can express this relationship as:
+   \[
+   \text{Adam's pies} = \text{Bill's pies} + 3
+   \]
+   Substituting Bill's pies into the equation gives:
+   \[
+   \text{Adam's pies} = 6 + 3 = 9
+   \]
+   Therefore, Adam ate 9 pies.
+
+5. **Calculate the total number of pies eaten**: Now that we have the number of pies eaten by each individual, we can find the total by adding the number of pies eaten by Adam, Bill, and Sierra together:
+   \[
+   \text{Total pies} = \text{Adam's pies} + \text{Bill's pies} + \text{Sierra's pies}
+   \]
+   Substituting the numbers we found:
+   \[
+   \text{Total pies} = 9 + 6 + 12 = 27
+   \]
+
+Thus, the total number of pies eaten in the contest is 27.
+</reasoning>
+<answer>27</answer>

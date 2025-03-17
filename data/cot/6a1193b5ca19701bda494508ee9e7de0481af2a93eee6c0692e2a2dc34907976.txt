@@ -1,0 +1,30 @@
+<reasoning>
+To find the average percentage of kernels that pop in the bags, we need to calculate the percentage for each bag first and then find the average of those percentages.
+
+1. **Calculate the percentage for the first bag:**
+   - Number of popped kernels = 60
+   - Total kernels in the bag = 75
+   - Percentage of popped kernels = (Number of popped kernels / Total kernels) × 100
+   - So, (60 / 75) × 100 = 0.8 × 100 = 80%
+
+2. **Calculate the percentage for the second bag:**
+   - Number of popped kernels = 42
+   - Total kernels in the bag = 50
+   - Percentage of popped kernels = (Number of popped kernels / Total kernels) × 100
+   - So, (42 / 50) × 100 = 0.84 × 100 = 84%
+
+3. **Calculate the percentage for the third bag:**
+   - Number of popped kernels = 82
+   - Total kernels in the bag = 100
+   - Percentage of popped kernels = (Number of popped kernels / Total kernels) × 100
+   - So, (82 / 100) × 100 = 0.82 × 100 = 82%
+
+4. **Now, we find the average of these percentages:**
+   - Percentages calculated: 80%, 84%, and 82%
+   - To find the average, we add these percentages together and divide by the number of bags.
+   - Average percentage = (80 + 84 + 82) / 3
+   - This equals (246 / 3) = 82
+
+Therefore, Parker finds that the average percentage of kernels that pop in the bags is 82%.
+</reasoning>
+<answer>82</answer>

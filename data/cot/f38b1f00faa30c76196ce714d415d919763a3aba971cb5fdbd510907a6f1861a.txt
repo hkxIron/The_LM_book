@@ -1,0 +1,23 @@
+<reasoning>
+First, let's determine how many pieces of mail Johann's friends delivered together. Since each friend delivered 41 pieces of mail, we can calculate the total delivered by both friends:
+
+1. **Calculate total mail delivered by friends**:
+   \[
+   \text{Total mail delivered by friends} = 41 + 41 = 82
+   \]
+
+Now that we know how many pieces of mail the friends delivered, we can find out how many pieces Johann needs to deliver by subtracting the total delivered by the friends from the total pieces of certified mail.
+
+2. **Calculate mail Johann needs to deliver**:
+   \[
+   \text{Mail Johann needs to deliver} = 180 - 82
+   \]
+
+3. **Perform the subtraction**:
+   \[
+   180 - 82 = 98
+   \]
+
+Therefore, Johann needs to deliver 98 pieces of mail.
+</reasoning>
+<answer>98</answer>

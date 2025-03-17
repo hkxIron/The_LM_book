@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, let's break it down into steps.
+
+1. **Identify the number of boys and girls in the class:**
+   - We know there are 10 boys.
+   - The problem states that there are twice as many girls as boys. Therefore, the number of girls can be calculated as:
+     \[
+     \text{Number of girls} = 2 \times \text{Number of boys} = 2 \times 10 = 20
+     \]
+
+2. **Verify the total number of students:**
+   - The total number of students in the class is 30, which matches our calculation of boys and girls:
+     \[
+     \text{Total students} = \text{Number of boys} + \text{Number of girls} = 10 + 20 = 30
+     \]
+   - This confirms our count is correct.
+
+3. **Calculate the total number of cups brought by boys:**
+   - Each boy brought 5 cups. Thus, the total number of cups brought by all boys is:
+     \[
+     \text{Total cups by boys} = \text{Number of boys} \times \text{Cups per boy} = 10 \times 5 = 50
+     \]
+
+4. **Calculate the total number of cups brought by girls:**
+   - We know the total number of cups brought by all students is 90. Therefore, the number of cups brought by girls can be calculated as:
+     \[
+     \text{Total cups by girls} = \text{Total cups} - \text{Total cups by boys} = 90 - 50 = 40
+     \]
+
+5. **Determine how many cups each girl brought:**
+   - Since there are 20 girls and they brought a total of 40 cups, we can find out how many cups each girl brought:
+     \[
+     \text{Cups per girl} = \frac{\text{Total cups by girls}}{\text{Number of girls}} = \frac{40}{20} = 2
+     \]
+
+Now, we can summarize our findings:
+
+Each girl brought 2 cups.
+</reasoning>
+<answer>2</answer>

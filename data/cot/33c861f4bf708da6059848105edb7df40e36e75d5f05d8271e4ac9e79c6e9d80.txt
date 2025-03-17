@@ -1,0 +1,21 @@
+<reasoning>
+To determine how many crickets Spike the bearded dragon hunts per day, we can break down the problem into two parts: the morning hunting and the afternoon/evening hunting.
+
+1. **Morning Hunting**: We know Spike hunts 5 crickets every morning. This is a straightforward piece of information.
+
+2. **Afternoon and Evening Hunting**: The problem states that he hunts three times the morning amount in the afternoon and evening. Since he hunts 5 crickets in the morning, we need to calculate three times that amount.
+
+   - Calculation for afternoon and evening:
+     \[
+     3 \times 5 = 15
+     \]
+   So, Spike hunts 15 crickets in the afternoon and evening combined.
+
+3. **Total Crickets Per Day**: Now, we add the number of crickets he hunts in the morning to the number he hunts in the afternoon and evening:
+   \[
+   5 \text{ (morning)} + 15 \text{ (afternoon/evening)} = 20
+   \]
+
+Therefore, Spike hunts a total of 20 crickets per day.
+</reasoning>
+<answer>20</answer>

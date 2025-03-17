@@ -1,0 +1,16 @@
+<reasoning>
+To find out how many buttons Jack needs to use in total for all the shirts, we can break this problem down into a few simple steps.
+
+1. **Determine the total number of shirts**: Jack sews 3 shirts for each of his 3 kids. To find the total number of shirts, we multiply the number of shirts per kid by the number of kids:
+   \[
+   \text{Total shirts} = 3 \text{ shirts/kid} \times 3 \text{ kids} = 9 \text{ shirts}
+   \]
+
+2. **Determine the total number of buttons needed for all shirts**: Each shirt has 7 buttons. Now we will multiply the total number of shirts by the number of buttons per shirt:
+   \[
+   \text{Total buttons} = 9 \text{ shirts} \times 7 \text{ buttons/shirt} = 63 \text{ buttons}
+   \]
+
+By following these steps, we can conclude that Jack must use a total of 63 buttons for all the shirts.
+</reasoning>
+<answer>63</answer>

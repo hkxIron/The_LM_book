@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem step by step, we will first gather all the information given and calculate how many marbles each friend collected.
+
+1. **Identify the known quantities:**
+   - Jenny collected 30 red marbles and 25 blue marbles.
+
+2. **Calculate the number of red marbles collected by Mary:**
+   - According to the problem, Mary collected twice as many red marbles as Jenny.
+   - Therefore, Mary’s red marbles = 2 * Jenny's red marbles = 2 * 30 = 60 red marbles.
+
+3. **Calculate the number of red marbles collected by Anie:**
+   - The problem states that Anie collected 20 more red marbles than Mary.
+   - Therefore, Anie’s red marbles = Mary's red marbles + 20 = 60 + 20 = 80 red marbles.
+
+4. **Determine the number of blue marbles collected by Anie:**
+   - Anie collected twice the number of blue marbles that Jenny collected.
+   - Therefore, Anie’s blue marbles = 2 * Jenny's blue marbles = 2 * 25 = 50 blue marbles.
+
+5. **Determine the number of blue marbles collected by Mary:**
+   - The problem states that Mary collected half the number of blue marbles collected by Anie.
+   - Therefore, Mary’s blue marbles = Anie's blue marbles / 2 = 50 / 2 = 25 blue marbles.
+
+6. **Calculate the total number of blue marbles collected by all three friends:**
+   - Total blue marbles = Jenny's blue marbles + Mary's blue marbles + Anie's blue marbles
+   - Total blue marbles = 25 + 25 + 50 = 100 blue marbles.
+
+Therefore, after calculating the individual contributions and summing them up, we find the total number of blue marbles collected by the friends:
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we first need to determine the total points scored by each team based on the number of touchdowns.
+
+1. **Calculate the points for Brayden and Gavin:**
+   - They scored 7 touchdowns.
+   - Each touchdown is worth 7 points.
+   - So, we multiply the number of touchdowns by the points per touchdown:
+     \[
+     \text{Points for Brayden and Gavin} = 7 \text{ touchdowns} \times 7 \text{ points/touchdown} = 49 \text{ points}
+     \]
+
+2. **Calculate the points for Cole and Freddy:**
+   - They scored 9 touchdowns.
+   - Again, each touchdown is worth 7 points.
+   - We multiply the number of touchdowns by the points per touchdown:
+     \[
+     \text{Points for Cole and Freddy} = 9 \text{ touchdowns} \times 7 \text{ points/touchdown} = 63 \text{ points}
+     \]
+
+3. **Determine how many more points Cole and Freddy had than Brayden and Gavin:**
+   - We subtract the points scored by Brayden and Gavin from the points scored by Cole and Freddy:
+     \[
+     \text{Difference in points} = \text{Points for Cole and Freddy} - \text{Points for Brayden and Gavin} = 63 \text{ points} - 49 \text{ points} = 14 \text{ points}
+     \]
+
+Thus, after calculating the points for both teams and finding the difference, we conclude that Cole and Freddy scored 14 more points than Brayden and Gavin.
+</reasoning>
+<answer>14</answer>

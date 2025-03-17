@@ -1,0 +1,31 @@
+<reasoning>
+To determine how much money the Cloud 9 Diving Company has taken altogether, we start by adding the individual bookings and group bookings together. 
+
+1. **Calculate Total Bookings**:
+   - Individual bookings = $12,000
+   - Group bookings = $16,000
+   
+   We add these two amounts together:
+   \[
+   \text{Total Bookings} = \text{Individual Bookings} + \text{Group Bookings} = 12,000 + 16,000
+   \]
+
+2. **Perform the Addition**:
+   \[
+   \text{Total Bookings} = 12,000 + 16,000 = 28,000
+   \]
+
+3. **Account for Cancellations**:
+   We need to subtract the amount that had to be returned due to cancellations. In this case, $1,600 has been returned to them. 
+   \[
+   \text{Total Money Taken} = \text{Total Bookings} - \text{Cancellations} = 28,000 - 1,600
+   \]
+
+4. **Perform the Subtraction**:
+   \[
+   \text{Total Money Taken} = 28,000 - 1,600 = 26,400
+   \]
+
+Thus, after accounting for the cancellations, the total amount of money that Cloud 9 Diving Company has taken altogether is $26,400.
+</reasoning>
+<answer>26400</answer>

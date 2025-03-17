@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of animals**: 
+   - There are 9 wombats.
+   - There are 3 rheas.
+
+2. **Determine how many times each type of animal claws Carson**:
+   - Each wombat claws Carson 4 times.
+   - Each rhea claws Carson 1 time.
+
+3. **Calculate the total claws from wombats**:
+   - Since there are 9 wombats and each claws 4 times, we can multiply the number of wombats by the number of claws each gives:
+   \[
+   \text{Total claws from wombats} = 9 \text{ wombats} \times 4 \text{ claws/wombat} = 36 \text{ claws}
+   \]
+
+4. **Calculate the total claws from rheas**:
+   - Since there are 3 rheas and each claws 1 time, we can multiply the number of rheas by the number of claws each gives:
+   \[
+   \text{Total claws from rheas} = 3 \text{ rheas} \times 1 \text{ claw/rhea} = 3 \text{ claws}
+   \]
+
+5. **Add the total claws from both types of animals**:
+   \[
+   \text{Total claws} = \text{Total claws from wombats} + \text{Total claws from rheas} = 36 + 3 = 39
+   \]
+
+Therefore, Carson gets clawed a total of 39 times.
+</reasoning>
+<answer>39</answer>

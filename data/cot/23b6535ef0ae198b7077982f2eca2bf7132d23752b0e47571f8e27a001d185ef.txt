@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much the reseller should sell the bag to achieve a 15% profit, we first need to calculate the amount of profit she wants to make.
+
+1. **Calculate the profit amount**: 
+   We know the cost of the bag is $3000 and the desired profit is 15%. To find the profit amount, we can use the formula:
+   \[
+   \text{Profit} = \text{Cost} \times \text{Profit Percentage}
+   \]
+   Substituting in the values:
+   \[
+   \text{Profit} = 3000 \times 0.15
+   \]
+
+2. **Perform the multiplication**:
+   Now, we calculate \(3000 \times 0.15\):
+   \[
+   \text{Profit} = 3000 \times 0.15 = 450
+   \]
+   This means the reseller will make a profit of $450.
+
+3. **Calculate the selling price**:
+   To find out how much the reseller should sell the bag for, we need to add the profit to the original cost of the bag:
+   \[
+   \text{Selling Price} = \text{Cost} + \text{Profit}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Selling Price} = 3000 + 450
+   \]
+
+4. **Perform the addition**:
+   Now, we calculate \(3000 + 450\):
+   \[
+   \text{Selling Price} = 3000 + 450 = 3450
+   \]
+
+Thus, the reseller should sell the bag for $3450 to achieve a 15% profit.
+</reasoning>
+<answer>3450</answer>

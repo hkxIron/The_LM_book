@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Carla's current age**: 
+   We know that in 6 years, Carla will be 30 years old. To find Carla's current age, we subtract 6 from 30.
+   \[
+   \text{Carla's current age} = 30 - 6 = 24
+   \]
+
+2. **Establish the equation for the sum of their ages**:
+   We are told that the sum of the current ages of Carla and Louis is 55. We can express this as:
+   \[
+   \text{Carla's current age} + \text{Louis's current age} = 55
+   \]
+
+3. **Substitute Carla's age into the equation**:
+   Now, we substitute Carla's current age (24) into the equation:
+   \[
+   24 + \text{Louis's current age} = 55
+   \]
+
+4. **Solve for Louis's current age**:
+   To find Louis's current age, we can rearrange the equation:
+   \[
+   \text{Louis's current age} = 55 - 24
+   \]
+   Now, perform the subtraction:
+   \[
+   \text{Louis's current age} = 31
+   \]
+
+Thus, we have determined that Louis is currently 31 years old.
+</reasoning>
+<answer>31</answer>

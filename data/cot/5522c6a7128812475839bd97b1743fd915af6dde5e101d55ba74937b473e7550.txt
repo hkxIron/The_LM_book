@@ -1,0 +1,43 @@
+<reasoning>
+To determine how much the tree has grown from the end of 2017 until the end of 2019, we first need to understand the growth pattern and the time frame involved.
+
+1. **Identify the growth rate and time period**: 
+   The tree grows by 10% each year. We are looking for the height of the tree at the end of 2019, which is 2 years after the end of 2017.
+
+2. **Calculate the height at the end of 2018**: 
+   At the end of 2017, the tree is 100 meters tall. To find the height at the end of 2018, we need to calculate 10% of the current height and add it to the current height.
+
+   - Calculate 10% of 100 meters:
+     \[
+     10\% \text{ of } 100 = 0.10 \times 100 = 10 \text{ meters}
+     \]
+
+   - Add this growth to the original height:
+     \[
+     \text{Height at the end of 2018} = 100 + 10 = 110 \text{ meters}
+     \]
+
+3. **Calculate the height at the end of 2019**: 
+   Now, we will calculate the height at the end of 2019 using the height at the end of 2018 (110 meters).
+
+   - Calculate 10% of 110 meters:
+     \[
+     10\% \text{ of } 110 = 0.10 \times 110 = 11 \text{ meters}
+     \]
+
+   - Add this growth to the height from 2018:
+     \[
+     \text{Height at the end of 2019} = 110 + 11 = 121 \text{ meters}
+     \]
+
+4. **Conclusion**: 
+   The tree has grown from 100 meters at the end of 2017 to 121 meters at the end of 2019. Therefore, the height increase can be calculated as follows:
+
+   - Calculate the total growth:
+     \[
+     \text{Total growth} = 121 - 100 = 21 \text{ meters}
+     \]
+
+Thus, the tree has grown a total of 21 meters from the end of 2017 until the end of 2019.
+</reasoning>
+<answer>21</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+To determine how many weeks Isabelle needs to work to afford the concert tickets, we first need to calculate the total cost of the tickets for Isabelle and her two brothers.
+
+1. **Calculating the cost of Isabelle's ticket:**
+   - Isabelle's ticket costs $20.
+
+2. **Calculating the cost of her brothers' tickets:**
+   - Each of her brothers has a ticket costing $10. 
+   - Since there are two brothers, we multiply the price of one ticket by 2:
+     \[
+     10 \text{ dollars} \times 2 = 20 \text{ dollars}
+     \]
+
+3. **Calculating the total cost of all tickets:**
+   - Now we add the cost of Isabelle's ticket to the total cost of her brothers' tickets:
+     \[
+     20 \text{ dollars (Isabelle)} + 20 \text{ dollars (both brothers)} = 40 \text{ dollars}
+     \]
+
+4. **Calculating the total amount they have saved:**
+   - Isabelle has saved $5.
+   - The two brothers have saved $5 together.
+   - Thus, the total amount saved is:
+     \[
+     5 \text{ dollars (Isabelle)} + 5 \text{ dollars (brothers)} = 10 \text{ dollars}
+     \]
+
+5. **Calculating the remaining amount needed:**
+   - We subtract the total savings from the total ticket cost to find out how much more Isabelle needs:
+     \[
+     40 \text{ dollars (total cost)} - 10 \text{ dollars (total savings)} = 30 \text{ dollars}
+     \]
+
+6. **Determining how many weeks she must work:**
+   - Isabelle earns $3 per week from her job. To find out how many weeks she needs to work to earn the remaining $30, we divide the remaining amount by her weekly earnings:
+     \[
+     \frac{30 \text{ dollars}}{3 \text{ dollars per week}} = 10 \text{ weeks}
+     \]
+
+Therefore, Isabelle must work for 10 weeks to afford the tickets.
+</reasoning>
+<answer>10</answer>

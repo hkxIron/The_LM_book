@@ -1,0 +1,38 @@
+<reasoning>
+First, we need to convert all the amounts of fudge that Tomas, Katya, and Boris ate from pounds to ounces, as we want the total in ounces.
+
+1. **Convert Tomas's fudge consumption:**
+   - Tomas ate 1.5 pounds of chocolate fudge.
+   - There are 16 ounces in a pound, so we multiply the number of pounds by 16 to convert to ounces.
+   - Calculation: \(1.5 \text{ pounds} \times 16 \text{ ounces/pound} = 24 \text{ ounces}\).
+
+2. **Convert Katya's fudge consumption:**
+   - Katya ate half a pound of peanut butter fudge.
+   - We again use the conversion factor of 16 ounces per pound.
+   - Calculation: \(0.5 \text{ pounds} \times 16 \text{ ounces/pound} = 8 \text{ ounces}\).
+
+3. **Convert Boris's fudge consumption:**
+   - Boris ate 2 pounds of fudge.
+   - Using the same conversion, we multiply by 16.
+   - Calculation: \(2 \text{ pounds} \times 16 \text{ ounces/pound} = 32 \text{ ounces}\).
+
+Now we have the individual amounts in ounces:
+- Tomas: 24 ounces
+- Katya: 8 ounces
+- Boris: 32 ounces
+
+4. **Calculate the total amount of fudge eaten by all three:**
+   - We add the amounts together.
+   - Calculation: \(24 \text{ ounces} + 8 \text{ ounces} + 32 \text{ ounces}\).
+
+Adding these values gives us:
+\[
+24 + 8 = 32 \text{ ounces}
+\]
+\[
+32 + 32 = 64 \text{ ounces}
+\]
+
+Therefore, the total amount of fudge eaten by Tomas, Katya, and Boris is 64 ounces.
+</reasoning>
+<answer>64</answer>

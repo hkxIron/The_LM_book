@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much Julieta spent at the store, we will follow these steps:
+
+1. **Determine the new price of the backpack**:  
+   The original price of the backpack was $50. Since the price increased by $5, we calculate the new price as follows:  
+   New price of backpack = Original price + Increase  
+   New price of backpack = $50 + $5 = $55
+
+2. **Determine the new price of each ring-binder**:  
+   The original price of each ring-binder was $20. The price decreased by $2, so we calculate the new price as follows:  
+   New price of ring-binder = Original price - Decrease  
+   New price of ring-binder = $20 - $2 = $18
+
+3. **Calculate the total cost of the three ring-binders**:  
+   Since Julieta is buying three ring-binders, we multiply the new price of a ring-binder by the number of ring-binders:  
+   Total cost of ring-binders = New price of ring-binder × Number of ring-binders  
+   Total cost of ring-binders = $18 × 3 = $54
+
+4. **Calculate the total amount spent by Julieta**:  
+   Now, we add the cost of the backpack to the total cost of the three ring-binders:  
+   Total amount spent = Cost of backpack + Total cost of ring-binders  
+   Total amount spent = $55 + $54 = $109
+
+Therefore, Julieta spent a total of $109 at the store.
+</reasoning>
+<answer>109</answer>

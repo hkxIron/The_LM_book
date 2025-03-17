@@ -1,0 +1,19 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Bryan's score**: Bryan's score on the math exam is given as 20.
+
+2. **Calculate Jen's score**: Jen scored 10 more than Bryan. To find Jen's score, we can add 10 to Bryan's score.
+   - Jen's score = Bryan's score + 10 = 20 + 10 = 30.
+
+3. **Calculate Sammy's score**: Sammy scored 2 fewer than Jen. So, we subtract 2 from Jen's score to find Sammy's score.
+   - Sammy's score = Jen's score - 2 = 30 - 2 = 28.
+
+4. **Determine the total points possible on the exam**: The total points for the math exam is 35.
+
+5. **Calculate mistakes made by Sammy**: To find out how many mistakes Sammy made, we need to subtract Sammy's score from the total points possible. Each mistake corresponds to 1 point lost.
+   - Mistakes made by Sammy = Total points - Sammy's score = 35 - 28 = 7.
+
+Therefore, Sammy made 7 mistakes on the math exam.
+</reasoning>
+<answer>7</answer>

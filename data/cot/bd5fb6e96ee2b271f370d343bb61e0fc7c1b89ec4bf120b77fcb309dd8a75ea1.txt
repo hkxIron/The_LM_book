@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Number of Books**: Tracy starts with 300 book donations. This is our starting point.
+
+2. **Books Donated in a Week**: We know that 10 people come and donate 5 books each. To find the total number of books donated in that week, we multiply the number of people by the number of books each donates:
+   \[
+   \text{Total books donated in a week} = 10 \text{ people} \times 5 \text{ books/person} = 50 \text{ books}
+   \]
+
+3. **Total Books After Donations**: Now, we add the number of books donated to the initial number of books:
+   \[
+   \text{Total number of books after donations} = 300 \text{ books} + 50 \text{ books} = 350 \text{ books}
+   \]
+
+4. **Books Borrowed**: A total of 140 books are borrowed by other people to read. We need to subtract the number of borrowed books from the total number of books we calculated in the previous step:
+   \[
+   \text{Total number of books remaining} = 350 \text{ books} - 140 \text{ books} = 210 \text{ books}
+   \]
+
+Through this process, we've accounted for the initial number of books, the donations made, and the books that have been borrowed.
+</reasoning>
+<answer>210</answer>

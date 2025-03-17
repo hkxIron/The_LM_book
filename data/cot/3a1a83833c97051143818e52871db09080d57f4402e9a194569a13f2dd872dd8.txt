@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, let's break it down into steps:
+
+1. **Determine the number of cards used**: Eugene had a deck of 52 cards and used all but 16. Therefore, the number of cards he used is:
+   \[
+   52 - 16 = 36 \text{ cards}
+   \]
+
+2. **Calculate the total number of toothpicks used**: Since Eugene used 75 toothpicks for each card, the total number of toothpicks used for 36 cards can be calculated as follows:
+   \[
+   36 \text{ cards} \times 75 \text{ toothpicks/card} = 2700 \text{ toothpicks}
+   \]
+
+3. **Determine how many boxes of toothpicks are needed**: Each box contains 450 toothpicks. To find out how many boxes Eugene used, we divide the total number of toothpicks by the number of toothpicks per box:
+   \[
+   \frac{2700 \text{ toothpicks}}{450 \text{ toothpicks/box}} = 6 \text{ boxes}
+   \]
+
+Thus, we have calculated the number of boxes of toothpicks used by Eugene.
+</reasoning>
+<answer>6</answer>

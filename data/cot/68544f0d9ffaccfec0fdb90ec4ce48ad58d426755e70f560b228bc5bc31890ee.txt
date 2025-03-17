@@ -1,0 +1,18 @@
+<reasoning>
+First, let's determine the total number of students in Hendrix's class at the beginning of the year before the 20 new students joined. According to the problem, there were initially 160 students in the class.
+
+Next, we need to add the 20 new students who joined at the beginning of the school year. We perform the addition:
+
+160 (initial students) + 20 (new students) = 180 students
+
+Now, we know that at the end of the school year, 1/3 of the total students transferred to other schools. To find out how many students transferred, we take 1/3 of the 180 students:
+
+(1/3) * 180 = 60 students
+
+This means that 60 students left the class. To find the number of students remaining in the class at the end of the year, we subtract the number of students who transferred from the total number of students:
+
+180 (total students at the start) - 60 (students who transferred) = 120 students
+
+Thus, the number of students that were in Hendrix's class at the end of the year is:
+</reasoning>
+<answer>120</answer>

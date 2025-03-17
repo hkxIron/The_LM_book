@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of corn cobs grown on the farm, we need to calculate the number of corn cobs in each field separately and then add those two results together.
+
+1. **Calculate the number of corn cobs in the first field**:
+   - The first field has 13 full rows of corn cobs.
+   - Each row contains 4 corn cobs.
+   - To find the total number of corn cobs in the first field, we multiply the number of rows by the number of cobs per row:
+     \[
+     \text{Corn cobs in the first field} = 13 \text{ rows} \times 4 \text{ cobs/row} = 52 \text{ cobs}
+     \]
+
+2. **Calculate the number of corn cobs in the second field**:
+   - The second field has 16 full rows of corn cobs.
+   - Each row also contains 4 corn cobs.
+   - Similarly, we multiply the number of rows by the number of cobs per row:
+     \[
+     \text{Corn cobs in the second field} = 16 \text{ rows} \times 4 \text{ cobs/row} = 64 \text{ cobs}
+     \]
+
+3. **Add the total corn cobs from both fields**:
+   - Now that we have the number of cobs from each field, we add them together to find the total number of corn cobs on the farm:
+     \[
+     \text{Total corn cobs} = 52 \text{ cobs (first field)} + 64 \text{ cobs (second field)} = 116 \text{ cobs}
+     \]
+
+Therefore, the farm has grown a total of 116 corn cobs.
+</reasoning>
+<answer>116</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem, we first need to define the variables for the number of cars and trucks Jeff has.
+
+1. Let \( T \) represent the number of trucks Jeff has.
+2. Since Jeff has twice as many cars as trucks, we can express the number of cars as \( 2T \).
+
+Now, we know that the total number of vehicles (cars and trucks) is 60. We can set up the equation:
+
+\[
+T + 2T = 60
+\]
+
+3. This equation combines the number of trucks and the number of cars. We simplify the left side:
+
+\[
+3T = 60
+\]
+
+4. Next, we solve for \( T \) by dividing both sides of the equation by 3:
+
+\[
+T = \frac{60}{3} = 20
+\]
+
+5. Therefore, Jeff has 20 trucks.
+
+To confirm, we can also calculate the number of cars. Since he has twice as many cars as trucks:
+
+\[
+\text{Number of cars} = 2T = 2 \times 20 = 40
+\]
+
+Now we can check the total:
+
+\[
+\text{Total vehicles} = \text{Number of cars} + \text{Number of trucks} = 40 + 20 = 60
+\]
+
+Everything checks out.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+First, we need to calculate the total amount of money Arthur will get from selling his basketball cards. Each card is worth 5 cents, and he has 2,000 cards.
+
+1. **Calculate total money from selling cards:**
+   - Total money from cards = Number of cards × Value per card
+   - Total money from cards = 2,000 cards × $0.05 (which is 5 cents)
+
+Now, let's do the multiplication:
+   - Total money from cards = 2,000 × 0.05 = 100 dollars
+
+So, Arthur will have $100 from selling all his cards.
+
+2. **Calculate how many comic books Arthur can buy:**
+   - Each comic book costs $6.
+   - Number of comic books Arthur can buy = Total money from cards ÷ Cost per comic book
+   - Number of comic books = $100 ÷ $6
+
+Now, let's perform the division:
+   - Number of comic books = 100 ÷ 6 = 16.67
+
+Since Arthur cannot buy a fraction of a comic book, he can buy 16 comic books.
+
+3. **Calculate the total cost for the comic books purchased:**
+   - Total cost for comic books = Number of comic books × Cost per comic book
+   - Total cost for comic books = 16 × $6
+
+Now, let's do the multiplication:
+   - Total cost for comic books = 96 dollars
+
+4. **Calculate leftover money after buying comic books:**
+   - Leftover money = Total money from cards - Total cost for comic books
+   - Leftover money = $100 - $96
+
+Now, let's do the subtraction:
+   - Leftover money = 4 dollars
+
+Therefore, after selling all his cards and buying comic books, Arthur has $4 left over.
+</reasoning>
+<answer>4</answer>

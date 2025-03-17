@@ -1,0 +1,28 @@
+<reasoning>
+To find the total number of students that the four primary schools can teach at a time, we need to calculate the capacity of each school and then sum them up.
+
+1. **Identify the capacities of the schools**:
+   - The first two schools can each teach 400 students.
+   - The last two schools can each teach 340 students.
+
+2. **Calculate the total capacity for the first two schools**:
+   - Since there are two schools that can each teach 400 students, we multiply:
+     \[
+     400 \, \text{students} \times 2 \, \text{schools} = 800 \, \text{students}
+     \]
+
+3. **Calculate the total capacity for the last two schools**:
+   - Similarly, for the two schools that can each teach 340 students, we multiply:
+     \[
+     340 \, \text{students} \times 2 \, \text{schools} = 680 \, \text{students}
+     \]
+
+4. **Sum the capacities of all four schools**:
+   - Now we add the total capacities of the first two schools and the last two schools:
+     \[
+     800 \, \text{students} + 680 \, \text{students} = 1480 \, \text{students}
+     \]
+
+Therefore, the total number of students that can be taught at a time by these four primary schools is 1480.
+</reasoning>
+<answer>1480</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many bottles Don buys from Shop C, we first need to calculate how many bottles he buys from Shop A and Shop B, and then subtract that total from the overall limit of 550 bottles.
+
+1. **Calculate the total number of bottles bought from Shop A and Shop B:**
+   - Shop A sells him 150 bottles.
+   - Shop B sells him 180 bottles.
+   - We add these two amounts together to find the total bottles from these two shops:
+     \[
+     150 + 180 = 330
+     \]
+
+2. **Determine how many bottles Don can still buy from Shop C:**
+   - Don's total capacity to buy bottles is 550.
+   - We subtract the total bottles bought from Shop A and Shop B from this total:
+     \[
+     550 - 330 = 220
+     \]
+
+3. **Conclusion:**
+   - Therefore, Don buys 220 bottles from Shop C.
+</reasoning>
+<answer>220</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To calculate James's weekly expenses for running the flower shop, we will break it down into the following components:
+
+1. **Rent and utilities**: First, we need to calculate the total cost of rent plus utilities.
+2. **Employee wages**: Next, we will calculate the total wages for the employees.
+3. **Total expenses**: Finally, we will sum the rent (including utilities) and the employee wages to find the total weekly expenses.
+
+**Step 1: Calculate Rent and Utilities**
+- James's weekly rent is $1200.
+- He needs to pay an additional 20% for utilities. 
+- To find 20% of the rent, we calculate:
+  \[
+  \text{Utilities} = 1200 \times 0.20 = 240
+  \]
+- Now, add the utilities to the rent to find the total rent and utilities:
+  \[
+  \text{Total Rent and Utilities} = 1200 + 240 = 1440
+  \]
+
+**Step 2: Calculate Employee Wages**
+- James has 2 employees working each shift.
+- The store is open for 16 hours a day and 5 days a week.
+- Therefore, the total number of hours worked by both employees in a week is:
+  \[
+  \text{Total Hours} = 2 \text{ employees} \times 16 \text{ hours/day} \times 5 \text{ days/week} = 160 \text{ hours}
+  \]
+- Each employee is paid $12.50 per hour. So, the total wages for the employees is:
+  \[
+  \text{Total Wages} = 160 \text{ hours} \times 12.50 = 2000
+  \]
+
+**Step 3: Calculate Total Expenses**
+- Now, we can find the total weekly expenses by adding the total rent and utilities to the total wages:
+  \[
+  \text{Total Expenses} = \text{Total Rent and Utilities} + \text{Total Wages} = 1440 + 2000 = 3440
+  \]
+
+Therefore, James's total weekly expenses to run the store are:
+</reasoning>
+<answer>3440</answer>

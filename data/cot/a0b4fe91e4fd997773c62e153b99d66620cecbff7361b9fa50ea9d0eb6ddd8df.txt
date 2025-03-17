@@ -1,0 +1,51 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Calculate how much fabric Kenneth bought in total**: 
+   Kenneth bought 700 oz of fabric.
+
+2. **Find the cost Kenneth paid for the fabric**:
+   Kenneth paid $40 for each oz of fabric. Therefore, we multiply the number of ounces he bought by the price per ounce:
+   \[
+   \text{Total cost for Kenneth} = \text{Price per oz} \times \text{Amount of oz} = 40 \times 700
+   \]
+   Let's calculate that:
+   \[
+   40 \times 700 = 28000
+   \]
+   So, Kenneth paid $28,000 for the fabric.
+
+3. **Determine how much fabric Nicholas bought**:
+   According to the problem, Nicholas bought six times as much fabric as Kenneth. Therefore:
+   \[
+   \text{Amount of fabric Nicholas bought} = 6 \times \text{Amount of fabric Kenneth bought} = 6 \times 700
+   \]
+   Let's calculate that:
+   \[
+   6 \times 700 = 4200 \text{ oz}
+   \]
+
+4. **Calculate the total cost Nicholas paid for the fabric**:
+   Nicholas also paid $40 for each oz of fabric. Therefore, we multiply the amount of fabric he bought by the price per ounce:
+   \[
+   \text{Total cost for Nicholas} = \text{Price per oz} \times \text{Amount of oz Nicholas bought} = 40 \times 4200
+   \]
+   Let's calculate that:
+   \[
+   40 \times 4200 = 168000
+   \]
+   So, Nicholas paid $168,000 for the fabric.
+
+5. **Calculate how much more Nicholas paid than Kenneth**:
+   To find out how much more Nicholas paid than Kenneth, we subtract the total cost Kenneth paid from the total cost Nicholas paid:
+   \[
+   \text{Difference in cost} = \text{Total cost for Nicholas} - \text{Total cost for Kenneth} = 168000 - 28000
+   \]
+   Let's calculate that:
+   \[
+   168000 - 28000 = 140000
+   \]
+
+Therefore, Nicholas paid $140,000 more than Kenneth for the fabric he bought.
+</reasoning>
+<answer>140000</answer>

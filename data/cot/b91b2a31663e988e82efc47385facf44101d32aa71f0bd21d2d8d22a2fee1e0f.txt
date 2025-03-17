@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the cost of the T-shirts**:
+   - The cost of white men's T-shirts is $20.
+   - The cost of black men's T-shirts is $18.
+   - Since women's T-shirts are $5 cheaper than men's T-shirts, we can determine the cost of women's T-shirts for both colors.
+     - For white women's T-shirts: $20 - $5 = $15.
+     - For black women's T-shirts: $18 - $5 = $13.
+
+2. **Determine the number of employees in each sector**:
+   - We know there are a total of 40 employees, and the two sectors have the same number of men and women. Therefore, let's assume there are \( n \) men and \( n \) women in each sector.
+   - Since there are two sectors, the total number of employees can be expressed as:
+     \[
+     2n + 2n = 40 \quad \text{(2n for men + 2n for women)}
+     \]
+   - Simplifying, we get \( 4n = 40 \), which means \( n = 10 \).
+   - Thus, there are 10 men and 10 women in each sector (20 men and 20 women total).
+
+3. **Calculate the total cost for white T-shirts**:
+   - For white T-shirts:
+     - Men's T-shirts: 10 men × $20 = $200.
+     - Women's T-shirts: 10 women × $15 = $150.
+   - Total cost for white T-shirts:
+     \[
+     200 + 150 = 350
+     \]
+
+4. **Calculate the total cost for black T-shirts**:
+   - For black T-shirts:
+     - Men's T-shirts: 10 men × $18 = $180.
+     - Women's T-shirts: 10 women × $13 = $130.
+   - Total cost for black T-shirts:
+     \[
+     180 + 130 = 310
+     \]
+
+5. **Calculate the overall total cost**:
+   - Now, we add the total costs for the white and black T-shirts:
+     \[
+     350 + 310 = 660
+     \]
+
+Therefore, after summing all the costs, we find that Juan spent a total of $660 on T-shirts for his employees.
+</reasoning>
+<answer>660</answer>

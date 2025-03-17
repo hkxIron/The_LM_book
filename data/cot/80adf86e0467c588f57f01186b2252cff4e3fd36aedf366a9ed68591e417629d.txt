@@ -1,0 +1,36 @@
+<reasoning>
+Let's start by determining how many candies each person eats before they cry.
+
+1. **Nellie's candies**: Nellie can eat 12 sourball candies before crying. So, she eats:
+   \[
+   N = 12
+   \]
+
+2. **Jacob's candies**: Jacob can only manage half of what Nellie can eat. Therefore:
+   \[
+   J = \frac{N}{2} = \frac{12}{2} = 6
+   \]
+
+3. **Lana's candies**: Lana can eat three fewer candies than Jacob. Thus:
+   \[
+   L = J - 3 = 6 - 3 = 3
+   \]
+
+Now, we can calculate the total number of candies eaten by all three:
+   \[
+   \text{Total eaten} = N + J + L = 12 + 6 + 3 = 21
+   \]
+
+Next, let's find out how many candies are left in the bucket after they have eaten:
+   \[
+   \text{Candies remaining} = \text{Total candies} - \text{Total eaten} = 30 - 21 = 9
+   \]
+
+Now, they decide to divide the remaining candies equally among themselves. Since there are three people (Nellie, Jacob, and Lana), we have:
+   \[
+   \text{Candies each} = \frac{\text{Candies remaining}}{3} = \frac{9}{3} = 3
+   \]
+
+Therefore, each of them will get 3 candies.
+</reasoning>
+<answer>3</answer>

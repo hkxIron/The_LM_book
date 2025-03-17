@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many apple pies remain with Cooper after Ashley eats some, we can follow these steps:
+
+1. **Calculate the total number of apple pies Cooper makes**: 
+   - Cooper makes 7 apple pies each day.
+   - He does this for 12 days.
+   - We can find the total by multiplying the number of pies he makes each day by the number of days he makes them:
+     \[
+     \text{Total pies} = 7 \text{ pies/day} \times 12 \text{ days} = 84 \text{ pies}
+     \]
+
+2. **Subtract the number of pies Ashley eats**:
+   - We know that Ashley eats 50 of Cooper's pies.
+   - To find out how many pies remain, we subtract the number of pies Ashley eats from the total number of pies Cooper made:
+     \[
+     \text{Remaining pies} = 84 \text{ pies} - 50 \text{ pies} = 34 \text{ pies}
+     \]
+
+So, after Cooper makes the pies and Ashley eats some, we determine that Cooper has 34 apple pies left.
+</reasoning>
+<answer>34</answer>

@@ -1,0 +1,62 @@
+<reasoning>
+To solve the problem step by step, let's break it down:
+
+1. **Determine the number of girls and boys in the school**:
+   - We know there are 800 students in total.
+   - The fraction of students who are girls is given as \( \frac{5}{8} \).
+   - To find the number of girls, we multiply the total number of students by the fraction of girls:
+     \[
+     \text{Number of girls} = \frac{5}{8} \times 800
+     \]
+   - Calculating that gives:
+     \[
+     \text{Number of girls} = 500
+     \]
+   - To find the number of boys, we subtract the number of girls from the total number of students:
+     \[
+     \text{Number of boys} = 800 - 500 = 300
+     \]
+
+2. **Determine the number of primary and middle school students among girls**:
+   - We are told that seven-tenths of the girls are in the primary grades.
+   - To find the number of primary girls, we calculate:
+     \[
+     \text{Number of primary girls} = \frac{7}{10} \times 500
+     \]
+   - Calculating that gives:
+     \[
+     \text{Number of primary girls} = 350
+     \]
+   - To find the number of middle school girls, we subtract the number of primary girls from the total number of girls:
+     \[
+     \text{Number of middle school girls} = 500 - 350 = 150
+     \]
+
+3. **Determine the number of primary and middle school students among boys**:
+   - We are told that two-fifths of the boys are in the primary grades.
+   - To find the number of primary boys, we calculate:
+     \[
+     \text{Number of primary boys} = \frac{2}{5} \times 300
+     \]
+   - Calculating that gives:
+     \[
+     \text{Number of primary boys} = 120
+     \]
+   - To find the number of middle school boys, we subtract the number of primary boys from the total number of boys:
+     \[
+     \text{Number of middle school boys} = 300 - 120 = 180
+     \]
+
+4. **Calculate the total number of middle school students**:
+   - Now, we will add together the number of middle school girls and boys to find the total number of middle school students:
+     \[
+     \text{Total middle school students} = \text{Number of middle school girls} + \text{Number of middle school boys}
+     \]
+   - Substituting the values we calculated:
+     \[
+     \text{Total middle school students} = 150 + 180 = 330
+     \]
+
+Thus, the total number of middle schoolers is:
+</reasoning>
+<answer>330</answer>

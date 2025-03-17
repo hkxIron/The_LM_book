@@ -1,0 +1,33 @@
+<reasoning>
+To solve this problem, we will first calculate the total number of engines and then determine how many of those are defective. Finally, we will subtract the number of defective engines from the total number of engines to find how many are not defective.
+
+1. **Calculate the total number of engines**: 
+   Since there are 5 batches of 80 engines each, we can calculate the total number of engines by multiplying the number of batches by the number of engines in each batch.
+   
+   \[
+   \text{Total engines} = 5 \text{ batches} \times 80 \text{ engines/batch} = 400 \text{ engines}
+   \]
+
+   Here, I multiplied the number of batches by the number of engines in each batch to find the total count of engines.
+
+2. **Find the number of defective engines**: 
+   We know that one fourth of the engines are defective. Therefore, we can calculate the number of defective engines by taking one fourth of the total number of engines.
+   
+   \[
+   \text{Defective engines} = \frac{1}{4} \times 400 = 100 \text{ engines}
+   \]
+
+   In this step, I calculated one fourth of the total number of engines to find out how many are defective.
+
+3. **Calculate the number of non-defective engines**: 
+   To find the number of engines that are not defective, we subtract the number of defective engines from the total number of engines.
+   
+   \[
+   \text{Non-defective engines} = \text{Total engines} - \text{Defective engines} = 400 - 100 = 300 \text{ engines}
+   \]
+
+   Here, I subtracted the number of defective engines from the total number of engines to get the count of non-defective engines.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>300</answer>

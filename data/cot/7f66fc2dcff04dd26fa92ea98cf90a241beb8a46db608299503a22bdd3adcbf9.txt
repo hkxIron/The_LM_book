@@ -1,0 +1,43 @@
+<reasoning>
+To determine how many students will be unable to partner with a student of the opposite gender when the three classes combine, we need to follow these steps:
+
+1. **Add the number of male and female students from each class.**
+
+   - For Class 1:
+     - Males: 17
+     - Females: 13
+   - For Class 2:
+     - Males: 14
+     - Females: 18
+   - For Class 3:
+     - Males: 15
+     - Females: 17
+
+2. **Calculate the total number of males and females across all classes.**
+
+   - Total Males:
+     \[
+     17 + 14 + 15 = 46
+     \]
+
+   - Total Females:
+     \[
+     13 + 18 + 17 = 48
+     \]
+
+3. **Determine the number of students who will not have partners.**
+
+   - Since each male can pair with one female, the number of pairs that can be formed is limited by the smaller group. In this case, there are 46 males and 48 females. Thus, all 46 males can partner with 46 of the females.
+
+   - The remaining students who will be unable to partner are the females who do not have a male partner:
+   \[
+   48 - 46 = 2
+   \]
+
+4. **Final Count of Students Unable to Partner:**
+   - The total number of students unable to partner will be the excess females who cannot be paired:
+   - There are 2 females who will not have partners.
+
+Thus, the number of students unable to partner with a student of the opposite gender is 2.
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+Let's denote the number of times Maurice had ridden before visiting Matt as \( M \).
+
+During his visit, Maurice rode 8 times with Matt. Meanwhile, Matt rode an additional 16 times without Maurice. Thus, we can calculate the total number of times Matt rode during the two weeks:
+
+1. **Total rides for Matt**: 
+   - Rides with Maurice: 8
+   - Additional rides: 16
+   - Therefore, total rides for Matt = \( 8 + 16 = 24 \)
+
+2. **Relation to Maurice's past rides**: 
+   According to the problem, the total number of times Matt rode (which we calculated as 24) is three times the number of times Maurice had ridden before his visit. So we can set up the equation:
+   \[
+   3M = 24
+   \]
+
+3. **Solving for \( M \)**:
+   To find \( M \), we divide both sides of the equation by 3:
+   \[
+   M = \frac{24}{3} = 8
+   \]
+
+Thus, Maurice had ridden 8 times before visiting Matt.
+
+Therefore, the number of times Maurice had been horseback riding before visiting Matt is:
+</reasoning>
+<answer>8</answer>

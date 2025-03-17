@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we need to first determine how many erasers Anya has based on the information provided.
+
+1. **Identify how many erasers Andrea has**: 
+   We know from the problem that Andrea has 4 erasers.
+
+2. **Calculate how many erasers Anya has**: 
+   The problem states that Anya has 4 times as many erasers as Andrea. So, we can calculate the number of erasers Anya has using the following formula:
+   \[
+   \text{Number of erasers Anya has} = 4 \times \text{Number of erasers Andrea has}
+   \]
+   Substituting in the number of erasers Andrea has:
+   \[
+   \text{Number of erasers Anya has} = 4 \times 4 = 16
+   \]
+
+3. **Determine how many more erasers Anya has than Andrea**: 
+   To find out how many more erasers Anya has than Andrea, we subtract the number of erasers Andrea has from the number of erasers Anya has:
+   \[
+   \text{Difference} = \text{Number of erasers Anya has} - \text{Number of erasers Andrea has}
+   \]
+   Substituting in the values we found:
+   \[
+   \text{Difference} = 16 - 4 = 12
+   \]
+
+Therefore, Anya has 12 more erasers than Andrea.
+</reasoning>
+<answer>12</answer>

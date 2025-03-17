@@ -1,0 +1,27 @@
+<reasoning>
+To determine how many kilograms of strawberries Tommy ordered, we can start by adding up the weights of the other fruits he ordered and then subtracting that total from the overall weight of the fruits.
+
+1. **Identify the total weight of fruits ordered**: Tommy ordered a total of 10 kilograms of fruits.
+
+2. **Add the weights of the fruits he ordered**: 
+   - Apples: 3 kilograms
+   - Oranges: 1 kilogram
+   - Grapes: 3 kilograms
+
+   Now, we add these weights together:
+   \[
+   3 \text{ kg (apples)} + 1 \text{ kg (oranges)} + 3 \text{ kg (grapes)} = 7 \text{ kg}
+   \]
+
+3. **Calculate the weight of strawberries**: 
+   To find out how many kilograms of strawberries he ordered, we subtract the total weight of the other fruits from the total weight of all fruits:
+   \[
+   \text{Weight of strawberries} = \text{Total weight} - \text{Weight of other fruits}
+   \]
+   \[
+   \text{Weight of strawberries} = 10 \text{ kg} - 7 \text{ kg} = 3 \text{ kg}
+   \]
+
+Thus, Tommy ordered 3 kilograms of strawberries.
+</reasoning>
+<answer>3</answer>

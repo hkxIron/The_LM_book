@@ -1,0 +1,43 @@
+<reasoning>
+To find out how much money Mom has left after her shopping, we will first calculate the total amount she spent on her purchases, and then subtract that amount from the €55 she had initially.
+
+1. **Calculate the cost of the bananas**: 
+   Mom bought 2 packs of bananas for €4 each. 
+   So, the total cost for the bananas is:
+   \[
+   2 \text{ packs} \times €4/\text{pack} = €8
+   \]
+
+2. **Calculate the cost of the pears**: 
+   The problem states that pears cost €2. Since the number of pears isn't specified, we'll assume she bought one unit for this calculation:
+   \[
+   €2
+   \]
+
+3. **Calculate the cost of the asparagus**: 
+   She bought asparagus for €6. So the cost is:
+   \[
+   €6
+   \]
+
+4. **Calculate the cost of the chicken**: 
+   The chicken cost €11. So the cost is:
+   \[
+   €11
+   \]
+
+5. **Add up all the costs**: 
+   Now we will add all the costs together to find the total amount spent:
+   \[
+   €8 \text{ (bananas)} + €2 \text{ (pears)} + €6 \text{ (asparagus)} + €11 \text{ (chicken)} = €27
+   \]
+
+6. **Subtract the total spent from the initial amount**: 
+   Finally, we subtract the total amount spent from the amount she initially had:
+   \[
+   €55 - €27 = €28
+   \]
+
+Therefore, after her shopping, Mom has €28 left.
+</reasoning>
+<answer>28</answer>

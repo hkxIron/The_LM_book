@@ -1,0 +1,54 @@
+<reasoning>
+To find out how much Mark owes for his speeding ticket, we will break down the costs step by step.
+
+1. **Calculate the base fine**: The base fine for speeding is $50. This is our starting point.
+
+   \[
+   \text{Base Fine} = 50
+   \]
+
+2. **Determine the speed over the limit**: Mark was going 75 miles per hour in a 30 mile per hour zone. First, we need to calculate how many miles per hour he was over the speed limit.
+
+   \[
+   \text{Speed over the limit} = 75 - 30 = 45 \text{ miles per hour}
+   \]
+
+3. **Calculate the additional penalties**: The fine increases by $2 for every mile per hour over the limit. Thus, we multiply the number of miles over the limit by $2.
+
+   \[
+   \text{Additional Penalty} = 45 \times 2 = 90
+   \]
+
+4. **Calculate the total fine before any doubling**: Now, we add the additional penalty to the base fine.
+
+   \[
+   \text{Total Fine before doubling} = \text{Base Fine} + \text{Additional Penalty} = 50 + 90 = 140
+   \]
+
+5. **Double the fine**: Since Mark was speeding in a school zone, the total fine is doubled.
+
+   \[
+   \text{Total Fine after doubling} = 140 \times 2 = 280
+   \]
+
+6. **Add court costs**: The judge also imposes $300 in court costs. We add this to the fine.
+
+   \[
+   \text{Total with Court Costs} = 280 + 300 = 580
+   \]
+
+7. **Calculate lawyer fees**: Mark has to pay his lawyer $80 per hour for three hours. We calculate the total cost for the lawyer.
+
+   \[
+   \text{Lawyer Fees} = 80 \times 3 = 240
+   \]
+
+8. **Add lawyer fees to the total**: Finally, we add the lawyer fees to the total amount owed.
+
+   \[
+   \text{Total Amount Owed} = 580 + 240 = 820
+   \]
+
+Therefore, after calculating all the components of Mark's speeding ticket, we find that he owes a total of:
+</reasoning>
+<answer>820</answer>

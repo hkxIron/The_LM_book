@@ -1,0 +1,34 @@
+<reasoning>
+Let's break this problem down step by step:
+
+1. **Determine how many stuffed animals Trish has**:
+   - We know that Barbara has 9 stuffed animals.
+   - Trish has two times as many stuffed animals as Barbara. 
+   - Therefore, we calculate Trish's stuffed animals as:
+     \[
+     \text{Trish's stuffed animals} = 2 \times \text{Barbara's stuffed animals} = 2 \times 9 = 18
+     \]
+
+2. **Calculate the total money Barbara will make from selling her stuffed animals**:
+   - Barbara sells her stuffed animals for $2 each.
+   - Therefore, we calculate the total money from Barbara's sales as:
+     \[
+     \text{Total money from Barbara} = \text{Number of stuffed animals} \times \text{Price per stuffed animal} = 9 \times 2 = 18
+     \]
+
+3. **Calculate the total money Trish will make from selling her stuffed animals**:
+   - Trish sells her stuffed animals for $1.50 each.
+   - Therefore, we calculate the total money from Trish's sales as:
+     \[
+     \text{Total money from Trish} = \text{Number of stuffed animals} \times \text{Price per stuffed animal} = 18 \times 1.50 = 27
+     \]
+
+4. **Calculate the total money they will donate to their class funds**:
+   - The total money donated will be the sum of the money from both Barbara and Trish:
+     \[
+     \text{Total money donated} = \text{Total money from Barbara} + \text{Total money from Trish} = 18 + 27 = 45
+     \]
+
+Therefore, after calculating all the amounts, the total money they will donate to their class funds is $45.
+</reasoning>
+<answer>45</answer>

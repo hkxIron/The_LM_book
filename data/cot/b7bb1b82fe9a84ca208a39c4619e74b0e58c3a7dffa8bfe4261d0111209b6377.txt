@@ -1,0 +1,67 @@
+<reasoning>
+Let's denote the cost of a dozen apples as \( A \) and the cost of a bunch of bananas as \( B \).
+
+From the problem, we have the following information:
+
+1. Tony paid $7 for 2 dozen apples and 1 bunch of bananas. This can be represented by the equation:
+   \[
+   2A + B = 7
+   \]
+   
+2. Arnold paid $5 for 1 dozen apples and 1 bunch of bananas. This can be represented by the equation:
+   \[
+   A + B = 5
+   \]
+
+Now we have a system of two equations:
+
+1. \( 2A + B = 7 \) (Equation 1)
+2. \( A + B = 5 \) (Equation 2)
+
+Next, we will solve this system of equations step by step.
+
+**Step 1: Isolate \( B \) in Equation 2.**
+We can rewrite Equation 2 to express \( B \) in terms of \( A \):
+\[
+B = 5 - A
+\]
+
+**Step 2: Substitute \( B \) into Equation 1.**
+Now we substitute \( B \) from Equation 2 into Equation 1:
+\[
+2A + (5 - A) = 7
+\]
+
+**Step 3: Simplify the equation.**
+Now we simplify the equation:
+\[
+2A + 5 - A = 7
+\]
+\[
+A + 5 = 7
+\]
+
+**Step 4: Solve for \( A \).**
+Next, we isolate \( A \):
+\[
+A = 7 - 5
+\]
+\[
+A = 2
+\]
+
+**Step 5: Substitute back to find \( B \).**
+Now that we have \( A \), we can find \( B \) by substituting \( A \) back into the equation we derived for \( B \):
+\[
+B = 5 - A
+\]
+\[
+B = 5 - 2
+\]
+\[
+B = 3
+\]
+
+Thus, the cost of a bunch of bananas is $3.
+</reasoning>
+<answer>3</answer>

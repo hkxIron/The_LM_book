@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many inches of thread Shelly needs, we need to follow these steps:
+
+1. **Determine the total number of friends Shelly is making keychains for.**
+   - Shelly made 6 friends in classes.
+   - She also made half that number from after-school clubs. Half of 6 is calculated as:
+     \[
+     \text{Half of 6} = \frac{6}{2} = 3
+     \]
+   - Therefore, the total number of friends is:
+     \[
+     \text{Total friends} = 6 + 3 = 9
+     \]
+
+2. **Calculate the total length of thread needed for all keychains.**
+   - Each keychain requires 12 inches of thread. To find the total inches of thread required for 9 keychains, we multiply the number of keychains by the length of thread per keychain:
+     \[
+     \text{Total thread needed} = 9 \times 12
+     \]
+   - Performing the multiplication:
+     \[
+     9 \times 12 = 108
+     \]
+
+Therefore, Shelly needs 108 inches of thread to make keychains for all her friends.
+</reasoning>
+<answer>108</answer>

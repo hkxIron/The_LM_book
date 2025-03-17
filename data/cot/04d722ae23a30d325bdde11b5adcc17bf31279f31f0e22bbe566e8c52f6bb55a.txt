@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem step by step, let's break it down into parts:
+
+1. **Determine the number of batches of dough needed**: 
+   Since one batch of pizza dough can make 3 pizzas, we need to find out how many batches are required to make 12 pizzas. 
+   \[
+   \text{Number of batches} = \frac{\text{Total pizzas}}{\text{Pizzas per batch}} = \frac{12}{3} = 4 \text{ batches}
+   \]
+   This means Camilla needs to make 4 batches of dough.
+
+2. **Calculate the time to make the dough**:
+   Each batch of pizza dough takes 30 minutes to prepare. Therefore, the total time to make 4 batches of dough is:
+   \[
+   \text{Total time for dough} = \text{Number of batches} \times \text{Time per batch} = 4 \times 30 \text{ minutes} = 120 \text{ minutes}
+   \]
+
+3. **Determine the cooking time for the pizzas**:
+   Since the oven can only fit 2 pizzas at a time, we need to determine how many batches of cooking are required for 12 pizzas. 
+   \[
+   \text{Number of cooking batches} = \frac{\text{Total pizzas}}{\text{Pizzas per batch in oven}} = \frac{12}{2} = 6 \text{ batches}
+   \]
+   Each batch in the oven takes 30 minutes to cook. Therefore, the total time for cooking 6 batches is:
+   \[
+   \text{Total cooking time} = \text{Number of cooking batches} \times \text{Time per batch in oven} = 6 \times 30 \text{ minutes} = 180 \text{ minutes}
+   \]
+
+4. **Combine the dough making and cooking times**:
+   Now, we add the total time for making the dough and the total cooking time:
+   \[
+   \text{Total time} = \text{Total time for dough} + \text{Total cooking time} = 120 \text{ minutes} + 180 \text{ minutes} = 300 \text{ minutes}
+   \]
+
+5. **Convert the total time from minutes to hours**:
+   Since 1 hour is equal to 60 minutes, we convert the total time into hours:
+   \[
+   \text{Total time in hours} = \frac{300 \text{ minutes}}{60} = 5 \text{ hours}
+   \]
+
+Therefore, the total time it would take for Camilla to finish making 12 pizzas is 5 hours.
+</reasoning>
+<answer>5</answer>

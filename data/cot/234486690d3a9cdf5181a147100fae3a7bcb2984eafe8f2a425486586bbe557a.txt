@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we first need to determine how many pieces of candy Travis and his brother had after they ate some.
+
+1. **Total pieces of candy collected**:
+   Travis and his brother collected a total of 68 pieces of candy.
+
+2. **Pieces eaten by each**:
+   Each of them ate 4 pieces of candy. Since there are two of them (Travis and his brother), we calculate the total pieces eaten by both:
+   \[
+   \text{Total pieces eaten} = 4 \text{ (pieces eaten by Travis)} + 4 \text{ (pieces eaten by his brother)} = 8 \text{ pieces}
+   \]
+
+3. **Calculating the remaining pieces of candy**:
+   To find out how many pieces of candy are left, we subtract the total pieces eaten from the total pieces collected:
+   \[
+   \text{Pieces left} = \text{Total pieces collected} - \text{Total pieces eaten}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Pieces left} = 68 - 8 = 60
+   \]
+
+Thus, after they both ate some candy, there are 60 pieces of candy left.
+</reasoning>
+<answer>60</answer>

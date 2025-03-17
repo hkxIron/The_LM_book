@@ -1,0 +1,28 @@
+<reasoning>
+First, let's determine how many notebooks Jack originally has. We know that Jack has 13 more notebooks than Gerald.
+
+1. **Identify the number of notebooks Gerald has:**  
+   Gerald has 8 notebooks.
+
+2. **Calculate the number of notebooks Jack has:**  
+   Since Jack has 13 more than Gerald, we can express Jack's number of notebooks as:
+   \[
+   \text{Jack's notebooks} = \text{Gerald's notebooks} + 13 = 8 + 13 = 21
+   \]
+   This means Jack originally has 21 notebooks.
+
+3. **Determine how many notebooks Jack gives away:**  
+   Jack gives away 5 notebooks to Paula and 6 notebooks to Mike. We can calculate the total number of notebooks given away:
+   \[
+   \text{Total given away} = 5 + 6 = 11
+   \]
+
+4. **Calculate how many notebooks Jack has left:**  
+   Now we subtract the total number of notebooks given away from Jack's original amount:
+   \[
+   \text{Jack's notebooks left} = \text{Jack's original notebooks} - \text{Total given away} = 21 - 11 = 10
+   \]
+
+Finally, after performing all these calculations, we find that Jack has 10 notebooks left.
+</reasoning>
+<answer>10</answer>

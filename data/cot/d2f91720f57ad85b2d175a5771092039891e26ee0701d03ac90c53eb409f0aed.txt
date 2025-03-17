@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem, let's denote the total number of citizens in the town as \( x \).
+
+1. **Understanding the problem**: We know that 60% of the citizens own a pet. This means that the number of citizens who own pets can be expressed as:
+   \[
+   0.6x
+   \]
+   This represents the total number of pet owners in the town.
+
+2. **Identifying pet ownership**: We are given that half of the pet owners have dogs, and 30 have cats. Let's express these numbers mathematically:
+   - The number of dog owners is:
+   \[
+   \text{Dog owners} = \frac{1}{2} \times 0.6x = 0.3x
+   \]
+   - The number of cat owners is given as 30.
+
+3. **Setting up the equation**: Since the total number of pet owners is the sum of dog owners and cat owners, we can set up the following equation:
+   \[
+   \text{Dog owners} + \text{Cat owners} = \text{Total pet owners}
+   \]
+   Substituting in the values we have:
+   \[
+   0.3x + 30 = 0.6x
+   \]
+
+4. **Solving the equation**: To solve for \( x \), we need to isolate \( x \). First, we can subtract \( 0.3x \) from both sides of the equation:
+   \[
+   30 = 0.6x - 0.3x
+   \]
+   This simplifies to:
+   \[
+   30 = 0.3x
+   \]
+
+5. **Dividing by 0.3**: Now, we will divide both sides of the equation by \( 0.3 \) to find \( x \):
+   \[
+   x = \frac{30}{0.3}
+   \]
+   Performing the division gives:
+   \[
+   x = 100
+   \]
+
+Finally, we conclude that the total number of citizens in the town is 100.
+</reasoning>
+<answer>100</answer>

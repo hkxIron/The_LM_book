@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many pens Robert buys:**
+   - We are given that Robert buys 4 pens.
+
+2. **Determine how many pens Julia buys:**
+   - We know that Julia buys three times as many pens as Robert. Since Robert buys 4 pens, we calculate Julia's pens as follows:
+   \[
+   \text{Julia's pens} = 3 \times \text{Robert's pens} = 3 \times 4 = 12 \text{ pens}
+   \]
+
+3. **Calculate how many pens Dorothy buys:**
+   - The problem states that Dorothy buys half as many pens as Julia. Therefore, we compute Dorothy's pens:
+   \[
+   \text{Dorothy's pens} = \frac{1}{2} \times \text{Julia's pens} = \frac{1}{2} \times 12 = 6 \text{ pens}
+   \]
+
+4. **Calculate the total number of pens bought by all three friends:**
+   - Now we add the number of pens each person bought:
+   \[
+   \text{Total pens} = \text{Robert's pens} + \text{Julia's pens} + \text{Dorothy's pens} = 4 + 12 + 6 = 22 \text{ pens}
+   \]
+
+5. **Determine the total cost of the pens:**
+   - Each pen costs $1.50, so to find the total cost, we multiply the total number of pens by the cost per pen:
+   \[
+   \text{Total cost} = \text{Total pens} \times \text{Cost per pen} = 22 \times 1.50
+   \]
+
+   Now, performing the multiplication:
+   \[
+   22 \times 1.50 = 33
+   \]
+
+Thus, the total amount of money spent by Dorothy, Julia, and Robert on pens is $33.
+</reasoning>
+<answer>33</answer>

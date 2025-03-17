@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many cents each pouch of Capri-sun costs, we'll follow these steps:
+
+1. **Calculate the total number of pouches**: James buys 10 boxes, and each box contains 6 pouches. To find the total number of pouches, we multiply the number of boxes by the number of pouches per box:
+   \[
+   \text{Total pouches} = \text{Number of boxes} \times \text{Pouches per box} = 10 \times 6 = 60 \text{ pouches}
+   \]
+
+2. **Convert the total cost to cents**: James paid $12 for the 10 boxes. Since 1 dollar is equal to 100 cents, we convert the total cost from dollars to cents:
+   \[
+   \text{Total cost in cents} = 12 \text{ dollars} \times 100 \text{ cents/dollar} = 1200 \text{ cents}
+   \]
+
+3. **Calculate the cost per pouch**: Now, we need to find out how much each pouch costs in cents. To do this, we divide the total cost in cents by the total number of pouches:
+   \[
+   \text{Cost per pouch} = \frac{\text{Total cost in cents}}{\text{Total pouches}} = \frac{1200 \text{ cents}}{60 \text{ pouches}} = 20 \text{ cents per pouch}
+   \]
+
+Therefore, after calculating the total pouches, converting the total cost to cents, and then finding the cost per pouch, we find that:
+</reasoning>
+<answer>20</answer>

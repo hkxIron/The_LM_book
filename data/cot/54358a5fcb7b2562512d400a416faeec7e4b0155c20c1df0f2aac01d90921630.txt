@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many pounds Bill's improvised weights weigh, we will follow these steps:
+
+1. **Determine the total volume of sand in the jugs**: 
+   Bill has two 2-gallon jugs. Therefore, the total volume of the jugs is:
+   \[
+   2 \text{ jugs} \times 2 \text{ gallons/jug} = 4 \text{ gallons}
+   \]
+
+2. **Calculate the volume of sand filled in the jugs**:
+   Since the jugs are filled 70% full, we can calculate the volume of sand:
+   \[
+   4 \text{ gallons} \times 0.70 = 2.8 \text{ gallons}
+   \]
+
+3. **Find the weight of the sand**:
+   We know that the density of sand is 5 pounds per gallon. To find the total weight of the sand, we multiply the volume of sand by its density:
+   \[
+   2.8 \text{ gallons} \times 5 \text{ pounds/gallon} = 14 \text{ pounds}
+   \]
+
+Therefore, the total weight of Bill's improvised weights is 14 pounds.
+</reasoning>
+<answer>14</answer>

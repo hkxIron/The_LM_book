@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we need to find out how much each dress sold for. We know the total amount Vanessa made from selling dresses and shirts, and we also know the price of each shirt.
+
+1. **Identify the known values:**
+   - Total money made: $69
+   - Number of dresses sold: 7
+   - Number of shirts sold: 4
+   - Price of each shirt: $5
+
+2. **Calculate the total money made from shirts:**
+   Since she sold 4 shirts at $5 each, we can calculate the total from shirts as follows:
+   \[
+   \text{Total from shirts} = \text{Number of shirts} \times \text{Price per shirt} = 4 \times 5 = 20
+   \]
+
+3. **Determine the total money made from dresses:**
+   To find out how much money was made from dresses, we subtract the total money from shirts from the overall total:
+   \[
+   \text{Total from dresses} = \text{Total money made} - \text{Total from shirts} = 69 - 20 = 49
+   \]
+
+4. **Calculate the price per dress:**
+   Now that we know the total money made from selling dresses is $49 and she sold 7 dresses, we can find the price of each dress:
+   \[
+   \text{Price per dress} = \frac{\text{Total from dresses}}{\text{Number of dresses}} = \frac{49}{7} = 7
+   \]
+
+Therefore, each dress sold for $7.
+</reasoning>
+<answer>7</answer>

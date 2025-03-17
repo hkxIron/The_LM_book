@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many eggs Roberta will need for her dinner party, we can break down the problem into two parts: calculating the number of eggs needed for the savory soufflés and the number of eggs needed for the dessert soufflés.
+
+1. **Calculate the number of eggs for savory soufflés:**
+   - Each savory soufflé requires 8 eggs.
+   - Roberta wants to make 3 savory soufflés.
+   - We can find the total number of eggs needed for the savory soufflés by multiplying the number of soufflés by the number of eggs per soufflé.
+
+   Calculation:
+   \[
+   \text{Eggs for savory soufflés} = 3 \text{ soufflés} \times 8 \text{ eggs/soufflé} = 24 \text{ eggs}
+   \]
+
+2. **Calculate the number of eggs for dessert soufflés:**
+   - Each dessert soufflé requires 6 eggs.
+   - Roberta wants to make 5 dessert soufflés.
+   - Similarly, we find the total number of eggs needed for the dessert soufflés by multiplying the number of soufflés by the number of eggs per soufflé.
+
+   Calculation:
+   \[
+   \text{Eggs for dessert soufflés} = 5 \text{ soufflés} \times 6 \text{ eggs/soufflé} = 30 \text{ eggs}
+   \]
+
+3. **Calculate the total number of eggs needed:**
+   - Now we need to add the number of eggs required for savory soufflés and dessert soufflés together to find the total number of eggs.
+
+   Calculation:
+   \[
+   \text{Total eggs needed} = \text{Eggs for savory soufflés} + \text{Eggs for dessert soufflés} = 24 \text{ eggs} + 30 \text{ eggs} = 54 \text{ eggs}
+   \]
+
+Therefore, after calculating the eggs needed for both types of soufflés and adding them together, we find that Roberta will need a total of 54 eggs for her dinner party.
+</reasoning>
+<answer>54</answer>

@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of pencils bought**: According to the problem, Isabela bought twice as many cucumbers as pencils. Since she bought 100 cucumbers, we can determine the number of pencils:
+   \[
+   \text{Number of pencils} = \frac{\text{Number of cucumbers}}{2} = \frac{100}{2} = 50
+   \]
+   So, Isabela bought 50 pencils.
+
+2. **Calculate the original cost of the pencils**: Each pencil costs $20. Therefore, the total cost for the pencils before the discount is:
+   \[
+   \text{Cost of pencils} = \text{Number of pencils} \times \text{Cost per pencil} = 50 \times 20 = 1000
+   \]
+   The original cost of the pencils is $1000.
+
+3. **Calculate the discount on the pencils**: Isabela received a 20% discount on the pencils. To find the amount of the discount, we calculate:
+   \[
+   \text{Discount} = 0.20 \times \text{Cost of pencils} = 0.20 \times 1000 = 200
+   \]
+   So, Isabela received a discount of $200.
+
+4. **Calculate the final cost of the pencils after discount**: Now we need to subtract the discount from the original cost of the pencils:
+   \[
+   \text{Final cost of pencils} = \text{Cost of pencils} - \text{Discount} = 1000 - 200 = 800
+   \]
+   The final cost of the pencils is $800.
+
+5. **Calculate the cost of the cucumbers**: Each cucumber also costs $20. Therefore, the total cost for the cucumbers is:
+   \[
+   \text{Cost of cucumbers} = \text{Number of cucumbers} \times \text{Cost per cucumber} = 100 \times 20 = 2000
+   \]
+   The total cost of the cucumbers is $2000.
+
+6. **Calculate the total amount spent on both items**: Finally, we combine the costs of the pencils and the cucumbers to find the total amount spent:
+   \[
+   \text{Total amount spent} = \text{Final cost of pencils} + \text{Cost of cucumbers} = 800 + 2000 = 2800
+   \]
+
+Now, we've calculated all the necessary parts of the problem.
+
+Therefore, the total amount Isabela spent to buy the items is:
+</reasoning>
+<answer>2800</answer>

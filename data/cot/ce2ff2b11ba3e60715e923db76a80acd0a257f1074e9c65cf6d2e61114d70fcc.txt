@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the information given in the problem step by step.
+
+1. **Total Cupcakes**: The mum ordered a total of 80 cupcakes.
+
+2. **Gluten-Free Cupcakes**: Half of the cupcakes are gluten-free. To find the number of gluten-free cupcakes, we calculate:
+   \[
+   \text{Gluten-free cupcakes} = \frac{80}{2} = 40
+   \]
+   So, there are 40 gluten-free cupcakes.
+
+3. **Vegan Cupcakes**: There are 24 vegan cupcakes. We need to find out how many of them are also gluten-free. Since half of the vegan cupcakes are gluten-free, we calculate:
+   \[
+   \text{Gluten-free vegan cupcakes} = \frac{24}{2} = 12
+   \]
+   Thus, there are 12 vegan cupcakes that are gluten-free.
+
+4. **Non-Vegan Cupcakes**: To find the number of non-vegan cupcakes, we subtract the number of vegan cupcakes from the total:
+   \[
+   \text{Non-vegan cupcakes} = 80 - 24 = 56
+   \]
+   Therefore, there are 56 non-vegan cupcakes.
+
+5. **Non-Vegan and Gluten-Free Cupcakes**: We already know that there are 40 gluten-free cupcakes in total, and 12 of them are gluten-free vegan cupcakes. Therefore, the number of gluten-free non-vegan cupcakes is:
+   \[
+   \text{Gluten-free non-vegan cupcakes} = 40 - 12 = 28
+   \]
+
+6. **Total Non-Vegan Cupcakes**: We found earlier that there are 56 non-vegan cupcakes, and now we know that 28 of these are gluten-free. To find the number of non-vegan cupcakes that contain gluten (which means they are not gluten-free), we subtract the number of gluten-free non-vegan cupcakes from the total number of non-vegan cupcakes:
+   \[
+   \text{Non-vegan cupcakes with gluten} = 56 - 28 = 28
+   \]
+
+Thus, the final answer is that there are 28 non-vegan cupcakes that also contain gluten.
+</reasoning>
+<answer>28</answer>

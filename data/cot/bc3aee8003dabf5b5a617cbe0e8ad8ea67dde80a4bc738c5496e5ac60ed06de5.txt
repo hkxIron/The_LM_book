@@ -1,0 +1,51 @@
+<reasoning>
+Let's start by defining the total number of guitar picks that Johnny has. We know that:
+
+- Half of the picks are red.
+- One-third of the picks are blue.
+- The rest are yellow.
+- Johnny has 12 blue picks.
+
+First, we can set up an equation to find the total number of picks. Since we know that one-third of the total picks are blue, we can express this mathematically.
+
+Let \( T \) be the total number of guitar picks. The number of blue picks can be represented as:
+
+\[
+\frac{1}{3} T = 12
+\]
+
+To find \( T \), we will multiply both sides of the equation by 3:
+
+\[
+T = 12 \times 3 = 36
+\]
+
+Now that we have the total number of picks, which is 36, we can find the number of red and yellow picks.
+
+Since half of the picks are red, we can calculate the number of red picks as follows:
+
+\[
+\text{Red picks} = \frac{1}{2} T = \frac{1}{2} \times 36 = 18
+\]
+
+Next, we can find the number of yellow picks. We know the total number of picks and the number of red and blue picks:
+
+- Total picks: 36
+- Red picks: 18
+- Blue picks: 12
+
+To find the number of yellow picks, we subtract the number of red and blue picks from the total:
+
+\[
+\text{Yellow picks} = T - (\text{Red picks} + \text{Blue picks}) = 36 - (18 + 12)
+\]
+
+Calculating this gives us:
+
+\[
+\text{Yellow picks} = 36 - 30 = 6
+\]
+
+Therefore, the total number of yellow picks in Johnny's collection is:
+</reasoning>
+<answer>6</answer>

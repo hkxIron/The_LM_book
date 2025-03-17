@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Ana's current age**: We know that Ana will be 15 in 3 years. Therefore, her current age is:
+   \[
+   \text{Ana's current age} = 15 - 3 = 12
+   \]
+
+2. **Determine Billy's age**: We know that Billy is half of Ana's age. Since Ana is currently 12 years old, Billy's age is:
+   \[
+   \text{Billy's age} = \frac{12}{2} = 6
+   \]
+
+3. **Determine Mark's age**: We know that Mark is four years older than Billy. Since Billy is 6 years old, Mark's age is:
+   \[
+   \text{Mark's age} = 6 + 4 = 10
+   \]
+
+4. **Determine Sarah's age**: According to the problem, Sarah's age is equal to three times Mark's age minus 4. Since we found Mark's age to be 10, we can find Sarah's age using the equation:
+   \[
+   \text{Sarah's age} = 3 \times \text{Mark's age} - 4 = 3 \times 10 - 4
+   \]
+   Calculating this gives:
+   \[
+   \text{Sarah's age} = 30 - 4 = 26
+   \]
+
+Therefore, after calculating all the ages step by step, we find that Sarah is 26 years old.
+</reasoning>
+<answer>26</answer>

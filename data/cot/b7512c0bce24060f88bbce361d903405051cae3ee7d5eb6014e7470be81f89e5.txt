@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem step by step, we need to first understand how many yellow balloons there were. Since the total number of balloons is 672, we need to determine how many of those balloons were yellow and how many Anya took home.
+
+1. **Understanding the Problem:** We know there are 672 balloons divided among four colors: green, blue, yellow, and red. We need to find out how many yellow balloons there are, but the problem does not specify how many there are of each color or how they are divided.
+
+2. **Assumption for Calculation:** Since we don't have specific numbers for each color, we can assume that the balloons are evenly distributed among the four colors for the sake of solving this problem. 
+   
+   - If we divide 672 balloons by 4 colors (green, blue, yellow, red), we get:
+   \[
+   \text{Balloons per color} = \frac{672}{4} = 168
+   \]
+   Therefore, we assume there are 168 yellow balloons.
+
+3. **Calculating the Yellow Balloons Taken Home:** According to the problem, Anya took home half of the yellow balloons. So, we need to calculate half of the number of yellow balloons:
+   \[
+   \text{Yellow balloons Anya took home} = \frac{168}{2} = 84
+   \]
+
+4. **Final Calculation:** Therefore, Anya took home 84 yellow balloons.
+</reasoning>
+<answer>84</answer>

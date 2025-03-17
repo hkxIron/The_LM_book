@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we first need to determine how many koalas there are based on the number of kangaroos given. 
+
+1. **Identify the ratio of kangaroos to koalas**: The problem states that there are 5 kangaroos for each koala. This means for every 1 koala, there are 5 kangaroos.
+
+2. **Set up the relationship**: Let the number of koalas be represented as \( k \). According to the ratio, the number of kangaroos can be expressed as \( 5k \).
+
+3. **Use the information given**: We know from the problem that there are 180 kangaroos. We can set up the equation based on the relationship we established:
+   \[
+   5k = 180
+   \]
+
+4. **Solve for \( k \)**: To find the number of koalas, we divide both sides of the equation by 5:
+   \[
+   k = \frac{180}{5} = 36
+   \]
+   This means there are 36 koalas.
+
+5. **Calculate the total number of animals**: Now that we know there are 36 koalas, we can find the total number of animals by adding the number of kangaroos and koalas together. We already know there are 180 kangaroos, so:
+   \[
+   \text{Total animals} = \text{Number of kangaroos} + \text{Number of koalas} = 180 + 36
+   \]
+
+6. **Final calculation**:
+   \[
+   \text{Total animals} = 216
+   \]
+
+Thus, the total number of kangaroos and koalas together is 216.
+</reasoning>
+<answer>216</answer>

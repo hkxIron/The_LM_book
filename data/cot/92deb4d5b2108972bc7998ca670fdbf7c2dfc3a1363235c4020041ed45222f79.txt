@@ -1,0 +1,56 @@
+<reasoning>
+To solve this problem, we need to determine how many total loose crayons Francine and her friend have, and then how many boxes are needed to store those loose crayons.
+
+1. **Calculate the number of crayons Francine has.** 
+   - Francine has 5 full boxes of crayons and 5 loose crayons.
+   - We need to find out how many crayons are in the full boxes. 
+   - If we assume each box contains the same number of crayons, let's denote the number of crayons in each box as \( x \).
+
+   Therefore, the total number of crayons Francine has can be represented as:
+   \[
+   \text{Total crayons} = 5x + 5
+   \]
+
+   We know from the problem statement that Francine has a total of 85 crayons:
+   \[
+   5x + 5 = 85
+   \]
+
+2. **Subtract 5 from both sides to isolate the term with \( x \):**
+   \[
+   5x = 85 - 5
+   \]
+   \[
+   5x = 80
+   \]
+
+3. **Divide both sides by 5 to solve for \( x \):**
+   \[
+   x = \frac{80}{5} = 16
+   \]
+
+   So, each box contains 16 crayons.
+
+4. **Now, calculate the total number of loose crayons.** 
+   - Francine has 5 loose crayons.
+   - Her friend has 27 loose crayons.
+   
+   Thus, the total number of loose crayons is:
+   \[
+   \text{Total loose crayons} = 5 + 27 = 32
+   \]
+
+5. **Determine how many boxes are needed for the loose crayons.**
+   - Since each box can hold 16 crayons, we need to divide the total number of loose crayons by the number of crayons per box:
+   \[
+   \text{Boxes needed} = \frac{32}{16} = 2
+   \]
+
+6. **Check if any additional boxes are required.**
+   - Since 2 boxes are exactly enough to hold the 32 loose crayons, we don’t need any additional boxes beyond the ones Francine already has.
+
+Finally, since they had 5 boxes already for the full crayons and now need 2 boxes for the loose crayons, we confirm that they indeed need those 2 boxes to store the loose crayons.
+
+Therefore, the number of additional boxes needed is:
+</reasoning>
+<answer>2</answer>

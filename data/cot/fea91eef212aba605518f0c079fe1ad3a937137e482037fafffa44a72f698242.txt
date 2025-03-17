@@ -1,0 +1,22 @@
+<reasoning>
+To determine the new length of the pole after it has been cut to be 30% shorter, we will follow these steps:
+
+1. **Calculate 30% of the original length**: The original length of the pole is 20 meters. To find 30% of this length, we convert the percentage to a decimal and multiply it by the length of the pole.
+   \[
+   30\% = 0.30
+   \]
+   Now, we calculate:
+   \[
+   0.30 \times 20 = 6 \text{ meters}
+   \]
+   This means the pole is shortened by 6 meters.
+
+2. **Subtract the amount cut from the original length**: Next, we subtract the length that was cut (6 meters) from the original length (20 meters).
+   \[
+   20 \text{ meters} - 6 \text{ meters} = 14 \text{ meters}
+   \]
+   This gives us the new length of the pole after it has been cut.
+
+Therefore, after cutting the pole to make it 30% shorter, the new length is 14 meters.
+</reasoning>
+<answer>14</answer>

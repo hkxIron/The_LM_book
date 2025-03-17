@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Laurel's earnings in 2014**: We know that Laurel earned $30,000 in 2014.
+
+2. **Calculate Kendra's earnings in 2014**: According to the problem, Kendra made $8,000 less than Laurel in 2014. Therefore, we subtract $8,000 from Laurel's earnings:
+   
+   \[
+   Kendra's\ earnings\ in\ 2014 = Laurel's\ earnings\ in\ 2014 - 8000
+   \]
+   \[
+   Kendra's\ earnings\ in\ 2014 = 30000 - 8000 = 22000
+   \]
+
+3. **Calculate Laurel's earnings in 2015**: We do not have the specific earnings of Laurel in 2015, but we will focus on Kendra's earnings first, which are dependent on Laurel's earnings in 2014.
+
+4. **Calculate Kendra's earnings in 2015**: Kendra made 20% more than Laurel made in 2014 in 2015. First, we need to find out what 20% of Laurel's earnings in 2014 is:
+   
+   \[
+   20\%\ of\ Laurel's\ earnings\ in\ 2014 = 0.20 \times 30000 = 6000
+   \]
+
+   Now, we add this amount to Laurel's earnings in 2014 to get Kendra's earnings in 2015:
+   
+   \[
+   Kendra's\ earnings\ in\ 2015 = Laurel's\ earnings\ in\ 2014 + 6000
+   \]
+   \[
+   Kendra's\ earnings\ in\ 2015 = 30000 + 6000 = 36000
+   \]
+
+5. **Calculate Kendra's total earnings over the two years**: Now that we have Kendra's earnings for both years, we can add them together:
+   
+   \[
+   Kendra's\ total\ earnings = Kendra's\ earnings\ in\ 2014 + Kendra's\ earnings\ in\ 2015
+   \]
+   \[
+   Kendra's\ total\ earnings = 22000 + 36000 = 58000
+   \]
+
+Therefore, Kendra's total earnings in the two years is $58,000.
+</reasoning>
+<answer>58000</answer>

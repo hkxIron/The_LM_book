@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we need to find out how many hot dogs Guise ate on each day from Monday to Wednesday, given that he ate ten hot dogs on Monday and increased his consumption by two hot dogs each subsequent day.
+
+1. **Determine the number of hot dogs eaten on Monday**:
+   Guise ate 10 hot dogs on Monday. We denote this as:
+   - Monday = 10 hot dogs
+
+2. **Calculate the number of hot dogs eaten on Tuesday**:
+   According to the problem, Guise ate two more hot dogs on Tuesday than he did on Monday. Therefore:
+   - Tuesday = Monday's hot dogs + 2
+   - Tuesday = 10 + 2 = 12 hot dogs
+
+3. **Calculate the number of hot dogs eaten on Wednesday**:
+   Similarly, on Wednesday, Guise ate two more hot dogs than he did on Tuesday:
+   - Wednesday = Tuesday's hot dogs + 2
+   - Wednesday = 12 + 2 = 14 hot dogs
+
+4. **Add the total number of hot dogs eaten by Wednesday**:
+   Now, we sum the number of hot dogs eaten from Monday to Wednesday:
+   - Total = Monday + Tuesday + Wednesday
+   - Total = 10 + 12 + 14
+
+5. **Perform the addition**:
+   - First, add Monday and Tuesday: 10 + 12 = 22
+   - Then add Wednesday's total: 22 + 14 = 36
+
+Therefore, Guise had eaten a total of 36 hot dogs by Wednesday of that week.
+</reasoning>
+<answer>36</answer>

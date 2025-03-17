@@ -1,0 +1,41 @@
+<reasoning>
+To find the total area of canvas Mary needs for her model sailboat, we will calculate the area of each sail separately and then sum them up.
+
+1. **Calculate the area of the rectangular sail:**
+   The formula for the area of a rectangle is:
+   \[
+   \text{Area} = \text{length} \times \text{width}
+   \]
+   For the rectangular sail, the length is 8 inches and the width is 5 inches. So,
+   \[
+   \text{Area} = 8 \, \text{inches} \times 5 \, \text{inches} = 40 \, \text{square inches}
+   \]
+
+2. **Calculate the area of the first triangular sail:**
+   The formula for the area of a triangle is:
+   \[
+   \text{Area} = \frac{1}{2} \times \text{base} \times \text{height}
+   \]
+   For the first triangular sail, the base is 3 inches and the height is 4 inches. So,
+   \[
+   \text{Area} = \frac{1}{2} \times 3 \, \text{inches} \times 4 \, \text{inches} = \frac{1}{2} \times 12 = 6 \, \text{square inches}
+   \]
+
+3. **Calculate the area of the second triangular sail:**
+   Similarly, for the second triangular sail, the base is 4 inches and the height is 6 inches. Using the same triangle area formula:
+   \[
+   \text{Area} = \frac{1}{2} \times 4 \, \text{inches} \times 6 \, \text{inches} = \frac{1}{2} \times 24 = 12 \, \text{square inches}
+   \]
+
+4. **Sum the areas of all sails:**
+   Now we will add the areas of the rectangular sail and the two triangular sails to find the total area of canvas needed:
+   \[
+   \text{Total Area} = \text{Area of rectangular sail} + \text{Area of first triangular sail} + \text{Area of second triangular sail}
+   \]
+   \[
+   \text{Total Area} = 40 \, \text{square inches} + 6 \, \text{square inches} + 12 \, \text{square inches} = 58 \, \text{square inches}
+   \]
+
+Thus, the total area of canvas Mary needs for her model sailboat is 58 square inches.
+</reasoning>
+<answer>58</answer>

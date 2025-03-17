@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many pieces of gum Mitchell chews at once, we start by calculating the total number of pieces of gum he has.
+
+1. **Calculate total pieces of gum**: 
+   - Mitchell has 8 packets of gum, and each packet contains 7 pieces. 
+   - Therefore, the total number of pieces of gum is calculated as follows:
+
+   \[
+   \text{Total pieces} = \text{Number of packets} \times \text{Pieces per packet} = 8 \times 7
+   \]
+
+   Now, let's do the multiplication:
+
+   \[
+   8 \times 7 = 56
+   \]
+
+   So, Mitchell has a total of 56 pieces of gum.
+
+2. **Determine the number of pieces he chews**: 
+   - Mitchell chews all the gum except for 2 pieces. 
+   - This means we need to subtract the 2 pieces he does not chew from the total number of pieces:
+
+   \[
+   \text{Pieces chewed} = \text{Total pieces} - \text{Pieces not chewed} = 56 - 2
+   \]
+
+   Now, let’s perform the subtraction:
+
+   \[
+   56 - 2 = 54
+   \]
+
+Therefore, Mitchell chews 54 pieces of gum at once.
+</reasoning>
+<answer>54</answer>

@@ -1,0 +1,55 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the total number of hats**: 
+   We start by determining how many hats were in total when Miggy's mom brought home the bags. There are 3 bags, and each bag contains 15 hats. 
+
+   \[
+   \text{Total hats} = \text{Number of bags} \times \text{Hats per bag} = 3 \times 15
+   \]
+
+   Performing the multiplication:
+
+   \[
+   3 \times 15 = 45
+   \]
+
+   So, there are 45 hats in total.
+
+2. **Account for the hats that were torn off**: 
+   Miggy accidentally tore off 5 hats. We need to subtract these from the total number of hats to find out how many hats remain.
+
+   \[
+   \text{Hats remaining after tearing} = \text{Total hats} - \text{Hats torn off} = 45 - 5
+   \]
+
+   Performing the subtraction:
+
+   \[
+   45 - 5 = 40
+   \]
+
+   Therefore, there are 40 hats remaining after Miggy tore off 5.
+
+3. **Determine how many hats were used during the party**: 
+   According to the problem, during the party, only 25 hats were used.
+
+4. **Calculate the number of unused hats**: 
+   To find out how many hats were unused, we subtract the number of hats used from the remaining hats.
+
+   \[
+   \text{Unused hats} = \text{Hats remaining} - \text{Hats used} = 40 - 25
+   \]
+
+   Performing this subtraction:
+
+   \[
+   40 - 25 = 15
+   \]
+
+5. **Final conclusion**: 
+   After calculating everything, we find that 15 hats were unused after the party.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>15</answer>

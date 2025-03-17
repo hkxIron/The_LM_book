@@ -1,0 +1,39 @@
+<reasoning>
+To find the profit made in the second quarter, we first need to sum up the profits from all quarters and then subtract this sum from the total annual profits.
+
+1. **Identify the profits from the given quarters:**
+   - First quarter profit = $1,500
+   - Third quarter profit = $3,000
+   - Fourth quarter profit = $2,000
+
+2. **Sum the profits of the quarters we know:**
+   We will add the profits from the first, third, and fourth quarters:
+   \[
+   1,500 + 3,000 + 2,000
+   \]
+   Performing the addition:
+   \[
+   1,500 + 3,000 = 4,500
+   \]
+   Now adding the fourth quarter:
+   \[
+   4,500 + 2,000 = 6,500
+   \]
+   Thus, the total profit from the first, third, and fourth quarters is $6,500.
+
+3. **Determine the total annual profit:**
+   We know the total annual profit is $8,000.
+
+4. **Calculate the profit for the second quarter:**
+   To find the profit for the second quarter, we will subtract the total profit from the known quarters from the annual profit:
+   \[
+   8,000 - 6,500
+   \]
+   Performing the subtraction:
+   \[
+   8,000 - 6,500 = 1,500
+   \]
+
+Therefore, the profit made in the second quarter is $1,500.
+</reasoning>
+<answer>1500</answer>

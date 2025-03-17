@@ -1,0 +1,40 @@
+<reasoning>
+To find out what percentage of the balls Veronica carried were yellow, we can follow these steps:
+
+1. **Calculate the total number of balls.**  
+   We need to add the number of yellow balls to the number of brown balls. Veronica has 27 yellow balls and 33 brown balls.  
+   \[
+   \text{Total balls} = 27 + 33
+   \]
+
+   Performing the addition:
+   \[
+   \text{Total balls} = 60
+   \]
+
+2. **Calculate the percentage of yellow balls.**  
+   The percentage of yellow balls can be found by taking the number of yellow balls, dividing it by the total number of balls, and then multiplying by 100 to convert it to a percentage.  
+   The formula for percentage is:
+   \[
+   \text{Percentage of yellow balls} = \left(\frac{\text{Number of yellow balls}}{\text{Total balls}}\right) \times 100
+   \]
+
+   Substituting the numbers we have:
+   \[
+   \text{Percentage of yellow balls} = \left(\frac{27}{60}\right) \times 100
+   \]
+
+3. **Perform the division and multiplication.**  
+   First, calculate the fraction:
+   \[
+   \frac{27}{60} = 0.45
+   \]
+
+   Now, multiply by 100 to convert to a percentage:
+   \[
+   0.45 \times 100 = 45
+   \]
+
+So, 45% of the balls that Veronica carried were yellow.
+</reasoning>
+<answer>45</answer>

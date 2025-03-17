@@ -1,0 +1,80 @@
+<reasoning>
+Let's denote the weights of the fish caught by Ali, Peter, and Joey as follows:
+
+- Let \( A \) be the weight of fish caught by Ali.
+- Let \( P \) be the weight of fish caught by Peter.
+- Let \( J \) be the weight of fish caught by Joey.
+
+From the problem, we know the following relationships:
+
+1. The weight of the fish Ali caught is twice as much as the fish Peter caught:
+   \[
+   A = 2P
+   \]
+
+2. Joey caught 1 kg more fish than Peter:
+   \[
+   J = P + 1
+   \]
+
+3. Together, they caught a total of 25 kg of fish:
+   \[
+   A + P + J = 25
+   \]
+
+Now, we can substitute the expressions for \( A \) and \( J \) in terms of \( P \) into the total weight equation.
+
+Substituting \( A = 2P \) and \( J = P + 1 \) into the total weight equation:
+\[
+2P + P + (P + 1) = 25
+\]
+
+Now, combine like terms:
+\[
+2P + P + P + 1 = 25
+\]
+\[
+4P + 1 = 25
+\]
+
+Next, we solve for \( P \) by first subtracting 1 from both sides:
+\[
+4P = 25 - 1
+\]
+\[
+4P = 24
+\]
+
+Now, divide both sides by 4:
+\[
+P = \frac{24}{4} = 6
+\]
+
+Now that we have the weight of the fish caught by Peter, we can find the weights for Ali and Joey. 
+
+Using \( P = 6 \):
+1. For Ali:
+   \[
+   A = 2P = 2 \cdot 6 = 12
+   \]
+
+2. For Joey:
+   \[
+   J = P + 1 = 6 + 1 = 7
+   \]
+
+Now we have:
+- Ali caught \( A = 12 \) kg of fish.
+- Peter caught \( P = 6 \) kg of fish.
+- Joey caught \( J = 7 \) kg of fish.
+
+Finally, we can confirm that their total adds up to 25 kg:
+\[
+A + P + J = 12 + 6 + 7 = 25
+\]
+
+This confirms our calculations are correct.
+
+Therefore, the weight of the fish that Ali caught is:
+</reasoning>
+<answer>12</answer>

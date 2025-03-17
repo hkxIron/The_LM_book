@@ -1,0 +1,39 @@
+<reasoning>
+To determine how many liters of milk Brian needs to buy, we will follow these steps:
+
+1. **Count the number of people**: Brian is making lasagna for himself, his wife, two kids, his parents, and his wife's parents. This totals to:
+   - Brian: 1
+   - Wife: 1
+   - Kids: 2
+   - Parents: 2 (his parents)
+   - Parents-in-law: 2 (his wife's parents)
+   - Total: \(1 + 1 + 2 + 2 + 2 = 8\) people.
+
+2. **Calculate the number of servings**: Each person is expected to eat 2 servings. Therefore, the total number of servings needed is:
+   \[
+   \text{Total servings} = \text{Number of people} \times \text{Servings per person} = 8 \times 2 = 16 \text{ servings}.
+   \]
+
+3. **Determine the amount of milk required per serving**: The recipe calls for \( \frac{1}{2} \) cup of milk per serving. Therefore, for 16 servings, the total amount of milk required is:
+   \[
+   \text{Total milk} = \text{Servings} \times \text{Milk per serving} = 16 \times \frac{1}{2} = 8 \text{ cups of milk}.
+   \]
+
+4. **Convert cups to milliliters**: Knowing that 1 US cup equals 250 ml, we can convert 8 cups to milliliters:
+   \[
+   \text{Total milk in ml} = 8 \text{ cups} \times 250 \text{ ml/cup} = 2000 \text{ ml}.
+   \]
+
+5. **Convert milliliters to liters**: Since 1000 ml is equal to 1 liter, we convert 2000 ml to liters:
+   \[
+   \text{Total milk in liters} = \frac{2000 \text{ ml}}{1000 \text{ ml/L}} = 2 \text{ L}.
+   \]
+
+6. **Determine the number of 1L cartons needed**: Since Brian needs 2 liters of milk, he will need to buy:
+   \[
+   \text{Number of cartons} = 2 \text{ L} \div 1 \text{ L/carton} = 2 \text{ cartons}.
+   \]
+
+Therefore, Brian needs to buy 2 cartons of milk.
+</reasoning>
+<answer>2</answer>

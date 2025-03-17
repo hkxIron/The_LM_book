@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem step by step, we first need to analyze the information given:
+
+1. **Identify the number of red blocks**: 
+   The problem states that Jacob has 18 red blocks. 
+
+   Therefore:
+   \[
+   \text{Red blocks} = 18
+   \]
+
+2. **Calculate the number of yellow blocks**: 
+   The problem indicates there are 7 more yellow blocks than red blocks. To find the number of yellow blocks, we add 7 to the number of red blocks.
+
+   Calculation:
+   \[
+   \text{Yellow blocks} = \text{Red blocks} + 7 = 18 + 7 = 25
+   \]
+
+3. **Calculate the number of blue blocks**: 
+   Similarly, the problem mentions there are 14 more blue blocks than red blocks. To find the number of blue blocks, we add 14 to the number of red blocks.
+
+   Calculation:
+   \[
+   \text{Blue blocks} = \text{Red blocks} + 14 = 18 + 14 = 32
+   \]
+
+4. **Calculate the total number of blocks**: 
+   Now that we know the quantities of red, yellow, and blue blocks, we can find the total number of blocks by adding all three quantities together.
+
+   Calculation:
+   \[
+   \text{Total blocks} = \text{Red blocks} + \text{Yellow blocks} + \text{Blue blocks} = 18 + 25 + 32
+   \]
+
+   Let's compute the total:
+   \[
+   18 + 25 = 43
+   \]
+   \[
+   43 + 32 = 75
+   \]
+
+Thus, the total number of blocks in Jacob's toy bin is 75.
+</reasoning>
+<answer>75</answer>

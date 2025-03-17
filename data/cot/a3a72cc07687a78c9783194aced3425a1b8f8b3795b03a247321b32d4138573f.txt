@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many females wear glasses, we need to follow these steps:
+
+1. **Determine the total female population**: 
+   We know that there are 5,000 people in total in the town and that 2,000 of them are males. To find out how many females there are, we subtract the number of males from the total population. 
+
+   \[
+   \text{Number of females} = \text{Total population} - \text{Number of males} = 5000 - 2000 = 3000
+   \]
+
+   So, there are 3,000 females in the town.
+
+2. **Calculate the number of females who wear glasses**: 
+   We know that 30% of the female population wears glasses. To find this number, we multiply the total number of females by 30%.
+
+   \[
+   \text{Number of females wearing glasses} = 0.30 \times \text{Number of females} = 0.30 \times 3000
+   \]
+
+   Performing the multiplication:
+
+   \[
+   0.30 \times 3000 = 900
+   \]
+
+   Therefore, there are 900 females in the town who wear glasses.
+</reasoning>
+<answer>900</answer>

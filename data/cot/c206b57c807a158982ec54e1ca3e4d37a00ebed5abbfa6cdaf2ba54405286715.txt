@@ -1,0 +1,63 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Calculate the total cost for the ice cream for all five family members.**
+   Each scoop costs $3, and since there are five family members, we multiply:
+   \[
+   \text{Total cost} = 5 \, \text{members} \times 3 \, \text{dollars/member} = 15 \, \text{dollars}
+   \]
+
+2. **Convert the total cost into cents.**
+   Since there are 100 cents in a dollar, we convert $15 into cents:
+   \[
+   15 \, \text{dollars} = 15 \times 100 = 1500 \, \text{cents}
+   \]
+
+3. **Determine the total amount of change in the jar before the trip.**
+   We need to calculate the total value of the coins in the jar:
+   - **Pennies:** 123 pennies = 123 cents
+   - **Nickels:** 85 nickels = \( 85 \times 5 = 425 \) cents
+   - **Dimes:** 35 dimes = \( 35 \times 10 = 350 \) cents
+   
+   Now, let's sum up these values:
+   \[
+   \text{Total change from pennies, nickels, and dimes} = 123 + 425 + 350 = 898 \, \text{cents}
+   \]
+
+4. **Determine the total amount of money in the jar including the quarters.**
+   Let \( q \) represent the number of quarters. Since each quarter is worth 25 cents, the value of \( q \) quarters is \( 25q \) cents. Therefore, the total amount of money in the jar can be expressed as:
+   \[
+   \text{Total amount in jar} = 898 + 25q \, \text{cents}
+   \]
+
+5. **Set up the equation based on the total spent and the amount left over.**
+   After purchasing the ice cream, they have 48 cents left. Thus, the equation becomes:
+   \[
+   \text{Total amount in jar} - \text{Total cost} = \text{Amount left}
+   \]
+   Substituting the known values:
+   \[
+   (898 + 25q) - 1500 = 48
+   \]
+
+6. **Simplify and solve for \( q \).**
+   Reorganizing the equation gives:
+   \[
+   898 + 25q - 1500 = 48
+   \]
+   Which simplifies to:
+   \[
+   25q - 602 = 48
+   \]
+   Adding 602 to both sides:
+   \[
+   25q = 650
+   \]
+   Dividing both sides by 25:
+   \[
+   q = \frac{650}{25} = 26
+   \]
+
+Thus, the number of quarters in the jar is 26.
+</reasoning>
+<answer>26</answer>

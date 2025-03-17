@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Understanding the Initial Amount of Candies**: 
+   - We know that after Shelly ate 20 candies, there are 50 candies left in the bowl. Therefore, we can determine how many candies Shelly had initially.
+   - Since Shelly ate 20 candies, the original amount of candies she had can be calculated as follows:
+     \[
+     \text{Candies Shelly had initially} = 50 + 20 = 70
+     \]
+
+2. **Calculating the Amount of Candies Shelly’s Friend Brought**: 
+   - Shelly’s friend brings twice as much candy as Shelly originally had.
+   - Therefore, the amount of candy her friend brought is:
+     \[
+     \text{Friend's candy} = 2 \times 70 = 140
+     \]
+
+3. **Total Amount of Candy in the Bowl After Adding Friend's Candy**: 
+   - We now need to calculate the total amount of candy in the bowl after adding the friend's candy:
+     \[
+     \text{Total candy in the bowl} = 50 + 140 = 190
+     \]
+
+4. **Dividing the Candy Equally Between Shelly and Her Friend**: 
+   - Since they decide to divide the total amount of candy equally, we will divide the total by 2:
+     \[
+     \text{Candy per person} = \frac{190}{2} = 95
+     \]
+
+5. **Calculating How Much Candy Shelly’s Friend Has After Eating 10 Candies**: 
+   - Initially, after dividing the candy, Shelly's friend has 95 candies. If she eats 10 candies, we subtract that from her total:
+     \[
+     \text{Friend's remaining candy} = 95 - 10 = 85
+     \]
+
+Therefore, after all the calculations, we find that Shelly's friend has 85 candies remaining after eating 10 of her candies.
+</reasoning>
+<answer>85</answer>

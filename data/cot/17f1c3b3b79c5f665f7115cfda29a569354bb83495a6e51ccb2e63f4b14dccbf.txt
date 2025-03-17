@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many tomatoes grew in Grandpa's absence, we need to follow these steps:
+
+1. **Identify the number of tomatoes before vacation**: Grandpa initially had 36 small tomatoes.
+2. **Determine how many tomatoes he counted after returning**: He counted 100 times more tomatoes when he came back. This means we need to multiply the initial count by 100.
+   - Calculation: 
+     \[
+     36 \text{ (initial tomatoes)} \times 100 = 3600 \text{ (total tomatoes after vacation)}
+     \]
+3. **Calculate the number of tomatoes that grew during his absence**: To find out how many tomatoes grew, we subtract the initial count from the total count after vacation.
+   - Calculation:
+     \[
+     3600 \text{ (total tomatoes)} - 36 \text{ (initial tomatoes)} = 3564 \text{ (tomatoes that grew)}
+     \]
+
+Therefore, we have determined that 3564 tomatoes grew in Grandpa's absence.
+</reasoning>
+<answer>3564</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step to find out how much money Ian has left after paying off his debts.
+
+1. **Initial Amount**: Ian starts with $100.
+
+2. **Payment to Colin**: Ian pays $20 to Colin. 
+   - To find out how much money he has left after this payment, we subtract $20 from $100.
+   \[
+   100 - 20 = 80
+   \]
+   So, Ian has $80 left after paying Colin.
+
+3. **Payment to Helen**: Ian then pays twice as much to Helen as he paid to Colin. 
+   - Since he paid Colin $20, he pays Helen \(2 \times 20 = 40\) dollars.
+   - Now, we will subtract this amount from the remaining balance.
+   \[
+   80 - 40 = 40
+   \]
+   After paying Helen, Ian has $40 left.
+
+4. **Payment to Benedict**: Finally, Ian pays half as much to Benedict as he paid to Helen.
+   - Ian paid Helen $40, so he pays Benedict \( \frac{40}{2} = 20\) dollars.
+   - Again, we will subtract this amount from his current balance.
+   \[
+   40 - 20 = 20
+   \]
+   After paying Benedict, Ian has $20 left.
+
+In conclusion, Ian has $20 left after paying off all his debts.
+</reasoning>
+<answer>20</answer>

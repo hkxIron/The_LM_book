@@ -1,0 +1,40 @@
+<reasoning>
+To determine the total amount of recess the students get on report card day, we need to calculate the extra minutes of recess based on the grades received.
+
+1. **Identify the base recess time:** 
+   The students normally get 20 minutes of recess.
+
+2. **Calculate extra minutes for A grades:**
+   Each A adds 2 extra minutes of recess. 
+   - Total A grades = 10
+   - Extra minutes from A grades = 10 A grades × 2 minutes/A = 20 minutes
+
+3. **Calculate extra minutes for B grades:**
+   Each B adds 1 extra minute of recess.
+   - Total B grades = 12
+   - Extra minutes from B grades = 12 B grades × 1 minute/B = 12 minutes
+
+4. **Calculate extra minutes for C grades:**
+   Each C adds 0 extra minutes of recess.
+   - Total C grades = 14
+   - Extra minutes from C grades = 14 C grades × 0 minutes/C = 0 minutes
+
+5. **Calculate extra minutes for D grades:**
+   Each D subtracts 1 minute from recess.
+   - Total D grades = 5
+   - Extra minutes from D grades = 5 D grades × (-1 minute/D) = -5 minutes
+
+6. **Sum the extra minutes:**
+   Now we add up all the extra minutes calculated:
+   - Total extra minutes = Extra from A + Extra from B + Extra from C + Extra from D
+   - Total extra minutes = 20 minutes (from A) + 12 minutes (from B) + 0 minutes (from C) - 5 minutes (from D)
+   - Total extra minutes = 20 + 12 + 0 - 5 = 27 minutes
+
+7. **Calculate total recess time:**
+   Finally, we add the total extra minutes to the base recess time:
+   - Total recess time = Base recess time + Total extra minutes
+   - Total recess time = 20 minutes + 27 minutes = 47 minutes
+
+Therefore, the total amount of recess the students would get that day is 47 minutes.
+</reasoning>
+<answer>47</answer>

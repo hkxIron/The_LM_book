@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the costs step by step.
+
+1. **Calculate the cost of the clown:**
+   - The clown charges $100 per hour.
+   - Tim hired the clown for 4 hours.
+   - To find the total cost for the clown, we multiply the hourly rate by the number of hours:
+     \[
+     \text{Cost for clown} = 100 \text{ dollars/hour} \times 4 \text{ hours} = 400 \text{ dollars}
+     \]
+
+2. **Calculate the cost of the bounce house:**
+   - The bounce house is rented for half the time of the clown. Since the clown was hired for 4 hours, the bounce house is rented for:
+     \[
+     \text{Bounce house time} = \frac{4 \text{ hours}}{2} = 2 \text{ hours}
+     \]
+   - The bounce house costs 3 times as much per hour as the clown. Therefore, its hourly rate is:
+     \[
+     \text{Bounce house rate} = 3 \times 100 \text{ dollars/hour} = 300 \text{ dollars/hour}
+     \]
+   - Now we calculate the total cost for the bounce house by multiplying the hourly rate by the number of hours:
+     \[
+     \text{Cost for bounce house} = 300 \text{ dollars/hour} \times 2 \text{ hours} = 600 \text{ dollars}
+     \]
+
+3. **Calculate the total cost for everything else:**
+   - The total cost for everything else for the party is given as $1000.
+
+4. **Sum all the costs to find the total birthday cost:**
+   - We add the cost for the clown, the cost for the bounce house, and the cost for everything else:
+     \[
+     \text{Total birthday cost} = \text{Cost for clown} + \text{Cost for bounce house} + \text{Cost for everything else}
+     \]
+     \[
+     \text{Total birthday cost} = 400 \text{ dollars} + 600 \text{ dollars} + 1000 \text{ dollars} = 2000 \text{ dollars}
+     \]
+
+Therefore, the total cost of Tim's birthday party is $2000.
+</reasoning>
+<answer>2000</answer>

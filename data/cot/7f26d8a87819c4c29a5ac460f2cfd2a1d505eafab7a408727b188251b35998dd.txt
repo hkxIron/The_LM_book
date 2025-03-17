@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much money the zoo made in total for both days, we need to calculate the income from ticket sales for each day separately and then sum them up.
+
+**Step 1: Calculate the total for Monday.**
+- On Monday, there were 7 children and 5 adults.
+- The cost of a child ticket is $3, and the cost of an adult ticket is $4.
+
+First, we calculate the total income from the children:
+- Total from children = Number of children × Cost per child ticket
+- Total from children = 7 children × $3/child = $21
+
+Next, we calculate the total income from the adults:
+- Total from adults = Number of adults × Cost per adult ticket
+- Total from adults = 5 adults × $4/adult = $20
+
+Now, we add the totals from children and adults to find the total for Monday:
+- Total for Monday = Total from children + Total from adults
+- Total for Monday = $21 + $20 = $41
+
+**Step 2: Calculate the total for Tuesday.**
+- On Tuesday, there were 4 children and 2 adults.
+
+First, we calculate the total income from the children:
+- Total from children = Number of children × Cost per child ticket
+- Total from children = 4 children × $3/child = $12
+
+Next, we calculate the total income from the adults:
+- Total from adults = Number of adults × Cost per adult ticket
+- Total from adults = 2 adults × $4/adult = $8
+
+Now, we add the totals from children and adults to find the total for Tuesday:
+- Total for Tuesday = Total from children + Total from adults
+- Total for Tuesday = $12 + $8 = $20
+
+**Step 3: Calculate the total income for both days.**
+Now, we add the total income from Monday and Tuesday:
+- Total income = Total for Monday + Total for Tuesday
+- Total income = $41 + $20 = $61
+
+Thus, the total amount of money the zoo made in total for both days is:
+</reasoning>
+<answer>61</answer>

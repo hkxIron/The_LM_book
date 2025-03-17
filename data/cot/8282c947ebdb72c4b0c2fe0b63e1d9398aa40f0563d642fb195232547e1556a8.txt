@@ -1,0 +1,48 @@
+<reasoning>
+To find out how much Mr. Eithan kept in the family's savings account, we need to calculate how much he distributed to each family member step by step.
+
+1. **Total Amount**: Mr. Eithan starts with a total of $2000.
+
+2. **Amount given to his wife**: 
+   - He gives 2/5 of the total amount to his wife.
+   - Calculation: 
+     \[
+     \text{Amount to wife} = \frac{2}{5} \times 2000 = 800
+     \]
+   - After giving this amount, we find out how much is left:
+     \[
+     \text{Remaining amount} = 2000 - 800 = 1200
+     \]
+
+3. **Amount given to his first son**: 
+   - Next, he gives 2/5 of the remaining amount to his first son.
+   - Calculation:
+     \[
+     \text{Amount to first son} = \frac{2}{5} \times 1200 = 480
+     \]
+   - We will again find out how much is left after this:
+     \[
+     \text{Remaining amount} = 1200 - 480 = 720
+     \]
+
+4. **Amount given to his second son**: 
+   - Now, he gives 40% of the remaining amount to his second son.
+   - Calculation:
+     \[
+     \text{Amount to second son} = 0.40 \times 720 = 288
+     \]
+   - Now we calculate the remaining amount after this transaction:
+     \[
+     \text{Remaining amount} = 720 - 288 = 432
+     \]
+
+5. **Amount kept in the family's savings account**:
+   - The final remaining amount is what Mr. Eithan kept in the family's savings account.
+   - Thus, the amount kept is:
+     \[
+     \text{Amount in savings} = 432
+     \]
+
+Therefore, the total amount Mr. Eithan kept in the family's savings account is:
+</reasoning>
+<answer>432</answer>

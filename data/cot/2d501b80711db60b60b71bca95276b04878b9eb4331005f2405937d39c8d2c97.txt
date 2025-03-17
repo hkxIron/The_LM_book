@@ -1,0 +1,23 @@
+<reasoning>
+To find out how much Dave spent on the books, we need to first calculate the total number of books he bought and then multiply that by the cost of each book.
+
+1. **Calculate the total number of books**: 
+   - Dave bought 8 books about animals.
+   - He also bought 6 books about outer space.
+   - Lastly, he purchased 3 books about trains.
+   
+   To find the total number of books, we add these amounts together:
+   \[
+   8 + 6 + 3 = 17 \text{ books}
+   \]
+
+2. **Determine the cost of the books**:
+   - Each book costs $6.
+   - To find the total cost, we multiply the total number of books by the cost per book:
+   \[
+   17 \text{ books} \times 6 \text{ dollars/book} = 102 \text{ dollars}
+   \]
+
+Therefore, Dave spent a total of $102 on the books.
+</reasoning>
+<answer>102</answer>

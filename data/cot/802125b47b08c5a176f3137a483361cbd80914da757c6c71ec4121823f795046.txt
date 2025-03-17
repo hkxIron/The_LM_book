@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we first need to convert all the measurements to the same unit, which will make it easier to compare the quantities of fudge each person has.
+
+1. **Convert Marina's fudge from pounds to ounces:**
+   - We know that 1 pound is equivalent to 16 ounces.
+   - Marina has 4.5 pounds of fudge. 
+   - To convert pounds to ounces, we multiply the number of pounds by 16.
+   \[
+   4.5 \text{ pounds} \times 16 \text{ ounces/pound} = 72 \text{ ounces}
+   \]
+   Therefore, Marina has 72 ounces of fudge.
+
+2. **Determine how much fudge Lazlo has:**
+   - It is stated that Lazlo has 6 ounces less than 4 pounds of fudge.
+   - First, we convert 4 pounds to ounces.
+   \[
+   4 \text{ pounds} \times 16 \text{ ounces/pound} = 64 \text{ ounces}
+   \]
+   - Now we subtract 6 ounces from this total to find out how much fudge Lazlo has:
+   \[
+   64 \text{ ounces} - 6 \text{ ounces} = 58 \text{ ounces}
+   \]
+   Thus, Lazlo has 58 ounces of fudge.
+
+3. **Calculate how many more ounces of fudge Marina has compared to Lazlo:**
+   - We compare the two quantities by subtracting the amount of fudge Lazlo has from the amount Marina has:
+   \[
+   72 \text{ ounces (Marina)} - 58 \text{ ounces (Lazlo)} = 14 \text{ ounces}
+   \]
+   Therefore, Marina has 14 ounces more fudge than Lazlo.
+</reasoning>
+<answer>14</answer>

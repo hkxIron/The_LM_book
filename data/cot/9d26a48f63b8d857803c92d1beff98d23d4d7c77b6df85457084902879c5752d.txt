@@ -1,0 +1,33 @@
+<reasoning>
+To find the total weight of the potatoes sold by the shop for the whole day, we need to follow these steps:
+
+1. **Calculate the total number of bags sold**: We know that the shop sold 29 bags in the morning and 17 bags in the afternoon. We can add these two numbers together to find the total bags sold.
+
+   \[
+   \text{Total bags sold} = 29 + 17
+   \]
+
+   Calculating this gives:
+
+   \[
+   \text{Total bags sold} = 46
+   \]
+
+2. **Calculate the total weight of the potatoes**: Each bag of potatoes weighs 7 kg. To find the total weight, we multiply the total number of bags sold by the weight of each bag.
+
+   \[
+   \text{Total weight} = \text{Total bags sold} \times \text{Weight per bag}
+   \]
+   \[
+   \text{Total weight} = 46 \times 7
+   \]
+
+   Performing this multiplication:
+
+   \[
+   \text{Total weight} = 322 \text{ kg}
+   \]
+
+Therefore, the total kilograms of potatoes sold by the shop for the whole day is 322 kg.
+</reasoning>
+<answer>322</answer>

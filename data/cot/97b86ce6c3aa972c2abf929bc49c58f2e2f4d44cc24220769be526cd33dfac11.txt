@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many coins Joanne had after the fourth hour, we will add up the coins she collected each hour and then subtract the coins she gave to her coworker.
+
+1. **First Hour:** Joanne collected 15 coins.
+   - Coins after the first hour = 15
+
+2. **Second Hour:** She collected 35 coins.
+   - Total coins after the second hour = 15 (from the first hour) + 35 = 50
+
+3. **Third Hour:** She collected another 35 coins.
+   - Total coins after the third hour = 50 (from the second hour) + 35 = 85
+
+4. **Fourth Hour:** Joanne collected 50 coins, but she gave 15 of them to her coworker.
+   - Net coins collected in the fourth hour = 50 - 15 = 35
+   - Total coins after the fourth hour = 85 (from the third hour) + 35 (net from the fourth hour) = 120
+
+Now, we have calculated that after collecting coins for four hours and considering the coins given away, Joanne has a total of 120 coins.
+
+Therefore, the total number of coins Joanne had after the fourth hour is:
+</reasoning>
+<answer>120</answer>

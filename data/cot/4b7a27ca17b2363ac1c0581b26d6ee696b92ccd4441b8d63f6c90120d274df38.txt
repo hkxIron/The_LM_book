@@ -1,0 +1,30 @@
+<reasoning>
+Let's start with the initial balance of the football club, which is $100 million.
+
+1. **Calculate the revenue from selling players**: The club sells 2 players at $10 million each. 
+   - So, we calculate the total revenue from the sales:
+     \[
+     \text{Revenue from sales} = 2 \times 10 = 20 \text{ million dollars}
+     \]
+
+2. **Add the revenue from player sales to the initial balance**:
+   - Now, we update the balance by adding the revenue from the sales to the initial balance:
+     \[
+     \text{New balance after sales} = 100 + 20 = 120 \text{ million dollars}
+     \]
+
+3. **Calculate the cost of buying players**: The club buys 4 players at $15 million each.
+   - We can find the total cost for these purchases:
+     \[
+     \text{Cost of purchases} = 4 \times 15 = 60 \text{ million dollars}
+     \]
+
+4. **Subtract the cost of player purchases from the current balance**:
+   - We now deduct the total cost of the purchases from the new balance:
+     \[
+     \text{Final balance} = 120 - 60 = 60 \text{ million dollars}
+     \]
+
+After performing these calculations, we find that the club has $60 million left in its register.
+</reasoning>
+<answer>60</answer>

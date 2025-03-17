@@ -1,0 +1,57 @@
+<reasoning>
+To find out how much more money Thomas needs to buy the car, we will calculate his total savings over the two years and then subtract that from the car's price of $15,000.
+
+**Step 1: Calculate the total savings from the weekly allowance for the first year.**
+- Thomas's weekly allowance is $50.
+- There are 52 weeks in a year, so in one year, he saves:
+  
+  \[
+  50 \text{ dollars/week} \times 52 \text{ weeks} = 2600 \text{ dollars}
+  \]
+
+**Step 2: Calculate the total earnings from his job for the second year.**
+- Thomas earns $9 per hour and works 30 hours a week.
+- Therefore, his weekly earnings are:
+
+  \[
+  9 \text{ dollars/hour} \times 30 \text{ hours/week} = 270 \text{ dollars/week}
+  \]
+
+- For the second year, his total earnings are:
+
+  \[
+  270 \text{ dollars/week} \times 52 \text{ weeks} = 14040 \text{ dollars}
+  \]
+
+**Step 3: Calculate his total savings over the two years.**
+- Combining his allowance from the first year with his earnings from the second year:
+
+  \[
+  2600 \text{ dollars} + 14040 \text{ dollars} = 16640 \text{ dollars}
+  \]
+
+**Step 4: Calculate his personal expenses over the two years.**
+- He spends $35 a week on himself.
+- Over two years (104 weeks), his total expenses are:
+
+  \[
+  35 \text{ dollars/week} \times 104 \text{ weeks} = 3640 \text{ dollars}
+  \]
+
+**Step 5: Calculate his net savings after expenses.**
+- Subtract the total expenses from his total savings:
+
+  \[
+  16640 \text{ dollars} - 3640 \text{ dollars} = 13000 \text{ dollars}
+  \]
+
+**Step 6: Determine how much more money Thomas needs to buy the car.**
+- The car costs $15,000, and Thomas has $13,000:
+
+  \[
+  15000 \text{ dollars} - 13000 \text{ dollars} = 2000 \text{ dollars}
+  \]
+
+Therefore, Thomas needs an additional $2,000 to buy the car.
+</reasoning>
+<answer>2000</answer>

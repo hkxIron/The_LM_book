@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much profit John makes, we need to follow these steps:
+
+1. **Calculate Total Revenue**: This is the total amount of money John makes from selling the woodburning items. He sells 20 woodburning items for $15 each. 
+   - To find the total revenue, we multiply the number of items sold by the price per item. 
+   - So, Total Revenue = Number of items × Price per item = 20 × $15.
+
+   Now let's calculate that:
+   \[
+   20 \times 15 = 300
+   \]
+   Therefore, John's total revenue from selling the woodburning items is $300.
+
+2. **Calculate Total Costs**: This includes all the costs incurred in making the woodburning items. In this case, the wood cost $100.
+   - Since there's no additional information about other costs, we will assume that $100 is the total cost to make the woodburning items.
+
+3. **Calculate Profit**: Profit is calculated by subtracting the total costs from the total revenue.
+   - Profit = Total Revenue - Total Costs = $300 - $100.
+
+   Now let's calculate that:
+   \[
+   300 - 100 = 200
+   \]
+   Therefore, John's profit from selling the woodburning items is $200.
+
+Putting this all together, we find that John makes a profit of $200.
+</reasoning>
+<answer>200</answer>

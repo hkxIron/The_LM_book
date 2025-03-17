@@ -1,0 +1,27 @@
+<reasoning>
+First, let's determine how much of the town's budget is allocated to policing. The total budget is $32 million, and half of it goes towards policing. 
+
+1. Calculate the amount allocated to policing:
+   \[
+   \text{Policing budget} = \frac{1}{2} \times 32 \text{ million} = 16 \text{ million}
+   \]
+   Here, we multiply the total budget by 0.5 (which is the same as dividing by 2) to find the amount for policing.
+
+2. Next, we know that $12 million is allocated to education. Now, let's find the total amount spent on policing and education:
+   \[
+   \text{Total spent on policing and education} = 16 \text{ million} + 12 \text{ million} = 28 \text{ million}
+   \]
+   This step involves simply adding the two amounts we calculated.
+
+3. Now, we will determine how much money is left for managing public spaces by subtracting the total spent on policing and education from the total budget:
+   \[
+   \text{Money left for public spaces} = \text{Total budget} - \text{Total spent on policing and education}
+   \]
+   \[
+   \text{Money left for public spaces} = 32 \text{ million} - 28 \text{ million} = 4 \text{ million}
+   \]
+   This subtraction allows us to find out the remaining funds available for public spaces.
+
+Therefore, the amount of money left for managing public spaces is $4 million.
+</reasoning>
+<answer>4</answer>

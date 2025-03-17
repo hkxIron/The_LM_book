@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we need to first establish the total cost of the shirts and then determine the cost of the remaining shirts.
+
+1. **Identify the total cost and the cost of the known shirts**: We know that the total cost of the 5 shirts is $85. Among these, there are 3 shirts that each cost $15.
+
+2. **Calculate the total cost of the known shirts**: We'll find the total cost contributed by the 3 shirts that cost $15 each. 
+   \[
+   \text{Cost of 3 shirts} = 3 \times 15 = 45
+   \]
+   So, the total cost of these 3 shirts is $45.
+
+3. **Determine the cost of the remaining shirts**: Now we can find the remaining amount of money spent on the other 2 shirts. We do this by subtracting the total cost of the known shirts from the total cost of all the shirts.
+   \[
+   \text{Cost of remaining shirts} = \text{Total cost} - \text{Cost of 3 shirts}
+   \]
+   \[
+   \text{Cost of remaining shirts} = 85 - 45 = 40
+   \]
+   Therefore, the total cost for the remaining 2 shirts is $40.
+
+4. **Calculate the cost of each remaining shirt**: Since there are 2 remaining shirts and they are each equal in value, we divide the total cost of the remaining shirts by the number of shirts.
+   \[
+   \text{Cost of one remaining shirt} = \frac{\text{Cost of remaining shirts}}{2} = \frac{40}{2} = 20
+   \]
+
+Thus, the cost of one of the remaining shirts is $20.
+</reasoning>
+<answer>20</answer>

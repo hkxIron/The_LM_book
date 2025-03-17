@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to calculate the time Roque spends commuting to work each week by walking. 
+
+Roque walks to and from work three times a week, and each round trip takes him two hours to get to work and two hours to get back. 
+
+So, the time spent walking each day is 2 hours (to work) + 2 hours (from work) = 4 hours. 
+
+Since he walks three times a week, we multiply the time spent walking each day by the number of days he walks:
+
+4 hours/day * 3 days/week = 12 hours/week
+
+Next, we calculate the time Roque spends commuting to work each week by biking.
+
+Roque bikes to and from work twice a week, and each round trip takes him one hour to get to work and one hour to get back.
+
+So, the time spent biking each day is 1 hour (to work) + 1 hour (from work) = 2 hours.
+
+Since he bikes twice a week, we multiply the time spent biking each day by the number of days he bikes:
+
+2 hours/day * 2 days/week = 4 hours/week
+
+Finally, to find the total time Roque spends commuting each week, we add the time spent walking and the time spent biking:
+
+12 hours/week (walking) + 4 hours/week (biking) = 16 hours/week
+
+Therefore, Roque spends 16 hours a week commuting to and from work.
+</reasoning>
+<answer>16</answer>

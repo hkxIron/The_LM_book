@@ -1,0 +1,34 @@
+<reasoning>
+To determine how much more money the school band needs to earn to reach their goal of $150, we need to calculate the total amount of money they have already earned and then subtract that from their goal.
+
+**Step 1: Calculate the amount earned from the three families.**
+Each of the three families contributed $10. We can calculate the total from these families as follows:
+
+\[
+\text{Amount from 3 families} = 3 \times 10 = 30
+\]
+
+**Step 2: Calculate the amount earned from the fifteen families.**
+Each of the fifteen families contributed $5. We can calculate the total from these families as follows:
+
+\[
+\text{Amount from 15 families} = 15 \times 5 = 75
+\]
+
+**Step 3: Calculate the total amount earned so far.**
+Now we will add the amounts earned from the two groups of families to find the total amount earned:
+
+\[
+\text{Total amount earned} = \text{Amount from 3 families} + \text{Amount from 15 families} = 30 + 75 = 105
+\]
+
+**Step 4: Calculate how much more money they need to reach their goal.**
+Their goal is $150, and they have currently earned $105. We will subtract the amount they have earned from their goal:
+
+\[
+\text{Amount needed} = \text{Goal} - \text{Total amount earned} = 150 - 105 = 45
+\]
+
+Therefore, the school band needs to earn an additional $45 to reach their goal.
+</reasoning>
+<answer>45</answer>

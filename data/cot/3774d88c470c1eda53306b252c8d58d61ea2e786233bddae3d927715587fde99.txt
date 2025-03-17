@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many miles per gallon Jim gets, we need to first determine how many gallons of gas he used for the trip and then how many miles he drove.
+
+1. **Calculate the total distance driven:** 
+   Jim drives to work and back, which means he drives a total distance of:
+   \[
+   \text{Total distance} = 10 \text{ miles (to work)} + 10 \text{ miles (back home)} = 20 \text{ miles}
+   \]
+
+2. **Determine how much gas is in the tank:** 
+   Jim's gas tank holds 12 gallons in total. He has 2/3 of a tank left after his trip. To find out how much gas is left, we calculate:
+   \[
+   \text{Gas left} = \frac{2}{3} \times 12 \text{ gallons} = 8 \text{ gallons}
+   \]
+   This means he used:
+   \[
+   \text{Gas used} = 12 \text{ gallons} - 8 \text{ gallons} = 4 \text{ gallons}
+   \]
+
+3. **Calculate miles per gallon (MPG):** 
+   Now that we know the total distance driven (20 miles) and the amount of gas used (4 gallons), we can find the miles per gallon by dividing the total distance by the gas used:
+   \[
+   \text{Miles per gallon} = \frac{\text{Total distance}}{\text{Gas used}} = \frac{20 \text{ miles}}{4 \text{ gallons}} = 5 \text{ miles per gallon}
+   \]
+
+Therefore, Jim gets 5 miles per gallon.
+</reasoning>
+<answer>5</answer>

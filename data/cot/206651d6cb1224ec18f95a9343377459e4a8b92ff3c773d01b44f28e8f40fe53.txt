@@ -1,0 +1,40 @@
+<reasoning>
+First, let's determine how many students Mo wants to give a Valentine to. He wants to give cards to 60% of 30 students.
+
+1. **Calculate 60% of 30**: 
+   To find 60%, we multiply 30 by 0.60 (which is the decimal equivalent of 60%).
+   \[
+   30 \times 0.60 = 18
+   \]
+   So, Mo wants to give Valentine cards to 18 students.
+
+2. **Calculate the total cost of the Valentines**:
+   Each Valentine card costs $2. Therefore, we need to calculate the total cost for 18 cards.
+   \[
+   18 \times 2 = 36
+   \]
+   The total cost for the cards is $36.
+
+3. **Determine how much of his money he will spend**:
+   Mo has $40 and he will spend $36 on the cards. 
+
+4. **Calculate the percentage of his money spent**:
+   To find out what percentage of his total money ($40) he will spend ($36), we can use the formula:
+   \[
+   \text{Percentage spent} = \left( \frac{\text{Amount spent}}{\text{Total amount}} \right) \times 100
+   \]
+   Substituting the values:
+   \[
+   \text{Percentage spent} = \left( \frac{36}{40} \right) \times 100
+   \]
+   To calculate this:
+   \[
+   \frac{36}{40} = 0.9
+   \]
+   Now, multiplying by 100:
+   \[
+   0.9 \times 100 = 90
+   \]
+   Therefore, Mo is spending 90% of his money.
+</reasoning>
+<answer>90</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+Let's denote the number of times the terrier barks as \( T \) and the number of times the poodle barks as \( P \).
+
+According to the problem, the poodle barks twice for every one time the terrier barks. This can be expressed as:
+\[
+P = 2T
+\]
+
+Next, we know that the terrier's owner hushes it every second time it barks, which means the owner says “hush” after the terrier barks twice. Therefore, for every 2 barks of the terrier, there is 1 “hush.” Since the owner says “hush” 6 times, we can calculate how many times the terrier barks by multiplying the number of hushing instances by 2:
+\[
+T = 2 \times 6 = 12
+\]
+
+Now that we have \( T \), we can substitute it back into the equation for \( P \):
+\[
+P = 2T = 2 \times 12 = 24
+\]
+
+Thus, the poodle barks 24 times. 
+
+Finally, we summarize our findings:
+- The terrier barked 12 times.
+- The poodle barked \( P = 24 \) times.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>24</answer>

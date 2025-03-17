@@ -1,0 +1,50 @@
+<reasoning>
+Let's start by determining how many cookies each person baked.
+
+1. **Clementine's cookies**: 
+   - We know that Clementine baked 72 cookies.
+
+2. **Jake's cookies**: 
+   - Jake baked twice as many cookies as Clementine. 
+   - So, we calculate Jake's cookies: 
+   \[
+   \text{Jake's cookies} = 2 \times \text{Clementine's cookies} = 2 \times 72 = 144
+   \]
+
+3. **Tory's cookies**: 
+   - Tory baked half as many cookies as Jake and Clementine combined.
+   - First, we need to find the total number of cookies that Clementine and Jake baked together:
+   \[
+   \text{Total cookies by Clementine and Jake} = \text{Clementine's cookies} + \text{Jake's cookies} = 72 + 144 = 216
+   \]
+   - Now, we calculate Tory's cookies:
+   \[
+   \text{Tory's cookies} = \frac{1}{2} \times \text{Total cookies by Clementine and Jake} = \frac{1}{2} \times 216 = 108
+   \]
+
+4. **Total cookies made**: 
+   - Now, we find the total number of cookies made by all three:
+   \[
+   \text{Total cookies} = \text{Clementine's cookies} + \text{Jake's cookies} + \text{Tory's cookies} = 72 + 144 + 108
+   \]
+   - Calculating this gives:
+   \[
+   \text{Total cookies} = 72 + 144 = 216
+   \]
+   \[
+   216 + 108 = 324
+   \]
+
+5. **Calculating total sales**: 
+   - They sell their cookies for $2 each, so we multiply the total number of cookies by the price per cookie:
+   \[
+   \text{Total money made} = \text{Total cookies} \times \text{Price per cookie} = 324 \times 2
+   \]
+   - Performing the multiplication:
+   \[
+   324 \times 2 = 648
+   \]
+
+Therefore, the total money made from selling all the cookies is $648.
+</reasoning>
+<answer>648</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+Let's start by identifying the information given in the problem:
+
+1. The total number of girls in the choir is 80.
+2. Initially, there are 30 blonde-haired girls.
+3. The teacher adds 10 more blonde-haired girls to the choir.
+
+Now, we need to find out how many black-haired girls are present.
+
+**Step 1: Determine the number of black-haired girls initially.**
+
+The total number of girls is 80 and there are initially 30 blonde-haired girls. The number of black-haired girls can be found by subtracting the number of blonde-haired girls from the total number of girls.
+
+Number of black-haired girls = Total girls - Blonde-haired girls
+= 80 - 30
+= 50
+
+**Step 2: Understand the change after adding more girls.**
+
+The teacher adds 10 more blonde-haired girls to the choir. This will change the total number of blonde-haired girls, but not affect the number of black-haired girls.
+
+**Step 3: Calculate the new total number of blonde-haired girls.**
+
+New number of blonde-haired girls = Initial blonde-haired girls + Added blonde-haired girls
+= 30 + 10
+= 40
+
+**Step 4: Find the total number of girls after the addition.**
+
+After adding 10 girls, the total number of girls in the choir will be:
+Total girls = Initial total + Added girls
+= 80 + 10
+= 90
+
+**Step 5: Confirm the number of black-haired girls remains the same.**
+
+The number of black-haired girls does not change with the addition of blonde-haired girls, so it remains at 50.
+
+Therefore, the number of black-haired girls present in the choir is:
+</reasoning>
+<answer>50</answer>

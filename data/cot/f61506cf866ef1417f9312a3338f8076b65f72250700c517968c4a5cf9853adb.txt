@@ -1,0 +1,61 @@
+<reasoning>
+To solve the problem step by step, we will calculate Paul's earnings, deduct taxes and fees, and then determine how much he spends on gummy bears before finding out how much he has left. 
+
+1. **Calculate Paul's total earnings before taxes**: 
+   Paul earns $12.50 per hour and works 40 hours. 
+   \[
+   \text{Total earnings} = \text{Hourly rate} \times \text{Hours worked} = 12.50 \times 40
+   \]
+   Now, calculating that:
+   \[
+   12.50 \times 40 = 500
+   \]
+   So, Paul earns $500 before any deductions.
+
+2. **Calculate the amount deducted for taxes and fees**: 
+   He has to pay 20% in taxes and fees. 
+   \[
+   \text{Taxes and fees} = 0.20 \times \text{Total earnings} = 0.20 \times 500
+   \]
+   Now, calculating that:
+   \[
+   0.20 \times 500 = 100
+   \]
+   So, Paul pays $100 in taxes and fees.
+
+3. **Calculate Paul's earnings after deductions**: 
+   To find out how much he takes home after taxes:
+   \[
+   \text{Take-home pay} = \text{Total earnings} - \text{Taxes and fees} = 500 - 100
+   \]
+   Now, calculating that:
+   \[
+   500 - 100 = 400
+   \]
+   So, Paul takes home $400 after taxes and fees.
+
+4. **Calculate how much Paul spends on gummy bears**: 
+   He spends 15% of his take-home pay on gummy bears.
+   \[
+   \text{Spending on gummy bears} = 0.15 \times \text{Take-home pay} = 0.15 \times 400
+   \]
+   Now, calculating that:
+   \[
+   0.15 \times 400 = 60
+   \]
+   So, Paul spends $60 on gummy bears.
+
+5. **Calculate how much Paul has left after buying gummy bears**: 
+   To find out how much he has left:
+   \[
+   \text{Amount left} = \text{Take-home pay} - \text{Spending on gummy bears} = 400 - 60
+   \]
+   Now, calculating that:
+   \[
+   400 - 60 = 340
+   \]
+   So, Paul has $340 left after spending on gummy bears.
+
+Therefore, the final amount Paul has after all calculations is:
+</reasoning>
+<answer>340</answer>

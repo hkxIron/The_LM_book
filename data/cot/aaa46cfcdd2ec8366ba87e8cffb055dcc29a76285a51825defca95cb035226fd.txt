@@ -1,0 +1,17 @@
+<reasoning>
+To find out how many books Mcgregor and Floyd still have to read, we need to follow these steps:
+
+1. **Determine the total number of books read by both Mcgregor and Floyd.** 
+   - Mcgregor finished 34 books.
+   - Floyd finished 32 books.
+   - So, we add these two amounts together to find the total books read: 
+     \(34 + 32 = 66\).
+
+2. **Subtract the total number of books read from the initial total.**
+   - They started with 89 books.
+   - We subtract the total books read from the initial total: 
+     \(89 - 66 = 23\).
+
+Thus, they still have 23 books left to read.
+</reasoning>
+<answer>23</answer>

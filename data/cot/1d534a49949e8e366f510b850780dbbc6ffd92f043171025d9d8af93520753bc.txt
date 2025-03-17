@@ -1,0 +1,49 @@
+<reasoning>
+Let's break down the costs of the gifts Mr. Grey purchased step by step.
+
+1. **Calculate the cost of the polo shirts:**
+   Mr. Grey bought 3 polo shirts at $26 each. 
+   To find the total cost for the polo shirts, we multiply the number of shirts by the price per shirt:
+   \[
+   \text{Cost of polo shirts} = 3 \times 26 = 78
+   \]
+   So, the total cost for the polo shirts is $78.
+
+2. **Calculate the cost of the necklaces:**
+   He also purchased 2 necklaces at $83 each. 
+   Again, we multiply the number of necklaces by the price per necklace:
+   \[
+   \text{Cost of necklaces} = 2 \times 83 = 166
+   \]
+   Therefore, the total cost for the necklaces is $166.
+
+3. **Calculate the cost of the computer game:**
+   Mr. Grey bought 1 computer game for $90. 
+   The cost for the computer game is simply:
+   \[
+   \text{Cost of computer game} = 90
+   \]
+
+4. **Calculate the total cost of all items before the rebate:**
+   Now we need to add up the costs of all the items:
+   \[
+   \text{Total cost before rebate} = \text{Cost of polo shirts} + \text{Cost of necklaces} + \text{Cost of computer game}
+   \]
+   Substituting in the values we calculated:
+   \[
+   \text{Total cost before rebate} = 78 + 166 + 90 = 334
+   \]
+
+5. **Apply the rebate:**
+   Mr. Grey received a $12 rebate on his total purchase. To find the total cost after the rebate, we subtract the rebate from the total cost before the rebate:
+   \[
+   \text{Total cost after rebate} = \text{Total cost before rebate} - \text{Rebate}
+   \]
+   Substituting in the values:
+   \[
+   \text{Total cost after rebate} = 334 - 12 = 322
+   \]
+
+Thus, the total cost of the gifts after the rebate is $322.
+</reasoning>
+<answer>322</answer>

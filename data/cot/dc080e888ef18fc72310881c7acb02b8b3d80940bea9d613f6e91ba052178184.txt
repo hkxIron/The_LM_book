@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many three-point baskets Yolanda averaged per game, we first need to calculate her total points from free throws and two-point baskets.
+
+1. **Calculate points from free throws:**
+   Yolanda averaged 4 free throws per game. Since each free throw is worth 1 point, the total points from free throws can be calculated as follows:
+   \[
+   \text{Total free throw points} = \text{Free throws per game} \times \text{Number of games} = 4 \times 15 = 60 \text{ points}
+   \]
+
+2. **Calculate points from two-point baskets:**
+   Yolanda also averaged 5 two-point baskets per game. Each two-point basket is worth 2 points, so the total points from two-point baskets is:
+   \[
+   \text{Total two-point basket points} = \text{Two-point baskets per game} \times \text{Points per basket} \times \text{Number of games} = 5 \times 2 \times 15 = 150 \text{ points}
+   \]
+
+3. **Calculate total points from free throws and two-point baskets:**
+   Now we add the points from free throws and two-point baskets together:
+   \[
+   \text{Total points from free throws and two-point baskets} = 60 + 150 = 210 \text{ points}
+   \]
+
+4. **Calculate points from three-point baskets:**
+   Yolanda scored a total of 345 points during the season. To find out how many points came from three-point baskets, we subtract the points from free throws and two-point baskets from the total points:
+   \[
+   \text{Total points from three-point baskets} = \text{Total points} - \text{Total points from free throws and two-point baskets} = 345 - 210 = 135 \text{ points}
+   \]
+
+5. **Calculate the average number of three-point baskets per game:**
+   Each three-point basket is worth 3 points, so to find the average number of three-point baskets per game, we divide the total points from three-point baskets by the value of each basket and then by the number of games:
+   \[
+   \text{Total three-point baskets} = \frac{\text{Total points from three-point baskets}}{\text{Points per three-point basket}} = \frac{135}{3} = 45 \text{ baskets}
+   \]
+   Next, we find the average per game:
+   \[
+   \text{Average three-point baskets per game} = \frac{\text{Total three-point baskets}}{\text{Number of games}} = \frac{45}{15} = 3 \text{ baskets per game}
+   \]
+
+Therefore, Yolanda averaged 3 three-point baskets per game.
+</reasoning>
+<answer>3</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Calculate the total number of people attending the reunion**:
+   - Five dozens of people means there are \(5 \times 12 = 60\) people.
+
+2. **Determine the total number of cans needed**:
+   - If each person consumes 2 cans, the total number of cans required will be \(60 \text{ people} \times 2 \text{ cans/person} = 120 \text{ cans}\).
+
+3. **Calculate how many boxes of soda are needed**:
+   - Each box contains 10 cans. Therefore, the number of boxes needed will be \( \frac{120 \text{ cans}}{10 \text{ cans/box}} = 12 \text{ boxes}\).
+
+4. **Calculate the total cost of the boxes**:
+   - Each box costs $2. Thus, the total cost will be \(12 \text{ boxes} \times \$2/\text{box} = \$24\).
+
+5. **Determine how much each family member will pay**:
+   - There are 6 family members. Therefore, the cost per family member will be \( \frac{\$24}{6 \text{ members}} = \$4\).
+
+After following these steps and performing the necessary calculations, we find that each family member will pay $4.
+</reasoning>
+<answer>4</answer>

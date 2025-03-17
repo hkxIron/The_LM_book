@@ -1,0 +1,52 @@
+<reasoning>
+To find out how much Teagan will pay for buying 5 shirts and 10 leather jackets at the reduced prices, we need to follow these steps:
+
+1. **Calculate the reduced price of the shirt**:
+   - The original price of a shirt is $60.
+   - The price reduction is 20% of $60.
+   - To find 20% of $60, we can calculate:
+     \[
+     0.20 \times 60 = 12
+     \]
+   - Now, subtract the reduction from the original price to find the reduced price:
+     \[
+     60 - 12 = 48
+     \]
+   - So, the reduced price of one shirt is $48.
+
+2. **Calculate the reduced price of the leather jacket**:
+   - The original price of a leather jacket is $90.
+   - The price reduction is 20% of $90.
+   - To find 20% of $90, we can calculate:
+     \[
+     0.20 \times 90 = 18
+     \]
+   - Now, subtract the reduction from the original price to find the reduced price:
+     \[
+     90 - 18 = 72
+     \]
+   - So, the reduced price of one leather jacket is $72.
+
+3. **Calculate the total cost for 5 shirts**:
+   - The reduced price of one shirt is $48.
+   - To find the total cost for 5 shirts, we multiply the reduced price by the number of shirts:
+     \[
+     5 \times 48 = 240
+     \]
+
+4. **Calculate the total cost for 10 leather jackets**:
+   - The reduced price of one leather jacket is $72.
+   - To find the total cost for 10 leather jackets, we multiply the reduced price by the number of jackets:
+     \[
+     10 \times 72 = 720
+     \]
+
+5. **Calculate the total amount Teagan will pay**:
+   - Now, we add the total cost of the shirts and the total cost of the jackets:
+     \[
+     240 + 720 = 960
+     \]
+
+Therefore, the total amount of money Teagan will pay for buying 5 shirts and 10 leather jackets at the reduced prices is $960.
+</reasoning>
+<answer>960</answer>

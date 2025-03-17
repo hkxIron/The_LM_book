@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of cupcakes baked in the morning**: Ivy baked 20 cupcakes in the morning. So we have:
+   \[
+   \text{Cupcakes in the morning} = 20
+   \]
+
+2. **Determine how many cupcakes she baked in the afternoon**: The problem states that Ivy baked 15 more cupcakes in the afternoon than she did in the morning. To find the number of cupcakes she baked in the afternoon, we add 15 to the number of cupcakes she baked in the morning:
+   \[
+   \text{Cupcakes in the afternoon} = 20 + 15
+   \]
+   Performing the addition:
+   \[
+   \text{Cupcakes in the afternoon} = 35
+   \]
+
+3. **Calculate the total number of cupcakes baked**: Now we need to find the total number of cupcakes baked by adding the number of cupcakes from the morning and the number from the afternoon:
+   \[
+   \text{Total cupcakes} = \text{Cupcakes in the morning} + \text{Cupcakes in the afternoon}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total cupcakes} = 20 + 35
+   \]
+   Performing the addition:
+   \[
+   \text{Total cupcakes} = 55
+   \]
+
+Therefore, after going through the steps of identifying the quantities baked in the morning and afternoon and summing them up, we find that Ivy baked a total of 55 cupcakes.
+</reasoning>
+<answer>55</answer>

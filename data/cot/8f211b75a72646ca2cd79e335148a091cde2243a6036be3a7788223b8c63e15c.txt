@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, let's denote the number of participants in each year with variables:
+
+- Let \( P_{2018} = 150 \) (the number of participants in 2018)
+- Let \( P_{2019} \) be the number of participants in 2019
+- Let \( P_{2020} \) be the number of participants in 2020
+
+1. **Determine \( P_{2019} \)**:
+   According to the problem, there were 20 more than twice the number of participants in 2018 in 2019. This can be expressed mathematically as:
+   \[
+   P_{2019} = 2 \times P_{2018} + 20
+   \]
+   Now, substituting the value of \( P_{2018} \):
+   \[
+   P_{2019} = 2 \times 150 + 20 = 300 + 20 = 320
+   \]
+   So, there were 320 participants in 2019.
+
+2. **Determine \( P_{2020} \)**:
+   The problem states that the number of participants in 2020 was 40 less than half the number of participants in 2019. We can express this as:
+   \[
+   P_{2020} = \frac{1}{2} \times P_{2019} - 40
+   \]
+   Substituting the value of \( P_{2019} \):
+   \[
+   P_{2020} = \frac{1}{2} \times 320 - 40 = 160 - 40 = 120
+   \]
+   Thus, there were 120 participants in 2020.
+
+3. **Find the difference between participants in 2019 and 2020**:
+   We are asked to find how many more participants there were in 2019 than in 2020:
+   \[
+   \text{Difference} = P_{2019} - P_{2020} = 320 - 120 = 200
+   \]
+
+Thus, the number of more participants in 2019 than in 2020 is 200.
+</reasoning>
+<answer>200</answer>

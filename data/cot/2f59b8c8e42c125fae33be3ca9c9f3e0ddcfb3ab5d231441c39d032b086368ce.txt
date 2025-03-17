@@ -1,0 +1,31 @@
+<reasoning>
+To find the total number of tennis balls used at the end of the tournament, we will follow these steps:
+
+1. **Calculate the total number of games played in the tournament.** 
+   - In the first round, there are 8 games.
+   - In the second round, there are 4 games.
+   - In the third round, there are 2 games.
+   - In the finals, there is 1 game.
+   
+   So, the total number of games is:
+   \[
+   8 + 4 + 2 + 1 = 15 \text{ games}
+   \]
+
+2. **Determine how many cans of tennis balls are used in total.**
+   - Each game uses, on average, 5 cans of tennis balls.
+   - Therefore, for 15 games, the total number of cans used is:
+   \[
+   15 \text{ games} \times 5 \text{ cans/game} = 75 \text{ cans}
+   \]
+
+3. **Calculate the total number of tennis balls used.**
+   - Each can contains 3 tennis balls.
+   - Therefore, the total number of tennis balls used is:
+   \[
+   75 \text{ cans} \times 3 \text{ balls/can} = 225 \text{ balls}
+   \]
+
+After performing these calculations, we find that the total number of tennis balls used at the end of the tournament is:
+</reasoning>
+<answer>225</answer>

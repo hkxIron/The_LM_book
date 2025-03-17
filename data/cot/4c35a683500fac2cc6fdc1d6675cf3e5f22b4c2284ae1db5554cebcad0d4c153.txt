@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Start with the total number of pencils**: Charley originally bought 30 pencils.
+
+2. **Subtract the pencils lost while moving**: She lost 6 pencils. To find out how many pencils she has after losing these, we perform the subtraction:
+   \[
+   30 - 6 = 24
+   \]
+   So, after losing 6 pencils, Charley has 24 pencils left.
+
+3. **Calculate the fraction of remaining pencils lost**: Now, Charley loses 1/3 of the remaining pencils. We need to find 1/3 of 24 pencils:
+   \[
+   \frac{1}{3} \times 24 = 8
+   \]
+   This means she lost 8 more pencils.
+
+4. **Subtract the lost pencils from the remaining**: Now we will subtract the 8 lost pencils from the 24 pencils she had left:
+   \[
+   24 - 8 = 16
+   \]
+   Therefore, after losing 1/3 of her remaining pencils, Charley has 16 pencils left.
+
+Now, let's summarize the findings. After losing 6 pencils and then losing 1/3 of the remaining, Charley currently has 16 pencils.
+</reasoning>
+<answer>16</answer>

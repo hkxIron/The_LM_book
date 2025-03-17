@@ -1,0 +1,43 @@
+<reasoning>
+Let's define some variables to help us solve the problem step by step.
+
+1. Let \( Z \) be the number of times Zoe babysat Zachary.
+2. Since Zoe babysat Julie three times as often as she babysat Zachary, we can denote the number of times she babysat Julie as \( 3Z \).
+3. According to the problem, the number of times she babysat Zachary is \( \frac{1}{5} \) the number of times she babysat Chloe. We can let \( C \) be the number of times she babysat Chloe. Therefore, we can write:
+   \[
+   Z = \frac{1}{5}C \quad \Rightarrow \quad C = 5Z
+   \]
+
+Now let's find out how much she earned babysitting each of them.
+
+4. We know Zoe made $600 babysitting Zachary. This means she earned $600 for babysitting Zachary \( Z \) times.
+5. Let’s calculate how much she earned per babysitting session for Zachary:
+   \[
+   \text{Earnings per session for Zachary} = \frac{600}{Z}
+   \]
+
+6. Now, let’s calculate how much she earned babysitting Julie and Chloe. Since she babysat Julie \( 3Z \) times, her earnings from babysitting Julie would be:
+   \[
+   \text{Earnings from Julie} = 3Z \times \left(\frac{600}{Z}\right) = 3 \times 600 = 1800
+   \]
+
+7. For Chloe, since she babysat \( 5Z \) times, her earnings from babysitting Chloe would be:
+   \[
+   \text{Earnings from Chloe} = 5Z \times \left(\frac{600}{Z}\right) = 5 \times 600 = 3000
+   \]
+
+Now we sum the earnings from babysitting all three children:
+
+8. The total earnings from babysitting would be:
+   \[
+   \text{Total babysitting earnings} = 600 + 1800 + 3000 = 5400
+   \]
+
+9. Now, we know that Zoe's total earnings from cleaning pools and babysitting is $8000. Therefore, the amount she earned from pool cleaning can be calculated as:
+   \[
+   \text{Earnings from pool cleaning} = 8000 - \text{Total babysitting earnings} = 8000 - 5400 = 2600
+   \]
+
+Finally, let's summarize our findings: Zoe earned $2600 from pool cleaning.
+</reasoning>
+<answer>2600</answer>

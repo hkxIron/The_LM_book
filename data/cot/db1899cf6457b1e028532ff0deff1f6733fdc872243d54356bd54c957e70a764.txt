@@ -1,0 +1,34 @@
+<reasoning>
+To find out how fast Osborn needs to get dressed on Friday so that his weekly average ties his old method of taking 3 minutes on average, we first need to determine the total time he took for the first four days of the week.
+
+1. **Calculate the total time for Monday to Thursday:**
+   - Monday: 2 minutes
+   - Tuesday: 4 minutes
+   - Wednesday: 3 minutes
+   - Thursday: 4 minutes
+
+   We add these times together:
+   \[
+   2 + 4 + 3 + 4 = 13 \text{ minutes}
+   \]
+   So, the total time for the first four days is 13 minutes.
+
+2. **Determine the average time he wants to achieve for the week:**
+   Osborn's old method takes an average of 3 minutes. Since he will be tracking time over 5 days (Monday through Friday), we calculate the total time that corresponds to this average:
+   \[
+   \text{Total desired time} = \text{Average} \times \text{Number of days} = 3 \text{ minutes} \times 5 = 15 \text{ minutes}
+   \]
+
+3. **Calculate the time Osborn needs on Friday:**
+   Let \( x \) be the time (in minutes) that Osborn takes on Friday. To find \( x \), we need the total time for the week to equal 15 minutes:
+   \[
+   13 + x = 15
+   \]
+   We solve for \( x \):
+   \[
+   x = 15 - 13 = 2 \text{ minutes}
+   \]
+
+Thus, Osborn must take 2 minutes to get dressed on Friday in order for his weekly average to be the same as his old method.
+</reasoning>
+<answer>2</answer>

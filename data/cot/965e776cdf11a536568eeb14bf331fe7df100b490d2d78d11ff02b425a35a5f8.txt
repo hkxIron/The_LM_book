@@ -1,0 +1,45 @@
+<reasoning>
+To find out how many pages the first chapter of the book has, we can set up an equation based on the information provided.
+
+1. **Define variables**: Let \( x \) be the number of pages in the first chapter. Then, according to the problem, we can express the number of pages in each subsequent chapter as follows:
+   - First chapter: \( x \)
+   - Second chapter: \( x + 3 \) 
+   - Third chapter: \( x + 6 \) 
+   - Fourth chapter: \( x + 9 \) 
+   - Fifth chapter: \( x + 12 \) 
+
+2. **Set up the equation**: The total number of pages in the book is 95. Therefore, we can sum the pages in all five chapters and set it equal to 95:
+   \[
+   x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 95
+   \]
+
+3. **Simplify the left side of the equation**: Combine like terms:
+   \[
+   x + x + 3 + x + 6 + x + 9 + x + 12 = 5x + (3 + 6 + 9 + 12)
+   \]
+   Calculate the sum of the constants:
+   \[
+   3 + 6 + 9 + 12 = 30
+   \]
+   So the equation simplifies to:
+   \[
+   5x + 30 = 95
+   \]
+
+4. **Solve for \( x \)**: To isolate \( x \), subtract 30 from both sides:
+   \[
+   5x = 95 - 30
+   \]
+   \[
+   5x = 65
+   \]
+   Now, divide both sides by 5:
+   \[
+   x = \frac{65}{5} = 13
+   \]
+
+5. **Conclusion**: The number of pages in the first chapter is \( x = 13 \).
+
+Therefore, we find that the first chapter has 13 pages.
+</reasoning>
+<answer>13</answer>

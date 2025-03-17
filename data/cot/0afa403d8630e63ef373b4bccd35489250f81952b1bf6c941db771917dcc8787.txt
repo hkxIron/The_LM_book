@@ -1,0 +1,22 @@
+<reasoning>
+To find out how much electric energy John consumes per month using the electric fan, we'll follow these steps:
+
+1. **Calculate daily energy consumption in kWh**:
+   - First, we need to convert the power of the fan from watts to kilowatts. Since there are 1000 watts in a kilowatt, we divide the power by 1000:
+     \[
+     \text{Power in kW} = \frac{75 \text{ watts}}{1000} = 0.075 \text{ kW}
+     \]
+   - Next, we calculate the energy consumed in a day by multiplying the power in kW by the number of hours the fan is used per day:
+     \[
+     \text{Daily energy consumption} = \text{Power in kW} \times \text{Hours per day} = 0.075 \text{ kW} \times 8 \text{ hours} = 0.6 \text{ kWh}
+     \]
+
+2. **Calculate monthly energy consumption**:
+   - Now that we know the daily energy consumption, we can find out how much energy is consumed in a month (30 days) by multiplying the daily consumption by 30:
+     \[
+     \text{Monthly energy consumption} = \text{Daily energy consumption} \times 30 = 0.6 \text{ kWh} \times 30 = 18 \text{ kWh}
+     \]
+
+Therefore, after calculating both the daily and monthly energy consumption, we find that John consumes 18 kWh of electric energy per month for using the electric fan.
+</reasoning>
+<answer>18</answer>

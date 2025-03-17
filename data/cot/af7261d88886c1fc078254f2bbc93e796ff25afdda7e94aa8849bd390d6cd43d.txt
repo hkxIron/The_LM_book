@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much each green notebook costs, we will follow these steps:
+
+1. **Identify the total cost of the notebooks**: We know the total cost of all four notebooks is $45.
+
+2. **Identify the costs of the black and pink notebooks**: According to the problem, the black notebook costs $15 and the pink notebook costs $10.
+
+3. **Calculate the total cost of the black and pink notebooks**: We will add the costs of the black and pink notebooks together:
+   \[
+   \text{Cost of black notebook} + \text{Cost of pink notebook} = 15 + 10 = 25
+   \]
+   This means that the total cost of the black and pink notebooks is $25.
+
+4. **Determine the remaining amount for the green notebooks**: Now, we subtract the total cost of the black and pink notebooks from the total cost of all notebooks:
+   \[
+   \text{Total cost} - \text{Cost of black and pink notebooks} = 45 - 25 = 20
+   \]
+   This calculation tells us that the total cost of the two green notebooks combined is $20.
+
+5. **Calculate the cost of each green notebook**: Since there are two green notebooks and they have the same cost, we will divide the total cost of the green notebooks by 2:
+   \[
+   \text{Cost of each green notebook} = \frac{20}{2} = 10
+   \]
+   This means each green notebook costs $10.
+
+Therefore, the cost of each green notebook is $10.
+</reasoning>
+<answer>10</answer>

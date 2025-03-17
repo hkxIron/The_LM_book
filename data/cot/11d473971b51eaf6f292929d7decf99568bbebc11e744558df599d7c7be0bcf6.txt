@@ -1,0 +1,36 @@
+<reasoning>
+To find how deep Sarah's pool is, we can set up an equation based on the information given.
+
+1. **Identify the variables:**
+   Let \( S \) represent the depth of Sarah's pool in feet.
+
+2. **Translate the problem into an equation:**
+   According to the problem, John's pool is 5 feet deeper than 2 times Sarah’s pool. We can express this relationship in the following way:
+   \[
+   J = 2S + 5
+   \]
+   where \( J \) is the depth of John's pool. We know from the problem that John's pool is 15 feet deep, so we can substitute \( J \) with 15:
+   \[
+   15 = 2S + 5
+   \]
+
+3. **Solve for \( S \):**
+   To isolate \( S \), we first need to subtract 5 from both sides of the equation:
+   \[
+   15 - 5 = 2S
+   \]
+   This simplifies to:
+   \[
+   10 = 2S
+   \]
+
+4. **Divide both sides by 2:**
+   Now, we divide both sides by 2 to solve for \( S \):
+   \[
+   S = \frac{10}{2} = 5
+   \]
+
+5. **Conclusion:**
+   Therefore, Sarah’s pool is 5 feet deep.
+</reasoning>
+<answer>5</answer>

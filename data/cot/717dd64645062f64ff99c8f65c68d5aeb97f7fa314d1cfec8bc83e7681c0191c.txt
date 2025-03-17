@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we first need to find out how many fish Tall Tuna has based on the information given about Jerk Tuna.
+
+1. **Identify how many fish Jerk Tuna has.** 
+   We're told that Jerk Tuna has 144 fish. 
+
+2. **Determine how many fish Tall Tuna has.** 
+   The problem states that Tall Tuna has twice as many fish as Jerk Tuna. So we need to calculate:
+   \[
+   \text{Fish Tall Tuna has} = 2 \times \text{Fish Jerk Tuna has} = 2 \times 144
+   \]
+   Performing the multiplication:
+   \[
+   2 \times 144 = 288
+   \]
+   Thus, Tall Tuna has 288 fish.
+
+3. **Calculate the total number of fish they have together.** 
+   Now, we need to add the number of fish that Tall Tuna and Jerk Tuna have:
+   \[
+   \text{Total fish} = \text{Fish Tall Tuna has} + \text{Fish Jerk Tuna has} = 288 + 144
+   \]
+   Performing the addition:
+   \[
+   288 + 144 = 432
+   \]
+
+Therefore, after performing these calculations, we find that together, Tall Tuna and Jerk Tuna have a total of 432 fish.
+</reasoning>
+<answer>432</answer>

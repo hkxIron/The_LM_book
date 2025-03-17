@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many students sat in the cafeteria and outside initially.**
+   There are 90 students in total. Two-thirds of these students sat in the cafeteria. 
+   To find out how many students this is, we calculate:
+   \[
+   \frac{2}{3} \times 90 = 60 \text{ students in the cafeteria}
+   \]
+   The remainder, which sat outside, is:
+   \[
+   90 - 60 = 30 \text{ students outside}
+   \]
+
+2. **Calculate how many students from outside moved to the cafeteria.**
+   One-third of the students outside jumped up and ran inside. We calculate:
+   \[
+   \frac{1}{3} \times 30 = 10 \text{ students moved to the cafeteria}
+   \]
+
+3. **Calculate how many students from the cafeteria went outside.**
+   It is given that 3 students from the cafeteria went outside to see what was happening. 
+
+4. **Now let's calculate the new number of students in the cafeteria.**
+   Initially, there were 60 students in the cafeteria. After 10 students moved in from outside, the number becomes:
+   \[
+   60 + 10 = 70
+   \]
+   Then, when 3 students left the cafeteria to go outside, the count in the cafeteria changes to:
+   \[
+   70 - 3 = 67
+   \]
+
+Therefore, the total number of students now in the cafeteria is 67.
+</reasoning>
+<answer>67</answer>

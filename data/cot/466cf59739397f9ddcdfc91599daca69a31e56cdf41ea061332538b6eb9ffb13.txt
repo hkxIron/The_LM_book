@@ -1,0 +1,42 @@
+<reasoning>
+To find the total cost of Harry's pizza order, we'll break it down step by step.
+
+1. **Cost of the large pizzas**: 
+   Harry orders 2 large pizzas, and each large pizza costs $14. 
+   To find the total cost for the pizzas, we multiply the number of pizzas by the cost per pizza:
+   \[
+   \text{Total cost of pizzas} = 2 \times 14 = 28
+   \]
+
+2. **Cost of the toppings**: 
+   Each pizza has 3 toppings, and each topping costs $2. 
+   First, we calculate the cost of toppings for one pizza:
+   \[
+   \text{Cost of toppings per pizza} = 3 \times 2 = 6
+   \]
+   Since there are 2 pizzas, we multiply the cost of toppings per pizza by the number of pizzas:
+   \[
+   \text{Total cost of toppings} = 2 \times 6 = 12
+   \]
+
+3. **Total cost before tip**: 
+   Now we add the total cost of the pizzas and the total cost of toppings to find the total cost before the tip:
+   \[
+   \text{Total cost before tip} = 28 + 12 = 40
+   \]
+
+4. **Calculating the tip**: 
+   Harry adds a 25% tip to the total cost. To find the tip amount, we calculate 25% of the total cost before tip:
+   \[
+   \text{Tip} = 0.25 \times 40 = 10
+   \]
+
+5. **Final total cost**: 
+   Finally, we add the tip to the total cost before tip to get the final total cost:
+   \[
+   \text{Final total cost} = 40 + 10 = 50
+   \]
+
+Therefore, after calculating all the components, the total cost of Harry's pizza order, including the tip, is:
+</reasoning>
+<answer>50</answer>

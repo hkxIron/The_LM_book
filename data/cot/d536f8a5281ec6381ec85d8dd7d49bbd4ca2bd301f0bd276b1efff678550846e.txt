@@ -1,0 +1,27 @@
+<reasoning>
+Let's break this down step by step.
+
+1. **Identifying the number of popsicle sticks Steve has**: 
+   - We know from the problem that Steve has 12 popsicle sticks.
+
+2. **Finding the number of popsicle sticks Sid has**: 
+   - The problem states that Sid has twice as many popsicle sticks as Steve. 
+   - Therefore, we can calculate the number of popsicle sticks Sid has by multiplying the number of sticks Steve has by 2.
+   - So, Sid's sticks = 2 * Steve's sticks = 2 * 12 = 24.
+
+3. **Finding the number of popsicle sticks Sam has**:
+   - The problem states that Sam has thrice as many popsicle sticks as Sid. 
+   - Therefore, we can calculate the number of popsicle sticks Sam has by multiplying the number of sticks Sid has by 3.
+   - So, Sam's sticks = 3 * Sid's sticks = 3 * 24 = 72.
+
+4. **Calculating the total number of popsicle sticks**:
+   - Now, we need to find the total number of popsicle sticks that Sam, Sid, and Steve have together.
+   - Total popsicle sticks = Sam's sticks + Sid's sticks + Steve's sticks = 72 + 24 + 12.
+
+5. **Performing the final addition**:
+   - Adding these values together: 
+   - 72 + 24 = 96, and then 96 + 12 = 108.
+
+Therefore, after adding all the popsicle sticks together, we find the total number they can use for their Art class activity.
+</reasoning>
+<answer>108</answer>

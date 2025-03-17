@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many pieces of clothing Eliza ironed, we will first determine how many blouses and dresses she can iron in the given time.
+
+1. **Calculate the number of blouses ironed:**
+   - Eliza spends 2 hours ironing blouses. 
+   - We need to convert 2 hours into minutes since the ironing times for each piece of clothing are given in minutes:
+     \[
+     2 \text{ hours} = 2 \times 60 = 120 \text{ minutes}
+     \]
+   - Now, we divide the total time spent ironing blouses by the time it takes to iron one blouse:
+     \[
+     \text{Number of blouses} = \frac{120 \text{ minutes}}{15 \text{ minutes per blouse}} = 8
+     \]
+   - This means Eliza ironed 8 blouses.
+
+2. **Calculate the number of dresses ironed:**
+   - Eliza spends 3 hours ironing dresses.
+   - Again, we convert 3 hours into minutes:
+     \[
+     3 \text{ hours} = 3 \times 60 = 180 \text{ minutes}
+     \]
+   - Now, we divide the total time spent ironing dresses by the time it takes to iron one dress:
+     \[
+     \text{Number of dresses} = \frac{180 \text{ minutes}}{20 \text{ minutes per dress}} = 9
+     \]
+   - This means Eliza ironed 9 dresses.
+
+3. **Calculate the total number of pieces of clothing ironed:**
+   - Now we add the number of blouses and dresses together:
+     \[
+     \text{Total pieces of clothing} = \text{Number of blouses} + \text{Number of dresses} = 8 + 9 = 17
+     \]
+
+Therefore, Eliza ironed a total of 17 pieces of clothing.
+</reasoning>
+<answer>17</answer>

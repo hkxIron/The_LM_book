@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much Wayne will spend on shrimp cocktail for his guests, we will go through the problem step by step.
+
+1. **Calculate the total number of shrimp needed:**
+   Wayne plans to serve 5 shrimp per guest and has 40 guests. This means we need to calculate:
+   \[
+   \text{Total shrimp} = \text{Shrimp per guest} \times \text{Number of guests} = 5 \times 40
+   \]
+   Performing the multiplication:
+   \[
+   \text{Total shrimp} = 200
+   \]
+   Therefore, Wayne needs 200 shrimp for his guests.
+
+2. **Calculate how many pounds of shrimp are needed:**
+   We know that each pound of shrimp contains 20 shrimp. To find out how many pounds are needed for 200 shrimp, we divide the total number of shrimp by the number of shrimp per pound:
+   \[
+   \text{Pounds of shrimp} = \frac{\text{Total shrimp}}{\text{Shrimp per pound}} = \frac{200}{20}
+   \]
+   Performing the division:
+   \[
+   \text{Pounds of shrimp} = 10
+   \]
+   So, Wayne needs 10 pounds of shrimp.
+
+3. **Calculate the total cost for the shrimp:**
+   The cost per pound of shrimp is $17.00. To find the total cost for 10 pounds, we multiply the number of pounds by the cost per pound:
+   \[
+   \text{Total cost} = \text{Pounds of shrimp} \times \text{Cost per pound} = 10 \times 17
+   \]
+   Performing the multiplication:
+   \[
+   \text{Total cost} = 170
+   \]
+   Thus, Wayne will spend $170 on the shrimp appetizer.
+
+Therefore, the final amount Wayne will spend on the appetizer is:
+</reasoning>
+<answer>170</answer>

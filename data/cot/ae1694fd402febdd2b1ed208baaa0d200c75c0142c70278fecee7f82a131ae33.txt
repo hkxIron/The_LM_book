@@ -1,0 +1,76 @@
+<reasoning>
+To calculate the total amount of money the store paid for the stationery, we will first determine the number of pencils and then use that to find the number of pens ordered. Finally, we will calculate the total cost for both items.
+
+**Step 1: Calculate the total number of pencils ordered.**
+
+The store ordered 15 boxes, with each box containing 80 pencils. Thus, we calculate the total number of pencils as follows:
+
+\[
+\text{Total pencils} = \text{Number of boxes} \times \text{Pencils per box} = 15 \times 80
+\]
+
+Calculating this, we get:
+
+\[
+\text{Total pencils} = 1200
+\]
+
+**Step 2: Determine the number of pens ordered.**
+
+According to the problem, the store ordered 300 more than twice the number of pencils in pens. We can express the number of pens \( p \) in terms of the number of pencils \( c \):
+
+\[
+p = 2c + 300
+\]
+
+Substituting \( c = 1200 \):
+
+\[
+p = 2 \times 1200 + 300 = 2400 + 300 = 2700
+\]
+
+**Step 3: Calculate the total cost for pencils.**
+
+Each pencil costs $4, so the total cost for the pencils is:
+
+\[
+\text{Total cost for pencils} = \text{Total pencils} \times \text{Cost per pencil} = 1200 \times 4
+\]
+
+Calculating this gives:
+
+\[
+\text{Total cost for pencils} = 4800
+\]
+
+**Step 4: Calculate the total cost for pens.**
+
+Each pen costs $5, so the total cost for the pens is:
+
+\[
+\text{Total cost for pens} = \text{Total pens} \times \text{Cost per pen} = 2700 \times 5
+\]
+
+Calculating this gives:
+
+\[
+\text{Total cost for pens} = 13500
+\]
+
+**Step 5: Calculate the total amount of money paid for both items.**
+
+Now, we add the total costs for pencils and pens:
+
+\[
+\text{Total cost} = \text{Total cost for pencils} + \text{Total cost for pens} = 4800 + 13500
+\]
+
+Calculating this gives:
+
+\[
+\text{Total cost} = 18300
+\]
+
+Thus, the total amount of money the store paid for the stationery is:
+</reasoning>
+<answer>18300</answer>

@@ -1,0 +1,52 @@
+<reasoning>
+Let's denote the number of games Neil had at first as \( N \).
+
+Initially, Henry had 33 games. After giving 5 games to Neil, the number of games Henry has is:
+
+\[
+33 - 5 = 28
+\]
+
+At this point, Neil receives 5 games, so the number of games Neil has becomes:
+
+\[
+N + 5
+\]
+
+According to the problem, after this transaction, Henry has 4 times more games than Neil. We can express this relationship mathematically:
+
+\[
+28 = 4(N + 5)
+\]
+
+Now, let's solve for \( N \).
+
+First, we will distribute the 4 on the right side of the equation:
+
+\[
+28 = 4N + 20
+\]
+
+Next, we will isolate \( 4N \) by subtracting 20 from both sides:
+
+\[
+28 - 20 = 4N
+\]
+
+This simplifies to:
+
+\[
+8 = 4N
+\]
+
+Now, we will divide both sides by 4 to solve for \( N \):
+
+\[
+N = \frac{8}{4} = 2
+\]
+
+So, Neil originally had 2 games.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to determine the weight of the smallest frog based on the information given about the largest frog.
+
+1. We know that the largest frog weighs 120 pounds.
+2. The problem states that the largest frog can weigh 10 times as much as the smallest frog. This means we can represent the weight of the smallest frog as \( x \). Thus, we can express the weight of the largest frog as:
+   \[
+   10 \times x = 120 \text{ pounds}
+   \]
+3. Now, we need to solve for \( x \) by dividing both sides of the equation by 10:
+   \[
+   x = \frac{120}{10} = 12 \text{ pounds}
+   \]
+4. Now that we know the smallest frog weighs 12 pounds, we can find out how much more the largest frog weighs than the smallest frog. We can calculate this by subtracting the weight of the smallest frog from the weight of the largest frog:
+   \[
+   \text{Difference} = 120 \text{ pounds} - 12 \text{ pounds} = 108 \text{ pounds}
+   \]
+
+Therefore, the largest frog weighs 108 pounds more than the smallest frog.
+</reasoning>
+<answer>108</answer>

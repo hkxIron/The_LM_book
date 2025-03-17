@@ -1,0 +1,47 @@
+<reasoning>
+To find the total combined number of thumbtacks from the three full cans, we can follow these steps:
+
+1. **Determine how many thumbtacks were used**: Lorenzo tested 120 boards and placed one thumbtack from each of the three cans into each board. This means he used 3 thumbtacks per board (one from each can). 
+   \[
+   \text{Thumbtacks used} = 120 \text{ boards} \times 3 \text{ thumbtacks/board} = 360 \text{ thumbtacks}
+   \]
+
+2. **Determine how many thumbtacks were initially in each can**: After testing, Lorenzo had 30 thumbtacks remaining in each can. Since there are 3 cans, we can find out how many thumbtacks were in each can before testing:
+   \[
+   \text{Remaining thumbtacks in each can} = 30
+   \]
+
+   Let \( x \) be the number of thumbtacks in each can initially. The number of thumbtacks used from each can is:
+   \[
+   \text{Thumbtacks used from each can} = x - 30
+   \]
+
+   Since Lorenzo used a total of 360 thumbtacks from all three cans, the equation becomes:
+   \[
+   3(x - 30) = 360
+   \]
+
+3. **Solve for \( x \)**:
+   \[
+   3(x - 30) = 360
+   \]
+   Dividing both sides by 3:
+   \[
+   x - 30 = 120
+   \]
+   Adding 30 to both sides:
+   \[
+   x = 150
+   \]
+
+   This means there were originally 150 thumbtacks in each can.
+
+4. **Calculate the total number of thumbtacks in all three cans**:
+   Since there are 3 cans, the total number of thumbtacks is:
+   \[
+   \text{Total thumbtacks} = 3 \times 150 = 450
+   \]
+
+Therefore, the total combined number of thumbtacks from the three full cans is:
+</reasoning>
+<answer>450</answer>

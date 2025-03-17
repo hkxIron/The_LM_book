@@ -1,0 +1,55 @@
+<reasoning>
+To solve the problem, we will break it down into steps, calculating the total cost of the chairs after applying the discounts.
+
+1. **Calculate the normal price of 8 chairs:**
+   The normal price of one chair is $20. Therefore, the cost for 8 chairs without any discounts is:
+   \[
+   \text{Normal price} = 8 \text{ chairs} \times 20 \text{ dollars/chair} = 160 \text{ dollars}
+   \]
+
+2. **Apply the first discount of 25%:**
+   A 25% discount means that the customer pays 75% of the original price. To find the discounted price:
+   \[
+   \text{Discounted price} = 160 \text{ dollars} \times (1 - 0.25) = 160 \text{ dollars} \times 0.75 = 120 \text{ dollars}
+   \]
+   So, after the first discount, the total cost is $120.
+
+3. **Determine the number of chairs eligible for the additional discount:**
+   Since the customer bought 8 chairs and the additional discount applies only to the chairs over 5, we need to calculate how many chairs that is:
+   \[
+   \text{Chairs over 5} = 8 - 5 = 3 \text{ chairs}
+   \]
+
+4. **Calculate the additional discount for the 3 chairs:**
+   The additional discount is 1/3 off the discounted price of these 3 chairs. First, we need to find the price of these chairs at the discounted price.
+   \[
+   \text{Price of 3 chairs at discounted price} = 3 \text{ chairs} \times \left(\frac{120 \text{ dollars}}{8}\right) = 3 \text{ chairs} \times 15 \text{ dollars/chair} = 45 \text{ dollars}
+   \]
+   Now we calculate the additional discount:
+   \[
+   \text{Additional discount} = \frac{1}{3} \times 45 \text{ dollars} = 15 \text{ dollars}
+   \]
+
+5. **Subtract the additional discount from the discounted price of the chairs over 5:**
+   The price for the 3 additional chairs after the discount:
+   \[
+   \text{Price for 3 chairs after additional discount} = 45 \text{ dollars} - 15 \text{ dollars} = 30 \text{ dollars}
+   \]
+
+6. **Calculate the final total cost:**
+   The final total cost is the price of the first 5 chairs at the discounted price plus the price of the 3 additional chairs after the additional discount:
+   \[
+   \text{Final total cost} = \text{Price for 5 chairs} + \text{Price for 3 chairs after additional discount}
+   \]
+   The price for the first 5 chairs at the discounted price is:
+   \[
+   \text{Price for 5 chairs} = 5 \text{ chairs} \times 15 \text{ dollars/chair} = 75 \text{ dollars}
+   \]
+   Thus, the final total cost is:
+   \[
+   \text{Final total cost} = 75 \text{ dollars} + 30 \text{ dollars} = 105 \text{ dollars}
+   \]
+
+Therefore, the total cost for the 8 chairs is:
+</reasoning>
+<answer>105</answer>

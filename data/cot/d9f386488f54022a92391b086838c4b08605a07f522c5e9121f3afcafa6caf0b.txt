@@ -1,0 +1,38 @@
+<reasoning>
+To find out how long it takes Jake to row around the square lake, we need to follow these steps:
+
+1. **Calculate the perimeter of the square lake.**
+   The lake is square with each side measuring 15 miles. The formula to calculate the perimeter \( P \) of a square is:
+   \[
+   P = 4 \times \text{side length}
+   \]
+   Plugging in the side length:
+   \[
+   P = 4 \times 15 = 60 \text{ miles}
+   \]
+
+2. **Determine Jake's swimming speed.**
+   We know it takes Jake 20 minutes to swim 1 mile. To convert this into a speed, we calculate his speed in miles per hour:
+   \[
+   \text{Swimming speed} = \frac{1 \text{ mile}}{20 \text{ minutes}} = \frac{1 \text{ mile}}{\frac{20}{60} \text{ hours}} = \frac{1 \text{ mile}}{\frac{1}{3} \text{ hours}} = 3 \text{ miles per hour}
+   \]
+
+3. **Calculate Jake's rowing speed.**
+   It is given that Jake can row at twice the speed he can swim. Therefore, his rowing speed is:
+   \[
+   \text{Rowing speed} = 2 \times \text{Swimming speed} = 2 \times 3 = 6 \text{ miles per hour}
+   \]
+
+4. **Calculate the time it takes to row around the lake.**
+   Now that we know the perimeter of the lake is 60 miles and Jake's rowing speed is 6 miles per hour, we can find out how long it takes to row around the lake using the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Time} = \frac{60 \text{ miles}}{6 \text{ miles per hour}} = 10 \text{ hours}
+   \]
+
+Thus, after calculating everything step by step, we find that it takes Jake 10 hours to row around the lake.
+</reasoning>
+<answer>10</answer>

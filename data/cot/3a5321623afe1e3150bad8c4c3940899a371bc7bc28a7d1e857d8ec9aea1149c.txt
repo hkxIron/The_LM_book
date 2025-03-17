@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many light bulbs are working, we can break the problem down into several steps.
+
+1. **Calculate the total number of light bulbs**: 
+   Reyna has 20 lamps, and each lamp has 7 light bulbs. 
+   We multiply the number of lamps by the number of light bulbs per lamp:
+   \[
+   \text{Total light bulbs} = 20 \text{ lamps} \times 7 \text{ bulbs/lamp} = 140 \text{ light bulbs}
+   \]
+   This tells us that Reyna has a total of 140 light bulbs across all her lamps.
+
+2. **Determine how many lamps have burnt-out bulbs**:
+   We know that 1/4 of the lamps have 2 burnt-out light bulbs each. 
+   First, we need to calculate how many lamps that is:
+   \[
+   \text{Lamps with burnt-out bulbs} = \frac{1}{4} \times 20 \text{ lamps} = 5 \text{ lamps}
+   \]
+   This means 5 lamps have burnt-out bulbs.
+
+3. **Calculate the total number of burnt-out light bulbs**:
+   Each of the 5 lamps with burnt-out bulbs has 2 burnt-out light bulbs. 
+   We multiply the number of lamps with burnt-out bulbs by the number of burnt-out bulbs per lamp:
+   \[
+   \text{Total burnt-out bulbs} = 5 \text{ lamps} \times 2 \text{ bulbs/lamp} = 10 \text{ burnt-out bulbs}
+   \]
+
+4. **Calculate the number of working light bulbs**:
+   To find out how many light bulbs are working, we subtract the total number of burnt-out bulbs from the total number of light bulbs:
+   \[
+   \text{Working light bulbs} = \text{Total light bulbs} - \text{Total burnt-out bulbs} = 140 - 10 = 130
+   \]
+
+Therefore, the number of working light bulbs is 130.
+</reasoning>
+<answer>130</answer>

@@ -1,0 +1,55 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine how many pieces each son receives.** 
+   Since Mrs. Young buys a 300 piece puzzle set and divides it evenly among her three sons, we need to divide 300 by 3 to find out how many pieces each boy gets.
+
+   \[
+   \text{Pieces per boy} = \frac{300}{3} = 100
+   \]
+
+   Each son receives 100 pieces.
+
+2. **Calculate how many pieces each son places into the puzzle.**
+   - Reyn places 25 pieces.
+   - Rhys places twice as much as Reyn. Therefore, we calculate how many pieces Rhys places:
+
+   \[
+   \text{Rhys' pieces} = 2 \times 25 = 50
+   \]
+
+   - Rory places three times as much as Reyn. Therefore, we calculate how many pieces Rory places:
+
+   \[
+   \text{Rory's pieces} = 3 \times 25 = 75
+   \]
+
+3. **Add up all the pieces placed by the sons.** 
+   Now, we find the total number of pieces placed by Reyn, Rhys, and Rory:
+
+   \[
+   \text{Total pieces placed} = \text{Reyn's pieces} + \text{Rhys' pieces} + \text{Rory's pieces}
+   \]
+
+   Plugging in the values:
+
+   \[
+   \text{Total pieces placed} = 25 + 50 + 75 = 150
+   \]
+
+4. **Calculate how many pieces are left to be placed.** 
+   To find the number of pieces still left to be placed, we subtract the total number of pieces placed from the total number of pieces in the puzzle set:
+
+   \[
+   \text{Pieces remaining} = \text{Total pieces} - \text{Total pieces placed}
+   \]
+
+   Plugging in the values:
+
+   \[
+   \text{Pieces remaining} = 300 - 150 = 150
+   \]
+
+Thus, the total number of puzzle pieces still left to be placed is 150.
+</reasoning>
+<answer>150</answer>

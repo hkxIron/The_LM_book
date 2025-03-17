@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many dollars' worth of gift cards Jack can still return, we first need to calculate the total value of the gift cards he initially had and then subtract the value of the gift cards he has already sent the codes for.
+
+1. **Calculate the total value of the Best Buy gift cards:**
+   - Jack has 6 Best Buy gift cards, each worth $500.
+   - Total value from Best Buy gift cards = Number of gift cards × Value per gift card = 6 × 500 = $3000.
+
+2. **Calculate the total value of the Walmart gift cards:**
+   - Jack has 9 Walmart gift cards, each worth $200.
+   - Total value from Walmart gift cards = Number of gift cards × Value per gift card = 9 × 200 = $1800.
+
+3. **Calculate the total initial value of all gift cards:**
+   - Total initial value = Total value from Best Buy gift cards + Total value from Walmart gift cards = 3000 + 1800 = $4800.
+
+4. **Calculate the value of gift cards Jack has already sent codes for:**
+   - Jack sent the codes for 1 Best Buy gift card: Value = 1 × 500 = $500.
+   - Jack sent the codes for 2 Walmart gift cards: Value = 2 × 200 = $400.
+   - Total value sent = $500 + $400 = $900.
+
+5. **Calculate the remaining value of gift cards Jack can return:**
+   - Remaining value = Total initial value - Total value sent = 4800 - 900 = $3900.
+
+Therefore, Jack can still return gift cards worth $3900.
+</reasoning>
+<answer>3900</answer>

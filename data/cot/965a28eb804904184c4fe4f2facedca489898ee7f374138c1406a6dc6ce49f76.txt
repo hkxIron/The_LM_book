@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we'll first determine how many times Helen washes her pillowcases in one year and then calculate the total time she spends on this task.
+
+1. **Determine the number of weeks in a year:**
+   A year typically has 52 weeks.
+
+2. **Find out how many times she washes the pillowcases in a year:**
+   Since Helen washes her pillowcases every 4 weeks, we need to divide the total number of weeks in a year by the number of weeks between washes:
+   \[
+   \text{Number of washes} = \frac{52 \text{ weeks}}{4 \text{ weeks/wash}} = 13 \text{ washes}
+   \]
+
+3. **Calculate the total time spent washing in a year:**
+   Each time she washes her pillowcases, it takes her 30 minutes. Therefore, to find the total time spent in one year, we multiply the number of washes by the time spent on each wash:
+   \[
+   \text{Total time} = 13 \text{ washes} \times 30 \text{ minutes/wash} = 390 \text{ minutes}
+   \]
+
+4. **Final step - ensure clarity:**
+   Helen spends a total of 390 minutes hand washing her pillowcases in one year.
+
+Thus, after following these calculations step by step, we conclude:
+</reasoning>
+<answer>390</answer>

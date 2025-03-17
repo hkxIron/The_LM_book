@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many books the bookseller sold in March, we first need to understand the concept of an average. The average number of books sold per month is calculated by dividing the total number of books sold by the number of months.
+
+1. **Calculate the total number of books sold in January and February.**
+   - In January, the bookseller sold 15 books.
+   - In February, he sold 16 books.
+   - So, the total number of books sold in January and February is:
+     \[
+     15 + 16 = 31 \text{ books}
+     \]
+
+2. **Set up the equation for the average.**
+   - Let \( x \) be the number of books sold in March.
+   - The total number of books sold over the three months is then:
+     \[
+     31 + x
+     \]
+   - The average number of books sold per month over the three months is given as 16. Since there are 3 months, we can write the equation for average as:
+     \[
+     \frac{31 + x}{3} = 16
+     \]
+
+3. **Solve the equation for \( x \).**
+   - To eliminate the fraction, multiply both sides of the equation by 3:
+     \[
+     31 + x = 48
+     \]
+   - Next, isolate \( x \) by subtracting 31 from both sides:
+     \[
+     x = 48 - 31
+     \]
+   - Therefore, we find:
+     \[
+     x = 17
+     \]
+
+This means the bookseller sold 17 books in March.
+</reasoning>
+<answer>17</answer>

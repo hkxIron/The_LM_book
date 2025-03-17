@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to calculate the total distance Jennifer will travel when she visits both museums.
+
+1. **Identify the distances**: 
+   - The first museum is 5 miles away from her home.
+   - The second museum is 15 miles away from her home.
+
+2. **Calculate the distance for each trip**:
+   - When Jennifer goes to the first museum, she will travel 5 miles to get there, and then she will need to travel the same distance back home. So, for the first museum, the total distance is:
+     \[
+     5 \text{ miles (to the museum)} + 5 \text{ miles (back home)} = 10 \text{ miles}
+     \]
+
+   - Next, for the second museum, she will travel 15 miles to get there, and then travel the same distance back home. So, for the second museum, the total distance is:
+     \[
+     15 \text{ miles (to the museum)} + 15 \text{ miles (back home)} = 30 \text{ miles}
+     \]
+
+3. **Add the total distances for both trips**:
+   - Now, we will add the total distances from both trips:
+     \[
+     10 \text{ miles (first museum)} + 30 \text{ miles (second museum)} = 40 \text{ miles}
+     \]
+
+Therefore, the total distance Jennifer will travel when visiting both museums is 40 miles.
+</reasoning>
+<answer>40</answer>

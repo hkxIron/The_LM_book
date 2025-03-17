@@ -1,0 +1,31 @@
+<reasoning>
+First, let's identify the total number of hours Bryan works each day. According to the problem, Bryan works for 8 hours a day.
+
+Next, we know that he spends 4 hours on customer outreach posts each day. This is one part of his total workday.
+
+Now, let's determine how much time he spends on advertisement posts. The problem states that he spends half the time on advertisement posts compared to customer outreach posts. Since he spends 4 hours on customer outreach posts, we calculate the time spent on advertisement posts as follows:
+
+\[
+\text{Time on advertisement posts} = \frac{4 \text{ hours}}{2} = 2 \text{ hours}
+\]
+
+Now, we have the time spent on both customer outreach and advertisement posts:
+
+- Customer outreach posts: 4 hours
+- Advertisement posts: 2 hours
+
+Next, we can calculate the total time Bryan spends on these two types of posts:
+
+\[
+\text{Total time on outreach and advertisement posts} = 4 \text{ hours} + 2 \text{ hours} = 6 \text{ hours}
+\]
+
+Since Bryan works a total of 8 hours a day, we can now find out how much time he spends on marketing posts by subtracting the total time spent on outreach and advertisement posts from his total work hours:
+
+\[
+\text{Time on marketing posts} = 8 \text{ hours} - 6 \text{ hours} = 2 \text{ hours}
+\]
+
+Therefore, Bryan spends 2 hours each day on marketing posts.
+</reasoning>
+<answer>2</answer>

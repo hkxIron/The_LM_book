@@ -1,0 +1,48 @@
+<reasoning>
+To determine how many short-answer questions Karen should assign, we first need to calculate the total time required for the essays and paragraphs she plans to assign.
+
+1. **Calculate the time for essays**: 
+   - Each essay takes 1 hour (or 60 minutes).
+   - Karen is assigning 2 essays. 
+   - The total time for essays is:
+     \[
+     2 \text{ essays} \times 60 \text{ minutes/essay} = 120 \text{ minutes}
+     \]
+
+2. **Calculate the time for paragraphs**:
+   - Each paragraph takes 15 minutes to write.
+   - Karen is assigning 5 paragraphs. 
+   - The total time for paragraphs is:
+     \[
+     5 \text{ paragraphs} \times 15 \text{ minutes/paragraph} = 75 \text{ minutes}
+     \]
+
+3. **Total time for essays and paragraphs**:
+   - Now we add the total time for essays and paragraphs:
+     \[
+     120 \text{ minutes} + 75 \text{ minutes} = 195 \text{ minutes}
+     \]
+
+4. **Convert total homework time into minutes**:
+   - Karen wants to assign a total of 4 hours of homework. 
+   - Convert 4 hours into minutes:
+     \[
+     4 \text{ hours} \times 60 \text{ minutes/hour} = 240 \text{ minutes}
+     \]
+
+5. **Calculate remaining time for short-answer questions**:
+   - To find out how much time is left for short-answer questions, we subtract the total time spent on essays and paragraphs from the total homework time:
+     \[
+     240 \text{ minutes} - 195 \text{ minutes} = 45 \text{ minutes}
+     \]
+
+6. **Determine how many short-answer questions can be assigned**:
+   - Each short-answer question takes 3 minutes.
+   - To find out how many short-answer questions can be assigned in the remaining 45 minutes, we divide the remaining time by the time for each question:
+     \[
+     \frac{45 \text{ minutes}}{3 \text{ minutes/question}} = 15 \text{ questions}
+     \]
+
+Therefore, Karen should assign 15 short-answer questions.
+</reasoning>
+<answer>15</answer>

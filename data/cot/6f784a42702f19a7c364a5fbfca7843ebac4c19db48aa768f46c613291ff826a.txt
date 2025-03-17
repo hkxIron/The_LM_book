@@ -1,0 +1,37 @@
+<reasoning>
+To find the total number of beanie babies that Lori and Sydney have, we can follow these steps:
+
+1. **Determine how many beanie babies Lori has.**  
+   The problem states that Lori has 300 beanie babies. This is already given to us.
+
+2. **Calculate how many beanie babies Sydney has.**  
+   The problem also states that Lori owns 15 times as many beanie babies as Sydney. If we let \( S \) represent the number of beanie babies Sydney has, we can set up the equation:
+   \[
+   300 = 15S
+   \]
+   We need to solve for \( S \).
+
+3. **Solve for \( S \).**  
+   To isolate \( S \), we divide both sides of the equation by 15:
+   \[
+   S = \frac{300}{15}
+   \]
+   Performing the division:
+   \[
+   S = 20
+   \]
+   This means Sydney has 20 beanie babies.
+
+4. **Calculate the total number of beanie babies.**  
+   Now we can find the total number of beanie babies by adding the number of beanie babies Lori has to the number of beanie babies Sydney has:
+   \[
+   \text{Total} = \text{Lori's beanie babies} + \text{Sydney's beanie babies} = 300 + 20
+   \]
+   Performing the addition:
+   \[
+   \text{Total} = 320
+   \]
+
+Therefore, after calculating, we find that the total number of beanie babies that Lori and Sydney have together is:
+</reasoning>
+<answer>320</answer>

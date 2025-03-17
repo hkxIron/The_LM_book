@@ -1,0 +1,29 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the number of steps in each staircase:**
+   - The first staircase has 20 steps.
+   - The second staircase has twice as many steps as the first staircase. Therefore, the number of steps in the second staircase is:
+     \[
+     20 \times 2 = 40 \text{ steps}
+     \]
+   - The third staircase has 10 fewer steps than the second staircase. Hence, the number of steps in the third staircase is:
+     \[
+     40 - 10 = 30 \text{ steps}
+     \]
+
+2. **Calculate the total number of steps climbed:**
+   - Now, we add the number of steps from all three staircases:
+     \[
+     20 + 40 + 30 = 90 \text{ steps}
+     \]
+
+3. **Convert steps to feet:**
+   - Each step is 0.5 feet. To find the total height climbed in feet, we multiply the total number of steps by the height of each step:
+     \[
+     90 \times 0.5 = 45 \text{ feet}
+     \]
+
+Therefore, adding all the steps together and converting to feet gives us the total height that John climbed.
+</reasoning>
+<answer>45</answer>

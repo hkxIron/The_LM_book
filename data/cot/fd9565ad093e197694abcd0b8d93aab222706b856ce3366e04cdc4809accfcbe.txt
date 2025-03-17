@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we need to find out how many capsules of each type of amoxicillin Heisenberg sells in one week and then double that number to find the total for two weeks.
+
+1. **Calculate the number of 100 mg amoxicillin capsules sold per week**:
+   - We know that each 100 mg capsule costs $5 and He earned $80 from selling these capsules.
+   - To find out how many capsules he sold, we can divide his total earnings from 100 mg capsules by the cost per capsule.
+   
+   \[
+   \text{Number of 100 mg capsules} = \frac{\text{Total earnings from 100 mg}}{\text{Cost per 100 mg capsule}} = \frac{80}{5} = 16
+   \]
+
+   This means Heisenberg sells 16 capsules of 100 mg amoxicillin every week.
+
+2. **Calculate the number of 500 mg amoxicillin capsules sold per week**:
+   - Each 500 mg capsule costs $2 and he earned $60 from selling these capsules.
+   - We can use the same method to determine the number of 500 mg capsules sold:
+
+   \[
+   \text{Number of 500 mg capsules} = \frac{\text{Total earnings from 500 mg}}{\text{Cost per 500 mg capsule}} = \frac{60}{2} = 30
+   \]
+
+   Thus, Heisenberg sells 30 capsules of 500 mg amoxicillin every week.
+
+3. **Calculate the total number of capsules sold in one week**:
+   - Now we add the number of 100 mg capsules and 500 mg capsules sold in one week:
+
+   \[
+   \text{Total capsules in one week} = \text{Number of 100 mg capsules} + \text{Number of 500 mg capsules} = 16 + 30 = 46
+   \]
+
+4. **Calculate the total number of capsules sold in two weeks**:
+   - Since we want to find out how many capsules he sells in two weeks, we multiply the total number of capsules sold in one week by 2:
+
+   \[
+   \text{Total capsules in two weeks} = 46 \times 2 = 92
+   \]
+
+Therefore, Heisenberg sells a total of 92 capsules of amoxicillin every two weeks.
+</reasoning>
+<answer>92</answer>

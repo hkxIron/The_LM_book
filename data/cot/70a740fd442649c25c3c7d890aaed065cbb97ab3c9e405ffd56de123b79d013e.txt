@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we will go through each step and perform the necessary calculations.
+
+1. **Identify the total number of photos in the gallery**: 
+   Lilah's family gallery has 400 photos. So, we start with:
+   \[
+   \text{Initial total} = 400
+   \]
+
+2. **Calculate the number of photos taken on the first day**: 
+   The problem states that they took half as many photos on the first day as they have in the gallery. Therefore, the number of photos taken on the first day is:
+   \[
+   \text{Photos taken on the first day} = \frac{400}{2} = 200
+   \]
+
+3. **Calculate the number of photos taken on the second day**: 
+   On the second day, they took 120 more photos than they did on the first day. Therefore, the number of photos taken on the second day is:
+   \[
+   \text{Photos taken on the second day} = 200 + 120 = 320
+   \]
+
+4. **Calculate the total number of photos taken during the trip**: 
+   Now, we will add the photos taken on both days to find the total number of new photos taken:
+   \[
+   \text{Total photos taken} = 200 + 320 = 520
+   \]
+
+5. **Calculate the new total number of photos in the gallery**: 
+   To find the new total number of photos in the family gallery, we add the total photos taken during the trip to the initial total:
+   \[
+   \text{New total} = 400 + 520 = 920
+   \]
+
+Therefore, the total number of photos in the gallery after adding the new photos is:
+</reasoning>
+<answer>920</answer>

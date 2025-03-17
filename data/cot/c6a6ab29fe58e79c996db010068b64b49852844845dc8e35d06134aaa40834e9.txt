@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we first need to find the speed of the train. We can do this by using the distance and time it took for the initial journey.
+
+1. **Calculate the speed of the train.**  
+   Speed is calculated by dividing the distance traveled by the time taken. Here, the train travels 270 miles in 3 hours.  
+   \[
+   \text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{270 \text{ miles}}{3 \text{ hours}} = 90 \text{ miles per hour}
+   \]
+   This means the train is traveling at a speed of 90 miles per hour.
+
+2. **Determine the time to travel the additional distance.**  
+   Now that we know the speed, we can calculate how long it will take to travel an additional 180 miles at the same speed. We use the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Plugging in the values:
+   \[
+   \text{Time} = \frac{180 \text{ miles}}{90 \text{ miles per hour}} = 2 \text{ hours}
+   \]
+
+Therefore, it will take an additional 2 hours to travel the additional 180 miles.
+</reasoning>
+<answer>2</answer>

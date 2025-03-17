@@ -1,0 +1,45 @@
+<reasoning>
+First, let's determine how much weight Thomas wants to add to his vest. Since he wants to increase the weight by 60%, we will calculate 60% of the original weight of 60 pounds.
+
+1. **Calculate 60% of 60 pounds:**
+   \[
+   60\% \text{ of } 60 = 0.60 \times 60 = 36 \text{ pounds}
+   \]
+
+This means Thomas needs to add 36 pounds to his weight vest.
+
+2. **Calculate the total weight after adding:**
+   \[
+   \text{Total weight} = \text{Original weight} + \text{Added weight} = 60 + 36 = 96 \text{ pounds}
+   \]
+
+Next, we need to find out how many 2-pound steel ingots he needs to buy to reach this new weight.
+
+3. **Calculate the number of 2-pound ingots needed:**
+   \[
+   \text{Number of ingots} = \frac{36 \text{ pounds}}{2 \text{ pounds per ingot}} = 18 \text{ ingots}
+   \]
+
+Thomas needs to buy 18 ingots to add the desired weight.
+
+4. **Calculate the cost of the ingots:**
+   - Each ingot costs $5, so for 18 ingots:
+   \[
+   \text{Total cost} = 18 \text{ ingots} \times 5 \text{ dollars per ingot} = 90 \text{ dollars}
+   \]
+
+Since Thomas is buying more than 10 ingots, he qualifies for a 20% discount. Next, we calculate the discount.
+
+5. **Calculate the discount:**
+   \[
+   \text{Discount} = 20\% \text{ of } 90 = 0.20 \times 90 = 18 \text{ dollars}
+   \]
+
+6. **Calculate the final cost after the discount:**
+   \[
+   \text{Final cost} = \text{Total cost} - \text{Discount} = 90 - 18 = 72 \text{ dollars}
+   \]
+
+Therefore, the total cost for Thomas to get the additional weight he needs is:
+</reasoning>
+<answer>72</answer>

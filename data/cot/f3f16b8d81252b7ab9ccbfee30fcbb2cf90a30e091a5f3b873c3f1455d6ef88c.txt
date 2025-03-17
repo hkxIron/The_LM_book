@@ -1,0 +1,69 @@
+<reasoning>
+To find out how much more Sally needs to save, we need to calculate the total cost of her trip to Sea World, including parking, admission, a meal pass, and gas for the drive.
+
+**Step 1: Calculate the total cost of parking, admission, and the meal pass.**
+- Parking: $10
+- Admission: $55
+- Meal pass: $25
+
+Now, let's add these costs together:
+\[
+\text{Total cost of parking, admission, and meal pass} = 10 + 55 + 25
+\]
+Calculating this gives:
+\[
+10 + 55 = 65
+\]
+\[
+65 + 25 = 90
+\]
+
+**Step 2: Calculate the distance to be driven and the amount of gas needed.**
+- The distance to Sea World is 165 miles one way, so the round trip distance is:
+\[
+\text{Round trip distance} = 165 \times 2 = 330 \text{ miles}
+\]
+
+**Step 3: Determine how many gallons of gas are needed to cover the round trip.**
+- The car gets 30 miles per gallon, so we can calculate the gallons needed:
+\[
+\text{Gallons needed} = \frac{\text{Total distance}}{\text{Miles per gallon}} = \frac{330}{30}
+\]
+Calculating this gives:
+\[
+\frac{330}{30} = 11 \text{ gallons}
+\]
+
+**Step 4: Calculate the cost of the gas for the trip.**
+- The cost of gas is $3 per gallon, so:
+\[
+\text{Cost of gas} = \text{Gallons needed} \times \text{Cost per gallon} = 11 \times 3
+\]
+Calculating this gives:
+\[
+11 \times 3 = 33
+\]
+
+**Step 5: Calculate the total cost of the trip.**
+Now we need to add the cost of gas to the previous total of parking, admission, and meal pass:
+\[
+\text{Total trip cost} = \text{Cost of parking, admission, and meal pass} + \text{Cost of gas} = 90 + 33
+\]
+Calculating this gives:
+\[
+90 + 33 = 123
+\]
+
+**Step 6: Determine how much more Sally needs to save.**
+Sally already has $28 saved, so we need to find out how much more she needs:
+\[
+\text{Amount needed} = \text{Total trip cost} - \text{Amount saved} = 123 - 28
+\]
+Calculating this gives:
+\[
+123 - 28 = 95
+\]
+
+Therefore, Sally needs to save up an additional $95.
+</reasoning>
+<answer>95</answer>

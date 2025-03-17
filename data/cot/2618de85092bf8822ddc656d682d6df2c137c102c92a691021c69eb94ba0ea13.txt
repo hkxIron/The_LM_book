@@ -1,0 +1,32 @@
+<reasoning>
+To solve the problem, we first need to determine the total number of dogs at the park.
+
+1. **Determine the total number of dogs**: 
+   We know that half of the dogs have spots. If 15 dogs have spots, we can set up the following equation:
+   \[
+   \text{Number of dogs with spots} = \frac{1}{2} \times \text{Total number of dogs}
+   \]
+   Substituting the number of dogs with spots:
+   \[
+   15 = \frac{1}{2} \times \text{Total number of dogs}
+   \]
+
+2. **Solve for the total number of dogs**: 
+   To find the total number of dogs, we can multiply both sides of the equation by 2:
+   \[
+   \text{Total number of dogs} = 15 \times 2 = 30
+   \]
+
+3. **Determine the number of dogs with pointy ears**: 
+   According to the problem, 1/5 of the dogs have pointy ears. We can find the number of dogs with pointy ears by calculating:
+   \[
+   \text{Number of dogs with pointy ears} = \frac{1}{5} \times \text{Total number of dogs}
+   \]
+   Substituting the total number of dogs we found:
+   \[
+   \text{Number of dogs with pointy ears} = \frac{1}{5} \times 30 = 6
+   \]
+
+Therefore, we have determined that 6 dogs have pointy ears.
+</reasoning>
+<answer>6</answer>

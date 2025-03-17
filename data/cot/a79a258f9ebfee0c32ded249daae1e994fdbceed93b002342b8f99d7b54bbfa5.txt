@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, I will start by determining how many watermelons were sold by the customers who bought one and three watermelons.
+
+1. First, I calculate the total number of watermelons sold by the customers who bought one watermelon:
+   - There were 17 customers who bought one watermelon each.
+   - Therefore, the total watermelons sold by these customers is:
+     \[
+     17 \times 1 = 17
+     \]
+
+2. Next, I calculate the total number of watermelons sold by the customers who bought three watermelons:
+   - There were 3 customers who bought three watermelons each.
+   - Therefore, the total watermelons sold by these customers is:
+     \[
+     3 \times 3 = 9
+     \]
+
+3. Now, I will add the watermelons sold to the customers who bought one and three watermelons:
+   \[
+   17 + 9 = 26
+   \]
+   This means 26 watermelons were sold to customers who bought either one or three watermelons.
+
+4. Since the total number of watermelons sold is 46, I will now find out how many watermelons were sold to customers who bought two watermelons:
+   \[
+   46 - 26 = 20
+   \]
+   This means that 20 watermelons were sold to customers who bought two watermelons.
+
+5. To find out how many customers bought two watermelons, I need to divide the total watermelons sold to these customers by 2:
+   \[
+   \frac{20}{2} = 10
+   \]
+   Therefore, 10 customers bought two watermelons.
+
+Thus, the final answer is:
+</reasoning>
+<answer>10</answer>

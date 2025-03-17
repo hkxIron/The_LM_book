@@ -1,0 +1,26 @@
+<reasoning>
+To find the percentage of each type of chocolate bar in the box, we first need to determine the total number of chocolate bars. 
+
+1. **Calculate the total number of chocolate bars**: 
+   Each type of bar has 25 bars, and there are 4 types of chocolate bars. Therefore, the total number of bars is calculated as:
+   \[
+   \text{Total bars} = 25 \, (\text{milk}) + 25 \, (\text{dark}) + 25 \, (\text{milk with almond}) + 25 \, (\text{white}) = 25 \times 4 = 100
+   \]
+   Here, we're multiplying the number of bars of one type by the number of types to find the total.
+
+2. **Calculate the percentage of each type of chocolate bar**:
+   The percentage for each type can be found using the formula:
+   \[
+   \text{Percentage} = \left(\frac{\text{Number of bars of a type}}{\text{Total number of bars}}\right) \times 100
+   \]
+   Since each type has 25 bars and the total is 100 bars, the percentage calculation for each type will be:
+   \[
+   \text{Percentage of each type} = \left(\frac{25}{100}\right) \times 100 = 25\%
+   \]
+
+3. **Conclusion**:
+   Since all types have the same number of bars, the percentage of each type of chocolate bar is the same. Each type of bar (milk, dark, milk with almond, and white) makes up 25% of the total.
+
+Therefore, the final percentage of each type of chocolate bar is:
+</reasoning>
+<answer>25</answer>

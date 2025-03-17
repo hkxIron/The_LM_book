@@ -1,0 +1,58 @@
+<reasoning>
+Let's denote the amount Carmela gives to each cousin as \( x \).
+
+1. **Determine the initial amounts:**
+   - Carmela starts with $7.
+   - Each of her four cousins starts with $2, so together they have \( 4 \times 2 = 8 \) dollars.
+
+2. **Set up the situation after Carmela gives \( x \) dollars to each cousin:**
+   - After giving \( x \) dollars to each cousin, Carmela's new amount will be:
+     \[
+     7 - 4x
+     \]
+     (since she gives away \( 4x \) in total, $x to each of the 4 cousins).
+   - Each cousin will then have:
+     \[
+     2 + x
+     \]
+     (since each cousin receives \( x \) dollars).
+
+3. **Set the amounts equal to each other:**
+   - We want Carmela and each cousin to have the same amount of money, so we set up the equation:
+     \[
+     7 - 4x = 2 + x
+     \]
+
+4. **Solve for \( x \):**
+   - First, we will rearrange the equation to isolate \( x \):
+     \[
+     7 - 2 = 4x + x
+     \]
+     which simplifies to:
+     \[
+     5 = 5x
+     \]
+   - Now, divide both sides by 5:
+     \[
+     x = 1
+     \]
+
+5. **Conclusion:**
+   - Carmela will give $1 to each of her cousins.
+
+Now, let's verify the amounts:
+- If Carmela gives $1 to each cousin, she gives away a total of \( 4 \times 1 = 4 \) dollars.
+- Her new amount will be:
+  \[
+  7 - 4 = 3
+  \]
+- Each cousin's new amount will be:
+  \[
+  2 + 1 = 3
+  \]
+
+Both amounts are equal, confirming that our solution is correct.
+
+Therefore, Carmela will give $1 to each cousin.
+</reasoning>
+<answer>1</answer>

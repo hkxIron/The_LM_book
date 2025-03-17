@@ -1,0 +1,69 @@
+<reasoning>
+To calculate the total amount Janet owes for her employees' wages and taxes for one month, we'll break the problem down into several steps:
+
+1. **Calculate the monthly wages for the warehouse workers.**
+   - There are 4 warehouse workers, each earning $15/hour.
+   - Each warehouse worker works 8 hours a day for 25 days a month.
+   
+   Calculation:
+   \[
+   \text{Monthly wage for one warehouse worker} = 15 \, \text{(dollars/hour)} \times 8 \, \text{(hours/day)} \times 25 \, \text{(days/month)}
+   \]
+   \[
+   = 15 \times 8 \times 25 = 3000 \, \text{dollars}
+   \]
+   Now, for 4 warehouse workers:
+   \[
+   \text{Total wage for warehouse workers} = 4 \times 3000 = 12000 \, \text{dollars}
+   \]
+
+2. **Calculate the monthly wages for the managers.**
+   - There are 2 managers, each earning $20/hour.
+   - Each manager also works 8 hours a day for 25 days a month.
+   
+   Calculation:
+   \[
+   \text{Monthly wage for one manager} = 20 \, \text{(dollars/hour)} \times 8 \, \text{(hours/day)} \times 25 \, \text{(days/month)}
+   \]
+   \[
+   = 20 \times 8 \times 25 = 4000 \, \text{dollars}
+   \]
+   Now, for 2 managers:
+   \[
+   \text{Total wage for managers} = 2 \times 4000 = 8000 \, \text{dollars}
+   \]
+
+3. **Calculate the total monthly wages for all employees.**
+   - Now, we sum the total wages for warehouse workers and managers:
+   \[
+   \text{Total wages} = \text{Total wage for warehouse workers} + \text{Total wage for managers}
+   \]
+   \[
+   = 12000 + 8000 = 20000 \, \text{dollars}
+   \]
+
+4. **Calculate the FICA taxes.**
+   - Janet has to pay 10% of the total wages in FICA taxes.
+   
+   Calculation:
+   \[
+   \text{FICA taxes} = 10\% \text{ of } 20000
+   \]
+   \[
+   = 0.10 \times 20000 = 2000 \, \text{dollars}
+   \]
+
+5. **Calculate the total amount owed for wages and taxes.**
+   - Finally, add the total wages and the FICA taxes to find the total amount Janet owes.
+   
+   Calculation:
+   \[
+   \text{Total amount owed} = \text{Total wages} + \text{FICA taxes}
+   \]
+   \[
+   = 20000 + 2000 = 22000 \, \text{dollars}
+   \]
+
+Therefore, the total amount Janet owes for her employees' wages and taxes for one month is:
+</reasoning>
+<answer>22000</answer>

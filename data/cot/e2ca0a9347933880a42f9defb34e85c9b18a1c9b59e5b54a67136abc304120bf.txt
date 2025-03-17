@@ -1,0 +1,15 @@
+<reasoning>
+To determine how many juice boxes Peyton will need for her children over the entire school year, we will break the problem down step by step.
+
+1. **Identify the number of juice boxes needed per child per week**: Each child gets 1 juice box per day, and there are 5 school days in a week. So, for each child:
+   - Juice boxes per week = 1 juice box/day × 5 days/week = 5 juice boxes/week.
+
+2. **Calculate the total number of juice boxes needed for all children in one week**: Since Peyton has 3 children, we multiply the number of juice boxes per child by the number of children:
+   - Total juice boxes for 3 children in 1 week = 5 juice boxes/child/week × 3 children = 15 juice boxes/week.
+
+3. **Calculate the total number of juice boxes for the entire school year**: The school year lasts for 25 weeks, so we multiply the total juice boxes needed in one week by the number of weeks in the school year:
+   - Total juice boxes for the school year = 15 juice boxes/week × 25 weeks = 375 juice boxes.
+
+Therefore, Peyton will need a total of 375 juice boxes for her children for the entire school year.
+</reasoning>
+<answer>375</answer>

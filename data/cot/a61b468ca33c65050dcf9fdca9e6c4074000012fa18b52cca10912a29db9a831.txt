@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many miles Selena ran, we can set up an equation based on the information provided.
+
+1. Let's denote the distance Selena ran as \( S \) miles.
+2. According to the problem, Josh ran half of the distance that Selena ran. Therefore, we can express the distance Josh ran as \( \frac{1}{2}S \) miles.
+3. Together, they ran a total of 36 miles. This gives us the equation:
+   \[
+   S + \frac{1}{2}S = 36
+   \]
+
+4. Now, we can simplify the left side of the equation:
+   - When we combine \( S \) and \( \frac{1}{2}S \), it becomes \( \frac{2}{2}S + \frac{1}{2}S = \frac{3}{2}S \).
+   - So, the equation now reads:
+   \[
+   \frac{3}{2}S = 36
+   \]
+
+5. Next, we want to solve for \( S \). To isolate \( S \), we can multiply both sides of the equation by the reciprocal of \( \frac{3}{2} \), which is \( \frac{2}{3} \):
+   \[
+   S = 36 \times \frac{2}{3}
+   \]
+
+6. Now we can perform the multiplication:
+   - First, divide 36 by 3:
+   \[
+   36 \div 3 = 12
+   \]
+   - Then multiply by 2:
+   \[
+   12 \times 2 = 24
+   \]
+
+7. Therefore, Selena ran 24 miles.
+
+The final answer is:
+</reasoning>
+<answer>24</answer>

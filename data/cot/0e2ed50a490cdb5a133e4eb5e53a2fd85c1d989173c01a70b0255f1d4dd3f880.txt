@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step, calculating the total number of pencils Louise has:
+
+1. **Count the red pencils**: Louise has 20 red pencils.
+   
+2. **Count the blue pencils**: She has twice as many blue pencils as red. Therefore, the number of blue pencils is:
+   \[
+   \text{Blue pencils} = 2 \times \text{Red pencils} = 2 \times 20 = 40
+   \]
+
+3. **Count the yellow pencils**: Louise has 40 yellow pencils.
+
+4. **Count the green pencils**: She has as many green pencils as the total of her red and blue pencils combined. First, we need to find the total of red and blue pencils:
+   \[
+   \text{Total red and blue pencils} = \text{Red pencils} + \text{Blue pencils} = 20 + 40 = 60
+   \]
+   Thus, the number of green pencils is:
+   \[
+   \text{Green pencils} = \text{Total red and blue pencils} = 60
+   \]
+
+5. **Calculate the total number of pencils**: Now, we can sum all the pencils:
+   \[
+   \text{Total pencils} = \text{Red pencils} + \text{Blue pencils} + \text{Yellow pencils} + \text{Green pencils}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Total pencils} = 20 + 40 + 40 + 60 = 160
+   \]
+
+6. **Determine the number of boxes needed**: Each box holds 20 pencils. To find out how many boxes are needed, we divide the total number of pencils by the number of pencils per box:
+   \[
+   \text{Number of boxes} = \frac{\text{Total pencils}}{\text{Pencils per box}} = \frac{160}{20} = 8
+   \]
+
+Thus, Louise needs 8 boxes to organize her pencils by color.
+</reasoning>
+<answer>8</answer>

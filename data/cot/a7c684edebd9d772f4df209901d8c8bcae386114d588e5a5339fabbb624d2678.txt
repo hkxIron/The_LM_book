@@ -1,0 +1,40 @@
+<reasoning>
+To find Kim's total points in the contest, we need to calculate the points she earned from each round and then sum them up.
+
+1. **Calculate points from the easy round**:
+   - Kim got 6 correct answers in the easy round.
+   - Each correct answer in the easy round is worth 2 points.
+   - So, we multiply the number of correct answers by the points per answer:
+     \[
+     \text{Points from easy round} = 6 \text{ answers} \times 2 \text{ points/answer} = 12 \text{ points}
+     \]
+
+2. **Calculate points from the average round**:
+   - Kim got 2 correct answers in the average round.
+   - Each correct answer in the average round is worth 3 points.
+   - So, we multiply the number of correct answers by the points per answer:
+     \[
+     \text{Points from average round} = 2 \text{ answers} \times 3 \text{ points/answer} = 6 \text{ points}
+     \]
+
+3. **Calculate points from the hard round**:
+   - Kim got 4 correct answers in the hard round.
+   - Each correct answer in the hard round is worth 5 points.
+   - So, we multiply the number of correct answers by the points per answer:
+     \[
+     \text{Points from hard round} = 4 \text{ answers} \times 5 \text{ points/answer} = 20 \text{ points}
+     \]
+
+4. **Sum up all the points**:
+   - Now we add the points from all three rounds to get her total points:
+     \[
+     \text{Total points} = \text{Points from easy round} + \text{Points from average round} + \text{Points from hard round}
+     \]
+   - Plugging in the values we calculated:
+     \[
+     \text{Total points} = 12 \text{ points} + 6 \text{ points} + 20 \text{ points} = 38 \text{ points}
+     \]
+
+Therefore, Kim's total points in the contest is:
+</reasoning>
+<answer>38</answer>

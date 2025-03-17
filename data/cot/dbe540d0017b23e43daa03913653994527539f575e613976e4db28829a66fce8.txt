@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we will break it down step by step.
+
+1. **Identify the number of pigs**: The problem states that Hannah's family has 10 pigs. 
+   - So, we have:
+     \[
+     \text{Number of pigs} = 10
+     \]
+
+2. **Calculate the number of cows**: The problem states that they have three fewer than twice as many cows as pigs. 
+   - First, calculate twice the number of pigs:
+     \[
+     \text{Twice the number of pigs} = 2 \times 10 = 20
+     \]
+   - Then, subtract three from this amount to find the number of cows:
+     \[
+     \text{Number of cows} = 20 - 3 = 17
+     \]
+
+3. **Calculate the number of goats**: The problem states that they have six more goats than cows.
+   - So, we take the number of cows and add six to find the number of goats:
+     \[
+     \text{Number of goats} = 17 + 6 = 23
+     \]
+
+4. **Calculate the total number of animals**: Now we need to find the total number of animals on the farm, which includes pigs, cows, and goats.
+   - We can do this by adding the number of pigs, cows, and goats together:
+     \[
+     \text{Total animals} = \text{Number of pigs} + \text{Number of cows} + \text{Number of goats}
+     \]
+     \[
+     \text{Total animals} = 10 + 17 + 23 = 50
+     \]
+
+Therefore, the total number of animals on Hannah's farm is 50.
+</reasoning>
+<answer>50</answer>

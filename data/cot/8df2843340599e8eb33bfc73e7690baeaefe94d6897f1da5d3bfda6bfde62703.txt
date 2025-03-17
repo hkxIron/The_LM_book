@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many bowls Howard has left in his rewards collection, we will break down the problem step by step.
+
+1. **Calculate total bowls bought by customers**: 
+   We know that there are 20 customers, and half of them bought 20 bowls each. First, we need to determine how many customers bought 20 bowls.
+
+   Half of 20 customers = 20 / 2 = 10 customers.
+
+   Now we can calculate how many bowls these 10 customers bought:
+   Total bowls bought by these customers = 10 customers * 20 bowls each = 200 bowls.
+
+   The other 10 customers did not buy any bowls according to the information given.
+
+2. **Calculate rewards given to customers**:
+   For every 10 bowls purchased, Howard rewards 2 bowls. Since we have determined that the customers bought a total of 200 bowls, we need to calculate how many rewards he gives out based on this total.
+
+   Number of sets of 10 bowls in 200 bowls = 200 / 10 = 20 sets.
+
+   Since Howard rewards 2 bowls for each set of 10, the total number of bowls rewarded is:
+   Total rewards given = 20 sets * 2 bowls per set = 40 bowls.
+
+3. **Calculate remaining bowls in the rewards collection**:
+   Howard started with 70 wooden bowls in his rewards collection. Now we need to subtract the number of bowls he gave away as rewards.
+
+   Remaining bowls = Initial bowls - Bowls given as rewards
+   Remaining bowls = 70 - 40 = 30 bowls.
+
+Thus, after calculating the total number of bowls bought, the rewards given, and the bowls left in the collection, we find that Howard has 30 bowls remaining in his rewards collection.
+</reasoning>
+<answer>30</answer>

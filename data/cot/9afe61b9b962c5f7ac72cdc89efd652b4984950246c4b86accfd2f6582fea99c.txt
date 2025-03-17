@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine total practice time in minutes**: Kyle practices for 2 hours each day. Since there are 60 minutes in an hour, we convert hours to minutes:
+   \[
+   2 \text{ hours} \times 60 \text{ minutes/hour} = 120 \text{ minutes}
+   \]
+
+2. **Calculate time spent shooting**: According to the problem, Kyle spends half of his practice time shooting. Therefore:
+   \[
+   \text{Time spent shooting} = \frac{120 \text{ minutes}}{2} = 60 \text{ minutes}
+   \]
+
+3. **Calculate remaining time for running and weight lifting**: After shooting, the remaining time is:
+   \[
+   \text{Remaining time} = 120 \text{ minutes} - 60 \text{ minutes} = 60 \text{ minutes}
+   \]
+
+4. **Set up the relationship between running and weight lifting**: Let \( x \) be the time spent weight lifting. According to the problem, the time spent running is twice the time spent lifting weights. Therefore, the time spent running can be expressed as:
+   \[
+   \text{Time spent running} = 2x
+   \]
+
+5. **Formulate the equation**: The total time spent running and weight lifting is equal to the remaining time, which gives us the equation:
+   \[
+   x + 2x = 60 \text{ minutes}
+   \]
+   Simplifying this, we have:
+   \[
+   3x = 60
+   \]
+
+6. **Solve for \( x \)**: To find \( x \), divide both sides of the equation by 3:
+   \[
+   x = \frac{60}{3} = 20 \text{ minutes}
+   \]
+
+Thus, Kyle spends 20 minutes weight lifting.
+</reasoning>
+<answer>20</answer>

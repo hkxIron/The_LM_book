@@ -1,0 +1,36 @@
+<reasoning>
+To find the total cost of Emily's order, we will follow these steps:
+
+1. **Calculate the cost of the curtains**: 
+   Emily purchased 2 pairs of curtains, each costing $30. 
+   So, we multiply the number of pairs by the price per pair: 
+   \[
+   2 \text{ pairs} \times 30 \text{ dollars/pair} = 60 \text{ dollars}
+   \]
+   This means the total cost for curtains is $60.
+
+2. **Calculate the cost of the wall prints**: 
+   Emily purchased 9 wall prints, each costing $15. 
+   Again, we multiply the number of prints by the price per print: 
+   \[
+   9 \text{ prints} \times 15 \text{ dollars/print} = 135 \text{ dollars}
+   \]
+   Therefore, the total cost for wall prints is $135.
+
+3. **Add the costs of the curtains and wall prints**: 
+   Now, we need to combine the total costs of curtains and wall prints: 
+   \[
+   60 \text{ dollars (curtains)} + 135 \text{ dollars (prints)} = 195 \text{ dollars}
+   \]
+   So, the total cost for the curtains and prints is $195.
+
+4. **Include the installation service**: 
+   The installation service costs $50. We add this cost to the total we calculated for the curtains and prints: 
+   \[
+   195 \text{ dollars} + 50 \text{ dollars} = 245 \text{ dollars}
+   \]
+   This means that the total cost of Emily's entire order, including installation, is $245.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>245</answer>

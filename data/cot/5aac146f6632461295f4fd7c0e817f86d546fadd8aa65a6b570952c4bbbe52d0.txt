@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many more calories per dollar John gets from the burgers compared to the burritos, we need to calculate the calories per dollar for both food items.
+
+**Step 1: Calculate calories per dollar for the burritos.**
+
+- John can buy 10 burritos for $6.
+- Each burrito has 120 calories.
+
+First, we calculate the total calories from the burritos:
+Total calories from burritos = Number of burritos × Calories per burrito
+Total calories from burritos = 10 burritos × 120 calories/burrito = 1200 calories.
+
+Now, we find the calories per dollar:
+Calories per dollar for burritos = Total calories from burritos / Cost
+Calories per dollar for burritos = 1200 calories / $6 = 200 calories per dollar.
+
+**Step 2: Calculate calories per dollar for the burgers.**
+
+- John can buy 5 burgers for $8.
+- Each burger has 400 calories.
+
+Next, we calculate the total calories from the burgers:
+Total calories from burgers = Number of burgers × Calories per burger
+Total calories from burgers = 5 burgers × 400 calories/burger = 2000 calories.
+
+Now, we find the calories per dollar:
+Calories per dollar for burgers = Total calories from burgers / Cost
+Calories per dollar for burgers = 2000 calories / $8 = 250 calories per dollar.
+
+**Step 3: Determine the difference in calories per dollar between burgers and burritos.**
+
+Now we compare the two results:
+Calories per dollar for burgers = 250 calories per dollar.
+Calories per dollar for burritos = 200 calories per dollar.
+
+To find how many more calories per dollar John gets from the burgers:
+Difference = Calories per dollar for burgers - Calories per dollar for burritos
+Difference = 250 calories per dollar - 200 calories per dollar = 50 calories per dollar.
+
+Therefore, John gets 50 more calories per dollar from the burgers compared to the burritos.
+</reasoning>
+<answer>50</answer>

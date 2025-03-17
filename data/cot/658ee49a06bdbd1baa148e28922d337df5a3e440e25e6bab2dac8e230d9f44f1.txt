@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much Bill gets paid for a 50-hour workweek, we need to break down his pay into two parts: the regular hours and the overtime hours.
+
+1. **Identify regular hours and overtime hours**: 
+   - Bill earns $20 per hour for the first 40 hours. 
+   - For the hours worked beyond 40, which is considered overtime, he earns double his regular rate. Therefore, for hours worked beyond 40 hours, he earns $20 * 2 = $40 per hour.
+
+2. **Calculate pay for regular hours**: 
+   - Bill works 40 hours at the normal rate of $20 per hour.
+   - To find his pay for these hours, we multiply:
+     \[
+     \text{Pay for regular hours} = 40 \text{ hours} \times 20 \text{ dollars/hour} = 800 \text{ dollars}
+     \]
+
+3. **Calculate overtime hours**: 
+   - Bill works a total of 50 hours, so the number of overtime hours is:
+     \[
+     \text{Overtime hours} = 50 \text{ hours} - 40 \text{ hours} = 10 \text{ hours}
+     \]
+
+4. **Calculate pay for overtime hours**: 
+   - For the 10 overtime hours, Bill earns $40 per hour:
+     \[
+     \text{Pay for overtime hours} = 10 \text{ hours} \times 40 \text{ dollars/hour} = 400 \text{ dollars}
+     \]
+
+5. **Calculate total pay**: 
+   - Now, we add the pay for regular hours and the pay for overtime hours to find the total pay for the week:
+     \[
+     \text{Total Pay} = \text{Pay for regular hours} + \text{Pay for overtime hours} = 800 \text{ dollars} + 400 \text{ dollars} = 1200 \text{ dollars}
+     \]
+
+Therefore, Bill's total pay for a 50-hour workweek is $1200.
+</reasoning>
+<answer>1200</answer>

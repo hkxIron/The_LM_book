@@ -1,0 +1,32 @@
+<reasoning>
+First, let's calculate how far Peyton Manning threw the football on Saturday when the temperature was 50 degrees Fahrenheit.
+
+1. **Distance thrown on Saturday**:  
+   We know that he throws the ball 20 yards each time at 50 degrees.  
+   He threw the ball 20 times on Saturday.  
+   Therefore, the total distance thrown on Saturday is:  
+   \[
+   \text{Distance on Saturday} = \text{Distance per throw} \times \text{Number of throws} = 20 \text{ yards} \times 20 = 400 \text{ yards}
+   \]
+
+2. **Distance thrown on Sunday**:  
+   On Sunday, the temperature increased to 80 degrees Fahrenheit, and he throws the ball twice as far.  
+   This means he throws the ball:  
+   \[
+   \text{Distance per throw at 80 degrees} = 20 \text{ yards} \times 2 = 40 \text{ yards}
+   \]  
+   He threw the ball 30 times on Sunday.  
+   Therefore, the total distance thrown on Sunday is:  
+   \[
+   \text{Distance on Sunday} = \text{Distance per throw} \times \text{Number of throws} = 40 \text{ yards} \times 30 = 1200 \text{ yards}
+   \]
+
+3. **Total distance thrown over the two days**:  
+   Now we add the distances from both days to find the total distance thrown:  
+   \[
+   \text{Total distance} = \text{Distance on Saturday} + \text{Distance on Sunday} = 400 \text{ yards} + 1200 \text{ yards} = 1600 \text{ yards}
+   \]
+
+Therefore, the total number of yards he threw the ball over the two days is:
+</reasoning>
+<answer>1600</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many doctors and nurses are left after some quit, we will perform the following steps:
+
+1. **Determine the initial number of doctors and nurses**: 
+   - There are 11 doctors initially.
+   - There are 18 nurses initially.
+
+2. **Calculate how many doctors quit**:
+   - 5 doctors quit.
+   - To find the remaining doctors, we subtract the number of doctors who quit from the initial number of doctors: 
+     \[
+     11 \text{ doctors} - 5 \text{ doctors} = 6 \text{ doctors left}
+     \]
+
+3. **Calculate how many nurses quit**:
+   - 2 nurses quit.
+   - To find the remaining nurses, we subtract the number of nurses who quit from the initial number of nurses:
+     \[
+     18 \text{ nurses} - 2 \text{ nurses} = 16 \text{ nurses left}
+     \]
+
+4. **Summarize the results**:
+   - After the calculations, we find that there are 6 doctors left and 16 nurses left.
+
+Therefore, the final counts are:
+- Doctors left: 6
+- Nurses left: 16
+
+Finally, since the problem asks for how many doctors and nurses are left in total, we can add those two numbers together:
+\[
+6 \text{ doctors} + 16 \text{ nurses} = 22 \text{ total staff left}
+\]
+
+So the total number of doctors and nurses remaining is 22.
+</reasoning>
+<answer>22</answer>

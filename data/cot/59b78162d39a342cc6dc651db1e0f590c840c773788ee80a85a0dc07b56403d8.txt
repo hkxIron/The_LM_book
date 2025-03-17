@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the total number of weeds Lucille pulled.**
+   - In the flower bed, there are 11 weeds.
+   - In the vegetable patch, there are 14 weeds.
+   - In the grass around the fruit trees, there are 32 weeds, but Lucille only pulled half of these.
+   - Half of 32 weeds is \( \frac{32}{2} = 16 \) weeds.
+
+2. **Sum the total weeds pulled.**
+   - Total weeds pulled = weeds in flower bed + weeds in vegetable patch + weeds in half the grass.
+   - Total weeds = 11 + 14 + 16 = 41 weeds.
+
+3. **Calculate Lucille's earnings.**
+   - She earns 6 cents for each weed pulled. Therefore, her total earnings can be calculated as:
+   - Total earnings = Number of weeds pulled × Earnings per weed.
+   - Total earnings = 41 × 6 = 246 cents.
+
+4. **Subtract the cost of the soda.**
+   - The cost of the soda is 99 cents. We will now subtract this from her total earnings to find out how much she has left.
+   - Amount left = Total earnings - Cost of soda.
+   - Amount left = 246 - 99 = 147 cents.
+
+Now, we have calculated all necessary components step by step. Therefore, Lucille has 147 cents left after buying the soda.
+</reasoning>
+<answer>147</answer>

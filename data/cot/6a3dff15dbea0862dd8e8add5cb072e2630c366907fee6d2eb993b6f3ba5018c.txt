@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many laps Joel can swim, we will first determine how many laps Yvonne's sister can swim, and then use that to find out how many laps Joel can swim.
+
+1. **Calculate the number of laps Yvonne swims**: 
+   Yvonne swims 10 laps in 5 minutes. 
+
+2. **Determine how many laps Yvonne's sister swims**: 
+   The problem states that Yvonne's younger sister can swim half as many laps as Yvonne. 
+   So, we calculate:
+   \[
+   \text{Sister's laps} = \frac{10 \text{ laps}}{2} = 5 \text{ laps}
+   \]
+
+3. **Determine how many laps Joel swims**: 
+   The problem states that their brother Joel can swim three times the number of laps as the youngest sister. 
+   Therefore, we calculate:
+   \[
+   \text{Joel's laps} = 3 \times \text{Sister's laps} = 3 \times 5 \text{ laps} = 15 \text{ laps}
+   \]
+
+In conclusion, after calculating and reasoning through the problem step by step, we find that Joel can swim 15 laps.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much John spent altogether, we need to calculate the total costs for the burgers, condiments, propane, and alcohol, and then determine John's share of these costs.
+
+1. **Calculate the cost of the burgers**:
+   - They bought 100 pounds of burgers at $3 per pound.
+   - Cost of burgers = 100 pounds * $3/pound = $300.
+
+2. **Calculate the total cost of condiments and propane**:
+   - The total cost for condiments and propane is given as $80.
+
+3. **Calculate the cost of alcohol**:
+   - John bought the alcohol, which costs $200.
+
+4. **Calculate the total cost of the block party**:
+   - Total cost = Cost of burgers + Cost of condiments and propane + Cost of alcohol
+   - Total cost = $300 + $80 + $200 = $580.
+
+5. **Determine how much John spent**:
+   - Since John is splitting the cost with 3 other people (total of 4 people), we need to find how much he spent in total.
+   - John paid for the alcohol ($200), and the cost of the burgers and condiments can be split among all four people.
+   - Cost shared among 4 people = Total cost for burgers and condiments + John's alcohol cost
+   - Total cost for burgers and condiments = $300 + $80 = $380.
+   - Each person’s share for burgers and condiments = $380 / 4 = $95.
+   - Therefore, John's total spending = Share of burgers and condiments + Cost of alcohol.
+   - John's total spending = $95 + $200 = $295.
+
+So, John spent a total of $295.
+</reasoning>
+<answer>295</answer>

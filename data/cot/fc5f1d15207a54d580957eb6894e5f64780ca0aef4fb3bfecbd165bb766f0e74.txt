@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many animals Sam hunts:** 
+   Sam hunts 6 animals in a day.
+
+2. **Calculate how many animals Rob hunts:** 
+   Rob hunts half as many animals as Sam. Since Sam hunts 6 animals, we find Rob's count using the formula:
+   \[
+   \text{Rob's animals} = \frac{1}{2} \times \text{Sam's animals} = \frac{1}{2} \times 6 = 3
+   \]
+   So, Rob hunts 3 animals.
+
+3. **Calculate the total number of animals hunted by Sam and Rob:**
+   We add the number of animals hunted by Sam and Rob:
+   \[
+   \text{Total by Sam and Rob} = \text{Sam's animals} + \text{Rob's animals} = 6 + 3 = 9
+   \]
+
+4. **Determine how many animals Mark hunts:**
+   Mark hunts 1/3 of the total number of animals hunted by Sam and Rob. We calculate this as:
+   \[
+   \text{Mark's animals} = \frac{1}{3} \times \text{Total by Sam and Rob} = \frac{1}{3} \times 9 = 3
+   \]
+   So, Mark also hunts 3 animals.
+
+5. **Calculate how many animals Peter hunts:**
+   Peter hunts 3 times as many animals as Mark. Therefore, we calculate:
+   \[
+   \text{Peter's animals} = 3 \times \text{Mark's animals} = 3 \times 3 = 9
+   \]
+   So, Peter hunts 9 animals.
+
+6. **Calculate the total number of animals hunted by all four individuals:**
+   We now add together the animals hunted by Sam, Rob, Mark, and Peter:
+   \[
+   \text{Total animals} = \text{Sam's animals} + \text{Rob's animals} + \text{Mark's animals} + \text{Peter's animals} = 6 + 3 + 3 + 9 = 21
+   \]
+
+Therefore, the total number of animals hunted by Sam, Rob, Mark, and Peter in a day is 21.
+</reasoning>
+<answer>21</answer>

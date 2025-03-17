@@ -1,0 +1,54 @@
+<reasoning>
+Let's denote Sara's height as \( S \) inches and Joe's height as \( J \) inches. We are given two pieces of information:
+
+1. Their combined height is 120 inches:
+   \[
+   S + J = 120
+   \]
+
+2. Joe is 6 inches more than double Sara's height:
+   \[
+   J = 2S + 6
+   \]
+
+Now, we will substitute the expression for \( J \) from the second equation into the first equation. This allows us to express everything in terms of \( S \).
+
+Substituting \( J \) into the first equation:
+\[
+S + (2S + 6) = 120
+\]
+
+Now, we will combine like terms:
+\[
+3S + 6 = 120
+\]
+
+Next, we will isolate \( 3S \) by subtracting 6 from both sides:
+\[
+3S = 120 - 6
+\]
+\[
+3S = 114
+\]
+
+Now, we will solve for \( S \) by dividing both sides by 3:
+\[
+S = \frac{114}{3} = 38
+\]
+
+Now that we have Sara's height, we can find Joe's height using the second equation:
+\[
+J = 2S + 6
+\]
+Substituting \( S = 38 \):
+\[
+J = 2(38) + 6
+\]
+Calculating this gives:
+\[
+J = 76 + 6 = 82
+\]
+
+Thus, Joe's height is 82 inches.
+</reasoning>
+<answer>82</answer>

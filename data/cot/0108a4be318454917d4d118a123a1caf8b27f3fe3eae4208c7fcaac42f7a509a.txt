@@ -1,0 +1,40 @@
+<reasoning>
+To find the length of the third side of the triangle, we can use the formula for the perimeter of a triangle, which is the sum of all its sides.
+
+Step 1: Write down the formula for the perimeter.
+
+The perimeter \( P \) of a triangle is given by:
+\[ P = a + b + c \]
+where \( a \), \( b \), and \( c \) are the lengths of the sides of the triangle.
+
+Step 2: Plug in the known values.
+
+In this problem, we know that:
+- The perimeter \( P = 160 \) cm
+- One side \( a = 40 \) cm
+- Another side \( b = 50 \) cm
+
+We need to find the length of the third side \( c \).
+
+Step 3: Set up the equation.
+
+Using the perimeter formula, we can set up the equation:
+\[ 160 = 40 + 50 + c \]
+
+Step 4: Simplify the equation to solve for \( c \).
+
+First, we add the lengths of the two known sides:
+\[ 40 + 50 = 90 \]
+
+Now, substitute this sum back into the perimeter equation:
+\[ 160 = 90 + c \]
+
+Step 5: Solve for \( c \).
+
+To find \( c \), we can rearrange the equation:
+\[ c = 160 - 90 \]
+\[ c = 70 \]
+
+Thus, the length of the third side is 70 cm.
+</reasoning>
+<answer>70</answer>

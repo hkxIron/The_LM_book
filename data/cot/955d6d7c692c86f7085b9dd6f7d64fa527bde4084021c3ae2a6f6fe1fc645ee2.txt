@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of burrs**: The problem states that Andrew's dog has 12 burrs. 
+
+2. **Calculate the number of ticks**: The problem mentions that there are six times as many ticks as there are burrs. Since there are 12 burrs, we can find the number of ticks by multiplying the number of burrs by 6:
+   \[
+   \text{Number of ticks} = 6 \times \text{Number of burrs} = 6 \times 12
+   \]
+   Calculating this gives:
+   \[
+   6 \times 12 = 72
+   \]
+   Therefore, the dog has 72 ticks.
+
+3. **Calculate the total number of foreign objects**: To find the total number of foreign objects caught in the dog's fur, we add the number of burrs and the number of ticks together:
+   \[
+   \text{Total foreign objects} = \text{Number of burrs} + \text{Number of ticks} = 12 + 72
+   \]
+   Performing this addition gives:
+   \[
+   12 + 72 = 84
+   \]
+
+Thus, the total number of foreign objects caught in the dog's fur is 84.
+</reasoning>
+<answer>84</answer>

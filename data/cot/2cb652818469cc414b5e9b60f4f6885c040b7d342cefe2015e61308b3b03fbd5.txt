@@ -1,0 +1,52 @@
+<reasoning>
+To solve the problem, we need to establish the relationship between the time it took Felipe and Emilio to build their homes.
+
+1. **Let’s denote the time it took Emilio to build his house as \( E \) years.** 
+   Since Felipe finished in half the time of Emilio, we can express Felipe's time as \( F = \frac{E}{2} \).
+
+2. **According to the problem, the combined time for both Felipe and Emilio is 7.5 years.** 
+   We can write the equation based on their combined time:
+   \[
+   F + E = 7.5
+   \]
+
+3. **Substituting Felipe's time into the equation:**
+   \[
+   \frac{E}{2} + E = 7.5
+   \]
+
+4. **To combine the terms, we need a common denominator. The left side becomes:**
+   \[
+   \frac{E}{2} + \frac{2E}{2} = \frac{3E}{2}
+   \]
+   So now our equation looks like:
+   \[
+   \frac{3E}{2} = 7.5
+   \]
+
+5. **Next, we solve for \( E \) by first multiplying both sides of the equation by 2 to eliminate the fraction:**
+   \[
+   3E = 15
+   \]
+
+6. **Now, divide both sides by 3 to find \( E \):**
+   \[
+   E = 5
+   \]
+   This means Emilio took 5 years to build his house.
+
+7. **Now we can find Felipe's time using the relationship we established earlier:**
+   \[
+   F = \frac{E}{2} = \frac{5}{2} = 2.5
+   \]
+   Therefore, Felipe took 2.5 years to build his house.
+
+8. **Finally, we need to convert Felipe's time from years to months.** 
+   There are 12 months in a year, so we multiply the number of years by 12:
+   \[
+   2.5 \times 12 = 30
+   \]
+
+Thus, it took Felipe 30 months to build his house.
+</reasoning>
+<answer>30</answer>

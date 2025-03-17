@@ -1,0 +1,22 @@
+<reasoning>
+To solve this problem, we start by determining how many days Aliyah packs her lunch.
+
+1. **Calculate how many days Aliyah packs lunch**: 
+   - Since there are 180 school days in the academic year and Aliyah packs her lunch half the time, we calculate this by taking half of 180.
+   - Calculation: 
+     \[
+     \text{Days Aliyah packs lunch} = \frac{180}{2} = 90
+     \]
+   This means Aliyah packs her lunch for 90 days.
+
+2. **Determine how many days Becky packs lunch**: 
+   - We know that Becky packs her lunch half as much as Aliyah. Therefore, we need to find half of the number of days Aliyah packs her lunch.
+   - Calculation:
+     \[
+     \text{Days Becky packs lunch} = \frac{90}{2} = 45
+     \]
+   This means Becky packs her lunch for 45 days.
+
+In conclusion, we found that Becky packs her lunch for 45 days in the academic year.
+</reasoning>
+<answer>45</answer>

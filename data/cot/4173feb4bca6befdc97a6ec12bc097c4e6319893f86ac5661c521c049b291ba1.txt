@@ -1,0 +1,26 @@
+<reasoning>
+To find the total number of wheels Naomi saw at the park, we will calculate the number of wheels contributed by both types of bikes separately, and then we will add them together.
+
+1. **Calculate the wheels from regular bikes:**
+   - There are 7 regular bikes, and each regular bike has 2 wheels.
+   - To find the total number of wheels from regular bikes, we multiply the number of regular bikes by the number of wheels per regular bike:
+     \[
+     7 \text{ bikes} \times 2 \text{ wheels/bike} = 14 \text{ wheels}
+     \]
+
+2. **Calculate the wheels from children’s bikes:**
+   - There are 11 children's bikes, and each children's bike has 4 wheels.
+   - To find the total number of wheels from children's bikes, we multiply the number of children's bikes by the number of wheels per children's bike:
+     \[
+     11 \text{ bikes} \times 4 \text{ wheels/bike} = 44 \text{ wheels}
+     \]
+
+3. **Add the wheels from both types of bikes:**
+   - Now, we add the total number of wheels from regular bikes and children's bikes to find the overall total:
+     \[
+     14 \text{ wheels (regular)} + 44 \text{ wheels (children's)} = 58 \text{ wheels}
+     \]
+
+Therefore, the total number of wheels Naomi saw at the park is 58.
+</reasoning>
+<answer>58</answer>

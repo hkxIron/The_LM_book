@@ -1,0 +1,42 @@
+<reasoning>
+To solve this problem, we will go through the following steps:
+
+1. **Calculate the population increase due to births over 10 years**: 
+   The initial population is 100,000 people, and it increases by 60%. To find the total increase, we can calculate 60% of 100,000 and then add this increase to the original population.
+
+   \[
+   \text{Population increase} = 100,000 \times 0.60 = 60,000
+   \]
+   \[
+   \text{New population due to birth} = 100,000 + 60,000 = 160,000
+   \]
+
+   Here, we calculated the increase in population due to births and added it to the original population.
+
+2. **Calculate the net effect of emigration and immigration over 10 years**:
+   Next, we will calculate the total number of people who leave (emigration) and those who come in (immigration) over 10 years. 
+
+   - Emigration: 2,000 people leave per year for 10 years
+   \[
+   \text{Total emigration} = 2,000 \times 10 = 20,000
+   \]
+
+   - Immigration: 2,500 people come in per year for 10 years
+   \[
+   \text{Total immigration} = 2,500 \times 10 = 25,000
+   \]
+
+   Now, we find the net population change from emigration and immigration:
+   \[
+   \text{Net migration} = \text{Total immigration} - \text{Total emigration} = 25,000 - 20,000 = 5,000
+   \]
+
+3. **Calculate the final population**:
+   Finally, we will add the net migration to the new population after accounting for births:
+   \[
+   \text{Final population} = \text{New population due to birth} + \text{Net migration} = 160,000 + 5,000 = 165,000
+   \]
+
+In summary, we calculated the population growth from births, then accounted for the net effect of migration, and added these amounts together to find the final population.
+</reasoning>
+<answer>165000</answer>

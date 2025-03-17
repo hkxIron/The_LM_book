@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Determine the total number of slices eaten by Angeli and Marlon.**
+   Angeli ate \( \frac{3}{2} \) slices and Marlon also ate \( \frac{3}{2} \) slices. To find the total slices they both ate, we add their portions together:
+
+   \[
+   \text{Total slices eaten} = \text{Angeli's slices} + \text{Marlon's slices} = \frac{3}{2} + \frac{3}{2}
+   \]
+
+   Here, we are adding two fractions with the same denominator (2). 
+
+   \[
+   \text{Total slices eaten} = \frac{3 + 3}{2} = \frac{6}{2} = 3
+   \]
+
+   So, together they ate 3 slices of pizza.
+
+2. **Calculate the remaining slices of pizza.**
+   The whole pizza was cut into 8 slices initially. We need to subtract the total number of slices eaten from the total number of slices:
+
+   \[
+   \text{Slices left} = \text{Total slices} - \text{Slices eaten} = 8 - 3
+   \]
+
+   Now we perform the subtraction:
+
+   \[
+   \text{Slices left} = 8 - 3 = 5
+   \]
+
+Therefore, after Angeli and Marlon have eaten, there are 5 slices of pizza left.
+</reasoning>
+<answer>5</answer>

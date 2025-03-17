@@ -1,0 +1,22 @@
+<reasoning>
+To find out how much money Rafael makes in total, we first need to calculate the total hours he will work in the week and then multiply that by his hourly wage.
+
+1. **Calculate the hours Rafael has already worked:**
+   - On Monday: 10 hours
+   - On Tuesday: 8 hours
+   - Total hours worked so far = 10 hours + 8 hours = 18 hours
+
+2. **Add the remaining hours he needs to work:**
+   - He has 20 hours left to work in the week.
+   - Total hours for the week = hours worked + hours left = 18 hours + 20 hours = 38 hours
+
+3. **Calculate Rafael's total earnings:**
+   - He is paid $20 per hour.
+   - Total earnings = total hours worked × hourly wage = 38 hours × $20/hour
+
+4. **Perform the multiplication:**
+   - 38 hours × $20 = 760
+
+Therefore, Rafael makes a total of $760 for the week.
+</reasoning>
+<answer>760</answer>

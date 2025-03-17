@@ -1,0 +1,57 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Determine the number of eggs Emma gathered in the first round.**
+   - We know that Emma gathered twice as many eggs as Tank in the second round.
+   - Emma gathered 60 eggs in the second round.
+   - According to the problem, if Emma gathered 60 eggs in the second round, that means Tank gathered half of that: 
+     \[
+     \text{Tank's second round} = \frac{60}{2} = 30 \text{ eggs}
+     \]
+
+2. **Establish the relationship between the first round and second round for Tank.**
+   - The problem states that Tank's total number of eggs in the second round was 20 less than the number Emma gathered in the first round. 
+   - Let’s denote Emma's number of eggs in the first round as \( E_1 \) and Tank's number of eggs in the first round as \( T_1 \).
+   - We know from the problem that:
+     \[
+     T_1 + 10 = E_1
+     \]
+   - Also, since Tank's total in the second round is 20 less than Emma's first round:
+     \[
+     30 = E_1 - 20
+     \]
+
+3. **Solve for Emma's first round eggs, \( E_1 \).**
+   - Rearranging the equation, we get:
+     \[
+     E_1 = 30 + 20 = 50
+     \]
+
+4. **Use the relationship to find Tank's first round eggs, \( T_1 \).**
+   - Using the first equation \( T_1 + 10 = E_1 \):
+     \[
+     T_1 + 10 = 50
+     \]
+   - Solving for \( T_1 \):
+     \[
+     T_1 = 50 - 10 = 40
+     \]
+
+5. **Calculate the total eggs gathered by Tank and Emma.**
+   - In the first round, Tank gathered \( T_1 = 40 \) eggs and Emma gathered \( E_1 = 50 \) eggs.
+   - In the second round, Tank gathered 30 eggs and Emma gathered 60 eggs.
+   - Total eggs gathered by both rounds:
+     \[
+     \text{Total} = (T_1 + E_1) + (30 + 60) = (40 + 50) + (30 + 60) = 90 + 90 = 180
+     \]
+
+6. **Determine the number of eggs collected by the other 6 egg hunters.**
+   - We know the total number of eggs in the pile was 400 eggs.
+   - To find out how many eggs the other 6 hunters collected, we subtract the total eggs gathered by Tank and Emma from the overall total:
+     \[
+     \text{Eggs collected by others} = 400 - 180 = 220
+     \]
+
+Therefore, the number of eggs that the 6 other egg hunters collected is:
+</reasoning>
+<answer>220</answer>

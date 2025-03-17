@@ -1,0 +1,26 @@
+<reasoning>
+Let's start by defining the weights of the gerbils based on the information given.
+
+1. **Define Scruffy's weight**: We know that Scruffy weighs 12 ounces.
+   \[
+   \text{Weight of Scruffy} = 12 \text{ ounces}
+   \]
+
+2. **Calculate Muffy's weight**: Muffy weighs 3 ounces less than Scruffy. Therefore, we can calculate Muffy's weight as follows:
+   \[
+   \text{Weight of Muffy} = \text{Weight of Scruffy} - 3 \text{ ounces} = 12 \text{ ounces} - 3 \text{ ounces} = 9 \text{ ounces}
+   \]
+
+3. **Calculate Puffy's weight**: Puffy weighs 5 ounces more than Muffy. So we can calculate Puffy's weight:
+   \[
+   \text{Weight of Puffy} = \text{Weight of Muffy} + 5 \text{ ounces} = 9 \text{ ounces} + 5 \text{ ounces} = 14 \text{ ounces}
+   \]
+
+4. **Calculate the total weight of Puffy and Muffy**: Now we need to find out how much both Puffy and Muffy weigh together, which can be done by adding their weights:
+   \[
+   \text{Total weight} = \text{Weight of Puffy} + \text{Weight of Muffy} = 14 \text{ ounces} + 9 \text{ ounces} = 23 \text{ ounces}
+   \]
+
+Therefore, if Brittany puts Puffy and Muffy on the scale, the scale would indicate a total weight of 23 ounces.
+</reasoning>
+<answer>23</answer>

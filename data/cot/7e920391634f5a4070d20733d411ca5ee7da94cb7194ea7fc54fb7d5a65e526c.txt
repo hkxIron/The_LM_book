@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much the smaller house is being expanded by, we can follow these steps:
+
+1. **Identify the current square footage of both houses.**
+   - The smaller house has 5,200 sq. ft.
+   - The larger house has 7,300 sq. ft.
+
+2. **Calculate the current total square footage of both houses.**
+   \[
+   \text{Current Total} = \text{Smaller House} + \text{Larger House} = 5,200 + 7,300
+   \]
+   \[
+   \text{Current Total} = 12,500 \text{ sq. ft.}
+   \]
+
+3. **Determine the new total square footage after the expansion.**
+   - We are given that the new total square footage of both houses combined is 16,000 sq. ft.
+
+4. **Find out how much the total square footage has increased.**
+   \[
+   \text{Increase in Total Square Footage} = \text{New Total} - \text{Current Total} 
+   \]
+   \[
+   \text{Increase in Total Square Footage} = 16,000 - 12,500 = 3,500 \text{ sq. ft.}
+   \]
+
+5. **Since the larger house's square footage remains the same, the entire increase must come from the smaller house's expansion.** 
+   - Therefore, the smaller house is being expanded by 3,500 sq. ft.
+
+In conclusion, the calculation shows that the smaller house is expanded by 3,500 sq. ft.
+</reasoning>
+<answer>3500</answer>

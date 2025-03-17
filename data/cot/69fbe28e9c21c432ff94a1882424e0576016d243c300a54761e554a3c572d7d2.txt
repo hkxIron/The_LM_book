@@ -1,0 +1,30 @@
+<reasoning>
+To find the total number of street lights on all the roads in the town, we need to break the problem down into manageable steps.
+
+1. **Identify the number of neighborhoods and roads**: We know that there are 10 neighborhoods and each neighborhood has 4 roads.
+
+   \[
+   \text{Total roads} = \text{Number of neighborhoods} \times \text{Number of roads per neighborhood}
+   \]
+   \[
+   \text{Total roads} = 10 \times 4 = 40
+   \]
+
+2. **Determine the number of street lights per road**: Each road has 250 street lights on each side. Since there are two sides to each road, we multiply the number of lights on one side by 2:
+
+   \[
+   \text{Street lights per road} = 250 \times 2 = 500
+   \]
+
+3. **Calculate the total number of street lights across all roads**: Now that we know there are 40 roads and each road has 500 street lights, we can find the total number of street lights by multiplying the number of roads by the number of street lights per road:
+
+   \[
+   \text{Total street lights} = \text{Total roads} \times \text{Street lights per road}
+   \]
+   \[
+   \text{Total street lights} = 40 \times 500 = 20000
+   \]
+
+Thus, the total number of street lights on all the roads of the neighborhoods in the town is 20,000.
+</reasoning>
+<answer>20000</answer>

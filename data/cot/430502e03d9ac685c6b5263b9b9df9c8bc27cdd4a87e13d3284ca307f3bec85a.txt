@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many more exams Mrs. Watson needs to grade on Wednesday, let's break this problem down step by step.
+
+1. **Calculate the number of exams graded on Monday**:
+   - Mrs. Watson grades 60% of the 120 exams on Monday.
+   - To find 60% of 120, we multiply:
+   \[
+   120 \times 0.60 = 72
+   \]
+   So, she grades 72 exams on Monday.
+
+2. **Calculate the number of exams remaining after Monday**:
+   - After grading 72 exams, we subtract this from the total number of exams:
+   \[
+   120 - 72 = 48
+   \]
+   Thus, there are 48 exams remaining after Monday.
+
+3. **Calculate the number of exams graded on Tuesday**:
+   - On Tuesday, Mrs. Watson grades 75% of the remaining 48 exams.
+   - To find 75% of 48, we multiply:
+   \[
+   48 \times 0.75 = 36
+   \]
+   So, she grades 36 exams on Tuesday.
+
+4. **Calculate the number of exams remaining after Tuesday**:
+   - After grading 36 exams on Tuesday, we subtract this from the remaining exams:
+   \[
+   48 - 36 = 12
+   \]
+   Thus, there are 12 exams left to grade after Tuesday.
+
+5. **Determine how many more exams she needs to grade on Wednesday**:
+   - Since there are 12 exams remaining, this is the number she needs to grade on Wednesday.
+
+Therefore, on Wednesday, Mrs. Watson needs to grade 12 more exams.
+</reasoning>
+<answer>12</answer>

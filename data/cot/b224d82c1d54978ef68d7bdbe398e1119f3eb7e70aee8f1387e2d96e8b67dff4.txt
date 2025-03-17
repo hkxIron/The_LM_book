@@ -1,0 +1,42 @@
+<reasoning>
+To find the total number of blocks used in the 5-level pyramid, we will calculate the number of blocks in each row and then sum them up.
+
+1. **Identify the number of blocks in each row:**
+   - The first row has 9 blocks.
+   - For the second row, the child uses 2 less than the first row. So, the second row has:
+     \( 9 - 2 = 7 \) blocks.
+   - The third row will have 2 blocks less than the second row. Thus, it has:
+     \( 7 - 2 = 5 \) blocks.
+   - The fourth row will have 2 blocks less than the third row. Therefore, it has:
+     \( 5 - 2 = 3 \) blocks.
+   - The fifth row will have 2 blocks less than the fourth row. So, it has:
+     \( 3 - 2 = 1 \) block.
+
+2. **List the blocks in each row:**
+   - Row 1: 9 blocks
+   - Row 2: 7 blocks
+   - Row 3: 5 blocks
+   - Row 4: 3 blocks
+   - Row 5: 1 block
+
+3. **Calculate the total number of blocks:**
+   Now, we will add the number of blocks from all rows together:
+   \[
+   9 + 7 + 5 + 3 + 1
+   \]
+
+   - Start by adding the first two rows:
+     \( 9 + 7 = 16 \)
+   - Then add the third row:
+     \( 16 + 5 = 21 \)
+   - Next, add the fourth row:
+     \( 21 + 3 = 24 \)
+   - Finally, add the fifth row:
+     \( 24 + 1 = 25 \)
+
+4. **Final Calculation:**
+   Thus, the total number of blocks used in all 5 levels of the pyramid is 25.
+
+Therefore, the total number of blocks used is:
+</reasoning>
+<answer>25</answer>

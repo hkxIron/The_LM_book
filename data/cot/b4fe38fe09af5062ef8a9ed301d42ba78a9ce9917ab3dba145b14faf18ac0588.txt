@@ -1,0 +1,71 @@
+<reasoning>
+To find the average price Chris paid per movie, we need to follow these steps:
+
+1. **Calculate the total cost of DVDs:**  
+Chris bought 8 DVDs at a price of $12 each.  
+To find the total cost for the DVDs, we multiply the number of DVDs by the price per DVD:  
+\[ 
+\text{Total cost of DVDs} = 8 \times 12 
+\]  
+Calculating this gives:  
+\[ 
+8 \times 12 = 96 
+\]  
+So, the total cost for the DVDs is $96.
+
+2. **Calculate the total cost of Blu-rays:**  
+Chris bought 4 Blu-ray movies at a price of $18 each.  
+To find the total cost for the Blu-rays, we multiply the number of Blu-rays by the price per Blu-ray:  
+\[ 
+\text{Total cost of Blu-rays} = 4 \times 18 
+\]  
+Calculating this gives:  
+\[ 
+4 \times 18 = 72 
+\]  
+So, the total cost for the Blu-rays is $72.
+
+3. **Calculate the overall total cost:**  
+Now we need to find the total cost of all the movies combined:  
+\[ 
+\text{Total cost} = \text{Total cost of DVDs} + \text{Total cost of Blu-rays} 
+\]  
+Substituting the values we found:  
+\[ 
+\text{Total cost} = 96 + 72 
+\]  
+Calculating this gives:  
+\[ 
+96 + 72 = 168 
+\]  
+So, the total cost for all the movies is $168.
+
+4. **Calculate the total number of movies:**  
+To find the average price per movie, we first need to find the total number of movies Chris bought. He bought 8 DVDs and 4 Blu-rays:  
+\[ 
+\text{Total number of movies} = 8 + 4 
+\]  
+Calculating this gives:  
+\[ 
+8 + 4 = 12 
+\]  
+So, Chris bought a total of 12 movies.
+
+5. **Calculate the average price per movie:**  
+Now we can find the average price per movie by dividing the total cost by the total number of movies:  
+\[ 
+\text{Average price per movie} = \frac{\text{Total cost}}{\text{Total number of movies}} 
+\]  
+Substituting the values we have:  
+\[ 
+\text{Average price per movie} = \frac{168}{12} 
+\]  
+Calculating this gives:  
+\[ 
+\frac{168}{12} = 14 
+\]  
+So, the average price Chris paid per movie is $14.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>14</answer>

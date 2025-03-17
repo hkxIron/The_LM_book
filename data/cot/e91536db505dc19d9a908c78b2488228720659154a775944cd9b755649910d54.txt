@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many hours it takes Emily to write 10,800 words, we can start by determining how many words she can type in an hour. 
+
+1. **Calculate words per hour**: Since Emily types at a rate of 60 words per minute, we can find out how many words she can type in one hour (which is 60 minutes). 
+   \[
+   \text{Words per hour} = 60 \text{ words/minute} \times 60 \text{ minutes} = 3600 \text{ words/hour}
+   \]
+   This step is done because knowing her hourly typing rate will help us determine how long it takes to reach 10,800 words.
+
+2. **Determine the time taken to type 10,800 words**: Now that we know Emily types 3600 words in one hour, we can find out how many hours it takes her to type 10,800 words by dividing the total words by her hourly rate.
+   \[
+   \text{Time (in hours)} = \frac{10,800 \text{ words}}{3600 \text{ words/hour}} = 3 \text{ hours}
+   \]
+   This division gives us the total time in hours needed to write the full amount of words.
+
+Therefore, after calculating, we find that it takes Emily 3 hours to write 10,800 words.
+</reasoning>
+<answer>3</answer>

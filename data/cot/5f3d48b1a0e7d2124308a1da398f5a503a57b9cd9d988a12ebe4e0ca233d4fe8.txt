@@ -1,0 +1,39 @@
+<reasoning>
+To determine how many hours Claire spent crafting, we need to analyze the total hours in a day and how she allocated her time.
+
+1. **Total Hours in a Day**: 
+   There are 24 hours in a day.
+
+2. **Time Spent Cleaning and Cooking**: 
+   - Claire spends 4 hours cleaning.
+   - Claire spends 2 hours cooking.
+   
+   Now, let's sum these hours:
+   \[
+   \text{Total time for cleaning and cooking} = 4 \text{ hours} + 2 \text{ hours} = 6 \text{ hours}
+   \]
+
+3. **Time Spent Sleeping**: 
+   Claire sleeps for 8 hours.
+
+4. **Total Time Spent on Cleaning, Cooking, and Sleeping**: 
+   We need to add the time spent cleaning, cooking, and sleeping:
+   \[
+   \text{Total time for cleaning, cooking, and sleeping} = 6 \text{ hours} + 8 \text{ hours} = 14 \text{ hours}
+   \]
+
+5. **Remaining Time for Crafting and Tailoring**: 
+   Now, subtract the total time spent on cleaning, cooking, and sleeping from the total hours in a day:
+   \[
+   \text{Remaining time} = 24 \text{ hours} - 14 \text{ hours} = 10 \text{ hours}
+   \]
+
+6. **Dividing Remaining Time Between Crafting and Tailoring**: 
+   Claire divides the remaining time equally between crafting and tailoring. Since there are 10 hours left:
+   \[
+   \text{Time for crafting} = \text{Time for tailoring} = \frac{10 \text{ hours}}{2} = 5 \text{ hours}
+   \]
+
+Thus, Claire spends 5 hours crafting.
+</reasoning>
+<answer>5</answer>

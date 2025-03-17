@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the amount donated to the public foundation**: The company raised $2500 and donated 80% of this amount. 
+   - To find 80% of $2500, we multiply $2500 by 0.80:
+
+   \[
+   2500 \times 0.80 = 2000
+   \]
+
+   This means the company donated $2000 to the public foundation.
+
+2. **Determine how much each organization receives**: The foundation has 8 organizations. To find out how much each organization receives, we will divide the total amount donated ($2000) by the number of organizations (8):
+
+   \[
+   \frac{2000}{8} = 250
+   \]
+
+   This means each organization will receive $250.
+
+Therefore, after performing these calculations, we can conclude that each organization receives $250.
+</reasoning>
+<answer>250</answer>

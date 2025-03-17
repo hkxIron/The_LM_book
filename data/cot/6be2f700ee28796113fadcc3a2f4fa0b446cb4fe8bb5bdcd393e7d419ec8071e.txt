@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we need to determine how many girls are transported by the coaster vans during the field trip.
+
+1. **Calculate the total number of students being transported.**  
+   We know there are 5 vans and each van carries 28 students. To find the total number of students, we multiply the number of vans by the number of students each van can carry:
+   \[
+   \text{Total students} = \text{Number of vans} \times \text{Students per van} = 5 \times 28
+   \]
+
+   Performing the multiplication:  
+   \[
+   5 \times 28 = 140
+   \]  
+   So, there are a total of 140 students.
+
+2. **Determine the number of girls.**  
+   We know that out of the 140 students, 60 are boys. To find the number of girls, we subtract the number of boys from the total number of students:
+   \[
+   \text{Number of girls} = \text{Total students} - \text{Number of boys} = 140 - 60
+   \]
+
+   Performing the subtraction:  
+   \[
+   140 - 60 = 80
+   \]  
+   Therefore, there are 80 girls.
+
+In conclusion, after calculating the total students and subtracting the number of boys, we find that the number of girls is 80.
+</reasoning>
+<answer>80</answer>

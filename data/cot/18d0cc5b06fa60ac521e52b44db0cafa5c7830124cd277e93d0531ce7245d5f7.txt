@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much money Francie has remaining after buying the video game, we will follow these steps:
+
+1. **Calculate total allowance for the first 8 weeks**: Francie receives $5 a week for 8 weeks.
+   \[
+   \text{Total from first 8 weeks} = 5 \text{ dollars/week} \times 8 \text{ weeks} = 40 \text{ dollars}
+   \]
+
+2. **Calculate total allowance for the next 6 weeks**: After the raise, she receives $6 a week for 6 weeks.
+   \[
+   \text{Total from next 6 weeks} = 6 \text{ dollars/week} \times 6 \text{ weeks} = 36 \text{ dollars}
+   \]
+
+3. **Calculate total allowance**: Now we add the two amounts together to find her total savings.
+   \[
+   \text{Total allowance} = 40 \text{ dollars} + 36 \text{ dollars} = 76 \text{ dollars}
+   \]
+
+4. **Calculate amount spent on clothes**: Francie uses half of her total savings to buy new clothes.
+   \[
+   \text{Amount for clothes} = \frac{76 \text{ dollars}}{2} = 38 \text{ dollars}
+   \]
+
+5. **Calculate remaining money after buying clothes**: Now we subtract the amount spent on clothes from her total savings.
+   \[
+   \text{Remaining money} = 76 \text{ dollars} - 38 \text{ dollars} = 38 \text{ dollars}
+   \]
+
+6. **Subtract the cost of the video game**: Francie then uses the remaining money to buy a video game that costs $35.
+   \[
+   \text{Remaining after video game} = 38 \text{ dollars} - 35 \text{ dollars} = 3 \text{ dollars}
+   \]
+
+Now we have calculated all the necessary steps to find out how much money Francie has left after her purchases.
+</reasoning>
+<answer>3</answer>

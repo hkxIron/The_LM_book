@@ -1,0 +1,47 @@
+<reasoning>
+To find the total number of books in the pyramid, let's break this problem down step by step:
+
+1. **Identify the number of books on each level**: We know that the top level (level 4) has 64 books. Each level below it has 80% of the books in the level above.
+
+2. **Calculate the number of books in level 3**: 
+   \[
+   \text{Books in level 3} = 64 \div 0.8 = 80
+   \]
+   Here, we divide by 0.8 to find the number of books in the previous level since level 3 has 80% of level 4. 
+
+3. **Calculate the number of books in level 2**: 
+   \[
+   \text{Books in level 2} = 80 \div 0.8 = 100
+   \]
+   Similarly, we divide the number of books in level 3 by 0.8 to find the number of books in level 2.
+
+4. **Calculate the number of books in level 1**: 
+   \[
+   \text{Books in level 1} = 100 \div 0.8 = 125
+   \]
+   Again, we divide the number of books in level 2 by 0.8 to find the number of books in level 1.
+
+5. **Add up all the levels to find the total**: 
+   \[
+   \text{Total books} = \text{Books in level 1} + \text{Books in level 2} + \text{Books in level 3} + \text{Books in level 4}
+   \]
+   \[
+   \text{Total books} = 125 + 100 + 80 + 64
+   \]
+   Now let's add these numbers together:
+   - First, add 125 and 100:
+     \[
+     125 + 100 = 225
+     \]
+   - Next, add 225 and 80:
+     \[
+     225 + 80 = 305
+     \]
+   - Finally, add 305 and 64:
+     \[
+     305 + 64 = 369
+     \]
+
+Thus, the total number of books in the pyramid is 369.
+</reasoning>
+<answer>369</answer>

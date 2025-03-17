@@ -1,0 +1,39 @@
+<reasoning>
+First, let's calculate the total number of oranges produced by each sister.
+
+1. **Gabriela's oranges**:
+   - Gabriela has 110 trees.
+   - Each tree produces 600 oranges.
+   - Total oranges from Gabriela = Number of trees × Oranges per tree
+   - Total from Gabriela = 110 × 600 = 66,000 oranges.
+
+2. **Alba's oranges**:
+   - Alba also has 110 trees.
+   - Each tree produces 400 oranges.
+   - Total oranges from Alba = Number of trees × Oranges per tree
+   - Total from Alba = 110 × 400 = 44,000 oranges.
+
+3. **Maricela's oranges**:
+   - Maricela also has 110 trees.
+   - Each tree produces 500 oranges.
+   - Total oranges from Maricela = Number of trees × Oranges per tree
+   - Total from Maricela = 110 × 500 = 55,000 oranges.
+
+Next, we can find the total number of oranges produced by all three sisters combined:
+
+Total oranges = Gabriela's total + Alba's total + Maricela's total
+Total oranges = 66,000 + 44,000 + 55,000 = 165,000 oranges.
+
+Now, we need to determine how many cups of juice can be made from these oranges. Since it takes three medium-sized oranges to make one cup of juice, we calculate:
+
+Number of cups of juice = Total oranges ÷ Oranges per cup
+Number of cups of juice = 165,000 ÷ 3 = 55,000 cups of juice.
+
+Finally, we calculate the total revenue from selling the juice. Each cup is sold for $4, so:
+
+Total revenue = Number of cups of juice × Price per cup
+Total revenue = 55,000 × 4 = $220,000.
+
+Thus, the sisters will make a total of $220,000 from selling the orange juice.
+</reasoning>
+<answer>220000</answer>

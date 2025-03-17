@@ -1,0 +1,47 @@
+<reasoning>
+First, let's find out how much June spends on each type of book she buys.
+
+1. **Calculating the cost of maths books:**
+   June buys 4 maths books at $20 each. 
+   \[
+   \text{Cost of maths books} = 4 \text{ books} \times 20 \text{ dollars/book} = 80 \text{ dollars}
+   \]
+
+2. **Calculating the cost of science books:**
+   She buys six more science books than maths books. Since she bought 4 maths books, the number of science books she buys is:
+   \[
+   \text{Number of science books} = 4 + 6 = 10 \text{ books}
+   \]
+   Each science book costs $10, so:
+   \[
+   \text{Cost of science books} = 10 \text{ books} \times 10 \text{ dollars/book} = 100 \text{ dollars}
+   \]
+
+3. **Calculating the cost of art books:**
+   June buys twice as many art books as maths books. Since she bought 4 maths books, the number of art books is:
+   \[
+   \text{Number of art books} = 2 \times 4 = 8 \text{ books}
+   \]
+   Each art book costs $20, so:
+   \[
+   \text{Cost of art books} = 8 \text{ books} \times 20 \text{ dollars/book} = 160 \text{ dollars}
+   \]
+
+4. **Calculating total expenditure on books:**
+   Now we sum up all her expenditures on maths, science, and art books:
+   \[
+   \text{Total spent on books} = \text{Cost of maths books} + \text{Cost of science books} + \text{Cost of art books}
+   \]
+   \[
+   \text{Total spent on books} = 80 + 100 + 160 = 340 \text{ dollars}
+   \]
+
+5. **Calculating the remaining money for music books:**
+   June started with $500, so we subtract her total expenditure on books from her initial amount:
+   \[
+   \text{Money spent on music books} = 500 \text{ dollars} - 340 \text{ dollars} = 160 \text{ dollars}
+   \]
+
+Therefore, the amount of money June spent on music books is:
+</reasoning>
+<answer>160</answer>

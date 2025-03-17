@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem step by step, let's first analyze the information given:
+
+1. **Total Floors**: There are 12 floors in the block of flats.
+
+2. **Half of the Floors**: Half of the floors means \( \frac{12}{2} = 6 \) floors have 6 apartments each, and the other half, which is also 6 floors, have 5 apartments each.
+
+3. **Calculating Total Apartments**:
+   - For the 6 floors with 6 apartments each:
+     \[
+     6 \, \text{floors} \times 6 \, \text{apartments/floor} = 36 \, \text{apartments}
+     \]
+   - For the 6 floors with 5 apartments each:
+     \[
+     6 \, \text{floors} \times 5 \, \text{apartments/floor} = 30 \, \text{apartments}
+     \]
+
+4. **Total Number of Apartments**:
+   Now, we add the apartments from both types of floors:
+   \[
+   36 \, \text{apartments} + 30 \, \text{apartments} = 66 \, \text{apartments}
+   \]
+
+5. **Maximum Residents Per Apartment**: Each apartment can accommodate a maximum of 4 residents.
+
+6. **Calculating Maximum Residents**:
+   To find the maximum number of residents in the entire block, we multiply the total number of apartments by the maximum number of residents per apartment:
+   \[
+   66 \, \text{apartments} \times 4 \, \text{residents/apartment} = 264 \, \text{residents}
+   \]
+
+Therefore, the maximum number of residents that can live in this block of flats is 264.
+</reasoning>
+<answer>264</answer>

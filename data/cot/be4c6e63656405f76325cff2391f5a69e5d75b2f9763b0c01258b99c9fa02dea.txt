@@ -1,0 +1,67 @@
+<reasoning>
+Let's denote the number of sticks Bill throws as \( B_s \) and the number of rocks Bill throws as \( B_r \). Similarly, we'll denote the number of sticks Ted throws as \( T_s \) and the number of rocks Ted throws as \( T_r \).
+
+According to the problem, we have the following information:
+
+1. Ted tosses 10 sticks: 
+   \[
+   T_s = 10
+   \]
+
+2. Ted tosses 10 rocks: 
+   \[
+   T_r = 10
+   \]
+
+3. Bill throws 6 more sticks than Ted:
+   \[
+   B_s = T_s + 6
+   \]
+
+4. Ted tosses twice as many rocks as Bill:
+   \[
+   T_r = 2 \times B_r
+   \]
+
+Now, we can use the information we have to calculate the values.
+
+**Step 1: Calculate the number of sticks Bill throws.**
+
+Using the equation for the sticks Bill throws:
+\[
+B_s = T_s + 6
+\]
+Substituting \( T_s = 10 \):
+\[
+B_s = 10 + 6 = 16
+\]
+
+So, Bill throws 16 sticks.
+
+**Step 2: Calculate the number of rocks Bill throws.**
+
+Using the equation for the rocks Ted throws:
+\[
+T_r = 2 \times B_r
+\]
+Substituting \( T_r = 10 \):
+\[
+10 = 2 \times B_r
+\]
+To find \( B_r \), we divide both sides by 2:
+\[
+B_r = \frac{10}{2} = 5
+\]
+
+So, Bill throws 5 rocks.
+
+**Step 3: Calculate the total number of objects Bill tosses.**
+
+Now we need to find the total number of objects Bill tossed into the river. This includes both sticks and rocks:
+\[
+\text{Total objects by Bill} = B_s + B_r = 16 + 5 = 21
+\]
+
+Therefore, the total number of objects that Bill tossed into the river is 21.
+</reasoning>
+<answer>21</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+To find Bill's new win percentage after playing 100 more games, we will go through the problem step by step.
+
+1. **Calculate the number of games Bill has won so far.**
+   - Bill has played 200 games and won 63% of them. To find the number of games won, we multiply the total games played by the winning percentage:
+   \[
+   \text{Games won} = 200 \times 0.63 = 126
+   \]
+   This means Bill has won 126 games out of 200.
+
+2. **Determine the total number of games played after playing 100 more games.**
+   - After playing an additional 100 games, the total number of games played becomes:
+   \[
+   \text{Total games} = 200 + 100 = 300
+   \]
+
+3. **Calculate the number of games lost in the new batch of games.**
+   - Bill loses 43 of the 100 additional games he plays. Therefore, the number of games won in this batch is:
+   \[
+   \text{Games won in new batch} = 100 - 43 = 57
+   \]
+
+4. **Calculate the total number of games won after the new games.**
+   - To find the total number of games won, we add the games won from the original 200 games to the games won in the new batch:
+   \[
+   \text{Total games won} = 126 + 57 = 183
+   \]
+
+5. **Calculate the new win percentage.**
+   - The win percentage is calculated by taking the total number of games won and dividing it by the total number of games played, then multiplying by 100 to get a percentage:
+   \[
+   \text{Win percentage} = \left(\frac{183}{300}\right) \times 100
+   \]
+   Simplifying this gives:
+   \[
+   \text{Win percentage} = 61
+   \]
+
+Therefore, Bill's new win percentage after playing 100 more games is 61%.
+</reasoning>
+<answer>61</answer>

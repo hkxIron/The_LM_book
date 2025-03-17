@@ -1,0 +1,40 @@
+<reasoning>
+To find out how much John paid for his lawyer, we need to break down the costs step by step.
+
+1. **Calculate the total hours worked by the lawyer**: 
+   - The lawyer works 50 hours in court time.
+   - The preparation time is twice the court time: 
+     \[
+     \text{Prep time} = 2 \times 50 = 100 \text{ hours}
+     \]
+   - Therefore, the total hours the lawyer worked is:
+     \[
+     \text{Total hours} = \text{Court time} + \text{Prep time} = 50 + 100 = 150 \text{ hours}
+     \]
+
+2. **Calculate the hourly charges**:
+   - The lawyer charges $100 per hour.
+   - Now we can calculate the total hourly charges:
+     \[
+     \text{Total hourly charges} = \text{Total hours} \times \text{Hourly rate} = 150 \times 100 = 15000
+     \]
+
+3. **Add the upfront payment**:
+   - John pays $1000 upfront, so we add this to the total hourly charges:
+     \[
+     \text{Total cost} = \text{Total hourly charges} + \text{Upfront payment} = 15000 + 1000 = 16000
+     \]
+
+4. **Determine John's share of the total cost**:
+   - John's brother pays half of the total fee:
+     \[
+     \text{Brother's share} = \frac{16000}{2} = 8000
+     \]
+   - Therefore, John pays the remaining half:
+     \[
+     \text{John's payment} = 16000 - 8000 = 8000
+     \]
+
+Thus, John paid a total of $8000 for the lawyer.
+</reasoning>
+<answer>8000</answer>

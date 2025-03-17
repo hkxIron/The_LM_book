@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, we need to determine how much Luis paid for each pair of blue socks. We can break it down into steps.
+
+1. **Calculate the total cost of the red socks**: 
+   - Luis bought 4 pairs of red socks, and each pair costs $3.
+   - Total cost for red socks = Number of pairs × Cost per pair = 4 pairs × $3/pair = $12.
+   
+   This means Luis spent $12 on red socks.
+
+2. **Calculate the total amount he spent on blue socks**:
+   - We know that Luis spent a total of $42 on socks. 
+   - Therefore, the amount spent on blue socks = Total amount spent - Amount spent on red socks = $42 - $12 = $30.
+
+3. **Determine how much he paid for each pair of blue socks**:
+   - Luis bought 6 pairs of blue socks.
+   - To find the cost per pair of blue socks, we divide the total amount spent on blue socks by the number of pairs: 
+   - Cost per pair of blue socks = Total cost for blue socks / Number of pairs = $30 / 6 pairs = $5 per pair.
+
+Now we've determined that Luis paid $5 for each pair of blue socks.
+</reasoning>
+<answer>5</answer>

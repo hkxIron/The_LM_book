@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we need to calculate the total number of flights of stairs that Janice walks in a single day, both going up and down.
+
+1. **Calculate the total flights of stairs walked up:**
+   - Janice goes up the 3 flights of stairs 5 times in a day. 
+   - Therefore, we calculate the number of flights walked up as follows:
+     \[
+     \text{Flights up} = 3 \text{ flights} \times 5 \text{ times} = 15 \text{ flights}
+     \]
+
+2. **Calculate the total flights of stairs walked down:**
+   - Janice goes down the 3 flights of stairs 3 times in a day.
+   - Thus, we calculate the number of flights walked down as follows:
+     \[
+     \text{Flights down} = 3 \text{ flights} \times 3 \text{ times} = 9 \text{ flights}
+     \]
+
+3. **Add the total flights walked up and down:**
+   - To find the total number of flights Janice walks in a single day, we add the flights she walked up and down:
+     \[
+     \text{Total flights} = \text{Flights up} + \text{Flights down} = 15 \text{ flights} + 9 \text{ flights} = 24 \text{ flights}
+     \]
+
+Therefore, Janice walks a total of 24 flights of stairs in a single day.
+</reasoning>
+<answer>24</answer>

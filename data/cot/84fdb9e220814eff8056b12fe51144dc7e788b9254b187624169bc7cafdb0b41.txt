@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down Tina's boxing career step by step to determine her total number of wins and losses.
+
+1. **First 10 Fights**: Tina wins her first 10 fights. 
+   - Wins: 10
+   - Losses: 0
+
+2. **Next 5 Fights**: She wins 5 more fights.
+   - Total Wins now: 10 + 5 = 15
+   - Losses: 0
+
+3. **First Loss**: She then loses her first fight.
+   - Total Wins: 15
+   - Total Losses now: 0 + 1 = 1
+
+4. **Doubling Wins**: After that, she doubles her number of wins.
+   - Current Wins: 15
+   - Wins after doubling: 15 * 2 = 30
+   - Losses remain the same: 1
+
+5. **Second Loss**: She then loses again.
+   - Total Wins: 30
+   - Total Losses now: 1 + 1 = 2
+
+Now, we have:
+- Total Wins: 30
+- Total Losses: 2
+
+Next, we need to find how many more wins than losses she has:
+- Difference = Total Wins - Total Losses
+- Difference = 30 - 2 = 28
+
+Therefore, Tina has 28 more wins than losses at the end of her career.
+</reasoning>
+<answer>28</answer>

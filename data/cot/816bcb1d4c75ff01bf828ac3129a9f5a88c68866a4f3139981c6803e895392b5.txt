@@ -1,0 +1,44 @@
+<reasoning>
+To find out how much Donny has to pay for the apples, we will break down the costs based on the sizes of the apples he purchased.
+
+1. **Identify the quantities and costs:**
+   - Donny bought 6 small apples, which cost $1.5 each.
+   - Donny also bought 6 medium apples, which cost $2 each.
+   - Donny bought 8 big apples, which cost $3 each.
+
+2. **Calculate the total cost for each type of apple:**
+   - For the small apples:
+     \[
+     \text{Cost of small apples} = \text{Number of small apples} \times \text{Cost per small apple}
+     \]
+     \[
+     \text{Cost of small apples} = 6 \times 1.5 = 9
+     \]
+
+   - For the medium apples:
+     \[
+     \text{Cost of medium apples} = \text{Number of medium apples} \times \text{Cost per medium apple}
+     \]
+     \[
+     \text{Cost of medium apples} = 6 \times 2 = 12
+     \]
+
+   - For the big apples:
+     \[
+     \text{Cost of big apples} = \text{Number of big apples} \times \text{Cost per big apple}
+     \]
+     \[
+     \text{Cost of big apples} = 8 \times 3 = 24
+     \]
+
+3. **Add the total costs together:**
+   \[
+   \text{Total cost} = \text{Cost of small apples} + \text{Cost of medium apples} + \text{Cost of big apples}
+   \]
+   \[
+   \text{Total cost} = 9 + 12 + 24 = 45
+   \]
+
+Therefore, after calculating the costs of all the apples that Donny purchased, we find that he will have to pay a total of $45.
+</reasoning>
+<answer>45</answer>

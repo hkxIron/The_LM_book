@@ -1,0 +1,32 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial Count of Bingley's Bracelets**: Bingley starts with 5 bracelets.
+
+2. **Bracelets Given by Kelly**: Kelly has 16 bracelets and gives Bingley a fourth of her bracelets. 
+   - To find out how many bracelets Kelly gives, we calculate:
+     \[
+     \frac{1}{4} \times 16 = 4
+     \]
+   - Therefore, Kelly gives Bingley 4 bracelets.
+
+3. **Total Bracelets after Receiving from Kelly**: Now, we add the 4 bracelets Kelly gave to Bingley’s original 5 bracelets:
+   \[
+   5 + 4 = 9
+   \]
+   - So, after receiving the bracelets from Kelly, Bingley has 9 bracelets.
+
+4. **Bracelets Given to Little Sister**: Bingley gives a third of his bracelets to his little sister. 
+   - To find out how many bracelets this is, we calculate:
+     \[
+     \frac{1}{3} \times 9 = 3
+     \]
+   - Thus, Bingley gives away 3 bracelets to his little sister.
+
+5. **Total Bracelets Remaining**: Finally, we subtract the 3 bracelets given to his sister from the 9 bracelets he has:
+   \[
+   9 - 3 = 6
+   \]
+   - Therefore, Bingley has 6 bracelets remaining.
+</reasoning>
+<answer>6</answer>

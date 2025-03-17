@@ -1,0 +1,26 @@
+<reasoning>
+To determine how much Annie spent on candies, we first need to figure out how many candies she originally bought.
+
+1. **Identify the number of classmates**: Annie has 35 people in her class, which includes herself. Since she gives candies only to her classmates, we subtract 1 from the total:
+   \[
+   \text{Number of classmates} = 35 - 1 = 34
+   \]
+
+2. **Calculate the total number of candies given out**: Each classmate receives 2 candies. Therefore, the total number of candies given out is:
+   \[
+   \text{Total candies given out} = 34 \times 2 = 68
+   \]
+
+3. **Determine the number of candies Annie originally bought**: We know that after giving out 68 candies, Annie is left with 12 candies. Thus, the total number of candies she originally bought can be calculated as:
+   \[
+   \text{Total candies bought} = \text{Total candies given out} + \text{Candies left} = 68 + 12 = 80
+   \]
+
+4. **Calculate the cost of the candies**: Since each candy costs $0.1, we can find the total cost by multiplying the total number of candies by the cost per candy:
+   \[
+   \text{Total cost} = \text{Total candies bought} \times \text{Cost per candy} = 80 \times 0.1 = 8
+   \]
+
+Therefore, Annie spent a total of $8 on candies.
+</reasoning>
+<answer>8</answer>

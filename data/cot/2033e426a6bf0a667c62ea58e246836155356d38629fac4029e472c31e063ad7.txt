@@ -1,0 +1,34 @@
+<reasoning>
+First, let's calculate how many good oranges are available after throwing away the bad ones. There were initially 108 oranges, and 36 of them were bad.
+
+1. **Calculate the number of good oranges:**
+   We subtract the bad oranges from the total number of oranges:
+   \[
+   108 - 36 = 72
+   \]
+   This means there are 72 good oranges remaining.
+
+2. **Determine how many oranges each student would get if no oranges were thrown away:**
+   If there were no bad oranges, we would divide the total number of oranges by the number of students:
+   \[
+   \text{Oranges per student if none were bad} = \frac{108}{12} = 9
+   \]
+   So, each student would have received 9 oranges if none were bad.
+
+3. **Determine how many oranges each student gets now with the good oranges:**
+   Now, we divide the number of good oranges by the number of students:
+   \[
+   \text{Oranges per student now} = \frac{72}{12} = 6
+   \]
+   Each student will now receive 6 oranges.
+
+4. **Calculate the difference in the number of oranges each student receives:**
+   To find out how many oranges less each student gets now compared to the situation where no oranges were thrown away, we subtract the current amount from the previous amount:
+   \[
+   9 - 6 = 3
+   \]
+   Therefore, each student will receive 3 fewer oranges now than if no oranges had to be thrown away.
+
+Putting all the pieces together, we find that each student gets 3 less oranges now.
+</reasoning>
+<answer>3</answer>

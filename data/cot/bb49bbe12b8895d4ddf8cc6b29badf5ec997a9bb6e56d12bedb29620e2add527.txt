@@ -1,0 +1,20 @@
+<reasoning>
+We know that 40% of Mr. Sanchez's students received a grade below B. 
+
+This means that the remaining percentage of students must have received a grade of B or above.
+
+We calculate this by subtracting the percentage of students who got below B from the total percentage, which is 100%.
+
+100% - 40% = 60%
+
+So, 60% of Mr. Sanchez's students received a grade of B or above.
+
+To find the actual number of students who received a grade of B or above, we calculate 60% of the total number of students. 
+
+He has a total of 60 students, so we multiply 60 (students) by 0.60 (the decimal equivalent of 60%).
+
+60 * 0.60 = 36
+
+So, 36 of Mr. Sanchez's students received a grade of B or above.
+</reasoning>
+<answer>36</answer>

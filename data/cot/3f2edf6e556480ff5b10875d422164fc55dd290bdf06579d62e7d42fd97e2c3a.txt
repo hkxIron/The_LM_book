@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to calculate the volume of the balloon after each hour given that it increases by two-fifths of its previous volume.
+
+1. **Identify the initial volume**: The original volume of the balloon is given as 500 cm³.
+
+2. **Calculate the increase in volume after the first hour**: 
+   - The balloon increases by two-fifths of its previous volume.
+   - Two-fifths of 500 cm³ can be calculated as:
+     \[
+     \text{Increase after 1 hour} = \frac{2}{5} \times 500 = 200 \text{ cm}^3
+     \]
+   - Now, we add this increase to the original volume to find the new volume after the first hour:
+     \[
+     \text{Volume after 1 hour} = 500 + 200 = 700 \text{ cm}^3
+     \]
+
+3. **Calculate the increase in volume after the second hour**:
+   - Now we use the new volume (700 cm³) to find the increase for the second hour.
+   - Two-fifths of 700 cm³ is:
+     \[
+     \text{Increase after 2 hours} = \frac{2}{5} \times 700 = 280 \text{ cm}^3
+     \]
+   - We then add this increase to the volume after the first hour to find the volume after the second hour:
+     \[
+     \text{Volume after 2 hours} = 700 + 280 = 980 \text{ cm}^3
+     \]
+
+Therefore, the volume of the balloon after 2 hours underwater will be 980 cm³.
+</reasoning>
+<answer>980</answer>

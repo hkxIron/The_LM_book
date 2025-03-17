@@ -1,0 +1,41 @@
+<reasoning>
+First, let's determine how many trees the 5th graders planted. We know that they planted twice as many trees as the 4th graders.
+
+The 4th graders planted 30 trees, so:
+\[
+\text{Number of trees planted by 5th graders} = 2 \times 30 = 60
+\]
+
+Now, let's calculate how many trees the 6th graders planted. The problem states that they planted 30 fewer than thrice the number of trees planted by the 5th graders. 
+
+First, we find thrice the number of trees planted by the 5th graders:
+\[
+\text{Thrice the number of trees planted by 5th graders} = 3 \times 60 = 180
+\]
+
+Now, we subtract 30 from this amount to find out how many trees the 6th graders planted:
+\[
+\text{Number of trees planted by 6th graders} = 180 - 30 = 150
+\]
+
+Now we have:
+- 4th graders: 30 trees
+- 5th graders: 60 trees
+- 6th graders: 150 trees
+
+Next, we need to find the total number of trees planted by all the grades combined:
+\[
+\text{Total trees planted} = 30 + 60 + 150
+\]
+
+Calculating this gives:
+\[
+\text{Total trees planted} = 30 + 60 = 90
+\]
+\[
+90 + 150 = 240
+\]
+
+Therefore, the total number of trees planted altogether is:
+</reasoning>
+<answer>240</answer>

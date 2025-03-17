@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total cost without the discount**: First, we need to find out how much Clark would have paid without any discount for 7 parts that cost $80 each. We do this by multiplying the price of one part by the number of parts he bought.
+
+   \[
+   \text{Total cost without discount} = \text{Price per part} \times \text{Number of parts} = 80 \times 7
+   \]
+
+   Calculating this gives us:
+
+   \[
+   80 \times 7 = 560
+   \]
+
+   So, the total cost without the discount is $560.
+
+2. **Determine how much Clark actually paid**: According to the problem, Clark only paid $439 after receiving a discount. 
+
+3. **Calculate the discount amount**: To find out how much the discount was, we subtract the amount Clark paid from the total cost without the discount.
+
+   \[
+   \text{Discount} = \text{Total cost without discount} - \text{Amount paid} = 560 - 439
+   \]
+
+   Now, we do the subtraction:
+
+   \[
+   560 - 439 = 121
+   \]
+
+   Therefore, the discount Clark received is $121.
+</reasoning>
+<answer>121</answer>

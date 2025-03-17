@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the information given in the problem step by step.
+
+1. **Determine the number of letters Greta received:**
+   - We know that Greta's brother received 40 letters.
+   - According to the problem, Greta received 10 more letters than her brother.
+   - Therefore, we can calculate the number of letters Greta received as follows:
+     \[
+     \text{Letters Greta received} = \text{Letters brother received} + 10
+     \]
+     \[
+     \text{Letters Greta received} = 40 + 10 = 50
+     \]
+
+2. **Calculate the total number of letters received by Greta and her brother:**
+   - Now that we know how many letters each received, we can find the total number of letters they received together.
+   - This is done by adding the number of letters Greta received to the number of letters her brother received:
+     \[
+     \text{Total letters (Greta + Brother)} = \text{Letters Greta received} + \text{Letters brother received}
+     \]
+     \[
+     \text{Total letters (Greta + Brother)} = 50 + 40 = 90
+     \]
+
+3. **Calculate the number of letters received by Greta's mother:**
+   - The problem states that Greta's mother received twice the total number of letters that Greta and her brother received.
+   - Thus, we multiply the total letters they received by 2:
+     \[
+     \text{Letters mother received} = 2 \times \text{Total letters (Greta + Brother)}
+     \]
+     \[
+     \text{Letters mother received} = 2 \times 90 = 180
+     \]
+
+4. **Calculate the total number of letters received by all three (Greta, her brother, and their mother):**
+   - Finally, we find the total number of letters received by adding the letters from Greta, her brother, and her mother:
+     \[
+     \text{Total letters (all three)} = \text{Letters Greta received} + \text{Letters brother received} + \text{Letters mother received}
+     \]
+     \[
+     \text{Total letters (all three)} = 50 + 40 + 180 = 270
+     \]
+
+Therefore, the total number of letters received by Greta, her brother, and their mother is:
+</reasoning>
+<answer>270</answer>

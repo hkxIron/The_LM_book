@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many songs Skyler wrote in all, we need to calculate the total number of songs based on the information provided.
+
+1. **Hit Songs**: Skyler wrote 25 hit songs that made it on the top 10 charts. 
+   - This is our first value: **hit_songs = 25**.
+
+2. **Top 100 Songs**: Skyler wrote ten more songs that made it on the top 100 charts than the hit songs.
+   - This means the number of top 100 songs is: 
+   \[
+   top\_100\_songs = hit\_songs + 10 = 25 + 10 = 35
+   \]
+
+3. **Unreleased Songs**: Skyler wrote 5 fewer songs than the hit songs that were never released.
+   - This means the number of unreleased songs is:
+   \[
+   unreleased\_songs = hit\_songs - 5 = 25 - 5 = 20
+   \]
+
+4. **Total Songs**: Now, to find the total number of songs Skyler wrote, we will add the number of hit songs, top 100 songs, and unreleased songs together:
+   \[
+   total\_songs = hit\_songs + top\_100\_songs + unreleased\_songs = 25 + 35 + 20
+   \]
+
+5. **Calculating Total**:
+   - First, add the hit songs and the top 100 songs:
+   \[
+   25 + 35 = 60
+   \]
+   - Now, add the unreleased songs:
+   \[
+   60 + 20 = 80
+   \]
+
+Thus, Skyler wrote a total of 80 songs.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>80</answer>

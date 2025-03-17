@@ -1,0 +1,30 @@
+<reasoning>
+To find the price of one of the other pieces of clothing, we first need to determine how much Jangshe spent on the remaining pieces after accounting for the known prices.
+
+1. **Identify the total spent and the known costs:**
+   Jangshe spent a total of $610. Out of this, one piece cost $49 and another piece cost $81.
+
+2. **Calculate the total cost of the known pieces:**
+   We add the costs of the known pieces:
+   \[
+   49 + 81 = 130
+   \]
+   So, the total spent on the known pieces is $130.
+
+3. **Calculate the remaining amount spent on the other pieces:**
+   We subtract the total cost of the known pieces from the total amount spent:
+   \[
+   610 - 130 = 480
+   \]
+   Therefore, Jangshe spent $480 on the remaining 5 pieces of clothing.
+
+4. **Determine the cost of one of the other pieces:**
+   Since there are 5 pieces remaining and they are all the same price, we can find the price of one piece by dividing the total cost of the remaining pieces by the number of pieces:
+   \[
+   \frac{480}{5} = 96
+   \]
+   Thus, each of the other pieces costs $96.
+
+Therefore, the price of one of the other pieces is $96.
+</reasoning>
+<answer>96</answer>

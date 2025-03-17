@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we need to determine how much money Winston has initially, how much he spends, and then calculate how much he has left. 
+
+1. **Calculate the total value of the 14 quarters**: 
+   Each quarter is worth 25 cents. So, to find the total amount in cents that Winston has, we multiply the number of quarters by the value of each quarter.
+   \[
+   \text{Total value in cents} = 14 \text{ quarters} \times 25 \text{ cents/quarter} = 350 \text{ cents}
+   \]
+   This means Winston has 350 cents initially.
+
+2. **Calculate how much he spends**: 
+   Winston spends half a dollar on candy. Since 1 dollar is equal to 100 cents, half a dollar is:
+   \[
+   \text{Amount spent} = \frac{100}{2} = 50 \text{ cents}
+   \]
+
+3. **Calculate how much he has left**: 
+   To find out how much money Winston has left after spending 50 cents, we subtract the amount spent from the total amount he had.
+   \[
+   \text{Amount left} = 350 \text{ cents} - 50 \text{ cents} = 300 \text{ cents}
+   \]
+
+Therefore, after spending on candy, Winston has 300 cents left.
+</reasoning>
+<answer>300</answer>

@@ -1,0 +1,20 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the number of four-leaf clovers**: We know that 20% of the 500 clovers are four-leaved. To find out how many clovers this represents, we multiply 500 by 20%.
+
+   \[
+   \text{Number of four-leaf clovers} = 500 \times 0.20 = 100
+   \]
+
+2. **Calculate the number of purple clovers among the four-leaf clovers**: We are told that one quarter of the four-leaf clovers are purple. We have already determined that there are 100 four-leaf clovers, so we will find one quarter of this amount.
+
+   \[
+   \text{Number of purple four-leaf clovers} = 100 \times \frac{1}{4} = 25
+   \]
+
+Now we have calculated that there are 25 clovers that are both purple and four-leaved.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>25</answer>

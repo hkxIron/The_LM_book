@@ -1,0 +1,26 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the total amount of perfume needed**: We know that each bottle of perfume is 12 ounces, and Fern wants to make 20 bottles. Therefore, the total amount of perfume needed is:
+   \[
+   \text{Total ounces} = 20 \, \text{bottles} \times 12 \, \text{ounces/bottle} = 240 \, \text{ounces}
+   \]
+
+2. **Calculate the total number of rose petals required for 240 ounces of perfume**: Since it takes 320 rose petals to make 1 ounce of perfume, the total number of rose petals needed for 240 ounces is:
+   \[
+   \text{Total petals} = 240 \, \text{ounces} \times 320 \, \text{petals/ounce} = 76,800 \, \text{petals}
+   \]
+
+3. **Determine how many petals one rose produces**: Each rose produces 8 petals. Thus, the total number of roses needed to produce 76,800 petals is:
+   \[
+   \text{Total roses} = \frac{76,800 \, \text{petals}}{8 \, \text{petals/rose}} = 9,600 \, \text{roses}
+   \]
+
+4. **Calculate the number of bushes needed**: Since there are 12 roses per bush, the total number of bushes Fern needs to harvest is:
+   \[
+   \text{Total bushes} = \frac{9,600 \, \text{roses}}{12 \, \text{roses/bush}} = 800 \, \text{bushes}
+   \]
+
+By following these steps, we've determined that Fern needs to harvest 800 bushes to produce the desired amount of perfume.
+</reasoning>
+<answer>800</answer>

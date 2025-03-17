@@ -1,0 +1,46 @@
+<reasoning>
+Let's denote John's current age as \( x \).
+
+1. **Understanding the problem:** We are given two time frames related to John's age: 9 years from now and 11 years ago. We need to create an equation based on these time frames.
+
+2. **Expressing John's age in the future and the past:**
+   - John's age 9 years from now will be \( x + 9 \).
+   - John's age 11 years ago was \( x - 11 \).
+
+3. **Setting up the equation:** According to the problem, in 9 years, John will be 3 times as old as he was 11 years ago. This gives us the equation:
+   \[
+   x + 9 = 3(x - 11)
+   \]
+
+4. **Expanding the equation:** Now, we will distribute the 3 on the right side of the equation:
+   \[
+   x + 9 = 3x - 33
+   \]
+
+5. **Rearranging the equation:** To solve for \( x \), we will move all the terms involving \( x \) to one side and the constant terms to the other side. First, subtract \( x \) from both sides:
+   \[
+   9 = 3x - x - 33
+   \]
+   This simplifies to:
+   \[
+   9 = 2x - 33
+   \]
+
+6. **Adding 33 to both sides:** 
+   \[
+   9 + 33 = 2x
+   \]
+   \[
+   42 = 2x
+   \]
+
+7. **Dividing by 2:** 
+   \[
+   x = \frac{42}{2} = 21
+   \]
+
+8. **Conclusion:** John is currently 21 years old.
+
+Therefore, after carefully setting up and solving the equation, we find:
+</reasoning>
+<answer>21</answer>

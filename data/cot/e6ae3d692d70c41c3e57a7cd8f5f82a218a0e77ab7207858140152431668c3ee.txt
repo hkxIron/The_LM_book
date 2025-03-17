@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we start by defining the variables we need:
+
+1. Let \( T \) be the number of tripodasauruses in the flock.
+2. Each tripodasaurus has 1 head and 3 legs.
+
+Next, we can determine how many heads and legs there are in total:
+
+- Since each tripodasaurus has 1 head, the total number of heads from \( T \) tripodasauruses is \( T \).
+- Since each tripodasaurus has 3 legs, the total number of legs from \( T \) tripodasauruses is \( 3T \).
+
+Now, we can express the total number of heads and legs:
+
+\[
+\text{Total heads and legs} = T + 3T = 4T
+\]
+
+According to the problem, the total number of heads and legs is 20. Therefore, we can set up the equation:
+
+\[
+4T = 20
+\]
+
+Next, we solve for \( T \) by dividing both sides of the equation by 4:
+
+\[
+T = \frac{20}{4} = 5
+\]
+
+This tells us that there are 5 tripodasauruses in the flock. 
+
+To ensure the solution is correct, we can verify:
+
+- If there are 5 tripodasauruses, then the total number of heads is \( 5 \) and the total number of legs is \( 3 \times 5 = 15 \).
+- The total heads and legs combined is \( 5 + 15 = 20 \), which matches the information given in the problem.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

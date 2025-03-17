@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we need to determine how many sharks are in Cape May based on the information provided about Daytona Beach.
+
+1. **Identify the number of sharks in Daytona Beach**: 
+   The problem states that Daytona Beach has 12 sharks. 
+
+2. **Translate the given relationship**: 
+   The problem also tells us that Cape May has 8 more than twice the number of sharks in Daytona Beach. We can express this relationship mathematically. If we let \( C \) represent the number of sharks in Cape May, we can write the equation:
+   \[
+   C = 2 \times (\text{number of sharks in Daytona Beach}) + 8
+   \]
+
+3. **Substitute the known value**: 
+   Since we know that Daytona Beach has 12 sharks, we can substitute this value into our equation:
+   \[
+   C = 2 \times 12 + 8
+   \]
+
+4. **Perform the multiplication**: 
+   Now, we calculate \( 2 \times 12 \):
+   \[
+   2 \times 12 = 24
+   \]
+
+5. **Add 8 to the result**: 
+   Next, we add 8 to the result from the multiplication:
+   \[
+   C = 24 + 8
+   \]
+
+6. **Calculate the final result**: 
+   Now, we add 24 and 8:
+   \[
+   C = 32
+   \]
+
+Therefore, the number of sharks in Cape May is 32.
+</reasoning>
+<answer>32</answer>

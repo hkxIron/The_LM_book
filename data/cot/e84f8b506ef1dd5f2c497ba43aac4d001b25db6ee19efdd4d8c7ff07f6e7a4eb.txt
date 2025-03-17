@@ -1,0 +1,22 @@
+<reasoning>
+To find out Maximoff's total monthly bill after the increase, we need to follow these steps:
+
+1. **Determine the amount of the increase**: Since his monthly bill increased by thirty percent, we first need to calculate thirty percent of his original bill.
+
+   - His original monthly bill is $60.
+   - To find thirty percent, we convert the percentage to a decimal: 30% = 0.30.
+   - Now, multiply his original bill by this decimal: 
+     \[
+     60 \times 0.30 = 18
+     \]
+   So, the increase in his bill is $18.
+
+2. **Calculate the new total monthly bill**: Now that we know the increase, we can find the total monthly bill by adding the increase to the original bill.
+   \[
+   60 + 18 = 78
+   \]
+   Therefore, his total monthly bill working from home is $78.
+
+Thus, we have followed the steps of finding the increase and then adding it to the original bill.
+</reasoning>
+<answer>78</answer>

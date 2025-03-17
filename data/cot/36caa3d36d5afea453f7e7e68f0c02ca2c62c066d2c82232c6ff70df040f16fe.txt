@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the current situation**: 
+   We know the cost of transporting 80 bags of cement, and each bag weighs 50 kg. The total cost for this is $6000.
+
+2. **Calculate the weight of the current bags**: 
+   The total weight of 80 bags can be calculated as follows:
+   \[
+   \text{Total weight} = \text{Number of bags} \times \text{Weight per bag} = 80 \times 50 = 4000 \text{ kg}
+   \]
+
+3. **Determine the cost per kg**: 
+   Next, we need to find out how much it costs to transport per kg. We do this by dividing the total cost by the total weight:
+   \[
+   \text{Cost per kg} = \frac{\text{Total cost}}{\text{Total weight}} = \frac{6000}{4000} = 1.5 \text{ dollars per kg}
+   \]
+
+4. **Calculate the new scenario**: 
+   We need to transport three times as many bags, which means:
+   \[
+   \text{New number of bags} = 3 \times 80 = 240 \text{ bags}
+   \]
+
+5. **Calculate the new weight of each bag**: 
+   Each new bag weighs 3/5 of the original weight (50 kg):
+   \[
+   \text{Weight of each new bag} = \frac{3}{5} \times 50 = 30 \text{ kg}
+   \]
+
+6. **Calculate the total weight of the new bags**: 
+   Now, we can calculate the total weight for the 240 new bags:
+   \[
+   \text{Total weight of new bags} = 240 \times 30 = 7200 \text{ kg}
+   \]
+
+7. **Calculate the total cost for transporting the new bags**: 
+   Using the cost per kg we found earlier, we can calculate the total cost for transporting 7200 kg:
+   \[
+   \text{Total cost} = \text{Total weight} \times \text{Cost per kg} = 7200 \times 1.5 = 10800 \text{ dollars}
+   \]
+
+So, the total cost of transporting three times as many cement bags, each weighing 3/5 of the original weight, is $10800.
+</reasoning>
+<answer>10800</answer>

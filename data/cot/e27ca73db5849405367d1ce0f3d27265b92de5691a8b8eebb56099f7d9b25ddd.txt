@@ -1,0 +1,54 @@
+<reasoning>
+Let's define the number of chicken nuggets Alyssa ate as \( x \).
+
+According to the problem, Keely and Kendall each ate twice as many nuggets as Alyssa. Therefore, we can express the number of nuggets eaten by Keely and Kendall as follows:
+- Keely ate: \( 2x \)
+- Kendall ate: \( 2x \)
+
+Now, we can set up an equation to represent the total number of chicken nuggets eaten by all three of them. The total is given as 100 nuggets:
+
+\[
+x + 2x + 2x = 100
+\]
+
+Now, let's simplify the left side of the equation:
+
+\[
+x + 2x + 2x = 5x
+\]
+
+So, we have:
+
+\[
+5x = 100
+\]
+
+Next, we will solve for \( x \) by dividing both sides of the equation by 5:
+
+\[
+x = \frac{100}{5}
+\]
+
+Calculating the right side gives:
+
+\[
+x = 20
+\]
+
+This means Alyssa ate 20 chicken nuggets. 
+
+To confirm, we can check how many nuggets Keely and Kendall ate:
+- Keely ate \( 2x = 2 \times 20 = 40 \)
+- Kendall ate \( 2x = 2 \times 20 = 40 \)
+
+Now, adding all of them together should equal 100:
+
+\[
+20 + 40 + 40 = 100
+\]
+
+Since the total is correct, we have confirmed our solution.
+
+Therefore, Alyssa ate:
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Define the weights**: 
+   - Let \( T \) be the weight of Karen's tote bag, which is given as \( T = 8 \) pounds.
+   - Let \( B \) be the weight of Kevin's empty briefcase.
+   - The problem states that Karen’s tote is twice the weight of Kevin’s briefcase when it's empty: 
+     \[
+     T = 2B \Rightarrow 8 = 2B \Rightarrow B = \frac{8}{2} = 4 \text{ pounds}
+     \]
+
+2. **Weight of the full briefcase**:
+   - When Kevin puts his laptop and work papers in his briefcase, it becomes twice the weight of Karen's tote. Therefore, the full weight of Kevin's briefcase (with contents) is:
+     \[
+     \text{Full briefcase weight} = 2T = 2 \times 8 = 16 \text{ pounds}
+     \]
+
+3. **Weight of the contents in the briefcase**:
+   - The weight of the contents of the briefcase is calculated as:
+     \[
+     \text{Weight of contents} = \text{Weight of full briefcase} - \text{Weight of empty briefcase} = 16 - 4 = 12 \text{ pounds}
+     \]
+
+4. **Weight of work papers**:
+   - According to the problem, Kevin’s work papers account for a sixth of the weight of the contents of his full briefcase:
+     \[
+     \text{Weight of work papers} = \frac{1}{6} \times 12 = 2 \text{ pounds}
+     \]
+
+5. **Weight of the laptop**:
+   - To find the weight of the laptop, we subtract the weight of the work papers from the total weight of the contents:
+     \[
+     \text{Weight of laptop} = \text{Weight of contents} - \text{Weight of work papers} = 12 - 2 = 10 \text{ pounds}
+     \]
+
+6. **Finding the difference**:
+   - Finally, we need to find out how many more pounds Kevin’s laptop weighs than Karen’s tote:
+     \[
+     \text{Difference} = \text{Weight of laptop} - \text{Weight of tote} = 10 - 8 = 2 \text{ pounds}
+     \]
+
+Therefore, the answer is that Kevin's laptop weighs 2 pounds more than Karen’s tote.
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many more minutes it will take Mason to download the game, we need to follow these steps:
+
+1. **Determine how much of the game is left to download**: 
+   - The total size of the game is 880 MB.
+   - Mason has already downloaded 310 MB.
+   - Therefore, the remaining size to download is:
+     \[
+     \text{Remaining size} = \text{Total size} - \text{Downloaded size} = 880 \text{ MB} - 310 \text{ MB} = 570 \text{ MB}
+     \]
+
+2. **Calculate the download speed**: 
+   - Mason's Internet connection has slowed down to 3 MB/minute.
+
+3. **Determine how long it will take to download the remaining size**: 
+   - To find out how many minutes it will take to download the remaining 570 MB at the speed of 3 MB/minute, we can use the formula:
+     \[
+     \text{Time} = \frac{\text{Remaining size}}{\text{Download speed}} = \frac{570 \text{ MB}}{3 \text{ MB/minute}}
+     \]
+   - Performing the division:
+     \[
+     \text{Time} = 190 \text{ minutes}
+     \]
+
+Therefore, Mason will take 190 more minutes to finish downloading the game.
+</reasoning>
+<answer>190</answer>

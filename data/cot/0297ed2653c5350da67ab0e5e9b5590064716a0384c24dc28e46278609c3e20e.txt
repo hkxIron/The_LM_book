@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to determine how many $20 bills Tye received after withdrawing money from both banks.
+
+1. **Calculate the total amount of money withdrawn**: 
+   Tye withdraws $300 from each bank. Since there are two banks, we multiply the amount withdrawn from one bank by 2.
+   
+   \[
+   \text{Total amount withdrawn} = 300 \text{ (from bank 1)} + 300 \text{ (from bank 2)} = 600
+   \]
+
+2. **Determine the denomination of the bills**:
+   Tye received his total withdrawal in $20 bills.
+
+3. **Calculate the number of $20 bills**:
+   To find out how many $20 bills make up the total amount of $600, we divide the total amount by the denomination of the bills.
+
+   \[
+   \text{Number of bills} = \frac{\text{Total amount}}{\text{Value of each bill}} = \frac{600}{20}
+   \]
+
+4. **Perform the division**:
+   Now we perform the division to find how many $20 bills there are.
+
+   \[
+   \frac{600}{20} = 30
+   \]
+
+Therefore, Tye received 30 $20 bills in total.
+</reasoning>
+<answer>30</answer>

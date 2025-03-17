@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much Ben's lawnmower is worth after the value drops, we will calculate the value step by step.
+
+1. **Initial Purchase Price**: Ben bought the lawnmower for $100.
+
+2. **First Value Drop (25% decrease)**: 
+   - To find the value after the first drop, we need to calculate 25% of $100.
+   - 25% in decimal form is 0.25. Therefore, the amount of the drop is:
+     \[
+     0.25 \times 100 = 25
+     \]
+   - Now, we subtract this drop from the initial price:
+     \[
+     100 - 25 = 75
+     \]
+   - So, after the first six months, the lawnmower is worth $75.
+
+3. **Second Value Drop (20% decrease)**: 
+   - Now we need to find the new value after a 20% decrease from $75.
+   - First, calculate 20% of $75:
+     \[
+     0.20 \times 75 = 15
+     \]
+   - Now we subtract this drop from the current value:
+     \[
+     75 - 15 = 60
+     \]
+   - Therefore, after the second drop, the lawnmower is worth $60.
+
+Putting it all together, after the two drops in value, Ben's lawnmower is worth $60.
+</reasoning>
+<answer>60</answer>

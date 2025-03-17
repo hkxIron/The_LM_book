@@ -1,0 +1,57 @@
+<reasoning>
+To solve this problem, we will break it down into steps, calculating how many pencils Jeff and Vicki donated, and then finding out how many pencils they have remaining.
+
+Step 1: Calculate how many pencils Jeff donated.
+- Jeff had 300 pencils and donated 30% of them.
+- To find 30% of 300, we multiply 300 by 0.30.
+  
+  \[
+  300 \times 0.30 = 90
+  \]
+
+This means Jeff donated 90 pencils.
+
+Step 2: Determine how many pencils Jeff has remaining.
+- We subtract the number of pencils Jeff donated from the total number of pencils he had.
+  
+  \[
+  300 - 90 = 210
+  \]
+
+Therefore, Jeff has 210 pencils remaining.
+
+Step 3: Calculate how many pencils Vicki had.
+- Vicki had twice as many pencils as Jeff. Since Jeff had 300 pencils, Vicki has:
+  
+  \[
+  2 \times 300 = 600
+  \]
+
+Step 4: Calculate how many pencils Vicki donated.
+- Vicki donated 3/4 of his pencils. To find 3/4 of 600, we multiply 600 by 3/4.
+  
+  \[
+  600 \times \frac{3}{4} = 450
+  \]
+
+So, Vicki donated 450 pencils.
+
+Step 5: Determine how many pencils Vicki has remaining.
+- We subtract the number of pencils Vicki donated from the total number of pencils she had.
+  
+  \[
+  600 - 450 = 150
+  \]
+
+Thus, Vicki has 150 pencils remaining.
+
+Step 6: Calculate the total number of pencils remaining for both Jeff and Vicki.
+- We add the remaining pencils of Jeff and Vicki together:
+  
+  \[
+  210 + 150 = 360
+  \]
+
+Therefore, the total number of pencils remaining altogether is 360.
+</reasoning>
+<answer>360</answer>

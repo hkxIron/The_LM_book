@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Understand the Ratios**: The wire is cut into three pieces in the ratio of 7:3:2. This means if we denote the lengths of these pieces as 7x, 3x, and 2x, where x is a common multiplier.
+
+2. **Identify the Shortest Piece**: The shortest piece corresponds to the smallest number in the ratio, which is 2x. We are given that this shortest piece is 16 cm. Therefore, we can set up the equation:
+   \[
+   2x = 16
+   \]
+
+3. **Solve for x**: To find x, we will divide both sides of the equation by 2:
+   \[
+   x = \frac{16}{2} = 8
+   \]
+
+4. **Calculate the Lengths of Each Piece**: Now that we have x, we can find the lengths of each piece:
+   - First piece: \(7x = 7 \times 8 = 56 \text{ cm}\)
+   - Second piece: \(3x = 3 \times 8 = 24 \text{ cm}\)
+   - Third piece: \(2x = 2 \times 8 = 16 \text{ cm}\) (this matches our given shortest piece)
+
+5. **Find the Total Length of the Wire**: To find the total length of the wire, we simply add the lengths of all three pieces:
+   \[
+   \text{Total Length} = 56 \text{ cm} + 24 \text{ cm} + 16 \text{ cm} = 96 \text{ cm}
+   \]
+
+Therefore, the original length of the wire before it was cut is:
+</reasoning>
+<answer>96</answer>

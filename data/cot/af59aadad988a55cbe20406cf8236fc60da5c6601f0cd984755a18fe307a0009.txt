@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we need to determine how many ounces of oil Sonja used in her 20-ounce batch of peanut butter, given the ratio of oil to peanuts.
+
+1. **Understand the ratio**: Sonja uses a ratio of 2 ounces of oil for every 8 ounces of peanuts. This means for every 10 ounces of total mixture (2 ounces of oil + 8 ounces of peanuts), the proportion of oil is 2 ounces.
+
+2. **Calculate the total parts**: The total mixture consists of peanuts and oil. The total parts in the ratio can be calculated as:
+   \[
+   \text{Total parts} = \text{parts of oil} + \text{parts of peanuts} = 2 + 8 = 10
+   \]
+
+3. **Determine the proportion of oil in the total mixture**: To find out how much of the total mixture is oil, we take the ratio of oil to total parts:
+   \[
+   \text{Proportion of oil} = \frac{\text{parts of oil}}{\text{total parts}} = \frac{2}{10} = \frac{1}{5}
+   \]
+
+4. **Calculate the amount of oil in the 20-ounce batch**: Since the entire batch weighs 20 ounces, we multiply the total weight by the proportion of oil:
+   \[
+   \text{Amount of oil} = \text{Total weight} \times \text{Proportion of oil} = 20 \times \frac{1}{5} = 4 \text{ ounces}
+   \]
+
+Thus, Sonja used 4 ounces of oil in her last batch of peanut butter.
+</reasoning>
+<answer>4</answer>

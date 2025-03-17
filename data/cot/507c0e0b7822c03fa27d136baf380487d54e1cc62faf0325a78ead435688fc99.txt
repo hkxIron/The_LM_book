@@ -1,0 +1,47 @@
+<reasoning>
+To solve the problem, we need to calculate the total points Liz scores and then determine how that affects the overall score of her team compared to the opposing team.
+
+1. **Determine Liz's points from each type of shot:**
+   - Free throws are worth 1 point each. Liz made 5 free throws, so:
+     \[
+     \text{Points from free throws} = 5 \text{ free throws} \times 1 \text{ point/free throw} = 5 \text{ points}
+     \]
+
+   - Three-pointers are worth 3 points each. Liz made 3 three-pointers, so:
+     \[
+     \text{Points from three-pointers} = 3 \text{ three-pointers} \times 3 \text{ points/three-pointer} = 9 \text{ points}
+     \]
+
+   - Other jump shots are typically worth 2 points each. Liz made 4 jump shots, so:
+     \[
+     \text{Points from jump shots} = 4 \text{ jump shots} \times 2 \text{ points/jump shot} = 8 \text{ points}
+     \]
+
+2. **Calculate Liz's total points scored in the quarter:**
+   Now, we sum up all the points from the different types of shots:
+   \[
+   \text{Total points by Liz} = 5 \text{ points} + 9 \text{ points} + 8 \text{ points} = 22 \text{ points}
+   \]
+
+3. **Account for the other team's score:**
+   The other team scores 10 points in the final quarter.
+
+4. **Calculate the final score difference:**
+   Initially, Liz's team was down by 20 points. After Liz scores 22 points and the other team scores 10 points, the new score difference is:
+   \[
+   \text{New score difference} = \text{Initial deficit} - \text{Liz's points} + \text{Other team's points}
+   \]
+   Plugging in the values:
+   \[
+   \text{New score difference} = 20 - 22 + 10 = 20 - 22 + 10 = 8 \text{ points}
+   \]
+
+5. **Determine how much Liz's team loses by:**
+   Since Liz's team was initially down by 20 points and they managed to reduce that to an 8-point difference, the final loss is:
+   \[
+   \text{Final loss} = 8 \text{ points}
+   \]
+
+Thus, Liz's team loses by 8 points at the end of the game.
+</reasoning>
+<answer>8</answer>

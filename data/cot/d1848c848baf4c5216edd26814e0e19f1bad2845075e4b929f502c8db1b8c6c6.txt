@@ -1,0 +1,30 @@
+<reasoning>
+Let's analyze the problem step by step.
+
+1. **Initial Completion**: Georgia has completed 10 problems after the first 20 minutes.
+   - This is simply given in the problem.
+
+2. **Completion in the Next 20 Minutes**: The problem states that after another 20 minutes, she has completed twice as many problems as she did in the first 20 minutes.
+   - Since she completed 10 problems in the first 20 minutes, in the next 20 minutes she completes:
+     \[
+     2 \times 10 = 20 \text{ problems.}
+     \]
+
+3. **Total Problems Completed**: Now, we add the problems she completed in both time periods:
+   - After the first 20 minutes, she completed 10 problems.
+   - After the next 20 minutes, she completed 20 problems.
+   - Therefore, the total number of problems completed is:
+     \[
+     10 + 20 = 30 \text{ problems.}
+     \]
+
+4. **Total Problems on the Test**: The test consists of 75 problems in total.
+
+5. **Calculating Remaining Problems**: We need to find out how many problems Georgia has left to solve. To do this, we subtract the number of problems she has completed from the total number of problems:
+   \[
+   75 - 30 = 45 \text{ problems left.}
+   \]
+
+Therefore, Georgia has 45 problems left to solve.
+</reasoning>
+<answer>45</answer>

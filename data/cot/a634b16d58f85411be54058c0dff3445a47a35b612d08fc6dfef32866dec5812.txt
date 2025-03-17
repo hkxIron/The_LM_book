@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many goals Xavier can score in a 2-hour match, we first need to convert the time from hours to minutes because the scoring rate is given in goals per 15 minutes.
+
+1. **Convert 2 hours to minutes:**
+   - There are 60 minutes in an hour.
+   - Therefore, for 2 hours: 
+     \[
+     2 \text{ hours} \times 60 \text{ minutes/hour} = 120 \text{ minutes}
+     \]
+
+2. **Determine how many 15-minute intervals are in 120 minutes:**
+   - We divide the total minutes by the interval of 15 minutes:
+     \[
+     \frac{120 \text{ minutes}}{15 \text{ minutes/interval}} = 8 \text{ intervals}
+     \]
+
+3. **Calculate the total number of goals scored in 120 minutes:**
+   - If Xavier scores 2 goals on average in each 15-minute interval, we can find the total goals by multiplying the number of intervals by the average goals per interval:
+     \[
+     8 \text{ intervals} \times 2 \text{ goals/interval} = 16 \text{ goals}
+     \]
+
+Thus, after performing all these calculations step by step, we find that Xavier is able to score a total of 16 goals during a 2-hour match.
+</reasoning>
+<answer>16</answer>

@@ -1,0 +1,43 @@
+<reasoning>
+To find out how much the group of 5 children spent altogether, we will calculate the total cost for each activity they participated in and then sum those costs.
+
+1. **Ferris Wheel Cost:**
+   - Only 3 children went on the Ferris wheel.
+   - The cost for each child is $5.
+   - So, the total cost for the Ferris wheel is calculated as follows:
+     \[
+     \text{Total cost for Ferris wheel} = 3 \text{ children} \times 5 \text{ dollars/child} = 15 \text{ dollars}
+     \]
+
+2. **Merry-Go-Round Cost:**
+   - All 5 children went on the merry-go-round.
+   - The cost for each child is $3.
+   - Thus, the total cost for the merry-go-round is:
+     \[
+     \text{Total cost for merry-go-round} = 5 \text{ children} \times 3 \text{ dollars/child} = 15 \text{ dollars}
+     \]
+
+3. **Ice Cream Cost:**
+   - Each child bought 2 cones of ice cream.
+   - There are 5 children, and each cone costs $8.
+   - First, we calculate the total number of cones:
+     \[
+     \text{Total cones} = 5 \text{ children} \times 2 \text{ cones/child} = 10 \text{ cones}
+     \]
+   - Now, we can find the total cost for the ice cream:
+     \[
+     \text{Total cost for ice cream} = 10 \text{ cones} \times 8 \text{ dollars/cone} = 80 \text{ dollars}
+     \]
+
+4. **Total Cost Calculation:**
+   - Now we add up all the costs together:
+     \[
+     \text{Total cost} = \text{Cost for Ferris wheel} + \text{Cost for merry-go-round} + \text{Cost for ice cream}
+     \]
+     \[
+     \text{Total cost} = 15 \text{ dollars} + 15 \text{ dollars} + 80 \text{ dollars} = 110 \text{ dollars}
+     \]
+
+Therefore, the total amount spent by the children at the amusement park is:
+</reasoning>
+<answer>110</answer>

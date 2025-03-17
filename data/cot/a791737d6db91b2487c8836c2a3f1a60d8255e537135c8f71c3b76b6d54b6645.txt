@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem, we'll follow these steps:
+
+1. **Determine the sales amount for a good week.**  
+   We know that during a tough week, Haji's mother sells goods worth $800, which is half the amount she sells on a good week. This means that the amount she sells on a good week is double that of a tough week.
+
+   \[
+   \text{Amount sold in a good week} = 2 \times \text{Amount sold in a tough week}
+   \]
+   \[
+   \text{Amount sold in a good week} = 2 \times 800 = 1600
+   \]
+
+2. **Calculate the total sales for 5 good weeks.**  
+   Now that we know she sells $1600 in a good week, we can find out how much she makes in 5 good weeks.
+
+   \[
+   \text{Total for 5 good weeks} = 5 \times 1600
+   \]
+   \[
+   \text{Total for 5 good weeks} = 8000
+   \]
+
+3. **Calculate the total sales for 3 tough weeks.**  
+   We already know that she sells $800 in a tough week. Now we can calculate her total sales for 3 tough weeks.
+
+   \[
+   \text{Total for 3 tough weeks} = 3 \times 800
+   \]
+   \[
+   \text{Total for 3 tough weeks} = 2400
+   \]
+
+4. **Find the total amount of money she makes over both weeks.**  
+   To find the overall total, we will add the total from the good weeks to the total from the tough weeks.
+
+   \[
+   \text{Total earnings} = \text{Total for 5 good weeks} + \text{Total for 3 tough weeks}
+   \]
+   \[
+   \text{Total earnings} = 8000 + 2400 = 10400
+   \]
+
+Thus, the total amount of money Haji’s mother makes is:
+</reasoning>
+<answer>10400</answer>

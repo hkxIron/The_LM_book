@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how much money Bob has**: 
+   We are given that Bob has $60 in his account.
+
+2. **Determine how much money Phil has**: 
+   The problem states that Phil has one-third of the amount Bob has. 
+   So, we calculate:
+   \[
+   \text{Phil's money} = \frac{1}{3} \times \text{Bob's money} = \frac{1}{3} \times 60 = 20
+   \]
+   Now we know that Phil has $20.
+
+3. **Determine how much money Jenna has**: 
+   The problem states that Jenna has twice as much money as Phil. 
+   So, we calculate:
+   \[
+   \text{Jenna's money} = 2 \times \text{Phil's money} = 2 \times 20 = 40
+   \]
+   Now we know that Jenna has $40.
+
+4. **Calculate how much less money Jenna has compared to Bob**: 
+   We need to find the difference between Bob's amount and Jenna's amount. 
+   So, we calculate:
+   \[
+   \text{Difference} = \text{Bob's money} - \text{Jenna's money} = 60 - 40 = 20
+   \]
+   This shows that Jenna has $20 less than Bob.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>20</answer>

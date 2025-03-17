@@ -1,0 +1,37 @@
+<reasoning>
+To solve the problem, we need to set up an equation based on the information given.
+
+1. Let's define the variables:
+   - Let \( S \) represent the number of pencils Sabrina has.
+   - Since Justin has 8 more than twice as many pencils as Sabrina, we can express the number of pencils Justin has as \( J = 2S + 8 \).
+
+2. According to the problem, the total number of pencils Justin and Sabrina have combined is 50. Therefore, we can write the equation:
+   \[
+   J + S = 50
+   \]
+   Substituting the expression for \( J \) from the previous step, we get:
+   \[
+   (2S + 8) + S = 50
+   \]
+
+3. Now, let's simplify the equation:
+   - Combine like terms:
+   \[
+   2S + S + 8 = 50 \implies 3S + 8 = 50
+   \]
+
+4. Next, we need to isolate \( S \). To do this, we first subtract 8 from both sides:
+   \[
+   3S + 8 - 8 = 50 - 8 \implies 3S = 42
+   \]
+
+5. Now, divide both sides of the equation by 3 to solve for \( S \):
+   \[
+   S = \frac{42}{3} = 14
+   \]
+
+Sabrina has 14 pencils.
+
+Therefore, the number of pencils Sabrina has is:
+</reasoning>
+<answer>14</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many bags James delivers in 5 days, we will follow these steps:
+
+1. **Calculate the number of bags delivered in one trip:**  
+   James can carry 10 bags on each trip. Therefore, in one trip, he delivers 10 bags.
+
+2. **Calculate the total number of bags delivered in one day:**  
+   James takes 20 trips each day. Since he delivers 10 bags per trip, we can multiply the number of trips by the number of bags per trip:  
+   \[
+   \text{Bags per day} = \text{Bags per trip} \times \text{Number of trips per day} = 10 \text{ bags/trip} \times 20 \text{ trips/day} = 200 \text{ bags/day}
+   \]
+
+3. **Calculate the total number of bags delivered in 5 days:**  
+   Now that we know he delivers 200 bags in one day, we can find out how many bags he delivers in 5 days by multiplying the number of bags delivered in one day by 5:  
+   \[
+   \text{Total bags in 5 days} = \text{Bags per day} \times 5 \text{ days} = 200 \text{ bags/day} \times 5 \text{ days} = 1000 \text{ bags}
+   \]
+
+Therefore, after calculating the total number of bags delivered by James in 5 days, we find that he delivers a total of 1000 bags.
+</reasoning>
+<answer>1000</answer>

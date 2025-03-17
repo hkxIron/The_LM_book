@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we will first determine the cost of the jeans, then calculate the total revenue from selling both the shirts and the jeans.
+
+1. **Determine the cost of jeans**:
+   - We know a shirt costs $10 each.
+   - The problem states that a pair of jeans costs twice as much as a shirt. Therefore, the cost of a pair of jeans is:
+     \[
+     \text{Cost of jeans} = 2 \times \text{Cost of shirt} = 2 \times 10 = 20 \text{ dollars}
+     \]
+
+2. **Calculate the revenue from selling shirts**:
+   - The store sells 20 shirts at $10 each. To find the total revenue from the shirts, we multiply the number of shirts by the cost per shirt:
+     \[
+     \text{Revenue from shirts} = 20 \times 10 = 200 \text{ dollars}
+     \]
+
+3. **Calculate the revenue from selling jeans**:
+   - The store sells 10 pairs of jeans at $20 each. To find the total revenue from the jeans, we multiply the number of jeans by the cost per pair of jeans:
+     \[
+     \text{Revenue from jeans} = 10 \times 20 = 200 \text{ dollars}
+     \]
+
+4. **Calculate the total revenue**:
+   - To find the total earnings from selling all shirts and jeans, we add the revenue from shirts and the revenue from jeans:
+     \[
+     \text{Total revenue} = \text{Revenue from shirts} + \text{Revenue from jeans} = 200 + 200 = 400 \text{ dollars}
+     \]
+
+Therefore, the clothing store will earn a total of $400 if all shirts and jeans are sold.
+</reasoning>
+<answer>400</answer>

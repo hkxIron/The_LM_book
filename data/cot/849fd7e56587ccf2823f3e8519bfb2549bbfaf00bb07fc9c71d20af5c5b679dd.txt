@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much Angie paid in taxes this month, we can follow these steps:
+
+1. **Identify Angie's total income**: Angie has a salary of $80 per month.
+
+2. **Determine her expenses**: She contributes $42 for necessities. 
+
+3. **Set up the equation for her remaining money**: At the end of the month, we know Angie had $18 left over after her expenses. 
+
+4. **Write an equation to express the relationship**: 
+   The equation that represents Angie's financial situation is:
+   \[
+   \text{Total Income} - \text{Total Expenses} = \text{Remaining Money}
+   \]
+   In this case, the total expenses include her contributions for necessities and her share of the household taxes. If we denote her share of taxes as \( T \), we can write the equation as:
+   \[
+   80 - (42 + T) = 18
+   \]
+
+5. **Simplify the equation**:
+   \[
+   80 - 42 - T = 18
+   \]
+   This simplifies to:
+   \[
+   38 - T = 18
+   \]
+
+6. **Solve for \( T \)**:
+   To isolate \( T \), we can move \( T \) to one side and the remaining terms to the other side:
+   \[
+   38 - 18 = T
+   \]
+   \[
+   T = 20
+   \]
+
+This means Angie paid $20 in taxes this month. 
+
+Therefore, after performing the calculations and verifying each step, we find:
+</reasoning>
+<answer>20</answer>

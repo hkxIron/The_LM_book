@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we need to determine how many years will pass before Agnes is twice as old as Jane. 
+
+1. **Define the current ages**: 
+   - Agnes is currently 25 years old.
+   - Jane is currently 6 years old.
+
+2. **Establish the future ages**: 
+   - Let \( x \) be the number of years in the future we want to find.
+   - In \( x \) years, Agnes's age will be \( 25 + x \).
+   - In \( x \) years, Jane's age will be \( 6 + x \).
+
+3. **Set up the equation**: 
+   - We want to find when Agnes will be twice as old as Jane:
+   \[
+   25 + x = 2(6 + x)
+   \]
+
+4. **Expand the equation**:
+   - Distribute the 2 on the right side:
+   \[
+   25 + x = 12 + 2x
+   \]
+
+5. **Rearrange the equation**:
+   - To isolate \( x \), we can move all terms involving \( x \) to one side and constant terms to the other:
+   \[
+   25 - 12 = 2x - x
+   \]
+   \[
+   13 = x
+   \]
+
+6. **Conclusion**:
+   - This means in 13 years, Agnes will be twice as old as Jane.
+
+Therefore, after following the reasoning and calculations step by step, we find that in 13 years, Agnes will be twice the age of Jane.
+</reasoning>
+<answer>13</answer>

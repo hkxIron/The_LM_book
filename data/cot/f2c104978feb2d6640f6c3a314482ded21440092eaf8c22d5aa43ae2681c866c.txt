@@ -1,0 +1,31 @@
+<reasoning>
+To determine how many bulk boxes of candied yams the store needs, we will follow these steps:
+
+1. **Calculate how many shoppers will buy candied yams.** 
+   Since every third shopper buys a package, we can find the number of shoppers who will buy by dividing the total number of shoppers by 3. 
+
+   \[
+   \text{Number of buyers} = \frac{375}{3} = 125
+   \]
+
+   This means that 125 shoppers will buy packages of candied yams.
+
+2. **Determine how many packages are needed.** 
+   Each of the 125 shoppers buys 1 package, so we need 125 packages in total.
+
+   \[
+   \text{Total packages needed} = 125
+   \]
+
+3. **Calculate how many bulk boxes are required.** 
+   Each bulk box contains 25 packages. To find out how many bulk boxes the store needs, we divide the total number of packages by the number of packages per box.
+
+   \[
+   \text{Number of bulk boxes} = \frac{125}{25} = 5
+   \]
+
+   Since 125 is exactly divisible by 25, the store will need 5 bulk boxes.
+
+Thus, the store needs to order 5 bulk boxes of candied yams.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To find the total number of leaves on the tree, we need to calculate the number of twigs that sprout 4 leaves and 5 leaves separately, and then sum the total leaves from both groups.
+
+1. **Calculate the total number of twigs:**
+   - James has 30 branches, and each branch has 90 twigs.
+   - Total twigs = Number of branches × Number of twigs per branch
+   - Total twigs = 30 × 90 = 2700 twigs
+
+2. **Determine the number of twigs that sprout 4 leaves:**
+   - According to the problem, 30% of the twigs sprout 4 leaves.
+   - Number of twigs sprouting 4 leaves = Total twigs × 30%
+   - Number of twigs sprouting 4 leaves = 2700 × 0.30 = 810 twigs
+
+3. **Determine the number of twigs that sprout 5 leaves:**
+   - The remaining twigs will sprout 5 leaves. Since 30% sprout 4 leaves, the remaining percentage is 70%.
+   - Number of twigs sprouting 5 leaves = Total twigs × 70%
+   - Number of twigs sprouting 5 leaves = 2700 × 0.70 = 1890 twigs
+
+4. **Calculate the total leaves from twigs sprouting 4 leaves:**
+   - Each twig that sprouts 4 leaves contributes 4 leaves.
+   - Total leaves from twigs sprouting 4 leaves = Number of twigs sprouting 4 leaves × Number of leaves per twig
+   - Total leaves from twigs sprouting 4 leaves = 810 × 4 = 3240 leaves
+
+5. **Calculate the total leaves from twigs sprouting 5 leaves:**
+   - Each twig that sprouts 5 leaves contributes 5 leaves.
+   - Total leaves from twigs sprouting 5 leaves = Number of twigs sprouting 5 leaves × Number of leaves per twig
+   - Total leaves from twigs sprouting 5 leaves = 1890 × 5 = 9450 leaves
+
+6. **Calculate the total number of leaves on the tree:**
+   - Total leaves = Total leaves from twigs sprouting 4 leaves + Total leaves from twigs sprouting 5 leaves
+   - Total leaves = 3240 + 9450 = 12690 leaves
+
+Therefore, the total number of leaves on the tree is:
+</reasoning>
+<answer>12690</answer>

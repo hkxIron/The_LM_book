@@ -1,0 +1,48 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the variables**: 
+   - Let \( N \) be the number of questions Nicole answered correctly.
+   - Let \( K \) be the number of questions Kim answered correctly.
+   - Let \( C \) be the number of questions Cherry answered correctly.
+
+2. **Set up the equations based on the problem**:
+   - From the problem, we know that Nicole answered 3 fewer questions correctly than Kim. This gives us the equation:
+     \[
+     N = K - 3
+     \]
+   - We also know that Kim answered 8 more questions correctly than Cherry, leading to the equation:
+     \[
+     K = C + 8
+     \]
+
+3. **Substitute the known value**:
+   - We are told that Nicole answered 22 questions correctly, so:
+     \[
+     N = 22
+     \]
+   - Substituting this into the first equation:
+     \[
+     22 = K - 3
+     \]
+   - To solve for \( K \), we add 3 to both sides:
+     \[
+     K = 22 + 3 = 25
+     \]
+
+4. **Now, substitute \( K \) into the second equation**:
+   - We have \( K = 25 \), so we substitute this into the second equation:
+     \[
+     25 = C + 8
+     \]
+   - To solve for \( C \), we subtract 8 from both sides:
+     \[
+     C = 25 - 8 = 17
+     \]
+
+5. **Conclusion**: 
+   - Cherry answered 17 questions correctly.
+
+Therefore, the answer is:
+</reasoning>
+<answer>17</answer>

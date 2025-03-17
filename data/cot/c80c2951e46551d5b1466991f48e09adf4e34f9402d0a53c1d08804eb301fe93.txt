@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many lambs Merry and her brother have together, we start by identifying how many lambs each of them is responsible for.
+
+1. **Identify Merry's lambs**: We know from the problem that Merry is taking care of 10 lambs.
+
+2. **Determine how many lambs her brother has**: The problem states that her brother takes care of 3 more lambs than Merry. Since Merry has 10 lambs, we add 3 to that number to find out how many lambs her brother has:
+   \[
+   \text{Brother's lambs} = \text{Merry's lambs} + 3 = 10 + 3 = 13
+   \]
+
+3. **Calculate the total number of lambs**: Now, we add the number of lambs Merry has and the number of lambs her brother has to find the total:
+   \[
+   \text{Total lambs} = \text{Merry's lambs} + \text{Brother's lambs} = 10 + 13 = 23
+   \]
+
+Now that we have calculated both the individual counts and the total, we can conclude the solution.
+</reasoning>
+<answer>23</answer>

@@ -1,0 +1,54 @@
+<reasoning>
+Let's break down the problem step by step to find out how many shirts Selina sold.
+
+1. **Calculate the total income from selling pants and shorts**:
+   - Selina sells 3 pairs of pants at $5 each:
+     \( 3 \text{ pants} \times 5 \text{ dollars/pant} = 15 \text{ dollars} \)
+   - Selina sells 5 pairs of shorts at $3 each:
+     \( 5 \text{ shorts} \times 3 \text{ dollars/short} = 15 \text{ dollars} \)
+
+2. **Add the money from pants and shorts**:
+   - Total income from pants and shorts:
+     \( 15 \text{ dollars (from pants)} + 15 \text{ dollars (from shorts)} = 30 \text{ dollars} \)
+
+3. **Let \( x \) be the number of shirts sold**:
+   - Each shirt sells for $4, so the income from shirts is:
+     \( 4x \text{ dollars} \)
+
+4. **Total money before buying shirts**:
+   - The total amount Selina has after selling the clothes:
+     \( 30 \text{ dollars (from pants and shorts)} + 4x \text{ dollars (from shirts)} \)
+
+5. **Calculate the cost of the shirts Selina buys**:
+   - Selina buys 2 shirts at $10 each:
+     \( 2 \text{ shirts} \times 10 \text{ dollars/shirt} = 20 \text{ dollars} \)
+
+6. **Set up the equation for the total money after purchases**:
+   - After buying the shirts, Selina has $30 left:
+     \[
+     (30 + 4x) - 20 = 30
+     \]
+
+7. **Simplify the equation**:
+   - Rearranging gives:
+     \[
+     30 + 4x - 20 = 30
+     \]
+   - This simplifies to:
+     \[
+     4x + 10 = 30
+     \]
+
+8. **Isolate \( x \)**:
+   - Subtract 10 from both sides:
+     \[
+     4x = 20
+     \]
+   - Divide both sides by 4:
+     \[
+     x = 5
+     \]
+
+Thus, Selina sold 5 shirts to the second-hand store.
+</reasoning>
+<answer>5</answer>

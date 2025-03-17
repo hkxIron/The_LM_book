@@ -1,0 +1,59 @@
+<reasoning>
+Let's denote the price of a pint of frozen yogurt as \( x \) dollars. 
+
+1. **Calculate the total cost of jumbo shrimp:**
+   - Shannon bought 5 trays of jumbo shrimp and each tray costs $5.
+   - So, the total cost for the shrimp is:
+     \[
+     5 \text{ trays} \times 5 \text{ dollars/tray} = 25 \text{ dollars}
+     \]
+
+2. **Set up the equation for the total cost:**
+   - Shannon spent a total of $55. The total cost can be expressed as the sum of the cost of the frozen yogurt, the gum, and the shrimp:
+   \[
+   \text{Total cost} = \text{Cost of frozen yogurt} + \text{Cost of gum} + \text{Cost of shrimp}
+   \]
+   - This translates into:
+   \[
+   5x + 2y + 25 = 55
+   \]
+   where \( y \) is the cost of a pack of chewing gum.
+
+3. **Determine the price of chewing gum:**
+   - It is given that a pack of chewing gum costs half as much as a pint of frozen yogurt. Therefore, we can write:
+   \[
+   y = \frac{1}{2}x
+   \]
+
+4. **Substitute \( y \) in the total cost equation:**
+   - Now we substitute \( y \) into the total cost equation:
+   \[
+   5x + 2\left(\frac{1}{2}x\right) + 25 = 55
+   \]
+   - This simplifies to:
+   \[
+   5x + x + 25 = 55
+   \]
+
+5. **Combine like terms:**
+   - Combine \( 5x \) and \( x \):
+   \[
+   6x + 25 = 55
+   \]
+
+6. **Solve for \( x \):**
+   - Now, we will isolate \( x \) by first subtracting 25 from both sides:
+   \[
+   6x = 55 - 25
+   \]
+   \[
+   6x = 30
+   \]
+   - Next, we divide both sides by 6:
+   \[
+   x = \frac{30}{6} = 5
+   \]
+
+Thus, the price of a pint of frozen yogurt is $5.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step to determine how much time Mrs. Parker has left to use the bathroom before they need to leave.
+
+1. **Determine the total time from 2:30 pm to 5:00 pm**: 
+   We need to calculate how much time there is from 2:30 pm to 5:00 pm.
+   - From 2:30 pm to 3:00 pm is 30 minutes.
+   - From 3:00 pm to 5:00 pm is 2 hours, which is 120 minutes.
+   - Therefore, the total time from 2:30 pm to 5:00 pm is 30 minutes + 120 minutes = 150 minutes.
+
+2. **Calculate the total time spent in the bathroom by other family members**:
+   - The oldest daughter used the bathroom for 45 minutes.
+   - The youngest daughter used the bathroom for 30 minutes.
+   - The husband used the bathroom for 20 minutes.
+   - To find the total time spent in the bathroom, we add these times together:
+     - 45 minutes + 30 minutes + 20 minutes = 95 minutes.
+
+3. **Calculate the remaining time for Mrs. Parker**:
+   - We now subtract the total time spent in the bathroom from the total available time.
+   - Total time available = 150 minutes.
+   - Total time used = 95 minutes.
+   - Remaining time = 150 minutes - 95 minutes = 55 minutes.
+
+Therefore, Mrs. Parker will have 55 minutes to use the bathroom before they need to leave for the dinner party.
+</reasoning>
+<answer>55</answer>

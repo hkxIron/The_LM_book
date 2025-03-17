@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many pairs of jeans Noah's closets can fit, we first need to determine how much one of Noah's closets can hold.
+
+1. **Determine the capacity of Ali's closet**:
+   - We know that Ali's closet can fit 200 pairs of jeans.
+
+2. **Calculate the capacity of one of Noah's closets**:
+   - According to the problem, each of Noah's closets can fit 1/4 as much as Ali's closet.
+   - Therefore, the capacity of one of Noah's closets is: 
+     \[
+     \text{Capacity of one Noah's closet} = \frac{1}{4} \times 200 = 50 \text{ pairs of jeans}
+     \]
+
+3. **Calculate the total capacity of both of Noah's closets**:
+   - Since Noah has two closets, we multiply the capacity of one closet by 2:
+     \[
+     \text{Total capacity of both closets} = 2 \times 50 = 100 \text{ pairs of jeans}
+     \]
+
+Thus, after performing the calculations step by step, we find that both of Noah's closets can fit a total of 100 pairs of jeans.
+</reasoning>
+<answer>100</answer>

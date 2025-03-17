@@ -1,0 +1,19 @@
+<reasoning>
+To solve the problem, we will analyze how the speed of the spaceship changes as more people board it.
+
+1. **Identify the initial conditions**: We know that with 200 people on board, the spaceship's speed is 500 km/hr.
+
+2. **Determine the speed change with additional people**: The problem states that for every 100 additional people that board, the speed is halved. 
+
+3. **Calculate the speed with 300 people**: When we go from 200 people to 300 people, that's an increase of 100 people. According to the rule, the speed will be halved:
+   - Initial speed with 200 people = 500 km/hr
+   - Speed with 300 people = 500 km/hr ÷ 2 = 250 km/hr
+
+4. **Calculate the speed with 400 people**: Now, we move from 300 people to 400 people, which is another increase of 100 people. Again, according to the rule, the speed will be halved:
+   - Speed with 400 people = 250 km/hr ÷ 2 = 125 km/hr
+
+Thus, we have calculated the speed of the spaceship when there are 400 people on board.
+
+Therefore, the speed of the spaceship with 400 people on board is:
+</reasoning>
+<answer>125</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we need to determine how long it takes both Austin and Jake to reach the ground floor from the 9th floor, then find the difference in time between them.
+
+1. **Calculate the time it takes for Austin in the elevator:**
+   - It's given that the elevator takes 1 minute to reach the ground level. 
+   - We convert this time into seconds: 
+     \[
+     1 \text{ minute} = 60 \text{ seconds}
+     \]
+   - Therefore, Austin takes 60 seconds.
+
+2. **Calculate the total number of steps Jake has to descend:**
+   - There are 30 steps per floor and Jake is starting from the 9th floor.
+   - To find the total number of steps Jake needs to descend, we calculate:
+     \[
+     30 \text{ steps/floor} \times 9 \text{ floors} = 270 \text{ steps}
+     \]
+
+3. **Determine how long it takes Jake to descend all the steps:**
+   - Jake descends 3 steps every second.
+   - To find the time it takes Jake to go down 270 steps, we divide the total number of steps by the number of steps he descends per second:
+     \[
+     \frac{270 \text{ steps}}{3 \text{ steps/second}} = 90 \text{ seconds}
+     \]
+
+4. **Compare the descent times of Austin and Jake:**
+   - Austin takes 60 seconds and Jake takes 90 seconds.
+   - To find out how many seconds later Jake reaches the ground compared to Austin, we subtract Austin's time from Jake's time:
+     \[
+     90 \text{ seconds} - 60 \text{ seconds} = 30 \text{ seconds}
+     \]
+
+Therefore, Jake will get to the ground floor 30 seconds later than Austin.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many nickels Quentavious has initially**: 
+   Quentavious starts with 5 nickels.
+
+2. **Determine how many nickels he has after leaving**:
+   He leaves with 2 nickels. 
+
+3. **Calculate how many nickels he spent**:
+   Since he started with 5 nickels and left with 2, we can find out how many nickels he spent:
+   \[
+   \text{Nickels spent} = \text{Initial nickels} - \text{Nickels left} = 5 - 2 = 3 \text{ nickels}
+   \]
+
+4. **Determine how much gum he receives per nickel**:
+   The friend offers 2 pieces of gum for each nickel.
+
+5. **Calculate the total pieces of gum he receives**:
+   Since Quentavious spent 3 nickels and receives 2 pieces of gum for each nickel, we can calculate the total pieces of gum:
+   \[
+   \text{Total gum} = \text{Nickels spent} \times \text{Pieces of gum per nickel} = 3 \text{ nickels} \times 2 \text{ pieces/nickel} = 6 \text{ pieces of gum}
+   \]
+
+Now we have determined that Quentavious got a total of 6 pieces of gum.
+</reasoning>
+<answer>6</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we will break it down into steps and calculate the number of cans each person picked up.
+
+1. **Identify how many cans LaDonna picked up**: 
+   LaDonna picked up 25 cans. 
+
+2. **Calculate how many cans Prikya picked up**: 
+   The problem states that Prikya picked up twice as many cans as LaDonna. 
+   Since LaDonna picked up 25 cans, we calculate Prikya's cans as follows:
+   \[
+   \text{Prikya's cans} = 2 \times \text{LaDonna's cans} = 2 \times 25 = 50
+   \]
+   
+3. **Calculate the total number of cans picked up by LaDonna and Prikya**:
+   Now we add the cans picked up by LaDonna and Prikya to find the total picked up by both:
+   \[
+   \text{Total picked by LaDonna and Prikya} = \text{LaDonna's cans} + \text{Prikya's cans} = 25 + 50 = 75
+   \]
+
+4. **Determine how many cans Yoki picked up**: 
+   We know the total number of cans collected is 85. To find out how many cans Yoki picked up, we subtract the total picked by LaDonna and Prikya from the total cans:
+   \[
+   \text{Yoki's cans} = \text{Total cans} - \text{Total picked by LaDonna and Prikya} = 85 - 75 = 10
+   \]
+
+Thus, Yoki picked up 10 cans.
+</reasoning>
+<answer>10</answer>

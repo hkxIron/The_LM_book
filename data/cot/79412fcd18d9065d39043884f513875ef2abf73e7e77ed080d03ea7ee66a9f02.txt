@@ -1,0 +1,26 @@
+<reasoning>
+To determine how many seeds Bob can plant in each row, we need to convert the row length from feet to inches, since the space required for each seed is given in inches.
+
+1. **Convert the row length from feet to inches**:
+   - We know that 1 foot is equal to 12 inches. Therefore, to convert 120 feet to inches, we multiply:
+     \[
+     120 \text{ feet} \times 12 \text{ inches/foot} = 1440 \text{ inches}
+     \]
+   This means that Bob has 1440 inches of space in each row.
+
+2. **Determine the space needed for each seed**:
+   - Each seed requires 18 inches of space to its right. This means that if we plant a seed at a certain position (let's say at the start), the next seed can only be planted after those 18 inches.
+
+3. **Calculate the number of seeds that can be planted**:
+   - To find out how many seeds can fit in 1440 inches, we divide the total row length in inches by the space required for each seed:
+     \[
+     \text{Number of seeds} = \frac{1440 \text{ inches}}{18 \text{ inches/seed}} 
+     \]
+   - Performing the division:
+     \[
+     \text{Number of seeds} = 80
+     \]
+
+Therefore, Bob can plant 80 seeds in each row.
+</reasoning>
+<answer>80</answer>

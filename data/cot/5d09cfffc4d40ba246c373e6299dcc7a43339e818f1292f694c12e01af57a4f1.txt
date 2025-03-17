@@ -1,0 +1,22 @@
+<reasoning>
+To solve the problem, we first need to determine how many times one dog barks in 10 minutes. 
+
+1. **Calculate the number of barks by one dog in 10 minutes:**
+   - Since one dog barks 30 times per minute, we can find out how many barks occur in 10 minutes by multiplying the number of barks per minute by the number of minutes.
+   - Calculation: 
+     \[
+     30 \text{ barks/minute} \times 10 \text{ minutes} = 300 \text{ barks}
+     \]
+   - This means one dog will bark 300 times in 10 minutes.
+
+2. **Calculate the total barks for 2 dogs in 10 minutes:**
+   - Since we have 2 dogs, we need to double the number of barks made by one dog in 10 minutes.
+   - Calculation:
+     \[
+     300 \text{ barks} \times 2 \text{ dogs} = 600 \text{ barks}
+     \]
+   - Therefore, both dogs together will bark 600 times in 10 minutes.
+
+Thus, after 10 minutes, the total number of barks from both dogs is 600.
+</reasoning>
+<answer>600</answer>

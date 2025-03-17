@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we first need to determine how many questions Grayson answered during the 2 hours he spent on the test.
+
+1. **Convert hours to minutes**: Grayson spends 2 hours answering questions. Since there are 60 minutes in an hour, we calculate:
+   \[
+   2 \text{ hours} \times 60 \text{ minutes/hour} = 120 \text{ minutes}
+   \]
+   This means he spent a total of 120 minutes answering questions.
+
+2. **Determine the time per question**: Grayson takes 2 minutes to answer each question.
+
+3. **Calculate the number of questions answered**: We can find out how many questions he answered by dividing the total time he spent answering questions by the time he takes for each question:
+   \[
+   \frac{120 \text{ minutes}}{2 \text{ minutes/question}} = 60 \text{ questions}
+   \]
+   This tells us that Grayson answered 60 questions.
+
+4. **Calculate the unanswered questions**: Grayson started with a total of 100 questions. To find out how many he left unanswered, we subtract the number of questions he answered from the total number of questions:
+   \[
+   100 \text{ questions} - 60 \text{ questions} = 40 \text{ questions}
+   \]
+   Therefore, Grayson left 40 questions unanswered when he submitted his test.
+</reasoning>
+<answer>40</answer>

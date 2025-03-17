@@ -1,0 +1,22 @@
+<reasoning>
+To solve the problem, we need to determine how many hours of rain the sewers can handle before reaching their capacity of 240,000 gallons. Here's how we can do this step by step:
+
+1. **Identify the total capacity of the sewers**: The sewers can handle a total of 240,000 gallons of run-off.
+
+2. **Determine the rate of runoff per hour**: Each hour of rain produces 1,000 gallons of runoff.
+
+3. **Calculate the total number of hours the sewers can handle the runoff**: To find out how many hours of rain can be handled before the sewers overflow, we divide the total capacity by the rate of runoff per hour.
+
+   \[
+   \text{Total hours} = \frac{\text{Total Capacity}}{\text{Runoff per hour}} = \frac{240,000 \text{ gallons}}{1,000 \text{ gallons/hour}} = 240 \text{ hours}
+   \]
+
+4. **Convert hours into days**: Since there are 24 hours in a day, we can convert the total hours into days by dividing the total hours by 24.
+
+   \[
+   \text{Total days} = \frac{\text{Total hours}}{24} = \frac{240 \text{ hours}}{24 \text{ hours/day}} = 10 \text{ days}
+   \]
+
+Therefore, the sewers in Middleton can handle 10 days of rain before they overflow.
+</reasoning>
+<answer>10</answer>

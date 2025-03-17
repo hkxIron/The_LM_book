@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we need to determine how many flowers Maria will get when she buys 3 dozen flowers, along with the free flowers she receives.
+
+1. **Calculate the total number of flowers purchased**: 
+   - One dozen equals 12 flowers. 
+   - If Maria buys 3 dozen flowers, we multiply the number of dozens by the number of flowers in a dozen:
+     \[
+     3 \text{ dozen} \times 12 \text{ flowers/dozen} = 36 \text{ flowers}
+     \]
+
+2. **Calculate the number of free flowers**:
+   - For every dozen flowers bought, Maria receives 2 additional free flowers. 
+   - Since she is buying 3 dozen flowers, we multiply the number of dozens by the number of free flowers per dozen:
+     \[
+     3 \text{ dozen} \times 2 \text{ free flowers/dozen} = 6 \text{ free flowers}
+     \]
+
+3. **Calculate the total number of flowers**:
+   - To find out how many flowers Maria has in total, we add the flowers she bought to the free flowers:
+     \[
+     36 \text{ flowers (purchased)} + 6 \text{ flowers (free)} = 42 \text{ flowers}
+     \]
+
+Therefore, after calculating the number of flowers purchased and the free flowers, we find that Maria will have a total of 42 flowers.
+</reasoning>
+<answer>42</answer>

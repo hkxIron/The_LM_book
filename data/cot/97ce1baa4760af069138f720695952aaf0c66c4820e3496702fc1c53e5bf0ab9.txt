@@ -1,0 +1,38 @@
+<reasoning>
+To find the total square footage of hardwood flooring that Nancy installed, we need to calculate the area of both the central area and the hallway and then add these two areas together.
+
+1. **Calculate the area of the central area:**
+   - The dimensions of the central area are 10 feet by 10 feet.
+   - To find the area, we use the formula for the area of a rectangle: 
+     \[
+     \text{Area} = \text{length} \times \text{width}
+     \]
+   - So, 
+     \[
+     \text{Area}_{\text{central}} = 10 \, \text{ft} \times 10 \, \text{ft} = 100 \, \text{square feet}
+     \]
+
+2. **Calculate the area of the hallway:**
+   - The dimensions of the hallway are 6 feet by 4 feet.
+   - Again, we use the area formula:
+     \[
+     \text{Area}_{\text{hallway}} = \text{length} \times \text{width}
+     \]
+   - So, 
+     \[
+     \text{Area}_{\text{hallway}} = 6 \, \text{ft} \times 4 \, \text{ft} = 24 \, \text{square feet}
+     \]
+
+3. **Add the areas together:**
+   - Now we need to find the total area of flooring by adding the area of the central area and the hallway:
+     \[
+     \text{Total Area} = \text{Area}_{\text{central}} + \text{Area}_{\text{hallway}}
+     \]
+   - Thus, 
+     \[
+     \text{Total Area} = 100 \, \text{square feet} + 24 \, \text{square feet} = 124 \, \text{square feet}
+     \]
+
+Therefore, Nancy installed a total of 124 square feet of hardwood flooring in her bathroom.
+</reasoning>
+<answer>124</answer>

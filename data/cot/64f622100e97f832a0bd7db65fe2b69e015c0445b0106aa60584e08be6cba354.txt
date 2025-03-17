@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we need to first determine how many candies Lisa consumes in a week. 
+
+1. **Calculate candies eaten on Mondays and Wednesdays:**
+   - Lisa eats 2 candies on Monday and 2 candies on Wednesday.
+   - Total candies eaten on these two days = 2 (Monday) + 2 (Wednesday) = 4 candies.
+
+2. **Calculate candies eaten on the other days:**
+   - There are 5 other days in the week (Tuesday, Thursday, Friday, Saturday, and Sunday).
+   - On these days, she eats 1 candy per day.
+   - Total candies eaten on these five days = 1 (Tuesday) + 1 (Thursday) + 1 (Friday) + 1 (Saturday) + 1 (Sunday) = 5 candies.
+
+3. **Calculate total candies eaten in a week:**
+   - Now we add the candies eaten on Mondays and Wednesdays to the candies eaten on the other days.
+   - Total candies eaten in a week = 4 (from Mon & Wed) + 5 (from other days) = 9 candies.
+
+4. **Calculate how many weeks it takes to eat all candies:**
+   - Lisa starts with a total of 36 candies.
+   - We need to divide the total number of candies by the number of candies she eats in one week to find the number of weeks it takes to finish them.
+   - Number of weeks = Total candies / Candies eaten per week = 36 / 9 = 4 weeks.
+
+Therefore, it takes Lisa 4 weeks to eat all of the candies.
+</reasoning>
+<answer>4</answer>

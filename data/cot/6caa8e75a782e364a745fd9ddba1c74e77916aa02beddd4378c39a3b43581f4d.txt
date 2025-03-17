@@ -1,0 +1,40 @@
+<reasoning>
+Let's denote the number of animals in the Rain Forest exhibit as \( x \).
+
+According to the problem, the Reptile House has 5 fewer animals than 3 times the number of animals in the Rain Forest exhibit. We can express this relationship mathematically as:
+
+\[
+\text{Number of animals in Reptile House} = 3x - 5
+\]
+
+We also know that the Reptile House has 16 animals. Therefore, we can set up the equation:
+
+\[
+3x - 5 = 16
+\]
+
+Now, we will solve for \( x \) step by step:
+
+1. **Add 5 to both sides of the equation**: This helps to isolate the term with \( x \).
+
+\[
+3x - 5 + 5 = 16 + 5
+\]
+\[
+3x = 21
+\]
+
+2. **Divide both sides by 3**: This step will give us the value of \( x \).
+
+\[
+\frac{3x}{3} = \frac{21}{3}
+\]
+\[
+x = 7
+\]
+
+Now that we have found \( x = 7 \), this means that there are 7 animals in the Rain Forest exhibit.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>7</answer>

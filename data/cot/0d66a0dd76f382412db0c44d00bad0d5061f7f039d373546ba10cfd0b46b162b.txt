@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much Tony paid in total, we need to calculate the cost for each type of item he bought and then sum those amounts.
+
+1. **Calculate the total cost for the Lego blocks:**
+   - Tony bought 3 sets of Lego blocks at $250 each.
+   - To find the total cost for Lego blocks, we multiply the number of sets by the cost per set:
+     \[
+     \text{Total cost for Lego} = 3 \times 250 = 750
+     \]
+   - So, Tony spent $750 on Lego blocks.
+
+2. **Calculate the total cost for the toy swords:**
+   - Tony bought 7 toy swords at $120 each.
+   - To find the total cost for toy swords, we multiply the number of swords by the cost per sword:
+     \[
+     \text{Total cost for toy swords} = 7 \times 120 = 840
+     \]
+   - So, Tony spent $840 on toy swords.
+
+3. **Calculate the total cost for the play dough:**
+   - Tony bought 10 play doughs at $35 each.
+   - To find the total cost for play dough, we multiply the number of play doughs by the cost per play dough:
+     \[
+     \text{Total cost for play dough} = 10 \times 35 = 350
+     \]
+   - So, Tony spent $350 on play dough.
+
+4. **Calculate the total amount spent by Tony:**
+   - Now we add up all the total costs:
+     \[
+     \text{Total amount spent} = \text{Total cost for Lego} + \text{Total cost for toy swords} + \text{Total cost for play dough}
+     \]
+     \[
+     \text{Total amount spent} = 750 + 840 + 350
+     \]
+     \[
+     \text{Total amount spent} = 1940
+     \]
+
+Therefore, after calculating the costs for all items and summing them up, we find that Tony paid a total of $1940.
+</reasoning>
+<answer>1940</answer>

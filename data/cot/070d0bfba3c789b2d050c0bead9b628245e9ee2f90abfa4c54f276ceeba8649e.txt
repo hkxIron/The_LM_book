@@ -1,0 +1,30 @@
+<reasoning>
+Let's start by calculating the total number of social media followers for Susy after three weeks.
+
+1. **Initial followers for Susy**: 100
+2. **Followers gained in the first week**: 40
+   - Total after week 1: 100 + 40 = 140
+3. **Followers gained in the second week** (half of the first week’s gain): 40 / 2 = 20
+   - Total after week 2: 140 + 20 = 160
+4. **Followers gained in the third week** (half of the second week’s gain): 20 / 2 = 10
+   - Total after week 3: 160 + 10 = 170
+
+Now, let's calculate the total number of social media followers for Sarah after three weeks.
+
+1. **Initial followers for Sarah**: 50
+2. **Followers gained in the first week**: 90
+   - Total after week 1: 50 + 90 = 140
+3. **Followers gained in the second week** (a third of the first week’s gain): 90 / 3 = 30
+   - Total after week 2: 140 + 30 = 170
+4. **Followers gained in the third week** (a third of the second week’s gain): 30 / 3 = 10
+   - Total after week 3: 170 + 10 = 180
+
+Now, let's compare the total followers after three weeks:
+- Susy has 170 followers.
+- Sarah has 180 followers.
+
+Since we are looking for the girl with the most total followers, we see that Sarah has more.
+
+Therefore, the girl with the most total followers after three weeks is Sarah, with 180 followers.
+</reasoning>
+<answer>180</answer>

@@ -1,0 +1,12 @@
+<reasoning>
+First, let's find out how many hours each daughter practices for the season. Since each team practices 4 hours for every game they play, and each daughter has 8 games, they each practice 4 * 8 = 32 hours.
+
+So, for both daughters, Jerry will spend 32 hours/daughter * 2 daughters = 64 hours watching practices.
+
+Next, let's find out how many hours each daughter plays games for the season. Since each game lasts 2 hours, and each daughter has 8 games, they each play 2 * 8 = 16 hours.
+
+So, for both daughters, Jerry will spend 16 hours/daughter * 2 daughters = 32 hours watching games.
+
+Adding the hours spent watching practices and games, Jerry will spend a total of 64 hours (from practices) + 32 hours (from games) = 96 hours at the field.
+</reasoning>
+<answer>96</answer>

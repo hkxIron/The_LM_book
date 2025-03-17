@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many dogs Peter wants to have, we will start by determining how many German Shepherds and French Bulldogs he wants based on the number of dogs Sam has.
+
+1. **Calculate the number of German Shepherds Peter wants**:
+   - Sam has 3 German Shepherds.
+   - Peter wants to buy 3 times as many German Shepherds as Sam has.
+   - So, we calculate: 
+     \( 3 \text{ (Sam's German Shepherds)} \times 3 = 9 \text{ (Peter's German Shepherds)} \).
+
+2. **Calculate the number of French Bulldogs Peter wants**:
+   - Sam has 4 French Bulldogs.
+   - Peter wants to buy 2 times as many French Bulldogs as Sam has.
+   - So, we calculate: 
+     \( 4 \text{ (Sam's French Bulldogs)} \times 2 = 8 \text{ (Peter's French Bulldogs)} \).
+
+3. **Add the total number of dogs Peter wants**:
+   - Now that we know Peter wants 9 German Shepherds and 8 French Bulldogs, we add these together:
+   \( 9 \text{ (German Shepherds)} + 8 \text{ (French Bulldogs)} = 17 \text{ (total dogs Peter wants)} \).
+
+Therefore, after calculating the number of each type of dog Peter wants and summing them up, we find the total.
+</reasoning>
+<answer>17</answer>

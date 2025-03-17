@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of tomato plants**: 
+   The farmer has 30 rows of tomatoes, and each row contains 10 plants. To find the total number of plants, we multiply the number of rows by the number of plants per row.
+
+   \[
+   \text{Total plants} = \text{Number of rows} \times \text{Plants per row} = 30 \times 10
+   \]
+
+   Now, we perform the multiplication:
+
+   \[
+   30 \times 10 = 300
+   \]
+
+   So, the farmer has a total of 300 tomato plants.
+
+2. **Calculate the total yield of tomatoes**: 
+   Each tomato plant yields 20 pieces of tomatoes. To find the total yield from all the plants, we multiply the total number of plants by the yield per plant.
+
+   \[
+   \text{Total tomatoes} = \text{Total plants} \times \text{Yield per plant} = 300 \times 20
+   \]
+
+   Now, we perform the multiplication:
+
+   \[
+   300 \times 20 = 6000
+   \]
+
+   Therefore, the total number of pieces of tomatoes that the farmer can get from all his planted tomatoes is 6000.
+</reasoning>
+<answer>6000</answer>

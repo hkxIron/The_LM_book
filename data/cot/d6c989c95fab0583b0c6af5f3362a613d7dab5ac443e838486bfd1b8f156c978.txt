@@ -1,0 +1,52 @@
+<reasoning>
+To find the total number of units Daleyza was contracted to build, we need to calculate the number of units in each of the three buildings step by step.
+
+1. **Calculate the units in the first building:**
+   The first building is designed to have 4000 units. 
+   Let's denote this as:
+   \[
+   \text{Units in Building 1} = 4000
+   \]
+
+2. **Calculate the units in the second building:**
+   The second building has \( \frac{2}{5} \) times as many units as the first building. 
+   To find this, we multiply the units in the first building by \( \frac{2}{5} \).
+   \[
+   \text{Units in Building 2} = \frac{2}{5} \times 4000
+   \]
+   Now, performing the multiplication:
+   \[
+   \text{Units in Building 2} = \frac{2 \times 4000}{5} = \frac{8000}{5} = 1600
+   \]
+
+3. **Calculate the units in the third building:**
+   The third building has 20% more units than the second building. First, we need to calculate 20% of the units in the second building, which is 1600.
+   \[
+   20\% \text{ of } 1600 = \frac{20}{100} \times 1600 = 0.2 \times 1600 = 320
+   \]
+   Now, we can add this to the units in the second building to find the units in the third building:
+   \[
+   \text{Units in Building 3} = 1600 + 320 = 1920
+   \]
+
+4. **Calculate the total units:**
+   Now we add the units from all three buildings to find the total number of units Daleyza was contracted to build.
+   \[
+   \text{Total Units} = \text{Units in Building 1} + \text{Units in Building 2} + \text{Units in Building 3}
+   \]
+   Plugging in the values we have:
+   \[
+   \text{Total Units} = 4000 + 1600 + 1920
+   \]
+   Now, perform the addition:
+   \[
+   \text{Total Units} = 4000 + 1600 = 5600
+   \]
+   Then,
+   \[
+   \text{Total Units} = 5600 + 1920 = 7520
+   \]
+
+Thus, the total number of units Daleyza was contracted to build is 7520.
+</reasoning>
+<answer>7520</answer>

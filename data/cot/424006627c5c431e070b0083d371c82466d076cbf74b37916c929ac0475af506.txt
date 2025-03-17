@@ -1,0 +1,37 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the total number of guests**: We know from the problem that there are a total of 50 guests.
+
+2. **Calculate the number of women**: The problem states that half of the guests are women. Therefore, the number of women is:
+   \[
+   \text{Number of women} = \frac{50}{2} = 25
+   \]
+
+3. **Identify the number of men**: The problem states that there are 15 men. 
+
+4. **Calculate the number of children**: To find the number of children, we can subtract the number of women and men from the total number of guests:
+   \[
+   \text{Number of children} = 50 - \text{Number of women} - \text{Number of men} = 50 - 25 - 15 = 10
+   \]
+
+5. **Calculate how many left during the movie**: According to the problem, \( \frac{1}{5} \) of the men left. To find out how many men this is:
+   \[
+   \text{Men who left} = \frac{1}{5} \times 15 = 3
+   \]
+
+   Additionally, 4 children left.
+
+6. **Calculate the total number of people who left**: Add the number of men and children who left:
+   \[
+   \text{Total who left} = \text{Men who left} + \text{Children who left} = 3 + 4 = 7
+   \]
+
+7. **Determine how many stayed**: To find out how many guests stayed, we subtract the total who left from the total number of guests:
+   \[
+   \text{Total stayed} = 50 - \text{Total who left} = 50 - 7 = 43
+   \]
+
+Therefore, after calculating all the steps, we find that the number of people who stayed is:
+</reasoning>
+<answer>43</answer>

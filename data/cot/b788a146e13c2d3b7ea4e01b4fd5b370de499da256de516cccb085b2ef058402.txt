@@ -1,0 +1,45 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the value of W**: 
+   - W is tagged with the number 200. 
+   - So, W = 200.
+
+2. **Calculate the value of X**: 
+   - X is tagged with half the number W is tagged with. 
+   - Since W = 200, we calculate X as follows:
+   \[
+   X = \frac{W}{2} = \frac{200}{2} = 100.
+   \]
+
+3. **Calculate the value of Y**: 
+   - Y is tagged with the total of X and W's tags. 
+   - We already found W = 200 and X = 100. 
+   - Thus, we calculate Y as follows:
+   \[
+   Y = W + X = 200 + 100 = 300.
+   \]
+
+4. **Identify the value of Z**: 
+   - Z is tagged with the number 400. 
+   - So, Z = 400.
+
+5. **Calculate the total of all the tagged numbers**: 
+   - Now we add up all the values:
+   \[
+   \text{Total} = W + X + Y + Z = 200 + 100 + 300 + 400.
+   \]
+   - Performing the addition step by step:
+   \[
+   200 + 100 = 300,
+   \]
+   \[
+   300 + 300 = 600,
+   \]
+   \[
+   600 + 400 = 1000.
+   \]
+
+Therefore, the total of all the tagged numbers is 1000.
+</reasoning>
+<answer>1000</answer>

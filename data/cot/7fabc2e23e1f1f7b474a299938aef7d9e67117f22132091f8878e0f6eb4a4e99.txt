@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many calories Dimitri will consume in two days, we will follow these steps:
+
+1. **Calculate the total calories Dimitri eats in one day**: Since Dimitri eats 3 burgers a day and each burger has 20 calories, we can calculate the total calories for one day by multiplying the number of burgers by the calories per burger.
+   
+   \[
+   \text{Calories in one day} = \text{Number of burgers} \times \text{Calories per burger} = 3 \text{ burgers} \times 20 \text{ calories/burger}
+   \]
+
+   Performing the calculation:
+   
+   \[
+   \text{Calories in one day} = 3 \times 20 = 60 \text{ calories}
+   \]
+
+   Therefore, in one day, Dimitri consumes 60 calories.
+
+2. **Calculate the total calories for two days**: Now that we know how many calories Dimitri eats in one day, we can find out how many calories he will eat in two days by multiplying the daily calories by 2.
+
+   \[
+   \text{Calories in two days} = \text{Calories in one day} \times 2 = 60 \text{ calories/day} \times 2 \text{ days}
+   \]
+
+   Performing the calculation:
+
+   \[
+   \text{Calories in two days} = 60 \times 2 = 120 \text{ calories}
+   \]
+
+In conclusion, after two days, Dimitri will have consumed a total of 120 calories.
+</reasoning>
+<answer>120</answer>

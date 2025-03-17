@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the expenses for the field trip step by step.
+
+1. **Identify the fixed cost**: The cost to rent the school bus is $100. This is a fixed cost, meaning that it will not change regardless of how many students go.
+
+2. **Identify the variable cost**: The cost of admission is $10 per student. If we let \( x \) represent the number of students, then the total cost for student admissions would be \( 10x \).
+
+3. **Determine the total cost**: The total cost for the field trip can be expressed as the sum of the fixed cost (bus rental) and the variable cost (admissions for students). Therefore, the total cost formula is:
+   \[
+   \text{Total Cost} = 100 + 10x
+   \]
+
+4. **Set up the budget constraint**: The class has a budget of $350. This means that the total cost must be less than or equal to this budget:
+   \[
+   100 + 10x \leq 350
+   \]
+
+5. **Solve for \( x \)**: To find the maximum number of students, we will solve the inequality:
+   \[
+   100 + 10x \leq 350
+   \]
+   First, subtract 100 from both sides:
+   \[
+   10x \leq 250
+   \]
+   Next, divide both sides by 10:
+   \[
+   x \leq 25
+   \]
+
+6. **Conclusion**: This means that a maximum of 25 students can go on the field trip while staying within the budget.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>25</answer>

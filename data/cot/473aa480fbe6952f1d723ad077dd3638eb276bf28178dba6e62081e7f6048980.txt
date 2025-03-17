@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we will go through the steps one by one.
+
+1. **Start with the initial number of bunnies:**
+   Marlon starts with 30 female baby bunnies in his hutch.
+
+2. **Calculate how many bunnies Marlon gives to Rodney:**
+   He gives away 2/5 of the 30 bunnies. 
+   To find out how many that is, we multiply:
+   \[
+   \frac{2}{5} \times 30 = 12
+   \]
+   So, Marlon gives 12 bunnies to Rodney.
+
+3. **Find out how many bunnies remain with Marlon:**
+   We subtract the number of bunnies given away from the initial amount:
+   \[
+   30 - 12 = 18
+   \]
+   Now, Marlon has 18 bunnies left in his hutch.
+
+4. **Calculate the number of kittens each bunny gives birth to:**
+   After another three months, the remaining bunnies give birth to 2 kittens each. 
+   To find out the total number of kittens, we multiply the number of bunnies by the number of kittens each:
+   \[
+   18 \times 2 = 36
+   \]
+   Therefore, there are 36 kittens born.
+
+5. **Calculate the total number of bunnies Marlon has now:**
+   To find the total number of bunnies in the hutch, we add the number of remaining bunnies to the number of kittens:
+   \[
+   18 + 36 = 54
+   \]
+
+Thus, Marlon now has a total of 54 bunnies in his hutch.
+</reasoning>
+<answer>54</answer>

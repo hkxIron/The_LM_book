@@ -1,0 +1,24 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Initial Friends**: We start with James having 20 friends. This is our starting point.
+
+2. **Friends Lost**: James got into an argument with 2 of his friends, and as a result, he no longer considers them friends. We need to subtract these 2 friends from his total.
+
+   Calculation: 
+   \[
+   20 - 2 = 18
+   \]
+   So, after the argument, James has 18 friends.
+
+3. **New Friend Made**: On his way back home, James made one new friend. This means we need to add 1 friend to his current total.
+
+   Calculation:
+   \[
+   18 + 1 = 19
+   \]
+   Now, after making a new friend, James has 19 friends.
+
+Therefore, after considering the friends lost and the new friend made, the total number of friends James has left is 19.
+</reasoning>
+<answer>19</answer>

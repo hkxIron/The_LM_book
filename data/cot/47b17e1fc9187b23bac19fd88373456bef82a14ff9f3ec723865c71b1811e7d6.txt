@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we first need to determine how many points were scored by players other than the ones who combined for 188 points.
+
+1. **Calculate the remaining points**: 
+   The total points scored by the Lady Eagles is 311 points. Out of this, 188 points were scored by some players. Therefore, the points scored by Lisa, Jessie, and Devin can be calculated as follows:
+   \[
+   \text{Remaining Points} = \text{Total Points} - \text{Points by other players}
+   \]
+   \[
+   \text{Remaining Points} = 311 - 188 = 123
+   \]
+   This means Lisa, Jessie, and Devin together scored 123 points.
+
+2. **Determine points scored by each player**: 
+   We know that Lisa, Jessie, and Devin scored equally, so we need to divide the remaining points equally among the three of them. To find out how many points each player scored:
+   \[
+   \text{Points per Player} = \frac{\text{Remaining Points}}{3}
+   \]
+   \[
+   \text{Points per Player} = \frac{123}{3} = 41
+   \]
+   Thus, each of the three players (Lisa, Jessie, and Devin) scored 41 points.
+
+3. **Find out how many points Jessie scored**: 
+   Since we have determined that all three players scored the same, Jessie scored 41 points.
+
+Therefore, after going through the steps to find out how many points Jessie scored...
+</reasoning>
+<answer>41</answer>

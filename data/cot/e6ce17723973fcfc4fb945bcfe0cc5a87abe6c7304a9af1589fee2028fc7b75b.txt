@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, let's denote the initial number of sweets on the table as \( x \).
+
+1. **Jack's Action**: Jack took half of the candies plus 4 more. This can be expressed mathematically as:
+   \[
+   \text{Candies taken by Jack} = \frac{x}{2} + 4
+   \]
+   After Jack took his share, the remaining candies can be calculated:
+   \[
+   \text{Remaining candies} = x - \left( \frac{x}{2} + 4 \right)
+   \]
+
+2. **Simplifying the Remaining Candies**: We simplify the expression for the remaining candies:
+   \[
+   \text{Remaining candies} = x - \frac{x}{2} - 4 = \frac{x}{2} - 4
+   \]
+
+3. **Paul's Action**: Paul came and took the remaining 7 sweets. This means:
+   \[
+   \frac{x}{2} - 4 = 7
+   \]
+
+4. **Solving for \( x \)**: Now we will solve the equation:
+   \[
+   \frac{x}{2} - 4 = 7
+   \]
+   First, add 4 to both sides:
+   \[
+   \frac{x}{2} = 11
+   \]
+   Next, multiply both sides by 2 to isolate \( x \):
+   \[
+   x = 22
+   \]
+
+5. **Conclusion**: Thus, the initial number of sweets on the table was 22.
+
+Therefore, the final result is:
+</reasoning>
+<answer>22</answer>

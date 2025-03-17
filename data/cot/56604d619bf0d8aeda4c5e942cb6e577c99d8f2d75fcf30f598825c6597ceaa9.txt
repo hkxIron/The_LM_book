@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we need to determine how many legos each person has based on the information given.
+
+1. **Find the number of legos Kent has**: 
+   We know from the problem statement that Kent has 40 legos. 
+   \[
+   \text{Kent's legos} = 40
+   \]
+
+2. **Determine how many legos Bruce has**: 
+   The problem states that Bruce has 20 more legos than Kent. Since Kent has 40 legos, we can calculate Bruce's legos as follows:
+   \[
+   \text{Bruce's legos} = \text{Kent's legos} + 20 = 40 + 20 = 60
+   \]
+
+3. **Calculate how many legos Simon has**: 
+   Now, we know that Simon has 20% more legos than Bruce. First, we need to find out what 20% of Bruce's legos (which is 60) is:
+   \[
+   20\% \text{ of Bruce's legos} = 0.20 \times 60 = 12
+   \]
+   Now we add this amount to Bruce's legos to find out how many legos Simon has:
+   \[
+   \text{Simon's legos} = \text{Bruce's legos} + 20\% \text{ of Bruce's legos} = 60 + 12 = 72
+   \]
+
+Therefore, after calculating the number of legos each person has step by step, we find that Simon has 72 legos.
+</reasoning>
+<answer>72</answer>

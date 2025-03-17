@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Calculate the donations in the second week:**
+   - In the first week, the total donations were 40 pounds. 
+   - The donations in the second week were twice as high as the first week.
+   - So, we calculate the second week donations as follows:
+     \[
+     \text{Second week donations} = 2 \times \text{First week donations} = 2 \times 40 = 80 \text{ pounds}
+     \]
+
+2. **Calculate the total donations by the end of the second week:**
+   - To find the total amount of food donated by the end of the second week, we simply add the donations from both weeks:
+     \[
+     \text{Total donations} = \text{First week donations} + \text{Second week donations} = 40 + 80 = 120 \text{ pounds}
+     \]
+
+3. **Calculate the amount given out in the third week:**
+   - In the third week, Lyanna gave out 70% of the total donated food. To find out how much that is, we calculate:
+     \[
+     \text{Amount given out} = 0.70 \times \text{Total donations} = 0.70 \times 120 = 84 \text{ pounds}
+     \]
+
+4. **Calculate the amount of food remaining in the food bank:**
+   - To find the remaining food in the food bank, we subtract the amount given out from the total donations:
+     \[
+     \text{Remaining food} = \text{Total donations} - \text{Amount given out} = 120 - 84 = 36 \text{ pounds}
+     \]
+
+Thus, the amount of food remaining in the food bank after the third week is 36 pounds.
+</reasoning>
+<answer>36</answer>

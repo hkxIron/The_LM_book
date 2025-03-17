@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many more birds Gabrielle saw than Chase, and then to express that difference as a percentage, we will follow these steps:
+
+1. **Count the total birds seen by Gabrielle**:
+   - Gabrielle saw:
+     - 5 robins
+     - 4 cardinals
+     - 3 blue jays
+   - Total for Gabrielle = 5 + 4 + 3
+
+2. **Calculate the total for Gabrielle**:
+   - Total for Gabrielle = 5 + 4 + 3 = 12 birds
+
+3. **Count the total birds seen by Chase**:
+   - Chase saw:
+     - 2 robins
+     - 3 blue jays
+     - 5 cardinals
+   - Total for Chase = 2 + 3 + 5
+
+4. **Calculate the total for Chase**:
+   - Total for Chase = 2 + 3 + 5 = 10 birds
+
+5. **Determine the difference in the number of birds seen**:
+   - Difference = Total birds seen by Gabrielle - Total birds seen by Chase
+   - Difference = 12 - 10 = 2 birds
+
+6. **Calculate the percentage difference**:
+   - To find the percentage difference relative to the number of birds seen by Chase, we use the formula:
+     \[
+     \text{Percentage Difference} = \left(\frac{\text{Difference}}{\text{Total for Chase}}\right) \times 100
+     \]
+   - Plugging in the values:
+     \[
+     \text{Percentage Difference} = \left(\frac{2}{10}\right) \times 100
+     \]
+
+7. **Calculate the percentage**:
+   - Percentage Difference = 0.2 × 100 = 20%
+
+Therefore, Gabrielle saw 20% more birds than Chase.
+</reasoning>
+<answer>20</answer>

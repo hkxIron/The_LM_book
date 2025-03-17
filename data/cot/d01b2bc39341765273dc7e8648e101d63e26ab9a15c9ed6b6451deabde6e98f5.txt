@@ -1,0 +1,30 @@
+<reasoning>
+To solve how many birds Ivan's bird feeder feeds weekly, we can follow these steps:
+
+1. **Determine the total amount of birdseed available after the squirrel steals some**: Ivan's bird feeder holds 2 cups of birdseed, but a squirrel steals half a cup of it. Therefore, we subtract the amount stolen by the squirrel from the total capacity of the feeder.
+
+   \[
+   \text{Remaining birdseed} = \text{Total birdseed} - \text{Birdseed stolen by squirrel}
+   \]
+   \[
+   \text{Remaining birdseed} = 2 \text{ cups} - 0.5 \text{ cups} = 1.5 \text{ cups}
+   \]
+
+2. **Calculate how many birds can be fed with the remaining birdseed**: Each cup of birdseed can feed 14 birds. Therefore, to find out how many birds can be fed with 1.5 cups of birdseed, we multiply the number of cups by the number of birds per cup.
+
+   \[
+   \text{Number of birds fed} = \text{Remaining birdseed} \times \text{Number of birds per cup}
+   \]
+   \[
+   \text{Number of birds fed} = 1.5 \text{ cups} \times 14 \text{ birds/cup}
+   \]
+
+3. **Perform the multiplication**: Now we calculate the product of 1.5 and 14.
+
+   \[
+   \text{Number of birds fed} = 1.5 \times 14 = 21
+   \]
+
+This means Ivan's bird feeder can feed 21 birds weekly after accounting for the squirrel's theft of birdseed.
+</reasoning>
+<answer>21</answer>

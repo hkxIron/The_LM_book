@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many push-ups Jackie can do in one minute, we need to first determine how much time she will actually spend doing push-ups, accounting for her breaks.
+
+1. **Calculate the total time in one minute**: 
+   One minute is 60 seconds.
+
+2. **Calculate the total break time**: 
+   Jackie takes two breaks of 8 seconds each. So, the total break time is:
+   \[
+   2 \times 8 \text{ seconds} = 16 \text{ seconds}
+   \]
+
+3. **Calculate the actual time spent doing push-ups**: 
+   We subtract the total break time from the total time in one minute:
+   \[
+   60 \text{ seconds} - 16 \text{ seconds} = 44 \text{ seconds}
+   \]
+
+4. **Determine how many push-ups Jackie can do in 10 seconds**: 
+   We know Jackie can do 5 push-ups in 10 seconds. Therefore, in 1 second, she can do:
+   \[
+   \frac{5 \text{ push-ups}}{10 \text{ seconds}} = 0.5 \text{ push-ups per second}
+   \]
+
+5. **Calculate how many push-ups she can do in 44 seconds**: 
+   Now we multiply the number of push-ups she can do in one second by the total time available for push-ups:
+   \[
+   0.5 \text{ push-ups/second} \times 44 \text{ seconds} = 22 \text{ push-ups}
+   \]
+
+Therefore, Jackie can do a total of 22 push-ups in one minute after accounting for her breaks.
+</reasoning>
+<answer>22</answer>

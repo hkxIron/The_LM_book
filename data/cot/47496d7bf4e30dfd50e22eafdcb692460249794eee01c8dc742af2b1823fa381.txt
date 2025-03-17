@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many students have both puppies and parrots, we will follow these steps:
+
+1. **Calculate the number of students who have puppies.**
+   We know that 80 percent of the 40 students have puppies. To calculate this, we multiply the total number of students by the percentage of students who have puppies:
+
+   \[
+   \text{Number of students with puppies} = 40 \times 0.80
+   \]
+
+   Performing the multiplication:
+
+   \[
+   40 \times 0.80 = 32
+   \]
+
+   So, there are 32 students who have puppies.
+
+2. **Calculate the number of students who have both puppies and parrots.**
+   We are told that 25 percent of those who have puppies also have parrots. To find this, we calculate 25 percent of the 32 students who have puppies:
+
+   \[
+   \text{Number of students with both puppies and parrots} = 32 \times 0.25
+   \]
+
+   Performing the multiplication:
+
+   \[
+   32 \times 0.25 = 8
+   \]
+
+   Therefore, there are 8 students who have both puppies and parrots.
+
+In conclusion, after calculating the number of students who have puppies and then those who also have parrots, we find that the number of students who have both is 8.
+</reasoning>
+<answer>8</answer>

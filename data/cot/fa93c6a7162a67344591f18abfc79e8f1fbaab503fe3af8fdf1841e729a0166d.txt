@@ -1,0 +1,33 @@
+<reasoning>
+To find out how long John spends on all the pictures, we need to calculate the time he spends drawing and coloring each picture separately and then sum these times.
+
+1. **Calculate the time spent drawing each picture:**
+   - John takes 2 hours to draw each picture.
+   - Since he draws a total of 10 pictures, we calculate the total drawing time:
+     \[
+     \text{Total drawing time} = 10 \text{ pictures} \times 2 \text{ hours per picture} = 20 \text{ hours}
+     \]
+
+2. **Calculate the time spent coloring each picture:**
+   - The time to color each picture is 30% less than the time to draw it. First, we find 30% of the drawing time:
+     \[
+     30\% \text{ of } 2 \text{ hours} = 0.3 \times 2 \text{ hours} = 0.6 \text{ hours}
+     \]
+   - Now, we subtract this value from the drawing time to find the coloring time for each picture:
+     \[
+     \text{Time to color each picture} = 2 \text{ hours} - 0.6 \text{ hours} = 1.4 \text{ hours}
+     \]
+   - Now we calculate the total coloring time for all pictures:
+     \[
+     \text{Total coloring time} = 10 \text{ pictures} \times 1.4 \text{ hours per picture} = 14 \text{ hours}
+     \]
+
+3. **Calculate the total time spent on all pictures:**
+   - Finally, we sum the total drawing time and the total coloring time:
+     \[
+     \text{Total time spent} = \text{Total drawing time} + \text{Total coloring time} = 20 \text{ hours} + 14 \text{ hours} = 34 \text{ hours}
+     \]
+
+Therefore, the total time John spends on all the pictures is 34 hours.
+</reasoning>
+<answer>34</answer>

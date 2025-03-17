@@ -1,0 +1,37 @@
+<reasoning>
+To solve the problem, we need to establish the relationships between the number of books each person has based on the information provided.
+
+1. Let's denote the number of books Laura has as \( L \) and the number of books Stu has as \( S \).
+2. According to the problem, Elmo has 3 times as many books as Laura. Since Elmo has 24 books, we can set up the equation:
+   \[
+   E = 3L \quad \text{(where \( E \) is the number of books Elmo has)}
+   \]
+   Substituting the number of books Elmo has:
+   \[
+   24 = 3L
+   \]
+
+3. Now, we can solve for \( L \) by dividing both sides of the equation by 3:
+   \[
+   L = \frac{24}{3} = 8
+   \]
+   So, Laura has 8 books.
+
+4. Next, we know that Laura has twice as many books as her brother, Stu. This relationship can be expressed as:
+   \[
+   L = 2S
+   \]
+   Substituting the value we found for \( L \):
+   \[
+   8 = 2S
+   \]
+
+5. To find \( S \), we divide both sides by 2:
+   \[
+   S = \frac{8}{2} = 4
+   \]
+   Therefore, Stu has 4 books.
+
+Finally, we summarize our findings. We established the relationships and calculated the number of books each person has step by step.
+</reasoning>
+<answer>4</answer>

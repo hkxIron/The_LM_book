@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the total number of seats available in the cafeteria.**
+   We know there are 15 tables and each table can seat 10 people. To find the total number of seats, we multiply the number of tables by the number of seats per table:
+   \[
+   \text{Total seats} = \text{Number of tables} \times \text{Seats per table} = 15 \times 10 = 150
+   \]
+
+2. **Determine how many seats are usually left unseated.**
+   According to the problem, usually 1/10 of the seats are left unseated. We can find the number of unseated seats by calculating:
+   \[
+   \text{Unseated seats} = \frac{1}{10} \times \text{Total seats} = \frac{1}{10} \times 150 = 15
+   \]
+
+3. **Calculate the number of seats that are usually taken.**
+   To find the number of seats that are usually taken, we subtract the number of unseated seats from the total number of seats:
+   \[
+   \text{Seats taken} = \text{Total seats} - \text{Unseated seats} = 150 - 15 = 135
+   \]
+
+Therefore, after performing all the calculations, we find that the number of seats usually taken is 135.
+</reasoning>
+<answer>135</answer>

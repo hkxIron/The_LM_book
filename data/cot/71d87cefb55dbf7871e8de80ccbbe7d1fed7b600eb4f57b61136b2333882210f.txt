@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many beads Charley pulled out, we will calculate the number of black beads and white beads he took from the bag separately and then add those two amounts together.
+
+1. **Calculate the number of black beads pulled out:**
+   Charley pulls out \( \frac{1}{6} \) of the black beads. 
+   He has 90 black beads, so we calculate:
+   \[
+   \text{Black beads pulled out} = \frac{1}{6} \times 90 = 15
+   \]
+   This means Charley pulled out 15 black beads.
+
+2. **Calculate the number of white beads pulled out:**
+   Charley pulls out \( \frac{1}{3} \) of the white beads.
+   He has 51 white beads, so we calculate:
+   \[
+   \text{White beads pulled out} = \frac{1}{3} \times 51 = 17
+   \]
+   This means Charley pulled out 17 white beads.
+
+3. **Add the two amounts together:**
+   Now, we need to find the total number of beads he pulled out by adding the black and white beads:
+   \[
+   \text{Total beads pulled out} = \text{Black beads pulled out} + \text{White beads pulled out} = 15 + 17 = 32
+   \]
+
+Thus, the total number of beads Charley pulled out is 32.
+</reasoning>
+<answer>32</answer>

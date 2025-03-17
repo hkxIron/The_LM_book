@@ -1,0 +1,27 @@
+<reasoning>
+To find the radius of the ash cloud, we begin by determining the diameter of the ash cloud based on the height of the eruption.
+
+1. We know that the ash cloud's diameter is eighteen times the height the ash erupted into the sky. The height of the eruption is given as 300 feet.
+   
+   So, we calculate the diameter:
+   \[
+   \text{Diameter} = 18 \times \text{height} = 18 \times 300 \text{ feet}
+   \]
+   Now, performing the multiplication:
+   \[
+   18 \times 300 = 5400 \text{ feet}
+   \]
+   This means that the diameter of the ash cloud is 5400 feet.
+
+2. Next, we need to find the radius of the ash cloud. The radius is half of the diameter. Therefore, we calculate the radius as follows:
+   \[
+   \text{Radius} = \frac{\text{Diameter}}{2} = \frac{5400 \text{ feet}}{2}
+   \]
+   Again, we perform the division:
+   \[
+   \frac{5400}{2} = 2700 \text{ feet}
+   \]
+
+Thus, the radius of the ash cloud is 2700 feet.
+</reasoning>
+<answer>2700</answer>

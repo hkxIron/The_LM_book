@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much Maria paid for the ticket after receiving a 40% discount, we need to follow these steps:
+
+1. **Identify the original price of the ticket.**  
+   The original price of the ticket is $15.
+
+2. **Calculate the amount of the discount.**  
+   The discount is 40% of the original price. To find the discount, we convert the percentage to a decimal and multiply it by the original price:
+   \[
+   \text{Discount} = 0.40 \times 15
+   \]
+
+3. **Perform the multiplication.**  
+   \[
+   0.40 \times 15 = 6
+   \]  
+   This means the discount amount is $6.
+
+4. **Calculate the price Maria paid after the discount.**  
+   To find the final price after the discount, we subtract the discount from the original price:
+   \[
+   \text{Final Price} = \text{Original Price} - \text{Discount}
+   \]
+   \[
+   \text{Final Price} = 15 - 6
+   \]
+
+5. **Perform the subtraction.**  
+   \[
+   15 - 6 = 9
+   \]  
+   Therefore, Maria paid $9 for the ticket.
+</reasoning>
+<answer>9</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+First, let's calculate the total number of light bulbs that Sean needs to replace.
+
+1. **Counting bulbs in each room:**
+   - Bedroom: 2 bulbs
+   - Bathroom: 1 bulb
+   - Kitchen: 1 bulb
+   - Basement: 4 bulbs
+
+   Now, let's sum these amounts:
+   \[
+   2 \, (\text{bedroom}) + 1 \, (\text{bathroom}) + 1 \, (\text{kitchen}) + 4 \, (\text{basement}) = 8 \, \text{bulbs}
+   \]
+
+2. **Calculating the amount needed for the garage:**
+   Sean needs to replace 1/2 of the total amount of bulbs in the garage. We already calculated that he needs 8 bulbs in total, so:
+   \[
+   \frac{1}{2} \times 8 = 4 \, \text{bulbs}
+   \]
+
+3. **Total number of bulbs needed:**
+   Now, we add the bulbs needed for the garage to the bulbs needed for the other rooms:
+   \[
+   8 \, (\text{from other rooms}) + 4 \, (\text{garage}) = 12 \, \text{bulbs}
+   \]
+
+4. **Determining the number of packs needed:**
+   The bulbs come in packs of 2. To find out how many packs Sean needs, we divide the total number of bulbs by the number of bulbs per pack:
+   \[
+   \frac{12 \, \text{bulbs}}{2 \, \text{bulbs per pack}} = 6 \, \text{packs}
+   \]
+
+Therefore, Sean needs a total of 6 packs of light bulbs.
+</reasoning>
+<answer>6</answer>

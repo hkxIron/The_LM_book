@@ -1,0 +1,22 @@
+<reasoning>
+To solve this problem, we need to determine how much material is required for one quilt first, and then use that information to find out how much material is needed for 12 quilts.
+
+1. **Find the material needed for one quilt:**
+   We know that Jennie can make 7 quilts with 21 yards of material. To find out how much material is needed for one quilt, we will divide the total material by the number of quilts.
+
+   \[
+   \text{Material per quilt} = \frac{\text{Total material}}{\text{Number of quilts}} = \frac{21 \text{ yards}}{7 \text{ quilts}} = 3 \text{ yards per quilt}
+   \]
+
+   This means each quilt requires 3 yards of material.
+
+2. **Calculate the material required for 12 quilts:**
+   Now that we know each quilt requires 3 yards, we can find out how much material is needed for 12 quilts by multiplying the material needed for one quilt by the number of quilts.
+
+   \[
+   \text{Material for 12 quilts} = \text{Material per quilt} \times \text{Number of quilts} = 3 \text{ yards per quilt} \times 12 \text{ quilts} = 36 \text{ yards}
+   \]
+
+   Therefore, Jennie would need a total of 36 yards of material to make 12 quilts.
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To find the length of Derrick's yard, we will start by using the information given about the other yards.
+
+1. **Identify the length of Brianne's yard**: We know that Brianne's yard is 30 yards long.
+
+2. **Relate Brianne's yard to Alex's yard**: The problem states that Brianne's yard is 6 times the size of Alex's yard. Let’s denote the length of Alex's yard as \( A \).
+   - Therefore, we can set up the equation:
+     \[
+     6A = 30
+     \]
+
+3. **Solve for Alex's yard**: To find \( A \), we divide both sides of the equation by 6:
+   \[
+   A = \frac{30}{6} = 5
+   \]
+   So, Alex's yard is 5 yards long.
+
+4. **Relate Alex's yard to Derrick's yard**: The problem states that the length of Alex's yard is half the size of Derrick's yard. Let’s denote the length of Derrick's yard as \( D \).
+   - This gives us the equation:
+     \[
+     A = \frac{1}{2}D
+     \]
+   - Since we found \( A = 5 \), we substitute this value into the equation:
+     \[
+     5 = \frac{1}{2}D
+     \]
+
+5. **Solve for Derrick's yard**: To find \( D \), we multiply both sides by 2:
+   \[
+   D = 5 \times 2 = 10
+   \]
+   Thus, Derrick's yard is 10 yards long.
+
+Finally, we can conclude that Derrick's yard measures 10 yards.
+</reasoning>
+<answer>10</answer>

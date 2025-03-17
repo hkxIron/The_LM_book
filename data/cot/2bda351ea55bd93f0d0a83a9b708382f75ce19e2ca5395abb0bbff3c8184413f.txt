@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many nuts are left after 5/6 of them were eaten, we can follow these steps:
+
+1. **Calculate the number of nuts eaten**: Since 5/6 of the nuts were eaten, we need to find out what 5/6 of 30 is. This can be calculated by multiplying 30 by 5/6.
+
+   \[
+   \text{Nuts eaten} = 30 \times \frac{5}{6}
+   \]
+
+2. **Perform the multiplication**: We can simplify the multiplication as follows:
+
+   \[
+   \text{Nuts eaten} = 30 \times \frac{5}{6} = \frac{30 \times 5}{6} = \frac{150}{6} = 25
+   \]
+
+   So, 25 nuts were eaten.
+
+3. **Calculate the number of nuts left**: To find out how many nuts are left, we subtract the number of nuts eaten from the total number of nuts.
+
+   \[
+   \text{Nuts left} = 30 - 25
+   \]
+
+4. **Perform the subtraction**:
+
+   \[
+   \text{Nuts left} = 5
+   \]
+
+Therefore, after 5/6 of the nuts were eaten, there are 5 nuts left in the bowl.
+</reasoning>
+<answer>5</answer>

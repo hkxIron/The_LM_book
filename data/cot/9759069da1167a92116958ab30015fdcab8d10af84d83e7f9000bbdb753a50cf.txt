@@ -1,0 +1,29 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the discount on the repair cost:**
+   - The original cost to fix the racecar is $20,000.
+   - John gets a 20% discount on this amount. To find out how much the discount is, we calculate:
+     \[
+     \text{Discount} = 20\% \times 20000 = 0.20 \times 20000 = 4000
+     \]
+   - Now, subtract the discount from the original cost to find the final cost of fixing the car:
+     \[
+     \text{Final Cost} = 20000 - 4000 = 16000
+     \]
+
+2. **Calculate the amount John keeps from the prize money:**
+   - John wins a prize of $70,000 but only keeps 90% of it. To find out how much he keeps, we perform the following calculation:
+     \[
+     \text{Amount Kept} = 90\% \times 70000 = 0.90 \times 70000 = 63000
+     \]
+
+3. **Determine John's profit from fixing the racecar:**
+   - Now, to find out how much money John made, we need to subtract the final cost of fixing the car from the amount he keeps from the prize money:
+     \[
+     \text{Profit} = \text{Amount Kept} - \text{Final Cost} = 63000 - 16000 = 47000
+     \]
+
+Therefore, after calculating all the steps, we find that John's profit from fixing the racecar and winning the race is:
+</reasoning>
+<answer>47000</answer>

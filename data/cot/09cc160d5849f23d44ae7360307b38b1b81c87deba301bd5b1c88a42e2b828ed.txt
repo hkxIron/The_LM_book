@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the contributions step by step.
+
+1. **Determine the boss's contribution**: The boss contributes $15. 
+
+   *Contribution so far: $15*
+
+2. **Determine Todd's contribution**: Todd contributes twice as much as the boss. Since the boss contributes $15, we calculate Todd's contribution as follows:
+   \[
+   \text{Todd's contribution} = 2 \times \text{boss's contribution} = 2 \times 15 = 30
+   \]
+   
+   *Contribution so far: $15 (boss) + $30 (Todd) = $45*
+
+3. **Calculate the remaining amount needed**: The total cost of the gift is $100. We need to find out how much more is needed after the contributions from the boss and Todd.
+   \[
+   \text{Remaining amount} = \text{Total cost} - \text{Total contributions so far} = 100 - 45 = 55
+   \]
+
+4. **Determine how many employees are contributing**: There are 5 remaining employees, including Nick. So, the total number of contributors is 5.
+
+5. **Calculate the amount each of the remaining employees will pay**: Since the remaining amount of $55 needs to be split equally among the 5 employees, we can calculate each person's share as follows:
+   \[
+   \text{Amount each pays} = \frac{\text{Remaining amount}}{\text{Number of remaining employees}} = \frac{55}{5} = 11
+   \]
+
+Thus, each of the remaining 5 employees pays $11.
+</reasoning>
+<answer>11</answer>

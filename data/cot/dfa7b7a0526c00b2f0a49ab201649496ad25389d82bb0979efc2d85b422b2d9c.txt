@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we need to determine how much older Max's dog is in dog years when Max is 3 years old. 
+
+1. **Understanding the aging ratio:** 
+   - We know that for every 1 year that a human ages, a dog ages 7 years. This means that we can convert human years into dog years using this ratio.
+
+2. **Max's age:** 
+   - Max is currently 3 years old. 
+
+3. **Calculating Max's dog age:**
+   - Since Max is 3 years old, we will apply the conversion to dog years. 
+   - The calculation will be: 
+     \[
+     \text{Dog years} = \text{Max's age in years} \times 7
+     \]
+   - Plugging in the values, we get:
+     \[
+     \text{Dog years} = 3 \times 7 = 21
+     \]
+   - Therefore, Max's 3-year-old dog is 21 dog years old.
+
+4. **Finding how much older the dog is compared to Max:**
+   - To find out how much older the dog is than Max in dog years, we need to consider the dog's age in dog years and Max's age in human years.
+   - The dog is 21 dog years old, and Max is 3 human years old. 
+   - To find the difference in age:
+     \[
+     \text{Age difference} = \text{Dog's age in dog years} - \text{Max's age in human years}
+     \]
+   - Plugging in the values, we get:
+     \[
+     \text{Age difference} = 21 - 3 = 18
+     \]
+
+Therefore, the dog is 18 years older than Max in dog years.
+</reasoning>
+<answer>18</answer>

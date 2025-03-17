@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many apples Adam has collected in total from his orchard, we need to follow these steps:
+
+1. **Calculate the number of apples picked daily**: Adam picks 4 apples every day. Since he does this for 30 days, we can calculate the total number of apples he picked during that time.
+
+   \[
+   \text{Total apples picked} = \text{apples per day} \times \text{number of days} = 4 \times 30
+   \]
+
+   Performing the multiplication:
+
+   \[
+   4 \times 30 = 120
+   \]
+
+   So, Adam picked a total of 120 apples over the 30 days.
+
+2. **Add the remaining apples**: After the 30 days, Adam has 230 remaining apples in addition to the 120 apples he picked. Now we can find the total number of apples collected by adding the apples picked to the remaining apples.
+
+   \[
+   \text{Total apples collected} = \text{apples picked} + \text{remaining apples} = 120 + 230
+   \]
+
+   Now, performing the addition:
+
+   \[
+   120 + 230 = 350
+   \]
+
+Therefore, the total number of apples that Adam has collected from his orchard is 350.
+</reasoning>
+<answer>350</answer>

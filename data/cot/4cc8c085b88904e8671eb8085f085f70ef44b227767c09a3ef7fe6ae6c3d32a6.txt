@@ -1,0 +1,35 @@
+<reasoning>
+To determine how many episodes per day Joe needs to watch, we can follow these steps:
+
+1. **Calculate the total number of episodes that Joe needs to watch.** 
+   - Since there are 4 full seasons already aired and each season has 15 episodes, we can use multiplication to find the total number of episodes:
+     \[
+     \text{Total episodes} = \text{Number of seasons} \times \text{Episodes per season} = 4 \times 15
+     \]
+
+2. **Perform the multiplication.** 
+   - Calculating \(4 \times 15\):
+     \[
+     4 \times 15 = 60
+     \]
+   - So, Joe needs to watch a total of 60 episodes.
+
+3. **Determine how many days Joe has to watch these episodes.** 
+   - We know that the premiere is in 10 days, so Joe has 10 days to watch all 60 episodes.
+
+4. **Calculate how many episodes Joe needs to watch per day.** 
+   - To find out how many episodes he needs to watch each day, we divide the total number of episodes by the number of days:
+     \[
+     \text{Episodes per day} = \frac{\text{Total episodes}}{\text{Number of days}} = \frac{60}{10}
+     \]
+
+5. **Perform the division.** 
+   - Calculating \(60 \div 10\):
+     \[
+     60 \div 10 = 6
+     \]
+   - Therefore, Joe needs to watch 6 episodes each day.
+
+In conclusion, after performing the calculations step by step, we find that Joe needs to watch 6 episodes per day to catch up before the premiere of the final season.
+</reasoning>
+<answer>6</answer>

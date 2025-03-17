@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many students did not participate in the math competition, we will first determine how many students did participate.
+
+1. **Calculate one-third of the total number of students.** 
+   The total number of students in the class is 39. To find one-third of this number, we divide it by 3:
+   \[
+   \text{Students who participated} = \frac{39}{3}
+   \]
+   Performing the division:
+   \[
+   \frac{39}{3} = 13
+   \]
+   This means that 13 students participated in the math competition.
+
+2. **Calculate the number of students who did not participate.**
+   To find the number of students who did not participate, we subtract the number of students who participated from the total number of students:
+   \[
+   \text{Students who did not participate} = \text{Total students} - \text{Students who participated}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Students who did not participate} = 39 - 13
+   \]
+   Performing the subtraction:
+   \[
+   39 - 13 = 26
+   \]
+
+Therefore, the number of students who did not participate in the competition is 26.
+</reasoning>
+<answer>26</answer>

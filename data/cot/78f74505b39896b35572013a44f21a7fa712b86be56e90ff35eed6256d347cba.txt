@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem, we will calculate the duration each entertainer stands on their back legs step by step.
+
+1. **Pulsar's Time**: Pulsar stands on his back legs for a total of 10 minutes. 
+   - So, we have: 
+     \[
+     \text{Pulsar's Time} = 10 \text{ minutes}
+     \]
+
+2. **Polly's Time**: Polly stands on her back legs for three times as long as Pulsar. 
+   - To find Polly's time, we multiply Pulsar's time by 3:
+     \[
+     \text{Polly's Time} = 3 \times \text{Pulsar's Time} = 3 \times 10 = 30 \text{ minutes}
+     \]
+
+3. **Petra's Time**: Petra stands on her back legs for one-sixth as long as Polly. 
+   - To find Petra's time, we divide Polly's time by 6:
+     \[
+     \text{Petra's Time} = \frac{1}{6} \times \text{Polly's Time} = \frac{1}{6} \times 30 = 5 \text{ minutes}
+     \]
+
+4. **Combined Time**: Now, we add together the times that each entertainer stood on their back legs:
+   \[
+   \text{Combined Time} = \text{Pulsar's Time} + \text{Polly's Time} + \text{Petra's Time}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Combined Time} = 10 + 30 + 5 = 45 \text{ minutes}
+   \]
+
+Therefore, the combined length of time that the three entertainers stand on their back legs is 45 minutes.
+</reasoning>
+<answer>45</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we first need to determine how many hotdogs Lisa needs to eat in total and how many she has left to eat.
+
+1. **Total Hotdogs to Eat**: Joey Chestnut's record is 75 hotdogs.
+2. **Hotdogs Already Eaten**: Lisa has already eaten 20 hotdogs.
+
+We need to find out how many hotdogs Lisa still needs to eat:
+
+\[
+\text{Hotdogs left to eat} = \text{Total hotdogs} - \text{Hotdogs eaten}
+\]
+
+Substituting the known values:
+
+\[
+\text{Hotdogs left to eat} = 75 - 20 = 55
+\]
+
+3. **Time Remaining**: Since Lisa is halfway through the 10 minutes, she has 5 minutes left to eat.
+
+Now, we need to find out how many hotdogs Lisa must eat per minute in order to eat the remaining 55 hotdogs within the 5 minutes she has left:
+
+\[
+\text{Hotdogs per minute} = \frac{\text{Hotdogs left to eat}}{\text{Time remaining in minutes}}
+\]
+
+Substituting in the values we found:
+
+\[
+\text{Hotdogs per minute} = \frac{55}{5} = 11
+\]
+
+This means Lisa needs to eat 11 hotdogs per minute in order to at least tie Joey Chestnut's record.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>11</answer>

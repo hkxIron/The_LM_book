@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we need to determine how many students do not read any novels based on the information given.
+
+1. **Determine the number of students reading three or more novels**:
+   - We know that 1/6 of the 240 students read three or more novels.
+   - To find this number, we calculate \( \frac{1}{6} \times 240 \).
+   \[
+   \frac{240}{6} = 40
+   \]
+   So, 40 students read three or more novels.
+
+2. **Determine the number of students reading two novels**:
+   - We are told that 35% of the students read two novels.
+   - To find this number, we calculate \( 0.35 \times 240 \).
+   \[
+   0.35 \times 240 = 84
+   \]
+   So, 84 students read two novels.
+
+3. **Determine the number of students reading one novel**:
+   - We know that 5/12 of the students read one novel.
+   - To find this number, we calculate \( \frac{5}{12} \times 240 \).
+   \[
+   \frac{5 \times 240}{12} = \frac{1200}{12} = 100
+   \]
+   So, 100 students read one novel.
+
+4. **Calculate the total number of students who read novels**:
+   - Now, we will add the number of students in each category to find the total number of students who read novels.
+   \[
+   40 \text{ (three or more novels)} + 84 \text{ (two novels)} + 100 \text{ (one novel)} = 224
+   \]
+   So, 224 students read novels.
+
+5. **Calculate the number of students who do not read any novels**:
+   - We subtract the total number of students who read novels from the total number of students to find out how many do not read novels.
+   \[
+   240 \text{ (total students)} - 224 \text{ (students who read novels)} = 16
+   \]
+   Therefore, 16 students do not read any novels.
+</reasoning>
+<answer>16</answer>

@@ -1,0 +1,83 @@
+<reasoning>
+First, let's summarize the information given:
+
+- Total employees = 300
+- Employees earning $12/hour = 200
+- Employees earning $14/hour = 40
+- The rest of the employees earn $17/hour.
+
+Next, we need to determine how many employees earn $17/hour. We can do this by subtracting the number of employees earning $12/hour and those earning $14/hour from the total number of employees.
+
+1. Calculate the number of employees earning $17/hour:
+
+   \[
+   \text{Employees earning } \$17/\text{hour} = \text{Total employees} - \text{Employees earning } \$12/\text{hour} - \text{Employees earning } \$14/\text{hour}
+   \]
+
+   Plugging in the numbers:
+
+   \[
+   \text{Employees earning } \$17/\text{hour} = 300 - 200 - 40 = 60
+   \]
+
+Now we have the breakdown of employees:
+
+- 200 employees earn $12/hour.
+- 40 employees earn $14/hour.
+- 60 employees earn $17/hour.
+
+Next, we calculate the total cost for each group of employees for an 8-hour shift.
+
+2. Calculate the cost for employees earning $12/hour:
+
+   \[
+   \text{Cost for } \$12/\text{hour} = \text{Number of employees} \times \text{Hourly wage} \times \text{Hours}
+   \]
+
+   \[
+   \text{Cost for } \$12/\text{hour} = 200 \times 12 \times 8
+   \]
+
+   \[
+   = 200 \times 96 = 19200
+   \]
+
+3. Calculate the cost for employees earning $14/hour:
+
+   \[
+   \text{Cost for } \$14/\text{hour} = 40 \times 14 \times 8
+   \]
+
+   \[
+   = 40 \times 112 = 4480
+   \]
+
+4. Calculate the cost for employees earning $17/hour:
+
+   \[
+   \text{Cost for } \$17/\text{hour} = 60 \times 17 \times 8
+   \]
+
+   \[
+   = 60 \times 136 = 8160
+   \]
+
+Now, we will add up all the costs to find the total cost for employing all the employees for one 8-hour shift.
+
+5. Total cost:
+
+   \[
+   \text{Total Cost} = \text{Cost for } \$12/\text{hour} + \text{Cost for } \$14/\text{hour} + \text{Cost for } \$17/\text{hour}
+   \]
+
+   \[
+   = 19200 + 4480 + 8160
+   \]
+
+   \[
+   = 19200 + 12640 = 31840
+   \]
+
+Therefore, the total cost to employ all these people for one 8-hour long shift is:
+</reasoning>
+<answer>31840</answer>

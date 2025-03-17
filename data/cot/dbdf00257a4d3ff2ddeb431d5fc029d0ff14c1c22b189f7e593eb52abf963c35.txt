@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of delegates:** There are 36 delegates at the convention.
+
+2. **Determine how many delegates arrived with pre-printed name badges:** According to the problem, 16 out of the 36 delegates arrived with pre-printed name badges.
+
+3. **Calculate how many delegates do not have pre-printed name badges:** We need to subtract the number of delegates with pre-printed badges from the total number:
+   \[
+   \text{Delegates without pre-printed badges} = 36 - 16 = 20
+   \]
+   This means there are 20 delegates who do not have pre-printed name badges.
+
+4. **Determine how many delegates made their own hand-written name badges:** The problem states that half of the remaining delegates made their own hand-written badges. Since we have 20 delegates without pre-printed badges, we calculate half of this number:
+   \[
+   \text{Hand-written badges} = \frac{20}{2} = 10
+   \]
+   So, 10 delegates made their own hand-written name badges.
+
+5. **Calculate how many delegates are not wearing any name badges:** Now, we need to find out how many delegates are not wearing any name badges at all. This would be the remaining delegates from those who did not have pre-printed badges and did not make their own:
+   \[
+   \text{Delegates without any name badge} = 20 - 10 = 10
+   \]
+
+Thus, we find that 10 delegates are not wearing any name badges.
+</reasoning>
+<answer>10</answer>

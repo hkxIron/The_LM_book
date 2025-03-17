@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of chickens**: 
+   We know there are 66 goats at the farm. The problem states that there are twice as many chickens as goats. Therefore, we can calculate the number of chickens as follows:
+   \[
+   \text{Number of chickens} = 2 \times \text{Number of goats} = 2 \times 66 = 132
+   \]
+
+2. **Calculate the total number of goats and chickens**: 
+   Now we want to find the total number of goats and chickens combined:
+   \[
+   \text{Total goats and chickens} = \text{Number of goats} + \text{Number of chickens} = 66 + 132 = 198
+   \]
+
+3. **Determine the number of ducks**:
+   The problem states that the number of ducks is half of the total number of goats and chickens. So, we calculate the number of ducks:
+   \[
+   \text{Number of ducks} = \frac{1}{2} \times \text{Total goats and chickens} = \frac{1}{2} \times 198 = 99
+   \]
+
+4. **Calculate the number of pigs**:
+   The number of pigs is a third of the number of ducks. Thus, we compute the number of pigs:
+   \[
+   \text{Number of pigs} = \frac{1}{3} \times \text{Number of ducks} = \frac{1}{3} \times 99 = 33
+   \]
+
+5. **Find how many more goats there are than pigs**:
+   Finally, we need to find the difference between the number of goats and pigs:
+   \[
+   \text{Difference} = \text{Number of goats} - \text{Number of pigs} = 66 - 33 = 33
+   \]
+
+Therefore, there are 33 more goats than pigs.
+</reasoning>
+<answer>33</answer>

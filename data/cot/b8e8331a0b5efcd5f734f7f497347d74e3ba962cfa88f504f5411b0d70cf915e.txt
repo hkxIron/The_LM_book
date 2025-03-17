@@ -1,0 +1,49 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of cars and tires needed**: 
+   - Each car has 4 tires.
+   - There are 4 cars already in the shop and 6 more customers coming in. 
+   - Thus, the total number of cars is \(4 + 6 = 10\) cars.
+
+2. **Calculate the total number of tires needed for all cars**: 
+   - Since each car has 4 tires, the total number of tires needed for 10 cars is:
+     \[
+     10 \text{ cars} \times 4 \text{ tires per car} = 40 \text{ tires}.
+     \]
+
+3. **Determine the number of tires changed**: 
+   - We know that at the end of the week, the shop has 20 tires left. This means that some tires were not used. 
+   - Therefore, the number of tires that were actually used (changed) is:
+     \[
+     40 \text{ tires needed} - 20 \text{ tires left} = 20 \text{ tires used}.
+     \]
+
+4. **Account for customers who did not change tires**: 
+   - We know that 2 of the customers only wanted half their tires changed. Each of those customers has a car with 4 tires, which means:
+     \[
+     2 \text{ customers} \times 2 \text{ tires changed per customer} = 4 \text{ tires changed}.
+     \]
+
+5. **Calculate the number of tires changed by customers who decided to change their tires**: 
+   - If 20 tires were used in total and 4 of those were from the customers who only wanted half changed, then the number of tires changed by customers who wanted all tires changed is:
+     \[
+     20 \text{ tires used} - 4 \text{ tires from half-changed customers} = 16 \text{ tires changed by full customers}.
+     \]
+
+6. **Determine how many full customers there were**: 
+   - Each of the full customers changes 4 tires, so the number of customers who had all tires changed is:
+     \[
+     \frac{16 \text{ tires changed by full customers}}{4 \text{ tires per car}} = 4 \text{ full customers}.
+     \]
+
+7. **Calculate total customers who came in**: 
+   - We started with 4 cars already in the shop, and there were 6 additional customers, making a total of 10 customers.
+   - Since 4 of these customers had all their tires changed and 2 had half changed, we can find out how many did not want any tires changed:
+     \[
+     \text{Total customers} - \text{Customers changing tires} = 10 - (4 + 2) = 10 - 6 = 4 \text{ customers who did not want tires changed}.
+     \]
+
+Thus, the number of customers who decided they did not want their tires changed is 4.
+</reasoning>
+<answer>4</answer>

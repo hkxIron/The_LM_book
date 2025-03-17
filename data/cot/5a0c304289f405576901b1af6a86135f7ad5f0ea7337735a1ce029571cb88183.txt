@@ -1,0 +1,18 @@
+<reasoning>
+First, we need to determine how many children from Mrs. Copper's kindergarten class attended school that day. The total number of kids in the class is 24, but since 2 children are sick, we subtract those from the total:
+
+24 - 2 = 22
+
+This tells us that 22 children attended school.
+
+Next, we need to find out how many jellybeans these 22 children ate. Each child eats 3 jellybeans, so we multiply the number of children by the number of jellybeans each eats:
+
+22 children * 3 jellybeans/child = 66 jellybeans eaten
+
+Now, we know that there were originally 100 jellybeans in the jar. To find out how many jellybeans are left after the children have eaten, we subtract the number of jellybeans eaten from the original amount:
+
+100 jellybeans - 66 jellybeans eaten = 34 jellybeans remaining
+
+Therefore, the total number of jellybeans left in the jar is:
+</reasoning>
+<answer>34</answer>

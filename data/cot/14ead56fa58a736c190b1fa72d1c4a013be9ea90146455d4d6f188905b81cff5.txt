@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many people bought pumpkins for carving**: The pumpkin patch charges $3 per person. Since they made $96 selling pumpkins for carving, we can find the number of people by dividing the total revenue by the price per person.
+
+   \[
+   \text{Number of people} = \frac{\text{Total Revenue}}{\text{Price per person}} = \frac{96}{3} = 32
+   \]
+
+   This means that 32 people came to pick pumpkins.
+
+2. **Calculate how many pumpkins were sold**: Since each person picks one pumpkin, the number of pumpkins sold is equal to the number of people.
+
+   \[
+   \text{Pumpkins sold} = 32
+   \]
+
+3. **Determine how many pumpkins are left after sales**: We know that the pumpkin patch grew a total of 83 pumpkins. To find out how many pumpkins are left after selling some, we subtract the number of pumpkins sold from the total number of pumpkins.
+
+   \[
+   \text{Pumpkins remaining} = \text{Total pumpkins} - \text{Pumpkins sold} = 83 - 32 = 51
+   \]
+
+4. **Calculate how many cans of pie filling can be produced**: The problem states that it takes 3 pumpkins to make 1 can of pie filling. Therefore, to find out how many cans can be produced from the remaining pumpkins, we divide the number of remaining pumpkins by 3.
+
+   \[
+   \text{Cans of pie filling} = \frac{\text{Pumpkins remaining}}{3} = \frac{51}{3} = 17
+   \]
+
+   Since 51 is exactly divisible by 3, we can produce 17 cans of pie filling.
+
+Finally, we summarize the findings:
+
+Therefore, the pumpkin patch will produce 17 cans of pie filling.
+</reasoning>
+<answer>17</answer>

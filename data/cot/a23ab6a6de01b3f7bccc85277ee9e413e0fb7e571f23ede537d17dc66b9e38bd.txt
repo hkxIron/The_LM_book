@@ -1,0 +1,27 @@
+<reasoning>
+Let's analyze the problem step by step:
+
+1. **Classmates**: Jerome has 20 classmates on his cell phone contact list.
+
+2. **Out of School Friends**: The problem states that he has half as many out of school friends as classmates. Since he has 20 classmates, we can calculate the number of out of school friends as follows:
+   \[
+   \text{Number of out of school friends} = \frac{20}{2} = 10
+   \]
+
+3. **Family Members**: The problem mentions that Jerome has two parents and one sister on his contact list. Therefore, we can calculate the number of family members:
+   \[
+   \text{Number of family members} = 2 \text{ (parents)} + 1 \text{ (sister)} = 3
+   \]
+
+4. **Total People on Contact List**: Now, we can find the total number of people on Jerome's contact list by adding the number of classmates, out of school friends, and family members together:
+   \[
+   \text{Total on contact list} = \text{Number of classmates} + \text{Number of out of school friends} + \text{Number of family members}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Total on contact list} = 20 + 10 + 3 = 33
+   \]
+
+Therefore, the total number of people on Jerome's contact list is 33.
+</reasoning>
+<answer>33</answer>

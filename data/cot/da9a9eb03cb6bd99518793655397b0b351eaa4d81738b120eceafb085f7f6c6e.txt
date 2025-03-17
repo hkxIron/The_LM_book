@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we need to determine how far Yolanda has traveled when her husband starts his journey, and then find out how long it takes her husband to catch up to her.
+
+1. **Calculate how far Yolanda travels in 15 minutes.**
+   - Yolanda rides her bike at a speed of 20 miles per hour. 
+   - First, we convert 15 minutes into hours: \(15 \text{ minutes} = \frac{15}{60} \text{ hours} = 0.25 \text{ hours}\).
+   - Now, we can calculate the distance Yolanda covers in 15 minutes:
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time} = 20 \text{ miles/hour} \times 0.25 \text{ hours} = 5 \text{ miles}.
+     \]
+   - Therefore, when her husband starts driving, Yolanda is 5 miles ahead.
+
+2. **Determine the relative speed difference between Yolanda and her husband.**
+   - Yolanda's speed is 20 miles per hour, and her husband's speed is 40 miles per hour.
+   - The speed difference (or relative speed) is:
+     \[
+     \text{Relative speed} = \text{Husband's speed} - \text{Yolanda's speed} = 40 \text{ miles/hour} - 20 \text{ miles/hour} = 20 \text{ miles/hour}.
+     \]
+
+3. **Calculate the time it takes for the husband to catch up.**
+   - Since Yolanda has a 5-mile head start, we can find out how long it will take her husband to close this gap at a relative speed of 20 miles per hour:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Relative speed}} = \frac{5 \text{ miles}}{20 \text{ miles/hour}} = 0.25 \text{ hours}.
+     \]
+
+4. **Convert the time from hours to minutes.**
+   - We need to convert 0.25 hours into minutes:
+     \[
+     0.25 \text{ hours} \times 60 \text{ minutes/hour} = 15 \text{ minutes}.
+     \]
+
+Therefore, it will take Yolanda's husband 15 minutes to catch up to her.
+</reasoning>
+<answer>15</answer>

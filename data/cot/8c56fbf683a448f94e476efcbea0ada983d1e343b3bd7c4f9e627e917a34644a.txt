@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Calculate the number of lollipops and candy canes:**
+   Angeli had a total of 90 assorted candies. According to the problem, one-third of these candies were lollipops.
+
+   \[
+   \text{Number of lollipops} = \frac{1}{3} \times 90 = 30
+   \]
+
+   The rest of the candies are candy canes. To find the number of candy canes, we subtract the number of lollipops from the total candies.
+
+   \[
+   \text{Number of candy canes} = 90 - 30 = 60
+   \]
+
+2. **Determine how many boys received lollipops:**
+   Each boy received 3 lollipops. To find out how many boys there are, we divide the total number of lollipops by the number each boy received.
+
+   \[
+   \text{Number of boys} = \frac{30 \text{ lollipops}}{3 \text{ lollipops per boy}} = 10
+   \]
+
+3. **Determine how many girls received candy canes:**
+   Each girl received 2 candy canes. Similarly, to find out how many girls there are, we divide the total number of candy canes by the number each girl received.
+
+   \[
+   \text{Number of girls} = \frac{60 \text{ candy canes}}{2 \text{ candy canes per girl}} = 30
+   \]
+
+4. **Calculate the total number of boys and girls:**
+   Now, we need to find out how many boys and girls were given altogether.
+
+   \[
+   \text{Total number of children} = \text{Number of boys} + \text{Number of girls} = 10 + 30 = 40
+   \]
+
+Therefore, the total number of boys and girls who were given candies is:
+</reasoning>
+<answer>40</answer>

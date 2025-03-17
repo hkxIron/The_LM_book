@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many books are in the library now, we will follow these steps:
+
+1. **Determine the number of books purchased this year**: Last year, the library purchased 50 new books. This year, it purchased 3 times as many books as last year. To find the number of books purchased this year, we multiply the number of books purchased last year by 3.
+
+   \[
+   \text{Books purchased this year} = 3 \times 50 = 150
+   \]
+
+2. **Calculate the total number of books after last year's purchase**: We need to add the 50 books purchased last year to the original number of books in the library. The library had 100 books before last year’s purchases.
+
+   \[
+   \text{Total books after last year} = \text{Original books} + \text{Books purchased last year} 
+   \]
+   \[
+   = 100 + 50 = 150
+   \]
+
+3. **Calculate the total number of books after this year's purchase**: Now, we will add the 150 books purchased this year to the total number of books after last year's purchase.
+
+   \[
+   \text{Total books now} = \text{Total books after last year} + \text{Books purchased this year}
+   \]
+   \[
+   = 150 + 150 = 300
+   \]
+
+Thus, the total number of books in the library now is 300.
+</reasoning>
+<answer>300</answer>

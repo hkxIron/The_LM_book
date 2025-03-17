@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much Lance makes on each workday, we will follow these steps:
+
+1. **Calculate Lance's total earnings for the week**: 
+   Since Lance works 35 hours a week and earns $9 an hour, we can multiply his hours worked by his hourly rate.
+   \[
+   \text{Total earnings for the week} = \text{Hours worked} \times \text{Hourly rate}
+   \]
+   \[
+   \text{Total earnings for the week} = 35 \text{ hours} \times 9 \text{ dollars/hour} = 315 \text{ dollars}
+   \]
+
+2. **Determine the number of workdays**: 
+   It is mentioned that Lance works over 5 workdays.
+
+3. **Divide the total earnings by the number of workdays**: 
+   To find out how much he makes on each workday, we will divide his weekly earnings by the number of workdays.
+   \[
+   \text{Earnings per workday} = \frac{\text{Total earnings for the week}}{\text{Number of workdays}}
+   \]
+   \[
+   \text{Earnings per workday} = \frac{315 \text{ dollars}}{5 \text{ workdays}} = 63 \text{ dollars}
+   \]
+
+Therefore, Lance makes $63 on each workday.
+</reasoning>
+<answer>63</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the number of red marbles**: We know there are 20 red marbles.
+   
+   \[
+   \text{Red marbles} = 20
+   \]
+
+2. **Calculate the number of green marbles**: The problem states that there are three times more green marbles than red marbles. Therefore, we can calculate the number of green marbles as follows:
+
+   \[
+   \text{Green marbles} = 3 \times \text{Red marbles} = 3 \times 20 = 60
+   \]
+
+3. **Calculate the number of yellow marbles**: Yellow marbles make up 20% of the green marbles. To find the number of yellow marbles, we calculate:
+
+   \[
+   \text{Yellow marbles} = 0.20 \times \text{Green marbles} = 0.20 \times 60 = 12
+   \]
+
+4. **Calculate the total number of marbles**: The total number of marbles in the box is said to be three times more than the number of green marbles. Therefore, we calculate:
+
+   \[
+   \text{Total marbles} = 3 \times \text{Green marbles} = 3 \times 60 = 180
+   \]
+
+5. **Calculate the number of marbles of a different color**: To find the number of marbles of a different color, we need to add the number of red, green, and yellow marbles, and then subtract this sum from the total number of marbles:
+
+   \[
+   \text{Total of known marbles} = \text{Red marbles} + \text{Green marbles} + \text{Yellow marbles} = 20 + 60 + 12 = 92
+   \]
+
+   Now, we subtract this from the total number of marbles:
+
+   \[
+   \text{Different color marbles} = \text{Total marbles} - \text{Total of known marbles} = 180 - 92 = 88
+   \]
+
+Therefore, the number of marbles of a different color is:
+</reasoning>
+<answer>88</answer>

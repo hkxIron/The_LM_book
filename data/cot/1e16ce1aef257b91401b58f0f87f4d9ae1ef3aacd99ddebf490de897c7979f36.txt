@@ -1,0 +1,50 @@
+<reasoning>
+Let's denote the number of crayons in each box with variables for clarity:
+
+- Let K = the number of crayons in Karen's box.
+- Let B = the number of crayons in Beatrice's box.
+- Let G = the number of crayons in Gilbert's box.
+- Let J = the number of crayons in Judah's box.
+
+We know from the problem that:
+
+1. K = 128 (Karen's box contains 128 crayons).
+2. K = 2B (Karen has twice as many crayons as Beatrice).
+3. B = 2G (Beatrice has twice as many crayons as Gilbert).
+4. G = 4J (Gilbert has four times as many crayons as Judah).
+
+Now, let's solve for B using the equation K = 2B:
+
+Step 1: Substitute K with 128.
+\[ 
+128 = 2B 
+\]
+To find B, we divide both sides by 2:
+\[ 
+B = \frac{128}{2} = 64 
+\]
+So, Beatrice has 64 crayons.
+
+Step 2: Next, we use B = 2G to find G.
+\[ 
+64 = 2G 
+\]
+Dividing both sides by 2 gives:
+\[ 
+G = \frac{64}{2} = 32 
+\]
+So, Gilbert has 32 crayons.
+
+Step 3: Now we use G = 4J to find J.
+\[ 
+32 = 4J 
+\]
+Dividing both sides by 4 gives:
+\[ 
+J = \frac{32}{4} = 8 
+\]
+So, Judah has 8 crayons.
+
+Now, we have determined that the number of crayons in Judah's box is 8.
+</reasoning>
+<answer>8</answer>

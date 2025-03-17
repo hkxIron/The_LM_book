@@ -1,0 +1,35 @@
+<reasoning>
+To determine how long it will take Tom to make back his initial investment of $100,000, we need to calculate both his daily expenses and his daily income from ticket sales.
+
+1. **Calculate daily running costs**:
+   - Tom's initial cost to open the park is $100,000.
+   - The daily running cost is 1% of the initial cost.
+   - Therefore, the daily running cost is calculated as follows:
+     \[
+     \text{Daily Running Cost} = 1\% \times 100,000 = 0.01 \times 100,000 = 1,000
+     \]
+
+2. **Calculate daily income from ticket sales**:
+   - Tom sells 150 tickets each day for $10 each.
+   - Therefore, his daily income from ticket sales is:
+     \[
+     \text{Daily Income} = 150 \times 10 = 1,500
+     \]
+
+3. **Calculate daily profit**:
+   - To find out how much profit Tom makes each day, we subtract the daily running cost from the daily income.
+   - Thus, the daily profit is:
+     \[
+     \text{Daily Profit} = \text{Daily Income} - \text{Daily Running Cost} = 1,500 - 1,000 = 500
+     \]
+
+4. **Determine how long it will take to recover the initial investment**:
+   - Tom needs to recover the initial investment of $100,000.
+   - To find the number of days it will take to recover this amount, we divide the total investment by the daily profit:
+     \[
+     \text{Days to Recover Investment} = \frac{100,000}{500} = 200
+     \]
+
+Therefore, it will take Tom 200 days to make back his money.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,50 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Current Amount**: Baylor currently has $4000 on his dashboard.
+
+2. **First Client Payment**: The first client is going to pay Baylor half of the amount he currently has. 
+   - To find this payment, we calculate:
+     \[
+     \text{Payment from first client} = \frac{1}{2} \times 4000 = 2000
+     \]
+
+3. **Second Client Payment**: The second client will pay him \( \frac{2}{5} \) times more than what the first client pays. Since the first client pays $2000:
+   - To find the payment from the second client, we first need to calculate \( \frac{2}{5} \) of $2000:
+     \[
+     \text{Payment from second client} = \frac{2}{5} \times 2000 = 800
+     \]
+   - Therefore, the total payment from the second client will be:
+     \[
+     \text{Total from second client} = 2000 + 800 = 2800
+     \]
+
+4. **Third Client Payment**: The third client will pay Baylor twice the total amount of money that the first and second clients pay together. 
+   - First, we need to find the total payment from the first and second clients:
+     \[
+     \text{Total from first and second clients} = 2000 + 2800 = 4800
+     \]
+   - Now, the third client will pay:
+     \[
+     \text{Payment from third client} = 2 \times 4800 = 9600
+     \]
+
+5. **Final Calculation**: Now we need to calculate the total amount Baylor will have after receiving payments from all three clients. We start with his current amount and add the payments from all clients:
+   - Total amount after all payments:
+     \[
+     \text{Total Amount} = 4000 + 2000 + 2800 + 9600
+     \]
+   - Adding these amounts together:
+     \[
+     4000 + 2000 = 6000
+     \]
+     \[
+     6000 + 2800 = 8800
+     \]
+     \[
+     8800 + 9600 = 18400
+     \]
+
+Therefore, after all clients pay him for his work, Baylor will have $18400 in his dashboard.
+</reasoning>
+<answer>18400</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much faster Timmy needs to go than his average speed, we need to first calculate his average speed based on the three trial runs he performed. 
+
+1. **Calculating the average speed:**
+   - Timmy's speeds in the three trials are 36 mph, 34 mph, and 38 mph.
+   - To find the average speed, we add all the speeds together and then divide by the number of trials.
+
+   \[
+   \text{Average speed} = \frac{(36 + 34 + 38)}{3}
+   \]
+
+   Let's calculate the sum of the speeds first:
+
+   \[
+   36 + 34 + 38 = 108
+   \]
+
+   Now, divide this sum by the number of trials (3):
+
+   \[
+   \text{Average speed} = \frac{108}{3} = 36 \text{ mph}
+   \]
+
+2. **Determining how much faster he needs to go:**
+   - Timmy needs to reach a speed of 40 mph to make it up the ramp.
+   - Now, we need to find out how much faster 40 mph is than his average speed of 36 mph.
+
+   To do this, we subtract his average speed from the required speed:
+
+   \[
+   \text{Difference} = 40 \text{ mph} - 36 \text{ mph} = 4 \text{ mph}
+   \]
+
+Therefore, Timmy needs to go 4 mph faster than his average speed to make it up the ramp.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+Let's denote the number of portraits Bethany saw as \( P \). According to the problem, she saw 4 times more still lifes than portraits. So, we can express the number of still lifes as \( 4P \).
+
+Now, we know that the total number of paintings she saw is the sum of the portraits and still lifes. We can set up the equation:
+
+\[
+P + 4P = 80
+\]
+
+This simplifies to:
+
+\[
+5P = 80
+\]
+
+Next, we will solve for \( P \) by dividing both sides of the equation by 5:
+
+\[
+P = \frac{80}{5}
+\]
+
+Calculating this gives:
+
+\[
+P = 16
+\]
+
+So, Bethany saw 16 portraits. To confirm, we can also calculate the number of still lifes:
+
+\[
+4P = 4 \times 16 = 64
+\]
+
+Now, let's check the total number of paintings:
+
+\[
+P + 4P = 16 + 64 = 80
+\]
+
+This matches the information given in the problem. Thus, the calculations are correct.
+</reasoning>
+<answer>16</answer>

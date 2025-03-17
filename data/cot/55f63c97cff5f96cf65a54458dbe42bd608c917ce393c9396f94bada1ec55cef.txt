@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of crickets eaten every three days:**
+   The gecko eats a total of 70 crickets every three days. 
+
+2. **Find the number of crickets eaten on the first day:**
+   According to the problem, on the first day, the gecko eats 30% of the total crickets. 
+   We calculate 30% of 70 crickets:
+   \[
+   \text{Crickets eaten on the first day} = 0.30 \times 70 = 21 \text{ crickets}
+   \]
+
+3. **Calculate the number of crickets eaten on the second day:**
+   The second day, the gecko eats 6 less than what she ate on the first day. 
+   Therefore, we calculate:
+   \[
+   \text{Crickets eaten on the second day} = 21 - 6 = 15 \text{ crickets}
+   \]
+
+4. **Calculate the number of crickets eaten on the third day:**
+   Now, we know the total number of crickets eaten over three days is 70. We can calculate how many crickets are left for the third day by subtracting the crickets eaten on the first and second days from the total:
+   \[
+   \text{Crickets eaten on the third day} = 70 - (21 + 15)
+   \]
+   First, calculate the sum of the crickets eaten on the first and second days:
+   \[
+   21 + 15 = 36
+   \]
+   Now, subtract this from the total:
+   \[
+   70 - 36 = 34
+   \]
+
+Therefore, the gecko eats 34 crickets on the third day.
+</reasoning>
+<answer>34</answer>

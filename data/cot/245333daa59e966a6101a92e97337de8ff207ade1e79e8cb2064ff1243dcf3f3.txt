@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we need to determine how much James pays for the steaks considering the "buy one get one free" offer.
+
+1. **Identify the price per pound and the total weight purchased**:
+   - The price of the steaks is $15 per pound.
+   - James buys a total of 20 pounds of steaks.
+
+2. **Understand the buy one get one free offer**:
+   - This means that for every pound James buys, he gets another pound free. Therefore, if he buys 20 pounds, he effectively receives 20 pounds for the price of 10 pounds.
+
+3. **Calculate the effective pounds he pays for**:
+   - Since he gets one pound free for each pound he buys, if he buys 20 pounds, he only pays for half of that:
+   \[
+   \text{Pounds paid for} = \frac{20 \text{ pounds}}{2} = 10 \text{ pounds}
+   \]
+
+4. **Calculate the total cost**:
+   - Now, we multiply the number of pounds he pays for by the price per pound:
+   \[
+   \text{Total cost} = 10 \text{ pounds} \times 15 \text{ dollars/pound} = 150 \text{ dollars}
+   \]
+
+Therefore, James pays a total of $150 for the steaks.
+</reasoning>
+<answer>150</answer>

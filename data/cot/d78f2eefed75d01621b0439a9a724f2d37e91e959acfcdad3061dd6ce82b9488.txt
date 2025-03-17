@@ -1,0 +1,21 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many Teslas Chris has**: The problem states that Chris has 6 Teslas. 
+   - Therefore, Chris = 6 Teslas.
+
+2. **Determine how many Teslas Sam has**: The problem states that Sam has half the number of Teslas as Chris. 
+   - Since Chris has 6 Teslas, we can calculate Sam's Teslas as follows:
+   \[
+   \text{Sam} = \frac{1}{2} \times \text{Chris} = \frac{1}{2} \times 6 = 3 \text{ Teslas}
+   \]
+
+3. **Figure out how many Teslas Elon has**: The problem states that Elon has 10 more Teslas than Sam. 
+   - Since we found that Sam has 3 Teslas, we can calculate Elon's Teslas as follows:
+   \[
+   \text{Elon} = \text{Sam} + 10 = 3 + 10 = 13 \text{ Teslas}
+   \]
+
+By following these steps, we determined that Elon has 13 Teslas.
+</reasoning>
+<answer>13</answer>

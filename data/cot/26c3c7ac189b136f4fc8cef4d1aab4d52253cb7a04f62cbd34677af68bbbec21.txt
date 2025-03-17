@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many more tickets Jeanne needs to buy, we first need to calculate the total number of tickets required for her to ride all the rides she wants.
+
+1. **Calculate the total number of tickets needed:**
+   - Ferris wheel: 5 tickets
+   - Roller coaster: 4 tickets
+   - Bumper cars: 4 tickets
+
+   Now, we add these amounts together:
+   \[
+   \text{Total tickets needed} = 5 + 4 + 4
+   \]
+
+   Let’s perform the addition:
+   \[
+   5 + 4 = 9
+   \]
+   \[
+   9 + 4 = 13
+   \]
+   So, Jeanne needs a total of 13 tickets.
+
+2. **Subtract the number of tickets Jeanne currently has:**
+   Jeanne has 5 tickets. We need to find out how many more tickets she needs:
+   \[
+   \text{Tickets needed} = \text{Total tickets needed} - \text{Tickets she has}
+   \]
+   \[
+   \text{Tickets needed} = 13 - 5
+   \]
+
+   Performing the subtraction:
+   \[
+   13 - 5 = 8
+   \]
+
+Therefore, Jeanne needs to buy 8 more tickets to ride all the attractions she wants.
+</reasoning>
+<answer>8</answer>

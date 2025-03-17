@@ -1,0 +1,58 @@
+<reasoning>
+Let's denote the amount of gold that Katie has as \( K \) and the amount of gold that Greg has as \( G \).
+
+According to the problem, Greg has four times less gold than Katie. This can be mathematically expressed as:
+
+\[
+G = \frac{K}{4}
+\]
+
+We also know that the total amount of gold they have combined is 100. This gives us another equation:
+
+\[
+G + K = 100
+\]
+
+Now we can substitute the expression for \( G \) from the first equation into the second equation. This will allow us to solve for \( K \).
+
+Substituting \( G \) in the second equation:
+
+\[
+\frac{K}{4} + K = 100
+\]
+
+Next, we need to combine the terms on the left side. To do this, we can express \( K \) as \( \frac{4K}{4} \):
+
+\[
+\frac{K}{4} + \frac{4K}{4} = 100
+\]
+
+This simplifies to:
+
+\[
+\frac{5K}{4} = 100
+\]
+
+Now, to eliminate the fraction, we can multiply both sides of the equation by 4:
+
+\[
+5K = 400
+\]
+
+Next, we divide both sides by 5 to solve for \( K \):
+
+\[
+K = \frac{400}{5} = 80
+\]
+
+Now that we have found the amount of gold Katie has, we can find how much gold Greg has by substituting \( K \) back into our equation for \( G \):
+
+\[
+G = \frac{K}{4} = \frac{80}{4} = 20
+\]
+
+Thus, Greg has 20 units of gold. 
+
+Therefore, the amount of gold Greg has is:
+</reasoning>
+<answer>20</answer>

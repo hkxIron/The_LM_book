@@ -1,0 +1,76 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Count the decorations Danai has already put up:**
+   - She has put up **12 plastic skulls**.
+   - She has **4 broomsticks**.
+   - She has **12 spiderwebs**.
+   - She has placed **1 large cauldron**.
+
+   To find the total number of decorations already put up, we will add these numbers together:
+
+   \[
+   \text{Total decorations so far} = 12 \text{ (skulls)} + 4 \text{ (broomsticks)} + 12 \text{ (spiderwebs)} + 1 \text{ (cauldron)}
+   \]
+
+   Calculating this gives:
+
+   \[
+   12 + 4 + 12 + 1 = 29
+   \]
+
+2. **Calculate the number of pumpkins:**
+   - Danai puts up **twice as many pumpkins as spiderwebs**.
+   - Since she has 12 spiderwebs, the number of pumpkins is:
+
+   \[
+   \text{Number of pumpkins} = 2 \times 12 = 24
+   \]
+
+3. **Add the pumpkins to the total decorations:**
+   Now we need to include the pumpkins in the total count of decorations:
+
+   \[
+   \text{New total decorations} = 29 \text{ (previous total)} + 24 \text{ (pumpkins)}
+   \]
+
+   Calculating this gives:
+
+   \[
+   29 + 24 = 53
+   \]
+
+4. **Consider the remaining budget:**
+   - Danai has the budget left to buy **20 more decorations**.
+   - She also has **10 left to put up**.
+
+   Since she can buy 20 more decorations, we need to determine how many she can put up from her existing total and the new decorations.
+
+   Adding the additional decorations she can buy:
+
+   \[
+   \text{Total possible decorations} = 53 \text{ (current total)} + 20 \text{ (new decorations)}
+   \]
+
+   This gives:
+
+   \[
+   53 + 20 = 73
+   \]
+
+5. **Add the 10 decorations left to put up:**
+   Since she has 10 more decorations that she can put up, we add this to our total:
+
+   \[
+   \text{Final total decorations} = 73 + 10
+   \]
+
+   Calculating this results in:
+
+   \[
+   73 + 10 = 83
+   \]
+
+Thus, the total number of decorations Danai will put up in all is:
+</reasoning>
+<answer>83</answer>

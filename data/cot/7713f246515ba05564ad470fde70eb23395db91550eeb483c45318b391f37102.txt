@@ -1,0 +1,43 @@
+<reasoning>
+Let's break this problem down step by step, calculating the number of books each person has read and then finding the total.
+
+1. **Calculate the number of books Kelcie has read.**
+   - We know that Kelcie has read 1/4 the amount of books that Megan has read. 
+   - Megan has read 32 books. 
+   - To find out how many books Kelcie has read, we calculate:
+     \[
+     \text{Kelcie's books} = \frac{1}{4} \times 32 = 8
+     \]
+   - So, Kelcie has read 8 books.
+
+2. **Calculate the number of books Greg has read.**
+   - We are told that Greg has read 9 more than twice the number of books that Kelcie has read.
+   - Since we found that Kelcie has read 8 books, we first calculate twice the number of books Kelcie has read:
+     \[
+     2 \times \text{Kelcie's books} = 2 \times 8 = 16
+     \]
+   - Now we add 9 to this amount to find out how many books Greg has read:
+     \[
+     \text{Greg's books} = 16 + 9 = 25
+     \]
+   - Therefore, Greg has read 25 books.
+
+3. **Calculate the total number of books read by Megan, Kelcie, and Greg.**
+   - Now we will sum the number of books each person has read:
+     \[
+     \text{Total books} = \text{Megan's books} + \text{Kelcie's books} + \text{Greg's books}
+     \]
+     \[
+     \text{Total books} = 32 + 8 + 25
+     \]
+   - Performing the addition:
+     \[
+     32 + 8 = 40
+     \]
+     \[
+     40 + 25 = 65
+     \]
+
+Thus, the total number of books read by Megan, Kelcie, and Greg is 65.
+</reasoning>
+<answer>65</answer>

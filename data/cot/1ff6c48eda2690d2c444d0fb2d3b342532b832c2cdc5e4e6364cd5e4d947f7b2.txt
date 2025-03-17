@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many bags of chips Emily should buy, we first need to determine how many bags of chips have already been purchased.
+
+1. **Identify the total number of bags needed:** According to the problem, they need a total of 10 bags of chips.
+
+2. **Determine how many bags Jeremy bought:** Jeremy bought 3 bags of chips.
+
+3. **Determine how many bags Stacy bought:** Stacy bought 4 bags of chips.
+
+4. **Now, let's add the number of bags bought by Jeremy and Stacy:**
+   - Jeremy's bags = 3
+   - Stacy's bags = 4
+   - Total bags bought by Jeremy and Stacy = 3 + 4 = 7 bags
+
+5. **Next, we need to find out how many bags are left to reach the total of 10 bags:**
+   - Total bags needed = 10
+   - Bags already bought = 7
+   - Bags needed from Emily = Total bags needed - Bags already bought = 10 - 7 = 3 bags
+
+Thus, Emily should buy 3 bags of chips.
+</reasoning>
+<answer>3</answer>

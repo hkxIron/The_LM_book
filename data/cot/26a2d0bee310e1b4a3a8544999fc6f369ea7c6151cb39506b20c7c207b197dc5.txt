@@ -1,0 +1,36 @@
+<reasoning>
+To find the total cost of Lucia's dance classes in one week, we need to calculate the cost for each type of class she takes and then sum those costs.
+
+1. **Calculate the cost of hip-hop classes:**
+   - Lucia takes 2 hip-hop classes a week.
+   - The cost of one hip-hop class is $10.
+   - Therefore, the total cost for hip-hop classes is:
+     \[
+     2 \text{ classes} \times 10 \text{ dollars/class} = 20 \text{ dollars}
+     \]
+
+2. **Calculate the cost of ballet classes:**
+   - Lucia takes 2 ballet classes a week.
+   - The cost of one ballet class is $12.
+   - Therefore, the total cost for ballet classes is:
+     \[
+     2 \text{ classes} \times 12 \text{ dollars/class} = 24 \text{ dollars}
+     \]
+
+3. **Calculate the cost of jazz classes:**
+   - Lucia takes 1 jazz class a week.
+   - The cost of one jazz class is $8.
+   - Therefore, the total cost for jazz classes is:
+     \[
+     1 \text{ class} \times 8 \text{ dollars/class} = 8 \text{ dollars}
+     \]
+
+4. **Sum the costs of all classes:**
+   - Now, we add the total costs from all types of classes:
+     \[
+     20 \text{ dollars (hip-hop)} + 24 \text{ dollars (ballet)} + 8 \text{ dollars (jazz)} = 52 \text{ dollars}
+     \]
+
+Thus, the total cost of Lucia’s dance classes in one week is $52.
+</reasoning>
+<answer>52</answer>

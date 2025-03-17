@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step, starting with the number of loads Vincent washed each day.
+
+1. **Wednesday**: Vincent washed 6 loads of clothes.
+   - Loads on Wednesday = 6
+
+2. **Thursday**: He washed double the number of loads he did on Wednesday. 
+   - To find out how many loads he washed on Thursday, we calculate:
+   \[
+   \text{Loads on Thursday} = 2 \times \text{Loads on Wednesday} = 2 \times 6 = 12
+   \]
+
+3. **Friday**: He could only manage half of the loads he did on Thursday.
+   - To find out how many loads he washed on Friday, we calculate:
+   \[
+   \text{Loads on Friday} = \frac{1}{2} \times \text{Loads on Thursday} = \frac{1}{2} \times 12 = 6
+   \]
+
+4. **Saturday**: He washed a third of the loads of laundry he did on Wednesday.
+   - To find out how many loads he washed on Saturday, we calculate:
+   \[
+   \text{Loads on Saturday} = \frac{1}{3} \times \text{Loads on Wednesday} = \frac{1}{3} \times 6 = 2
+   \]
+
+Now, let's add up all the loads he washed from Wednesday to Saturday:
+\[
+\text{Total Loads} = \text{Loads on Wednesday} + \text{Loads on Thursday} + \text{Loads on Friday} + \text{Loads on Saturday}
+\]
+\[
+\text{Total Loads} = 6 + 12 + 6 + 2 = 26
+\]
+
+Thus, the total number of loads of laundry Vincent washed that week is:
+</reasoning>
+<answer>26</answer>

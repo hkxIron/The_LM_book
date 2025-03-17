@@ -1,0 +1,57 @@
+<reasoning>
+To find out how many more questions Meryll needs to write, we will break this down into steps for both types of questions: multiple-choice questions and problem-solving questions.
+
+1. **Calculate the number of multiple-choice questions Meryll has already written.**
+   - She wants to write 35 multiple-choice questions.
+   - She has written \( \frac{2}{5} \) of them.
+   - To find out how many she has written, we calculate \( \frac{2}{5} \times 35 \).
+
+   \[
+   \frac{2}{5} \times 35 = \frac{2 \times 35}{5} = \frac{70}{5} = 14
+   \]
+
+   So, Meryll has written 14 multiple-choice questions.
+
+2. **Calculate the number of multiple-choice questions she still needs to write.**
+   - The total number of multiple-choice questions she wants to write is 35.
+   - She has already written 14.
+   - Therefore, the number she still needs to write is \( 35 - 14 \).
+
+   \[
+   35 - 14 = 21
+   \]
+
+   Meryll needs to write 21 more multiple-choice questions.
+
+3. **Calculate the number of problem-solving questions Meryll has already written.**
+   - She wants to write 15 problem-solving questions.
+   - She has written \( \frac{1}{3} \) of them.
+   - To find out how many she has written, we calculate \( \frac{1}{3} \times 15 \).
+
+   \[
+   \frac{1}{3} \times 15 = \frac{15}{3} = 5
+   \]
+
+   So, Meryll has written 5 problem-solving questions.
+
+4. **Calculate the number of problem-solving questions she still needs to write.**
+   - The total number of problem-solving questions she wants to write is 15.
+   - She has already written 5.
+   - Therefore, the number she still needs to write is \( 15 - 5 \).
+
+   \[
+   15 - 5 = 10
+   \]
+
+   Meryll needs to write 10 more problem-solving questions.
+
+5. **Calculate the total number of questions she still needs to write.**
+   - Add the number of multiple-choice questions and problem-solving questions she still needs to write.
+
+   \[
+   21 + 10 = 31
+   \]
+
+Therefore, Meryll needs to write a total of 31 more questions.
+</reasoning>
+<answer>31</answer>

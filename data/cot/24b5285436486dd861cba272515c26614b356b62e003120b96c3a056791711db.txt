@@ -1,0 +1,47 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Count the ants Abe finds:** 
+   Abe finds 4 ants.
+
+2. **Calculate how many ants Beth sees:**
+   Beth sees 50% more ants than Abe. To find 50% of Abe's ants:
+   \[
+   50\% \text{ of } 4 = 0.5 \times 4 = 2
+   \]
+   Therefore, the total number of ants Beth sees is:
+   \[
+   4 + 2 = 6
+   \]
+
+3. **Calculate how many ants CeCe watches:**
+   CeCe watches twice as many ants as Abe. Therefore:
+   \[
+   2 \times 4 = 8
+   \]
+
+4. **Calculate how many ants Duke discovers:**
+   Duke discovers half as many ants as Abe. Thus:
+   \[
+   \frac{4}{2} = 2
+   \]
+
+5. **Add up the total number of ants found by all four children:**
+   Now we sum the ants found by each child:
+   \[
+   \text{Total} = \text{Abe} + \text{Beth} + \text{CeCe} + \text{Duke} = 4 + 6 + 8 + 2
+   \]
+   Performing the addition:
+   \[
+   4 + 6 = 10
+   \]
+   \[
+   10 + 8 = 18
+   \]
+   \[
+   18 + 2 = 20
+   \]
+
+Therefore, the total number of ants found by the four children together is:
+</reasoning>
+<answer>20</answer>

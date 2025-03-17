@@ -1,0 +1,55 @@
+<reasoning>
+First, let's determine how much flour Tommy needs in total to make 12 loaves of bread. 
+
+1. Calculate the total amount of flour needed:
+   - Tommy needs 4 pounds of flour for each loaf.
+   - He is making 12 loaves, so we multiply the amount of flour needed per loaf by the number of loaves:
+     \[
+     4 \text{ pounds/loaf} \times 12 \text{ loaves} = 48 \text{ pounds}
+     \]
+
+Now that we know he needs 48 pounds of flour, we need to figure out how much flour he can buy using the available bag sizes and their costs, and we want to find the cheapest option.
+
+2. Determine how much flour is in each bag:
+   - The 10-pound bag contains 10 pounds of flour.
+   - The 12-pound bag contains 12 pounds of flour.
+
+Next, we will calculate how many bags of each type he would need to buy to reach at least 48 pounds.
+
+3. Calculate how many bags of 10-pound flour he needs:
+   - To find out how many 10-pound bags are needed:
+     \[
+     \lceil \frac{48 \text{ pounds}}{10 \text{ pounds/bag}} \rceil = \lceil 4.8 \rceil = 5 \text{ bags}
+     \]
+   - The total weight of 5 bags:
+     \[
+     5 \text{ bags} \times 10 \text{ pounds/bag} = 50 \text{ pounds}
+     \]
+   - The cost for 5 bags of 10-pound flour:
+     \[
+     5 \text{ bags} \times \$10/\text{bag} = \$50
+     \]
+
+4. Calculate how many bags of 12-pound flour he needs:
+   - To find out how many 12-pound bags are needed:
+     \[
+     \lceil \frac{48 \text{ pounds}}{12 \text{ pounds/bag}} \rceil = \lceil 4 \rceil = 4 \text{ bags}
+     \]
+   - The total weight of 4 bags:
+     \[
+     4 \text{ bags} \times 12 \text{ pounds/bag} = 48 \text{ pounds}
+     \]
+   - The cost for 4 bags of 12-pound flour:
+     \[
+     4 \text{ bags} \times \$13/\text{bag} = \$52
+     \]
+
+5. Compare the total costs:
+   - Cost for 10-pound bags: \$50
+   - Cost for 12-pound bags: \$52
+
+Since Tommy wants the cheapest option, he will choose to buy the 10-pound bags.
+
+Therefore, Tommy spends a total of \$50 on flour.
+</reasoning>
+<answer>50</answer>

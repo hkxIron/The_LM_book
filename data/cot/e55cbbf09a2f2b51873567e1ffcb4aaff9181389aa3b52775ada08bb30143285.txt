@@ -1,0 +1,40 @@
+<reasoning>
+To find the profit made from the movie, we need to calculate the total costs and then subtract this total from the revenue earned from selling the movie.
+
+**Step 1: Calculate the cost of food.**
+- There are 50 people, and each person gets food worth $3.
+- Therefore, the total cost of food is calculated as follows:
+  \[
+  \text{Cost of food} = 50 \text{ people} \times 3 \text{ dollars/person} = 150 \text{ dollars}
+  \]
+
+**Step 2: Calculate the total cost of actors and food combined.**
+- The cost of hiring actors is $1200 and the cost of food is $150.
+- Thus, the combined cost of actors and food is:
+  \[
+  \text{Combined cost} = 1200 \text{ dollars} + 150 \text{ dollars} = 1350 \text{ dollars}
+  \]
+
+**Step 3: Calculate the cost of equipment rental.**
+- The equipment rental costs twice the combined cost of actors and food.
+- Therefore, the cost of equipment rental is:
+  \[
+  \text{Cost of equipment} = 2 \times 1350 \text{ dollars} = 2700 \text{ dollars}
+  \]
+
+**Step 4: Calculate the total cost.**
+- Now, we add the cost of actors, food, and equipment rental to find the total cost:
+  \[
+  \text{Total cost} = 1200 \text{ dollars} + 150 \text{ dollars} + 2700 \text{ dollars} = 4050 \text{ dollars}
+  \]
+
+**Step 5: Calculate the profit.**
+- The revenue from selling the movie is $10,000.
+- The profit is calculated by subtracting the total cost from the revenue:
+  \[
+  \text{Profit} = \text{Revenue} - \text{Total cost} = 10000 \text{ dollars} - 4050 \text{ dollars} = 5950 \text{ dollars}
+  \]
+
+Therefore, after calculating all costs and the revenue, we conclude that the profit made from the movie is:
+</reasoning>
+<answer>5950</answer>

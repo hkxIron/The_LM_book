@@ -1,0 +1,56 @@
+<reasoning>
+Let's define the initial amount of money Abigail had as \( x \).
+
+1. **Calculate the amount spent on food**: 
+   Abigail spends 60% of her money on food, which can be calculated as:
+   \[
+   \text{Amount spent on food} = 0.60x
+   \]
+
+2. **Calculate the remainder after food**: 
+   After spending on food, the remaining amount is:
+   \[
+   \text{Remainder} = x - 0.60x = 0.40x
+   \]
+
+3. **Calculate the amount spent on the phone bill**: 
+   Abigail spends 25% of this remainder on her phone bill:
+   \[
+   \text{Amount spent on phone bill} = 0.25 \times 0.40x = 0.10x
+   \]
+
+4. **Calculate the amount remaining after the phone bill**: 
+   The amount left after paying the phone bill is:
+   \[
+   \text{Remaining after phone bill} = 0.40x - 0.10x = 0.30x
+   \]
+
+5. **Account for entertainment spending**: 
+   After spending $20 on entertainment, the remaining amount is:
+   \[
+   \text{Remaining after entertainment} = 0.30x - 20
+   \]
+
+6. **Establish the equation based on the final amount**: 
+   We know that after all these expenses, Abigail is left with $40:
+   \[
+   0.30x - 20 = 40
+   \]
+
+7. **Solve for \( x \)**: 
+   First, we add 20 to both sides of the equation:
+   \[
+   0.30x = 40 + 20
+   \]
+   \[
+   0.30x = 60
+   \]
+
+   Now, divide both sides by 0.30 to find \( x \):
+   \[
+   x = \frac{60}{0.30} = 200
+   \]
+
+Thus, the initial amount of money Abigail had is $200.
+</reasoning>
+<answer>200</answer>

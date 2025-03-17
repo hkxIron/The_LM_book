@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we need to calculate the total number of strawberries picked by Lilibeth and her three friends.
+
+1. **Calculate the number of strawberries Lilibeth picks:**
+   - Lilibeth fills 6 baskets.
+   - Each basket holds 50 strawberries.
+   - To find the total strawberries picked by Lilibeth, we multiply the number of baskets by the number of strawberries per basket.
+   
+   \[
+   \text{Strawberries picked by Lilibeth} = 6 \text{ baskets} \times 50 \text{ strawberries/basket} = 300 \text{ strawberries}
+   \]
+
+2. **Determine the amount picked by Lilibeth's friends:**
+   - It is stated that three of Lilibeth's friends pick the same amount as her.
+   - Since Lilibeth picks 300 strawberries, her three friends will each also pick 300 strawberries.
+   - Therefore, the total strawberries picked by her three friends is:
+   
+   \[
+   \text{Total strawberries picked by friends} = 3 \text{ friends} \times 300 \text{ strawberries/friend} = 900 \text{ strawberries}
+   \]
+
+3. **Calculate the total strawberries picked by everyone:**
+   - Now, we add the strawberries picked by Lilibeth and her friends together.
+   
+   \[
+   \text{Total strawberries} = \text{Strawberries picked by Lilibeth} + \text{Total strawberries picked by friends}
+   \]
+   \[
+   \text{Total strawberries} = 300 + 900 = 1200 \text{ strawberries}
+   \]
+
+Thus, Lilibeth and her friends pick a total of 1200 strawberries.
+</reasoning>
+<answer>1200</answer>

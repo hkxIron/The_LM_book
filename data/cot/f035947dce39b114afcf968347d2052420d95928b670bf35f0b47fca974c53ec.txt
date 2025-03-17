@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we will analyze the information given step by step.
+
+1. **Understanding the total gifts and rolls of wrapping paper**: Savannah has 12 gifts to wrap and 3 rolls of wrapping paper. This means that she needs to distribute the wrapping paper across these gifts.
+
+2. **Allocating the first two rolls of wrapping paper**: We know that:
+   - The first roll wraps 3 gifts.
+   - The second roll wraps 5 gifts.
+
+   So, we can calculate how many gifts have been wrapped with these two rolls:
+   - Gifts wrapped with the first roll: 3
+   - Gifts wrapped with the second roll: 5
+
+   Therefore, the total number of gifts wrapped with the first two rolls is:
+   \[
+   3 + 5 = 8 \text{ gifts}
+   \]
+
+3. **Calculating the remaining gifts**: Since Savannah has a total of 12 gifts and has wrapped 8 gifts with the first two rolls, we can find out how many gifts are left to wrap:
+   \[
+   12 - 8 = 4 \text{ gifts}
+   \]
+
+4. **Using the third roll of wrapping paper**: Since she has 4 gifts left to wrap and she has one roll of paper remaining, she will use this third roll to wrap these 4 gifts.
+
+In conclusion, Savannah wrapped 4 gifts with the third roll of wrapping paper.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+To determine how many additional drying racks Michelle will need, we can follow the steps below:
+
+1. **Calculate the total amount of flour Michelle has:**
+   Michelle has three 8-cup bags of flour. 
+   So, the total amount of flour is:
+   \[
+   3 \text{ bags} \times 8 \text{ cups/bag} = 24 \text{ cups}
+   \]
+   This means Michelle has 24 cups of flour.
+
+2. **Determine how many pounds of pasta she can make:**
+   Since it takes 2 cups of flour to make each pound of pasta, we can calculate how many pounds of pasta she can make with 24 cups of flour:
+   \[
+   \text{Pounds of pasta} = \frac{24 \text{ cups}}{2 \text{ cups/pound}} = 12 \text{ pounds}
+   \]
+   Therefore, Michelle can make 12 pounds of pasta.
+
+3. **Calculate how many drying racks she will need:**
+   Michelle needs one drying rack for every three pounds of pasta. To find out how many racks are needed for 12 pounds:
+   \[
+   \text{Drying racks needed} = \frac{12 \text{ pounds}}{3 \text{ pounds/rack}} = 4 \text{ racks}
+   \]
+   Thus, she will need 4 drying racks.
+
+4. **Determine how many more racks she needs:**
+   Michelle currently owns 3 racks. To find how many more racks she needs:
+   \[
+   \text{Additional racks needed} = 4 \text{ racks needed} - 3 \text{ racks owned} = 1 \text{ rack}
+   \]
+   Therefore, Michelle needs 1 more drying rack.
+</reasoning>
+<answer>1</answer>

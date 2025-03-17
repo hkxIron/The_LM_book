@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many bananas Vivian needs to buy, we will follow these steps:
+
+1. **Calculate the total number of banana slices needed for 5 yogurts.**
+   Each yogurt is topped with 8 banana slices. Therefore, for 5 yogurts, the total number of slices required is calculated as follows:
+   \[
+   \text{Total slices} = \text{Number of yogurts} \times \text{Slices per yogurt} = 5 \times 8 = 40
+   \]
+   This means Vivian needs 40 banana slices in total.
+
+2. **Determine how many slices can be obtained from one banana.**
+   We know that one banana yields 10 slices. So, we need to find out how many bananas are needed to get 40 slices.
+
+3. **Calculate the number of bananas required to get 40 slices.**
+   To find the number of bananas needed, we divide the total number of slices by the number of slices per banana:
+   \[
+   \text{Number of bananas} = \frac{\text{Total slices}}{\text{Slices per banana}} = \frac{40}{10} = 4
+   \]
+   Therefore, Vivian needs 4 bananas to have enough slices for her 5 yogurts.
+
+Putting this all together, we can conclude that Vivian needs to buy 4 bananas.
+</reasoning>
+<answer>4</answer>

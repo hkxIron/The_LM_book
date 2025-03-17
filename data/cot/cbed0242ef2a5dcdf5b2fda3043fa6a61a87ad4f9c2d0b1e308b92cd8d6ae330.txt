@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify how many cards Carlos has**: The problem states that Carlos has 20 baseball cards.
+
+2. **Determine how many cards Matias has**: The problem says Matias has 6 fewer cards than Carlos. Since Carlos has 20 cards, we can calculate Matias's cards as follows:
+   \[
+   \text{Matias's cards} = \text{Carlos's cards} - 6 = 20 - 6 = 14
+   \]
+   So, Matias has 14 baseball cards.
+
+3. **Find out how many cards Jorge has**: The problem states that Jorge has an equal number of baseball cards as Matias. Since Matias has 14 cards, Jorge also has:
+   \[
+   \text{Jorge's cards} = \text{Matias's cards} = 14
+   \]
+
+4. **Calculate the total number of baseball cards**: Now, to find the total number of baseball cards the three have, we need to add the number of cards each has:
+   \[
+   \text{Total cards} = \text{Carlos's cards} + \text{Matias's cards} + \text{Jorge's cards} 
+   \]
+   Substituting in the numbers we have:
+   \[
+   \text{Total cards} = 20 + 14 + 14
+   \]
+   Performing the addition:
+   \[
+   \text{Total cards} = 20 + 28 = 48
+   \]
+
+Therefore, the total number of baseball cards the three have is 48.
+</reasoning>
+<answer>48</answer>

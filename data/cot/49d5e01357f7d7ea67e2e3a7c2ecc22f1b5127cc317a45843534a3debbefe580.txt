@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many pages Bart bought, we will first determine how many notepads he purchased with his $10. 
+
+1. **Calculate the number of notepads Bart can buy:**
+   - Each notepad costs $1.25.
+   - We divide the total amount of money Bart spent by the price of each notepad to find how many he bought.
+   
+   \[
+   \text{Number of notepads} = \frac{\text{Total amount spent}}{\text{Price per notepad}} = \frac{10}{1.25}
+   \]
+
+2. **Perform the division:**
+   - To make the division easier, we can convert $1.25 into a fraction: \( \frac{125}{100} \) or simply keep it as 1.25. 
+   - Dividing 10 by 1.25 can also be done by multiplying by the reciprocal (which is \( \frac{4}{5} \)):
+
+   \[
+   \frac{10}{1.25} = 10 \times \frac{4}{5} = 8
+   \]
+
+   So, Bart bought 8 notepads.
+
+3. **Calculate the total number of pages:**
+   - Each notepad has 60 pages.
+   - To find the total number of pages Bart bought, we multiply the number of notepads by the number of pages per notepad:
+
+   \[
+   \text{Total pages} = \text{Number of notepads} \times \text{Pages per notepad} = 8 \times 60
+   \]
+
+4. **Perform the multiplication:**
+   \[
+   8 \times 60 = 480
+   \]
+
+Therefore, Bart bought a total of 480 pages.
+</reasoning>
+<answer>480</answer>

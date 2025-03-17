@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much gold Jim finds per hour, we need to first calculate the total amount of gold he finds during his scuba diving.
+
+1. **Calculate the amount of gold in the smaller bags**: Jim finds 2 smaller bags, each containing half as much gold as the treasure chest. Since the treasure chest has 100 gold coins, each smaller bag has:
+   \[
+   \text{Gold in each smaller bag} = \frac{100}{2} = 50 \text{ coins}
+   \]
+   Therefore, the total amount of gold in the two smaller bags is:
+   \[
+   \text{Total gold in smaller bags} = 2 \times 50 = 100 \text{ coins}
+   \]
+
+2. **Calculate the total gold found**: Now, we need to add the gold from the treasure chest and the gold from the smaller bags together:
+   \[
+   \text{Total gold found} = 100 \text{ (from the chest)} + 100 \text{ (from the bags)} = 200 \text{ coins}
+   \]
+
+3. **Calculate the gold found per hour**: Jim spends 8 hours scuba diving. To find out how much gold he finds per hour, we divide the total amount of gold by the number of hours:
+   \[
+   \text{Gold found per hour} = \frac{200 \text{ coins}}{8 \text{ hours}} = 25 \text{ coins per hour}
+   \]
+
+Thus, Jim finds 25 gold coins for every hour he spends scuba diving.
+</reasoning>
+<answer>25</answer>

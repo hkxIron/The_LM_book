@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the initial amount**: Two months ago, Wilson had $150 in his bank account.
+
+2. **Account for the deposit last month**: Last month, he deposited $17. So, we add this amount to his previous total.
+   \[
+   150 + 17 = 167
+   \]
+   After the deposit, Wilson had $167 in his account.
+
+3. **Let’s denote the withdrawal amount**: We do not know how much he withdrew, so let’s call that amount \( W \).
+
+4. **Calculate the balance after the withdrawal**: After withdrawing \( W \), the amount in his account becomes:
+   \[
+   167 - W
+   \]
+
+5. **Account for the deposit this month**: This month, he deposited $21. So, we add this to the amount after the withdrawal:
+   \[
+   (167 - W) + 21 = 188 - W
+   \]
+
+6. **Set up the equation based on the information given**: We know that this month, Wilson has $16 more than what he had two months ago, which was $150. Therefore, we can set up the equation:
+   \[
+   188 - W = 150 + 16
+   \]
+   Simplifying the right side:
+   \[
+   188 - W = 166
+   \]
+
+7. **Solve for \( W \)**: To find out how much Wilson withdrew, we rearrange the equation:
+   \[
+   188 - 166 = W
+   \]
+   \[
+   W = 22
+   \]
+
+So, Wilson withdrew $22 last month.
+</reasoning>
+<answer>22</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To find the number of minutes of advertising in the newscast, we first need to determine the total duration of the newscast and then subtract the time spent on each segment of the news.
+
+1. **Identify the total duration of the newscast**:
+   The problem states that the newscast is half an hour long. We need to convert this time into minutes:
+   \[
+   30 \text{ minutes} = 30 \text{ minutes}
+   \]
+   (No conversion needed since it's already in minutes.)
+
+2. **Calculate the total time spent on news segments**:
+   We will add the minutes dedicated to each segment of the newscast:
+   - National news: 12 minutes
+   - International news: 5 minutes
+   - Sports: 5 minutes
+   - Weather forecasts: 2 minutes
+   
+   Now, we sum these times:
+   \[
+   12 + 5 + 5 + 2 = 24 \text{ minutes}
+   \]
+
+3. **Calculate the time spent on advertisements**:
+   To find the amount of time dedicated to advertisements, we subtract the total time spent on the news segments from the total duration of the newscast:
+   \[
+   \text{Time for advertisements} = \text{Total duration} - \text{Time spent on news segments}
+   \]
+   Substituting in the values we have:
+   \[
+   \text{Time for advertisements} = 30 - 24 = 6 \text{ minutes}
+   \]
+
+Thus, the newscast contains 6 minutes of advertising.
+</reasoning>
+<answer>6</answer>

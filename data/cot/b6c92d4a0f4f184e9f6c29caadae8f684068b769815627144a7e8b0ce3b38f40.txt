@@ -1,0 +1,51 @@
+<reasoning>
+To find the total number of full parking spots in the parking garage, we need to calculate the total number of spots across all four levels.
+
+1. **Determine the number of levels and spots per level:** 
+   The parking garage has 4 stories, and each level has 100 spots. 
+   Therefore, the total number of spots in the garage is:
+   \[
+   \text{Total spots} = \text{Number of levels} \times \text{Spots per level} = 4 \times 100 = 400
+   \]
+
+2. **Verify the number of open spots on each level:**
+   - **First Level:** There are 58 open spots.
+   - **Second Level:** There are 2 more open spots than on the first level. 
+     \[
+     \text{Open spots on second level} = 58 + 2 = 60
+     \]
+   - **Third Level:** There are 5 more open spots than on the second level. 
+     \[
+     \text{Open spots on third level} = 60 + 5 = 65
+     \]
+   - **Fourth Level:** There are 31 open spots.
+
+3. **Total open spots calculation:**
+   Now, we can sum the open spots from all four levels:
+   \[
+   \text{Total open spots} = 58 + 60 + 65 + 31
+   \]
+
+   Let's calculate this step-by-step:
+   - First, add the open spots on the first and second levels:
+     \[
+     58 + 60 = 118
+     \]
+   - Next, add the third level's open spots:
+     \[
+     118 + 65 = 183
+     \]
+   - Finally, add the fourth level's open spots:
+     \[
+     183 + 31 = 214
+     \]
+
+4. **Determine the number of full (occupied) parking spots:**
+   The number of full parking spots is the total spots minus the total open spots:
+   \[
+   \text{Full spots} = \text{Total spots} - \text{Total open spots} = 400 - 214 = 186
+   \]
+
+Therefore, the total number of full parking spots in the garage is:
+</reasoning>
+<answer>186</answer>

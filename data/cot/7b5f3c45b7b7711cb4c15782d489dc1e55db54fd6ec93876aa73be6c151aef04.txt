@@ -1,0 +1,27 @@
+<reasoning>
+To find the price of the gift, we will follow these steps:
+
+1. **Calculate the total amount of money raised from the guests.**
+   - Samanta has invited 12 guests, and each guest contributed $5.
+   - Therefore, the total contribution from the guests is:
+     \[
+     \text{Total from guests} = 12 \text{ guests} \times 5 \text{ dollars/guest} = 60 \text{ dollars}
+     \]
+
+2. **Add Samanta's contribution to the total.**
+   - Samanta contributed $10 herself.
+   - Now, we add her contribution to the total amount collected from the guests:
+     \[
+     \text{Total amount raised} = 60 \text{ dollars} + 10 \text{ dollars} = 70 \text{ dollars}
+     \]
+
+3. **Subtract the leftover amount from the total amount raised to find the price of the gift.**
+   - There was $15 leftover after buying the gift.
+   - To find out how much was actually spent on the gift, we subtract the leftover amount from the total amount raised:
+     \[
+     \text{Price of the gift} = 70 \text{ dollars} - 15 \text{ dollars} = 55 \text{ dollars}
+     \]
+
+Therefore, the price of the gift is calculated to be $55.
+</reasoning>
+<answer>55</answer>

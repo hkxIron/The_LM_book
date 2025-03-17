@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many seats were taken during the school play, we can follow these steps:
+
+1. **Calculate the Total Number of Chairs**: 
+   - We know there are 40 rows of chairs, and each row contains 20 chairs.
+   - To find the total number of chairs, we multiply the number of rows by the number of chairs per row:
+     \[
+     \text{Total Chairs} = \text{Number of Rows} \times \text{Chairs per Row} = 40 \times 20
+     \]
+
+2. **Perform the Multiplication**:
+   - Now, calculate \(40 \times 20\):
+     \[
+     40 \times 20 = 800
+     \]
+   - So, there are a total of 800 chairs.
+
+3. **Determine the Number of Seats Taken**:
+   - We are told that 10 seats were not occupied. To find the number of seats that were taken, we subtract the number of unoccupied seats from the total number of chairs:
+     \[
+     \text{Seats Taken} = \text{Total Chairs} - \text{Unoccupied Seats} = 800 - 10
+     \]
+
+4. **Perform the Subtraction**:
+   - Now, calculate \(800 - 10\):
+     \[
+     800 - 10 = 790
+     \]
+   - Therefore, the number of seats that were taken is 790.
+
+Thus, after all the calculations and reasoning, we conclude that the number of occupied seats is:
+</reasoning>
+<answer>790</answer>

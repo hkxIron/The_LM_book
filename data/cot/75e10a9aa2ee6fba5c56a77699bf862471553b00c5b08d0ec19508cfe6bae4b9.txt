@@ -1,0 +1,31 @@
+<reasoning>
+To find the total bill for the group at Kaleb's Restaurant, we need to calculate the cost of the adult meals, the children's meals, and the sodas for everyone. 
+
+1. **Calculate the cost of the adult meals:**
+   - There are 6 adults, and each adult meal costs $6.
+   - Total cost for adult meals = Number of adults × Cost per adult meal
+   - Total cost for adult meals = 6 × 6 = $36
+
+2. **Calculate the cost of the children's meals:**
+   - There are 2 children, and each children's meal costs $4.
+   - Total cost for children's meals = Number of children × Cost per children's meal
+   - Total cost for children's meals = 2 × 4 = $8
+
+3. **Calculate the cost of the sodas:**
+   - Every person in the group ordered a soda, which includes 6 adults and 2 children, making a total of 8 people.
+   - Each soda costs $2.
+   - Total cost for sodas = Number of people × Cost per soda
+   - Total cost for sodas = 8 × 2 = $16
+
+4. **Calculate the total bill:**
+   - Now we add the total costs of adult meals, children's meals, and sodas together.
+   - Total bill = Total cost for adult meals + Total cost for children's meals + Total cost for sodas
+   - Total bill = $36 + $8 + $16
+
+5. **Perform the final addition:**
+   - Total bill = $36 + $8 = $44
+   - Total bill = $44 + $16 = $60
+
+Therefore, the total bill for the group at Kaleb's Restaurant is $60.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To find the total number of people at the gathering who took wine, soda, or both, we can use the principle of inclusion-exclusion.
+
+1. **Identify the sets**: 
+   - Let \( A \) be the set of people who took wine.
+   - Let \( B \) be the set of people who took soda.
+   - We are given:
+     - \( |A| = 26 \) (people who took wine)
+     - \( |B| = 22 \) (people who took soda)
+     - \( |A \cap B| = 17 \) (people who took both)
+
+2. **Apply the inclusion-exclusion principle**: 
+   The formula to find the total number of unique individuals who took at least one drink is given by:
+   \[
+   |A \cup B| = |A| + |B| - |A \cap B|
+   \]
+
+3. **Substitute the values into the formula**: 
+   \[
+   |A \cup B| = 26 + 22 - 17
+   \]
+
+4. **Calculate the total**: 
+   - First, add the number of people who took wine and soda:
+     \[
+     26 + 22 = 48
+     \]
+   - Then, subtract the number of people who took both (to avoid double-counting):
+     \[
+     48 - 17 = 31
+     \]
+
+Therefore, the total number of people at the gathering is 31.
+</reasoning>
+<answer>31</answer>

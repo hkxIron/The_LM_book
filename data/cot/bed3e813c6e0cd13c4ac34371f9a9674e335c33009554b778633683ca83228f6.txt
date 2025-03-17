@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to calculate the average speed of Conner's dune buggy based on the different terrains he rides on for equal amounts of time.
+
+1. **Identify Speeds for Each Terrain**:
+   - On flat sand, Conner's speed is 60 miles per hour (mph).
+   - On downhill slopes, he rides 12 mph faster than on flat sand. So, we calculate:
+     \[
+     \text{Downhill speed} = 60 + 12 = 72 \text{ mph}
+     \]
+   - On uphill slopes, he rides 18 mph slower than on flat sand. So, we calculate:
+     \[
+     \text{Uphill speed} = 60 - 18 = 42 \text{ mph}
+     \]
+
+2. **Calculate the Average Speed**:
+   Since Conner spends an equal amount of time (one-third of the total time) on each type of terrain, we can find the average speed by taking the mean of the three speeds. The formula for average speed when the time spent is equal is:
+   \[
+   \text{Average Speed} = \frac{\text{Speed on Flat Sand} + \text{Speed on Downhill} + \text{Speed on Uphill}}{3}
+   \]
+
+   Substituting in the values we calculated:
+   \[
+   \text{Average Speed} = \frac{60 + 72 + 42}{3}
+   \]
+
+3. **Perform the Calculation**:
+   First, we add the speeds:
+   \[
+   60 + 72 + 42 = 174
+   \]
+   Now, we divide by 3 to find the average speed:
+   \[
+   \text{Average Speed} = \frac{174}{3} = 58 \text{ mph}
+   \]
+
+Therefore, Conner's average speed when riding his dune buggy across different terrains is:
+</reasoning>
+<answer>58</answer>

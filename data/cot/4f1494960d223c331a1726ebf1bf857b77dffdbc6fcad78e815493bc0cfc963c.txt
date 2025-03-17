@@ -1,0 +1,33 @@
+<reasoning>
+To solve this problem, we need to calculate how many minutes of chores John has to do based on the amount of time he spends watching cartoons. 
+
+1. **Convert the time spent watching cartoons from hours to minutes**: 
+   John watches cartoons for 2 hours. Since there are 60 minutes in an hour, we calculate:
+   \[
+   2 \text{ hours} \times 60 \text{ minutes/hour} = 120 \text{ minutes}
+   \]
+   This means John watches cartoons for a total of 120 minutes.
+
+2. **Determine the ratio of cartoons to chores**: 
+   For every 10 minutes of cartoons, John has to do 8 minutes of chores. We can express this ratio as:
+   \[
+   \text{Cartoons (10 minutes)} : \text{Chores (8 minutes)}
+   \]
+   This means for every 10 minutes of cartoons, John will do 8 minutes of chores.
+
+3. **Calculate how many 10-minute intervals are in 120 minutes**: 
+   We find out how many complete 10-minute intervals fit into 120 minutes by dividing:
+   \[
+   \frac{120 \text{ minutes (cartoons)}}{10 \text{ minutes (per interval)}} = 12 \text{ intervals}
+   \]
+   John watches cartoons in 12 intervals of 10 minutes each.
+
+4. **Calculate total chores based on number of intervals**: 
+   Since each interval of cartoons requires 8 minutes of chores, we multiply the number of intervals by the amount of chores for each interval:
+   \[
+   12 \text{ intervals} \times 8 \text{ minutes (chores per interval)} = 96 \text{ minutes of chores}
+   \]
+
+Therefore, after calculating the total time spent watching cartoons and the corresponding chores, we find that John has to do 96 minutes of chores.
+</reasoning>
+<answer>96</answer>

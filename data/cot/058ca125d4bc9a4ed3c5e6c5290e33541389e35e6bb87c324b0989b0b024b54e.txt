@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many tickets Carol sold on average per day, we can follow these steps:
+
+1. **Determine the total number of tickets sold**: 
+   To find the total number of tickets sold, we divide the total sales amount by the price of one ticket. 
+   
+   The total sales amount is $960, and the price of one ticket is $4. 
+   
+   So, we calculate:
+   \[
+   \text{Total tickets sold} = \frac{\text{Total sales amount}}{\text{Price per ticket}} = \frac{960}{4}
+   \]
+
+2. **Perform the division**: 
+   Now, let's perform the calculation:
+   \[
+   \frac{960}{4} = 240
+   \]
+   This means that Carol sold a total of 240 tickets over the three days.
+
+3. **Calculate the average number of tickets sold per day**: 
+   To find the average number of tickets sold per day, we divide the total number of tickets sold by the number of days (which is 3).
+   
+   So, we calculate:
+   \[
+   \text{Average tickets sold per day} = \frac{\text{Total tickets sold}}{\text{Number of days}} = \frac{240}{3}
+   \]
+
+4. **Perform the division for the average**: 
+   Now, let's perform this calculation:
+   \[
+   \frac{240}{3} = 80
+   \]
+   Therefore, on average, Carol sold 80 tickets per day.
+
+In conclusion, we have calculated the total tickets sold and then determined the average tickets sold per day.
+</reasoning>
+<answer>80</answer>

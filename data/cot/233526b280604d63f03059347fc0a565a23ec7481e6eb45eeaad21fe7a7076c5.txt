@@ -1,0 +1,30 @@
+<reasoning>
+First, let's determine the total amount of birdseed Leah has after buying 3 additional boxes. 
+
+1. **Calculate the total number of boxes:**
+   Leah already had 5 boxes and bought 3 more. 
+   \[
+   \text{Total boxes} = 5 + 3 = 8 \text{ boxes}
+   \]
+
+2. **Determine the total weight of birdseed:**
+   Each box contains 225 grams of birdseed. Therefore, we can calculate the total weight of the birdseed by multiplying the number of boxes by the weight per box. 
+   \[
+   \text{Total weight} = 8 \text{ boxes} \times 225 \text{ grams/box} = 1800 \text{ grams}
+   \]
+
+3. **Calculate the weekly consumption of birdseed:**
+   Leah has two birds: a parrot that eats 100 grams per week and a cockatiel that eats 50 grams per week. We need to find their combined weekly consumption. 
+   \[
+   \text{Total weekly consumption} = 100 \text{ grams (parrot)} + 50 \text{ grams (cockatiel)} = 150 \text{ grams/week}
+   \]
+
+4. **Determine how many weeks the birdseed will last:**
+   To find out how many weeks Leah can feed her birds with the total weight of birdseed, we divide the total weight by the weekly consumption.
+   \[
+   \text{Number of weeks} = \frac{1800 \text{ grams}}{150 \text{ grams/week}} = 12 \text{ weeks}
+   \]
+
+Thus, Leah can feed her birds for 12 weeks without going back to the store.
+</reasoning>
+<answer>12</answer>

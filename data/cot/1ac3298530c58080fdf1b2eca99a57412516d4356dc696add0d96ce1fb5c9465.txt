@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, let's define the ages of the two friends. 
+
+1. Let's denote the age of the older friend as \( x \) years.
+2. Since the difference in their ages is 2 years, we can denote the age of the younger friend as \( x - 2 \) years.
+
+Now, we know from the problem that the sum of their ages is 74 years. Therefore, we can set up the following equation:
+
+\[
+x + (x - 2) = 74
+\]
+
+3. Next, simplify the left side of the equation:
+
+\[
+x + x - 2 = 74
+\]
+\[
+2x - 2 = 74
+\]
+
+4. Now, add 2 to both sides of the equation to isolate the term with \( x \):
+
+\[
+2x - 2 + 2 = 74 + 2
+\]
+\[
+2x = 76
+\]
+
+5. Next, divide both sides by 2 to solve for \( x \):
+
+\[
+x = \frac{76}{2}
+\]
+\[
+x = 38
+\]
+
+Thus, the age of the older friend is 38 years. 
+
+Finally, let's summarize the result:
+</reasoning>
+<answer>38</answer>

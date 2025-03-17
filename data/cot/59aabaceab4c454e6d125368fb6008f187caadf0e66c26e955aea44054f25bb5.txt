@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to find the number of apples, oranges, and bananas in the display and then calculate the total number of fruits.
+
+1. **Identifying the number of bananas**: We are given that there are 5 bananas on the display. 
+   - Let the number of bananas be \( B = 5 \).
+
+2. **Finding the number of oranges**: According to the problem, there are twice as many oranges as bananas. Therefore, we can express the number of oranges \( O \) as:
+   \[
+   O = 2 \times B
+   \]
+   Substituting the value of \( B \):
+   \[
+   O = 2 \times 5 = 10
+   \]
+   So, there are 10 oranges.
+
+3. **Finding the number of apples**: The problem also states that there are twice as many apples as oranges. Thus, we can express the number of apples \( A \) as:
+   \[
+   A = 2 \times O
+   \]
+   Substituting the value of \( O \):
+   \[
+   A = 2 \times 10 = 20
+   \]
+   So, there are 20 apples.
+
+4. **Calculating the total number of fruits**: Now we can find the total number of fruits by adding the number of apples, oranges, and bananas:
+   \[
+   \text{Total fruits} = A + O + B
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total fruits} = 20 + 10 + 5 = 35
+   \]
+
+Finally, we have found the total number of fruits on the display.
+</reasoning>
+<answer>35</answer>

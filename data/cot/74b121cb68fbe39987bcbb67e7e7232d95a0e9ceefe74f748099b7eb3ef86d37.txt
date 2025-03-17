@@ -1,0 +1,33 @@
+<reasoning>
+To find the total number of students with average height, we need to first determine the number of short students. 
+
+1. **Identify the total number of students**: We are given that the class has a total of 400 students.
+
+2. **Calculate the number of short students**: According to the problem, the number of short students is \( \frac{2}{5} \) of the total number of students. We can calculate this as follows:
+   \[
+   \text{Number of short students} = \frac{2}{5} \times 400
+   \]
+   Performing the multiplication:
+   \[
+   \frac{2 \times 400}{5} = \frac{800}{5} = 160
+   \]
+   So, there are 160 short students.
+
+3. **Calculate the number of tall students**: We are given that there are 90 tall students.
+
+4. **Calculate the number of students with average height**: We can find the number of students with average height by subtracting the number of short and tall students from the total number of students:
+   \[
+   \text{Number of average height students} = \text{Total students} - (\text{Number of short students} + \text{Number of tall students})
+   \]
+   Plugging in the values:
+   \[
+   \text{Number of average height students} = 400 - (160 + 90)
+   \]
+   Simplifying the equation:
+   \[
+   \text{Number of average height students} = 400 - 250 = 150
+   \]
+
+Therefore, the total number of students with average height is 150.
+</reasoning>
+<answer>150</answer>

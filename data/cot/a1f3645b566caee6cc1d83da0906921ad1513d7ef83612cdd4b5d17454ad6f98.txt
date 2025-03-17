@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down Jimmy's lodging expenses step by step.
+
+1. **Calculate the cost for the first 3 days in the hostel:**
+   - The cost per night at the hostel is $15.
+   - Jimmy stays there for 3 nights.
+   - To find the total cost for the hostel, we multiply the cost per night by the number of nights:
+     \[
+     \text{Cost at hostel} = 15 \text{ dollars/night} \times 3 \text{ nights} = 45 \text{ dollars}
+     \]
+
+2. **Calculate the cost for the fourth and fifth days in the cabin:**
+   - The total cost for the cabin per night is $45.
+   - Since Jimmy shares this cost with 2 friends, he needs to pay a third of the total cost.
+   - The number of nights he stays in the cabin is 2 (the fourth and fifth days).
+   - First, let's calculate Jimmy's share per night:
+     \[
+     \text{Jimmy's share per night} = \frac{45 \text{ dollars}}{3} = 15 \text{ dollars}
+     \]
+   - Now, for 2 nights in the cabin, we multiply Jimmy's share per night by the number of nights:
+     \[
+     \text{Cost at cabin} = 15 \text{ dollars/night} \times 2 \text{ nights} = 30 \text{ dollars}
+     \]
+
+3. **Calculate the total cost for lodging:**
+   - Now, we add the cost for the hostel and the cost for the cabin to find the total lodging expenses:
+     \[
+     \text{Total cost} = \text{Cost at hostel} + \text{Cost at cabin} = 45 \text{ dollars} + 30 \text{ dollars} = 75 \text{ dollars}
+     \]
+
+Therefore, the total amount Jimmy spent on lodging is $75.
+</reasoning>
+<answer>75</answer>

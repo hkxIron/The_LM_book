@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much change Yanna received after her purchases, we need to calculate the total cost of the shirts and sandals, and then subtract that total from the amount she paid ($100).
+
+1. **Calculate the cost of the shirts:**
+   Yanna bought 10 shirts at $5 each. So, we multiply the number of shirts by the cost per shirt:
+   \[
+   \text{Cost of shirts} = 10 \times 5 = 50
+   \]
+   This means the total cost for the shirts is $50.
+
+2. **Calculate the cost of the sandals:**
+   Next, Yanna bought 3 pairs of sandals at $3 each. We also multiply the number of pairs by the cost per pair:
+   \[
+   \text{Cost of sandals} = 3 \times 3 = 9
+   \]
+   Thus, the total cost for the sandals is $9.
+
+3. **Calculate the total cost of all items:**
+   Now, we add the total cost of the shirts and the sandals:
+   \[
+   \text{Total cost} = \text{Cost of shirts} + \text{Cost of sandals} = 50 + 9 = 59
+   \]
+   This means Yanna spent a total of $59.
+
+4. **Calculate the change Yanna received:**
+   Yanna paid with a $100 bill, so we find the change by subtracting the total cost from the amount she paid:
+   \[
+   \text{Change} = 100 - 59 = 41
+   \]
+   Therefore, Yanna received $41 in change.
+</reasoning>
+<answer>41</answer>

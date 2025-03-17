@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem, we first need to understand the relationship between the number of boys and girls among Toby's friends, as well as the total number of friends he has.
+
+1. **Identify the percentage of boys and girls**: According to the problem, 55% of Toby's friends are boys. This means that the remaining percentage, which is 100% - 55% = 45%, represents the girls.
+
+2. **Establish the relationship between the number of boys and total friends**: We know that Toby has 33 friends who are boys. Since boys make up 55% of his total friends, we can set up the equation to find the total number of friends (let's call it T).
+
+   \[
+   0.55T = 33
+   \]
+
+3. **Solve for T**: To find T, we need to isolate it on one side of the equation. We can do this by dividing both sides by 0.55.
+
+   \[
+   T = \frac{33}{0.55}
+   \]
+
+4. **Calculate T**: Now perform the division.
+
+   \[
+   T = 60
+   \]
+
+   This means Toby has a total of 60 friends.
+
+5. **Calculate the number of girls**: Now that we have the total number of friends, we can find the number of girls. Since 45% of his friends are girls, we can calculate the number of girls (let's call it G) using the total number of friends.
+
+   \[
+   G = 0.45T
+   \]
+
+   Substituting T = 60 into the equation gives:
+
+   \[
+   G = 0.45 \times 60
+   \]
+
+6. **Perform the multiplication**:
+
+   \[
+   G = 27
+   \]
+
+Therefore, Toby has 27 friends who are girls.
+</reasoning>
+<answer>27</answer>

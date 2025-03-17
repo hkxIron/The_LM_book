@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much money Liza has left in her checking account after her transactions throughout the week, we will follow each step of her financial activity:
+
+1. **Starting Balance**: On Tuesday, Liza had $800 in her checking account.
+   - Current balance = $800
+
+2. **Rent Payment**: On Wednesday, Liza paid her rent of $450.
+   - We subtract the rent payment from her current balance: 
+   - Current balance = $800 - $450 = $350
+
+3. **Paycheck Deposit**: On Thursday, Liza deposited her $1500 paycheck.
+   - We add the paycheck to her current balance: 
+   - Current balance = $350 + $1500 = $1850
+
+4. **Electricity and Internet Bills**: On Friday, she paid her electricity bill of $117 and her internet bill of $100.
+   - First, we calculate the total of these two bills:
+     - Total bills = $117 + $100 = $217
+   - Now we subtract the total bills from her current balance:
+   - Current balance = $1850 - $217 = $1633
+
+5. **Phone Bill Payment**: On Saturday, Liza paid her phone bill of $70.
+   - We subtract the phone bill from her current balance:
+   - Current balance = $1633 - $70 = $1563
+
+Now, we have tracked all her transactions, and the final balance in Liza's account is $1563.
+</reasoning>
+<answer>1563</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many seconds per minute Jason shoots flames at the dragon hoard, we need to break the problem down into manageable steps.
+
+1. **Determine the number of shots Jason fires in one minute.** 
+   Since Jason fires his weapon every 15 seconds, we can calculate how many times he fires in one minute (which is 60 seconds).
+
+   \[
+   \text{Number of shots in one minute} = \frac{60 \text{ seconds}}{15 \text{ seconds/shot}} = 4 \text{ shots}
+   \]
+
+   Here, we divide the total time (60 seconds) by the interval between shots (15 seconds) to find out how many shots he takes in one minute.
+
+2. **Calculate the total time Jason spends shooting flames.**
+   Each time Jason fires his weapon, he shoots flames for 5 seconds. Now we can find the total number of seconds he spends shooting flames in one minute.
+
+   \[
+   \text{Total shooting time} = \text{Number of shots} \times \text{Duration of each shot}
+   \]
+   \[
+   \text{Total shooting time} = 4 \text{ shots} \times 5 \text{ seconds/shot} = 20 \text{ seconds}
+   \]
+
+   We multiply the number of shots (4) by the duration of each shot (5 seconds) to get the total shooting time in seconds.
+
+3. **Conclusion:**
+   Now we know that Jason spends 20 seconds shooting flames at the dragon hoard in one minute.
+
+Therefore, the average number of seconds per minute that Jason shoots flames at the dragon hoard is:
+</reasoning>
+<answer>20</answer>

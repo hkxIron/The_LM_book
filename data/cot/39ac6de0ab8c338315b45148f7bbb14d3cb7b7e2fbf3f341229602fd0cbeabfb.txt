@@ -1,0 +1,39 @@
+<reasoning>
+To find out how much money the hairstylist earns per week, we need to calculate his daily earnings based on the number of haircuts he does and their corresponding prices. Then, we will multiply his daily earnings by the number of days he works in a week.
+
+1. **Calculate the earnings from normal haircuts:**
+   The hairstylist charges $5 for a normal haircut and does 5 normal haircuts per day.
+   \[
+   \text{Earnings from normal haircuts} = 5 \text{ haircuts} \times 5 \text{ dollars/haircut} = 25 \text{ dollars}
+   \]
+
+2. **Calculate the earnings from special haircuts:**
+   The hairstylist charges $6 for a special haircut and does 3 special haircuts per day.
+   \[
+   \text{Earnings from special haircuts} = 3 \text{ haircuts} \times 6 \text{ dollars/haircut} = 18 \text{ dollars}
+   \]
+
+3. **Calculate the earnings from trendy haircuts:**
+   The hairstylist charges $8 for a trendy haircut and does 2 trendy haircuts per day.
+   \[
+   \text{Earnings from trendy haircuts} = 2 \text{ haircuts} \times 8 \text{ dollars/haircut} = 16 \text{ dollars}
+   \]
+
+4. **Calculate the total daily earnings:**
+   Now, we add all the earnings together to find the total daily earnings.
+   \[
+   \text{Total daily earnings} = \text{Earnings from normal} + \text{Earnings from special} + \text{Earnings from trendy}
+   \]
+   \[
+   \text{Total daily earnings} = 25 \text{ dollars} + 18 \text{ dollars} + 16 \text{ dollars} = 59 \text{ dollars}
+   \]
+
+5. **Calculate the weekly earnings:**
+   Assuming the hairstylist works 7 days a week, we multiply the total daily earnings by 7.
+   \[
+   \text{Weekly earnings} = 59 \text{ dollars/day} \times 7 \text{ days/week} = 413 \text{ dollars}
+   \]
+
+Therefore, the hairstylist earns a total of $413 per week.
+</reasoning>
+<answer>413</answer>

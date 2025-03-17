@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we'll break it down into steps based on the information provided:
+
+1. **Identify the daily charge per book**: The library charges $0.50 (fifty cents) per day for each book borrowed.
+
+2. **Determine the borrowing duration for each book**:
+   - Celine borrowed three books at the start of May.
+   - She returned one book after 20 days.
+   - The other two books were kept until the end of May. May has 31 days, so they were borrowed for 31 days.
+
+3. **Calculate the total cost for the first book**:
+   - The first book was borrowed for 20 days.
+   - The cost is calculated as:
+     \[
+     \text{Cost for first book} = 20 \text{ days} \times 0.50 \text{ dollars/day} = 10 \text{ dollars}
+     \]
+
+4. **Calculate the total cost for the second and third books**:
+   - Both of these books were borrowed for 31 days.
+   - The cost for each of these books is:
+     \[
+     \text{Cost for one book} = 31 \text{ days} \times 0.50 \text{ dollars/day} = 15.50 \text{ dollars}
+     \]
+   - Since there are two books, we multiply this by 2:
+     \[
+     \text{Cost for two books} = 15.50 \text{ dollars/book} \times 2 = 31 \text{ dollars}
+     \]
+
+5. **Calculate the total amount paid to the library**:
+   - Now, we add the costs of all three books together:
+     \[
+     \text{Total cost} = \text{Cost for first book} + \text{Cost for two books}
+     \]
+     \[
+     \text{Total cost} = 10 \text{ dollars} + 31 \text{ dollars} = 41 \text{ dollars}
+     \]
+
+Therefore, the total amount of money that Celine paid at the library for lending the three books is:
+</reasoning>
+<answer>41</answer>

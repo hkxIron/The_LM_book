@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many parents disagree with the tuition fee increase, we will follow these steps:
+
+1. **Determine the number of parents who agree to the tuition fee increase.** 
+   We know from the problem that 20% of the 800 parents agree. To find the number of parents who agree, we can calculate:
+   \[
+   \text{Number of parents who agree} = 20\% \times 800
+   \]
+   Converting 20% to a decimal gives us 0.20. Therefore:
+   \[
+   \text{Number of parents who agree} = 0.20 \times 800 = 160
+   \]
+   This means that 160 parents agree to the tuition fee increase.
+
+2. **Calculate the number of parents who disagree.**
+   To find the number of parents who disagree, we subtract the number of parents who agree from the total number of parents:
+   \[
+   \text{Number of parents who disagree} = \text{Total parents} - \text{Number of parents who agree}
+   \]
+   So we can calculate:
+   \[
+   \text{Number of parents who disagree} = 800 - 160 = 640
+   \]
+
+Thus, the number of parents who disagree with the tuition fee increase is 640.
+</reasoning>
+<answer>640</answer>

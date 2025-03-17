@@ -1,0 +1,57 @@
+<reasoning>
+Let's define the variables for the problem:
+
+- Let \( r \) be the number of roosters.
+- Since the farm has 5 less than 9 times the amount of hens as roosters, we can express the number of hens \( h \) in terms of roosters: 
+  \[
+  h = 9r - 5
+  \]
+
+Next, we know the total number of chickens (roosters + hens) is 75. Therefore, we can write the equation:
+\[
+r + h = 75
+\]
+
+Now, we can substitute the expression for \( h \) from the first equation into the second equation:
+\[
+r + (9r - 5) = 75
+\]
+This simplifies to:
+\[
+r + 9r - 5 = 75
+\]
+\[
+10r - 5 = 75
+\]
+
+Now, we'll add 5 to both sides to isolate the term with \( r \):
+\[
+10r = 75 + 5
+\]
+\[
+10r = 80
+\]
+
+To find \( r \), we divide both sides by 10:
+\[
+r = \frac{80}{10} = 8
+\]
+
+Now that we have the number of roosters, we can find the number of hens using the equation for \( h \):
+\[
+h = 9r - 5
+\]
+Substituting \( r = 8 \) into the equation gives:
+\[
+h = 9(8) - 5
+\]
+\[
+h = 72 - 5
+\]
+\[
+h = 67
+\]
+
+Therefore, the number of hens on the farm is:
+</reasoning>
+<answer>67</answer>

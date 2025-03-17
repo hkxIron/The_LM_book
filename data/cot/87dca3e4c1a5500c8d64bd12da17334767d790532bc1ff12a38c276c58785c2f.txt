@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of pens Jane bought for each student**: 
+   - Each student received 62 red pens and 43 black pens. 
+   - We need to find the total number of pens each student received.
+   
+   Total pens per student = 62 (red) + 43 (black) = 105 pens.
+
+2. **Calculate the total number of pens for all three students**:
+   - Since there are three students, we multiply the total pens per student by the number of students.
+   
+   Total pens for all students = 105 pens/student * 3 students = 315 pens.
+
+3. **Calculate the total number of pens taken from the pool**:
+   - After the first month, they took 37 pens.
+   - After the second month, they took another 41 pens.
+   - We need to find the total pens taken after both months.
+   
+   Total pens taken = 37 (first month) + 41 (second month) = 78 pens.
+
+4. **Calculate the number of pens remaining in the pool**:
+   - To find the remaining pens, we subtract the total pens taken from the total pens originally available.
+   
+   Remaining pens = Total pens - Total pens taken = 315 pens - 78 pens = 237 pens.
+
+5. **Distribute the remaining pens equally among the three students**:
+   - To find out how many pens each student will get, we divide the remaining pens by the number of students.
+   
+   Pens per student = Remaining pens / Number of students = 237 pens / 3 students = 79 pens.
+
+Therefore, each student will receive 79 pens now.
+</reasoning>
+<answer>79</answer>

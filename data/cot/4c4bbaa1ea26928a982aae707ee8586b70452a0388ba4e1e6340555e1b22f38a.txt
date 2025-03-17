@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of slices ordered**:
+   Since each large pizza has 18 slices and the teacher orders 6 pizzas, we calculate the total number of slices:
+   \[
+   \text{Total slices} = 6 \text{ pizzas} \times 18 \text{ slices/pizza} = 108 \text{ slices}
+   \]
+
+2. **Calculate the leftover slices**:
+   We know that there are 8 pieces of cheese and 4 pieces of onion leftover. Since each cheese pizza has only cheese slices, all the leftover cheese slices must come from the cheese pizza. The onion pieces can be consumed in onion pizzas. However, since we are only concerned about the total pizza slices, we can calculate the slices consumed:
+   \[
+   \text{Leftover slices} = 8 + 4 = 12 \text{ slices}
+   \]
+
+3. **Calculate the total slices consumed**:
+   We subtract the leftover slices from the total slices ordered to find the slices that were actually consumed:
+   \[
+   \text{Slices consumed} = 108 \text{ total slices} - 12 \text{ leftover slices} = 96 \text{ slices consumed}
+   \]
+
+4. **Determine the amount of pizza each student eats**:
+   Each student eats 2 pieces of cheese and 1 piece of onion. Since cheese and onion pieces are not interchangeable, we need to focus on the total number of slices consumed:
+   - Each student eats a total of:
+   \[
+   \text{Slices per student} = 2 \text{ (cheese)} + 1 \text{ (onion)} = 3 \text{ slices}
+   \]
+
+5. **Calculate the number of students**:
+   To find the number of students, we divide the total slices consumed by the number of slices each student eats:
+   \[
+   \text{Number of students} = \frac{\text{Slices consumed}}{\text{Slices per student}} = \frac{96 \text{ slices}}{3 \text{ slices/student}} = 32 \text{ students}
+   \]
+
+Therefore, after calculating the total slices, the leftovers, and how many slices each student consumes, we find that there are 32 students in the class.
+</reasoning>
+<answer>32</answer>

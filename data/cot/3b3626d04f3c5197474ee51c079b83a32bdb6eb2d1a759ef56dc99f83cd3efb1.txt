@@ -1,0 +1,31 @@
+<reasoning>
+Let's start by determining how many bottles of soda Rebecca has after buying three 6-packs.
+
+1. **Calculate the total number of bottles in three 6-packs**:
+   Each 6-pack contains 6 bottles. So, for three 6-packs, we multiply the number of packs by the number of bottles per pack:
+   \[
+   \text{Total bottles} = 3 \text{ packs} \times 6 \text{ bottles per pack} = 18 \text{ bottles}
+   \]
+   This means Rebecca starts with 18 bottles of soda.
+
+2. **Determine how many days are in four weeks**:
+   There are 7 days in a week, so for four weeks, we multiply:
+   \[
+   \text{Total days} = 4 \text{ weeks} \times 7 \text{ days per week} = 28 \text{ days}
+   \]
+
+3. **Calculate how many bottles of soda Rebecca drinks in four weeks**:
+   Rebecca drinks half a bottle of soda each day. To find out how many bottles she drinks in 28 days, we multiply:
+   \[
+   \text{Bottles consumed} = \frac{1}{2} \text{ bottle per day} \times 28 \text{ days} = 14 \text{ bottles}
+   \]
+
+4. **Calculate the number of bottles left after four weeks**:
+   Now, we subtract the number of bottles she consumed from the total number of bottles she started with:
+   \[
+   \text{Bottles left} = 18 \text{ bottles} - 14 \text{ bottles} = 4 \text{ bottles}
+   \]
+
+Therefore, after four weeks, Rebecca will have 4 bottles of soda left.
+</reasoning>
+<answer>4</answer>

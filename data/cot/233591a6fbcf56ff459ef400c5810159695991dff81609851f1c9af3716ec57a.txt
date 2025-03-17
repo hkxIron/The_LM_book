@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to determine how many eggs Samantha can sell before she recovers her initial investment of $5 from selling the eggs at 20 cents each.
+
+1. **Calculate the total number of eggs she can sell:** Samantha bought 30 eggs.
+
+2. **Determine the price she sells each egg for:** Each egg is sold for 20 cents, which can be converted to dollars:
+   \[
+   20 \text{ cents} = 0.20 \text{ dollars}
+   \]
+
+3. **Calculate how many eggs she needs to sell to recover $5:** To find out how many eggs she needs to sell to recover her $5 investment, we can set up the equation:
+   \[
+   \text{Total sales} = \text{Number of eggs sold} \times \text{Price per egg}
+   \]
+   We want the total sales to equal $5:
+   \[
+   5 = x \times 0.20
+   \]
+   where \( x \) is the number of eggs sold.
+
+4. **Solve for \( x \):** Rearranging the equation to find \( x \):
+   \[
+   x = \frac{5}{0.20}
+   \]
+   Now, calculate:
+   \[
+   x = \frac{5}{0.20} = 5 \div 0.20 = 5 \times 5 = 25
+   \]
+   Therefore, she needs to sell 25 eggs to recover her $5.
+
+5. **Calculate how many eggs are left:** Since Samantha started with 30 eggs and sold 25, we need to find out how many are remaining:
+   \[
+   \text{Eggs left} = 30 - 25 = 5
+   \]
+
+Thus, after selling enough eggs to recover her capital, Samantha will have 5 eggs left.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+Let's start by determining how many cans Diego collected. We know from the problem that Martha collected 90 cans.
+
+1. **Find how many cans Diego collected**: 
+   The problem states that Diego collected 10 more than half of the cans collected by Martha. 
+   First, we need to calculate half of Martha's cans:
+   \[
+   \text{Half of Martha's cans} = \frac{90}{2} = 45
+   \]
+   Now, we add 10 to this value to find Diego's total:
+   \[
+   \text{Diego's cans} = 45 + 10 = 55
+   \]
+
+2. **Calculate the total cans collected by Martha and Diego**: 
+   We will now add the number of cans collected by both Martha and Diego:
+   \[
+   \text{Total cans collected} = \text{Martha's cans} + \text{Diego's cans} = 90 + 55 = 145
+   \]
+
+3. **Determine how many more cans they need to collect**: 
+   The problem states that they need a total of 150 cans for their project. We can find out how many more cans they need by subtracting the total cans they have collected from the target:
+   \[
+   \text{Additional cans needed} = 150 - 145 = 5
+   \]
+
+Thus, after performing all calculations step by step, we conclude that they need 5 more cans to meet their goal.
+</reasoning>
+<answer>5</answer>

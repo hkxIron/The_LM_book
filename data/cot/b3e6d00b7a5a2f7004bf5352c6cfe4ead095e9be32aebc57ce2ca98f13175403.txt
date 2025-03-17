@@ -1,0 +1,51 @@
+<reasoning>
+To find the odds that a marble drawn at random from Cara's bag is blue, we first need to determine how many marbles of each color are in the bag.
+
+1. **Identify the total number of marbles**: 
+   Cara has a total of 60 marbles.
+
+2. **Determine the number of yellow marbles**: 
+   It is given that there are 20 yellow marbles.
+
+3. **Calculate the number of green marbles**: 
+   Half as many marbles are green as there are yellow marbles. Therefore:
+   \[
+   \text{Number of green marbles} = \frac{20}{2} = 10
+   \]
+
+4. **Calculate the total number of yellow and green marbles**: 
+   Adding the yellow and green marbles together:
+   \[
+   \text{Total yellow and green} = 20 + 10 = 30
+   \]
+
+5. **Determine the number of remaining marbles**: 
+   The remaining marbles can be calculated by subtracting the number of yellow and green marbles from the total number of marbles:
+   \[
+   \text{Remaining marbles} = 60 - 30 = 30
+   \]
+
+6. **Divide the remaining marbles between red and blue**: 
+   The remaining 30 marbles are equally divided between red and blue marbles, so:
+   \[
+   \text{Number of red marbles} = \frac{30}{2} = 15
+   \]
+   \[
+   \text{Number of blue marbles} = \frac{30}{2} = 15
+   \]
+
+7. **Calculate the probability of picking a blue marble**: 
+   The probability of picking a blue marble is the number of blue marbles divided by the total number of marbles:
+   \[
+   P(\text{blue}) = \frac{\text{Number of blue marbles}}{\text{Total number of marbles}} = \frac{15}{60}
+   \]
+
+8. **Convert the probability to a percentage**: 
+   To express this probability as a percentage, we multiply by 100:
+   \[
+   P(\text{blue}) \times 100 = \frac{15}{60} \times 100 = 25
+   \]
+
+Thus, the odds that a marble picked at random is blue, expressed as a percentage, is 25%.
+</reasoning>
+<answer>25</answer>

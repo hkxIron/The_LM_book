@@ -1,0 +1,18 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify Greta's turtle finish time**: We know from the problem that Greta's turtle finished the race in 6 minutes.
+
+2. **Calculate George's turtle finish time**: The problem states that George's turtle finished 2 minutes quicker than Greta’s. Since Greta’s turtle took 6 minutes, we subtract 2 minutes from that time:
+   \[
+   \text{George's time} = \text{Greta's time} - 2 \text{ minutes} = 6 \text{ minutes} - 2 \text{ minutes} = 4 \text{ minutes}
+   \]
+
+3. **Calculate Gloria's turtle finish time**: The problem indicates that Gloria’s turtle took twice as long as George’s turtle. Since we found that George's turtle took 4 minutes, we multiply that time by 2:
+   \[
+   \text{Gloria's time} = 2 \times \text{George's time} = 2 \times 4 \text{ minutes} = 8 \text{ minutes}
+   \]
+
+Thus, it took Gloria’s turtle 8 minutes to finish the race.
+</reasoning>
+<answer>8</answer>

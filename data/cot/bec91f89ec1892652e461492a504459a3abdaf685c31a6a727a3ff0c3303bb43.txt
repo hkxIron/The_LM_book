@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much Maddie spends on coffee each week, we will calculate the cost of the coffee beans and the cost of milk separately, then add them together.
+
+1. **Calculate the total amount of coffee beans used per week**:
+   - Maddie makes 2 cups of coffee per day and each cup uses 1.5 ounces of coffee beans.
+   - First, calculate the total cups of coffee she makes in a week: 
+     \[
+     2 \text{ cups/day} \times 7 \text{ days/week} = 14 \text{ cups/week}
+     \]
+   - Next, calculate the total amount of coffee beans used in ounces:
+     \[
+     14 \text{ cups/week} \times 1.5 \text{ ounces/cup} = 21 \text{ ounces/week}
+     \]
+
+2. **Determine how many bags of coffee are needed**:
+   - A bag of coffee costs $8 and contains 10.5 ounces.
+   - Calculate how many ounces are in one bag and how many bags are needed for 21 ounces:
+     \[
+     \text{Number of bags needed} = \frac{21 \text{ ounces}}{10.5 \text{ ounces/bag}} = 2 \text{ bags}
+     \]
+
+3. **Calculate the cost of the coffee**:
+   - Since Maddie needs 2 bags of coffee, we multiply the number of bags by the cost per bag:
+     \[
+     2 \text{ bags} \times 8 \text{ dollars/bag} = 16 \text{ dollars}
+     \]
+
+4. **Calculate the cost of the milk**:
+   - Maddie uses 1/2 a gallon of milk per week. A gallon of milk costs $4, so half a gallon costs:
+     \[
+     \frac{4 \text{ dollars}}{2} = 2 \text{ dollars}
+     \]
+
+5. **Add the costs of coffee and milk**:
+   - Now, we will add the costs for coffee and milk to find the total weekly expense:
+     \[
+     16 \text{ dollars (coffee)} + 2 \text{ dollars (milk)} = 18 \text{ dollars}
+     \]
+
+Therefore, the total amount Maddie spends on coffee per week is:
+</reasoning>
+<answer>18</answer>

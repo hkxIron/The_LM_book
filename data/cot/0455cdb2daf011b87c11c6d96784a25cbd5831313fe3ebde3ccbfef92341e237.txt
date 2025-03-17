@@ -1,0 +1,68 @@
+<reasoning>
+Let's define variables for each group of players in the marching band:
+
+- Let \( b \) represent the number of brass players.
+- Let \( w \) represent the number of woodwind players.
+- Let \( p \) represent the number of percussion players.
+
+From the problem, we can set up the following relationships based on the information given:
+
+1. The total number of band members is 110:
+   \[
+   b + w + p = 110
+   \]
+
+2. There are 4 times as many percussion players as there are woodwind players:
+   \[
+   p = 4w
+   \]
+
+3. There are twice as many woodwinds as brass players:
+   \[
+   w = 2b
+   \]
+
+Now, we can substitute the expressions for \( p \) and \( w \) into the first equation. 
+
+First, we can substitute \( w \) from equation 3 into equation 2:
+\[
+p = 4w = 4(2b) = 8b
+\]
+
+Now, we replace \( w \) and \( p \) in the total number of members equation:
+\[
+b + w + p = 110
+\]
+Substituting \( w = 2b \) and \( p = 8b \):
+\[
+b + 2b + 8b = 110
+\]
+
+Now combine all the terms:
+\[
+11b = 110
+\]
+
+Next, we solve for \( b \) by dividing both sides by 11:
+\[
+b = \frac{110}{11} = 10
+\]
+
+Now that we have found the number of brass players, we can also determine the number of woodwind and percussion players if needed:
+- To find the number of woodwinds:
+  \[
+  w = 2b = 2(10) = 20
+  \]
+- To find the number of percussion players:
+  \[
+  p = 4w = 4(20) = 80
+  \]
+
+Thus, we have confirmed the counts are consistent:
+\[
+b + w + p = 10 + 20 + 80 = 110
+\]
+
+Therefore, the number of brass players in the marching band is:
+</reasoning>
+<answer>10</answer>

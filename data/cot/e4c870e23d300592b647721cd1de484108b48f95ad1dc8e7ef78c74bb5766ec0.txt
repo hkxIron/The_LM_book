@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step to find out how much money Zainab will earn after passing out flyers for 4 weeks.
+
+1. **Determine Zainab's hourly rate**: Zainab earns $2 per hour.
+
+2. **Calculate the total hours she works each week**:
+   - Zainab works for 4 hours each day she passes out flyers.
+   - She works on Monday, Wednesday, and Saturday. That is 3 days per week.
+   - Therefore, the total hours she works in a week can be calculated as:
+     \[
+     \text{Total hours per week} = \text{Hours per day} \times \text{Number of days} = 4 \text{ hours} \times 3 \text{ days} = 12 \text{ hours}
+     \]
+
+3. **Calculate the total earnings per week**:
+   - Now that we know she works a total of 12 hours per week, we can find her earnings for one week:
+     \[
+     \text{Earnings per week} = \text{Total hours per week} \times \text{Hourly rate} = 12 \text{ hours} \times 2 \text{ dollars/hour} = 24 \text{ dollars}
+     \]
+
+4. **Calculate the total earnings for 4 weeks**:
+   - To find out how much she will earn after 4 weeks, we multiply her weekly earnings by 4:
+     \[
+     \text{Total earnings for 4 weeks} = \text{Earnings per week} \times 4 = 24 \text{ dollars} \times 4 = 96 \text{ dollars}
+     \]
+
+Therefore, after passing out flyers for 4 weeks, Zainab will earn a total of $96.
+</reasoning>
+<answer>96</answer>

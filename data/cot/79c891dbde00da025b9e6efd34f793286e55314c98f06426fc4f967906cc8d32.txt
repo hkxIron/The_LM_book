@@ -1,0 +1,49 @@
+<reasoning>
+Let's denote the amount of money Sarah has in cents as \( S \). According to the problem, Bridget has 50 cents more than Sarah, so we can express the amount Bridget has in cents as \( S + 50 \).
+
+Now, we know that together they have a total of 300 cents (since $3 is equal to 300 cents). We can set up the following equation based on the information provided:
+
+\[
+S + (S + 50) = 300
+\]
+
+Now, let's simplify the equation step by step:
+
+1. Combine the terms on the left side:
+   \[
+   S + S + 50 = 300
+   \]
+   This simplifies to:
+   \[
+   2S + 50 = 300
+   \]
+
+2. Next, we want to isolate \( 2S \) by subtracting 50 from both sides:
+   \[
+   2S = 300 - 50
+   \]
+   This gives us:
+   \[
+   2S = 250
+   \]
+
+3. Now, divide both sides by 2 to find \( S \):
+   \[
+   S = \frac{250}{2}
+   \]
+   This simplifies to:
+   \[
+   S = 125
+   \]
+
+Thus, Sarah has 125 cents.
+
+To verify, we can calculate how much Bridget has:
+- Bridget's amount = \( S + 50 = 125 + 50 = 175 \) cents.
+
+Now, checking together:
+- Total amount = \( 125 + 175 = 300 \) cents, which matches the initial condition.
+
+Therefore, the calculations are correct.
+</reasoning>
+<answer>125</answer>

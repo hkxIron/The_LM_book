@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we need to determine how many quarters Mabel has by the time she turns 7 years old, and then calculate the total amount of money that these quarters represent.
+
+1. **Understanding the problem**: Mabel receives as many quarters as her age each year. For example, if she is 1 year old, she receives 1 quarter; if she is 2 years old, she receives 2 quarters, and so on up to 7 years old.
+
+2. **Calculating the total number of quarters**: We will sum the number of quarters Mabel receives each year from age 1 to age 7. 
+
+   - At age 1: 1 quarter
+   - At age 2: 2 quarters
+   - At age 3: 3 quarters
+   - At age 4: 4 quarters
+   - At age 5: 5 quarters
+   - At age 6: 6 quarters
+   - At age 7: 7 quarters
+
+   The total number of quarters received is:
+   \[
+   1 + 2 + 3 + 4 + 5 + 6 + 7
+   \]
+
+3. **Calculating the sum**: We can calculate the sum:
+   - First, let's add them step by step:
+     - 1 + 2 = 3
+     - 3 + 3 = 6
+     - 6 + 4 = 10
+     - 10 + 5 = 15
+     - 15 + 6 = 21
+     - 21 + 7 = 28
+
+   Thus, Mabel has a total of 28 quarters by the time she turns 7 years old.
+
+4. **Calculating the total amount of money**: Each quarter is worth $0.25. To find out how much money Mabel has in total, we multiply the number of quarters by the value of each quarter:
+   \[
+   28 \text{ quarters} \times 0.25 \text{ dollars/quarter} = 7 \text{ dollars}
+   \]
+
+Therefore, after Mabel turns 7, the total amount of money in her piggy bank is $7.
+</reasoning>
+<answer>7</answer>

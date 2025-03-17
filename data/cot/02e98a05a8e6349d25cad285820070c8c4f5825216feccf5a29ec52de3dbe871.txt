@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we need to calculate how long it will take for the cheetah to catch up to the gazelle given their speeds and the initial distance between them.
+
+1. **Convert speeds from miles per hour to feet per second**:
+   - Cheetah's speed: 60 mph
+   - Gazelle's speed: 40 mph
+   - Since 1 mph is approximately 1.5 feet per second, we will multiply by 1.5 to convert their speeds.
+
+   For the cheetah:
+   \[
+   60 \text{ mph} \times 1.5 \text{ ft/s per mph} = 90 \text{ ft/s}
+   \]
+
+   For the gazelle:
+   \[
+   40 \text{ mph} \times 1.5 \text{ ft/s per mph} = 60 \text{ ft/s}
+   \]
+
+2. **Determine the relative speed**:
+   Since both animals are running in the same direction, we need to find the difference in their speeds to determine how quickly the cheetah is closing the gap:
+   \[
+   \text{Relative speed} = \text{Cheetah's speed} - \text{Gazelle's speed} = 90 \text{ ft/s} - 60 \text{ ft/s} = 30 \text{ ft/s}
+   \]
+
+3. **Determine the initial distance**:
+   The initial distance between the cheetah and the gazelle is given as 210 feet.
+
+4. **Calculate the time it takes for the cheetah to catch the gazelle**:
+   We can use the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Relative Speed}} = \frac{210 \text{ feet}}{30 \text{ ft/s}} = 7 \text{ seconds}
+   \]
+
+Thus, it will take 7 seconds for the cheetah to catch up to the gazelle.
+</reasoning>
+<answer>7</answer>

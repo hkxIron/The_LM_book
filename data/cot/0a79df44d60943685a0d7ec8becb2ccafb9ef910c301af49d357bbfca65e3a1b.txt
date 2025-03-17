@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the starting point**:
+   - The problem states that Tabitha was 15 years old when she added her second hair color. This means that she had 1 hair color before she turned 15.
+
+2. **Establishing the timeline**:
+   - If she started adding colors at 15, and she adds a new color every year, we can determine that:
+     - At age 15: 2 colors (the second color was added that year)
+     - At age 16: 3 colors
+     - At age 17: 4 colors
+     - At age 18: 5 colors
+     - At age 19: 6 colors
+     - At age 20: 7 colors
+     - At age 21: 8 colors
+
+3. **Looking ahead**:
+   - The problem states that in three years, she will have 8 colors. If she will have 8 colors in three years, we can infer that she is currently in a year before that point where she has 5 colors. 
+
+4. **Determining her current age**:
+   - Since she has 5 colors currently and she will have 8 colors in three years, we can find her current age:
+     - She will be 21 years old in three years.
+
+5. **Final calculation**:
+   - To find her current age, we subtract 3 years from 21:
+     - Current age = 21 - 3 = 18.
+
+Therefore, Tabitha is currently 18 years old.
+</reasoning>
+<answer>18</answer>

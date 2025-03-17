@@ -1,0 +1,21 @@
+<reasoning>
+To find out how much John makes in a week, we need to follow these steps:
+
+1. **Determine how many days he streams per week**: John takes 3 days off per week, and there are 7 days in a week. So, the number of days he streams can be calculated as:
+   \[
+   7 \text{ days} - 3 \text{ days off} = 4 \text{ days of streaming}
+   \]
+
+2. **Calculate the total hours he streams each week**: Since he streams for 4 hours each day he works, we can find the total hours he streams in a week by multiplying the number of days he streams by the number of hours he streams each day:
+   \[
+   4 \text{ days} \times 4 \text{ hours/day} = 16 \text{ hours}
+   \]
+
+3. **Calculate his earnings for the week**: John makes $10 for each hour he streams. To find out how much he makes in total per week, we multiply the total hours he streams by his hourly rate:
+   \[
+   16 \text{ hours} \times 10 \text{ dollars/hour} = 160 \text{ dollars}
+   \]
+
+Therefore, after calculating John’s weekly earnings based on his streaming schedule and hourly rate, we find that John makes $160 a week.
+</reasoning>
+<answer>160</answer>

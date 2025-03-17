@@ -1,0 +1,49 @@
+<reasoning>
+To determine how many boxes of products Steven can ship to his customer in each delivery, we can follow these steps:
+
+1. **Calculate the total weight capacity of all trucks.** 
+   - Each truck can carry a maximum load of 2,000 pounds.
+   - Steven has 3 trucks, so the total weight capacity for all trucks combined is:
+   \[
+   \text{Total Capacity} = 3 \text{ trucks} \times 2000 \text{ pounds/truck} = 6000 \text{ pounds}
+   \]
+
+2. **Define the weight of the boxes.**
+   - We know that there are two types of boxes:
+     - Lighter boxes weighing 10 pounds each.
+     - Heavier boxes weighing 40 pounds each.
+   - Let \( x \) be the number of lighter boxes and \( y \) be the number of heavier boxes.
+
+3. **Set up the equation for total weight.**
+   - Since the customer has ordered equal quantities of both products, we have:
+   \[
+   x = y
+   \]
+   - The total weight equation for the boxes can be expressed as:
+   \[
+   10x + 40y \leq 6000
+   \]
+   - Since \( x = y \), we can substitute \( y \) with \( x \):
+   \[
+   10x + 40x \leq 6000
+   \]
+   \[
+   50x \leq 6000
+   \]
+
+4. **Solve for \( x \).**
+   - Dividing both sides of the equation by 50 gives:
+   \[
+   x \leq \frac{6000}{50} = 120
+   \]
+   - This means that Steven can ship a maximum of 120 boxes of the lighter product (10 pounds each) and 120 boxes of the heavier product (40 pounds each).
+
+5. **Calculate the total number of boxes that can be shipped.**
+   - Since \( x = y \), the total number of boxes shipped is:
+   \[
+   \text{Total Boxes} = x + y = 120 + 120 = 240
+   \]
+
+Therefore, Steven can ship a total of 240 boxes of products to his customer in each delivery.
+</reasoning>
+<answer>240</answer>

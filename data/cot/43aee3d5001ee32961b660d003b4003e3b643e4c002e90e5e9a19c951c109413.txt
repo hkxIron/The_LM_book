@@ -1,0 +1,47 @@
+<reasoning>
+To calculate Mary's garbage bill, we will go step by step.
+
+1. **Calculate the weekly cost for trash and recycling bins:**
+   - Mary has 2 trash bins, and the charge per trash bin per week is $10. 
+   - Therefore, the weekly cost for trash bins is:
+     \[
+     2 \text{ trash bins} \times 10 \text{ dollars/trash bin} = 20 \text{ dollars/week}
+     \]
+
+   - Mary also has 1 recycling bin, and the charge per recycling bin per week is $5.
+   - Therefore, the weekly cost for recycling bins is:
+     \[
+     1 \text{ recycling bin} \times 5 \text{ dollars/recycling bin} = 5 \text{ dollars/week}
+     \]
+
+2. **Calculate the total weekly cost:**
+   - Now we add the weekly costs of trash bins and recycling bins:
+     \[
+     20 \text{ dollars/week (trash)} + 5 \text{ dollars/week (recycling)} = 25 \text{ dollars/week}
+     \]
+
+3. **Calculate the monthly cost for four weeks:**
+   - Since the month has exactly four weeks, we multiply the weekly cost by 4:
+     \[
+     25 \text{ dollars/week} \times 4 \text{ weeks} = 100 \text{ dollars/month}
+     \]
+
+4. **Apply the 18% discount:**
+   - To find the discount amount, we calculate 18% of the total monthly cost:
+     \[
+     18\% \text{ of } 100 \text{ dollars} = 0.18 \times 100 = 18 \text{ dollars}
+     \]
+   - Now we subtract the discount from the total monthly cost:
+     \[
+     100 \text{ dollars} - 18 \text{ dollars} = 82 \text{ dollars}
+     \]
+
+5. **Add the fine for inappropriate items:**
+   - Finally, we need to add the $20 fine for putting inappropriate items in the recycling bin to the discounted bill:
+     \[
+     82 \text{ dollars} + 20 \text{ dollars} = 102 \text{ dollars}
+     \]
+
+Therefore, the total amount of Mary's garbage bill is:
+</reasoning>
+<answer>102</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much each slice of bread costs in cents, let's break down the problem step by step.
+
+1. **Calculate the total cost of the loaves of bread:**
+   Tim pays with 2 $20 bills, which totals:
+   \[
+   2 \times 20 = 40 \text{ dollars}
+   \]
+   He receives $16 in change. This means the cost of the bread is:
+   \[
+   40 - 16 = 24 \text{ dollars}
+   \]
+
+2. **Determine the total number of slices:**
+   Each loaf of bread has 20 slices, and Tim buys 3 loaves. Therefore, the total number of slices is:
+   \[
+   3 \times 20 = 60 \text{ slices}
+   \]
+
+3. **Calculate the cost per slice:**
+   Now, we need to find the cost per slice in dollars. The total cost of the loaves is $24, and we have 60 slices, so the cost per slice is:
+   \[
+   \frac{24 \text{ dollars}}{60 \text{ slices}} = 0.4 \text{ dollars per slice}
+   \]
+
+4. **Convert the cost per slice to cents:**
+   Since there are 100 cents in a dollar, we convert the cost per slice from dollars to cents:
+   \[
+   0.4 \text{ dollars} \times 100 = 40 \text{ cents}
+   \]
+
+Thus, the cost of each slice of bread in cents is 40.
+</reasoning>
+<answer>40</answer>

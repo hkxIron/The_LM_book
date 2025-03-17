@@ -1,0 +1,21 @@
+<reasoning>
+To determine how much Tom will pay for hiring an assistant to help him cross the lake back and forth, we can break the problem down into several steps.
+
+1. **Calculate the total time for the round trip**: 
+   - Tom needs to cross the lake in one direction, which takes 4 hours. 
+   - Since he will cross back as well, we need to double this time.
+   - So, the total time for the round trip is:
+     \[
+     4 \text{ hours (going)} + 4 \text{ hours (returning)} = 8 \text{ hours}
+     \]
+
+2. **Calculate the cost of hiring the assistant**: 
+   - The cost to hire the assistant is $10 per hour.
+   - Since Tom needs the assistant for 8 hours in total, we multiply the hourly rate by the total hours:
+     \[
+     10 \text{ dollars/hour} \times 8 \text{ hours} = 80 \text{ dollars}
+     \]
+
+Therefore, Tom will pay a total of $80 for the assistant to help him cross the lake back and forth.
+</reasoning>
+<answer>80</answer>

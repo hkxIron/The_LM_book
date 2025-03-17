@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **First Day:**
+   - The captain steers his ship 100 miles north. 
+   - So, the distance traveled on the first day is 100 miles.
+
+2. **Second Day:**
+   - On the second day, he sails east three times as far as the distance covered on the first day. 
+   - Since he traveled 100 miles north on the first day, on the second day he travels: 
+     \(3 \times 100 = 300\) miles east.
+
+3. **Third Day:**
+   - On the third day, the ship travels further east for 110 more miles than the distance covered on the second day.
+   - The distance covered on the second day is 300 miles, so on the third day he travels: 
+     \(300 + 110 = 410\) miles east.
+
+4. **Total Distance:**
+   - Now, we can calculate the total distance traveled over the three days:
+   - First day: 100 miles (north)
+   - Second day: 300 miles (east)
+   - Third day: 410 miles (east)
+   - To find the total distance, we add these distances together:
+   \[
+   100 + 300 + 410 = 810 \text{ miles}
+   \]
+
+Therefore, the total distance the ship has traveled in the three days is 810 miles.
+</reasoning>
+<answer>810</answer>

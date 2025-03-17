@@ -1,0 +1,39 @@
+<reasoning>
+To determine how much Sally and Bob will save for their trip after working for a year, we will follow these steps:
+
+1. **Calculate Sally's total earnings for the year**: 
+   - Sally earns $6 per day. 
+   - There are 365 days in a year.
+   - The total earnings for Sally can be calculated as:
+     \[
+     \text{Sally's Total Earnings} = \text{Daily Earnings} \times \text{Number of Days} = 6 \, \text{dollars/day} \times 365 \, \text{days} = 2190 \, \text{dollars}
+     \]
+
+2. **Calculate Bob's total earnings for the year**:
+   - Bob earns $4 per day.
+   - Again, we will multiply this by the number of days in a year:
+     \[
+     \text{Bob's Total Earnings} = \text{Daily Earnings} \times \text{Number of Days} = 4 \, \text{dollars/day} \times 365 \, \text{days} = 1460 \, \text{dollars}
+     \]
+
+3. **Calculate the amount saved by Sally for the trip**:
+   - Since Sally saves half of her total earnings for the trip, we calculate:
+     \[
+     \text{Sally's Savings} = \frac{1}{2} \times \text{Sally's Total Earnings} = \frac{1}{2} \times 2190 = 1095 \, \text{dollars}
+     \]
+
+4. **Calculate the amount saved by Bob for the trip**:
+   - Similarly, Bob saves half of his total earnings:
+     \[
+     \text{Bob's Savings} = \frac{1}{2} \times \text{Bob's Total Earnings} = \frac{1}{2} \times 1460 = 730 \, \text{dollars}
+     \]
+
+5. **Calculate the total savings for both Sally and Bob**:
+   - Finally, we add their savings together for the total amount saved for the trip:
+     \[
+     \text{Total Savings} = \text{Sally's Savings} + \text{Bob's Savings} = 1095 + 730 = 1825 \, \text{dollars}
+     \]
+
+Putting this all together, Sally and Bob will collectively save $1825 for their trip by the end of the year.
+</reasoning>
+<answer>1825</answer>

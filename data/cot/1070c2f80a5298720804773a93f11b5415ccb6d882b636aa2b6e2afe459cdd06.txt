@@ -1,0 +1,48 @@
+<reasoning>
+Let's denote Sam's weight as \( S \) (in pounds). 
+
+According to the problem:
+1. Tyler weighs 25 pounds more than Sam, so we can express Tyler's weight as:
+   \[
+   T = S + 25
+   \]
+   where \( T \) is Tyler's weight.
+
+2. The problem states that Peter weighs half as much as Tyler. We can express Peter's weight as:
+   \[
+   P = \frac{T}{2}
+   \]
+   where \( P \) is Peter's weight.
+
+3. We are given that Peter weighs 65 pounds, so we can set up the equation:
+   \[
+   P = 65
+   \]
+
+Now, we can substitute the expression for Tyler's weight into the equation for Peter's weight:
+\[
+65 = \frac{T}{2}
+\]
+
+To solve for \( T \), we multiply both sides of the equation by 2:
+\[
+T = 65 \times 2 = 130
+\]
+
+Now that we know Tyler's weight is 130 pounds, we can go back to our expression for Tyler's weight and find Sam's weight:
+\[
+T = S + 25
+\]
+Substituting 130 for \( T \):
+\[
+130 = S + 25
+\]
+
+To isolate \( S \), we subtract 25 from both sides:
+\[
+S = 130 - 25 = 105
+\]
+
+Now we have found Sam's weight. Therefore, Sam weighs:
+</reasoning>
+<answer>105</answer>

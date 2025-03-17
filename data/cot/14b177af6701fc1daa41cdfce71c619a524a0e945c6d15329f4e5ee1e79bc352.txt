@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many people are in the band, we need to calculate how many players from each instrument got in and then sum these numbers.
+
+1. **Flutes**: 80% of the 20 flutes got in.
+   - Calculation: \( 0.80 \times 20 \)
+   - This means: \( 16 \) flutes got in.
+
+2. **Clarinets**: Half of the 30 clarinets got in.
+   - Calculation: \( \frac{1}{2} \times 30 \)
+   - This means: \( 15 \) clarinets got in.
+
+3. **Trumpets**: 1/3 of the 60 trumpets got in.
+   - Calculation: \( \frac{1}{3} \times 60 \)
+   - This means: \( 20 \) trumpets got in.
+
+4. **Pianists**: 1/10th of the 20 pianists got in.
+   - Calculation: \( \frac{1}{10} \times 20 \)
+   - This means: \( 2 \) pianists got in.
+
+Now, let's sum all the players who got in:
+
+- Total in the band = Flutes + Clarinets + Trumpets + Pianists
+- Total = \( 16 + 15 + 20 + 2 \)
+
+Adding these numbers together:
+- \( 16 + 15 = 31 \)
+- \( 31 + 20 = 51 \)
+- \( 51 + 2 = 53 \)
+
+Therefore, the total number of people in the band is \( 53 \).
+</reasoning>
+<answer>53</answer>

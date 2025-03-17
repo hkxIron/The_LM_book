@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of blue and red marbles Pete has.**
+   - Pete has a total of 10 marbles.
+   - 40% of these marbles are blue. To find out how many blue marbles that is, we calculate:
+     \[
+     \text{Number of blue marbles} = 40\% \text{ of } 10 = 0.4 \times 10 = 4
+     \]
+   - The rest are red marbles. Since there are 10 marbles in total and 4 are blue, the number of red marbles is:
+     \[
+     \text{Number of red marbles} = 10 - 4 = 6
+     \]
+
+2. **Understand the trading process.**
+   - Pete's friend will trade him 2 blue marbles for every red marble he gives away. 
+   - If Pete keeps 1 red marble, then he will give away:
+     \[
+     \text{Red marbles given away} = \text{Total red marbles} - \text{Red marbles kept} = 6 - 1 = 5
+     \]
+
+3. **Calculate how many blue marbles Pete receives from the trade.**
+   - For each red marble traded, Pete receives 2 blue marbles. So, for 5 red marbles, he will receive:
+     \[
+     \text{Blue marbles received} = 5 \times 2 = 10
+     \]
+
+4. **Calculate the total number of marbles Pete has after the trade.**
+   - Before the trade, Pete had 10 marbles (4 blue and 6 red).
+   - After trading, he will have:
+     - Initially, he has 4 blue marbles.
+     - After the trade, he receives 10 more blue marbles:
+     \[
+     \text{Total blue marbles after trade} = 4 + 10 = 14
+     \]
+   - He is keeping 1 red marble, and since he started with 6 red marbles and gave away 5, he has:
+     \[
+     \text{Total red marbles after trade} = 1
+     \]
+   - Therefore, the total number of marbles Pete has after the trade is:
+     \[
+     \text{Total marbles} = \text{Total blue marbles} + \text{Total red marbles} = 14 + 1 = 15
+     \]
+</reasoning>
+<answer>15</answer>

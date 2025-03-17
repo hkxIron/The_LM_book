@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the lifting capacity**:
+   We know that it takes 5 people to lift one car. Therefore, to lift multiple cars, we can multiply the number of cars by the number of people needed for one car.
+
+2. **Calculating the number of people needed to lift 6 cars**:
+   Since it takes 5 people to lift one car, to lift 6 cars, we calculate:
+   \[
+   6 \text{ cars} \times 5 \text{ people/car} = 30 \text{ people}
+   \]
+   This means we need 30 people to lift 6 cars.
+
+3. **Understanding how many people are needed for a truck**:
+   The problem states that it takes twice as many people to lift a truck compared to a car. Since it takes 5 people to lift one car, it will take:
+   \[
+   2 \times 5 \text{ people} = 10 \text{ people}
+   \]
+   to lift one truck.
+
+4. **Calculating the number of people needed to lift 3 trucks**:
+   Now we need to find out how many people are needed for 3 trucks. We multiply the number of trucks by the number of people needed for one truck:
+   \[
+   3 \text{ trucks} \times 10 \text{ people/truck} = 30 \text{ people}
+   \]
+   Thus, we need 30 people to lift 3 trucks.
+
+5. **Combining the requirements**:
+   Finally, we add the number of people needed for the cars and the trucks:
+   \[
+   30 \text{ people (for cars)} + 30 \text{ people (for trucks)} = 60 \text{ people}
+   \]
+   Therefore, in total, we need 60 people to lift 6 cars and 3 trucks.
+</reasoning>
+<answer>60</answer>

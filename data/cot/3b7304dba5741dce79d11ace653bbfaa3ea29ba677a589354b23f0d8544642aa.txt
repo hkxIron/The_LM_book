@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Amount of Candy Bars**: Amanda started with 7 candy bars.
+
+2. **Candy Bars Given to Sister**: She gave 3 candy bars to her sister. 
+   - After giving away 3, the number of candy bars Amanda has left is:
+     \[
+     7 - 3 = 4
+     \]
+
+3. **Prize Money and New Candy Bars**: The next day, Amanda won some prize money and bought 30 more candy bars. 
+   - Now, the total number of candy bars she has is:
+     \[
+     4 + 30 = 34
+     \]
+
+4. **Candy Bars Given to Sister Again**: Amanda then gives her sister 4 times as many candy bars as she did the first time. Since she initially gave 3 candy bars, we calculate:
+   \[
+   4 \times 3 = 12
+   \]
+   - Therefore, Amanda gives her sister 12 candy bars this time.
+
+5. **Calculating Candy Bars Left for Amanda**: Now, we need to find out how many candy bars Amanda has left after giving 12 to her sister:
+   \[
+   34 - 12 = 22
+   \]
+
+Thus, Amanda keeps 22 candy bars for herself altogether.
+</reasoning>
+<answer>22</answer>

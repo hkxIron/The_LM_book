@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much a customer will pay for 3 pairs of jeans with a 10% discount on every two pairs, we need to follow these steps:
+
+1. **Determine the original price for 3 pairs of jeans**:
+   Each pair of jeans costs $40. Therefore, the total price for 3 pairs without any discount is:
+   \[
+   3 \text{ pairs} \times 40 \text{ dollars/pair} = 120 \text{ dollars}
+   \]
+
+2. **Calculate the discount on the first two pairs**:
+   A 10% discount is applied to the first two pairs. The cost of two pairs is:
+   \[
+   2 \text{ pairs} \times 40 \text{ dollars/pair} = 80 \text{ dollars}
+   \]
+   Now, we calculate the 10% discount on this amount:
+   \[
+   10\% \text{ of } 80 \text{ dollars} = 0.10 \times 80 = 8 \text{ dollars}
+   \]
+   Therefore, the price after the discount for the first two pairs is:
+   \[
+   80 \text{ dollars} - 8 \text{ dollars} = 72 \text{ dollars}
+   \]
+
+3. **Add the cost of the third pair without a discount**:
+   The third pair does not receive any discount, so it still costs $40. We add this to the discounted price of the first two pairs:
+   \[
+   72 \text{ dollars} + 40 \text{ dollars} = 112 \text{ dollars}
+   \]
+
+4. **Final calculation**:
+   The total amount the customer has to pay for 3 pairs of jeans, considering the discount on the first two pairs, is $112.
+
+Therefore, the total amount the customer will pay for 3 pairs of jeans is:
+</reasoning>
+<answer>112</answer>

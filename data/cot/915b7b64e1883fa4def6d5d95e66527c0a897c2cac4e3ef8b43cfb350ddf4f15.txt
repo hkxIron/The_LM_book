@@ -1,0 +1,45 @@
+<reasoning>
+To find the internal volume of the box, we first need to determine the internal dimensions after accounting for the thickness of the walls.
+
+1. **Identify the external dimensions**: The external dimensions of the box are given as 26 inches by 26 inches by 14 inches.
+
+2. **Calculate the internal dimensions**: The walls are 1 inch thick on each side. This means we need to subtract twice the thickness (because there are two sides for each dimension) from each external dimension:
+   - For the length: 
+     \[
+     \text{Internal Length} = 26 \text{ inches} - 2 \times 1 \text{ inch} = 26 \text{ inches} - 2 \text{ inches} = 24 \text{ inches}
+     \]
+   - For the width: 
+     \[
+     \text{Internal Width} = 26 \text{ inches} - 2 \times 1 \text{ inch} = 26 \text{ inches} - 2 \text{ inches} = 24 \text{ inches}
+     \]
+   - For the height: 
+     \[
+     \text{Internal Height} = 14 \text{ inches} - 2 \times 1 \text{ inch} = 14 \text{ inches} - 2 \text{ inches} = 12 \text{ inches}
+     \]
+
+3. **Calculate the internal volume in cubic inches**: The internal volume is found by multiplying the internal dimensions together:
+   \[
+   \text{Internal Volume} = \text{Internal Length} \times \text{Internal Width} \times \text{Internal Height} 
+   \]
+   \[
+   = 24 \text{ inches} \times 24 \text{ inches} \times 12 \text{ inches}
+   \]
+
+4. **Do the multiplication**:
+   - First, multiply the length and width:
+     \[
+     24 \times 24 = 576 \text{ square inches}
+     \]
+   - Next, multiply the result by the height:
+     \[
+     576 \times 12 = 6912 \text{ cubic inches}
+     \]
+
+5. **Convert cubic inches to cubic feet**: There are 12 inches in a foot, so to convert cubic inches to cubic feet, we divide by \(12^3\) (which is 1728):
+   \[
+   \text{Volume in cubic feet} = \frac{6912 \text{ cubic inches}}{1728 \text{ cubic inches per cubic foot}} = 4 \text{ cubic feet}
+   \]
+
+Therefore, the internal volume of the box is 4 cubic feet.
+</reasoning>
+<answer>4</answer>

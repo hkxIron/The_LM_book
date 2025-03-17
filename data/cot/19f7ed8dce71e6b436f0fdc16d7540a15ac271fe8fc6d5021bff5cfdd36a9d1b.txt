@@ -1,0 +1,23 @@
+<reasoning>
+To find out how much Mary Anne spends on sparkling water every year, we need to follow these steps:
+
+1. **Calculate the amount of sparkling water she consumes in one night**: 
+   Mary Anne drinks 1/5 of a bottle each night.
+
+2. **Determine how many bottles she drinks in a year**:
+   Since she drinks 1/5 of a bottle each night, we can calculate how many full bottles she consumes in a year by first calculating how many nights there are in a year, which is 365 nights. 
+
+   The number of bottles she drinks in a year is:
+   \[
+   \text{Number of bottles per year} = 365 \text{ nights} \times \frac{1}{5} \text{ bottles per night} = \frac{365}{5} = 73 \text{ bottles}
+   \]
+
+3. **Calculate the cost for the bottles she drinks in a year**:
+   Each bottle costs $2.00. Therefore, the cost for 73 bottles is:
+   \[
+   \text{Total cost} = 73 \text{ bottles} \times 2.00 \text{ dollars per bottle} = 146 \text{ dollars}
+   \]
+
+By following these steps, we have determined that Mary Anne spends $146 on sparkling water each year.
+</reasoning>
+<answer>146</answer>

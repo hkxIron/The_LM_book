@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we need to determine how far Rodney and Todd need to row before reaching a point where the river is 80 yards wide.
+
+1. **Identify the initial and final widths of the river:**
+   - The initial width of the river at one end is 50 yards.
+   - The final width we want to reach is 80 yards.
+
+2. **Calculate the increase in width:**
+   - The increase in width from 50 yards to 80 yards is:
+     \[
+     80 \text{ yards} - 50 \text{ yards} = 30 \text{ yards}
+     \]
+
+3. **Understand the uniform increase in width:**
+   - The problem states that the river's width increases uniformly by 2 yards every 10 meters. We need to convert this increase into yards per meter for ease of calculation:
+   \[
+   2 \text{ yards} \text{ every } 10 \text{ meters} = \frac{2 \text{ yards}}{10 \text{ meters}} = 0.2 \text{ yards per meter}
+   \]
+
+4. **Determine how far they need to travel to achieve the increase in width:**
+   - To find out how many meters they need to travel to see an increase of 30 yards in width, we can use the uniform rate of increase:
+   \[
+   \text{Distance in meters} = \frac{\text{Increase in yards}}{\text{Rate of increase in yards per meter}} = \frac{30 \text{ yards}}{0.2 \text{ yards per meter}} = 150 \text{ meters}
+   \]
+
+5. **Calculate the time taken to travel this distance at their rowing speed:**
+   - The rowing speed is given as 5 m/s. We can find the time taken to travel 150 meters using the formula:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{150 \text{ meters}}{5 \text{ m/s}} = 30 \text{ seconds}
+   \]
+
+Thus, the time it will take them to get to the point where the river is 80 yards wide is 30 seconds.
+</reasoning>
+<answer>30</answer>

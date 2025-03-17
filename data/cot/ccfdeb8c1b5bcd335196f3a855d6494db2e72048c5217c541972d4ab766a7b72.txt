@@ -1,0 +1,27 @@
+<reasoning>
+First, let's determine how much Flora needs to drink daily to meet Dr. Juan's requirement of 105 gallons of milk in 3 weeks.
+
+1. **Calculate the total number of days in 3 weeks:**
+   Since there are 7 days in a week, we multiply the number of weeks by the number of days per week:
+   \[
+   3 \text{ weeks} \times 7 \text{ days/week} = 21 \text{ days}
+   \]
+
+2. **Find out how many gallons she needs to drink each day:**
+   To find out how many gallons Flora needs to drink per day, we divide the total amount of milk she needs by the number of days:
+   \[
+   \frac{105 \text{ gallons}}{21 \text{ days}} = 5 \text{ gallons/day}
+   \]
+
+3. **Determine how much Flora plans to drink daily:**
+   Flora plans to drink 3 gallons of milk each day.
+
+4. **Calculate how many more gallons she needs to drink daily:**
+   To find out how many more gallons she needs to drink compared to her plan, we subtract the amount she plans to drink from the amount she needs to drink:
+   \[
+   5 \text{ gallons/day} - 3 \text{ gallons/day} = 2 \text{ gallons/day}
+   \]
+
+Therefore, Flora needs to drink 2 more gallons of milk each day to meet Dr. Juan's requirement.
+</reasoning>
+<answer>2</answer>

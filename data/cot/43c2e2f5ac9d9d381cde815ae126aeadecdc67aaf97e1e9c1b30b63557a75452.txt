@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much fuel Mary used in total for the two weeks, we need to first calculate how much fuel she used last week, and then add that to the amount she used this week.
+
+1. **Calculate last week's fuel usage**: 
+   - We know that Mary used 15 gallons this week.
+   - Last week, she used 20% less than this week. 
+   - To find 20% of 15 gallons, we multiply 15 by 0.20:
+     \[
+     15 \times 0.20 = 3 \text{ gallons}
+     \]
+   - Now, we subtract this amount from 15 gallons to find out how much she used last week:
+     \[
+     15 - 3 = 12 \text{ gallons}
+     \]
+   So, Mary used 12 gallons last week.
+
+2. **Calculate total fuel usage for the two weeks**:
+   - Now that we know she used 15 gallons this week and 12 gallons last week, we can add these two amounts together:
+     \[
+     15 + 12 = 27 \text{ gallons}
+     \]
+
+Therefore, the total amount of fuel Mary used over the two weeks is 27 gallons.
+</reasoning>
+<answer>27</answer>

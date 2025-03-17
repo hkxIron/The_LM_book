@@ -1,0 +1,56 @@
+<reasoning>
+Let's break down the sales day by day.
+
+1. **Sales on Thursday**: The Meat Market sold 210 kg of ground beef.
+   \[
+   \text{Thursday sales} = 210 \text{ kg}
+   \]
+
+2. **Sales on Friday**: They sold twice the amount sold on Thursday. To find Friday's sales, we multiply Thursday's sales by 2.
+   \[
+   \text{Friday sales} = 2 \times 210 \text{ kg} = 420 \text{ kg}
+   \]
+
+3. **Sales on Saturday**: They sold 130 kg.
+   \[
+   \text{Saturday sales} = 130 \text{ kg}
+   \]
+
+4. **Sales on Sunday**: They sold half of what they sold on Saturday. To find Sunday’s sales, we divide Saturday’s sales by 2.
+   \[
+   \text{Sunday sales} = \frac{130 \text{ kg}}{2} = 65 \text{ kg}
+   \]
+
+Now, let's sum up all the sales from Thursday to Sunday to find the total sales for the four days.
+\[
+\text{Total sales} = \text{Thursday sales} + \text{Friday sales} + \text{Saturday sales} + \text{Sunday sales}
+\]
+\[
+\text{Total sales} = 210 \text{ kg} + 420 \text{ kg} + 130 \text{ kg} + 65 \text{ kg}
+\]
+
+Calculating that step by step:
+- First, add Thursday and Friday:
+  \[
+  210 + 420 = 630 \text{ kg}
+  \]
+- Next, add Saturday's sales:
+  \[
+  630 + 130 = 760 \text{ kg}
+  \]
+- Finally, add Sunday's sales:
+  \[
+  760 + 65 = 825 \text{ kg}
+  \]
+
+Now, we need to compare the total sales with their original plan of 500 kg. To find out how much they sold beyond their original plans, we subtract the planned amount from the total sales.
+\[
+\text{Excess sales} = \text{Total sales} - \text{Planned sales}
+\]
+\[
+\text{Excess sales} = 825 \text{ kg} - 500 \text{ kg} = 325 \text{ kg}
+\]
+
+Therefore, the Meat Market sold 325 kg beyond their original plans.
+</reasoning>
+<answer>325</answer>

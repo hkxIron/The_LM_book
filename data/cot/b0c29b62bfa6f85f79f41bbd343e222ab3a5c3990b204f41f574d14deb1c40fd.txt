@@ -1,0 +1,66 @@
+<reasoning>
+To solve the problem, we first need to determine how many goats and sheep Mr. Mathews has based on the given ratio and total number of animals.
+
+**Step 1: Determine the number of goats and sheep.**
+
+The ratio of goats to sheep is 5:7. This means that for every 5 goats, there are 7 sheep. We can represent the number of goats as 5x and the number of sheep as 7x, where x is a common factor.
+
+The total number of animals (goats + sheep) is given as 360. Therefore, we can set up the equation:
+
+\[ 
+5x + 7x = 360 
+\]
+
+**Step 2: Solve for x.**
+
+Combining the terms on the left side gives:
+
+\[ 
+12x = 360 
+\]
+
+To find x, we divide both sides by 12:
+
+\[ 
+x = \frac{360}{12} = 30 
+\]
+
+**Step 3: Calculate the number of goats and sheep.**
+
+Now that we have x, we can find the actual numbers:
+
+- Number of goats = \( 5x = 5 \times 30 = 150 \)
+- Number of sheep = \( 7x = 7 \times 30 = 210 \)
+
+**Step 4: Determine how many goats and sheep Mr. Mathews sells.**
+
+Mr. Mathews sells half of the goats:
+
+\[ 
+\text{Goats sold} = \frac{150}{2} = 75 
+\]
+
+He also sells two-thirds of the sheep:
+
+\[ 
+\text{Sheep sold} = \frac{2}{3} \times 210 = 140 
+\]
+
+**Step 5: Calculate the total income from the sales.**
+
+Now we calculate the income from selling the goats and sheep:
+
+- Income from goats = \( 75 \text{ goats} \times 40 \text{ dollars/goat} = 3000 \)
+- Income from sheep = \( 140 \text{ sheep} \times 30 \text{ dollars/sheep} = 4200 \)
+
+**Step 6: Find the total income.**
+
+We add the income from goats and sheep:
+
+\[ 
+\text{Total Income} = 3000 + 4200 = 7200 
+\]
+
+Therefore, Mr. Mathews makes a total of $7200 from the sale of the animals.
+</reasoning>
+<answer>7200</answer>

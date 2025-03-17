@@ -1,0 +1,21 @@
+<reasoning>
+To determine the cost of fresh water for a family of 6 for one day, I will follow these steps:
+
+1. **Calculate the daily water requirement for one person**: 
+   Each person needs 1/2 gallon of fresh water per day. 
+
+2. **Calculate the total water requirement for the family**: 
+   Since there are 6 people in the family, I will multiply the water requirement per person by the number of people in the family.
+   \[
+   \text{Total water for the family} = \text{Water per person} \times \text{Number of people} = \frac{1}{2} \text{ gallon} \times 6 = 3 \text{ gallons}
+   \]
+
+3. **Calculate the cost for the total water needed**: 
+   The cost to purify a gallon of fresh water is $1. Therefore, I will multiply the total gallons needed by the cost per gallon.
+   \[
+   \text{Total cost} = \text{Total gallons} \times \text{Cost per gallon} = 3 \text{ gallons} \times 1 \text{ dollar/gallon} = 3 \text{ dollars}
+   \]
+
+Therefore, the total cost for fresh water for the family of 6 for one day is $3.
+</reasoning>
+<answer>3</answer>

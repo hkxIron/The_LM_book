@@ -1,0 +1,19 @@
+<reasoning>
+To solve the problem step by step, we will calculate the total number of cookies baked by the church members.
+
+1. **Determine the number of cookies baked by one member**: Each member bakes 10 sheets of cookies, and each sheet contains 16 cookies. 
+   - So, we multiply the number of sheets by the number of cookies per sheet:
+   \[
+   \text{Cookies per member} = 10 \text{ sheets} \times 16 \text{ cookies/sheet} = 160 \text{ cookies}
+   \]
+
+2. **Determine the total number of cookies baked by all members**: Since there are 100 members, we need to multiply the number of cookies baked by one member by the total number of members:
+   \[
+   \text{Total cookies} = 100 \text{ members} \times 160 \text{ cookies/member} = 16000 \text{ cookies}
+   \]
+
+3. **Conclusion**: We have calculated the total number of cookies baked by all members of the church, which is 16000.
+
+Therefore, the total number of cookies baked by the church members is:
+</reasoning>
+<answer>16000</answer>

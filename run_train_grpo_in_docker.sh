@@ -21,6 +21,7 @@ img1="icr"
 img2=".m"
 img3="ice.cn"
 img4='wsw/large-lm:1.0.15-2'
+#img4='hkx/llm:1.0.1' # 自己的docker
 #img4='wsw/large-lm:1.0.15-4_vllm3' # 装了vllm的docker
 image="m${img1}.cloud${img2}ioff${img3}/${img4}"
 echo $image

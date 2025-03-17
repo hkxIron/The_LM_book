@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the number of buyers on the day before yesterday**: 
+   We know that there were 50 buyers on the day before yesterday.
+
+2. **Calculate the number of buyers yesterday**: 
+   The problem states that there were half the number of buyers yesterday as there were the day before. So, if there were 50 buyers the day before yesterday, yesterday's buyers would be calculated as follows:
+   \[
+   \text{Number of buyers yesterday} = \frac{50}{2} = 25
+   \]
+
+3. **Calculate the number of buyers today**: 
+   According to the problem, there are 40 more buyers today than there were yesterday. Therefore, we calculate the number of buyers today as follows:
+   \[
+   \text{Number of buyers today} = \text{Number of buyers yesterday} + 40 = 25 + 40 = 65
+   \]
+
+4. **Calculate the total number of buyers over the three days**: 
+   Now we can sum up the buyers from all three days:
+   \[
+   \text{Total buyers} = \text{Buyers day before yesterday} + \text{Buyers yesterday} + \text{Buyers today} = 50 + 25 + 65
+   \]
+   Performing the addition:
+   \[
+   50 + 25 = 75
+   \]
+   \[
+   75 + 65 = 140
+   \]
+
+Therefore, the total number of buyers who have visited the store over the three days is 140.
+</reasoning>
+<answer>140</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many students picked strawberries as their favorite fruit, we need to first determine how many students liked either oranges, pears, or apples.
+
+1. We begin by adding the number of students who liked oranges, pears, and apples:
+   - Number of students who liked oranges = 70
+   - Number of students who liked pears = 120
+   - Number of students who liked apples = 147
+
+   Now, we add these numbers together:
+   \[
+   70 + 120 + 147 = 337
+   \]
+   This total (337) represents the number of students who liked either oranges, pears, or apples.
+
+2. Next, we need to find out how many students liked strawberries. Since Sarah interviewed a total of 450 students, we can find the number of students who liked strawberries by subtracting the total number of students who liked oranges, pears, or apples from the total number of students interviewed:
+   \[
+   450 - 337 = 113
+   \]
+
+Thus, the number of students who picked strawberries as their favorite fruit is 113.
+</reasoning>
+<answer>113</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many shots Cyrus missed, we first need to calculate how many shots he made.
+
+1. **Calculate the number of successful shots:**
+   Cyrus made 80% of the shots he attempted. Since he attempted 20 shots, we can find the number of successful shots by multiplying the total attempts by the percentage made.
+
+   \[
+   \text{Successful shots} = 20 \text{ shots} \times 0.80 = 16 \text{ shots}
+   \]
+
+   Here, we multiply 20 by 0.80 (which is 80%) to find that Cyrus made 16 successful shots.
+
+2. **Calculate the number of missed shots:**
+   To find out how many shots he missed, we subtract the number of successful shots from the total attempted shots.
+
+   \[
+   \text{Missed shots} = \text{Total shots} - \text{Successful shots} = 20 \text{ shots} - 16 \text{ shots} = 4 \text{ shots}
+   \]
+
+   Therefore, we subtract the successful shots (16) from the total shots attempted (20) to find out how many shots he missed.
+
+In conclusion, Cyrus missed 4 shots in the game.
+</reasoning>
+<answer>4</answer>

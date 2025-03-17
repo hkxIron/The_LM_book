@@ -1,0 +1,36 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Find the total number of red jelly beans.**
+   We know that three-fourths of the jelly beans are red. Since there are 4,000 jelly beans in total, we can calculate the number of red jelly beans by multiplying the total number of jelly beans by three-fourths (3/4).
+
+   \[
+   \text{Number of red jelly beans} = \frac{3}{4} \times 4000
+   \]
+
+   To do the multiplication:
+
+   \[
+   \frac{3 \times 4000}{4} = \frac{12000}{4} = 3000
+   \]
+
+   So, there are 3,000 red jelly beans.
+
+2. **Find the number of coconut-flavored jelly beans.**
+   We are told that one quarter of the red jelly beans are coconut flavored. To find this number, we multiply the number of red jelly beans by one-fourth (1/4).
+
+   \[
+   \text{Number of coconut-flavored jelly beans} = \frac{1}{4} \times 3000
+   \]
+
+   Performing the multiplication:
+
+   \[
+   \frac{3000}{4} = 750
+   \]
+
+   Therefore, there are 750 coconut-flavored jelly beans.
+
+Putting it all together, we have determined that the number of jelly beans that are coconut flavored is 750.
+</reasoning>
+<answer>750</answer>

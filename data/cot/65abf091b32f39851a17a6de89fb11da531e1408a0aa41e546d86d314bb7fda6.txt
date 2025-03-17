@@ -1,0 +1,41 @@
+<reasoning>
+Let's start by defining the variables based on the problem statement.
+
+1. Let \( x \) be the number of horses that Minnie mounts per day.
+2. According to the problem, Mickey mounts six less than twice as many horses per day as Minnie. This can be expressed as:
+   \[
+   \text{Horses mounted by Mickey per day} = 2x - 6
+   \]
+
+3. It is also stated that Minnie mounts three more horses per day than there are days in a week. Since there are 7 days in a week, we can write:
+   \[
+   x = 7 + 3
+   \]
+   which simplifies to:
+   \[
+   x = 10
+   \]
+   So, Minnie mounts 10 horses per day.
+
+4. Now we can find out how many horses Mickey mounts per day:
+   \[
+   \text{Horses mounted by Mickey per day} = 2(10) - 6
+   \]
+   Let's calculate this step:
+   \[
+   = 20 - 6 = 14
+   \]
+   Therefore, Mickey mounts 14 horses per day.
+
+5. To find out how many horses Mickey mounts per week, we need to multiply the number of horses he mounts per day by the number of days in a week:
+   \[
+   \text{Horses mounted by Mickey per week} = 14 \times 7
+   \]
+   Now let's calculate this:
+   \[
+   = 98
+   \]
+
+Thus, Mickey mounts 98 horses per week.
+</reasoning>
+<answer>98</answer>

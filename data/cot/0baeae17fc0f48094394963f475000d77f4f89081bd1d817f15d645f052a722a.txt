@@ -1,0 +1,42 @@
+<reasoning>
+To find the number of pairs of purple shoes in the warehouse, we will follow these steps:
+
+1. **Identify the total number of shoes and the number of blue shoes.**
+   We know from the problem that there are 1250 pairs of shoes in total and 540 pairs are blue.
+
+2. **Calculate the number of shoes that are either green or purple.**
+   To find this, we subtract the number of blue shoes from the total number of shoes:
+   \[
+   \text{Number of green and purple shoes} = \text{Total shoes} - \text{Blue shoes}
+   \]
+   \[
+   = 1250 - 540 = 710
+   \]
+
+3. **Understand the relationship between green and purple shoes.**
+   The problem states that the number of green shoes is equal to the number of purple shoes. Let's denote the number of green shoes as \( g \) and the number of purple shoes as \( p \). According to the problem:
+   \[
+   g = p
+   \]
+
+4. **Set up an equation using the total for green and purple shoes.**
+   Since \( g \) and \( p \) are equal, we can express both in terms of one variable. If we let \( g = p = x \), then:
+   \[
+   g + p = 710 \implies x + x = 710 \implies 2x = 710
+   \]
+
+5. **Solve for \( x \).**
+   Now, we divide both sides of the equation by 2 to find \( x \):
+   \[
+   x = \frac{710}{2} = 355
+   \]
+
+6. **Identify the number of purple shoes.**
+   Since \( p = x \), we have:
+   \[
+   p = 355
+   \]
+
+Therefore, the number of pairs of purple shoes in the warehouse is 355.
+</reasoning>
+<answer>355</answer>

@@ -1,0 +1,66 @@
+<reasoning>
+To find the total number of points scored by both Mark's basketball team and their opponents, we will first calculate the points scored by Mark's team, then calculate the points scored by the opponents, and finally add both totals together.
+
+### Step 1: Calculate points scored by Mark's team
+- **2-pointers**: Mark's team scores 25 2-pointers. Each 2-pointer is worth 2 points.
+  \[
+  \text{Points from 2-pointers} = 25 \times 2 = 50 \text{ points}
+  \]
+
+- **3-pointers**: Mark's team scores 8 3-pointers. Each 3-pointer is worth 3 points.
+  \[
+  \text{Points from 3-pointers} = 8 \times 3 = 24 \text{ points}
+  \]
+
+- **Free throws**: Mark's team scores 10 free throws. Each free throw is worth 1 point.
+  \[
+  \text{Points from free throws} = 10 \times 1 = 10 \text{ points}
+  \]
+
+Now, we sum the points scored by Mark's team:
+\[
+\text{Total points by Mark's team} = 50 + 24 + 10 = 84 \text{ points}
+\]
+
+### Step 2: Calculate points scored by the opponents
+- The opponents score double the number of 2-pointers scored by Mark's team:
+  \[
+  \text{Opponent's 2-pointers} = 2 \times 25 = 50 \text{ 2-pointers}
+  \]
+  Points from opponents' 2-pointers:
+  \[
+  \text{Points from opponents' 2-pointers} = 50 \times 2 = 100 \text{ points}
+  \]
+
+- The opponents score half the number of 3-pointers scored by Mark's team:
+  \[
+  \text{Opponent's 3-pointers} = \frac{8}{2} = 4 \text{ 3-pointers}
+  \]
+  Points from opponents' 3-pointers:
+  \[
+  \text{Points from opponents' 3-pointers} = 4 \times 3 = 12 \text{ points}
+  \]
+
+- The opponents score half the number of free throws scored by Mark's team:
+  \[
+  \text{Opponent's free throws} = \frac{10}{2} = 5 \text{ free throws}
+  \]
+  Points from opponents' free throws:
+  \[
+  \text{Points from opponents' free throws} = 5 \times 1 = 5 \text{ points}
+  \]
+
+Now, we sum the points scored by the opponents:
+\[
+\text{Total points by opponents} = 100 + 12 + 5 = 117 \text{ points}
+\]
+
+### Step 3: Calculate the total points scored by both teams
+Now we add the total points scored by Mark's team and the opponents:
+\[
+\text{Total points scored by both teams} = 84 + 117 = 201 \text{ points}
+\]
+
+Therefore, the total number of points scored by both teams added together is:
+</reasoning>
+<answer>201</answer>

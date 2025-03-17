@@ -1,0 +1,46 @@
+<reasoning>
+To solve this problem, we first need to determine how much money Bob and Johnny made from the bags of leaves they raked on Monday and Tuesday.
+
+1. **Calculate earnings from Monday:**
+   - On Monday, they raked 5 bags of leaves.
+   - They charge $4 per bag.
+   - Therefore, the earnings for Monday can be calculated as follows:
+     \[
+     \text{Earnings on Monday} = \text{Number of bags} \times \text{Price per bag} = 5 \times 4 = 20
+     \]
+   - So, they earned $20 on Monday.
+
+2. **Calculate earnings from Tuesday:**
+   - On Tuesday, they raked 3 bags of leaves.
+   - Again, they charge $4 per bag.
+   - The earnings for Tuesday can be calculated as follows:
+     \[
+     \text{Earnings on Tuesday} = \text{Number of bags} \times \text{Price per bag} = 3 \times 4 = 12
+     \]
+   - So, they earned $12 on Tuesday.
+
+3. **Calculate total earnings from Monday and Tuesday:**
+   - Now we need to find the total earnings from both days:
+     \[
+     \text{Total earnings from Monday and Tuesday} = \text{Earnings on Monday} + \text{Earnings on Tuesday} = 20 + 12 = 32
+     \]
+   - Therefore, they earned $32 from Monday and Tuesday combined.
+
+4. **Determine earnings on Wednesday:**
+   - We know that by the end of Wednesday, they counted a total of $68.
+   - To find out how much they earned on Wednesday, we subtract the total earnings from the first two days from the total amount they have:
+     \[
+     \text{Earnings on Wednesday} = \text{Total amount} - \text{Total earnings from Monday and Tuesday} = 68 - 32 = 36
+     \]
+   - So, they earned $36 on Wednesday.
+
+5. **Calculate the number of bags raked on Wednesday:**
+   - Since they charge $4 per bag, we can find the number of bags they raked on Wednesday by dividing their earnings from Wednesday by the price per bag:
+     \[
+     \text{Number of bags raked on Wednesday} = \frac{\text{Earnings on Wednesday}}{\text{Price per bag}} = \frac{36}{4} = 9
+     \]
+   - Therefore, they raked 9 bags of leaves on Wednesday.
+
+In conclusion, Bob and Johnny raked a total of 9 bags of leaves on Wednesday.
+</reasoning>
+<answer>9</answer>

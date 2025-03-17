@@ -1,0 +1,36 @@
+<reasoning>
+To find the total number of oranges in all the buckets, we will first determine the number of oranges in each bucket step by step.
+
+1. **First Bucket**: We know that there are 22 oranges in the first bucket. 
+   - So, Oranges in Bucket 1 = 22.
+
+2. **Second Bucket**: The second bucket has 17 more oranges than the first bucket. 
+   - We calculate the number of oranges in the second bucket: 
+     \[
+     \text{Oranges in Bucket 2} = \text{Oranges in Bucket 1} + 17 = 22 + 17 = 39.
+     \]
+
+3. **Third Bucket**: The third bucket has 11 fewer oranges than the second bucket. 
+   - We calculate the number of oranges in the third bucket:
+     \[
+     \text{Oranges in Bucket 3} = \text{Oranges in Bucket 2} - 11 = 39 - 11 = 28.
+     \]
+
+4. **Total Number of Oranges**: Now, we add the number of oranges in all three buckets to find the total:
+   \[
+   \text{Total Oranges} = \text{Oranges in Bucket 1} + \text{Oranges in Bucket 2} + \text{Oranges in Bucket 3} = 22 + 39 + 28.
+   \]
+
+5. **Performing the Addition**:
+   - First, we add the oranges from Bucket 1 and Bucket 2:
+     \[
+     22 + 39 = 61.
+     \]
+   - Next, we add this result to the number of oranges in Bucket 3:
+     \[
+     61 + 28 = 89.
+     \]
+
+Thus, the total number of oranges in all the buckets is 89.
+</reasoning>
+<answer>89</answer>

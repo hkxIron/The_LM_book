@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the time it takes for Chris to reach school:**
+   - Chris walks at a speed of 3 miles per hour to cover a distance of 9 miles.
+   - We can use the formula for time, which is: 
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+     \]
+   - For Chris:
+     \[
+     \text{Time}_{\text{Chris}} = \frac{9 \text{ miles}}{3 \text{ miles per hour}} = 3 \text{ hours}
+     \]
+
+2. **Determine the distance Mark walks:**
+   - Mark walks 3 miles to the point where he turns around to go back home. 
+   - Then, he walks back the 3 miles to return home, which totals:
+     \[
+     \text{Total distance for Mark} = 3 \text{ miles (to school)} + 3 \text{ miles (back home)} = 6 \text{ miles}
+     \]
+   - After returning home, Mark then needs to walk the full distance to school, which is 9 miles. Therefore, the total distance Mark walks is:
+     \[
+     \text{Total distance for Mark} = 6 \text{ miles} + 9 \text{ miles} = 15 \text{ miles}
+     \]
+
+3. **Determine the time it takes for Mark to walk:**
+   - Since Mark walks at the same speed as Chris (3 miles per hour), we can use the same formula for time:
+     \[
+     \text{Time}_{\text{Mark}} = \frac{15 \text{ miles}}{3 \text{ miles per hour}} = 5 \text{ hours}
+     \]
+
+4. **Calculate the difference in time spent walking:**
+   - Now we find how much longer Mark spends walking than Chris:
+     \[
+     \text{Difference} = \text{Time}_{\text{Mark}} - \text{Time}_{\text{Chris}} = 5 \text{ hours} - 3 \text{ hours} = 2 \text{ hours}
+     \]
+
+Therefore, Mark spends 2 hours longer walking than Chris.
+</reasoning>
+<answer>2</answer>

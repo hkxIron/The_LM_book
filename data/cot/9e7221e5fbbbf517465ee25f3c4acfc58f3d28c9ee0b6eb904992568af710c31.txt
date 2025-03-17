@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many times a year Ron gets to pick a new book, we first need to calculate the total number of members in the book club.
+
+1. **Count the members in the book club**:
+   - There are three couples, which means there are \(3 \times 2 = 6\) members from the couples.
+   - There are also five single people.
+   - Additionally, Ron and his wife are part of the club, adding 2 more members.
+
+Now, let's sum these numbers:
+\[
+\text{Total members} = 6 \text{ (from couples)} + 5 \text{ (singles)} + 2 \text{ (Ron and his wife)} = 13 \text{ members}
+\]
+
+2. **Calculate how often Ron picks a book**:
+   Since each member takes a turn picking a book each week, we need to determine how many weeks there are in a year.
+   - There are 52 weeks in a year.
+
+Next, we divide the number of weeks by the total number of members to find out how often Ron gets to pick:
+\[
+\text{Turns per member} = \frac{52 \text{ weeks}}{13 \text{ members}} = 4 \text{ times}
+\]
+
+Thus, Ron gets to pick a new book 4 times a year.
+</reasoning>
+<answer>4</answer>

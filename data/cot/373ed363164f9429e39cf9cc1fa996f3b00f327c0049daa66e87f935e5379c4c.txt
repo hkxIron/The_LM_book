@@ -1,0 +1,37 @@
+<reasoning>
+To solve the problem, we start by using the property that the sum of the angles in a triangle is always 180 degrees. 
+
+Step 1: Define the angles in terms of C.
+We know that:
+- Angle A = 60 degrees
+- Angle B = 2 * Angle C
+
+Let's denote Angle C as x. Then we can express Angle B as:
+- Angle B = 2x
+
+Step 2: Set up the equation using the angle sum property.
+According to the triangle angle sum property:
+\[ A + B + C = 180 \]
+Substituting the known values and expressions, we have:
+\[ 60 + 2x + x = 180 \]
+
+Step 3: Simplify the equation.
+Combine like terms:
+\[ 60 + 3x = 180 \]
+
+Step 4: Solve for x.
+Subtract 60 from both sides:
+\[ 3x = 180 - 60 \]
+\[ 3x = 120 \]
+
+Now, divide both sides by 3 to find x:
+\[ x = \frac{120}{3} \]
+\[ x = 40 \]
+
+Step 5: Calculate angle B.
+Now that we have x (which is Angle C), we can find Angle B:
+\[ B = 2x = 2 * 40 = 80 \]
+
+Therefore, the angle B measures 80 degrees.
+</reasoning>
+<answer>80</answer>

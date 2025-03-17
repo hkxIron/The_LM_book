@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine how many homes Kiaan has distributed newspapers to after the first hour.**
+   - He has distributed to \( \frac{2}{5} \) of the 200 homes.
+   - To find this, we multiply:
+     \[
+     \frac{2}{5} \times 200 = \frac{400}{5} = 80 \text{ homes}
+     \]
+   - So, after the first hour, Kiaan has delivered newspapers to 80 homes.
+
+2. **Calculate how many homes remain after the first hour.**
+   - There are originally 200 homes. After distributing to 80 homes, the remaining homes are:
+     \[
+     200 - 80 = 120 \text{ homes}
+     \]
+
+3. **Determine how many homes he has delivered to after the next 2 hours.**
+   - Kiaan then distributes newspapers to 60% of the remaining 120 homes.
+   - We calculate 60% of 120:
+     \[
+     0.6 \times 120 = 72 \text{ homes}
+     \]
+
+4. **Calculate the total number of homes Kiaan has delivered to after the 2 additional hours.**
+   - He has delivered to 80 homes in the first hour, and now to 72 homes in the next 2 hours:
+     \[
+     80 + 72 = 152 \text{ homes}
+     \]
+
+5. **Finally, calculate how many homes he still needs to distribute newspapers to.**
+   - The total number of homes is 200, and he has delivered to 152 homes:
+     \[
+     200 - 152 = 48 \text{ homes}
+     \]
+
+Therefore, Kiaan still needs to distribute newspapers to 48 homes.
+</reasoning>
+<answer>48</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of bottles**: We know that there are 180 bottles in total.
+
+2. **Identify the bottles containing only cider and beer**: 
+   - There are 40 bottles that contain only cider.
+   - There are 80 bottles that contain only beer.
+
+3. **Calculate the number of bottles that are a mixture**: 
+   To find the number of bottles that contain a mixture of cider and beer, we subtract the number of cider and beer bottles from the total:
+   \[
+   \text{Bottles with mixture} = \text{Total bottles} - (\text{Bottles with cider} + \text{Bottles with beer})
+   \]
+   Substituting the values:
+   \[
+   \text{Bottles with mixture} = 180 - (40 + 80) = 180 - 120 = 60
+   \]
+   So, there are 60 bottles that are a mixture of cider and beer.
+
+4. **Calculate the total number of each type of bottle**:
+   - Cider only: 40 bottles
+   - Beer only: 80 bottles
+   - Mixture: 60 bottles
+
+5. **Determine how many bottles are given to the first house**: The problem states that the delivery man gives half the number of each type of bottle to the first house.
+   - For cider: Half of 40 is \( \frac{40}{2} = 20 \)
+   - For beer: Half of 80 is \( \frac{80}{2} = 40 \)
+   - For mixture: Half of 60 is \( \frac{60}{2} = 30 \)
+
+6. **Calculate the total number of bottles the first house receives**: We sum the number of bottles of each type given to the first house:
+   \[
+   \text{Total bottles to the first house} = \text{Cider} + \text{Beer} + \text{Mixture} = 20 + 40 + 30
+   \]
+   Performing the addition:
+   \[
+   20 + 40 + 30 = 90
+   \]
+
+Therefore, the first house receives a total of 90 bottles.
+</reasoning>
+<answer>90</answer>

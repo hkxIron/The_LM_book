@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of red crayons**: We know from the problem that there are 14 red crayons.
+   - Red crayons = 14
+
+2. **Calculate the number of blue crayons**: The problem states that there are 5 more blue crayons than red crayons. 
+   - To find the number of blue crayons, we add 5 to the number of red crayons:
+     \[
+     \text{Blue crayons} = \text{Red crayons} + 5 = 14 + 5 = 19
+     \]
+
+3. **Calculate the number of yellow crayons**: The problem also states that there are 6 less yellow crayons than double the number of blue crayons. 
+   - First, we need to find double the number of blue crayons:
+     \[
+     \text{Double blue crayons} = 2 \times \text{Blue crayons} = 2 \times 19 = 38
+     \]
+   - Now, we subtract 6 from the double blue crayons to find the number of yellow crayons:
+     \[
+     \text{Yellow crayons} = \text{Double blue crayons} - 6 = 38 - 6 = 32
+     \]
+
+Thus, the total number of yellow crayons is 32.
+</reasoning>
+<answer>32</answer>

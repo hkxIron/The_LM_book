@@ -1,0 +1,49 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total number of markers available**: 
+   We have 22 boxes of markers, and each box contains 5 markers. Therefore, the total number of markers is calculated as follows:
+   \[
+   \text{Total markers} = \text{Number of boxes} \times \text{Markers per box} = 22 \times 5 = 110
+   \]
+   This means there are 110 markers available for all the students.
+
+2. **Calculate the number of markers used by the first group**:
+   The first group has 10 students, and each student takes 2 markers. So, the total number of markers used by the first group is:
+   \[
+   \text{Markers used by first group} = 10 \times 2 = 20
+   \]
+
+3. **Calculate the number of markers used by the second group**:
+   The second group has 15 students, and each student takes 4 markers. Therefore, the total number of markers used by the second group is:
+   \[
+   \text{Markers used by second group} = 15 \times 4 = 60
+   \]
+
+4. **Calculate the total markers used by both groups**:
+   Now we add the markers used by both groups to find out how many markers have been used in total:
+   \[
+   \text{Total markers used} = \text{Markers used by first group} + \text{Markers used by second group} = 20 + 60 = 80
+   \]
+
+5. **Calculate the remaining markers for the last group**:
+   To find out how many markers are left for the last group, we subtract the total markers used from the total markers available:
+   \[
+   \text{Remaining markers} = \text{Total markers} - \text{Total markers used} = 110 - 80 = 30
+   \]
+
+6. **Determine how many students are in the last group**:
+   We already know that there are 30 students in total. The first group has 10 students, and the second group has 15 students. Thus, the number of students in the last group is:
+   \[
+   \text{Students in last group} = 30 - (10 + 15) = 30 - 25 = 5
+   \]
+
+7. **Calculate how many markers each student in the last group receives**:
+   We have 30 remaining markers and 5 students in the last group. Therefore, we divide the remaining markers by the number of students in the last group:
+   \[
+   \text{Markers per student in last group} = \frac{\text{Remaining markers}}{\text{Students in last group}} = \frac{30}{5} = 6
+   \]
+
+Putting this all together, each student in the last group will receive 6 markers.
+</reasoning>
+<answer>6</answer>

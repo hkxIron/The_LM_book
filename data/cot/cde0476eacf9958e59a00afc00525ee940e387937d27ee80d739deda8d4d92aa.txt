@@ -1,0 +1,51 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Initial number of fish**: Tony starts with 2 fish.
+
+2. **Annual addition of fish**: Each year, Tony's parents buy him 2 more fish.
+
+3. **Annual death of fish**: However, one of the newly bought fish dies each year.
+
+Now, let's analyze the situation year by year:
+
+- **Year 0 (Starting point)**: Tony has 2 fish.
+  
+- **Year 1**: 
+  - Tony receives 2 new fish, so the total before any die is: 
+    \( 2 + 2 = 4 \)
+  - Then, 1 fish dies:
+    \( 4 - 1 = 3 \)
+  Thus, at the end of Year 1, Tony has 3 fish.
+
+- **Year 2**:
+  - Tony receives 2 new fish, so the total before any die is: 
+    \( 3 + 2 = 5 \)
+  - After 1 fish dies:
+    \( 5 - 1 = 4 \)
+  Therefore, at the end of Year 2, Tony has 4 fish.
+
+- **Year 3**:
+  - Tony receives 2 new fish, so the total before any die is: 
+    \( 4 + 2 = 6 \)
+  - After 1 fish dies:
+    \( 6 - 1 = 5 \)
+  At the end of Year 3, Tony has 5 fish.
+
+- **Year 4**:
+  - Tony receives 2 new fish, so the total before any die is: 
+    \( 5 + 2 = 7 \)
+  - After 1 fish dies:
+    \( 7 - 1 = 6 \)
+  Thus, at the end of Year 4, Tony has 6 fish.
+
+- **Year 5**:
+  - Tony receives 2 new fish, so the total before any die is: 
+    \( 6 + 2 = 8 \)
+  - After 1 fish dies:
+    \( 8 - 1 = 7 \)
+  Therefore, at the end of Year 5, Tony has 7 fish.
+
+Now, we can summarize: After 5 years, Tony has 7 fish.
+</reasoning>
+<answer>7</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+Let's solve this problem step by step.
+
+1. **Determine the number of bars Greg set aside for himself**:
+   Greg set aside one granola bar for each day of the week. Since there are 7 days in a week, he set aside:
+   \[
+   7 \text{ bars}
+   \]
+
+2. **Calculate the number of bars remaining after setting some aside**:
+   Greg originally bought a 20-pack of granola bars. After setting aside 7 for himself, the number of bars remaining is:
+   \[
+   20 - 7 = 13 \text{ bars}
+   \]
+
+3. **Calculate how many bars Greg traded with Pete**:
+   Greg traded 3 of the remaining bars to his friend Pete for a soda. After trading, the number of bars Greg has left is:
+   \[
+   13 - 3 = 10 \text{ bars}
+   \]
+
+4. **Distribute the remaining bars to his sisters**:
+   Greg has 10 bars left to give to his two sisters. To find out how many each sister gets when they split them evenly, we divide the remaining bars by the number of sisters:
+   \[
+   10 \div 2 = 5 \text{ bars per sister}
+   \]
+
+Therefore, each sister gets 5 granola bars.
+</reasoning>
+<answer>5</answer>

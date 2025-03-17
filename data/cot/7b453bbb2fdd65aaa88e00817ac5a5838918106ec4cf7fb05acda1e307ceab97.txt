@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **First Expedition**: Jodi and Vance stayed on the island for 3 weeks during their first expedition. 
+
+2. **Second Expedition**: They spent two weeks more on the second expedition than they did on the first expedition. 
+   - Since they spent 3 weeks on the first expedition, we can calculate the duration of the second expedition:
+   \[
+   \text{Weeks on second expedition} = 3 + 2 = 5 \text{ weeks}
+   \]
+
+3. **Last Expedition**: They spent twice as many weeks on their last expedition as they did on their second expedition. 
+   - We already determined that they spent 5 weeks on the second expedition, so:
+   \[
+   \text{Weeks on last expedition} = 2 \times 5 = 10 \text{ weeks}
+   \]
+
+4. **Total Weeks**: Now, we need to calculate the total number of weeks they spent on the island during all three expeditions:
+   \[
+   \text{Total weeks} = \text{Weeks on first expedition} + \text{Weeks on second expedition} + \text{Weeks on last expedition}
+   \]
+   \[
+   \text{Total weeks} = 3 + 5 + 10 = 18 \text{ weeks}
+   \]
+
+5. **Convert Weeks to Days**: Since we need to find the total number of days, we convert weeks into days. There are 7 days in a week, so:
+   \[
+   \text{Total days} = \text{Total weeks} \times 7 = 18 \times 7
+   \]
+   Now performing the multiplication:
+   \[
+   18 \times 7 = 126 \text{ days}
+   \]
+
+Therefore, the total number of days Jodi and Vance spent on the island on all their trips is:
+</reasoning>
+<answer>126</answer>

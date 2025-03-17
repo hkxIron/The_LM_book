@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the cost of one kilogram of cucumbers**: 
+   The problem states that one kilogram of cucumbers costs $5. So, we have:
+   \[
+   \text{Cost of 1 kg of cucumbers} = 5 \text{ dollars}
+   \]
+
+2. **Calculate the price of one kilogram of tomatoes**: 
+   According to the problem, tomatoes are 20% cheaper than cucumbers. First, we need to calculate what 20% of the cucumber's cost is:
+   \[
+   20\% \text{ of } 5 \text{ dollars} = 0.20 \times 5 = 1 \text{ dollar}
+   \]
+
+   Now, we subtract this amount from the cucumber's cost to find the cost of tomatoes:
+   \[
+   \text{Cost of 1 kg of tomatoes} = 5 \text{ dollars} - 1 \text{ dollar} = 4 \text{ dollars}
+   \]
+
+3. **Calculate the cost of two kilograms of tomatoes**: 
+   Since one kilogram of tomatoes costs $4, for two kilograms, we multiply:
+   \[
+   \text{Cost of 2 kg of tomatoes} = 2 \times 4 = 8 \text{ dollars}
+   \]
+
+4. **Calculate the cost of three kilograms of cucumbers**: 
+   For cucumbers, since one kilogram costs $5, for three kilograms, we multiply:
+   \[
+   \text{Cost of 3 kg of cucumbers} = 3 \times 5 = 15 \text{ dollars}
+   \]
+
+5. **Add the costs of tomatoes and cucumbers**: 
+   Now, we add the cost of two kilograms of tomatoes and three kilograms of cucumbers to find the total cost:
+   \[
+   \text{Total cost} = 8 \text{ dollars} + 15 \text{ dollars} = 23 \text{ dollars}
+   \]
+
+Therefore, after calculating each step and adding the costs, we find the total price.
+</reasoning>
+<answer>23</answer>

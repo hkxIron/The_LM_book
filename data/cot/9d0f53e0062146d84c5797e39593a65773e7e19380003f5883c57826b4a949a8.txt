@@ -1,0 +1,37 @@
+<reasoning>
+To calculate Lanie's salary for the week, I will follow these steps:
+
+1. **Determine the hours Lanie worked**:
+   Lanie usually works 40 hours a week. Since she was only able to work 4/5 of her usual hours, I need to multiply her usual hours by 4/5:
+   \[
+   \text{Hours worked} = 40 \times \frac{4}{5}
+   \]
+
+2. **Calculate the hours worked**:
+   Now, I will perform the multiplication:
+   \[
+   40 \times \frac{4}{5} = 40 \times 0.8 = 32 \text{ hours}
+   \]
+
+3. **Determine Lanie's hourly rate**:
+   Lanie's hourly rate is given as $15.
+
+4. **Calculate her salary for the week**:
+   To find her total salary for the week, I will multiply the number of hours she worked by her hourly rate:
+   \[
+   \text{Salary} = \text{Hours worked} \times \text{Hourly rate}
+   \]
+   Substituting the values I have:
+   \[
+   \text{Salary} = 32 \times 15
+   \]
+
+5. **Perform the multiplication**:
+   Now, I will calculate the total salary:
+   \[
+   32 \times 15 = 480
+   \]
+
+Therefore, Lanie's salary for that week is $480.
+</reasoning>
+<answer>480</answer>

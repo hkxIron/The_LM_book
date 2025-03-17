@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate the total number of cookies Kendra made**: 
+   She made 3 batches, and each batch contains 12 cookies. 
+   Therefore, the total number of cookies is:
+   \[
+   \text{Total Cookies} = \text{Batches} \times \text{Cookies per Batch} = 3 \times 12 = 36
+   \]
+
+2. **Determine how many cookies each family member gets**: 
+   There are 4 people in her family. To find out how many cookies each person gets, we divide the total number of cookies by the number of family members:
+   \[
+   \text{Cookies per Person} = \frac{\text{Total Cookies}}{\text{Family Members}} = \frac{36}{4} = 9
+   \]
+
+3. **Calculate the total number of chocolate chips in the cookies**: 
+   Each cookie contains 2 chocolate chips. Therefore, the total number of chocolate chips is:
+   \[
+   \text{Total Chocolate Chips} = \text{Total Cookies} \times \text{Chips per Cookie} = 36 \times 2 = 72
+   \]
+
+4. **Determine how many chocolate chips each family member eats**: 
+   Since each person gets 9 cookies and each cookie has 2 chocolate chips, we can calculate the number of chocolate chips each person consumes:
+   \[
+   \text{Chips per Person} = \text{Cookies per Person} \times \text{Chips per Cookie} = 9 \times 2 = 18
+   \]
+
+Thus, each family member eats 18 chocolate chips.
+</reasoning>
+<answer>18</answer>

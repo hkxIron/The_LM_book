@@ -1,0 +1,48 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of CDs sold at $10 each:**  
+   The problem states that 40% of the CDs cost $10 each. Since the total number of CDs is 200, we can calculate the number of $10 CDs as follows:
+   \[
+   \text{Number of $10 CDs} = 0.40 \times 200 = 80
+   \]
+
+2. **Determine the number of CDs sold at $5 each:**  
+   The rest of the CDs cost $5 each. To find this, we subtract the number of $10 CDs from the total number of CDs:
+   \[
+   \text{Number of $5 CDs} = 200 - 80 = 120
+   \]
+
+3. **Calculate how many $10 CDs Prince bought:**  
+   According to the problem, Prince bought half of the CDs sold at $10 each. Therefore, we find:
+   \[
+   \text{Number of $10 CDs Prince bought} = \frac{80}{2} = 40
+   \]
+
+4. **Calculate how many $5 CDs Prince bought:**  
+   Prince bought all of the CDs sold at $5 each. We know there are 120 of these CDs, so:
+   \[
+   \text{Number of $5 CDs Prince bought} = 120
+   \]
+
+5. **Calculate the total cost for the $10 CDs:**  
+   Each $10 CD costs $10, so the total cost for the CDs Prince bought at this price is:
+   \[
+   \text{Cost for $10 CDs} = 40 \times 10 = 400
+   \]
+
+6. **Calculate the total cost for the $5 CDs:**  
+   Each $5 CD costs $5, so the total cost for the CDs Prince bought at this price is:
+   \[
+   \text{Cost for $5 CDs} = 120 \times 5 = 600
+   \]
+
+7. **Calculate the total amount Prince spent:**  
+   Now we add the costs of the CDs Prince bought to find the total amount he spent:
+   \[
+   \text{Total amount spent} = 400 + 600 = 1000
+   \]
+
+Therefore, Prince spent a total of $1000 on the CDs.
+</reasoning>
+<answer>1000</answer>

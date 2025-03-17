@@ -1,0 +1,33 @@
+<reasoning>
+To determine how many more vacation days Andrew can still take, we can follow these steps:
+
+1. **Calculate the total number of vacation days Andrew earned:**
+   Andrew earns 1 vacation day for every 10 days worked. Since he worked 300 days last year, we can calculate his total vacation days earned as follows:
+
+   \[
+   \text{Vacation days earned} = \frac{\text{Days worked}}{10} = \frac{300}{10} = 30 \text{ vacation days}
+   \]
+
+2. **Calculate the total vacation days taken:**
+   Andrew took 5 days off in March and twice as many in September. First, we calculate how many days he took in September:
+
+   \[
+   \text{Days taken in September} = 2 \times \text{Days taken in March} = 2 \times 5 = 10 \text{ days}
+   \]
+
+   Now, we can find the total vacation days taken:
+
+   \[
+   \text{Total vacation days taken} = \text{Days taken in March} + \text{Days taken in September} = 5 + 10 = 15 \text{ days}
+   \]
+
+3. **Determine the remaining vacation days:**
+   To find out how many more vacation days Andrew can take, we subtract the total vacation days taken from the total vacation days earned:
+
+   \[
+   \text{Remaining vacation days} = \text{Vacation days earned} - \text{Total vacation days taken} = 30 - 15 = 15 \text{ days}
+   \]
+
+Therefore, Andrew can still take 15 more vacation days.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,42 @@
+<reasoning>
+To determine how much more money Jackie needs to spend to qualify for free shipping, we first need to calculate the total cost of her current order.
+
+1. **Calculate the cost of shampoo:**
+   Jackie orders 1 bottle of shampoo for $10.00.
+   \[
+   \text{Cost of shampoo} = 1 \times 10 = 10
+   \]
+
+2. **Calculate the cost of conditioner:**
+   Jackie orders 1 bottle of conditioner for $10.00.
+   \[
+   \text{Cost of conditioner} = 1 \times 10 = 10
+   \]
+
+3. **Calculate the cost of lotion:**
+   Jackie orders 3 bottles of lotion that each cost $6.00.
+   \[
+   \text{Cost of lotion} = 3 \times 6 = 18
+   \]
+
+4. **Calculate the total cost of the order:**
+   Now we add the costs of the shampoo, conditioner, and lotion:
+   \[
+   \text{Total cost} = \text{Cost of shampoo} + \text{Cost of conditioner} + \text{Cost of lotion}
+   \]
+   \[
+   \text{Total cost} = 10 + 10 + 18 = 38
+   \]
+
+5. **Determine how much more Jackie needs to spend:**
+   The minimum amount to qualify for free shipping is $50.00. Therefore, we subtract the total cost from $50.00 to find out how much more she needs to spend:
+   \[
+   \text{Amount needed for free shipping} = 50 - \text{Total cost}
+   \]
+   \[
+   \text{Amount needed for free shipping} = 50 - 38 = 12
+   \]
+
+Thus, Jackie needs to spend an additional $12.00 to be eligible for free shipping.
+</reasoning>
+<answer>12</answer>

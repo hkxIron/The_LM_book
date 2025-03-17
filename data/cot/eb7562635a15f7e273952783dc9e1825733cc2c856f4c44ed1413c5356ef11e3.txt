@@ -1,0 +1,61 @@
+<reasoning>
+Let's start by defining how much money each person has based on the information given.
+
+1. **Determine Carla's money:**
+   Natasha has 3 times as much money as Carla. We know Natasha has $60.
+   \[
+   N = 3C \quad \text{(where N is Natasha's money and C is Carla's money)}
+   \]
+   Substituting the value of N:
+   \[
+   60 = 3C
+   \]
+   To find Carla's money (C), divide both sides by 3:
+   \[
+   C = \frac{60}{3} = 20
+   \]
+
+2. **Determine Cosima's money:**
+   Carla has twice as much money as Cosima.
+   \[
+   C = 2S \quad \text{(where S is Cosima's money)}
+   \]
+   Substituting the value of C:
+   \[
+   20 = 2S
+   \]
+   To find Cosima's money (S), divide both sides by 2:
+   \[
+   S = \frac{20}{2} = 10
+   \]
+
+3. **Calculate the total amount of money they have:**
+   Now, we have:
+   - Natasha: $60
+   - Carla: $20
+   - Cosima: $10
+   Adding these amounts together gives us the total:
+   \[
+   \text{Total} = N + C + S = 60 + 20 + 10 = 90
+   \]
+
+4. **Calculate the selling price of the goods:**
+   They buy goods worth the total amount they have, which is $90. They sell these goods at 7/5 of the buying price.
+   To find the selling price:
+   \[
+   \text{Selling Price} = \frac{7}{5} \times 90
+   \]
+   Calculating this value:
+   \[
+   \text{Selling Price} = 7 \times 18 = 126
+   \]
+
+5. **Calculate the profit:**
+   Profit is calculated by subtracting the total cost from the selling price. 
+   \[
+   \text{Profit} = \text{Selling Price} - \text{Total Cost} = 126 - 90 = 36
+   \]
+
+Therefore, the profit they would make is:
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many lollipops Marlon gave to Emily**: 
+   Marlon starts with 42 lollipops. He gives away 2/3 of them to Emily. To find out how many he gave her, we calculate:
+   \[
+   \text{Lollipops given to Emily} = \frac{2}{3} \times 42
+   \]
+   To compute this, we multiply:
+   \[
+   \frac{2}{3} \times 42 = \frac{2 \times 42}{3} = \frac{84}{3} = 28
+   \]
+   So, Marlon gave Emily 28 lollipops.
+
+2. **Calculate how many lollipops Marlon has left**:
+   After giving away 28 lollipops, we subtract this from the original amount:
+   \[
+   \text{Lollipops left} = 42 - 28 = 14
+   \]
+
+3. **Determine how many lollipops Marlon keeps**:
+   According to the problem, Marlon keeps 4 lollipops. We now need to find out how many he gives to Lou. 
+   Since we know he has 14 lollipops left and he keeps 4, we can calculate:
+   \[
+   \text{Lollipops given to Lou} = 14 - 4 = 10
+   \]
+
+Therefore, Lou received 10 lollipops.
+</reasoning>
+<answer>10</answer>

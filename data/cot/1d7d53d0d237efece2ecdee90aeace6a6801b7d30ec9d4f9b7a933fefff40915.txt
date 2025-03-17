@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the amount Rene received**: We know that Rene received $300.
+
+2. **Determine how much Florence received**: Since Florence received three times as much money as Rene, we can calculate this by multiplying Rene's amount by 3.
+   \[
+   \text{Florence's amount} = 3 \times 300 = 900
+   \]
+   So, Florence received $900.
+
+3. **Determine how much Maria gave to Isha**: According to the problem, Maria gave half of what she gave to Florence to Isha. Therefore, we can calculate Isha's amount as follows:
+   \[
+   \text{Isha's amount} = \frac{1}{2} \times 900 = 450
+   \]
+   So, Isha received $450.
+
+4. **Determine how much Maria gave to her three friends**: We know that Maria gave a third of her money to Isha. This means that the amount she gave to Isha ($450) represents one-third of her total money. To find out Maria's total amount of money, we can set up the equation:
+   \[
+   \frac{1}{3} \text{(Maria's total money)} = 450
+   \]
+   Solving for Maria's total money gives us:
+   \[
+   \text{Maria's total money} = 450 \times 3 = 1350
+   \]
+
+5. **Calculate the total amount Maria gave to her three friends**: We already determined that Maria gave $900 to Florence and $450 to Isha. Since we do not know the amount given to Rene yet, we can assume she gave Rene the same amount he received, which is $300.
+   Therefore, the total amount given to her three friends is:
+   \[
+   \text{Total given} = \text{Florence's amount} + \text{Isha's amount} + \text{Rene's amount}
+   \]
+   \[
+   \text{Total given} = 900 + 450 + 300 = 1650
+   \]
+
+Thus, Maria gave a total of $1650 to her three friends.
+</reasoning>
+<answer>1650</answer>

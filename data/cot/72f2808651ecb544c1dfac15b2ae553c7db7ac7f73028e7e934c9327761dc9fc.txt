@@ -1,0 +1,39 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total number of pens Lenny bought**:
+   - Lenny bought 20 boxes of pens, and each box contains 5 pens.
+   - To find the total number of pens, we multiply the number of boxes by the number of pens per box:
+     \[
+     \text{Total pens} = 20 \text{ boxes} \times 5 \text{ pens/box} = 100 \text{ pens}
+     \]
+
+2. **Calculate how many pens Lenny gave to her close friends**:
+   - Lenny gave away 40% of the total pens she bought.
+   - To find 40% of 100 pens, we multiply 100 by 0.40:
+     \[
+     \text{Pens given to friends} = 100 \text{ pens} \times 0.40 = 40 \text{ pens}
+     \]
+
+3. **Calculate how many pens are left after giving pens to friends**:
+   - After giving away 40 pens, we need to subtract that from the total:
+     \[
+     \text{Pens left} = 100 \text{ pens} - 40 \text{ pens} = 60 \text{ pens}
+     \]
+
+4. **Calculate how many pens Lenny gave to her classmates**:
+   - Lenny gave one-fourth of the remaining pens to her classmates.
+   - To find one-fourth of 60 pens, we divide 60 by 4:
+     \[
+     \text{Pens given to classmates} = \frac{60 \text{ pens}}{4} = 15 \text{ pens}
+     \]
+
+5. **Calculate the final number of pens left for Lenny**:
+   - Now, we subtract the number of pens given to classmates from the remaining pens:
+     \[
+     \text{Pens left for Lenny} = 60 \text{ pens} - 15 \text{ pens} = 45 \text{ pens}
+     \]
+
+Therefore, after all the calculations, the number of pens left for Lenny is:
+</reasoning>
+<answer>45</answer>

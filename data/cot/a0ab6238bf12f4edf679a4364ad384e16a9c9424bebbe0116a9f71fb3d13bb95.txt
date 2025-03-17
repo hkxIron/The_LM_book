@@ -1,0 +1,20 @@
+<reasoning>
+To find John's new elevation after traveling downward, we need to follow these steps:
+
+1. **Identify the starting elevation:** John starts at an elevation of 400 feet.
+
+2. **Determine the rate of descent:** He is descending at a rate of 10 feet per minute.
+
+3. **Calculate the total descent over the time period:** John travels downward for 5 minutes. To find out how far he descends in that time, we multiply the rate of descent by the time:
+   \[
+   \text{Total descent} = \text{Rate} \times \text{Time} = 10 \, \text{feet/minute} \times 5 \, \text{minutes} = 50 \, \text{feet}
+   \]
+
+4. **Calculate the new elevation:** Since John is descending, we subtract the total descent from his starting elevation:
+   \[
+   \text{New elevation} = \text{Starting elevation} - \text{Total descent} = 400 \, \text{feet} - 50 \, \text{feet} = 350 \, \text{feet}
+   \]
+
+Therefore, after descending for 5 minutes at a rate of 10 feet per minute, John's new elevation is 350 feet.
+</reasoning>
+<answer>350</answer>

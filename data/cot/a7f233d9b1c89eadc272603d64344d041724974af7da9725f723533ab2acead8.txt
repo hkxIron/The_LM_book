@@ -1,0 +1,41 @@
+<reasoning>
+To solve this problem, let’s break down the time Jake spent watching his show step by step.
+
+1. **Time spent on Monday**: Jake watched for half the day. A day has 24 hours, so:
+   \[
+   \text{Time on Monday} = \frac{1}{2} \times 24 = 12 \text{ hours}
+   \]
+
+2. **Time spent on Tuesday**: Jake watched for 4 hours.
+   \[
+   \text{Time on Tuesday} = 4 \text{ hours}
+   \]
+
+3. **Time spent on Wednesday**: Jake watched for a quarter of the day. Again, a day has 24 hours, so:
+   \[
+   \text{Time on Wednesday} = \frac{1}{4} \times 24 = 6 \text{ hours}
+   \]
+
+4. **Calculating total time spent from Monday to Wednesday**: We now add the time spent on these three days:
+   \[
+   \text{Total time (Mon to Wed)} = 12 + 4 + 6 = 22 \text{ hours}
+   \]
+
+5. **Time spent on Thursday**: Jake watched half as much time on Thursday as he did in total from Monday to Wednesday. Therefore:
+   \[
+   \text{Time on Thursday} = \frac{1}{2} \times 22 = 11 \text{ hours}
+   \]
+
+6. **Calculating total time spent from Monday to Thursday**: Now, let's find out the total time Jake has watched up to Thursday:
+   \[
+   \text{Total time (Mon to Thu)} = 12 + 4 + 6 + 11 = 33 \text{ hours}
+   \]
+
+7. **Time left to watch on Friday**: The entire show is 52 hours long. We subtract the total time watched from the total length of the show to find out how much time Jake watched on Friday:
+   \[
+   \text{Time on Friday} = 52 - 33 = 19 \text{ hours}
+   \]
+
+Therefore, Jake watched 19 hours on Friday to complete the show.
+</reasoning>
+<answer>19</answer>

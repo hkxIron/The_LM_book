@@ -1,0 +1,51 @@
+<reasoning>
+First, we need to determine how many days are in June. June has 30 days. Since there are 8 weekend days in June, we can find the number of weekdays by subtracting the weekends from the total days:
+
+\[ 
+\text{Weekdays} = \text{Total Days} - \text{Weekend Days} = 30 - 8 = 22 
+\]
+
+Now that we know there are 22 weekdays in June, we can calculate how many songs Vivian and Clara play during these days.
+
+**Step 1: Calculate Vivian's total songs played.**
+
+Vivian plays 10 songs each day. Therefore, over 22 weekdays, the total number of songs she plays is:
+
+\[ 
+\text{Total Songs by Vivian} = \text{Songs per Day} \times \text{Weekdays} 
+\]
+\[ 
+\text{Total Songs by Vivian} = 10 \times 22 = 220 
+\]
+
+**Step 2: Calculate Clara's total songs played.**
+
+Clara plays 2 fewer songs than Vivian, which means she plays:
+
+\[ 
+\text{Songs per Day by Clara} = \text{Songs per Day by Vivian} - 2 = 10 - 2 = 8 
+\]
+
+Now we can calculate the total number of songs Clara plays over the same 22 weekdays:
+
+\[ 
+\text{Total Songs by Clara} = \text{Songs per Day by Clara} \times \text{Weekdays} 
+\]
+\[ 
+\text{Total Songs by Clara} = 8 \times 22 = 176 
+\]
+
+**Step 3: Calculate the total songs listened to by both.**
+
+To find the total number of songs both Vivian and Clara listened to, we add their totals together:
+
+\[ 
+\text{Total Songs} = \text{Total Songs by Vivian} + \text{Total Songs by Clara} 
+\]
+\[ 
+\text{Total Songs} = 220 + 176 = 396 
+\]
+
+Thus, the total number of songs they both listened to in June is:
+</reasoning>
+<answer>396</answer>

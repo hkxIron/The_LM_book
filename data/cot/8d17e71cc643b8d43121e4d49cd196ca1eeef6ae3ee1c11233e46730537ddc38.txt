@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to calculate the total homework hours Paul has for the week and then determine how many hours he needs to average on the remaining nights.
+
+1. **Calculate total weekly homework hours:**
+   - Paul has 2 hours of homework on weeknights (Monday to Friday), which gives us:
+     \[
+     2 \text{ hours/night} \times 5 \text{ nights} = 10 \text{ hours}
+     \]
+   - He also has 5 hours of homework over the weekend. So, the total homework for the week is:
+     \[
+     10 \text{ hours} + 5 \text{ hours} = 15 \text{ hours}
+     \]
+
+2. **Determine the nights he cannot do homework:**
+   - Paul has practice for 2 nights out of the week. Therefore, he cannot do homework on these 2 nights.
+
+3. **Calculate the remaining nights:**
+   - There are 5 weeknights in total (Monday to Friday). If Paul cannot do homework on 2 of those nights, he has:
+     \[
+     5 \text{ nights} - 2 \text{ nights} = 3 \text{ nights}
+     \]
+   - Additionally, he can do homework on the weekend, which adds 2 days (Saturday and Sunday).
+
+4. **Total nights available for homework:**
+   - Thus, the total nights he has available to do homework is:
+     \[
+     3 \text{ weeknights} + 2 \text{ weekend days} = 5 \text{ nights}
+     \]
+
+5. **Calculate the average hours of homework needed per night:**
+   - Paul needs to complete a total of 15 hours of homework over these 5 available nights. To find the average required per night, we divide the total hours by the number of nights:
+     \[
+     \frac{15 \text{ hours}}{5 \text{ nights}} = 3 \text{ hours/night}
+     \]
+
+Therefore, Paul has to average 3 hours of homework for the remaining nights to get his week's homework done.
+</reasoning>
+<answer>3</answer>

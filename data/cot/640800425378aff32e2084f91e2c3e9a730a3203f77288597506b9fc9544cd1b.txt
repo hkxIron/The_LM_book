@@ -1,0 +1,35 @@
+<reasoning>
+To determine how much Alice is short or above her goal of selling $1000 worth of shoes, we need to calculate the total revenue from the shoes she has sold.
+
+1. **Calculate the revenue from Nike shoes:**
+   - She sells 8 Nikes at $60 each.
+   - Revenue from Nikes = Number of Nikes sold × Price per Nike
+   - Revenue from Nikes = 8 × 60 = $480
+
+2. **Calculate the revenue from Adidas shoes:**
+   - She sells 6 Adidas at $45 each.
+   - Revenue from Adidas = Number of Adidas sold × Price per Adidas
+   - Revenue from Adidas = 6 × 45 = $270
+
+3. **Calculate the revenue from Reebok shoes:**
+   - She sells 9 Reeboks at $35 each.
+   - Revenue from Reeboks = Number of Reeboks sold × Price per Reebok
+   - Revenue from Reeboks = 9 × 35 = $315
+
+4. **Calculate the total revenue from all shoes sold:**
+   - Total Revenue = Revenue from Nikes + Revenue from Adidas + Revenue from Reeboks
+   - Total Revenue = 480 + 270 + 315
+
+   Now, let's calculate that:
+   - Total Revenue = 480 + 270 = 750
+   - Total Revenue = 750 + 315 = 1065
+
+5. **Determine how much Alice is short or above her goal:**
+   - Alice's goal is $1000.
+   - We can find out how much she is above her goal by subtracting her goal from her total revenue:
+   - Amount Above Goal = Total Revenue - Goal
+   - Amount Above Goal = 1065 - 1000 = 65
+
+Therefore, Alice is $65 above her quota.
+</reasoning>
+<answer>65</answer>

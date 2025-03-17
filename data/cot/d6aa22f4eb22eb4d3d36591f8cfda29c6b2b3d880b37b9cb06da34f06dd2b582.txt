@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much water is in the tank at the end of the heavy rain, we will follow these steps:
+
+1. **Calculate the amount of rainwater collected during the storm**: The rainwater flows into the tank at a rate of 2 liters per minute. We need to find out how much water flows in over the 90 minutes of the storm.
+
+   \[
+   \text{Water collected} = \text{flow rate} \times \text{time}
+   \]
+
+   Here, the flow rate is 2 L/min and the time is 90 minutes. So we can calculate:
+
+   \[
+   \text{Water collected} = 2 \, \text{L/min} \times 90 \, \text{min} = 180 \, \text{L}
+   \]
+
+2. **Add the collected water to the initial amount of water in the tank**: Rory starts with 100 L of rainwater in the tank. We will now add the amount collected during the storm to this initial amount:
+
+   \[
+   \text{Total water in tank} = \text{initial water} + \text{water collected}
+   \]
+
+   Plugging in the numbers:
+
+   \[
+   \text{Total water in tank} = 100 \, \text{L} + 180 \, \text{L} = 280 \, \text{L}
+   \]
+
+3. **Final result**: Therefore, at the end of the heavy rain, the total amount of water in the tank is 280 L.
+</reasoning>
+<answer>280</answer>

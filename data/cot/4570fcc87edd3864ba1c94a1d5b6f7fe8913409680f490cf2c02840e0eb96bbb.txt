@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we will break down the information given and set up an equation to find the number of grilled cheese sandwiches Joan makes.
+
+1. **Identify the components**: 
+   - Joan makes 10 ham sandwiches.
+   - Each ham sandwich requires 2 slices of cheese.
+   - Each grilled cheese sandwich requires 3 slices of cheese.
+   - The total number of slices of cheese used is 50.
+
+2. **Calculate the cheese used for ham sandwiches**: 
+   Since Joan makes 10 ham sandwiches, we can calculate the total cheese used for these sandwiches:
+   \[
+   \text{Cheese used for ham sandwiches} = 10 \text{ sandwiches} \times 2 \text{ slices/sandwich} = 20 \text{ slices}
+   \]
+
+3. **Calculate the remaining cheese**: 
+   We have a total of 50 slices of cheese. After using 20 slices for the ham sandwiches, the remaining cheese is:
+   \[
+   \text{Remaining cheese} = 50 \text{ slices} - 20 \text{ slices} = 30 \text{ slices}
+   \]
+
+4. **Set up the equation for grilled cheese sandwiches**: 
+   Let \( g \) be the number of grilled cheese sandwiches Joan makes. Each grilled cheese sandwich uses 3 slices of cheese, so the total cheese used for grilled cheese sandwiches is:
+   \[
+   \text{Cheese used for grilled cheese sandwiches} = 3g
+   \]
+
+5. **Set up the equation based on remaining cheese**: 
+   The cheese used for grilled cheese must equal the remaining cheese:
+   \[
+   3g = 30
+   \]
+
+6. **Solve for \( g \)**: 
+   To find \( g \), divide both sides of the equation by 3:
+   \[
+   g = \frac{30}{3} = 10
+   \]
+
+Joan makes 10 grilled cheese sandwiches.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>10</answer>

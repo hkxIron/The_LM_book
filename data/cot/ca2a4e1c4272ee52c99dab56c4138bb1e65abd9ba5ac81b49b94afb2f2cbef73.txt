@@ -1,0 +1,54 @@
+<reasoning>
+To solve this problem, we will first determine the total amount of money needed for the trip, then find out how much money has already been raised, and finally calculate how much more each student needs to raise.
+
+1. **Calculate the total amount needed for the trip:**
+   - Each student needs at least $450, and there are 6 students. Therefore, the total amount they need for the students is:
+     \[
+     6 \text{ students} \times 450 \text{ dollars/student} = 2700 \text{ dollars}
+     \]
+   - In addition to the amount for the students, they also need $3000 for miscellaneous expenses:
+     \[
+     2700 \text{ dollars} + 3000 \text{ dollars} = 5700 \text{ dollars}
+     \]
+   - So, the total amount needed for the trip is $5700.
+
+2. **Calculate the total amount raised in the first 3 days:**
+   - On the first day, they raised $600.
+   - On the second day, they raised $900.
+   - On the third day, they raised $400.
+   - Adding these amounts together gives:
+     \[
+     600 + 900 + 400 = 1900 \text{ dollars}
+     \]
+
+3. **Calculate the amount raised in the next 4 days:**
+   - For the next 4 days, they raised only half of what they raised on the first 3 days. The total raised on the first 3 days was $1900, so half of that is:
+     \[
+     \frac{1900}{2} = 950 \text{ dollars}
+     \]
+   - Since this amount is raised over 4 days, the total amount raised during these days is:
+     \[
+     950 \text{ dollars}
+     \]
+
+4. **Calculate the total amount raised after 7 days:**
+   - Now we add the amounts raised in the first 3 days and the next 4 days:
+     \[
+     1900 + 950 = 2850 \text{ dollars}
+     \]
+
+5. **Determine how much more money they need:**
+   - The total amount needed is $5700, and they have raised $2850. Therefore, the amount still needed is:
+     \[
+     5700 - 2850 = 2850 \text{ dollars}
+     \]
+
+6. **Determine how much more each person needs to raise:**
+   - Since there are 6 students, we divide the total amount still needed by the number of students:
+     \[
+     \frac{2850}{6} = 475 \text{ dollars}
+     \]
+
+Therefore, each student needs to raise an additional $475 to reach their goal.
+</reasoning>
+<answer>475</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much Larry had at the beginning, we will work backwards from the information given.
+
+1. **Identify what we know**: 
+   - Larry has $15 now.
+   - He spent $5 for lunch.
+   - He gave his brother $2.
+
+2. **Calculate how much money Larry had just before spending and giving away money**: 
+   - We know that after spending money on lunch and giving money to his brother, Larry is left with $15.
+   - First, we will add the $5 he spent on lunch back to his current amount ($15) because we want to find out how much he had before that expense.
+
+   \[
+   15 + 5 = 20
+   \]
+
+   This means he had $20 just before spending on lunch.
+
+3. **Next, add the $2 he gave to his brother**: 
+   - Now, we will add the $2 he gave to his brother back to the amount we calculated in the previous step. This will give us the total amount he had before any spending.
+
+   \[
+   20 + 2 = 22
+   \]
+
+   Therefore, Larry had $22 at the beginning.
+
+Now we have completed the calculations step by step, and we have found out how much Larry had initially.
+</reasoning>
+<answer>22</answer>

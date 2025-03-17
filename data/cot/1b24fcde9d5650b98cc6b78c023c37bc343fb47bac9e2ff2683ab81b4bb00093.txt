@@ -1,0 +1,55 @@
+<reasoning>
+Let's solve this problem step by step:
+
+1. **Identify the number of lions in Safari National Park**:  
+   We know from the problem statement that Safari National Park has 100 lions.  
+   - Lions in Safari = 100
+
+2. **Calculate the number of snakes in Safari National Park**:  
+   The problem states that there are half as many snakes as lions. Therefore, we calculate the number of snakes as follows:  
+   \[
+   \text{Snakes in Safari} = \frac{100}{2} = 50
+   \]
+
+3. **Calculate the number of giraffes in Safari National Park**:  
+   The problem states that there are 10 fewer giraffes than snakes. So, we can find the number of giraffes by subtracting 10 from the number of snakes:  
+   \[
+   \text{Giraffes in Safari} = 50 - 10 = 40
+   \]
+
+4. **Summary of animal counts in Safari National Park**:  
+   - Lions: 100  
+   - Snakes: 50  
+   - Giraffes: 40  
+   - Total animals in Safari = 100 + 50 + 40 = 190
+
+5. **Determine the number of lions in Savanna National Park**:  
+   The problem states that Savanna National Park has double the number of lions as Safari National Park:  
+   \[
+   \text{Lions in Savanna} = 2 \times 100 = 200
+   \]
+
+6. **Determine the number of snakes in Savanna National Park**:  
+   Savanna National Park has triple the number of snakes as Safari National Park:  
+   \[
+   \text{Snakes in Savanna} = 3 \times 50 = 150
+   \]
+
+7. **Determine the number of giraffes in Savanna National Park**:  
+   Savanna National Park has 20 more giraffes than Safari National Park:  
+   \[
+   \text{Giraffes in Savanna} = 40 + 20 = 60
+   \]
+
+8. **Summary of animal counts in Savanna National Park**:  
+   - Lions: 200  
+   - Snakes: 150  
+   - Giraffes: 60  
+   - Total animals in Savanna = 200 + 150 + 60 = 410
+
+9. **Calculate the total number of animals in Savanna National Park**:  
+   We have already summed them up in the previous step. 
+
+Thus, the total number of animals in Savanna National Park is:
+</reasoning>
+<answer>410</answer>

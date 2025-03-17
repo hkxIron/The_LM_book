@@ -1,0 +1,30 @@
+<reasoning>
+First, we need to determine how much Baxter paid per pound of peanuts. The problem states that peanuts cost $3 per pound.
+
+Next, we know that Baxter spent a total of $105 on peanuts. To find out how many pounds he purchased in total, we can divide the total amount spent by the cost per pound:
+
+\[
+\text{Total pounds purchased} = \frac{\text{Total amount spent}}{\text{Cost per pound}} = \frac{105}{3}
+\]
+
+Calculating this gives:
+
+\[
+\text{Total pounds purchased} = 35 \text{ pounds}
+\]
+
+Now, we know that there is a minimum purchase requirement of 15 pounds. To find out how many pounds over the minimum Baxter purchased, we subtract the minimum from the total pounds purchased:
+
+\[
+\text{Pounds over minimum} = \text{Total pounds purchased} - \text{Minimum required} = 35 - 15
+\]
+
+Calculating this gives:
+
+\[
+\text{Pounds over minimum} = 20 \text{ pounds}
+\]
+
+Thus, Baxter purchased 20 pounds over the minimum required amount.
+</reasoning>
+<answer>20</answer>

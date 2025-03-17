@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many of the vaccinated people were children, we first need to determine how many were adults. 
+
+1. **Calculate the number of adults vaccinated:**
+   - We know that 80% of the 650 vaccinated people were adults. 
+   - To find the number of adults, we can use the formula: 
+     \[
+     \text{Number of adults} = \text{Total vaccinated} \times \text{Percentage of adults}
+     \]
+   - Here, the total vaccinated is 650, and the percentage of adults in decimal form is 0.80. 
+   - So, we calculate:
+     \[
+     \text{Number of adults} = 650 \times 0.80
+     \]
+   - Multiplying gives:
+     \[
+     \text{Number of adults} = 520
+     \]
+   - This means 520 of the vaccinated people were adults.
+
+2. **Calculate the number of children vaccinated:**
+   - To find the number of children, we subtract the number of adults from the total number of vaccinated people:
+     \[
+     \text{Number of children} = \text{Total vaccinated} - \text{Number of adults}
+     \]
+   - Substituting the values we found:
+     \[
+     \text{Number of children} = 650 - 520
+     \]
+   - Performing the subtraction gives:
+     \[
+     \text{Number of children} = 130
+     \]
+
+Therefore, the number of vaccinated people who were children is 130.
+</reasoning>
+<answer>130</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much is saved per bagel when buying a dozen instead of individual bagels, we will follow these steps:
+
+1. **Find the cost of a single bagel when bought individually**: The price of one bagel is given as $2.25.
+
+2. **Find the cost of a dozen bagels**: The price for a dozen bagels is given as $24.
+
+3. **Calculate the cost per bagel when buying a dozen**: To find the cost per bagel when buying a dozen, we divide the total cost of a dozen by the number of bagels in a dozen (which is 12).
+   \[
+   \text{Cost per bagel (dozen)} = \frac{24}{12} = 2
+   \]
+   So, the cost per bagel when buying a dozen is $2.00.
+
+4. **Calculate the savings per bagel**: We subtract the cost per bagel when buying a dozen from the cost per individual bagel.
+   \[
+   \text{Savings per bagel} = 2.25 - 2.00 = 0.25
+   \]
+
+5. **Convert the savings into cents**: Since the savings are currently in dollars, we need to convert it into cents. We do this by multiplying by 100 (since there are 100 cents in a dollar).
+   \[
+   \text{Savings in cents} = 0.25 \times 100 = 25
+   \]
+
+Therefore, the amount saved per bagel, in cents, by buying a dozen at a time is:
+</reasoning>
+<answer>25</answer>

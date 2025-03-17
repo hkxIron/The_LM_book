@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many seconds Ned will have to diffuse the bomb when he reaches it, we follow these steps:
+
+1. **Determine the total time Ned needs to run up the stairs**: 
+   Ned has to run up 20 flights of stairs and takes 11 seconds for each flight. So we calculate the total time needed to reach the top floor by multiplying the number of flights by the time per flight.
+   \[
+   \text{Total time to run up stairs} = 20 \text{ flights} \times 11 \text{ seconds/flight} = 220 \text{ seconds}
+   \]
+
+2. **Calculate the remaining time on the bomb timer when Ned reaches the top**:
+   The bomb initially has 72 seconds left. Since Ned has already spent 165 seconds running up the stairs, we need to find out how much time is left on the bomb when he gets to the top.
+   - First, we need to determine how much longer Ned has to run:
+   \[
+   \text{Time left to run} = 220 \text{ seconds (total time)} - 165 \text{ seconds (time already spent)} = 55 \text{ seconds}
+   \]
+
+3. **Determine the time left on the bomb timer when Ned reaches the top**:
+   We subtract the time Ned has left to run from the initial timer of the bomb:
+   \[
+   \text{Time left on bomb when Ned reaches the top} = 72 \text{ seconds (initial timer)} - 55 \text{ seconds (time left to run)} = 17 \text{ seconds}
+   \]
+
+Thus, when Ned reaches the bomb, he will have 17 seconds left to diffuse it.
+</reasoning>
+<answer>17</answer>

@@ -1,0 +1,54 @@
+<reasoning>
+Let's denote the number of cherry candies as \( C \). According to the problem, we have the following relationships:
+
+1. The number of grape candies \( G \) is three times the number of cherry candies:
+   \[
+   G = 3C
+   \]
+
+2. The number of apple candies \( A \) is two times the number of grape candies:
+   \[
+   A = 2G
+   \]
+
+Next, we can substitute the expression for \( G \) into the equation for \( A \):
+\[
+A = 2(3C) = 6C
+\]
+
+Now we have the relationships for all types of candies in terms of \( C \):
+- Cherry candies: \( C \)
+- Grape candies: \( G = 3C \)
+- Apple candies: \( A = 6C \)
+
+Now, we need to find the total number of candies:
+\[
+\text{Total candies} = C + G + A = C + 3C + 6C = 10C
+\]
+
+Each candy costs $2.50, and the total cost of all candies is $200. Therefore, we can set up the equation:
+\[
+\text{Total cost} = \text{Total candies} \times \text{Cost per candy}
+\]
+Substituting the values we have:
+\[
+200 = (10C) \times 2.5
+\]
+
+Now, we solve for \( C \):
+\[
+200 = 25C
+\]
+To isolate \( C \), divide both sides by 25:
+\[
+C = \frac{200}{25} = 8
+\]
+
+Now that we have \( C \), we can find the number of grape candies \( G \):
+\[
+G = 3C = 3 \times 8 = 24
+\]
+
+Thus, the store has 24 grape candies.
+</reasoning>
+<answer>24</answer>

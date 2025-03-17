@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine how many jellybeans Caleb has. We know that Caleb has 3 dozen jellybeans. 
+
+1. **Calculate the number of jellybeans Caleb has:**
+   - A dozen is equal to 12 items.
+   - So, if Caleb has 3 dozen jellybeans, we calculate:
+     \[
+     3 \text{ dozen} = 3 \times 12 = 36 \text{ jellybeans}
+     \]
+   Therefore, Caleb has 36 jellybeans.
+
+2. **Calculate how many jellybeans Sophie has:**
+   - We are told that Sophie has half as many jellybeans as Caleb.
+   - To find out how many jellybeans Sophie has, we divide the number of jellybeans Caleb has by 2:
+     \[
+     \text{Sophie’s jellybeans} = \frac{36}{2} = 18 \text{ jellybeans}
+     \]
+   So, Sophie has 18 jellybeans.
+
+3. **Calculate the total number of jellybeans:**
+   - To find the total number of jellybeans Caleb and Sophie have together, we simply add the number of jellybeans each has:
+     \[
+     \text{Total jellybeans} = \text{Caleb's jellybeans} + \text{Sophie's jellybeans} = 36 + 18 = 54
+     \]
+
+Thus, the total number of jellybeans Caleb and Sophie have together is 54.
+</reasoning>
+<answer>54</answer>

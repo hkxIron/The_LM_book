@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many shirts Mary has left after giving away some, we will follow these steps:
+
+1. **Calculate how many blue shirts Mary gives away**: 
+   - Mary has 26 blue shirts.
+   - She gives away half of them. 
+
+   To find half of 26, we divide:
+   \[
+   \text{Blue shirts given away} = \frac{26}{2} = 13
+   \]
+
+2. **Calculate how many brown shirts Mary gives away**: 
+   - Mary has 36 brown shirts.
+   - She gives away a third of them. 
+
+   To find a third of 36, we divide:
+   \[
+   \text{Brown shirts given away} = \frac{36}{3} = 12
+   \]
+
+3. **Calculate how many shirts Mary has left**: 
+   - For blue shirts:
+   \[
+   \text{Blue shirts left} = 26 - 13 = 13
+   \]
+   - For brown shirts:
+   \[
+   \text{Brown shirts left} = 36 - 12 = 24
+   \]
+
+4. **Total shirts left**: 
+   Now we add the remaining blue and brown shirts together:
+   \[
+   \text{Total shirts left} = 13 + 24 = 37
+   \]
+
+Thus, after giving away some shirts, Mary has a total of 37 shirts left.
+</reasoning>
+<answer>37</answer>

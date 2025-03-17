@@ -1,0 +1,47 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the length of each original piece**: Vincent starts with 72 inches of rope and cuts it into 12 equal pieces. To find the length of each piece, we divide the total length of the rope by the number of pieces.
+   \[
+   \text{Length of each piece} = \frac{72 \text{ inches}}{12} = 6 \text{ inches}
+   \]
+   So, each of the 12 pieces is originally 6 inches long.
+
+2. **Combining pieces**: Vincent then ties three of these pieces together. When he ties them together, he is effectively combining their lengths:
+   \[
+   \text{Length of tied pieces} = 3 \text{ pieces} \times 6 \text{ inches} = 18 \text{ inches}
+   \]
+   Therefore, the total length of the three tied pieces is 18 inches.
+
+3. **Adjusting for the knots**: When he ties the three pieces together, he finds that the knots make each piece 1 inch shorter. Since he tied together three pieces, it is important to clarify how the knot affects the length. The problem states that "each piece" is now 1 inch shorter. In this case, we interpret this to mean that the total length of each of the tied pieces is reduced by 1 inch per piece. Since he tied three pieces, the total reduction due to knots will be:
+   \[
+   \text{Total reduction} = 3 \text{ pieces} \times 1 \text{ inch} = 3 \text{ inches}
+   \]
+
+4. **New length for the tied pieces**: Now we need to calculate the new effective length of the three tied pieces after accounting for the reduction due to knots:
+   \[
+   \text{New length of tied pieces} = 18 \text{ inches} - 3 \text{ inches} = 15 \text{ inches}
+   \]
+   Hence, after tying the pieces together and accounting for the knots, the total length of the three combined pieces is 15 inches.
+
+5. **Length of the remaining pieces**: Since Vincent cut the rope into 12 pieces initially and tied 3 pieces together, he has:
+   \[
+   \text{Remaining pieces} = 12 - 3 = 9 \text{ pieces}
+   \]
+   Each of these remaining 9 pieces still has a length of 6 inches because they weren't affected by the knots.
+
+6. **Final lengths of all pieces**: Therefore, after tying the three pieces together, Vincent has:
+   - 9 pieces of 6 inches each
+   - 1 piece (the tied one) of 15 inches
+
+In summary, the lengths of the pieces after all modifications are as follows:
+- 9 pieces of 6 inches
+- 1 piece of 15 inches
+
+Thus, the final lengths of the pieces of rope are:
+- The tied pieces are 15 inches long.
+- The other pieces remain at 6 inches long.
+
+The problem specifically asks for how long the pieces of rope are after all this, and we conclude that the tied piece is 15 inches long.
+</reasoning>
+<answer>15</answer>

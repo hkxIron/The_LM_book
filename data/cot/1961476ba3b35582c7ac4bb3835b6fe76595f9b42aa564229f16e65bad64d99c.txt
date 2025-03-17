@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we first need to convert the volume of the full container of milk from liters to milliliters because the portion size is given in milliliters.
+
+1. **Convert liters to milliliters**: 
+   - We know that 1 liter is equal to 1000 milliliters. Therefore, we can convert 2 liters to milliliters:
+   \[
+   2 \text{ liters} \times 1000 \text{ ml/liter} = 2000 \text{ ml}
+   \]
+   This means that the full container has 2000 ml of milk.
+
+2. **Determine how many 200 ml portions can be poured from 2000 ml**:
+   - Now we need to find out how many 200 ml portions can be made from the total of 2000 ml. To do this, we divide the total volume of milk by the volume of each portion:
+   \[
+   \text{Number of portions} = \frac{2000 \text{ ml}}{200 \text{ ml/portion}} = 10
+   \]
+   This calculation shows that Jasmine can pour 10 portions of 200 ml milk from the full 2-liter container.
+
+Therefore, the final result is:
+</reasoning>
+<answer>10</answer>

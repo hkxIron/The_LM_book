@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many asparagus spears the caterer will need in total, we will follow these steps:
+
+1. **Determine the number of guests Alex is inviting.**  
+   Bridgette is inviting 84 guests. Alex is inviting two thirds of that number.  
+   We calculate Alex's guests as follows:  
+   \[
+   \text{Alex's guests} = \frac{2}{3} \times 84 = 56
+   \]
+
+2. **Calculate the total number of guests.**  
+   To find the total number of guests at the wedding, we add the number of guests invited by Bridgette and Alex:  
+   \[
+   \text{Total guests} = 84 + 56 = 140
+   \]
+
+3. **Account for the extra plates made by the caterer.**  
+   The caterer makes 10 extra plates, so we need to add this number to the total guests:  
+   \[
+   \text{Total plates} = 140 + 10 = 150
+   \]
+
+4. **Determine the total number of asparagus spears needed.**  
+   Each plate will have 8 asparagus spears. We find the total number of asparagus spears by multiplying the total number of plates by the number of spears per plate:  
+   \[
+   \text{Total asparagus spears} = 150 \times 8 = 1200
+   \]
+
+Now, I will summarize the calculations:  
+- Alex invites 56 guests.  
+- Total guests become 140.  
+- Including 10 extra plates results in 150 plates.  
+- Finally, multiplying 150 plates by 8 asparagus spears gives us 1200 spears in total.
+
+Therefore, the caterer will need 1200 asparagus spears in all.
+</reasoning>
+<answer>1200</answer>

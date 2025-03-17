@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we will start by determining how many pistachios have shells and then how many of those have opened shells.
+
+1. **Calculate the number of pistachios with shells**: 
+   We know that 95 percent of the pistachios have shells. 
+   - Total pistachios = 80
+   - Percentage with shells = 95% (which is 0.95 in decimal form)
+   
+   To find the number of pistachios with shells, we multiply the total number of pistachios by the percentage that have shells:
+   \[
+   \text{Pistachios with shells} = 80 \times 0.95 = 76
+   \]
+   This means there are 76 pistachios that have shells.
+
+2. **Calculate the number of pistachios with opened shells**:
+   Now we know that 75 percent of the pistachios that have shells are opened.
+   - Percentage with opened shells = 75% (which is 0.75 in decimal form)
+   
+   We will find the number of opened shells by multiplying the number of pistachios with shells by the percentage that are opened:
+   \[
+   \text{Pistachios with opened shells} = 76 \times 0.75 = 57
+   \]
+
+Therefore, the number of pistachios in the bag that have shells and have an opened shell is 57.
+</reasoning>
+<answer>57</answer>

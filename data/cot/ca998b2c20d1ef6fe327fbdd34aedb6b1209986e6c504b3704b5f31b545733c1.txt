@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Brooke's total balloons after adding**: 
+   - Brooke currently has 12 balloons. If she adds 8 balloons, we need to perform the addition:
+   \[
+   12 + 8 = 20
+   \]
+   So, Brooke will have 20 balloons.
+
+2. **Calculate Tracy's total balloons after adding**: 
+   - Tracy currently has 6 balloons. If she adds 24 balloons, we perform the addition:
+   \[
+   6 + 24 = 30
+   \]
+   So, Tracy will have 30 balloons.
+
+3. **Calculate the number of balloons Tracy has after popping half**:
+   - Tracy pops half of her balloons, so we need to calculate half of 30:
+   \[
+   \frac{30}{2} = 15
+   \]
+   Thus, after popping half, Tracy will have 15 balloons left.
+
+4. **Calculate the total number of balloons they have together**:
+   - Now, we add the number of balloons Brooke has to the number of balloons Tracy has after popping:
+   \[
+   20 + 15 = 35
+   \]
+   Therefore, the total number of balloons they have together is 35.
+
+So, putting it all together, we have:
+</reasoning>
+<answer>35</answer>

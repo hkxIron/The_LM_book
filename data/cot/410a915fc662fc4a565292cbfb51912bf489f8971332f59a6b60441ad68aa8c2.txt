@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many packs of bread Jimmy needs to buy, we can follow these steps:
+
+1. **Calculate the total number of slices of bread needed**: 
+   Each sandwich requires 2 slices of bread. Since Jimmy makes 8 sandwiches, we multiply the number of sandwiches by the number of slices per sandwich:
+   \[
+   8 \text{ sandwiches} \times 2 \text{ slices/sandwich} = 16 \text{ slices}
+   \]
+   Therefore, Jimmy needs 16 slices of bread in total.
+
+2. **Determine how many slices are in one pack of bread**: 
+   Each pack of bread contains 4 slices. 
+
+3. **Calculate the number of packs of bread needed**: 
+   To find out how many packs Jimmy needs, we divide the total number of slices needed by the number of slices per pack:
+   \[
+   \frac{16 \text{ slices}}{4 \text{ slices/pack}} = 4 \text{ packs}
+   \]
+   This means Jimmy needs to buy 4 packs of bread to have enough slices for his sandwiches.
+
+Thus, the final answer is:
+</reasoning>
+<answer>4</answer>

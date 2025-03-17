@@ -1,0 +1,51 @@
+<reasoning>
+To determine how many pies Eddie, his sister, and his mother can bake together in 7 days, we first need to find the total number of pies each person can bake in one day.
+
+1. **Calculate Eddie's daily pie production:**
+   Eddie bakes 3 pies a day.
+
+2. **Calculate his sister's daily pie production:**
+   His sister bakes 6 pies a day.
+
+3. **Calculate his mother's daily pie production:**
+   His mother bakes 8 pies a day.
+
+Now, we will add their daily pie productions together to find the total number of pies they can bake in one day:
+
+\[
+\text{Total pies per day} = \text{Eddie's pies} + \text{Sister's pies} + \text{Mother's pies}
+\]
+\[
+\text{Total pies per day} = 3 + 6 + 8
+\]
+
+Calculating the total:
+
+\[
+3 + 6 = 9
+\]
+\[
+9 + 8 = 17
+\]
+
+So, together, they can bake 17 pies in one day.
+
+4. **Calculate the total pies they can bake in 7 days:**
+Now, we multiply the total number of pies they can bake in one day by the number of days (7):
+
+\[
+\text{Total pies in 7 days} = \text{Total pies per day} \times 7
+\]
+\[
+\text{Total pies in 7 days} = 17 \times 7
+\]
+
+Calculating this:
+
+\[
+17 \times 7 = 119
+\]
+
+Therefore, Eddie, his sister, and his mother can bake a total of 119 pies in 7 days.
+</reasoning>
+<answer>119</answer>

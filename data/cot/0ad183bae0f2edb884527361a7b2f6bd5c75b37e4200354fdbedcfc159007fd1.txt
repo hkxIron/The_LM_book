@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many steps John climbs, we can follow these steps:
+
+1. **Calculate the total height John climbs.**  
+   John climbs 9 flights of stairs, and each flight is 10 feet high. To find the total height, we multiply the number of flights by the height of each flight:
+
+   \[
+   \text{Total height} = \text{Number of flights} \times \text{Height of each flight}
+   \]
+   \[
+   \text{Total height} = 9 \text{ flights} \times 10 \text{ feet/flight} = 90 \text{ feet}
+   \]
+
+2. **Convert the total height from feet to inches.**  
+   Since each flight is measured in feet and the step height is given in inches, we need to convert the total height from feet to inches. There are 12 inches in a foot, so we multiply the total height in feet by 12:
+
+   \[
+   \text{Total height in inches} = \text{Total height in feet} \times 12 \text{ inches/foot}
+   \]
+   \[
+   \text{Total height in inches} = 90 \text{ feet} \times 12 \text{ inches/foot} = 1080 \text{ inches}
+   \]
+
+3. **Calculate the number of steps climbed.**  
+   Each step is 18 inches high. To find the total number of steps John climbs, we divide the total height in inches by the height of each step:
+
+   \[
+   \text{Number of steps} = \frac{\text{Total height in inches}}{\text{Height of each step in inches}}
+   \]
+   \[
+   \text{Number of steps} = \frac{1080 \text{ inches}}{18 \text{ inches/step}} = 60 \text{ steps}
+   \]
+
+Therefore, the total number of steps John climbs is 60.
+</reasoning>
+<answer>60</answer>

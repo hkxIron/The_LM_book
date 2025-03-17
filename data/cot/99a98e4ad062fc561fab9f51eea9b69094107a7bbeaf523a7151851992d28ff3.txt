@@ -1,0 +1,46 @@
+<reasoning>
+To solve this problem, we'll break it down step by step.
+
+1. **Identify the populations:**
+   - Let the population of Wellington be \( W \).
+   - We know from the problem statement that \( W = 900 \).
+
+2. **Determine the population of Port Perry:**
+   - The problem states that the population of Port Perry is seven times the population of Wellington.
+   - We can express the population of Port Perry, denoted as \( P \), as:
+     \[
+     P = 7 \times W
+     \]
+   - Substituting \( W = 900 \):
+     \[
+     P = 7 \times 900 = 6300
+     \]
+
+3. **Determine the population of Lazy Harbor:**
+   - The problem also states that the population of Port Perry is 800 more than the population of Lazy Harbor.
+   - Let the population of Lazy Harbor be \( L \). Thus, we can express this relationship as:
+     \[
+     P = L + 800
+     \]
+   - We already calculated \( P = 6300 \), so we can set up the equation:
+     \[
+     6300 = L + 800
+     \]
+   - To find \( L \), we can rearrange the equation:
+     \[
+     L = 6300 - 800 = 5500
+     \]
+
+4. **Calculate the combined population of Port Perry and Lazy Harbor:**
+   - Now that we have the populations of both Port Perry and Lazy Harbor, we can find the total population by adding them together:
+     \[
+     \text{Combined population} = P + L = 6300 + 5500
+     \]
+   - Performing the addition:
+     \[
+     6300 + 5500 = 11800
+     \]
+
+Therefore, the combined population of Port Perry and Lazy Harbor is 11800.
+</reasoning>
+<answer>11800</answer>

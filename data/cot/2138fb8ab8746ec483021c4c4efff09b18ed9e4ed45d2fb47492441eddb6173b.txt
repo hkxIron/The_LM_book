@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Calculate the number of gnomes with red hats:**
+   We know there are 28 garden gnomes in total and that three-fourths of them have red hats. 
+   \[
+   \text{Number of gnomes with red hats} = \frac{3}{4} \times 28 = 21
+   \]
+   This means there are 21 gnomes with red hats.
+
+2. **Calculate the number of gnomes with blue hats:**
+   The remaining gnomes must have blue hats. Since there are 28 gnomes in total and 21 have red hats, the number of gnomes with blue hats is:
+   \[
+   \text{Number of gnomes with blue hats} = 28 - 21 = 7
+   \]
+
+3. **Calculate the number of gnomes with big noses:**
+   According to the problem, half of the garden gnomes have big noses. So, we will calculate half of 28:
+   \[
+   \text{Number of gnomes with big noses} = \frac{1}{2} \times 28 = 14
+   \]
+
+4. **Determine the number of gnomes with blue hats that have big noses:**
+   We know that 6 gnomes with blue hats have big noses. 
+
+5. **Calculate the number of gnomes with big noses that have red hats:**
+   Since there are 14 gnomes with big noses and 6 of them are blue hats, the number of gnomes with big noses that have red hats is:
+   \[
+   \text{Number of red hats with big noses} = 14 - 6 = 8
+   \]
+
+6. **Calculate the number of gnomes with small noses:**
+   Since half of the gnomes have small noses, the number of gnomes with small noses is also 14 (because there are 28 gnomes total, and half have small noses).
+
+7. **Calculate the number of gnomes with red hats that have small noses:**
+   We know there are 21 gnomes with red hats in total, and out of those, 8 have big noses. Therefore, the number of gnomes with red hats that have small noses is:
+   \[
+   \text{Number of red hats with small noses} = 21 - 8 = 13
+   \]
+
+Thus, the final answer is:
+</reasoning>
+<answer>13</answer>

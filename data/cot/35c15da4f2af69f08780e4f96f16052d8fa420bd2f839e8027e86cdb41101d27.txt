@@ -1,0 +1,49 @@
+<reasoning>
+To determine how much more Coach A spent than Coach B, we will first calculate the total amount spent by each coach.
+
+**Step 1: Calculate the total spent by Coach A.**
+- Coach A bought 10 basketballs at a price of $29 each.
+- We use multiplication to find the total cost for the basketballs.
+  
+Total cost for Coach A = Number of basketballs × Price per basketball  
+Total cost for Coach A = 10 × 29  
+
+Now, let's do the multiplication:  
+10 × 29 = 290  
+
+So, Coach A spent $290.
+
+**Step 2: Calculate the total spent by Coach B.**
+- Coach B bought 14 baseballs at $2.50 each and one baseball bat for $18.
+- First, we calculate the total cost for the baseballs.
+
+Total cost for baseballs = Number of baseballs × Price per baseball  
+Total cost for baseballs = 14 × 2.50  
+
+Now, let's do that multiplication:  
+14 × 2.50 = 35  
+
+So, the cost for the baseballs is $35.
+
+- Next, we add the cost of the baseball bat to the total cost of the baseballs to find Coach B's total spending.
+
+Total cost for Coach B = Cost for baseballs + Cost of baseball bat  
+Total cost for Coach B = 35 + 18  
+
+Now, let's add those amounts:  
+35 + 18 = 53  
+
+So, Coach B spent $53.
+
+**Step 3: Determine how much more Coach A spent than Coach B.**
+- We subtract the total spent by Coach B from the total spent by Coach A.
+
+Difference in spending = Total cost for Coach A - Total cost for Coach B  
+Difference in spending = 290 - 53  
+
+Now, let's calculate that:  
+290 - 53 = 237  
+
+Therefore, Coach A spent $237 more than Coach B.
+</reasoning>
+<answer>237</answer>

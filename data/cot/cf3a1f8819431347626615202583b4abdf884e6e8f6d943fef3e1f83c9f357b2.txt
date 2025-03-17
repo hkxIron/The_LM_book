@@ -1,0 +1,39 @@
+<reasoning>
+To find the percentage of green caps, we first need to determine how many green caps Ali has.
+
+1. **Identify the total number of caps**: 
+   Ali has a total of 125 bottle caps.
+
+2. **Identify the number of red caps**: 
+   Ali has 50 red caps.
+
+3. **Calculate the number of green caps**: 
+   We can find the number of green caps by subtracting the number of red caps from the total number of caps. 
+   \[
+   \text{Number of green caps} = \text{Total caps} - \text{Red caps} = 125 - 50 = 75
+   \]
+   So, Ali has 75 green caps.
+
+4. **Calculate the percentage of green caps**: 
+   To find the percentage of green caps, we use the formula:
+   \[
+   \text{Percentage of green caps} = \left(\frac{\text{Number of green caps}}{\text{Total caps}}\right) \times 100
+   \]
+   Substituting the values we have:
+   \[
+   \text{Percentage of green caps} = \left(\frac{75}{125}\right) \times 100
+   \]
+
+5. **Simplify the fraction**:
+   \[
+   \frac{75}{125} = 0.6
+   \]
+
+6. **Multiply by 100**: 
+   \[
+   0.6 \times 100 = 60
+   \]
+
+Therefore, the percentage of caps that are green is 60%.
+</reasoning>
+<answer>60</answer>

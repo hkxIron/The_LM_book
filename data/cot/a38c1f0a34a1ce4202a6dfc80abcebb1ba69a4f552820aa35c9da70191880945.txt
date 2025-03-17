@@ -1,0 +1,32 @@
+<reasoning>
+To find Uki's total earnings for five days, we need to calculate her daily earnings first and then multiply that by five.
+
+1. **Calculate daily earnings for cupcakes**:
+   - Uki sells cupcakes for $1.50 each.
+   - She bakes an average of 20 cupcakes per day.
+   - Daily earnings from cupcakes = number of cupcakes * price per cupcake.
+   - Daily earnings from cupcakes = 20 cupcakes * $1.50 = $30.
+
+2. **Calculate daily earnings for cookies**:
+   - Uki sells cookies for $2 per packet.
+   - She bakes an average of 10 packets of cookies per day.
+   - Daily earnings from cookies = number of packets * price per packet.
+   - Daily earnings from cookies = 10 packets * $2 = $20.
+
+3. **Calculate daily earnings for biscuits**:
+   - Uki sells biscuits for $1 per packet.
+   - She bakes an average of 20 packets of biscuits per day.
+   - Daily earnings from biscuits = number of packets * price per packet.
+   - Daily earnings from biscuits = 20 packets * $1 = $20.
+
+4. **Calculate total daily earnings**:
+   - Total daily earnings = earnings from cupcakes + earnings from cookies + earnings from biscuits.
+   - Total daily earnings = $30 (cupcakes) + $20 (cookies) + $20 (biscuits) = $70.
+
+5. **Calculate total earnings for five days**:
+   - Total earnings for five days = total daily earnings * number of days.
+   - Total earnings for five days = $70 * 5 = $350.
+
+Therefore, Uki's total earnings for five days will be $350.
+</reasoning>
+<answer>350</answer>

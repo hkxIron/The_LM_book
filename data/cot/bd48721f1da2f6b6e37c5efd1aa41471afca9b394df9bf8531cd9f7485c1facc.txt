@@ -1,0 +1,21 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine the total number of avocados Georgie has:**
+   - Georgie already has 5 avocados.
+   - Her sister buys an additional 4 avocados.
+   - To find the total number of avocados, we add these two amounts together:
+     \[
+     5 \text{ (avocados Georgie has)} + 4 \text{ (avocados her sister buys)} = 9 \text{ avocados}
+     \]
+
+2. **Determine how many servings of guacamole Georgie can make:**
+   - According to the recipe, Georgie needs 3 avocados to make one serving of guacamole.
+   - To find out how many servings she can make with 9 avocados, we divide the total number of avocados by the number of avocados needed for one serving:
+     \[
+     9 \text{ (total avocados)} \div 3 \text{ (avocados per serving)} = 3 \text{ servings}
+     \]
+
+Therefore, Georgie can make 3 servings of guacamole with the avocados she has.
+</reasoning>
+<answer>3</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To determine how many weeks it will take John to read the entire Bible, we can follow these steps:
+
+1. **Calculate the total number of pages John reads each day.** 
+   - Since John reads for 2 hours each day and reads at a rate of 50 pages per hour, we multiply the number of hours he reads by the number of pages he reads per hour:
+   \[
+   \text{Pages per day} = \text{Hours per day} \times \text{Pages per hour} = 2 \, \text{hours} \times 50 \, \text{pages/hour} = 100 \, \text{pages/day}
+   \]
+   This means John reads 100 pages every day.
+
+2. **Calculate the total number of days required to read the Bible.**
+   - The Bible has 2800 pages, so to find out how many days it will take John to read all the pages, we divide the total number of pages by the number of pages he reads each day:
+   \[
+   \text{Total days} = \frac{\text{Total pages}}{\text{Pages per day}} = \frac{2800 \, \text{pages}}{100 \, \text{pages/day}} = 28 \, \text{days}
+   \]
+   Thus, it will take John 28 days to read the entire Bible.
+
+3. **Convert the total days into weeks.**
+   - Since there are 7 days in a week, we divide the total number of days by 7 to find out how many weeks it takes:
+   \[
+   \text{Total weeks} = \frac{\text{Total days}}{7} = \frac{28 \, \text{days}}{7 \, \text{days/week}} = 4 \, \text{weeks}
+   \]
+   This means it will take John 4 weeks to read the Bible.
+
+Therefore, after completing all calculations, we find that John will finish reading the Bible in 4 weeks.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Setup**: Cleo and Ignacio placed 30 marbles in a jar. This is our starting point.
+   - Total marbles = 30
+
+2. **Marbles Taken on the Second Day**: The next day, they took 3/5 of the marbles from the jar. 
+   - To find out how many marbles this is, we calculate:
+     \[
+     \text{Marbles taken} = \frac{3}{5} \times 30
+     \]
+   - Performing the multiplication:
+     \[
+     \frac{3 \times 30}{5} = \frac{90}{5} = 18
+     \]
+   - So, they took 18 marbles from the jar.
+
+3. **Dividing the Marbles**: These 18 marbles are divided equally between Cleo and Ignacio.
+   - Since they are dividing equally, each person gets:
+     \[
+     \text{Marbles per person} = \frac{18}{2} = 9
+     \]
+   - Therefore, Cleo has 9 marbles after this division.
+
+4. **Marbles Remaining in the Jar**: After taking out 18 marbles, we need to find out how many are left in the jar:
+   - Remaining marbles = Total marbles - Marbles taken
+   - Remaining marbles = 30 - 18 = 12
+
+5. **Cleo Takes Marbles on the Third Day**: On the third day, Cleo takes 1/2 of the marbles remaining in the jar.
+   - We calculate:
+     \[
+     \text{Marbles taken by Cleo} = \frac{1}{2} \times 12
+     \]
+   - Performing the multiplication:
+     \[
+     \frac{12}{2} = 6
+     \]
+   - So, Cleo takes 6 more marbles.
+
+6. **Total Marbles Cleo Has on the Third Day**: Now, we add the 6 marbles she took on the third day to the 9 she already had.
+   - Total marbles Cleo has = 9 + 6 = 15
+
+Therefore, after following all the steps, we find that Cleo has 15 marbles on the third day.
+</reasoning>
+<answer>15</answer>

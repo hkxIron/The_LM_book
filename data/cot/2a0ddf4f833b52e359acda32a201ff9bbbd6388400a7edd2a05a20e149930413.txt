@@ -1,0 +1,58 @@
+<reasoning>
+To find out how much each ring costs, we can start by setting up an equation based on the information provided.
+
+1. **Define the variables:**
+   - Let \( n \) be the price of one necklace.
+   - Let \( r \) be the price of one ring.
+
+2. **Use the information given:**
+   - We know that each necklace costs $12, so \( n = 12 \).
+   - Linda sold 4 necklaces and 8 rings, totaling $80.
+
+3. **Set up the equation:**
+   - The total revenue can be expressed as:
+     \[
+     4n + 8r = 80
+     \]
+   - Now, substitute \( n \) with 12:
+     \[
+     4(12) + 8r = 80
+     \]
+
+4. **Calculate the value of \( 4n \):**
+   - Calculate \( 4(12) \):
+     \[
+     4(12) = 48
+     \]
+   - Now, substitute back into the equation:
+     \[
+     48 + 8r = 80
+     \]
+
+5. **Isolate \( 8r \):**
+   - Subtract 48 from both sides:
+     \[
+     8r = 80 - 48
+     \]
+   - Calculate the right side:
+     \[
+     80 - 48 = 32
+     \]
+   - So now we have:
+     \[
+     8r = 32
+     \]
+
+6. **Solve for \( r \):**
+   - Divide both sides by 8:
+     \[
+     r = \frac{32}{8}
+     \]
+   - Calculate \( \frac{32}{8} \):
+     \[
+     r = 4
+     \]
+
+This means that each ring costs $4.
+</reasoning>
+<answer>4</answer>

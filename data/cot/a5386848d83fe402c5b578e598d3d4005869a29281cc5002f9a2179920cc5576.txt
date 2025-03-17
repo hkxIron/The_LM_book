@@ -1,0 +1,48 @@
+<reasoning>
+Let's start by determining how many betta fish and goldfish Bexley brings to Hershel.
+
+1. **Calculate the number of betta fish Bexley brings:**
+   - Hershel has 10 betta fish.
+   - Bexley brings \( \frac{2}{5} \) of that amount: 
+   \[
+   \text{Bexley's betta fish} = 10 \times \frac{2}{5} = 10 \times 0.4 = 4
+   \]
+   So, Bexley brings 4 betta fish.
+
+2. **Calculate the number of goldfish Bexley brings:**
+   - Hershel has 15 goldfish.
+   - Bexley brings \( \frac{1}{3} \) of that amount:
+   \[
+   \text{Bexley's goldfish} = 15 \times \frac{1}{3} = 15 \div 3 = 5
+   \]
+   So, Bexley brings 5 goldfish.
+
+3. **Calculate the total number of fish after Bexley's contribution:**
+   - Total betta fish now:
+   \[
+   \text{Total betta fish} = 10 + 4 = 14
+   \]
+   - Total goldfish now:
+   \[
+   \text{Total goldfish} = 15 + 5 = 20
+   \]
+   - Therefore, the total number of fish is:
+   \[
+   \text{Total fish} = 14 + 20 = 34
+   \]
+
+4. **Calculate the number of fish Hershel gifts to his sister:**
+   - Hershel gifts \( \frac{1}{2} \) of his fish:
+   \[
+   \text{Fish gifted} = 34 \times \frac{1}{2} = 34 \div 2 = 17
+   \]
+
+5. **Calculate the total number of fish remaining:**
+   - To find the remaining fish:
+   \[
+   \text{Fish remaining} = 34 - 17 = 17
+   \]
+
+Thus, after calculating all the numbers, we find that the total number of fish remaining in the bowl is 17.
+</reasoning>
+<answer>17</answer>

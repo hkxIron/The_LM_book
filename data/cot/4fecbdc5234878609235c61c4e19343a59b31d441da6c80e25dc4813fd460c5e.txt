@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we will first calculate how much money was raised from the SUVs and trucks that were washed, and then we will determine how much money is left for the cars.
+
+1. **Calculate the total money raised from SUVs:**
+   - Laura washed 5 SUVs, and she charges $7 for each SUV.
+   - Total from SUVs = Number of SUVs * Price per SUV
+   - Total from SUVs = 5 * 7 = $35
+
+2. **Calculate the total money raised from trucks:**
+   - Laura washed 5 trucks, and she charges $6 for each truck.
+   - Total from trucks = Number of trucks * Price per truck
+   - Total from trucks = 5 * 6 = $30
+
+3. **Calculate the total money raised from SUVs and trucks combined:**
+   - Total from SUVs and trucks = Total from SUVs + Total from trucks
+   - Total from SUVs and trucks = $35 + $30 = $65
+
+4. **Determine how much money was raised from cars:**
+   - The total amount raised from all washes is $100.
+   - Amount raised from cars = Total raised - Total from SUVs and trucks
+   - Amount raised from cars = $100 - $65 = $35
+
+5. **Calculate how many cars were washed:**
+   - Laura charges $5 for each car.
+   - Number of cars washed = Amount raised from cars / Price per car
+   - Number of cars washed = $35 / $5 = 7
+
+Therefore, Laura washed 7 cars.
+</reasoning>
+<answer>7</answer>

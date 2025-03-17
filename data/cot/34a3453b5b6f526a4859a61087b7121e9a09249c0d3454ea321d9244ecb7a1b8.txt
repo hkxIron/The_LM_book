@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the family members attending**: 
+   - Julia's mom
+   - Julia's dad
+   - Julia's grandma
+   - Julia's three little sisters
+
+   This gives us:
+   - Adults: 3 (mom, dad, grandma)
+   - Children: 3 (the three little sisters)
+
+2. **Determine the ticket prices**: 
+   - Ticket price for adults = $12
+   - Ticket price for children = $10
+
+3. **Calculate the total cost for adults**: 
+   We have 3 adults, and each ticket costs $12. 
+   To find the total for adults, we multiply the number of adults by the ticket price for adults:
+   \[
+   \text{Total for adults} = 3 \times 12 = 36
+   \]
+
+4. **Calculate the total cost for children**: 
+   We have 3 children, and each ticket costs $10. 
+   To find the total for children, we multiply the number of children by the ticket price for children:
+   \[
+   \text{Total for children} = 3 \times 10 = 30
+   \]
+
+5. **Calculate the overall total cost**: 
+   Now we add the total cost for adults and the total cost for children together:
+   \[
+   \text{Overall total} = \text{Total for adults} + \text{Total for children} = 36 + 30 = 66
+   \]
+
+Therefore, the total cost for Julia's family's tickets is $66.
+</reasoning>
+<answer>66</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial amount of money Randy has:** 
+   Randy starts with a total of $30.
+
+2. **Money spent on lunch:** 
+   He spends $10 on lunch. To find out how much money he has left after lunch, we subtract the amount spent from the initial total:
+   \[
+   30 - 10 = 20
+   \]
+   So, Randy has $20 left after buying lunch.
+
+3. **Calculating the amount spent on ice cream:** 
+   Randy spends a quarter of the money he has left on an ice cream cone. Since he has $20 left, we calculate a quarter of that amount:
+   \[
+   \frac{1}{4} \times 20 = 5
+   \]
+   Thus, Randy spends $5 on the ice cream cone.
+
+4. **Calculating the remaining amount:** 
+   To find out how much money Randy has left after buying the ice cream, we subtract the amount spent on ice cream from the amount he had after lunch:
+   \[
+   20 - 5 = 15
+   \]
+   Therefore, Randy has $15 left.
+
+Finally, we summarize the result.
+</reasoning>
+<answer>15</answer>

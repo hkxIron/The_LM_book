@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem step by step, let's start by determining how many women and men are on the bus.
+
+1. **Calculate the number of women:**
+   We know that two-thirds of the passengers are women. The total number of passengers is 48.
+   \[
+   \text{Number of women} = \frac{2}{3} \times 48
+   \]
+   Performing the multiplication:
+   \[
+   \frac{2 \times 48}{3} = \frac{96}{3} = 32
+   \]
+   So, there are 32 women on the bus.
+
+2. **Calculate the number of men:**
+   Since the total number of passengers is 48, we can find the number of men by subtracting the number of women from the total.
+   \[
+   \text{Number of men} = 48 - 32 = 16
+   \]
+   Thus, there are 16 men on the bus.
+
+3. **Calculate how many men are standing:**
+   We know that one-eighth of the men are standing. To find this, we calculate:
+   \[
+   \text{Number of standing men} = \frac{1}{8} \times 16
+   \]
+   Performing the multiplication:
+   \[
+   \frac{16}{8} = 2
+   \]
+   Therefore, 2 men are standing.
+
+4. **Calculate how many men are seated:**
+   To find the number of seated men, we subtract the number of standing men from the total number of men.
+   \[
+   \text{Number of seated men} = 16 - 2 = 14
+   \]
+   Thus, there are 14 men seated on the bus.
+</reasoning>
+<answer>14</answer>

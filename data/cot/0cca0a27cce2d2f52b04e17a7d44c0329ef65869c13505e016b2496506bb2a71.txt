@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of candles in the living room**: 
+   We know that Kalani has 20 candles in her bedroom, and this is twice the number of candles in the living room. Let’s denote the number of candles in the living room as \( x \). 
+   According to the problem, we can set up the equation:
+   \[
+   20 = 2x
+   \]
+   To find \( x \), we can divide both sides of the equation by 2:
+   \[
+   x = \frac{20}{2} = 10
+   \]
+   So, there are 10 candles in the living room.
+
+2. **Calculate the total number of candles before Donovan brings more**: 
+   Now, we add the number of candles in the bedroom and the living room:
+   \[
+   \text{Total candles before Donovan} = \text{Candles in bedroom} + \text{Candles in living room} = 20 + 10 = 30
+   \]
+
+3. **Add the candles brought in by Donovan**: 
+   Donovan brings in 20 more candles. Therefore, we add this to the total we just calculated:
+   \[
+   \text{Total candles in the house} = \text{Total before Donovan} + \text{Candles brought by Donovan} = 30 + 20 = 50
+   \]
+
+Thus, the total number of candles in the house after Donovan brings in more is 50.
+</reasoning>
+<answer>50</answer>

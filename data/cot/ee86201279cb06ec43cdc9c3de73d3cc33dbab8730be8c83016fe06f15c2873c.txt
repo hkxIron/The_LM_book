@@ -1,0 +1,41 @@
+<reasoning>
+Let's break the problem down step by step:
+
+1. **Determine how many peanuts Brock ate**:  
+   Brock ate one-fourth of the peanuts in the jar. To find out how many peanuts this is, we can calculate:
+   \[
+   \text{Peanuts eaten by Brock} = \frac{1}{4} \times 148
+   \]
+   Calculating this gives:
+   \[
+   \frac{1}{4} \times 148 = 37
+   \]
+   So, Brock ate 37 peanuts.
+
+2. **Determine how many peanuts Bonita ate**:  
+   According to the problem, Bonita ate 29 peanuts.
+
+3. **Calculate the total number of peanuts eaten**:  
+   Now we need to find the total number of peanuts eaten by both Brock and Bonita:
+   \[
+   \text{Total peanuts eaten} = \text{Peanuts eaten by Brock} + \text{Peanuts eaten by Bonita} = 37 + 29
+   \]
+   Calculating this gives:
+   \[
+   37 + 29 = 66
+   \]
+   So, together they ate 66 peanuts.
+
+4. **Determine how many peanuts remain in the jar**:  
+   We started with 148 peanuts, and we need to subtract the total number of peanuts eaten:
+   \[
+   \text{Peanuts remaining} = 148 - 66
+   \]
+   Calculating this gives:
+   \[
+   148 - 66 = 82
+   \]
+
+Therefore, the number of peanuts that remain in the jar is 82.
+</reasoning>
+<answer>82</answer>

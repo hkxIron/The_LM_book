@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Amount**: Isabel starts with $204 in her piggy bank.
+   - This is our starting point.
+
+2. **Spending Half on a Toy**: Isabel spends half of her initial amount on a toy.
+   - To find out how much she spent, we calculate half of $204:
+     \[
+     \text{Amount spent on toy} = \frac{204}{2} = 102
+     \]
+   - After buying the toy, we need to determine how much money remains:
+     \[
+     \text{Remaining money} = 204 - 102 = 102
+     \]
+
+3. **Spending Half of Remaining Money on a Book**: Now, Isabel spends half of the remaining money on a book.
+   - We again calculate half of the remaining amount:
+     \[
+     \text{Amount spent on book} = \frac{102}{2} = 51
+     \]
+   - Now we find out how much money she has left after buying the book:
+     \[
+     \text{Final amount remaining} = 102 - 51 = 51
+     \]
+
+4. **Conclusion**: Isabel has $51 left over after her purchases.
+
+Therefore, after going through these steps and calculations, we find that the amount of money left over is:
+</reasoning>
+<answer>51</answer>

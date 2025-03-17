@@ -1,0 +1,54 @@
+<reasoning>
+To find out how much Jim's cousin brought, we will first calculate the total cost of their orders and then use that information to determine how much money Jim's cousin brought.
+
+1. **Calculate the cost of one cheeseburger and one milkshake for Jim:**
+   - The cost of the cheeseburger is $3.
+   - The cost of the milkshake is $5.
+   - Therefore, the total cost for Jim's cheeseburger and milkshake is:
+     \[
+     3 + 5 = 8 \text{ dollars}
+     \]
+
+2. **Since Jim's cousin also orders the same items, the cost for his cousin is the same:**
+   - Total cost for his cousin's cheeseburger and milkshake is also $8.
+
+3. **Calculate the cost of the cheese fries:**
+   - The cheese fries cost $8.
+
+4. **Now, add the total costs together:**
+   - Total cost for both Jim and his cousin (for cheeseburgers, milkshakes, and cheese fries) is:
+     \[
+     8 + 8 + 8 = 24 \text{ dollars}
+     \]
+
+5. **Determine the total amount of money they collectively spent:**
+   - They spent 80% of their combined money.
+   - Let \( C \) be the amount of money Jim's cousin brought. Jim brought $20, so their total amount of money is:
+     \[
+     20 + C
+     \]
+   - They spent 80% of this total:
+     \[
+     0.8(20 + C) = 24
+     \]
+
+6. **Now, solve for \( C \):**
+   - First, distribute the 0.8:
+     \[
+     16 + 0.8C = 24
+     \]
+   - Next, isolate \( 0.8C \) by subtracting 16 from both sides:
+     \[
+     0.8C = 24 - 16
+     \]
+     \[
+     0.8C = 8
+     \]
+   - Now, divide both sides by 0.8 to find \( C \):
+     \[
+     C = \frac{8}{0.8} = 10
+     \]
+
+Thus, Jim's cousin brought $10.
+</reasoning>
+<answer>10</answer>

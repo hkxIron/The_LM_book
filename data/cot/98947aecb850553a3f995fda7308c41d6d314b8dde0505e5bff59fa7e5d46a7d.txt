@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much longer it takes Julia to run 5 miles in her new shoes compared to her old ones, we will calculate the total time it takes for each scenario and then find the difference.
+
+1. **Calculate the time to run 5 miles with her old shoes:**
+   - Julia runs 1 mile in 10 minutes with her old shoes.
+   - Therefore, for 5 miles, the time taken would be:
+     \[
+     \text{Time with old shoes} = 5 \text{ miles} \times 10 \text{ minutes/mile} = 50 \text{ minutes}
+     \]
+
+2. **Calculate the time to run 5 miles with her new shoes:**
+   - Julia runs 1 mile in 13 minutes with her new shoes.
+   - Therefore, for 5 miles, the time taken would be:
+     \[
+     \text{Time with new shoes} = 5 \text{ miles} \times 13 \text{ minutes/mile} = 65 \text{ minutes}
+     \]
+
+3. **Find the difference in time between the two scenarios:**
+   - Now, we subtract the time taken with her old shoes from the time taken with her new shoes:
+     \[
+     \text{Difference} = \text{Time with new shoes} - \text{Time with old shoes}
+     \]
+     \[
+     \text{Difference} = 65 \text{ minutes} - 50 \text{ minutes} = 15 \text{ minutes}
+     \]
+
+Therefore, it takes Julia 15 minutes longer to run 5 miles in her new shoes than it would if she wore her old ones.
+</reasoning>
+<answer>15</answer>

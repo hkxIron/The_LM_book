@@ -1,0 +1,52 @@
+<reasoning>
+To solve this problem, we will break it down step by step, calculating the total number of pages that John writes in 12 weeks, then converting that into sheets of paper and finally determining how many reams of paper he needs to purchase.
+
+1. **Calculate the number of short stories John writes in 12 weeks.**
+   - John writes 3 stories every week.
+   - For 12 weeks, the total number of stories he writes is:
+     \[
+     3 \text{ stories/week} \times 12 \text{ weeks} = 36 \text{ stories}
+     \]
+
+2. **Calculate the total number of pages from the short stories.**
+   - Each short story is 50 pages.
+   - Therefore, the total number of pages from the stories is:
+     \[
+     36 \text{ stories} \times 50 \text{ pages/story} = 1800 \text{ pages}
+     \]
+
+3. **Calculate the total number of pages from the novel he writes each year.**
+   - John writes a novel that is 1200 pages in a year.
+   - Since we are considering a period of 12 weeks, we need to determine how many of those 1200 pages he writes in that time. 
+   - There are 52 weeks in a year, so the number of pages he writes per week is:
+     \[
+     \frac{1200 \text{ pages}}{52 \text{ weeks}} \approx 23.08 \text{ pages/week}
+     \]
+   - Over 12 weeks, he writes:
+     \[
+     23.08 \text{ pages/week} \times 12 \text{ weeks} \approx 276.92 \text{ pages}
+     \]
+   - Since we cannot have a fraction of a page, we round this down to 276 pages for practical purposes.
+
+4. **Calculate the total number of pages written in 12 weeks.**
+   - Add the total pages from the short stories to the total pages from the novel:
+     \[
+     1800 \text{ pages (stories)} + 276 \text{ pages (novel)} = 2076 \text{ pages}
+     \]
+
+5. **Convert pages to sheets of paper.**
+   - Each sheet of paper holds 2 pages, so we need to divide the total number of pages by 2:
+     \[
+     \frac{2076 \text{ pages}}{2 \text{ pages/sheet}} = 1038 \text{ sheets}
+     \]
+
+6. **Calculate the number of reams of paper needed.**
+   - A ream contains 500 sheets, so we divide the total number of sheets by 500 to find out how many reams are needed:
+     \[
+     \frac{1038 \text{ sheets}}{500 \text{ sheets/ream}} = 2.076 \text{ reams}
+     \]
+   - Since John cannot buy a fraction of a ream, we round up to the nearest whole number, which means he needs to buy 3 reams of paper.
+
+Therefore, John needs to buy a total of 3 reams of paper.
+</reasoning>
+<answer>3</answer>

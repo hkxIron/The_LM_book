@@ -1,0 +1,53 @@
+<reasoning>
+Let's analyze the problem step by step.
+
+1. **Determine John's current age**: We know that John has just turned 39 years old.
+
+2. **Calculate John's age 3 years ago**: 
+   - If John is currently 39, then 3 years ago, he was:
+   \[
+   39 - 3 = 36
+   \]
+   So, John was 36 years old 3 years ago.
+
+3. **Set up the relationship involving James**: 
+   - The problem states that 3 years ago, John was twice as old as James will be in 6 years. 
+   - Let's denote James' current age as \( J \). 
+   - In 6 years, James will be:
+   \[
+   J + 6
+   \]
+   - According to the problem, we can set up the equation:
+   \[
+   36 = 2(J + 6)
+   \]
+   This equation states that John's age 3 years ago (36) was twice James' age in 6 years.
+
+4. **Solve the equation for James' current age \( J \)**:
+   - First, we simplify the right side:
+   \[
+   36 = 2J + 12
+   \]
+   - Now, subtract 12 from both sides to isolate the term with \( J \):
+   \[
+   36 - 12 = 2J
+   \]
+   \[
+   24 = 2J
+   \]
+   - Next, divide both sides by 2:
+   \[
+   J = \frac{24}{2} = 12
+   \]
+   So, James is currently 12 years old.
+
+5. **Determine James' older brother's age**:
+   - The problem states that James' older brother is 4 years older than James. Therefore, we calculate:
+   \[
+   12 + 4 = 16
+   \]
+   So, James' older brother is 16 years old.
+
+Therefore, we conclude that James' older brother is 16 years old.
+</reasoning>
+<answer>16</answer>

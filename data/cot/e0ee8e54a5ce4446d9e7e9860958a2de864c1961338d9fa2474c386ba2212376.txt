@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we need to find out how many nickels Kendall has, given the total amount of money she has and the number of quarters and dimes.
+
+1. **Calculate the total value of quarters**: 
+   - We know that each quarter is worth $0.25.
+   - Kendall has 10 quarters, so we multiply the number of quarters by the value of each quarter: 
+   \[
+   10 \text{ quarters} \times 0.25 \text{ dollars/quarter} = 2.50 \text{ dollars}
+   \]
+
+2. **Calculate the total value of dimes**: 
+   - Each dime is worth $0.10.
+   - Kendall has 12 dimes, so we multiply the number of dimes by the value of each dime: 
+   \[
+   12 \text{ dimes} \times 0.10 \text{ dollars/dime} = 1.20 \text{ dollars}
+   \]
+
+3. **Calculate the total value of quarters and dimes combined**: 
+   - Now, we add the total value of the quarters and dimes together: 
+   \[
+   2.50 \text{ dollars} + 1.20 \text{ dollars} = 3.70 \text{ dollars}
+   \]
+
+4. **Calculate the remaining amount for nickels**: 
+   - We know that Kendall has a total of $4. Therefore, we subtract the combined value of the quarters and dimes from the total amount: 
+   \[
+   4.00 \text{ dollars} - 3.70 \text{ dollars} = 0.30 \text{ dollars}
+   \]
+   This means the total value of the nickels is $0.30.
+
+5. **Calculate the number of nickels**: 
+   - Each nickel is worth $0.05. To find the number of nickels, we divide the total value of the nickels by the value of each nickel:
+   \[
+   \frac{0.30 \text{ dollars}}{0.05 \text{ dollars/nickel}} = 6 \text{ nickels}
+   \]
+
+Finally, we conclude that Kendall has 6 nickels.
+</reasoning>
+<answer>6</answer>

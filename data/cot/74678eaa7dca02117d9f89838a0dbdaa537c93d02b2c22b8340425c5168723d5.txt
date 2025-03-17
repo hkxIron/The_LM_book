@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we'll set up a system of equations based on the information given about the number of games won by each person.
+
+1. **Define the variables:**
+   - Let \( D \) be the number of games Dana won.
+   - Perry won 5 more games than Dana, so Perry's wins can be expressed as \( P = D + 5 \).
+   - Charlie won 2 games fewer than Dana, so Charlie's wins can be expressed as \( C = D - 2 \).
+   - Phil won 3 games more than Charlie, and since it's given that Phil won a total of 12 games, we have \( P_h = C + 3 \).
+
+2. **Set up the equation for Phil:**
+   Since Phil's wins are given as 12, we can write:
+   \[
+   P_h = C + 3 = 12
+   \]
+   This means:
+   \[
+   C = 12 - 3 = 9
+   \]
+
+3. **Substitute Charlie's wins into his equation:**
+   Now that we know Charlie won 9 games, we can substitute this into the equation for Charlie:
+   \[
+   C = D - 2 \implies 9 = D - 2
+   \]
+   Solving for \( D \):
+   \[
+   D = 9 + 2 = 11
+   \]
+
+4. **Now calculate Perry's wins:**
+   We can now find out how many games Perry won using the equation \( P = D + 5 \):
+   \[
+   P = 11 + 5 = 16
+   \]
+
+5. **Determine how many more games Perry won than Phil:**
+   Finally, we want to know how many more games Perry won than Phil. Perry won 16 games, and Phil won 12 games:
+   \[
+   P - P_h = 16 - 12 = 4
+   \]
+
+Therefore, Perry won 4 more games than Phil.
+</reasoning>
+<answer>4</answer>

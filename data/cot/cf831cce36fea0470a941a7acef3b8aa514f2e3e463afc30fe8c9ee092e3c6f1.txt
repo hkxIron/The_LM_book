@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to break it down step by step.
+
+1. **Calculate the number of times the quarterback does not throw the ball.**
+   The quarterback attempts to throw 80 times, and 30 percent of those times he does not throw. To find out how many times he does not throw, we calculate:
+   \[
+   \text{Number of times not thrown} = 80 \times 0.30 = 24
+   \]
+   This means the quarterback does not throw the ball 24 times.
+
+2. **Calculate the number of times the quarterback is sacked.**
+   It is given that half of the times he does not throw the ball, he is sacked. To find this, we take half of the 24 times he does not throw:
+   \[
+   \text{Number of times sacked} = \frac{24}{2} = 12
+   \]
+   Therefore, the quarterback is sacked 12 times for a loss.
+
+Putting it all together, we find that the quarterback is sacked for a loss a total of 12 times in the game.
+</reasoning>
+<answer>12</answer>

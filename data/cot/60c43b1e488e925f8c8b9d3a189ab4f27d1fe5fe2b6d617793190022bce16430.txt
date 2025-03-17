@@ -1,0 +1,22 @@
+<reasoning>
+To determine how many meals the chef has for dinner, we can break the problem down into steps.
+
+1. **Start with the total meals prepared for lunch**:
+   The chef initially prepared 17 meals for lunch. 
+
+2. **Determine the meals sold during lunch**:
+   During lunch, the chef sold 12 meals. To find out how many meals are left after lunch, we subtract the number of meals sold from the total prepared:
+   \[
+   \text{Remaining lunch meals} = \text{Total lunch meals} - \text{Sold lunch meals} = 17 - 12 = 5
+   \]
+   So, after lunch, the chef has 5 meals remaining from the lunch preparation.
+
+3. **Add the meals prepared for dinner**:
+   After lunch, the chef prepares an additional 5 meals for dinner. Now, we need to find the total number of meals available for dinner by adding the remaining lunch meals to the new dinner meals prepared:
+   \[
+   \text{Total dinner meals} = \text{Remaining lunch meals} + \text{Dinner meals prepared} = 5 + 5 = 10
+   \]
+
+Therefore, the chef has a total of 10 meals for dinner, which includes both the remaining lunch meals and the new dinner meals prepared.
+</reasoning>
+<answer>10</answer>

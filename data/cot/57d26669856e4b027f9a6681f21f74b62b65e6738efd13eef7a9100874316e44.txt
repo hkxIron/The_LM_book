@@ -1,0 +1,74 @@
+<reasoning>
+To find the percentage of the total water used that goes to Farmer Bob's farm, we will first calculate the total water usage for each farmer and then determine the percentage for Farmer Bob.
+
+1. **Calculate the water use for Farmer Bob:**
+   - Farmer Bob's crops:
+     - Corn: 3 acres
+     - Cotton: 9 acres
+     - Beans: 12 acres
+   - Water usage per crop:
+     - Corn: 20 gallons per acre
+     - Cotton: 80 gallons per acre
+     - Beans: 2 times the water of corn = 2 * 20 = 40 gallons per acre
+
+   Now we will calculate the total water usage for each crop:
+   - Water for corn: 3 acres * 20 gallons/acre = 60 gallons
+   - Water for cotton: 9 acres * 80 gallons/acre = 720 gallons
+   - Water for beans: 12 acres * 40 gallons/acre = 480 gallons
+
+   Now, we add these amounts to find the total water used by Farmer Bob:
+   \[
+   \text{Total water for Bob} = 60 + 720 + 480 = 1260 \text{ gallons}
+   \]
+
+2. **Calculate the water use for Farmer Brenda:**
+   - Farmer Brenda's crops:
+     - Corn: 6 acres
+     - Cotton: 7 acres
+     - Beans: 14 acres
+
+   We will calculate the total water usage for each crop:
+   - Water for corn: 6 acres * 20 gallons/acre = 120 gallons
+   - Water for cotton: 7 acres * 80 gallons/acre = 560 gallons
+   - Water for beans: 14 acres * 40 gallons/acre = 560 gallons
+
+   Now, we add these amounts to find the total water used by Farmer Brenda:
+   \[
+   \text{Total water for Brenda} = 120 + 560 + 560 = 1240 \text{ gallons}
+   \]
+
+3. **Calculate the water use for Farmer Bernie:**
+   - Farmer Bernie's crops:
+     - Corn: 2 acres
+     - Cotton: 12 acres
+
+   We will calculate the total water usage for each crop:
+   - Water for corn: 2 acres * 20 gallons/acre = 40 gallons
+   - Water for cotton: 12 acres * 80 gallons/acre = 960 gallons
+
+   Now, we add these amounts to find the total water used by Farmer Bernie:
+   \[
+   \text{Total water for Bernie} = 40 + 960 = 1000 \text{ gallons}
+   \]
+
+4. **Calculate the total water usage for all farmers:**
+   \[
+   \text{Total water} = \text{Total for Bob} + \text{Total for Brenda} + \text{Total for Bernie}
+   \]
+   \[
+   \text{Total water} = 1260 + 1240 + 1000 = 3500 \text{ gallons}
+   \]
+
+5. **Calculate the percentage of total water used that goes to Farmer Bob:**
+   The percentage for Farmer Bob is given by the formula:
+   \[
+   \text{Percentage for Bob} = \left(\frac{\text{Total water for Bob}}{\text{Total water}}\right) \times 100
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Percentage for Bob} = \left(\frac{1260}{3500}\right) \times 100 \approx 36\%
+   \]
+
+Therefore, the percentage of the total water used that goes to Farmer Bob's farm is approximately 36%.
+</reasoning>
+<answer>36</answer>

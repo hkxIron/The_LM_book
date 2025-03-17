@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the number of stripes on Olga's shoes**: According to the problem, Olga has 3 stripes on each of her tennis shoes.
+
+2. **Calculate the number of stripes on Rick's shoes**: Rick has one less stripe per shoe than Olga. 
+   - Since Olga has 3 stripes, Rick has:
+   \[
+   3 - 1 = 2 \text{ stripes per shoe}
+   \]
+
+3. **Calculate the number of stripes on Hortense's shoes**: Hortense has double the number of stripes on her shoes compared to Olga.
+   - Since Olga has 3 stripes, Hortense has:
+   \[
+   3 \times 2 = 6 \text{ stripes per shoe}
+   \]
+
+4. **Calculate the total number of stripes for each person**: 
+   - Each person has a pair of shoes, which means we need to consider both shoes for each individual:
+   - For Olga:
+   \[
+   3 \text{ stripes/shoe} \times 2 \text{ shoes} = 6 \text{ stripes}
+   \]
+   - For Rick:
+   \[
+   2 \text{ stripes/shoe} \times 2 \text{ shoes} = 4 \text{ stripes}
+   \]
+   - For Hortense:
+   \[
+   6 \text{ stripes/shoe} \times 2 \text{ shoes} = 12 \text{ stripes}
+   \]
+
+5. **Calculate the total number of stripes combined**: Now we add the total stripes for all three individuals:
+\[
+6 \text{ (Olga)} + 4 \text{ (Rick)} + 12 \text{ (Hortense)} = 22 \text{ stripes}
+\]
+
+Therefore, the combined number of stripes on all of their pairs of tennis shoes is:
+</reasoning>
+<answer>22</answer>

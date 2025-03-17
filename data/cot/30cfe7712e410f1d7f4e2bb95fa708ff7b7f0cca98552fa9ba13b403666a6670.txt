@@ -1,0 +1,32 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Determine the number of trout in Boast Pool**: We know that Boast Pool has 75 fish. 
+
+2. **Calculate the number of trout in Onum Lake**: The problem states that Onum Lake has 25 more trout than Boast Pool. Therefore, we can find the number of fish in Onum Lake by adding 25 to the number of fish in Boast Pool.
+
+   \[
+   \text{Number of fish in Onum Lake} = \text{Number of fish in Boast Pool} + 25 = 75 + 25 = 100
+   \]
+
+3. **Calculate the number of fish in Riddle Pond**: The problem states that Riddle Pond has half as many fish as Onum Lake. Therefore, we can find the number of fish in Riddle Pond by dividing the number of fish in Onum Lake by 2.
+
+   \[
+   \text{Number of fish in Riddle Pond} = \frac{\text{Number of fish in Onum Lake}}{2} = \frac{100}{2} = 50
+   \]
+
+4. **Calculate the total number of fish in all three bodies of water**: We can now find the total number of fish by adding the number of fish in each body of water together.
+
+   \[
+   \text{Total number of fish} = \text{Number of fish in Boast Pool} + \text{Number of fish in Onum Lake} + \text{Number of fish in Riddle Pond} = 75 + 100 + 50 = 225
+   \]
+
+5. **Calculate the average number of fish**: To find the average number of fish in all three bodies of water, we divide the total number of fish by the number of bodies of water (which is 3).
+
+   \[
+   \text{Average number of fish} = \frac{\text{Total number of fish}}{3} = \frac{225}{3} = 75
+   \]
+
+Therefore, the average number of fish in all three bodies of water is 75.
+</reasoning>
+<answer>75</answer>

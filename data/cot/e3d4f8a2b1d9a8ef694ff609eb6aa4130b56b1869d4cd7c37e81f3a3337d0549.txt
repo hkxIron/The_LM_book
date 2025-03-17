@@ -1,0 +1,34 @@
+<reasoning>
+To find the total cost of the food John ordered for the restaurant, we will break it down into two parts: the cost of the beef and the cost of the chicken.
+
+1. **Calculate the cost of the beef:**
+   - John orders 1000 pounds of beef.
+   - The price per pound of beef is $8.
+   - To find the total cost of the beef, we multiply the quantity of beef by the price per pound:
+     \[
+     \text{Cost of beef} = 1000 \text{ pounds} \times 8 \text{ dollars/pound} = 8000 \text{ dollars}
+     \]
+
+2. **Calculate the amount of chicken ordered:**
+   - John orders twice as much chicken as beef.
+   - Since he ordered 1000 pounds of beef, the amount of chicken ordered is:
+     \[
+     \text{Chicken ordered} = 2 \times 1000 \text{ pounds} = 2000 \text{ pounds}
+     \]
+
+3. **Calculate the cost of the chicken:**
+   - The price per pound of chicken is $3.
+   - To find the total cost of the chicken, we multiply the quantity of chicken by the price per pound:
+     \[
+     \text{Cost of chicken} = 2000 \text{ pounds} \times 3 \text{ dollars/pound} = 6000 \text{ dollars}
+     \]
+
+4. **Calculate the total cost of both beef and chicken:**
+   - Now we add the cost of the beef and the cost of the chicken together:
+     \[
+     \text{Total cost} = \text{Cost of beef} + \text{Cost of chicken} = 8000 \text{ dollars} + 6000 \text{ dollars} = 14000 \text{ dollars}
+     \]
+
+Therefore, the total cost of everything John ordered is:
+</reasoning>
+<answer>14000</answer>

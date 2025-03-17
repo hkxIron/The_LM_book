@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many pages Nico read on Wednesday, we will start by adding the number of pages he read on Monday and Tuesday, and then subtract that total from the overall pages he has read by Wednesday.
+
+1. First, we need to find out how many pages Nico read on Monday and Tuesday:
+   - On Monday, he read 20 pages.
+   - On Tuesday, he read 12 pages.
+   
+   We will add these two amounts together:
+   \[
+   \text{Pages read on Monday and Tuesday} = 20 + 12
+   \]
+
+   Performing the addition:
+   \[
+   20 + 12 = 32
+   \]
+
+2. Next, we know that the total number of pages Nico read from Monday to Wednesday is 51 pages. To find out how many pages he read on Wednesday, we will subtract the pages read on Monday and Tuesday from this total:
+   \[
+   \text{Pages read on Wednesday} = \text{Total pages read} - \text{Pages read on Monday and Tuesday}
+   \]
+   \[
+   \text{Pages read on Wednesday} = 51 - 32
+   \]
+
+   Performing the subtraction:
+   \[
+   51 - 32 = 19
+   \]
+
+Therefore, Nico read 19 pages on Wednesday.
+</reasoning>
+<answer>19</answer>

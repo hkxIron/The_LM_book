@@ -1,0 +1,55 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how much money Beth currently has:**
+   - The problem states that if Beth had $35 more, she would have $105. 
+   - We can set up the equation: 
+     \[
+     x + 35 = 105
+     \]
+     where \( x \) represents the amount of money Beth currently has.
+
+2. **Solve for \( x \):**
+   - To find \( x \), we subtract 35 from both sides of the equation:
+     \[
+     x = 105 - 35
+     \]
+   - Doing the subtraction gives us:
+     \[
+     x = 70
+     \]
+   - Therefore, Beth currently has $70.
+
+3. **Determine how much money Jan has:**
+   - The problem states that if Jan had $10 less, he would have the same amount of money as Beth. 
+   - We can denote the amount of money Jan has as \( y \).
+   - The equation from the problem would be:
+     \[
+     y - 10 = 70
+     \]
+     (since we found that Beth has $70).
+
+4. **Solve for \( y \):**
+   - To find \( y \), we add 10 to both sides of the equation:
+     \[
+     y = 70 + 10
+     \]
+   - Performing the addition gives us:
+     \[
+     y = 80
+     \]
+   - Therefore, Jan currently has $80.
+
+5. **Calculate the total amount of money Beth and Jan have together:**
+   - Now that we know how much money each person has, we can find the total:
+     \[
+     \text{Total} = \text{Beth's money} + \text{Jan's money} = 70 + 80
+     \]
+   - Adding these amounts gives:
+     \[
+     \text{Total} = 150
+     \]
+
+Therefore, the total amount of money that Beth and Jan have altogether is:
+</reasoning>
+<answer>150</answer>

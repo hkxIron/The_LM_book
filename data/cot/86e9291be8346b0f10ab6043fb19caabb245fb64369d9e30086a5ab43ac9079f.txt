@@ -1,0 +1,23 @@
+<reasoning>
+To find out how much the customer paid in total for 4 months after applying the discount, we will follow these steps:
+
+1. **Calculate the monthly rate after applying the 5% discount.**
+   - The original monthly internet rate is $50.
+   - The discount is 5% of $50, which we can calculate as:
+     \[
+     \text{Discount} = 0.05 \times 50 = 2.5
+     \]
+   - Now, we subtract the discount from the original price to find the discounted price:
+     \[
+     \text{Discounted price} = 50 - 2.5 = 47.5
+     \]
+
+2. **Calculate the total payment for 4 months.**
+   - Since the customer pays $47.5 for each month, for 4 months, we multiply the discounted monthly rate by 4:
+     \[
+     \text{Total payment} = 4 \times 47.5 = 190
+     \]
+
+Therefore, the total amount the customer paid for 4 months, after applying the discount, is $190.
+</reasoning>
+<answer>190</answer>

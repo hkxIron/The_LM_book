@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to determine how long the package of 100 masks will last for Andrew's family, given that they change masks every 4 days.
+
+1. **Identify the number of family members**: 
+   - Andrew lives with 2 parents and 2 siblings. Therefore, the total number of family members is:
+     \[
+     1 \text{ (Andrew)} + 2 \text{ (parents)} + 2 \text{ (siblings)} = 5 \text{ family members}
+     \]
+
+2. **Calculate the total number of masks used in one cycle**: 
+   - Since every family member changes their mask every 4 days, in one cycle (which is 4 days), the family will use:
+     \[
+     5 \text{ (family members)} \times 1 \text{ (mask per person)} = 5 \text{ masks per 4 days}
+     \]
+
+3. **Determine how many cycles can be completed with 100 masks**: 
+   - Next, we need to find out how many complete cycles of 4 days can be achieved with 100 masks:
+     \[
+     \text{Number of cycles} = \frac{100 \text{ masks}}{5 \text{ masks per cycle}} = 20 \text{ cycles}
+     \]
+
+4. **Calculate the total number of days to finish the masks**: 
+   - Since each cycle lasts 4 days, we can find the total number of days by multiplying the number of cycles by the number of days per cycle:
+     \[
+     \text{Total days} = 20 \text{ cycles} \times 4 \text{ days per cycle} = 80 \text{ days}
+     \]
+
+Thus, it will take Andrew's family a total of 80 days to finish the pack of 100 masks.
+</reasoning>
+<answer>80</answer>

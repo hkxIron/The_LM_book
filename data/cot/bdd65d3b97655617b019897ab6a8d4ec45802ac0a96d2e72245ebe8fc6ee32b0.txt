@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much profit John makes by selling 30 bags of popcorn, we need to follow these steps:
+
+1. **Determine the cost of 30 bags of popcorn**: 
+   John's cost per bag is $4. To find the total cost for 30 bags, we multiply the cost per bag by the number of bags:
+   \[
+   \text{Total Cost} = \text{Cost per bag} \times \text{Number of bags} = 4 \times 30 = 120
+   \]
+   This means John spends $120 to buy 30 bags of popcorn.
+
+2. **Determine the revenue from selling 30 bags of popcorn**:
+   John sells each bag for $8. To find the total revenue from selling 30 bags, we multiply the selling price per bag by the number of bags:
+   \[
+   \text{Total Revenue} = \text{Selling price per bag} \times \text{Number of bags} = 8 \times 30 = 240
+   \]
+   This means John earns $240 from selling 30 bags of popcorn.
+
+3. **Calculate the profit**:
+   Profit is calculated by subtracting the total cost from the total revenue:
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost} = 240 - 120 = 120
+   \]
+   Therefore, John makes a profit of $120 by selling 30 bags of popcorn.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,48 @@
+<reasoning>
+Let's break down the costs step by step.
+
+1. **Calculate the cost of skirts**: 
+   - Marcia needs 3 skirts, and each skirt costs $20.00.
+   - To find the total cost for the skirts, we multiply the number of skirts by the price per skirt:
+   \[
+   \text{Total cost of skirts} = 3 \times 20 = 60
+   \]
+
+2. **Calculate the cost of blouses**: 
+   - Marcia needs 5 blouses, and each blouse costs $15.00.
+   - To find the total cost for the blouses, we multiply the number of blouses by the price per blouse:
+   \[
+   \text{Total cost of blouses} = 5 \times 15 = 75
+   \]
+
+3. **Calculate the cost of pants with the sale**: 
+   - Marcia needs 2 pairs of pants, and each pair costs $30.00. The store has a "buy 1 pair get 1 pair 1/2 off" sale.
+   - The cost for the first pair is $30.00, and the cost for the second pair, at half price, is:
+   \[
+   \text{Cost of second pair} = 30 \times 0.5 = 15
+   \]
+   - Therefore, the total cost for the pants is:
+   \[
+   \text{Total cost of pants} = 30 + 15 = 45
+   \]
+
+4. **Add all the costs together**: 
+   - Now, we need to add the total costs of skirts, blouses, and pants together:
+   \[
+   \text{Total wardrobe cost} = \text{Total cost of skirts} + \text{Total cost of blouses} + \text{Total cost of pants}
+   \]
+   \[
+   \text{Total wardrobe cost} = 60 + 75 + 45
+   \]
+
+5. **Calculate the final total**:
+   \[
+   \text{Total wardrobe cost} = 60 + 75 = 135
+   \]
+   \[
+   \text{Total wardrobe cost} = 135 + 45 = 180
+   \]
+
+Thus, Marcia will spend a total of $180.00 on her wardrobe.
+</reasoning>
+<answer>180</answer>

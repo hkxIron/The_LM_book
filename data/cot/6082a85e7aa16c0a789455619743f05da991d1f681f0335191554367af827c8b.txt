@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the number of photos used on the first 10 pages**: 
+   Alyssa can place 3 photos on each of the first 10 pages. 
+   \[
+   \text{Photos on first 10 pages} = 10 \text{ pages} \times 3 \text{ photos/page} = 30 \text{ photos}
+   \]
+
+2. **Determine the number of photos used on the next 10 pages**: 
+   For the next 10 pages, she can place 4 photos on each page.
+   \[
+   \text{Photos on next 10 pages} = 10 \text{ pages} \times 4 \text{ photos/page} = 40 \text{ photos}
+   \]
+
+3. **Calculate the total number of photos used so far**: 
+   Now we add the number of photos used on both sets of pages.
+   \[
+   \text{Total photos used} = 30 \text{ photos} + 40 \text{ photos} = 70 \text{ photos}
+   \]
+
+4. **Calculate the remaining number of photos**: 
+   Alyssa took a total of 100 photos, so we subtract the photos already used from the total.
+   \[
+   \text{Remaining photos} = 100 \text{ photos} - 70 \text{ photos} = 30 \text{ photos}
+   \]
+
+5. **Determine the number of remaining pages**: 
+   She has already used 20 pages (the first 10 and the next 10), and since the album has 30 pages, the remaining pages are:
+   \[
+   \text{Remaining pages} = 30 \text{ pages} - 20 \text{ pages} = 10 \text{ pages}
+   \]
+
+6. **Calculate how many photos can be placed on each of the remaining pages**: 
+   To find out how many photos can be placed on each of the 10 remaining pages, we divide the remaining number of photos by the number of remaining pages.
+   \[
+   \text{Photos per remaining page} = \frac{30 \text{ photos}}{10 \text{ pages}} = 3 \text{ photos/page}
+   \]
+
+Therefore, Alyssa can place 3 photos on each of the remaining pages of the album.
+</reasoning>
+<answer>3</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To determine how many more pages Janet reads than Belinda in 6 weeks, we need to follow these steps:
+
+1. **Calculate the total number of days in 6 weeks**: 
+   Since there are 7 days in a week, we multiply the number of weeks by 7:
+   \[
+   6 \text{ weeks} \times 7 \text{ days/week} = 42 \text{ days}
+   \]
+
+2. **Calculate the total number of pages Janet reads in 6 weeks**:
+   Janet reads 80 pages each day. Therefore, we multiply the number of pages she reads per day by the number of days:
+   \[
+   80 \text{ pages/day} \times 42 \text{ days} = 3360 \text{ pages}
+   \]
+
+3. **Calculate the total number of pages Belinda reads in 6 weeks**:
+   Belinda reads 30 pages each day. We perform a similar multiplication:
+   \[
+   30 \text{ pages/day} \times 42 \text{ days} = 1260 \text{ pages}
+   \]
+
+4. **Calculate how many more pages Janet reads than Belinda**:
+   To find the difference in the number of pages read by Janet and Belinda, we subtract the total pages Belinda read from the total pages Janet read:
+   \[
+   3360 \text{ pages} - 1260 \text{ pages} = 2100 \text{ pages}
+   \]
+
+Therefore, after calculating all the steps, we find that Janet reads 2100 more pages than Belinda in 6 weeks.
+</reasoning>
+<answer>2100</answer>

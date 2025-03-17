@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many strings John needs to restring his instruments, we will calculate the total number of strings for each type of instrument separately and then sum them up.
+
+1. **Calculate the number of strings for the basses:**
+   - John has 3 basses, and each bass has 4 strings.
+   - We calculate the total number of strings for the basses as follows:
+     \[
+     \text{Total strings for basses} = \text{Number of basses} \times \text{Strings per bass} = 3 \times 4 = 12
+     \]
+
+2. **Calculate the number of guitars:**
+   - John has twice as many guitars as basses. Since he has 3 basses, the number of guitars he has is:
+     \[
+     \text{Number of guitars} = 2 \times \text{Number of basses} = 2 \times 3 = 6
+     \]
+   - Each guitar has 6 strings, so we calculate the total number of strings for the guitars:
+     \[
+     \text{Total strings for guitars} = \text{Number of guitars} \times \text{Strings per guitar} = 6 \times 6 = 36
+     \]
+
+3. **Calculate the number of 8-string guitars:**
+   - He has 3 fewer 8-string guitars than the normal guitars. Therefore, the number of 8-string guitars is:
+     \[
+     \text{Number of 8-string guitars} = \text{Number of guitars} - 3 = 6 - 3 = 3
+     \]
+   - Each 8-string guitar has 8 strings, so we calculate the total number of strings for the 8-string guitars:
+     \[
+     \text{Total strings for 8-string guitars} = \text{Number of 8-string guitars} \times \text{Strings per 8-string guitar} = 3 \times 8 = 24
+     \]
+
+4. **Sum all the strings:**
+   - Now we will add all the strings from each type of instrument:
+     \[
+     \text{Total strings needed} = \text{Total strings for basses} + \text{Total strings for guitars} + \text{Total strings for 8-string guitars}
+     \]
+     \[
+     \text{Total strings needed} = 12 + 36 + 24 = 72
+     \]
+
+Therefore, the total number of strings John needs to restring all his instruments is:
+</reasoning>
+<answer>72</answer>

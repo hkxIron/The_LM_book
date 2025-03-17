@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the cost of the tickets**:
+   - The regular ticket for an adult costs $9.
+   - The children's ticket costs $2 less than the adult ticket. Therefore, the cost of a children's ticket is:
+     \[
+     9 - 2 = 7 \text{ dollars}
+     \]
+
+2. **Calculate the total amount paid**:
+   - The family paid with two $20 bills, which totals:
+     \[
+     2 \times 20 = 40 \text{ dollars}
+     \]
+   - They received $1 in change, so the actual amount spent on tickets is:
+     \[
+     40 - 1 = 39 \text{ dollars}
+     \]
+
+3. **Set up the equation for the total cost of the tickets**:
+   - Let \( c \) be the number of children. The total cost for 2 adults and \( c \) children can be expressed as:
+     \[
+     2 \times 9 + c \times 7
+     \]
+   - This simplifies to:
+     \[
+     18 + 7c
+     \]
+   - We know that this total cost equals $39, so we set up the equation:
+     \[
+     18 + 7c = 39
+     \]
+
+4. **Solve for \( c \)**:
+   - First, subtract 18 from both sides of the equation:
+     \[
+     7c = 39 - 18
+     \]
+     \[
+     7c = 21
+     \]
+   - Next, divide both sides by 7 to isolate \( c \):
+     \[
+     c = \frac{21}{7} = 3
+     \]
+
+So, the number of children in the family is 3. 
+
+Therefore, we conclude:
+</reasoning>
+<answer>3</answer>

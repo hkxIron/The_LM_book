@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we need to calculate how much rent Mr. Maximilian collects in a year, based on the occupancy rate and the rent per unit.
+
+1. **Determine the number of occupied units**: 
+   The building has a total of 100 units and is 3/4 occupied. To find the number of occupied units, we multiply the total number of units by the occupancy rate:
+   \[
+   \text{Occupied units} = 100 \times \frac{3}{4}
+   \]
+   \[
+   \text{Occupied units} = 100 \times 0.75 = 75
+   \]
+   This means there are 75 units that are occupied.
+
+2. **Calculate the monthly rent collected from occupied units**: 
+   Each of the 75 occupied units pays a rent of $400 per month. Therefore, the total monthly rent collected is:
+   \[
+   \text{Monthly rent} = 75 \times 400
+   \]
+   \[
+   \text{Monthly rent} = 30000
+   \]
+   So Mr. Maximilian collects $30,000 each month.
+
+3. **Calculate the annual rent collected**: 
+   Since Mr. Maximilian collects $30,000 every month, we need to multiply this amount by the number of months in a year to find the total annual rent collected:
+   \[
+   \text{Annual rent} = 30000 \times 12
+   \]
+   \[
+   \text{Annual rent} = 360000
+   \]
+   Thus, the total amount of money Mr. Maximilian receives in that year is $360,000.
+
+Therefore, after performing all calculations:
+</reasoning>
+<answer>360000</answer>

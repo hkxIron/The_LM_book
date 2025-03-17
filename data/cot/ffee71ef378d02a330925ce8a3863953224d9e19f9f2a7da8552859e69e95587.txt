@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we will use the concept of exponential growth, where the quantity doubles after each time interval (in this case, every hour).
+
+1. **Initial Quantity**: We start with 50 ants in the jar.
+
+2. **Doubling Time**: We know that the number of ants doubles every hour. This means at the end of each hour, the number of ants will be twice what it was at the start of that hour.
+
+3. **Calculate the Number of Ants**:
+   - After 1 hour: \( 50 \times 2 = 100 \) ants
+   - After 2 hours: \( 100 \times 2 = 200 \) ants
+   - After 3 hours: \( 200 \times 2 = 400 \) ants
+   - After 4 hours: \( 400 \times 2 = 800 \) ants
+   - After 5 hours: \( 800 \times 2 = 1600 \) ants
+
+Alternatively, we can express this mathematically using the formula for exponential growth:
+\[ \text{Number of ants after } n \text{ hours} = \text{Initial Quantity} \times 2^n \]
+Where \( n \) is the number of hours.
+
+4. **Applying the Formula**:
+   - Here, \( n = 5 \) and the initial quantity is 50:
+   \[
+   \text{Number of ants after 5 hours} = 50 \times 2^5
+   \]
+
+5. **Calculate \( 2^5 \)**:
+   - \( 2^5 = 32 \)
+
+6. **Final Calculation**:
+   \[
+   50 \times 32 = 1600
+   \]
+
+Thus, after 5 hours, the number of ants in the jar will be 1600.
+</reasoning>
+<answer>1600</answer>

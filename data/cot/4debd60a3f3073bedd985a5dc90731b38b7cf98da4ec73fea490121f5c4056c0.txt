@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we will calculate the amount of vinegar left after each year, taking into account that 20% of the vinegar evaporates each year.
+
+1. **Understanding the evaporation**: If 20% of the vinegar evaporates, that means 80% of the vinegar remains after one year. 
+
+2. **Calculating the remaining vinegar after the first year**:
+   - Let's assume Anthony starts with 100% of the vinegar.
+   - After 1 year, 80% of the original vinegar is left. 
+   - Calculation: 
+     \[
+     100\% \times 0.80 = 80\%
+     \]
+   - So after the first year, 80% of the vinegar is left.
+
+3. **Calculating the remaining vinegar after the second year**:
+   - Now, we take the 80% that was left after the first year and apply the same evaporation rate.
+   - Again, 20% evaporates, so 80% of the remaining vinegar is left after the second year.
+   - Calculation:
+     \[
+     80\% \times 0.80 = 64\%
+     \]
+   - Thus, after the second year, 64% of the original vinegar remains.
+
+Therefore, the percentage of vinegar left after 2 years is 64%.
+</reasoning>
+<answer>64</answer>

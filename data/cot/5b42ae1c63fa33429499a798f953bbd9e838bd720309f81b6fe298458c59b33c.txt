@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the cost of the apples**: 
+   - Alexander buys 5 apples at $1 each. 
+   - To find the total cost for the apples, we multiply the number of apples by the cost per apple: 
+   \[
+   \text{Cost of apples} = 5 \text{ apples} \times 1 \text{ dollar/apple} = 5 \text{ dollars}
+   \]
+
+2. **Calculate the cost of the oranges**:
+   - Alexander buys 2 oranges at $2 each.
+   - To find the total cost for the oranges, we multiply the number of oranges by the cost per orange:
+   \[
+   \text{Cost of oranges} = 2 \text{ oranges} \times 2 \text{ dollars/orange} = 4 \text{ dollars}
+   \]
+
+3. **Calculate the total cost**:
+   - Now we add the total costs of the apples and oranges together to find the total amount spent:
+   \[
+   \text{Total cost} = \text{Cost of apples} + \text{Cost of oranges} = 5 \text{ dollars} + 4 \text{ dollars} = 9 \text{ dollars}
+   \]
+
+Therefore, Alexander spends a total of $9.
+</reasoning>
+<answer>9</answer>

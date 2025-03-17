@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many square feet of glass James needs, we need to calculate the area of each of the three walls and then sum them up.
+
+1. **Calculate the area of the first wall**: The dimensions are 30 feet by 12 feet. 
+   - Area = length × height = 30 feet × 12 feet.
+   - Area = 360 square feet.
+
+2. **Calculate the area of the second wall**: The dimensions are the same as the first wall, which is also 30 feet by 12 feet.
+   - Area = length × height = 30 feet × 12 feet.
+   - Area = 360 square feet.
+
+3. **Calculate the area of the third wall**: The dimensions are 20 feet by 12 feet.
+   - Area = length × height = 20 feet × 12 feet.
+   - Area = 240 square feet.
+
+4. **Sum the areas of all three walls**:
+   - Total area = Area of first wall + Area of second wall + Area of third wall.
+   - Total area = 360 square feet + 360 square feet + 240 square feet.
+   - Total area = 960 square feet.
+
+Therefore, James needs a total of 960 square feet of glass to cover the three walls.
+</reasoning>
+<answer>960</answer>

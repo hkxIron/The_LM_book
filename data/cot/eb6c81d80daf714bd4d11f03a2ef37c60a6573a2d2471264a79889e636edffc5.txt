@@ -1,0 +1,16 @@
+<reasoning>
+To find out how many acres of Joyce's new property are suitable for growing vegetables, we will follow these steps:
+
+1. **Calculate the size of the new property**: Since Joyce's new property is 10 times larger than her previous property, we first need to multiply the size of her previous property (2 acres) by 10.  
+   \[
+   \text{New property size} = 10 \times \text{Previous property size} = 10 \times 2 \text{ acres} = 20 \text{ acres}
+   \]
+
+2. **Subtract the area of the pond**: Joyce's new property has a 1-acre pond where she cannot grow vegetables. We will subtract this area from the total size of the new property to find the area suitable for growing vegetables.  
+   \[
+   \text{Suitable land for vegetables} = \text{New property size} - \text{Pond size} = 20 \text{ acres} - 1 \text{ acre} = 19 \text{ acres}
+   \]
+
+Thus, after calculating the total size of the property and accounting for the pond, we find that Joyce has 19 acres available for growing vegetables.
+</reasoning>
+<answer>19</answer>

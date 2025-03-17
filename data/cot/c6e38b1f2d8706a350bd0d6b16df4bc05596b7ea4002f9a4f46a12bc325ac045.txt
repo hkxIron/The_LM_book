@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. Calculate the weekly miles Tony drives.
+2. Determine how many gallons of gas he uses per week.
+3. Calculate the total cost of gas per week.
+4. Finally, calculate the total cost of gas for 4 weeks.
+
+**Step 1: Calculate the weekly miles Tony drives.**
+Tony drives 50 miles round trip each day. Since he works 5 days a week, we can calculate his total weekly mileage:
+
+\[
+\text{Weekly miles} = \text{Miles per day} \times \text{Days per week} = 50 \, \text{miles/day} \times 5 \, \text{days/week} = 250 \, \text{miles/week}
+\]
+
+**Step 2: Determine how many gallons of gas he uses per week.**
+Now that we know he drives 250 miles in a week and his car gets 25 miles to the gallon, we can calculate the number of gallons he uses:
+
+\[
+\text{Gallons used per week} = \frac{\text{Weekly miles}}{\text{Miles per gallon}} = \frac{250 \, \text{miles}}{25 \, \text{miles/gallon}} = 10 \, \text{gallons/week}
+\]
+
+**Step 3: Calculate the total cost of gas per week.**
+Since gas costs $2 per gallon, we can find out how much he spends on gas each week:
+
+\[
+\text{Cost per week} = \text{Gallons used per week} \times \text{Cost per gallon} = 10 \, \text{gallons/week} \times 2 \, \text{dollars/gallon} = 20 \, \text{dollars/week}
+\]
+
+**Step 4: Calculate the total cost of gas for 4 weeks.**
+To find out how much he spends in 4 weeks, we multiply the weekly cost by 4:
+
+\[
+\text{Total cost for 4 weeks} = \text{Cost per week} \times 4 = 20 \, \text{dollars/week} \times 4 = 80 \, \text{dollars}
+\]
+
+Therefore, Tony spends a total of $80 on gas in 4 weeks.
+</reasoning>
+<answer>80</answer>

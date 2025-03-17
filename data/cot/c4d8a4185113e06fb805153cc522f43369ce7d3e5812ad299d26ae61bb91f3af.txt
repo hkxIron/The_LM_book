@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we need to determine the total number of glass pieces Jerry sweeps up, and then find out how many of those pieces are clear.
+
+1. **Identify the known quantities**: 
+   - Amber pieces = 20
+   - Green pieces = 35
+   - Let the number of clear pieces be \( x \).
+
+2. **Set up an equation for the total number of pieces**: 
+   The total number of glass pieces is the sum of amber, green, and clear pieces:
+   \[
+   \text{Total pieces} = 20 + 35 + x = 55 + x
+   \]
+
+3. **Use the information about the green pieces**: 
+   We know that the green pieces represent 25% of the total glass pieces. This can be expressed mathematically as:
+   \[
+   35 = 0.25 \times \text{Total pieces}
+   \]
+   Now substitute the expression for total pieces into this equation:
+   \[
+   35 = 0.25 \times (55 + x)
+   \]
+
+4. **Solve for \( x \)**: 
+   To eliminate the decimal, we can multiply both sides of the equation by 4:
+   \[
+   4 \times 35 = 55 + x
+   \]
+   This simplifies to:
+   \[
+   140 = 55 + x
+   \]
+   Now, isolate \( x \) by subtracting 55 from both sides:
+   \[
+   x = 140 - 55 = 85
+   \]
+
+5. **Conclusion**: 
+   Jerry has swept up 85 clear pieces of glass.
+
+Thus, the number of clear pieces is:
+</reasoning>
+<answer>85</answer>

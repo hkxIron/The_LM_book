@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we need to determine how many people the vampire and the werewolf will consume together each week and then see how many weeks the village of 72 people will last based on that consumption rate.
+
+1. **Calculate the vampire's consumption per week**:
+   The vampire drains 3 people per week.
+
+2. **Calculate the werewolf's consumption per week**:
+   The werewolf eats 5 people per week.
+
+3. **Calculate the total consumption per week**:
+   To find the total number of people consumed by both the vampire and the werewolf together, we sum their weekly consumption:
+   \[
+   \text{Total consumption per week} = \text{Vampire's consumption} + \text{Werewolf's consumption} = 3 + 5 = 8
+   \]
+
+4. **Determine how many weeks the village of 72 people will last**:
+   To find out how many weeks the village can sustain the vampire and the werewolf, we divide the total number of people in the village by the total consumption per week:
+   \[
+   \text{Number of weeks} = \frac{\text{Total people in the village}}{\text{Total consumption per week}} = \frac{72}{8} = 9
+   \]
+
+Thus, the village will last for 9 weeks before the vampire and werewolf consume all the people.
+</reasoning>
+<answer>9</answer>

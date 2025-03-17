@@ -1,0 +1,45 @@
+<reasoning>
+To find out how many tons of sand City D received, we first need to calculate the total amount of sand that Cities A, B, and C received combined. Then we can subtract this sum from the total amount of sand donated to all four cities.
+
+1. **Identify the amounts received by Cities A, B, and C:**
+   - City A received 16 1/2 tons of sand.
+   - City B received 26 tons of sand.
+   - City C received 24 1/2 tons of sand.
+
+2. **Convert the mixed numbers to improper fractions for easier addition:**
+   - 16 1/2 can be converted as follows:
+     \[
+     16 \frac{1}{2} = 16 + \frac{1}{2} = \frac{32}{2} + \frac{1}{2} = \frac{33}{2}
+     \]
+   - 24 1/2 can be converted similarly:
+     \[
+     24 \frac{1}{2} = 24 + \frac{1}{2} = \frac{48}{2} + \frac{1}{2} = \frac{49}{2}
+     \]
+
+3. **Now add the amounts:**
+   \[
+   \text{Total for A, B, and C} = \frac{33}{2} + 26 + \frac{49}{2}
+   \]
+
+   First, convert 26 to an improper fraction:
+   \[
+   26 = \frac{52}{2}
+   \]
+
+   Now we can add:
+   \[
+   \text{Total} = \frac{33}{2} + \frac{52}{2} + \frac{49}{2} = \frac{33 + 52 + 49}{2} = \frac{134}{2} = 67
+   \]
+
+4. **Subtract the total amount received by Cities A, B, and C from the total amount donated:**
+   - Total amount donated to all four cities = 95 tons
+   - Total amount received by A, B, and C = 67 tons
+
+   Therefore, the amount received by City D is:
+   \[
+   \text{Amount for City D} = 95 - 67 = 28
+   \]
+
+Thus, City D received 28 tons of sand.
+</reasoning>
+<answer>28</answer>

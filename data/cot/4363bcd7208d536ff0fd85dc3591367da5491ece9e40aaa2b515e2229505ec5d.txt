@@ -1,0 +1,25 @@
+<reasoning>
+To find out how much money Jenn will have left over after buying the bike, we first need to calculate how much money she has in total from the quarters.
+
+1. **Calculate the total number of quarters:**
+   - Jenn has 5 jars, and each jar holds 160 quarters.
+   - The total number of quarters is calculated by multiplying the number of jars by the number of quarters per jar:
+     \[
+     \text{Total quarters} = 5 \text{ jars} \times 160 \text{ quarters/jar} = 800 \text{ quarters}
+     \]
+
+2. **Convert the total number of quarters to dollars:**
+   - Since each quarter is worth $0.25, we can convert quarters to dollars by multiplying the total number of quarters by the value of each quarter:
+     \[
+     \text{Total money in dollars} = 800 \text{ quarters} \times 0.25 \text{ dollars/quarter} = 200 \text{ dollars}
+     \]
+
+3. **Calculate the amount of money left after buying the bike:**
+   - The cost of the bike is $180. To find out how much money Jenn has left after the purchase, we subtract the cost of the bike from her total money:
+     \[
+     \text{Money left over} = 200 \text{ dollars} - 180 \text{ dollars} = 20 \text{ dollars}
+     \]
+
+After performing these calculations, we find that Jenn will have $20 left after buying the bike.
+</reasoning>
+<answer>20</answer>

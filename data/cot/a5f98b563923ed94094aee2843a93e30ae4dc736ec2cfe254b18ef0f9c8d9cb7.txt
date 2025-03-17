@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much Harris will spend on carrots in one year, we need to go through several steps:
+
+1. **Determine how many carrots Harris uses in a year**: 
+   Harris feeds his dog 1 large carrot per day. There are 365 days in a year, so we multiply the daily carrot consumption by the number of days in a year:
+   \[
+   1 \text{ carrot/day} \times 365 \text{ days/year} = 365 \text{ carrots/year}
+   \]
+
+2. **Calculate how many bags of carrots Harris needs**:
+   Next, we know that there are 5 carrots in a 1-pound bag. To find out how many bags he needs for 365 carrots, we divide the total number of carrots by the number of carrots per bag:
+   \[
+   365 \text{ carrots} \div 5 \text{ carrots/bag} = 73 \text{ bags}
+   \]
+
+3. **Calculate the total cost**:
+   Each bag costs $2.00, so to find the total cost for 73 bags, we multiply the number of bags by the cost per bag:
+   \[
+   73 \text{ bags} \times 2.00 \text{ dollars/bag} = 146 \text{ dollars}
+   \]
+
+Now, we have calculated how many bags Harris needs and the total cost for those bags. 
+
+Therefore, after going through the calculations:
+</reasoning>
+<answer>146</answer>

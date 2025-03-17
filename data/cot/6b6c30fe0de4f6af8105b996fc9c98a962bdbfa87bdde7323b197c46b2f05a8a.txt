@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many texts Sydney sent to Allison and Brittney on both days, we'll break the problem down step by step.
+
+1. **Calculate the number of texts sent on Monday**:
+   - Sydney sends 5 texts to Allison and 5 texts to Brittney.
+   - To find the total texts sent on Monday, we add these two amounts together.
+   - \( 5 \text{ (to Allison)} + 5 \text{ (to Brittney)} = 10 \text{ texts on Monday} \).
+
+2. **Calculate the number of texts sent on Tuesday**:
+   - On Tuesday, Sydney sends 15 texts to Allison and 15 texts to Brittney.
+   - Again, we add these two amounts together to find the total texts sent on Tuesday.
+   - \( 15 \text{ (to Allison)} + 15 \text{ (to Brittney)} = 30 \text{ texts on Tuesday} \).
+
+3. **Calculate the total texts sent over both days**:
+   - Now, we need to find the overall total by adding the texts sent on Monday and Tuesday.
+   - \( 10 \text{ (Monday)} + 30 \text{ (Tuesday)} = 40 \text{ texts in total} \).
+
+Therefore, the total number of texts Sydney sent to Allison and Brittney on both days is 40.
+</reasoning>
+<answer>40</answer>

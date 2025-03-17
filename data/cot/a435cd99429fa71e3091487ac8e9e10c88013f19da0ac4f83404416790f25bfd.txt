@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem, let's first determine how many sick days and vacation days Mark has used and how many he has left.
+
+1. **Understand the allotment**: Mark gets 10 sick days and 10 vacation days per year. 
+
+2. **Calculate the total number of days**: 
+   Mark's total days (sick + vacation) are:
+   \[
+   10 \text{ sick days} + 10 \text{ vacation days} = 20 \text{ total days}
+   \]
+
+3. **Determine how many days he used**: 
+   Since Mark uses half of his allotment of both sick days and vacation days, we calculate:
+   \[
+   \text{Sick days used} = \frac{10}{2} = 5 \text{ sick days}
+   \]
+   \[
+   \text{Vacation days used} = \frac{10}{2} = 5 \text{ vacation days}
+   \]
+
+4. **Calculate the total days used**: 
+   The total number of days Mark has used is:
+   \[
+   5 \text{ sick days} + 5 \text{ vacation days} = 10 \text{ days used}
+   \]
+
+5. **Calculate the remaining days**: 
+   The remaining days he has left is:
+   \[
+   20 \text{ total days} - 10 \text{ days used} = 10 \text{ days remaining}
+   \]
+
+6. **Convert remaining days into hours**: 
+   If each day covers an 8-hour workday, the total hours he has left is:
+   \[
+   10 \text{ days remaining} \times 8 \text{ hours/day} = 80 \text{ hours remaining}
+   \]
+
+Therefore, Mark has 80 hours' worth of days left.
+</reasoning>
+<answer>80</answer>

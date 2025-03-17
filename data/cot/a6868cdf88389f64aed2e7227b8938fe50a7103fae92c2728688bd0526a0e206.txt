@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many more points the first team scored than the second team, we need to follow these steps:
+
+1. **Calculate the total score for the first team**: We add Beth's score and Jan's score together.
+   - Beth scored 12 points.
+   - Jan scored 10 points.
+   - So, the total score for the first team is:
+     \[
+     12 + 10 = 22
+     \]
+
+2. **Calculate the total score for the second team**: We add Judy's score and Angel's score together.
+   - Judy scored 8 points.
+   - Angel scored 11 points.
+   - So, the total score for the second team is:
+     \[
+     8 + 11 = 19
+     \]
+
+3. **Determine how many more points the first team scored than the second team**: We subtract the total score of the second team from the total score of the first team.
+   - First team score: 22
+   - Second team score: 19
+   - The difference is:
+     \[
+     22 - 19 = 3
+     \]
+
+Therefore, the first team scored 3 more points than the second team.
+</reasoning>
+<answer>3</answer>

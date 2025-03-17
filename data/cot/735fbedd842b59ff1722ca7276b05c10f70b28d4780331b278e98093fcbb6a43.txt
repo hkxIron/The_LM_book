@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many text messages per week John is receiving that are not intended for him, we first need to establish the difference between the number of messages he's currently receiving and the number he used to receive.
+
+1. **Identify the number of messages John used to receive:**  
+   John used to receive 20 text messages a day.
+
+2. **Identify the number of messages John is currently receiving:**  
+   Now he is receiving 55 text messages a day.
+
+3. **Calculate the increase in the number of messages:**  
+   The increase in the number of messages is given by:
+   \[
+   55 \text{ (current messages)} - 20 \text{ (previous messages)} = 35 \text{ additional messages}
+   \]
+   This means John is receiving 35 more messages per day that are likely not intended for him.
+
+4. **Calculate the total number of unintended messages per week:**  
+   Since there are 7 days in a week, we can find the total number of unintended messages in a week by multiplying the daily additional messages by 7:
+   \[
+   35 \text{ (additional messages per day)} \times 7 \text{ (days per week)} = 245 \text{ unintended messages per week}
+   \]
+
+Therefore, the total number of text messages that John is getting that are not intended for him per week is 245.
+</reasoning>
+<answer>245</answer>

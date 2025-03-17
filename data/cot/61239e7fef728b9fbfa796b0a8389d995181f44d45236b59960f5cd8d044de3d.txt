@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of goldfish**: According to the problem, Catriona has 8 goldfish.
+
+2. **Calculate the number of angelfish**: The problem states that she has 4 more angelfish than goldfish. To find the number of angelfish, we add 4 to the number of goldfish:
+   \[
+   \text{Number of angelfish} = \text{Number of goldfish} + 4 = 8 + 4 = 12
+   \]
+
+3. **Calculate the number of guppies**: Next, we know that she has twice as many guppies as angelfish. To find the number of guppies, we multiply the number of angelfish by 2:
+   \[
+   \text{Number of guppies} = 2 \times \text{Number of angelfish} = 2 \times 12 = 24
+   \]
+
+4. **Add up all the fish**: Now we need to find the total number of fish in the aquarium by adding the number of goldfish, angelfish, and guppies together:
+   \[
+   \text{Total number of fish} = \text{Number of goldfish} + \text{Number of angelfish} + \text{Number of guppies} = 8 + 12 + 24
+   \]
+   Performing the addition:
+   \[
+   8 + 12 = 20
+   \]
+   \[
+   20 + 24 = 44
+   \]
+
+Therefore, the total number of fish in Catriona's aquarium is 44.
+</reasoning>
+<answer>44</answer>

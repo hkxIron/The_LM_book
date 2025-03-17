@@ -1,0 +1,24 @@
+<reasoning>
+To find the cost per trip to the park for each son, we need to follow these steps:
+
+1. **Determine the total cost of the season passes**: Since Patrick bought a season pass for each of his two sons and each pass costs $100, we calculate the total cost as follows:
+   \[
+   \text{Total cost} = \text{Number of passes} \times \text{Cost per pass} = 2 \times 100 = 200
+   \]
+   This means Patrick spent $200 on season passes.
+
+2. **Calculate the total number of trips made by both sons**: The oldest son went to the park 35 times, and the youngest son went 15 times. We add these two numbers together to find the total number of trips:
+   \[
+   \text{Total trips} = \text{Trips by oldest son} + \text{Trips by youngest son} = 35 + 15 = 50
+   \]
+   So, together, the sons went to the park 50 times.
+
+3. **Calculate the cost per trip**: To find the cost per trip, we divide the total cost of the passes by the total number of trips:
+   \[
+   \text{Cost per trip} = \frac{\text{Total cost}}{\text{Total trips}} = \frac{200}{50} = 4
+   \]
+   This means the cost per trip to the park is $4.
+
+Therefore, we conclude that each trip to the park cost Patrick $4.
+</reasoning>
+<answer>4</answer>

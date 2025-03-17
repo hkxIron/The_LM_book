@@ -1,0 +1,47 @@
+<reasoning>
+Let's start by determining how many cupcakes Jean has after buying the packs.
+
+1. **Calculate the total number of cupcakes Jean bought:**
+   - Jean bought 4 packs of 15 cupcakes.
+   - Therefore, we calculate the total number of cupcakes as follows:
+     \[
+     \text{Total cupcakes} = \text{Number of packs} \times \text{Cupcakes per pack} = 4 \times 15
+     \]
+   - Performing the multiplication:
+     \[
+     4 \times 15 = 60
+     \]
+   - So, Jean has 60 cupcakes.
+
+2. **Determine how many cupcakes she needs for the children:**
+   - Jean needs to give one cupcake to each of the 100 children.
+   - Therefore, the total number of cupcakes needed is:
+     \[
+     \text{Total needed} = 100 \text{ children} \times 1 \text{ cupcake/child} = 100
+     \]
+   - Thus, she needs 100 cupcakes.
+
+3. **Calculate how many more cupcakes she needs:**
+   - We already found that she has 60 cupcakes, but she needs 100.
+   - We can find out how many more cupcakes she needs by subtracting the number of cupcakes she has from the number she needs:
+     \[
+     \text{Additional cupcakes needed} = \text{Total needed} - \text{Total cupcakes} = 100 - 60
+     \]
+   - Performing the subtraction:
+     \[
+     100 - 60 = 40
+     \]
+   - So, she needs 40 more cupcakes.
+
+4. **Determine how many packs of 10 cupcakes she needs to buy:**
+   - Since cupcakes are sold in packs of 10, we can find out how many packs she needs by dividing the number of additional cupcakes needed by the number of cupcakes per pack:
+     \[
+     \text{Packs needed} = \frac{\text{Additional cupcakes needed}}{\text{Cupcakes per pack}} = \frac{40}{10}
+     \]
+   - Performing the division:
+     \[
+     \frac{40}{10} = 4
+     \]
+   - Therefore, she needs to buy 4 packs of 10 cupcakes.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total cost of purchasing the land**: 
+   Mike bought 200 acres at a price of $70 per acre. To find the total cost, we multiply the number of acres by the price per acre.
+   \[
+   \text{Total Cost} = \text{Number of acres} \times \text{Price per acre} = 200 \text{ acres} \times 70 \text{ dollars/acre}
+   \]
+   \[
+   \text{Total Cost} = 14000 \text{ dollars}
+   \]
+
+2. **Calculate how much land Mike sold**: 
+   After development, Mike sold half of the acreage. Since he originally bought 200 acres, half of this is:
+   \[
+   \text{Acreage Sold} = \frac{200}{2} = 100 \text{ acres}
+   \]
+
+3. **Calculate the revenue from selling the land**: 
+   He sold the 100 acres at a price of $200 per acre. To find the total revenue from this sale, we multiply the number of acres sold by the price per acre.
+   \[
+   \text{Total Revenue} = \text{Acreage Sold} \times \text{Price per acre} = 100 \text{ acres} \times 200 \text{ dollars/acre}
+   \]
+   \[
+   \text{Total Revenue} = 20000 \text{ dollars}
+   \]
+
+4. **Calculate the profit**: 
+   Profit is calculated as the total revenue minus the total cost. Using the values we have calculated:
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost} = 20000 \text{ dollars} - 14000 \text{ dollars}
+   \]
+   \[
+   \text{Profit} = 6000 \text{ dollars}
+   \]
+
+By following these steps, we determine that Mike made a profit of 6000 dollars from the sale of the half of the land he developed.
+</reasoning>
+<answer>6000</answer>

@@ -1,0 +1,59 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many cards Mara has.**
+   The problem states that Mara has 40 cards less than 150. We can calculate this by subtracting 40 from 150:
+   \[
+   \text{Mara's cards} = 150 - 40 = 110
+   \]
+   So, Mara has 110 cards.
+
+2. **Find out how many cards Janet has.**
+   We know from the problem that Mara has twice as many cards as Janet. This means we can express this relationship with the equation:
+   \[
+   \text{Mara's cards} = 2 \times \text{Janet's cards}
+   \]
+   Substituting the number of cards Mara has:
+   \[
+   110 = 2 \times \text{Janet's cards}
+   \]
+   To find the number of cards Janet has, we divide both sides by 2:
+   \[
+   \text{Janet's cards} = \frac{110}{2} = 55
+   \]
+   So, Janet has 55 cards.
+
+3. **Determine how many cards Brenda has.**
+   The problem states that Janet has 9 cards more than Brenda. We can express this relationship with the equation:
+   \[
+   \text{Janet's cards} = \text{Brenda's cards} + 9
+   \]
+   Substituting the number of cards Janet has:
+   \[
+   55 = \text{Brenda's cards} + 9
+   \]
+   To find Brenda's cards, we subtract 9 from both sides:
+   \[
+   \text{Brenda's cards} = 55 - 9 = 46
+   \]
+   So, Brenda has 46 cards.
+
+4. **Calculate the total number of cards they have.**
+   Now we need to find the total number of cards by adding the cards of Janet, Brenda, and Mara:
+   \[
+   \text{Total cards} = \text{Janet's cards} + \text{Brenda's cards} + \text{Mara's cards}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total cards} = 55 + 46 + 110
+   \]
+   Now we perform the addition step by step:
+   \[
+   55 + 46 = 101
+   \]
+   \[
+   101 + 110 = 211
+   \]
+   Therefore, the total number of cards they have is 211.
+</reasoning>
+<answer>211</answer>

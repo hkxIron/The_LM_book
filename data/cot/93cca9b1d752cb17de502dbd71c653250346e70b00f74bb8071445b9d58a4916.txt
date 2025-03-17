@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+First, we need to calculate how much money Jack has already made from selling brownies and lemon squares.
+
+1. **Calculate the earnings from brownies:**
+   - Jack sold 4 brownies for $3 each. 
+   - To find the total from brownies, we multiply the number of brownies by the price each:
+   \[
+   4 \text{ brownies} \times 3 \text{ dollars/brownie} = 12 \text{ dollars}
+   \]
+   So, Jack has made $12 from brownies.
+
+2. **Calculate the earnings from lemon squares:**
+   - Jack sold 5 lemon squares for $2 each.
+   - Similarly, we find the total from lemon squares:
+   \[
+   5 \text{ lemon squares} \times 2 \text{ dollars/lemon square} = 10 \text{ dollars}
+   \]
+   Thus, Jack has made $10 from lemon squares.
+
+3. **Calculate the total earnings so far:**
+   - Now, we add the earnings from brownies and lemon squares:
+   \[
+   12 \text{ dollars} + 10 \text{ dollars} = 22 \text{ dollars}
+   \]
+   Therefore, Jack has made a total of $22 so far.
+
+4. **Calculate how much more money Jack needs to reach his goal:**
+   - Jack's goal is to make $50. We subtract his current earnings from his goal:
+   \[
+   50 \text{ dollars} - 22 \text{ dollars} = 28 \text{ dollars}
+   \]
+   So, Jack still needs to make $28 to reach his goal.
+
+5. **Determine how many cookies Jack needs to sell:**
+   - Jack sells cookies for $4 each. To find out how many cookies Jack needs to sell to make $28, we divide the amount he needs by the price of each cookie:
+   \[
+   \frac{28 \text{ dollars}}{4 \text{ dollars/cookie}} = 7 \text{ cookies}
+   \]
+   Therefore, Jack needs to sell 7 cookies to reach his goal.
+</reasoning>
+<answer>7</answer>

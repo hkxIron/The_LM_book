@@ -1,0 +1,46 @@
+<reasoning>
+Let's denote the amount of sugar used for one dozen cupcakes as \( x \) grams. According to the problem, each layer of cake uses the same amount of sugar as one dozen cupcakes, so each layer of cake also uses \( x \) grams of sugar.
+
+Nina made a two-layer cake, which means the total amount of sugar used for the cake is:
+\[
+2 \times x = 2x \text{ grams}
+\]
+
+Since Nina also made a dozen cupcakes, the total sugar used for the cupcakes is:
+\[
+x \text{ grams}
+\]
+
+Now, we can add the sugar used for the cake and the sugar used for the cupcakes to find the total amount of sugar used:
+\[
+2x + x = 3x
+\]
+
+According to the problem, the total amount of sugar used for both the cake and the cupcakes is 720 grams. Therefore, we can set up the equation:
+\[
+3x = 720
+\]
+
+Next, we will solve for \( x \) by dividing both sides of the equation by 3:
+\[
+x = \frac{720}{3}
+\]
+
+Calculating the right side gives:
+\[
+x = 240
+\]
+
+This means that one dozen cupcakes uses 240 grams of sugar. To find the amount of sugar in one cupcake, we need to divide the amount of sugar for a dozen cupcakes by 12 (since there are 12 cupcakes in a dozen):
+\[
+\text{Sugar per cupcake} = \frac{240}{12}
+\]
+
+Calculating that gives:
+\[
+\text{Sugar per cupcake} = 20 \text{ grams}
+\]
+
+Therefore, the amount of sugar in one cupcake is:
+</reasoning>
+<answer>20</answer>

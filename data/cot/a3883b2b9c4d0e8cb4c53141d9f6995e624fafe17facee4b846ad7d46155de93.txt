@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **First Spring Kittens Calculation**:
+   - Lola has 10 breeding rabbits.
+   - The number of kittens produced is 10 times the number of breeding rabbits.
+   - Therefore, the number of kittens = 10 breeding rabbits × 10 = 100 kittens.
+
+2. **Adoption of Kittens**:
+   - Half of the 100 kittens got adopted.
+   - Therefore, adopted kittens = 100 kittens ÷ 2 = 50 kittens.
+   - The remaining kittens with Lola after adoption = 100 - 50 = 50 kittens.
+
+3. **Return of Kittens**:
+   - 5 kittens had to be returned to Lola due to re-homing problems.
+   - So, total kittens with Lola = 50 remaining + 5 returned = 55 kittens.
+
+4. **Next Spring Kittens Calculation**:
+   - In the second spring, her 10 breeding rabbits had a total of 60 kittens.
+   - Out of these 60 kittens, 4 were adopted.
+   - The remaining kittens with Lola after adoption = 60 - 4 = 56 kittens.
+
+5. **Total Rabbits in the House**:
+   - Now, we need to find the total number of rabbits Lola has.
+   - She has 10 breeding rabbits and she now has 55 kittens from the previous spring + 56 kittens from the current spring.
+   - Total number of rabbits = 10 breeding rabbits + 55 + 56 = 121 rabbits.
+
+Thus, after calculating the total number of rabbits including the breeding rabbits and all the kittens, we find that Lola has a total of 121 rabbits.
+</reasoning>
+<answer>121</answer>

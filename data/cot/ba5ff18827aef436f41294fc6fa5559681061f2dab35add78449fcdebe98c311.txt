@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many jars James needs to buy, we first need to calculate the total amount of honey he has and then how much of that he will need jars for.
+
+1. **Calculate total honey produced.**  
+   James has 5 hives, and each hive produces 20 liters of honey.  
+   So, we multiply the number of hives by the amount of honey each hive produces:  
+   \[
+   \text{Total honey} = 5 \text{ hives} \times 20 \text{ liters/hive} = 100 \text{ liters}
+   \]
+
+2. **Determine how much honey James will keep.**  
+   James's friend is bringing his own jars for half of the honey. Therefore, James will keep half of the total honey:  
+   \[
+   \text{Honey James keeps} = \frac{100 \text{ liters}}{2} = 50 \text{ liters}
+   \]
+
+3. **Calculate the number of jars needed.**  
+   Each jar can hold 0.5 liters of honey. To find out how many jars are needed for the 50 liters James will keep, we divide the amount of honey by the capacity of each jar:  
+   \[
+   \text{Number of jars} = \frac{50 \text{ liters}}{0.5 \text{ liters/jar}} = 100 \text{ jars}
+   \]
+
+Therefore, James needs to buy 100 jars to store the honey he will keep.
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To determine how much John spent on the pins, we can follow these steps:
+
+1. **Calculate the discount on each pin**: 
+   The original price of each pin is $20, and they are on sale for 15% off. We need to find out how much 15% of $20 is.
+   
+   \[
+   \text{Discount} = 15\% \times 20 = 0.15 \times 20 = 3
+   \]
+   So, each pin is discounted by $3.
+
+2. **Find the sale price of each pin**: 
+   Now that we know the discount, we can subtract it from the original price to find the sale price.
+   
+   \[
+   \text{Sale price} = \text{Original price} - \text{Discount} = 20 - 3 = 17
+   \]
+   Thus, each pin costs $17 after the discount.
+
+3. **Calculate the total cost for 10 pins**: 
+   Finally, to find out how much John spends for 10 pins at the sale price, we multiply the sale price of each pin by the number of pins.
+   
+   \[
+   \text{Total cost} = \text{Sale price} \times \text{Number of pins} = 17 \times 10 = 170
+   \]
+
+Therefore, John spent a total of $170 on the pins.
+</reasoning>
+<answer>170</answer>

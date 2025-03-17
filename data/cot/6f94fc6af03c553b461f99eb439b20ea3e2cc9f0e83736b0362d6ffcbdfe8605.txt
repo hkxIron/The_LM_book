@@ -1,0 +1,28 @@
+<reasoning>
+To find the number of slightly used crayons, we'll work through the problem step by step.
+
+1. **Determine the number of new crayons**: We know that one third of the crayons in the box are new. Since there are a total of 120 crayons, we can calculate the number of new crayons as follows:
+   \[
+   \text{Number of new crayons} = \frac{1}{3} \times 120 = 40
+   \]
+   This means there are 40 new crayons.
+
+2. **Determine the number of broken crayons**: Next, we need to find out how many crayons are broken. We know that 20% of the crayons are broken. We can calculate the number of broken crayons:
+   \[
+   \text{Number of broken crayons} = 20\% \times 120 = 0.20 \times 120 = 24
+   \]
+   This means there are 24 broken crayons.
+
+3. **Calculate the total number of new and broken crayons**: Now we will add the number of new and broken crayons together to find out how many crayons are either new or broken:
+   \[
+   \text{Total new and broken crayons} = 40 + 24 = 64
+   \]
+
+4. **Find the number of slightly used crayons**: The remaining crayons are slightly used. To find this, we subtract the total number of new and broken crayons from the total number of crayons:
+   \[
+   \text{Number of slightly used crayons} = 120 - 64 = 56
+   \]
+
+Therefore, the number of slightly used crayons is 56.
+</reasoning>
+<answer>56</answer>

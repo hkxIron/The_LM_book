@@ -1,0 +1,19 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of matchsticks used for the houses**: 
+   Each matchstick house uses 10 matchsticks, and Michael creates 30 houses. So we calculate the total number of matchsticks used:
+   \[
+   \text{Total matchsticks used} = \text{Number of houses} \times \text{Matchsticks per house} = 30 \times 10 = 300
+   \]
+   This tells us that Michael used a total of 300 matchsticks to build the houses.
+
+2. **Determine the number of matchsticks Michael intended to use**:
+   According to the problem, Michael only used half of his pile of matchsticks to create these houses. Therefore, if 300 matchsticks represent half of his original pile, we can find the original number of matchsticks by multiplying the number of matchsticks used by 2:
+   \[
+   \text{Original number of matchsticks} = 2 \times \text{Total matchsticks used} = 2 \times 300 = 600
+   \]
+
+Thus, Michael originally had 600 matchsticks.
+</reasoning>
+<answer>600</answer>

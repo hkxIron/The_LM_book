@@ -1,0 +1,60 @@
+<reasoning>
+To find the average height of the trees that Jackie climbed, we first need to determine the height of each tree she climbed. 
+
+1. The height of the first tree: 
+   - Jackie climbed a tree that was 1000 feet tall. 
+   - So, the height of the first tree is 1000 feet.
+
+2. The height of the next two trees: 
+   - Jackie climbed 2 trees that were half as tall as the first tree. 
+   - Half of 1000 feet is calculated as follows: 
+     \[
+     \text{Height of each of the next two trees} = \frac{1000}{2} = 500 \text{ feet}
+     \]
+   - Therefore, both of these trees are 500 feet tall each.
+
+3. The height of the last tree: 
+   - Jackie climbed a tree that was 200 feet taller than her first tree. 
+   - To find the height of this tree, we add 200 feet to the height of the first tree:
+     \[
+     \text{Height of the last tree} = 1000 + 200 = 1200 \text{ feet}
+     \]
+
+Now we have the heights of all four trees that Jackie climbed:
+- First tree: 1000 feet
+- Second tree: 500 feet
+- Third tree: 500 feet
+- Fourth tree: 1200 feet
+
+Next, we calculate the average height of the trees. The average height is found by summing the heights of all the trees and dividing by the number of trees:
+
+4. Sum of the heights:
+   \[
+   \text{Total height} = 1000 + 500 + 500 + 1200
+   \]
+   Calculating this:
+   \[
+   1000 + 500 = 1500
+   \]
+   \[
+   1500 + 500 = 2000
+   \]
+   \[
+   2000 + 1200 = 3200 \text{ feet}
+   \]
+
+5. Number of trees: 
+   - Jackie climbed 4 trees total.
+
+6. Average height:
+   \[
+   \text{Average height} = \frac{\text{Total height}}{\text{Number of trees}} = \frac{3200}{4}
+   \]
+   Calculating the average:
+   \[
+   \frac{3200}{4} = 800 \text{ feet}
+   \]
+
+Therefore, the average height of the trees that Jackie climbed is:
+</reasoning>
+<answer>800</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the information step by step.
+
+1. **Determine Wendy's scholarship amount**: 
+   We know from the problem that Wendy received a scholarship worth $20,000. 
+
+2. **Calculate Kelly's scholarship amount**: 
+   The problem states that Kelly received a scholarship worth twice the amount Wendy received. So we calculate Kelly's scholarship as follows:
+   \[
+   \text{Kelly's scholarship} = 2 \times \text{Wendy's scholarship} = 2 \times 20000 = 40000
+   \]
+   This means Kelly received $40,000.
+
+3. **Determine Nina's scholarship amount**: 
+   The problem states that Nina has received a scholarship worth $8,000 less than Kelly's amount. Thus, we calculate Nina's scholarship like this:
+   \[
+   \text{Nina's scholarship} = \text{Kelly's scholarship} - 8000 = 40000 - 8000 = 32000
+   \]
+   Therefore, Nina received $32,000.
+
+4. **Calculate the total scholarship amount received by all three**: 
+   Now we need to find the total scholarship amount received by Wendy, Kelly, and Nina. We add all their amounts together:
+   \[
+   \text{Total scholarship} = \text{Wendy's scholarship} + \text{Kelly's scholarship} + \text{Nina's scholarship} = 20000 + 40000 + 32000
+   \]
+   Let's perform the addition step-by-step:
+   \[
+   20000 + 40000 = 60000
+   \]
+   Then adding Nina's amount:
+   \[
+   60000 + 32000 = 92000
+   \]
+   Thus, the total scholarship amount received by all three is $92,000.
+
+Therefore, combining all the calculations, we find that the total amount of money received in scholarships together is:
+</reasoning>
+<answer>92000</answer>

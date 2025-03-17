@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step to find out how many fruits each child has and then calculate the total.
+
+1. **Find out how many oranges Mike received:**
+   - According to the problem, Mike received 3 oranges.
+   - So, Mike's fruits = 3 oranges.
+
+2. **Determine how many apples Matt received:**
+   - The problem states that Matt got twice as many apples as Mike received oranges.
+   - Since Mike received 3 oranges, Matt received 2 times that amount: 
+     \[
+     \text{Matt's apples} = 2 \times 3 = 6 \text{ apples}
+     \]
+
+3. **Calculate how many fruits Mark received:**
+   - Mark received as many bananas as the total number of fruits that Mike and Matt received combined.
+   - Mike received 3 oranges, and Matt received 6 apples. So, the total fruits that Mike and Matt received is:
+     \[
+     \text{Total fruits of Mike and Matt} = 3 + 6 = 9
+     \]
+   - Therefore, Mark received 9 bananas.
+
+4. **Now, let's calculate the total number of fruits for all three children:**
+   - Mike has 3 oranges.
+   - Matt has 6 apples.
+   - Mark has 9 bananas.
+   - To find the total, we add these amounts together:
+     \[
+     \text{Total fruits} = 3 + 6 + 9 = 18
+     \]
+
+Thus, the total number of fruits that the three children have is 18.
+</reasoning>
+<answer>18</answer>

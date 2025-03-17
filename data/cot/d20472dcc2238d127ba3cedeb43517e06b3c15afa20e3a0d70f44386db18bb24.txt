@@ -1,0 +1,56 @@
+<reasoning>
+To find the total amount of fencing for both the playground and the garden, we will calculate the perimeter of each separately and then add them together.
+
+1. **Calculate the perimeter of the playground:**
+   The playground is surrounded by a square fence. The formula for the perimeter \( P \) of a square is:
+   \[
+   P = 4 \times \text{side length}
+   \]
+   Given that the side length of the playground is 27 yards, we can substitute this value into the formula:
+   \[
+   P = 4 \times 27
+   \]
+   Now, we perform the multiplication:
+   \[
+   P = 108 \text{ yards}
+   \]
+
+2. **Calculate the perimeter of the garden:**
+   The garden is rectangular with dimensions 12 yards by 9 yards. The formula for the perimeter \( P \) of a rectangle is:
+   \[
+   P = 2 \times (\text{length} + \text{width})
+   \]
+   Here, the length is 12 yards and the width is 9 yards. Substituting these values into the formula:
+   \[
+   P = 2 \times (12 + 9)
+   \]
+   First, we calculate the sum inside the parentheses:
+   \[
+   12 + 9 = 21
+   \]
+   Now, we substitute this sum back into the perimeter formula:
+   \[
+   P = 2 \times 21
+   \]
+   Performing the multiplication gives us:
+   \[
+   P = 42 \text{ yards}
+   \]
+
+3. **Add the perimeters of the playground and the garden together:**
+   Now we combine the two perimeters:
+   \[
+   \text{Total fencing} = \text{Perimeter of playground} + \text{Perimeter of garden}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Total fencing} = 108 + 42
+   \]
+   Performing this addition gives us:
+   \[
+   \text{Total fencing} = 150 \text{ yards}
+   \]
+
+Therefore, the total amount of fencing for both the playground and the garden is 150 yards.
+</reasoning>
+<answer>150</answer>

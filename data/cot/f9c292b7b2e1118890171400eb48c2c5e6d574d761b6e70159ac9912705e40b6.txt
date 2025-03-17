@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Betsy's Wins**: We know that Betsy won 5 games of Monopoly. So, we have:
+   \[
+   \text{Betsy's wins} = 5
+   \]
+
+2. **Calculate Helen's Wins**: Helen won twice as many games as Betsy. To find out how many games Helen won, we multiply Betsy's wins by 2:
+   \[
+   \text{Helen's wins} = 2 \times \text{Betsy's wins} = 2 \times 5 = 10
+   \]
+
+3. **Calculate Susan's Wins**: Susan won three times as many games as Betsy. To find out how many games Susan won, we multiply Betsy's wins by 3:
+   \[
+   \text{Susan's wins} = 3 \times \text{Betsy's wins} = 3 \times 5 = 15
+   \]
+
+4. **Calculate Total Wins**: Now that we have the number of games won by each player, we can find the total number of games won by Betsy, Helen, and Susan by adding their wins together:
+   \[
+   \text{Total wins} = \text{Betsy's wins} + \text{Helen's wins} + \text{Susan's wins}
+   \]
+   Substituting in the values we have:
+   \[
+   \text{Total wins} = 5 + 10 + 15 = 30
+   \]
+
+Thus, the total number of games won by Betsy, Helen, and Susan is 30.
+</reasoning>
+<answer>30</answer>

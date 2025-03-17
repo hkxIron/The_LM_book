@@ -1,0 +1,32 @@
+<reasoning>
+To determine how many visitors did not fall ill, we first need to find out how many did fall ill.
+
+1. **Calculate the number of visitors who fell ill**: 
+   We know that 40 percent of the visitors fell ill. To find this number, we will multiply the total number of visitors by the percentage who fell ill (converted into decimal form).
+
+   \[
+   \text{Number who fell ill} = 500 \times 0.40
+   \]
+
+2. **Perform the multiplication**:
+   \[
+   500 \times 0.40 = 200
+   \]
+   This means 200 visitors fell ill from the mysterious disease.
+
+3. **Calculate the number of visitors who did not fall ill**:
+   To find out how many did not fall ill, we subtract the number of visitors who fell ill from the total number of visitors.
+
+   \[
+   \text{Number who did not fall ill} = 500 - 200
+   \]
+
+4. **Perform the subtraction**:
+   \[
+   500 - 200 = 300
+   \]
+   Therefore, 300 visitors did not fall ill.
+
+In conclusion, we have found that after the visit to the aquarium, 300 visitors remained healthy.
+</reasoning>
+<answer>300</answer>

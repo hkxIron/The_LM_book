@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we will follow these steps:
+
+1. **Calculate 20% of Baez's original number of marbles.**
+   Baez starts with 25 marbles. We need to find out how many marbles she loses.
+   \[
+   \text{Marbles lost} = 20\% \text{ of } 25 = 0.20 \times 25
+   \]
+   \[
+   = 5 \text{ marbles}
+   \]
+   Therefore, she loses 5 marbles.
+
+2. **Determine how many marbles Baez has after losing 20%.**
+   We subtract the number of marbles lost from the original number of marbles.
+   \[
+   \text{Marbles remaining} = 25 - 5 = 20 \text{ marbles}
+   \]
+
+3. **Calculate how many marbles her friend gives her.**
+   Her friend gives her double the amount that Baez currently has.
+   \[
+   \text{Marbles given by friend} = 2 \times 20 = 40 \text{ marbles}
+   \]
+
+4. **Find the total number of marbles Baez has after receiving the additional marbles from her friend.**
+   We add the number of marbles Baez has after losing some to the number of marbles she receives from her friend.
+   \[
+   \text{Total marbles} = 20 + 40 = 60 \text{ marbles}
+   \]
+
+By following these steps, we can conclude that after losing 20% of her marbles and receiving double that amount from her friend, Baez ends up with a total of 60 marbles.
+</reasoning>
+<answer>60</answer>

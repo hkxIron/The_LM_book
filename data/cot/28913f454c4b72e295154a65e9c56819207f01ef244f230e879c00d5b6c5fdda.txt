@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many meals are left to be distributed, we can follow these steps:
+
+1. **Calculate the total number of meals available**: Colt and Curt initially prepared 113 meals. Sole Mart provided an additional 50 meals. So, we need to add these two quantities together. 
+
+   \[
+   \text{Total meals} = \text{Initial meals} + \text{Meals from Sole Mart} = 113 + 50
+   \]
+
+   Now, let's do the addition:
+
+   \[
+   113 + 50 = 163
+   \]
+
+   This tells us that Colt and Curt now have a total of 163 meals available.
+
+2. **Determine how many meals have been distributed**: According to the problem, Colt and Curt have already given away 85 meals. 
+
+3. **Calculate the remaining meals**: To find out how many meals are left to be distributed, we subtract the number of meals given away from the total number of meals.
+
+   \[
+   \text{Remaining meals} = \text{Total meals} - \text{Meals given away} = 163 - 85
+   \]
+
+   Now, let's do the subtraction:
+
+   \[
+   163 - 85 = 78
+   \]
+
+   Thus, after distributing 85 meals, Colt and Curt have 78 meals left to be given away.
+
+Therefore, the final count of meals left to be distributed is:
+</reasoning>
+<answer>78</answer>

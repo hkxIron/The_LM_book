@@ -1,0 +1,20 @@
+<reasoning>
+Let's start by determining how many strawberries were initially in each bucket before Cheryl took any out.
+
+1. **Initial Distribution**: Cheryl placed 300 strawberries into 5 buckets. To find out how many strawberries were in each bucket initially, we divide the total number of strawberries by the number of buckets.
+
+   \[
+   \text{Strawberries per bucket} = \frac{300 \text{ strawberries}}{5 \text{ buckets}} = 60 \text{ strawberries per bucket}
+   \]
+
+2. **Removing Strawberries**: Next, we need to account for the strawberries that Cheryl took out of each bucket. She took out 20 strawberries from each bucket. 
+
+   To find out how many strawberries are left in each bucket after removing the 20 strawberries, we subtract the number of strawberries removed from the initial number in each bucket:
+
+   \[
+   \text{Strawberries left in each bucket} = 60 \text{ strawberries} - 20 \text{ strawberries} = 40 \text{ strawberries}
+   \]
+
+3. **Conclusion**: Therefore, after Cheryl takes out 20 strawberries from each bucket, there are 40 strawberries left in each bucket.
+</reasoning>
+<answer>40</answer>

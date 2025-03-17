@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, we need to determine how much time Mark spends reading books in one week, considering his daily reading time and the additional weekly increase.
+
+1. **Identify daily reading time**: Mark reads for 2 hours each day.
+
+2. **Calculate weekly reading time without increase**: Since there are 7 days in a week, we can calculate the total reading time for one week by multiplying his daily reading time by 7 days:
+   \[
+   \text{Weekly reading time without increase} = 2 \text{ hours/day} \times 7 \text{ days} = 14 \text{ hours}
+   \]
+
+3. **Identify weekly increase in reading time**: Mark decides to increase his total reading time by 4 hours each week.
+
+4. **Calculate total reading time for one week with increase**: We add the weekly increase to the initial weekly reading time:
+   \[
+   \text{Total weekly reading time} = \text{Weekly reading time without increase} + \text{Weekly increase}
+   \]
+   \[
+   \text{Total weekly reading time} = 14 \text{ hours} + 4 \text{ hours} = 18 \text{ hours}
+   \]
+
+Thus, Mark wants to spend a total of 18 hours on reading books during one week.
+</reasoning>
+<answer>18</answer>

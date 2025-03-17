@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many votes Mark received in total, we will break the problem down into two parts: the votes he received in the first area and the votes he received in the remaining area.
+
+1. **Calculate votes in the first area:**
+   - There are 100,000 voters in the first area.
+   - Mark wins 70% of the votes in this area.
+   - To find out how many votes that is, we calculate 70% of 100,000:
+     \[
+     \text{Votes in first area} = 0.70 \times 100,000 = 70,000
+     \]
+
+2. **Calculate votes in the remaining area:**
+   - According to the problem, Mark got twice as many total votes in the remaining area as he did in the first area.
+   - Since he received 70,000 votes in the first area, in the remaining area, he received:
+     \[
+     \text{Votes in remaining area} = 2 \times 70,000 = 140,000
+     \]
+
+3. **Calculate total votes:**
+   - Now, we can find the total votes Mark received by adding the votes from both areas:
+     \[
+     \text{Total votes} = \text{Votes in first area} + \text{Votes in remaining area} = 70,000 + 140,000 = 210,000
+     \]
+
+Therefore, the total number of votes Mark received is 210,000.
+</reasoning>
+<answer>210000</answer>

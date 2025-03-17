@@ -1,0 +1,39 @@
+<reasoning>
+First, we need to calculate the total cost of the items that Jimmy and Irene are purchasing before applying any discounts.
+
+**Step 1: Calculate the total cost of Jimmy's shorts.**
+Jimmy selects 3 shorts, each priced at $15. To find the total cost for Jimmy's shorts, we multiply the number of shorts by the price per short:
+
+Total cost for Jimmy = Number of shorts × Price per short
+Total cost for Jimmy = 3 × $15
+Total cost for Jimmy = $45
+
+**Step 2: Calculate the total cost of Irene's shirts.**
+Irene picks 5 shirts, each priced at $17. To find the total cost for Irene's shirts, we multiply the number of shirts by the price per shirt:
+
+Total cost for Irene = Number of shirts × Price per shirt
+Total cost for Irene = 5 × $17
+Total cost for Irene = $85
+
+**Step 3: Calculate the overall total cost before discounts.**
+Now, we need to add the total costs from Jimmy and Irene to find the overall total:
+
+Overall total cost = Total cost for Jimmy + Total cost for Irene
+Overall total cost = $45 + $85
+Overall total cost = $130
+
+**Step 4: Apply the senior citizen discount.**
+Since senior citizens get a 10% discount on their purchases, we need to calculate 10% of the total cost and then subtract that from the overall total.
+
+10% of the overall total cost = 0.10 × $130
+10% of the overall total cost = $13
+
+Now we subtract the discount from the overall total:
+
+Final amount to be paid = Overall total cost - Discount
+Final amount to be paid = $130 - $13
+Final amount to be paid = $117
+
+Therefore, after applying the senior citizen discount, Jimmy and Irene will give a total of $117 to the cashier.
+</reasoning>
+<answer>117</answer>

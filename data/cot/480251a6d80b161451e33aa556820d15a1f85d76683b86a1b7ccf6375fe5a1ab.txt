@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we'll break it down step by step.
+
+1. **Determine the total distance and total time**: The man needs to complete a total journey of 24 km in 8 hours.
+
+2. **Calculate the distance covered in the first four hours**: 
+   - He travels at a speed of 4 km/hr for the first 4 hours.
+   - Distance covered in the first 4 hours = Speed × Time = 4 km/hr × 4 hr = 16 km.
+
+3. **Calculate the remaining distance**:
+   - Total distance = 24 km
+   - Distance already traveled = 16 km
+   - Remaining distance = Total distance - Distance already traveled = 24 km - 16 km = 8 km.
+
+4. **Determine the remaining time**:
+   - Total time = 8 hours
+   - Time already spent = 4 hours
+   - Remaining time = Total time - Time already spent = 8 hours - 4 hours = 4 hours.
+
+5. **Calculate the required speed for the remaining distance**:
+   - To find the speed needed to cover the remaining distance in the remaining time, we use the formula: Speed = Distance / Time.
+   - Required speed = Remaining distance / Remaining time = 8 km / 4 hrs = 2 km/hr.
+
+Therefore, the man needs to travel at a speed of 2 km/hr for the remainder of the journey to complete it on time.
+</reasoning>
+<answer>2</answer>

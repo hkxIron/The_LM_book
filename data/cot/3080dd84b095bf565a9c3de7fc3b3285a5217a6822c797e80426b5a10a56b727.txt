@@ -1,0 +1,32 @@
+<reasoning>
+To determine how fast Marcos needs to go in miles per hour to cross the 5 mile lake in 10 minutes, we will follow these steps:
+
+1. **Convert Time from Minutes to Hours**: Since speed is typically measured in miles per hour (mph), we need to convert the time from minutes to hours. There are 60 minutes in an hour, so we divide the minutes by 60.
+
+   \[
+   \text{Time in hours} = \frac{10 \text{ minutes}}{60} = \frac{1}{6} \text{ hours}
+   \]
+
+2. **Use the Speed Formula**: The formula to calculate speed is given by:
+   
+   \[
+   \text{Speed} = \frac{\text{Distance}}{\text{Time}}
+   \]
+
+   Here, the distance is 5 miles, and the time we just calculated is \(\frac{1}{6}\) hours.
+
+3. **Plug in the Values**: Now, we can substitute the values into the speed formula.
+   
+   \[
+   \text{Speed} = \frac{5 \text{ miles}}{\frac{1}{6} \text{ hours}} 
+   \]
+
+4. **Simplify the Calculation**: Dividing by a fraction is the same as multiplying by its reciprocal. Thus, we can rewrite the equation as:
+   
+   \[
+   \text{Speed} = 5 \text{ miles} \times 6 = 30 \text{ mph}
+   \]
+
+Therefore, Marcos needs to go at a speed of 30 miles per hour to cross the lake in time.
+</reasoning>
+<answer>30</answer>

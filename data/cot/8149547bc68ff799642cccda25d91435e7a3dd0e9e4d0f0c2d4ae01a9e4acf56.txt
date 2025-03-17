@@ -1,0 +1,39 @@
+<reasoning>
+To find the total volume of milk that Bryan bought, we need to convert all the volumes to the same unit. Since two of the bottles are in liters and the other two are in milliliters, it makes sense to convert everything to liters.
+
+1. **Convert milliliters to liters**:
+   - We know that 1 liter = 1000 milliliters.
+   - Therefore:
+     - The 750 milliliters bottle can be converted to liters by dividing by 1000:
+       \[
+       750 \text{ milliliters} = \frac{750}{1000} \text{ liters} = 0.75 \text{ liters}
+       \]
+     - The 250 milliliters bottle can also be converted to liters:
+       \[
+       250 \text{ milliliters} = \frac{250}{1000} \text{ liters} = 0.25 \text{ liters}
+       \]
+
+2. **Add the volumes together**:
+   Now we can add the volumes of all three bottles:
+   - The first bottle contains 2 liters.
+   - The second bottle now is 0.75 liters.
+   - The third bottle now is 0.25 liters.
+
+   So, we add them together:
+   \[
+   \text{Total volume} = 2 \text{ liters} + 0.75 \text{ liters} + 0.25 \text{ liters}
+   \]
+
+3. **Perform the addition**:
+   - First, add 2 liters and 0.75 liters:
+     \[
+     2 + 0.75 = 2.75 \text{ liters}
+     \]
+   - Now add 0.25 liters:
+     \[
+     2.75 + 0.25 = 3.00 \text{ liters}
+     \]
+
+Thus, the total volume of milk that Bryan bought is 3 liters.
+</reasoning>
+<answer>3</answer>

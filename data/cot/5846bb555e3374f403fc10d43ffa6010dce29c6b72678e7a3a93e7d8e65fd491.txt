@@ -1,0 +1,31 @@
+<reasoning>
+To determine how much money James will save by picking the cheaper option, we need to calculate the total costs for both options over a period of time that allows us to compare them reasonably. 
+
+1. **Calculate the cost of the new computer:**
+   - The new computer costs $600 and lasts for 6 years.
+   - If James buys one new computer, the total cost after 6 years is simply $600.
+
+2. **Calculate the cost of the used computers:**
+   - Each used computer costs $200 and lasts for 3 years.
+   - To cover the same 6-year period, James would need to buy 2 used computers, each lasting 3 years, which means he will need to buy them twice (once for the first 3 years and once for the next 3 years).
+   - The cost for the first 3 years is 2 used computers, which is \(2 \times 200 = 400\).
+   - After 3 years, he will need to buy another set of 2 used computers for the next 3 years, costing another \(2 \times 200 = 400\).
+   - Therefore, the total cost for the used computers over 6 years is \(400 + 400 = 800\).
+
+3. **Compare the costs:**
+   - The cost of the new computer over 6 years is $600.
+   - The cost of the two sets of used computers over 6 years is $800.
+   - Now we can compare the two costs to see which is cheaper.
+
+4. **Calculate the savings:**
+   - Savings is calculated by subtracting the cost of the new computer from the cost of the used computers: 
+   \[
+   \text{Savings} = \text{Cost of used computers} - \text{Cost of new computer}
+   \]
+   \[
+   \text{Savings} = 800 - 600 = 200
+   \]
+
+Therefore, James will save $200 by choosing the new computer over the used ones.
+</reasoning>
+<answer>200</answer>

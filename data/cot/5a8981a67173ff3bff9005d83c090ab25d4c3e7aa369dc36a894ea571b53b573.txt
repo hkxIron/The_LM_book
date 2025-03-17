@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step-by-step.
+
+1. **Determine Johnson's yield per hectare**:
+   Johnson has a cornfield that yields 80 corn every two months for one hectare. This means in two months, he produces 80 corn.
+
+2. **Calculate Johnson's yield over six months**:
+   Six months is equivalent to three periods of two months (since 6 months / 2 months = 3). Therefore, in six months, Johnson can produce:
+   \[
+   80 \text{ corn} \times 3 = 240 \text{ corn}
+   \]
+
+3. **Determine the neighbor's yield per hectare**:
+   Johnson's neighbor has a two-hectare cornfield. Each hectare of his neighbor's field yields twice the amount of Johnson's. Since Johnson yields 80 corn per hectare every two months, the neighbor's yield per hectare is:
+   \[
+   80 \text{ corn} \times 2 = 160 \text{ corn}
+   \]
+
+4. **Calculate the neighbor's total yield for two hectares**:
+   The neighbor has two hectares, so his total yield over two months (for both hectares) is:
+   \[
+   160 \text{ corn} \times 2 = 320 \text{ corn}
+   \]
+   Since we are looking at the yield over six months, we again calculate how many two-month periods fit into six months:
+   \[
+   6 \text{ months} / 2 \text{ months} = 3
+   \]
+   Thus, the total corn harvested by the neighbor in six months is:
+   \[
+   320 \text{ corn} \times 3 = 960 \text{ corn}
+   \]
+
+5. **Calculate the total corn harvested by both Johnson and his neighbor**:
+   Now we add Johnson's yield and the neighbor's yield:
+   \[
+   240 \text{ corn (Johnson)} + 960 \text{ corn (Neighbor)} = 1200 \text{ corn}
+   \]
+
+Therefore, the total amount of corn they can harvest altogether after six months is:
+</reasoning>
+<answer>1200</answer>

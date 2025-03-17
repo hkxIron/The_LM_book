@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identifying the number of schools Mandy applied to**: 
+   Mandy researched 42 med schools. She applied to 1/3 of these schools. 
+   
+   To find the number of schools she applied to, we calculate:
+   \[
+   \text{Number of schools applied to} = \frac{1}{3} \times 42
+   \]
+   Performing the calculation:
+   \[
+   \frac{42}{3} = 14
+   \]
+   So, Mandy applied to 14 schools.
+
+2. **Finding out how many schools she was accepted to**:
+   Mandy got into half of the schools she applied to. To find out how many schools that is, we calculate:
+   \[
+   \text{Number of schools accepted to} = \frac{1}{2} \times 14
+   \]
+   Performing the calculation:
+   \[
+   \frac{14}{2} = 7
+   \]
+   Thus, Mandy was accepted into 7 schools.
+
+Combining all of this, we find that the number of med schools Mandy was accepted to is 7.
+</reasoning>
+<answer>7</answer>

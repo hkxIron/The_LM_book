@@ -1,0 +1,49 @@
+<reasoning>
+To solve the problem, we need to determine how far apart the first and second signs are from each other.
+
+1. **Identify the distance to the first sign**:
+   - According to the problem, the first sign is 350 feet away from Matt's house.
+
+2. **Identify the total distance Matt rode**:
+   - Matt rode a total of 1000 feet from his house.
+
+3. **Determine how far Matt rode after passing the first sign**:
+   - After passing the first sign, he rode an additional 275 feet. 
+
+4. **Calculate the total distance from the house to the second sign**:
+   - To find the distance to the second sign, we add the distance from the house to the first sign (350 feet) and the additional distance Matt rode after passing the first sign (which is the distance from the first sign to the second sign plus the 275 feet he rode after passing the second sign).
+
+5. **Set up the equation**:
+   - Let \( x \) be the distance between the first and second signs. Then, the distance to the second sign is given by:
+     \[
+     \text{Distance to the second sign} = \text{Distance to first sign} + x
+     \]
+   - Therefore, the distance to the second sign can also be expressed as:
+     \[
+     350 + x
+     \]
+   - Since we know that Matt rode a total of 1000 feet, we can write:
+     \[
+     350 + x + 275 = 1000
+     \]
+
+6. **Simplify the equation**:
+   - Combine the known distances:
+     \[
+     625 + x = 1000
+     \]
+
+7. **Solve for \( x \)**:
+   - Subtract 625 from both sides:
+     \[
+     x = 1000 - 625
+     \]
+     \[
+     x = 375
+     \]
+
+This means the distance between the first and second signs is 375 feet.
+
+Therefore, the final result is:
+</reasoning>
+<answer>375</answer>

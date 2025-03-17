@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the initial count of fruits**: 
+   Tina's bag contains:
+   - Apples: 9
+   - Oranges: 5
+   - Tangerines: 17
+
+2. **Calculate the remaining oranges after taking some away**:
+   Tina took away 2 oranges. We subtract this from the initial count of oranges:
+   \[
+   \text{Remaining oranges} = 5 - 2 = 3
+   \]
+
+3. **Calculate the remaining tangerines after taking some away**:
+   Tina took away 10 tangerines. We subtract this from the initial count of tangerines:
+   \[
+   \text{Remaining tangerines} = 17 - 10 = 7
+   \]
+
+4. **Find the difference between the remaining tangerines and oranges**:
+   We need to find how many more tangerines than oranges she has left. We subtract the remaining number of oranges from the remaining number of tangerines:
+   \[
+   \text{Difference} = 7 - 3 = 4
+   \]
+
+After going through all these steps, we find that Tina has 4 more tangerines than oranges left.
+</reasoning>
+<answer>4</answer>

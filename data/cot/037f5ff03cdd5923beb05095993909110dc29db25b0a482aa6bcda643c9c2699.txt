@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we first need to determine the number of sharks in Dana Point beach based on the information provided.
+
+1. **Identify the number of sharks in Newport Beach**: The problem states that Newport Beach has 22 sharks.
+
+2. **Calculate the number of sharks in Dana Point beach**: According to the problem, Dana Point beach has four times the number of sharks as Newport Beach. Therefore, we calculate the number of sharks in Dana Point as follows:
+   \[
+   \text{Number of sharks in Dana Point} = 4 \times \text{Number of sharks in Newport Beach} = 4 \times 22
+   \]
+   Performing the multiplication:
+   \[
+   4 \times 22 = 88
+   \]
+   So, there are 88 sharks in Dana Point beach.
+
+3. **Calculate the total number of sharks on both beaches**: Now that we have the number of sharks in both locations, we can find the total by adding the number of sharks from Newport Beach and Dana Point beach:
+   \[
+   \text{Total number of sharks} = \text{Number of sharks in Newport Beach} + \text{Number of sharks in Dana Point}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total number of sharks} = 22 + 88
+   \]
+   Performing the addition:
+   \[
+   22 + 88 = 110
+   \]
+
+Therefore, the total number of sharks on the two beaches is 110.
+</reasoning>
+<answer>110</answer>

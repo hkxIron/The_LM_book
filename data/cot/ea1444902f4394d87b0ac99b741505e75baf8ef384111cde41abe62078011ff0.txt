@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem step by step, let's start by determining how many cakes Sunny has left after giving away some.
+
+1. **Calculate the remaining cakes**: Sunny initially bakes 8 cakes and then gives away 2 cakes. We need to subtract the 2 cakes from the 8 cakes to find out how many she has left.
+   \[
+   \text{Remaining cakes} = \text{Initial cakes} - \text{Cakes given away} = 8 - 2
+   \]
+   This calculation gives us:
+   \[
+   \text{Remaining cakes} = 6
+   \]
+
+2. **Determine the number of candles needed**: Now that we know Sunny has 6 remaining cakes, we need to find out how many candles she will use if she puts 6 candles on each cake. We do this by multiplying the number of remaining cakes by the number of candles per cake.
+   \[
+   \text{Total candles} = \text{Remaining cakes} \times \text{Candles per cake} = 6 \times 6
+   \]
+   Performing the multiplication gives us:
+   \[
+   \text{Total candles} = 36
+   \]
+
+Therefore, after calculating the remaining cakes and how many candles Sunny will use in total, we find that she will use 36 candles.
+</reasoning>
+<answer>36</answer>

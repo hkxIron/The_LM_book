@@ -1,0 +1,39 @@
+<reasoning>
+To find the total number of golf balls purchased by Dan, Gus, and Chris, we will follow these steps:
+
+1. **Determine the number of golf balls Dan buys**:
+   Dan buys 5 dozen. Since 1 dozen equals 12 golf balls, we calculate the number of golf balls as follows:
+   \[
+   \text{Golf balls Dan buys} = 5 \text{ dozen} \times 12 \text{ golf balls/dozen} = 60 \text{ golf balls}
+   \]
+
+2. **Determine the number of golf balls Gus buys**:
+   Gus buys 2 dozen. We perform a similar calculation:
+   \[
+   \text{Golf balls Gus buys} = 2 \text{ dozen} \times 12 \text{ golf balls/dozen} = 24 \text{ golf balls}
+   \]
+
+3. **Determine the number of golf balls Chris buys**:
+   Chris buys 48 golf balls directly, so we don't need any conversion for him.
+
+4. **Calculate the total number of golf balls purchased**:
+   Now, we will add the number of golf balls purchased by Dan, Gus, and Chris:
+   \[
+   \text{Total golf balls} = \text{Golf balls Dan buys} + \text{Golf balls Gus buys} + \text{Golf balls Chris buys}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Total golf balls} = 60 + 24 + 48
+   \]
+
+5. **Perform the addition**:
+   \[
+   \text{Total golf balls} = 60 + 24 = 84
+   \]
+   \[
+   \text{Total golf balls} = 84 + 48 = 132
+   \]
+
+Therefore, the total number of golf balls purchased by Dan, Gus, and Chris is:
+</reasoning>
+<answer>132</answer>

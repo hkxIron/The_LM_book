@@ -1,0 +1,18 @@
+<reasoning>
+First, we need to determine the total number of orcs available for transporting the swords. The problem states that there are 10 squads of 8 orcs each.
+
+1. **Calculate the total number of orcs:**
+   To find the total number of orcs, we multiply the number of squads by the number of orcs in each squad:
+   \[
+   \text{Total number of orcs} = 10 \text{ squads} \times 8 \text{ orcs/squad} = 80 \text{ orcs}
+   \]
+
+2. **Determine how much weight each orc has to carry:**
+   Next, we need to find out how many pounds of swords each orc has to carry. We do this by dividing the total weight of the swords by the total number of orcs:
+   \[
+   \text{Pounds per orc} = \frac{1200 \text{ pounds}}{80 \text{ orcs}} = 15 \text{ pounds/orc}
+   \]
+
+Therefore, each orc has to carry 15 pounds of swords.
+</reasoning>
+<answer>15</answer>

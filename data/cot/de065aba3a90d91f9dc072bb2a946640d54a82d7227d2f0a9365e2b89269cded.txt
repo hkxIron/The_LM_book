@@ -1,0 +1,43 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate how many sausages Mr. Castiel ate on Monday.**
+   He prepared 600 boar sausages and ate 2/5 of them on Monday. 
+   To find out how many he ate, we multiply the total number of sausages by the fraction he consumed:
+   \[
+   \text{Sausages eaten on Monday} = \frac{2}{5} \times 600 = 240
+   \]
+
+2. **Calculate how many sausages are left after Monday.**
+   We subtract the number of sausages eaten on Monday from the total prepared:
+   \[
+   \text{Sausages remaining after Monday} = 600 - 240 = 360
+   \]
+
+3. **Calculate how many sausages he ate on Tuesday.**
+   Mr. Castiel ate half of the remaining sausages on Tuesday, so we take half of 360:
+   \[
+   \text{Sausages eaten on Tuesday} = \frac{1}{2} \times 360 = 180
+   \]
+
+4. **Calculate how many sausages are left after Tuesday.**
+   We subtract the number of sausages eaten on Tuesday from the remaining sausages:
+   \[
+   \text{Sausages remaining after Tuesday} = 360 - 180 = 180
+   \]
+
+5. **Calculate how many sausages he ate on Friday.**
+   On Friday, he ate 3/4 of the remaining sausages. First, we calculate 3/4 of 180:
+   \[
+   \text{Sausages eaten on Friday} = \frac{3}{4} \times 180 = 135
+   \]
+
+6. **Calculate how many sausages are left after Friday.**
+   Finally, we subtract the number of sausages eaten on Friday from the remaining sausages:
+   \[
+   \text{Sausages remaining after Friday} = 180 - 135 = 45
+   \]
+
+At the end of this process, we find that there are 45 sausages left.
+</reasoning>
+<answer>45</answer>

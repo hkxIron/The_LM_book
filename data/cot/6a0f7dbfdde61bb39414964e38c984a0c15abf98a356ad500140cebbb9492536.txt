@@ -1,0 +1,62 @@
+<reasoning>
+First, let's calculate how many daisy seeds germinate. Hortense planted 25 daisy seeds, and 60% of them germinate. 
+
+To find the number of germinated daisy seeds, we perform the following calculation:
+
+\[
+\text{Number of germinated daisy seeds} = 25 \times 0.60
+\]
+
+Calculating this gives:
+
+\[
+25 \times 0.60 = 15
+\]
+
+So, 15 daisy seeds germinate.
+
+Next, we need to find out how many sunflower seeds germinate. Hortense also planted 25 sunflower seeds, and 80% of them germinate. 
+
+We calculate the number of germinated sunflower seeds:
+
+\[
+\text{Number of germinated sunflower seeds} = 25 \times 0.80
+\]
+
+Calculating this gives:
+
+\[
+25 \times 0.80 = 20
+\]
+
+So, 20 sunflower seeds germinate.
+
+Now, we combine the number of germinated daisy and sunflower seeds to find the total number of germinated plants:
+
+\[
+\text{Total germinated plants} = \text{Number of germinated daisy seeds} + \text{Number of germinated sunflower seeds}
+\]
+
+Substituting in the values we found:
+
+\[
+\text{Total germinated plants} = 15 + 20 = 35
+\]
+
+Next, we need to determine how many of these germinated plants will produce flowers. We know that 80% of the resulting plants produce flowers. 
+
+We calculate this as follows:
+
+\[
+\text{Number of plants that produce flowers} = 35 \times 0.80
+\]
+
+Calculating this gives:
+
+\[
+35 \times 0.80 = 28
+\]
+
+Therefore, the total number of plants that will produce flowers is 28.
+</reasoning>
+<answer>28</answer>

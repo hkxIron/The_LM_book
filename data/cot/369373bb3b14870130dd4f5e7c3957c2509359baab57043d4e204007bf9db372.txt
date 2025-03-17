@@ -1,0 +1,39 @@
+<reasoning>
+To determine how many more tanks Jennifer needs to build, we will first calculate how many fish her current tanks can hold, and then find out how many more tanks are needed to house the total of 75 fish.
+
+1. **Calculate the capacity of the current tanks:**
+   Jennifer built 3 tanks that hold 15 fish each. We will calculate the total capacity of these tanks:
+   \[
+   \text{Total capacity of current tanks} = \text{Number of tanks} \times \text{Capacity per tank} = 3 \times 15
+   \]
+   Performing the multiplication:
+   \[
+   3 \times 15 = 45
+   \]
+   So, the 3 tanks can hold a total of 45 fish.
+
+2. **Determine how many more fish need to be housed:**
+   The total number of fish she needs to accommodate is 75. To find out how many more fish need to be housed, we subtract the current capacity from the total needed:
+   \[
+   \text{Fish still needed} = \text{Total fish} - \text{Current capacity} = 75 - 45
+   \]
+   Performing the subtraction:
+   \[
+   75 - 45 = 30
+   \]
+   Therefore, she needs to accommodate 30 more fish.
+
+3. **Calculate how many additional tanks are needed:**
+   The remaining tanks will hold 10 fish each. To find out how many additional tanks she needs, we divide the number of fish still needed by the capacity of each new tank:
+   \[
+   \text{Number of additional tanks needed} = \frac{\text{Fish still needed}}{\text{Capacity per new tank}} = \frac{30}{10}
+   \]
+   Performing the division:
+   \[
+   \frac{30}{10} = 3
+   \]
+   This means Jennifer needs to build 3 more tanks.
+
+Therefore, the total number of additional tanks Jennifer needs to build is 3.
+</reasoning>
+<answer>3</answer>

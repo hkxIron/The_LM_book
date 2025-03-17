@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the pages read on night 1**:
+   Coral reads 30 pages on night 1. We can write this down as:
+   \[
+   \text{Night 1 pages} = 30
+   \]
+
+2. **Calculate the pages read on night 2**:
+   Coral reads 2 less than twice the number of pages from night 1. So, we first calculate twice the pages read on night 1:
+   \[
+   2 \times 30 = 60
+   \]
+   Now, we subtract 2 from that amount:
+   \[
+   \text{Night 2 pages} = 60 - 2 = 58
+   \]
+
+3. **Calculate the pages read on night 3**:
+   Coral reads 3 more pages than the sum of the pages read on the first two nights. First, we need to find the sum of the pages read on night 1 and night 2:
+   \[
+   \text{Sum of Night 1 and Night 2} = 30 + 58 = 88
+   \]
+   Now we add 3 to this sum to find out how many pages Coral read on night 3:
+   \[
+   \text{Night 3 pages} = 88 + 3 = 91
+   \]
+
+4. **Calculate the total pages read in the 3 nights**:
+   Finally, we add the pages read on all three nights together:
+   \[
+   \text{Total pages} = 30 + 58 + 91
+   \]
+   Calculating this gives:
+   \[
+   30 + 58 = 88
+   \]
+   Then:
+   \[
+   88 + 91 = 179
+   \]
+
+Therefore, the total number of pages Coral read in the 3 nights is:
+</reasoning>
+<answer>179</answer>

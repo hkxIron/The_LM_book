@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many drops of glue Lena will need for the newspaper clippings, we can follow these steps:
+
+1. **Identify the number of friends**: Lena has 7 closest friends.
+
+2. **Determine the number of clippings per friend**: According to the problem, she has found 3 clippings for each friend.
+
+3. **Calculate the total number of clippings**: We multiply the number of friends by the number of clippings per friend:
+   \[
+   \text{Total clippings} = \text{Number of friends} \times \text{Clippings per friend} = 7 \times 3 = 21
+   \]
+   This means Lena has a total of 21 newspaper clippings.
+
+4. **Determine the drops of glue needed for each clipping**: It takes her 6 drops of glue to stick down each clipping.
+
+5. **Calculate the total drops of glue needed**: We multiply the total number of clippings by the drops of glue per clipping:
+   \[
+   \text{Total drops of glue} = \text{Total clippings} \times \text{Drops of glue per clipping} = 21 \times 6
+   \]
+   Calculating this gives:
+   \[
+   21 \times 6 = 126
+   \]
+
+Therefore, Lena will need a total of 126 drops of glue for the newspaper clippings in her collage.
+</reasoning>
+<answer>126</answer>

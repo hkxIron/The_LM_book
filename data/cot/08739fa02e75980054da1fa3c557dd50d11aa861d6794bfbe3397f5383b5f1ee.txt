@@ -1,0 +1,16 @@
+<reasoning>
+To find out how many students play soccer, we will follow these steps:
+
+1. **Calculate the number of students who play sports.**
+   - We know that 52% of the 400 students play sports. To find this, we multiply the total number of students by the percentage of students who play sports.
+   - Calculation: \( 400 \times 0.52 = 208 \)
+   - This means that 208 students play sports.
+
+2. **Calculate the number of students who play soccer.**
+   - We also know that of the students who play sports, 12.5% play soccer. Now we need to find 12.5% of the 208 students who play sports.
+   - Calculation: \( 208 \times 0.125 = 26 \)
+   - This means that 26 students play soccer.
+
+By following these steps, we have calculated that the number of students who play soccer is 26.
+</reasoning>
+<answer>26</answer>

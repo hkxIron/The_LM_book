@@ -1,0 +1,26 @@
+<reasoning>
+Let's start by calculating the value of Jackson's investment after it quadruples.
+
+1. **Calculate Jackson's investment value after quadrupling**:
+   - Initial investment: $500
+   - Quadrupling means we multiply the initial amount by 4.
+   \[
+   \text{Jackson's investment} = 500 \times 4 = 2000
+   \]
+
+2. **Calculate Brandon's investment value after it is reduced to 20%**:
+   - Initial investment: $500
+   - To find 20% of the initial investment, we can multiply by 0.20.
+   \[
+   \text{Brandon's investment} = 500 \times 0.20 = 100
+   \]
+
+3. **Determine how much more money Jackson has than Brandon**:
+   - We subtract Brandon's investment value from Jackson's.
+   \[
+   \text{Difference} = \text{Jackson's investment} - \text{Brandon's investment} = 2000 - 100 = 1900
+   \]
+
+Therefore, Jackson has $1900 more than Brandon now.
+</reasoning>
+<answer>1900</answer>

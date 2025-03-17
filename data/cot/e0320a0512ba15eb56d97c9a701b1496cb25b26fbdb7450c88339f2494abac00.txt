@@ -1,0 +1,49 @@
+<reasoning>
+To find the total amount Granger paid, we will calculate the cost for each type of item he purchased and then sum those amounts.
+
+1. **Calculate the cost of the Spam:**
+   - Granger bought 12 cans of Spam, and each can costs $3.
+   - The total cost for Spam is calculated as follows:
+   \[
+   \text{Cost of Spam} = \text{Number of cans} \times \text{Cost per can} = 12 \times 3
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Cost of Spam} = 36
+   \]
+
+2. **Calculate the cost of the peanut butter:**
+   - Granger bought 3 jars of peanut butter, and each jar costs $5.
+   - The total cost for peanut butter is calculated as follows:
+   \[
+   \text{Cost of Peanut Butter} = \text{Number of jars} \times \text{Cost per jar} = 3 \times 5
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Cost of Peanut Butter} = 15
+   \]
+
+3. **Calculate the cost of the bread:**
+   - Granger bought 4 loaves of bread, and each loaf costs $2.
+   - The total cost for bread is calculated as follows:
+   \[
+   \text{Cost of Bread} = \text{Number of loaves} \times \text{Cost per loaf} = 4 \times 2
+   \]
+   - Performing the multiplication:
+   \[
+   \text{Cost of Bread} = 8
+   \]
+
+4. **Calculate the total amount paid:**
+   - Now we add all the costs together:
+   \[
+   \text{Total Cost} = \text{Cost of Spam} + \text{Cost of Peanut Butter} + \text{Cost of Bread} = 36 + 15 + 8
+   \]
+   - Performing the addition:
+   \[
+   \text{Total Cost} = 59
+   \]
+
+Therefore, the total amount Granger paid at the grocery store is:
+</reasoning>
+<answer>59</answer>

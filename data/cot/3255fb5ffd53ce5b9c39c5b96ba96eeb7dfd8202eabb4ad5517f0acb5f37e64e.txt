@@ -1,0 +1,24 @@
+<reasoning>
+To find out how long Janet has to wait for her sister to catch up, we can follow these steps:
+
+1. **Calculate the time it takes for Janet to cross the lake.**  
+   Janet's speed is 30 miles per hour, and the lake is 60 miles wide. We can use the formula for time, which is:  
+   \[ \text{Time} = \frac{\text{Distance}}{\text{Speed}} \]  
+   Substituting the values for Janet:  
+   \[ \text{Time}_{Janet} = \frac{60 \text{ miles}}{30 \text{ miles/hour}} = 2 \text{ hours} \]  
+   This means Janet will take 2 hours to cross the lake.
+
+2. **Calculate the time it takes for Janet's sister to cross the lake.**  
+   Her sister's speed is 12 miles per hour. Using the same formula:  
+   \[ \text{Time}_{Sister} = \frac{60 \text{ miles}}{12 \text{ miles/hour}} = 5 \text{ hours} \]  
+   So, it will take her sister 5 hours to cross the lake.
+
+3. **Determine how long Janet has to wait for her sister.**  
+   Now, we find the difference between the time it takes for Janet's sister and the time it takes for Janet:  
+   \[ \text{Wait Time} = \text{Time}_{Sister} - \text{Time}_{Janet} \]  
+   Substituting the previously calculated times:  
+   \[ \text{Wait Time} = 5 \text{ hours} - 2 \text{ hours} = 3 \text{ hours} \]  
+
+Therefore, Janet has to wait 3 hours for her sister to catch up on the other side of the lake.
+</reasoning>
+<answer>3</answer>

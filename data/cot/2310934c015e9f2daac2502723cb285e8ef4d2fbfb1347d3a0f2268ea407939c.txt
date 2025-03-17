@@ -1,0 +1,32 @@
+<reasoning>
+To find the percentage of blue flowers, we first need to determine how many flowers are blue.
+
+1. **Identify the total number of flowers:** Madeline has 10 flowers in total.
+
+2. **Identify the number of red and white flowers:** We know that there are 4 red flowers and 2 white flowers.
+
+3. **Calculate the number of blue flowers:** 
+   - To find the number of blue flowers, we subtract the number of red and white flowers from the total number of flowers.
+   - This can be calculated as follows:
+     \[
+     \text{Number of blue flowers} = \text{Total flowers} - (\text{Red flowers} + \text{White flowers})
+     \]
+   - Substituting the values:
+     \[
+     \text{Number of blue flowers} = 10 - (4 + 2) = 10 - 6 = 4
+     \]
+   - So, there are 4 blue flowers.
+
+4. **Calculate the percentage of blue flowers:**
+   - The percentage can be calculated using the formula:
+     \[
+     \text{Percentage of blue flowers} = \left(\frac{\text{Number of blue flowers}}{\text{Total flowers}}\right) \times 100
+     \]
+   - Substituting the values:
+     \[
+     \text{Percentage of blue flowers} = \left(\frac{4}{10}\right) \times 100 = 0.4 \times 100 = 40\%
+     \]
+
+Therefore, after calculating the number of blue flowers and determining their percentage in relation to the total number of flowers, we find that 40% of the flowers are blue.
+</reasoning>
+<answer>40</answer>

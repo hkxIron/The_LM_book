@@ -1,0 +1,48 @@
+<reasoning>
+Let's denote Alma's age as A and Melina's age as M. 
+
+1. **Understanding the information given**: 
+   We know that Melina is 60 years old. Therefore, M = 60. 
+
+2. **Using the relationship between their ages**:
+   We are told that Melina is three times as old as Alma. This gives us the equation:
+   \[
+   M = 3A
+   \]
+   Substituting M with 60, we have:
+   \[
+   60 = 3A
+   \]
+
+3. **Solving for Alma's age**:
+   To find A, we divide both sides of the equation by 3:
+   \[
+   A = \frac{60}{3} = 20
+   \]
+   So, Alma is 20 years old.
+
+4. **Calculating the sum of their ages**:
+   The sum of their ages is:
+   \[
+   A + M = 20 + 60 = 80
+   \]
+
+5. **Setting up the equation for Alma's score**:
+   According to the problem, the sum of their ages is twice the total number of points Alma scored in the test. This gives us the equation:
+   \[
+   A + M = 2 \times \text{(Alma's score)}
+   \]
+   Substituting the sum of their ages:
+   \[
+   80 = 2 \times \text{(Alma's score)}
+   \]
+
+6. **Solving for Alma's score**:
+   To find Alma's score, we divide both sides by 2:
+   \[
+   \text{(Alma's score)} = \frac{80}{2} = 40
+   \]
+
+Therefore, Alma scored 40 points on the test.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,58 @@
+<reasoning>
+Let's denote Tully's current age as \( T \) and Kate's current age as \( K \). According to the problem, we know that Kate's current age is 29 years old, so we can write:
+
+\[
+K = 29
+\]
+
+The problem states that three years from now, Tully will be twice as old as Kate. In three years, Kate's age will be:
+
+\[
+K + 3 = 29 + 3 = 32
+\]
+
+Now, we need to find Tully's age in three years. If Tully is currently \( T \) years old, in three years, he will be:
+
+\[
+T + 3
+\]
+
+According to the problem, Tully's age in three years will be twice Kate's age in three years. We can set up the equation:
+
+\[
+T + 3 = 2 \times (K + 3)
+\]
+
+Substituting the values we have:
+
+\[
+T + 3 = 2 \times 32
+\]
+
+Calculating the right side:
+
+\[
+2 \times 32 = 64
+\]
+
+So we have:
+
+\[
+T + 3 = 64
+\]
+
+To find Tully's current age \( T \), we will subtract 3 from both sides:
+
+\[
+T = 64 - 3 = 61
+\]
+
+Now we know Tully's current age is 61. The problem asks for Tully's age a year ago. To find that, we simply subtract 1 from Tully's current age:
+
+\[
+\text{Tully's age a year ago} = T - 1 = 61 - 1 = 60
+\]
+
+Therefore, Tully was 60 years old a year ago.
+</reasoning>
+<answer>60</answer>

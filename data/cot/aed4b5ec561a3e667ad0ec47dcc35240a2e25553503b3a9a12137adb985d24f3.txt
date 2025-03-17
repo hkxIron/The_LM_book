@@ -1,0 +1,30 @@
+<reasoning>
+Let's denote Mrs. Snyder's previous monthly income as "P".
+
+We know that 40% of her previous income was spent on rent and utilities.
+
+So, we can write this as: 0.40P
+
+Her salary was increased by $600 and now her rent and utilities amount to 25% of her new income.
+
+So, her new income is P + $600 and 0.25 of that is still spent on rent and utilities.
+
+Therefore, we can write this as: 0.25(P + $600)
+
+But the amount spent on rent and utilities didn't change, so we can equate these two expressions and solve for P. This gives us the equation:
+
+0.40P = 0.25(P + $600)
+
+We can expand the right side of the equation to get:
+
+0.40P = 0.25P + $150
+
+Subtracting 0.25P from both sides will give us:
+
+0.15P = $150
+
+Finally, to find the value of P (Mrs. Snyder's previous monthly income), we divide both sides of the equation by 0.15:
+
+P = $150 / 0.15
+</reasoning>
+<answer>1000</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To determine how much weight the bridge must hold up, we need to calculate the total weight of the cans, both full and empty.
+
+1. **Calculate the weight of the full cans**:
+   - Each can of soda contains 12 ounces of soda.
+   - There are 6 cans of soda.
+   - Therefore, the total weight of the soda in the full cans is:
+     \[
+     12 \text{ ounces/can} \times 6 \text{ cans} = 72 \text{ ounces}
+     \]
+
+2. **Calculate the weight of the empty cans**:
+   - Each empty can weighs 2 ounces.
+   - There are 6 empty cans (the original 6 cans plus 2 additional empty cans).
+   - Therefore, the total weight of the empty cans is:
+     \[
+     2 \text{ ounces/can} \times 8 \text{ cans} = 16 \text{ ounces}
+     \]
+
+3. **Calculate the total weight the bridge must support**:
+   - The total weight is the sum of the weight of the full cans and the weight of the empty cans:
+     \[
+     72 \text{ ounces (full cans)} + 16 \text{ ounces (empty cans)} = 88 \text{ ounces}
+     \]
+
+Therefore, the bridge must hold up a total weight of 88 ounces.
+</reasoning>
+<answer>88</answer>

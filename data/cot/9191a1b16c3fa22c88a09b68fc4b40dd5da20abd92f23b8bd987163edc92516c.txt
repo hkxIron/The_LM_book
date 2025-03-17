@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Samuel's Share**: 
+   Since Samuel received \( \frac{3}{4} \) of the total amount of $240, we need to calculate how much that is.
+   \[
+   \text{Samuel's share} = \frac{3}{4} \times 240
+   \]
+   Calculating this:
+   \[
+   \text{Samuel's share} = \frac{3 \times 240}{4} = \frac{720}{4} = 180
+   \]
+   So, Samuel received $180.
+
+2. **Calculate the Amount Spent on Drinks**:
+   Samuel spent \( \frac{1}{5} \) of the original $240 on drinks. We calculate that amount:
+   \[
+   \text{Amount spent on drinks} = \frac{1}{5} \times 240
+   \]
+   Calculating this:
+   \[
+   \text{Amount spent on drinks} = \frac{240}{5} = 48
+   \]
+   Samuel spent $48 on drinks.
+
+3. **Calculate Samuel's Remaining Amount**:
+   Now, we need to find out how much Samuel has left after spending $48 from his share of $180.
+   \[
+   \text{Remaining amount} = \text{Samuel's share} - \text{Amount spent on drinks}
+   \]
+   Substituting the values:
+   \[
+   \text{Remaining amount} = 180 - 48
+   \]
+   Calculating this:
+   \[
+   \text{Remaining amount} = 132
+   \]
+
+Therefore, after spending on drinks, Samuel has $132 left.
+</reasoning>
+<answer>132</answer>

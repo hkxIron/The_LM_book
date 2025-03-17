@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, I will follow these steps:
+
+1. **Determine 80% of the pool's capacity**: 
+   The total capacity of the pool is 2000 liters. To find out how much water corresponds to 80% of that, I will multiply the total capacity by 0.80. 
+
+   \[
+   80\% \text{ of } 2000 \text{ L} = 2000 \times 0.80 = 1600 \text{ L}
+   \]
+
+   This means that Jim will need to clean the pool when the water level drops below 1600 L.
+
+2. **Calculate the amount of water that can be splashed out before reaching 1600 L**: 
+   Since the pool starts full at 2000 L, I will subtract the 80% threshold from the full capacity to see how much water can splash out before it reaches that level.
+
+   \[
+   \text{Water to splash out} = 2000 \text{ L} - 1600 \text{ L} = 400 \text{ L}
+   \]
+
+   This indicates that Jim can allow 400 L of water to splash out before he has to clean the pool.
+
+3. **Convert the splash-out volume from liters to milliliters**: 
+   I know that 1 liter is equal to 1000 milliliters, so I will convert 400 L into milliliters.
+
+   \[
+   400 \text{ L} = 400 \times 1000 \text{ ml} = 400000 \text{ ml}
+   \]
+
+4. **Determine how many jumps can occur before reaching the threshold**: 
+   Each jump causes 400 ml of water to splash out. To find out how many jumps can happen before reaching 400000 ml of water splashed out, I will divide the total amount of water that can splash out by the amount splashed out per jump.
+
+   \[
+   \text{Number of jumps} = \frac{400000 \text{ ml}}{400 \text{ ml per jump}} = 1000
+   \]
+
+Thus, Jim can allow people to jump into the pool 1000 times before he has to clean it.
+</reasoning>
+<answer>1000</answer>

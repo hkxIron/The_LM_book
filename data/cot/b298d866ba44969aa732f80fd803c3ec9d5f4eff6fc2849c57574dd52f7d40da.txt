@@ -1,0 +1,35 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the chapters in the first book:** 
+   - Brian read one book that had 20 chapters.
+   - This contributes 20 chapters.
+
+2. **Calculate the chapters in the second and third books:**
+   - Brian read two books that each had 15 chapters.
+   - To find the total chapters from these two books, we multiply the number of books by the number of chapters per book: 
+   \[
+   2 \times 15 = 30 \text{ chapters}
+   \]
+
+3. **Calculate the total chapters from the first three books:**
+   - Now we need to add the chapters from the first book and the two second books:
+   \[
+   20 + 30 = 50 \text{ chapters}
+   \]
+
+4. **Calculate the chapters in the fourth book:**
+   - The fourth book has half the chapters of the first three books combined. Since we just calculated that the first three books together have 50 chapters, we can find half of this amount:
+   \[
+   \frac{50}{2} = 25 \text{ chapters}
+   \]
+
+5. **Calculate the total chapters read by Brian:**
+   - Now, we add the chapters from the first three books (50 chapters) and the chapters from the fourth book (25 chapters):
+   \[
+   50 + 25 = 75 \text{ chapters}
+   \]
+
+Therefore, Brian read a total of 75 chapters.
+</reasoning>
+<answer>75</answer>

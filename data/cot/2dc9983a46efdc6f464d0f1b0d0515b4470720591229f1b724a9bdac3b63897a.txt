@@ -1,0 +1,23 @@
+<reasoning>
+Let's start solving the problem step by step.
+
+1. **Identify the total number of students**: There were 18 students assigned to the minibus.
+
+2. **Identify the number of boys**: Out of the 18 students, 8 were boys. 
+
+3. **Calculate the number of girls**: To find the number of girls, we subtract the number of boys from the total number of students:
+   \[
+   \text{Number of girls} = \text{Total students} - \text{Number of boys} = 18 - 8 = 10
+   \]
+   So, there are 10 girls assigned to the trip.
+
+4. **Understand the condition**: The problem states that on the day of the field trip, the number of boys and girls was the same. Since there are 8 boys, this means there must also be 8 girls on the trip.
+
+5. **Determine how many girls did not join**: We know there were originally 10 girls assigned, but since only 8 girls were on the trip, we can find how many girls were unable to join:
+   \[
+   \text{Number of girls not able to join} = \text{Original number of girls} - \text{Number of girls on the trip} = 10 - 8 = 2
+   \]
+
+Therefore, 2 girls were not able to join the field trip.
+</reasoning>
+<answer>2</answer>

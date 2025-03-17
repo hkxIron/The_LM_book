@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of pairs of shoes Brian has**: 
+   We know that Brian has 22 pairs of shoes. 
+   \[
+   \text{Brian's shoes} = 22
+   \]
+
+2. **Determine the number of shoes Edward has**:
+   The problem states that Edward has 3 times the number of shoes Brian has. Since Brian has 22 pairs:
+   \[
+   \text{Edward's shoes} = 3 \times \text{Brian's shoes} = 3 \times 22 = 66
+   \]
+
+3. **Find the number of shoes Jacob has**:
+   According to the problem, Jacob has half the number of shoes Edward has. Therefore:
+   \[
+   \text{Jacob's shoes} = \frac{1}{2} \times \text{Edward's shoes} = \frac{1}{2} \times 66 = 33
+   \]
+
+4. **Calculate the total number of pairs of shoes**:
+   Now, we need to find the total number of shoes they have combined:
+   \[
+   \text{Total shoes} = \text{Brian's shoes} + \text{Edward's shoes} + \text{Jacob's shoes}
+   \]
+   Plugging in the values we calculated:
+   \[
+   \text{Total shoes} = 22 + 66 + 33 = 121
+   \]
+
+Therefore, the total number of pairs of shoes that Jacob, Edward, and Brian have together is 121.
+</reasoning>
+<answer>121</answer>

@@ -1,0 +1,45 @@
+<reasoning>
+To solve this problem, we need to calculate how much money John earned in total over the weekend and then determine how much more he needs to reach his goal of $60.
+
+1. **Calculate John's earnings on Saturday:**
+   - John earned $18 on Saturday.
+
+2. **Calculate John's earnings on Sunday:**
+   - He only managed to earn half of what he earned on Saturday.
+   - Half of $18 is calculated as follows: 
+     \[
+     \text{Half of } 18 = \frac{18}{2} = 9
+     \]
+   - Therefore, John earned $9 on Sunday.
+
+3. **Calculate John's total earnings for the weekend:**
+   - Now we add his earnings from Saturday and Sunday:
+     \[
+     \text{Total earnings} = \text{Earnings on Saturday} + \text{Earnings on Sunday}
+     \]
+     \[
+     \text{Total earnings} = 18 + 9 = 27
+     \]
+   - So, John earned a total of $27 over the weekend.
+
+4. **Consider John's earnings from the previous weekend:**
+   - He earned $20 the previous weekend, and we will add that to his current total:
+     \[
+     \text{Total earnings including previous weekend} = \text{Total from this weekend} + \text{Earnings from previous weekend}
+     \]
+     \[
+     \text{Total earnings including previous weekend} = 27 + 20 = 47
+     \]
+   - Therefore, John's total earnings now amount to $47.
+
+5. **Determine how much more money he needs to reach $60:**
+   - To find out how much more he needs, we subtract his current total earnings from his goal:
+     \[
+     \text{Amount needed} = \text{Goal} - \text{Total earnings}
+     \]
+     \[
+     \text{Amount needed} = 60 - 47 = 13
+     \]
+   - Thus, John needs to earn an additional $13 to buy the pogo stick.
+</reasoning>
+<answer>13</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many students raised $20 and how many raised $30.**
+   - We know that there are 30 students in total.
+   - Ten students raised $20 each.
+
+   Therefore, the number of students who raised $30 can be calculated by subtracting the number of students who raised $20 from the total number of students:
+   \[
+   30 - 10 = 20
+   \]
+   So, 20 students raised $30 each.
+
+2. **Calculate the total amount raised by the students who raised $20.**
+   - Each of the 10 students raised $20. 
+   - To find the total amount raised by these students, multiply the number of students by the amount they raised:
+   \[
+   10 \times 20 = 200
+   \]
+   This means the total raised by the 10 students is $200.
+
+3. **Calculate the total amount raised by the students who raised $30.**
+   - Each of the 20 students raised $30.
+   - To find the total amount raised by these students, multiply the number of students by the amount they raised:
+   \[
+   20 \times 30 = 600
+   \]
+   This means the total raised by the 20 students is $600.
+
+4. **Calculate the total amount raised by all students combined.**
+   - To find the overall total, add the amounts raised by the two groups of students:
+   \[
+   200 + 600 = 800
+   \]
+
+Therefore, the total amount raised by all the students in the charity race is $800.
+</reasoning>
+<answer>800</answer>

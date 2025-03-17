@@ -1,0 +1,31 @@
+<reasoning>
+To find out how long Jeannie's hike took, we can break the problem down into two parts: the hike to Mount Overlook and the return hike.
+
+1. **Calculate the time taken to hike to Mount Overlook.**
+   - Distance to Mount Overlook: 12 miles
+   - Pace to Mount Overlook: 4 miles per hour
+   - Time is calculated using the formula: Time = Distance / Pace.
+
+   So, the time taken to hike to Mount Overlook is:
+   \[
+   \text{Time to Mount Overlook} = \frac{12 \text{ miles}}{4 \text{ miles per hour}} = 3 \text{ hours}
+   \]
+
+2. **Calculate the time taken to return from Mount Overlook.**
+   - Distance back from Mount Overlook: 12 miles (same distance)
+   - Pace on the return: 6 miles per hour
+   - Using the same formula for time:
+
+   So, the time taken to return is:
+   \[
+   \text{Time to return} = \frac{12 \text{ miles}}{6 \text{ miles per hour}} = 2 \text{ hours}
+   \]
+
+3. **Add the two times together to find the total time for the hike.**
+   \[
+   \text{Total Time} = \text{Time to Mount Overlook} + \text{Time to return} = 3 \text{ hours} + 2 \text{ hours} = 5 \text{ hours}
+   \]
+
+Therefore, Jeannie's entire hike took a total of 5 hours.
+</reasoning>
+<answer>5</answer>

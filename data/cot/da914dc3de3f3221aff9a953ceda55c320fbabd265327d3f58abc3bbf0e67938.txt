@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many guests did not respond at all, we first need to determine how many guests responded with a Yes and how many with a No.
+
+1. **Calculate the number of guests who RSVP'd Yes:**
+   We know that 83% of the 200 guests responded Yes. To find this, we multiply the total number of guests by the percentage that responded Yes (in decimal form):
+   \[
+   \text{Guests who responded Yes} = 200 \times 0.83 = 166
+   \]
+   So, 166 guests responded Yes.
+
+2. **Calculate the number of guests who RSVP'd No:**
+   Next, we calculate how many guests responded No. We know that 9% of the 200 guests responded No. We again multiply the total number of guests by the percentage that responded No (in decimal form):
+   \[
+   \text{Guests who responded No} = 200 \times 0.09 = 18
+   \]
+   So, 18 guests responded No.
+
+3. **Calculate the total number of guests who responded:**
+   Now, we add the number of guests who responded Yes and the number who responded No to find the total number of guests who did respond:
+   \[
+   \text{Total guests who responded} = 166 + 18 = 184
+   \]
+
+4. **Calculate the number of guests who did not respond:**
+   Finally, to find out how many guests did not respond at all, we subtract the total number of guests who responded from the total number of guests invited:
+   \[
+   \text{Guests who did not respond} = 200 - 184 = 16
+   \]
+
+Therefore, the number of guests who did not respond at all is:
+</reasoning>
+<answer>16</answer>

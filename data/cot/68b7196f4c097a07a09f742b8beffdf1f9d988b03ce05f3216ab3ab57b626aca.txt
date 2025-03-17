@@ -1,0 +1,47 @@
+<reasoning>
+To solve this problem, we will break it down step by step.
+
+1. **Identify the number of each type of animal on the boat:**
+   - There are 20 sheep.
+   - There are 10 cows.
+   - There are 14 dogs.
+
+2. **Determine how many sheep drowned:**
+   - We know that 3 sheep drowned.
+
+3. **Determine how many cows drowned:**
+   - It is stated that twice as many cows drowned as did sheep. Since 3 sheep drowned, the number of cows that drowned is:
+     \[
+     2 \times 3 = 6 \text{ cows}
+     \]
+
+4. **Determine how many dogs made it to shore:**
+   - According to the problem, all of the dogs made it to shore. Therefore, the number of dogs that made it to shore is:
+     \[
+     14 \text{ dogs}
+     \]
+
+5. **Calculate the number of animals that made it to shore:**
+   - To find the total number of animals that made it to shore, we need to consider the animals that did not drown:
+     - The number of sheep that made it to shore is:
+       \[
+       20 - 3 = 17 \text{ sheep}
+       \]
+     - The number of cows that made it to shore is:
+       \[
+       10 - 6 = 4 \text{ cows}
+       \]
+     - The number of dogs that made it to shore is:
+       \[
+       14 \text{ dogs}
+       \]
+
+6. **Add the totals together:**
+   - Now, we will sum the number of animals that made it to shore:
+     \[
+     17 \text{ (sheep)} + 4 \text{ (cows)} + 14 \text{ (dogs)} = 35 \text{ animals}
+     \]
+
+Therefore, the total number of animals that made it to shore is:
+</reasoning>
+<answer>35</answer>

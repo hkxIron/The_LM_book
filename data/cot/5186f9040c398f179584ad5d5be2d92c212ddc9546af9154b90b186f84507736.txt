@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many blue candles Caleb used, we need to first determine the total number of candles he placed on the cake. Since Caleb is celebrating his grandfather's 79th birthday, he puts one candle for each year, which means he uses a total of 79 candles.
+
+Now, we know the quantities of the yellow and red candles:
+- Yellow candles: 27
+- Red candles: 14
+
+Next, we will add the yellow and red candles together to see how many candles have already been used:
+
+\[
+\text{Total yellow and red candles} = 27 + 14 = 41
+\]
+
+Now we will subtract the total of yellow and red candles from the total number of candles (79) to find out how many blue candles were used:
+
+\[
+\text{Number of blue candles} = \text{Total candles} - \text{Total yellow and red candles} = 79 - 41
+\]
+
+Calculating that gives:
+
+\[
+79 - 41 = 38
+\]
+
+Thus, Caleb used 38 blue candles.
+</reasoning>
+<answer>38</answer>

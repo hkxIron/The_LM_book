@@ -1,0 +1,33 @@
+<reasoning>
+Let's determine how many books Sarah bought first:
+
+1. **Identify the number of books Sarah bought:**
+   - Sarah bought 6 paperback books and 4 hardback books.
+   - Therefore, the total number of books Sarah bought is:
+     \[
+     6 \text{ (paperbacks)} + 4 \text{ (hardbacks)} = 10 \text{ books}
+     \]
+
+2. **Determine how many paperback books her brother bought:**
+   - Her brother bought one-third as many paperback books as Sarah bought.
+   - Since Sarah bought 6 paperback books, we calculate:
+     \[
+     \text{Brother's paperback books} = \frac{1}{3} \times 6 = 2 \text{ paperback books}
+     \]
+
+3. **Determine how many hardback books her brother bought:**
+   - Her brother bought two times the number of hardback books that Sarah bought.
+   - Since Sarah bought 4 hardback books, we calculate:
+     \[
+     \text{Brother's hardback books} = 2 \times 4 = 8 \text{ hardback books}
+     \]
+
+4. **Calculate the total number of books her brother bought:**
+   - Now we sum the number of paperback and hardback books that her brother bought:
+     \[
+     \text{Total books by brother} = 2 \text{ (paperbacks)} + 8 \text{ (hardbacks)} = 10 \text{ books}
+     \]
+
+Therefore, her brother bought a total of 10 books.
+</reasoning>
+<answer>10</answer>

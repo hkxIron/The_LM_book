@@ -1,0 +1,27 @@
+<reasoning>
+To calculate Andrea's total spending on her pony in a year, we need to break down each of her expenses and find the annual totals for each category.
+
+1. **Pasture Rent**: 
+   - Andrea pays $500 per month to rent the pasture.
+   - To find the annual cost, we multiply the monthly rent by the number of months in a year (12).
+   - Calculation: \( 500 \text{ dollars/month} \times 12 \text{ months} = 6000 \text{ dollars} \).
+
+2. **Food Costs**: 
+   - Andrea pays $10 a day for food.
+   - To find the annual cost, we need to multiply the daily food cost by the number of days in a year (365).
+   - Calculation: \( 10 \text{ dollars/day} \times 365 \text{ days} = 3650 \text{ dollars} \).
+
+3. **Lessons**:
+   - Andrea pays $60 for each lesson and takes two lessons a week.
+   - First, we calculate the weekly cost by multiplying the lesson cost by the number of lessons per week.
+   - Calculation for weekly lessons: \( 60 \text{ dollars/lesson} \times 2 \text{ lessons/week} = 120 \text{ dollars/week} \).
+   - To find the annual cost, we multiply the weekly cost by the number of weeks in a year (52).
+   - Calculation: \( 120 \text{ dollars/week} \times 52 \text{ weeks} = 6240 \text{ dollars} \).
+
+Now we add all these expenses together to find the total annual spending on the pony:
+- Total Spending = Pasture Rent + Food Costs + Lessons
+- Calculation: \( 6000 \text{ dollars} + 3650 \text{ dollars} + 6240 \text{ dollars} = 15890 \text{ dollars} \).
+
+Therefore, the total amount Andrea spends on her pony in a year is:
+</reasoning>
+<answer>15890</answer>

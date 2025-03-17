@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we need to find out the total number of chickens on Jeffrey's poultry farm, which includes hens, roosters, and chicks.
+
+1. **Calculate the number of roosters:** 
+   We know that for every 3 hens, there is 1 rooster. Jeffrey has 12 hens. 
+   To find the number of roosters, we divide the number of hens by 3:
+   \[
+   \text{Number of roosters} = \frac{12 \text{ hens}}{3} = 4 \text{ roosters}
+   \]
+
+2. **Calculate the number of chicks:** 
+   Each hen has 5 chicks. Since there are 12 hens, we multiply the number of hens by the number of chicks each hen has:
+   \[
+   \text{Number of chicks} = 12 \text{ hens} \times 5 \text{ chicks per hen} = 60 \text{ chicks}
+   \]
+
+3. **Total number of chickens:** 
+   Now we need to find the total number of chickens on the farm. The total includes hens, roosters, and chicks:
+   \[
+   \text{Total number of chickens} = \text{Number of hens} + \text{Number of roosters} + \text{Number of chicks}
+   \]
+   Plugging in the values we found:
+   \[
+   \text{Total number of chickens} = 12 \text{ hens} + 4 \text{ roosters} + 60 \text{ chicks} = 76 \text{ chickens}
+   \]
+
+Therefore, after performing all these calculations, we find that the total number of chickens on Jeffrey's poultry farm is:
+</reasoning>
+<answer>76</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To find the total amount of fruit punch Sunnyvale School had, we need to calculate the amounts of cherry punch and apple juice based on the given information about orange punch.
+
+1. Start with the amount of orange punch:
+   - The school has 4.5 liters of orange punch.
+
+2. Calculate the amount of cherry punch:
+   - The problem states that they had twice as much cherry punch as orange punch.
+   - Therefore, we can calculate the cherry punch as:
+     \[
+     \text{Cherry punch} = 2 \times \text{Orange punch} = 2 \times 4.5 = 9 \text{ liters}
+     \]
+
+3. Calculate the amount of apple juice:
+   - The problem also states that they had 1.5 liters less of apple juice than cherry punch.
+   - We can calculate the apple juice as:
+     \[
+     \text{Apple juice} = \text{Cherry punch} - 1.5 = 9 - 1.5 = 7.5 \text{ liters}
+     \]
+
+4. Finally, add the amounts of orange punch, cherry punch, and apple juice together to find the total amount of fruit punch:
+   \[
+   \text{Total fruit punch} = \text{Orange punch} + \text{Cherry punch} + \text{Apple juice} = 4.5 + 9 + 7.5
+   \]
+
+5. Perform the addition:
+   - First, add the orange and cherry punches:
+     \[
+     4.5 + 9 = 13.5 \text{ liters}
+     \]
+   - Now add the apple juice:
+     \[
+     13.5 + 7.5 = 21 \text{ liters}
+     \]
+
+Therefore, the total amount of fruit punch they had was 21 liters.
+</reasoning>
+<answer>21</answer>

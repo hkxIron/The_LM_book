@@ -1,0 +1,43 @@
+<reasoning>
+First, we need to convert all the homework times into the same unit, which is easier to work with. Since Porche's total time is given in hours, we will convert that to minutes. 
+
+1. **Convert total available time to minutes:**
+   - There are 60 minutes in an hour, so for 3 hours:
+   \[
+   3 \text{ hours} \times 60 \text{ minutes/hour} = 180 \text{ minutes}
+   \]
+
+2. **Add up the time required for each piece of homework:**
+   - Math homework: 45 minutes
+   - English homework: 30 minutes
+   - Science homework: 50 minutes
+   - History homework: 25 minutes
+
+   Now, we will sum these times:
+   \[
+   45 \text{ minutes} + 30 \text{ minutes} + 50 \text{ minutes} + 25 \text{ minutes}
+   \]
+
+   Let's calculate this step by step:
+   - First, add math and English: 
+   \[
+   45 + 30 = 75 \text{ minutes}
+   \]
+   - Then, add science:
+   \[
+   75 + 50 = 125 \text{ minutes}
+   \]
+   - Finally, add history:
+   \[
+   125 + 25 = 150 \text{ minutes}
+   \]
+
+3. **Calculate the time left for the special project:**
+   Now we subtract the total homework time from the total available time:
+   \[
+   180 \text{ minutes} - 150 \text{ minutes} = 30 \text{ minutes}
+   \]
+
+So, Porche has 30 minutes left to work on her special project.
+</reasoning>
+<answer>30</answer>

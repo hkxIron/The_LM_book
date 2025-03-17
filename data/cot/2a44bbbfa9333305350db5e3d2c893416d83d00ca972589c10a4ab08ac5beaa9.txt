@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the initial number of people in the cars**: 
+   Each car has 1 driver and 2 passengers. Since there are 20 cars, we can calculate the initial number of people as follows:
+   - Drivers: 20 cars × 1 driver per car = 20 drivers
+   - Passengers: 20 cars × 2 passengers per car = 40 passengers
+
+   Adding these together gives us:
+   \[
+   20 \text{ drivers} + 40 \text{ passengers} = 60 \text{ people initially}
+   \]
+
+2. **Calculate the additional passengers gained at the halfway point**:
+   At the halfway point, each car gains an additional passenger. With 20 cars, the number of additional passengers is:
+   \[
+   20 \text{ cars} × 1 \text{ additional passenger per car} = 20 \text{ additional passengers}
+   \]
+
+3. **Determine the total number of people by the end of the race**:
+   Now we add the additional passengers to the initial total:
+   \[
+   60 \text{ initial people} + 20 \text{ additional passengers} = 80 \text{ people in total}
+   \]
+
+Therefore, by the end of the race, there are 80 people in the cars.
+</reasoning>
+<answer>80</answer>

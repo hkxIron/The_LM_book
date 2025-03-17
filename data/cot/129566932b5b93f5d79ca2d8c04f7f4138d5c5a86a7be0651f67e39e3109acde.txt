@@ -1,0 +1,18 @@
+<reasoning>
+To find the cost of Joe's new HVAC system per vent, we need to follow these steps:
+
+1. **Identify the total cost of the HVAC system**: The problem states that the total cost is $20,000.
+
+2. **Determine the total number of vents**: The system has 2 conditioning zones, and each zone has 5 vents. Therefore, we calculate the total number of vents as follows:
+   \[
+   \text{Total vents} = \text{Number of zones} \times \text{Vents per zone} = 2 \times 5 = 10 \text{ vents}
+   \]
+
+3. **Calculate the cost per vent**: To find the cost per vent, we divide the total cost of the HVAC system by the total number of vents:
+   \[
+   \text{Cost per vent} = \frac{\text{Total cost}}{\text{Total vents}} = \frac{20000}{10} = 2000
+   \]
+
+Therefore, the cost of the system per vent is $2,000.
+</reasoning>
+<answer>2000</answer>

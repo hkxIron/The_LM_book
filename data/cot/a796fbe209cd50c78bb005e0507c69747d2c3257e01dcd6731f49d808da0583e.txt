@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much money Randy had at first, we need to calculate how much money he spent over the year and then add that amount to the $104 he had left.
+
+1. First, we determine how much Randy spends in one trip to the store. He spends $2 each time he goes.
+   
+   Spending per trip = $2
+
+2. Next, we find out how many trips he makes in a month. The problem states that he makes 4 trips every month.
+
+   Trips per month = 4
+
+3. Now, we calculate how much he spends in one month. To do this, we multiply the spending per trip by the number of trips per month.
+
+   Monthly spending = Spending per trip × Trips per month
+   Monthly spending = $2 × 4 = $8
+
+4. Since we want to know how much he spends in a year, we need to multiply his monthly spending by the number of months in a year (12 months).
+
+   Yearly spending = Monthly spending × 12 months
+   Yearly spending = $8 × 12 = $96
+
+5. Now that we know how much Randy spent over the entire year, we can find out how much money he had at the beginning. We know he had $104 left after spending $96.
+
+   Initial amount = Amount left + Yearly spending
+   Initial amount = $104 + $96 = $200
+
+Thus, after performing all these calculations, we find that Randy had $200 at first.
+</reasoning>
+<answer>200</answer>

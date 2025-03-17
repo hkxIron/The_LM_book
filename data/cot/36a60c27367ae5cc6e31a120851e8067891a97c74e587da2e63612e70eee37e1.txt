@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the increased running time**:
+   John can currently run for 8 hours. He increases this time by 75%.
+   To find the increase, we calculate:
+   \[
+   \text{Increase in time} = 8 \text{ hours} \times 0.75 = 6 \text{ hours}
+   \]
+   Now, we add this increase to his original running time:
+   \[
+   \text{New running time} = 8 \text{ hours} + 6 \text{ hours} = 14 \text{ hours}
+   \]
+
+2. **Calculate the increased running speed**:
+   John’s original speed is 8 mph, and he increases it by 4 mph.
+   We calculate:
+   \[
+   \text{New speed} = 8 \text{ mph} + 4 \text{ mph} = 12 \text{ mph}
+   \]
+
+3. **Calculate the distance he can run**:
+   The distance that can be run is determined by the formula:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   Now, using his new speed and new running time:
+   \[
+   \text{Distance} = 12 \text{ mph} \times 14 \text{ hours} = 168 \text{ miles}
+   \]
+
+Therefore, after calculating the increased time and speed, we find that John can now run a total distance of 168 miles.
+</reasoning>
+<answer>168</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, let's break it down step by step:
+
+1. **Determine the total amount of maize stored over 2 years:**
+   - Alfred stores 1 tonne of maize each month.
+   - There are 12 months in a year, so over 2 years, he will store:
+     \[
+     1 \text{ tonne/month} \times 12 \text{ months/year} \times 2 \text{ years} = 24 \text{ tonnes}
+     \]
+
+2. **Account for the theft:**
+   - According to the problem, 5 tonnes of maize are stolen. Therefore, we need to subtract this amount from the total stored:
+     \[
+     24 \text{ tonnes} - 5 \text{ tonnes} = 19 \text{ tonnes}
+     \]
+
+3. **Account for the donation:**
+   - Alfred receives an additional 8 tonnes of maize as a donation. We need to add this to the remaining amount after the theft:
+     \[
+     19 \text{ tonnes} + 8 \text{ tonnes} = 27 \text{ tonnes}
+     \]
+
+4. **Conclusion:**
+   - After storing for 2 years, accounting for the theft, and considering the donation, Alfred ends up with 27 tonnes of maize.
+
+Thus, the final amount of maize Alfred has at the end of the 2 years is:
+</reasoning>
+<answer>27</answer>

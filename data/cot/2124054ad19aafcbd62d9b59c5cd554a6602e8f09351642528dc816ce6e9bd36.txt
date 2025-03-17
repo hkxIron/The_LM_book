@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we will break it down step by step.
+
+1. **Identify the number of fish in the first tank**: We know from the problem that the first tank has 20 fish.
+
+2. **Calculate the number of fish in the other two tanks**: The problem states that the other two tanks each have twice as many fish as the first tank. Since the first tank has 20 fish, we multiply that by 2 to find out how many fish are in one of the other tanks:
+   \[
+   20 \times 2 = 40
+   \]
+   So, each of the other two tanks has 40 fish.
+
+3. **Calculate the total number of fish in all three tanks**:
+   - The first tank has 20 fish.
+   - The second tank has 40 fish.
+   - The third tank also has 40 fish.
+   Now we can add these amounts together:
+   \[
+   20 + 40 + 40 = 100
+   \]
+
+Therefore, the total number of fish in all three tanks is 100.
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+To find the total number of marbles in all three jars, we'll follow these steps:
+
+1. **Determine the number of marbles in Jar B**: 
+   - Jar A has 28 marbles.
+   - Jar B has 12 more marbles than Jar A. 
+   - So, we calculate the number of marbles in Jar B as follows:
+     \[
+     \text{Number of marbles in Jar B} = \text{Number of marbles in Jar A} + 12 = 28 + 12 = 40
+     \]
+
+2. **Determine the number of marbles in Jar C**:
+   - Jar C has twice as many marbles as Jar B.
+   - We calculate the number of marbles in Jar C as follows:
+     \[
+     \text{Number of marbles in Jar C} = 2 \times \text{Number of marbles in Jar B} = 2 \times 40 = 80
+     \]
+
+3. **Calculate the total number of marbles**:
+   - Now we will sum the number of marbles in all three jars:
+     \[
+     \text{Total number of marbles} = \text{Number of marbles in Jar A} + \text{Number of marbles in Jar B} + \text{Number of marbles in Jar C} 
+     \]
+     \[
+     = 28 + 40 + 80
+     \]
+   - Performing the addition step-by-step:
+     - First, add Jar A and Jar B:
+       \[
+       28 + 40 = 68
+       \]
+     - Next, add the result to Jar C:
+       \[
+       68 + 80 = 148
+       \]
+
+Therefore, the total number of marbles in all three jars is 148.
+</reasoning>
+<answer>148</answer>

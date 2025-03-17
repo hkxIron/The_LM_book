@@ -1,0 +1,30 @@
+<reasoning>
+To solve this problem, we first need to identify how many relatives Molly is sending packages to.
+
+1. **Identify Molly's relatives**:
+   - Molly has 2 parents (Mom and Dad).
+   - She has 3 brothers.
+   - Each of her 3 brothers is married, so that adds 3 sisters-in-law.
+   - Each brother has 2 children. Since there are 3 brothers, that contributes a total of \(3 \times 2 = 6\) children.
+
+2. **Calculate the total number of relatives**:
+   - Parents: 2
+   - Brothers: 3
+   - Sisters-in-law: 3
+   - Children: 6
+   - Total relatives = Parents + Brothers + Sisters-in-law + Children
+   - Total relatives = \(2 + 3 + 3 + 6 = 14\)
+
+3. **Calculate the total cost of sending packages**:
+   - Each package costs $5 to send.
+   - Since Molly is sending 14 packages (one to each relative), we multiply the number of packages by the cost per package:
+   \[
+   \text{Total cost} = \text{Number of packages} \times \text{Cost per package}
+   \]
+   \[
+   \text{Total cost} = 14 \times 5 = 70
+   \]
+
+Thus, the total cost for Molly to send all of her gifts by mail is $70.
+</reasoning>
+<answer>70</answer>

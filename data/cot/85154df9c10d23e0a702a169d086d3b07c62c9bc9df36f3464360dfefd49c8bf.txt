@@ -1,0 +1,44 @@
+<reasoning>
+To find out what percent of the total cost is made up by the ham and bread, we will follow these steps:
+
+1. **Calculate the total cost of the items Tina bought.**
+   - The cost of the loaf of bread is $50.
+   - The cost of 2 ounces of ham is $150.
+   - The cost of the cake is $200.
+   
+   Now, we add these costs together:
+   \[
+   \text{Total cost} = \text{Cost of bread} + \text{Cost of ham} + \text{Cost of cake}
+   \]
+   \[
+   \text{Total cost} = 50 + 150 + 200 = 400
+   \]
+
+2. **Calculate the total cost of the ham and bread.**
+   - The cost of the ham is $150.
+   - The cost of the bread is $50.
+   
+   Now, we add these costs together:
+   \[
+   \text{Cost of ham and bread} = \text{Cost of ham} + \text{Cost of bread}
+   \]
+   \[
+   \text{Cost of ham and bread} = 150 + 50 = 200
+   \]
+
+3. **Calculate the percentage of the total cost that is made up by the ham and bread.**
+   - The formula to calculate the percentage is:
+   \[
+   \text{Percentage} = \left( \frac{\text{Cost of ham and bread}}{\text{Total cost}} \right) \times 100
+   \]
+   Substituting in our values:
+   \[
+   \text{Percentage} = \left( \frac{200}{400} \right) \times 100
+   \]
+   \[
+   \text{Percentage} = 0.5 \times 100 = 50
+   \]
+
+Therefore, the ham and bread together make up 50% of the total cost.
+</reasoning>
+<answer>50</answer>

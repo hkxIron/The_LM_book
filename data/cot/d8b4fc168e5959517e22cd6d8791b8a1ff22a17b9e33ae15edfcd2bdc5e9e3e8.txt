@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many pancakes Bobby has left after eating and sharing with his dog, we start with the total number of pancakes the recipe makes, which is 21.
+
+1. **Total Pancakes Made**: We begin with the information that the recipe makes 21 pancakes.
+   - Total pancakes = 21
+
+2. **Pancakes Eaten by Bobby**: Bobby eats 5 pancakes.
+   - Pancakes eaten by Bobby = 5
+
+3. **Pancakes Eaten by the Dog**: The dog eats 7 pancakes.
+   - Pancakes eaten by the dog = 7
+
+4. **Total Pancakes Eaten**: Now, we need to find out how many pancakes were eaten in total. This is done by adding the pancakes eaten by Bobby and the pancakes eaten by the dog:
+   - Total pancakes eaten = Pancakes eaten by Bobby + Pancakes eaten by the dog
+   - Total pancakes eaten = 5 + 7 = 12
+
+5. **Pancakes Left**: Finally, we subtract the total pancakes eaten from the original total to find out how many pancakes are left:
+   - Pancakes left = Total pancakes - Total pancakes eaten
+   - Pancakes left = 21 - 12 = 9
+
+Therefore, after Bobby and his dog have eaten, he has 9 pancakes remaining.
+</reasoning>
+<answer>9</answer>

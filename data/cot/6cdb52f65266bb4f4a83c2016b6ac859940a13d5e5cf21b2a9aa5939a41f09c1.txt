@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much time Jill spent talking to her boyfriend over the week, we will calculate the time spent each day and then sum those times.
+
+1. **Day 1**: Jill spends 5 minutes talking on the phone. 
+   - Time spent = 5 minutes.
+
+2. **Day 2**: Jill spends twice as much time as she did on Day 1.
+   - Therefore, on Day 2, she spends 5 minutes * 2 = 10 minutes.
+   - Time spent = 10 minutes.
+
+3. **Day 3**: Jill again spends twice as much time as she did on Day 2.
+   - Therefore, on Day 3, she spends 10 minutes * 2 = 20 minutes.
+   - Time spent = 20 minutes.
+
+4. **Day 4**: Jill spends twice as much time as she did on Day 3.
+   - Therefore, on Day 4, she spends 20 minutes * 2 = 40 minutes.
+   - Time spent = 40 minutes.
+
+5. **Day 5**: Jill spends twice as much time as she did on Day 4.
+   - Therefore, on Day 5, she spends 40 minutes * 2 = 80 minutes.
+   - Time spent = 80 minutes.
+
+Now, we will sum the total time spent over these 5 days:
+
+- Total time = Day 1 + Day 2 + Day 3 + Day 4 + Day 5
+- Total time = 5 minutes + 10 minutes + 20 minutes + 40 minutes + 80 minutes.
+
+Now, let's add those values together step by step:
+
+- First, add the first two days: 5 + 10 = 15 minutes.
+- Next, add Day 3: 15 + 20 = 35 minutes.
+- Then, add Day 4: 35 + 40 = 75 minutes.
+- Finally, add Day 5: 75 + 80 = 155 minutes.
+
+Therefore, Jill spent a total of 155 minutes talking to her boyfriend during the week before her parents took the phone away.
+</reasoning>
+<answer>155</answer>

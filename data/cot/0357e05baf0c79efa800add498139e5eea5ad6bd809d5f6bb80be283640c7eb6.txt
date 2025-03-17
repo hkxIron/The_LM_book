@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many hours of sleep Corveus lacks in a week, we can follow these steps:
+
+1. **Determine the recommended sleep per week**:
+   Corveus's doctor recommended that he sleeps 6 hours a day. To find out how much that is in a week (7 days), we multiply 6 hours by 7 days:
+   \[
+   \text{Recommended sleep per week} = 6 \text{ hours/day} \times 7 \text{ days/week} = 42 \text{ hours/week}
+   \]
+
+2. **Calculate Corveus's actual sleep per week**:
+   Corveus currently sleeps 4 hours a day. Similarly, we calculate his total sleep over a week:
+   \[
+   \text{Actual sleep per week} = 4 \text{ hours/day} \times 7 \text{ days/week} = 28 \text{ hours/week}
+   \]
+
+3. **Find the difference between the recommended sleep and the actual sleep**:
+   To find out how many hours Corveus lacks, we subtract his actual sleep from the recommended sleep:
+   \[
+   \text{Lack of sleep} = \text{Recommended sleep} - \text{Actual sleep} = 42 \text{ hours/week} - 28 \text{ hours/week} = 14 \text{ hours/week}
+   \]
+
+Therefore, Corveus lacks 14 hours of sleep in a week.
+</reasoning>
+<answer>14</answer>

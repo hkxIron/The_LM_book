@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we need to determine how many batches of towels Sanya can wash and how many days it will take her to wash all 98 bath towels.
+
+1. **Determine the number of towels washed in one wash:** 
+   Sanya can wash 7 bath towels in one wash.
+
+2. **Calculate how many washes she can perform in 2 hours:** 
+   Each wash takes 1 hour, and Sanya has 2 hours available each day. Therefore, she can perform 2 washes per day.
+
+3. **Calculate the total number of towels washed in one day:**
+   Since she can perform 2 washes and each wash allows her to wash 7 towels:
+   \[
+   \text{Total towels washed in one day} = \text{Number of washes} \times \text{Towels per wash} = 2 \times 7 = 14
+   \]
+
+4. **Calculate how many days it will take to wash all 98 towels:**
+   To find out how many days are needed, we divide the total number of towels by the number of towels washed per day:
+   \[
+   \text{Days needed} = \frac{\text{Total towels}}{\text{Towels washed per day}} = \frac{98}{14}
+   \]
+
+5. **Perform the division:**
+   \[
+   \frac{98}{14} = 7
+   \]
+
+This means Sanya will need 7 days to wash all 98 bath towels.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>7</answer>

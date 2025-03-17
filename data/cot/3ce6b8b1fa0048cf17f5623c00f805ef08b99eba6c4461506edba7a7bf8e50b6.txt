@@ -1,0 +1,54 @@
+<reasoning>
+First, let's calculate the total cost of the pizza. Allen ordered five boxes of pizza, and each box costs $7.
+
+1. **Calculate the cost of the pizza:**
+   \[
+   \text{Total cost of pizza} = \text{Number of boxes} \times \text{Cost per box} = 5 \times 7
+   \]
+   Here, I am multiplying the number of boxes by the cost of each box to find the total cost. 
+
+   \[
+   5 \times 7 = 35
+   \]
+   So, the total cost of the pizza is $35.
+
+2. **Calculate the tip:**
+   Allen gave a tip that is 1/7 of the total cost of his order. The total cost of the order includes both the pizza and the tip, but first, we will calculate the tip based on the pizza cost.
+
+   \[
+   \text{Tip} = \frac{1}{7} \times \text{Total cost of pizza} = \frac{1}{7} \times 35
+   \]
+   I am using multiplication to find the tip as a fraction of the total cost of the pizza.
+
+   \[
+   \frac{35}{7} = 5
+   \]
+   Therefore, the tip Allen gave is $5.
+
+3. **Calculate the total amount paid:**
+   Now, we will add the cost of the pizza and the tip to find the total amount Allen paid.
+
+   \[
+   \text{Total amount paid} = \text{Total cost of pizza} + \text{Tip} = 35 + 5
+   \]
+   This step involves adding the pizza cost to the tip to find out how much Allen paid in total.
+
+   \[
+   35 + 5 = 40
+   \]
+   Thus, Allen paid a total of $40.
+
+4. **Calculate the change received:**
+   Finally, we need to determine how much change Allen received after giving the delivery man $100.
+
+   \[
+   \text{Change} = \text{Amount given} - \text{Total amount paid} = 100 - 40
+   \]
+   Here, I am subtracting the total amount paid from the amount Allen gave to find out how much he got back in change.
+
+   \[
+   100 - 40 = 60
+   \]
+   Therefore, Allen received $60 in change.
+</reasoning>
+<answer>60</answer>

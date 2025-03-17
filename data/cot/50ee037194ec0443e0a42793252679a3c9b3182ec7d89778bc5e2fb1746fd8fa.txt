@@ -1,0 +1,41 @@
+<reasoning>
+To find out how many tickets Connie redeemed today, we can set up an equation based on the information given. Let's denote the total number of tickets Connie redeemed as \( x \).
+
+1. **Understanding the problem**: Connie spent half of her total tickets on a stuffed koala bear, 10 tickets on earbuds, and 15 tickets on glow bracelets. We want to express all her spending in terms of \( x \).
+
+2. **Setting up the equation**:
+   - She spent half of her tickets on the stuffed koala bear: \( \frac{x}{2} \).
+   - She spent 10 tickets on earbuds: \( 10 \).
+   - She spent 15 tickets on glow bracelets: \( 15 \).
+
+3. **Adding up her spending**: The total amount she spent can be represented as:
+   \[
+   \frac{x}{2} + 10 + 15
+   \]
+   This simplifies to:
+   \[
+   \frac{x}{2} + 25
+   \]
+
+4. **Setting up the equation for total tickets**: Since this total amount spent must equal the total tickets she had, we can write the equation:
+   \[
+   x = \frac{x}{2} + 25
+   \]
+
+5. **Solving for \( x \)**:
+   - First, we can isolate \( x \) by subtracting \( \frac{x}{2} \) from both sides:
+   \[
+   x - \frac{x}{2} = 25
+   \]
+   - This simplifies to:
+   \[
+   \frac{x}{2} = 25
+   \]
+   - Now, we can multiply both sides by 2 to solve for \( x \):
+   \[
+   x = 50
+   \]
+
+Therefore, Connie redeemed a total of 50 tickets today.
+</reasoning>
+<answer>50</answer>

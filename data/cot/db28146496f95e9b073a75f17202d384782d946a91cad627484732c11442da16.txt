@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much John paid for everything, we need to calculate the total cost of the shoes before tax and then apply the tax rate to find the final amount he will pay.
+
+1. **Calculate the total cost before tax**:
+   - John is buying two pairs of shoes: a pair of Nikes for $150 and a pair of work boots for $120.
+   - We add these two amounts together:
+     \[
+     150 + 120 = 270
+     \]
+   - So, the total cost before tax is $270.
+
+2. **Calculate the tax amount**:
+   - The tax rate is 10%. To find the tax amount, we multiply the total cost before tax by the tax rate:
+     \[
+     \text{Tax} = 270 \times 0.10 = 27
+     \]
+   - Therefore, the tax amount is $27.
+
+3. **Calculate the total cost including tax**:
+   - Now, we add the tax amount to the total cost before tax to find the final amount John pays:
+     \[
+     \text{Total cost} = 270 + 27 = 297
+     \]
+   - Thus, the total amount John pays for everything is $297.
+
+Therefore, combining all the calculations we performed:
+- Total cost before tax: $270
+- Tax amount: $27
+- Total cost including tax: $297
+</reasoning>
+<answer>297</answer>

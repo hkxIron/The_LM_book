@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total number of trees to be planted:** 
+   The neighborhood association decided to plant one tree on every street. Since there are 18 streets, they will plant a total of 18 trees.
+
+2. **Determine how many trees will be fruit trees:**
+   The association wants every other tree to be a fruit tree. Since there are 18 trees in total, we can calculate the number of fruit trees as follows:
+   - Every other tree means half of the trees will be fruit trees.
+   - So, the number of fruit trees = Total number of trees / 2 = 18 / 2 = 9 fruit trees.
+
+3. **Identify the types of fruit trees:**
+   The association agreed to plant equal numbers of plum, pear, and apricot trees. There are three types of fruit trees.
+
+4. **Calculate the number of each type of fruit tree:**
+   Since there are 9 fruit trees and they want to plant equal numbers of each type, we can divide the number of fruit trees by the number of types:
+   - Number of each type of tree = Total number of fruit trees / Number of types of fruit trees = 9 / 3 = 3.
+
+So, they will plant 3 plum trees, 3 pear trees, and 3 apricot trees.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>3</answer>

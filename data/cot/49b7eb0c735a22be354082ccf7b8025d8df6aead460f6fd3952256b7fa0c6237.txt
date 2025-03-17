@@ -1,0 +1,58 @@
+<reasoning>
+To determine the company's profit per day, we need to calculate total revenue, total costs (including employee wages and non-employee expenses), and then find the profit by subtracting total costs from total revenue.
+
+1. **Calculate the total number of shirts produced per day:**
+   Each of the 20 employees makes an average of 20 shirts per day.
+   \[
+   \text{Total shirts produced} = \text{Number of employees} \times \text{Shirts per employee} = 20 \times 20 = 400 \text{ shirts}
+   \]
+   This means the factory produces 400 shirts each day.
+
+2. **Calculate the total revenue from selling the shirts:**
+   The company sells each shirt for $35.
+   \[
+   \text{Total revenue} = \text{Total shirts produced} \times \text{Price per shirt} = 400 \times 35 = 14000 \text{ dollars}
+   \]
+   The total revenue from selling the shirts is $14,000.
+
+3. **Calculate the total employee wages:**
+   Each employee earns $12 per hour for an 8-hour shift.
+   \[
+   \text{Wage per employee per day} = \text{Hourly wage} \times \text{Hours worked} = 12 \times 8 = 96 \text{ dollars}
+   \]
+   Now, we multiply this by the number of employees to get total wages.
+   \[
+   \text{Total wages} = \text{Wage per employee} \times \text{Number of employees} = 96 \times 20 = 1920 \text{ dollars}
+   \]
+
+4. **Calculate the total earnings from shirt production:**
+   Each employee also gets paid an additional $5 for each shirt they make.
+   \[
+   \text{Bonus per employee} = \text{Shirts made} \times \text{Bonus per shirt} = 20 \times 5 = 100 \text{ dollars}
+   \]
+   Again, we multiply this by the number of employees:
+   \[
+   \text{Total bonuses} = \text{Bonus per employee} \times \text{Number of employees} = 100 \times 20 = 2000 \text{ dollars}
+   \]
+
+5. **Calculate the total employee costs:**
+   Now, we add the total wages and total bonuses to get the total cost of employees:
+   \[
+   \text{Total employee costs} = \text{Total wages} + \text{Total bonuses} = 1920 + 2000 = 3920 \text{ dollars}
+   \]
+
+6. **Calculate the total costs including nonemployee expenses:**
+   Nonemployee expenses are $1000 a day. Therefore, we add this to the total employee costs:
+   \[
+   \text{Total costs} = \text{Total employee costs} + \text{Nonemployee expenses} = 3920 + 1000 = 4920 \text{ dollars}
+   \]
+
+7. **Calculate the profit:**
+   Finally, we find the profit by subtracting total costs from total revenue:
+   \[
+   \text{Profit} = \text{Total revenue} - \text{Total costs} = 14000 - 4920 = 9080 \text{ dollars}
+   \]
+
+Thus, the company makes a profit of $9080 per day.
+</reasoning>
+<answer>9080</answer>

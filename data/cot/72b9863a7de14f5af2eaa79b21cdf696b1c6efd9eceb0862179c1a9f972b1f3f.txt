@@ -1,0 +1,76 @@
+<reasoning>
+To solve this problem, let's define some variables to represent the years each teacher has been teaching:
+
+Let \( T \) be the number of years Tom has been teaching.
+Let \( D \) be the number of years Devin has been teaching.
+
+According to the problem, we know two key pieces of information:
+
+1. The total years of teaching for both Tom and Devin is 70 years:
+   \[
+   T + D = 70
+   \]
+
+2. Devin has been teaching for 5 years less than half the number of years that Tom has been teaching:
+   \[
+   D = \frac{1}{2}T - 5
+   \]
+
+Now we have a system of equations that we can solve. We will substitute the expression for \( D \) from the second equation into the first equation.
+
+### Step 1: Substitute \( D \) in the total years equation
+We take the equation:
+\[
+T + D = 70
+\]
+and substitute \( D \):
+\[
+T + \left(\frac{1}{2}T - 5\right) = 70
+\]
+
+### Step 2: Simplify the equation
+Now, we simplify the equation:
+\[
+T + \frac{1}{2}T - 5 = 70
+\]
+This combines to:
+\[
+\frac{3}{2}T - 5 = 70
+\]
+
+### Step 3: Solve for \( T \)
+Next, we need to isolate \( T \). First, add 5 to both sides:
+\[
+\frac{3}{2}T = 70 + 5
+\]
+\[
+\frac{3}{2}T = 75
+\]
+
+Now, multiply both sides by \( \frac{2}{3} \) to solve for \( T \):
+\[
+T = 75 \times \frac{2}{3}
+\]
+Calculating this gives:
+\[
+T = 50
+\]
+
+### Step 4: Verify the solution
+Now, we should verify that this value satisfies both conditions. If \( T = 50 \), we can find \( D \):
+Using the first equation:
+\[
+D = 70 - T = 70 - 50 = 20
+\]
+
+Now we check the second condition:
+Devin's years should be \( \frac{1}{2}T - 5 \):
+\[
+D = \frac{1}{2} \times 50 - 5 = 25 - 5 = 20
+\]
+
+Both conditions are satisfied, confirming our solution.
+
+Therefore, the number of years Tom has been teaching is:
+</reasoning>
+<answer>50</answer>

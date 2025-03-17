@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to find out how much water the linemen will consume during their break and then determine how much water is left for the skill position players.
+
+1. **Calculate the total water consumed by the linemen:**
+   - There are 12 linemen, and each drinks 8 ounces.
+   - So, the total amount of water consumed by the linemen is:
+     \[
+     \text{Total water for linemen} = 12 \, \text{linemen} \times 8 \, \text{ounces/lineman} = 96 \, \text{ounces}
+     \]
+
+2. **Determine the remaining water in the cooler:**
+   - The cooler initially holds 126 ounces.
+   - After the linemen drink, the amount of water left in the cooler is:
+     \[
+     \text{Remaining water} = 126 \, \text{ounces} - 96 \, \text{ounces} = 30 \, \text{ounces}
+     \]
+
+3. **Calculate how much water each skill position player drinks:**
+   - Each skill position player drinks 6 ounces.
+
+4. **Determine how many skill position players can drink with the remaining water:**
+   - We divide the remaining water by the amount each skill position player drinks:
+     \[
+     \text{Number of skill position players that can drink} = \frac{30 \, \text{ounces}}{6 \, \text{ounces/player}} = 5 \, \text{players}
+     \]
+
+5. **Calculate the total number of skill position players:**
+   - There are 10 skill position players in total.
+
+6. **Determine how many skill position players must wait:**
+   - Since 10 skill position players are present and only 5 can drink, the number who must wait is:
+     \[
+     \text{Number of players that must wait} = 10 \, \text{skill position players} - 5 \, \text{players that can drink} = 5 \, \text{players}
+     \]
+
+Therefore, the number of skill position players that must wait for the cooler to be refilled is 5.
+</reasoning>
+<answer>5</answer>

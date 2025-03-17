@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the cost of Mater**: 
+   - We know Lightning McQueen costs $140,000 and Mater costs 10% of that. 
+   - To find 10% of $140,000, we can use the formula:
+     \[
+     \text{Cost of Mater} = \text{Cost of Lightning McQueen} \times 0.10
+     \]
+   - Plugging in the values:
+     \[
+     \text{Cost of Mater} = 140,000 \times 0.10 = 14,000
+     \]
+
+2. **Determine the cost of Sally McQueen**:
+   - It is given that Sally McQueen costs triple what Mater costs. 
+   - To find this, we use the formula:
+     \[
+     \text{Cost of Sally McQueen} = \text{Cost of Mater} \times 3
+     \]
+   - Plugging in the cost of Mater:
+     \[
+     \text{Cost of Sally McQueen} = 14,000 \times 3 = 42,000
+     \]
+
+Therefore, the cost of Sally McQueen is $42,000.
+</reasoning>
+<answer>42000</answer>

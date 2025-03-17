@@ -1,0 +1,33 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify the costs for standard postage:** 
+   Deborah has four letters to mail, and the standard postage is $1.08 per letter. So, if she were mailing all four letters domestically, the total cost would be:
+   \[
+   4 \text{ letters} \times 1.08 \text{ dollars/letter} = 4.32 \text{ dollars}
+   \]
+
+2. **Determine the total postage paid:** 
+   According to the problem, Deborah is paying $4.60 to mail all four letters. 
+
+3. **Calculate the additional amount Deborah is paying:**
+   Now, we can find out how much more she is paying compared to the standard postage by subtracting the standard cost from the total cost:
+   \[
+   \text{Additional cost} = 4.60 \text{ dollars} - 4.32 \text{ dollars} = 0.28 \text{ dollars}
+   \]
+
+4. **Distribute the additional cost to international letters:**
+   Since Deborah is mailing two letters internationally, we need to find out how much the additional cost is per international letter. We divide the additional cost by the number of international letters:
+   \[
+   \text{Additional charge per international letter} = \frac{0.28 \text{ dollars}}{2 \text{ international letters}} = 0.14 \text{ dollars}
+   \]
+
+5. **Convert the additional charge to cents:**
+   Finally, we convert the additional charge from dollars to cents, knowing that 1 dollar = 100 cents:
+   \[
+   0.14 \text{ dollars} \times 100 \text{ cents/dollar} = 14 \text{ cents}
+   \]
+
+Therefore, the additional charge per letter for international shipping is:
+</reasoning>
+<answer>14</answer>

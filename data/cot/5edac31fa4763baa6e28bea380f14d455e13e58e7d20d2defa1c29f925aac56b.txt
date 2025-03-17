@@ -1,0 +1,52 @@
+<reasoning>
+To determine how much longer Ann's trip takes compared to Mary's, we will first calculate the time it takes for each of them to sled down their respective hills using the formula:
+
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
+\]
+
+### Step 1: Calculate Mary's time
+
+Mary's distance is 630 feet, and her speed is 90 feet per minute. We can substitute these values into the formula:
+
+\[
+\text{Time}_{\text{Mary}} = \frac{630 \text{ feet}}{90 \text{ feet/minute}} 
+\]
+
+Now, performing the division:
+
+\[
+\text{Time}_{\text{Mary}} = 7 \text{ minutes}
+\]
+
+### Step 2: Calculate Ann's time
+
+Ann's distance is 800 feet, and her speed is 40 feet per minute. Again, we substitute these values into the same formula:
+
+\[
+\text{Time}_{\text{Ann}} = \frac{800 \text{ feet}}{40 \text{ feet/minute}} 
+\]
+
+Now, performing the division:
+
+\[
+\text{Time}_{\text{Ann}} = 20 \text{ minutes}
+\]
+
+### Step 3: Calculate the difference in time
+
+Now that we have both times, we can calculate how much longer Ann's trip takes than Mary's:
+
+\[
+\text{Difference} = \text{Time}_{\text{Ann}} - \text{Time}_{\text{Mary}} 
+\]
+
+Substituting the values we calculated:
+
+\[
+\text{Difference} = 20 \text{ minutes} - 7 \text{ minutes} = 13 \text{ minutes}
+\]
+
+Therefore, Ann's trip takes 13 minutes longer than Mary's.
+</reasoning>
+<answer>13</answer>

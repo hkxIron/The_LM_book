@@ -1,0 +1,14 @@
+<reasoning>
+First, let's find out how many pages Julie has read so far. We know she read 12 pages yesterday and twice that amount today. So, she read 12 * 2 = 24 pages today.
+
+Adding the number of pages she read yesterday and today, we get 12 + 24 = 36 pages.
+
+So, Julie has already read 36 pages from the 120-page book.
+
+Now, let's find out how many pages are left. We subtract the number of pages Julie has already read from the total number of pages in the book. So, 120 - 36 = 84 pages are left.
+
+Julie wants to read half of the remaining pages tomorrow. So, she should read 84 / 2 = 42 pages tomorrow.
+
+Therefore, Julie should read 42 pages tomorrow.
+</reasoning>
+<answer>42</answer>

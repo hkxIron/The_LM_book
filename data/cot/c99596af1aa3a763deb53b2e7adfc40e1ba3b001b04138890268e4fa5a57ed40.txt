@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine how many rubber bands Harper's brother has**: 
+   Harper has 15 rubber bands. The problem states that his brother has 6 fewer rubber bands than he does. 
+   To find the number of rubber bands the brother has, we subtract 6 from Harper's total:
+   \[
+   \text{Brother's rubber bands} = \text{Harper's rubber bands} - 6
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Brother's rubber bands} = 15 - 6 = 9
+   \]
+
+2. **Calculate the total number of rubber bands they have together**: 
+   Now that we know Harper has 15 rubber bands and his brother has 9 rubber bands, we can add these two amounts together to find the total:
+   \[
+   \text{Total rubber bands} = \text{Harper's rubber bands} + \text{Brother's rubber bands}
+   \]
+   Substitute in the values we calculated:
+   \[
+   \text{Total rubber bands} = 15 + 9 = 24
+   \]
+
+Therefore, after going through the calculations step by step, we find that together Harper and his brother have a total of 24 rubber bands.
+</reasoning>
+<answer>24</answer>

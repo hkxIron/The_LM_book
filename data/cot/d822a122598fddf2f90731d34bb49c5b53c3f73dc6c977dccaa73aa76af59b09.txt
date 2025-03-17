@@ -1,0 +1,36 @@
+<reasoning>
+To determine how many pills Tony has left in the bottle after his treatment, we need to calculate the total number of pills he consumes over the course of six days.
+
+1. **Calculating the number of pills taken in the first 2 days:**
+   - Tony takes 2 pills three times a day for 2 days.
+   - First, we calculate how many pills he takes in one day:
+     - \(2 \text{ pills} \times 3 \text{ times} = 6 \text{ pills per day}\)
+   - Now, for 2 days:
+     - \(6 \text{ pills per day} \times 2 \text{ days} = 12 \text{ pills}\)
+
+2. **Calculating the number of pills taken in the next 3 days:**
+   - After the first 2 days, he cuts the amount in half, so he takes 1 pill three times a day for the next 3 days.
+   - First, we calculate how many pills he takes in one day:
+     - \(1 \text{ pill} \times 3 \text{ times} = 3 \text{ pills per day}\)
+   - Now, for 3 days:
+     - \(3 \text{ pills per day} \times 3 \text{ days} = 9 \text{ pills}\)
+
+3. **Calculating the number of pills taken on the sixth day:**
+   - On the sixth day, he takes a final 2 pills in the morning.
+
+4. **Adding up all the pills consumed:**
+   - Total pills consumed:
+     - From the first 2 days: 12 pills
+     - From the next 3 days: 9 pills
+     - On the sixth day: 2 pills
+   - Therefore, the total number of pills consumed is:
+     - \(12 + 9 + 2 = 23 \text{ pills}\)
+
+5. **Calculating the number of pills left in the bottle:**
+   - Initially, Tony had a bottle of 50 pills.
+   - After taking 23 pills, the number of pills left is:
+     - \(50 - 23 = 27 \text{ pills}\)
+
+Thus, after all calculations, we find that Tony has 27 pills remaining in the bottle.
+</reasoning>
+<answer>27</answer>

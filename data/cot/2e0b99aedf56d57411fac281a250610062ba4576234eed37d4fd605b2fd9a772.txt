@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many times Georgia and Robert have coughed after 20 minutes, we will follow these steps:
+
+1. **Calculate Georgia's coughs in 20 minutes.**
+   - We know that Georgia coughs 5 times a minute.
+   - To find the total number of coughs in 20 minutes, we multiply the number of coughs per minute by the total minutes: 
+     \[
+     5 \text{ coughs/minute} \times 20 \text{ minutes} = 100 \text{ coughs}
+     \]
+   - So, Georgia has coughed 100 times in total.
+
+2. **Calculate Robert's coughs in 20 minutes.**
+   - It is stated that Robert coughs twice as much as Georgia. Therefore, we first need to find out how many times he coughs in a minute:
+     \[
+     2 \times 5 \text{ coughs/minute} = 10 \text{ coughs/minute}
+     \]
+   - Now we calculate Robert's total coughs over the same 20 minutes:
+     \[
+     10 \text{ coughs/minute} \times 20 \text{ minutes} = 200 \text{ coughs}
+     \]
+   - So, Robert has coughed 200 times in total.
+
+3. **Combine the coughs from both Georgia and Robert.**
+   - Now we add the total coughs from both of them to get the overall total:
+     \[
+     100 \text{ coughs (Georgia)} + 200 \text{ coughs (Robert)} = 300 \text{ coughs}
+     \]
+
+Therefore, the total number of times Georgia and Robert have coughed together after 20 minutes is 300.
+</reasoning>
+<answer>300</answer>

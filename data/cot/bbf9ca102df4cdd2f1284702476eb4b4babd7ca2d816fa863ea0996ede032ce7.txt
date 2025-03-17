@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of votes for the witch cake**: We are told that 7 people voted for the witch cake. 
+   - Votes for witch cake = 7
+
+2. **Calculate the votes for the unicorn cake**: The problem states that three times as many people voted for the unicorn cake compared to the witch cake. Since there are 7 votes for the witch cake:
+   - Votes for unicorn cake = 3 * Votes for witch cake = 3 * 7 = 21
+
+3. **Calculate the votes for the dragon cake**: Next, we see that the number of votes for the dragon cake was 25 more than the number of votes for the witch cake. Since the witch cake has 7 votes:
+   - Votes for dragon cake = Votes for witch cake + 25 = 7 + 25 = 32
+
+4. **Calculate the total votes cast**: Now, we can find the total number of votes by adding the votes for all three cakes together:
+   - Total votes = Votes for witch cake + Votes for unicorn cake + Votes for dragon cake
+   - Total votes = 7 + 21 + 32
+
+5. **Perform the addition**:
+   - Total votes = 7 + 21 = 28
+   - Total votes = 28 + 32 = 60
+
+Therefore, the total number of votes cast in the contest is 60.
+</reasoning>
+<answer>60</answer>

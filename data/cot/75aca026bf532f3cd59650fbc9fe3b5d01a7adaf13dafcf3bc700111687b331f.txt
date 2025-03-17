@@ -1,0 +1,46 @@
+<reasoning>
+To find the area of the kitchen, we first need to determine the total area occupied by the bedrooms and bathrooms, and then subtract that from the total area of Raj's house.
+
+1. **Calculate the area of the bedrooms:**
+   - Each bedroom measures 11 feet by 11 feet.
+   - The area of one bedroom is:
+     \[
+     \text{Area of one bedroom} = 11 \, \text{ft} \times 11 \, \text{ft} = 121 \, \text{square feet}
+     \]
+   - Since there are 4 bedrooms, the total area for all bedrooms is:
+     \[
+     \text{Total area of bedrooms} = 4 \times 121 \, \text{square feet} = 484 \, \text{square feet}
+     \]
+
+2. **Calculate the area of the bathrooms:**
+   - Each bathroom measures 6 feet by 8 feet.
+   - The area of one bathroom is:
+     \[
+     \text{Area of one bathroom} = 6 \, \text{ft} \times 8 \, \text{ft} = 48 \, \text{square feet}
+     \]
+   - Since there are 2 bathrooms, the total area for both bathrooms is:
+     \[
+     \text{Total area of bathrooms} = 2 \times 48 \, \text{square feet} = 96 \, \text{square feet}
+     \]
+
+3. **Calculate the total area occupied by the bedrooms and bathrooms:**
+   - We add the total area of the bedrooms and bathrooms:
+     \[
+     \text{Total area of bedrooms and bathrooms} = 484 \, \text{square feet} + 96 \, \text{square feet} = 580 \, \text{square feet}
+     \]
+
+4. **Determine the remaining area for the kitchen and living area:**
+   - The total area of the house is given as 1,110 square feet. Therefore, the total area for the kitchen and living area combined is:
+     \[
+     \text{Area of kitchen and living area} = 1,110 \, \text{square feet} - 580 \, \text{square feet} = 530 \, \text{square feet}
+     \]
+
+5. **Calculate the area of the kitchen:**
+   - Since the kitchen and living area have the same sized area, we divide the remaining area by 2:
+     \[
+     \text{Area of kitchen} = \frac{530 \, \text{square feet}}{2} = 265 \, \text{square feet}
+     \]
+
+Thus, the area of the kitchen is 265 square feet.
+</reasoning>
+<answer>265</answer>

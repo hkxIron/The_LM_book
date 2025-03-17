@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many liters of fuel John should plan to use for his trips, we need to follow these steps:
+
+1. **Determine the total distance John plans to travel**: 
+   John is making two trips: one trip is 30 km and the other is 20 km. To find the total distance, we add these two distances together:
+   
+   \[
+   \text{Total Distance} = 30 \text{ km} + 20 \text{ km} = 50 \text{ km}
+   \]
+
+2. **Calculate the amount of fuel used per kilometer**: 
+   We know that John uses 5 liters of fuel for every kilometer he travels.
+
+3. **Calculate the total fuel consumption for the entire trip**: 
+   To find out the total amount of fuel needed, we multiply the total distance by the fuel consumption per kilometer:
+   
+   \[
+   \text{Total Fuel} = \text{Total Distance} \times \text{Fuel per km} = 50 \text{ km} \times 5 \text{ liters/km}
+   \]
+
+   Now we perform the multiplication:
+   
+   \[
+   \text{Total Fuel} = 250 \text{ liters}
+   \]
+
+Therefore, John should plan to use 250 liters of fuel for his trips.
+</reasoning>
+<answer>250</answer>

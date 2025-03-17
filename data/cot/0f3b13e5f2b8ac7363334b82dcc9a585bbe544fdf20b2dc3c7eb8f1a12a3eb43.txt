@@ -1,0 +1,22 @@
+<reasoning>
+To determine how many stickers Xia had at the beginning, we can follow these steps:
+
+1. **Identify the number of stickers left**: 
+   Xia has 5 sheets of stickers left, and each sheet contains 10 stickers. To find out how many stickers are left, we multiply the number of sheets by the number of stickers per sheet. 
+
+   \[
+   \text{Stickers left} = \text{Number of sheets} \times \text{Stickers per sheet} = 5 \times 10 = 50
+   \]
+
+   Therefore, Xia has 50 stickers left.
+
+2. **Add the stickers shared with friends**: 
+   We know that Xia shared 100 stickers with her friends. To find out the total number of stickers Xia had at the beginning, we need to add the stickers she shared to the stickers she has left.
+
+   \[
+   \text{Total stickers at beginning} = \text{Stickers shared} + \text{Stickers left} = 100 + 50 = 150
+   \]
+
+Therefore, after accounting for the stickers she shared and the ones she has left, we find that Xia had a total of 150 stickers at the beginning.
+</reasoning>
+<answer>150</answer>

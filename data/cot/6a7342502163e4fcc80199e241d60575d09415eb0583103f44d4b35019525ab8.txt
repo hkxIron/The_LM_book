@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine the number of expired packs**: Bob ordered 80 packs of Greek yogurt, and 40% of these packs were expired. To find the number of expired packs, we need to calculate 40% of 80.
+
+   \[
+   \text{Number of expired packs} = 0.40 \times 80 = 32
+   \]
+
+   Here, we multiply the total number of packs by the decimal equivalent of 40% (which is 0.40). This calculation shows that 32 packs were expired.
+
+2. **Calculate the refund amount for the expired packs**: Each pack of Greek yogurt costs $12. To find out how much Bob will be refunded for the expired packs, we will multiply the number of expired packs (32) by the cost per pack ($12).
+
+   \[
+   \text{Refund amount} = \text{Number of expired packs} \times \text{Cost per pack} = 32 \times 12
+   \]
+
+   Now we perform the multiplication:
+
+   \[
+   32 \times 12 = 384
+   \]
+
+   This means Bob will be refunded a total of $384 for the expired packs.
+
+Therefore, the amount Bob was refunded for the expired product is:
+</reasoning>
+<answer>384</answer>

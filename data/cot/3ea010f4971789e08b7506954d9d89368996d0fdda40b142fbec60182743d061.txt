@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the Information Given**: We know that on Saturday, there were a total of 220 people who ordered ice cream. We also know that 20% of these people ordered vanilla ice cream.
+
+2. **Calculating the Number of People Who Ordered Vanilla Ice Cream**: To find out how many people ordered vanilla ice cream, we multiply the total number of people (220) by 20%.
+   \[
+   \text{Number of vanilla ice cream orders} = 220 \times 0.20 = 44
+   \]
+   This means 44 people ordered vanilla ice cream.
+
+3. **Finding the Number of People Who Ordered Chocolate Ice Cream**: The problem states that there were twice as many people who ordered vanilla ice cream as those who ordered chocolate ice cream. Let’s denote the number of people who ordered chocolate ice cream as \( C \).
+
+   Since the number of people who ordered vanilla is twice that of chocolate, we can express this relationship as:
+   \[
+   44 = 2C
+   \]
+   To solve for \( C \), divide both sides by 2:
+   \[
+   C = \frac{44}{2} = 22
+   \]
+
+4. **Conclusion**: Thus, the number of people who ordered chocolate ice cream is 22.
+
+Therefore, after following the steps logically and calculating accordingly:
+</reasoning>
+<answer>22</answer>

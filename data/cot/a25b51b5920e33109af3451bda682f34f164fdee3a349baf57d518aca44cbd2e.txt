@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many berries one bird eats in 4 days**: 
+   Since one bird eats 7 berries each day, we can find out how many berries one bird eats in 4 days by multiplying the daily amount by the number of days:
+   \[
+   7 \text{ berries/day} \times 4 \text{ days} = 28 \text{ berries}
+   \]
+   This calculation tells us that each bird will eat 28 berries over the course of 4 days.
+
+2. **Calculate how many berries all 5 birds eat in 4 days**: 
+   Now that we know one bird eats 28 berries in 4 days, we need to find out how many berries 5 birds eat. We do this by multiplying the amount one bird eats by the number of birds:
+   \[
+   28 \text{ berries/bird} \times 5 \text{ birds} = 140 \text{ berries}
+   \]
+   This step gives us the total number of berries consumed by all 5 birds over the 4 days.
+
+3. **Final Calculation and Result**:
+   We now have the total number of berries that Samuel's birds eat in 4 days, which is 140 berries.
+
+Therefore, combining all the calculations, we find the total number of berries eaten by the 5 birds in 4 days:
+</reasoning>
+<answer>140</answer>

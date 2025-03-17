@@ -1,0 +1,47 @@
+<reasoning>
+Let's start by defining the capacity of each person's pail based on the information given.
+
+1. **Identify Tina's pail capacity:**
+   - We know that Tina's pail holds 4 gallons. 
+   - So, Tina's pail capacity = 4 gallons.
+
+2. **Determine Tommy's pail capacity:**
+   - We are told that Tommy's pail holds 2 gallons more than Tina's.
+   - Since Tina's pail holds 4 gallons, we calculate Tommy's capacity as follows:
+     \[
+     \text{Tommy's pail capacity} = \text{Tina's pail capacity} + 2 = 4 + 2 = 6 \text{ gallons}.
+     \]
+
+3. **Calculate Timmy's pail capacity:**
+   - We are told that Timmy's pail holds twice as much water as Tommy's.
+   - Now that we know Tommy's pail holds 6 gallons, we can find Timmy's capacity:
+     \[
+     \text{Timmy's pail capacity} = 2 \times \text{Tommy's pail capacity} = 2 \times 6 = 12 \text{ gallons}.
+     \]
+
+4. **Calculate the total water each fills after 3 trips:**
+   - Each person makes 3 trips to the pool.
+   - For Tina:
+     \[
+     \text{Total water from Tina} = 3 \times \text{Tina's pail capacity} = 3 \times 4 = 12 \text{ gallons}.
+     \]
+   - For Tommy:
+     \[
+     \text{Total water from Tommy} = 3 \times \text{Tommy's pail capacity} = 3 \times 6 = 18 \text{ gallons}.
+     \]
+   - For Timmy:
+     \[
+     \text{Total water from Timmy} = 3 \times \text{Timmy's pail capacity} = 3 \times 12 = 36 \text{ gallons}.
+     \]
+
+5. **Now, let's sum the total water filled in the pool:**
+   \[
+   \text{Total water in the pool} = \text{Total from Tina} + \text{Total from Tommy} + \text{Total from Timmy}
+   \]
+   \[
+   = 12 + 18 + 36 = 66 \text{ gallons}.
+   \]
+
+Therefore, after 3 trips each, Timmy, Tommy, and Tina together fill the pool with a total of 66 gallons of water.
+</reasoning>
+<answer>66</answer>

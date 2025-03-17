@@ -1,0 +1,40 @@
+<reasoning>
+To find Theodore's total earnings every month, we need to calculate the income he generates from selling both stone and wooden statues. 
+
+1. **Calculate the earnings from stone statues**:
+   - Theodore crafts 10 stone statues per month.
+   - Each stone statue sells for $20.
+   - Therefore, the total earnings from stone statues are:
+     \[
+     \text{Earnings from stone statues} = \text{Number of stone statues} \times \text{Price per stone statue} = 10 \times 20 = 200 \text{ dollars}
+     \]
+
+2. **Calculate the earnings from wooden statues**:
+   - Theodore crafts 20 wooden statues per month.
+   - Each wooden statue sells for $5.
+   - Therefore, the total earnings from wooden statues are:
+     \[
+     \text{Earnings from wooden statues} = \text{Number of wooden statues} \times \text{Price per wooden statue} = 20 \times 5 = 100 \text{ dollars}
+     \]
+
+3. **Calculate total earnings before taxes**:
+   - Now, we add the earnings from both types of statues to find the total earnings before taxes:
+     \[
+     \text{Total earnings} = \text{Earnings from stone statues} + \text{Earnings from wooden statues} = 200 + 100 = 300 \text{ dollars}
+     \]
+
+4. **Calculate the taxes**:
+   - Theodore pays 10 percent of his total earnings in taxes. We will find out how much this is:
+     \[
+     \text{Taxes} = 0.10 \times \text{Total earnings} = 0.10 \times 300 = 30 \text{ dollars}
+     \]
+
+5. **Calculate the total earnings after taxes**:
+   - Finally, we subtract the taxes from the total earnings to find out how much he actually earns:
+     \[
+     \text{Total earning after taxes} = \text{Total earnings} - \text{Taxes} = 300 - 30 = 270 \text{ dollars}
+     \]
+
+Thus, Theodore's total earning every month is:
+</reasoning>
+<answer>270</answer>

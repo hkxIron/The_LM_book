@@ -1,0 +1,28 @@
+<reasoning>
+To determine how many trackball mice were sold, let's break down the sales into different categories based on the information given.
+
+1. **Total Sales**: We know that Marky's shop sold a total of 80 mice.
+
+2. **Sales Breakdown**:
+   - Half of the sales are wireless mice. This means:
+     \[
+     \text{Wireless mice} = \frac{1}{2} \times 80 = 40 \text{ wireless mice}
+     \]
+   - One-fourth of the sales are optical mice. This means:
+     \[
+     \text{Optical mice} = \frac{1}{4} \times 80 = 20 \text{ optical mice}
+     \]
+
+3. **Finding the Remaining Sales**: 
+   - To find the number of trackball mice, we need to determine how many mice are left after accounting for the wireless and optical mice. We can do this by subtracting the total sold of wireless and optical mice from the total sales:
+     \[
+     \text{Trackball mice} = \text{Total sales} - (\text{Wireless mice} + \text{Optical mice})
+     \]
+   - Plugging in the numbers:
+     \[
+     \text{Trackball mice} = 80 - (40 + 20) = 80 - 60 = 20 \text{ trackball mice}
+     \]
+
+Therefore, the number of trackball mice sold is 20.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+Let's solve this problem step by step, keeping track of the number of passengers at each stage of the flight.
+
+1. **Initial number of passengers:**
+   The flight started with 124 passengers.
+
+2. **Layover in Texas:**
+   - 58 passengers got off the plane.
+   - To find the number of passengers left after this, we subtract the number of passengers who got off from the initial number:
+     \[
+     124 - 58 = 66
+     \]
+   - Then, 24 new passengers boarded the plane. We add this to the remaining passengers:
+     \[
+     66 + 24 = 90
+     \]
+
+3. **Flight to North Carolina:**
+   - In North Carolina, 47 passengers got off the plane. We subtract this number from the current total:
+     \[
+     90 - 47 = 43
+     \]
+   - Then, 14 new passengers boarded the plane. We add this to the remaining passengers:
+     \[
+     43 + 14 = 57
+     \]
+
+4. **Final count including crew members:**
+   - There are 10 crew members on board for the entire flight. We need to add the crew members to the number of passengers who landed in Virginia:
+     \[
+     57 + 10 = 67
+     \]
+
+Therefore, the total number of people who landed in Virginia is 67.
+</reasoning>
+<answer>67</answer>

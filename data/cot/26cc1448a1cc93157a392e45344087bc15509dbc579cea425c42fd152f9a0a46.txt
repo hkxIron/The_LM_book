@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the cost of strawberries:** We know that a pound of strawberries costs $2.20. If Briget buys 5 pounds of strawberries, we can calculate the total cost for strawberries by multiplying the cost per pound by the number of pounds:
+   \[
+   \text{Cost of strawberries} = 5 \text{ pounds} \times 2.20 \text{ dollars/pound} = 11 \text{ dollars}
+   \]
+
+2. **Determine the cost of cherries:** We are told that a pound of cherries costs 6 times as much as a pound of strawberries. So, we first need to calculate the cost of one pound of cherries:
+   \[
+   \text{Cost of cherries per pound} = 6 \times 2.20 \text{ dollars} = 13.20 \text{ dollars}
+   \]
+   Now, if Briget buys 5 pounds of cherries, we calculate the total cost for cherries:
+   \[
+   \text{Cost of cherries} = 5 \text{ pounds} \times 13.20 \text{ dollars/pound} = 66 \text{ dollars}
+   \]
+
+3. **Calculate the total cost:** Now that we have the total costs for both strawberries and cherries, we can find the total cost by adding these two amounts together:
+   \[
+   \text{Total cost} = \text{Cost of strawberries} + \text{Cost of cherries} = 11 \text{ dollars} + 66 \text{ dollars} = 77 \text{ dollars}
+   \]
+
+Therefore, the total amount that Briget will spend on the strawberries and cherries is $77.
+</reasoning>
+<answer>77</answer>

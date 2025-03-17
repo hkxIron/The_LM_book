@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we need to analyze the information given about Kristin and Sarith's running speeds and the distances they cover.
+
+1. **Understanding the relationship between their speeds**: We know that Kristin runs three times faster than Sarith. If we denote Sarith's speed as \( S \), then Kristin's speed can be expressed as \( 3S \).
+
+2. **Distance of the adult football field**: Let's denote the distance around the adult football field as \( D \). Since Kristin runs 12 times around this field, the total distance she covers is:
+   \[
+   \text{Distance covered by Kristin} = 12D
+   \]
+
+3. **Distance of the children's football field**: The children's football field is half the distance of the adult football field. Therefore, the distance around the children's football field is:
+   \[
+   \text{Distance of children's field} = \frac{D}{2}
+   \]
+
+4. **Time taken by both runners**: Since both Kristin and Sarith are running at the same time, we can set up equations to express their distances in terms of time. 
+
+   We know that time is equal to distance divided by speed. For Kristin, the time taken to run 12 laps around the adult football field is:
+   \[
+   \text{Time} = \frac{12D}{3S} = \frac{4D}{S}
+   \]
+
+5. **Distance covered by Sarith**: Since Sarith runs for the same amount of time, we can use his speed to find out how far he runs. The distance he covers in the same time can be expressed as:
+   \[
+   \text{Distance covered by Sarith} = S \times \text{Time} = S \times \frac{4D}{S} = 4D
+   \]
+
+6. **Calculating the number of laps Sarith ran**: Now, we will find out how many laps Sarith completed around the children's football field. Since the distance of the children's field is \( \frac{D}{2} \):
+   \[
+   \text{Number of laps} = \frac{\text{Distance covered by Sarith}}{\text{Distance of children's field}} = \frac{4D}{\frac{D}{2}} = 4D \times \frac{2}{D} = 8
+   \]
+
+This means Sarith completed 8 laps around the children's football field.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,48 @@
+<reasoning>
+To determine the total profit the farmer earned from selling the pigs, we will follow these steps:
+
+1. **Calculate the total revenue from selling the pigs.**
+   - The farmer sells 3 pigs after 12 months and 3 pigs after 16 months.
+   - Each fully grown pig sells for $300.
+   - Therefore, the revenue from selling 3 pigs after 12 months is:
+     \[
+     3 \text{ pigs} \times 300 \text{ dollars/pig} = 900 \text{ dollars}
+     \]
+   - The revenue from selling the other 3 pigs after 16 months is also:
+     \[
+     3 \text{ pigs} \times 300 \text{ dollars/pig} = 900 \text{ dollars}
+     \]
+   - Total revenue from selling all 6 pigs is:
+     \[
+     900 \text{ dollars} + 900 \text{ dollars} = 1800 \text{ dollars}
+     \]
+
+2. **Calculate the total cost of feeding the pigs.**
+   - The farmer feeds each piglet for a different number of months based on when they are sold.
+   - The first 3 piglets are fed for 12 months, and the cost per month per pig is $10.
+   - The feeding cost for the first 3 pigs is:
+     \[
+     3 \text{ pigs} \times 12 \text{ months} \times 10 \text{ dollars/month} = 360 \text{ dollars}
+     \]
+   - The remaining 3 piglets are fed for 16 months, so the cost for them is:
+     \[
+     3 \text{ pigs} \times 16 \text{ months} \times 10 \text{ dollars/month} = 480 \text{ dollars}
+     \]
+   - Total feeding cost for all 6 pigs is:
+     \[
+     360 \text{ dollars} + 480 \text{ dollars} = 840 \text{ dollars}
+     \]
+
+3. **Calculate the total profit.**
+   - Profit is calculated by subtracting total costs from total revenues:
+     \[
+     \text{Profit} = \text{Total Revenue} - \text{Total Cost}
+     \]
+   - Plugging in the values we calculated:
+     \[
+     \text{Profit} = 1800 \text{ dollars} - 840 \text{ dollars} = 960 \text{ dollars}
+     \]
+
+Therefore, the total profit the farmer earned after selling the pigs and deducting the cost of food is:
+</reasoning>
+<answer>960</answer>

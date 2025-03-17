@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of guppies Rick bought**: The problem states that Rick bought 30 guppies. 
+   \[
+   \text{Guppies (R)} = 30
+   \]
+
+2. **Calculate how many clowns Tim bought**: According to the problem, Tim bought twice as many clowns as Rick bought guppies. Therefore, we can calculate the number of clowns Tim bought by multiplying the number of guppies Rick bought by 2.
+   \[
+   \text{Clowns (T)} = 2 \times \text{Guppies (R)} = 2 \times 30 = 60
+   \]
+
+3. **Calculate how many tetras I bought**: The problem states that I bought 4 times as many tetras as Tim bought clowns. We can calculate the number of tetras I bought by multiplying the number of clowns Tim bought by 4.
+   \[
+   \text{Tetras (I)} = 4 \times \text{Clowns (T)} = 4 \times 60 = 240
+   \]
+
+4. **Calculate the total number of animals bought**: Now, we need to find the total number of animals bought by adding the number of guppies, clowns, and tetras.
+   \[
+   \text{Total Animals} = \text{Guppies (R)} + \text{Clowns (T)} + \text{Tetras (I)} = 30 + 60 + 240
+   \]
+   Performing the addition:
+   \[
+   30 + 60 = 90
+   \]
+   \[
+   90 + 240 = 330
+   \]
+
+Thus, the total number of animals bought on our last vacation is 330.
+</reasoning>
+<answer>330</answer>

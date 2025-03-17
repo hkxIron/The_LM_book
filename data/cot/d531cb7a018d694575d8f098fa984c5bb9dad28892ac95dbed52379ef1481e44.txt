@@ -1,0 +1,60 @@
+<reasoning>
+Let's define the variables for the two commodities:
+
+Let \( x \) be the purchase price of the first commodity, and \( y \) be the purchase price of the second commodity.
+
+From the problem, we have the following two equations:
+
+1. The total cost of both commodities is $827:
+   \[
+   x + y = 827
+   \]
+
+2. The first commodity exceeds the second by $127:
+   \[
+   x = y + 127
+   \]
+
+Now, we will substitute the second equation into the first to solve for \( y \).
+
+**Step 1: Substitute \( x \) in the first equation.**
+We replace \( x \) in the first equation with the expression from the second equation:
+\[
+(y + 127) + y = 827
+\]
+
+**Step 2: Combine like terms.**
+Combining the terms gives:
+\[
+2y + 127 = 827
+\]
+
+**Step 3: Isolate \( 2y \).**
+Subtract 127 from both sides to isolate the term involving \( y \):
+\[
+2y = 827 - 127
+\]
+Calculating the right side:
+\[
+2y = 700
+\]
+
+**Step 4: Solve for \( y \).**
+Now, divide both sides by 2:
+\[
+y = \frac{700}{2} = 350
+\]
+
+**Step 5: Find \( x \).**
+Now that we have \( y \), we can find \( x \) using the second equation:
+\[
+x = y + 127 = 350 + 127
+\]
+Calculating this gives:
+\[
+x = 477
+\]
+
+Thus, the purchase price of the first commodity is \( x \).
+</reasoning>
+<answer>477</answer>

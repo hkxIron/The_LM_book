@@ -1,0 +1,46 @@
+<reasoning>
+To determine how many hours Martiza will need to study for the citizenship test, we will calculate the total time she needs to study for both types of questions separately and then combine them.
+
+1. **Calculate the time for multiple-choice questions**:
+   - There are 30 multiple-choice questions.
+   - It takes her 15 minutes to learn each multiple-choice question.
+   - To find the total time for multiple-choice questions, we multiply the number of questions by the time per question:
+     \[
+     \text{Time for multiple-choice questions} = 30 \text{ questions} \times 15 \text{ minutes/question}
+     \]
+     \[
+     = 450 \text{ minutes}
+     \]
+
+2. **Calculate the time for fill-in-the-blank questions**:
+   - There are also 30 fill-in-the-blank questions.
+   - It takes her 25 minutes to learn each fill-in-the-blank question.
+   - To find the total time for fill-in-the-blank questions, we multiply the number of questions by the time per question:
+     \[
+     \text{Time for fill-in-the-blank questions} = 30 \text{ questions} \times 25 \text{ minutes/question}
+     \]
+     \[
+     = 750 \text{ minutes}
+     \]
+
+3. **Calculate the total study time**:
+   - Now, we add the time for both types of questions together:
+     \[
+     \text{Total study time} = 450 \text{ minutes} + 750 \text{ minutes}
+     \]
+     \[
+     = 1200 \text{ minutes}
+     \]
+
+4. **Convert total study time from minutes to hours**:
+   - Since there are 60 minutes in an hour, we convert minutes to hours by dividing by 60:
+     \[
+     \text{Total study time in hours} = \frac{1200 \text{ minutes}}{60 \text{ minutes/hour}}
+     \]
+     \[
+     = 20 \text{ hours}
+     \]
+
+Therefore, Martiza will need to study for a total of 20 hours before she is ready for the test.
+</reasoning>
+<answer>20</answer>

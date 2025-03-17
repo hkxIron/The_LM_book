@@ -1,0 +1,30 @@
+<reasoning>
+Let's start by breaking down the information given in the problem step by step.
+
+1. **Identify Gladys's age**: We know from the problem that Gladys is currently 30 years old.
+   - Gladys = 30 years
+
+2. **Express the relationship between Gladys's age and the ages of Billy and Lucas**: The problem states that Gladys's age is equal to twice the sum of the ages of Billy and Lucas. We will denote Billy's age as B and Lucas's age as L. Therefore, we can write the equation:
+   - Gladys's age = 2 * (Billy's age + Lucas's age)
+   - This translates to: 30 = 2 * (B + L)
+
+3. **Simplify the equation to find a relationship between Billy and Lucas**:
+   - Dividing both sides by 2 gives us:
+   - 15 = B + L
+
+4. **Analyze Billy's age in relation to Gladys**: The problem states that Billy is 3 times younger than Gladys. Since Gladys is 30, we interpret "3 times younger" as Billy being 1/3 of Gladys's age:
+   - Billy's age = 30 / 3 = 10 years
+   - Therefore, B = 10.
+
+5. **Substitute Billy's age back into the equation to find Lucas's age**: Now that we have B, we can substitute it into the equation we derived earlier:
+   - 15 = 10 + L
+   - To find L, we subtract 10 from both sides:
+   - L = 15 - 10
+   - L = 5
+
+6. **Calculate Lucas's age three years from now**: Lucas is currently 5 years old. In three years, we add 3 to his current age:
+   - Lucas's age in 3 years = 5 + 3 = 8 years.
+
+Therefore, after following each step and calculating accordingly, we find that Lucas will be 8 years old three years from now.
+</reasoning>
+<answer>8</answer>

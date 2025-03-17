@@ -1,0 +1,30 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total cost of one cup of coffee and one piece of cheesecake without the discount.**  
+   - The price of one cup of coffee is $6.
+   - The price of one piece of cheesecake is $10.
+   - Therefore, the total cost without any discount is:
+     \[
+     6 + 10 = 16
+     \]
+   This means that if the customer buys both items separately, they would pay $16.
+
+2. **Calculate the discount amount on the total cost.**  
+   - The discount given is 25%. To find the discount amount, we need to calculate 25% of the total cost ($16).
+   - To calculate 25% of $16, we can convert the percentage to a decimal (0.25) and multiply:
+     \[
+     0.25 \times 16 = 4
+     \]
+   This means the discount amount is $4.
+
+3. **Subtract the discount from the total cost to find the final price.**  
+   - Now, we take the total cost ($16) and subtract the discount amount ($4):
+     \[
+     16 - 4 = 12
+     \]
+   This means the final price of the set, after applying the discount, is $12.
+
+Therefore, the final price of the set of coffee and cheesecake after the discount is applied is:
+</reasoning>
+<answer>12</answer>

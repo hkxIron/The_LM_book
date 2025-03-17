@@ -1,0 +1,26 @@
+<reasoning>
+To find the average page count per essay for the 15 students, we first need to determine the total number of pages submitted by all students, and then divide that by the total number of essays (which is equal to the number of students since each student submitted one essay).
+
+1. **Calculate the total pages from the first group of students**:
+   - There are 5 students, and each turned in an essay with 2 pages.
+   - Total pages from this group = 5 students * 2 pages/student = 10 pages.
+
+2. **Calculate the total pages from the second group of students**:
+   - There are 5 students, and each turned in an essay with 3 pages.
+   - Total pages from this group = 5 students * 3 pages/student = 15 pages.
+
+3. **Calculate the total pages from the last group of students**:
+   - There are 5 students, and each turned in an essay with 1 page.
+   - Total pages from this group = 5 students * 1 page/student = 5 pages.
+
+4. **Sum the total pages from all groups**:
+   - Total pages = Pages from first group + Pages from second group + Pages from last group
+   - Total pages = 10 pages + 15 pages + 5 pages = 30 pages.
+
+5. **Calculate the average page count per essay**:
+   - The total number of essays is equal to the number of students, which is 15.
+   - Average pages per essay = Total pages / Total essays = 30 pages / 15 essays = 2 pages per essay.
+
+Therefore, the average page count per essay for the 15 students is 2.
+</reasoning>
+<answer>2</answer>

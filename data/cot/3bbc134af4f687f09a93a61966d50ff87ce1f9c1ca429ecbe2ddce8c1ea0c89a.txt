@@ -1,0 +1,47 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the score of the first away game:**
+   Lola's team scored twice as many points at their last home game compared to the first away game. Given that they scored 62 points at the last home game, we can set up the equation:
+   \[
+   \text{Points in first away game} = \frac{62}{2} = 31
+   \]
+   So, the team scored 31 points in their first away game.
+
+2. **Calculate the score of the second away game:**
+   The team scored 18 points more than the first away game in the second away game. Therefore:
+   \[
+   \text{Points in second away game} = 31 + 18 = 49
+   \]
+
+3. **Calculate the score of the third away game:**
+   In the third away game, the team scored 2 more points than they did in the second away game. Thus:
+   \[
+   \text{Points in third away game} = 49 + 2 = 51
+   \]
+
+4. **Calculate the total points scored after all games:**
+   Now, we can sum the points from all the games:
+   \[
+   \text{Total points} = \text{first away game} + \text{second away game} + \text{third away game} + \text{last home game}
+   \]
+   Substituting the values:
+   \[
+   \text{Total points} = 31 + 49 + 51 + 62 = 193
+   \]
+
+5. **Determine the target cumulative points:**
+   We want the cumulative points to be four times the score from the last home game, which is:
+   \[
+   \text{Target cumulative points} = 4 \times 62 = 248
+   \]
+
+6. **Calculate the points needed in the next game:**
+   To find out how many points they need to score in the next game to reach the target cumulative points, we subtract the total points scored from the target:
+   \[
+   \text{Points needed in next game} = 248 - 193 = 55
+   \]
+
+Therefore, Lola's team needs to score 55 points in their next game to achieve their goal.
+</reasoning>
+<answer>55</answer>

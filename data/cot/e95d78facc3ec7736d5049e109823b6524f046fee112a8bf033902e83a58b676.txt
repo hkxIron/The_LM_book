@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Find the number of students who wore colored lipstick**: 
+   Since half of the students wore colored lipstick, we first need to determine half of the total number of students who attended school.
+   
+   \[
+   \text{Number of students who wore colored lipstick} = \frac{1}{2} \times 200 = 100
+   \]
+
+   This means 100 students wore colored lipstick.
+
+2. **Find the number of students who wore red lipstick**:
+   We know that one quarter of the students who wore colored lipstick wore red lipstick. So we need to find one quarter of 100.
+
+   \[
+   \text{Number of students who wore red lipstick} = \frac{1}{4} \times 100 = 25
+   \]
+
+   Therefore, 25 students wore red lipstick.
+
+3. **Find the number of students who wore blue lipstick**:
+   The problem states that there were one-fifth as many students wearing blue lipstick as there were wearing red lipstick. This means we need to calculate one-fifth of the number of students who wore red lipstick.
+
+   \[
+   \text{Number of students who wore blue lipstick} = \frac{1}{5} \times 25 = 5
+   \]
+
+   Thus, 5 students wore blue lipstick.
+
+After going through the steps, we find that the total number of students who wore blue lipstick is 5.
+</reasoning>
+<answer>5</answer>

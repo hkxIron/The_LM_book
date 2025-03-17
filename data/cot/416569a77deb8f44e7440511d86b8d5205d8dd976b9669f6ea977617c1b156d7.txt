@@ -1,0 +1,29 @@
+<reasoning>
+Let’s break down the problem step by step.
+
+1. **Determine the number of countries George traveled to.**  
+   We are given that George traveled to 6 countries.  
+   So,  
+   \( \text{George} = 6 \)
+
+2. **Find out how many countries Joseph traveled to.**  
+   According to the problem, Joseph traveled to half the number of countries that George traveled to. Thus, we calculate:  
+   \( \text{Joseph} = \frac{1}{2} \times \text{George} = \frac{1}{2} \times 6 = 3 \)  
+   So,  
+   \( \text{Joseph} = 3 \)
+
+3. **Calculate how many countries Patrick traveled to.**  
+   The problem states that Patrick traveled to three times the number of countries Joseph traveled to. Therefore, we find:  
+   \( \text{Patrick} = 3 \times \text{Joseph} = 3 \times 3 = 9 \)  
+   So,  
+   \( \text{Patrick} = 9 \)
+
+4. **Determine how many countries Zack traveled to.**  
+   Finally, we know that Zack has traveled to twice the number of countries Patrick traveled to. Thus, we calculate:  
+   \( \text{Zack} = 2 \times \text{Patrick} = 2 \times 9 = 18 \)  
+   So,  
+   \( \text{Zack} = 18 \)
+
+Therefore, after calculating each person's travel based on the previous person's amount, we find that Zack traveled to 18 countries.
+</reasoning>
+<answer>18</answer>

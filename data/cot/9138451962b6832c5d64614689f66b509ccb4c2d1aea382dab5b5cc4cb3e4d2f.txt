@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of seashells Mimi found.**
+   - Mimi picked up 2 dozen seashells. 
+   - Since 1 dozen equals 12, we calculate the total number of seashells Mimi found as follows:
+     \[
+     2 \text{ dozen} = 2 \times 12 = 24 \text{ seashells}
+     \]
+
+2. **Determine how many seashells Kyle found.**
+   - Kyle found twice as many shells as Mimi. 
+   - Therefore, we calculate the number of seashells Kyle has:
+     \[
+     \text{Kyle's seashells} = 2 \times \text{Mimi's seashells} = 2 \times 24 = 48 \text{ seashells}
+     \]
+
+3. **Find out how many seashells Leigh grabbed.**
+   - Leigh grabbed one-third of the shells that Kyle found.
+   - We calculate Leigh's seashells as follows:
+     \[
+     \text{Leigh's seashells} = \frac{1}{3} \times \text{Kyle's seashells} = \frac{1}{3} \times 48 = 16 \text{ seashells}
+     \]
+
+Thus, after calculating step by step, we find that Leigh has 16 seashells.
+</reasoning>
+<answer>16</answer>

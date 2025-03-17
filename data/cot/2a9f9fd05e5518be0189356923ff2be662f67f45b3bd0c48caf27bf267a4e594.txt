@@ -1,0 +1,35 @@
+<reasoning>
+Let's start by determining the total number of animals Carolyn initially counts outside her window.
+
+1. **Count the initial number of animals**:
+   - Carolyn counts 6 monkeys and 6 birds. 
+   - Therefore, the total number of animals is:
+     \[
+     \text{Total animals} = \text{Number of monkeys} + \text{Number of birds} = 6 + 6 = 12
+     \]
+
+2. **Calculate the number of birds after two monkeys eat one bird each**:
+   - Two monkeys eat one bird each, which means a total of 2 birds are eaten.
+   - Therefore, the remaining number of birds is:
+     \[
+     \text{Remaining birds} = \text{Initial birds} - \text{Birds eaten} = 6 - 2 = 4
+     \]
+
+3. **Determine the current number of monkeys**:
+   - The number of monkeys remains unchanged at 6 since they only ate the birds and did not disappear or reduce in number.
+
+4. **Calculate the new total number of animals**:
+   - Now, the total number of animals is the sum of the remaining birds and the monkeys:
+     \[
+     \text{Total animals now} = \text{Number of monkeys} + \text{Remaining birds} = 6 + 4 = 10
+     \]
+
+5. **Calculate the percentage of animals that are monkeys**:
+   - The percentage of monkeys is calculated by taking the number of monkeys divided by the total number of animals, and then multiplying by 100 to convert it to a percentage:
+     \[
+     \text{Percentage of monkeys} = \left( \frac{\text{Number of monkeys}}{\text{Total animals now}} \right) \times 100 = \left( \frac{6}{10} \right) \times 100 = 60\%
+     \]
+
+Therefore, after accounting for the changes in the number of birds, we find that the percentage of animals that are monkeys is:
+</reasoning>
+<answer>60</answer>

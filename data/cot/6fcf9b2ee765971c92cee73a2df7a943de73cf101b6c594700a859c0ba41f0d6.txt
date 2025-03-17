@@ -1,0 +1,55 @@
+<reasoning>
+To find the average percentage taller the cranes are than the buildings, we will follow these steps:
+
+1. **Calculate the height difference for each crane**: We need to determine how much taller each crane is than the respective building it is associated with.
+
+   - For the first crane:
+     \[
+     \text{Height Difference}_1 = \text{Height of Crane}_1 - \text{Height of Building}_1 = 228 \text{ feet} - 200 \text{ feet} = 28 \text{ feet}
+     \]
+
+   - For the second crane:
+     \[
+     \text{Height Difference}_2 = \text{Height of Crane}_2 - \text{Height of Building}_2 = 120 \text{ feet} - 100 \text{ feet} = 20 \text{ feet}
+     \]
+
+   - For the third crane:
+     \[
+     \text{Height Difference}_3 = \text{Height of Crane}_3 - \text{Height of Building}_3 = 147 \text{ feet} - 140 \text{ feet} = 7 \text{ feet}
+     \]
+
+2. **Calculate the percentage taller for each crane**: The percentage taller can be calculated using the formula:
+   \[
+   \text{Percentage Taller} = \left( \frac{\text{Height Difference}}{\text{Height of Building}} \right) \times 100
+   \]
+
+   - For the first crane:
+     \[
+     \text{Percentage Taller}_1 = \left( \frac{28}{200} \right) \times 100 = 14\%
+     \]
+
+   - For the second crane:
+     \[
+     \text{Percentage Taller}_2 = \left( \frac{20}{100} \right) \times 100 = 20\%
+     \]
+
+   - For the third crane:
+     \[
+     \text{Percentage Taller}_3 = \left( \frac{7}{140} \right) \times 100 \approx 5\%
+     \]
+
+3. **Calculate the average percentage**: To find the average percentage taller across all cranes, we add the individual percentages and divide by the number of cranes.
+
+   - Sum of percentages:
+     \[
+     \text{Total Percentage} = 14 + 20 + 5 = 39\%
+     \]
+
+   - Average Percentage:
+     \[
+     \text{Average Percentage} = \frac{39}{3} = 13\%
+     \]
+
+Therefore, the average percentage taller the cranes are than the buildings is 13%.
+</reasoning>
+<answer>13</answer>

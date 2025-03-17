@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many hours it would take to film 4 weeks of episodes, we can follow these steps:
+
+1. **Determine the filming time for one episode:** 
+   - Each episode is 20 minutes long. 
+   - It takes 50% longer to film each episode. 
+   - To calculate the filming time, we need to find 50% of 20 minutes.
+   
+   50% of 20 minutes = 0.5 * 20 = 10 minutes
+
+   Now, we add this to the original episode duration:
+   Filming time for one episode = 20 minutes + 10 minutes = 30 minutes.
+
+2. **Calculate the total filming time for one week:**
+   - Each week, 5 episodes are shown. 
+   - Therefore, the total filming time for one week is:
+   
+   Total filming time for one week = 5 episodes * 30 minutes per episode = 150 minutes.
+
+3. **Calculate the total filming time for 4 weeks:**
+   - Now, we need to multiply the weekly filming time by 4 to find the total for 4 weeks:
+   
+   Total filming time for 4 weeks = 4 weeks * 150 minutes per week = 600 minutes.
+
+4. **Convert the total time from minutes to hours:**
+   - Since there are 60 minutes in an hour, we convert 600 minutes to hours:
+   
+   Total hours = 600 minutes ÷ 60 minutes/hour = 10 hours.
+
+Therefore, the total time it would take to film 4 weeks of episodes is 10 hours.
+</reasoning>
+<answer>10</answer>

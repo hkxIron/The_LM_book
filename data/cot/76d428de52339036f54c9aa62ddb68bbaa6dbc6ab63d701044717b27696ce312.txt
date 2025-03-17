@@ -1,0 +1,60 @@
+<reasoning>
+First, let's determine how many bags of seeds the farmer buys. 
+
+1. **Cost of Seeds**: 
+   Each bag costs $0.5 and contains 100 seeds. 
+   If "n" is the number of bags he buys, then he spends:
+   \[
+   \text{Total Cost} = 0.5n
+   \]
+
+2. **Number of Seeds**: 
+   The total number of seeds he has is:
+   \[
+   \text{Total Seeds} = 100n
+   \]
+
+3. **Ears of Corn Produced**: 
+   According to the problem, for every 4 seeds planted, he gets 1 ear of corn. 
+   Therefore, the number of ears of corn produced can be calculated as:
+   \[
+   \text{Ears of Corn} = \frac{100n}{4} = 25n
+   \]
+
+4. **Revenue from Selling Corn**: 
+   Each ear of corn sells for $0.1. Thus, the total revenue from selling the ears of corn is:
+   \[
+   \text{Total Revenue} = 0.1 \times (25n) = 2.5n
+   \]
+
+5. **Profit Calculation**: 
+   Profit is calculated as total revenue minus total cost. We know the farmer makes $40 in profit:
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost}
+   \]
+   Substituting the expressions we derived:
+   \[
+   40 = 2.5n - 0.5n
+   \]
+
+6. **Simplifying the Profit Equation**: 
+   Combine the terms on the right:
+   \[
+   40 = 2.5n - 0.5n = 2n
+   \]
+
+7. **Solving for "n"**:
+   To find "n", we divide both sides by 2:
+   \[
+   n = \frac{40}{2} = 20
+   \]
+
+8. **Calculating Total Ears of Corn**: 
+   Now that we know he bought 20 bags of seeds, we can find the total ears of corn produced:
+   \[
+   \text{Total Ears of Corn} = 25n = 25 \times 20 = 500
+   \]
+
+Therefore, the farmer sold 500 ears of corn.
+</reasoning>
+<answer>500</answer>

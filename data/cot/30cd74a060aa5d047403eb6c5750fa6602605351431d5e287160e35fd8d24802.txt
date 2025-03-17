@@ -1,0 +1,28 @@
+<reasoning>
+Let's denote the number of books Amanda read as \( A \).
+
+1. **Understanding Candice's reading**: According to the problem, Candice read 3 times as many books as Amanda. Since we know Candice read 18 books, we can express this relationship mathematically:
+   \[
+   3A = 18
+   \]
+   To find out how many books Amanda read, we can solve for \( A \):
+   \[
+   A = \frac{18}{3} = 6
+   \]
+   So, Amanda read 6 books.
+
+2. **Finding Kara's reading**: Kara read half the number of books that Amanda read. Since Amanda read 6 books, we can calculate how many books Kara read:
+   \[
+   K = \frac{A}{2} = \frac{6}{2} = 3
+   \]
+   Therefore, Kara read 3 books.
+
+3. **Calculating Patricia's reading**: Patricia read 7 times the number of books that Kara read. We know Kara read 3 books, so we can calculate how many books Patricia read:
+   \[
+   P = 7K = 7 \times 3 = 21
+   \]
+   Thus, Patricia read 21 books.
+
+After following these steps, we have determined that the number of books Patricia read is 21.
+</reasoning>
+<answer>21</answer>

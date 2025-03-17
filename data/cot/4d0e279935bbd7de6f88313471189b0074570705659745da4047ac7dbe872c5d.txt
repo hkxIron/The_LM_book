@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of blue fish**: 
+   We know that there are 30 fish in total and that one third of them are blue. To find the number of blue fish, we calculate:
+   \[
+   \text{Number of blue fish} = \frac{1}{3} \times 30 = 10
+   \]
+   This means there are 10 blue fish in the tank.
+
+2. **Determine how many of the blue fish have spots**: 
+   We are told that half of the blue fish have spots. Since we found that there are 10 blue fish, we calculate:
+   \[
+   \text{Number of blue spotted fish} = \frac{1}{2} \times 10 = 5
+   \]
+   This means there are 5 blue fish that have spots.
+
+Now, we have determined the number of blue spotted fish in the tank.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

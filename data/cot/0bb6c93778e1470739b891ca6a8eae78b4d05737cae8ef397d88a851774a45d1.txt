@@ -1,0 +1,59 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Determine Tara's total savings goal:**  
+   The clarinet costs $90. Therefore, Tara needs to save a total of $90.
+
+2. **Calculate how much money she has initially:**  
+   Tara already has $10 saved. 
+
+3. **Calculate how much more she needs to save:**  
+   To find out how much more she needs to save, we subtract her current savings from the total cost:  
+   \[
+   90 - 10 = 80
+   \]  
+   So, Tara needs to save an additional $80.
+
+4. **Determine how many books she needs to sell to make that money:**  
+   Since Tara sells each book for $5, we need to calculate how many books she needs to sell to reach her additional savings goal of $80. We do this by dividing the additional savings needed by the price per book:  
+   \[
+   \frac{80}{5} = 16
+   \]  
+   Thus, Tara needs to sell 16 books to reach $90.
+
+5. **Consider the halfway point:**  
+   Halfway towards her goal would be when she has saved half of the $90, which is:  
+   \[
+   \frac{90}{2} = 45
+   \]  
+   At this point, Tara would have $10 initially plus whatever she makes from selling books.
+
+6. **Calculate how much she needs to make to reach halfway:**  
+   She has $10, so she needs to make an additional:  
+   \[
+   45 - 10 = 35
+   \]  
+   To make this $35, the number of books she needs to sell is:  
+   \[
+   \frac{35}{5} = 7
+   \]  
+   Therefore, at the halfway point, Tara sells 7 books.
+
+7. **Loss of savings:**  
+   Unfortunately, she loses all her savings at this point, and she has to start over.
+
+8. **Calculate the total sales needed after starting over:**  
+   Tara now needs to save the full $90 again. Since she starts from $0, she needs to sell enough books to make the entire $90. The number of books she needs to sell from scratch is:  
+   \[
+   \frac{90}{5} = 18
+   \]  
+
+9. **Total number of books sold:**  
+   First, she sold 7 books before losing her savings, and then she sold 18 books after starting over:  
+   \[
+   7 + 18 = 25
+   \]
+
+Therefore, the total number of books Tara sells by the time she reaches her goal is 25.
+</reasoning>
+<answer>25</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+Let's break the problem down step by step.
+
+1. **Initial Amount of Money**: Faye starts with $20.
+
+2. **Money Given by Mother**: Her mother gave her twice the amount of money she currently has. Since Faye has $20, we calculate twice that amount:
+   \[
+   20 \times 2 = 40
+   \]
+   So, Faye received $40 from her mother.
+
+3. **Total Money After Receiving from Mother**: We now add the money she had to the money given by her mother:
+   \[
+   20 + 40 = 60
+   \]
+   Therefore, after receiving the money from her mother, Faye now has $60.
+
+4. **Cost of Cupcakes**: Faye bought 10 cupcakes at $1.50 each. We calculate the total cost of the cupcakes:
+   \[
+   10 \times 1.50 = 15
+   \]
+   Thus, the total cost for the cupcakes is $15.
+
+5. **Cost of Boxes of Cookies**: Faye also bought 5 boxes of cookies at $3 per box. We calculate the total cost of the cookies:
+   \[
+   5 \times 3 = 15
+   \]
+   Therefore, the total cost for the boxes of cookies is $15.
+
+6. **Total Spending**: Now we combine the costs of the cupcakes and cookies to find out how much Faye spent in total:
+   \[
+   15 + 15 = 30
+   \]
+   So, Faye spent a total of $30.
+
+7. **Money Left**: Finally, we subtract the total spending from the total amount of money Faye had after receiving money from her mother:
+   \[
+   60 - 30 = 30
+   \]
+   Thus, Faye has $30 left.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

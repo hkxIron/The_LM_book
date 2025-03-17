@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much Shara saved with the 8% discount, we need to determine the original price of the shoes before the discount was applied.
+
+1. **Understanding the discount**: The store has an 8% discount, which means that the price Shara paid ($184) is 92% of the original price. This is because she paid 100% - 8% = 92% of the original price.
+
+2. **Setting up the equation**: Let the original price of the shoes be denoted as \( P \). According to the information given:
+   \[
+   0.92P = 184
+   \]
+   This equation states that 92% of the original price equals the amount Shara paid.
+
+3. **Solving for the original price \( P \)**: To find \( P \), we will divide both sides of the equation by 0.92:
+   \[
+   P = \frac{184}{0.92}
+   \]
+
+4. **Calculating \( P \)**: Now, we perform the calculation:
+   \[
+   P = \frac{184}{0.92} \approx 200
+   \]
+   The original price of the shoes is approximately $200.
+
+5. **Calculating the savings**: To find out how much Shara saved, we need to calculate 8% of the original price \( P \):
+   \[
+   \text{Savings} = 0.08 \times P = 0.08 \times 200
+   \]
+
+6. **Performing the savings calculation**:
+   \[
+   \text{Savings} = 16
+   \]
+   This means Shara saved $16 due to the discount.
+
+Therefore, Shara saved $16 on the shoes.
+</reasoning>
+<answer>16</answer>

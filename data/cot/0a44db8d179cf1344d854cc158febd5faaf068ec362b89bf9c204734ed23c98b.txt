@@ -1,0 +1,41 @@
+<reasoning>
+To find out how many apples Chang's Garden produced, we need to first determine how much he earns from each type of apple and how much of each type he has.
+
+1. **Define Variables:** 
+   Let \( x \) be the total number of apples. According to the problem, 75% of these apples are sweet, and 25% are sour. Therefore:
+   - Number of sweet apples = \( 0.75x \)
+   - Number of sour apples = \( 0.25x \)
+
+2. **Calculate Earnings from Each Type of Apple:**
+   - Sweet apples sell for $0.5 each, so the total earnings from sweet apples is:
+     \[
+     \text{Earnings from sweet apples} = 0.75x \times 0.5 = 0.375x
+     \]
+   - Sour apples sell for $0.1 each, so the total earnings from sour apples is:
+     \[
+     \text{Earnings from sour apples} = 0.25x \times 0.1 = 0.025x
+     \]
+
+3. **Total Earnings from Apples:**
+   To find the total earnings, we add the earnings from sweet and sour apples:
+   \[
+   \text{Total earnings} = 0.375x + 0.025x = 0.4x
+   \]
+
+4. **Set Up the Equation:**
+   We know from the problem that Chang earns $40, so we set up the equation:
+   \[
+   0.4x = 40
+   \]
+
+5. **Solve for \( x \):**
+   To find \( x \), we divide both sides of the equation by 0.4:
+   \[
+   x = \frac{40}{0.4} = 100
+   \]
+
+Thus, Chang's trees gave him a total of 100 apples. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>100</answer>

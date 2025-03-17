@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, we need to determine the total amount of water required for the pigs, horses, and chickens.
+
+1. **Calculate the water needed for the pigs:**
+   - We know that each pig needs 3 gallons of water.
+   - Carla has 8 pigs.
+   - So we calculate the total water for the pigs as follows:
+     \[
+     \text{Water for pigs} = \text{Number of pigs} \times \text{Water per pig} = 8 \times 3 = 24 \text{ gallons}
+     \]
+
+2. **Calculate the water needed for the horses:**
+   - Each horse needs twice as much water as a pig. Since each pig needs 3 gallons, each horse needs:
+     \[
+     \text{Water per horse} = 2 \times \text{Water per pig} = 2 \times 3 = 6 \text{ gallons}
+     \]
+   - Carla has 10 horses.
+   - So we calculate the total water for the horses as follows:
+     \[
+     \text{Water for horses} = \text{Number of horses} \times \text{Water per horse} = 10 \times 6 = 60 \text{ gallons}
+     \]
+
+3. **Calculate the water needed for the chickens:**
+   - The problem states that the chickens drink from one tank that needs 30 gallons.
+   - Therefore, the water needed for the chickens is simply 30 gallons.
+
+4. **Add up all the water needed:**
+   - Now, we add the water needed for the pigs, horses, and chickens:
+     \[
+     \text{Total water} = \text{Water for pigs} + \text{Water for horses} + \text{Water for chickens} = 24 + 60 + 30
+     \]
+   - Performing the addition:
+     \[
+     \text{Total water} = 24 + 60 + 30 = 114 \text{ gallons}
+     \]
+
+Therefore, the total amount of water Carla needs to bring is 114 gallons.
+</reasoning>
+<answer>114</answer>

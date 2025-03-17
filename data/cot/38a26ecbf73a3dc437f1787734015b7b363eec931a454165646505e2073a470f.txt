@@ -1,0 +1,21 @@
+<reasoning>
+To determine how many gallons of paint Linda needs to buy for two coats of paint for her bedroom, follow these steps:
+
+1. **Calculate the total wall area to be painted with two coats**: 
+   - The wall area is 600 sq. ft. 
+   - Since Linda wants to apply two coats, we multiply the wall area by 2.
+   - \( \text{Total area for two coats} = 600 \text{ sq. ft.} \times 2 = 1200 \text{ sq. ft.} \)
+
+2. **Determine how much area one gallon of paint can cover**:
+   - We know that one gallon of paint covers 400 sq. ft.
+
+3. **Calculate the total number of gallons needed**:
+   - To find out how many gallons Linda needs, we divide the total area to be painted by the coverage of one gallon.
+   - \( \text{Number of gallons} = \frac{1200 \text{ sq. ft.}}{400 \text{ sq. ft./gallon}} = 3 \text{ gallons} \)
+
+4. **Final consideration**: 
+   - Since we calculated that Linda needs exactly 3 gallons of paint to cover the area with two coats, she should purchase 3 cans of paint.
+
+Therefore, Linda needs to buy 3 gallons of paint to repaint her bedroom with two coats.
+</reasoning>
+<answer>3</answer>

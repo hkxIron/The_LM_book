@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many pages Ethan has left to read, we first need to calculate the total number of pages he has read over the weekend.
+
+1. **Calculate the total pages read on Saturday:**
+   - On Saturday morning, Ethan read 40 pages.
+   - At night, he read another 10 pages.
+   - To find the total for Saturday, we add these two amounts together:
+     \[
+     40 \text{ pages} + 10 \text{ pages} = 50 \text{ pages}
+     \]
+
+2. **Calculate the pages read on Sunday:**
+   - Ethan read twice the total pages he read on Saturday. Since he read 50 pages on Saturday, we calculate:
+     \[
+     2 \times 50 \text{ pages} = 100 \text{ pages}
+     \]
+
+3. **Calculate the total pages read over the weekend:**
+   - Now, we add the pages read on Saturday and Sunday:
+     \[
+     50 \text{ pages (Saturday)} + 100 \text{ pages (Sunday)} = 150 \text{ pages}
+     \]
+
+4. **Determine the number of pages left to read:**
+   - The book has a total of 360 pages. To find out how many pages are left for Ethan to read, we subtract the total pages he has read from the total number of pages in the book:
+     \[
+     360 \text{ pages} - 150 \text{ pages} = 210 \text{ pages}
+     \]
+
+Therefore, Ethan has 210 pages left to read.
+</reasoning>
+<answer>210</answer>

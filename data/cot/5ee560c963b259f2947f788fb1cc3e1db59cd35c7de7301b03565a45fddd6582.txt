@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many screws Mary will have in each pile after buying more, let's go through the problem step by step.
+
+1. **Determine how many screws Mary needs to buy**: 
+   Mary currently has 8 screws and needs to buy 2 times more than what she currently has. 
+   So, we calculate:
+   \[
+   2 \times 8 = 16
+   \]
+   This means Mary needs to buy 16 screws.
+
+2. **Calculate the total number of screws after the purchase**:
+   Now, we add the screws she currently has to the screws she will buy:
+   \[
+   8 + 16 = 24
+   \]
+   After buying the additional screws, Mary will have a total of 24 screws.
+
+3. **Split the screws into four sections**:
+   Mary needs to divide her total screws (24) into four equal sections. To find out how many screws are in each section, we divide the total number of screws by the number of sections:
+   \[
+   \frac{24}{4} = 6
+   \]
+   Therefore, each pile will contain 6 screws.
+
+In conclusion, after performing the calculations:
+</reasoning>
+<answer>6</answer>

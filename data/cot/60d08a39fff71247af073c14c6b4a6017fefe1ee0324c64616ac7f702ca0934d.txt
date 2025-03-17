@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much money Vikki takes home after deductions, we need to follow these steps:
+
+1. **Calculate her total earnings for the week.** 
+   Vikki worked 42 hours at a pay rate of $10 per hour. To determine her total earnings, we multiply her hours worked by her hourly pay rate:
+   \[
+   \text{Total Earnings} = \text{Hours Worked} \times \text{Hourly Rate} = 42 \times 10 = 420 \text{ dollars}
+   \]
+
+2. **Calculate the deductions.**
+   We have three types of deductions to consider: tax, insurance, and union dues. We'll calculate each one step-by-step.
+
+   - **Tax Deduction (20%):** 
+     To calculate the tax deduction, we take 20% of her total earnings. This can be calculated as:
+     \[
+     \text{Tax Deduction} = 0.20 \times \text{Total Earnings} = 0.20 \times 420 = 84 \text{ dollars}
+     \]
+
+   - **Insurance Deduction (5%):**
+     Next, we calculate the insurance deduction, which is 5% of her total earnings:
+     \[
+     \text{Insurance Deduction} = 0.05 \times \text{Total Earnings} = 0.05 \times 420 = 21 \text{ dollars}
+     \]
+
+   - **Union Dues:**
+     Finally, Vikki has a flat deduction of $5 for union dues. 
+
+3. **Total Deductions:**
+   Now we can add up all the deductions to find the total amount deducted from her earnings:
+   \[
+   \text{Total Deductions} = \text{Tax Deduction} + \text{Insurance Deduction} + \text{Union Dues} = 84 + 21 + 5 = 110 \text{ dollars}
+   \]
+
+4. **Calculate Take-home Pay:**
+   To find out how much Vikki takes home, we subtract the total deductions from her total earnings:
+   \[
+   \text{Take-home Pay} = \text{Total Earnings} - \text{Total Deductions} = 420 - 110 = 310 \text{ dollars}
+   \]
+
+Therefore, Vikki takes home $310 after all the deductions.
+</reasoning>
+<answer>310</answer>

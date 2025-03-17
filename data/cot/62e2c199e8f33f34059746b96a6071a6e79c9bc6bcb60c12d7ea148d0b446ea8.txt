@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we need to calculate the daily wages for each type of worker and then sum them up to find the total labor costs for one day.
+
+1. **Calculate the daily wage of the construction workers:**
+   - Each construction worker makes $100/day.
+   - Since Jason is hiring two construction workers, we calculate their total daily wage:
+   \[
+   2 \text{ workers} \times 100 \text{ dollars/worker} = 200 \text{ dollars}
+   \]
+
+2. **Calculate the daily wage of the electrician:**
+   - The electrician makes double what a construction worker is paid. Therefore, the electrician's daily wage is:
+   \[
+   2 \times 100 \text{ dollars} = 200 \text{ dollars}
+   \]
+
+3. **Calculate the daily wage of the plumber:**
+   - The plumber makes 250% of a construction worker's salary. To find the plumber's daily wage:
+   \[
+   250\% = 2.5 \text{ (as a decimal)}
+   \]
+   - Thus, the plumber's daily wage is:
+   \[
+   2.5 \times 100 \text{ dollars} = 250 \text{ dollars}
+   \]
+
+4. **Sum the total labor costs:**
+   - Now, we need to add the total daily wages of the construction workers, the electrician, and the plumber:
+   \[
+   200 \text{ dollars (construction workers)} + 200 \text{ dollars (electrician)} + 250 \text{ dollars (plumber)} = 650 \text{ dollars}
+   \]
+
+Therefore, the overall labor costs for one day are:
+</reasoning>
+<answer>650</answer>

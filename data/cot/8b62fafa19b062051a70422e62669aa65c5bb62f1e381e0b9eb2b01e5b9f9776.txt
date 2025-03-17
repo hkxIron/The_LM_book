@@ -1,0 +1,49 @@
+<reasoning>
+Let's denote Austin's height as \( h \).
+
+1. According to the problem, the highest wave he caught was two feet higher than four times his height. This can be expressed mathematically as:
+   \[
+   \text{Highest wave} = 4h + 2
+   \]
+
+2. The shortest wave he caught was four feet higher than his height. This can be expressed as:
+   \[
+   \text{Shortest wave} = h + 4
+   \]
+
+3. The problem also states that the shortest wave was three feet higher than his 7-foot surfboard. Since the surfboard is 7 feet long, we can express the shortest wave in terms of the surfboard's length:
+   \[
+   \text{Shortest wave} = 7 + 3 = 10
+   \]
+
+4. Now we can set the expression for the shortest wave equal to the calculated shortest wave:
+   \[
+   h + 4 = 10
+   \]
+
+5. To find \( h \), we will subtract 4 from both sides:
+   \[
+   h = 10 - 4
+   \]
+   \[
+   h = 6
+   \]
+
+6. Now that we know Austin's height is 6 feet, we can find the height of the highest wave he caught using the first equation:
+   \[
+   \text{Highest wave} = 4h + 2
+   \]
+   Substituting \( h = 6 \):
+   \[
+   \text{Highest wave} = 4(6) + 2
+   \]
+   \[
+   \text{Highest wave} = 24 + 2
+   \]
+   \[
+   \text{Highest wave} = 26
+   \]
+
+Therefore, the height of the highest wave Austin caught is:
+</reasoning>
+<answer>26</answer>

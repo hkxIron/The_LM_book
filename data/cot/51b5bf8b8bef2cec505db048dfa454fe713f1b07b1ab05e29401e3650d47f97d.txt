@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of fruits in each type of basket**:
+   - One basket contains 18 mangoes.
+   - One basket contains 10 pears.
+   - One basket contains 12 pawpaws.
+   - The last two baskets contain the same number of kiwis and lemons, which we will denote as \(x\) for kiwis and \(x\) for lemons.
+
+2. **Set up the equation**:
+   The total number of fruits in all baskets is given as 58. Therefore, we can set up the equation as follows:
+   \[
+   18 + 10 + 12 + x + x = 58
+   \]
+
+3. **Combine the known quantities**:
+   First, we add the known quantities:
+   \[
+   18 + 10 + 12 = 40
+   \]
+   Now, substitute this back into the equation:
+   \[
+   40 + 2x = 58
+   \]
+
+4. **Solve for \(x\)**:
+   To isolate \(2x\), subtract 40 from both sides:
+   \[
+   2x = 58 - 40
+   \]
+   \[
+   2x = 18
+   \]
+   Now, divide both sides by 2 to find \(x\):
+   \[
+   x = \frac{18}{2} = 9
+   \]
+
+5. **Determine the number of lemons**:
+   Since \(x\) represents both the number of kiwis and the number of lemons, and we found \(x = 9\), it follows that there are 9 lemons.
+
+Therefore, after calculating and reasoning through the problem, we conclude:
+</reasoning>
+<answer>9</answer>

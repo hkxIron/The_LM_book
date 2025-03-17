@@ -1,0 +1,36 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Understanding the video length and speeds**: 
+   The video is 100 hours long. Lila watches it at 2 times the average speed, while Roger watches it at the average speed. When we say the average speed, we can interpret this as the normal playback speed of the video.
+
+2. **Calculating Lila's viewing time**: 
+   When Lila watches the video at twice the speed, she will take half the time to watch it. 
+   - Since the video is 100 hours long, if Lila is watching it at 2x speed, we can calculate her viewing time as follows:
+   \[
+   \text{Lila's time} = \frac{\text{Video length}}{\text{Speed factor}} = \frac{100 \text{ hours}}{2} = 50 \text{ hours}
+   \]
+
+3. **Calculating Roger's viewing time**: 
+   Roger watches the video at the average speed, which means he takes the full time to watch it. Therefore:
+   - Roger's viewing time is simply:
+   \[
+   \text{Roger's time} = 100 \text{ hours}
+   \]
+
+4. **Calculating total viewing time for one video**: 
+   Now we need to find the total time they both spent watching one video together:
+   - Total time for one video:
+   \[
+   \text{Total time} = \text{Lila's time} + \text{Roger's time} = 50 \text{ hours} + 100 \text{ hours} = 150 \text{ hours}
+   \]
+
+5. **Calculating total viewing time for six videos**: 
+   Since they both watched six of the same videos, we need to multiply the total time for one video by six:
+   \[
+   \text{Total time for six videos} = 150 \text{ hours} \times 6 = 900 \text{ hours}
+   \]
+
+Therefore, the total number of hours they watched together is 900 hours.
+</reasoning>
+<answer>900</answer>

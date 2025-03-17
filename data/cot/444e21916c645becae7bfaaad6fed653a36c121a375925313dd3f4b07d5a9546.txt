@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of votes Randy got**: It is given that Randy got 16 votes. We can denote the votes of Randy as \( R = 16 \).
+
+2. **Calculate Shaun's votes**: Shaun got 5 times as many votes as Randy. So, we can express Shaun's votes as:
+   \[
+   S = 5 \times R
+   \]
+   Substituting the value of \( R \):
+   \[
+   S = 5 \times 16 = 80
+   \]
+   This means Shaun received 80 votes.
+
+3. **Calculate Eliot's votes**: It is stated that Eliot got twice as many votes as Shaun. Thus, we can express Eliot's votes as:
+   \[
+   E = 2 \times S
+   \]
+   Substituting the value of \( S \):
+   \[
+   E = 2 \times 80 = 160
+   \]
+   This means Eliot received 160 votes.
+
+In conclusion, we have calculated that Eliot received 160 votes.
+</reasoning>
+<answer>160</answer>

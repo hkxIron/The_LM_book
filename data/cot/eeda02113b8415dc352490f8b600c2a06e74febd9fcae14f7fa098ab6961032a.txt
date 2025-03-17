@@ -1,0 +1,43 @@
+<reasoning>
+Let's break this down step by step.
+
+1. **Calculate the total cost for each person:**
+   - Each person pays for a ticket: $50
+   - Each person pays for an entrée: $10
+   - Half the group (3 people) buys unlimited drink tickets at $30 each.
+
+   **For the three people who bought drink tickets:**
+   - Their total cost would be: 
+     - Ticket: $50
+     - Entrée: $10
+     - Drink tickets: $30
+   - Total for each of these 3 people: 
+     \( 50 + 10 + 30 = 90 \)
+
+   **For the other three people (who did not buy drink tickets):**
+   - Their total cost would be:
+     - Ticket: $50
+     - Entrée: $10
+   - Total for each of these 3 people: 
+     \( 50 + 10 = 60 \)
+
+2. **Calculate the total amount paid by the group:**
+   - For the 3 people who bought drink tickets: 
+   \( 3 \times 90 = 270 \)
+   - For the 3 people who did not buy drink tickets: 
+   \( 3 \times 60 = 180 \)
+   - Adding both totals together gives:
+   \( 270 + 180 = 450 \)
+
+3. **Calculate the total refund the group receives:**
+   - The total refund is 90% of the total cost. 
+   - To find the refund:
+   \( 450 \times 0.90 = 405 \)
+
+4. **Calculate the total loss for the group:**
+   - To find the loss, we subtract the refund from the total amount paid:
+   \( 450 - 405 = 45 \)
+
+Therefore, the group of six friends lost a total of $45 due to the cancellation of the dinner theater.
+</reasoning>
+<answer>45</answer>

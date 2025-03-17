@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we will break it down step by step.
+
+1. **Determine the number of female students**:
+   We know that there are 200 students in total and that 60% of them are female. 
+   To find the number of female students, we calculate:
+   \[
+   \text{Number of female students} = 200 \times 0.60 = 120
+   \]
+   This means there are 120 female students in Dana's class.
+
+2. **Determine the number of female brunettes**:
+   Next, we know that 50% of the female students are brunettes. 
+   To find the number of female brunettes, we calculate:
+   \[
+   \text{Number of female brunettes} = 120 \times 0.50 = 60
+   \]
+   Therefore, there are 60 female brunettes in the class.
+
+3. **Determine the number of female brunettes under 5 feet tall**:
+   Finally, we know that 50% of the female brunettes are under 5 feet tall. 
+   To find the number of female brunettes who are under 5 feet tall, we calculate:
+   \[
+   \text{Number of female brunettes under 5 feet tall} = 60 \times 0.50 = 30
+   \]
+   Thus, there are 30 female brunettes in Dana's high school senior class who are under 5 feet tall.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

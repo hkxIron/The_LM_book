@@ -1,0 +1,59 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Calculate the total cost of the lotto tickets.**
+   James buys 200 tickets for 2 dollars each.
+   \[
+   \text{Total cost} = \text{Number of tickets} \times \text{Cost per ticket} = 200 \times 2 = 400 \text{ dollars}
+   \]
+   So, James spends $400 on tickets.
+
+2. **Determine the number of winning tickets.**
+   We know that 20% of the tickets are winners.
+   \[
+   \text{Number of winning tickets} = \text{Total tickets} \times \text{Winning percentage} = 200 \times 0.20 = 40 \text{ winning tickets}
+   \]
+
+3. **Calculate the number of winners that are for $5.**
+   80% of the winners are for $5.
+   \[
+   \text{Number of $5 winners} = \text{Number of winning tickets} \times \text{Percentage of $5 winners} = 40 \times 0.80 = 32 \text{ tickets}
+   \]
+
+4. **Determine the prize amount from the $5 winners.**
+   The total amount from the $5 winning tickets is:
+   \[
+   \text{Total from $5 winners} = \text{Number of $5 winners} \times \text{Prize amount} = 32 \times 5 = 160 \text{ dollars}
+   \]
+
+5. **Calculate the total prize amount from the grand prize.**
+   There is 1 grand prize of $5,000, so:
+   \[
+   \text{Total from grand prize} = 5,000 \text{ dollars}
+   \]
+
+6. **Calculate the total winnings from all tickets.**
+   The remaining winners win an average of $10, and we have already accounted for the $5 winners and the grand prize:
+   - Total winners = 40
+   - Total $5 winners = 32
+   - Remaining winners = Total winners - $5 winners - Grand prize winner = 40 - 32 - 1 = 7 winners
+   - Total winnings from these 7 winners:
+   \[
+   \text{Total from average $10 winners} = \text{Number of remaining winners} \times \text{Average prize} = 7 \times 10 = 70 \text{ dollars}
+   \]
+
+7. **Calculate the total winnings.**
+   Now, we add up all the winnings:
+   \[
+   \text{Total winnings} = \text{Total from $5 winners} + \text{Total from grand prize} + \text{Total from average $10 winners} = 160 + 5,000 + 70 = 5,230 \text{ dollars}
+   \]
+
+8. **Calculate James's profit.**
+   Profit is the total winnings minus the total cost:
+   \[
+   \text{Profit} = \text{Total winnings} - \text{Total cost} = 5,230 - 400 = 4,830 \text{ dollars}
+   \]
+
+Therefore, James's profit from buying the lotto tickets is:
+</reasoning>
+<answer>4830</answer>

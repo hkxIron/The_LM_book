@@ -1,0 +1,27 @@
+<reasoning>
+To find the height of the computer screen, we first need to calculate the perimeter of the square-shaped piece of paper. 
+
+1. **Calculate the perimeter of the square**: 
+   The formula for the perimeter \( P \) of a square is given by:
+   \[
+   P = 4 \times \text{side}
+   \]
+   Here, the side of the square paper is 20 cm. Therefore, we can substitute the side length into the formula:
+   \[
+   P = 4 \times 20 \, \text{cm} = 80 \, \text{cm}
+   \]
+   This means the perimeter of the square-shaped piece of paper is 80 cm.
+
+2. **Set up the relationship with the height of the computer screen**: 
+   According to the problem, the perimeter of the square paper is 20 cm shorter than the height of the computer screen. We can express this relationship mathematically as:
+   \[
+   \text{height} = P + 20 \, \text{cm}
+   \]
+   Substituting the value we found for \( P \):
+   \[
+   \text{height} = 80 \, \text{cm} + 20 \, \text{cm} = 100 \, \text{cm}
+   \]
+
+Thus, the height of the computer screen is 100 cm.
+</reasoning>
+<answer>100</answer>

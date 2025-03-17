@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many marbles of other colors Percius' friend will end up getting, we can follow these steps:
+
+1. **Determine the percentage of marbles that are of other colors.**  
+   We know that:
+   - 40% of the marbles are clear.
+   - 20% of the marbles are black.
+   
+   Therefore, the percentage of marbles that are of other colors is:
+   \[
+   100\% - (40\% + 20\%) = 100\% - 60\% = 40\%
+   \]
+
+2. **Calculate the expected number of marbles of other colors when taking 5 marbles.**  
+   If 40% of the marbles are of other colors, then when his friend picks 5 marbles, we can find the expected number of marbles that are of other colors by calculating:
+   \[
+   \text{Expected number of other colored marbles} = 5 \times 0.40 = 2
+   \]
+   This calculation is based on the idea that if you take a sample of marbles, the proportion of marbles of other colors in that sample should reflect the overall proportion of other colored marbles.
+
+Therefore, on average, Percius' friend will end up getting 2 marbles of other colors when he takes 5 marbles.
+</reasoning>
+<answer>2</answer>

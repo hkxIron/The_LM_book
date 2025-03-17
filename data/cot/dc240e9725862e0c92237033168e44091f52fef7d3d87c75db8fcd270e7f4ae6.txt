@@ -1,0 +1,60 @@
+<reasoning>
+To find out how many slices of pizza will be left over, let's follow the problem step by step.
+
+1. **Calculate the total number of slices from the pizzas George purchased:**
+   - George bought 3 small pizzas and 2 large pizzas.
+   - Each small pizza gives 4 slices, so:
+     \[
+     \text{Slices from small pizzas} = 3 \text{ small} \times 4 \text{ slices/small} = 12 \text{ slices}
+     \]
+   - Each large pizza gives 8 slices, so:
+     \[
+     \text{Slices from large pizzas} = 2 \text{ large} \times 8 \text{ slices/large} = 16 \text{ slices}
+     \]
+   - Now, let's add the slices together to find the total:
+     \[
+     \text{Total slices} = 12 \text{ slices} + 16 \text{ slices} = 28 \text{ slices}
+     \]
+
+2. **Determine how many slices George, Bob, Susie, Bill, Fred, and Mark will eat:**
+   - George will eat 3 pieces.
+   - Bob wants to eat one more piece than George:
+     \[
+     \text{Bob's pieces} = 3 + 1 = 4 \text{ pieces}
+     \]
+   - Susie will eat half as many as Bob:
+     \[
+     \text{Susie's pieces} = \frac{4}{2} = 2 \text{ pieces}
+     \]
+   - Bill, Fred, and Mark each want to eat 3 pieces, so:
+     \[
+     \text{Bill's pieces} = 3 \text{ pieces}
+     \]
+     \[
+     \text{Fred's pieces} = 3 \text{ pieces}
+     \]
+     \[
+     \text{Mark's pieces} = 3 \text{ pieces}
+     \]
+
+3. **Calculate the total slices eaten by all:**
+   - Now, let's sum all the pieces consumed:
+     \[
+     \text{Total eaten} = \text{George's pieces} + \text{Bob's pieces} + \text{Susie's pieces} + \text{Bill's pieces} + \text{Fred's pieces} + \text{Mark's pieces}
+     \]
+     \[
+     \text{Total eaten} = 3 + 4 + 2 + 3 + 3 + 3 = 18 \text{ pieces}
+     \]
+
+4. **Calculate the number of slices left over:**
+   - To find out how many slices are left after everyone has eaten, we subtract the total pieces eaten from the total slices:
+     \[
+     \text{Slices left} = \text{Total slices} - \text{Total eaten}
+     \]
+     \[
+     \text{Slices left} = 28 - 18 = 10 \text{ slices}
+     \]
+
+Therefore, after all the calculations, the number of slices of pizza that will be left over is:
+</reasoning>
+<answer>10</answer>

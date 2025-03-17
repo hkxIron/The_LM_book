@@ -1,0 +1,45 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the initial number of flowering and fruiting plants.**
+   - Roxy has 7 flowering plants. 
+   - She has twice as many fruiting plants as flowering plants. Therefore, we calculate the number of fruiting plants:
+     \[
+     \text{Number of fruiting plants} = 2 \times \text{Number of flowering plants} = 2 \times 7 = 14
+     \]
+
+2. **Calculate the total number of plants initially in her garden.**
+   - Initially, the total is:
+     \[
+     \text{Total plants} = \text{Number of flowering plants} + \text{Number of fruiting plants} = 7 + 14 = 21
+     \]
+
+3. **Account for the plants bought on Saturday.**
+   - Roxy buys 3 flowering plants and 2 fruiting plants. We add these to the current total:
+     \[
+     \text{New flowering plants} = 7 + 3 = 10
+     \]
+     \[
+     \text{New fruiting plants} = 14 + 2 = 16
+     \]
+   - The new total number of plants after the purchase is:
+     \[
+     \text{Total plants after purchase} = 10 + 16 = 26
+     \]
+
+4. **Account for the plants given away on Sunday.**
+   - Roxy gives away 1 flowering plant and 4 fruiting plants. We subtract these from the current total:
+     \[
+     \text{Remaining flowering plants} = 10 - 1 = 9
+     \]
+     \[
+     \text{Remaining fruiting plants} = 16 - 4 = 12
+     \]
+   - The total number of plants after giving some away is:
+     \[
+     \text{Total plants remaining} = 9 + 12 = 21
+     \]
+
+After performing all the steps, we find that Roxy has 21 plants remaining in her garden.
+</reasoning>
+<answer>21</answer>

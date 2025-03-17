@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much deer Jack keeps in pounds, we can solve this problem step by step.
+
+1. **Determine the duration of the hunting season**: The hunting season lasts for 1 quarter of the year. A quarter of the year is 3 months.
+
+2. **Calculate the total number of hunting trips**: Jack goes hunting 6 times a month. Since the hunting season is 3 months long, we multiply the number of trips per month by the number of months:
+   \[
+   \text{Total hunting trips} = 6 \text{ trips/month} \times 3 \text{ months} = 18 \text{ trips}
+   \]
+
+3. **Calculate the total number of deers caught**: Jack catches 2 deers each time he goes hunting. Therefore, the total number of deers caught during the season is:
+   \[
+   \text{Total deers caught} = 2 \text{ deers/trip} \times 18 \text{ trips} = 36 \text{ deers}
+   \]
+
+4. **Calculate the total weight of the deer caught**: Each deer weighs 600 pounds. To find the total weight, we multiply the total number of deers by the weight of each deer:
+   \[
+   \text{Total weight of deer} = 36 \text{ deers} \times 600 \text{ pounds/deer} = 21600 \text{ pounds}
+   \]
+
+5. **Find out how much weight Jack keeps**: Jack keeps half the weight of the deer he catches. Therefore, we calculate half of the total weight:
+   \[
+   \text{Weight kept} = \frac{1}{2} \times 21600 \text{ pounds} = 10800 \text{ pounds}
+   \]
+
+Thus, Jack keeps 10800 pounds of deer.
+</reasoning>
+<answer>10800</answer>

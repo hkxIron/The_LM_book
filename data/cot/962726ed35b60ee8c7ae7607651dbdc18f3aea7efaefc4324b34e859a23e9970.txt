@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many teeth a great white shark has, we will follow these steps:
+
+1. **Determine the number of teeth in a hammerhead shark.**
+   - We know that a tiger shark has 180 teeth.
+   - The hammerhead shark has 1/6 the number of teeth that a tiger shark has.
+   - So, we calculate the number of teeth for the hammerhead shark as follows:
+     \[
+     \text{Hammerhead teeth} = \frac{1}{6} \times 180
+     \]
+   - Doing the calculation:
+     \[
+     \text{Hammerhead teeth} = 30
+     \]
+   - This means a hammerhead shark has 30 teeth.
+
+2. **Calculate the total number of teeth of the tiger shark and the hammerhead shark combined.**
+   - Now we will sum the teeth of the tiger shark and the hammerhead shark:
+     \[
+     \text{Total teeth} = \text{Tiger shark teeth} + \text{Hammerhead teeth} = 180 + 30
+     \]
+   - Performing the addition:
+     \[
+     \text{Total teeth} = 210
+     \]
+
+3. **Determine the number of teeth in a great white shark.**
+   - According to the problem, a great white shark has double the sum of teeth of a tiger shark and a hammerhead shark.
+   - Therefore, we calculate the number of teeth for the great white shark as follows:
+     \[
+     \text{Great white teeth} = 2 \times \text{Total teeth} = 2 \times 210
+     \]
+   - Performing the multiplication:
+     \[
+     \text{Great white teeth} = 420
+     \]
+
+The great white shark has 420 teeth.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>420</answer>

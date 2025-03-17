@@ -1,0 +1,42 @@
+<reasoning>
+Let's denote the amount of money Jane has as \( J \). Since Jean has three times as much money as Jane, we can express the amount of money Jean has as \( 3J \).
+
+Now, we know from the problem that together they have a total of $76. Therefore, we can write the equation:
+
+\[
+J + 3J = 76
+\]
+
+Combining the terms on the left side, we have:
+
+\[
+4J = 76
+\]
+
+Next, we want to find the value of \( J \) by isolating it. To do this, we can divide both sides of the equation by 4:
+
+\[
+J = \frac{76}{4}
+\]
+
+Calculating the right side, we find:
+
+\[
+J = 19
+\]
+
+Now that we know Jane has $19, we can find out how much Jean has by substituting \( J \) back into the expression for Jean's money:
+
+\[
+3J = 3 \times 19
+\]
+
+Calculating this gives:
+
+\[
+3J = 57
+\]
+
+Therefore, Jean has $57.
+</reasoning>
+<answer>57</answer>

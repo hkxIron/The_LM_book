@@ -1,0 +1,28 @@
+<reasoning>
+To determine how many more calories the dietitian consumed than the recommended amount, we need to follow these steps:
+
+1. **Calculate how many calories she ate**: Since the dietitian ate three-fourths of her lunch, we will find three-fourths of the total calories she had prepared, which is 40 calories.
+
+   To find three-fourths of 40, we multiply:
+   \[
+   \text{Calories eaten} = \frac{3}{4} \times 40
+   \]
+   Calculating this gives us:
+   \[
+   \text{Calories eaten} = 30 \text{ calories}
+   \]
+
+2. **Identify the recommended calorie intake**: The recommended calorie intake by the FDA is given as 25 calories.
+
+3. **Calculate how many more calories she ate than the recommended amount**: To find out how many more calories she consumed compared to the recommended intake, we subtract the recommended calories from the calories she actually ate:
+   \[
+   \text{Calories over recommended} = \text{Calories eaten} - \text{Recommended calories}
+   \]
+   Plugging in our values gives:
+   \[
+   \text{Calories over recommended} = 30 - 25 = 5
+   \]
+
+Thus, the dietitian ate 5 more calories than the recommended amount.
+</reasoning>
+<answer>5</answer>

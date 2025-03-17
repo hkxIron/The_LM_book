@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we'll first determine how much money Zachary received from selling his video games, and then use that information to find out how much Jason and Ryan received.
+
+1. **Calculate Zachary's earnings:**
+   Zachary sold 40 games at $5 each. 
+   To find his total earnings, we multiply the number of games sold by the price per game:
+   \[
+   \text{Zachary's earnings} = 40 \text{ games} \times 5 \text{ dollars/game} = 200 \text{ dollars}
+   \]
+
+2. **Determine Jason's earnings:**
+   According to the problem, Jason received 30% more than Zachary. To find this, we first calculate 30% of Zachary's earnings:
+   \[
+   30\% \text{ of Zachary's earnings} = 0.30 \times 200 = 60 \text{ dollars}
+   \]
+   Now, we add this amount to Zachary's earnings to find Jason's total:
+   \[
+   \text{Jason's earnings} = 200 \text{ dollars} + 60 \text{ dollars} = 260 \text{ dollars}
+   \]
+
+3. **Determine Ryan's earnings:**
+   The problem states that Ryan received $50 more than Jason. Therefore, we can calculate Ryan's earnings as follows:
+   \[
+   \text{Ryan's earnings} = \text{Jason's earnings} + 50 \text{ dollars} = 260 \text{ dollars} + 50 \text{ dollars} = 310 \text{ dollars}
+   \]
+
+4. **Calculate the total amount received by all three friends:**
+   Now that we have the earnings for each friend, we can sum them up to find the total:
+   \[
+   \text{Total earnings} = \text{Zachary's earnings} + \text{Jason's earnings} + \text{Ryan's earnings}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total earnings} = 200 \text{ dollars} + 260 \text{ dollars} + 310 \text{ dollars} = 770 \text{ dollars}
+   \]
+
+Therefore, the total amount of money the three friends received together from the sale of the video games is:
+</reasoning>
+<answer>770</answer>

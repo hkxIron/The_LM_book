@@ -1,0 +1,45 @@
+<reasoning>
+To find out how many miles Ken cycled during a week with 3 rainy days and 4 snowy days, we will first calculate how many miles he can cycle in one hour for each weather condition. 
+
+1. **Calculate Ken's cycling speed in the rain:**
+   - Ken cycles 30 miles in 20 minutes.
+   - To find his speed in miles per hour (mph), we can first find out how many 20-minute intervals are in an hour:
+     \[
+     60 \text{ minutes} \div 20 \text{ minutes} = 3 \text{ intervals}
+     \]
+   - Therefore, in one hour, Ken can cycle:
+     \[
+     30 \text{ miles} \times 3 = 90 \text{ miles}
+     \]
+
+2. **Calculate Ken's cycling speed in the snow:**
+   - Ken cycles 10 miles in 20 minutes.
+   - Again, using the 20-minute intervals in an hour:
+     \[
+     60 \text{ minutes} \div 20 \text{ minutes} = 3 \text{ intervals}
+     \]
+   - Therefore, in one hour, Ken can cycle:
+     \[
+     10 \text{ miles} \times 3 = 30 \text{ miles}
+     \]
+
+3. **Calculate the total miles cycled in a week:**
+   - Ken bikes for 1 hour each day. 
+   - For the 3 rainy days, he cycles:
+     \[
+     3 \text{ days} \times 90 \text{ miles/day} = 270 \text{ miles}
+     \]
+   - For the 4 snowy days, he cycles:
+     \[
+     4 \text{ days} \times 30 \text{ miles/day} = 120 \text{ miles}
+     \]
+
+4. **Combine the miles cycled in both conditions:**
+   - Now, we add the miles from the rainy days and the snowy days:
+     \[
+     270 \text{ miles} + 120 \text{ miles} = 390 \text{ miles}
+     \]
+
+Therefore, Ken cycled a total of 390 miles over the week.
+</reasoning>
+<answer>390</answer>

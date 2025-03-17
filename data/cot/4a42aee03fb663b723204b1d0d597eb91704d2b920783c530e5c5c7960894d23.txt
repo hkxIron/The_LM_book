@@ -1,0 +1,26 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Starting Count**: We begin with a total of 250 books in the library.
+
+2. **Books Taken Out on Tuesday**: On Tuesday, 120 books are taken out. To find the new total, we subtract the number of books taken out from the initial total:
+   \[
+   250 - 120 = 130
+   \]
+   Now there are 130 books left in the library.
+
+3. **Books Returned on Wednesday**: On Wednesday, 35 books are returned. To find the new total, we add the number of books returned to the current total:
+   \[
+   130 + 35 = 165
+   \]
+   Now there are 165 books in the library.
+
+4. **Books Withdrawn on Thursday**: On Thursday, another 15 books are withdrawn from the library. We subtract this number from the current total:
+   \[
+   165 - 15 = 150
+   \]
+   After this withdrawal, we have 150 books left in the library.
+
+Therefore, the final number of books in the library is 150.
+</reasoning>
+<answer>150</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+Let's start by determining the total number of pizza slices that Phil and Andre ordered.
+
+1. **Calculate the total slices from both pizzas**: 
+   - The small cheese pizza has 8 slices.
+   - The large pepperoni pizza has 14 slices.
+   
+   To find the total number of slices, we add these two amounts together:
+   \[
+   8 \text{ slices (small)} + 14 \text{ slices (large)} = 22 \text{ slices}
+   \]
+
+2. **Calculate the total slices eaten**:
+   - Phil and Andre have both eaten 9 slices each. 
+   - So together, they have eaten:
+   \[
+   9 \text{ slices (Phil)} + 9 \text{ slices (Andre)} = 18 \text{ slices}
+   \]
+
+3. **Calculate the remaining slices**:
+   - Now we subtract the total slices eaten from the total slices ordered:
+   \[
+   22 \text{ slices (total)} - 18 \text{ slices (eaten)} = 4 \text{ slices (remaining)}
+   \]
+
+4. **Distributing the remaining slices between Phil and Andre**:
+   - Since there are 4 slices remaining and there are 2 people, we divide the remaining slices by the number of people:
+   \[
+   \frac{4 \text{ slices}}{2 \text{ people}} = 2 \text{ slices per person}
+   \]
+
+Thus, each person has 2 slices left.
+</reasoning>
+<answer>2</answer>

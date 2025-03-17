@@ -1,0 +1,25 @@
+<reasoning>
+To find the total number of attendees at the school meeting, we need to add the number of seated students, seated teachers, and the students who are standing.
+
+Step 1: Identify the number of seated students and teachers.
+- There are 300 students seated.
+- There are 30 teachers seated.
+
+Step 2: Calculate the total number of seated individuals.
+- We add the seated students and seated teachers together:
+  \[
+  300 \text{ (students)} + 30 \text{ (teachers)} = 330 \text{ (seated individuals)}
+  \]
+
+Step 3: Identify the number of students who are standing.
+- There are 25 students standing.
+
+Step 4: Calculate the total number of attendees by adding the seated individuals to the standing students.
+- We add the total seated individuals to the standing students:
+  \[
+  330 \text{ (seated individuals)} + 25 \text{ (standing students)} = 355 \text{ (total attendees)}
+  \]
+
+Therefore, after adding the seated and standing attendees together, we find that the total number of people who attended the school meeting is 355.
+</reasoning>
+<answer>355</answer>

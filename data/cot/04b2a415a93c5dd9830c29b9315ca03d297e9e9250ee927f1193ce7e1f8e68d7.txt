@@ -1,0 +1,41 @@
+<reasoning>
+Let's define the number of floors in the Leeward Center as \( L \). According to the problem, the Chrysler Building has 11 more floors than the Leeward Center, so we can express the number of floors in the Chrysler Building as \( L + 11 \).
+
+Now, we know that together, the Chrysler Building and the Leeward Center have a total of 35 floors. We can set up the following equation to represent this situation:
+
+\[
+L + (L + 11) = 35
+\]
+
+Now, let's simplify the equation:
+
+1. Combine like terms:
+   \[
+   2L + 11 = 35
+   \]
+
+2. Next, we want to isolate \( 2L \). To do that, we will subtract 11 from both sides of the equation:
+   \[
+   2L = 35 - 11
+   \]
+   \[
+   2L = 24
+   \]
+
+3. Now we will solve for \( L \) by dividing both sides by 2:
+   \[
+   L = \frac{24}{2}
+   \]
+   \[
+   L = 12
+   \]
+
+Now that we have found \( L \), which is the number of floors in the Leeward Center (12 floors), we can find the number of floors in the Chrysler Building by substituting \( L \) back into our earlier expression \( L + 11 \):
+
+\[
+\text{Floors in Chrysler Building} = L + 11 = 12 + 11 = 23
+\]
+
+Therefore, the Chrysler Building has 23 floors.
+</reasoning>
+<answer>23</answer>

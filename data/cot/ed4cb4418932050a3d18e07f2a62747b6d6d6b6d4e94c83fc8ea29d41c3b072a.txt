@@ -1,0 +1,35 @@
+<reasoning>
+To find the total amount of time Paris studies during the semester, we need to calculate her weekday and weekend study hours separately and then add them together.
+
+1. **Calculate weekday study hours:**
+   - Paris studies 3 hours a day during the weekdays.
+   - There are 5 weekdays in a week (Monday to Friday).
+   - Over 15 weeks, the number of weekdays is:
+     \[
+     5 \text{ weekdays/week} \times 15 \text{ weeks} = 75 \text{ weekdays}
+     \]
+   - Now, multiply the number of weekdays by the hours she studies each day:
+     \[
+     75 \text{ weekdays} \times 3 \text{ hours/weekday} = 225 \text{ hours}
+     \]
+
+2. **Calculate weekend study hours:**
+   - On Saturday, Paris studies for 4 hours, and on Sunday, she studies for 5 hours.
+   - The total study time on the weekend is:
+     \[
+     4 \text{ hours (Saturday)} + 5 \text{ hours (Sunday)} = 9 \text{ hours/weekend}
+     \]
+   - There are 15 weeks in the semester, so the total weekend study hours over the semester is:
+     \[
+     9 \text{ hours/weekend} \times 15 \text{ weeks} = 135 \text{ hours}
+     \]
+
+3. **Add weekday and weekend study hours:**
+   - Now, we combine the total weekday and weekend hours to find the total study time for the semester:
+     \[
+     225 \text{ hours (weekdays)} + 135 \text{ hours (weekends)} = 360 \text{ hours}
+     \]
+
+Thus, the total amount of time Paris studies during the semester is 360 hours.
+</reasoning>
+<answer>360</answer>

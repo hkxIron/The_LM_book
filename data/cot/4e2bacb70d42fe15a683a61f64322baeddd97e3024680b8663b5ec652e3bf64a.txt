@@ -1,0 +1,45 @@
+<reasoning>
+To find the total number of dogs and cats in the community, we will follow these steps:
+
+1. **Determine the number of families that own cats**:
+   - We know there are 50 families in total.
+   - 15 families own 2 dogs each, and 20 families own 1 dog each.
+   - Let's calculate how many families own dogs:
+     \[
+     \text{Families owning dogs} = 15 + 20 = 35 \text{ families}
+     \]
+   - Therefore, the number of families that own cats is:
+     \[
+     \text{Families owning cats} = 50 - 35 = 15 \text{ families}
+     \]
+
+2. **Calculate the total number of dogs**:
+   - The families that own dogs can be broken down further:
+     - 15 families own 2 dogs each:
+       \[
+       \text{Total dogs from these families} = 15 \times 2 = 30 \text{ dogs}
+       \]
+     - 20 families own 1 dog each:
+       \[
+       \text{Total dogs from these families} = 20 \times 1 = 20 \text{ dogs}
+       \]
+   - Now, adding the total number of dogs together:
+     \[
+     \text{Total dogs} = 30 + 20 = 50 \text{ dogs}
+     \]
+
+3. **Calculate the total number of cats**:
+   - Since 15 families own 2 cats each:
+     \[
+     \text{Total cats} = 15 \times 2 = 30 \text{ cats}
+     \]
+
+4. **Calculate the total number of pets (dogs + cats)**:
+   - Adding the total number of dogs and cats together:
+     \[
+     \text{Total pets} = \text{Total dogs} + \text{Total cats} = 50 + 30 = 80
+     \]
+
+Therefore, the total number of dogs and cats in the community is 80.
+</reasoning>
+<answer>80</answer>

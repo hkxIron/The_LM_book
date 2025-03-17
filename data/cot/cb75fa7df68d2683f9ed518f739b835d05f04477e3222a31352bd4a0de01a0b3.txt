@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem, let's denote the number of dogs as \( d \). 
+
+1. According to the problem, the number of cats is 20% less than the number of dogs. This can be expressed mathematically as:
+   \[
+   \text{Number of cats} = d - 0.2d = 0.8d
+   \]
+   This means for every dog, there are 80% of a dog in terms of cats.
+
+2. The problem states that there are twice as many frogs as the number of dogs. Therefore, the number of frogs is:
+   \[
+   \text{Number of frogs} = 2d
+   \]
+
+3. We are given that there are 160 frogs. We can set up the equation:
+   \[
+   2d = 160
+   \]
+
+4. To find the number of dogs, we solve for \( d \):
+   \[
+   d = \frac{160}{2} = 80
+   \]
+   So, there are 80 dogs in the compound.
+
+5. Now, we can find the number of cats using the expression we derived earlier:
+   \[
+   \text{Number of cats} = 0.8d = 0.8 \times 80 = 64
+   \]
+
+6. We already know there are 160 frogs.
+
+7. Now, let's calculate the total number of animals in the compound. We add the number of dogs, cats, and frogs together:
+   \[
+   \text{Total number of animals} = \text{Number of dogs} + \text{Number of cats} + \text{Number of frogs}
+   \]
+   \[
+   \text{Total number of animals} = 80 + 64 + 160 = 304
+   \]
+
+Therefore, the total number of animals present in the compound is:
+</reasoning>
+<answer>304</answer>

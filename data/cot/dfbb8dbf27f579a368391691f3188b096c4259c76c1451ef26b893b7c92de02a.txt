@@ -1,0 +1,34 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the wrapping paper for the first present:**
+   The first present requires 2 square feet of wrapping paper.
+
+2. **Calculate the wrapping paper for the second present:**
+   The second present needs three-quarters of the first present's amount. 
+   To find this, we calculate:
+   \[
+   \text{Amount for the second present} = \frac{3}{4} \times 2 = \frac{6}{4} = 1.5 \text{ square feet}
+   \]
+
+3. **Calculate the wrapping paper for the third present:**
+   The third present needs the same amount of wrapping paper as both the first and second presents put together. 
+   We first find the total of the first and second presents:
+   \[
+   \text{Total for first and second presents} = 2 + 1.5 = 3.5 \text{ square feet}
+   \]
+   Therefore, the third present also requires 3.5 square feet of wrapping paper.
+
+4. **Calculate the total wrapping paper needed for all three presents:**
+   Now, we sum the amounts needed for all three presents:
+   \[
+   \text{Total wrapping paper} = \text{Amount for first present} + \text{Amount for second present} + \text{Amount for third present}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total wrapping paper} = 2 + 1.5 + 3.5 = 7 \text{ square feet}
+   \]
+
+Therefore, Carrie needs a total of 7 square feet of wrapping paper for all three presents.
+</reasoning>
+<answer>7</answer>

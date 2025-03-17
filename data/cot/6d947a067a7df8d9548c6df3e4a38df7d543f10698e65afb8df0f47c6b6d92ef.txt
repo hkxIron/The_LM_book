@@ -1,0 +1,26 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Calculate Adam's total earnings before taxes for 30 days**: 
+   Adam earns $40 per day. To find out how much he earns in 30 days, we multiply his daily earnings by the number of days:
+   \[
+   \text{Total earnings} = \text{Daily earnings} \times \text{Number of days} = 40 \, \text{dollars/day} \times 30 \, \text{days} = 1200 \, \text{dollars}
+   \]
+   This means Adam earns $1200 before any deductions.
+
+2. **Calculate the amount deducted for taxes**:
+   We know that 10% of Adam's earnings will be deducted as taxes. To find out how much this deduction is, we calculate 10% of his total earnings:
+   \[
+   \text{Tax deduction} = 0.10 \times \text{Total earnings} = 0.10 \times 1200 \, \text{dollars} = 120 \, \text{dollars}
+   \]
+   This means Adam will have $120 deducted for taxes.
+
+3. **Calculate Adam's earnings after taxes**: 
+   Finally, we subtract the tax deduction from his total earnings to find out how much money Adam will have after taxes:
+   \[
+   \text{Earnings after taxes} = \text{Total earnings} - \text{Tax deduction} = 1200 \, \text{dollars} - 120 \, \text{dollars} = 1080 \, \text{dollars}
+   \]
+
+Therefore, after all calculations, we find that Adam will have earned $1080 after taxes after 30 days of work.
+</reasoning>
+<answer>1080</answer>

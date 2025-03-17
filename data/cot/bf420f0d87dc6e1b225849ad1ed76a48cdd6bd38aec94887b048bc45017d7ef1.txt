@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Zane paid for the polo shirts, we will follow these steps:
+
+1. **Determine the regular price of one shirt.**  
+   The regular price for one polo shirt is given as $50.
+
+2. **Calculate the total regular price for two shirts.**  
+   Since Zane buys 2 shirts, we multiply the price of one shirt by the number of shirts:  
+   \[ 
+   \text{Total regular price} = 2 \times 50 = 100 
+   \]
+   This means the total regular price for the two shirts is $100.
+
+3. **Calculate the discount amount.**  
+   The shirts are on a 40% off sale, so we need to find 40% of the total regular price:  
+   \[
+   \text{Discount} = 40\% \text{ of } 100 = 0.40 \times 100 = 40 
+   \]
+   Thus, the discount amount is $40.
+
+4. **Calculate the final price after applying the discount.**  
+   We subtract the discount from the total regular price:  
+   \[
+   \text{Final price} = \text{Total regular price} - \text{Discount} = 100 - 40 = 60 
+   \]
+   Therefore, Zane paid $60 for the two polo shirts.
+</reasoning>
+<answer>60</answer>

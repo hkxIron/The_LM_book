@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we will break it down into manageable steps.
+
+1. **Determine the total number of apples one tree can produce**: 
+   - We know that one apple tree can fill 20 baskets.
+   - Each basket can hold 15 apples.
+   - To find out how many apples one tree can produce, we multiply the number of baskets by the number of apples per basket:
+     \[
+     \text{Apples from one tree} = 20 \text{ baskets} \times 15 \text{ apples/basket}
+     \]
+     Performing the multiplication:
+     \[
+     20 \times 15 = 300
+     \]
+   So, one apple tree can produce 300 apples.
+
+2. **Calculate the total number of apples from 10 trees**: 
+   - Now that we know one tree produces 300 apples, we can find out how many apples 10 trees produce by multiplying the number of apples from one tree by the number of trees:
+     \[
+     \text{Total apples from 10 trees} = 300 \text{ apples/tree} \times 10 \text{ trees}
+     \]
+     Performing the multiplication:
+     \[
+     300 \times 10 = 3000
+     \]
+   
+Therefore, the total number of apples from 10 trees is 3000.
+</reasoning>
+<answer>3000</answer>

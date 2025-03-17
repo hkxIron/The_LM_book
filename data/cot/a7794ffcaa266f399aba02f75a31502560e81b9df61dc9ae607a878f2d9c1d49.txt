@@ -1,0 +1,65 @@
+<reasoning>
+Let's denote Kim's height as \( K \) inches. According to the problem, Tamara's height can be expressed in terms of Kim's height as follows:
+
+1. **Write the equation for Tamara's height**:  
+   Tamara's height \( T \) is given by the equation:  
+   \[
+   T = 3K - 4
+   \]  
+   This equation states that Tamara is 3 times Kim's height minus 4 inches.
+
+2. **Write the equation for their combined height**:  
+   We know that Tamara and Kim together have a combined height of 92 inches, so we can write:  
+   \[
+   T + K = 92
+   \]
+
+3. **Substitute Tamara's height into the combined height equation**:  
+   We can substitute the expression for \( T \) from the first equation into the second equation:  
+   \[
+   (3K - 4) + K = 92
+   \]
+
+4. **Combine like terms**:  
+   Now, we simplify the left side of the equation:  
+   \[
+   3K - 4 + K = 92
+   \]  
+   This simplifies to:  
+   \[
+   4K - 4 = 92
+   \]
+
+5. **Add 4 to both sides**:  
+   To isolate the term with \( K \), we add 4 to both sides:  
+   \[
+   4K - 4 + 4 = 92 + 4
+   \]  
+   This simplifies to:  
+   \[
+   4K = 96
+   \]
+
+6. **Divide by 4**:  
+   Next, we divide both sides by 4 to solve for \( K \):  
+   \[
+   K = \frac{96}{4}
+   \]  
+   This gives us:  
+   \[
+   K = 24
+   \]
+
+7. **Find Tamara's height**:  
+   Now that we have Kim's height, we can find Tamara's height using the equation for \( T \):  
+   \[
+   T = 3K - 4
+   \]  
+   Substituting \( K = 24 \):  
+   \[
+   T = 3(24) - 4 = 72 - 4 = 68
+   \]
+
+Therefore, Tamara's height is 68 inches.
+</reasoning>
+<answer>68</answer>

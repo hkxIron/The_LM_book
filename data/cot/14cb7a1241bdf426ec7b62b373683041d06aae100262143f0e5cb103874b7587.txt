@@ -1,0 +1,45 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the Information Given:**
+   - Taegan plays 5 carnival games.
+   - She wins an equal number of tickets from each game.
+   - She also finds 5 additional tickets.
+   - Each ticket is worth $3.
+   - The total value of all her tickets is $30.
+
+2. **Setting Up the Equation:**
+   - Let \( x \) be the number of tickets Taegan wins from each game.
+   - Since there are 5 games, the total number of tickets won from the games is \( 5x \).
+   - Adding the 5 tickets she found, the total number of tickets she has is \( 5x + 5 \).
+   - Since each ticket is worth $3, the total value of the tickets can be expressed as:
+     \[
+     \text{Total value} = (\text{Total tickets}) \times (\text{Value per ticket}) = (5x + 5) \times 3
+     \]
+
+3. **Setting Up the Equation for Total Value:**
+   - We know the total value is $30, so we can set up the equation:
+     \[
+     (5x + 5) \times 3 = 30
+     \]
+
+4. **Solving the Equation:**
+   - First, divide both sides of the equation by 3 to simplify:
+     \[
+     5x + 5 = 10
+     \]
+   - Next, subtract 5 from both sides:
+     \[
+     5x = 5
+     \]
+   - Now, divide both sides by 5:
+     \[
+     x = 1
+     \]
+
+5. **Conclusion:**
+   - Taegan won 1 ticket from each game.
+
+Therefore, the number of tickets she won from each game is:
+</reasoning>
+<answer>1</answer>

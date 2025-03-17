@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem, we will first calculate Arman's earnings for last week and then calculate his potential earnings for this week. Finally, we will sum the two amounts to find out his total earnings for both weeks.
+
+1. **Calculate last week's earnings:**
+   - Arman worked for 35 hours at a rate of $10 per hour.
+   - To find his earnings for last week, we multiply the number of hours worked by his hourly rate:
+     \[
+     \text{Earnings last week} = \text{Hours worked} \times \text{Hourly rate} = 35 \text{ hours} \times 10 \text{ dollars/hour}
+     \]
+   - Performing the multiplication:
+     \[
+     35 \times 10 = 350
+     \]
+   - So, Arman earned $350 last week.
+
+2. **Calculate this week's earnings:**
+   - This week, Arman will work for 40 hours at a new rate of $10 + $0.5 = $10.5 per hour.
+   - To find his earnings for this week, we multiply the number of hours he will work by his new hourly rate:
+     \[
+     \text{Earnings this week} = \text{Hours worked} \times \text{New hourly rate} = 40 \text{ hours} \times 10.5 \text{ dollars/hour}
+     \]
+   - Performing the multiplication:
+     \[
+     40 \times 10.5 = 420
+     \]
+   - So, Arman will earn $420 this week.
+
+3. **Calculate total earnings for two weeks:**
+   - To find the total earnings for both weeks, we add the earnings from last week and this week:
+     \[
+     \text{Total earnings} = \text{Earnings last week} + \text{Earnings this week} = 350 + 420
+     \]
+   - Performing the addition:
+     \[
+     350 + 420 = 770
+     \]
+   - Therefore, Arman's total earnings for the two weeks will be $770.
+</reasoning>
+<answer>770</answer>

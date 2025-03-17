@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we need to determine how much Lee charged for each action figure he sold. We'll break it down step by step.
+
+1. **Determine how much money Lee needs to save from selling action figures:**
+   The total cost of the sneakers is $90. Lee already has $15 saved. Therefore, the amount he still needs is calculated as follows:
+   \[
+   \text{Amount needed} = \text{Cost of sneakers} - \text{Amount saved} = 90 - 15 = 75
+   \]
+
+2. **Account for the money Lee wants to have left after buying the sneakers:**
+   Lee wants to have $25 left after buying the sneakers. So, we will add this amount to the amount he needs for the sneakers to find out how much he needs from selling the action figures.
+   \[
+   \text{Total needed from selling action figures} = \text{Amount needed for sneakers} + \text{Amount he wants left} = 75 + 25 = 100
+   \]
+
+3. **Calculate how much Lee earns from selling the action figures:**
+   Lee plans to sell 10 action figures, and we need to find out how much he must charge to make a total of $100 from these sales. Let \( x \) be the price he charges per action figure. Thus, the equation is:
+   \[
+   \text{Total earnings} = \text{Number of action figures} \times \text{Price per action figure}
+   \]
+   Substituting the known values:
+   \[
+   10x = 100
+   \]
+
+4. **Solve for \( x \):**
+   To find the price per action figure, we divide both sides of the equation by 10:
+   \[
+   x = \frac{100}{10} = 10
+   \]
+
+Thus, Lee charges $10 per action figure.
+</reasoning>
+<answer>10</answer>

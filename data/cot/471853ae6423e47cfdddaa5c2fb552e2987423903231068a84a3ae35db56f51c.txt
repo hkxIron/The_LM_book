@@ -1,0 +1,39 @@
+<reasoning>
+Let's start by determining how many cookies each family member ate. 
+
+1. **Calculate the number of cookies eaten by her father**:
+   - We know that her father ate 10 cookies. So, we can write:
+     \[
+     \text{Father's cookies} = 10
+     \]
+
+2. **Calculate the number of cookies eaten by her mother**:
+   - Her mother ate half as much as her father. Since her father ate 10 cookies, her mother's consumption would be:
+     \[
+     \text{Mother's cookies} = \frac{10}{2} = 5
+     \]
+
+3. **Calculate the number of cookies eaten by her brother**:
+   - Her brother ate 2 more cookies than her mother. Since her mother ate 5 cookies, her brother's consumption would be:
+     \[
+     \text{Brother's cookies} = 5 + 2 = 7
+     \]
+
+4. **Total cookies eaten by the family**:
+   - Now, we add up the cookies eaten by all family members:
+     \[
+     \text{Total eaten} = \text{Father's cookies} + \text{Mother's cookies} + \text{Brother's cookies}
+     \]
+     \[
+     \text{Total eaten} = 10 + 5 + 7 = 22
+     \]
+
+5. **Calculate how many cookies are left for Monica**:
+   - Monica initially made 30 cookies. To find out how many are left, we subtract the total eaten from the total made:
+     \[
+     \text{Cookies left for Monica} = 30 - 22 = 8
+     \]
+
+Therefore, after considering how many cookies each family member ate and how many Monica originally made, we find that there are 8 cookies left for her.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,22 @@
+<reasoning>
+To find the total number of birds Janet counts, we need to follow these steps:
+
+1. **Identify the number of crows**: We know that there are 30 crows on the powerlines. 
+
+2. **Calculate the number of hawks**: Janet counts 60% more hawks than crows. To find out how many hawks that is, we first need to calculate 60% of the number of crows. 
+   - 60% of 30 is calculated as follows:
+     \[
+     60\% \text{ of } 30 = \frac{60}{100} \times 30 = 0.6 \times 30 = 18
+     \]
+
+3. **Add the number of crows and hawks**: Since there are 30 crows and 18 additional hawks (which makes the total number of hawks 30 + 18 = 48), we can calculate the total number of birds.
+   - Total number of birds = Number of crows + Number of hawks = 30 + 48
+
+4. **Perform the final addition**:
+   \[
+   30 + 48 = 78
+   \]
+
+So, the total number of birds Janet counts is 78.
+</reasoning>
+<answer>78</answer>

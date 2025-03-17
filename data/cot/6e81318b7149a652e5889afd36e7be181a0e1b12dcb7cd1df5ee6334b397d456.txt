@@ -1,0 +1,28 @@
+<reasoning>
+To find out how long it would take Grace to read a 250-page book at her constant reading rate, we first need to determine her reading speed in pages per hour.
+
+1. **Calculate Grace's reading speed**: 
+   - Grace reads a 200-page book in 20 hours. 
+   - To find her reading speed, we divide the total number of pages by the total number of hours: 
+   \[
+   \text{Reading speed} = \frac{200 \text{ pages}}{20 \text{ hours}} = 10 \text{ pages per hour}
+   \]
+
+   This step is important because knowing her reading speed allows us to estimate how long it will take her to read a different book.
+
+2. **Determine the time to read a 250-page book**:
+   - Now that we know she reads at a speed of 10 pages per hour, we can calculate how many hours it will take her to read a 250-page book.
+   - We use the formula: 
+   \[
+   \text{Time} = \frac{\text{Total pages}}{\text{Reading speed}} 
+   \]
+   - Plugging in the numbers:
+   \[
+   \text{Time} = \frac{250 \text{ pages}}{10 \text{ pages per hour}} = 25 \text{ hours}
+   \]
+
+   In this step, we are simply applying the reading speed we calculated to find out how long it will take her to finish the longer book.
+
+Therefore, the time it would take Grace to finish reading a 250-page book is 25 hours.
+</reasoning>
+<answer>25</answer>

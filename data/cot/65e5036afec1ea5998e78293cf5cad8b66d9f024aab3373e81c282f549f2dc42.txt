@@ -1,0 +1,53 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of skeletons**: We know there are a total of 20 skeletons in the graveyard.
+
+2. **Determine the number of adult women**: According to the problem, half of these skeletons are adult women. So we calculate:
+   \[
+   \text{Number of adult women} = \frac{20}{2} = 10
+   \]
+
+3. **Determine the remaining skeletons**: The remaining skeletons consist of adult men and children. Since there are 20 skeletons in total and 10 are adult women, the number of remaining skeletons is:
+   \[
+   \text{Remaining skeletons} = 20 - 10 = 10
+   \]
+
+4. **Split the remaining skeletons evenly between adult men and children**: We are told that the remaining skeletons are split evenly between adult men and children. Thus:
+   \[
+   \text{Number of adult men} = \text{Number of children} = \frac{10}{2} = 5
+   \]
+
+5. **Calculate the number of bones for each type of skeleton**:
+   - An adult woman has 20 bones.
+   - An adult man has 5 more bones than an adult woman, so:
+     \[
+     \text{Bones in an adult man} = 20 + 5 = 25
+     \]
+   - A child has half as many bones as an adult woman:
+     \[
+     \text{Bones in a child} = \frac{20}{2} = 10
+     \]
+
+6. **Calculate the total number of bones**:
+   - Total bones from adult women:
+     \[
+     \text{Total bones from women} = 10 \times 20 = 200
+     \]
+   - Total bones from adult men:
+     \[
+     \text{Total bones from men} = 5 \times 25 = 125
+     \]
+   - Total bones from children:
+     \[
+     \text{Total bones from children} = 5 \times 10 = 50
+     \]
+
+7. **Sum all the bones together**:
+   \[
+   \text{Total bones in the graveyard} = 200 + 125 + 50 = 375
+   \]
+
+Therefore, the total number of bones in the graveyard is:
+</reasoning>
+<answer>375</answer>

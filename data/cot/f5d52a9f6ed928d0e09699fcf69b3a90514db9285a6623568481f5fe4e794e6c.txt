@@ -1,0 +1,20 @@
+<reasoning>
+First, let's determine the total number of slices in the pizzas that Mary orders. 
+
+1. **Calculate the total number of slices in 2 large pizzas**: 
+   Each large pizza has 8 slices. Therefore, if Mary orders 2 large pizzas, we multiply the number of pizzas by the number of slices per pizza:
+   \[
+   2 \text{ pizzas} \times 8 \text{ slices/pizza} = 16 \text{ slices}
+   \]
+   This means there are 16 slices in total from the 2 pizzas.
+
+2. **Calculate the number of slices remaining after Mary eats 7 slices**: 
+   We start with the total number of slices (16) and subtract the number of slices Mary eats (7):
+   \[
+   16 \text{ slices} - 7 \text{ slices} = 9 \text{ slices}
+   \]
+   This calculation shows how many slices are left after Mary has eaten.
+
+Therefore, after following these steps, we find that there are 9 slices remaining.
+</reasoning>
+<answer>9</answer>

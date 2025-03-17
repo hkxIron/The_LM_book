@@ -1,0 +1,19 @@
+<reasoning>
+First, we need to determine the total number of doughnuts eaten by the staff. 
+
+1. We know that there are 19 staff members and each staff member ate 2 doughnuts. 
+2. To find the total number of doughnuts eaten, we multiply the number of staff by the number of doughnuts each ate:
+   \[
+   \text{Total doughnuts eaten} = 19 \text{ staff} \times 2 \text{ doughnuts/staff} = 38 \text{ doughnuts}
+   \]
+
+Now, we need to find out how many doughnuts are left after the staff has eaten.
+
+3. We started with 50 doughnuts and we need to subtract the total number of doughnuts eaten:
+   \[
+   \text{Doughnuts left} = 50 \text{ doughnuts} - 38 \text{ doughnuts eaten} = 12 \text{ doughnuts}
+   \]
+
+Therefore, after the staff has eaten, there are 12 doughnuts remaining.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many points James scored during the season and how many points he beat the old record by, we will calculate his total points step by step.
+
+1. **Calculate the points from touchdowns:**
+   - James scores 4 touchdowns per game.
+   - Each touchdown is worth 6 points.
+   - First, we need to find out how many touchdowns he scored in total during the season. 
+   - Total touchdowns = touchdowns per game × number of games = 4 touchdowns/game × 15 games = 60 touchdowns.
+
+   Now, we calculate the total points from touchdowns:
+   - Points from touchdowns = total touchdowns × points per touchdown = 60 touchdowns × 6 points/touchdown = 360 points.
+
+2. **Calculate the points from 2-point conversions:**
+   - James scores 2-point conversions 6 times during the season.
+   - Points from conversions = number of conversions × points per conversion = 6 conversions × 2 points/conversion = 12 points.
+
+3. **Calculate the total points scored by James:**
+   - Total points = points from touchdowns + points from conversions = 360 points + 12 points = 372 points.
+
+4. **Compare James's total points with the old record:**
+   - The old record was 300 points.
+   - To find out how many points James beat the old record by, we subtract the old record from James's total points: 
+   - Points beaten = total points - old record = 372 points - 300 points = 72 points.
+
+Therefore, James beat the old record by 72 points.
+</reasoning>
+<answer>72</answer>

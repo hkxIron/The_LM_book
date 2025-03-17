@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Monday's Workout:**
+   Oliver worked out for 4 hours on Monday.
+   - Hours on Monday = 4 hours
+
+2. **Tuesday's Workout:**
+   On Tuesday, he worked out for 2 hours less than he did on Monday.
+   - So, on Tuesday he worked out: 
+   \[
+   4 \text{ hours} - 2 \text{ hours} = 2 \text{ hours}
+   \]
+   - Hours on Tuesday = 2 hours
+
+3. **Wednesday's Workout:**
+   On Wednesday, he decided to work out twice as much as on Monday.
+   - Therefore, on Wednesday he worked out:
+   \[
+   2 \times 4 \text{ hours} = 8 \text{ hours}
+   \]
+   - Hours on Wednesday = 8 hours
+
+4. **Thursday's Workout:**
+   The gym was closed on Thursday, so he exercised at home, which took twice as much time as on Tuesday.
+   - Therefore, on Thursday he worked out:
+   \[
+   2 \times 2 \text{ hours} = 4 \text{ hours}
+   \]
+   - Hours on Thursday = 4 hours
+
+5. **Total Workout Hours:**
+   Now, we need to sum the hours worked out over these four days:
+   \[
+   4 \text{ hours (Monday)} + 2 \text{ hours (Tuesday)} + 8 \text{ hours (Wednesday)} + 4 \text{ hours (Thursday)}
+   \]
+   - Calculating the total:
+   \[
+   4 + 2 + 8 + 4 = 18 \text{ hours}
+   \]
+
+Therefore, Oliver has worked out a total of 18 hours during these four days.
+</reasoning>
+<answer>18</answer>

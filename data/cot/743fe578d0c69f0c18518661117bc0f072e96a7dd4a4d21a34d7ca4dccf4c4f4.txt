@@ -1,0 +1,35 @@
+<reasoning>
+To find how many more shooting stars Sam counted than the average number of shooting stars observed by Bridget, Reginald, and Sam, we'll follow these steps:
+
+1. **Count the shooting stars counted by each person**:
+   - Bridget counted 14 shooting stars.
+   - Reginald counted two fewer than Bridget, so we calculate:
+     \[
+     \text{Reginald's count} = 14 - 2 = 12
+     \]
+   - Sam counted four more than Reginald, so we calculate:
+     \[
+     \text{Sam's count} = 12 + 4 = 16
+     \]
+
+2. **Calculate the total count of shooting stars**:
+   - Now we add the counts of all three people:
+     \[
+     \text{Total count} = 14 + 12 + 16 = 42
+     \]
+
+3. **Calculate the average number of shooting stars**:
+   - The average is calculated by dividing the total count by the number of people:
+     \[
+     \text{Average} = \frac{\text{Total count}}{\text{Number of people}} = \frac{42}{3} = 14
+     \]
+
+4. **Find how many more shooting stars Sam counted than the average**:
+   - We now calculate the difference between Sam's count and the average:
+     \[
+     \text{Difference} = \text{Sam's count} - \text{Average} = 16 - 14 = 2
+     \]
+
+Therefore, Sam counted 2 more shooting stars than the average number observed by the three of them.
+</reasoning>
+<answer>2</answer>

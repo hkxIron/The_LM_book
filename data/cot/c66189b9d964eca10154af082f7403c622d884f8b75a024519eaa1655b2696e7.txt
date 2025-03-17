@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of baseball cards Punger has.**
+   - He buys 60 packs of baseball cards, and each pack contains 7 cards.
+   - To find the total number of cards, we multiply the number of packs by the number of cards per pack:
+     \[
+     \text{Total cards} = 60 \text{ packs} \times 7 \text{ cards/pack} = 420 \text{ cards}
+     \]
+
+2. **Determine how many pages are needed to hold all the cards.**
+   - Each page can hold 10 cards. To find out how many pages are needed for 420 cards, we divide the total number of cards by the capacity of each page:
+     \[
+     \text{Number of pages needed} = \frac{420 \text{ cards}}{10 \text{ cards/page}} = 42 \text{ pages}
+     \]
+
+3. **Check if we need a whole number of pages.**
+   - Since 420 is exactly divisible by 10, we do not need to round up; 42 pages will perfectly accommodate all the cards.
+
+Therefore, Punger needs to buy 42 pages for his baseball cards.
+</reasoning>
+<answer>42</answer>

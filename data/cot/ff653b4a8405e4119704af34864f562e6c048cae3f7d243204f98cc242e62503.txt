@@ -1,0 +1,57 @@
+<reasoning>
+Let's break the problem down step by step.
+
+1. **Determine Kris's balloon blowing rate:**
+   Kris can blow up 2 balloons per minute. 
+
+2. **Determine her brother's initial balloon blowing rate:**
+   Since her brother works twice as fast as Kris, he blows up 2 * 2 = 4 balloons per minute.
+
+3. **Calculate the number of balloons blown in the first 15 minutes:**
+   - For the first 15 minutes, both Kris and her brother are working at their initial speeds.
+   - In these 15 minutes, Kris blows up:
+     \[
+     2 \text{ balloons/min} \times 15 \text{ min} = 30 \text{ balloons}
+     \]
+   - In the same time, her brother blows up:
+     \[
+     4 \text{ balloons/min} \times 15 \text{ min} = 60 \text{ balloons}
+     \]
+
+4. **Calculate the total balloons blown in the first 15 minutes:**
+   Adding both amounts gives:
+   \[
+   30 \text{ balloons (Kris)} + 60 \text{ balloons (brother)} = 90 \text{ balloons}
+   \]
+
+5. **Determine her brother's new speed after 15 minutes:**
+   After 15 minutes, her brother doubles his speed. His new speed becomes:
+   \[
+   4 \text{ balloons/min} \times 2 = 8 \text{ balloons/min}
+   \]
+
+6. **Calculate the number of balloons blown in the next 15 minutes:**
+   - Kris continues at her rate of 2 balloons/min for the next 15 minutes, blowing up:
+     \[
+     2 \text{ balloons/min} \times 15 \text{ min} = 30 \text{ balloons}
+     \]
+   - Her brother, now working at 8 balloons/min, blows up:
+     \[
+     8 \text{ balloons/min} \times 15 \text{ min} = 120 \text{ balloons}
+     \]
+
+7. **Calculate the total balloons blown in the last 15 minutes:**
+   Adding both amounts gives:
+   \[
+   30 \text{ balloons (Kris)} + 120 \text{ balloons (brother)} = 150 \text{ balloons}
+   \]
+
+8. **Calculate the total number of balloons blown over the 30 minutes:**
+   Now, combine the totals from both segments:
+   \[
+   90 \text{ balloons (first 15 min)} + 150 \text{ balloons (last 15 min)} = 240 \text{ balloons}
+   \]
+
+Therefore, after all calculations, the total number of balloons blown up by Kris and her brother in 30 minutes is:
+</reasoning>
+<answer>240</answer>

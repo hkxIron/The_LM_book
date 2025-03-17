@@ -1,0 +1,56 @@
+<reasoning>
+To solve the problem, we start by defining the variables for the two types of mushrooms:
+
+- Let \( S \) represent the number of spotted mushrooms.
+- Let \( G \) represent the number of gilled mushrooms.
+
+According to the problem, we know that:
+1. The total number of mushrooms is 30. Therefore, we can write the equation:
+   \[
+   S + G = 30
+   \]
+   
+2. The problem states that for every 9 spotted mushrooms, there is 1 gilled mushroom. This gives us the ratio of spotted to gilled mushrooms:
+   \[
+   G = \frac{S}{9}
+   \]
+
+Now, we can substitute the expression for \( G \) from the second equation into the first equation. This allows us to solve for \( S \):
+\[
+S + \frac{S}{9} = 30
+\]
+
+Next, we need to combine the terms on the left side. To do this, we can express \( S \) as a fraction:
+\[
+S + \frac{S}{9} = \frac{9S}{9} + \frac{S}{9} = \frac{10S}{9}
+\]
+
+This gives us the equation:
+\[
+\frac{10S}{9} = 30
+\]
+
+To eliminate the fraction, we can multiply both sides of the equation by 9:
+\[
+10S = 30 \times 9
+\]
+Calculating the right side:
+\[
+10S = 270
+\]
+
+Next, we divide both sides by 10 to solve for \( S \):
+\[
+S = \frac{270}{10} = 27
+\]
+
+Now that we have \( S \), we can find \( G \) using the equation \( G = \frac{S}{9} \):
+\[
+G = \frac{27}{9} = 3
+\]
+
+So, the number of gilled mushrooms \( G \) is 3.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>3</answer>

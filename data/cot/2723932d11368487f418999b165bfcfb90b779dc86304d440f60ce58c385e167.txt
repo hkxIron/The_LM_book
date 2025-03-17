@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many chickens Ray took**: 
+   We are told that Ray took 10 chickens. This information is given directly in the problem.
+
+2. **Find out how many chickens Mary took**: 
+   According to the problem, Ray took 6 chickens less than Mary. This can be expressed with the equation:
+   \[
+   \text{Mary's chickens} = \text{Ray's chickens} + 6
+   \]
+   Since Ray took 10 chickens:
+   \[
+   \text{Mary's chickens} = 10 + 6 = 16
+   \]
+
+3. **Determine how many chickens John took**: 
+   The problem states that John took 5 more chickens than Mary. This can be expressed with the equation:
+   \[
+   \text{John's chickens} = \text{Mary's chickens} + 5
+   \]
+   Substituting in the number of chickens Mary took:
+   \[
+   \text{John's chickens} = 16 + 5 = 21
+   \]
+
+4. **Calculate how many more chickens John took than Ray**: 
+   We need to find the difference between the number of chickens John took and the number of chickens Ray took. This can be calculated as:
+   \[
+   \text{Difference} = \text{John's chickens} - \text{Ray's chickens}
+   \]
+   Substituting in the values we found:
+   \[
+   \text{Difference} = 21 - 10 = 11
+   \]
+
+Thus, John took 11 more chickens than Ray.
+</reasoning>
+<answer>11</answer>

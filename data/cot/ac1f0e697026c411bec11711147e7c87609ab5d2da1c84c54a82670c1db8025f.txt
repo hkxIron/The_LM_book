@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much Billy will have to pay in tips, we will break down the problem step by step.
+
+1. **Calculate the total cost of the meals**: 
+   - Each steak costs $20, and there are two steaks, so the total for the steaks is:
+     \[
+     2 \times 20 = 40
+     \]
+   - Each drink costs $5, and there are two drinks, so the total for the drinks is:
+     \[
+     2 \times 5 = 10
+     \]
+   - Now, we add the total costs of the steaks and drinks:
+     \[
+     40 + 10 = 50
+     \]
+
+2. **Calculate the 20% tip on the total cost**:
+   - We find 20% of the total cost ($50) by multiplying $50 by 0.20:
+     \[
+     50 \times 0.20 = 10
+     \]
+   - So, the 20% tip for the total meal cost is $10.
+
+3. **Calculate 80% of the 20% tip**:
+   - Now, we need to find 80% of the $10 tip. We multiply $10 by 0.80:
+     \[
+     10 \times 0.80 = 8
+     \]
+   - Therefore, Billy wants to cover $8 in tips.
+
+Putting it all together, we find that Billy will have to pay $8 in tips.
+</reasoning>
+<answer>8</answer>

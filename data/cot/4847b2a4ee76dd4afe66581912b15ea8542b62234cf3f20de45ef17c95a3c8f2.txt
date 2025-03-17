@@ -1,0 +1,33 @@
+<reasoning>
+To determine how much each friend paid for renting the cottage, we will follow these steps:
+
+1. **Calculate the total cost of renting the cottage**: 
+   The cottage costs $5 per hour, and they rented it for 8 hours. 
+   To find the total cost, we multiply the hourly rate by the number of hours rented:
+   \[
+   \text{Total Cost} = \text{Cost per hour} \times \text{Number of hours} = 5 \times 8
+   \]
+
+2. **Perform the multiplication**: 
+   Now, we calculate the total cost:
+   \[
+   5 \times 8 = 40
+   \]
+   So, the total cost of renting the cottage for 8 hours is $40.
+
+3. **Divide the total cost by the number of friends**: 
+   Since Jack and Jill shared the cost equally, we will divide the total cost by 2:
+   \[
+   \text{Cost per person} = \frac{\text{Total Cost}}{2} = \frac{40}{2}
+   \]
+
+4. **Perform the division**: 
+   Now we calculate how much each person pays:
+   \[
+   \frac{40}{2} = 20
+   \]
+   Therefore, each friend pays $20.
+
+Thus, the final answer is that Jack and Jill each paid $20 for renting the cottage.
+</reasoning>
+<answer>20</answer>

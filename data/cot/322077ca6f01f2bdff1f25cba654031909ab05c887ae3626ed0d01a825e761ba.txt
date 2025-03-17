@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of crackers in one box**:
+   A box has 4 sleeves, and each sleeve contains 28 crackers. Therefore, the total number of crackers in one box can be calculated as follows:
+   \[
+   \text{Total crackers in one box} = \text{Number of sleeves} \times \text{Crackers per sleeve} = 4 \times 28
+   \]
+   Calculating this gives:
+   \[
+   4 \times 28 = 112 \text{ crackers}
+   \]
+
+2. **Calculate the total number of crackers in 5 boxes**:
+   Since Chad has 5 boxes, we multiply the number of crackers in one box by 5:
+   \[
+   \text{Total crackers in 5 boxes} = 5 \times 112
+   \]
+   Calculating this gives:
+   \[
+   5 \times 112 = 560 \text{ crackers}
+   \]
+
+3. **Determine how many crackers Chad uses each night**:
+   Chad sandwiches 2 crackers with a scoop of peanut butter, and he has 5 of these sandwiches each night. Therefore, the total number of crackers he consumes per night is:
+   \[
+   \text{Crackers used per night} = \text{Sandwiches per night} \times \text{Crackers per sandwich} = 5 \times 2
+   \]
+   Calculating this gives:
+   \[
+   5 \times 2 = 10 \text{ crackers}
+   \]
+
+4. **Calculate how many nights the total number of crackers will last**:
+   To find out how many nights the total number of crackers will last, we divide the total number of crackers by the number of crackers Chad uses per night:
+   \[
+   \text{Total nights} = \frac{\text{Total crackers}}{\text{Crackers used per night}} = \frac{560}{10}
+   \]
+   Calculating this gives:
+   \[
+   \frac{560}{10} = 56 \text{ nights}
+   \]
+
+Therefore, the total number of nights that 5 boxes of crackers will last Chad is:
+</reasoning>
+<answer>56</answer>

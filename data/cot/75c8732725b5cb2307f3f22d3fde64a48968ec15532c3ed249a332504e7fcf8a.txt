@@ -1,0 +1,41 @@
+<reasoning>
+First, we need to determine how much money Alfonso still needs to save in order to buy the mountain bike helmet. The helmet costs $340, and he already has $40. 
+
+1. Calculate the remaining amount needed:
+   \[
+   \text{Remaining amount} = \text{Cost of helmet} - \text{Amount saved}
+   \]
+   \[
+   \text{Remaining amount} = 340 - 40 = 300
+   \]
+   So, Alfonso needs to save an additional $300.
+
+Next, we calculate how much Alfonso earns each week by walking his aunt's dog.
+
+2. Calculate his weekly earnings:
+   \[
+   \text{Earnings per day} = 6
+   \]
+   \[
+   \text{Days worked per week} = 5
+   \]
+   \[
+   \text{Weekly earnings} = \text{Earnings per day} \times \text{Days worked per week}
+   \]
+   \[
+   \text{Weekly earnings} = 6 \times 5 = 30
+   \]
+   Therefore, Alfonso earns $30 each week.
+
+Now, we need to determine how many weeks it will take for Alfonso to save the remaining $300.
+
+3. Calculate the number of weeks needed:
+   \[
+   \text{Weeks needed} = \frac{\text{Remaining amount}}{\text{Weekly earnings}}
+   \]
+   \[
+   \text{Weeks needed} = \frac{300}{30} = 10
+   \]
+   Therefore, Alfonso needs to work for 10 weeks to save up the additional amount needed for the helmet.
+</reasoning>
+<answer>10</answer>

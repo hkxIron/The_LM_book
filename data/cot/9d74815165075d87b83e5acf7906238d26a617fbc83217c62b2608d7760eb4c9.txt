@@ -1,0 +1,21 @@
+<reasoning>
+To solve this problem, we first calculate how much money James spends on food, accommodation, and entertainment. 
+
+1. Food: James spends 30% of his money on food. To find out how much this is, we multiply his total budget for the semester, $1000, by 30%, or 0.30. 
+   Calculation: $1000 * 0.30 = $300. 
+
+2. Accommodation: James spends 15% of his money on accommodation. To find out how much this is, we multiply his total budget for the semester, $1000, by 15%, or 0.15.
+   Calculation: $1000 * 0.15 = $150.
+
+3. Entertainment: James spends 25% of his money on entertainment. To find out how much this is, we multiply his total budget for the semester, $1000, by 25%, or 0.25.
+   Calculation: $1000 * 0.25 = $250.
+
+Now, we'll add up all these expenses to find out how much James has spent so far.
+   Calculation: $300 (food) + $150 (accommodation) + $250 (entertainment) = $700.
+
+Lastly, to find out how much James spends on coursework materials, we subtract the total amount he has spent so far from his total budget for the semester. 
+   Calculation: $1000 (total budget) - $700 (total expenses so far) = $300.
+
+Therefore, James spends $300 on coursework materials per semester.
+</reasoning>
+<answer>300</answer>

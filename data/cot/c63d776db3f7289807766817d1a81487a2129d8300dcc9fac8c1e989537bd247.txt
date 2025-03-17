@@ -1,0 +1,58 @@
+<reasoning>
+To find out how many chickens Lao sold to make a profit of $65, we need to set up equations based on the information given.
+
+1. **Calculate the cost of feed per chicken**: 
+   Each chicken requires 2 pounds of feed, and each bag of feed weighs 20 pounds and costs $2. 
+   First, we need to find out how many bags of feed are needed for one chicken:
+   \[
+   \text{Feed needed for one chicken} = 2 \text{ pounds}
+   \]
+   Since one bag of feed weighs 20 pounds, the number of chickens that can be fed with one bag is:
+   \[
+   \text{Chickens per bag} = \frac{20 \text{ pounds}}{2 \text{ pounds/chicken}} = 10 \text{ chickens}
+   \]
+   Therefore, the cost of feed for one chicken is:
+   \[
+   \text{Cost of feed per chicken} = \frac{2 \text{ dollars}}{10} = 0.20 \text{ dollars}
+   \]
+
+2. **Calculate revenue and costs**:
+   If Lao sells each chicken for $1.50, the revenue from selling \( n \) chickens is:
+   \[
+   \text{Revenue} = 1.50n
+   \]
+   The total cost of feed for \( n \) chickens is:
+   \[
+   \text{Cost of feed} = 0.20n
+   \]
+
+3. **Set up the profit equation**:
+   Profit is defined as revenue minus costs. Therefore, the profit equation can be set up as:
+   \[
+   \text{Profit} = \text{Revenue} - \text{Cost}
+   \]
+   Plugging in the revenue and cost we calculated:
+   \[
+   65 = 1.50n - 0.20n
+   \]
+   Simplifying the right side:
+   \[
+   65 = (1.50 - 0.20)n
+   \]
+   \[
+   65 = 1.30n
+   \]
+
+4. **Solve for \( n \)**:
+   Now, we need to isolate \( n \) by dividing both sides by 1.30:
+   \[
+   n = \frac{65}{1.30}
+   \]
+   Calculating this gives:
+   \[
+   n = 50
+   \]
+
+Therefore, Lao sold 50 chickens.
+</reasoning>
+<answer>50</answer>

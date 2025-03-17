@@ -1,0 +1,35 @@
+<reasoning>
+To find out how many pieces of fruit Gabby picked that summer, we can follow these steps:
+
+1. **Determine the number of watermelons.** Gabby got one watermelon to grow. 
+   - So, the number of watermelons = 1.
+
+2. **Calculate the number of peaches.** Gabby got twelve more peaches than the number of watermelons. 
+   - Since she got 1 watermelon, the number of peaches is:
+   \[
+   \text{Number of peaches} = 1 + 12 = 13.
+   \]
+
+3. **Calculate the number of plums.** Gabby got three times the number of peaches in plums. 
+   - Since she got 13 peaches, the number of plums is:
+   \[
+   \text{Number of plums} = 3 \times 13 = 39.
+   \]
+
+4. **Add all the fruits together.** Now we can find the total number of pieces of fruit Gabby picked by adding the number of watermelons, peaches, and plums together:
+   \[
+   \text{Total fruit} = \text{Number of watermelons} + \text{Number of peaches} + \text{Number of plums} = 1 + 13 + 39.
+   \]
+
+5. **Perform the addition.** 
+   - Adding these values together:
+   \[
+   1 + 13 = 14,
+   \]
+   \[
+   14 + 39 = 53.
+   \]
+
+Therefore, the total number of pieces of fruit Gabby got to pick that summer is 53.
+</reasoning>
+<answer>53</answer>

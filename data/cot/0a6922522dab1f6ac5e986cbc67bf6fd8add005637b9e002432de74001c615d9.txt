@@ -1,0 +1,29 @@
+<reasoning>
+To find out how many cookies Neil has left after giving some to his friend, we will follow these steps:
+
+1. **Determine how many cookies Neil gave to his friend**: 
+   - Neil baked a total of 20 cookies. He gave away 2/5 of these cookies.
+   - To find out how many cookies that is, we multiply the total number of cookies by the fraction given away: 
+     \[
+     \text{Cookies given away} = \frac{2}{5} \times 20
+     \]
+   - Now, we calculate this:
+     \[
+     \frac{2}{5} \times 20 = \frac{2 \times 20}{5} = \frac{40}{5} = 8
+     \]
+   - So, Neil gave away 8 cookies.
+
+2. **Calculate how many cookies are left**:
+   - To find the number of cookies remaining, we subtract the number of cookies given away from the total number of cookies:
+     \[
+     \text{Cookies left} = 20 - 8
+     \]
+   - Now, we calculate this:
+     \[
+     20 - 8 = 12
+     \]
+   - Therefore, Neil has 12 cookies left.
+
+In conclusion, after giving 2/5 of his cookies to his friend, Neil has 12 cookies remaining.
+</reasoning>
+<answer>12</answer>

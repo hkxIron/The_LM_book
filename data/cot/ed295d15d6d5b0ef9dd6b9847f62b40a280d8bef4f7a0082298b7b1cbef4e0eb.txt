@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of votes Joey received**: 
+   According to the problem, Joey got 8 votes. 
+   - So, \( J = 8 \).
+
+2. **Determine how many votes Barry received**: 
+   The problem states that Barry got twice as many votes as 3 more than the number of votes Joey received. 
+   - First, we calculate 3 more than Joey's votes: 
+     \[
+     J + 3 = 8 + 3 = 11
+     \]
+   - Then, we find Barry's votes which are twice this amount:
+     \[
+     B = 2 \times (J + 3) = 2 \times 11 = 22
+     \]
+
+3. **Calculate the number of votes Marcy received**: 
+   Marcy received three times as many votes as Barry. 
+   - So we calculate Marcy's votes:
+     \[
+     M = 3 \times B = 3 \times 22 = 66
+     \]
+
+After calculating all these steps, we find that Marcy received 66 votes.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>66</answer>

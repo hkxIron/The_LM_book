@@ -1,0 +1,37 @@
+<reasoning>
+To determine how many bones Lassie started with, we will work backwards using the information given in the problem.
+
+1. **Understanding the problem**: We know that on Saturday, Lassie eats half of her bones. Then on Sunday, she receives 10 more bones, and after that, she has a total of 35 bones.
+
+2. **Setting up the equation**: Let \( x \) be the number of bones Lassie had before Saturday. According to the problem:
+   - On Saturday, after eating half, she had \( \frac{x}{2} \) bones left.
+   - On Sunday, she received 10 more bones, so now she has \( \frac{x}{2} + 10 \) bones.
+
+3. **Setting the equation based on the total**: We know that after receiving the 10 bones, she has a total of 35 bones. Therefore, we can set up the equation:
+   \[
+   \frac{x}{2} + 10 = 35
+   \]
+
+4. **Solving the equation**: We will isolate \( x \) by first subtracting 10 from both sides:
+   \[
+   \frac{x}{2} = 35 - 10
+   \]
+   \[
+   \frac{x}{2} = 25
+   \]
+
+   Next, we will multiply both sides by 2 to solve for \( x \):
+   \[
+   x = 25 \times 2
+   \]
+   \[
+   x = 50
+   \]
+
+5. **Verification**: We can verify our solution by checking the steps:
+   - If Lassie started with 50 bones, then on Saturday she eats half, which is \( 50 \div 2 = 25 \) bones left.
+   - Then on Sunday, she receives 10 more bones, so she has \( 25 + 10 = 35 \) bones, which matches the total given in the problem.
+
+Thus, we have confirmed that our solution is correct.
+</reasoning>
+<answer>50</answer>

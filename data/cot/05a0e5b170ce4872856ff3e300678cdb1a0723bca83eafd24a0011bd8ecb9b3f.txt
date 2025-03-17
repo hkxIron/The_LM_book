@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, let's break down Bobby's trips step by step and calculate the total distance he traveled. After that, we can determine the rate of gasoline consumption in miles per gallon.
+
+1. **Trip to the Supermarket:**
+   - Bobby drives to the supermarket which is 5 miles away.
+   - He then drives back home the same 5 miles.
+   - Total distance for this trip = 5 miles (to supermarket) + 5 miles (back home) = 10 miles.
+
+2. **Trip to the Farm:**
+   - Bobby then drives to his farm which is 6 miles away.
+   - However, he drives 2 miles towards the farm and then turns around to go back home.
+   - Total distance for this part = 2 miles (towards farm) + 2 miles (back home) = 4 miles.
+   - After returning home, he drives to the farm again, which is 6 miles away.
+   - Therefore, the distance from home to the farm = 6 miles.
+   - Total distance for this part = 4 miles (to and from the point he turned around) + 6 miles (to the farm) = 10 miles.
+
+3. **Calculating Total Distance:**
+   - Now we sum the total distances from both trips:
+   - Total distance = Distance to supermarket + Distance to farm
+   - Total distance = 10 miles (supermarket) + 10 miles (farm) = 20 miles.
+
+4. **Calculating Gasoline Consumption:**
+   - Bobby started with 12 gallons of gasoline.
+   - He has 2 gallons left after all his trips.
+   - Therefore, the amount of gasoline he used = Initial gasoline - Remaining gasoline
+   - Gasoline used = 12 gallons - 2 gallons = 10 gallons.
+
+5. **Calculating Rate of Consumption:**
+   - The rate of consumption in miles per gallon is calculated by dividing the total distance traveled by the total gasoline used:
+   - Rate = Total distance / Gasoline used
+   - Rate = 20 miles / 10 gallons = 2 miles per gallon.
+
+Thus, Bobby's truck has been consuming gasoline at a rate of 2 miles per gallon.
+</reasoning>
+<answer>2</answer>

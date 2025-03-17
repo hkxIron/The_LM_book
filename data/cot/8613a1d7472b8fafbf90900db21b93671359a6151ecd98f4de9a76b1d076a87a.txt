@@ -1,0 +1,32 @@
+<reasoning>
+First, let's determine how much Jeremy spent on the accessories. The accessories cost 10% of the price of the computer, which is $3000.
+
+To find 10% of $3000, we calculate:
+
+\[ 
+10\% \text{ of } 3000 = 0.10 \times 3000 = 300 
+\]
+
+So, Jeremy spent $300 on accessories.
+
+Next, we need to find out how much money Jeremy had before the purchase. According to the problem, he had two times more money than the cost of the computer. Since the computer costs $3000, we calculate:
+
+\[ 
+\text{Amount before purchase} = 2 \times 3000 = 6000 
+\]
+
+Now we will find out how much money Jeremy has left after his purchases. He spent a total of:
+
+\[ 
+\text{Total spent} = \text{Cost of computer} + \text{Cost of accessories} = 3000 + 300 = 3300 
+\]
+
+Now, we will subtract the total amount spent from the amount he had before the purchase:
+
+\[ 
+\text{Amount left} = \text{Amount before purchase} - \text{Total spent} = 6000 - 3300 = 2700 
+\]
+
+Therefore, after all the calculations, Jeremy has $2700 left.
+</reasoning>
+<answer>2700</answer>

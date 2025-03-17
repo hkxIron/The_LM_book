@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many hours ahead Yara will be compared to Theon, we first need to calculate the time each ship takes to reach the destination of 90 nautical miles.
+
+1. **Calculate Theon's travel time:**
+   Theon's ship speed is 15 nautical miles per hour. We can find out how long it takes him to cover 90 nautical miles using the formula:
+
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+
+   Plugging in Theon's values:
+
+   \[
+   \text{Time}_{\text{Theon}} = \frac{90 \text{ nautical miles}}{15 \text{ nautical miles per hour}} = 6 \text{ hours}
+   \]
+
+   This means it will take Theon 6 hours to reach the destination.
+
+2. **Calculate Yara's travel time:**
+   Yara's ship speed is 30 nautical miles per hour. We use the same formula to find her travel time:
+
+   \[
+   \text{Time}_{\text{Yara}} = \frac{90 \text{ nautical miles}}{30 \text{ nautical miles per hour}} = 3 \text{ hours}
+   \]
+
+   Thus, Yara will take 3 hours to reach the destination.
+
+3. **Determine the time difference:**
+   Now, to find out how many hours ahead Yara is compared to Theon, we subtract Yara's travel time from Theon's travel time:
+
+   \[
+   \text{Time difference} = \text{Time}_{\text{Theon}} - \text{Time}_{\text{Yara}} = 6 \text{ hours} - 3 \text{ hours} = 3 \text{ hours}
+   \]
+
+Therefore, Yara will arrive 3 hours ahead of Theon.
+</reasoning>
+<answer>3</answer>

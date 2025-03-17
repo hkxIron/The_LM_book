@@ -1,0 +1,48 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Darcie's age**: We know that Darcie is 4 years old.
+
+2. **Establish the relationship between Darcie's age and her mother's age**: According to the problem, Darcie is 1/6 as old as her mother. We can express this relationship mathematically:
+   \[
+   \text{Let } M \text{ be the age of Darcie's mother.}
+   \]
+   Since Darcie is 4 years old, we can set up the equation:
+   \[
+   4 = \frac{1}{6}M
+   \]
+
+3. **Solve for Mother's age \(M\)**: To find \(M\), we will multiply both sides of the equation by 6:
+   \[
+   M = 4 \times 6
+   \]
+   \[
+   M = 24
+   \]
+   This means Darcie's mother is 24 years old.
+
+4. **Establish the relationship between the mother's age and the father's age**: The problem states that the mother is 4/5 as old as her father. Let's denote the father's age as \(F\):
+   \[
+   M = \frac{4}{5}F
+   \]
+   We already found \(M = 24\), so we can substitute that into the equation:
+   \[
+   24 = \frac{4}{5}F
+   \]
+
+5. **Solve for Father's age \(F\)**: To find \(F\), we will multiply both sides of the equation by \(\frac{5}{4}\) to isolate \(F\):
+   \[
+   F = 24 \times \frac{5}{4}
+   \]
+   \[
+   F = 24 \times 1.25
+   \]
+   \[
+   F = 30
+   \]
+
+Thus, Darcie's father is 30 years old.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

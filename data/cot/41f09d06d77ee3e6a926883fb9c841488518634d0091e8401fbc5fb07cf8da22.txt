@@ -1,0 +1,60 @@
+<reasoning>
+To find out how much John saves a year, we need to calculate his previous rent and compare it to his current rent.
+
+**Step 1: Calculate the cost of John's former apartment.**
+
+John's former rent was $2 per square foot for a 750 square foot apartment. We can find the total rent by multiplying the cost per square foot by the total square footage.
+
+\[
+\text{Former Rent} = \text{Cost per square foot} \times \text{Square footage}
+\]
+
+Substituting the values:
+
+\[
+\text{Former Rent} = 2 \, \text{USD/sq ft} \times 750 \, \text{sq ft} = 1500 \, \text{USD}
+\]
+
+So, John's former rent was $1500 per month.
+
+**Step 2: Calculate the cost of his new apartment.**
+
+His new apartment costs $2800 per month. Since he splits this cost evenly with his roommate, we will calculate John's share.
+
+\[
+\text{John's share of new rent} = \frac{2800 \, \text{USD}}{2} = 1400 \, \text{USD}
+\]
+
+So, John pays $1400 per month for his new apartment.
+
+**Step 3: Calculate the monthly savings.**
+
+Now we can find out how much he saves each month by subtracting his new rent from his old rent.
+
+\[
+\text{Monthly Savings} = \text{Former Rent} - \text{John's share of new rent}
+\]
+
+Substituting the values:
+
+\[
+\text{Monthly Savings} = 1500 \, \text{USD} - 1400 \, \text{USD} = 100 \, \text{USD}
+\]
+
+**Step 4: Calculate the annual savings.**
+
+Now we will calculate his total savings for the year by multiplying his monthly savings by 12 (the number of months in a year).
+
+\[
+\text{Annual Savings} = \text{Monthly Savings} \times 12
+\]
+
+Substituting the values:
+
+\[
+\text{Annual Savings} = 100 \, \text{USD} \times 12 = 1200 \, \text{USD}
+\]
+
+Thus, John saves a total of $1200 a year by moving to his new apartment.
+</reasoning>
+<answer>1200</answer>

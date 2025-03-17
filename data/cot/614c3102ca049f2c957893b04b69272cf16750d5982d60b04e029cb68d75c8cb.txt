@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many flowers Lilly can buy for Maria's birthday, we need to follow these steps:
+
+1. **Determine the total amount Lilly saves**: Since Lilly saves $2 each day and Maria's birthday is in 22 days, we calculate the total savings by multiplying the daily savings by the number of days.
+
+   \[
+   \text{Total Savings} = \text{Daily Savings} \times \text{Number of Days} = 2 \text{ dollars/day} \times 22 \text{ days} 
+   \]
+
+   Calculating this gives:
+   
+   \[
+   \text{Total Savings} = 2 \times 22 = 44 \text{ dollars}
+   \]
+
+2. **Determine the cost of one flower**: We know that each flower costs $4.
+
+3. **Calculate how many flowers Lilly can buy**: To find out how many flowers Lilly can buy, we divide her total savings by the cost of one flower.
+
+   \[
+   \text{Number of Flowers} = \frac{\text{Total Savings}}{\text{Cost per Flower}} = \frac{44 \text{ dollars}}{4 \text{ dollars/flower}}
+   \]
+
+   Performing this division results in:
+
+   \[
+   \text{Number of Flowers} = \frac{44}{4} = 11
+   \]
+
+Therefore, Lilly can buy 11 flowers for Maria's birthday.
+</reasoning>
+<answer>11</answer>

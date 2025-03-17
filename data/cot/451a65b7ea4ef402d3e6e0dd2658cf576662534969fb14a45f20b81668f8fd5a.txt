@@ -1,0 +1,47 @@
+<reasoning>
+To find the total number of pieces of candy caught by Tabitha, Stan, Julie, and Carlos, we will calculate the amount each person caught step by step.
+
+1. **Tabitha's Candy**: Tabitha caught 22 pieces of candy. 
+   - This is given directly.
+
+2. **Stan's Candy**: Stan caught 13 pieces of candy.
+   - This is also given directly.
+
+3. **Julie's Candy**: Julie caught half the amount of candy as Tabitha caught. 
+   - Since Tabitha caught 22 pieces, we calculate Julie's amount as follows:
+   \[
+   \text{Julie's Candy} = \frac{\text{Tabitha's Candy}}{2} = \frac{22}{2} = 11
+   \]
+
+4. **Carlos's Candy**: Carlos caught twice as much candy as Stan. 
+   - Since Stan caught 13 pieces, we calculate Carlos's amount as follows:
+   \[
+   \text{Carlos's Candy} = 2 \times \text{Stan's Candy} = 2 \times 13 = 26
+   \]
+
+5. **Total Candy Caught**: Now we will add up all the pieces of candy caught by each friend:
+   \[
+   \text{Total Candy} = \text{Tabitha's Candy} + \text{Stan's Candy} + \text{Julie's Candy} + \text{Carlos's Candy}
+   \]
+   Substituting in the values we found:
+   \[
+   \text{Total Candy} = 22 + 13 + 11 + 26
+   \]
+
+6. **Calculating the Total**:
+   - First, add Tabitha's and Stan's candy:
+   \[
+   22 + 13 = 35
+   \]
+   - Next, add Julie's candy:
+   \[
+   35 + 11 = 46
+   \]
+   - Finally, add Carlos's candy:
+   \[
+   46 + 26 = 72
+   \]
+
+Therefore, the total number of pieces of candy caught by Tabitha and her friends is 72.
+</reasoning>
+<answer>72</answer>

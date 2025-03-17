@@ -1,0 +1,36 @@
+<reasoning>
+To solve this problem, we need to determine how much gasoline Keanu's motorcycle will consume for a round trip to his destination and how many times he will need to refill his motorcycle.
+
+1. **Calculate the total distance for the round trip**: 
+   The destination is 280 miles away, so the round trip distance will be:
+   \[
+   \text{Total distance} = 280 \text{ miles} \times 2 = 560 \text{ miles}
+   \]
+   This step is important because we need to know the entire distance he will travel in order to calculate the total gasoline consumption.
+
+2. **Determine the gasoline consumption rate**: 
+   According to the problem, Keanu's motorcycle consumes 8 liters of gasoline for every 40 miles. We need to find out how much gasoline is consumed for the entire round trip distance of 560 miles.
+   
+   First, calculate how many 40-mile segments are in 560 miles:
+   \[
+   \text{Number of segments} = \frac{560 \text{ miles}}{40 \text{ miles per segment}} = 14
+   \]
+   This tells us how many times the motorcycle will use the 8 liters of gasoline.
+
+3. **Calculate the total gasoline consumption for the trip**: 
+   Since each segment consumes 8 liters, we multiply the number of segments by the gasoline consumed per segment:
+   \[
+   \text{Total gasoline consumption} = 14 \times 8 \text{ liters} = 112 \text{ liters}
+   \]
+   This step shows us the total amount of gasoline needed for the entire round trip.
+
+4. **Determine how many times Keanu needs to refill**: 
+   Keanu's motorcycle can hold 8 liters of gasoline at a time. To find out how many full tanks he will need for 112 liters, we divide the total gasoline consumption by the capacity of the tank:
+   \[
+   \text{Number of refills} = \frac{112 \text{ liters}}{8 \text{ liters per tank}} = 14
+   \]
+   This final calculation tells us how many times he needs to refill his motorcycle.
+
+Therefore, Keanu has to refill his motorcycle 14 times for the round trip.
+</reasoning>
+<answer>14</answer>

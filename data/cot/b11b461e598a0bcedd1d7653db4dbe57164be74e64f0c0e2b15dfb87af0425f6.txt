@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we need to determine how many years will pass until Joel's dad is twice as old as Joel.
+
+1. **Current Ages**: 
+   - Joel's current age = 5 years
+   - Dad's current age = 32 years
+
+2. **Let x be the number of years from now**: 
+   - In x years, Joel's age will be \(5 + x\).
+   - In x years, Dad's age will be \(32 + x\).
+
+3. **Setting up the equation**: 
+   We want to find when Dad's age will be twice Joel's age. Therefore, we can set up the equation:
+   \[
+   32 + x = 2(5 + x)
+   \]
+
+4. **Expanding the equation**: 
+   We can simplify the right side:
+   \[
+   32 + x = 10 + 2x
+   \]
+
+5. **Rearranging the equation**:
+   To isolate x, we can move all terms involving x to one side and constant terms to the other side:
+   \[
+   32 - 10 = 2x - x
+   \]
+   This simplifies to:
+   \[
+   22 = x
+   \]
+
+6. **Finding Joel's future age**:
+   Now that we know \(x = 22\), we can find out how old Joel will be at that time:
+   \[
+   \text{Joel's age in 22 years} = 5 + 22 = 27
+   \]
+
+Thus, Joel will be 27 years old when his dad is twice as old as him.
+</reasoning>
+<answer>27</answer>

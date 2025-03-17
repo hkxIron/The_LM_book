@@ -1,0 +1,62 @@
+<reasoning>
+To find out how much money the movie theater makes in total from ticket sales, we need to calculate the revenue from each type of ticket separately and then sum them up.
+
+1. **Calculate the revenue from matinee tickets:**
+   - The price of a matinee ticket is $5.
+   - The number of matinee tickets sold is 200.
+   - To find the revenue from matinee tickets, we multiply the number of tickets sold by the price per ticket:
+     \[
+     \text{Revenue from matinee tickets} = 200 \times 5
+     \]
+   - Performing the multiplication:
+     \[
+     200 \times 5 = 1000
+     \]
+   - So, the theater makes $1000 from matinee tickets.
+
+2. **Calculate the revenue from evening tickets:**
+   - The price of an evening ticket is $12.
+   - The number of evening tickets sold is 300.
+   - To find the revenue from evening tickets, we again multiply the number of tickets sold by the price per ticket:
+     \[
+     \text{Revenue from evening tickets} = 300 \times 12
+     \]
+   - Performing the multiplication:
+     \[
+     300 \times 12 = 3600
+     \]
+   - So, the theater makes $3600 from evening tickets.
+
+3. **Calculate the revenue from 3D tickets:**
+   - The price of a 3D ticket is $20.
+   - The number of 3D tickets sold is 100.
+   - To find the revenue from 3D tickets, we multiply the number of tickets sold by the price per ticket:
+     \[
+     \text{Revenue from 3D tickets} = 100 \times 20
+     \]
+   - Performing the multiplication:
+     \[
+     100 \times 20 = 2000
+     \]
+   - So, the theater makes $2000 from 3D tickets.
+
+4. **Calculate the total revenue:**
+   - Now we add up all the revenues from the three types of tickets:
+     \[
+     \text{Total Revenue} = \text{Revenue from matinee tickets} + \text{Revenue from evening tickets} + \text{Revenue from 3D tickets}
+     \]
+   - Substituting the values we found:
+     \[
+     \text{Total Revenue} = 1000 + 3600 + 2000
+     \]
+   - Performing the addition:
+     \[
+     1000 + 3600 = 4600
+     \]
+     \[
+     4600 + 2000 = 6600
+     \]
+
+Therefore, the total money made by the movie theater from ticket sales is $6600.
+</reasoning>
+<answer>6600</answer>

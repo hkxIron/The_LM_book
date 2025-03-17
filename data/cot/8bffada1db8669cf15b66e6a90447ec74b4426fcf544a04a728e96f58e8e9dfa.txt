@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many sweets Jennifer and her 3 friends will each get, we first need to calculate the total number of sweets Jennifer has. We do this by adding up the different types of sweets she has.
+
+1. **Adding the sweets together:**
+   - Green sweets: 212
+   - Blue sweets: 310
+   - Yellow sweets: 502
+
+   We add these three amounts together:
+   \[
+   \text{Total sweets} = 212 + 310 + 502
+   \]
+
+2. **Calculating the total:**
+   - First, let's add the green and blue sweets:
+     \[
+     212 + 310 = 522
+     \]
+   - Now, we add the yellow sweets to this total:
+     \[
+     522 + 502 = 1024
+     \]
+   So, the total number of sweets Jennifer has is 1024.
+
+3. **Dividing the total sweets among Jennifer and her 3 friends:**
+   Jennifer is sharing the sweets with herself and her 3 friends, which means there are 4 people in total (1 Jennifer + 3 friends).
+
+   To find out how many sweets each person gets, we divide the total number of sweets by the number of people:
+   \[
+   \text{Sweets per person} = \frac{1024}{4}
+   \]
+
+4. **Calculating the division:**
+   \[
+   \frac{1024}{4} = 256
+   \]
+
+Thus, each person, including Jennifer, will receive 256 sweets.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>256</answer>

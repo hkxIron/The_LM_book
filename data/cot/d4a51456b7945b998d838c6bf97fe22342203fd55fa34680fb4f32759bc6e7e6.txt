@@ -1,0 +1,36 @@
+<reasoning>
+First, we start with the total number of stickers Zander collected, which is 100.
+
+1. **Calculate the number of stickers Andrew received:**
+   Andrew received \( \frac{1}{5} \) of Zander's total stickers.
+   \[
+   \text{Stickers Andrew received} = \frac{1}{5} \times 100 = 20
+   \]
+   This means Andrew has 20 stickers now.
+
+2. **Calculate the remaining stickers after Andrew took his share:**
+   After Andrew took his stickers, the number of stickers left is:
+   \[
+   \text{Remaining stickers} = 100 - 20 = 80
+   \]
+
+3. **Calculate the number of stickers Bill received:**
+   Bill received \( \frac{3}{10} \) of the remaining stickers (which is 80).
+   \[
+   \text{Stickers Bill received} = \frac{3}{10} \times 80 = 24
+   \]
+   This means Bill has 24 stickers now.
+
+Now let's summarize:
+- Andrew received 20 stickers.
+- Bill received 24 stickers.
+
+4. **Determine the total number of stickers given to friends:**
+   To find the total number of stickers given to friends, we add the stickers Andrew and Bill received:
+   \[
+   \text{Total stickers given to friends} = 20 + 24 = 44
+   \]
+
+Therefore, Zander gave a total of 44 stickers to his two friends.
+</reasoning>
+<answer>44</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we first need to calculate how many apple pies and cherry pies Steve bakes in one week.
+
+1. **Identify the days Steve bakes apple pies:**
+   - Steve bakes apple pies on Mondays, Wednesdays, and Fridays.
+   - This means he bakes apple pies 3 days a week.
+
+2. **Identify the days Steve bakes cherry pies:**
+   - Steve bakes cherry pies on Tuesdays and Thursdays.
+   - This means he bakes cherry pies 2 days a week.
+
+3. **Calculate the total number of apple pies baked in a week:**
+   - Steve bakes 12 apple pies each day he bakes them.
+   - Therefore, the total number of apple pies baked in a week is:
+     \[
+     12 \text{ pies/day} \times 3 \text{ days} = 36 \text{ apple pies}
+     \]
+
+4. **Calculate the total number of cherry pies baked in a week:**
+   - Steve bakes 12 cherry pies each day he bakes them.
+   - Therefore, the total number of cherry pies baked in a week is:
+     \[
+     12 \text{ pies/day} \times 2 \text{ days} = 24 \text{ cherry pies}
+     \]
+
+5. **Determine how many more apple pies he bakes than cherry pies:**
+   - To find this, we subtract the total number of cherry pies from the total number of apple pies:
+     \[
+     36 \text{ apple pies} - 24 \text{ cherry pies} = 12
+     \]
+
+Therefore, Steve bakes 12 more apple pies than cherry pies in one week.
+</reasoning>
+<answer>12</answer>

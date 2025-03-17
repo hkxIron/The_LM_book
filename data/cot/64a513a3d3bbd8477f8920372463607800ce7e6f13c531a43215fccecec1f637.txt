@@ -1,0 +1,47 @@
+<reasoning>
+To solve the problem, we need to determine how many books Hadley had borrowed by lunchtime. We'll break down the process step by step.
+
+1. **Initial Number of Books**: 
+   Hadley starts with 100 books on the shelf.
+
+2. **Books Borrowed by Lunchtime**: 
+   Let’s denote the number of books borrowed by lunchtime as \( x \).
+
+3. **Books Remaining After Lunchtime**: 
+   After some books are borrowed by lunchtime, the number of books remaining on the shelf would be:
+   \[
+   100 - x
+   \]
+
+4. **Adding More Books**: 
+   Hadley adds 40 more books to the shelf. So, the total number of books now on the shelf after adding these is:
+   \[
+   (100 - x) + 40 = 140 - x
+   \]
+
+5. **Books Borrowed by Evening**: 
+   By evening, an additional 30 books are borrowed. Therefore, the number of books remaining on the shelf at that point is:
+   \[
+   (140 - x) - 30 = 110 - x
+   \]
+
+6. **Books Remaining by Evening**: 
+   According to the problem, there are 60 books remaining by the evening. We can set up the following equation:
+   \[
+   110 - x = 60
+   \]
+
+7. **Solving for \( x \)**: 
+   To find \( x \), we will isolate it on one side of the equation:
+   \[
+   110 - 60 = x
+   \]
+   \[
+   x = 50
+   \]
+
+This means that 50 books had been borrowed by lunchtime. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>50</answer>

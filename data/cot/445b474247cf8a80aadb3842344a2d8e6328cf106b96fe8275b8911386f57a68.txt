@@ -1,0 +1,44 @@
+<reasoning>
+To find the width of the final painting, we first need to determine the total area of the paintings that we already know and then subtract that from the total area of all the paintings.
+
+1. **Calculate the area of the 3 paintings that are 5 feet by 5 feet:**
+   Each of these paintings has an area calculated as:
+   \[
+   \text{Area} = \text{length} \times \text{width} = 5 \, \text{feet} \times 5 \, \text{feet} = 25 \, \text{square feet}
+   \]
+   Since there are 3 such paintings:
+   \[
+   \text{Total area of 3 paintings} = 3 \times 25 \, \text{square feet} = 75 \, \text{square feet}
+   \]
+
+2. **Calculate the area of the 1 painting that is 10 feet by 8 feet:**
+   The area of this painting is:
+   \[
+   \text{Area} = 10 \, \text{feet} \times 8 \, \text{feet} = 80 \, \text{square feet}
+   \]
+
+3. **Combine the areas of the known paintings:**
+   Now we add the areas of the 3 paintings and the 1 painting:
+   \[
+   \text{Total area of known paintings} = 75 \, \text{square feet} + 80 \, \text{square feet} = 155 \, \text{square feet}
+   \]
+
+4. **Subtract the total area of known paintings from the total area of all paintings:**
+   The total area of all 5 paintings is given as 200 square feet. We can find the area of the last painting by subtracting the area of the known paintings from the total area:
+   \[
+   \text{Area of the final painting} = 200 \, \text{square feet} - 155 \, \text{square feet} = 45 \, \text{square feet}
+   \]
+
+5. **Calculate the width of the final painting:**
+   We know the height of the final painting is 5 feet, so we can find the width using the area formula:
+   \[
+   \text{Area} = \text{height} \times \text{width}
+   \]
+   Rearranging for width:
+   \[
+   \text{width} = \frac{\text{Area}}{\text{height}} = \frac{45 \, \text{square feet}}{5 \, \text{feet}} = 9 \, \text{feet}
+   \]
+
+Thus, the width of the final painting is 9 feet.
+</reasoning>
+<answer>9</answer>

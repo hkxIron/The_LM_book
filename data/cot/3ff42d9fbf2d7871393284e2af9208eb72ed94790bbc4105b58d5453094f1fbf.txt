@@ -1,0 +1,19 @@
+<reasoning>
+To find out how many tables the carpenter made in total over the two months, we need to follow these steps:
+
+1. **Identify the number of tables made this month**: The problem states that the carpenter made 10 tables this month. 
+
+2. **Determine how many tables were made last month**: According to the problem, last month he made three fewer tables than this month. Therefore, we need to subtract 3 from the number of tables made this month:
+   \[
+   \text{Tables made last month} = \text{Tables made this month} - 3 = 10 - 3 = 7
+   \]
+   This means the carpenter made 7 tables last month.
+
+3. **Calculate the total number of tables made over both months**: Now, we add the number of tables made this month and last month together:
+   \[
+   \text{Total tables} = \text{Tables made this month} + \text{Tables made last month} = 10 + 7 = 17
+   \]
+
+Therefore, the carpenter made a total of 17 tables over the two months.
+</reasoning>
+<answer>17</answer>

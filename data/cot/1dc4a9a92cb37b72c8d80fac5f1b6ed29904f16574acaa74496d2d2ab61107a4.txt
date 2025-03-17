@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total capacity of the spacecraft in terms of people:**
+   - The spacecraft can carry 300 family units.
+   - Each family unit has 4 people.
+   - Therefore, the total capacity in terms of people is calculated as:
+     \[
+     \text{Total Capacity} = 300 \text{ family units} \times 4 \text{ people/family unit} = 1200 \text{ people}
+     \]
+   This means the spacecraft can carry a maximum of 1200 people.
+
+2. **Calculate one-third of the total capacity:**
+   - We need to find one-third of the total capacity:
+     \[
+     \text{One-third of Total Capacity} = \frac{1200 \text{ people}}{3} = 400 \text{ people}
+     \]
+
+3. **Determine the number of people to be carried at the start of the journey:**
+   - According to the problem, the spacecraft will carry 100 people less than one-third of the ship's capacity. This can be calculated as:
+     \[
+     \text{Number of People on the Ship} = 400 \text{ people} - 100 \text{ people} = 300 \text{ people}
+     \]
+
+Thus, the spacecraft Gibraltar will start its journey with 300 people on board.
+</reasoning>
+<answer>300</answer>

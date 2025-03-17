@@ -1,0 +1,56 @@
+<reasoning>
+To determine how much Jade saves per month, we will follow these steps:
+
+1. **Calculate how much Jade spends on living expenses**: Jade spends 75% of her monthly earnings on living expenses. We will calculate this amount by multiplying her total earnings by 75%.
+
+   \[
+   \text{Living Expenses} = 1600 \times 0.75
+   \]
+   \[
+   \text{Living Expenses} = 1200
+   \]
+
+   Here, we find that Jade spends $1200 on living expenses.
+
+2. **Calculate how much Jade spends on insurance**: Jade spends one-fifth of her monthly earnings on insurance. We will calculate this amount by dividing her total earnings by 5.
+
+   \[
+   \text{Insurance} = \frac{1600}{5}
+   \]
+   \[
+   \text{Insurance} = 320
+   \]
+
+   So, Jade spends $320 on insurance.
+
+3. **Calculate total spending**: Now we need to calculate Jade's total spending by adding her living expenses and her insurance costs together.
+
+   \[
+   \text{Total Spending} = \text{Living Expenses} + \text{Insurance}
+   \]
+   \[
+   \text{Total Spending} = 1200 + 320
+   \]
+   \[
+   \text{Total Spending} = 1520
+   \]
+
+   Jade's total spending amounts to $1520.
+
+4. **Calculate Jade's savings**: To find out how much Jade saves, we subtract her total spending from her total earnings.
+
+   \[
+   \text{Savings} = \text{Total Earnings} - \text{Total Spending}
+   \]
+   \[
+   \text{Savings} = 1600 - 1520
+   \]
+   \[
+   \text{Savings} = 80
+   \]
+
+   Therefore, Jade saves $80 each month.
+
+Putting it all together, we find that Jade saves a total of $80 monthly.
+</reasoning>
+<answer>80</answer>

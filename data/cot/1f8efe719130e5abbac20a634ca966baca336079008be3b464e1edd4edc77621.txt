@@ -1,0 +1,27 @@
+<reasoning>
+First, let's determine how many fish James actually has after accounting for the fish that went bad.
+
+1. **Calculate 20% of 400 fish**: To find out how many fish have gone bad, we calculate 20% of 400. 
+   - 20% can be written as a decimal, which is 0.20. 
+   - Now we multiply: 
+     \[
+     400 \times 0.20 = 80
+     \]
+   This means 80 fish have gone bad.
+
+2. **Subtract the bad fish from the total fish**: Now we need to find out how many fish are still usable.
+   - We subtract the bad fish from the total fish: 
+     \[
+     400 - 80 = 320
+     \]
+   So, James has 320 usable fish.
+
+3. **Determine how many sushi rolls can be made**: Since James needs 40 fish to make one sushi roll, we divide the remaining fish by the number of fish needed per roll:
+   \[
+   \frac{320}{40} = 8
+   \]
+   This means James can make 8 sushi rolls with the remaining fish.
+
+Therefore, after performing all the calculations, we find that James made 8 sushi rolls.
+</reasoning>
+<answer>8</answer>

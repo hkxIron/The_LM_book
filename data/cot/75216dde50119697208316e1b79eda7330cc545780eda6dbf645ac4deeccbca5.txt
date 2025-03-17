@@ -1,0 +1,36 @@
+<reasoning>
+First, we need to calculate the total number of necklaces, bracelets, and earrings Kylie makes, and then determine the total number of beads used for each type of jewelry.
+
+1. **Calculate the total number of necklaces:**
+   - Kylie makes 10 beaded necklaces on Monday and 2 beaded necklaces on Tuesday.
+   - Total necklaces = 10 + 2 = 12 necklaces.
+
+2. **Calculate the total number of bracelets:**
+   - Kylie makes 5 beaded bracelets on Wednesday.
+   - Total bracelets = 5.
+
+3. **Calculate the total number of earrings:**
+   - Kylie makes 7 beaded earrings on Wednesday.
+   - Total earrings = 7.
+
+Next, we need to calculate the number of beads required for each type of jewelry:
+
+4. **Calculate the total number of beads for necklaces:**
+   - Each necklace requires 20 beads.
+   - Total beads for necklaces = 12 necklaces × 20 beads/necklace = 240 beads.
+
+5. **Calculate the total number of beads for bracelets:**
+   - Each bracelet requires 10 beads.
+   - Total beads for bracelets = 5 bracelets × 10 beads/bracelet = 50 beads.
+
+6. **Calculate the total number of beads for earrings:**
+   - Each earring requires 5 beads.
+   - Total beads for earrings = 7 earrings × 5 beads/earring = 35 beads.
+
+7. **Calculate the total number of beads used in total:**
+   - Total beads used = beads for necklaces + beads for bracelets + beads for earrings.
+   - Total beads used = 240 + 50 + 35 = 325 beads.
+
+Therefore, after performing all the calculations and summing the total beads, we find that Kylie uses a total of 325 beads to make her jewelry.
+</reasoning>
+<answer>325</answer>

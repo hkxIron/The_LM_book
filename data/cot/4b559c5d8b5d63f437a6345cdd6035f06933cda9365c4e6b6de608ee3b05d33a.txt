@@ -1,0 +1,46 @@
+<reasoning>
+Let's denote the populations of the towns as follows:
+- Let \( P_T \) be the population of Toadon.
+- Let \( P_G \) be the population of Gordonia.
+- Let \( P_L \) be the population of Lake Bright.
+
+According to the problem, we know a few things:
+1. The total population of the three towns is 80,000:
+   \[
+   P_T + P_G + P_L = 80000
+   \]
+   
+2. Gordonia has half of the total population of the three towns:
+   \[
+   P_G = \frac{1}{2} \times 80000 = 40000
+   \]
+
+3. The population of Toadon is 60 percent of Gordonia's population:
+   \[
+   P_T = 0.6 \times P_G
+   \]
+   Substituting \( P_G = 40000 \):
+   \[
+   P_T = 0.6 \times 40000 = 24000
+   \]
+
+Now, we can substitute \( P_T \) and \( P_G \) back into the total population equation to find \( P_L \):
+\[
+24000 + 40000 + P_L = 80000
+\]
+
+Combining the populations of Toadon and Gordonia:
+\[
+64000 + P_L = 80000
+\]
+
+Next, we isolate \( P_L \) by subtracting 64000 from both sides:
+\[
+P_L = 80000 - 64000 = 16000
+\]
+
+Thus, the population of Lake Bright is 16,000.
+
+Finally, we conclude with the answer:
+</reasoning>
+<answer>16000</answer>

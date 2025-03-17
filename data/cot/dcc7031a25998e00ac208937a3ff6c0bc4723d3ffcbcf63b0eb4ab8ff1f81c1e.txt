@@ -1,0 +1,30 @@
+<reasoning>
+To determine how many more bags at maximum weight the plane can hold, we will follow these steps:
+
+1. **Calculate the total number of bags the 6 people have.**
+   Each person has 5 bags, and there are 6 people. 
+   \[
+   \text{Total bags} = 6 \text{ people} \times 5 \text{ bags/person} = 30 \text{ bags}
+   \]
+
+2. **Calculate the total weight of these bags.**
+   Each bag weighs 50 pounds. 
+   \[
+   \text{Total weight of bags} = 30 \text{ bags} \times 50 \text{ pounds/bag} = 1500 \text{ pounds}
+   \]
+
+3. **Determine the remaining weight capacity of the airplane.**
+   The airplane can hold a total of 6000 pounds. We need to subtract the weight of the bags already accounted for.
+   \[
+   \text{Remaining weight capacity} = 6000 \text{ pounds} - 1500 \text{ pounds} = 4500 \text{ pounds}
+   \]
+
+4. **Calculate how many additional bags can fit into the remaining weight capacity.**
+   Since each bag weighs 50 pounds, we divide the remaining weight capacity by the weight of one bag.
+   \[
+   \text{Additional bags} = \frac{4500 \text{ pounds}}{50 \text{ pounds/bag}} = 90 \text{ bags}
+   \]
+
+Therefore, the airplane can hold 90 more bags at maximum weight.
+</reasoning>
+<answer>90</answer>

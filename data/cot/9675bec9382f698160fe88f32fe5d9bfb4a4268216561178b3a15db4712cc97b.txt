@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we first need to determine Mike's new typing speed after his accident.
+
+1. **Determine Mike's new typing speed:**
+   - Mike's original typing speed is 65 words per minute.
+   - His typing speed decreases by 20 words per minute due to the accident.
+   - Therefore, we calculate his new speed as follows:
+     \[
+     \text{New typing speed} = 65 \text{ words per minute} - 20 \text{ words per minute} = 45 \text{ words per minute}
+     \]
+
+2. **Calculate the time it will take to type the document:**
+   - The document contains 810 words.
+   - To find out how long it will take to type this document at the new typing speed, we use the formula:
+     \[
+     \text{Time} = \frac{\text{Total words}}{\text{Typing speed}}
+     \]
+   - Substituting the values we have:
+     \[
+     \text{Time} = \frac{810 \text{ words}}{45 \text{ words per minute}}
+     \]
+
+3. **Perform the division:**
+   - Now, we calculate:
+     \[
+     \text{Time} = 18 \text{ minutes}
+     \]
+
+After following these steps, we find that it will take Mike 18 minutes to finish typing the document.
+</reasoning>
+<answer>18</answer>

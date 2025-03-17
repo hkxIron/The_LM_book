@@ -1,0 +1,28 @@
+<reasoning>
+Let's start by determining the number of redwoods based on the information given.
+
+1. We know that there are 600 pines in the national park. 
+   - This is our starting point.
+
+2. The problem states that the number of redwoods is 20% more than the number of pines. 
+   - To find 20% of the number of pines, we will calculate 20% of 600.
+
+   \[
+   20\% \text{ of } 600 = \frac{20}{100} \times 600 = 0.2 \times 600 = 120
+   \]
+
+3. Now, we add this 20% increase to the original number of pines (600) to find the total number of redwoods.
+
+   \[
+   \text{Number of redwoods} = 600 + 120 = 720
+   \]
+
+4. Next, we need to calculate the total number of trees (both pines and redwoods) in the national park. This is simply the sum of the number of pines and the number of redwoods.
+
+   \[
+   \text{Total number of trees} = \text{Number of pines} + \text{Number of redwoods} = 600 + 720 = 1320
+   \]
+
+Therefore, after calculating the number of redwoods and the total number of trees, we conclude:
+</reasoning>
+<answer>1320</answer>

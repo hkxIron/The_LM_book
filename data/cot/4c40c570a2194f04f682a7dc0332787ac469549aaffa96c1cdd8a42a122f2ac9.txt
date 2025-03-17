@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we will first determine how many minutes Jenna has already tanned in the first two weeks of the month.
+
+1. **Calculate the total number of tanning days in the first two weeks:**
+   - Jenna tans 2 days a week.
+   - In 2 weeks, she tans: 
+     \( 2 \text{ days/week} \times 2 \text{ weeks} = 4 \text{ days} \)
+
+2. **Calculate the total tanning time for those 4 days:**
+   - Jenna tans for 30 minutes each tanning session.
+   - Therefore, the total tanning time for the first two weeks is:
+     \( 4 \text{ days} \times 30 \text{ minutes/day} = 120 \text{ minutes} \)
+
+3. **Determine how many minutes she has left to tan in the month:**
+   - Jenna's maximum allowed tanning time per month is 200 minutes.
+   - So, the remaining tanning time after the first two weeks is:
+     \( 200 \text{ minutes} - 120 \text{ minutes} = 80 \text{ minutes} \)
+
+4. **Final conclusion:**
+   - Jenna can tan for an additional 80 minutes in the last two weeks of the month.
+
+Therefore, the total minutes Jenna can tan in the last two weeks of the month is 80 minutes.
+</reasoning>
+<answer>80</answer>

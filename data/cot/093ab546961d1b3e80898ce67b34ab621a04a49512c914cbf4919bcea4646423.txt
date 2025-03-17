@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we'll go through the following steps:
+
+1. **Calculate the total number of rooms**: 
+   - The building has 4 floors, and each floor has 10 rooms. 
+   - To find the total number of rooms, we multiply the number of floors by the number of rooms per floor: 
+   \[
+   \text{Total rooms} = \text{Number of floors} \times \text{Rooms per floor} = 4 \times 10 = 40
+   \]
+   Therefore, there are 40 rooms in total.
+
+2. **Calculate the total time to clean all the rooms**: 
+   - We know it takes Legacy 6 hours to clean one room. 
+   - To find the total time to clean all rooms, we multiply the total number of rooms by the time per room:
+   \[
+   \text{Total cleaning time} = \text{Total rooms} \times \text{Time per room} = 40 \times 6 = 240 \text{ hours}
+   \]
+   Thus, it will take 240 hours to clean all the rooms.
+
+3. **Calculate the total earnings**: 
+   - Legacy earns $15 per hour. 
+   - To find her total earnings for the cleaning, we multiply her total hours worked by her hourly rate:
+   \[
+   \text{Total earnings} = \text{Total cleaning time} \times \text{Hourly rate} = 240 \times 15
+   \]
+   Now, we perform the multiplication:
+   \[
+   240 \times 15 = 3600
+   \]
+   Therefore, Legacy will earn $3600 for cleaning all the rooms.
+
+In summary, we calculated the total rooms, the total cleaning time, and then used that time to determine her total earnings.
+</reasoning>
+<answer>3600</answer>

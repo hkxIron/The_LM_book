@@ -1,0 +1,19 @@
+<reasoning>
+To solve the problem, we need to calculate the total number of roses Tom sent to his wife over the course of a week.
+
+1. **Understanding the quantities involved**: 
+   - A dozen is equal to 12. Therefore, 2 dozen roses means Tom sends \(2 \times 12\) roses each day.
+   
+2. **Calculating the roses sent each day**: 
+   - \(2 \times 12 = 24\) roses per day.
+
+3. **Determining the number of days in a week**: 
+   - There are 7 days in a week.
+
+4. **Calculating the total number of roses sent in a week**: 
+   - To find the total roses sent, we multiply the number of roses sent each day by the number of days in a week:
+   - Total roses = \(24 \text{ roses/day} \times 7 \text{ days} = 168\) roses.
+
+Therefore, Tom sent a total of 168 roses to his wife over the week.
+</reasoning>
+<answer>168</answer>

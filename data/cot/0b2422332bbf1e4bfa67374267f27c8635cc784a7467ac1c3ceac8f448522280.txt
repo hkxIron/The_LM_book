@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much change Dusty receives after buying the cake slices, we will first calculate the total cost of the cake slices he purchased.
+
+1. **Calculate the cost of single layer cake slices:**
+   - Dusty buys 7 single layer cake slices, and each slice costs $4.
+   - We multiply the number of slices by the price per slice:
+     \[
+     \text{Cost of single layer slices} = 7 \times 4 = 28
+     \]
+
+2. **Calculate the cost of double layer cake slices:**
+   - Dusty buys 5 double layer cake slices, and each slice costs $7.
+   - We multiply the number of slices by the price per slice:
+     \[
+     \text{Cost of double layer slices} = 5 \times 7 = 35
+     \]
+
+3. **Calculate the total cost of all cake slices:**
+   - Now, we will add the costs of both types of cake slices together:
+     \[
+     \text{Total cost} = \text{Cost of single layer slices} + \text{Cost of double layer slices} = 28 + 35 = 63
+     \]
+
+4. **Calculate the change Dusty receives:**
+   - Dusty pays with a $100 bill. To find out how much change he receives, we subtract the total cost from the amount he paid:
+     \[
+     \text{Change} = 100 - \text{Total cost} = 100 - 63 = 37
+     \]
+
+Thus, Dusty receives $37 in change.
+</reasoning>
+<answer>37</answer>

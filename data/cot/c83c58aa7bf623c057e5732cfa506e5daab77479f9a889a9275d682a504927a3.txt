@@ -1,0 +1,43 @@
+<reasoning>
+To find the security deposit that Lana and Mike need to pay, we first need to calculate the total cost of renting the cabin. We will break this down into several steps:
+
+1. **Calculate the total rental cost for 2 weeks**:
+   - There are 14 days in 2 weeks.
+   - The daily rate is $125.00.
+   - So, we multiply the daily rate by the number of days:
+     \[
+     \text{Total rental cost} = 125 \text{ (daily rate)} \times 14 \text{ (days)} = 1750
+     \]
+
+2. **Add the pet fee**:
+   - There is a $100.00 pet fee.
+   - We add this fee to the total rental cost:
+     \[
+     \text{Total cost with pet fee} = 1750 \text{ (rental cost)} + 100 \text{ (pet fee)} = 1850
+     \]
+
+3. **Calculate the service/cleaning fee**:
+   - The service/cleaning fee is 20% of the total cost (which includes the rental cost and the pet fee).
+   - First, we calculate 20% of $1850:
+     \[
+     \text{Service/Cleaning Fee} = 0.20 \times 1850 = 370
+     \]
+
+4. **Calculate the total amount due**:
+   - Now, we add the service/cleaning fee to the total cost with the pet fee:
+     \[
+     \text{Total amount due} = 1850 \text{ (cost with pet fee)} + 370 \text{ (service/cleaning fee)} = 2220
+     \]
+
+5. **Calculate the security deposit**:
+   - The security deposit is 50% of the total amount due.
+   - So we calculate 50% of $2220:
+     \[
+     \text{Security Deposit} = 0.50 \times 2220 = 1110
+     \]
+
+Putting this all together, the amount for their security deposit is $1110. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>1110</answer>

@@ -1,0 +1,47 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of students wearing striped shirts.**
+   - We know that two-thirds of the 81 students are wearing striped shirts. 
+   - To find this, we calculate:
+     \[
+     \text{Number of striped shirts} = \frac{2}{3} \times 81
+     \]
+   - Performing the multiplication:
+     \[
+     \frac{2 \times 81}{3} = \frac{162}{3} = 54
+     \]
+   - Therefore, 54 students are wearing striped shirts.
+
+2. **Determine the number of students wearing checkered shirts.**
+   - The remaining students are wearing checkered shirts. Since there are 81 students in total:
+     \[
+     \text{Number of checkered shirts} = 81 - 54 = 27
+     \]
+   - Therefore, 27 students are wearing checkered shirts.
+
+3. **Determine the number of students wearing shorts.**
+   - We know that there are 19 more students wearing shorts than checkered shirts. So we can set up an equation:
+     \[
+     \text{Number of shorts} = \text{Number of checkered shirts} + 19
+     \]
+   - Substituting the number of checkered shirts:
+     \[
+     \text{Number of shorts} = 27 + 19 = 46
+     \]
+   - Therefore, there are 46 students wearing shorts.
+
+4. **Determine how many more students are wearing striped shirts than shorts.**
+   - We need to find the difference between the number of students wearing striped shirts and the number of students wearing shorts:
+     \[
+     \text{Difference} = \text{Number of striped shirts} - \text{Number of shorts}
+     \]
+   - Substituting the known values:
+     \[
+     \text{Difference} = 54 - 46 = 8
+     \]
+   - Therefore, there are 8 more students wearing striped shirts than shorts.
+
+Putting it all together, we have found the final answer.
+</reasoning>
+<answer>8</answer>

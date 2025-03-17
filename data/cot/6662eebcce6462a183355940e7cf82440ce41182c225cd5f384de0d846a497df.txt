@@ -1,0 +1,49 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Swimming Distance Calculation**:
+   - Tom swims for 2 hours at a speed of 2 miles per hour.
+   - To find the distance covered while swimming, we use the formula:
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time}
+     \]
+   - Here, the speed is 2 miles/hour and the time is 2 hours.
+   - So, the distance he swims is:
+     \[
+     \text{Swimming Distance} = 2 \, \text{miles/hour} \times 2 \, \text{hours} = 4 \, \text{miles}
+     \]
+
+2. **Running Time Calculation**:
+   - After swimming, Tom runs for half the time he spent swimming.
+   - Since he swam for 2 hours, half of that time is:
+     \[
+     \text{Running Time} = \frac{2}{2} = 1 \, \text{hour}
+     \]
+
+3. **Running Speed Calculation**:
+   - Tom runs at 4 times the speed he swam.
+   - His swimming speed is 2 miles/hour, so his running speed is:
+     \[
+     \text{Running Speed} = 4 \times 2 \, \text{miles/hour} = 8 \, \text{miles/hour}
+     \]
+
+4. **Running Distance Calculation**:
+   - To find the distance covered while running, we again use the formula:
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time}
+     \]
+   - Here, the speed is 8 miles/hour and the time is 1 hour.
+   - So, the distance he runs is:
+     \[
+     \text{Running Distance} = 8 \, \text{miles/hour} \times 1 \, \text{hour} = 8 \, \text{miles}
+     \]
+
+5. **Total Distance Calculation**:
+   - Finally, to find the total distance covered, we add the distances from swimming and running:
+     \[
+     \text{Total Distance} = \text{Swimming Distance} + \text{Running Distance} = 4 \, \text{miles} + 8 \, \text{miles} = 12 \, \text{miles}
+     \]
+
+Therefore, the total distance Tom covered is:
+</reasoning>
+<answer>12</answer>

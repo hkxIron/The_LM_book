@@ -1,0 +1,39 @@
+<reasoning>
+To determine how many plates Matt needs to buy, we will first calculate the total number of plates used each week based on the number of days and the number of people eating.
+
+1. **Identify the days of the week:**
+   There are 7 days in a week.
+
+2. **Calculate plates used for the first 3 days:**
+   On 3 days a week, only Matt and his son are eating. 
+   - Each of them uses 1 plate, so together they use:
+     \[
+     1 \text{ plate (Matt)} + 1 \text{ plate (son)} = 2 \text{ plates}
+     \]
+   - For 3 days, the total plates used are:
+     \[
+     2 \text{ plates/day} \times 3 \text{ days} = 6 \text{ plates}
+     \]
+
+3. **Calculate plates used for the remaining 4 days:**
+   On the remaining 4 days, Matt's parents join them, so there are 4 people eating (Matt, his son, and his parents).
+   - Each of them uses 2 plates, so together they use:
+     \[
+     2 \text{ plates/person} \times 4 \text{ people} = 8 \text{ plates}
+     \]
+   - For 4 days, the total plates used are:
+     \[
+     8 \text{ plates/day} \times 4 \text{ days} = 32 \text{ plates}
+     \]
+
+4. **Calculate the total number of plates used in a week:**
+   Now, we add the total plates used for both scenarios:
+   - Plates used in the first 3 days: 6 plates
+   - Plates used in the remaining 4 days: 32 plates
+   \[
+   6 \text{ plates} + 32 \text{ plates} = 38 \text{ plates}
+   \]
+
+Thus, Matt needs to buy a total of 38 plates to ensure he can do dishes only once a week.
+</reasoning>
+<answer>38</answer>

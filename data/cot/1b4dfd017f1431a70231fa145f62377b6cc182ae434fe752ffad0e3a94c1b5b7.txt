@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Grant's earnings for the first month:**
+   Grant made $350 in the first month. 
+
+   So, 
+   \[
+   \text{First month earnings} = 350
+   \]
+
+2. **Calculate Grant's earnings for the second month:**
+   According to the problem, Grant made $50 more than double what he made in the first month. 
+
+   First, we find double the first month’s earnings:
+   \[
+   \text{Double first month earnings} = 2 \times 350 = 700
+   \]
+   Now, we add $50 to this amount:
+   \[
+   \text{Second month earnings} = 700 + 50 = 750
+   \]
+
+3. **Calculate Grant's earnings for the third month:**
+   The problem states that Grant quadrupled the sum of the first two months' earnings. 
+
+   First, we calculate the sum of the first two months:
+   \[
+   \text{Sum of first two months} = 350 + 750 = 1100
+   \]
+   Now, we quadruple this sum:
+   \[
+   \text{Third month earnings} = 4 \times 1100 = 4400
+   \]
+
+4. **Calculate the total earnings over the three months:**
+   Now, we can find the total earnings by adding up all three months' earnings:
+   \[
+   \text{Total earnings} = 350 + 750 + 4400
+   \]
+   First, we add the first two amounts:
+   \[
+   350 + 750 = 1100
+   \]
+   Now, we add this to the third month’s earnings:
+   \[
+   1100 + 4400 = 5500
+   \]
+
+Therefore, Grant's total earnings over the three months is $5500.
+</reasoning>
+<answer>5500</answer>

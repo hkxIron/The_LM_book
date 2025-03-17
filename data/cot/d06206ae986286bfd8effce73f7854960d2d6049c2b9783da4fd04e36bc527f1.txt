@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify Tim's age**: Tim is given as 5 years old.
+
+2. **Calculate Rommel's age**: We know that Rommel is thrice as old as Tim. So we can calculate Rommel's age by multiplying Tim's age by 3.
+   \[
+   \text{Rommel's age} = 3 \times \text{Tim's age} = 3 \times 5 = 15
+   \]
+   Therefore, Rommel is 15 years old.
+
+3. **Calculate Jenny's age**: It is stated that Jenny is 2 years older than Rommel. We will add 2 years to Rommel's age to find Jenny's age.
+   \[
+   \text{Jenny's age} = \text{Rommel's age} + 2 = 15 + 2 = 17
+   \]
+   Therefore, Jenny is 17 years old.
+
+4. **Determine how many years younger Tim is than Jenny**: To find out how many years younger Tim is than Jenny, we subtract Tim's age from Jenny's age.
+   \[
+   \text{Difference in age} = \text{Jenny's age} - \text{Tim's age} = 17 - 5 = 12
+   \]
+
+Thus, Tim is 12 years younger than Jenny.
+</reasoning>
+<answer>12</answer>

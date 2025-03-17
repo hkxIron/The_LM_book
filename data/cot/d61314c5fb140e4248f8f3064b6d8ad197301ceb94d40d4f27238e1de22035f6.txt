@@ -1,0 +1,52 @@
+<reasoning>
+To find out the total age of Susan, Arthur, Tom, and Bob, we will calculate the ages of each sibling step by step based on the information provided.
+
+1. We know that Bob is 11 years old. 
+   - Therefore, Bob's age = 11 years.
+
+2. We are also told that Susan is 15 years old.
+   - Therefore, Susan's age = 15 years.
+
+3. Next, we need to find Arthur's age. The problem states that Arthur is 2 years older than Susan.
+   - Since Susan is 15 years old, we calculate Arthur's age as follows:
+     \[
+     \text{Arthur's age} = \text{Susan's age} + 2 = 15 + 2 = 17 \text{ years old}
+     \]
+
+4. Now, we need to find Tom's age. The problem states that Tom is 3 years younger than Bob. 
+   - Since Bob is 11 years old, we calculate Tom's age as follows:
+     \[
+     \text{Tom's age} = \text{Bob's age} - 3 = 11 - 3 = 8 \text{ years old}
+     \]
+
+5. Now that we have all the ages, we can list them:
+   - Susan = 15 years
+   - Arthur = 17 years
+   - Tom = 8 years
+   - Bob = 11 years
+
+6. To find the total age of all four siblings, we add their ages together:
+   \[
+   \text{Total age} = \text{Susan's age} + \text{Arthur's age} + \text{Tom's age} + \text{Bob's age} 
+   \]
+   \[
+   \text{Total age} = 15 + 17 + 8 + 11
+   \]
+
+7. Now, let's perform the addition step by step:
+   - First, add Susan and Arthur:
+     \[
+     15 + 17 = 32
+     \]
+   - Next, add Tom:
+     \[
+     32 + 8 = 40
+     \]
+   - Finally, add Bob:
+     \[
+     40 + 11 = 51
+     \]
+
+Therefore, the total age of all four family members is 51 years.
+</reasoning>
+<answer>51</answer>

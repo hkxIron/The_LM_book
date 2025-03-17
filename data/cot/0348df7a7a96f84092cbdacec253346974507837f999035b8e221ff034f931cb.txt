@@ -1,0 +1,18 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. First, we need to identify how many classes Eduardo taught. According to the problem, Eduardo taught 3 classes last week.
+
+2. Next, we need to find out how many classes Frankie taught. The problem states that Frankie taught double what Eduardo taught. Since Eduardo taught 3 classes, we can calculate Frankie's classes as follows:
+   \[
+   \text{Frankie's classes} = 2 \times \text{Eduardo's classes} = 2 \times 3 = 6
+   \]
+
+3. Now that we have the number of classes each teacher taught, we can find the total number of classes taught by both Eduardo and Frankie. We will add the number of classes Eduardo taught to the number of classes Frankie taught:
+   \[
+   \text{Total classes} = \text{Eduardo's classes} + \text{Frankie's classes} = 3 + 6 = 9
+   \]
+
+Therefore, combining everything, we find that Eduardo and Frankie taught a total of 9 classes last week.
+</reasoning>
+<answer>9</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much Micheal will need to pay for 18 hours of piano lessons, we first need to determine how many lessons he will require to reach that total time.
+
+1. **Calculate the duration of each lesson**: Each lesson lasts for 1.5 hours.
+
+2. **Determine how many lessons are needed for 18 hours**: To find the number of lessons, we divide the total number of hours Micheal wants (18 hours) by the duration of each lesson (1.5 hours).
+   \[
+   \text{Number of lessons} = \frac{18 \text{ hours}}{1.5 \text{ hours/lesson}} 
+   \]
+   Performing the calculation:
+   \[
+   \text{Number of lessons} = 12
+   \]
+   This means Micheal needs to take 12 lessons to complete a total of 18 hours.
+
+3. **Calculate the total cost of the lessons**: Each lesson costs $30. To find the total cost, we multiply the number of lessons (12) by the cost per lesson ($30).
+   \[
+   \text{Total cost} = \text{Number of lessons} \times \text{Cost per lesson} = 12 \times 30
+   \]
+   Performing the multiplication:
+   \[
+   \text{Total cost} = 360
+   \]
+
+Therefore, Micheal will need to pay a total of $360 for 18 hours of piano lessons.
+</reasoning>
+<answer>360</answer>

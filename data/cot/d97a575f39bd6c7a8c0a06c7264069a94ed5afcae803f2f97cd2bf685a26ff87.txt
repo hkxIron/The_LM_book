@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify Connor's score**: 
+   Connor scored 2 points in the game. We will denote Connor's score as C.
+   \[
+   C = 2
+   \]
+
+2. **Calculate Amy's score**: 
+   Amy scored 4 more points than Connor. To find Amy's score (A), we add 4 to Connor's score.
+   \[
+   A = C + 4 = 2 + 4 = 6
+   \]
+
+3. **Calculate Jason's score**: 
+   Jason scored twice the score of Amy. To find Jason's score (J), we multiply Amy's score by 2.
+   \[
+   J = 2 \times A = 2 \times 6 = 12
+   \]
+
+4. **Calculate the total score of the team**: 
+   Now, we need to find the total score of Connor, Amy, and Jason. We will add their scores together.
+   \[
+   \text{Total Score} = C + A + J = 2 + 6 + 12
+   \]
+
+   Performing the addition:
+   \[
+   2 + 6 = 8
+   \]
+   \[
+   8 + 12 = 20
+   \]
+
+Thus, the total points scored by their team is 20.
+</reasoning>
+<answer>20</answer>

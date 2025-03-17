@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many bags of apples Pam has, we will go through the problem step by step.
+
+1. **Understand how many apples are in one of Pam's bags compared to Gerald's bags.** 
+   - We know that each of Pam's bags has as many apples as 3 of Gerald's bags.
+   - Since Gerald's bags have 40 apples each, we can calculate the number of apples in one of Gerald's bags:
+     \[
+     \text{Apples in one of Gerald's bags} = 40
+     \]
+   - Now, we calculate the number of apples in one of Pam's bags:
+     \[
+     \text{Apples in one of Pam's bags} = 3 \times \text{Apples in one of Gerald's bags} = 3 \times 40 = 120
+     \]
+
+2. **Determine the total number of bags Pam has.** 
+   - We know that Pam has a total of 1200 apples.
+   - To find out how many bags of apples Pam has, we divide the total number of apples she has by the number of apples in one of her bags:
+     \[
+     \text{Number of bags Pam has} = \frac{\text{Total apples Pam has}}{\text{Apples in one of Pam's bags}} = \frac{1200}{120}
+     \]
+   - Calculating this gives:
+     \[
+     \frac{1200}{120} = 10
+     \]
+
+Therefore, Pam has 10 bags of apples.
+</reasoning>
+<answer>10</answer>

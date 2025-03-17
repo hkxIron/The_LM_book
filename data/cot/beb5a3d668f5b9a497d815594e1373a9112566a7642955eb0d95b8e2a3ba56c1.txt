@@ -1,0 +1,29 @@
+<reasoning>
+To find the total number of baskets made during the game, we first need to calculate how many baskets each player made based on their points scored.
+
+1. **Calculate Matthew's baskets**: 
+   - Matthew scored 9 points.
+   - Since each basket is worth 3 points, we can find the number of baskets he made by dividing his total points by the points per basket.
+   - Thus, we calculate: 
+     \[
+     \text{Baskets by Matthew} = \frac{9 \text{ points}}{3 \text{ points per basket}} = 3 \text{ baskets}
+     \]
+
+2. **Calculate Shawn's baskets**: 
+   - Shawn scored 6 points.
+   - Using the same method as above, we divide his total points by the points per basket to find the number of baskets he made.
+   - Thus, we calculate:
+     \[
+     \text{Baskets by Shawn} = \frac{6 \text{ points}}{3 \text{ points per basket}} = 2 \text{ baskets}
+     \]
+
+3. **Calculate total baskets made**: 
+   - Now that we have the number of baskets made by both Matthew and Shawn, we can find the total.
+   - We add the baskets made by both players:
+     \[
+     \text{Total baskets} = \text{Baskets by Matthew} + \text{Baskets by Shawn} = 3 + 2 = 5 \text{ baskets}
+     \]
+
+Therefore, the total number of baskets made during the game is 5.
+</reasoning>
+<answer>5</answer>

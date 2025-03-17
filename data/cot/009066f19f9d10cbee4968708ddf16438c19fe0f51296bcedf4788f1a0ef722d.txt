@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many pillows Miranda can stuff after plucking the goose, we need to calculate the total number of pounds of feathers she can obtain from the goose, and then how many pillows that translates into.
+
+1. **Calculate the total pounds of feathers from the goose**: 
+   We know that there are about 300 feathers in one pound. Since the goose has approximately 3600 feathers, we can find out how many pounds of feathers that is by dividing the total number of feathers by the number of feathers per pound.
+
+   \[
+   \text{Total pounds of feathers} = \frac{\text{Total feathers}}{\text{Feathers per pound}} = \frac{3600}{300} = 12 \text{ pounds}
+   \]
+
+   Here, I divided 3600 by 300 to convert the total number of feathers into pounds since we need this quantity to calculate how many pillows can be stuffed.
+
+2. **Determine how many pillows can be stuffed**: 
+   Miranda needs 2 pounds of feathers for each pillow. To find out how many pillows she can stuff with the 12 pounds of feathers, we will divide the total pounds of feathers by the pounds needed per pillow.
+
+   \[
+   \text{Number of pillows} = \frac{\text{Total pounds of feathers}}{\text{Pounds per pillow}} = \frac{12}{2} = 6
+   \]
+
+   Here, I divided 12 by 2 to find out how many pillows can be stuffed, as each pillow requires 2 pounds of feathers.
+
+Thus, after plucking the goose, Miranda can stuff a total of 6 pillows.
+</reasoning>
+<answer>6</answer>

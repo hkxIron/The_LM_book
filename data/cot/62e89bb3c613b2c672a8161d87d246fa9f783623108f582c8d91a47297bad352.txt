@@ -1,0 +1,49 @@
+<reasoning>
+To find out how much Betty spends in total for her party, we will calculate the cost for each type of item separately and then add them all together.
+
+1. **Calculating the cost of drinks:**
+   - Betty buys 10 drinks, and each drink costs $2.
+   - The total cost for drinks can be calculated using the formula:
+     \[
+     \text{Total cost of drinks} = \text{Number of drinks} \times \text{Cost per drink}
+     \]
+   - Substituting the values:
+     \[
+     \text{Total cost of drinks} = 10 \times 2 = 20
+     \]
+
+2. **Calculating the cost of cakes:**
+   - Betty buys 5 cakes, and each cake costs $10.
+   - The total cost for cakes is calculated as:
+     \[
+     \text{Total cost of cakes} = \text{Number of cakes} \times \text{Cost per cake}
+     \]
+   - Substituting the values:
+     \[
+     \text{Total cost of cakes} = 5 \times 10 = 50
+     \]
+
+3. **Calculating the cost of ice creams:**
+   - Betty buys 100 ice creams, and each ice cream costs $5.
+   - The total cost for ice creams is calculated as:
+     \[
+     \text{Total cost of ice creams} = \text{Number of ice creams} \times \text{Cost per ice cream}
+     \]
+   - Substituting the values:
+     \[
+     \text{Total cost of ice creams} = 100 \times 5 = 500
+     \]
+
+4. **Calculating the total cost:**
+   - Now, we will add the total costs of drinks, cakes, and ice creams together:
+     \[
+     \text{Total cost} = \text{Total cost of drinks} + \text{Total cost of cakes} + \text{Total cost of ice creams}
+     \]
+   - Substituting the previously calculated costs:
+     \[
+     \text{Total cost} = 20 + 50 + 500 = 570
+     \]
+
+Therefore, Betty spends a total of $570 for her party.
+</reasoning>
+<answer>570</answer>

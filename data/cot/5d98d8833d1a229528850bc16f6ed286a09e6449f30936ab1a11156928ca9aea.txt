@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step to find out how much money the pie shop will earn from selling the custard pies.
+
+1. **Determine the number of slices in one pie.**  
+   The problem states that each whole pie is cut into 10 slices. So, for one pie, we have:
+   \[
+   \text{slices per pie} = 10
+   \]
+
+2. **Calculate the total number of slices from 6 pies.**  
+   If the pie shop makes 6 whole custard pies, we need to find out how many slices that amounts to. We can calculate this by multiplying the number of pies by the number of slices per pie:
+   \[
+   \text{total slices} = \text{number of pies} \times \text{slices per pie} = 6 \times 10
+   \]
+   Performing the multiplication:
+   \[
+   \text{total slices} = 60
+   \]
+
+3. **Find the price for one slice.**  
+   The problem states that each slice of custard pie costs $3. So:
+   \[
+   \text{price per slice} = 3
+   \]
+
+4. **Calculate the total earnings from selling all the slices.**  
+   To find out how much money the pie shop will earn, we multiply the total number of slices by the price per slice:
+   \[
+   \text{total earnings} = \text{total slices} \times \text{price per slice} = 60 \times 3
+   \]
+   Performing this multiplication gives us:
+   \[
+   \text{total earnings} = 180
+   \]
+
+Therefore, the pie shop will earn a total of $180 from selling the slices of custard pie.
+</reasoning>
+<answer>180</answer>

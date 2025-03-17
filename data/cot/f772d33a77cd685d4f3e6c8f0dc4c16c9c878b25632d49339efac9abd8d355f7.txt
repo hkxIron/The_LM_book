@@ -1,0 +1,50 @@
+<reasoning>
+To find out how much Eve will spend on the gifts, we need to first calculate the total cost of the cooking gear without the discount and then apply the 25% discount to that total.
+
+1. **Calculate the cost of the hand mitts for 3 nieces:**
+   The cost of one hand mitt is $14.00, and since Eve is buying one for each of her 3 nieces, we multiply:
+   \[
+   3 \text{ mitts} \times 14 \text{ dollars/mitt} = 42 \text{ dollars}
+   \]
+
+2. **Calculate the cost of the aprons for 3 nieces:**
+   The cost of one apron is $16.00. Again, we multiply for 3 nieces:
+   \[
+   3 \text{ aprons} \times 16 \text{ dollars/apron} = 48 \text{ dollars}
+   \]
+
+3. **Calculate the cost of the cooking utensils:**
+   A set of 3 cooking utensils costs $10.00, and since Eve is buying one set for each niece, we multiply:
+   \[
+   3 \text{ sets} \times 10 \text{ dollars/set} = 30 \text{ dollars}
+   \]
+
+4. **Calculate the cost of the small knives:**
+   The price of a small knife is twice the cost of the cooking utensils. Since a set of cooking utensils costs $10.00, the cost of one small knife is:
+   \[
+   2 \times 10 \text{ dollars} = 20 \text{ dollars}
+   \]
+   Therefore, for 3 small knives, we multiply:
+   \[
+   3 \text{ knives} \times 20 \text{ dollars/knife} = 60 \text{ dollars}
+   \]
+
+5. **Calculate the total cost before the discount:**
+   Now, we add all the costs together:
+   \[
+   42 \text{ dollars (mitts)} + 48 \text{ dollars (aprons)} + 30 \text{ dollars (utensils)} + 60 \text{ dollars (knives)} = 180 \text{ dollars}
+   \]
+
+6. **Apply the 25% discount:**
+   First, we need to find out how much 25% of $180 is:
+   \[
+   0.25 \times 180 \text{ dollars} = 45 \text{ dollars}
+   \]
+   Now, we subtract this discount from the total cost:
+   \[
+   180 \text{ dollars} - 45 \text{ dollars} = 135 \text{ dollars}
+   \]
+
+Therefore, the total amount Eve will spend on the gifts is:
+</reasoning>
+<answer>135</answer>

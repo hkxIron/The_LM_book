@@ -1,0 +1,31 @@
+<reasoning>
+To find out what percentage towards his goal Calvin is, we first need to determine the total number of haircuts he needs to reach his goal. He has already had 8 haircuts and needs 2 more. 
+
+1. **Calculate the total number of haircuts needed:**
+   \[
+   \text{Total haircuts needed} = \text{haircuts already had} + \text{haircuts still needed} = 8 + 2 = 10
+   \]
+   Here, we simply added the number of haircuts he has had (8) to the number he still needs (2) to find the total.
+
+2. **Calculate the percentage of the goal already achieved:**
+   To find the percentage, we use the formula:
+   \[
+   \text{Percentage towards goal} = \left( \frac{\text{haircuts already had}}{\text{total haircuts needed}} \right) \times 100
+   \]
+   Substituting in the numbers we calculated:
+   \[
+   \text{Percentage towards goal} = \left( \frac{8}{10} \right) \times 100
+   \]
+   This gives us the fraction of the goal he has achieved, which we then multiply by 100 to convert it to a percentage.
+
+3. **Perform the calculation:**
+   \[
+   \frac{8}{10} = 0.8
+   \]
+   Now, multiply by 100:
+   \[
+   0.8 \times 100 = 80
+   \]
+   Therefore, this means Calvin has achieved 80% of his goal.
+</reasoning>
+<answer>80</answer>

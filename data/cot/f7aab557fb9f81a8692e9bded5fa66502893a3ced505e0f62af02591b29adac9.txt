@@ -1,0 +1,57 @@
+<reasoning>
+Let's break down the information given in the problem step by step.
+
+1. **Define the variables**: 
+   - Let \( C \) be the number of cats that Frankie has.
+   - Since Frankie has six more snakes than cats, the number of snakes \( S \) can be expressed as \( S = C + 6 \).
+   - He has one less parrot than cats, so the number of parrots \( P \) can be expressed as \( P = C - 1 \).
+   - We know that Frankie has 2 dogs, so the number of dogs \( D = 2 \).
+
+2. **Count the pets with four legs**: 
+   - We know that six of his pets have four legs. Since dogs and cats have four legs, we can express this as:
+     \[
+     C + D = 6
+     \]
+     Substituting \( D = 2 \) into this equation gives:
+     \[
+     C + 2 = 6
+     \]
+     To find \( C \), we subtract 2 from both sides:
+     \[
+     C = 6 - 2 = 4
+     \]
+   - So, Frankie has 4 cats.
+
+3. **Calculate the number of snakes and parrots**: 
+   - Now we can find the number of snakes using the earlier expression \( S = C + 6 \):
+     \[
+     S = 4 + 6 = 10
+     \]
+   - Next, we find the number of parrots using \( P = C - 1 \):
+     \[
+     P = 4 - 1 = 3
+     \]
+
+4. **Total number of pets**: 
+   - Now we can find the total number of pets by adding the number of each type of pet:
+     \[
+     \text{Total pets} = C + S + P + D
+     \]
+     Substituting the values we found:
+     \[
+     \text{Total pets} = 4 + 10 + 3 + 2
+     \]
+     Now, calculating this gives:
+     \[
+     4 + 10 = 14,
+     \]
+     \[
+     14 + 3 = 17,
+     \]
+     \[
+     17 + 2 = 19.
+     \]
+
+Therefore, Frankie has a total of 19 pets.
+</reasoning>
+<answer>19</answer>

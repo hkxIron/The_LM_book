@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Calculate David's time for the freestyle**:
+   - David swims the 100-meter freestyle in 48 seconds.
+   - Time for freestyle = 48 seconds.
+
+2. **Calculate David's time for the backstroke**:
+   - He swims the backstroke 4 seconds slower than the freestyle.
+   - Therefore, time for backstroke = 48 seconds + 4 seconds = 52 seconds.
+
+3. **Calculate David's time for the butterfly**:
+   - He swims the butterfly 3 seconds slower than the backstroke.
+   - Therefore, time for butterfly = 52 seconds + 3 seconds = 55 seconds.
+
+4. **Calculate David's time for the breaststroke**:
+   - He swims the breaststroke 2 seconds slower than the butterfly.
+   - Therefore, time for breaststroke = 55 seconds + 2 seconds = 57 seconds.
+
+5. **Calculate the combined time for all four events**:
+   - Now we need to add the times for all four events together:
+     - Time for freestyle = 48 seconds
+     - Time for backstroke = 52 seconds
+     - Time for butterfly = 55 seconds
+     - Time for breaststroke = 57 seconds
+   - Combined time = 48 + 52 + 55 + 57.
+
+   Let's do the addition step by step:
+   - First, add freestyle and backstroke: 
+     48 + 52 = 100 seconds.
+   - Next, add butterfly:
+     100 + 55 = 155 seconds.
+   - Finally, add breaststroke:
+     155 + 57 = 212 seconds.
+
+Therefore, the combined length of time it would take for David to swim all four 100-meter events is 212 seconds.
+</reasoning>
+<answer>212</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To determine how heavy the weights felt when being lowered, we first need to calculate the total weight of the plates and then apply the 20% increase for the lowering portion.
+
+1. **Calculate the total weight of the plates:**
+   Tom has 10 weight plates, and each plate weighs 30 pounds. To find the total weight, we multiply the number of plates by the weight of each plate:
+   \[
+   \text{Total weight} = \text{Number of plates} \times \text{Weight per plate} = 10 \times 30 = 300 \text{ pounds}
+   \]
+   This gives us a total weight of 300 pounds.
+
+2. **Calculate the increased weight on lowering:**
+   The problem states that the weight feels 20% heavier on the lowering portion. To find this increased weight, we calculate 20% of the total weight and then add it to the original weight:
+   \[
+   \text{Increase} = 20\% \text{ of Total weight} = 0.20 \times 300 = 60 \text{ pounds}
+   \]
+
+3. **Add the increase to the original weight:**
+   Now, we add this increase to the original total weight to find the effective weight felt during the lowering:
+   \[
+   \text{Effective weight felt} = \text{Total weight} + \text{Increase} = 300 + 60 = 360 \text{ pounds}
+   \]
+
+Therefore, when being lowered, the weights felt like 360 pounds.
+</reasoning>
+<answer>360</answer>

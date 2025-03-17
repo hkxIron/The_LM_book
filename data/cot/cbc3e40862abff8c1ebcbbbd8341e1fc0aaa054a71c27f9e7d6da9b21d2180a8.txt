@@ -1,0 +1,44 @@
+<reasoning>
+To solve this problem, we will break it down into smaller steps.
+
+1. **Determine the number of games John plays**: 
+   The team plays a total of 20 games, and John plays in 80% of these games. 
+   \[
+   \text{Games played by John} = 20 \times 0.8 
+   \]
+   \[
+   \text{Games played by John} = 16
+   \]
+
+2. **Calculate the total number of fouls he receives**: 
+   John gets fouled 5 times in each game. Therefore, in the 16 games he plays, we can calculate the total fouls:
+   \[
+   \text{Total fouls} = 5 \times 16 
+   \]
+   \[
+   \text{Total fouls} = 80
+   \]
+
+3. **Determine the total number of free throw attempts**: 
+   For each foul, John gets 2 free throw shots. Thus, we multiply the total number of fouls by 2 to find the total number of free throw attempts:
+   \[
+   \text{Total free throw attempts} = 80 \times 2 
+   \]
+   \[
+   \text{Total free throw attempts} = 160
+   \]
+
+4. **Calculate the number of successful free throws**: 
+   John hits 70% of his free throws. To find the number of successful free throws, we take 70% of the total attempts:
+   \[
+   \text{Successful free throws} = 0.7 \times 160 
+   \]
+   \[
+   \text{Successful free throws} = 112
+   \]
+
+Now we have completed all the calculations needed for the problem. 
+
+Therefore, the total number of successful free throws John makes is:
+</reasoning>
+<answer>112</answer>

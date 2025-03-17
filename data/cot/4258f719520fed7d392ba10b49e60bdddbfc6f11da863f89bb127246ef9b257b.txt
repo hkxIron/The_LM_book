@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Calculate the number of boxes sold on Friday**:
+   - We know that Markeesha sold 30 boxes of crackers on Friday.
+   - So, Friday's sales = 30 boxes.
+
+2. **Calculate the number of boxes sold on Saturday**:
+   - On Saturday, she sold twice as many as she did on Friday.
+   - Therefore, Saturday's sales = 2 * 30 = 60 boxes.
+
+3. **Calculate the number of boxes sold on Sunday**:
+   - On Sunday, she sold 15 fewer boxes than she sold on Saturday.
+   - So, Sunday’s sales = Saturday's sales - 15 = 60 - 15 = 45 boxes.
+
+4. **Calculate the total boxes sold over the three days**:
+   - Now, we add the boxes sold on each day to find the total.
+   - Total boxes sold = Friday's sales + Saturday's sales + Sunday's sales
+   - Total boxes sold = 30 + 60 + 45.
+
+Let's compute that:
+30 + 60 = 90,
+90 + 45 = 135.
+
+Thus, the total number of boxes sold over the three days is 135.
+</reasoning>
+<answer>135</answer>

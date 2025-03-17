@@ -1,0 +1,20 @@
+<reasoning>
+To determine how many servings of peanut butter Toby should add, we start by calculating the total calories he gets from one piece of bread and then figure out how many servings of peanut butter are needed to reach 500 calories.
+
+1. **Calculate the calories from one piece of bread**: 
+   - Each piece of bread has 100 calories. 
+   - Therefore, with 1 piece of bread, Toby gets 100 calories.
+
+2. **Determine the remaining calories needed to reach 500 calories**:
+   - Toby's goal is 500 calories for breakfast.
+   - Since he gets 100 calories from the bread, we subtract that from 500.
+   - Remaining calories = 500 - 100 = 400 calories.
+
+3. **Calculate how many servings of peanut butter are needed**:
+   - Each serving of peanut butter has 200 calories.
+   - To find out how many servings of peanut butter Toby needs to reach the remaining 400 calories, we divide the remaining calories by the calories per serving of peanut butter.
+   - Number of servings = 400 calories ÷ 200 calories/serving = 2 servings.
+
+Therefore, Toby should add 2 servings of peanut butter to reach his goal of 500 calories for breakfast.
+</reasoning>
+<answer>2</answer>

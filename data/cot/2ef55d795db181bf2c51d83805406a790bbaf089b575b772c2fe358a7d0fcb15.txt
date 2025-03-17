@@ -1,0 +1,38 @@
+<reasoning>
+First, we need to calculate the total number of beads the girl poured into the bowl. There are 23 blue beads and 16 yellow beads.
+
+1. **Calculate Total Beads:**
+   \[
+   \text{Total beads} = \text{Blue beads} + \text{Yellow beads} = 23 + 16 = 39
+   \]
+   Here, we simply add the number of blue and yellow beads together to find the total.
+
+2. **Divide Total Beads into 3 Equal Parts:**
+   Next, we divide the total number of beads by 3 to find out how many beads are in each part before any are removed.
+   \[
+   \text{Beads per part} = \frac{\text{Total beads}}{3} = \frac{39}{3} = 13
+   \]
+   This step shows how we distribute the total beads equally among 3 parts.
+
+3. **Determine the Remaining Beads After Removal:**
+   After some beads are removed from each part, the girl ends up with 6 beads in each part after doubling the remaining beads. This means that before doubling, each part had:
+   \[
+   \text{Beads remaining in each part} = \frac{6}{2} = 3
+   \]
+   We divide 6 by 2 because the remaining beads were doubled to achieve the final count.
+
+4. **Calculate Beads Removed from Each Part:**
+   Initially, each part had 13 beads, and each part now has 3 beads left after removal. Therefore, the number of beads removed from each part is:
+   \[
+   \text{Beads removed} = \text{Initial beads per part} - \text{Remaining beads per part} = 13 - 3 = 10
+   \]
+
+Now we summarize the findings:
+- Total beads poured: 39
+- Beads per part initially: 13
+- Beads remaining after removal: 3
+- Beads removed from each part: 10
+
+Thus, the number of beads that were removed from each part is 10.
+</reasoning>
+<answer>10</answer>

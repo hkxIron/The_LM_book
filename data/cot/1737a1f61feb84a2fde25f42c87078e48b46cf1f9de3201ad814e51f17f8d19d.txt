@@ -1,0 +1,22 @@
+<reasoning>
+First, let's determine how many slices of the pie Nancy started with. She sliced the pie into 8 pieces.
+
+Next, we need to calculate how many slices she gave away. 
+
+1. Nancy gave 1/2 of the pie to Joe and Darcy. To find out how many slices that is, we calculate:
+   - 1/2 of 8 slices = 8 * (1/2) = 4 slices.
+   So, Joe and Darcy received 4 slices.
+
+2. Next, Nancy gave 1/4 of the pie to Carl. We calculate how many slices that is as well:
+   - 1/4 of 8 slices = 8 * (1/4) = 2 slices.
+   So, Carl received 2 slices.
+
+Now, let's add the slices she gave away to find the total number of slices given to Joe, Darcy, and Carl:
+- Slices given away = slices to Joe and Darcy + slices to Carl = 4 slices + 2 slices = 6 slices.
+
+Now, we need to determine how many slices are left after giving away slices. We subtract the total slices given away from the total slices Nancy had:
+- Slices left = total slices - slices given away = 8 slices - 6 slices = 2 slices.
+
+Therefore, the number of slices left is:
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,51 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the sales from $5 bracelets**: 
+   Zayne made $60 from selling bracelets for $5 each. To find out how many bracelets he sold at this price, we can divide his total earnings from these bracelets by the price per bracelet.
+
+   \[
+   \text{Number of $5 bracelets sold} = \frac{\text{Total earnings from $5 bracelets}}{\text{Price per $5 bracelet}} = \frac{60}{5} = 12
+   \]
+
+   This means Zayne sold 12 bracelets for $5 each.
+
+2. **Calculating the remaining bracelets**:
+   Initially, Zayne had 30 bracelets. After selling 12 bracelets, we need to find out how many are left.
+
+   \[
+   \text{Remaining bracelets} = \text{Initial bracelets} - \text{Bracelets sold} = 30 - 12 = 18
+   \]
+
+   So, Zayne has 18 bracelets left.
+
+3. **Selling the remaining bracelets**:
+   The problem states that Zayne also sells bracelets at a rate of two for $8. We will now determine how many pairs of bracelets he can sell from the remaining 18 bracelets.
+
+   Since he can sell 2 bracelets for $8, we need to see how many complete pairs of 2 he can sell from 18.
+
+   \[
+   \text{Pairs of bracelets} = \frac{\text{Remaining bracelets}}{2} = \frac{18}{2} = 9
+   \]
+
+   This means he can sell 9 pairs of bracelets.
+
+4. **Calculating earnings from the pairs of bracelets**:
+   Now, we can calculate how much money he made from selling these pairs.
+
+   \[
+   \text{Earnings from pairs} = \text{Number of pairs} \times \text{Price per pair} = 9 \times 8 = 72
+   \]
+
+   So, Zayne made $72 from selling the remaining bracelets in pairs.
+
+5. **Calculating total earnings**:
+   Finally, we need to find the total earnings by adding the earnings from both the $5 bracelets and the pairs sold.
+
+   \[
+   \text{Total earnings} = \text{Earnings from $5 bracelets} + \text{Earnings from pairs} = 60 + 72 = 132
+   \]
+
+Therefore, Zayne made a total of $132 from selling his bracelets.
+</reasoning>
+<answer>132</answer>

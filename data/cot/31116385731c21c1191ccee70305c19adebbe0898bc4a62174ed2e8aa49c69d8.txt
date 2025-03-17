@@ -1,0 +1,40 @@
+<reasoning>
+To determine how much cheaper Store A's smartphone is compared to Store B's smartphone after applying the discounts, we will follow these steps:
+
+1. **Calculate the final price of the smartphone at Store A after the discount.**
+   - Store A's full price: $125
+   - Discount at Store A: 8%
+
+   To find the discount amount, we calculate:
+   \[
+   \text{Discount Amount}_A = \text{Full Price}_A \times \left(\frac{\text{Discount Percentage}_A}{100}\right) = 125 \times \left(\frac{8}{100}\right) = 125 \times 0.08 = 10
+   \]
+
+   Now, we subtract the discount amount from the full price to get the final price:
+   \[
+   \text{Final Price}_A = \text{Full Price}_A - \text{Discount Amount}_A = 125 - 10 = 115
+   \]
+
+2. **Calculate the final price of the smartphone at Store B after the discount.**
+   - Store B's full price: $130
+   - Discount at Store B: 10%
+
+   To find the discount amount, we calculate:
+   \[
+   \text{Discount Amount}_B = \text{Full Price}_B \times \left(\frac{\text{Discount Percentage}_B}{100}\right) = 130 \times \left(\frac{10}{100}\right) = 130 \times 0.10 = 13
+   \]
+
+   Now, we subtract the discount amount from the full price to get the final price:
+   \[
+   \text{Final Price}_B = \text{Full Price}_B - \text{Discount Amount}_B = 130 - 13 = 117
+   \]
+
+3. **Calculate how much cheaper Store A's smartphone is than Store B's smartphone.**
+   - We find the difference between the two final prices:
+   \[
+   \text{Difference} = \text{Final Price}_B - \text{Final Price}_A = 117 - 115 = 2
+   \]
+
+Therefore, after calculating the final prices at both stores and finding the difference, we determine that Store A's smartphone is $2 cheaper than Store B's smartphone.
+</reasoning>
+<answer>2</answer>

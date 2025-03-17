@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the initial number of elephants**: We start with 30,000 elephants in Utopia National Park on Friday night.
+
+2. **Calculate the total number of elephants that left the park**: During the 4-hour exodus, elephants were leaving at a rate of 2,880 elephants per hour. We can find the total number of elephants that left by multiplying the rate by the time:
+   \[
+   \text{Total elephants that left} = \text{Rate} \times \text{Time} = 2,880 \, \text{elephants/hour} \times 4 \, \text{hours} = 11,520 \, \text{elephants}
+   \]
+
+3. **Calculate the number of elephants left after the exodus**: We subtract the number of elephants that left from the initial number:
+   \[
+   \text{Remaining elephants} = \text{Initial elephants} - \text{Elephants that left} = 30,000 - 11,520 = 18,480 \, \text{elephants}
+   \]
+
+4. **Determine the final number of elephants in the park**: We know that after the subsequent 7-hour period, the final number of elephants is 28,980.
+
+5. **Calculate the number of elephants that entered the park**: The difference between the remaining elephants and the final number gives us the total number of new elephants that entered the park:
+   \[
+   \text{New elephants} = \text{Final elephants} - \text{Remaining elephants} = 28,980 - 18,480 = 10,500 \, \text{elephants}
+   \]
+
+6. **Calculate the rate of new elephants entering the park**: Since these new elephants entered over a period of 7 hours, we can find the rate by dividing the total new elephants by the time:
+   \[
+   \text{Rate of new elephants} = \frac{\text{New elephants}}{\text{Time}} = \frac{10,500 \, \text{elephants}}{7 \, \text{hours}} = 1,500 \, \text{elephants/hour}
+   \]
+
+Therefore, the rate at which new elephants entered the park is 1,500 elephants per hour.
+</reasoning>
+<answer>1500</answer>

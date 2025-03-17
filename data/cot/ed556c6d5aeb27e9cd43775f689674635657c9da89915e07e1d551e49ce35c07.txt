@@ -1,0 +1,32 @@
+<reasoning>
+First, we need to find out how much money is in one of Gina's accounts. According to the problem, each of Gina's accounts has a quarter of the balance of Betty's account.
+
+1. **Determine Betty's balance:** 
+   Betty's account balance is given as $3,456.
+
+2. **Calculate a quarter of Betty's balance:** 
+   To find a quarter of Betty's balance, we divide her balance by 4:
+   \[
+   \text{Gina's account balance} = \frac{3,456}{4}
+   \]
+
+   Now, let's perform the division:
+   \[
+   3,456 \div 4 = 864
+   \]
+   So, each of Gina's accounts has $864.
+
+3. **Calculate the combined balance of both accounts:**
+   Gina has two accounts, so we need to multiply the balance of one account by 2:
+   \[
+   \text{Combined balance} = 2 \times 864
+   \]
+
+   Now, let's perform the multiplication:
+   \[
+   2 \times 864 = 1,728
+   \]
+
+Thus, the combined balance of both of Gina's accounts is $1,728.
+</reasoning>
+<answer>1728</answer>

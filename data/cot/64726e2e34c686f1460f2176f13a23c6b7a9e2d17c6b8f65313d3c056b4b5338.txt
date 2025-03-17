@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many candies Emily bought**: According to the problem, Emily bought 6 candies.
+
+2. **Determine how many candies Jennifer bought**: The problem states that Jennifer bought twice as many candies as Emily. Since Emily bought 6 candies, we calculate Jennifer's candies as follows:
+   \[
+   \text{Jennifer's candies} = 2 \times \text{Emily's candies} = 2 \times 6 = 12
+   \]
+   So, Jennifer bought 12 candies.
+
+3. **Determine how many candies Bob bought**: The problem also tells us that Jennifer bought three times as many candies as Bob. We can set up the equation based on this information:
+   \[
+   \text{Jennifer's candies} = 3 \times \text{Bob's candies}
+   \]
+   We already found that Jennifer bought 12 candies, so we can substitute that into the equation:
+   \[
+   12 = 3 \times \text{Bob's candies}
+   \]
+
+4. **Solve for Bob's candies**: To find out how many candies Bob bought, we can rearrange this equation:
+   \[
+   \text{Bob's candies} = \frac{12}{3} = 4
+   \]
+   Therefore, Bob bought 4 candies.
+
+After completing these steps, we find that Bob bought 4 candies in total.
+</reasoning>
+<answer>4</answer>

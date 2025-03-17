@@ -1,0 +1,57 @@
+<reasoning>
+To find out how many red flowers Wilma has, we can follow these steps:
+
+1. **Calculate the total number of flowers in the garden**: 
+   - The garden has 6 rows, with 13 flowers in each row. 
+   - We multiply the number of rows by the number of flowers per row to find the total: 
+   \[
+   \text{Total flowers} = 6 \times 13
+   \]
+   - Calculating that gives:
+   \[
+   6 \times 13 = 78
+   \]
+   So, there are 78 flowers in total.
+
+2. **Determine the number of green flowers**: 
+   - Wilma has 12 yellow flowers. 
+   - It is given that she has two times more green flowers than yellow flowers. 
+   - Therefore, the number of green flowers is:
+   \[
+   \text{Green flowers} = 2 \times 12
+   \]
+   - Calculating that gives:
+   \[
+   2 \times 12 = 24
+   \]
+   So, Wilma has 24 green flowers.
+
+3. **Calculate the total number of yellow and green flowers**: 
+   - Now we need to add the yellow and green flowers together:
+   \[
+   \text{Total yellow and green flowers} = 12 + 24
+   \]
+   - Calculating that gives:
+   \[
+   12 + 24 = 36
+   \]
+   So, there are 36 flowers that are either yellow or green.
+
+4. **Determine the number of red flowers**: 
+   - To find the number of red flowers, we subtract the total number of yellow and green flowers from the total number of flowers:
+   \[
+   \text{Red flowers} = \text{Total flowers} - \text{Total yellow and green flowers}
+   \]
+   - Substituting the known values:
+   \[
+   \text{Red flowers} = 78 - 36
+   \]
+   - Calculating that gives:
+   \[
+   78 - 36 = 42
+   \]
+   So, Wilma has 42 red flowers.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>42</answer>

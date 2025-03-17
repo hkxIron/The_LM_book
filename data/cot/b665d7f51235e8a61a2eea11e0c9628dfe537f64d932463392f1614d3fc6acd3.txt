@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Calculate the decrease in price**: We need to find 15% of the original price of the book, which is $400. 
+   - To find 15%, we can multiply the original price by 0.15.
+   - Decrease = 400 * 0.15 = 60.
+
+2. **Subtract the decrease from the original price**: Now we will subtract the decrease from the original price to find the new price after the decrease.
+   - New Price after Decrease = Original Price - Decrease = 400 - 60 = 340.
+
+3. **Calculate the increase in price**: Next, we need to find 40% of the new price (which is now $340).
+   - To find 40%, we multiply the new price by 0.40.
+   - Increase = 340 * 0.40 = 136.
+
+4. **Add the increase to the new price**: Now we will add the increase to the new price to find the final price of the book.
+   - Final Price = New Price after Decrease + Increase = 340 + 136 = 476.
+
+Therefore, after decreasing the price by 15% and then increasing it by 40%, the final price of the book is $476.
+</reasoning>
+<answer>476</answer>

@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to determine how many people Aunt Angela is dividing the jellybeans among and then find out how many jellybeans each person receives.
+
+1. **Count the total number of recipients**: 
+   Aunt Angela has 3 nephews and 2 nieces. To find the total number of children, we add the number of nephews and nieces together:
+   \[
+   3 \text{ (nephews)} + 2 \text{ (nieces)} = 5 \text{ (total children)}
+   \]
+   This tells us that there are 5 recipients for the jellybeans.
+
+2. **Divide the total number of jellybeans by the number of recipients**:
+   Aunt Angela has 70 jellybeans, and we want to divide these equally among the 5 children. We perform the division:
+   \[
+   70 \text{ (jellybeans)} \div 5 \text{ (children)} = 14 \text{ (jellybeans per child)}
+   \]
+   This calculation shows that each child receives 14 jellybeans.
+
+Therefore, after dividing the jellybeans equally among her nephews and nieces, each one receives 14 jellybeans.
+</reasoning>
+<answer>14</answer>

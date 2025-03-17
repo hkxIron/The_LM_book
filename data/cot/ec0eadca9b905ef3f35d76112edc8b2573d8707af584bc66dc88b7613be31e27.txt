@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. First, we need to find out how many cows are black. We know that Sam has 18 cows in total. The problem states that 5 more than half of the cows are black. 
+
+2. To find half of the cows, we calculate:
+   \[
+   \text{Half of 18 cows} = \frac{18}{2} = 9
+   \]
+
+3. Now, according to the problem, the number of black cows is 5 more than this half:
+   \[
+   \text{Number of black cows} = 9 + 5 = 14
+   \]
+
+4. Next, we need to determine how many cows are not black. Since we know the total number of cows and the number of black cows, we can find the number of cows that are not black by subtracting the number of black cows from the total number of cows:
+   \[
+   \text{Number of cows not black} = \text{Total cows} - \text{Number of black cows} = 18 - 14 = 4
+   \]
+
+Therefore, after following these steps and reasoning through the calculations:
+</reasoning>
+<answer>4</answer>

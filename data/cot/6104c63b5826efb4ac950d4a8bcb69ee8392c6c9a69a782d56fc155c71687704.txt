@@ -1,0 +1,18 @@
+<reasoning>
+To find the total time Jack had to wait, we need to add the time he spent waiting at customs to the time he spent in quarantine. 
+
+1. **Convert the quarantine days into hours**: 
+   Jack was in quarantine for 14 days. 
+   To convert days to hours, we use the conversion factor that 1 day = 24 hours. 
+   So, we multiply the number of days by the number of hours in a day:
+
+   \( 14 \text{ days} \times 24 \text{ hours/day} = 336 \text{ hours} \)
+
+2. **Add the waiting time at customs (20 hours)**:
+   Now, we add the 20 hours he spent waiting at customs to the 336 hours he spent in quarantine:
+
+   \( 336 \text{ hours} + 20 \text{ hours} = 356 \text{ hours} \)
+
+Therefore, the total time Jack had to wait is 356 hours.
+</reasoning>
+<answer>356</answer>

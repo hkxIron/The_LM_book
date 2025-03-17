@@ -1,0 +1,32 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Calculate the total cost of the ducks:**  
+   John buys 30 ducks for $10 each. To find the total cost, we multiply the number of ducks by the cost per duck.  
+   \[
+   \text{Total Cost} = \text{Number of Ducks} \times \text{Cost per Duck} = 30 \times 10 = 300
+   \]
+   This means John spent $300 on the ducks.
+
+2. **Calculate the total weight of the ducks:**  
+   Each duck weighs 4 pounds. To find the total weight of all the ducks, we multiply the number of ducks by the weight per duck.  
+   \[
+   \text{Total Weight} = \text{Number of Ducks} \times \text{Weight per Duck} = 30 \times 4 = 120
+   \]
+   So, the total weight of the ducks is 120 pounds.
+
+3. **Calculate the total revenue from selling the ducks:**  
+   John sells the ducks for $5 per pound. To find the total revenue, we multiply the total weight by the price per pound.  
+   \[
+   \text{Total Revenue} = \text{Total Weight} \times \text{Price per Pound} = 120 \times 5 = 600
+   \]
+   This means John made $600 from selling the ducks.
+
+4. **Calculate the profit:**  
+   Profit is calculated by subtracting the total cost from the total revenue.  
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost} = 600 - 300 = 300
+   \]
+   Therefore, John made a profit of $300.
+</reasoning>
+<answer>300</answer>

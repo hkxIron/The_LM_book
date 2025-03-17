@@ -1,0 +1,56 @@
+<reasoning>
+To solve the problem, we will calculate the distance the Lamplighter monkey travels while running and then while swinging. We will use the formula for distance, which is:
+
+\[
+\text{Distance} = \text{Speed} \times \text{Time}
+\]
+
+**Step 1: Calculate the distance the monkey runs.**
+
+The monkey runs at a speed of 15 feet per second for 5 seconds. 
+
+Using the distance formula:
+
+\[
+\text{Distance}_{\text{run}} = \text{Speed}_{\text{run}} \times \text{Time}_{\text{run}} 
+\]
+\[
+\text{Distance}_{\text{run}} = 15 \, \text{feet/second} \times 5 \, \text{seconds} 
+\]
+\[
+\text{Distance}_{\text{run}} = 75 \, \text{feet}
+\]
+
+**Step 2: Calculate the distance the monkey swings.**
+
+Next, the monkey swings at a speed of 10 feet per second for 10 seconds.
+
+Using the distance formula again:
+
+\[
+\text{Distance}_{\text{swing}} = \text{Speed}_{\text{swing}} \times \text{Time}_{\text{swing}} 
+\]
+\[
+\text{Distance}_{\text{swing}} = 10 \, \text{feet/second} \times 10 \, \text{seconds} 
+\]
+\[
+\text{Distance}_{\text{swing}} = 100 \, \text{feet}
+\]
+
+**Step 3: Calculate the total distance traveled.**
+
+Now, we will add the distances from running and swinging together to find the total distance the monkey travels:
+
+\[
+\text{Total Distance} = \text{Distance}_{\text{run}} + \text{Distance}_{\text{swing}} 
+\]
+\[
+\text{Total Distance} = 75 \, \text{feet} + 100 \, \text{feet} 
+\]
+\[
+\text{Total Distance} = 175 \, \text{feet}
+\]
+
+Therefore, the total distance the Lamplighter monkey travels is:
+</reasoning>
+<answer>175</answer>

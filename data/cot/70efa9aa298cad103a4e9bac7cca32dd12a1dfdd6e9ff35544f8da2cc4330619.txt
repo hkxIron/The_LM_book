@@ -1,0 +1,37 @@
+<reasoning>
+Let's define the amount of money Annie had at first as \( x \).
+
+1. **Calculate the total cost of the hamburgers:**
+   - Each hamburger costs $4.
+   - Annie buys 8 hamburgers.
+   - Total cost for hamburgers = \( 8 \times 4 = 32 \) dollars.
+
+2. **Calculate the total cost of the milkshakes:**
+   - Each milkshake costs $5.
+   - Annie buys 6 milkshakes.
+   - Total cost for milkshakes = \( 6 \times 5 = 30 \) dollars.
+
+3. **Calculate the total spent on food:**
+   - Total spent = Total cost of hamburgers + Total cost of milkshakes
+   - Total spent = \( 32 + 30 = 62 \) dollars.
+
+4. **Set up the equation for the amount of money Annie had initially:**
+   - After spending $62, Annie has $70 left.
+   - Therefore, we can express this relationship as:
+     \[
+     x - 62 = 70
+     \]
+
+5. **Solve for \( x \):**
+   - To find \( x \), we add 62 to both sides of the equation:
+     \[
+     x = 70 + 62
+     \]
+   - Simplifying this, we get:
+     \[
+     x = 132
+     \]
+
+Thus, the amount of money Annie had at first is $132.
+</reasoning>
+<answer>132</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understanding the problem**: Kerry wants to have three cakes, and each cake will have his age in candles. Therefore, if Kerry is x years old, each cake will have x candles, making the total number of candles needed for three cakes equal to 3x.
+
+2. **Calculating the total cost of candles**: We know that candles come in boxes of 12, and each box costs $2.5. We also see that the total cost of candles is given as $5.
+
+3. **Finding out how many boxes of candles Kerry needs**: Since the total cost of candles is $5, we can find out how many boxes he bought. 
+   - The cost per box is $2.5, so:
+   \[
+   \text{Number of boxes} = \frac{\text{Total cost}}{\text{Cost per box}} = \frac{5}{2.5} = 2
+   \]
+   Kerry bought 2 boxes of candles.
+
+4. **Calculating the total number of candles he has**: Since each box contains 12 candles:
+   \[
+   \text{Total candles} = \text{Number of boxes} \times \text{Candles per box} = 2 \times 12 = 24
+   \]
+
+5. **Finding Kerry's age**: We established earlier that the total number of candles needed is 3x (three cakes, with x candles each). Since we found out that he has 24 candles total, we can set up the equation:
+   \[
+   3x = 24
+   \]
+
+6. **Solving for x**: To find x, we divide both sides of the equation by 3:
+   \[
+   x = \frac{24}{3} = 8
+   \]
+
+Thus, Kerry is 8 years old.
+
+Therefore, after calculating everything step by step and confirming the logic:
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,19 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many stickers Fred has**: According to the problem, Fred has 18 stickers. 
+
+2. **Find out how many stickers George has**: The problem states that George has 6 fewer stickers than Fred. Since Fred has 18 stickers, we can calculate George's stickers like this:
+   \[
+   \text{George's stickers} = \text{Fred's stickers} - 6 = 18 - 6 = 12
+   \]
+   So, George has 12 stickers.
+
+3. **Determine how many stickers Jerry has**: The problem indicates that Jerry has three times as many stickers as George. We can find the number of stickers Jerry has by multiplying George's stickers by 3:
+   \[
+   \text{Jerry's stickers} = 3 \times \text{George's stickers} = 3 \times 12 = 36
+   \]
+
+Therefore, Jerry has 36 stickers.
+</reasoning>
+<answer>36</answer>

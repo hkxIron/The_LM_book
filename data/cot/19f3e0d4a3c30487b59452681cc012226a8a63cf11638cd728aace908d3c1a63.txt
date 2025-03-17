@@ -1,0 +1,32 @@
+<reasoning>
+Let the number of oranges Emily sold be represented by \( x \). According to the problem, Alice sold twice as many oranges as Emily, so we can express the number of oranges Alice sold as \( 2x \).
+
+Now, we know that the total number of oranges sold by both Alice and Emily is 180. Therefore, we can set up the following equation:
+
+\[
+x + 2x = 180
+\]
+
+Now, we'll combine like terms:
+
+\[
+3x = 180
+\]
+
+To find the value of \( x \), we will divide both sides of the equation by 3:
+
+\[
+x = \frac{180}{3} = 60
+\]
+
+This means Emily sold 60 oranges. Since Alice sold twice as many as Emily, we calculate the number of oranges Alice sold:
+
+\[
+2x = 2 \cdot 60 = 120
+\]
+
+Thus, Alice sold 120 oranges.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>120</answer>

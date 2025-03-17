@@ -1,0 +1,30 @@
+<reasoning>
+Let's start by determining how many people are in the hotel.
+
+1. **Calculate the total number of people in the hotel**:
+   - The hotel has 10 rooms, and each room holds a family of 3.
+   - To find the total number of people, we multiply the number of rooms by the number of people per room:
+     \[
+     \text{Total people} = \text{Number of rooms} \times \text{People per room} = 10 \times 3
+     \]
+   - Performing the multiplication:
+     \[
+     10 \times 3 = 30
+     \]
+   - So, there are 30 people in the hotel.
+
+2. **Calculate the total number of towels needed**:
+   - Each person receives 2 towels.
+   - To find the total number of towels, we multiply the total number of people by the number of towels each person receives:
+     \[
+     \text{Total towels} = \text{Total people} \times \text{Towels per person} = 30 \times 2
+     \]
+   - Performing the multiplication:
+     \[
+     30 \times 2 = 60
+     \]
+   - So, the hotel hands out 60 towels.
+
+Therefore, I have calculated the total number of towels handed out by first finding the total number of people in the hotel and then determining the towels based on the number of people.
+</reasoning>
+<answer>60</answer>

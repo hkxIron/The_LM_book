@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many words Leo has left to write, we first need to determine how many words he has already written.
+
+1. **Calculate the total number of words on one page:**
+   - Since there are 10 words per line and 20 lines per page, we multiply these two numbers:
+   
+   \[
+   10 \text{ words/line} \times 20 \text{ lines/page} = 200 \text{ words/page}
+   \]
+
+2. **Calculate the total number of words Leo has written:**
+   - Leo has filled one and a half pages. We calculate the number of words in one and a half pages:
+   
+   \[
+   200 \text{ words/page} \times 1.5 \text{ pages} = 300 \text{ words}
+   \]
+
+3. **Determine how many words Leo has left to write:**
+   - Leo needs to write a total of 400 words for his story. To find out how many words he has left, we subtract the number of words he has already written from the total number of words required:
+   
+   \[
+   400 \text{ words} - 300 \text{ words} = 100 \text{ words}
+   \]
+
+Therefore, Leo has 100 words left to write.
+</reasoning>
+<answer>100</answer>

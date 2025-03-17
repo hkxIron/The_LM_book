@@ -1,0 +1,28 @@
+<reasoning>
+Let's break the problem down step by step:
+
+1. **Determine the number of employees who drive to work**:  
+   The company has 100 employees, and 60% of them drive to work.  
+   To find the number of employees who drive, we can calculate:  
+   \[
+   \text{Number of employees who drive} = 100 \times 0.60 = 60
+   \]  
+   This means 60 employees drive to work.
+
+2. **Calculate the number of employees who do not drive**:  
+   Since there are 100 employees total, we can find the number of employees who do not drive by subtracting those who drive from the total number of employees:  
+   \[
+   \text{Number of employees who do not drive} = 100 - 60 = 40
+   \]  
+   So, 40 employees do not drive to work.
+
+3. **Determine how many of the non-driving employees take public transportation**:  
+   It is given that half of the employees who do not drive take public transportation. Therefore, we can calculate the number of employees who use public transportation:  
+   \[
+   \text{Number of employees using public transportation} = \frac{40}{2} = 20
+   \]  
+   This tells us that 20 employees use public transportation to get to work.
+
+Now we can conclude:
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much Jorge spent on tickets after the discount, we can follow these steps:
+
+1. **Calculate the total cost without the discount**: 
+   - Jorge bought 24 tickets at $7 each.
+   - To find the total cost, we multiply the number of tickets by the price per ticket:
+     \[
+     \text{Total Cost without Discount} = 24 \text{ tickets} \times 7 \text{ dollars/ticket} = 168 \text{ dollars}
+     \]
+   - This calculation shows how much Jorge would pay without any discounts.
+
+2. **Calculate the discount amount**: 
+   - Jorge is given a 50% discount on the total cost.
+   - To find the discount amount, we multiply the total cost by the discount percentage:
+     \[
+     \text{Discount Amount} = 168 \text{ dollars} \times 0.50 = 84 \text{ dollars}
+     \]
+   - This tells us how much money Jorge saves because of the discount.
+
+3. **Calculate the final cost after applying the discount**: 
+   - To find out how much Jorge actually spends, we subtract the discount amount from the total cost:
+     \[
+     \text{Final Cost} = 168 \text{ dollars} - 84 \text{ dollars} = 84 \text{ dollars}
+     \]
+   - This gives us the amount Jorge will pay after the discount is applied.
+
+By going through these steps, we have calculated how much Jorge spent on tickets after receiving his discount.
+</reasoning>
+<answer>84</answer>

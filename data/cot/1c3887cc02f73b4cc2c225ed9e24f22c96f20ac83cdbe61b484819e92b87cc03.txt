@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many oranges Tom sold**:
+   Tom had 40 oranges, and he sold \( \frac{1}{4} \) of them. 
+   To find out how many oranges he sold, we calculate:
+   \[
+   \text{Oranges sold} = 40 \times \frac{1}{4} = 10
+   \]
+   So, Tom sold 10 oranges.
+
+2. **Calculate how many oranges are left**:
+   Tom started with 40 oranges and sold 10, so the number of oranges left is:
+   \[
+   \text{Oranges left} = 40 - 10 = 30
+   \]
+
+3. **Determine how many apples Tom sold**:
+   Tom had 70 apples, and he sold \( \frac{1}{2} \) of them. 
+   To find out how many apples he sold, we calculate:
+   \[
+   \text{Apples sold} = 70 \times \frac{1}{2} = 35
+   \]
+   So, Tom sold 35 apples.
+
+4. **Calculate how many apples are left**:
+   Tom started with 70 apples and sold 35, so the number of apples left is:
+   \[
+   \text{Apples left} = 70 - 35 = 35
+   \]
+
+5. **Calculate the total number of fruits left**:
+   Now let's add the number of oranges and apples left:
+   \[
+   \text{Total fruits left} = \text{Oranges left} + \text{Apples left} = 30 + 35 = 65
+   \]
+
+Therefore, after selling the fruits, the total number of fruits left is 65.
+</reasoning>
+<answer>65</answer>

@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much money the Girl Scouts will have left after paying for the pool, we need to calculate the total cost for the 10 people going to the pool and then subtract that amount from the total money they earned from selling cookies.
+
+1. **Calculate the total cost for going to the pool:**
+   The cost per person is $2.50, and there are 10 people going. We calculate the total cost by multiplying the cost per person by the number of people.
+
+   \[
+   \text{Total Cost} = \text{Cost per person} \times \text{Number of people} = 2.50 \times 10
+   \]
+
+   Performing the multiplication:
+   \[
+   \text{Total Cost} = 25
+   \]
+
+   This means the total cost for 10 people to go to the pool is $25.
+
+2. **Calculate the amount left after paying for the pool:**
+   The Girl Scouts earned $30 from selling cookies. We need to subtract the total cost for the pool from this amount to find out how much money they have left.
+
+   \[
+   \text{Amount Left} = \text{Total Earnings} - \text{Total Cost} = 30 - 25
+   \]
+
+   Performing the subtraction:
+   \[
+   \text{Amount Left} = 5
+   \]
+
+Thus, after paying for the pool, the Girl Scouts will have $5 remaining.
+</reasoning>
+<answer>5</answer>

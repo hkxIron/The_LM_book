@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Calculate the number of movies Johnny TV produces in one year.**
+   - We know that L&J Productions produces 220 movies. 
+   - Johnny TV makes 25 percent more movies than L&J Productions.
+   - To find 25 percent of 220, we multiply:
+     \[
+     0.25 \times 220 = 55
+     \]
+   - Therefore, Johnny TV produces:
+     \[
+     220 + 55 = 275 \text{ movies}
+     \]
+
+2. **Calculate the total number of movies produced by both companies in one year.**
+   - Now, we add the number of movies produced by L&J Productions and Johnny TV in one year:
+     \[
+     220 + 275 = 495 \text{ movies}
+     \]
+
+3. **Calculate the total number of movies produced by both companies in five years.**
+   - We need to multiply the total number of movies produced in one year by 5:
+     \[
+     495 \times 5 = 2475 \text{ movies}
+     \]
+
+Thus, the total number of movies produced by both production companies in five years combined is 2475.
+</reasoning>
+<answer>2475</answer>

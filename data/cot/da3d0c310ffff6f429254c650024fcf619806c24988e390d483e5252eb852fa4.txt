@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Determine the total number of days in June**: June has 30 days.
+
+2. **Identify when Allison started uploading**: The problem states that she uploaded videos "halfway through June." This means she started uploading on the 16th of June (since halfway through 30 days is 15 days).
+
+3. **Calculate the number of days she uploaded videos in June**: From the 16th to the 30th of June, there are \(30 - 15 = 15\) days.
+
+4. **Calculate the total video hours uploaded during the first half of the month**: 
+   - She uploads 10 one-hour videos per day. Thus, in one day, she uploads 10 hours of video.
+   - For 15 days, the total video hours uploaded will be \(15 \text{ days} \times 10 \text{ hours/day} = 150 \text{ hours}\).
+
+5. **Determine the number of days remaining in June**: Since she starts uploading on the 16th, the remaining days are from the 16th to the 30th, which is 15 days.
+
+6. **Calculate the number of hours for the remaining days**: 
+   - The problem states that she doubled her video hours for the remaining days. Since she normally uploads 10 hours per day, doubling this would mean she uploads \(10 \times 2 = 20\) hours per day.
+   - So, for the remaining 15 days, the total video hours would be \(15 \text{ days} \times 20 \text{ hours/day} = 300 \text{ hours}\).
+
+7. **Calculate the total number of video hours uploaded at the end of June**: 
+   - Now we add the hours from the first half of the month to the hours from the remaining days: 
+   \[
+   150 \text{ hours} + 300 \text{ hours} = 450 \text{ hours}.
+   \]
+
+Therefore, the total number of video hours she has uploaded at the end of June is:
+</reasoning>
+<answer>450</answer>

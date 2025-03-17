@@ -1,0 +1,73 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the number of novels**: 
+   We know that 65% of Beth's total collection of 120 books are novels. To find the number of novels, we calculate 65% of 120.
+
+   \[
+   \text{Number of novels} = 0.65 \times 120
+   \]
+
+   Performing the multiplication:
+
+   \[
+   0.65 \times 120 = 78
+   \]
+
+   So, Beth has 78 novels.
+
+2. **Determine the number of graphic novels**: 
+   The problem states that Beth has 18 graphic novels. This number is already given.
+
+3. **Calculate the total number of novels (novels + graphic novels)**:
+   To find out how many books are either novels or graphic novels, we add the number of novels to the number of graphic novels:
+
+   \[
+   \text{Total novels and graphic novels} = \text{Number of novels} + \text{Number of graphic novels} = 78 + 18
+   \]
+
+   Performing the addition:
+
+   \[
+   78 + 18 = 96
+   \]
+
+   So, there are 96 books that are either novels or graphic novels.
+
+4. **Determine the number of comic books**: 
+   We need to find out how many books are comic books. We do this by subtracting the total number of novels and graphic novels from the total number of books:
+
+   \[
+   \text{Number of comic books} = \text{Total books} - \text{Total novels and graphic novels} = 120 - 96
+   \]
+
+   Performing the subtraction:
+
+   \[
+   120 - 96 = 24
+   \]
+
+   Therefore, Beth has 24 comic books.
+
+5. **Calculate the percentage of comic books**: 
+   To find the percentage of comic books in her collection, we divide the number of comic books by the total number of books and then multiply by 100 to convert to a percentage:
+
+   \[
+   \text{Percentage of comic books} = \left( \frac{\text{Number of comic books}}{\text{Total books}} \right) \times 100 = \left( \frac{24}{120} \right) \times 100
+   \]
+
+   Performing the division:
+
+   \[
+   \frac{24}{120} = 0.2
+   \]
+
+   Now, converting this to a percentage:
+
+   \[
+   0.2 \times 100 = 20
+   \]
+
+   Therefore, Beth owns 20% comic books.
+</reasoning>
+<answer>20</answer>

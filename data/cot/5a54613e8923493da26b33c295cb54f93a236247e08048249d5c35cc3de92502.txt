@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Total Books in Series**: We know that the total number of books in the series is 54.
+
+2. **Books Read in the First Two Weeks**: 
+   - In the first week, Cody read 6 books.
+   - In the second week, he read 3 books.
+   - Therefore, the total number of books read in the first two weeks is:
+     \[
+     6 + 3 = 9 \text{ books}
+     \]
+
+3. **Books Remaining After Two Weeks**: 
+   - After reading 9 books, the number of books Cody has left to read is:
+     \[
+     54 - 9 = 45 \text{ books}
+     \]
+
+4. **Books Read Every Week After the First Two Weeks**: 
+   - Starting from the third week, Cody reads 9 books each week.
+
+5. **Calculate the Number of Additional Weeks Needed**: 
+   - To determine how many more weeks it will take Cody to read the remaining 45 books, we can divide the remaining books by the number of books he reads per week:
+     \[
+     \frac{45}{9} = 5 \text{ weeks}
+     \]
+
+6. **Total Weeks to Finish the Series**: 
+   - Adding the first two weeks to the additional weeks, the total number of weeks Cody took to finish the series is:
+     \[
+     2 + 5 = 7 \text{ weeks}
+     \]
+
+Thus, after calculating all the steps, we find that it took Cody 7 weeks to read the entire series.
+</reasoning>
+<answer>7</answer>

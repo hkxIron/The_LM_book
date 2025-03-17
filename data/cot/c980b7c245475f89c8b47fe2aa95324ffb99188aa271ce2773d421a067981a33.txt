@@ -1,0 +1,34 @@
+<reasoning>
+To find out how tall Bobby's flag will be, we need to first understand the dimensions of the squares of fabric he has and how he intends to use them to create a flag that is 15 feet long.
+
+1. **Identify the dimensions of the squares:**
+   - The first square is 8 feet by 5 feet.
+   - The second square is 10 feet by 7 feet.
+   - The third square is 5 feet by 5 feet.
+
+2. **Determine the total area of the squares:**
+   - Area of the first square = 8 feet * 5 feet = 40 square feet.
+   - Area of the second square = 10 feet * 7 feet = 70 square feet.
+   - Area of the third square = 5 feet * 5 feet = 25 square feet.
+
+3. **Calculate the total area of all three squares:**
+   - Total area = Area of first square + Area of second square + Area of third square
+   - Total area = 40 + 70 + 25 = 135 square feet.
+
+4. **Understand the dimensions of the flag:**
+   - The flag is intended to be 15 feet long. Let's denote the height of the flag as "h".
+   - The area of the flag can also be expressed as length * height, which gives us an equation:
+   - Area of the flag = 15 feet * h.
+
+5. **Set the area of the flag equal to the total area of the fabric:**
+   - We have the equation: 15 feet * h = 135 square feet.
+
+6. **Solve for the height (h):**
+   - To find h, we divide both sides of the equation by 15 feet:
+   \[
+   h = \frac{135 \text{ square feet}}{15 \text{ feet}} = 9 \text{ feet}.
+   \]
+
+Therefore, the height of the flag will be 9 feet.
+</reasoning>
+<answer>9</answer>

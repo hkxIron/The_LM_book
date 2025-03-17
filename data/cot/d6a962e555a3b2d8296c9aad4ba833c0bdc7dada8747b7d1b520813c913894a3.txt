@@ -1,0 +1,38 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial Count of Ducks**: We start with 320 ducks in the pond.
+
+2. **First Night**: On the first night, 1/4 of the ducks get eaten by a fox.
+   - To find out how many ducks are eaten, we calculate:
+     \[
+     \text{Ducks eaten} = \frac{1}{4} \times 320 = 80
+     \]
+   - Now, we subtract the number of ducks eaten from the initial count to find the remaining ducks:
+     \[
+     \text{Remaining ducks} = 320 - 80 = 240
+     \]
+
+3. **Second Night**: On the second night, 1/6 of the remaining ducks fly away.
+   - First, we need to find out how many ducks fly away:
+     \[
+     \text{Ducks flying away} = \frac{1}{6} \times 240 = 40
+     \]
+   - Now, we subtract the ducks that flew away from the remaining count:
+     \[
+     \text{Remaining ducks} = 240 - 40 = 200
+     \]
+
+4. **Third Night**: On the third night, 30 percent of the remaining ducks are stolen.
+   - First, we calculate 30 percent of the remaining ducks:
+     \[
+     \text{Ducks stolen} = 0.30 \times 200 = 60
+     \]
+   - Now, we subtract the number of ducks stolen from the remaining count:
+     \[
+     \text{Remaining ducks} = 200 - 60 = 140
+     \]
+
+In summary, after all three nights, the number of ducks that remain is 140.
+</reasoning>
+<answer>140</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To find out how much each person has to pay for the Airbnb rental, we need to calculate the total cost for the rental over the 4 days, then divide that cost by the number of people sharing it.
+
+1. **Identify the rental rates for each day:**
+   - Weekday rate (Thursday and Friday): $420 per day
+   - Weekend rate (Saturday and Sunday): $540 per day
+
+2. **Calculate the total cost for the weekdays:**
+   - There are 2 weekdays (Thursday and Friday).
+   - Total cost for weekdays = 2 days * $420/day = $840.
+
+3. **Calculate the total cost for the weekend:**
+   - There are 2 weekend days (Saturday and Sunday).
+   - Total cost for weekend = 2 days * $540/day = $1080.
+
+4. **Calculate the total rental cost for the entire period:**
+   - Total rental cost = Total cost for weekdays + Total cost for weekend 
+   - Total rental cost = $840 + $1080 = $1920.
+
+5. **Determine how many people are sharing the cost:**
+   - Suzie has 5 friends, so there are a total of 6 people (Suzie + 5 friends).
+
+6. **Calculate the cost per person:**
+   - Cost per person = Total rental cost / Number of people 
+   - Cost per person = $1920 / 6 = $320.
+
+Therefore, each person has to pay $320 for the Airbnb rental.
+</reasoning>
+<answer>320</answer>

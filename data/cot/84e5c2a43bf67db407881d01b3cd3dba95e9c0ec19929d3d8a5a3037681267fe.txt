@@ -1,0 +1,28 @@
+<reasoning>
+To determine how much Diego saves over the course of a year, we need to analyze the monthly income and expenses, and then calculate the total savings.
+
+1. **Identify the monthly income**: Diego deposits $5,000 each month from his paycheck into his bank account.
+
+2. **Identify the monthly expenses**: Diego has monthly expenses that total $4,600.
+
+3. **Calculate the monthly savings**: To find out how much Diego saves each month, we subtract his monthly expenses from his monthly income:
+   \[
+   \text{Monthly Savings} = \text{Monthly Income} - \text{Monthly Expenses}
+   \]
+   Substituting in the values we have:
+   \[
+   \text{Monthly Savings} = 5000 - 4600 = 400
+   \]
+
+4. **Calculate the annual savings**: Since Diego saves $400 each month, we multiply this amount by the number of months in a year (12 months) to find his total savings for the year:
+   \[
+   \text{Annual Savings} = \text{Monthly Savings} \times 12
+   \]
+   Substituting in the monthly savings:
+   \[
+   \text{Annual Savings} = 400 \times 12 = 4800
+   \]
+
+Therefore, Diego saves a total of $4,800 over the course of a year.
+</reasoning>
+<answer>4800</answer>

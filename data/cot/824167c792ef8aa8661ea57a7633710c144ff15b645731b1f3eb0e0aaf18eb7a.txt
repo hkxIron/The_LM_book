@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem step by step, we start by determining how many oranges each person needs.
+
+1. **Determine Michaela's requirement**: 
+   Michaela needs 20 oranges to get full.
+
+2. **Determine Cassandra's requirement**: 
+   Cassandra needs twice as many oranges as Michaela. Therefore, we calculate:
+   \[
+   \text{Cassandra's oranges} = 2 \times \text{Michaela's oranges} = 2 \times 20 = 40
+   \]
+   So, Cassandra needs 40 oranges to get full.
+
+3. **Calculate the total number of oranges consumed**: 
+   Now we will find out how many oranges they both will eat together:
+   \[
+   \text{Total oranges eaten} = \text{Michaela's oranges} + \text{Cassandra's oranges} = 20 + 40 = 60
+   \]
+
+4. **Determine the remaining oranges**: 
+   They picked a total of 90 oranges from the farm. To find out how many oranges remain after they both have eaten, we subtract the total oranges eaten from the total oranges picked:
+   \[
+   \text{Remaining oranges} = \text{Total picked oranges} - \text{Total eaten oranges} = 90 - 60 = 30
+   \]
+
+Therefore, after Michaela and Cassandra have eaten until they were full, there will be 30 oranges remaining.
+</reasoning>
+<answer>30</answer>

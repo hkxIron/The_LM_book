@@ -1,0 +1,32 @@
+<reasoning>
+To find the cost of 2 pans, we first need to determine the cost of each pan.
+
+1. **Calculate the total cost of the pots**:
+   Katerina buys 3 pots, each costing $20. So, we multiply the number of pots by the cost per pot:
+   \[
+   \text{Total cost of pots} = 3 \times 20 = 60
+   \]
+   This means that the total cost for the pots is $60.
+
+2. **Calculate the total amount spent on the pans**:
+   Katerina's total expenditure at the store is $100. To find out how much she spent on the pans, we subtract the cost of the pots from the total cost:
+   \[
+   \text{Total cost of pans} = \text{Total cost} - \text{Total cost of pots} = 100 - 60 = 40
+   \]
+   So, Katerina spent $40 on the pans.
+
+3. **Determine the cost of each pan**:
+   Katerina purchased 4 pans, and we know the total cost of the pans is $40. To find the cost of each pan, we divide the total cost of the pans by the number of pans:
+   \[
+   \text{Cost of each pan} = \frac{\text{Total cost of pans}}{\text{Number of pans}} = \frac{40}{4} = 10
+   \]
+   Therefore, each pan costs $10.
+
+4. **Calculate the cost of 2 pans**:
+   Now that we know each pan costs $10, we can find the cost of 2 pans by multiplying the cost of one pan by 2:
+   \[
+   \text{Cost of 2 pans} = 2 \times 10 = 20
+   \]
+   Thus, the cost of 2 pans is $20.
+</reasoning>
+<answer>20</answer>

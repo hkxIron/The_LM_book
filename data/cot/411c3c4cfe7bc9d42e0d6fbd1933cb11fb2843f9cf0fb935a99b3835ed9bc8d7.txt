@@ -1,0 +1,46 @@
+<reasoning>
+We start by understanding the percentages given for the different types of items in Mason's attic. We know that:
+
+- 20% of the items are useful.
+- 10% of the items are valuable heirlooms.
+- 70% of the items are junk.
+
+Since these percentages add up to 100%, they represent the entire collection of items in the attic. 
+
+Next, we know that there are 8 useful items in the attic, and these represent 20% of the total items. We can denote the total number of items in the attic as \( x \).
+
+To find \( x \), we can set up the equation based on the percentage of useful items:
+
+\[
+0.20x = 8
+\]
+
+Now, to solve for \( x \), we will divide both sides of the equation by 0.20:
+
+\[
+x = \frac{8}{0.20}
+\]
+
+Calculating the right side:
+
+\[
+x = 8 \div 0.20 = 8 \div \frac{2}{10} = 8 \times \frac{10}{2} = 8 \times 5 = 40
+\]
+
+Now we have determined that there are 40 items in total in Mason's attic.
+
+Next, we need to find out how many of these items are junk. Since 70% of the items are junk, we can calculate the number of junk items by multiplying the total number of items by 70%:
+
+\[
+\text{Number of junk items} = 0.70 \times x = 0.70 \times 40
+\]
+
+Calculating this:
+
+\[
+0.70 \times 40 = 28
+\]
+
+Therefore, Mason has 28 junk items in his attic.
+</reasoning>
+<answer>28</answer>

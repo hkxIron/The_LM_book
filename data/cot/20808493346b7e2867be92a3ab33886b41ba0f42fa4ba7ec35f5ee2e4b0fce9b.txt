@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we need to determine the total amount of rain Greg experienced while camping and then compare it to the amount of rain that fell at his house.
+
+1. **Calculate the total rain Greg experienced while camping:**
+   - On the first day, it rained 3 mm.
+   - On the second day, it rained 6 mm.
+   - On the third day, it rained 5 mm.
+   
+   We can find the total by adding these amounts together:
+   \[
+   \text{Total rain} = 3 \text{ mm} + 6 \text{ mm} + 5 \text{ mm}
+   \]
+   Performing the addition step-by-step:
+   - \(3 + 6 = 9\)
+   - \(9 + 5 = 14\)
+
+   Therefore, the total amount of rain Greg experienced while camping is 14 mm.
+
+2. **Identify the amount of rain at Greg's house:**
+   - According to the problem, it rained 26 mm at his house.
+
+3. **Calculate how much less rain Greg experienced while camping compared to his house:**
+   - We need to subtract the amount of rain Greg experienced from the amount of rain at his house:
+   \[
+   \text{Difference} = \text{Rain at house} - \text{Rain while camping}
+   \]
+   Substituting the known values:
+   \[
+   \text{Difference} = 26 \text{ mm} - 14 \text{ mm}
+   \]
+   Performing the subtraction:
+   - \(26 - 14 = 12\)
+
+Thus, Greg experienced 12 mm less rain while camping than at his house.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,51 @@
+<reasoning>
+To find the total amount of money Mr. Fletcher paid the two men for their work, we need to follow these steps:
+
+1. **Calculate the total hours worked by both men**: 
+    - On the first day, they worked for 10 hours.
+    - On the second day, they worked for 8 hours.
+    - On the third day, they worked for 15 hours.
+    
+   We add these hours together:
+   \( 
+   \text{Total hours} = 10 + 8 + 15 
+   \)
+
+2. **Perform the addition**:
+   \( 
+   10 + 8 = 18 
+   \)
+   \( 
+   18 + 15 = 33 
+   \)
+
+   So, the total hours worked by both men is 33 hours.
+
+3. **Calculate the total payment for both men**:
+   - Each man is paid $10 per hour.
+   - Therefore, the payment for one man for 33 hours is:
+   \( 
+   \text{Payment for one man} = 33 \text{ hours} \times 10 \text{ dollars/hour} 
+   \)
+
+4. **Perform the multiplication**:
+   \( 
+   33 \times 10 = 330 
+   \)
+
+   So, each man receives $330.
+
+5. **Calculate the total amount for both men**:
+   - Since there are 2 men, we multiply the payment for one man by 2:
+   \( 
+   \text{Total payment} = 330 \times 2 
+   \)
+
+6. **Perform the multiplication**:
+   \( 
+   330 \times 2 = 660 
+   \)
+
+Thus, the total amount of money they received altogether is $660.
+</reasoning>
+<answer>660</answer>

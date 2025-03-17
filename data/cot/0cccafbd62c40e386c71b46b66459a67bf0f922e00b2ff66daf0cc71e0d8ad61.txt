@@ -1,0 +1,53 @@
+<reasoning>
+To solve this problem, we need to establish some variables and set up equations based on the information provided.
+
+1. **Define the Variables**:
+   Let's denote:
+   - \( L \) as the number of large animals Loraine made.
+   - \( S \) as the number of small animals Loraine made.
+
+2. **Establish Relationships**:
+   According to the problem, Loraine made three times as many small animals as large animals. This can be expressed as:
+   \[
+   S = 3L
+   \]
+
+3. **Determine the Sticks of Wax for Small Animals**:
+   The problem states that she used 12 sticks of wax for the small animals. Since each small animal takes 2 sticks of wax, we can set up the equation:
+   \[
+   2S = 12
+   \]
+   To find \( S \), we can divide both sides of the equation by 2:
+   \[
+   S = \frac{12}{2} = 6
+   \]
+   So Loraine made 6 small animals.
+
+4. **Find the Number of Large Animals**:
+   Now that we know \( S \), we can use the relationship we established in step 2 to find \( L \):
+   \[
+   6 = 3L
+   \]
+   Dividing both sides by 3 gives:
+   \[
+   L = \frac{6}{3} = 2
+   \]
+   Thus, Loraine made 2 large animals.
+
+5. **Calculate Sticks of Wax Used**:
+   Now we can calculate how many sticks of wax were used in total. 
+   - For the large animals: Each large animal uses 4 sticks of wax, so the total number of sticks used for large animals is:
+   \[
+   4L = 4 \times 2 = 8
+   \]
+   - For the small animals: We already know this is 12 sticks (as given).
+
+6. **Total Sticks of Wax Used**:
+   Now, we add the sticks used for large and small animals together:
+   \[
+   \text{Total Sticks} = \text{Sticks for Large Animals} + \text{Sticks for Small Animals} = 8 + 12 = 20
+   \]
+
+Therefore, Loraine used a total of 20 sticks of wax to make all the animals.
+</reasoning>
+<answer>20</answer>

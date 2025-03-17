@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of passengers and the oranges received**: The family consists of 4 members. Since each passenger receives one orange, they will receive 4 oranges.
+
+2. **Calculate the total cost of the oranges**: Each orange costs $1.5. Therefore, the total cost for the 4 oranges is calculated as follows:
+   \[
+   \text{Total cost of oranges} = \text{Number of oranges} \times \text{Cost per orange} = 4 \times 1.5 = 6
+   \]
+   This means the family saved $6 by not having to purchase the oranges at the snack stop.
+
+3. **Determine the total amount they planned to spend**: The family originally planned to spend $15 at the snack stop.
+
+4. **Calculate the percentage saved**: To find the percentage of the money they saved compared to the amount they planned to spend, we use the formula:
+   \[
+   \text{Percentage saved} = \left( \frac{\text{Amount saved}}{\text{Total planned spending}} \right) \times 100
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Percentage saved} = \left( \frac{6}{15} \right) \times 100
+   \]
+
+5. **Perform the division and multiplication**: 
+   \[
+   \frac{6}{15} = 0.4
+   \]
+   Now multiplying by 100 gives:
+   \[
+   0.4 \times 100 = 40
+   \]
+
+Thus, the family saved 40% of the money they had planned to spend.
+</reasoning>
+<answer>40</answer>

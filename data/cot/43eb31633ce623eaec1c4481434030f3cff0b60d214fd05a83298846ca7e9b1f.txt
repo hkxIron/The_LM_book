@@ -1,0 +1,36 @@
+<reasoning>
+First, let's determine how many words each person wrote.
+
+1. **Johnny's Essay**: Johnny wrote 150 words.
+
+2. **Madeline's Essay**: It is stated that Madeline wrote an essay that was double the length of Johnny's. Therefore, we can calculate Madeline's words as follows:
+   \[
+   \text{Madeline's words} = 2 \times \text{Johnny's words} = 2 \times 150 = 300 \text{ words}
+   \]
+
+3. **Timothy's Essay**: Timothy wrote an essay that had 30 words more than Madeline's. So we can calculate Timothy's words as follows:
+   \[
+   \text{Timothy's words} = \text{Madeline's words} + 30 = 300 + 30 = 330 \text{ words}
+   \]
+
+Next, we need to find out how many total words were written by Johnny, Madeline, and Timothy:
+\[
+\text{Total words} = \text{Johnny's words} + \text{Madeline's words} + \text{Timothy's words}
+\]
+\[
+\text{Total words} = 150 + 300 + 330 = 780 \text{ words}
+\]
+
+Now, we will determine how many pages these words fill. Each page contains 260 words. We can find the number of pages by dividing the total number of words by the number of words per page:
+\[
+\text{Number of pages} = \frac{\text{Total words}}{\text{Words per page}} = \frac{780}{260}
+\]
+
+Calculating this gives:
+\[
+\text{Number of pages} = 3
+\]
+
+Therefore, Johnny, Madeline, and Timothy's essays together fill 3 pages.
+</reasoning>
+<answer>3</answer>

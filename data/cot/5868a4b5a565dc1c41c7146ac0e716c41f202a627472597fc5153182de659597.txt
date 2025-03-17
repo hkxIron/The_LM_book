@@ -1,0 +1,28 @@
+<reasoning>
+First, let's determine the total time Carla has to clean the laundry. She starts at 8 AM and needs to finish by noon.
+
+1. **Calculate the total time available**: 
+   - From 8 AM to 12 PM (noon) is 4 hours (from 8 to 9, 9 to 10, 10 to 11, and 11 to 12). 
+
+Now that we know Carla has 4 hours to clean the laundry, we need to find out how many pieces of laundry she needs to clean each hour.
+
+2. **Determine the number of pieces per hour**: 
+   - Carla has 80 pieces of laundry to clean in total, and she has 4 hours to do so. 
+   - To find out how many pieces she needs to clean each hour, we can divide the total number of pieces by the total number of hours.
+
+   \[
+   \text{Pieces per hour} = \frac{\text{Total pieces}}{\text{Total hours}} = \frac{80}{4}
+   \]
+
+3. **Perform the division**: 
+   - Now, calculating \( \frac{80}{4} \), we find that:
+
+   \[
+   \text{Pieces per hour} = 20
+   \]
+
+This means Carla needs to clean 20 pieces of laundry every hour to meet her deadline.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>20</answer>

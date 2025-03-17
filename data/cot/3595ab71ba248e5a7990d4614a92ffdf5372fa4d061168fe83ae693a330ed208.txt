@@ -1,0 +1,58 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Counts**: 
+   Sydney starts with 837 rocks and Conner starts with 723 rocks. 
+
+2. **Day One Collections**:
+   - Sydney collects 4 rocks.
+   - Conner collects 8 times as many as Sydney. So, we calculate Conner's collection:
+     \[
+     \text{Conner's collection on Day one} = 8 \times 4 = 32 \text{ rocks}
+     \]
+
+3. **Update Their Totals After Day One**:
+   - Sydney's new total becomes:
+     \[
+     837 + 4 = 841 \text{ rocks}
+     \]
+   - Conner's new total becomes:
+     \[
+     723 + 32 = 755 \text{ rocks}
+     \]
+
+4. **Day Two Collections**:
+   - Sydney rests, so her total remains the same at 841 rocks.
+   - Conner collects 123 rocks. We update his total:
+     \[
+     755 + 123 = 878 \text{ rocks}
+     \]
+
+5. **Day Three Collections**:
+   - On day three, Sydney collects twice as many as Conner did on the first day. Since Conner collected 32 rocks on the first day, we calculate Sydney's collection:
+     \[
+     \text{Sydney's collection on Day Three} = 2 \times 32 = 64 \text{ rocks}
+     \]
+   - We update Sydney's total:
+     \[
+     841 + 64 = 905 \text{ rocks}
+     \]
+
+6. **Determining Conner's Required Collection on Day Three**:
+   - To tie Sydney, Conner needs to have at least 905 rocks after day three. We already calculated that he has 878 rocks at the start of day three. Let \( x \) be the number of rocks Conner collects on day three. We set up the equation:
+     \[
+     878 + x \geq 905
+     \]
+   - To find \( x \), we solve:
+     \[
+     x \geq 905 - 878
+     \]
+     \[
+     x \geq 27
+     \]
+
+This means Conner needs to collect at least 27 rocks on day three to tie with Sydney.
+
+Therefore, the answer is:
+</reasoning>
+<answer>27</answer>

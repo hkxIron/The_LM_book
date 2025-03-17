@@ -1,0 +1,59 @@
+<reasoning>
+To find the total yards run by the three athletes—Malik, Josiah, and Darnell—we will calculate the total yards for each athlete separately and then sum them up.
+
+1. **Calculating Malik's total yards:**
+   - Malik rushed for 18 yards in each of 4 games.
+   - To find the total yards, we multiply the yards per game by the number of games:
+     \[
+     \text{Total yards by Malik} = 18 \text{ yards/game} \times 4 \text{ games}
+     \]
+   - Performing the multiplication:
+     \[
+     18 \times 4 = 72
+     \]
+   - So, Malik ran a total of 72 yards.
+
+2. **Calculating Josiah's total yards:**
+   - Josiah ran for 22 yards in each of 4 games.
+   - Using the same method, we multiply the yards per game by the number of games:
+     \[
+     \text{Total yards by Josiah} = 22 \text{ yards/game} \times 4 \text{ games}
+     \]
+   - Performing the multiplication:
+     \[
+     22 \times 4 = 88
+     \]
+   - Thus, Josiah ran a total of 88 yards.
+
+3. **Calculating Darnell's total yards:**
+   - Darnell had an average of 11 yards rushed for each of the 4 games.
+   - Similarly, we multiply the average yards per game by the number of games:
+     \[
+     \text{Total yards by Darnell} = 11 \text{ yards/game} \times 4 \text{ games}
+     \]
+   - Performing the multiplication:
+     \[
+     11 \times 4 = 44
+     \]
+   - Therefore, Darnell ran a total of 44 yards.
+
+4. **Calculating the total yards run by all three athletes:**
+   - Now, we sum the total yards run by Malik, Josiah, and Darnell:
+     \[
+     \text{Total yards} = \text{Malik's yards} + \text{Josiah's yards} + \text{Darnell's yards}
+     \]
+   - Substituting the values we calculated:
+     \[
+     \text{Total yards} = 72 + 88 + 44
+     \]
+   - Performing the addition:
+     \[
+     72 + 88 = 160
+     \]
+     \[
+     160 + 44 = 204
+     \]
+
+Therefore, the total yards run by the three athletes is 204 yards.
+</reasoning>
+<answer>204</answer>

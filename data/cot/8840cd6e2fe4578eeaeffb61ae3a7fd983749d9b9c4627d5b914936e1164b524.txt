@@ -1,0 +1,41 @@
+<reasoning>
+To find the perimeter of the right triangle that Elliott drew, we need to follow these steps:
+
+1. **Identify the sides of the triangle**: We know that the base (one leg) of the triangle is 4 inches and the height (the other leg) is 3 inches. We need to find the length of the hypotenuse.
+
+2. **Use the Pythagorean theorem**: The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse (c) is equal to the sum of the squares of the lengths of the other two sides (a and b). Mathematically, this is expressed as:
+   \[
+   c^2 = a^2 + b^2
+   \]
+   In this case, \( a = 4 \) inches and \( b = 3 \) inches.
+
+3. **Calculate the hypotenuse**:
+   \[
+   c^2 = 4^2 + 3^2
+   \]
+   \[
+   c^2 = 16 + 9
+   \]
+   \[
+   c^2 = 25
+   \]
+   Now, we take the square root to find the length of the hypotenuse:
+   \[
+   c = \sqrt{25} = 5 \text{ inches}
+   \]
+
+4. **Calculate the perimeter**: The perimeter (P) of the triangle is the sum of the lengths of all three sides:
+   \[
+   P = a + b + c
+   \]
+   Substituting the known values:
+   \[
+   P = 4 + 3 + 5
+   \]
+   \[
+   P = 12 \text{ inches}
+   \]
+
+Therefore, the length of the perimeter of the triangle that Elliott drew is 12 inches.
+</reasoning>
+<answer>12</answer>

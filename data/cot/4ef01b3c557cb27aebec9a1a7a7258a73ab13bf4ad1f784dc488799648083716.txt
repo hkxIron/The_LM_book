@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of oranges:**
+   There are 10 bags with 30 oranges each. To find the total number of oranges, we multiply the number of bags by the number of oranges per bag:
+   \[
+   \text{Total oranges} = 10 \, \text{bags} \times 30 \, \text{oranges/bag} = 300 \, \text{oranges}
+   \]
+
+2. **Account for the rotten oranges:**
+   We know that there are 50 rotten oranges. To find out how many good oranges are left, we subtract the number of rotten oranges from the total number of oranges:
+   \[
+   \text{Good oranges} = 300 \, \text{oranges} - 50 \, \text{rotten oranges} = 250 \, \text{good oranges}
+   \]
+
+3. **Determine the number of oranges kept for juice:**
+   Out of the good oranges, 30 pieces will be kept for making orange juice. We need to subtract these from the number of good oranges:
+   \[
+   \text{Oranges for sale} = 250 \, \text{good oranges} - 30 \, \text{oranges for juice} = 220 \, \text{oranges for sale}
+   \]
+
+Therefore, after performing these calculations, we find that the number of pieces of oranges that will be sold is:
+</reasoning>
+<answer>220</answer>

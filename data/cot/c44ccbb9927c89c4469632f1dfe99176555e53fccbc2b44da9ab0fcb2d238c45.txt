@@ -1,0 +1,18 @@
+<reasoning>
+To determine how many colors the sky turned during the two hours of sunset, we need to follow these steps:
+
+1. **Calculate the total duration of the sunset in minutes.** Since each hour has 60 minutes and there are 2 hours, we can calculate the total minutes as follows:
+   \[
+   \text{Total minutes} = 2 \, \text{hours} \times 60 \, \text{minutes/hour} = 120 \, \text{minutes}
+   \]
+   Here, we multiply the number of hours by the number of minutes in each hour to find the total time.
+
+2. **Determine how many ten-minute intervals fit into that total time.** Since the sky changes color every 10 minutes, we divide the total minutes by 10 to find the number of color changes:
+   \[
+   \text{Number of colors} = \frac{120 \, \text{minutes}}{10 \, \text{minutes/color}} = 12 \, \text{colors}
+   \]
+   This division tells us how many complete ten-minute intervals there are in 120 minutes.
+
+Therefore, over the two hours of sunset, the sky turned a total of 12 colors.
+</reasoning>
+<answer>12</answer>

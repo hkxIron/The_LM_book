@@ -1,0 +1,43 @@
+<reasoning>
+To solve this problem, we will first determine the rate at which the original hens lay eggs, and then calculate how many eggs the total number of hens (original hens plus the new hens) will lay in 15 days.
+
+1. **Determine the egg-laying rate of the original hens:**
+   We know that 10 hens lay 80 eggs in 10 days. To find the daily egg-laying rate, we need to find out how many eggs they lay in one day.
+   
+   \[
+   \text{Eggs per day by 10 hens} = \frac{80 \text{ eggs}}{10 \text{ days}} = 8 \text{ eggs per day}
+   \]
+   
+   This means 10 hens produce 8 eggs per day. 
+
+2. **Calculate the rate per hen:**
+   To find out how many eggs one hen lays per day, we divide the total number of eggs by the number of hens.
+   
+   \[
+   \text{Eggs per hen per day} = \frac{8 \text{ eggs}}{10 \text{ hens}} = 0.8 \text{ eggs per hen per day}
+   \]
+
+3. **Calculate the total number of hens after purchasing more:**
+   Martin originally has 10 hens and buys 15 more hens. Therefore, the total number of hens is:
+   
+   \[
+   \text{Total hens} = 10 + 15 = 25 \text{ hens}
+   \]
+
+4. **Calculate the total egg-laying capacity of all hens in one day:**
+   Now that we know each hen lays 0.8 eggs per day, we can find out how many eggs 25 hens will lay in one day.
+   
+   \[
+   \text{Eggs per day by 25 hens} = 25 \text{ hens} \times 0.8 \text{ eggs per hen} = 20 \text{ eggs per day}
+   \]
+
+5. **Calculate the total eggs laid in 15 days:**
+   To find out how many eggs are laid in 15 days, we multiply the daily output by the number of days.
+   
+   \[
+   \text{Total eggs in 15 days} = 20 \text{ eggs per day} \times 15 \text{ days} = 300 \text{ eggs}
+   \]
+
+Therefore, the total number of eggs all hens will lay in 15 days is:
+</reasoning>
+<answer>300</answer>

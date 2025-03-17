@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we will first calculate the distance Buffy travels with one sail and then with two sails. After that, we will convert the total distance from nautical miles to land miles.
+
+1. **Distance with One Sail:**
+   - Speed with one sail = 25 knots
+   - Time traveled with one sail = 4 hours
+   
+   To find the distance, we use the formula:
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time}
+   \]
+   Thus, the distance traveled with one sail is:
+   \[
+   \text{Distance} = 25 \, \text{knots} \times 4 \, \text{hours} = 100 \, \text{nautical miles}
+   \]
+
+2. **Distance with Two Sails:**
+   - Speed with two sails = 50 knots
+   - Time traveled with two sails = 4 hours
+   
+   Using the same distance formula:
+   \[
+   \text{Distance} = 50 \, \text{knots} \times 4 \, \text{hours} = 200 \, \text{nautical miles}
+   \]
+
+3. **Total Distance in Nautical Miles:**
+   Now, we add the two distances together to find the total distance in nautical miles:
+   \[
+   \text{Total Distance} = 100 \, \text{nautical miles} + 200 \, \text{nautical miles} = 300 \, \text{nautical miles}
+   \]
+
+4. **Convert Nautical Miles to Land Miles:**
+   We know that 1 nautical mile equals 1.15 land miles. Thus, we convert the total distance to land miles:
+   \[
+   \text{Total Distance in Land Miles} = 300 \, \text{nautical miles} \times 1.15 \, \text{land miles/nautical mile} = 345 \, \text{land miles}
+   \]
+
+Therefore, the total distance that Buffy will travel in land miles is:
+</reasoning>
+<answer>345</answer>

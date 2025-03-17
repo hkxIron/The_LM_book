@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many students entered the bus at the intermediate stop, we first need to determine the number of students who got on the bus after the initial 28 students.
+
+1. **Determine the number of students who entered the bus:**
+   - Before the stop, there were 28 students.
+   - After stopping, there were 58 students.
+   - To find how many students entered the bus, we subtract the initial number of students from the total number after the stop:
+     \[
+     \text{Students who entered} = 58 - 28
+     \]
+   - Calculating this gives:
+     \[
+     \text{Students who entered} = 30
+     \]
+
+2. **Calculate 40% of the number of students who entered the bus:**
+   - Now that we know 30 students entered the bus, we need to find 40% of this number. The formula for finding a percentage is:
+     \[
+     \text{Percentage} = \left(\frac{\text{Percentage rate}}{100}\right) \times \text{Total}
+     \]
+   - Here, the percentage rate is 40 and the total is 30:
+     \[
+     40\% \text{ of } 30 = \left(\frac{40}{100}\right) \times 30
+     \]
+   - Simplifying this, we multiply:
+     \[
+     0.4 \times 30 = 12
+     \]
+
+Thus, the result for 40% of the number of students who entered the bus is 12.
+</reasoning>
+<answer>12</answer>

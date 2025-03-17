@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of pieces per pie:**
+   Each pie has 3 pieces. Therefore, if the bakery makes 12 pies, we can find the total number of pieces by multiplying the number of pies by the number of pieces per pie.
+   \[
+   \text{Total pieces} = \text{Number of pies} \times \text{Pieces per pie} = 12 \times 3 = 36 \text{ pieces}
+   \]
+
+2. **Calculate the revenue from selling all pieces:**
+   Each piece is sold for $4. To find the total revenue from selling all pieces, we multiply the total number of pieces by the price per piece.
+   \[
+   \text{Revenue} = \text{Total pieces} \times \text{Price per piece} = 36 \times 4 = 144 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of making the pies:**
+   The cost to create one pie is $0.5. Therefore, to find the total cost for 12 pies, we multiply the cost per pie by the number of pies.
+   \[
+   \text{Total cost} = \text{Cost per pie} \times \text{Number of pies} = 0.5 \times 12 = 6 \text{ dollars}
+   \]
+
+4. **Calculate the profit:**
+   The profit is calculated by subtracting the total cost from the total revenue.
+   \[
+   \text{Profit} = \text{Revenue} - \text{Total cost} = 144 - 6 = 138 \text{ dollars}
+   \]
+
+Therefore, the bakery would make $138 in profit from selling all the pie pieces.
+</reasoning>
+<answer>138</answer>

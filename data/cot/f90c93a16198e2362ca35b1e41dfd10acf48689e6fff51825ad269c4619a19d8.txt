@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many stickers Andrew kept, we need to follow these steps:
+
+1. **Identify how many stickers Daniel received**: 
+   Daniel received 250 stickers.
+
+2. **Determine how many stickers Fred received**:
+   Fred received 120 more stickers than Daniel. 
+   So, we calculate Fred's stickers:
+   \[
+   \text{Fred's stickers} = \text{Daniel's stickers} + 120 = 250 + 120 = 370
+   \]
+
+3. **Calculate the total number of stickers given away**:
+   Now we will add the number of stickers Daniel and Fred received to find the total stickers given away:
+   \[
+   \text{Total stickers given away} = \text{Daniel's stickers} + \text{Fred's stickers} = 250 + 370 = 620
+   \]
+
+4. **Determine how many stickers Andrew kept**:
+   To find the number of stickers Andrew kept, we subtract the total stickers given away from the original number of stickers he had:
+   \[
+   \text{Stickers Andrew kept} = \text{Total stickers} - \text{Total stickers given away} = 750 - 620 = 130
+   \]
+
+Therefore, after calculating all components, we find that Andrew kept 130 stickers.
+</reasoning>
+<answer>130</answer>

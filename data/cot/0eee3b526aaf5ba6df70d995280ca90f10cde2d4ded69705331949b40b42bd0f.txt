@@ -1,0 +1,25 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Initial Amount**: Shelby starts with $20.
+
+2. **Cost of Books**: She buys one book for $8 and another for $4. We need to calculate the total cost of the books.
+
+   - Cost of the first book: $8
+   - Cost of the second book: $4
+   - Total cost of the books = $8 + $4 = $12
+
+3. **Remaining Money**: After buying the books, we need to find out how much money Shelby has left.
+
+   - Remaining money = Initial amount - Total cost of books
+   - Remaining money = $20 - $12 = $8
+
+4. **Cost of Posters**: Shelby wants to buy as many $4 posters as she can with the remaining money. We need to divide the remaining money by the cost of one poster to find out how many posters she can purchase.
+
+   - Cost of one poster: $4
+   - Number of posters she can buy = Remaining money / Cost of one poster
+   - Number of posters she can buy = $8 / $4 = 2
+
+Therefore, after calculating everything step by step, we find out how many posters she can buy.
+</reasoning>
+<answer>2</answer>

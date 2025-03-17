@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Find out how many students stayed in the classroom**:
+   - We know that there are 20 students in total.
+   - Only one-fourth of the students stayed in the classroom. To find one-fourth, we can calculate:
+     \[
+     \text{Number of students in the classroom} = \frac{1}{4} \times 20 = 5
+     \]
+
+2. **Calculate how many students went to the playground**:
+   - To find out how many students went to the playground, we subtract the number of students who stayed in the classroom from the total number of students:
+     \[
+     \text{Number of students in the playground} = 20 - 5 = 15
+     \]
+
+3. **Determine the number of boys who went to the playground**:
+   - We are told that one-third of the students who went to the playground are boys. Therefore, we calculate:
+     \[
+     \text{Number of boys in the playground} = \frac{1}{3} \times 15 = 5
+     \]
+
+4. **Calculate the number of girls who went to the playground**:
+   - Now, we can find the number of girls by subtracting the number of boys from the total number of students in the playground:
+     \[
+     \text{Number of girls in the playground} = 15 - 5 = 10
+     \]
+
+Thus, the number of girls who are on the playground from this class is 10.
+</reasoning>
+<answer>10</answer>

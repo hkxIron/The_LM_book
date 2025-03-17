@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many books Corey had on Tuesday.**  
+   We know that Mike had 45 books. Corey had twice as many books as Mike.  
+   So, we calculate Corey's books as follows:  
+   \[
+   \text{Corey's books} = 2 \times \text{Mike's books} = 2 \times 45 = 90
+   \]
+   This means Corey had 90 books on Tuesday.
+
+2. **Calculate how many books Mike and Corey gave to Lily on Wednesday.**  
+   On Wednesday, Mike gave 10 books to Lily.  
+   Next, Corey gave Lily 15 more books than what Mike gave. So, we calculate the number of books Corey gave:  
+   \[
+   \text{Corey's books given} = \text{Mike's books given} + 15 = 10 + 15 = 25
+   \]
+
+3. **Add the amounts given by Mike and Corey to find out how many books Lily received in total.**  
+   We add the books given by both Mike and Corey:  
+   \[
+   \text{Total books Lily received} = \text{Mike's books given} + \text{Corey's books given} = 10 + 25 = 35
+   \]
+
+So, Lily received a total of 35 books.
+</reasoning>
+<answer>35</answer>

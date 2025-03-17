@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many crayons Mary has left after giving some to Becky, we can follow these steps:
+
+1. **Determine the initial number of crayons Mary has**: 
+   - She has 5 green crayons and 8 blue crayons.
+   - To find the total initial number of crayons, add the green and blue crayons together:
+     \[
+     \text{Total initial crayons} = \text{Number of green crayons} + \text{Number of blue crayons} = 5 + 8 = 13
+     \]
+
+2. **Determine how many crayons Mary gives to Becky**: 
+   - Mary gives out 3 green crayons and 1 blue crayon.
+   - To find the total number of crayons given to Becky, add the number of green and blue crayons she gives:
+     \[
+     \text{Total crayons given} = \text{Green crayons given} + \text{Blue crayons given} = 3 + 1 = 4
+     \]
+
+3. **Calculate how many crayons Mary has left**:
+   - To find the remaining crayons, subtract the number of crayons given from the total initial number of crayons:
+     \[
+     \text{Crayons left} = \text{Total initial crayons} - \text{Total crayons given} = 13 - 4 = 9
+     \]
+
+Therefore, after giving away the crayons, Mary has 9 crayons left.
+</reasoning>
+<answer>9</answer>

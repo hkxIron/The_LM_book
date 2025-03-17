@@ -1,0 +1,42 @@
+<reasoning>
+First, let's break down the earnings from the commercials and the subscriptions separately.
+
+1. **Calculate the earnings from commercials:**
+   - Lauren makes $0.50 for each commercial viewed.
+   - On Tuesday, 100 people watched commercials.
+   - To find the total earnings from commercials, we multiply the number of views by the earnings per view:
+     \[
+     \text{Earnings from commercials} = \text{Number of views} \times \text{Earnings per view} = 100 \times 0.50
+     \]
+   - Performing the multiplication:
+     \[
+     100 \times 0.50 = 50
+     \]
+   - So, Lauren earned $50 from commercials.
+
+2. **Calculate the earnings from subscriptions:**
+   - Lauren makes $1.00 for each subscriber.
+   - On Tuesday, 27 people subscribed.
+   - To find the total earnings from subscriptions, we multiply the number of subscribers by the earnings per subscription:
+     \[
+     \text{Earnings from subscriptions} = \text{Number of subscribers} \times \text{Earnings per subscription} = 27 \times 1.00
+     \]
+   - Performing the multiplication:
+     \[
+     27 \times 1.00 = 27
+     \]
+   - So, Lauren earned $27 from subscriptions.
+
+3. **Calculate the total earnings:**
+   - Now, we add the earnings from commercials and subscriptions to find the total earnings:
+     \[
+     \text{Total earnings} = \text{Earnings from commercials} + \text{Earnings from subscriptions} = 50 + 27
+     \]
+   - Performing the addition:
+     \[
+     50 + 27 = 77
+     \]
+
+Therefore, Lauren made a total of $77 on Tuesday.
+</reasoning>
+<answer>77</answer>

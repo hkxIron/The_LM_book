@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many more ducks and geese Rayden has compared to Lily, let's first determine how many ducks and geese Rayden bought based on the information provided.
+
+1. **Calculate the number of ducks Rayden bought:**
+   - Lily bought 20 ducks.
+   - Rayden bought three times as many ducks as Lily.
+   - Therefore, the number of ducks Rayden bought is:
+     \[
+     \text{Rayden's ducks} = 3 \times \text{Lily's ducks} = 3 \times 20 = 60
+     \]
+
+2. **Calculate the number of geese Rayden bought:**
+   - Lily bought 10 geese.
+   - Rayden bought four times as many geese as Lily.
+   - Therefore, the number of geese Rayden bought is:
+     \[
+     \text{Rayden's geese} = 4 \times \text{Lily's geese} = 4 \times 10 = 40
+     \]
+
+3. **Determine how many more ducks Rayden has than Lily:**
+   - We have already calculated that Rayden has 60 ducks and Lily has 20 ducks.
+   - The difference in the number of ducks is:
+     \[
+     \text{Difference in ducks} = \text{Rayden's ducks} - \text{Lily's ducks} = 60 - 20 = 40
+     \]
+
+4. **Determine how many more geese Rayden has than Lily:**
+   - Rayden has 40 geese and Lily has 10 geese.
+   - The difference in the number of geese is:
+     \[
+     \text{Difference in geese} = \text{Rayden's geese} - \text{Lily's geese} = 40 - 10 = 30
+     \]
+
+5. **Calculate the total difference in ducks and geese:**
+   - Now, we add the differences in ducks and geese to find the total amount that Rayden has more than Lily:
+     \[
+     \text{Total difference} = \text{Difference in ducks} + \text{Difference in geese} = 40 + 30 = 70
+     \]
+
+Therefore, Rayden has 70 more ducks and geese altogether than Lily.
+</reasoning>
+<answer>70</answer>

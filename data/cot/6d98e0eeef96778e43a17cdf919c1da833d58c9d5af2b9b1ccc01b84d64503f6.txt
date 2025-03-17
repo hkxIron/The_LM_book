@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the amount of laundry washed two days ago:**
+   - Two days ago, Oliver's shop washed a total of 5 kilos of laundry.
+
+2. **Calculate the amount of laundry washed yesterday:**
+   - Yesterday, the shop washed five kilos more than the previous day (which was 5 kilos).
+   - Therefore, the amount washed yesterday = 5 kilos + 5 kilos = 10 kilos.
+
+3. **Calculate the amount of laundry washed today:**
+   - Today, it washed twice the amount of laundry than yesterday.
+   - Therefore, the amount washed today = 2 * 10 kilos = 20 kilos.
+
+4. **Calculate the earnings for each day:**
+   - Oliver charges $2 per kilo.
+   - Earnings from two days ago = 5 kilos * $2 = $10.
+   - Earnings from yesterday = 10 kilos * $2 = $20.
+   - Earnings from today = 20 kilos * $2 = $40.
+
+5. **Calculate the total earnings for the three days:**
+   - Total earnings = Earnings from two days ago + Earnings from yesterday + Earnings from today.
+   - Total earnings = $10 + $20 + $40 = $70.
+
+Therefore, after calculating the laundry amounts and the corresponding earnings for each day, we find that Oliver earned a total of $70 for the three days.
+</reasoning>
+<answer>70</answer>

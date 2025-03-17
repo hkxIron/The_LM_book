@@ -1,0 +1,26 @@
+<reasoning>
+To find the distance between Mary and Jimmy after 1 hour, we will first calculate how far each of them runs in that time.
+
+1. **Calculate the distance Mary runs**:
+   - Mary runs at a speed of 5 miles per hour.
+   - In 1 hour, the distance she runs is calculated as:
+     \[
+     \text{Distance}_{\text{Mary}} = \text{Speed}_{\text{Mary}} \times \text{Time} = 5 \text{ miles/hour} \times 1 \text{ hour} = 5 \text{ miles}
+     \]
+
+2. **Calculate the distance Jimmy runs**:
+   - Jimmy runs at a speed of 4 miles per hour.
+   - Similarly, in 1 hour, the distance he runs is calculated as:
+     \[
+     \text{Distance}_{\text{Jimmy}} = \text{Speed}_{\text{Jimmy}} \times \text{Time} = 4 \text{ miles/hour} \times 1 \text{ hour} = 4 \text{ miles}
+     \]
+
+3. **Calculate the total distance between them**:
+   - Since Mary and Jimmy are running in opposite directions, the total distance between them after 1 hour is the sum of the distances they each ran:
+     \[
+     \text{Total Distance} = \text{Distance}_{\text{Mary}} + \text{Distance}_{\text{Jimmy}} = 5 \text{ miles} + 4 \text{ miles} = 9 \text{ miles}
+     \]
+
+Therefore, after 1 hour, the distance between Mary and Jimmy is 9 miles.
+</reasoning>
+<answer>9</answer>

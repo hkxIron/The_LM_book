@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much change Jane received after her purchases, we'll first calculate the total cost of the skirts and blouses she bought.
+
+1. **Calculate the cost of the skirts:**
+   Jane bought 2 skirts for $13 each. 
+   To find the total cost of the skirts, we multiply the number of skirts by the cost per skirt: 
+   \[
+   \text{Total cost of skirts} = 2 \text{ skirts} \times 13 \text{ dollars/skirt} = 26 \text{ dollars}
+   \]
+
+2. **Calculate the cost of the blouses:**
+   Jane also bought 3 blouses for $6 each. 
+   To find the total cost of the blouses, we multiply the number of blouses by the cost per blouse:
+   \[
+   \text{Total cost of blouses} = 3 \text{ blouses} \times 6 \text{ dollars/blouse} = 18 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of all items:**
+   Now, we need to find the total cost of all items by adding the total cost of the skirts and the total cost of the blouses:
+   \[
+   \text{Total cost} = \text{Total cost of skirts} + \text{Total cost of blouses} = 26 \text{ dollars} + 18 \text{ dollars} = 44 \text{ dollars}
+   \]
+
+4. **Calculate the change received:**
+   Jane paid the cashier $100. To find out how much change she received, we subtract the total cost from the amount she paid:
+   \[
+   \text{Change received} = \text{Amount paid} - \text{Total cost} = 100 \text{ dollars} - 44 \text{ dollars} = 56 \text{ dollars}
+   \]
+
+Therefore, after calculating all of the costs and the change, we find that Jane received $56 in change.
+</reasoning>
+<answer>56</answer>

@@ -1,0 +1,49 @@
+<reasoning>
+To find the total number of teeth removed at the dental clinic, we will calculate the number of teeth removed for each individual step by step.
+
+1. **Calculate the number of teeth for each person**: 
+   Each of the four adults has 32 teeth.
+
+2. **First person**: 
+   The first person had 1/4 of all his teeth removed. 
+   \[
+   \text{Teeth removed} = \frac{1}{4} \times 32 = 8
+   \]
+   So, the first person had 8 teeth removed.
+
+3. **Second person**: 
+   The second person had 3/8 of his teeth removed. 
+   \[
+   \text{Teeth removed} = \frac{3}{8} \times 32 = 12
+   \]
+   So, the second person had 12 teeth removed.
+
+4. **Third person**: 
+   The third person had half of his teeth removed. 
+   \[
+   \text{Teeth removed} = \frac{1}{2} \times 32 = 16
+   \]
+   So, the third person had 16 teeth removed.
+
+5. **Fourth person**: 
+   The fourth person had 4 teeth removed, which is given directly.
+
+6. **Total number of teeth removed**: 
+   Now we will sum up the number of teeth removed for each individual:
+   \[
+   \text{Total teeth removed} = 8 + 12 + 16 + 4
+   \]
+   Performing the addition:
+   \[
+   8 + 12 = 20
+   \]
+   \[
+   20 + 16 = 36
+   \]
+   \[
+   36 + 4 = 40
+   \]
+
+Therefore, the total number of teeth removed at the dental clinic is 40.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many days John spent protesting in total, we will break down the problem into manageable steps.
+
+1. **Identify the duration of the first protest**: John attended the first protest for 4 days.
+
+2. **Calculate the duration of the second protest**: The second protest is said to last for 25% longer than the first protest. To find out how many days this is, we first need to calculate 25% of the first protest's duration (4 days).
+
+   - 25% of 4 days can be calculated as:
+     \[
+     0.25 \times 4 = 1 \text{ day}
+     \]
+
+3. **Determine the duration of the second protest**: Since the second protest is 25% longer than the first, we add this 1 day to the original 4 days:
+   \[
+   4 \text{ days} + 1 \text{ day} = 5 \text{ days}
+   \]
+
+4. **Calculate the total days spent protesting**: Now, we add the days from both protests:
+   \[
+   4 \text{ days} + 5 \text{ days} = 9 \text{ days}
+   \]
+
+Therefore, John spent a total of 9 days protesting.
+</reasoning>
+<answer>9</answer>

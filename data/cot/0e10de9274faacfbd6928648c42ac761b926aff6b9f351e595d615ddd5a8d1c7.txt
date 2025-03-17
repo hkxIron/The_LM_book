@@ -1,0 +1,53 @@
+<reasoning>
+Let's start by analyzing the contents of a standard deck of playing cards. A standard deck contains 52 cards, which include:
+
+- 4 suits: Hearts, Diamonds, Clubs, and Spades
+- Each suit has 13 cards: Ace through 10, and three face cards (Jack, Queen, King)
+
+First, we need to determine how many cards Marcus has after removing the face cards and the 8's.
+
+1. **Identify the face cards and the 8's**:
+   - There are 3 face cards per suit (Jack, Queen, King), so in total there are \(3 \times 4 = 12\) face cards.
+   - There are 4 eights in total (one from each suit).
+
+2. **Total cards removed**:
+   - Total cards removed = Face cards + 8's = \(12 + 4 = 16\).
+
+3. **Remaining cards in the deck**:
+   - Remaining cards = Total cards - Total cards removed = \(52 - 16 = 36\).
+
+Next, we need to find cards that are both red and divisible by 3.
+
+4. **Identify red cards**:
+   - The red suits are Hearts and Diamonds. 
+
+5. **Identify numbers divisible by 3**:
+   - In a standard deck, the numbers are 1 (Ace) to 10. The numbers divisible by 3 are 3, 6, and 9. 
+
+6. **Count the red cards that are divisible by 3**:
+   - In the red suits (Hearts and Diamonds), the cards that are divisible by 3 are:
+     - 3 of Hearts
+     - 6 of Hearts
+     - 9 of Hearts
+     - 3 of Diamonds
+     - 6 of Diamonds
+     - 9 of Diamonds
+   - Total = 6 cards (3 red cards from Hearts and 3 red cards from Diamonds).
+
+Now we want to calculate how many times Marcus should expect to pick a red card that is divisible by 3 after drawing 36 times.
+
+7. **Calculate the probability of picking a red card that is divisible by 3**:
+   - The probability (P) of picking one of these 6 cards out of the 36 remaining cards is:
+     \[
+     P = \frac{\text{Number of favorable outcomes}}{\text{Total outcomes}} = \frac{6}{36} = \frac{1}{6}.
+     \]
+
+8. **Calculate the expected number of times he picks a red card that is divisible by 3**:
+   - The expected number of times (E) he picks this card in 36 trials is given by:
+     \[
+     E = \text{Number of draws} \times P = 36 \times \frac{1}{6} = 6.
+     \]
+
+Therefore, after performing all the calculations and reasoning through the problem, we conclude that Marcus should expect to pick a card that is both red and has a number divisible by 3 a total of 6 times.
+</reasoning>
+<answer>6</answer>

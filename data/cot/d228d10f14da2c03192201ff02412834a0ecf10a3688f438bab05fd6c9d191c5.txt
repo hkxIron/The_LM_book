@@ -1,0 +1,30 @@
+<reasoning>
+Let's denote the number of Easter eggs that Helen found as \( x \). According to the problem, Hannah found twice as many eggs as Helen. Therefore, the number of eggs that Hannah found can be expressed as \( 2x \).
+
+Now, we know the total number of Easter eggs in the yard is 63. This means that the sum of the eggs found by Hannah and Helen must equal 63. Therefore, we can set up the following equation based on the information we have:
+
+\[
+x + 2x = 63
+\]
+
+This simplifies to:
+
+\[
+3x = 63
+\]
+
+Now, we will solve for \( x \) by dividing both sides of the equation by 3:
+
+\[
+x = \frac{63}{3} = 21
+\]
+
+So, Helen found 21 Easter eggs. Since Hannah found twice as many, we can calculate the number of Easter eggs Hannah found as follows:
+
+\[
+2x = 2 \times 21 = 42
+\]
+
+Therefore, Hannah found 42 Easter eggs.
+</reasoning>
+<answer>42</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many pencils Jayden has**: We're told that Jayden has 20 pencils.
+
+2. **Calculate how many pencils Marcus has**: The problem states that Jayden has twice as many pencils as Marcus. We can set up the equation based on this information:
+   \[
+   \text{Jayden's pencils} = 2 \times \text{Marcus's pencils}
+   \]
+   Substituting Jayden's pencils:
+   \[
+   20 = 2 \times \text{Marcus's pencils}
+   \]
+   To find the number of pencils Marcus has, we can divide both sides by 2:
+   \[
+   \text{Marcus's pencils} = \frac{20}{2} = 10
+   \]
+
+3. **Calculate how many pencils Dana has**: According to the problem, Dana has 15 more pencils than Jayden. Thus, we can calculate Dana's pencils as follows:
+   \[
+   \text{Dana's pencils} = \text{Jayden's pencils} + 15
+   \]
+   Substituting Jayden's pencils:
+   \[
+   \text{Dana's pencils} = 20 + 15 = 35
+   \]
+
+4. **Determine how many more pencils Dana has than Marcus**: We can find the difference between the number of pencils Dana has and the number Marcus has:
+   \[
+   \text{Difference} = \text{Dana's pencils} - \text{Marcus's pencils}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Difference} = 35 - 10 = 25
+   \]
+
+Therefore, Dana has 25 more pencils than Marcus.
+</reasoning>
+<answer>25</answer>

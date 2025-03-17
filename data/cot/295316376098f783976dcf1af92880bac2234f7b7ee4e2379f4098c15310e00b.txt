@@ -1,0 +1,36 @@
+<reasoning>
+To determine how much change Celine will get back, we first need to calculate the total cost of the items she purchased.
+
+1. **Calculate the total cost of laptops:**
+   Celine buys 2 laptops, and each laptop costs $600. 
+   So, we multiply the number of laptops by the cost per laptop:
+   \[
+   \text{Total cost of laptops} = 2 \times 600 = 1200
+   \]
+   This means she spends $1200 on laptops.
+
+2. **Calculate the total cost of smartphones:**
+   Celine buys 4 smartphones, and each smartphone costs $400.
+   So, we multiply the number of smartphones by the cost per smartphone:
+   \[
+   \text{Total cost of smartphones} = 4 \times 400 = 1600
+   \]
+   This means she spends $1600 on smartphones.
+
+3. **Calculate the total cost of all items:**
+   Now, we add the total cost of laptops and smartphones together:
+   \[
+   \text{Total cost} = \text{Total cost of laptops} + \text{Total cost of smartphones} = 1200 + 1600 = 2800
+   \]
+   This means Celine spends a total of $2800.
+
+4. **Calculate the change Celine receives:**
+   To find out how much change she gets back, we subtract the total cost from the amount of money she has, which is $3000:
+   \[
+   \text{Change} = 3000 - 2800 = 200
+   \]
+   This means Celine gets back $200 in change.
+
+Therefore, the final amount of change Celine receives is:
+</reasoning>
+<answer>200</answer>

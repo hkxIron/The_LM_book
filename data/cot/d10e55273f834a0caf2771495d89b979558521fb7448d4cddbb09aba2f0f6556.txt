@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of pins Richard knocked down in the first round.**
+   - We know that Patrick knocked down 70 pins.
+   - Richard knocked down 15 more pins than Patrick. Therefore, we add 15 to Patrick's score:
+     \[
+     \text{Richard's first round} = 70 + 15 = 85 \text{ pins}
+     \]
+
+2. **Calculate the number of pins Patrick knocked down in the second round.**
+   - In the second round, Patrick knocked down twice as many pins as Richard did in the first round.
+   - We multiply Richard's first round score by 2:
+     \[
+     \text{Patrick's second round} = 2 \times 85 = 170 \text{ pins}
+     \]
+
+3. **Calculate the number of pins Richard knocked down in the second round.**
+   - Richard knocked down 3 less than Patrick in the second round. Therefore, we subtract 3 from Patrick's second round score:
+     \[
+     \text{Richard's second round} = 170 - 3 = 167 \text{ pins}
+     \]
+
+4. **Calculate the total pins knocked down by both players.**
+   - For Patrick, the total pins knocked down in both rounds is:
+     \[
+     \text{Total for Patrick} = 70 + 170 = 240 \text{ pins}
+     \]
+   - For Richard, the total pins knocked down in both rounds is:
+     \[
+     \text{Total for Richard} = 85 + 167 = 252 \text{ pins}
+     \]
+
+5. **Calculate how many more pins Richard knocked down than Patrick.**
+   - We find the difference between Richard's total and Patrick's total:
+     \[
+     \text{Difference} = 252 - 240 = 12 \text{ pins}
+     \]
+
+Therefore, Richard knocked down 12 more pins than Patrick in total.
+</reasoning>
+<answer>12</answer>

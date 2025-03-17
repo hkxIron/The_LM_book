@@ -1,0 +1,38 @@
+<reasoning>
+First, let's determine how much jade is used for each type of statue and how many of each can be made from the available jade.
+
+1. **Calculate the amount of jade used for each statue:**
+   - A giraffe statue uses 120 grams of jade.
+   - An elephant statue uses twice as much jade, which is:
+     \[
+     2 \times 120 = 240 \text{ grams}
+     \]
+
+2. **Determine how many of each statue can be made with 1920 grams of jade:**
+   - For giraffe statues:
+     \[
+     \text{Number of giraffes} = \frac{1920 \text{ grams}}{120 \text{ grams/statue}} = 16 \text{ giraffe statues}
+     \]
+   - For elephant statues:
+     \[
+     \text{Number of elephants} = \frac{1920 \text{ grams}}{240 \text{ grams/statue}} = 8 \text{ elephant statues}
+     \]
+
+3. **Calculate the total revenue from selling each type of statue:**
+   - Revenue from giraffe statues:
+     \[
+     \text{Revenue from giraffes} = 16 \text{ giraffes} \times 150 \text{ dollars/giraffe} = 2400 \text{ dollars}
+     \]
+   - Revenue from elephant statues:
+     \[
+     \text{Revenue from elephants} = 8 \text{ elephants} \times 350 \text{ dollars/elephant} = 2800 \text{ dollars}
+     \]
+
+4. **Calculate the difference in revenue between making elephants and giraffes:**
+   \[
+   \text{Difference} = \text{Revenue from elephants} - \text{Revenue from giraffes} = 2800 \text{ dollars} - 2400 \text{ dollars} = 400 \text{ dollars}
+   \]
+
+Therefore, by converting all the jade into elephants instead of giraffes, Nancy will make an additional $400.
+</reasoning>
+<answer>400</answer>

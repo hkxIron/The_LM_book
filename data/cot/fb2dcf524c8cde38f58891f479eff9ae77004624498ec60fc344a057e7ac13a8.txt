@@ -1,0 +1,39 @@
+<reasoning>
+To find the area of the rectangle, we first need to determine its length using the information provided about the perimeter.
+
+1. **Understanding the perimeter formula**: The formula for the perimeter \( P \) of a rectangle is given by:
+   \[
+   P = 2 \times (\text{length} + \text{width})
+   \]
+   We know the perimeter is 30 inches and the width is 4 inches. We can set up the equation:
+   \[
+   30 = 2 \times (\text{length} + 4)
+   \]
+
+2. **Simplifying the equation**: First, divide both sides of the equation by 2 to isolate the length on one side:
+   \[
+   15 = \text{length} + 4
+   \]
+
+3. **Solving for the length**: Now, subtract 4 from both sides to find the length:
+   \[
+   \text{length} = 15 - 4 = 11 \text{ inches}
+   \]
+
+4. **Calculating the area**: The area \( A \) of a rectangle is calculated using the formula:
+   \[
+   A = \text{length} \times \text{width}
+   \]
+   Substituting the values we have:
+   \[
+   A = 11 \times 4
+   \]
+
+5. **Performing the multiplication**: Now, we multiply to find the area:
+   \[
+   A = 44 \text{ square inches}
+   \]
+
+Therefore, we have calculated the area of the rectangle.
+</reasoning>
+<answer>44</answer>

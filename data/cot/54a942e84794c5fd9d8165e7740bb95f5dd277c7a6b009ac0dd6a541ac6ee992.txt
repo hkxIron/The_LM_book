@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we need to calculate how much kibble Luna consumed that day and then subtract that amount from the original 12-cup bag.
+
+1. **Initial Amount of Kibble**: We start with a 12-cup bag of kibble.
+
+2. **Kibble Given by Mary**:
+   - In the morning, Mary feeds Luna 1 cup.
+   - In the evening, Mary also feeds Luna another 1 cup.
+   - Total kibble given by Mary = 1 cup + 1 cup = 2 cups.
+
+3. **Kibble Given by Frank**:
+   - In the afternoon, Frank feeds Luna 1 cup.
+   - In the late evening, Frank feeds Luna twice as much as he fed in the afternoon. So, he gives her 2 cups (2 times 1 cup).
+   - Total kibble given by Frank = 1 cup + 2 cups = 3 cups.
+
+4. **Total Kibble Consumed by Luna**:
+   - Adding the amounts given by Mary and Frank: 2 cups (from Mary) + 3 cups (from Frank) = 5 cups.
+
+5. **Remaining Kibble in the Bag**:
+   - Starting with 12 cups and subtracting the 5 cups consumed by Luna: 12 cups - 5 cups = 7 cups.
+
+Therefore, after calculating the total amount of kibble given to Luna and the remaining amount in the bag, we find that there are 7 cups left.
+</reasoning>
+<answer>7</answer>

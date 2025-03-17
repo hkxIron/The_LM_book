@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of watermelons Alice had.**
+   - Alice had 10 dozens of watermelons.
+   - Since 1 dozen equals 12, we calculate:
+     \[
+     10 \text{ dozens} = 10 \times 12 = 120 \text{ watermelons}
+     \]
+
+2. **Calculate how many watermelons Alice sold yesterday.**
+   - Alice sold 40% of her watermelons yesterday.
+   - To find 40% of 120, we multiply:
+     \[
+     40\% \text{ of } 120 = 0.40 \times 120 = 48 \text{ watermelons}
+     \]
+
+3. **Calculate the remaining watermelons after yesterday's sales.**
+   - To find out how many watermelons are left after selling 48, we subtract:
+     \[
+     120 - 48 = 72 \text{ watermelons}
+     \]
+
+4. **Calculate how many watermelons Alice sold today.**
+   - Alice sold 1/4 of the remaining watermelons today.
+   - To find 1/4 of the remaining 72 watermelons, we calculate:
+     \[
+     \frac{1}{4} \times 72 = 18 \text{ watermelons}
+     \]
+
+5. **Calculate the number of watermelons left to be sold tomorrow.**
+   - After selling 18 watermelons today, we find out how many are left:
+     \[
+     72 - 18 = 54 \text{ watermelons}
+     \]
+
+Thus, the number of watermelons left to be sold tomorrow is 54.
+</reasoning>
+<answer>54</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+To determine how much Daniel earns from his fabric deliveries from Monday to Wednesday, we will break down the deliveries and calculate the earnings step by step.
+
+1. **Calculate the amount of fabric delivered on each day:**
+   - On **Monday**, he delivers 20 yards of fabric.
+   - On **Tuesday**, he delivers twice the amount he delivered on Monday. Therefore, on Tuesday, he delivers:
+     \[
+     2 \times 20 = 40 \text{ yards}
+     \]
+   - On **Wednesday**, he delivers 1/4 of the amount he delivered on Tuesday. Therefore, on Wednesday, he delivers:
+     \[
+     \frac{1}{4} \times 40 = 10 \text{ yards}
+     \]
+
+2. **Calculate the total amount of fabric delivered from Monday to Wednesday:**
+   - Total fabric delivered is:
+     \[
+     20 \text{ (Monday)} + 40 \text{ (Tuesday)} + 10 \text{ (Wednesday)} = 70 \text{ yards}
+     \]
+
+3. **Calculate the earnings from fabric:**
+   - Each yard of fabric costs $2. Therefore, the total earnings from fabric is:
+     \[
+     70 \text{ yards} \times 2 \text{ dollars/yard} = 140 \text{ dollars}
+     \]
+
+4. **Final calculation of total earnings:**
+   - Since the problem only mentions earnings from fabric and does not provide any information about yarn deliveries, we will only consider the fabric earnings.
+   - Thus, Daniel earns a total of $140 from his fabric deliveries from Monday to Wednesday.
+
+Therefore, the total earnings from Monday to Wednesday is:
+</reasoning>
+<answer>140</answer>

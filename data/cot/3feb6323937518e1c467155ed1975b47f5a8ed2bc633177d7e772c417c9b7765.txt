@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we will calculate the new salaries of both Hansel and Gretel after their respective raises, and then find the difference between their salaries.
+
+1. **Calculating Hansel's New Salary:**
+   - Hansel's current salary is $30,000.
+   - He received a 10% raise. To find the amount of the raise, we calculate:
+     \[
+     \text{Raise} = 30,000 \times 0.10 = 3,000
+     \]
+   - Now, we add this raise to his current salary to find his new salary:
+     \[
+     \text{New Salary of Hansel} = 30,000 + 3,000 = 33,000
+     \]
+
+2. **Calculating Gretel's New Salary:**
+   - Gretel also starts with a salary of $30,000.
+   - She received a 15% raise. To find the amount of the raise, we calculate:
+     \[
+     \text{Raise} = 30,000 \times 0.15 = 4,500
+     \]
+   - Now, we add this raise to her current salary to find her new salary:
+     \[
+     \text{New Salary of Gretel} = 30,000 + 4,500 = 34,500
+     \]
+
+3. **Finding the Difference in Salaries:**
+   - Now we need to find out how much more money Gretel will make compared to Hansel. We do this by subtracting Hansel's new salary from Gretel's new salary:
+     \[
+     \text{Difference} = 34,500 - 33,000 = 1,500
+     \]
+
+Therefore, after calculating both of their new salaries and the difference, we find that Gretel will make $1,500 more than Hansel.
+</reasoning>
+<answer>1500</answer>

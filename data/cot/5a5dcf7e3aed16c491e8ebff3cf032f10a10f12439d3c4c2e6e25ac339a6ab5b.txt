@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much masking tape Elijah needs to order, we first need to calculate the total width of all the walls he is painting.
+
+1. **Identify the widths of the walls**: 
+   - Elijah has 2 walls that are 4 meters wide.
+   - He also has 2 walls that are 6 meters wide.
+
+2. **Calculate the total width of the 4-meter walls**: 
+   \[
+   \text{Total width from 4-meter walls} = 2 \times 4 \text{ meters} = 8 \text{ meters}
+   \]
+   Here, we multiply the width of one wall (4 meters) by the number of such walls (2).
+
+3. **Calculate the total width of the 6-meter walls**: 
+   \[
+   \text{Total width from 6-meter walls} = 2 \times 6 \text{ meters} = 12 \text{ meters}
+   \]
+   Similarly, we multiply the width of one wall (6 meters) by the number of such walls (2).
+
+4. **Add the total widths together**: 
+   \[
+   \text{Total width of all walls} = 8 \text{ meters} + 12 \text{ meters} = 20 \text{ meters}
+   \]
+   This step combines the widths of all the walls to find the total amount of masking tape needed.
+
+Therefore, Elijah needs to order 20 meters of masking tape to cover the entire width of his walls.
+</reasoning>
+<answer>20</answer>

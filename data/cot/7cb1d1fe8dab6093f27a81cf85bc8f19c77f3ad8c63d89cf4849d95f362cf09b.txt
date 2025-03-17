@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understand the Profit Calculation**: 
+   Tina sells each book for $20, and the cost to make each book is $5. Therefore, the profit per book can be calculated as follows:
+
+   \[
+   \text{Profit per book} = \text{Selling Price} - \text{Cost Price} = 20 - 5 = 15
+   \]
+
+   This means for each book Tina sells, she makes $15 in profit.
+
+2. **Calculate the Total Number of Books Sold**: 
+   We know Tina has made a total profit of $120. To find out how many books she sold, we can use the following formula:
+
+   \[
+   \text{Number of Books Sold} = \frac{\text{Total Profit}}{\text{Profit per book}} = \frac{120}{15} = 8
+   \]
+
+   So, Tina sold 8 books in total.
+
+3. **Determine the Number of Customers**: 
+   Each customer buys 2 books at a time. To find out how many customers there are, we can divide the total number of books sold by the number of books each customer buys:
+
+   \[
+   \text{Number of Customers} = \frac{\text{Number of Books Sold}}{\text{Books per Customer}} = \frac{8}{2} = 4
+   \]
+
+   Thus, Tina sold books to 4 customers.
+
+Putting everything together, we have determined that Tina sold to a total of 4 customers.
+</reasoning>
+<answer>4</answer>

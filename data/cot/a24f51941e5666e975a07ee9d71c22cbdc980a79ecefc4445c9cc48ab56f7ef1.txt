@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the costs step by step to find out how much each person should pay for the chicken.
+
+1. **Identify the total cost of the groceries**: Mary's mother paid a total of $16 for the groceries, which included 2 pounds of chicken, 3 pounds of beef, and 1 liter of oil.
+
+2. **Calculate the cost of the beef**: 
+   - The cost of beef is given as $4 per pound. Since there are 3 pounds of beef, we can calculate the total cost for the beef:
+   \[
+   \text{Cost of beef} = 3 \text{ pounds} \times 4 \text{ dollars/pound} = 12 \text{ dollars}
+   \]
+
+3. **Calculate the total cost of oil**: 
+   - The oil costs $1 for 1 liter, so:
+   \[
+   \text{Cost of oil} = 1 \text{ liter} \times 1 \text{ dollar/liter} = 1 \text{ dollar}
+   \]
+
+4. **Calculate the total cost of beef and oil**: 
+   - Now, we add the costs of beef and oil together:
+   \[
+   \text{Total cost of beef and oil} = 12 \text{ dollars} + 1 \text{ dollar} = 13 \text{ dollars}
+   \]
+
+5. **Calculate the remaining cost for the chicken**:
+   - Since the total cost of the groceries was $16, we subtract the cost of the beef and oil from the total to find the cost of the chicken:
+   \[
+   \text{Cost of chicken} = 16 \text{ dollars} - 13 \text{ dollars} = 3 \text{ dollars}
+   \]
+
+6. **Determine the amount each person should pay**:
+   - Mary and her two friends are sharing the cost of the chicken evenly. Since there are 3 people, we divide the total cost of the chicken by the number of people:
+   \[
+   \text{Amount each person pays} = \frac{3 \text{ dollars}}{3} = 1 \text{ dollar}
+   \]
+
+Therefore, each person should pay $1 for the chicken.
+</reasoning>
+<answer>1</answer>

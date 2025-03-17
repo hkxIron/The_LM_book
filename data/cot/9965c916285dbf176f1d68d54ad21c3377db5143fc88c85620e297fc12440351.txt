@@ -1,0 +1,22 @@
+<reasoning>
+To find the total cost of Curtis and Rob's meals after applying the early bird discount, we will follow these steps:
+
+1. **Identify the menu prices**: 
+   - Curtis ordered the Salisbury Steak for $16.00.
+   - Rob ordered the Chicken Fried Steak for $18.00.
+
+2. **Calculate the discounted prices**:
+   Since they ate between 2-4 pm, they receive a 50% discount on their meals. 
+   - For Curtis's Salisbury Steak:
+     - Discounted price = Original price × (1 - Discount percentage)
+     - Discounted price = $16.00 × (1 - 0.50) = $16.00 × 0.50 = $8.00
+   - For Rob's Chicken Fried Steak:
+     - Discounted price = $18.00 × (1 - 0.50) = $18.00 × 0.50 = $9.00
+
+3. **Add the discounted prices together**:
+   - Total cost = Discounted price of Salisbury Steak + Discounted price of Chicken Fried Steak
+   - Total cost = $8.00 + $9.00 = $17.00
+
+Therefore, the total cost of their meal after the discount is applied is $17.00.
+</reasoning>
+<answer>17</answer>

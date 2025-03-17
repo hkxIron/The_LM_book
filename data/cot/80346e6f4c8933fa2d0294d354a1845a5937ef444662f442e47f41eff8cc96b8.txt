@@ -1,0 +1,23 @@
+<reasoning>
+To find the length of each side of the square that Tony can make from the quilt, we first need to calculate the area of the quilt. 
+
+1. **Calculate the area of the quilt:** 
+   The area of a rectangle is found by multiplying its length by its width. 
+   - Length = 24 feet
+   - Width = 6 feet
+
+   Area = Length × Width = 24 feet × 6 feet = 144 square feet.
+
+2. **Determine the side length of the square:** 
+   Since Tony wants to turn the quilt into a square, the area of the square will also be 144 square feet. The area of a square is given by the formula:
+   Area = Side × Side = Side².
+
+   To find the side length, we need to take the square root of the area:
+   Side = √(Area) = √(144 square feet).
+
+3. **Calculate the square root:**
+   The square root of 144 is 12.
+
+Therefore, each side of the square will be 12 feet long.
+</reasoning>
+<answer>12</answer>

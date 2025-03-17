@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we first need to define the total number of animals in the zoo based on the information given about the giraffes and penguins.
+
+1. **Identifying the number of penguins**: 
+   We know that there are 5 giraffes and that there are twice as many penguins. 
+   So, the number of penguins can be calculated as:
+   \[
+   \text{Number of penguins} = 2 \times \text{Number of giraffes} = 2 \times 5 = 10
+   \]
+
+2. **Calculating the total number of animals**: 
+   According to the problem, penguins make up 20% of all the animals in the zoo. We can set up an equation to represent this relationship. Let \( T \) be the total number of animals in the zoo.
+   \[
+   0.20T = \text{Number of penguins} = 10
+   \]
+   To find \( T \), we solve the equation:
+   \[
+   T = \frac{10}{0.20} = 50
+   \]
+
+3. **Finding the number of elephants**: 
+   We are also told that elephants make up 4% of all the animals. We can find the number of elephants using the total number of animals \( T \):
+   \[
+   \text{Number of elephants} = 0.04T = 0.04 \times 50 = 2
+   \]
+
+After calculating the number of elephants in the zoo, we find that there are 2 elephants.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>2</answer>

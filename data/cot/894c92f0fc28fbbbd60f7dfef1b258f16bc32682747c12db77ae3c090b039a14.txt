@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we first need to determine the total number of gummy bears required to fill 240 packets.
+
+1. **Calculate the total number of gummy bears needed**:
+   Each packet contains 50 gummy bears, so for 240 packets, we multiply:
+   \[
+   \text{Total gummy bears} = \text{Number of packets} \times \text{Gummy bears per packet} = 240 \times 50
+   \]
+   Computing this gives:
+   \[
+   240 \times 50 = 12000
+   \]
+   Thus, we need a total of 12,000 gummy bears.
+
+2. **Determine the manufacturing rate**:
+   The factory manufactures 300 gummy bears per minute.
+
+3. **Calculate the time required to produce 12,000 gummy bears**:
+   To find the time in minutes, we divide the total number of gummy bears needed by the number of gummy bears produced per minute:
+   \[
+   \text{Time (in minutes)} = \frac{\text{Total gummy bears}}{\text{Gummy bears per minute}} = \frac{12000}{300}
+   \]
+   Performing the division:
+   \[
+   \frac{12000}{300} = 40
+   \]
+   Therefore, it will take 40 minutes for the factory to manufacture enough gummy bears to fill 240 packets.
+</reasoning>
+<answer>40</answer>

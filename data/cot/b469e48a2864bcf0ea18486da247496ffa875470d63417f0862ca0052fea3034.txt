@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many couples attended the prom, we start by determining how many students were attending in pairs.
+
+1. First, we know there were a total of 123 students who attended the prom.
+2. We also know that 3 students attended on their own. This means they did not form part of any couple.
+3. To find out how many students were attending as couples, we subtract the 3 students who attended alone from the total number of attendees:
+
+   \[
+   123 \text{ (total students)} - 3 \text{ (students attending alone)} = 120 \text{ (students attending as couples)}
+   \]
+
+4. Couples consist of 2 students. To find the number of couples, we divide the number of students attending as couples by 2:
+
+   \[
+   120 \text{ (students in couples)} \div 2 = 60 \text{ (couples)}
+   \]
+
+Thus, we have calculated that there were 60 couples at the prom.
+</reasoning>
+<answer>60</answer>

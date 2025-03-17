@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many fruits Kannon would have eaten so far in the two meals, we will calculate the total number of fruits she ate last night and the total number of fruits she plans to eat today, and then sum them up.
+
+Step 1: Calculate the total number of fruits Kannon ate last night.
+- She had 3 apples, 1 banana, and 4 oranges.
+- Total from last night = 3 apples + 1 banana + 4 oranges = 8 fruits.
+
+Step 2: Determine how many apples Kannon will have today.
+- Today, she plans to have 4 more apples than last night.
+- Last night she had 3 apples, so today she will have: 
+  3 apples + 4 apples = 7 apples.
+
+Step 3: Determine how many bananas she will have today.
+- She plans to have 10 times as many bananas as she had last night.
+- Last night she had 1 banana, so today she will have:
+  10 × 1 banana = 10 bananas.
+
+Step 4: Determine how many oranges she will have today.
+- She plans to have twice as many oranges as the number of apples she'll have today.
+- Today, she has 7 apples, so she will have:
+  2 × 7 apples = 14 oranges.
+
+Step 5: Calculate the total number of fruits she will eat today.
+- Total from today = 7 apples + 10 bananas + 14 oranges = 31 fruits.
+
+Step 6: Calculate the total fruits eaten in both meals.
+- Total fruits eaten so far = Total from last night + Total from today
+- Total = 8 fruits (last night) + 31 fruits (today) = 39 fruits.
+
+Therefore, Kannon would have eaten a total of 39 fruits in the two meals.
+</reasoning>
+<answer>39</answer>

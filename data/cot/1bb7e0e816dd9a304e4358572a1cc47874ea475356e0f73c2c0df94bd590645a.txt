@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we need to determine how many dog paws are on the ground given that there are 12 dogs, with half standing on their back legs and half standing on all four legs.
+
+1. **Determine how many dogs are on their back legs and how many are on all four legs:**
+   - Since there are a total of 12 dogs and half are standing on their back legs, we can find the number of dogs in each position by dividing the total number of dogs by 2.
+   - Calculation: 12 dogs / 2 = 6 dogs standing on their back legs and 6 dogs standing on all four legs.
+
+2. **Calculate the number of paws for each group of dogs:**
+   - Dogs standing on their back legs will have only 2 paws on the ground (the front paws).
+   - Dogs standing on all four legs will have all 4 paws on the ground.
+
+3. **Calculate the total number of paws on the ground:**
+   - For the 6 dogs standing on their back legs, the total number of paws on the ground is: 
+     - 6 dogs * 2 paws = 12 paws.
+   - For the 6 dogs standing on all four legs, the total number of paws on the ground is:
+     - 6 dogs * 4 paws = 24 paws.
+
+4. **Add the total number of paws from both groups:**
+   - We now add the paws from both groups to find the total number of dog paws on the ground:
+     - Total paws on the ground = 12 paws (from back legs) + 24 paws (from all four legs) = 36 paws.
+
+Therefore, the total number of dog paws on the ground is 36.
+</reasoning>
+<answer>36</answer>

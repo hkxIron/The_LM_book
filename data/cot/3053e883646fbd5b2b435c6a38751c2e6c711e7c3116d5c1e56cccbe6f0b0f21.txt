@@ -1,0 +1,36 @@
+<reasoning>
+To determine how many miles Amoli and Anayet still need to travel, we first need to calculate the total distance they have already covered together.
+
+1. **Calculate the distance Amoli drove:**
+   - Amoli drove at a speed of 42 miles per hour for 3 hours.
+   - We can find the distance by using the formula: 
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time}
+     \]
+   - Substituting the values for Amoli:
+     \[
+     \text{Distance}_{\text{Amoli}} = 42 \, \text{miles/hour} \times 3 \, \text{hours} = 126 \, \text{miles}
+     \]
+
+2. **Calculate the distance Anayet drove:**
+   - Anayet drove at a speed of 61 miles per hour for 2 hours.
+   - Using the same distance formula:
+     \[
+     \text{Distance}_{\text{Anayet}} = 61 \, \text{miles/hour} \times 2 \, \text{hours} = 122 \, \text{miles}
+     \]
+
+3. **Calculate the total distance covered by both:**
+   - Now, we add the distances covered by Amoli and Anayet:
+     \[
+     \text{Total Distance Covered} = \text{Distance}_{\text{Amoli}} + \text{Distance}_{\text{Anayet}} = 126 \, \text{miles} + 122 \, \text{miles} = 248 \, \text{miles}
+     \]
+
+4. **Calculate the remaining distance:**
+   - The total distance they need to travel is 369 miles. We subtract the total distance covered from this:
+     \[
+     \text{Remaining Distance} = \text{Total Distance} - \text{Total Distance Covered} = 369 \, \text{miles} - 248 \, \text{miles} = 121 \, \text{miles}
+     \]
+
+Therefore, after calculating the distance each person drove and the total distance they need to travel, we find the remaining distance they still need to cover.
+</reasoning>
+<answer>121</answer>

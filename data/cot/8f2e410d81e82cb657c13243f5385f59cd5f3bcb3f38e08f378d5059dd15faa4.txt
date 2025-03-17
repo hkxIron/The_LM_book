@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we will go through the steps of determining how many cats remained on Tatoosh after two relocation missions.
+
+1. **Identify the original number of cats**: We start with an original number of 1800 cats on the island.
+
+2. **First relocation mission**: During the first mission, 600 cats were relocated. We need to subtract this number from the original number of cats.
+   \[
+   \text{Remaining cats after first mission} = \text{Original cats} - \text{Cats relocated}
+   \]
+   \[
+   \text{Remaining cats after first mission} = 1800 - 600 = 1200
+   \]
+   After the first relocation mission, there are 1200 cats left on the island.
+
+3. **Second relocation mission**: In the second mission, half of the remaining cats (which is now 1200) were relocated. We need to calculate half of 1200.
+   \[
+   \text{Cats relocated in second mission} = \frac{1200}{2} = 600
+   \]
+   Therefore, 600 cats were relocated during the second mission.
+
+4. **Calculate the final number of cats remaining**: Now, we need to find out how many cats are left after the second relocation mission.
+   \[
+   \text{Remaining cats after second mission} = \text{Remaining cats after first mission} - \text{Cats relocated in second mission}
+   \]
+   \[
+   \text{Remaining cats after second mission} = 1200 - 600 = 600
+   \]
+
+Thus, after both relocation missions, there are 600 cats remaining on Tatoosh.
+</reasoning>
+<answer>600</answer>

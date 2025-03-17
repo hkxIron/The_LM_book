@@ -1,0 +1,25 @@
+<reasoning>
+To find the temperature at 11 A.M., we need to calculate how many degrees the temperature increased from 3 A.M. to 11 A.M. and then add that increase to the initial temperature.
+
+1. **Identify the starting temperature and time**: 
+   The starting temperature at 3 A.M. is 50 degrees.
+
+2. **Determine the time interval**: 
+   From 3 A.M. to 11 A.M., we need to calculate the total number of hours.
+   - 11 A.M. - 3 A.M. = 8 hours.
+
+3. **Calculate how many 2-hour intervals are in 8 hours**: 
+   Since the temperature increases every 2 hours, we divide the total hours by 2:
+   - 8 hours ÷ 2 hours/interval = 4 intervals.
+
+4. **Calculate the total temperature increase**: 
+   The temperature increases by 1.5 degrees every 2 hours. Since there are 4 intervals, we multiply the increase per interval by the number of intervals:
+   - Total increase = 1.5 degrees/interval × 4 intervals = 6 degrees.
+
+5. **Add the total increase to the initial temperature**: 
+   Now we add the increase to the initial temperature of 50 degrees:
+   - Final temperature = 50 degrees + 6 degrees = 56 degrees.
+
+Therefore, the temperature at 11 A.M. is 56 degrees.
+</reasoning>
+<answer>56</answer>

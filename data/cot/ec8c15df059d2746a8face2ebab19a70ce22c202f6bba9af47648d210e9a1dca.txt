@@ -1,0 +1,36 @@
+<reasoning>
+To find the total number of marshmallows held by Haley, Michael, and Brandon, we will calculate the number of marshmallows each of them can hold step by step.
+
+1. **Determine how many marshmallows Haley can hold:**
+   - We know from the problem that Haley can hold 8 marshmallows.
+
+2. **Calculate how many marshmallows Michael can hold:**
+   - The problem states that Michael can hold 3 times as many marshmallows as Haley.
+   - Therefore, the number of marshmallows Michael can hold is:
+     \[
+     \text{Michael's marshmallows} = 3 \times \text{Haley's marshmallows} = 3 \times 8 = 24
+     \]
+
+3. **Calculate how many marshmallows Brandon can hold:**
+   - The problem mentions that Brandon can hold half as many marshmallows as Michael.
+   - Thus, the number of marshmallows Brandon can hold is:
+     \[
+     \text{Brandon's marshmallows} = \frac{1}{2} \times \text{Michael's marshmallows} = \frac{1}{2} \times 24 = 12
+     \]
+
+4. **Add the number of marshmallows each child can hold to find the total:**
+   - Now, we will sum up the marshmallows held by Haley, Michael, and Brandon:
+     \[
+     \text{Total marshmallows} = \text{Haley's marshmallows} + \text{Michael's marshmallows} + \text{Brandon's marshmallows} = 8 + 24 + 12
+     \]
+   - Performing the addition:
+     \[
+     8 + 24 = 32
+     \]
+     \[
+     32 + 12 = 44
+     \]
+
+Therefore, the total number of marshmallows held by all three kids is 44.
+</reasoning>
+<answer>44</answer>

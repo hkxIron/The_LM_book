@@ -1,0 +1,27 @@
+<reasoning>
+To find the actual number of toddlers at the daycare, we need to consider the errors Bill made during his counting.
+
+1. **Understanding the situation**: 
+   - Bill thinks he counted 26 toddlers.
+   - He double-counted 8 toddlers, meaning he counted those 8 toddlers twice.
+   - He missed 3 toddlers who were hiding, meaning he did not count these toddlers at all.
+
+2. **Adjusting for double counting**:
+   - Since Bill double-counted 8 toddlers, we need to subtract those 8 from the count he thinks he has. This accounts for the fact that those 8 toddlers were counted twice.
+   - So we calculate: 
+     \[
+     26 - 8 = 18
+     \]
+   - Now we have 18 toddlers, but this number does not include the 3 toddlers he missed.
+
+3. **Adding the missed toddlers**:
+   - Next, we need to add the 3 toddlers that Bill missed to the adjusted count.
+   - So we calculate:
+     \[
+     18 + 3 = 21
+     \]
+
+4. **Final count**:
+   - Therefore, the actual number of toddlers at the daycare is 21.
+</reasoning>
+<answer>21</answer>

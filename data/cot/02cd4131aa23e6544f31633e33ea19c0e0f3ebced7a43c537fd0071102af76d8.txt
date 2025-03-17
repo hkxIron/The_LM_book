@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many students do not like either food, we can follow these steps:
+
+1. **Identify the Total Students**: We know there are 25 students in total.
+
+2. **Identify the Groups**: 
+   - Let \( F \) be the number of students who like French fries, which is 15.
+   - Let \( B \) be the number of students who like burgers, which is 10.
+   - Let \( F \cap B \) be the number of students who like both French fries and burgers, which is 6.
+
+3. **Use the Principle of Inclusion-Exclusion**: To find the total number of students who like at least one of the foods, we can use the formula:
+   \[
+   |F \cup B| = |F| + |B| - |F \cap B|
+   \]
+   Plugging in the numbers:
+   \[
+   |F \cup B| = 15 + 10 - 6 = 19
+   \]
+   So, 19 students like either French fries, burgers, or both.
+
+4. **Calculate Students Who Do Not Like Either**: To find the number of students who do not like either food, we subtract the students who like at least one food from the total number of students:
+   \[
+   \text{Students who do not like either} = \text{Total Students} - |F \cup B| = 25 - 19 = 6
+   \]
+
+Therefore, there are 6 students who do not like either food.
+</reasoning>
+<answer>6</answer>

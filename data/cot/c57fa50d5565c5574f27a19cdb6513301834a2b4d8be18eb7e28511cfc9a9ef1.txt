@@ -1,0 +1,33 @@
+<reasoning>
+Let's denote the initial number of boxes of oranges Seth bought as \( x \).
+
+1. **Seth gives a box to his mother**: After giving one box to his mother, the number of boxes Seth has left is \( x - 1 \). This is because he started with \( x \) boxes and gave away 1 box.
+
+2. **Seth gives away half of the remaining boxes**: Now, he gives away half of the boxes he has left. The number of boxes he gives away is half of \( x - 1 \), which can be expressed as \( \frac{x - 1}{2} \).
+
+3. **Calculating the boxes left after giving away half**: After giving away half, the number of boxes Seth has left is:
+   \[
+   (x - 1) - \frac{x - 1}{2}
+   \]
+   To simplify this expression, first we can combine the terms:
+   \[
+   = \frac{2(x - 1)}{2} - \frac{x - 1}{2} = \frac{2(x - 1) - (x - 1)}{2} = \frac{(2x - 2) - (x - 1)}{2} = \frac{2x - 2 - x + 1}{2} = \frac{x - 1}{2}
+   \]
+
+4. **Setting up the equation**: We are given that Seth has 4 boxes left after these transactions. Therefore, we can set up the equation:
+   \[
+   \frac{x - 1}{2} = 4
+   \]
+
+5. **Solving for \( x \)**: To find \( x \), we can first multiply both sides of the equation by 2 to eliminate the fraction:
+   \[
+   x - 1 = 8
+   \]
+   Now, add 1 to both sides:
+   \[
+   x = 9
+   \]
+
+Thus, Seth initially bought 9 boxes of oranges.
+</reasoning>
+<answer>9</answer>

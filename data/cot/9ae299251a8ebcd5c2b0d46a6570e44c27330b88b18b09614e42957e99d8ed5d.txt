@@ -1,0 +1,26 @@
+<reasoning>
+To solve this problem, we need to follow these steps:
+
+1. **Determine how many children were allowed to draw jelly beans.**
+   Since 80% of the 40 children were allowed to draw jelly beans, we calculate the number of children allowed:
+   \[
+   \text{Number of children allowed} = 0.80 \times 40 = 32 \text{ children}
+   \]
+   This means that 32 children will be drawing jelly beans from the bag.
+
+2. **Calculate the total number of jelly beans drawn.**
+   Each of the 32 children drew 2 jelly beans. Therefore, we need to calculate the total number of jelly beans drawn:
+   \[
+   \text{Total jelly beans drawn} = 32 \text{ children} \times 2 \text{ jelly beans/child} = 64 \text{ jelly beans}
+   \]
+   This means that a total of 64 jelly beans were taken from the bag.
+
+3. **Calculate the number of jelly beans remaining in the bag.**
+   We started with 100 jelly beans and after the children took their share, we need to find out how many are left. We subtract the total jelly beans drawn from the initial amount:
+   \[
+   \text{Jelly beans remaining} = 100 - 64 = 36 \text{ jelly beans}
+   \]
+
+Thus, the number of jelly beans remaining in the bag after the children took their share is:
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of uniforms**: We are given that there are 12 uniforms in the lab.
+
+2. **Calculate the number of lab coats**: It is stated that there are 6 times as many lab coats as uniforms. Since there are 12 uniforms, we can find the number of lab coats by multiplying the number of uniforms by 6:
+   \[
+   \text{Number of lab coats} = 6 \times \text{Number of uniforms} = 6 \times 12 = 72
+   \]
+
+3. **Determine the number of lab techs**: The problem states that the number of lab techs is half of the number of uniforms. Since there are 12 uniforms, the number of lab techs can be calculated as:
+   \[
+   \text{Number of lab techs} = \frac{1}{2} \times \text{Number of uniforms} = \frac{1}{2} \times 12 = 6
+   \]
+
+4. **Calculate the total number of items (coats and uniforms)**: We now need to find the total number of coats and uniforms together:
+   \[
+   \text{Total items} = \text{Number of lab coats} + \text{Number of uniforms} = 72 + 12 = 84
+   \]
+
+5. **Distribute the total items among the lab techs**: We need to find out how many coats and uniforms each lab tech gets. To do this, we divide the total number of items by the number of lab techs:
+   \[
+   \text{Items per lab tech} = \frac{\text{Total items}}{\text{Number of lab techs}} = \frac{84}{6} = 14
+   \]
+
+Thus, each lab tech receives a total of 14 items (both coats and uniforms combined).
+</reasoning>
+<answer>14</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the initial number of apples.**
+   We start with 74 apples in the basket.
+
+2. **Determine how many apples Ricki removes.**
+   According to the problem, Ricki removes 14 apples. So, we subtract these apples from the initial count:
+
+   \[
+   \text{Apples left after Ricki} = 74 - 14
+   \]
+   Calculating this gives:
+   \[
+   \text{Apples left after Ricki} = 60
+   \]
+
+3. **Determine how many apples Samson removes.**
+   The problem states that Samson removes twice as many apples as Ricki. Since Ricki removed 14 apples, we can calculate how many apples Samson removes:
+
+   \[
+   \text{Samson's removal} = 2 \times 14 = 28
+   \]
+
+4. **Calculate the total number of apples left after both Ricki and Samson have removed apples.**
+   Now we subtract the number of apples Samson removed from the number of apples left after Ricki:
+
+   \[
+   \text{Apples left after Samson} = 60 - 28
+   \]
+   Calculating this gives:
+   \[
+   \text{Apples left after Samson} = 32
+   \]
+
+5. **Final count of apples.**
+   By the end of the day, there are 32 apples left in the basket.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>32</answer>

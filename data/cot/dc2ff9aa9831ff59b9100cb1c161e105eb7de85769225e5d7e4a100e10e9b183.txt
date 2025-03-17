@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many oranges Juan picked, we first need to calculate the total number of oranges picked by Del.
+
+1. **Calculate the number of oranges Del picked:**
+   Del picked 23 oranges on each of 2 days. So, we multiply the number of oranges picked per day by the number of days:
+   \[
+   \text{Oranges picked by Del} = 23 \text{ oranges/day} \times 2 \text{ days} = 46 \text{ oranges}
+   \]
+
+2. **Determine the number of oranges picked by Juan:**
+   We know that the total number of oranges picked by Del and Juan together is 107. To find out how many oranges Juan picked, we subtract the number of oranges picked by Del from the total:
+   \[
+   \text{Oranges picked by Juan} = \text{Total oranges} - \text{Oranges picked by Del}
+   \]
+   \[
+   \text{Oranges picked by Juan} = 107 - 46 = 61
+   \]
+
+Therefore, Juan picked a total of 61 oranges.
+</reasoning>
+<answer>61</answer>

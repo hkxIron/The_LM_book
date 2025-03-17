@@ -1,0 +1,48 @@
+<reasoning>
+To solve the problem, we will first determine how many cards Joseph gave to his brother and then calculate how many cards he has left. Finally, we'll find the percentage of cards that Joseph has left.
+
+1. **Calculating the number of cards given based on the fraction**: 
+   Joseph had 16 baseball cards and gave \( \frac{3}{8} \) of them to his brother. To find out how many cards this is, we calculate: 
+
+   \[
+   \text{Cards given} = \frac{3}{8} \times 16
+   \]
+
+   Performing the multiplication:
+
+   \[
+   \frac{3}{8} \times 16 = \frac{3 \times 16}{8} = \frac{48}{8} = 6
+   \]
+
+   So, Joseph gave 6 cards to his brother based on the fraction.
+
+2. **Adding the additional cards given**: 
+   Joseph also gave 2 additional cards to his brother. Therefore, the total number of cards he gave away is:
+
+   \[
+   \text{Total cards given} = 6 + 2 = 8
+   \]
+
+3. **Calculating how many cards Joseph has left**: 
+   Now we subtract the total cards given from the original number of cards:
+
+   \[
+   \text{Cards left} = 16 - 8 = 8
+   \]
+
+4. **Finding the percentage of cards left**: 
+   To find the percentage of the total cards that Joseph has left, we use the formula for percentage:
+
+   \[
+   \text{Percentage left} = \left( \frac{\text{Cards left}}{\text{Total original cards}} \right) \times 100
+   \]
+
+   Substituting the values we have:
+
+   \[
+   \text{Percentage left} = \left( \frac{8}{16} \right) \times 100 = 0.5 \times 100 = 50
+   \]
+
+Thus, after giving away the cards, Joseph has 50% of his original cards left.
+</reasoning>
+<answer>50</answer>

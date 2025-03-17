@@ -1,0 +1,33 @@
+<reasoning>
+To solve the problem, we need to determine how many monsters Chandra saw each day for 5 days, starting with 2 monsters on the first day and doubling the number each subsequent day.
+
+1. **Day 1:** Chandra sees 2 monsters.
+   - Total monsters on Day 1 = 2
+
+2. **Day 2:** The number of monsters doubles from Day 1.
+   - Total monsters on Day 2 = 2 × 2 = 4
+
+3. **Day 3:** The number of monsters doubles from Day 2.
+   - Total monsters on Day 3 = 4 × 2 = 8
+
+4. **Day 4:** The number of monsters doubles from Day 3.
+   - Total monsters on Day 4 = 8 × 2 = 16
+
+5. **Day 5:** The number of monsters doubles from Day 4.
+   - Total monsters on Day 5 = 16 × 2 = 32
+
+Next, we need to find the total number of monsters seen over all 5 days. So we will add the monsters from each day:
+
+- Total monsters = Day 1 + Day 2 + Day 3 + Day 4 + Day 5
+- Total monsters = 2 + 4 + 8 + 16 + 32
+
+Now, we can calculate that:
+
+- 2 + 4 = 6
+- 6 + 8 = 14
+- 14 + 16 = 30
+- 30 + 32 = 62
+
+Thus, after 5 days, Chandra needs to lead back a total of 62 monsters to the swamps.
+</reasoning>
+<answer>62</answer>

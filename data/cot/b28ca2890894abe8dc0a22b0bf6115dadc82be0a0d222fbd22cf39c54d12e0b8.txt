@@ -1,0 +1,46 @@
+<reasoning>
+To find out how much Frank spends per load of laundry when he buys 2 bottles of detergent, we will follow these steps:
+
+1. **Calculate the total cost for 2 bottles of detergent**: 
+   Since each bottle drops to $20.00 during the sale, we multiply the price of one bottle by 2.
+
+   \[
+   \text{Total Cost} = 2 \times 20.00 = 40.00
+   \]
+
+   This means Frank spends $40.00 for 2 bottles of detergent.
+
+2. **Determine the total number of loads of laundry he can wash with 2 bottles**: 
+   Since one bottle washes 80 loads, two bottles will wash:
+
+   \[
+   \text{Total Loads} = 2 \times 80 = 160
+   \]
+
+   So, Frank can wash 160 loads of laundry with 2 bottles.
+
+3. **Calculate the cost per load in dollars**: 
+   To find the cost per load, we take the total cost and divide it by the total number of loads.
+
+   \[
+   \text{Cost per Load} = \frac{\text{Total Cost}}{\text{Total Loads}} = \frac{40.00}{160}
+   \]
+
+   Simplifying this gives:
+
+   \[
+   \text{Cost per Load} = 0.25
+   \]
+
+   So, he spends $0.25 per load.
+
+4. **Convert the cost per load from dollars to cents**: 
+   Since 1 dollar is equal to 100 cents, we convert the cost per load in dollars to cents:
+
+   \[
+   \text{Cost per Load in Cents} = 0.25 \times 100 = 25
+   \]
+
+Thus, Frank spends 25 cents per load of laundry if he buys 2 bottles of detergent.
+</reasoning>
+<answer>25</answer>

@@ -1,0 +1,45 @@
+<reasoning>
+To solve this problem, we will first determine how many of each type of cake Carter usually bakes, and then how many he baked this week after tripling the amounts. Finally, we will find the difference to see how much more he baked this week.
+
+1. **Identify the usual quantities:**
+   - Cheesecakes: 6
+   - Muffins: 5
+   - Red velvet cakes: 8
+
+   We notice that chocolate moist cakes are mentioned but not given a usual quantity. For this calculation, we will assume he bakes 0 chocolate moist cakes usually.
+
+2. **Calculate the total usual cakes baked:**
+   \[
+   \text{Total usual cakes} = \text{Cheesecakes} + \text{Muffins} + \text{Red velvet cakes} + \text{Chocolate moist cakes}
+   \]
+   \[
+   \text{Total usual cakes} = 6 + 5 + 8 + 0 = 19
+   \]
+
+3. **Calculate the quantities for this week:**
+   Since Carter baked triple the amount this week, we will multiply each type by 3:
+   - Cheesecakes this week: \(6 \times 3 = 18\)
+   - Muffins this week: \(5 \times 3 = 15\)
+   - Red velvet cakes this week: \(8 \times 3 = 24\)
+   - Chocolate moist cakes this week: \(0 \times 3 = 0\)
+
+4. **Calculate the total cakes baked this week:**
+   \[
+   \text{Total cakes this week} = \text{Cheesecakes this week} + \text{Muffins this week} + \text{Red velvet cakes this week} + \text{Chocolate moist cakes this week}
+   \]
+   \[
+   \text{Total cakes this week} = 18 + 15 + 24 + 0 = 57
+   \]
+
+5. **Calculate the increase in the number of cakes:**
+   Now we subtract the total usual cakes from the total cakes baked this week:
+   \[
+   \text{Increase in cakes} = \text{Total cakes this week} - \text{Total usual cakes}
+   \]
+   \[
+   \text{Increase in cakes} = 57 - 19 = 38
+   \]
+
+Therefore, Carter was able to bake 38 more cakes this week than he normally does.
+</reasoning>
+<answer>38</answer>

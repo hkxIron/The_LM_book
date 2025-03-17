@@ -1,0 +1,27 @@
+<reasoning>
+To determine the total distance that Cheryl walked, we need to break her journey into two parts: the distance she walked away from home and the distance she walked back.
+
+1. **Calculating the distance she walked away from home**:
+   - Cheryl walked at a speed of 2 miles per hour for 3 hours.
+   - To find the distance, we can use the formula:
+     \[
+     \text{Distance} = \text{Speed} \times \text{Time}
+     \]
+   - Plugging in Cheryl's speed and time:
+     \[
+     \text{Distance} = 2 \, \text{miles/hour} \times 3 \, \text{hours} = 6 \, \text{miles}
+     \]
+
+2. **Calculating the distance she walked back home**:
+   - After walking 6 miles away from home, Cheryl walked back the same distance to return home.
+   - Therefore, the distance she walked back home is also 6 miles.
+
+3. **Calculating the total distance walked**:
+   - To find the total distance, we add the distance she walked away from home to the distance she walked back home:
+     \[
+     \text{Total Distance} = \text{Distance away} + \text{Distance back} = 6 \, \text{miles} + 6 \, \text{miles} = 12 \, \text{miles}
+     \]
+
+Thus, Cheryl walked a total of 12 miles.
+</reasoning>
+<answer>12</answer>

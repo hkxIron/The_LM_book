@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much Johnny spends on crab meat in a week, we will follow these steps:
+
+1. **Calculate the daily crab meat usage**: 
+   Johnny makes his dish 40 times a day and each dish uses 1.5 pounds of crab meat. 
+   Therefore, the daily usage of crab meat is:
+   \[
+   40 \text{ dishes} \times 1.5 \text{ pounds per dish} = 60 \text{ pounds of crab meat}
+   \]
+
+2. **Determine the cost of crab meat per day**: 
+   Crab meat costs $8 per pound. To find the daily cost, we multiply the daily usage by the cost per pound:
+   \[
+   60 \text{ pounds} \times 8 \text{ dollars per pound} = 480 \text{ dollars}
+   \]
+
+3. **Calculate the number of days Johnny is open in a week**: 
+   Since Johnny is closed for 3 days a week, he is open for:
+   \[
+   7 \text{ days} - 3 \text{ days} = 4 \text{ days}
+   \]
+
+4. **Calculate the total weekly cost of crab meat**:
+   Now, we can find out how much he spends in a week by multiplying his daily cost by the number of days he operates:
+   \[
+   480 \text{ dollars per day} \times 4 \text{ days} = 1920 \text{ dollars}
+   \]
+
+Therefore, Johnny spends a total of $1920 on crab meat in a week.
+</reasoning>
+<answer>1920</answer>

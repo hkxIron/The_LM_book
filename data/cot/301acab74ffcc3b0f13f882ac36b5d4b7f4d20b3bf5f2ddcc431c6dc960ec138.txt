@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total amount of money Aaron and Carson have.**
+   - Aaron has $40 and Carson has $40.
+   - Total money = 40 + 40 = $80.
+
+2. **Determine the dinner bill.**
+   - The bill is 3/4 of their total money.
+   - Dinner bill = (3/4) * $80 = $60.
+
+3. **Calculate how much money they have left after dinner.**
+   - They started with $80 and spent $60 on dinner.
+   - Money left = $80 - $60 = $20.
+
+4. **Understand how much money they each leave with after buying ice cream.**
+   - They each leave with $1 in change.
+   - This means they spent (total money left - change left) = $20 - $1 - $1 = $18 (since both Aaron and Carson leave with $1).
+
+5. **Calculate how much each person spent on ice cream.**
+   - They spent a total of $18 on ice cream, which they split equally.
+   - Each person's spending on ice cream = $18 / 2 = $9.
+
+6. **Determine how many scoops of ice cream each person bought.**
+   - Each scoop costs $1.5.
+   - Number of scoops = Amount spent on ice cream / Cost per scoop = $9 / $1.5.
+   - To simplify, we can multiply both the numerator and the denominator by 10:
+     - Number of scoops = 90 / 15 = 6.
+
+Thus, Aaron and Carson each bought 6 scoops of ice cream.
+</reasoning>
+<answer>6</answer>

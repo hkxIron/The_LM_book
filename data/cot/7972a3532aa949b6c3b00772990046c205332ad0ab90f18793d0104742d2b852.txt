@@ -1,0 +1,20 @@
+<reasoning>
+To determine how many calories Jean eats while writing her final paper, we can break down the problem step by step.
+
+1. **Determine the number of donuts Jean eats**: Since Jean eats one donut for every 2 pages she writes, we first need to calculate how many donuts she will consume after writing 12 pages. 
+
+   We can use the formula:
+   \[
+   \text{Number of donuts} = \frac{\text{Pages written}}{\text{Pages per donut}} = \frac{12 \text{ pages}}{2 \text{ pages/donut}} = 6 \text{ donuts}
+   \]
+
+2. **Calculate the total calories consumed**: Each donut has 150 calories. To find out how many total calories Jean consumes, we multiply the number of donuts by the calories per donut.
+
+   The formula is:
+   \[
+   \text{Total calories} = \text{Number of donuts} \times \text{Calories per donut} = 6 \text{ donuts} \times 150 \text{ calories/donut} = 900 \text{ calories}
+   \]
+
+Therefore, Jean eats a total of 900 calories while writing her final paper.
+</reasoning>
+<answer>900</answer>

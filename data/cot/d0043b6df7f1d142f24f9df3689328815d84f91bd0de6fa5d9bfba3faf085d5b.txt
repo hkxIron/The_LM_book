@@ -1,0 +1,51 @@
+<reasoning>
+To find out how many square feet of fabric Darnell has left, we need to calculate the total area of fabric used for the flags he has already made, and then subtract that from the total area of fabric he started with.
+
+1. **Calculate the area of the square flags:**
+   Each square flag has dimensions of 4 feet by 4 feet.
+   \[
+   \text{Area of one square flag} = 4 \text{ ft} \times 4 \text{ ft} = 16 \text{ square feet}
+   \]
+   Darnell made 16 square flags, so:
+   \[
+   \text{Total area of square flags} = 16 \times 16 = 256 \text{ square feet}
+   \]
+
+2. **Calculate the area of the wide rectangular flags:**
+   Each wide rectangular flag has dimensions of 5 feet by 3 feet.
+   \[
+   \text{Area of one wide flag} = 5 \text{ ft} \times 3 \text{ ft} = 15 \text{ square feet}
+   \]
+   Darnell made 20 wide flags, so:
+   \[
+   \text{Total area of wide flags} = 20 \times 15 = 300 \text{ square feet}
+   \]
+
+3. **Calculate the area of the tall rectangular flags:**
+   Each tall rectangular flag has dimensions of 3 feet by 5 feet.
+   \[
+   \text{Area of one tall flag} = 3 \text{ ft} \times 5 \text{ ft} = 15 \text{ square feet}
+   \]
+   Darnell made 10 tall flags, so:
+   \[
+   \text{Total area of tall flags} = 10 \times 15 = 150 \text{ square feet}
+   \]
+
+4. **Calculate the total area used for all flags:**
+   Now, we add all the areas of the flags together:
+   \[
+   \text{Total area used} = \text{Total area of square flags} + \text{Total area of wide flags} + \text{Total area of tall flags}
+   \]
+   \[
+   \text{Total area used} = 256 + 300 + 150 = 706 \text{ square feet}
+   \]
+
+5. **Calculate the remaining area of fabric:**
+   Darnell started with 1000 square feet of fabric. We subtract the total area used from this amount:
+   \[
+   \text{Remaining area} = 1000 - 706 = 294 \text{ square feet}
+   \]
+
+Therefore, after making all the flags, Darnell has 294 square feet of fabric left.
+</reasoning>
+<answer>294</answer>

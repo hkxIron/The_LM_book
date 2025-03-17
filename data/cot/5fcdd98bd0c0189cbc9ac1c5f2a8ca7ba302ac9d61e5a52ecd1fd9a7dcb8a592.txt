@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, I'll start by determining how much of the 400 pounds of seaweed is only good for starting fires. 
+
+1. **Calculate how much seaweed is good for starting fires:**
+   - Since 50% of the seaweed is only good for starting fires, I will calculate 50% of 400 pounds.
+   - Calculation: 
+     \[
+     0.50 \times 400 = 200 \text{ pounds}
+     \]
+   - This means 200 pounds of seaweed is only good for starting fires.
+
+2. **Determine how much seaweed is left after removing the portion for starting fires:**
+   - I will subtract the amount of seaweed used for starting fires from the total amount.
+   - Calculation: 
+     \[
+     400 - 200 = 200 \text{ pounds}
+     \]
+   - So, there are 200 pounds of seaweed remaining.
+
+3. **Calculate how much of the remaining seaweed can be eaten by humans:**
+   - 25% of the remaining 200 pounds can be eaten by humans. 
+   - Calculation:
+     \[
+     0.25 \times 200 = 50 \text{ pounds}
+     \]
+   - This means 50 pounds of seaweed can be eaten by humans.
+
+4. **Determine how much seaweed is fed to livestock:**
+   - To find out how much is fed to livestock, I will subtract the amount that can be eaten by humans from the remaining seaweed.
+   - Calculation:
+     \[
+     200 - 50 = 150 \text{ pounds}
+     \]
+   - Therefore, 150 pounds of seaweed is fed to livestock.
+
+In conclusion, Carson feeds 150 pounds of seaweed to livestock.
+</reasoning>
+<answer>150</answer>

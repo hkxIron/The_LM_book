@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the sales for each day step by step:
+
+1. **Monday Sales:**
+   On Monday, the shop sold 12 bouquets. 
+   - So, we have: 
+     \[
+     \text{Monday Sales} = 12
+     \]
+
+2. **Tuesday Sales:**
+   On Tuesday, they sold three times the number of bouquets sold on Monday. 
+   - To find Tuesday's sales, we calculate:
+     \[
+     \text{Tuesday Sales} = 3 \times \text{Monday Sales} = 3 \times 12 = 36
+     \]
+
+3. **Wednesday Sales:**
+   On Wednesday, they sold a third of what they sold on Tuesday. 
+   - To find Wednesday's sales, we calculate:
+     \[
+     \text{Wednesday Sales} = \frac{1}{3} \times \text{Tuesday Sales} = \frac{1}{3} \times 36 = 12
+     \]
+
+4. **Total Sales:**
+   Now, we need to add the sales from all three days to find the total number of bouquets sold during the sale.
+   - Total sales can be calculated as follows:
+     \[
+     \text{Total Sales} = \text{Monday Sales} + \text{Tuesday Sales} + \text{Wednesday Sales} = 12 + 36 + 12
+     \]
+     \[
+     \text{Total Sales} = 60
+     \]
+
+Therefore, the floral shop sold a total of 60 bouquets during the three-day sale.
+</reasoning>
+<answer>60</answer>

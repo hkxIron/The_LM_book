@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we will calculate the number of sacks of rice harvested in the first and second harvests, taking into account the 20% increase in yield after each harvest.
+
+1. **First Harvest**: 
+   - We start with 20 sacks of rice.
+   - This is our initial amount, so:
+     \[
+     \text{First Harvest} = 20 \text{ sacks}
+     \]
+
+2. **Second Harvest**:
+   - The yield increases by 20% after the first harvest.
+   - To find the new yield, we calculate 20% of the first harvest (20 sacks):
+     \[
+     20\% \text{ of } 20 = 0.20 \times 20 = 4 \text{ sacks}
+     \]
+   - Now, we add this increase to the first harvest:
+     \[
+     \text{Second Harvest} = \text{First Harvest} + \text{Increase} = 20 + 4 = 24 \text{ sacks}
+     \]
+
+3. **Total After First and Second Harvests**:
+   - Now, we will sum the sacks from both harvests:
+     \[
+     \text{Total} = \text{First Harvest} + \text{Second Harvest} = 20 + 24 = 44 \text{ sacks}
+     \]
+
+Thus, the total number of sacks of rice you can get after the first and second harvest is 44.
+</reasoning>
+<answer>44</answer>

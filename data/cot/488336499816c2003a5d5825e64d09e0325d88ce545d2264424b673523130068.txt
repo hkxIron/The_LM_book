@@ -1,0 +1,42 @@
+<reasoning>
+To determine the total number of legos Bob will need for the pyramid with 3 levels, we can break down the problem step by step.
+
+1. **Identify the number of legos on each level**:
+    - The bottom level has 7 legos per side.
+    - The second level will have 6 legos per side (one less than the level below).
+    - The top level will have 5 legos per side (one less than the second level).
+
+2. **Calculate the number of legos for each level**:
+    - For a square pyramid, each level forms a square, so we need to calculate the area of each square by squaring the number of legos on each side.
+    - **Bottom level**: 
+      \[
+      7 \text{ legos per side} \times 7 \text{ legos per side} = 7^2 = 49 \text{ legos}
+      \]
+    - **Second level**: 
+      \[
+      6 \text{ legos per side} \times 6 \text{ legos per side} = 6^2 = 36 \text{ legos}
+      \]
+    - **Top level**: 
+      \[
+      5 \text{ legos per side} \times 5 \text{ legos per side} = 5^2 = 25 \text{ legos}
+      \]
+
+3. **Add the legos from all levels together**:
+    - Now we sum the number of legos from all three levels:
+    \[
+    \text{Total legos} = 49 + 36 + 25
+    \]
+
+4. **Perform the addition**:
+    - First add 49 and 36:
+      \[
+      49 + 36 = 85
+      \]
+    - Then add 25 to the result:
+      \[
+      85 + 25 = 110
+      \]
+
+Therefore, Bob will need a total of 110 legos to build his pyramid.
+</reasoning>
+<answer>110</answer>

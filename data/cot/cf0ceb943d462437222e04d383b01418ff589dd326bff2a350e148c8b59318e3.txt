@@ -1,0 +1,39 @@
+<reasoning>
+To determine how much money Susie earned from selling pizza, we need to calculate the total income from both the slices and the whole pizzas she sold.
+
+1. **Calculate income from slices sold:**  
+   Susie sells each slice of pizza for $3. She sold 24 slices.  
+   To find the total income from the slices, we multiply the number of slices by the price per slice:  
+   \[
+   \text{Income from slices} = \text{Number of slices} \times \text{Price per slice} = 24 \times 3
+   \]  
+   Now, calculating that:  
+   \[
+   24 \times 3 = 72
+   \]  
+   So, Susie earned $72 from selling slices.
+
+2. **Calculate income from whole pizzas sold:**  
+   Susie sells each whole pizza for $15. She sold 3 whole pizzas.  
+   To find the total income from the whole pizzas, we multiply the number of pizzas by the price per pizza:  
+   \[
+   \text{Income from whole pizzas} = \text{Number of pizzas} \times \text{Price per pizza} = 3 \times 15
+   \]  
+   Now, calculating that:  
+   \[
+   3 \times 15 = 45
+   \]  
+   So, Susie earned $45 from selling whole pizzas.
+
+3. **Calculate total income:**  
+   Now we need to add the income from slices and the income from whole pizzas to find the total earnings:  
+   \[
+   \text{Total Income} = \text{Income from slices} + \text{Income from whole pizzas} = 72 + 45
+   \]  
+   Now, calculating that:  
+   \[
+   72 + 45 = 117
+   \]  
+   Therefore, Susie earned a total of $117.
+</reasoning>
+<answer>117</answer>

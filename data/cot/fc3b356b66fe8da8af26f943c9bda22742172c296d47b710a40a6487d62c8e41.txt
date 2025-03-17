@@ -1,0 +1,29 @@
+<reasoning>
+To find out how far Kevin traveled, we can break down the problem into three parts based on his different running speeds and durations.
+
+1. **First Segment**: Kevin runs at 10 miles per hour for half an hour.
+   - Duration in hours: \(0.5\) hours
+   - Speed: \(10\) miles/hour
+   - Distance = Speed × Time
+   - Distance = \(10 \, \text{miles/hour} \times 0.5 \, \text{hours} = 5 \, \text{miles}\)
+
+2. **Second Segment**: Kevin runs at 20 miles per hour for half an hour.
+   - Duration in hours: \(0.5\) hours
+   - Speed: \(20\) miles/hour
+   - Distance = Speed × Time
+   - Distance = \(20 \, \text{miles/hour} \times 0.5 \, \text{hours} = 10 \, \text{miles}\)
+
+3. **Third Segment**: Kevin runs at 8 miles per hour for 15 minutes.
+   - Duration in hours: \(15\) minutes = \(15/60\) hours = \(0.25\) hours
+   - Speed: \(8\) miles/hour
+   - Distance = Speed × Time
+   - Distance = \(8 \, \text{miles/hour} \times 0.25 \, \text{hours} = 2 \, \text{miles}\)
+
+Now we need to sum the distances from all three segments to find the total distance Kevin ran.
+
+- Total Distance = Distance from first segment + Distance from second segment + Distance from third segment
+- Total Distance = \(5 \, \text{miles} + 10 \, \text{miles} + 2 \, \text{miles} = 17 \, \text{miles}\)
+
+Therefore, the total distance Kevin ran is:
+</reasoning>
+<answer>17</answer>

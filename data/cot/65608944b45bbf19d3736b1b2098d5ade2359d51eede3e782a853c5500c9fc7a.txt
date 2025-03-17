@@ -1,0 +1,37 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the number of people eating each type of roll**: 
+   - There are 16 people at the dinner party, and half of them eat 1 1/2 rolls each. 
+   - Half of 16 people is \( \frac{16}{2} = 8 \) people.
+   - Therefore, 8 people will eat 1 1/2 rolls each, and the other 8 people will eat 1/2 a roll each.
+
+2. **Calculate how many rolls the first group consumes**: 
+   - Each of the 8 people in the first group eats 1 1/2 rolls.
+   - To find the total rolls consumed by this group, we multiply the number of people by the amount each one eats: 
+   \[
+   8 \text{ people} \times 1.5 \text{ rolls/person} = 12 \text{ rolls}
+   \]
+
+3. **Calculate how many rolls the second group consumes**: 
+   - Each of the other 8 people eats 1/2 a roll.
+   - The total rolls consumed by this group is:
+   \[
+   8 \text{ people} \times 0.5 \text{ rolls/person} = 4 \text{ rolls}
+   \]
+
+4. **Calculate the total rolls consumed by all the people at the party**: 
+   - Now, we add the rolls consumed by both groups:
+   \[
+   12 \text{ rolls} + 4 \text{ rolls} = 16 \text{ rolls}
+   \]
+
+5. **Determine how many rolls are left over**: 
+   - We started with 40 dinner rolls. To find out how many are left, we subtract the total rolls consumed from the initial number of rolls:
+   \[
+   40 \text{ rolls} - 16 \text{ rolls} = 24 \text{ rolls}
+   \]
+
+Thus, after following through all the steps and calculations, we find that there are 24 dinner rolls leftover.
+</reasoning>
+<answer>24</answer>

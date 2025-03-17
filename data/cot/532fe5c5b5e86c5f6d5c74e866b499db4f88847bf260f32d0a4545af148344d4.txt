@@ -1,0 +1,35 @@
+<reasoning>
+To find the number of female guests at Princeton's gender reveal party, we can follow these steps:
+
+1. **Determine the number of male guests**: We know that 2/3 of the total guests were male. The total number of guests is 60. To find the number of male guests, we multiply 60 by 2/3.
+
+   \[
+   \text{Number of male guests} = 60 \times \frac{2}{3}
+   \]
+
+   To perform this multiplication, we can first calculate \(60 \div 3\), which gives us 20. Then, we multiply that result by 2.
+
+   \[
+   60 \div 3 = 20
+   \]
+   \[
+   20 \times 2 = 40
+   \]
+
+   So, there are 40 male guests.
+
+2. **Calculate the number of female guests**: Since we know the total number of guests is 60, we can find the number of female guests by subtracting the number of male guests from the total.
+
+   \[
+   \text{Number of female guests} = \text{Total guests} - \text{Number of male guests}
+   \]
+   \[
+   \text{Number of female guests} = 60 - 40
+   \]
+   \[
+   \text{Number of female guests} = 20
+   \]
+
+Therefore, after calculating the number of female guests who attended the party, we find that there were 20 female guests.
+</reasoning>
+<answer>20</answer>

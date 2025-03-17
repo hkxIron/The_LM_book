@@ -1,0 +1,26 @@
+<reasoning>
+To find the total price the family will pay for admission to the amusement park, we first need to calculate the cost of the adult tickets and the children's tickets separately.
+
+1. **Calculate the cost for the adults:**
+   - There are 2 adults, and each adult ticket costs $22.
+   - So, we multiply the number of adult tickets by the cost of each ticket:
+     \[
+     \text{Cost for adults} = 2 \text{ adults} \times 22 \text{ dollars/adult} = 44 \text{ dollars}
+     \]
+
+2. **Calculate the cost for the children:**
+   - There are 2 children, and each child ticket costs $7.
+   - So, we multiply the number of child tickets by the cost of each ticket:
+     \[
+     \text{Cost for children} = 2 \text{ children} \times 7 \text{ dollars/child} = 14 \text{ dollars}
+     \]
+
+3. **Calculate the total cost for the family:**
+   - Now, we add the cost for adults and the cost for children to find the total admission price:
+     \[
+     \text{Total cost} = \text{Cost for adults} + \text{Cost for children} = 44 \text{ dollars} + 14 \text{ dollars} = 58 \text{ dollars}
+     \]
+
+Therefore, the total price the family will pay for admission is:
+</reasoning>
+<answer>58</answer>

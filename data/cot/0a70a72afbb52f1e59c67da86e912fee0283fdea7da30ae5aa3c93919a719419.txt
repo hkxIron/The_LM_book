@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many fluid ounces of milk the shopkeeper bought, we'll follow these steps:
+
+1. **Calculate the total volume of milk in milliliters**: 
+   The shopkeeper bought 150 packets, and each packet contains 250 ml of milk. We can find the total amount of milk in milliliters by multiplying the number of packets by the volume of each packet.
+
+   \[
+   \text{Total volume in ml} = \text{Number of packets} \times \text{Volume per packet}
+   \]
+   \[
+   \text{Total volume in ml} = 150 \times 250
+   \]
+
+   Calculating this:
+   \[
+   150 \times 250 = 37500 \text{ ml}
+   \]
+
+2. **Convert milliliters to fluid ounces**:
+   We know that 1 fluid ounce is equal to 30 ml. To convert the total volume from milliliters to fluid ounces, we will divide the total volume in milliliters by the number of milliliters per fluid ounce.
+
+   \[
+   \text{Total volume in ounces} = \frac{\text{Total volume in ml}}{\text{ml per ounce}}
+   \]
+   \[
+   \text{Total volume in ounces} = \frac{37500}{30}
+   \]
+
+   Calculating this gives:
+   \[
+   \frac{37500}{30} = 1250 \text{ ounces}
+   \]
+
+Thus, the total number of ounces of milk the shopkeeper bought is 1250 ounces.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>1250</answer>

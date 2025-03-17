@@ -1,0 +1,28 @@
+<reasoning>
+To find Olivia's new insurance premium after one accident and three tickets, we will calculate the increase in her premium step by step.
+
+1. **Initial Premium**: Olivia's starting insurance premium is $50/month.
+
+2. **Accident Adjustment**: Since Olivia gets in one accident, her premium increases by 10%. 
+   - We calculate the increase by finding 10% of $50:
+     \[
+     \text{Increase from accident} = 0.10 \times 50 = 5
+     \]
+   - Therefore, after the accident, her premium becomes:
+     \[
+     \text{New premium after accident} = 50 + 5 = 55
+     \]
+
+3. **Ticket Adjustments**: Olivia receives 3 tickets, and her premium increases by $5/month for each ticket.
+   - We calculate the total increase from the tickets:
+     \[
+     \text{Increase from tickets} = 3 \times 5 = 15
+     \]
+   - Now, we add this increase to the new premium after the accident:
+     \[
+     \text{Final premium} = 55 + 15 = 70
+     \]
+
+Thus, after accounting for the accident and the tickets, Olivia's new insurance premium is $70/month.
+</reasoning>
+<answer>70</answer>

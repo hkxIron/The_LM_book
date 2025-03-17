@@ -1,0 +1,44 @@
+<reasoning>
+First, let's calculate the total cost of the VIP tickets that Mrs. Wilsborough bought. She purchased 2 VIP tickets at a price of $100 each.
+
+1. **Calculate the cost of VIP tickets:**
+   \[
+   \text{Cost of VIP tickets} = \text{Number of VIP tickets} \times \text{Price per VIP ticket}
+   \]
+   \[
+   \text{Cost of VIP tickets} = 2 \times 100 = 200
+   \]
+
+Next, let's calculate the total cost of the regular tickets. She bought 3 regular tickets at a price of $50 each.
+
+2. **Calculate the cost of regular tickets:**
+   \[
+   \text{Cost of regular tickets} = \text{Number of regular tickets} \times \text{Price per regular ticket}
+   \]
+   \[
+   \text{Cost of regular tickets} = 3 \times 50 = 150
+   \]
+
+Now, we will add the costs of the VIP and regular tickets to find the total amount spent on tickets.
+
+3. **Calculate total cost of tickets:**
+   \[
+   \text{Total cost of tickets} = \text{Cost of VIP tickets} + \text{Cost of regular tickets}
+   \]
+   \[
+   \text{Total cost of tickets} = 200 + 150 = 350
+   \]
+
+Now that we have the total cost of the tickets, we can determine how much money Mrs. Wilsborough has left after her purchase.
+
+4. **Calculate remaining savings:**
+   \[
+   \text{Remaining savings} = \text{Initial savings} - \text{Total cost of tickets}
+   \]
+   \[
+   \text{Remaining savings} = 500 - 350 = 150
+   \]
+
+Therefore, after buying the tickets, Mrs. Wilsborough has $150 left from her savings.
+</reasoning>
+<answer>150</answer>

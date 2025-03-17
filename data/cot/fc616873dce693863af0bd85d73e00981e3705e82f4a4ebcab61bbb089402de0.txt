@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the price of a child's ticket**: The admission price for adults is $30, and kids' tickets are half price. So, we calculate the kids' ticket price as follows:
+   \[
+   \text{Kids' ticket price} = \frac{30}{2} = 15
+   \]
+
+2. **Calculate the total cost for the tickets**: Janet is buying tickets for 10 people, of which 4 are children. This means she needs to buy tickets for 6 adults and 4 children. We calculate the total cost for both adult and child tickets:
+   - Cost for adult tickets:
+   \[
+   \text{Adult tickets cost} = 6 \times 30 = 180
+   \]
+   - Cost for child tickets:
+   \[
+   \text{Child tickets cost} = 4 \times 15 = 60
+   \]
+
+3. **Find the total cost of the tickets before any discounts**: Now we add the cost of adult and child tickets together:
+   \[
+   \text{Total ticket cost} = 180 + 60 = 240
+   \]
+
+4. **Calculate the total price with the soda discount**: Since Janet brings a soda, she can receive a 20% discount on the total ticket price. First, we need to calculate 20% of the total ticket cost:
+   \[
+   \text{Discount} = 0.20 \times 240 = 48
+   \]
+
+5. **Calculate the discounted total price**: We subtract the discount from the total ticket cost:
+   \[
+   \text{Discounted total} = 240 - 48 = 192
+   \]
+
+6. **Add the cost of the soda**: Finally, Janet buys a soda for $5, which we need to add to the discounted total:
+   \[
+   \text{Final total cost} = 192 + 5 = 197
+   \]
+
+Thus, Janet paid a total of $197 for everything.
+</reasoning>
+<answer>197</answer>

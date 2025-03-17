@@ -1,0 +1,39 @@
+<reasoning>
+To solve this problem step by step, let's analyze the situation carefully.
+
+1. **Determine how many toys James sells**: 
+   James has a total of 200 toys and decides to sell 80% of them. We calculate 80% of 200:
+   \[
+   0.80 \times 200 = 160 \text{ toys}
+   \]
+   So, James sells 160 toys.
+
+2. **Calculate the cost of the toys James bought**: 
+   Each toy costs $20, and he bought 200 toys. Therefore, the total cost is:
+   \[
+   200 \times 20 = 4000 \text{ dollars}
+   \]
+   This is the amount James spent to buy the toys.
+
+3. **Calculate the revenue James generates from selling the toys**: 
+   James sells the 160 toys for $30 each. Thus, the total revenue from selling the toys is:
+   \[
+   160 \times 30 = 4800 \text{ dollars}
+   \]
+
+4. **Calculate the profit James makes from selling the toys**: 
+   To find out how much more money James has compared to before he bought them, we need to calculate his profit. Profit is calculated as:
+   \[
+   \text{Profit} = \text{Revenue} - \text{Cost}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Profit} = 4800 - 4000 = 800 \text{ dollars}
+   \]
+
+5. **Final calculation**: 
+   The profit of $800 is the amount of money James has compared to before he bought the toys. 
+
+Therefore, the final amount of money James has compared to before he bought the toys is $800.
+</reasoning>
+<answer>800</answer>

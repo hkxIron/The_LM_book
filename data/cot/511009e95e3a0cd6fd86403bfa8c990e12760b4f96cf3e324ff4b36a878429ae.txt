@@ -1,0 +1,28 @@
+<reasoning>
+To solve this problem, we will go through it step by step:
+
+1. **Calculate the total number of corn stalks**: 
+   Bob has 5 rows of corn, and each row has 80 corn stalks. To find the total number of corn stalks, we multiply the number of rows by the number of stalks per row.
+   \[ 
+   \text{Total corn stalks} = \text{Number of rows} \times \text{Stalks per row} = 5 \times 80 
+   \]
+   Calculating this gives:
+   \[ 
+   5 \times 80 = 400 
+   \]
+   So, Bob has a total of 400 corn stalks.
+
+2. **Determine how many bushels of corn are produced**:
+   We know that about every 8 corn stalks will produce a bushel of corn. To find out how many bushels Bob will harvest, we divide the total number of corn stalks by the number of stalks that produce one bushel.
+   \[ 
+   \text{Number of bushels} = \frac{\text{Total corn stalks}}{\text{Stalks per bushel}} = \frac{400}{8} 
+   \]
+   Performing this division:
+   \[ 
+   \frac{400}{8} = 50 
+   \]
+   Therefore, Bob will harvest 50 bushels of corn.
+
+Putting it all together, we have calculated the total number of stalks and how many bushels they produce.
+</reasoning>
+<answer>50</answer>

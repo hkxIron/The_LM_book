@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much money Pat can expect to make in profit from shark hunting, we need to follow a few steps:
+
+1. **Calculate the total number of photos Pat can take in 5 hours.**
+   - Since Pat sees a shark every 10 minutes, we first convert 5 hours into minutes:  
+     \( 5 \text{ hours} = 5 \times 60 = 300 \text{ minutes} \).
+   - Next, we determine how many 10-minute intervals are in 300 minutes:  
+     \( \frac{300 \text{ minutes}}{10 \text{ minutes/photo}} = 30 \text{ photos} \).
+
+2. **Calculate the total earnings from taking photos.**
+   - Pat earns $15 for each photo taken, so we multiply the number of photos by the earnings per photo:  
+     \( 30 \text{ photos} \times 15 \text{ dollars/photo} = 450 \text{ dollars} \).
+
+3. **Calculate the total cost of fuel for 5 hours.**
+   - The fuel costs $50 per hour, so for 5 hours, the total cost will be:  
+     \( 5 \text{ hours} \times 50 \text{ dollars/hour} = 250 \text{ dollars} \).
+
+4. **Calculate the profit.**
+   - Profit is calculated as total earnings minus total costs:  
+     \( 450 \text{ dollars (earnings)} - 250 \text{ dollars (costs)} = 200 \text{ dollars} \).
+
+Thus, after calculating all the necessary components, Pat can expect to make a profit of $200 from his shark hunting activity.
+</reasoning>
+<answer>200</answer>

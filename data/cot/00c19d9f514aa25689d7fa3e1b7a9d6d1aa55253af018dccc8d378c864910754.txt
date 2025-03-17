@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Jon's Score:**
+   Jon scored 3 points. We have:
+   \[
+   \text{Jon's score} = 3
+   \]
+
+2. **Calculate Jack's Score:**
+   Jack scored 5 points more than Jon. So, we calculate Jack's score as follows:
+   \[
+   \text{Jack's score} = \text{Jon's score} + 5 = 3 + 5 = 8
+   \]
+
+3. **Calculate the Total Score of Jon and Jack:**
+   We need to find the combined score of Jon and Jack:
+   \[
+   \text{Total score of Jon and Jack} = \text{Jon's score} + \text{Jack's score} = 3 + 8 = 11
+   \]
+
+4. **Calculate Tom's Score:**
+   Tom scored 4 points less than the total score of Jon and Jack. Therefore, we calculate Tom's score as follows:
+   \[
+   \text{Tom's score} = \text{Total score of Jon and Jack} - 4 = 11 - 4 = 7
+   \]
+
+5. **Calculate the Total Score of All Three Players:**
+   Now we need to find the total score of Jon, Jack, and Tom:
+   \[
+   \text{Total score} = \text{Jon's score} + \text{Jack's score} + \text{Tom's score} = 3 + 8 + 7
+   \]
+
+   Adding these together:
+   \[
+   3 + 8 = 11
+   \]
+   \[
+   11 + 7 = 18
+   \]
+
+So, the total score of Jon, Jack, and Tom altogether is 18 points.
+</reasoning>
+<answer>18</answer>

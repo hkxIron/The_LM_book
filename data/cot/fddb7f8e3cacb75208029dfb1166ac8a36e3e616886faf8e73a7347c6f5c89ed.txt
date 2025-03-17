@@ -1,0 +1,36 @@
+<reasoning>
+To find the total number of wheels, we need to calculate the number of wheels for each type of cycle and then sum them up.
+
+1. **Calculate the wheels from bicycles**: 
+   - There are 3 bicycles.
+   - Each bicycle has 2 wheels.
+   - Therefore, the total number of wheels from bicycles is:
+     \[
+     3 \text{ bicycles} \times 2 \text{ wheels/bicycle} = 6 \text{ wheels}
+     \]
+
+2. **Calculate the wheels from tricycles**:
+   - There are 4 tricycles.
+   - Each tricycle has 3 wheels.
+   - Therefore, the total number of wheels from tricycles is:
+     \[
+     4 \text{ tricycles} \times 3 \text{ wheels/tricycle} = 12 \text{ wheels}
+     \]
+
+3. **Calculate the wheels from unicycles**:
+   - There are 7 unicycles.
+   - Each unicycle has 1 wheel.
+   - Therefore, the total number of wheels from unicycles is:
+     \[
+     7 \text{ unicycles} \times 1 \text{ wheel/unicycle} = 7 \text{ wheels}
+     \]
+
+4. **Sum all the wheels together**:
+   - Now we add the total number of wheels from bicycles, tricycles, and unicycles:
+     \[
+     6 \text{ wheels (from bicycles)} + 12 \text{ wheels (from tricycles)} + 7 \text{ wheels (from unicycles)} = 25 \text{ wheels}
+     \]
+
+Thus, the total number of wheels in Zoe's garage is 25.
+</reasoning>
+<answer>25</answer>

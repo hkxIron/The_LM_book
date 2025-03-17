@@ -1,0 +1,39 @@
+<reasoning>
+To find the total number of slices of pizza, we will calculate the slices contributed by each type of pizza (small, medium, and large) and then sum them up.
+
+1. **Calculating slices from small pizzas**:
+   - We know there are 4 small pizzas, and each small pizza has 6 slices.
+   - So, the total number of slices from small pizzas is:
+     \[
+     4 \text{ small pizzas} \times 6 \text{ slices per small pizza} = 24 \text{ slices}
+     \]
+
+2. **Calculating slices from medium pizzas**:
+   - We have 5 medium pizzas, and each medium pizza has 8 slices.
+   - Thus, the total number of slices from medium pizzas is:
+     \[
+     5 \text{ medium pizzas} \times 8 \text{ slices per medium pizza} = 40 \text{ slices}
+     \]
+
+3. **Finding the number of large pizzas**:
+   - We ordered a total of 15 pizzas. We already ordered 4 small and 5 medium pizzas, so we can find the number of large pizzas by subtracting the small and medium pizzas from the total:
+     \[
+     15 \text{ total pizzas} - 4 \text{ small pizzas} - 5 \text{ medium pizzas} = 6 \text{ large pizzas}
+     \]
+
+4. **Calculating slices from large pizzas**:
+   - Each large pizza has 12 slices, and we have 6 large pizzas.
+   - Therefore, the total number of slices from large pizzas is:
+     \[
+     6 \text{ large pizzas} \times 12 \text{ slices per large pizza} = 72 \text{ slices}
+     \]
+
+5. **Calculating the total number of slices**:
+   - Now, we will sum up all the slices from the small, medium, and large pizzas:
+     \[
+     24 \text{ slices from small} + 40 \text{ slices from medium} + 72 \text{ slices from large} = 136 \text{ slices}
+     \]
+
+Therefore, the total number of slices of pizza is 136.
+</reasoning>
+<answer>136</answer>

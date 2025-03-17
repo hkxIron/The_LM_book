@@ -1,0 +1,24 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of pages**: 
+   James buys 2 notebooks, and each notebook has 50 pages. To find the total number of pages, we multiply the number of notebooks by the number of pages in each notebook:
+   \[
+   \text{Total pages} = 2 \text{ notebooks} \times 50 \text{ pages/notebook} = 100 \text{ pages}
+   \]
+
+2. **Determine the total cost in cents**: 
+   James pays $5 for the notebooks. Since we need to find the cost per page in cents, we first convert dollars to cents. There are 100 cents in a dollar, so:
+   \[
+   \text{Total cost in cents} = 5 \text{ dollars} \times 100 \text{ cents/dollar} = 500 \text{ cents}
+   \]
+
+3. **Calculate the cost per page**: 
+   Now that we know the total number of pages and the total cost in cents, we can find out how much each page costs. To do this, we divide the total cost in cents by the total number of pages:
+   \[
+   \text{Cost per page} = \frac{\text{Total cost in cents}}{\text{Total pages}} = \frac{500 \text{ cents}}{100 \text{ pages}} = 5 \text{ cents/page}
+   \]
+
+Thus, each page costs 5 cents.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many bananas are in basket E, we'll start by determining the total number of fruits across all five baskets.
+
+1. **Calculate the total number of fruits in all baskets**: 
+   Since the average number of fruits per basket is 25 and there are 5 baskets, we can find the total by multiplying the average by the number of baskets:
+   \[
+   \text{Total fruits} = \text{Average} \times \text{Number of baskets} = 25 \times 5 = 125
+   \]
+   This means all five baskets together contain 125 fruits.
+
+2. **Calculate the total number of fruits in baskets A, B, C, and D**:
+   Now we will add up the fruits in baskets A, B, C, and D:
+   - Basket A has 15 apples
+   - Basket B has 30 mangoes
+   - Basket C has 20 peaches
+   - Basket D has 25 pears
+
+   Adding these together:
+   \[
+   \text{Total in A, B, C, D} = 15 + 30 + 20 + 25 = 90
+   \]
+   So, baskets A, B, C, and D together have 90 fruits.
+
+3. **Calculate the number of bananas in basket E**:
+   We know the total number of fruits in all baskets is 125. Since baskets A, B, C, and D contain 90 fruits, we can find out how many bananas are in basket E by subtracting the total of A, B, C, and D from the overall total:
+   \[
+   \text{Number of bananas in E} = \text{Total fruits} - \text{Total in A, B, C, D} = 125 - 90 = 35
+   \]
+   Therefore, basket E contains 35 bananas.
+</reasoning>
+<answer>35</answer>

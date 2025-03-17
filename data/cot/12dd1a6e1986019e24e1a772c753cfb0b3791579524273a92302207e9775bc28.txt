@@ -1,0 +1,24 @@
+<reasoning>
+To determine how long Ruth's fish can live, we need to follow the information given step by step.
+
+1. **Find the average lifespan of hamsters**: The problem states that hamsters live an average of 2.5 years. 
+   - So, we have: 
+     \[
+     \text{Hamster lifespan} = 2.5 \text{ years}
+     \]
+
+2. **Calculate the average lifespan of dogs**: The problem mentions that dogs live 4 times as long as hamsters. 
+   - Therefore, we calculate the dog lifespan as follows:
+     \[
+     \text{Dog lifespan} = 4 \times \text{Hamster lifespan} = 4 \times 2.5 \text{ years} = 10 \text{ years}
+     \]
+
+3. **Determine the lifespan of fish**: According to the information provided, well-cared fish can live 2 years longer than dogs. 
+   - Thus, we calculate the fish lifespan:
+     \[
+     \text{Fish lifespan} = \text{Dog lifespan} + 2 \text{ years} = 10 \text{ years} + 2 \text{ years} = 12 \text{ years}
+     \]
+
+Therefore, after going through these steps, we find that Ruth's fish can live for 12 years.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of invited students:**  
+   We know that 70% of the students who showed up (which is 400 students) were invited. To find the number of invited students, we calculate 70% of 400.
+
+   \[
+   \text{Invited students} = 0.70 \times 400 = 280
+   \]
+
+   This means that there were 280 students who were invited to the party.
+
+2. **Calculate the number of invited students who had their invitation revoked:**  
+   Next, we know that 40% of those invited had their invitation revoked. To find the number of students who had their invitation revoked, we calculate 40% of 280.
+
+   \[
+   \text{Revoked invitations} = 0.40 \times 280 = 112
+   \]
+
+   This means that 112 invited students were not allowed into the party.
+
+3. **Determine the number of invited students who actually attended the party:**  
+   Now we can find the number of invited students who attended by subtracting the number of revoked invitations from the total number of invited students.
+
+   \[
+   \text{Attended invited students} = \text{Invited students} - \text{Revoked invitations} = 280 - 112 = 168
+   \]
+
+Thus, the number of invited students who attended the party is 168.
+</reasoning>
+<answer>168</answer>

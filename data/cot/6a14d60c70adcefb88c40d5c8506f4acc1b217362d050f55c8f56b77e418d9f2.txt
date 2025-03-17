@@ -1,0 +1,55 @@
+<reasoning>
+Let's denote the score of the first bowler as \(x\), the score of the second bowler as \(y\), and the score of the third bowler as \(z\). 
+
+We know from the problem that:
+
+1. The total score of the three bowlers is 810 points:
+   \[
+   x + y + z = 810
+   \]
+
+2. The first bowler scored 1/3 as many points as the second bowler:
+   \[
+   x = \frac{1}{3}y
+   \]
+
+3. The second bowler scored 3 times as high as the third bowler:
+   \[
+   y = 3z
+   \]
+
+Now, we can substitute the expressions for \(x\) and \(y\) in terms of \(z\) into the first equation.
+
+First, substitute \(y = 3z\) into \(x = \frac{1}{3}y\):
+\[
+x = \frac{1}{3}(3z) = z
+\]
+
+Now we have:
+\[
+x = z \quad \text{and} \quad y = 3z
+\]
+
+Substituting these into the total score equation:
+\[
+z + 3z + z = 810
+\]
+
+This simplifies to:
+\[
+5z = 810
+\]
+
+To find \(z\), we divide both sides by 5:
+\[
+z = \frac{810}{5} = 162
+\]
+
+Thus, the third bowler scored 162 points. 
+
+Now let's summarize our findings:
+- The third bowler's score \(z\) is 162 points.
+
+Therefore, the third bowler scored:
+</reasoning>
+<answer>162</answer>

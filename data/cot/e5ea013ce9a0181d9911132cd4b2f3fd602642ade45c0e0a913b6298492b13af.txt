@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the running pattern**: Arvin starts running 2 kilometers on the first day and increases his distance by 1 kilometer each day. This means:
+   - Day 1: 2 kilometers
+   - Day 2: 2 + 1 = 3 kilometers
+   - Day 3: 3 + 1 = 4 kilometers
+   - Day 4: 4 + 1 = 5 kilometers
+   - Day 5: 5 + 1 = 6 kilometers
+
+2. **Calculate the running distance for each day**:
+   - On Day 1, he runs 2 kilometers.
+   - On Day 2, he runs 3 kilometers.
+   - On Day 3, he runs 4 kilometers.
+   - On Day 4, he runs 5 kilometers.
+   - On Day 5, he runs 6 kilometers.
+
+3. **Determine the distance run on the 5th day**: From our calculation above, on the 5th day, Arvin runs 6 kilometers.
+
+Therefore, the distance Arvin runs on the 5th day is:
+</reasoning>
+<answer>6</answer>

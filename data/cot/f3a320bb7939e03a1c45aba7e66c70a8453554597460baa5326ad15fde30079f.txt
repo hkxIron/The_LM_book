@@ -1,0 +1,30 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total number of pencils Teresa has**:
+   Teresa has 14 colored pencils and 35 black pencils. To find the total, we add these two quantities together:
+   \[
+   \text{Total pencils} = 14 + 35 = 49
+   \]
+   Here, we are simply summing the pencils to understand how many she has in total.
+
+2. **Determine how many pencils she can share**:
+   Teresa's dad has instructed her to keep 10 pencils for herself. To find out how many she can share, we subtract the 10 pencils she will keep from her total number of pencils:
+   \[
+   \text{Pencils to share} = 49 - 10 = 39
+   \]
+   This step is important because it shows how many pencils are available for her siblings after setting aside her share.
+
+3. **Calculate how many siblings Teresa has**:
+   The problem states that she has three younger siblings. We need to know how many siblings are getting the pencils to divide the shared pencils evenly.
+
+4. **Divide the available pencils among the siblings**:
+   Now, we divide the number of pencils she can share (39) by the number of siblings (3):
+   \[
+   \text{Pencils per sibling} = \frac{39}{3} = 13
+   \]
+   This step shows how we are distributing the pencils equally among the three siblings.
+
+Therefore, each sibling will receive 13 pencils.
+</reasoning>
+<answer>13</answer>

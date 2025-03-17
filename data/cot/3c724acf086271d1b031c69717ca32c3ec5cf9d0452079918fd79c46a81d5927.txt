@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we need to determine Simon's age in 2010 based on the information given about Jorge.
+
+1. **Determine Jorge's age in 2005**: The problem states that Jorge is 16 years old in 2005. 
+
+2. **Find Simon's age in 2005**: Since Jorge is 24 years younger than Simon, we can find Simon's age by adding 24 years to Jorge's age. 
+   \[
+   \text{Simon’s age in 2005} = \text{Jorge’s age in 2005} + 24
+   \]
+   \[
+   \text{Simon’s age in 2005} = 16 + 24 = 40
+   \]
+   So, Simon is 40 years old in 2005.
+
+3. **Calculate Simon's age in 2010**: Now we need to find out how old Simon will be in 2010. Since 2010 is 5 years after 2005, we simply add 5 years to Simon's age in 2005.
+   \[
+   \text{Simon’s age in 2010} = \text{Simon’s age in 2005} + 5
+   \]
+   \[
+   \text{Simon’s age in 2010} = 40 + 5 = 45
+   \]
+
+Therefore, Simon is 45 years old in 2010.
+</reasoning>
+<answer>45</answer>

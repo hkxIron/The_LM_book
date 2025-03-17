@@ -1,0 +1,29 @@
+<reasoning>
+To find the total number of marbles that Courtney has, we need to calculate the number of marbles in each jar and then add them together.
+
+1. **First jar**: Courtney has 80 marbles.
+   - This is given directly in the problem statement.
+
+2. **Second jar**: The second jar has twice the amount of the first jar.
+   - To find out how many marbles are in the second jar, we multiply the number of marbles in the first jar by 2:
+   \[
+   \text{Marbles in second jar} = 2 \times 80 = 160
+   \]
+
+3. **Third jar**: The third jar has 1/4 the amount of the first jar.
+   - We need to calculate 1/4 of the number of marbles in the first jar:
+   \[
+   \text{Marbles in third jar} = \frac{1}{4} \times 80 = 20
+   \]
+
+4. **Total number of marbles**: Now, we add the number of marbles from all three jars together:
+   \[
+   \text{Total marbles} = \text{Marbles in first jar} + \text{Marbles in second jar} + \text{Marbles in third jar}
+   \]
+   \[
+   \text{Total marbles} = 80 + 160 + 20 = 260
+   \]
+
+Therefore, the total number of marbles that Courtney has is:
+</reasoning>
+<answer>260</answer>

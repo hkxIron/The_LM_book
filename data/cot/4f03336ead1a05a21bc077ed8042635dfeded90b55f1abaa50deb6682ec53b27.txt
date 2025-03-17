@@ -1,0 +1,53 @@
+<reasoning>
+To determine how many hours Chrystal will take to pass the whole mountain, we need to calculate the time it takes for her to ascend and descend the mountain separately, given the changes in speed.
+
+1. **Calculate the speed while ascending the mountain:**
+   - The original speed of Chrystal’s vehicle is 30 miles per hour.
+   - Ascending the mountain decreases this speed by fifty percent. 
+   - To find fifty percent of 30 miles per hour: 
+     \[
+     \text{Decrease} = 30 \times 0.50 = 15 \text{ miles per hour}
+     \]
+   - Therefore, the speed while ascending is:
+     \[
+     \text{Speed while ascending} = 30 - 15 = 15 \text{ miles per hour}
+     \]
+
+2. **Calculate the time taken to ascend the mountain:**
+   - The distance to the top of the mountain is 60 miles.
+   - We use the formula for time:
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+     \]
+   - Substituting in the values for ascending:
+     \[
+     \text{Time ascending} = \frac{60 \text{ miles}}{15 \text{ miles per hour}} = 4 \text{ hours}
+     \]
+
+3. **Calculate the speed while descending the mountain:**
+   - When descending, the speed increases by twenty percent.
+   - To find twenty percent of 30 miles per hour:
+     \[
+     \text{Increase} = 30 \times 0.20 = 6 \text{ miles per hour}
+     \]
+   - Therefore, the speed while descending is:
+     \[
+     \text{Speed while descending} = 30 + 6 = 36 \text{ miles per hour}
+     \]
+
+4. **Calculate the time taken to descend the mountain:**
+   - The distance from the top of the mountain back down to the foot is 72 miles.
+   - Using the time formula again:
+     \[
+     \text{Time descending} = \frac{72 \text{ miles}}{36 \text{ miles per hour}} = 2 \text{ hours}
+     \]
+
+5. **Calculate the total time for the whole trip:**
+   - Now we add the time taken to ascend and descend the mountain:
+     \[
+     \text{Total time} = \text{Time ascending} + \text{Time descending} = 4 \text{ hours} + 2 \text{ hours} = 6 \text{ hours}
+     \]
+
+Thus, Chrystal will take a total of 6 hours to pass the whole mountain.
+</reasoning>
+<answer>6</answer>

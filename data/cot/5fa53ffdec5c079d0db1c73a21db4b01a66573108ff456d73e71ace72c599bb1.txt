@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many peaches Brenda has left after sorting and discarding some, we can follow these steps:
+
+1. **Calculate the number of fresh peaches.** 
+   - Brenda picked a total of 250 peaches, and 60% of them are fresh.
+   - We can find the number of fresh peaches by multiplying the total number of peaches by the percentage of fresh peaches. 
+   - In mathematical terms: 
+     \[
+     \text{Fresh peaches} = 250 \times 0.60
+     \]
+
+   Performing the calculation:
+   \[
+   \text{Fresh peaches} = 250 \times 0.60 = 150
+   \]
+
+   So, Brenda has 150 fresh peaches.
+
+2. **Subtract the number of peaches that are too small.**
+   - Brenda has to throw away 15 peaches for being too small. 
+   - To find out how many peaches she has left, we subtract the number of peaches thrown away from the number of fresh peaches:
+   \[
+   \text{Peaches left} = \text{Fresh peaches} - \text{Peaches thrown away}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Peaches left} = 150 - 15
+   \]
+
+   Performing the calculation:
+   \[
+   \text{Peaches left} = 150 - 15 = 135
+   \]
+
+Therefore, after sorting and discarding the small peaches, Brenda has 135 peaches left.
+</reasoning>
+<answer>135</answer>

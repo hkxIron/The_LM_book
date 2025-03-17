@@ -1,0 +1,54 @@
+<reasoning>
+Let's define the number of fish caught by each person using variables:
+
+- Let \( P \) be the number of fish caught by Patrick.
+- According to the problem, Angus caught 4 more fish than Patrick, so we can express the number of fish Angus caught as \( A = P + 4 \).
+- Ollie caught 7 fewer fish than Angus, so we can express the number of fish Ollie caught as \( O = A - 7 \).
+
+We know from the problem that Ollie caught 5 fish, so we can set up the equation:
+
+\[
+O = 5
+\]
+
+Now, substituting \( O \) with the expression we derived for Ollie's catch:
+
+\[
+A - 7 = 5
+\]
+
+Next, we will solve for \( A \):
+
+\[
+A = 5 + 7
+\]
+\[
+A = 12
+\]
+
+Now we know that Angus caught 12 fish. Next, we can use the expression for Angus's catch to find out how many fish Patrick caught:
+
+\[
+A = P + 4
+\]
+
+Substituting \( A \) with 12:
+
+\[
+12 = P + 4
+\]
+
+Now, solving for \( P \):
+
+\[
+P = 12 - 4
+\]
+\[
+P = 8
+\]
+
+Thus, Patrick caught 8 fish.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>8</answer>

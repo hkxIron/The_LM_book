@@ -1,0 +1,42 @@
+<reasoning>
+To determine how many hours of sleep Tom is behind on from the last week, we first need to calculate how many hours of sleep he ideally needs and how many he actually gets.
+
+1. **Calculate the ideal sleep for the week:**
+   - There are 5 weekdays (weeknights) and 2 weekend days.
+   - Tom ideally wants 8 hours of sleep each night.
+   - Therefore, for the weekdays:
+     \[
+     5 \text{ weekdays} \times 8 \text{ hours/weeknight} = 40 \text{ hours}
+     \]
+   - For the weekends:
+     \[
+     2 \text{ weekend days} \times 8 \text{ hours/weekend night} = 16 \text{ hours}
+     \]
+   - Now, add the total ideal sleep for the week:
+     \[
+     40 \text{ hours (weekdays)} + 16 \text{ hours (weekends)} = 56 \text{ hours}
+     \]
+
+2. **Calculate the actual sleep Tom gets in a week:**
+   - For the weekdays, he gets 5 hours:
+     \[
+     5 \text{ weekdays} \times 5 \text{ hours/weeknight} = 25 \text{ hours}
+     \]
+   - For the weekends, he gets 6 hours:
+     \[
+     2 \text{ weekend days} \times 6 \text{ hours/weekend night} = 12 \text{ hours}
+     \]
+   - Now, add the total actual sleep for the week:
+     \[
+     25 \text{ hours (weekdays)} + 12 \text{ hours (weekends)} = 37 \text{ hours}
+     \]
+
+3. **Calculate how many hours Tom is behind:**
+   - To find out how many hours he is behind, subtract the actual sleep from the ideal sleep:
+     \[
+     56 \text{ hours (ideal)} - 37 \text{ hours (actual)} = 19 \text{ hours}
+     \]
+
+Therefore, Tom is 19 hours behind on sleep from the last week.
+</reasoning>
+<answer>19</answer>

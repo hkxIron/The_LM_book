@@ -1,0 +1,28 @@
+<reasoning>
+We start by identifying the number of tree huggers, which is given as 120. 
+
+Next, we know that there are 50 more poets than tree huggers. To find the number of poets, we can express this relationship mathematically:
+
+Number of poets = Number of tree huggers + 50  
+Number of poets = 120 + 50  
+Number of poets = 170
+
+Now, we have the number of poets (170) and the number of tree huggers (120). We can find the total number of students at the party by adding the number of poets, singers, and tree huggers. The total number of students is given as 400.
+
+Let \( S \) represent the number of singers. We can set up the equation:
+
+Total students = Number of poets + Number of singers + Number of tree huggers  
+400 = 170 + S + 120
+
+Now, we simplify the equation:
+
+400 = 290 + S
+
+Next, we isolate \( S \) by subtracting 290 from both sides:
+
+S = 400 - 290  
+S = 110
+
+So, the number of singers at the party is 110.
+</reasoning>
+<answer>110</answer>

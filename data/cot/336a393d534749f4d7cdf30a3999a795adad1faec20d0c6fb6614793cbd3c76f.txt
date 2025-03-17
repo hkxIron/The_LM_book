@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much the shirts cost in total, we need to calculate the cost of the second shirt and then add both shirt costs together.
+
+1. **Identify the cost of the first shirt**: We know from the problem that the first shirt costs $15.
+
+2. **Determine the cost of the second shirt**: According to the problem, the first shirt costs $6 more than the second shirt. We can express this relationship mathematically:
+   - Let the cost of the second shirt be \( x \).
+   - Therefore, we have the equation:
+     \[
+     15 = x + 6
+     \]
+
+3. **Solve for \( x \)**: We will isolate \( x \) in the equation. To do this, subtract 6 from both sides:
+   \[
+   15 - 6 = x \\
+   x = 9
+   \]
+   This means the second shirt costs $9.
+
+4. **Calculate the total cost of both shirts**: Now that we have the costs of both shirts, we can find the total:
+   - Total cost = Cost of first shirt + Cost of second shirt
+   - Total cost = $15 + $9
+
+5. **Perform the addition**:
+   \[
+   15 + 9 = 24
+   \]
+
+Therefore, the total cost of the shirts is $24.
+</reasoning>
+<answer>24</answer>

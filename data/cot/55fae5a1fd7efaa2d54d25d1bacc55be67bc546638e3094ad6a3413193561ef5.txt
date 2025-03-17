@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we need to determine how many words Micah and Isaiah can each type in an hour, and then find the difference between the two amounts.
+
+1. **Determine Micah's typing speed in an hour.** 
+   - Micah types 20 words per minute. 
+   - There are 60 minutes in an hour, so we multiply his typing speed by the number of minutes in an hour:
+   \[
+   \text{Words typed by Micah in an hour} = 20 \text{ words/minute} \times 60 \text{ minutes} = 1200 \text{ words}
+   \]
+
+2. **Determine Isaiah's typing speed in an hour.**
+   - Isaiah types 40 words per minute.
+   - Again, we multiply his typing speed by the number of minutes in an hour:
+   \[
+   \text{Words typed by Isaiah in an hour} = 40 \text{ words/minute} \times 60 \text{ minutes} = 2400 \text{ words}
+   \]
+
+3. **Calculate the difference in the number of words typed by Isaiah and Micah.**
+   - Now that we have the total words typed by both, we subtract the number of words Micah typed from the number Isaiah typed:
+   \[
+   \text{Difference} = 2400 \text{ words} - 1200 \text{ words} = 1200 \text{ words}
+   \]
+
+Thus, Isaiah can type 1200 more words than Micah in an hour.
+</reasoning>
+<answer>1200</answer>

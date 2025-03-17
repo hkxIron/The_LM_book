@@ -1,0 +1,32 @@
+<reasoning>
+To find the total cost for the doughnuts, we'll break the problem down into steps:
+
+1. **Identify the number of each type of doughnut needed:**
+   - Bryce needs to buy 10 chocolate doughnuts for the 10 kids who want them.
+   - He also needs to buy 15 glazed doughnuts for the 15 kids who want them.
+
+2. **Determine the cost for each type of doughnut:**
+   - The cost of each chocolate doughnut is $2.
+   - The cost of each glazed doughnut is $1.
+
+3. **Calculate the total cost for the chocolate doughnuts:**
+   - We multiply the number of chocolate doughnuts by the cost per chocolate doughnut:
+   \[
+   \text{Total cost for chocolate doughnuts} = 10 \text{ (chocolate doughnuts)} \times 2 \text{ (cost per chocolate doughnut)} = 20
+   \]
+
+4. **Calculate the total cost for the glazed doughnuts:**
+   - We multiply the number of glazed doughnuts by the cost per glazed doughnut:
+   \[
+   \text{Total cost for glazed doughnuts} = 15 \text{ (glazed doughnuts)} \times 1 \text{ (cost per glazed doughnut)} = 15
+   \]
+
+5. **Add the total costs together to find the overall total:**
+   \[
+   \text{Total cost} = \text{Total cost for chocolate doughnuts} + \text{Total cost for glazed doughnuts} = 20 + 15 = 35
+   \]
+
+Therefore, the total cost for all the doughnuts is calculated as follows:
+- $20 for the chocolate doughnuts and $15 for the glazed doughnuts sum up to $35.
+</reasoning>
+<answer>35</answer>

@@ -1,0 +1,58 @@
+<reasoning>
+Let's define the number of toys each person has using variables:
+
+- Let \( M \) be the number of toys Mandy has.
+- Since Anna has 3 times as many toys as Mandy, we can express Anna's toys as \( 3M \).
+- We also know that Anna has 2 fewer toys than Amanda, so we can express Amanda's toys as \( 3M + 2 \).
+
+Next, we can establish the total number of toys they all have:
+
+\[
+M + 3M + (3M + 2) = 142
+\]
+
+Now, let's simplify the left side of the equation:
+
+1. Combine like terms:
+   \[
+   M + 3M + 3M + 2 = 142
+   \]
+   This simplifies to:
+   \[
+   7M + 2 = 142
+   \]
+
+2. Next, we need to isolate \( M \). First, subtract 2 from both sides:
+   \[
+   7M = 142 - 2
+   \]
+   Which simplifies to:
+   \[
+   7M = 140
+   \]
+
+3. Now, divide both sides by 7 to solve for \( M \):
+   \[
+   M = \frac{140}{7}
+   \]
+   This simplifies to:
+   \[
+   M = 20
+   \]
+
+Now we have determined that Mandy has 20 toys. To ensure the solution is correct, let's check the other values:
+
+- Anna has \( 3M = 3 \times 20 = 60 \) toys.
+- Amanda has \( 3M + 2 = 60 + 2 = 62 \) toys.
+
+Now, let's add all the toys together:
+
+\[
+M + \text{Anna's toys} + \text{Amanda's toys} = 20 + 60 + 62 = 142
+\]
+
+The total matches the problem statement, confirming our solution is correct.
+
+Therefore, the number of toys Mandy has is:
+</reasoning>
+<answer>20</answer>

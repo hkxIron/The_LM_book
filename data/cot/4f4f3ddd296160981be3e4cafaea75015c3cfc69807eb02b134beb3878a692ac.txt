@@ -1,0 +1,47 @@
+<reasoning>
+To find out how much Hayden is owed for his work today, we need to calculate several components: his hourly wage, the additional pay for the rides he gave, the bonus for good reviews, and the reimbursement for gas.
+
+1. **Hourly Wage Calculation**:
+   - Hayden works for 8 hours.
+   - His hourly wage is $15 per hour.
+   - To calculate his total earnings from the hourly wage:
+     \[
+     \text{Hourly Wage Earnings} = \text{Hours Worked} \times \text{Hourly Wage} = 8 \, \text{hours} \times 15 \, \text{dollars/hour} = 120 \, \text{dollars}
+     \]
+
+2. **Ride Earnings Calculation**:
+   - Hayden gave rides to 3 groups.
+   - He earns an additional $5 for each ride.
+   - To calculate his total earnings from rides:
+     \[
+     \text{Ride Earnings} = \text{Number of Rides} \times \text{Earnings per Ride} = 3 \, \text{rides} \times 5 \, \text{dollars/ride} = 15 \, \text{dollars}
+     \]
+
+3. **Bonus for Good Reviews Calculation**:
+   - Hayden received 2 good reviews.
+   - He gets a $20 bonus for each good review.
+   - To calculate his total bonus from reviews:
+     \[
+     \text{Review Bonus} = \text{Number of Reviews} \times \text{Bonus per Review} = 2 \, \text{reviews} \times 20 \, \text{dollars/review} = 40 \, \text{dollars}
+     \]
+
+4. **Gas Reimbursement Calculation**:
+   - Hayden put in 17 gallons of gas.
+   - Gas costs $3 per gallon.
+   - To find out how much he is reimbursed for gas:
+     \[
+     \text{Gas Reimbursement} = \text{Gallons of Gas} \times \text{Cost per Gallon} = 17 \, \text{gallons} \times 3 \, \text{dollars/gallon} = 51 \, \text{dollars}
+     \]
+
+5. **Total Earnings Calculation**:
+   - Now we need to add all these components together to find out how much Hayden is owed:
+     \[
+     \text{Total Earnings} = \text{Hourly Wage Earnings} + \text{Ride Earnings} + \text{Review Bonus} + \text{Gas Reimbursement}
+     \]
+     \[
+     \text{Total Earnings} = 120 \, \text{dollars} + 15 \, \text{dollars} + 40 \, \text{dollars} + 51 \, \text{dollars} = 226 \, \text{dollars}
+     \]
+
+Therefore, after calculating all parts of Hayden's earnings, we find that he is owed a total of $226 for his work today.
+</reasoning>
+<answer>226</answer>

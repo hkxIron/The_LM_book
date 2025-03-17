@@ -1,0 +1,52 @@
+<reasoning>
+Let's denote the number of trucks on the highway as \( T \). According to the problem, the number of cars is twice the number of trucks. Therefore, we can represent the number of cars as \( 2T \).
+
+Now, we know the total number of vehicles (cars and trucks) passing the highway is 300. We can write an equation based on this information:
+
+\[
+\text{Total vehicles} = \text{Number of cars} + \text{Number of trucks}
+\]
+
+Substituting the expressions we have:
+
+\[
+300 = 2T + T
+\]
+
+Now, we combine like terms:
+
+\[
+300 = 3T
+\]
+
+To find the number of trucks \( T \), we will divide both sides of the equation by 3:
+
+\[
+T = \frac{300}{3}
+\]
+
+Calculating the right side gives us:
+
+\[
+T = 100
+\]
+
+This means there are 100 trucks on the highway.
+
+To confirm, we can check the number of cars. If \( T = 100 \), then the number of cars would be:
+
+\[
+2T = 2 \times 100 = 200
+\]
+
+Now, we add the number of cars and trucks to ensure it equals the total number of vehicles:
+
+\[
+200 \text{ (cars)} + 100 \text{ (trucks)} = 300 \text{ (total vehicles)}
+\]
+
+Since our calculation holds true, we have verified our answer.
+
+Therefore, the total number of trucks on the highway is:
+</reasoning>
+<answer>100</answer>

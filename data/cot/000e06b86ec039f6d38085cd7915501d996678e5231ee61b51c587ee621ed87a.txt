@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we need to find out how many students prefer dogs over cats based on the survey results.
+
+1. **Identify the total number of students**: The problem states that there are 30 students in the class.
+
+2. **Calculate the number of students who prefer dogs and video games**: 
+   - According to the problem, 50% of the students chose dogs and video games.
+   - To find out how many students this represents, we calculate 50% of 30 students:
+     \[
+     0.50 \times 30 = 15 \text{ students}
+     \]
+   This means 15 students prefer dogs and video games.
+
+3. **Calculate the number of students who prefer dogs and movies**: 
+   - The problem states that 10% of the students chose dogs and movies.
+   - To find out how many students this represents, we calculate 10% of 30 students:
+     \[
+     0.10 \times 30 = 3 \text{ students}
+     \]
+   This means 3 students prefer dogs and movies.
+
+4. **Calculate the total number of students who prefer dogs**: 
+   - To find the total number of students who prefer dogs, we add the students who prefer dogs and video games to those who prefer dogs and movies:
+     \[
+     15 + 3 = 18 \text{ students}
+     \]
+
+5. **Conclusion**: Therefore, the total number of students in the teacher's class who prefer dogs over cats is 18.
+</reasoning>
+<answer>18</answer>

@@ -1,0 +1,16 @@
+<reasoning>
+To solve the problem, we first need to determine how many cupcakes Jason has in total, and then figure out how many cousins he can give cupcakes to.
+
+1. **Calculating the total number of cupcakes:**
+   - Jason bought 4 dozen cupcakes. 
+   - One dozen equals 12, so we multiply the number of dozens by 12 to find the total number of cupcakes.
+   - Calculation: \( 4 \text{ dozen} = 4 \times 12 = 48 \text{ cupcakes} \).
+
+2. **Distributing the cupcakes:**
+   - Jason plans to give 3 cupcakes to each cousin.
+   - To find out how many cousins he can give cupcakes to, we divide the total number of cupcakes by the number of cupcakes each cousin receives.
+   - Calculation: \( \text{Number of cousins} = \frac{48 \text{ cupcakes}}{3 \text{ cupcakes per cousin}} = 16 \text{ cousins} \).
+
+Therefore, Jason has 16 cousins.
+</reasoning>
+<answer>16</answer>

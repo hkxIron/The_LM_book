@@ -1,0 +1,51 @@
+<reasoning>
+To find out how much change Sandy receives back, we first need to calculate the total cost of the drinks she ordered.
+
+1. **Calculate the cost of cappuccinos:**
+   - Sandy orders 3 cappuccinos.
+   - Each cappuccino costs $2.
+   - Therefore, the total cost for cappuccinos is:
+     \[
+     3 \text{ cappuccinos} \times 2 \text{ dollars/cappuccino} = 6 \text{ dollars}
+     \]
+
+2. **Calculate the cost of iced teas:**
+   - Sandy orders 2 iced teas.
+   - Each iced tea costs $3.
+   - Therefore, the total cost for iced teas is:
+     \[
+     2 \text{ iced teas} \times 3 \text{ dollars/iced tea} = 6 \text{ dollars}
+     \]
+
+3. **Calculate the cost of cafe lattes:**
+   - Sandy orders 2 cafe lattes.
+   - Each cafe latte costs $1.5.
+   - Therefore, the total cost for cafe lattes is:
+     \[
+     2 \text{ cafe lattes} \times 1.5 \text{ dollars/cafe latte} = 3 \text{ dollars}
+     \]
+
+4. **Calculate the cost of espressos:**
+   - Sandy orders 2 espressos.
+   - Each espresso costs $1.
+   - Therefore, the total cost for espressos is:
+     \[
+     2 \text{ espressos} \times 1 \text{ dollar/espresso} = 2 \text{ dollars}
+     \]
+
+5. **Add up all the costs:**
+   - Total cost = cost of cappuccinos + cost of iced teas + cost of cafe lattes + cost of espressos:
+     \[
+     6 \text{ dollars (cappuccinos)} + 6 \text{ dollars (iced teas)} + 3 \text{ dollars (cafe lattes)} + 2 \text{ dollars (espressos)} = 17 \text{ dollars}
+     \]
+
+6. **Calculate the change from a twenty-dollar bill:**
+   - Sandy pays with a $20 bill.
+   - Therefore, the change she receives is:
+     \[
+     20 \text{ dollars} - 17 \text{ dollars} = 3 \text{ dollars}
+     \]
+
+Thus, Sandy receives $3 in change.
+</reasoning>
+<answer>3</answer>

@@ -1,0 +1,45 @@
+<reasoning>
+Let's denote the amount of money Missy put in the bank during the first year as \( x \). According to the problem, the amounts she put in the subsequent years follow a specific pattern where each year she doubles the previous year's contribution.
+
+1. **First Year:** Missy puts in \( x \) dollars.
+2. **Second Year:** She doubles the first year's amount, so she puts in \( 2x \) dollars.
+3. **Third Year:** She doubles the second year's amount, so she puts in \( 4x \) dollars.
+4. **Fourth Year:** She doubles the third year's amount, so she puts in \( 8x \) dollars.
+
+Next, we need to sum these amounts to find the total amount she saved over the 4 years:
+
+\[
+\text{Total Amount} = x + 2x + 4x + 8x
+\]
+
+Now, let's combine the terms:
+
+\[
+\text{Total Amount} = (1 + 2 + 4 + 8)x = 15x
+\]
+
+According to the problem, we know that this total amount after 4 years is $450. Therefore, we can set up the following equation:
+
+\[
+15x = 450
+\]
+
+To find \( x \), we will divide both sides of the equation by 15:
+
+\[
+x = \frac{450}{15}
+\]
+
+Calculating this gives:
+
+\[
+x = 30
+\]
+
+So, Missy put \( 30 \) dollars in the bank during the first year. 
+
+Finally, let's summarize our result:
+
+Therefore, after calculating the amount for the first year and confirming that it fits with the total amount saved, we find:
+</reasoning>
+<answer>30</answer>

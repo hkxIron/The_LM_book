@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Calculate the number of white homes:**
+   The total number of homes in Belize is 400. According to the problem, one fourth of these homes are white. 
+   \[
+   \text{Number of white homes} = \frac{1}{4} \times 400 = 100
+   \]
+
+2. **Calculate the number of non-white homes:**
+   To find the number of non-white homes, we subtract the number of white homes from the total number of homes.
+   \[
+   \text{Number of non-white homes} = 400 - 100 = 300
+   \]
+
+3. **Determine how many of the non-white homes have a fireplace:**
+   The problem states that one fifth of the non-white homes have a fireplace. We can calculate this by taking one fifth of the 300 non-white homes.
+   \[
+   \text{Number of non-white homes with a fireplace} = \frac{1}{5} \times 300 = 60
+   \]
+
+4. **Calculate the number of non-white homes without a fireplace:**
+   To find out how many non-white homes do not have a fireplace, we subtract the number of non-white homes that have a fireplace from the total number of non-white homes.
+   \[
+   \text{Number of non-white homes without a fireplace} = 300 - 60 = 240
+   \]
+
+Now we have all the calculations needed to answer the question.
+</reasoning>
+<answer>240</answer>

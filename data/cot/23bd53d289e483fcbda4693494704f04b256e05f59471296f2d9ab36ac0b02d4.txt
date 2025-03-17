@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the spending over the three days step by step.
+
+1. **Identify the amounts spent each day**:
+   - On Friday, Emily spent \( X \) dollars.
+   - On Saturday, she spent twice that amount, which is \( 2X \) dollars.
+   - On Sunday, she spent three times \( X \), which is \( 3X \) dollars.
+
+2. **Write an equation for the total spending**:
+   The total amount spent over the three days can be expressed as:
+   \[
+   X + 2X + 3X
+   \]
+   This simplifies to:
+   \[
+   6X
+   \]
+
+3. **Set up the equation based on the total spending**:
+   According to the problem, the total spending over the three days equals $120. Therefore, we can set up the equation:
+   \[
+   6X = 120
+   \]
+
+4. **Solve for \( X \)**:
+   To find \( X \), we need to divide both sides of the equation by 6:
+   \[
+   X = \frac{120}{6}
+   \]
+   Performing the division gives:
+   \[
+   X = 20
+   \]
+
+5. **Conclusion**:
+   We have found that \( X \), the amount Emily spent on Friday, is 20 dollars.
+
+Therefore, the value of \( X \) is:
+</reasoning>
+<answer>20</answer>

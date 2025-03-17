@@ -1,0 +1,39 @@
+<reasoning>
+First, let's determine how many pairs of shoes Page decides to donate. She has 80 pairs in total and she donates 30% of her collection.
+
+1. **Calculate 30% of 80 pairs:**
+   To find 30%, we can use the formula:
+   \[
+   \text{Donation} = \text{Total pairs} \times \frac{30}{100}
+   \]
+   Substituting the values:
+   \[
+   \text{Donation} = 80 \times 0.30 = 24
+   \]
+   This means Page donates 24 pairs of shoes.
+
+2. **Calculate how many pairs she has left after the donation:**
+   To find the remaining pairs after the donation, we subtract the donated pairs from the total:
+   \[
+   \text{Remaining pairs} = \text{Total pairs} - \text{Donation}
+   \]
+   Substituting the values:
+   \[
+   \text{Remaining pairs} = 80 - 24 = 56
+   \]
+   After donating, Page has 56 pairs left.
+
+3. **Adding the new pairs of shoes:**
+   Now, Page treats herself by buying 6 more pairs of shoes. We add this to the remaining pairs:
+   \[
+   \text{Total pairs now} = \text{Remaining pairs} + \text{New pairs}
+   \]
+   Substituting the values:
+   \[
+   \text{Total pairs now} = 56 + 6 = 62
+   \]
+   After her purchase, Page now has 62 pairs of shoes.
+
+Therefore, after donating and buying new pairs, the total number of shoes Page has now is:
+</reasoning>
+<answer>62</answer>

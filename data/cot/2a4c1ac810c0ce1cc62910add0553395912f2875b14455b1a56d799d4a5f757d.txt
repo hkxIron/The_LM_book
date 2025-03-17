@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much the candy bar cost, we need to first calculate how much money John used to pay for it and then subtract the change he received.
+
+1. **Calculate the total amount John paid:**
+   - Quarters: Each quarter is worth 25 cents. John has 4 quarters.
+     \[
+     4 \text{ quarters} \times 25 \text{ cents/quarter} = 100 \text{ cents}
+     \]
+   - Dimes: Each dime is worth 10 cents. John has 3 dimes.
+     \[
+     3 \text{ dimes} \times 10 \text{ cents/dime} = 30 \text{ cents}
+     \]
+   - Nickel: A nickel is worth 5 cents. John has 1 nickel.
+     \[
+     1 \text{ nickel} \times 5 \text{ cents/nickel} = 5 \text{ cents}
+     \]
+
+2. **Add all the amounts together:**
+   Now we add the total amounts from quarters, dimes, and the nickel.
+   \[
+   100 \text{ cents} + 30 \text{ cents} + 5 \text{ cents} = 135 \text{ cents}
+   \]
+
+3. **Subtract the change received from the total paid:**
+   John received 4 cents back in change.
+   \[
+   \text{Cost of the candy bar} = \text{Total paid} - \text{Change received}
+   \]
+   \[
+   \text{Cost of the candy bar} = 135 \text{ cents} - 4 \text{ cents} = 131 \text{ cents}
+   \]
+
+Therefore, the candy bar cost 131 cents.
+</reasoning>
+<answer>131</answer>

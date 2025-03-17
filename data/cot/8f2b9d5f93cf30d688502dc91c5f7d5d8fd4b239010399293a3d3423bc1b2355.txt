@@ -1,0 +1,23 @@
+<reasoning>
+First, let's determine how much sugar the ants have already removed after three hours. Since the ants remove 4 ounces of sugar each hour, we can calculate the total amount removed in three hours.
+
+1. **Calculate sugar removed in three hours:**
+   \[
+   \text{Sugar removed} = 4 \text{ ounces/hour} \times 3 \text{ hours} = 12 \text{ ounces}
+   \]
+
+2. **Calculate remaining sugar in the bag:**
+   The bag initially held 24 ounces of sugar. After the ants have removed 12 ounces, we'll find out how much sugar is left:
+   \[
+   \text{Remaining sugar} = 24 \text{ ounces} - 12 \text{ ounces} = 12 \text{ ounces}
+   \]
+
+3. **Determine how many more hours are needed to harvest the remaining sugar:**
+   Since the ants continue to remove 4 ounces of sugar every hour, we can calculate how many more hours will be needed to remove the remaining 12 ounces:
+   \[
+   \text{Hours needed} = \frac{\text{Remaining sugar}}{\text{Sugar removed per hour}} = \frac{12 \text{ ounces}}{4 \text{ ounces/hour}} = 3 \text{ hours}
+   \]
+
+Thus, the ants will need 3 more hours to finish harvesting the remaining sugar.
+</reasoning>
+<answer>3</answer>

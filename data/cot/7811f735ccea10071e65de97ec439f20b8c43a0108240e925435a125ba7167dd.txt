@@ -1,0 +1,36 @@
+<reasoning>
+To find how many students are in the Period 2 gym class, we will set up an equation based on the information provided.
+
+1. Let's denote the number of students in the Period 2 gym class as \( x \).
+2. According to the problem, the number of students in the Period 1 gym class is described as "5 fewer than twice as many students as in the Period 2 gym class". We can express this mathematically as:
+   \[
+   2x - 5
+   \]
+   where \( 2x \) represents twice the number of students in Period 2, and we subtract 5 because there are "5 fewer".
+
+3. We know from the problem statement that there are 11 students in the Period 1 gym class. Therefore, we can set up the equation:
+   \[
+   2x - 5 = 11
+   \]
+
+4. Now, we will solve for \( x \). First, we will add 5 to both sides of the equation to isolate the term with \( x \):
+   \[
+   2x - 5 + 5 = 11 + 5
+   \]
+   This simplifies to:
+   \[
+   2x = 16
+   \]
+
+5. Next, we divide both sides by 2 to solve for \( x \):
+   \[
+   x = \frac{16}{2}
+   \]
+   This simplifies to:
+   \[
+   x = 8
+   \]
+
+Thus, there are 8 students in the Period 2 gym class.
+</reasoning>
+<answer>8</answer>

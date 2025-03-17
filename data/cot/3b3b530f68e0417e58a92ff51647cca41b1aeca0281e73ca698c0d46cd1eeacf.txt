@@ -1,0 +1,42 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Start with the initial number of marbles.**
+   Brianna starts with 24 marbles.
+
+2. **Calculate the number of marbles lost through the hole.**
+   Brianna loses 4 marbles. So, we subtract this from her initial count:
+   \[
+   24 - 4 = 20
+   \]
+   Now, Brianna has 20 marbles remaining after losing the 4.
+
+3. **Determine how many marbles she gave away.**
+   Brianna gives away twice as many marbles as she lost through the hole. Since she lost 4 marbles, she gives away:
+   \[
+   2 \times 4 = 8
+   \]
+   So, she gives away 8 marbles.
+
+4. **Calculate the number of marbles remaining after giving some away.**
+   Now, we subtract the 8 marbles given away from the 20 she had after losing some:
+   \[
+   20 - 8 = 12
+   \]
+   Brianna now has 12 marbles left after giving away 8.
+
+5. **Determine how many marbles her dog ate.**
+   Brianna's dog ate half as many marbles as she lost through the hole. Since she lost 4 marbles, her dog ate:
+   \[
+   \frac{4}{2} = 2
+   \]
+   So, her dog ate 2 marbles.
+
+6. **Calculate the final number of marbles remaining.**
+   Finally, we subtract the 2 marbles that the dog ate from the 12 marbles she had after giving some away:
+   \[
+   12 - 2 = 10
+   \]
+   Therefore, Brianna has 10 marbles remaining.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Understanding Max's maximum delivery capacity**: Max can deliver a maximum of 35 packages in one day.
+
+2. **Calculating the total maximum deliveries for the week**: Since there are 7 days in a week, the maximum number of packages Max could deliver in a week is:
+   \[
+   35 \text{ packages/day} \times 7 \text{ days} = 245 \text{ packages}
+   \]
+
+3. **Analyzing the deliveries made by Max**:
+   - Max delivered the maximum number of packages (35) on **two days**:
+     \[
+     35 \text{ packages} \times 2 \text{ days} = 70 \text{ packages}
+     \]
+   - On **two other days**, Max unloaded a total of **50 packages**:
+     \[
+     50 \text{ packages}
+     \]
+   - On **one day**, Max unloaded one-seventh of his maximum performance:
+     \[
+     \frac{35 \text{ packages}}{7} = 5 \text{ packages}
+     \]
+   - On the **last two days**, the sum of the packages transported was only four-fifths of the maximum daily performance:
+     \[
+     \frac{4}{5} \times 35 \text{ packages} = 28 \text{ packages}
+     \]
+
+4. **Calculating total packages delivered**: Now, we can sum these amounts to find the total number of packages Max actually delivered during the week:
+   \[
+   70 \text{ packages} + 50 \text{ packages} + 5 \text{ packages} + 28 \text{ packages} = 153 \text{ packages}
+   \]
+
+5. **Determining the difference between maximum possible deliveries and actual deliveries**: To find out how many more packages Max could have delivered if he worked at maximum performance, we subtract the total packages delivered from the maximum possible for the week:
+   \[
+   245 \text{ packages} - 153 \text{ packages} = 92 \text{ packages}
+   \]
+
+Therefore, the total number of additional packages Max could deliver during that week, if he worked at maximum performance, is:
+</reasoning>
+<answer>92</answer>

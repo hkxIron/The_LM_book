@@ -1,0 +1,79 @@
+<reasoning>
+Let’s denote your current age as \( x \) and your brother's current age as \( y \).
+
+1. **Set up the equations based on the problem statement:**
+   - In ten years, your age will be \( x + 10 \).
+   - In ten years, your brother's age will be \( y + 10 \).
+   - According to the problem, in ten years, you will be twice your brother's age:
+     \[
+     x + 10 = 2(y + 10)
+     \]
+
+2. **Expand the second part of the equation:**
+   - This can be rewritten as:
+     \[
+     x + 10 = 2y + 20
+     \]
+   - To isolate \( x \), we can rearrange this equation:
+     \[
+     x = 2y + 20 - 10
+     \]
+     \[
+     x = 2y + 10
+     \]
+
+3. **Next, use the information about the sum of your ages in ten years:**
+   - The sum of your ages in ten years will be:
+     \[
+     (x + 10) + (y + 10) = 45
+     \]
+   - Simplifying this gives:
+     \[
+     x + y + 20 = 45
+     \]
+   - Therefore, we can isolate \( x + y \):
+     \[
+     x + y = 45 - 20
+     \]
+     \[
+     x + y = 25
+     \]
+
+4. **Now we have a system of equations:**
+   - From step 2: \( x = 2y + 10 \)
+   - From step 3: \( x + y = 25 \)
+
+5. **Substitute \( x \) from the first equation into the second equation:**
+   \[
+   (2y + 10) + y = 25
+   \]
+   - Combine like terms:
+     \[
+     3y + 10 = 25
+     \]
+   - Isolating \( y \):
+     \[
+     3y = 25 - 10
+     \]
+     \[
+     3y = 15
+     \]
+     \[
+     y = 5
+     \]
+
+6. **Now that we have \( y \), substitute back to find \( x \):**
+   \[
+   x = 2(5) + 10
+   \]
+   \[
+   x = 10 + 10
+   \]
+   \[
+   x = 20
+   \]
+
+7. **Conclusion:**
+   - Your current age is \( x = 20 \).
+</reasoning>
+<answer>20</answer>

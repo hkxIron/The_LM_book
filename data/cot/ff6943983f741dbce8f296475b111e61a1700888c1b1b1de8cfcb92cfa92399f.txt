@@ -1,0 +1,40 @@
+<reasoning>
+To find the total time the eight runners took to finish the race, we need to consider the finishing times of the two groups of runners separately.
+
+1. **Identify the finishing times for the first group of runners**:  
+   The first five runners finish the race in 8 hours.
+
+2. **Identify the finishing times for the second group of runners**:  
+   The remaining three runners finish the race 2 hours later than the first group. Since the first group finished in 8 hours, the second group took:
+   \[
+   8 \text{ hours} + 2 \text{ hours} = 10 \text{ hours}
+   \]
+
+3. **Calculate the total time for all runners**:  
+   To find the total time taken by all eight runners, we can multiply the number of runners in each group by their respective finishing times and then sum the results:
+   \[
+   \text{Total time} = (\text{Number of first group runners} \times \text{Finishing time for first group}) + (\text{Number of second group runners} \times \text{Finishing time for second group})
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total time} = (5 \text{ runners} \times 8 \text{ hours}) + (3 \text{ runners} \times 10 \text{ hours})
+   \]
+
+4. **Calculate each part**:  
+   For the first group:
+   \[
+   5 \times 8 = 40 \text{ runner-hours}
+   \]
+   For the second group:
+   \[
+   3 \times 10 = 30 \text{ runner-hours}
+   \]
+
+5. **Sum the total runner-hours**:
+   \[
+   \text{Total time} = 40 + 30 = 70 \text{ runner-hours}
+   \]
+
+Therefore, the total time the eight runners took to finish the race is 70 runner-hours.
+</reasoning>
+<answer>70</answer>

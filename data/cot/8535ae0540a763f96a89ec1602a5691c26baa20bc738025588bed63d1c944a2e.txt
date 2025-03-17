@@ -1,0 +1,56 @@
+<reasoning>
+To find Henry's total score across all 4 subjects, we first need to calculate the average of his three scores: Geography, Math, and English.
+
+1. **Identify Henry's scores**:
+   - Geography: 50 points
+   - Math: 70 points
+   - English: 66 points
+
+2. **Calculate the average of the three scores**:
+   To find the average, we add the scores together and then divide by the number of subjects (which is 3 in this case).
+   
+   \[
+   \text{Total of three scores} = 50 + 70 + 66
+   \]
+
+   Let's perform the addition step by step:
+   - First, add 50 and 70:
+     \[
+     50 + 70 = 120
+     \]
+   - Then add 66 to that sum:
+     \[
+     120 + 66 = 186
+     \]
+   - So, the total of the three scores is 186.
+
+   Now we divide this total by 3 to get the average:
+   \[
+   \text{Average} = \frac{186}{3}
+   \]
+   Performing this division:
+   \[
+   186 \div 3 = 62
+   \]
+
+   Therefore, Henry's History score is 62 points.
+
+3. **Calculate the total score across all 4 subjects**:
+   Now we need to add Henry's History score to the total of the first three subjects:
+   \[
+   \text{Total score} = 50 + 70 + 66 + 62
+   \]
+
+   We already calculated the total of the first three subjects (186), so we just need to add History's score:
+   \[
+   186 + 62
+   \]
+
+   Performing this addition:
+   \[
+   186 + 62 = 248
+   \]
+
+Thus, Henry's total score across all 4 subjects is 248.
+</reasoning>
+<answer>248</answer>

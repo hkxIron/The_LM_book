@@ -1,0 +1,49 @@
+<reasoning>
+To find out how much money Maurice will make for finishing 30 tasks, we can break down the problem into two parts: the payment for the tasks and the bonus for completing a certain number of tasks.
+
+1. **Calculate the payment for the finished tasks:**
+   Maurice earns $2 for each finished task. So, for 30 tasks, we multiply the number of tasks by the payment per task.
+
+   \[
+   \text{Payment for tasks} = \text{Number of tasks} \times \text{Payment per task}
+   \]
+   \[
+   \text{Payment for tasks} = 30 \times 2 = 60
+   \]
+
+   This means Maurice will earn $60 from the tasks he completed.
+
+2. **Calculate the bonuses:**
+   Maurice receives a $6 bonus for every 10 tasks finished. To find out how many bonuses he receives for completing 30 tasks, we first determine how many sets of 10 tasks he has completed.
+
+   \[
+   \text{Number of bonuses} = \frac{\text{Number of tasks}}{10}
+   \]
+   \[
+   \text{Number of bonuses} = \frac{30}{10} = 3
+   \]
+
+   Since he completed 30 tasks, he qualifies for 3 bonuses. Now we can calculate the total bonus amount.
+
+   \[
+   \text{Total bonuses} = \text{Number of bonuses} \times \text{Bonus amount}
+   \]
+   \[
+   \text{Total bonuses} = 3 \times 6 = 18
+   \]
+
+   Therefore, Maurice earns an additional $18 from bonuses.
+
+3. **Calculate the total earnings:**
+   Now, we combine the payment from the tasks and the total bonuses to find out Maurice's total earnings.
+
+   \[
+   \text{Total earnings} = \text{Payment for tasks} + \text{Total bonuses}
+   \]
+   \[
+   \text{Total earnings} = 60 + 18 = 78
+   \]
+
+Thus, Maurice will make a total of $78 for finishing 30 tasks.
+</reasoning>
+<answer>78</answer>

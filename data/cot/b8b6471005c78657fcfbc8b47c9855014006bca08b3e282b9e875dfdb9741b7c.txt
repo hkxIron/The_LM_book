@@ -1,0 +1,42 @@
+<reasoning>
+First, let's calculate how much John used to spend on coffee before the price increase.
+
+1. **Calculate John's initial daily coffee expenditure:**
+   - John used to buy 4 coffees a day.
+   - Each coffee costs $2.
+   - So, the total cost per day is:
+   \[
+   4 \text{ coffees} \times 2 \text{ dollars/coffee} = 8 \text{ dollars}
+   \]
+
+2. **Determine the new price of the coffee after the price increase:**
+   - The price was raised by 50%. 
+   - To find the new price, we calculate 50% of $2:
+   \[
+   0.5 \times 2 = 1 \text{ dollar}
+   \]
+   - Now we add this increase to the original price:
+   \[
+   2 \text{ dollars} + 1 \text{ dollar} = 3 \text{ dollars}
+   \]
+
+3. **Calculate John's new daily coffee expenditure after reducing the number of coffees:**
+   - John now buys half the number of coffees, which is:
+   \[
+   4 \text{ coffees} \div 2 = 2 \text{ coffees}
+   \]
+   - At the new price of $3 each, his total cost per day is:
+   \[
+   2 \text{ coffees} \times 3 \text{ dollars/coffee} = 6 \text{ dollars}
+   \]
+
+4. **Calculate how much John saves per day compared to what he used to spend:**
+   - His original spending was $8 per day, and now he spends $6 per day.
+   - The savings can be calculated as:
+   \[
+   8 \text{ dollars} - 6 \text{ dollars} = 2 \text{ dollars}
+   \]
+
+Therefore, John saves $2 per day compared to what he used to spend.
+</reasoning>
+<answer>2</answer>

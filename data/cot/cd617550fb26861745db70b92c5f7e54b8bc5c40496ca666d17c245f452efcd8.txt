@@ -1,0 +1,39 @@
+<reasoning>
+To solve the problem, let's break it down step by step:
+
+1. **Determine the total number of packs of marbles:**  
+   Leo has 400 marbles, and he packs them with 10 marbles in each pack.  
+   We calculate the number of packs by dividing the total number of marbles by the number of marbles per pack:  
+   \[
+   \text{Number of packs} = \frac{400 \text{ marbles}}{10 \text{ marbles/pack}} = 40 \text{ packs}
+   \]
+
+2. **Calculate how many packs Manny received:**  
+   Manny received 1/4 of the number of packs.  
+   We calculate this by taking 1/4 of 40 packs:  
+   \[
+   \text{Manny's packs} = \frac{1}{4} \times 40 = 10 \text{ packs}
+   \]
+
+3. **Calculate how many packs Neil received:**  
+   Neil received 1/8 of the number of packs.  
+   We calculate this by taking 1/8 of 40 packs:  
+   \[
+   \text{Neil's packs} = \frac{1}{8} \times 40 = 5 \text{ packs}
+   \]
+
+4. **Determine the total number of packs given away:**  
+   Now, we add the packs given to Manny and Neil to find out how many packs Leo gave away:  
+   \[
+   \text{Total packs given away} = \text{Manny's packs} + \text{Neil's packs} = 10 + 5 = 15 \text{ packs}
+   \]
+
+5. **Calculate how many packs Leo kept:**  
+   Finally, we subtract the total number of packs given away from the total number of packs to find out how many packs Leo kept:  
+   \[
+   \text{Packs Leo kept} = \text{Total packs} - \text{Total packs given away} = 40 - 15 = 25 \text{ packs}
+   \]
+
+Thus, Leo kept 25 packs of marbles.
+</reasoning>
+<answer>25</answer>

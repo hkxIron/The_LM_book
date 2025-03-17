@@ -1,0 +1,56 @@
+<reasoning>
+To determine how much more Janet would make per month as a freelancer compared to her current job, we'll start by calculating her monthly income from both her current job and freelancing, and then account for the additional costs associated with freelancing. 
+
+1. **Calculate Janet's monthly income from her current job:**
+   - Janet works 40 hours per week and is paid $30/hour.
+   - First, calculate her weekly income: 
+     \[
+     \text{Weekly Income} = 40 \text{ hours/week} \times 30 \text{ dollars/hour} = 1200 \text{ dollars/week}
+     \]
+   - Next, calculate her monthly income by multiplying her weekly income by the number of weeks in a month (4 weeks):
+     \[
+     \text{Monthly Income} = 1200 \text{ dollars/week} \times 4 \text{ weeks/month} = 4800 \text{ dollars/month}
+     \]
+
+2. **Calculate Janet's monthly income as a freelancer:**
+   - As a freelancer, she also works 40 hours per week but gets paid $40/hour.
+   - First, calculate her weekly freelancing income:
+     \[
+     \text{Freelancing Weekly Income} = 40 \text{ hours/week} \times 40 \text{ dollars/hour} = 1600 \text{ dollars/week}
+     \]
+   - Next, calculate her monthly freelancing income:
+     \[
+     \text{Freelancing Monthly Income} = 1600 \text{ dollars/week} \times 4 \text{ weeks/month} = 6400 \text{ dollars/month}
+     \]
+
+3. **Calculate the total expenses associated with freelancing:**
+   - Janet has two types of expenses as a freelancer: FICA taxes and healthcare premiums.
+   - FICA taxes cost $25 per week, so for a month:
+     \[
+     \text{Monthly FICA Taxes} = 25 \text{ dollars/week} \times 4 \text{ weeks/month} = 100 \text{ dollars/month}
+     \]
+   - Healthcare premiums cost $400 per month. 
+
+   - Now, combine both expenses to find total monthly expenses:
+     \[
+     \text{Total Monthly Expenses} = 100 \text{ dollars/month (FICA)} + 400 \text{ dollars/month (healthcare)} = 500 \text{ dollars/month}
+     \]
+
+4. **Calculate Janet's net monthly income as a freelancer:**
+   - Subtract the total monthly expenses from her monthly freelancing income:
+     \[
+     \text{Net Monthly Income as Freelancer} = 6400 \text{ dollars/month} - 500 \text{ dollars/month} = 5900 \text{ dollars/month}
+     \]
+
+5. **Calculate the difference in income between freelancing and her current job:**
+   - Now we find out how much more she would make as a freelancer compared to her current job:
+     \[
+     \text{Difference} = \text{Net Monthly Income as Freelancer} - \text{Monthly Income from Current Job}
+     \]
+     \[
+     \text{Difference} = 5900 \text{ dollars/month} - 4800 \text{ dollars/month} = 1100 \text{ dollars/month}
+     \]
+
+Therefore, Janet would make $1100 more per month as a freelancer compared to her current job.
+</reasoning>
+<answer>1100</answer>

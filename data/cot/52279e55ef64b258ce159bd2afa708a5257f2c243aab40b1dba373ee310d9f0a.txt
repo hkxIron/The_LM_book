@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, let's first determine how many total states there are in the United States. There are 50 states in total.
+
+Next, we need to calculate what percentage of the total states Paul has collected. Paul has plates from 40 different states, so we can find the percentage he has as follows:
+
+1. Calculate the percentage of states Paul has:
+   \[
+   \text{Percentage} = \left( \frac{\text{Number of states Paul has}}{\text{Total number of states}} \right) \times 100
+   \]
+   Substituting the values:
+   \[
+   \text{Percentage} = \left( \frac{40}{50} \right) \times 100
+   \]
+   Simplifying this:
+   \[
+   \text{Percentage} = 0.8 \times 100 = 80\%
+   \]
+
+2. Now, for each percentage point, Paul earns $2. Since he has 80 percentage points, we need to calculate his earnings:
+   \[
+   \text{Earnings} = \text{Percentage points} \times \text{Earnings per percentage point}
+   \]
+   Substituting the values:
+   \[
+   \text{Earnings} = 80 \times 2
+   \]
+   Calculating this gives:
+   \[
+   \text{Earnings} = 160
+   \]
+
+Therefore, Paul earns a total of $160 from his parents for the license plates he has collected.
+</reasoning>
+<answer>160</answer>

@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many gems Tom ended up with, we'll follow these steps:
+
+1. **Calculate the initial number of gems Tom receives for his spending.**
+   Tom spends $250, and the game gives 100 gems for each dollar spent. 
+   Therefore, the number of gems he initially receives is calculated as:
+   \[
+   \text{Initial Gems} = \text{Amount Spent} \times \text{Gems per Dollar} = 250 \times 100
+   \]
+   Now performing the multiplication:
+   \[
+   250 \times 100 = 25000
+   \]
+   So, Tom initially receives 25,000 gems.
+
+2. **Calculate the 20% bonus on the initial number of gems.**
+   A 20% bonus means Tom will receive an additional 20% of the gems he has already earned. We can calculate this bonus by multiplying the initial number of gems by 20% (or 0.20):
+   \[
+   \text{Bonus Gems} = \text{Initial Gems} \times 0.20 = 25000 \times 0.20
+   \]
+   Now performing the multiplication:
+   \[
+   25000 \times 0.20 = 5000
+   \]
+   So, Tom receives an additional 5,000 gems as a bonus.
+
+3. **Calculate the total number of gems Tom ends up with.**
+   To find the total number of gems, we add the initial number of gems to the bonus gems:
+   \[
+   \text{Total Gems} = \text{Initial Gems} + \text{Bonus Gems} = 25000 + 5000
+   \]
+   Now performing the addition:
+   \[
+   25000 + 5000 = 30000
+   \]
+   Thus, Tom ends up with a total of 30,000 gems.
+
+Therefore, the final total number of gems Tom has is:
+</reasoning>
+<answer>30000</answer>

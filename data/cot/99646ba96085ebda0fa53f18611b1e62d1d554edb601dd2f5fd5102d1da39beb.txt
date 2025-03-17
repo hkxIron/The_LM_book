@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many more home runs the Chicago Cubs scored than the Cardinals, we will first calculate the total number of home runs scored by each team.
+
+1. **Calculate the total home runs for the Chicago Cubs:**
+   - They scored 2 home runs in the third inning.
+   - They scored 1 home run in the fifth inning.
+   - They scored 2 more home runs in the eighth inning.
+   
+   Now, we will add these numbers together:
+   \[
+   2 + 1 + 2 = 5
+   \]
+   So, the Chicago Cubs scored a total of 5 home runs.
+
+2. **Calculate the total home runs for the Cardinals:**
+   - They scored 1 home run in the second inning.
+   - They scored 1 home run in the fifth inning.
+   
+   Now, we will add these numbers together:
+   \[
+   1 + 1 = 2
+   \]
+   So, the Cardinals scored a total of 2 home runs.
+
+3. **Determine how many more home runs the Cubs scored than the Cardinals:**
+   We will subtract the total number of home runs scored by the Cardinals from the total scored by the Cubs:
+   \[
+   5 - 2 = 3
+   \]
+
+Therefore, the Chicago Cubs scored 3 more home runs than the Cardinals.
+</reasoning>
+<answer>3</answer>

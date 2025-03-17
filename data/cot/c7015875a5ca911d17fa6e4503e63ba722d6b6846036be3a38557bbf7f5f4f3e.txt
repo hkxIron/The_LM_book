@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Initial Racers**: We start with 50 racers at the beginning of the race. 
+
+2. **Racers Joining After 20 Minutes**: After 20 minutes, 30 more racers join. To find the total number of racers at this point, we add the new racers to the initial number:
+   \[
+   50 + 30 = 80
+   \]
+   So, after 20 minutes, there are 80 racers.
+
+3. **Total Number of Racers After Another 30 Minutes**: The problem states that the total number of racers doubled after another 30 minutes. Therefore, we multiply the number of racers at 20 minutes by 2:
+   \[
+   80 \times 2 = 160
+   \]
+   So, after another 30 minutes, there are 160 racers in total.
+
+4. **Racers Finishing the Race**: At the end of the race, we know that only 130 racers finished. 
+
+5. **Calculating the Number of Racers Who Dropped Out**: We need to find out how many racers did not finish. To do this, we subtract the number of racers who finished from the total number of racers:
+   \[
+   160 - 130 = 30
+   \]
+   Therefore, 30 racers dropped out before finishing the race.
+
+Now, we have evaluated all the steps to find the answer.
+</reasoning>
+<answer>30</answer>

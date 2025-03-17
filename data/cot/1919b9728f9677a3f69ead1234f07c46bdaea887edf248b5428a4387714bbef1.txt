@@ -1,0 +1,57 @@
+<reasoning>
+Let's denote the distance Hiro walked as \( x \) kilometers. According to the problem, Rajesh walked 10 kilometers less than 4 times the distance Hiro walked. Therefore, we can express the distance Rajesh walked as:
+
+\[
+\text{Distance Rajesh walked} = 4x - 10
+\]
+
+We know that together they walked 25 kilometers, so we can set up the following equation:
+
+\[
+x + (4x - 10) = 25
+\]
+
+Now, let's simplify this equation step by step:
+
+1. Combine like terms on the left side:
+   \[
+   x + 4x - 10 = 25
+   \]
+   This simplifies to:
+   \[
+   5x - 10 = 25
+   \]
+
+2. Next, we want to isolate \( 5x \). To do this, we add 10 to both sides of the equation:
+   \[
+   5x - 10 + 10 = 25 + 10
+   \]
+   Which simplifies to:
+   \[
+   5x = 35
+   \]
+
+3. Now, we divide both sides by 5 to solve for \( x \):
+   \[
+   x = \frac{35}{5}
+   \]
+   Which simplifies to:
+   \[
+   x = 7
+   \]
+
+Now that we have found \( x \), which is the distance Hiro walked, we can find the distance Rajesh walked. We substitute \( x = 7 \) back into the expression for Rajesh's distance:
+
+\[
+\text{Distance Rajesh walked} = 4(7) - 10
+\]
+
+Calculating this gives:
+
+\[
+\text{Distance Rajesh walked} = 28 - 10 = 18
+\]
+
+Thus, Rajesh walked 18 kilometers.
+</reasoning>
+<answer>18</answer>

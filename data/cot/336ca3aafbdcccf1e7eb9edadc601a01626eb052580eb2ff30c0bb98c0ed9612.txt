@@ -1,0 +1,45 @@
+<reasoning>
+Let's denote the original number of sweets in the pack as \( x \).
+
+1. **Calculate the total sweets taken by the children:**
+   Each of the 48 children takes 4 sweets. Therefore, the total number of sweets taken is:
+   \[
+   48 \times 4 = 192
+   \]
+
+2. **Determine how many sweets are left after the children take their share:**
+   After the children take their sweets, it is stated that there is still a third of the original amount left. This means the amount left can be expressed as:
+   \[
+   \frac{1}{3}x
+   \]
+
+3. **Set up the equation:**
+   The sweets taken (192) plus the sweets left (which is \(\frac{1}{3}x\)) should equal the original amount of sweets:
+   \[
+   192 + \frac{1}{3}x = x
+   \]
+
+4. **Isolate \( x \):**
+   To isolate \( x \), we can subtract \(\frac{1}{3}x\) from both sides of the equation:
+   \[
+   192 = x - \frac{1}{3}x
+   \]
+
+   This simplifies to:
+   \[
+   192 = \frac{2}{3}x
+   \]
+
+5. **Solve for \( x \):**
+   To solve for \( x \), we can multiply both sides by \(\frac{3}{2}\) to get rid of the fraction:
+   \[
+   x = 192 \times \frac{3}{2}
+   \]
+   Calculating this gives:
+   \[
+   x = 192 \times 1.5 = 288
+   \]
+
+Therefore, the original number of sweets in the pack is:
+</reasoning>
+<answer>288</answer>

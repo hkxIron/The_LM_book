@@ -1,0 +1,29 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the original cost of fuel:** 
+   The original cost to refill the tank was $200.
+
+2. **Determine the increase in fuel capacity:**
+   James got an extra tank, which means the fuel capacity is now doubled. Therefore, instead of refilling one tank, he is now refilling two tanks. 
+
+   If the cost to refill one tank is $200, then for two tanks, the original cost would be:
+   \[
+   200 \times 2 = 400
+   \]
+
+3. **Account for the price increase in fuel:**
+   The fuel prices have increased by 20%. To find out how much 20% of the original total cost for two tanks is, we first calculate 20% of $400:
+   \[
+   0.20 \times 400 = 80
+   \]
+
+4. **Calculate the new total cost:** 
+   Now, we need to add this increase to the original cost for two tanks:
+   \[
+   400 + 80 = 480
+   \]
+
+Thus, the total amount James has to pay now for fuel is $480.
+</reasoning>
+<answer>480</answer>

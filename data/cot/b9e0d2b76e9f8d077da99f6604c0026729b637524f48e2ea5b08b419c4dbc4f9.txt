@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many m&m packs Kekai uses, we need to first calculate the total number of m&ms he uses on each day and then determine how many packs that corresponds to.
+
+1. **Calculate the total number of m&ms used on Monday:**
+   - Kekai makes 40 sundaes on Monday, and he puts 6 m&ms on each sundae.
+   - To find the total number of m&ms used on Monday, we multiply the number of sundaes by the number of m&ms per sundae:
+     \[
+     \text{Total m&ms on Monday} = 40 \text{ sundaes} \times 6 \text{ m&ms/sundae} = 240 \text{ m&ms}
+     \]
+
+2. **Calculate the total number of m&ms used on Tuesday:**
+   - On Tuesday, Kekai makes 20 sundaes and puts 10 m&ms on each sundae.
+   - Similarly, we calculate the total number of m&ms used on Tuesday:
+     \[
+     \text{Total m&ms on Tuesday} = 20 \text{ sundaes} \times 10 \text{ m&ms/sundae} = 200 \text{ m&ms}
+     \]
+
+3. **Calculate the total number of m&ms used for both days:**
+   - Now, we add the total m&ms from both days to get the overall total:
+     \[
+     \text{Total m&ms} = 240 \text{ m&ms (Monday)} + 200 \text{ m&ms (Tuesday)} = 440 \text{ m&ms}
+     \]
+
+4. **Determine how many m&m packs are needed:**
+   - Each pack contains 40 m&ms. To find out how many packs are needed, we divide the total number of m&ms by the number of m&ms per pack:
+     \[
+     \text{Number of packs} = \frac{440 \text{ m&ms}}{40 \text{ m&ms/pack}} = 11 \text{ packs}
+     \]
+
+Therefore, after calculating the total m&ms used on both days and determining how many packs that corresponds to, we find that Kekai uses 11 packs of m&ms.
+</reasoning>
+<answer>11</answer>

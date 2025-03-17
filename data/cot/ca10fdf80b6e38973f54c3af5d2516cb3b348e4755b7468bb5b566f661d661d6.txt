@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we will first determine how the number of people on the dance team changes.
+
+1. **Start with the total number of people on the team**: The problem states that Leticia, Nina, and Rosalie have a total of 25 people on their dance team.
+
+   **Current total**: 25 people
+
+2. **Account for the people who quit**: Next, we need to subtract the number of people who quit from the current total. According to the problem, 8 people quit.
+
+   So, we perform the subtraction:
+   \[
+   25 - 8 = 17
+   \]
+   After 8 people quit, there are now 17 people remaining on the team.
+
+3. **Add the new members**: The problem states that 13 new people joined the team. We now need to add these new members to the remaining total.
+
+   Therefore, we perform the addition:
+   \[
+   17 + 13 = 30
+   \]
+   After adding the 13 new people, the total number of people on the team is now 30.
+
+In conclusion, we calculated the changes to the team size step by step, first subtracting the quitters and then adding the newcomers.
+</reasoning>
+<answer>30</answer>

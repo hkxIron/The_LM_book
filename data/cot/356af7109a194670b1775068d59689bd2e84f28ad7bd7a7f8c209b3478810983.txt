@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of books Harry has:** 
+   - We know from the problem that Harry has 50 books.
+   
+2. **Calculate the number of books Flora has:**
+   - The problem states that Flora has twice as many books as Harry. So, we calculate Flora's books as follows:
+     \[
+     \text{Flora's books} = 2 \times \text{Harry's books} = 2 \times 50 = 100
+     \]
+   
+3. **Calculate the number of books Gary has:**
+   - According to the problem, Gary has half the number of books that Harry has. Therefore, we find Gary's books like this:
+     \[
+     \text{Gary's books} = \frac{1}{2} \times \text{Harry's books} = \frac{1}{2} \times 50 = 25
+     \]
+   
+4. **Add the number of books owned by Harry, Flora, and Gary together:**
+   - Now we need to find the total number of books by adding the number of books each person has:
+     \[
+     \text{Total books} = \text{Harry's books} + \text{Flora's books} + \text{Gary's books} 
+     \]
+     \[
+     = 50 + 100 + 25
+     \]
+
+5. **Perform the addition:**
+   - Now we calculate the total:
+     \[
+     50 + 100 = 150
+     \]
+     \[
+     150 + 25 = 175
+     \]
+
+Thus, the total number of books that Harry, Flora, and Gary own together is 175.
+</reasoning>
+<answer>175</answer>

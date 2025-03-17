@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how much Jayda spent**: The problem states that Jayda spent $400.
+
+2. **Calculate how much Aitana spent**: According to the problem, Aitana spent \( \frac{2}{5} \) times more than Jayda. This means we need to calculate \( \frac{2}{5} \) of Jayda's spending and then add that to Jayda's spending to find Aitana's total spending.
+
+   To find \( \frac{2}{5} \) of Jayda's spending:
+   \[
+   \frac{2}{5} \times 400 = \frac{800}{5} = 160
+   \]
+
+   This \( 160 \) represents how much more Aitana spent compared to Jayda. 
+
+3. **Calculate Aitana's total spending**: Since Aitana spent \( 160 \) more than Jayda, we add this to Jayda's spending:
+   \[
+   \text{Aitana's spending} = \text{Jayda's spending} + \text{Additional amount} = 400 + 160 = 560
+   \]
+
+4. **Calculate the total amount spent together**: To find the total amount spent by both Aitana and Jayda together, we simply add their individual spending amounts:
+   \[
+   \text{Total spending} = \text{Jayda's spending} + \text{Aitana's spending} = 400 + 560 = 960
+   \]
+
+Therefore, the total amount of money they spent together is:
+</reasoning>
+<answer>960</answer>

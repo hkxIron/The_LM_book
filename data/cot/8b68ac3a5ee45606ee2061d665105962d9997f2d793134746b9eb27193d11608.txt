@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many kilograms of sugar the store sells every week, we can follow these steps:
+
+1. **Identify the amount of sugar sold in grams per week**: The store sells 20 packets of 100 grams each. We first need to calculate the total grams sold.
+   \[
+   \text{Total grams} = \text{Number of packets} \times \text{grams per packet}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Total grams} = 20 \times 100 = 2000 \text{ grams}
+   \]
+   This means the store sells 2000 grams of sugar each week.
+
+2. **Convert grams to kilograms**: Since there are 1000 grams in a kilogram, we need to convert the total grams into kilograms.
+   \[
+   \text{Total kilograms} = \frac{\text{Total grams}}{1000}
+   \]
+   Now, substituting our total grams:
+   \[
+   \text{Total kilograms} = \frac{2000}{1000} = 2 \text{ kilograms}
+   \]
+
+Therefore, the store sells 2 kilograms of sugar every week.
+</reasoning>
+<answer>2</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To solve this problem, we will follow the steps carefully, explaining each part of the reasoning.
+
+1. **Determine the total amount of money Leila had originally.** 
+   - We know that Leila spent $40 on a sweater, which is stated to be 1/4 of her total money. This means we can set up the equation:
+     \[
+     1/4 \times \text{Total Money} = 40
+     \]
+   - To find the total amount of money, we can multiply both sides of the equation by 4:
+     \[
+     \text{Total Money} = 40 \times 4 = 160
+     \]
+   - So, Leila originally had $160.
+
+2. **Determine how much money Leila has after buying the sweater.**
+   - After spending $40 on the sweater, the amount of money Leila has left is:
+     \[
+     160 - 40 = 120
+     \]
+
+3. **Determine how much money she spent on jewelry.**
+   - It’s given that after spending her remaining money on jewelry, she was left with $20. Therefore, the amount she spent on jewelry is:
+     \[
+     120 - 20 = 100
+     \]
+
+4. **Calculate how much more she spent on jewelry than on the sweater.**
+   - We know she spent $40 on the sweater and $100 on jewelry. To find the difference:
+     \[
+     100 - 40 = 60
+     \]
+
+Thus, Leila spent $60 more on jewelry than on the sweater.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. We know that after Raj cut some bananas, there are 100 bananas left on the tree. Let's denote the initial number of bananas on the tree as \( x \).
+
+2. Raj has eaten 70 bananas. This means that he took 70 bananas from the tree. We can express this mathematically:
+   \[
+   \text{Bananas cut from the tree} = 70
+   \]
+
+3. We need to determine how many bananas Raj has remaining in his basket. According to the problem, he has twice as many bananas remaining in his basket as he has eaten. Since Raj has eaten 70 bananas, we can calculate the number of bananas remaining in his basket as follows:
+   \[
+   \text{Bananas remaining in basket} = 2 \times 70 = 140
+   \]
+
+4. Now, let's calculate how many bananas were initially on the tree. Since Raj cut 70 bananas from the tree and had 140 remaining in his basket, we can find the initial number of bananas by considering the remaining bananas on the tree and the total amount Raj took. The total number of bananas taken from the tree (the sum of what was eaten and what is in the basket) is:
+   \[
+   \text{Total bananas taken} = 70 + 140 = 210
+   \]
+
+5. The initial number of bananas on the tree is thus the sum of the remaining bananas and the total bananas taken:
+   \[
+   x = 100 + 210
+   \]
+
+6. Performing the addition:
+   \[
+   x = 310
+   \]
+
+Therefore, the initial number of bananas on the tree was 310.
+</reasoning>
+<answer>310</answer>

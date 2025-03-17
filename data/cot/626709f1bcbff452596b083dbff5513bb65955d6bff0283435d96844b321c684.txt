@@ -1,0 +1,22 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Convert gallons to ounces**: Since James has 3 gallons of milk and we know there are 128 ounces in a gallon, we can calculate the total amount of milk he has in ounces. 
+
+   We multiply the number of gallons by the number of ounces per gallon:
+   \[
+   3 \text{ gallons} \times 128 \text{ ounces/gallon} = 384 \text{ ounces}
+   \]
+
+2. **Subtract the amount he drank**: James drank 13 ounces of milk. To find out how much milk he has left, we need to subtract the amount he drank from the total amount he initially had.
+
+   We perform the subtraction:
+   \[
+   384 \text{ ounces} - 13 \text{ ounces} = 371 \text{ ounces}
+   \]
+
+3. **Conclude with the remaining amount**: After performing the calculations, we determined that James has 371 ounces of milk left.
+
+Therefore, James has:
+</reasoning>
+<answer>371</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+Let's denote the size of the first ball as \( x \). According to the problem:
+
+1. The second ball is twice the size of the first ball, so its size is \( 2x \).
+2. The third ball is three times the size of the first ball, so its size is \( 3x \).
+
+We know from the problem that the third ball used 27 feet of yarn. Therefore, we can set up the equation:
+
+\[
+3x = 27
+\]
+
+Now, we will solve for \( x \):
+
+1. Divide both sides of the equation by 3:
+
+\[
+x = \frac{27}{3}
+\]
+
+2. This simplifies to:
+
+\[
+x = 9
+\]
+
+Now that we have the size of the first ball, we can find the size of the second ball:
+
+1. The second ball's size is \( 2x \):
+
+\[
+2x = 2 \times 9 = 18
+\]
+
+Next, since we know that the amount of yarn used corresponds directly to the size of the balls, we can conclude that the amount of yarn used for the second ball is 18 feet.
+
+Therefore, the total amount of yarn used for the second ball is:
+</reasoning>
+<answer>18</answer>

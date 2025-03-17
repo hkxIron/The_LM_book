@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we need to calculate the total time that Jill spends waiting and riding on her first bus, and then determine how long her second bus ride takes based on that information.
+
+1. **Calculate the total time for the first bus:**
+   - Jill waits for her first bus for **12 minutes**.
+   - She rides on her first bus for **30 minutes**.
+   - Therefore, the combined time for waiting and riding the first bus is:
+     \[
+     12 \text{ minutes (waiting)} + 30 \text{ minutes (riding)} = 42 \text{ minutes}
+     \]
+
+2. **Determine the time for the second bus:**
+   - The problem states that the time Jill spends on her second bus is half of the total time spent waiting and riding the first bus.
+   - Since we calculated that total time to be 42 minutes, we find half of this:
+     \[
+     \frac{42 \text{ minutes}}{2} = 21 \text{ minutes}
+     \]
+
+Thus, Jill's second bus ride takes **21 minutes**.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>21</answer>

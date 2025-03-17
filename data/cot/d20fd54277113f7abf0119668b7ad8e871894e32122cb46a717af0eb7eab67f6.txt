@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many calories Ian burns after jogging for 5 days, we need to follow these steps:
+
+1. **Calculate the total distance Ian jogs in one night.**  
+   Ian jogs 5 laps around the complex, and each lap is 100 feet. To find the total distance he jogs in one night, we multiply the number of laps by the distance of each lap:
+   \[
+   \text{Total distance in one night} = \text{Number of laps} \times \text{Distance per lap} = 5 \times 100 = 500 \text{ feet}
+   \]
+
+2. **Calculate the total distance Ian jogs in 5 days.**  
+   Since he jogs the same distance every night, we multiply the distance he jogs in one night by the number of days:
+   \[
+   \text{Total distance in 5 days} = \text{Distance in one night} \times \text{Number of days} = 500 \times 5 = 2500 \text{ feet}
+   \]
+
+3. **Determine how many calories Ian burns.**  
+   We know that it takes 25 feet of jogging to burn 1 calorie. To find out how many calories he burns after jogging 2500 feet, we divide the total distance by the distance needed to burn one calorie:
+   \[
+   \text{Calories burned} = \frac{\text{Total distance in 5 days}}{\text{Distance to burn 1 calorie}} = \frac{2500}{25} = 100 \text{ calories}
+   \]
+
+Thus, after 5 days of jogging, Ian burns a total of 100 calories.
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many people the bus system carries for 13 weeks, we first need to determine how many days are in 13 weeks.
+
+1. **Calculate the number of days in 13 weeks**: 
+   - There are 7 days in a week.
+   - So, for 13 weeks, we multiply the number of weeks by the number of days in a week:
+   
+   \[
+   13 \text{ weeks} \times 7 \text{ days/week} = 91 \text{ days}
+   \]
+
+   Here, we're calculating the total number of days to know how many individual days we will be considering in our final calculation.
+
+2. **Calculate the total number of people carried in 91 days**:
+   - Each day, the bus system carries 1,200,000 people.
+   - To find the total number of people carried over 91 days, we multiply the number of people carried in one day by the total number of days:
+   
+   \[
+   1,200,000 \text{ people/day} \times 91 \text{ days} = 109,200,000 \text{ people}
+   \]
+
+   In this step, we are simply finding the cumulative total by multiplying the daily average by the number of days.
+
+Therefore, the bus system carries a total of 109,200,000 people over the course of 13 weeks.
+</reasoning>
+<answer>109200000</answer>

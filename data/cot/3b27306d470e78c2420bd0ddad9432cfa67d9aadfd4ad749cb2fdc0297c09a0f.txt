@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many years Devin has taught, we need to break down the information given in the problem step by step.
+
+1. **Calculate the years taught for each subject:**
+   - Devin taught Calculus for 4 years.
+   - Devin taught Algebra for twice as many years as Calculus. Therefore, the years taught for Algebra is:
+     \[
+     2 \times 4 = 8 \text{ years}
+     \]
+
+2. **Calculate the years taught for Statistics:**
+   - Devin taught Statistics for 5 times as long as he taught Algebra. So, the years taught for Statistics is:
+     \[
+     5 \times 8 = 40 \text{ years}
+     \]
+
+3. **Add up the years taught for all subjects:**
+   - Now, we add the years for Calculus, Algebra, and Statistics together:
+     \[
+     4 \text{ (Calculus)} + 8 \text{ (Algebra)} + 40 \text{ (Statistics)} = 52 \text{ years}
+     \]
+
+Thus, Devin has taught a total of 52 years.
+</reasoning>
+<answer>52</answer>

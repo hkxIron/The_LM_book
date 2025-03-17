@@ -1,0 +1,37 @@
+<reasoning>
+To determine how many boxes of Graham crackers Lionel would have left after making the maximum number of Oreo cheesecakes, we need to follow these steps:
+
+1. **Identify the ingredients needed for one cheesecake**: 
+   - Each Oreo cheesecake requires 2 boxes of Graham crackers and 3 packets of Oreos.
+
+2. **Find out how many cheesecakes can be made from the available ingredients**:
+   - Lionel has 14 boxes of Graham crackers.
+   - To find out how many cheesecakes he can make with the Graham crackers, we divide the total number of boxes by the number needed for one cheesecake:
+     \[
+     \text{Number of cheesecakes from Graham crackers} = \frac{14 \text{ boxes}}{2 \text{ boxes/cheesecake}} = 7 \text{ cheesecakes}
+     \]
+
+   - Next, we check how many cheesecakes can be made from the packets of Oreos:
+   - Lionel has 15 packets of Oreos. To find out how many cheesecakes he can make from the Oreos, we divide the total number of packets by the number needed for one cheesecake:
+     \[
+     \text{Number of cheesecakes from Oreos} = \frac{15 \text{ packets}}{3 \text{ packets/cheesecake}} = 5 \text{ cheesecakes}
+     \]
+
+3. **Determine the limiting factor**:
+   - Lionel can make a maximum of 5 cheesecakes because the Oreos limit the number he can make (he can make 7 based on Graham crackers, but only 5 based on Oreos).
+
+4. **Calculate the number of boxes of Graham crackers used**:
+   - If Lionel makes 5 cheesecakes, the total number of boxes of Graham crackers used is:
+     \[
+     \text{Boxes used} = 5 \text{ cheesecakes} \times 2 \text{ boxes/cheesecake} = 10 \text{ boxes}
+     \]
+
+5. **Calculate the number of boxes of Graham crackers left**:
+   - Now we subtract the number of boxes used from the total number of boxes he initially had:
+     \[
+     \text{Boxes left} = 14 \text{ boxes} - 10 \text{ boxes} = 4 \text{ boxes}
+     \]
+
+Thus, after making the maximum number of Oreo cheesecakes, Lionel would have 4 boxes of Graham crackers left over.
+</reasoning>
+<answer>4</answer>

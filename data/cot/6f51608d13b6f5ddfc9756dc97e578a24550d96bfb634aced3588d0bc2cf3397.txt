@@ -1,0 +1,36 @@
+<reasoning>
+To find out how long the boards were before Tom cut off 7 cm from each, we will follow these steps:
+
+1. **Determine the length of the board after the first cut**: Tom initially had a board that was 143 cm long. He then cut 25 cm off of it.
+
+   \[
+   \text{Length after first cut} = 143 \, \text{cm} - 25 \, \text{cm} = 118 \, \text{cm}
+   \]
+
+   Here, I'm subtracting the length that was cut (25 cm) from the original length (143 cm).
+
+2. **Identify the length of the other boards**: After cutting the board down to 118 cm, Tom realizes that it is longer than the other boards. To make them all the same size, he cuts 7 cm off each of the other boards.
+
+3. **Calculate the original length of the other boards**: Let \( x \) be the original length of the other boards. After cutting 7 cm off, their new length becomes:
+
+   \[
+   x - 7 \, \text{cm}
+   \]
+
+   Since this new length must equal the length of the wood after the first cut (which is 118 cm), we can set up the equation:
+
+   \[
+   x - 7 = 118
+   \]
+
+4. **Solve for \( x \)**: To find \( x \), we add 7 to both sides of the equation:
+
+   \[
+   x = 118 + 7 = 125 \, \text{cm}
+   \]
+
+   This means each of the other boards was originally 125 cm long.
+
+Therefore, the original length of the boards before Tom cut the 7 cm off is:
+</reasoning>
+<answer>125</answer>

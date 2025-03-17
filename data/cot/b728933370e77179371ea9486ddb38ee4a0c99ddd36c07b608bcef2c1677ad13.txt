@@ -1,0 +1,41 @@
+<reasoning>
+To find out how much more Jane spent on ice cream than on pudding, we will first calculate the total cost of the ice cream cones and then the total cost of the pudding cups.
+
+1. **Calculate the total cost of ice cream cones:**
+   - Jane bought 15 ice cream cones.
+   - Each ice cream cone costs $5.
+   - To calculate the total cost for the ice cream cones, we multiply the number of cones by the cost per cone:
+     \[
+     \text{Total cost of ice cream} = \text{Number of cones} \times \text{Cost per cone} = 15 \times 5
+     \]
+   - Doing the multiplication:
+     \[
+     15 \times 5 = 75
+     \]
+   - So, Jane spent $75 on ice cream cones.
+
+2. **Calculate the total cost of pudding cups:**
+   - Jane bought 5 cups of pudding.
+   - Each cup of pudding costs $2.
+   - To calculate the total cost for the pudding cups, we multiply the number of cups by the cost per cup:
+     \[
+     \text{Total cost of pudding} = \text{Number of cups} \times \text{Cost per cup} = 5 \times 2
+     \]
+   - Doing the multiplication:
+     \[
+     5 \times 2 = 10
+     \]
+   - So, Jane spent $10 on pudding cups.
+
+3. **Calculate the difference in spending between ice cream and pudding:**
+   - Now we find out how much more Jane spent on ice cream than on pudding by subtracting the total cost of pudding from the total cost of ice cream:
+     \[
+     \text{Difference} = \text{Total cost of ice cream} - \text{Total cost of pudding} = 75 - 10
+     \]
+   - Doing the subtraction:
+     \[
+     75 - 10 = 65
+     \]
+   - Therefore, Jane spent $65 more on ice cream than on pudding.
+</reasoning>
+<answer>65</answer>

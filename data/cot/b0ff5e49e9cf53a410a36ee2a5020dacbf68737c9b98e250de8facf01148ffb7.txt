@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of blue pens**: 
+   Roy has 2 blue pens. So we can write:
+   \[
+   \text{Blue pens} = 2
+   \]
+
+2. **Determine the number of black pens**:
+   The problem states that Roy has twice as many black pens as blue pens. Therefore, we can calculate the number of black pens:
+   \[
+   \text{Black pens} = 2 \times \text{Blue pens} = 2 \times 2 = 4
+   \]
+
+3. **Determine the number of red pens**:
+   Next, the problem states that Roy has 2 less than twice as many red pens as black pens. First, we calculate twice the number of black pens:
+   \[
+   2 \times \text{Black pens} = 2 \times 4 = 8
+   \]
+   Now, since he has 2 less than this amount, we subtract 2:
+   \[
+   \text{Red pens} = 8 - 2 = 6
+   \]
+
+4. **Calculate the total number of pens**:
+   Now that we have the number of blue, black, and red pens, we can find the total number of pens by adding these amounts together:
+   \[
+   \text{Total pens} = \text{Blue pens} + \text{Black pens} + \text{Red pens} = 2 + 4 + 6
+   \]
+   Performing the addition:
+   \[
+   \text{Total pens} = 12
+   \]
+
+Therefore, after calculating the number of each type of pen and summing them up, we find that Roy has a total of 12 pens.
+</reasoning>
+<answer>12</answer>

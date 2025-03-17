@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of daisies sold on the first day.**
+   - According to the problem, Daisy's Flower Shop sold 45 daisies on the first day.
+   - So, Day 1 = 45 daisies.
+
+2. **Calculate the number of daisies sold on the second day.**
+   - On the second day, they sold 20 more than they did on the first day.
+   - Therefore, the number sold on the second day = 45 + 20 = 65 daisies.
+   - So, Day 2 = 65 daisies.
+
+3. **Calculate the number of daisies sold on the third day.**
+   - On the third day, they sold 10 less than twice the number sold on the second day.
+   - First, we calculate twice the number sold on the second day: 2 * 65 = 130.
+   - Then, we subtract 10 from this amount: 130 - 10 = 120 daisies.
+   - So, Day 3 = 120 daisies.
+
+4. **Calculate the total number of daisies sold over the first three days.**
+   - Now, we add the daisies sold over the first three days:
+     - Total for first three days = Day 1 + Day 2 + Day 3
+     - Total = 45 + 65 + 120 = 230 daisies.
+
+5. **Calculate the number of daisies sold on the fourth day.**
+   - We know the total number of daisies sold over the four days is 350.
+   - Therefore, the number sold on the fourth day can be calculated as:
+     - Number sold on Day 4 = Total daisies - Total for first three days
+     - Day 4 = 350 - 230 = 120 daisies.
+
+Finally, we have found the number of daisies sold on the fourth day.
+</reasoning>
+<answer>120</answer>

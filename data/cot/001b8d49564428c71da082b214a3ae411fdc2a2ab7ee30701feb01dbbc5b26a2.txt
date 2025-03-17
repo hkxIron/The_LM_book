@@ -1,0 +1,22 @@
+<reasoning>
+To find the age of Tom's dog, we will break down the problem step by step.
+
+1. **Determine the age of the rabbit:**
+   - We know that Tom's cat is 8 years old. 
+   - The rabbit is half the age of the cat. Therefore, we calculate the age of the rabbit as follows:
+     \[
+     \text{Age of rabbit} = \frac{\text{Age of cat}}{2} = \frac{8}{2} = 4 \text{ years old}
+     \]
+   - Here, we divided the cat's age by 2 to find the rabbit's age.
+
+2. **Determine the age of the dog:**
+   - We know that Tom's dog is three times as old as his rabbit. 
+   - Therefore, we calculate the age of the dog as follows:
+     \[
+     \text{Age of dog} = 3 \times \text{Age of rabbit} = 3 \times 4 = 12 \text{ years old}
+     \]
+   - In this step, we multiplied the rabbit's age by 3 to find the dog's age.
+
+Now we have determined that Tom's dog is 12 years old.
+</reasoning>
+<answer>12</answer>

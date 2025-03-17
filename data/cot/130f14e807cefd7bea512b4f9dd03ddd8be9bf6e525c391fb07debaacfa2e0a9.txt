@@ -1,0 +1,27 @@
+<reasoning>
+To determine how many more games the Giants need to win to make the playoffs, we first need to calculate the total number of games in the season and the number of games they need to win.
+
+1. **Total Games in the Season**: The Giants have already played 20 games and have 10 games left. So, the total number of games in the season is:
+   \[
+   \text{Total Games} = \text{Games Played} + \text{Games Left} = 20 + 10 = 30
+   \]
+
+2. **Games Needed to Win for Playoffs**: The team needs to win 2/3 of their total games to qualify for the playoffs. We can calculate the required number of wins:
+   \[
+   \text{Wins Required} = \frac{2}{3} \times \text{Total Games} = \frac{2}{3} \times 30 = 20
+   \]
+
+3. **Current Wins**: The Giants have already won 12 games. 
+
+4. **Wins Needed**: To find out how many more wins they need, we subtract the number of wins they currently have from the number of wins required:
+   \[
+   \text{Wins Needed} = \text{Wins Required} - \text{Current Wins} = 20 - 12 = 8
+   \]
+
+5. **Remaining Games**: The Giants have 10 games left to play.
+
+6. **Conclusion**: Since they need to win 8 out of the 10 remaining games to reach a total of 20 wins, we can now state how many games they need to win.
+
+Therefore, the Giants need to win 8 more games out of the 10 remaining to qualify for the playoffs.
+</reasoning>
+<answer>8</answer>

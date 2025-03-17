@@ -1,0 +1,21 @@
+<reasoning>
+To determine how many hotel rooms the principal needs to book for the class of 30 students, we first need to calculate how many students can fit in each hotel room.
+
+1. **Calculate the capacity of each room:**
+   - Each room has two queen size beds.
+   - Each queen size bed can fit 2 students, so:
+     - 2 beds × 2 students per bed = 4 students from the beds.
+   - Each room also has a pull-out couch, which can fit 1 student:
+     - 1 student from the pull-out couch.
+   - Therefore, the total capacity of one room is:
+     - 4 students (from beds) + 1 student (from couch) = 5 students per room.
+
+2. **Determine the total number of rooms needed:**
+   - We have 30 students who need to be accommodated.
+   - To find out how many rooms are needed, we divide the total number of students by the number of students that can fit in one room:
+     - 30 students ÷ 5 students per room = 6 rooms.
+   - Since this division results in a whole number, we find that 6 rooms are sufficient to fit all 30 students.
+
+Thus, the principal needs to book 6 rooms to accommodate all the students comfortably.
+</reasoning>
+<answer>6</answer>

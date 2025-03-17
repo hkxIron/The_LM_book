@@ -1,0 +1,41 @@
+<reasoning>
+To find the class average on the math test, we will follow these steps:
+
+1. **Determine the percentage of girls in the class**: 
+   Since 40% of the class is boys, the rest must be girls. To find the percentage of girls, we subtract the percentage of boys from 100%.
+   \[
+   \text{Percentage of girls} = 100\% - 40\% = 60\%
+   \]
+
+2. **Define the scores for boys and girls**: 
+   Each boy scores 80% and each girl scores 90% on the math test.
+
+3. **Calculate the weighted average score**: 
+   To find the average score for the entire class, we can use the formula for the weighted average, which takes into account the percentage of boys and girls:
+   \[
+   \text{Class average} = (\text{Percentage of boys} \times \text{Boys' score}) + (\text{Percentage of girls} \times \text{Girls' score})
+   \]
+   Substituting the values we have:
+   \[
+   \text{Class average} = (0.40 \times 80) + (0.60 \times 90)
+   \]
+
+4. **Calculate each part of the average**: 
+   First, calculate the contribution from the boys:
+   \[
+   0.40 \times 80 = 32
+   \]
+   Next, calculate the contribution from the girls:
+   \[
+   0.60 \times 90 = 54
+   \]
+
+5. **Add the contributions together**: 
+   Now, we add the scores from boys and girls to get the total class average:
+   \[
+   \text{Class average} = 32 + 54 = 86
+   \]
+
+Therefore, the class average on the test is 86%.
+</reasoning>
+<answer>86</answer>

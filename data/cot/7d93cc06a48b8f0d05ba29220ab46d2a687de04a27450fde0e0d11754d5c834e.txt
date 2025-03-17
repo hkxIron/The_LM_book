@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of cats Jacob has.** 
+   The problem states that Jacob has 90 cats. 
+   So, we have:
+   \[
+   \text{Jacob's cats} = 90
+   \]
+
+2. **Calculate the number of cats Annie has.** 
+   The problem says that Annie has three times fewer cats than Jacob. 
+   To find out how many cats Annie has, we need to divide the number of cats Jacob has by 3. This is because "three times fewer" means that Annie has 1/3 of the number of cats Jacob has.
+   \[
+   \text{Annie's cats} = \frac{\text{Jacob's cats}}{3} = \frac{90}{3} = 30
+   \]
+
+3. **Calculate the number of cats Melanie has.**
+   The problem states that Melanie has twice as many cats as Annie. To find out how many cats Melanie has, we multiply the number of cats Annie has by 2.
+   \[
+   \text{Melanie's cats} = 2 \times \text{Annie's cats} = 2 \times 30 = 60
+   \]
+
+Therefore, after calculating each step, we find that Melanie has 60 cats.
+</reasoning>
+<answer>60</answer>

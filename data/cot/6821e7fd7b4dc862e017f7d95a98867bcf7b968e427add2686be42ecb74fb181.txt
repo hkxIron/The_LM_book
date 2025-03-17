@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of plates and meatballs**: Each plate has 3 meatballs, and there are 3 sons. So, we first calculate the total number of meatballs across all plates:
+   \[
+   \text{Total meatballs} = \text{Number of plates} \times \text{Meatballs per plate} = 3 \, \text{sons} \times 3 \, \text{meatballs/plate} = 9 \, \text{meatballs}
+   \]
+
+2. **Determine how many meatballs each son eats**: Each son eats two-thirds of the meatballs on his plate. Since each plate has 3 meatballs, we calculate how many meatballs each son eats:
+   \[
+   \text{Meatballs eaten by each son} = \frac{2}{3} \times 3 = 2 \, \text{meatballs}
+   \]
+
+3. **Calculate the total number of meatballs eaten by all the sons**: Since there are 3 sons, the total number of meatballs eaten is:
+   \[
+   \text{Total meatballs eaten} = \text{Meatballs eaten by each son} \times \text{Number of sons} = 2 \, \text{meatballs/son} \times 3 \, \text{sons} = 6 \, \text{meatballs}
+   \]
+
+4. **Find out how many meatballs are left**: To find the total number of meatballs left on the plates, we subtract the total meatballs eaten from the total meatballs:
+   \[
+   \text{Meatballs left} = \text{Total meatballs} - \text{Total meatballs eaten} = 9 \, \text{meatballs} - 6 \, \text{meatballs} = 3 \, \text{meatballs}
+   \]
+
+Thus, the total number of meatballs still left on their plates altogether is 3.
+</reasoning>
+<answer>3</answer>

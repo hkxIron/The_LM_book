@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we need to first find out how much area is occupied by the 20 storage units that measure 8 by 4 feet. 
+
+1. **Calculate the area of one of the 20 units**:
+   The area of a rectangle is calculated by multiplying its length by its width. For one unit:
+   \[
+   \text{Area of one unit} = \text{length} \times \text{width} = 8 \, \text{feet} \times 4 \, \text{feet} = 32 \, \text{square feet}
+   \]
+
+2. **Calculate the total area of the 20 units**:
+   Now we multiply the area of one unit by the number of units to find the total area:
+   \[
+   \text{Total area of 20 units} = 20 \times 32 \, \text{square feet} = 640 \, \text{square feet}
+   \]
+
+3. **Subtract the area of the 20 units from the total area**:
+   We know the total area of all 42 units is 5040 square feet. To find the area left for the remaining units, we subtract the area of the 20 units from the total area:
+   \[
+   \text{Remaining area} = 5040 \, \text{square feet} - 640 \, \text{square feet} = 4400 \, \text{square feet}
+   \]
+
+4. **Determine the number of remaining units**:
+   Since there are a total of 42 storage units and 20 are already accounted for, the number of remaining units is:
+   \[
+   \text{Remaining units} = 42 - 20 = 22 \, \text{units}
+   \]
+
+5. **Calculate the area for one of the remaining units**:
+   To find the area of one remaining unit, we divide the remaining area by the number of remaining units:
+   \[
+   \text{Area of one remaining unit} = \frac{\text{Remaining area}}{\text{Remaining units}} = \frac{4400 \, \text{square feet}}{22}
+   \]
+
+6. **Perform the division**:
+   Now we perform the calculation:
+   \[
+   \text{Area of one remaining unit} = \frac{4400}{22} = 200 \, \text{square feet}
+   \]
+
+Thus, the area for one of the remaining units is 200 square feet.
+</reasoning>
+<answer>200</answer>

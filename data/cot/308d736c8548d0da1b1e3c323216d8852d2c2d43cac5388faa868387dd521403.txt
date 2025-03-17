@@ -1,0 +1,18 @@
+<reasoning>
+To find out how many friends received pebbles, we first need to determine the total number of pebbles Janice had. 
+
+1. Janice had three dozens of pebbles. A dozen equals 12, so we calculate the total number of pebbles she had by multiplying:
+   \[
+   3 \text{ dozens} \times 12 \text{ pebbles per dozen} = 36 \text{ pebbles}
+   \]
+   Here, we multiplied 3 (the number of dozens) by 12 (the number of pebbles in each dozen) to find the total number of pebbles.
+
+2. Next, we know that each friend received 4 pebbles. To find out how many friends received pebbles, we divide the total number of pebbles by the number of pebbles each friend received:
+   \[
+   \frac{36 \text{ pebbles}}{4 \text{ pebbles per friend}} = 9 \text{ friends}
+   \]
+   In this step, we divided the total number of pebbles by the number of pebbles each friend received to find the number of friends.
+
+Therefore, the total number of friends who received pebbles is 9.
+</reasoning>
+<answer>9</answer>

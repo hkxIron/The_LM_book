@@ -1,0 +1,23 @@
+<reasoning>
+Let's break this problem down step by step to find out how many coins Tina has left after the fifth hour.
+
+1. **First Hour**: Tina puts in 20 coins.
+   - Total coins after the first hour = 20 coins.
+
+2. **Second Hour**: Tina puts in 30 coins.
+   - Total coins after the second hour = 20 (previous total) + 30 = 50 coins.
+
+3. **Third Hour**: Tina puts in another 30 coins.
+   - Total coins after the third hour = 50 (previous total) + 30 = 80 coins.
+
+4. **Fourth Hour**: Tina puts in 40 coins.
+   - Total coins after the fourth hour = 80 (previous total) + 40 = 120 coins.
+
+5. **Fifth Hour**: Tina takes out 20 coins to lend to her mother.
+   - Total coins after the fifth hour = 120 (previous total) - 20 = 100 coins.
+
+Now, let's summarize the total number of coins Tina has after the fifth hour.
+
+Therefore, after calculating all the additions and the subtraction, we find that Tina has 100 coins left in the jar.
+</reasoning>
+<answer>100</answer>

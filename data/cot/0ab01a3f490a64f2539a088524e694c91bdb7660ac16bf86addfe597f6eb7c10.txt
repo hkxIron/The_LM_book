@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many days it will take Roberta to listen to her entire record collection, we will first calculate the total number of records she has and then determine how many days it will take her to listen to all of them.
+
+1. **Calculate the total number of records**:
+   - Roberta started with 8 records.
+   - Her friends gave her 12 records.
+   - She bought 30 more records.
+   
+   We will add these numbers together to find the total:
+
+   \[
+   \text{Total records} = 8 + 12 + 30
+   \]
+
+   Performing the addition:
+
+   \[
+   8 + 12 = 20
+   \]
+   \[
+   20 + 30 = 50
+   \]
+
+   So, Roberta has a total of 50 records.
+
+2. **Calculate the time it takes to listen to all records**:
+   - We know it takes Roberta 2 days to listen to 1 record.
+   - To find out how many days it will take her to listen to all 50 records, we will multiply the total number of records by the number of days it takes to listen to one record:
+
+   \[
+   \text{Total days} = 50 \times 2
+   \]
+
+   Performing the multiplication:
+
+   \[
+   50 \times 2 = 100
+   \]
+
+3. **Conclusion**:
+   Therefore, it will take Roberta 100 days to listen to her entire record collection.
+</reasoning>
+<answer>100</answer>

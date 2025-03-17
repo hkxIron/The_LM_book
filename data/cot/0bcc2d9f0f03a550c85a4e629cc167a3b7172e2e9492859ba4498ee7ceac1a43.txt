@@ -1,0 +1,31 @@
+<reasoning>
+To determine how tall Alexander will be on his 12th birthday, we need to calculate his height increase over the years from his 8th birthday to his 12th birthday.
+
+1. **Determine the number of years from his 8th to his 12th birthday**:
+   - Alexander is 8 years old on his 8th birthday and will be 12 years old on his 12th birthday. 
+   - The number of years between these two ages is \( 12 - 8 = 4 \) years.
+
+2. **Calculate the total growth over these 4 years**:
+   - Alexander grows \( \frac{1}{2} \) foot each year.
+   - Since there are 4 years, we multiply the growth per year by the number of years:
+     \[
+     \text{Total growth} = 4 \times \frac{1}{2} \text{ foot} = 2 \text{ feet}
+     \]
+
+3. **Convert feet to inches**:
+   - We need to convert the growth from feet to inches to add it to Alexander's height.
+   - There are 12 inches in a foot, so:
+     \[
+     2 \text{ feet} = 2 \times 12 \text{ inches} = 24 \text{ inches}
+     \]
+
+4. **Calculate Alexander's height on his 12th birthday**:
+   - He was 50 inches tall on his 8th birthday.
+   - To find his height on his 12th birthday, we add the total growth in inches to his height on his 8th birthday:
+     \[
+     \text{Height on 12th birthday} = 50 \text{ inches} + 24 \text{ inches} = 74 \text{ inches}
+     \]
+
+Therefore, after calculating each step clearly and logically, we find that Alexander will be 74 inches tall on his 12th birthday.
+</reasoning>
+<answer>74</answer>

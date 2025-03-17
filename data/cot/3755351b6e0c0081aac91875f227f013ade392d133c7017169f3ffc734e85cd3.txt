@@ -1,0 +1,52 @@
+<reasoning>
+Let's define Michael's current age as \( m \).
+
+1. **Understanding the oldest brother's age**:
+   - When Michael was a year younger, his age was \( m - 1 \).
+   - Twice Michael's age at that time is \( 2(m - 1) \).
+   - The oldest brother is 1 year older than this value, so we can express the oldest brother's age as:
+     \[
+     \text{Oldest Brother's Age} = 2(m - 1) + 1 = 2m - 2 + 1 = 2m - 1
+     \]
+
+2. **Understanding the younger brother's age**:
+   - We know the younger brother is currently 5 years old. According to the problem, this is a third of the age of the older brother:
+   \[
+   5 = \frac{1}{3} \times \text{Oldest Brother's Age}
+   \]
+   - To find the oldest brother's age, we rearrange this equation:
+   \[
+   \text{Oldest Brother's Age} = 5 \times 3 = 15
+   \]
+
+3. **Setting up the equation**:
+   - From our earlier expression for the oldest brother's age, we have:
+   \[
+   2m - 1 = 15
+   \]
+   - Now we can solve for \( m \):
+   \[
+   2m = 15 + 1 = 16
+   \]
+   \[
+   m = \frac{16}{2} = 8
+   \]
+   So, Michael's current age is \( 8 \) years.
+
+4. **Calculating the ages of the brothers**:
+   - The oldest brother's age, as we found earlier, is \( 15 \).
+   - The younger brother's age is given as \( 5 \).
+
+5. **Calculating their combined age**:
+   - Now we can find the combined age of Michael and his two brothers:
+   \[
+   \text{Combined Age} = m + \text{Oldest Brother's Age} + \text{Younger Brother's Age}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Combined Age} = 8 + 15 + 5 = 28
+   \]
+
+Therefore, the combined age of Michael and his brothers is:
+</reasoning>
+<answer>28</answer>

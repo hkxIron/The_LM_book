@@ -1,0 +1,26 @@
+<reasoning>
+To find out how much Pam had in her bank account at the beginning of the year, we need to work backwards from the information given.
+
+1. **Identify the current balance and the amount withdrawn**: We know that after Pam withdrew $250, her balance is $950. This means that before she made the withdrawal, her balance was $950 + $250.
+
+   \[
+   \text{Balance before withdrawal} = 950 + 250 = 1200
+   \]
+
+2. **Determine the balance at the beginning of the year**: We know that at the end of the year, Pam's balance tripled compared to the beginning of the year. Let \( x \) represent the balance at the beginning of the year. According to the information given, at the end of the year, her balance would be 3 times what she had at the start.
+
+   \[
+   3x = 1200
+   \]
+
+3. **Solve for \( x \)**: To find the initial balance \( x \), we divide both sides of the equation by 3.
+
+   \[
+   x = \frac{1200}{3} = 400
+   \]
+
+Now we have calculated that Pam's bank account balance at the beginning of the year was $400.
+
+Therefore, the initial balance in Pam's bank account was:
+</reasoning>
+<answer>400</answer>

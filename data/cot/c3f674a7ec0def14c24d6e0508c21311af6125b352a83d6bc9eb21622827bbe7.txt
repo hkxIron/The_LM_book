@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many shoes Olly needs for his pets, we first need to consider the number of pets he has and how many shoes each pet requires.
+
+1. **Identify the types of pets and their quantities:**
+   - Olly has 3 dogs.
+   - Olly has 2 cats.
+   - Olly has 1 ferret.
+
+2. **Determine how many shoes are needed for each type of pet:**
+   - Each dog has 4 paws, so for 3 dogs:  
+     \( 3 \text{ dogs} \times 4 \text{ paws/dog} = 12 \text{ shoes} \)
+   - Each cat also has 4 paws, so for 2 cats:  
+     \( 2 \text{ cats} \times 4 \text{ paws/cat} = 8 \text{ shoes} \)
+   - The ferret has 4 paws, so for 1 ferret:  
+     \( 1 \text{ ferret} \times 4 \text{ paws/ferret} = 4 \text{ shoes} \)
+
+3. **Add the total number of shoes needed for all pets:**
+   - Total shoes = Shoes for dogs + Shoes for cats + Shoes for ferret:  
+     \( 12 \text{ shoes (dogs)} + 8 \text{ shoes (cats)} + 4 \text{ shoes (ferret)} = 24 \text{ shoes} \)
+
+Therefore, Olly needs a total of 24 shoes to protect the paws of all his pets.
+</reasoning>
+<answer>24</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much more money Christopher has compared to Karen, we first need to determine the value of the quarters each of them has.
+
+1. **Calculate the value of Karen's quarters:**
+   - Karen has 32 quarters.
+   - Each quarter is worth $0.25.
+   - To find the total value of Karen's quarters, we multiply the number of quarters by the value of each quarter:
+     \[
+     \text{Value of Karen's quarters} = 32 \times 0.25 = 8 \text{ dollars}
+     \]
+
+2. **Calculate the value of Christopher's quarters:**
+   - Christopher has 64 quarters.
+   - Each quarter is still worth $0.25.
+   - To find the total value of Christopher's quarters, we multiply the number of quarters by the value of each quarter:
+     \[
+     \text{Value of Christopher's quarters} = 64 \times 0.25 = 16 \text{ dollars}
+     \]
+
+3. **Find the difference in value between Christopher's and Karen's money:**
+   - Now we subtract the value of Karen's money from the value of Christopher's money to find out how much more money Christopher has:
+     \[
+     \text{Difference} = \text{Value of Christopher's quarters} - \text{Value of Karen's quarters} = 16 - 8 = 8 \text{ dollars}
+     \]
+
+Therefore, Christopher has $8 more than Karen.
+</reasoning>
+<answer>8</answer>

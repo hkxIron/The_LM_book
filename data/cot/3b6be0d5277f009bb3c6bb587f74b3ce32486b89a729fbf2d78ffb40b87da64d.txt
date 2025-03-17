@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many uncommon cards John got, we will follow these steps:
+
+1. **Determine the total number of cards John bought**: 
+   John buys 10 packs of magic cards, and each pack contains 20 cards. To find the total number of cards, we multiply the number of packs by the number of cards per pack:
+   \[
+   \text{Total cards} = \text{Number of packs} \times \text{Cards per pack} = 10 \times 20
+   \]
+   Calculating this gives:
+   \[
+   \text{Total cards} = 200
+   \]
+   This means John has a total of 200 cards.
+
+2. **Calculate the number of uncommon cards**:
+   We know that 1/4 of the total cards are uncommon. To find the number of uncommon cards, we multiply the total number of cards by 1/4:
+   \[
+   \text{Uncommon cards} = \text{Total cards} \times \frac{1}{4} = 200 \times \frac{1}{4}
+   \]
+   Performing this multiplication gives:
+   \[
+   \text{Uncommon cards} = 200 \div 4 = 50
+   \]
+
+Therefore, John has a total of 50 uncommon cards.
+</reasoning>
+<answer>50</answer>

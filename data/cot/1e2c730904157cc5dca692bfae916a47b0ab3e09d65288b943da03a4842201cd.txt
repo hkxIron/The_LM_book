@@ -1,0 +1,38 @@
+<reasoning>
+To find the total number of tomato seeds that Mike and Ted planted altogether, we need to calculate the number of seeds each of them planted in the morning and afternoon, and then sum these amounts.
+
+1. **Calculate the seeds planted in the morning:**
+   - Mike planted 50 seeds.
+   - Ted planted twice as much as Mike. 
+     \[
+     \text{Seeds planted by Ted in the morning} = 2 \times 50 = 100
+     \]
+
+2. **Calculate the total seeds planted in the morning:**
+   - Total seeds planted in the morning is the sum of the seeds planted by Mike and Ted.
+     \[
+     \text{Total morning seeds} = 50 + 100 = 150
+     \]
+
+3. **Calculate the seeds planted in the afternoon:**
+   - Mike planted 60 seeds in the afternoon.
+   - Ted planted 20 fewer seeds than Mike.
+     \[
+     \text{Seeds planted by Ted in the afternoon} = 60 - 20 = 40
+     \]
+
+4. **Calculate the total seeds planted in the afternoon:**
+   - Total seeds planted in the afternoon is the sum of the seeds planted by Mike and Ted.
+     \[
+     \text{Total afternoon seeds} = 60 + 40 = 100
+     \]
+
+5. **Calculate the total seeds planted altogether:**
+   - Now, we sum the total seeds planted in the morning and the afternoon.
+     \[
+     \text{Total seeds planted altogether} = 150 + 100 = 250
+     \]
+
+Therefore, after calculating all the seeds planted by Mike and Ted in both the morning and afternoon, we find that they planted a total of 250 seeds.
+</reasoning>
+<answer>250</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To solve this problem, we need to determine how many orange balls Adam has, given the total number of balls and the ratio of pink to orange balls.
+
+1. **Identify the total number of balls:** Adam has 50 balls in total.
+
+2. **Determine the number of red and blue balls:** Adam has 20 red balls and 10 blue balls. 
+   - Therefore, the total number of red and blue balls combined is:
+     \[
+     20 \text{ (red)} + 10 \text{ (blue)} = 30 \text{ balls}
+     \]
+
+3. **Calculate the remaining balls:** Since there are 50 balls in total, we subtract the number of red and blue balls to find the number of pink and orange balls:
+   \[
+   50 \text{ (total balls)} - 30 \text{ (red and blue balls)} = 20 \text{ (pink and orange balls)}
+   \]
+
+4. **Set up the relationship between pink and orange balls:** We know that there are 3 times as many pink balls as there are orange balls. Let's denote the number of orange balls as \( x \). Then the number of pink balls would be \( 3x \).
+
+5. **Write the equation based on the total number of pink and orange balls:** The total number of pink and orange balls is 20, so we can write the equation:
+   \[
+   3x + x = 20
+   \]
+
+6. **Combine like terms:** This simplifies to:
+   \[
+   4x = 20
+   \]
+
+7. **Solve for \( x \):** Dividing both sides by 4 gives us:
+   \[
+   x = \frac{20}{4} = 5
+   \]
+
+Thus, the number of orange balls is 5.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>5</answer>

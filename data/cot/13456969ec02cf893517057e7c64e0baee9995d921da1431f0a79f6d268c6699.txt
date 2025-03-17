@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we will break it down step by step.
+
+1. **Calculate Lowella's Score**: 
+   Lowella answered 35% of the questions correctly on a 100-item exam. To find the number of correct answers, we calculate:
+   \[
+   \text{Lowella's Score} = 35\% \times 100 = \frac{35}{100} \times 100 = 35
+   \]
+   This means Lowella got 35 questions correct. 
+
+2. **Calculate Pamela's Score**: 
+   Pamela got 20% more correct answers than Lowella. First, we need to calculate what 20% of Lowella's score is:
+   \[
+   20\% \text{ of Lowella's Score} = 0.20 \times 35 = 7
+   \]
+   So, Pamela's score is:
+   \[
+   \text{Pamela's Score} = \text{Lowella's Score} + 20\% \text{ of Lowella's Score} = 35 + 7 = 42
+   \]
+   This means Pamela got 42 questions correct.
+
+3. **Calculate Mandy's Score**: 
+   Mandy got twice Pamela's score. Therefore, we calculate:
+   \[
+   \text{Mandy's Score} = 2 \times \text{Pamela's Score} = 2 \times 42 = 84
+   \]
+   This means Mandy got 84 questions correct.
+
+Finally, putting all the calculations together, we find that Mandy's score is:
+</reasoning>
+<answer>84</answer>

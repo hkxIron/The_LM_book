@@ -1,0 +1,42 @@
+<reasoning>
+To find out how many tomatoes Uncle Jerry reaped today, we first need to determine how many tomatoes he reaped yesterday, which is already given as 120 tomatoes.
+
+Next, we will calculate how many tomatoes he reaped today. We know from the problem that today he reaped 50 more tomatoes than he did yesterday. Therefore, we will add 50 to the number of tomatoes he reaped yesterday.
+
+Here are the calculations step-by-step:
+
+1. **Identify the number of tomatoes reaped yesterday**: This is given as 120 tomatoes.
+
+2. **Determine the number of additional tomatoes reaped today**: Uncle Jerry reaped 50 more tomatoes than yesterday. So, we will calculate:
+   \[
+   \text{Tomatoes reaped today} = \text{Tomatoes reaped yesterday} + 50
+   \]
+
+3. **Substituting the known value**:
+   \[
+   \text{Tomatoes reaped today} = 120 + 50
+   \]
+
+4. **Perform the addition**:
+   \[
+   \text{Tomatoes reaped today} = 170
+   \]
+
+5. **Now, we need to find the total number of tomatoes reaped over the two days**. We will add the tomatoes reaped yesterday to the tomatoes reaped today:
+   \[
+   \text{Total tomatoes} = \text{Tomatoes reaped yesterday} + \text{Tomatoes reaped today}
+   \]
+
+6. **Substituting the values**:
+   \[
+   \text{Total tomatoes} = 120 + 170
+   \]
+
+7. **Perform the addition**:
+   \[
+   \text{Total tomatoes} = 290
+   \]
+
+Thus, Uncle Jerry reaped a total of 290 tomatoes over the two days.
+</reasoning>
+<answer>290</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+To find out how much each gift cost, we first need to determine the total number of teachers Harper is buying gifts for. 
+
+1. **Count the number of teachers**: 
+   - Harper's son has 3 teachers.
+   - Harper's daughter has 4 teachers.
+   - Therefore, the total number of teachers is \( 3 + 4 = 7 \).
+
+2. **Calculate the cost per gift**:
+   - Harper spent a total of $70 on gifts for these 7 teachers.
+   - To find out how much each gift cost, we need to divide the total amount spent by the total number of teachers. This can be calculated as follows:
+   \[
+   \text{Cost per gift} = \frac{\text{Total amount spent}}{\text{Total number of gifts}} = \frac{70}{7}
+   \]
+
+3. **Perform the division**:
+   - Now, we calculate \( \frac{70}{7} \) which equals 10.
+
+Therefore, each gift cost $10.
+</reasoning>
+<answer>10</answer>

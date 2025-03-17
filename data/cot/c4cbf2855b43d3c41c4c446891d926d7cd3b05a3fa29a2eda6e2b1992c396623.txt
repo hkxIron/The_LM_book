@@ -1,0 +1,34 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the total number of eggs Addilynn bought**: 
+   - Addilynn bought six dozen eggs. Since one dozen equals 12 eggs, we calculate the total number of eggs as follows:
+   \[
+   6 \text{ dozen} \times 12 \text{ eggs/dozen} = 72 \text{ eggs}
+   \]
+   This means Addilynn initially had 72 eggs.
+
+2. **Calculate how many eggs she used after two weeks**:
+   - After two weeks, Addilynn used half of the eggs. To find out how many eggs that is, we divide the total number of eggs by 2:
+   \[
+   \frac{72 \text{ eggs}}{2} = 36 \text{ eggs}
+   \]
+   So, she used 36 eggs.
+
+3. **Determine how many eggs are left after using half**:
+   - We subtract the number of eggs used from the total number of eggs:
+   \[
+   72 \text{ eggs} - 36 \text{ eggs} = 36 \text{ eggs}
+   \]
+   After using half, Addilynn has 36 eggs left.
+
+4. **Account for the eggs that were broken**:
+   - Addilynn accidentally broke 15 of the remaining eggs. We need to subtract the broken eggs from the number she has left:
+   \[
+   36 \text{ eggs} - 15 \text{ eggs} = 21 \text{ eggs}
+   \]
+   Therefore, after breaking 15 eggs, Addilynn has 21 eggs left on the shelf.
+
+Finally, we conclude that after all the usage and breakage, the number of eggs left on the shelf is:
+</reasoning>
+<answer>21</answer>

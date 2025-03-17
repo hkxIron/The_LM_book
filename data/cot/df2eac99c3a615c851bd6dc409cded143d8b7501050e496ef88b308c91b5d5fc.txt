@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many wooden planks Colbert needs to buy from the store, we will break down the problem step by step.
+
+1. **Total Wooden Planks Needed**: The total number of wooden planks needed for the treehouse is given as 200.
+
+2. **Planks from Storage**: We know that a quarter of the planks come from Colbert's storage. To find out how many planks this is, we calculate:
+   \[
+   \text{Planks from storage} = \frac{1}{4} \times 200 = 50
+   \]
+   So, Colbert has 50 planks from his storage.
+
+3. **Planks from Parents**: Next, we know that half of the planks come from Colbert's parents. To find this amount, we calculate:
+   \[
+   \text{Planks from parents} = \frac{1}{2} \times 200 = 100
+   \]
+   Therefore, Colbert gets 100 planks from his parents.
+
+4. **Planks from Friends**: It's stated that Colbert receives 20 planks from his friends. 
+
+5. **Total Planks Collected So Far**: Now, we will add up the planks that Colbert has received from all sources:
+   \[
+   \text{Total planks collected} = \text{Planks from storage} + \text{Planks from parents} + \text{Planks from friends}
+   \]
+   \[
+   = 50 + 100 + 20 = 170
+   \]
+   So, Colbert has collected a total of 170 planks.
+
+6. **Planks to Buy**: To find out how many planks Colbert still needs to buy from the store, we subtract the total planks collected from the total planks needed:
+   \[
+   \text{Planks to buy} = \text{Total planks needed} - \text{Total planks collected}
+   \]
+   \[
+   = 200 - 170 = 30
+   \]
+
+Therefore, Colbert needs to buy 30 planks from the store to complete his treehouse.
+</reasoning>
+<answer>30</answer>

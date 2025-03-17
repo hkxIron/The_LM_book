@@ -1,0 +1,24 @@
+<reasoning>
+To find out how long it will take Walter to cook all the hushpuppies, we will follow these steps:
+
+1. **Calculate the total number of hushpuppies needed**: 
+   Each guest is expected to eat 5 hushpuppies, and there are 20 guests. Therefore, the total number of hushpuppies needed is calculated by multiplying the number of guests by the number of hushpuppies each will eat:
+   \[
+   \text{Total hushpuppies} = 20 \text{ guests} \times 5 \text{ hushpuppies/guest} = 100 \text{ hushpuppies}
+   \]
+
+2. **Determine the cooking rate**: 
+   Walter can cook 10 hushpuppies in 8 minutes. This means we need to find out how many batches of hushpuppies he will need to cook:
+   \[
+   \text{Number of batches} = \frac{\text{Total hushpuppies}}{\text{Hushpuppies per batch}} = \frac{100 \text{ hushpuppies}}{10 \text{ hushpuppies/batch}} = 10 \text{ batches}
+   \]
+
+3. **Calculate the total cooking time**: 
+   Since each batch takes 8 minutes to cook, we multiply the number of batches by the time per batch:
+   \[
+   \text{Total cooking time} = \text{Number of batches} \times \text{Time per batch} = 10 \text{ batches} \times 8 \text{ minutes/batch} = 80 \text{ minutes}
+   \]
+
+Therefore, the total time it will take Walter to cook all the hushpuppies is 80 minutes.
+</reasoning>
+<answer>80</answer>

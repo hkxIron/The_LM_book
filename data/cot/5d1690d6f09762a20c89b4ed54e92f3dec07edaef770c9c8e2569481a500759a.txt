@@ -1,0 +1,39 @@
+<reasoning>
+Let's analyze the two offers step by step.
+
+1. **First Offer Calculation:**
+   - The first buyer offers to pay the full price of $5200, but Chris has to pay for the car maintenance inspection.
+   - The cost of the inspection is a tenth of Chris's asking price, which is calculated as follows:
+     \[
+     \text{Cost of inspection} = \frac{1}{10} \times 5200 = 520
+     \]
+   - Therefore, the amount Chris will earn from the first offer after paying for the inspection is:
+     \[
+     \text{Earnings from first offer} = 5200 - 520 = 4680
+     \]
+
+2. **Second Offer Calculation:**
+   - The second buyer agrees to pay the full price of $5200, but Chris needs to replace the headlights and tires.
+   - The cost for the headlights is $80.
+   - The cost for the tires is three times the cost of the headlights:
+     \[
+     \text{Cost of tires} = 3 \times 80 = 240
+     \]
+   - The total cost for the repairs (headlights and tires) is:
+     \[
+     \text{Total repair cost} = 80 + 240 = 320
+     \]
+   - Therefore, the amount Chris will earn from the second offer after paying for the repairs is:
+     \[
+     \text{Earnings from second offer} = 5200 - 320 = 4880
+     \]
+
+3. **Calculating the Difference:**
+   - Now, we need to find the difference between the amounts Chris will earn from the two offers:
+     \[
+     \text{Difference} = 4880 - 4680 = 200
+     \]
+
+Thus, the difference between the amounts Chris will earn from the two offers is $200.
+</reasoning>
+<answer>200</answer>

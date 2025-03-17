@@ -1,0 +1,28 @@
+<reasoning>
+First, we need to determine the total amount of ribbon Sammy will use to wrap all 8 gifts. Since each gift requires 1.5 meters of ribbon, we can calculate the total ribbon needed by multiplying the number of gifts by the amount of ribbon per gift.
+
+1. Calculate the total ribbon needed:
+   \[
+   \text{Total ribbon needed} = \text{Number of gifts} \times \text{Ribbon per gift} = 8 \times 1.5
+   \]
+
+   Performing the multiplication:
+   \[
+   8 \times 1.5 = 12 \text{ meters}
+   \]
+
+   So, Sammy needs a total of 12 meters of ribbon to wrap all 8 gifts.
+
+2. Now, we need to find out how much ribbon will be left from Tom's original 15 meters after Sammy uses 12 meters. We do this by subtracting the total ribbon used from the original amount of ribbon Tom has:
+   \[
+   \text{Ribbon left} = \text{Original ribbon} - \text{Total ribbon used} = 15 - 12
+   \]
+
+   Performing the subtraction:
+   \[
+   15 - 12 = 3 \text{ meters}
+   \]
+
+Thus, after wrapping all the gifts, Tom will have 3 meters of ribbon left.
+</reasoning>
+<answer>3</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+First, we need to determine the total length of the rope Tom needs to lower down 6 stories. Since one story is 10 feet, we can calculate the total height by multiplying the number of stories by the height of each story.
+
+Total height = Number of stories × Height of one story  
+Total height = 6 stories × 10 feet/story = 60 feet
+
+Now, we know that Tom needs 60 feet of rope.
+
+Next, we need to consider the rope being sold. Each piece of rope is 20 feet long, but when lashing them together, Tom loses 25% of the total length. This means that only 75% of the combined length will be usable.
+
+Let's calculate how much usable length he gets from lashing together two pieces of rope:
+
+Length after lashing = Total length of rope × Usable percentage  
+If Tom buys 2 pieces of rope (each 20 feet), the total length before lashing is:  
+Total length = 2 pieces × 20 feet/piece = 40 feet  
+
+Now, calculate the usable length:  
+Usable length = 40 feet × 0.75 = 30 feet
+
+Since 30 feet is not enough (he needs 60 feet), we will check what happens when he buys a third piece of rope.
+
+If he buys 3 pieces of rope:  
+Total length = 3 pieces × 20 feet/piece = 60 feet  
+Usable length = 60 feet × 0.75 = 45 feet
+
+Still not enough, so we will check with 4 pieces of rope.
+
+If he buys 4 pieces of rope:  
+Total length = 4 pieces × 20 feet/piece = 80 feet  
+Usable length = 80 feet × 0.75 = 60 feet
+
+Now, with 4 pieces of rope, Tom has exactly 60 feet of usable rope, which is sufficient for his needs.
+
+Thus, Tom needs to buy 4 pieces of rope.
+</reasoning>
+<answer>4</answer>

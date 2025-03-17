@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we first need to understand the work done by one person and how adding a second person affects the total time needed to complete the task.
+
+1. **Calculate the work done by one person**: 
+   - One person takes 10 hours to solve the problem. We can think of the total work required to solve the problem as 1 "problem" unit. 
+   - Therefore, the work rate of one person is 1 problem per 10 hours, which can be expressed as:
+     \[
+     \text{Work rate of 1 person} = \frac{1 \text{ problem}}{10 \text{ hours}} = 0.1 \text{ problems per hour}
+     \]
+
+2. **Calculate the combined work rate of two people**:
+   - If we add a second person who works at the same rate, the combined work rate of the two people is:
+     \[
+     \text{Combined work rate} = 0.1 \text{ problems per hour} + 0.1 \text{ problems per hour} = 0.2 \text{ problems per hour}
+     \]
+
+3. **Determine the time required for both people to solve the problem**:
+   - To find out how long it takes for both people to complete 1 problem at a combined rate of 0.2 problems per hour, we can use the formula:
+     \[
+     \text{Time} = \frac{\text{Total work}}{\text{Work rate}} = \frac{1 \text{ problem}}{0.2 \text{ problems per hour}} = 5 \text{ hours}
+     \]
+
+Therefore, with both people working together, they will be able to solve the problem in 5 hours.
+</reasoning>
+<answer>5</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Initial Setup**: Carter starts with 20 green M&Ms and 20 red M&Ms. This means:
+   - Green M&Ms = 20
+   - Red M&Ms = 20
+
+2. **Carter Eats Green M&Ms**: Carter eats 12 of the green M&Ms. We need to subtract 12 from the green M&Ms he has:
+   - Remaining green M&Ms = 20 - 12 = 8
+
+3. **Sister Eats Red M&Ms**: His sister comes and eats half of the red M&Ms. Since there are 20 red M&Ms, half of that is:
+   - Half of red M&Ms = 20 / 2 = 10
+   - Remaining red M&Ms = 20 - 10 = 10
+
+4. **Sister Adds Yellow M&Ms**: His sister adds 14 yellow M&Ms to the jar. Now we need to calculate the total number of M&Ms after this addition:
+   - Total yellow M&Ms = 14
+   - Total M&Ms in the jar now = Remaining green M&Ms + Remaining red M&Ms + Yellow M&Ms
+   - Total M&Ms = 8 (green) + 10 (red) + 14 (yellow) = 32
+
+5. **Calculating the Percentage Chance**: Now we need to find the percentage chance that Carter will pick a green M&M. The formula for probability is:
+   \[
+   \text{Probability of picking a green M&M} = \frac{\text{Number of green M&Ms}}{\text{Total number of M&Ms}} \times 100
+   \]
+   Substituting the values we have:
+   \[
+   \text{Probability} = \frac{8}{32} \times 100
+   \]
+
+6. **Performing the Calculation**: 
+   - First, calculate \( \frac{8}{32} = 0.25 \)
+   - Then, multiply by 100 to find the percentage:
+   \[
+   0.25 \times 100 = 25
+   \]
+
+Therefore, the percentage chance that Carter will pick a green M&M is 25%.
+</reasoning>
+<answer>25</answer>

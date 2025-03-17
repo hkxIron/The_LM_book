@@ -1,0 +1,20 @@
+<reasoning>
+To find out how much Daphney will pay for 5 kg of potatoes, we first need to determine the cost per kilogram based on the given information. 
+
+1. **Calculate the cost per kilogram**: We know that 2 kg of potatoes costs $6. To find the cost for 1 kg, we can divide the total cost by the weight:
+
+   \[
+   \text{Cost per kg} = \frac{\text{Total cost}}{\text{Weight}} = \frac{6}{2} = 3
+   \]
+
+   So, the cost per kg of potatoes is $3.
+
+2. **Calculate the total cost for 5 kg**: Now that we know the cost per kg, we can multiply it by the number of kilograms Daphney wants to buy:
+
+   \[
+   \text{Total cost for 5 kg} = \text{Cost per kg} \times \text{Weight} = 3 \times 5 = 15
+   \]
+
+   Therefore, Daphney will pay $15 for 5 kg of potatoes.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many times Michael cleans himself in 52 weeks, we need to calculate the total number of baths and showers he takes in that time frame.
+
+1. **Calculate the number of baths in a year:**
+   - Michael takes a bath twice a week.
+   - In 52 weeks, the total number of baths is:
+     \[
+     2 \text{ baths/week} \times 52 \text{ weeks} = 104 \text{ baths}
+     \]
+
+2. **Calculate the number of showers in a year:**
+   - Michael takes a shower once a week.
+   - In 52 weeks, the total number of showers is:
+     \[
+     1 \text{ shower/week} \times 52 \text{ weeks} = 52 \text{ showers}
+     \]
+
+3. **Add the total baths and showers:**
+   - Now, we need to find the total number of times Michael cleans himself by adding the total baths and showers:
+     \[
+     104 \text{ baths} + 52 \text{ showers} = 156 \text{ total cleanings}
+     \]
+
+Therefore, after calculating the number of baths and showers he takes in a year, we find that Michael cleans himself a total of 156 times in 52 weeks.
+</reasoning>
+<answer>156</answer>

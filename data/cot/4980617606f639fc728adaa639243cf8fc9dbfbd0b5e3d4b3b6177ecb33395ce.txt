@@ -1,0 +1,31 @@
+<reasoning>
+To find out how much John personally has to pay for his hearing aids, let's break down the problem step by step.
+
+1. **Calculate the total cost of the hearing aids**: 
+   John needs to replace both hearing aids, and each costs $2500. Therefore, we first calculate the total cost by multiplying the cost of one hearing aid by the number of hearing aids:
+
+   Total cost = Cost per hearing aid × Number of hearing aids
+   Total cost = $2500 × 2
+   Total cost = $5000
+
+   This means that the total cost for both hearing aids is $5000.
+
+2. **Calculate the amount covered by insurance**:
+   The insurance covers 80% of the total cost. To find out how much that is, we multiply the total cost by the insurance coverage percentage:
+
+   Amount covered by insurance = Total cost × Insurance coverage percentage
+   Amount covered by insurance = $5000 × 0.80
+   Amount covered by insurance = $4000
+
+   So, the insurance will cover $4000 of the total cost.
+
+3. **Calculate John's out-of-pocket expense**:
+   Finally, we need to determine how much John has to pay personally. This is done by subtracting the amount covered by insurance from the total cost:
+
+   John's payment = Total cost - Amount covered by insurance
+   John's payment = $5000 - $4000
+   John's payment = $1000
+
+   Therefore, John personally has to pay $1000 for the hearing aids.
+</reasoning>
+<answer>1000</answer>

@@ -1,0 +1,49 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Investment**: Jim starts with $80.
+   
+   **Reasoning**: We need to keep track of the initial amount to calculate the growth over the years.
+
+2. **Growth After 1 Year**: The portfolio grows by 15%. We can calculate the amount after the first year using the formula for percentage increase:
+   \[
+   \text{New Amount} = \text{Initial Amount} + (\text{Initial Amount} \times \text{Percentage Increase})
+   \]
+   In this case:
+   \[
+   \text{New Amount} = 80 + (80 \times 0.15)
+   \]
+   Calculating this step:
+   \[
+   80 \times 0.15 = 12
+   \]
+   Therefore:
+   \[
+   \text{New Amount} = 80 + 12 = 92
+   \]
+
+3. **Adding Amount**: After the first year, Jim adds $28 to his portfolio:
+   \[
+   \text{Total Amount After Addition} = 92 + 28
+   \]
+   Calculating this step:
+   \[
+   92 + 28 = 120
+   \]
+
+4. **Growth After 2 Years**: Now, the combined portfolio of $120 grows by 10%. Again, we can calculate this using the same percentage increase formula:
+   \[
+   \text{Final Amount} = 120 + (120 \times 0.10)
+   \]
+   Calculating this step:
+   \[
+   120 \times 0.10 = 12
+   \]
+   Therefore:
+   \[
+   \text{Final Amount} = 120 + 12 = 132
+   \]
+
+By following these steps, we've calculated Jim's final portfolio worth after 2 years.
+</reasoning>
+<answer>132</answer>

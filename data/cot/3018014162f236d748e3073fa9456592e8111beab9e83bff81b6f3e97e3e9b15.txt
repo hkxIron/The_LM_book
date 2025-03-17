@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we need to follow these steps:
+
+1. **Determine the number of hours in a typical Earth day.**
+   A typical Earth day has 24 hours.
+
+2. **Calculate twice the number of hours in a typical Earth day.**
+   Since we found that there are 24 hours in a day, we calculate:
+   \[
+   2 \times 24 = 48 \text{ hours}
+   \]
+
+3. **Determine the time taken for the voyage.**
+   According to the problem, the voyage took eight hours less than twice the number of hours in a typical Earth day. Thus, we subtract 8 hours from the previously calculated 48 hours:
+   \[
+   48 - 8 = 40 \text{ hours}
+   \]
+
+4. **Calculate the average speed.**
+   The average speed can be found using the formula:
+   \[
+   \text{Average speed} = \frac{\text{Distance}}{\text{Time}}
+   \]
+   The distance between Planet X and Planet Y is given as 4,000 parsecs, and we have determined that the time taken for the voyage is 40 hours. Therefore:
+   \[
+   \text{Average speed} = \frac{4000 \text{ parsecs}}{40 \text{ hours}} = 100 \text{ parsecs per hour}
+   \]
+
+Thus, we have calculated the average speed of the Starship Conundrum during its voyage.
+</reasoning>
+<answer>100</answer>

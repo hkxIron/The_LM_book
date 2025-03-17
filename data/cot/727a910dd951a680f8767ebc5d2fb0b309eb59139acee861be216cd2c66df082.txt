@@ -1,0 +1,52 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the current ages based on the information given**:
+   - We're told that Jeremy's current age is 40.
+   - Sebastian is 4 years older than Jeremy. So, we calculate Sebastian's age:
+     \[
+     \text{Sebastian's age} = \text{Jeremy's age} + 4 = 40 + 4 = 44
+     \]
+   - Now we have Jeremy's age as 40 and Sebastian's age as 44.
+
+2. **Set up the equation for Sophia's current age**:
+   - Let Sophia's current age be \( S \).
+   - According to the problem, the sum of their ages in three years will be 150. In three years, their ages will be:
+     - Jeremy: \( 40 + 3 = 43 \)
+     - Sebastian: \( 44 + 3 = 47 \)
+     - Sophia: \( S + 3 \)
+   - So we can write the equation for the sum of their ages in three years:
+     \[
+     (40 + 3) + (44 + 3) + (S + 3) = 150
+     \]
+
+3. **Simplify the equation**:
+   - First, simplify the left side:
+     \[
+     43 + 47 + (S + 3) = 150
+     \]
+   - Combine the constants:
+     \[
+     90 + S + 3 = 150
+     \]
+   - This simplifies to:
+     \[
+     S + 93 = 150
+     \]
+
+4. **Solve for Sophia's current age**:
+   - Subtract 93 from both sides to isolate \( S \):
+     \[
+     S = 150 - 93 = 57
+     \]
+   - So, Sophia's current age is 57.
+
+5. **Calculate Sophia's age in three years**:
+   - To find Sophia's age three years from now, add 3 to her current age:
+     \[
+     \text{Sophia's age in 3 years} = 57 + 3 = 60
+     \]
+
+Thus, Sophia's age three years from now will be 60.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step, calculating how many crates Gabrielle sells each day and then summing them to find the total.
+
+1. **Monday's Sales**: 
+   Gabrielle sells 5 crates of eggs on Monday. 
+   \[
+   \text{Monday} = 5 \text{ crates}
+   \]
+
+2. **Tuesday's Sales**: 
+   On Tuesday, she sells 2 times as many crates as she did on Monday. 
+   \[
+   \text{Tuesday} = 2 \times \text{Monday} = 2 \times 5 = 10 \text{ crates}
+   \]
+
+3. **Wednesday's Sales**: 
+   On Wednesday, she sells 2 fewer crates than she did on Tuesday. 
+   \[
+   \text{Wednesday} = \text{Tuesday} - 2 = 10 - 2 = 8 \text{ crates}
+   \]
+
+4. **Thursday's Sales**: 
+   On Thursday, she sells half as many crates as she sells on Tuesday. 
+   \[
+   \text{Thursday} = \frac{1}{2} \times \text{Tuesday} = \frac{1}{2} \times 10 = 5 \text{ crates}
+   \]
+
+5. **Total Crates Sold**: 
+   Now we will sum the crates sold over the four days.
+   \[
+   \text{Total} = \text{Monday} + \text{Tuesday} + \text{Wednesday} + \text{Thursday}
+   \]
+   \[
+   \text{Total} = 5 + 10 + 8 + 5 = 28 \text{ crates}
+   \]
+
+Therefore, the total number of crates of eggs Gabrielle sells over the four days is 28.
+</reasoning>
+<answer>28</answer>

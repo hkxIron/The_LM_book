@@ -1,0 +1,29 @@
+<reasoning>
+To determine the total amount of water the farmer can carry in his trucks, we will calculate the capacity of one truck first and then multiply that by the number of trucks.
+
+1. **Calculate the capacity of one truck**: 
+   Each truck has three tanks, and each tank can hold 150 liters of water. 
+   So, the capacity of one truck is:
+   \[
+   \text{Capacity of one truck} = \text{Number of tanks} \times \text{Capacity of each tank}
+   \]
+   Substituting the values:
+   \[
+   \text{Capacity of one truck} = 3 \text{ tanks} \times 150 \text{ liters/tank} = 450 \text{ liters}
+   \]
+   This means one truck can carry 450 liters of water.
+
+2. **Calculate the total capacity of all three trucks**:
+   Now, since the farmer has three trucks, we multiply the capacity of one truck by the number of trucks:
+   \[
+   \text{Total capacity} = \text{Capacity of one truck} \times \text{Number of trucks}
+   \]
+   Substituting the values:
+   \[
+   \text{Total capacity} = 450 \text{ liters/truck} \times 3 \text{ trucks} = 1350 \text{ liters}
+   \]
+   This means that all three trucks together can carry 1350 liters of water.
+
+Therefore, the total amount of water the farmer can carry in his trucks is:
+</reasoning>
+<answer>1350</answer>

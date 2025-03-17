@@ -1,0 +1,45 @@
+<reasoning>
+To solve this problem, we need to use the information given about the perimeter of the rectangular sandbox and the relationship between the length and width.
+
+1. **Define the variables**:
+   - Let \( w \) be the width of the sandbox.
+   - Since the length is twice the width, we can express the length \( l \) in terms of \( w \): 
+   \[
+   l = 2w
+   \]
+
+2. **Write the formula for the perimeter**:
+   The formula for the perimeter \( P \) of a rectangle is given by:
+   \[
+   P = 2l + 2w
+   \]
+   We know from the problem that the perimeter is 30 feet. So we can set up the equation:
+   \[
+   2l + 2w = 30
+   \]
+
+3. **Substitute the expression for length**:
+   Now we substitute \( l = 2w \) into the perimeter equation:
+   \[
+   2(2w) + 2w = 30
+   \]
+   This simplifies to:
+   \[
+   4w + 2w = 30
+   \]
+
+4. **Combine like terms**:
+   Combine the \( w \) terms:
+   \[
+   6w = 30
+   \]
+
+5. **Solve for \( w \)**:
+   To find the width, divide both sides of the equation by 6:
+   \[
+   w = \frac{30}{6} = 5
+   \]
+
+Therefore, the width of the sandbox is 5 feet.
+</reasoning>
+<answer>5</answer>

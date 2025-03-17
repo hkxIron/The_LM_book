@@ -1,0 +1,58 @@
+<reasoning>
+To find out how many bags of corn seeds each kid used, we need to break down the problem step by step.
+
+1. **Calculate the total number of ears of corn per row**: Each row contains 70 ears of corn.
+
+2. **Determine how many seeds are needed per row**: Since each ear of corn requires 2 seeds, we multiply the number of ears by the number of seeds per ear:
+   \[
+   \text{Seeds needed per row} = 70 \text{ ears} \times 2 \text{ seeds/ear} = 140 \text{ seeds}
+   \]
+
+3. **Calculate how many bags of corn seeds are needed for one row**: Each bag contains 48 seeds. Therefore, to find out how many bags are needed for 140 seeds, we divide the total seeds needed by the number of seeds per bag:
+   \[
+   \text{Bags needed per row} = \frac{140 \text{ seeds}}{48 \text{ seeds/bag}} \approx 2.91667 \text{ bags}
+   \]
+   Since we can't use a fraction of a bag, we round up to 3 bags per row.
+
+4. **Determine how many rows the kids plant**: We are not given the number of rows they planted directly, but we can analyze their earnings to infer it. Each kid is paid $1.5 per row.
+
+5. **Find total earnings of the kids**: If there are 4 kids working, their total earnings for planting rows of corn can be expressed as:
+   \[
+   \text{Total earnings} = 4 \text{ kids} \times 1.5 \text{ dollars/row} \times \text{number of rows}
+   \]
+   We do not know the number of rows yet, so we will come back to this.
+
+6. **Calculate the cost of dinner**: Each kid spends half their earnings on dinner, which costs $36 per kid. Therefore, if we let \( E \) represent the total earnings per kid, we have:
+   \[
+   \frac{E}{2} = 36 \Rightarrow E = 72 \text{ dollars}
+   \]
+   Therefore, each kid earned $72.
+
+7. **Backtrack to find the number of rows**: Since each kid earns $72 and earns $1.5 per row, we can find the number of rows each kid worked on:
+   \[
+   \text{Number of rows per kid} = \frac{72 \text{ dollars}}{1.5 \text{ dollars/row}} = 48 \text{ rows}
+   \]
+
+8. **Calculate total rows planted**: Since there are 4 kids:
+   \[
+   \text{Total rows} = 4 \text{ kids} \times 48 \text{ rows/kid} = 192 \text{ rows}
+   \]
+
+9. **Calculate total seeds needed for all rows**: Now, we multiply the number of rows by the number of seeds needed per row:
+   \[
+   \text{Total seeds needed} = 192 \text{ rows} \times 140 \text{ seeds/row} = 26880 \text{ seeds}
+   \]
+
+10. **Calculate the number of bags of corn seeds needed**: Now we divide the total seeds by the number of seeds in a bag:
+    \[
+    \text{Total bags of seeds} = \frac{26880 \text{ seeds}}{48 \text{ seeds/bag}} = 560 \text{ bags}
+    \]
+
+11. **Calculate bags of seeds used by each kid**: Since there are 4 kids, the bags of seeds used per kid is:
+    \[
+    \text{Bags per kid} = \frac{560 \text{ bags}}{4 \text{ kids}} = 140 \text{ bags}
+    \]
+
+Thus, each kid used 140 bags of corn seeds.
+</reasoning>
+<answer>140</answer>

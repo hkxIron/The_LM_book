@@ -1,0 +1,40 @@
+<reasoning>
+To find the total number of broken marbles in both sets, we will calculate the number of broken marbles in each set separately and then add them together.
+
+1. **Calculate the number of broken marbles in the first set.**
+   - The first set contains 50 marbles and 10% of them are broken.
+   - To find 10% of 50, we use the formula:
+     \[
+     \text{Broken marbles in first set} = 0.10 \times 50
+     \]
+   - Calculating this gives:
+     \[
+     \text{Broken marbles in first set} = 5
+     \]
+   - Therefore, there are 5 broken marbles in the first set.
+
+2. **Calculate the number of broken marbles in the second set.**
+   - The second set contains 60 marbles and 20% of them are broken.
+   - To find 20% of 60, we use the formula:
+     \[
+     \text{Broken marbles in second set} = 0.20 \times 60
+     \]
+   - Calculating this gives:
+     \[
+     \text{Broken marbles in second set} = 12
+     \]
+   - Therefore, there are 12 broken marbles in the second set.
+
+3. **Add the broken marbles from both sets together.**
+   - Now we add the number of broken marbles from the first and second sets:
+     \[
+     \text{Total broken marbles} = 5 + 12
+     \]
+   - Performing this addition gives:
+     \[
+     \text{Total broken marbles} = 17
+     \]
+
+Thus, the total number of broken marbles in both sets is 17.
+</reasoning>
+<answer>17</answer>

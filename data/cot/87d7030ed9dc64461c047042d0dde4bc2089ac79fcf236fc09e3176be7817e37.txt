@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many marbles Cindy gave away**: 
+   Cindy gave 80 marbles to each of her four friends. To find the total number of marbles given away, we multiply the number of friends by the number of marbles given to each friend:
+   \[
+   4 \text{ friends} \times 80 \text{ marbles/friend} = 320 \text{ marbles}
+   \]
+   This means Cindy gave away a total of 320 marbles.
+
+2. **Calculate how many marbles Cindy has remaining**:
+   Cindy originally had 500 marbles. To find out how many marbles she has left after giving away 320 marbles, we subtract the number of marbles given away from her original amount:
+   \[
+   500 \text{ marbles} - 320 \text{ marbles} = 180 \text{ marbles}
+   \]
+   So, Cindy has 180 marbles remaining.
+
+3. **Find four times the number of marbles she has remaining**:
+   Now we need to calculate four times the remaining marbles. We simply multiply the number of remaining marbles by 4:
+   \[
+   4 \times 180 = 720
+   \]
+
+Therefore, after all calculations, we find:
+</reasoning>
+<answer>720</answer>

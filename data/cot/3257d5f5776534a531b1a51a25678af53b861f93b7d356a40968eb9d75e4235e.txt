@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we will first calculate how much money Nick has raised from selling the chocolate oranges, then determine how much more he needs to raise, and finally calculate how many candy bars he needs to sell to reach his goal.
+
+1. **Calculate the total money raised from chocolate oranges:**
+   Nick sells each chocolate orange for $10 and he sold 20 chocolate oranges. 
+   To find the total amount raised from chocolate oranges, we use the formula:
+   \[
+   \text{Total from chocolate oranges} = \text{Price per chocolate orange} \times \text{Number of chocolate oranges sold}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total from chocolate oranges} = 10 \times 20 = 200
+   \]
+   So, Nick raised $200 from selling chocolate oranges.
+
+2. **Calculate how much more money is needed to reach the goal of $1000:**
+   Next, we need to find out how much more money he needs to raise after selling the chocolate oranges.
+   \[
+   \text{Amount needed} = \text{Total goal} - \text{Total from chocolate oranges}
+   \]
+   Plugging in the values:
+   \[
+   \text{Amount needed} = 1000 - 200 = 800
+   \]
+   Therefore, Nick still needs to raise $800.
+
+3. **Calculate how many candy bars Nick needs to sell to reach the remaining amount:**
+   Nick sells candy bars for $5 each. We can find out how many candy bars he needs to sell by dividing the remaining amount by the price of each candy bar.
+   \[
+   \text{Number of candy bars needed} = \frac{\text{Amount needed}}{\text{Price per candy bar}}
+   \]
+   Plugging in the values:
+   \[
+   \text{Number of candy bars needed} = \frac{800}{5} = 160
+   \]
+   Thus, Nick needs to sell 160 candy bars to reach his goal.
+</reasoning>
+<answer>160</answer>

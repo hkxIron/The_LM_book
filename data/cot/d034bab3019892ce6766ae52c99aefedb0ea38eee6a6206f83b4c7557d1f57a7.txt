@@ -1,0 +1,26 @@
+<reasoning>
+To determine how high Larry and Barry can reach together, we need to follow these steps:
+
+1. **Determine Larry's shoulder height:**
+   - Larry is 5 feet tall, but his shoulder height is 20% less than his full height. 
+   - To find 20% of Larry's height, we calculate:
+     \[
+     0.20 \times 5 \text{ feet} = 1 \text{ foot}
+     \]
+   - Now, we subtract this value from Larry's full height to find his shoulder height:
+     \[
+     5 \text{ feet} - 1 \text{ foot} = 4 \text{ feet}
+     \]
+   - Therefore, Larry's shoulder height is 4 feet.
+
+2. **Determine the combined height of Barry standing on Larry’s shoulders:**
+   - Barry can reach apples that are 5 feet high. If he stands on Larry's shoulders, we need to add Larry's shoulder height to Barry's reach:
+     \[
+     4 \text{ feet (Larry's shoulder height)} + 5 \text{ feet (Barry's reach)} = 9 \text{ feet}
+     \]
+
+This means that when Barry stands on Larry’s shoulders, they can reach a height of 9 feet.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>9</answer>

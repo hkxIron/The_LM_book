@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much Marsha gets paid per mile, we first need to determine the total distance she drives for the deliveries.
+
+1. **Calculate the distance for each delivery:**
+   - The distance for the first package is 10 miles.
+   - The distance for the second package is 28 miles.
+   - The distance for the third package is half of the second package's distance: 
+     \[
+     \text{Distance for the third package} = \frac{28}{2} = 14 \text{ miles}
+     \]
+
+2. **Add the distances together to find the total distance:**
+   \[
+   \text{Total distance} = 10 \text{ miles} + 28 \text{ miles} + 14 \text{ miles}
+   \]
+   \[
+   \text{Total distance} = 10 + 28 + 14 = 52 \text{ miles}
+   \]
+
+3. **Now, we know Marsha is paid $104 for the day. To find out how much she gets paid per mile, we divide her total pay by the total distance:**
+   \[
+   \text{Pay per mile} = \frac{\text{Total pay}}{\text{Total distance}} = \frac{104}{52}
+   \]
+
+4. **Perform the division:**
+   \[
+   \frac{104}{52} = 2
+   \]
+
+Therefore, Marsha gets paid $2 per mile.
+</reasoning>
+<answer>2</answer>

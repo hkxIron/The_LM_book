@@ -1,0 +1,35 @@
+<reasoning>
+To find the total cost of painting the house, we need to calculate the contributions from Judson, Kenny, and Camilo step by step.
+
+1. **Calculate Judson's contribution**: 
+   Judson contributed $500. We can note this down as:
+   - Judson's contribution = $500
+
+2. **Calculate Kenny's contribution**: 
+   Kenny contributed 20% more than Judson. To find out how much that is, we first calculate 20% of Judson's contribution:
+   - 20% of Judson's contribution = 20% of $500 
+   - 20% of $500 = 0.20 * 500 = $100
+
+   Now, we add this amount to Judson's contribution to find Kenny's contribution:
+   - Kenny's contribution = Judson's contribution + 20% of Judson's contribution 
+   - Kenny's contribution = $500 + $100 = $600
+
+3. **Calculate Camilo's contribution**: 
+   Camilo contributed $200 more than Kenny. Therefore, we add $200 to Kenny's contribution:
+   - Camilo's contribution = Kenny's contribution + $200 
+   - Camilo's contribution = $600 + $200 = $800
+
+4. **Calculate the total cost of painting the house**:
+   Now that we have the contributions from all three individuals, we can find the total cost:
+   - Total cost = Judson's contribution + Kenny's contribution + Camilo's contribution 
+   - Total cost = $500 + $600 + $800
+
+   Let's add these amounts step by step:
+   - First, add Judson's and Kenny's contributions: 
+     $500 + $600 = $1100
+   - Then, add Camilo's contribution: 
+     $1100 + $800 = $1900
+
+Therefore, the total cost of painting the house is $1900.
+</reasoning>
+<answer>1900</answer>

@@ -1,0 +1,48 @@
+<reasoning>
+To determine how Mark can maximize the number of balloons he can buy with his $24, we first need to calculate the cost per balloon for each bag size:
+
+1. **Small Bag ($4 for 50 balloons):**
+   - Cost per balloon = $4 / 50 = $0.08 per balloon
+
+2. **Medium Bag ($6 for 75 balloons):**
+   - Cost per balloon = $6 / 75 = $0.08 per balloon
+
+3. **Extra Large Bag ($12 for 200 balloons):**
+   - Cost per balloon = $12 / 200 = $0.06 per balloon
+
+From this calculation, we see that the extra large bag provides the best value at $0.06 per balloon, followed by both the small and medium bags at $0.08 per balloon.
+
+Next, let's determine how many extra large bags Mark can buy with his $24:
+
+4. **Calculating the number of extra large bags:**
+   - Number of extra large bags = $24 / $12 = 2 bags
+
+5. **Calculating the total number of balloons from extra large bags:**
+   - Total balloons from 2 extra large bags = 2 bags * 200 balloons/bag = 400 balloons
+
+Now, we should check if he can buy any combination of other bags to see if he can get more than 400 balloons.
+
+6. **Exploring combinations:**
+   - If Mark buys 1 extra large bag for $12, he has $12 left:
+     - He can buy either:
+       - 1 medium bag ($6 for 75 balloons) and 1 small bag ($4 for 50 balloons):
+         - Total = 75 + 50 = 125 balloons
+         - Total spent = $6 + $4 = $10, leaving $2 (not enough for more balloons)
+         - Total balloons = 200 (from 1 extra large) + 125 = 325 balloons
+       - Or 2 small bags ($8 for 100 balloons):
+         - Total = 100 balloons
+         - Total spent = $8, leaving $4 (not enough for more balloons)
+         - Total balloons = 200 (from 1 extra large) + 100 = 300 balloons
+
+   - If Mark buys 0 extra large bags:
+     - He can buy:
+       - 4 medium bags ($24 for 300 balloons):
+         - Total = 300 balloons
+       - 6 small bags ($24 for 300 balloons):
+         - Total = 300 balloons
+        
+None of the combinations exceed the total of 400 balloons he can obtain by purchasing 2 extra large bags.
+
+Therefore, the maximum number of balloons Mark can buy with $24 is 400.
+</reasoning>
+<answer>400</answer>

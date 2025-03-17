@@ -1,0 +1,26 @@
+<reasoning>
+First, we need to determine how many rooms Mary has in total. According to the problem, she has:
+
+- 3 bedrooms
+- 1 kitchen
+- 1 living room
+
+Now let's add these together to find the total number of rooms.
+
+Total number of rooms = 3 (bedrooms) + 1 (kitchen) + 1 (living room) = 5 rooms
+
+Next, we need to figure out how long it takes her to vacuum all these rooms. Since it takes Mary 4 minutes to vacuum each room, we can calculate the total time required to vacuum all 5 rooms by multiplying the number of rooms by the time per room.
+
+Total vacuuming time = Number of rooms × Time per room
+Total vacuuming time = 5 rooms × 4 minutes/room = 20 minutes
+
+Now, we know that the battery charge lasts for 10 minutes. To find out how many times Mary needs to charge her vacuum cleaner, we will divide the total vacuuming time by the battery life.
+
+Number of charges needed = Total vacuuming time / Battery charge duration
+Number of charges needed = 20 minutes / 10 minutes = 2
+
+Since Mary can use the vacuum for 10 minutes at a time, she will need to charge it once after the first 10 minutes to continue vacuuming.
+
+Therefore, Mary needs to charge her vacuum cleaner once to vacuum her whole house.
+</reasoning>
+<answer>2</answer>

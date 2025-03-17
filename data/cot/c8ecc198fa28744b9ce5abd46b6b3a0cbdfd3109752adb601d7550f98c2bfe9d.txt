@@ -1,0 +1,18 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Identify the number of button-up shirts**: The problem states that Carlton owns 3 button-up shirts.
+
+2. **Determine the number of sweater vests**: It mentions that Carlton has twice as many sweater vests as button-up shirts. Since he has 3 button-up shirts, we can calculate the number of sweater vests as follows:
+   \[
+   \text{Number of sweater vests} = 2 \times \text{Number of button-up shirts} = 2 \times 3 = 6
+   \]
+
+3. **Calculate the total number of outfits**: Each outfit consists of one sweater vest and one button-up shirt. To find the total number of unique outfits, we multiply the number of sweater vests by the number of button-up shirts:
+   \[
+   \text{Total outfits} = \text{Number of sweater vests} \times \text{Number of button-up shirts} = 6 \times 3 = 18
+   \]
+
+Therefore, Carlton has a total of 18 unique outfits.
+</reasoning>
+<answer>18</answer>

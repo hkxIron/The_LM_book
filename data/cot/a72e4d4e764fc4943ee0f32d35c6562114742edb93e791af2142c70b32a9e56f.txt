@@ -1,0 +1,61 @@
+<reasoning>
+Let's denote the number of cows as \( C \), the number of pigs as \( P \), and the number of goats as \( G \).
+
+From the problem, we have the following relationships:
+
+1. The farmer has twice as many pigs as cows:
+   \[
+   P = 2C
+   \]
+
+2. The farmer has 4 more cows than goats:
+   \[
+   C = G + 4
+   \]
+
+3. The total number of animals is 56:
+   \[
+   C + P + G = 56
+   \]
+
+Now, we can substitute the expressions for \( P \) and \( C \) into the total animal equation.
+
+First, substitute \( P = 2C \) into the total:
+\[
+C + 2C + G = 56
+\]
+This simplifies to:
+\[
+3C + G = 56
+\]
+
+Next, we will substitute \( C = G + 4 \) into this equation. We replace \( C \) with \( G + 4 \):
+\[
+3(G + 4) + G = 56
+\]
+
+Now, distribute the 3:
+\[
+3G + 12 + G = 56
+\]
+
+Combine like terms:
+\[
+4G + 12 = 56
+\]
+
+Next, we will isolate \( G \) by subtracting 12 from both sides:
+\[
+4G = 44
+\]
+
+Now, divide both sides by 4 to solve for \( G \):
+\[
+G = 11
+\]
+
+So, the farmer has 11 goats.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>11</answer>

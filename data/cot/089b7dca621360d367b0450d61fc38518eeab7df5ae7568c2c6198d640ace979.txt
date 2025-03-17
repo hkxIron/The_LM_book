@@ -1,0 +1,48 @@
+<reasoning>
+To find out what score Maria needs on her fourth test to achieve an average score of 85 across all four tests, we can follow these steps:
+
+1. **Calculate the total score required for an average of 85**: 
+   The average is calculated by adding all the scores and dividing by the number of tests. For four tests, the formula for the average is:
+   \[
+   \text{Average} = \frac{\text{Total Score}}{\text{Number of Tests}}
+   \]
+   Rearranging this gives:
+   \[
+   \text{Total Score} = \text{Average} \times \text{Number of Tests}
+   \]
+   Substituting in the values we want:
+   \[
+   \text{Total Score} = 85 \times 4 = 340
+   \]
+   This means Maria needs a total score of 340 across all her tests.
+
+2. **Calculate the current total of her test scores**: 
+   Maria's current test scores are 80, 70, and 90. We will add these scores together:
+   \[
+   \text{Current Total} = 80 + 70 + 90 = 240
+   \]
+
+3. **Determine the score needed on the fourth test**: 
+   Now we need to find out what score \( x \) she needs on her fourth test to reach the total score of 340. We set up the equation:
+   \[
+   \text{Current Total} + x = 340
+   \]
+   Substituting in the current total:
+   \[
+   240 + x = 340
+   \]
+   To find \( x \), we can rearrange the equation:
+   \[
+   x = 340 - 240
+   \]
+   Performing the subtraction:
+   \[
+   x = 100
+   \]
+
+4. **Conclusion**: 
+   Maria needs to score 100 on her fourth test to achieve an average of 85 across her four tests.
+
+Therefore, the score Maria needs on her fourth test is:
+</reasoning>
+<answer>100</answer>

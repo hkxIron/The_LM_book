@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we need to calculate how much Tim's car depreciates over a period of 6 years and then subtract that depreciation from the original value of the car.
+
+1. **Identify the original value of the car**: Tim bought the car for $20,000. This is the starting value.
+
+2. **Determine the annual depreciation**: The car loses $1,000 in value each year.
+
+3. **Calculate the total depreciation over 6 years**: Since the car depreciates by $1,000 each year, over 6 years, the total depreciation can be calculated by multiplying the annual depreciation by the number of years:
+   \[
+   \text{Total depreciation} = \text{Annual depreciation} \times \text{Number of years}
+   \]
+   \[
+   \text{Total depreciation} = 1000 \times 6 = 6000
+   \]
+
+4. **Subtract the total depreciation from the original value**: Now we need to find the current value of the car after 6 years by subtracting the total depreciation from the original value:
+   \[
+   \text{Current value} = \text{Original value} - \text{Total depreciation}
+   \]
+   \[
+   \text{Current value} = 20000 - 6000 = 14000
+   \]
+
+After performing these calculations, we find that Tim's car is worth $14,000 after 6 years.
+</reasoning>
+<answer>14000</answer>

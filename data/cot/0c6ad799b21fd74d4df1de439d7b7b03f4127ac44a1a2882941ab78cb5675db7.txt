@@ -1,0 +1,24 @@
+<reasoning>
+Let's solve the problem step by step:
+
+1. **Calculate the total number of peaches delivered**: 
+   There are 5 baskets, and each basket contains 25 peaches. To find the total number of peaches, we multiply the number of baskets by the number of peaches per basket.
+   \[
+   \text{Total peaches} = 5 \text{ baskets} \times 25 \text{ peaches/basket} = 125 \text{ peaches}
+   \]
+
+2. **Account for the peaches eaten by the farmers**: 
+   The farmers have eaten 5 peaches. We need to subtract this from the total number of peaches we calculated.
+   \[
+   \text{Remaining peaches} = 125 \text{ peaches} - 5 \text{ peaches} = 120 \text{ peaches}
+   \]
+
+3. **Pack the remaining peaches into smaller boxes**: 
+   Each smaller box can hold 15 peaches. To find out how many boxes can be filled with the remaining peaches, we divide the total remaining peaches by the capacity of each box.
+   \[
+   \text{Number of boxes} = \frac{120 \text{ peaches}}{15 \text{ peaches/box}} = 8 \text{ boxes}
+   \]
+
+Therefore, after performing all the calculations, we find that there are 8 boxes of peaches.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Bailey's score**: We are informed that Bailey scored 14 points. We can denote Bailey's score as \( B = 14 \).
+
+2. **Determine Michiko's score**: The problem states that Michiko scored half as many points as Bailey. Therefore, we can calculate Michiko's score \( M \) as follows:
+   \[
+   M = \frac{B}{2} = \frac{14}{2} = 7
+   \]
+
+3. **Determine Akiko's score**: According to the problem, Akiko scored 4 more points than Michiko. We can express Akiko's score \( A \) in terms of Michiko's score:
+   \[
+   A = M + 4 = 7 + 4 = 11
+   \]
+
+4. **Determine Chandra's score**: The problem states that Chandra scored twice as many points as Akiko. Therefore, we can calculate Chandra's score \( C \) as:
+   \[
+   C = 2 \times A = 2 \times 11 = 22
+   \]
+
+5. **Calculate the total score**: Now we can find the total score by adding the scores of all four players:
+   \[
+   \text{Total Score} = B + M + A + C = 14 + 7 + 11 + 22
+   \]
+
+   Let's do the addition step by step:
+   - First, add Bailey's and Michiko's scores: \( 14 + 7 = 21 \)
+   - Next, add Akiko's score: \( 21 + 11 = 32 \)
+   - Finally, add Chandra's score: \( 32 + 22 = 54 \)
+
+Thus, the total score of the team in the final game of the season is:
+</reasoning>
+<answer>54</answer>

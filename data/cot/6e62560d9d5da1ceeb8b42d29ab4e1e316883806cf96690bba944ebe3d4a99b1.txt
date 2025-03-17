@@ -1,0 +1,36 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify Anne's height**: We know from the problem that Anne is 80 cm tall.
+
+2. **Calculate Anne's sister's height**: The problem states that Anne is 2 times as tall as her sister. 
+   - Let Anne's sister's height be denoted as \( S \).
+   - Therefore, we can write the equation: \( 80 = 2S \).
+   - To find \( S \), we divide both sides by 2: 
+     \[
+     S = \frac{80}{2} = 40 \text{ cm}
+     \]
+   - So, Anne's sister is 40 cm tall.
+
+3. **Calculate Bella's height**: According to the problem, Bella is 3 times as tall as Anne.
+   - We can denote Bella's height as \( B \).
+   - Therefore, we can write the equation: \( B = 3 \times 80 \).
+   - Calculating this gives:
+     \[
+     B = 240 \text{ cm}
+     \]
+   - So, Bella is 240 cm tall.
+
+4. **Find the height difference between Bella and Anne's sister**: Now that we have both heights, we can find the difference.
+   - The height difference can be calculated as:
+     \[
+     \text{Height difference} = B - S = 240 - 40
+     \]
+   - Performing the subtraction gives:
+     \[
+     \text{Height difference} = 200 \text{ cm}
+     \]
+
+Therefore, the height difference between Bella and Anne's sister is 200 cm.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,36 @@
+<reasoning>
+To find out how much each chair cost, let's break down the problem step by step:
+
+1. **Identify the total amount Jude spent:** 
+   Jude gave the cashier $130 and received $4 in change. To find out how much he actually spent, we subtract the change from the amount given:
+   \[
+   130 - 4 = 126
+   \]
+   So, Jude spent a total of $126.
+
+2. **Determine the costs of items Jude bought:**
+   - The table costs $50.
+   - Each set of plates costs $20, and he bought 2 sets, so we calculate the total cost for the plates:
+   \[
+   2 \times 20 = 40
+   \]
+   - Now we can find the total cost of the table and the plates:
+   \[
+   50 + 40 = 90
+   \]
+
+3. **Calculate the remaining amount spent on chairs:**
+   Since we know Jude spent a total of $126, we can find out how much he spent on the chairs by subtracting the cost of the table and plates from the total amount spent:
+   \[
+   126 - 90 = 36
+   \]
+   This means Jude spent $36 on the three chairs.
+
+4. **Find the cost of each chair:**
+   Since Jude bought three chairs at the same price, we divide the total spent on chairs by the number of chairs:
+   \[
+   \frac{36}{3} = 12
+   \]
+   Therefore, each chair costs $12.
+</reasoning>
+<answer>12</answer>

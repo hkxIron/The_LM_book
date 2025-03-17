@@ -1,0 +1,21 @@
+<reasoning>
+First, we need to calculate the total amount of money John received from his grandparents. Each of his 4 grandparents gave him $50. 
+
+So, we multiply the number of grandparents by the amount of money each one gave:
+
+Total money = Number of grandparents × Amount from each grandparent
+Total money = 4 × 50 = 200 dollars
+
+Now that we know John has a total of $200, we can determine how many birds he can buy. Since each bird costs $20, we need to divide the total money by the cost of one bird:
+
+Number of birds = Total money ÷ Cost per bird
+Number of birds = 200 ÷ 20 = 10 birds
+
+Each bird has 2 wings, so to find out the total number of wings for all the birds, we multiply the number of birds by the number of wings each bird has:
+
+Total wings = Number of birds × Wings per bird
+Total wings = 10 × 2 = 20 wings
+
+Therefore, the total number of wings that all the birds have is 20.
+</reasoning>
+<answer>20</answer>

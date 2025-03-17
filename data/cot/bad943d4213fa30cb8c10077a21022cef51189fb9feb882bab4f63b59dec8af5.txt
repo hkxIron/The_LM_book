@@ -1,0 +1,47 @@
+<reasoning>
+Let's denote the number of fleas the dog had before any treatments as \( x \).
+
+1. After the first treatment, the dog gets rid of half the fleas. Therefore, the number of fleas left is:
+   \[
+   \text{Fleas after 1st treatment} = \frac{x}{2}
+   \]
+   
+2. After the second treatment, again half of the remaining fleas are removed:
+   \[
+   \text{Fleas after 2nd treatment} = \frac{1}{2} \left(\frac{x}{2}\right) = \frac{x}{4}
+   \]
+
+3. After the third treatment, we again get rid of half of the fleas remaining:
+   \[
+   \text{Fleas after 3rd treatment} = \frac{1}{2} \left(\frac{x}{4}\right) = \frac{x}{8}
+   \]
+
+4. After the fourth treatment, half of the fleas left are removed once more:
+   \[
+   \text{Fleas after 4th treatment} = \frac{1}{2} \left(\frac{x}{8}\right) = \frac{x}{16}
+   \]
+
+According to the problem, after four treatments, the dog has 14 fleas left. Therefore, we can set up the equation:
+\[
+\frac{x}{16} = 14
+\]
+
+5. To find \( x \), we solve the equation by multiplying both sides by 16:
+   \[
+   x = 14 \times 16
+   \]
+
+6. Now, we calculate \( 14 \times 16 \):
+   \[
+   14 \times 16 = 224
+   \]
+   This means the dog had 224 fleas before any treatment.
+
+7. We need to find out how many more fleas the dog had before the treatments than after. After the four treatments, the dog has 14 fleas left. Thus, we calculate:
+   \[
+   224 - 14 = 210
+   \]
+
+Therefore, the dog had 210 more fleas before the treatments than after.
+</reasoning>
+<answer>210</answer>

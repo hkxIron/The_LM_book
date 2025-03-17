@@ -1,0 +1,32 @@
+<reasoning>
+To find out how much the charity spent on the food for the dinners, we need to calculate the total cost of the rice and the total cost of the chicken separately, and then add those two costs together.
+
+1. **Calculate the cost of rice:**
+   - The cost of rice is 10 cents per plate.
+   - Since there are 100 plates, we multiply the cost per plate by the number of plates:
+     \[
+     \text{Cost of rice} = 10 \text{ cents/plate} \times 100 \text{ plates} = 1000 \text{ cents}
+     \]
+
+2. **Calculate the cost of chicken:**
+   - The cost of chicken is 40 cents per plate.
+   - Again, we multiply the cost per plate by the number of plates:
+     \[
+     \text{Cost of chicken} = 40 \text{ cents/plate} \times 100 \text{ plates} = 4000 \text{ cents}
+     \]
+
+3. **Add the costs of rice and chicken:**
+   - Now we add the total cost of the rice and the total cost of the chicken:
+     \[
+     \text{Total cost} = 1000 \text{ cents} + 4000 \text{ cents} = 5000 \text{ cents}
+     \]
+
+4. **Convert total cost from cents to dollars:**
+   - Since there are 100 cents in a dollar, we divide the total cost in cents by 100 to convert it to dollars:
+     \[
+     \text{Total cost in dollars} = \frac{5000 \text{ cents}}{100} = 50 \text{ dollars}
+     \]
+
+Therefore, the charity spent a total of 50 dollars on the food for the dinners.
+</reasoning>
+<answer>50</answer>

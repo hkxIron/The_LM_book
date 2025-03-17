@@ -1,0 +1,26 @@
+<reasoning>
+To solve the problem, we start by determining how many stamps Bert had before his purchase.
+
+1. **Identify the number of stamps Bert bought**: We know he bought 300 stamps.
+
+2. **Determine the number of stamps he had before the purchase**: The problem states that before the purchase, Bert had only half the stamps he bought. This means:
+   \[
+   \text{Stamps before purchase} = \frac{1}{2} \times \text{Stamps bought}
+   \]
+   Substituting the number of stamps he bought:
+   \[
+   \text{Stamps before purchase} = \frac{1}{2} \times 300 = 150
+   \]
+
+3. **Calculate the total number of stamps after the purchase**: To find the total number of stamps Bert has after buying 300 stamps, we add the stamps he had before the purchase to the stamps he bought:
+   \[
+   \text{Total stamps after purchase} = \text{Stamps before purchase} + \text{Stamps bought}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total stamps after purchase} = 150 + 300 = 450
+   \]
+
+Therefore, Bert has a total of 450 stamps after the purchase.
+</reasoning>
+<answer>450</answer>

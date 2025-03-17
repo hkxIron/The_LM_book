@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many apps Roger needs to delete for his phone to function optimally, we can follow these steps:
+
+1. **Determine the recommended number of apps**: The problem states that the recommended number of apps is 35.
+
+2. **Calculate the current number of apps**: Since Roger has twice the recommended number of apps, we multiply the recommended number by 2. 
+   \[
+   \text{Current number of apps} = 2 \times 35 = 70
+   \]
+
+3. **Identify the maximum number of apps for optimal performance**: The problem indicates that the maximum number of apps for optimal functioning is 50.
+
+4. **Calculate the number of apps Roger needs to delete**: To find out how many apps he must delete to reduce the number from 70 to 50, we subtract the maximum number of apps from the current number of apps.
+   \[
+   \text{Apps to delete} = \text{Current number of apps} - \text{Maximum number of apps} = 70 - 50 = 20
+   \]
+
+Therefore, Roger must delete 20 apps for his phone to function optimally again.
+</reasoning>
+<answer>20</answer>

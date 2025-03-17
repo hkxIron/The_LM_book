@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of non-defective units:** 
+   The store initially had 20 units, and out of these, 5 units were defective. 
+   To find the number of non-defective units, we subtract the defective units from the total units:
+   \[
+   \text{Non-defective units} = \text{Total units} - \text{Defective units} = 20 - 5 = 15
+   \]
+   This means the store has 15 units that can be sold.
+
+2. **Identify the units sold to customers:**
+   We know that Customer A bought 3 units and Customer C bought 7 units. We need to find out how many units Customer B bought.
+
+3. **Set up the equation:**
+   Let \( x \) be the number of units sold to Customer B. According to the problem, all non-defective units were sold, so we can set up the following equation:
+   \[
+   \text{Units sold to A} + \text{Units sold to B} + \text{Units sold to C} = \text{Total non-defective units}
+   \]
+   Plugging in the known values:
+   \[
+   3 + x + 7 = 15
+   \]
+
+4. **Solve for \( x \):**
+   Combine the constants on the left side:
+   \[
+   10 + x = 15
+   \]
+   Now, isolate \( x \) by subtracting 10 from both sides:
+   \[
+   x = 15 - 10 = 5
+   \]
+
+5. **Conclusion:**
+   Therefore, Customer B bought 5 units.
+</reasoning>
+<answer>5</answer>

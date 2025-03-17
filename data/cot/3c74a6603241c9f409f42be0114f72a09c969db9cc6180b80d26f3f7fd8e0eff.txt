@@ -1,0 +1,43 @@
+<reasoning>
+To solve this problem, we need to break it down step by step.
+
+1. **Determine how many cupcakes Stephanie wants to decorate with candles.**  
+   Stephanie is decorating a total of 24 cupcakes. She wants to decorate half of these cupcakes with 1 candle each and the other half with 2 candles each. 
+
+   \[
+   \text{Half of 24 cupcakes} = \frac{24}{2} = 12 \text{ cupcakes}
+   \]
+
+   This means she plans to decorate:
+   - 12 cupcakes with 1 candle each
+   - 12 cupcakes with 2 candles each
+
+2. **Calculate the total number of candles needed.**  
+   For the 12 cupcakes that require 1 candle each, we calculate:
+
+   \[
+   12 \text{ cupcakes} \times 1 \text{ candle/cupcake} = 12 \text{ candles}
+   \]
+
+   For the 12 cupcakes that require 2 candles each, we calculate:
+
+   \[
+   12 \text{ cupcakes} \times 2 \text{ candles/cupcake} = 24 \text{ candles}
+   \]
+
+   Now, we add the two amounts of candles needed together:
+
+   \[
+   12 \text{ candles} + 24 \text{ candles} = 36 \text{ candles}
+   \]
+
+3. **Determine how many additional candles Stephanie needs.**  
+   Stephanie currently has 30 candles. To find out how many more candles she needs, we subtract the number of candles she has from the total she needs:
+
+   \[
+   36 \text{ candles} - 30 \text{ candles} = 6 \text{ additional candles needed}
+   \]
+
+Therefore, the final answer is that Stephanie needs 6 more candles.
+</reasoning>
+<answer>6</answer>

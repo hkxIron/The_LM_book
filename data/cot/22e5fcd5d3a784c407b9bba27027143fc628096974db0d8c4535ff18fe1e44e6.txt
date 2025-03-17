@@ -1,0 +1,24 @@
+<reasoning>
+First, we need to determine how many strawberries Micah picked initially. Micah picks 2 dozen strawberries. 
+
+1. A dozen is equal to 12, so we calculate the total number of strawberries he picked:
+   \[
+   2 \text{ dozen} = 2 \times 12 = 24 \text{ strawberries}
+   \]
+   This means Micah has 24 strawberries in total.
+
+2. Next, we need to find out how many strawberries Micah eats. He eats 6 strawberries. 
+
+3. To find out how many strawberries are left for his mom, we subtract the number of strawberries he ate from the total number he picked:
+   \[
+   \text{Strawberries for mom} = \text{Total strawberries} - \text{Strawberries eaten}
+   \]
+   Substituting the numbers we have:
+   \[
+   \text{Strawberries for mom} = 24 - 6 = 18
+   \]
+   This means there are 18 strawberries left for his mom.
+
+Therefore, after calculating the total picked, the amount eaten, and the remaining strawberries, we find that Micah has saved 18 strawberries for his mom.
+</reasoning>
+<answer>18</answer>

@@ -1,0 +1,43 @@
+<reasoning>
+To find out how many volleyballs Reynald bought, we'll break down the information given in the problem step by step.
+
+1. **Identify the number of soccer balls**: 
+   It is given that there are 20 soccer balls.
+
+2. **Calculate the number of basketballs**: 
+   According to the problem, there are five more basketballs than soccer balls. Since there are 20 soccer balls:
+   \[
+   \text{Basketballs} = \text{Soccer balls} + 5 = 20 + 5 = 25
+   \]
+
+3. **Determine the number of tennis balls**: 
+   It states that there are twice the number of soccer balls in tennis balls. Therefore:
+   \[
+   \text{Tennis balls} = 2 \times \text{Soccer balls} = 2 \times 20 = 40
+   \]
+
+4. **Calculate the number of baseballs**: 
+   The problem mentions that there are ten more baseballs than soccer balls. Hence:
+   \[
+   \text{Baseballs} = \text{Soccer balls} + 10 = 20 + 10 = 30
+   \]
+
+5. **Total the known balls**: 
+   Now let's add up all the different types of balls we've calculated:
+   \[
+   \text{Total balls} = \text{Soccer balls} + \text{Basketballs} + \text{Tennis balls} + \text{Baseballs}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Total balls} = 20 + 25 + 40 + 30 = 115
+   \]
+
+6. **Calculate the number of volleyballs**: 
+   We know that Reynald bought a total of 145 balls. To find the number of volleyballs, we subtract the total number of the other balls from the total number of balls:
+   \[
+   \text{Volleyballs} = \text{Total balls bought} - \text{Total of known balls} = 145 - 115 = 30
+   \]
+
+Therefore, the number of volleyballs Reynald bought is:
+</reasoning>
+<answer>30</answer>

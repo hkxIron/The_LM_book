@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Calculate the total number of blueberries Mason has.** 
+   Mason has 3 cartons of 200 blueberries each. Therefore, the total number of blueberries is:
+   \[
+   3 \text{ cartons} \times 200 \text{ blueberries/carton} = 600 \text{ blueberries}
+   \]
+   This calculation tells us how many blueberries Mason has available to make muffins.
+
+2. **Determine how many blueberry muffins he can make.** 
+   Since each muffin requires 10 blueberries, we can find the number of blueberry muffins by dividing the total number of blueberries by the number of blueberries needed per muffin:
+   \[
+   \frac{600 \text{ blueberries}}{10 \text{ blueberries/muffin}} = 60 \text{ blueberry muffins}
+   \]
+   This step helps us find out how many muffins Mason can make using only the blueberries.
+
+3. **Add the number of cinnamon muffins to the total muffins made.** 
+   Mason also makes 60 cinnamon muffins. Therefore, the total number of muffins he made is the sum of the blueberry muffins and the cinnamon muffins:
+   \[
+   60 \text{ blueberry muffins} + 60 \text{ cinnamon muffins} = 120 \text{ total muffins}
+   \]
+   This step combines the two types of muffins to get the overall total.
+
+4. **Calculate the percentage of muffins that are blueberry muffins.** 
+   To find the percentage of muffins that are blueberry muffins, we use the formula:
+   \[
+   \text{Percentage} = \left( \frac{\text{Number of blueberry muffins}}{\text{Total number of muffins}} \right) \times 100
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Percentage} = \left( \frac{60 \text{ blueberry muffins}}{120 \text{ total muffins}} \right) \times 100 = 50\%
+   \]
+   This final step calculates the proportion of blueberry muffins relative to all muffins and converts it into a percentage.
+
+Therefore, the percentage of all the muffins Mason made that have blueberries is:
+</reasoning>
+<answer>50</answer>

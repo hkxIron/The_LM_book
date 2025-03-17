@@ -1,0 +1,82 @@
+<reasoning>
+Let's define the variables for the costs of each item:
+
+- Let \( p \) represent the cost of the pants.
+- Let \( s \) represent the cost of the shirt.
+- Let \( c \) represent the cost of the coat.
+
+We have the following equations based on the information provided:
+
+1. The cost of the pants and shirt together is $100:
+   \[
+   p + s = 100 \tag{1}
+   \]
+
+2. The cost of the pants and coat together is $244:
+   \[
+   p + c = 244 \tag{2}
+   \]
+
+3. The coat costs 5 times as much as the shirt:
+   \[
+   c = 5s \tag{3}
+   \]
+
+Now, we can solve these equations step by step.
+
+### Step 1: Express \( c \) in terms of \( s \)
+
+From equation (3), we have:
+\[
+c = 5s
+\]
+
+### Step 2: Substitute \( c \) in equation (2)
+
+Now, we will substitute \( c \) from equation (3) into equation (2):
+\[
+p + 5s = 244 \tag{4}
+\]
+
+### Step 3: Solve for \( p \) using equations (1) and (4)
+
+From equation (1), we can express \( p \) in terms of \( s \):
+\[
+p = 100 - s \tag{5}
+\]
+
+Now we will substitute equation (5) into equation (4):
+\[
+(100 - s) + 5s = 244
+\]
+
+### Step 4: Simplify and solve for \( s \)
+
+Now we simplify the equation:
+\[
+100 - s + 5s = 244
+\]
+\[
+100 + 4s = 244
+\]
+Subtracting 100 from both sides gives:
+\[
+4s = 144
+\]
+Now, divide both sides by 4:
+\[
+s = 36
+\]
+
+### Step 5: Find \( c \) using \( s \)
+
+Now that we have the cost of the shirt, we can find the cost of the coat using equation (3):
+\[
+c = 5s = 5 \times 36 = 180
+\]
+
+### Step 6: Conclusion
+
+We have calculated the cost of the coat. Therefore, Mr. Zubir paid $180 for his coat.
+</reasoning>
+<answer>180</answer>

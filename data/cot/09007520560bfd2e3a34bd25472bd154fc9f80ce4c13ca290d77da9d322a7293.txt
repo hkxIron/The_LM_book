@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the maximum amount Martin is willing to spend**: 
+   Martin decided to spend no more than $1,000.
+
+2. **Calculate the price the sales clerk offered**:
+   The sales clerk offered the TV for $100 less than $1,000. 
+   This means we need to subtract $100 from $1,000:
+   \[
+   1000 - 100 = 900
+   \]
+   So, the initial price offered by the sales clerk is $900.
+
+3. **Calculate the additional discount of 20%**:
+   To find out how much Martin will pay after the additional 20% discount, we need to calculate 20% of $900 and then subtract that from $900.
+   First, calculate 20% of $900:
+   \[
+   0.20 \times 900 = 180
+   \]
+   Now we subtract this discount from the offered price:
+   \[
+   900 - 180 = 720
+   \]
+   So, the final price of the television after the discount is $720.
+
+4. **Determine how much lower the price of the television is than the amount Martin decided to spend**:
+   Now, we find the difference between the amount Martin was willing to spend ($1,000) and the final price of the television ($720):
+   \[
+   1000 - 720 = 280
+   \]
+   Therefore, the price of the television is $280 lower than the amount Martin decided to spend.
+</reasoning>
+<answer>280</answer>

@@ -1,0 +1,21 @@
+<reasoning>
+First, we need to convert Steve's height from feet and inches to just inches.
+
+1. **Convert feet to inches**: Steve is 5 feet tall. Since there are 12 inches in a foot, we calculate:
+   \[
+   5 \text{ feet} \times 12 \text{ inches/foot} = 60 \text{ inches}
+   \]
+
+2. **Add the additional inches**: Steve is also 6 inches tall (above the 5 feet). We add this to the total inches from the feet:
+   \[
+   60 \text{ inches} + 6 \text{ inches} = 66 \text{ inches}
+   \]
+
+3. **Add the growth**: Now, we need to account for the additional growth of 6 inches. We add this to his current height:
+   \[
+   66 \text{ inches} + 6 \text{ inches} = 72 \text{ inches}
+   \]
+
+Thus, after calculating all the necessary steps, we find that Steve's height after growing is 72 inches.
+</reasoning>
+<answer>72</answer>

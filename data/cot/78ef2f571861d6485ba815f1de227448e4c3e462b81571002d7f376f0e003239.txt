@@ -1,0 +1,50 @@
+<reasoning>
+Let's denote the number of joggers that Tyson bought as \( T \).
+
+According to the problem, we have the following relationships:
+
+1. Alexander bought 22 more joggers than Tyson:
+   \[
+   A = T + 22
+   \]
+   where \( A \) is the number of joggers Alexander bought.
+
+2. Christopher bought twenty times as many joggers as Tyson:
+   \[
+   C = 20T
+   \]
+   where \( C \) is the number of joggers Christopher bought.
+
+We know from the problem statement that Christopher bought 80 joggers:
+\[
+C = 80
+\]
+
+Now, we can set up an equation to find the number of joggers Tyson bought:
+\[
+20T = 80
+\]
+
+To solve for \( T \), we divide both sides of the equation by 20:
+\[
+T = \frac{80}{20} = 4
+\]
+
+Now that we know Tyson bought 4 joggers, we can find out how many joggers Alexander bought using the first equation:
+\[
+A = T + 22 = 4 + 22 = 26
+\]
+
+Now we have:
+- Tyson bought 4 joggers.
+- Alexander bought 26 joggers.
+- Christopher bought 80 joggers.
+
+Next, we need to find out how many more joggers Christopher bought than Alexander:
+\[
+\text{Difference} = C - A = 80 - 26 = 54
+\]
+
+Therefore, Christopher bought 54 more joggers than Alexander.
+</reasoning>
+<answer>54</answer>

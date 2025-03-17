@@ -1,0 +1,59 @@
+<reasoning>
+To find the total number of employees in the two buses, we will first calculate the number of employees in each bus based on their percentage of capacity and then add those numbers together.
+
+1. **Calculate the number of employees in the first bus**:
+   - The first bus is 60% full.
+   - The capacity of the bus is 150.
+   - To find the number of employees in the first bus, we multiply the capacity by the percentage (expressed as a decimal).
+   
+   \[
+   \text{Number of employees in the first bus} = 150 \times 0.60
+   \]
+
+   Now, calculating this:
+   
+   \[
+   150 \times 0.60 = 90
+   \]
+
+   So, the first bus has 90 employees.
+
+2. **Calculate the number of employees in the second bus**:
+   - The second bus is 70% full.
+   - The capacity of the bus is also 150.
+   - Again, we will multiply the capacity by the percentage (expressed as a decimal).
+   
+   \[
+   \text{Number of employees in the second bus} = 150 \times 0.70
+   \]
+
+   Now, calculating this:
+   
+   \[
+   150 \times 0.70 = 105
+   \]
+
+   So, the second bus has 105 employees.
+
+3. **Calculate the total number of employees in both buses**:
+   - Now we add the number of employees from both buses together.
+   
+   \[
+   \text{Total employees} = \text{Number of employees in the first bus} + \text{Number of employees in the second bus}
+   \]
+
+   Substituting the values we calculated:
+   
+   \[
+   \text{Total employees} = 90 + 105
+   \]
+
+   Now, calculate this sum:
+   
+   \[
+   90 + 105 = 195
+   \]
+
+Therefore, the total number of employees in the two buses combined is 195.
+</reasoning>
+<answer>195</answer>

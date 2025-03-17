@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many weeks it will take John to reach floor push-ups, we need to break the problem down into manageable steps.
+
+1. **Determine how many wall push-ups John needs to do**: 
+   - John starts with wall push-ups and adds 1 rep every day.
+   - He will do wall push-ups until he reaches 15 reps.
+   - If he starts at 1 rep on the first day, the sequence of reps each day will be: 1, 2, 3, ... up to 15.
+
+2. **Calculate the number of days to reach 15 reps**:
+   - To find out how many days it takes to reach 15 reps, we observe that he starts at 1 rep and adds 1 rep each day. 
+   - Therefore, he will reach 15 reps in 15 days (since he starts at 1 and ends at 15).
+
+3. **Calculate the total number of days for each type of push-up**:
+   - After reaching 15 wall push-ups, he will start high elevation push-ups. We'll assume he will also progress from 1 rep to 15 reps for high elevation push-ups, which will take another 15 days.
+   - Next, he will move to low elevation push-ups, which again will take another 15 days.
+   - Finally, he will do floor push-ups, which will also take another 15 days.
+
+4. **Total days to get to floor push-ups**:
+   - The total number of days is the sum of all the days for each type of push-up:
+     - Wall push-ups: 15 days
+     - High elevation push-ups: 15 days
+     - Low elevation push-ups: 15 days
+     - Floor push-ups: 15 days
+   - Total days = 15 + 15 + 15 + 15 = 60 days
+
+5. **Convert total days into weeks**:
+   - Since there are 7 days in a week, we can convert the total days into weeks:
+   - Total weeks = 60 days / 7 days per week ≈ 8.57 weeks.
+
+Since we typically round to the nearest whole number in practical situations, it would take John about 9 weeks to reach floor push-ups.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>9</answer>

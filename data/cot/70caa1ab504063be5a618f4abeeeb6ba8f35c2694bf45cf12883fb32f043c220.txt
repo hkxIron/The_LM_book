@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many more cheesecakes are left to be sold, we will start by determining the total number of cheesecakes the baker has, taking into account the ones on display and those in the fridge.
+
+1. **Calculate the total number of cheesecakes:**
+   - The baker has 10 cheesecakes on display and 15 cheesecakes in the fridge.
+   - We add these two amounts together:
+     \[
+     10 \text{ (on display)} + 15 \text{ (in fridge)} = 25 \text{ (total cheesecakes)}
+     \]
+
+2. **Determine how many cheesecakes have been sold:**
+   - The problem states that the baker has sold 7 cheesecakes from the display.
+   - The remaining cheesecakes on display after these sales can be calculated:
+     \[
+     10 \text{ (initial on display)} - 7 \text{ (sold)} = 3 \text{ (remaining on display)}
+     \]
+
+3. **Calculate the total number of cheesecakes left to be sold:**
+   - Since the cheesecakes left to be sold include both the remaining on display and those still in the fridge, we add the remaining cheesecakes on display to those in the fridge:
+     \[
+     3 \text{ (remaining on display)} + 15 \text{ (in fridge)} = 18 \text{ (cheesecakes left to be sold)}
+     \]
+
+Therefore, the total number of cheesecakes still available for sale is 18.
+</reasoning>
+<answer>18</answer>

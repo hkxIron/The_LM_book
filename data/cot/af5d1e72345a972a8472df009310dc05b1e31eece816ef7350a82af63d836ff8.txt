@@ -1,0 +1,20 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the total amount paid by the friends**: 
+   Since there are three friends and each pays $5, we can calculate the total amount paid by multiplying the number of friends by the amount each pays:
+   \[
+   \text{Total amount} = 3 \text{ friends} \times 5 \text{ dollars/friend} = 15 \text{ dollars}
+   \]
+   This means that the friends collectively paid $15 for the 5 bags of chips.
+
+2. **Calculate the cost per bag of chips**:
+   Now that we know the total amount spent on the chips, we need to find out how much each bag costs. To do this, we divide the total amount paid by the number of bags:
+   \[
+   \text{Cost per bag} = \frac{\text{Total amount}}{\text{Number of bags}} = \frac{15 \text{ dollars}}{5 \text{ bags}} = 3 \text{ dollars/bag}
+   \]
+   This calculation shows that each bag of chips costs $3.
+
+Therefore, the cost of each bag of chips is $3.
+</reasoning>
+<answer>3</answer>

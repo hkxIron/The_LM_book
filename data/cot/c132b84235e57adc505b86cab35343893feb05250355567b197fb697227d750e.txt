@@ -1,0 +1,21 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of trash cans added to the streets**: The problem states that the council adds 14 trash cans to the streets. This gives us the first part of our total.
+
+2. **Identify the number of trash cans added to the back of stores**: The problem also states that the council pays for adding twice as many trash cans to the back of stores. Since they added 14 trash cans to the streets, we need to calculate twice that amount.
+
+   To find this, we multiply the number of trash cans on the streets by 2:
+   \[
+   2 \times 14 = 28
+   \]
+   So, there are 28 trash cans added to the back of stores.
+
+3. **Calculate the total number of trash cans**: Now, we need to find the total number of trash cans by adding the number of trash cans in the streets to the number of trash cans behind the stores:
+   \[
+   14 + 28 = 42
+   \]
+
+Therefore, the town has paid for a total of 42 trash cans.
+</reasoning>
+<answer>42</answer>

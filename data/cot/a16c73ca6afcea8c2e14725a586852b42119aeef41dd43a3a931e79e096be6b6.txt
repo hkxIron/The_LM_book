@@ -1,0 +1,21 @@
+<reasoning>
+To determine how many minutes it will take for Jenny's dish to reach 100 degrees, we need to calculate the difference between the target temperature and the starting temperature, and then see how many minutes it takes to cover that difference at the given heating rate.
+
+1. **Identify initial temperature and target temperature:**
+   - Initial temperature = 20 degrees
+   - Target temperature = 100 degrees
+
+2. **Calculate the temperature difference:**
+   - Temperature difference = Target temperature - Initial temperature
+   - Temperature difference = 100 degrees - 20 degrees = 80 degrees
+
+3. **Determine the rate of heating:**
+   - The dish heats up at a rate of 5 degrees per minute.
+
+4. **Calculate the time required to reach the target temperature:**
+   - Time (in minutes) = Temperature difference / Rate of heating
+   - Time = 80 degrees / 5 degrees per minute = 16 minutes
+
+Therefore, it will take 16 minutes for the dish to reach the required temperature of 100 degrees.
+</reasoning>
+<answer>16</answer>

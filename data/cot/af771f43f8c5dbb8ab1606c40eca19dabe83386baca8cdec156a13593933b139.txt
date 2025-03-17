@@ -1,0 +1,34 @@
+<reasoning>
+To determine how many 10 oz servings of punch Carrie has, we first need to calculate the total volume of the punch she is making by adding the volumes of each ingredient together.
+
+1. **Calculate the volume of Mountain Dew:**
+   Carrie uses 6 cans of Mountain Dew, each containing 12 oz. 
+   We calculate the total volume from the Mountain Dew:
+   \[
+   6 \text{ cans} \times 12 \text{ oz/can} = 72 \text{ oz}
+   \]
+
+2. **Add the volume of ice:**
+   Next, she adds 28 oz of ice to the mixture. 
+   So, we add this to the total volume of Mountain Dew:
+   \[
+   72 \text{ oz (Mountain Dew)} + 28 \text{ oz (ice)} = 100 \text{ oz}
+   \]
+
+3. **Add the volume of fruit juice:**
+   Finally, she adds a 40 oz bottle of fruit juice. We add this to our current total:
+   \[
+   100 \text{ oz} + 40 \text{ oz (fruit juice)} = 140 \text{ oz}
+   \]
+
+Now, we have the total volume of the punch, which is 140 oz.
+
+4. **Calculate the number of 10 oz servings:**
+   To find out how many 10 oz servings are in 140 oz, we divide the total volume by the size of each serving:
+   \[
+   \frac{140 \text{ oz}}{10 \text{ oz/serving}} = 14 \text{ servings}
+   \]
+
+Thus, Carrie has 14 servings of punch.
+</reasoning>
+<answer>14</answer>

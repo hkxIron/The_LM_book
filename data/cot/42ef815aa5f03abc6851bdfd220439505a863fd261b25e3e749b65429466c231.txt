@@ -1,0 +1,31 @@
+<reasoning>
+To determine whether Violet should buy a family pass or pay for tickets separately, we need to calculate the total cost of separate tickets for her family.
+
+1. **Identify the costs of tickets:**
+   - The cost of an adult ticket is $35.
+   - The cost of a children's ticket is $20.
+
+2. **Calculate the total cost for the adult ticket:**
+   Since there is 1 adult in Violet's family:
+   \[
+   \text{Cost for adult} = 1 \times 35 = 35
+   \]
+
+3. **Calculate the total cost for the children's tickets:**
+   Since there are 6 children in Violet's family:
+   \[
+   \text{Cost for children} = 6 \times 20 = 120
+   \]
+
+4. **Calculate the total cost of all tickets:**
+   Now, we add the cost of the adult ticket and the total cost of the children's tickets:
+   \[
+   \text{Total cost} = \text{Cost for adult} + \text{Cost for children} = 35 + 120 = 155
+   \]
+
+5. **Compare the total cost of separate tickets to the family pass:**
+   The family pass costs $120. The total cost of separate tickets is $155.
+
+Since $155 (the cost of separate tickets) is greater than $120 (the cost of the family pass), Violet should consider buying the family pass instead.
+</reasoning>
+<answer>155</answer>

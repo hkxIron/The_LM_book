@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much Donna paid in total for the porcelain vase, we will break the problem down into steps.
+
+1. **Calculate the discount on the vase**: The vase is originally priced at $200, and it is on sale for 25% off.
+   - To calculate the amount of the discount, we multiply the original price by the discount percentage:
+     \[
+     \text{Discount} = 200 \times 0.25 = 50
+     \]
+   - So, the discount amount is $50.
+
+2. **Calculate the sale price of the vase**: Now we subtract the discount from the original price to find the sale price:
+   \[
+   \text{Sale Price} = 200 - 50 = 150
+   \]
+   - Therefore, the sale price of the vase is $150.
+
+3. **Calculate the sales tax on the sale price**: Donna has to pay a 10% sales tax on the sale price of $150.
+   - To calculate the sales tax, we multiply the sale price by the sales tax percentage:
+     \[
+     \text{Sales Tax} = 150 \times 0.10 = 15
+     \]
+   - Thus, the sales tax amount is $15.
+
+4. **Calculate the total amount paid by Donna**: Finally, we add the sale price and the sales tax to find the total amount Donna paid:
+   \[
+   \text{Total Amount Paid} = \text{Sale Price} + \text{Sales Tax} = 150 + 15 = 165
+   \]
+   - Therefore, the total amount Donna paid for the vase is $165.
+</reasoning>
+<answer>165</answer>

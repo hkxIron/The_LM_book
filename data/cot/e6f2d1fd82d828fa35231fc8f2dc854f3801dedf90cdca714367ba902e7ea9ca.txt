@@ -1,0 +1,21 @@
+<reasoning>
+To find the cost of the new barbell, we first need to determine how much 30% of the old barbell's price is. 
+
+1. **Calculate 30% of the old barbell price**:  
+   The old barbell costs $250.  
+   To find 30% of $250, we multiply $250 by 0.30 (which is the decimal representation of 30%).  
+
+   \[
+   30\% \text{ of } 250 = 250 \times 0.30 = 75
+   \]
+
+2. **Add this amount to the old barbell price**:  
+   The new barbell costs 30% more than the old one, so we need to add the $75 we found to the original price of $250.  
+
+   \[
+   \text{Cost of new barbell} = 250 + 75 = 325
+   \]
+
+Therefore, after calculating the additional cost and adding it to the original price, we find that the new barbell costs $325.
+</reasoning>
+<answer>325</answer>

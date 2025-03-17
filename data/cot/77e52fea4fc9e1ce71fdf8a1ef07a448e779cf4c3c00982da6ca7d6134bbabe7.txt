@@ -1,0 +1,14 @@
+<reasoning>
+Firstly, we should know that 1 liter = 1000 milliliters (ml).
+
+Given that Jack collects 2 liters of seawater, this means he has collected 2 * 1000 = 2000 ml of seawater.
+
+The seawater is 20% salt. This means that for every 100 ml of seawater, there are 20 ml of salt.
+
+To find out how many ml of salt are in the 2000 ml of seawater, we multiply the total ml of seawater by the percentage of salt in the seawater. 
+
+Hence, the amount of salt is 20% of 2000 ml, that is, 0.20 * 2000 = 400 ml.
+
+So, when all the water evaporates, Jack will be left with 400 ml of salt.
+</reasoning>
+<answer>400</answer>

@@ -1,0 +1,29 @@
+<reasoning>
+To solve this problem, we need to find the lengths of both pieces of yarn (the green and the red), and then sum them to find the total length.
+
+1. **Identify the length of the green yarn**: The problem states that the green piece of yarn is 156 cm long. We can denote this length as:
+   \[
+   \text{Length of green yarn} = 156 \text{ cm}
+   \]
+
+2. **Determine the length of the red yarn**: The red yarn is described as being 8 cm more than three times the length of the green yarn. To find the length of the red yarn, we first calculate three times the length of the green yarn:
+   \[
+   3 \times 156 \text{ cm} = 468 \text{ cm}
+   \]
+   Now, we add 8 cm to this amount to get the length of the red yarn:
+   \[
+   \text{Length of red yarn} = 468 \text{ cm} + 8 \text{ cm} = 476 \text{ cm}
+   \]
+
+3. **Calculate the total length of the two pieces of yarn**: We now have the lengths of both pieces of yarn. We will sum them to find the total length:
+   \[
+   \text{Total length} = \text{Length of green yarn} + \text{Length of red yarn}
+   \]
+   Substituting the known values:
+   \[
+   \text{Total length} = 156 \text{ cm} + 476 \text{ cm} = 632 \text{ cm}
+   \]
+
+Therefore, the total length for the two pieces of yarn is:
+</reasoning>
+<answer>632</answer>

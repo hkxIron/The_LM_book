@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we need to determine how many baby sea turtles remain on the sand after one-third of them were swept away by a wave.
+
+1. **Calculate one-third of the total turtles**: 
+   We start with the total number of baby sea turtles, which is 42. We need to find out how many turtles make up one-third of this number. To do this, we divide 42 by 3:
+
+   \[
+   \text{One-third of 42} = \frac{42}{3} = 14
+   \]
+
+   This means that 14 baby sea turtles were swept away by the wave.
+
+2. **Determine how many turtles are still on the sand**: 
+   Now that we know 14 turtles were swept away, we can find out how many are left on the sand by subtracting the number of turtles that were swept away from the total number of turtles:
+
+   \[
+   \text{Turtles still on the sand} = 42 - 14 = 28
+   \]
+
+   This calculation shows that after the wave, there are 28 baby sea turtles remaining on the sand.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>28</answer>

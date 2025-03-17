@@ -1,0 +1,40 @@
+<reasoning>
+To solve this problem, we need to find out how much Felix can lift based on the information given about him and his brother.
+
+1. **Identify the brother's weight and lifting ability:**
+   We know that Felix's brother can lift 600 pounds. According to the problem, his brother can lift three times his weight. Therefore, we can set up the equation:
+   \[
+   \text{Brother's weight} \times 3 = 600
+   \]
+   To find the brother's weight, we divide both sides by 3:
+   \[
+   \text{Brother's weight} = \frac{600}{3} = 200 \text{ pounds}
+   \]
+
+2. **Determine Felix's weight:**
+   The problem states that Felix's brother weighs twice as much as Felix. If we let Felix's weight be \( F \), we can express the brother's weight as:
+   \[
+   \text{Brother's weight} = 2F
+   \]
+   We know from the previous step that the brother's weight is 200 pounds, so we can set up the equation:
+   \[
+   2F = 200
+   \]
+   Dividing both sides by 2 gives us:
+   \[
+   F = \frac{200}{2} = 100 \text{ pounds}
+   \]
+
+3. **Calculate how much Felix can lift:**
+   The problem states that Felix can lift off the ground 1.5 times more than he weighs. Therefore, we can find how much Felix can lift by using his weight:
+   \[
+   \text{Felix's lifting ability} = 1.5 \times F
+   \]
+   Substituting Felix's weight into the equation gives us:
+   \[
+   \text{Felix's lifting ability} = 1.5 \times 100 = 150 \text{ pounds}
+   \]
+
+Thus, we have calculated that Felix can lift 150 pounds off the ground.
+</reasoning>
+<answer>150</answer>

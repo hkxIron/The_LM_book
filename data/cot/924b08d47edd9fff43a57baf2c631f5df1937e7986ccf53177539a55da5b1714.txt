@@ -1,0 +1,33 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how much money Jericho has.**  
+   The problem states that twice the money Jericho has equals 60. To find out how much money he has, we can set up the equation:
+   \[
+   2x = 60
+   \]
+   where \(x\) is the amount of money Jericho has. To solve for \(x\), we divide both sides by 2:
+   \[
+   x = \frac{60}{2} = 30
+   \]
+   This tells us that Jericho has $30.
+
+2. **Calculate Jericho's total debts.**  
+   Jericho owes Annika $14. The problem also states that he owes half as much to Manny. So, to find out how much he owes Manny, we calculate:
+   \[
+   \text{Amount owed to Manny} = \frac{14}{2} = 7
+   \]
+   Now we can find Jericho's total debt by adding what he owes to Annika and Manny:
+   \[
+   \text{Total debt} = 14 + 7 = 21
+   \]
+
+3. **Determine how much money Jericho has after paying off his debts.**  
+   Now we can find out how much money Jericho has left after he pays off his debts. We subtract the total debt from the amount of money he has:
+   \[
+   \text{Money left} = \text{Total money} - \text{Total debt} = 30 - 21 = 9
+   \]
+
+Thus, after paying off all his debts, Jericho will be left with $9.
+</reasoning>
+<answer>9</answer>

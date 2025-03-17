@@ -1,0 +1,38 @@
+<reasoning>
+To find the total number of pixels on the monitor, we first need to understand that pixels are determined by the dimensions of the monitor in inches and the number of dots (or pixels) per inch. 
+
+1. **Calculate the area of the monitor in square inches**: 
+   We multiply the width by the height of the monitor to get the area in square inches.
+   \[
+   \text{Area} = \text{Width} \times \text{Height}
+   \]
+   Given the dimensions:
+   \[
+   \text{Width} = 21 \text{ inches}, \quad \text{Height} = 12 \text{ inches}
+   \]
+   Thus, the area is:
+   \[
+   \text{Area} = 21 \times 12 = 252 \text{ square inches}
+   \]
+
+2. **Calculate the total number of pixels**:
+   Since there are 100 dots (or pixels) per inch, we can find the total number of pixels by multiplying the area by the number of pixels per square inch (which is the number of pixels per inch squared).
+   \[
+   \text{Total Pixels} = \text{Area} \times (\text{Pixels per inch})^2
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total Pixels} = 252 \times (100)^2
+   \]
+   First, calculate \(100^2\):
+   \[
+   100^2 = 10000
+   \]
+   Now, multiply this with the area:
+   \[
+   \text{Total Pixels} = 252 \times 10000 = 2520000
+   \]
+
+Therefore, the total number of pixels on the monitor is:
+</reasoning>
+<answer>2520000</answer>

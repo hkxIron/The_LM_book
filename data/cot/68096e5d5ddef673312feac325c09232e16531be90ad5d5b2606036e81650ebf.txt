@@ -1,0 +1,42 @@
+<reasoning>
+First, let's determine how many sodas Tina bought. She bought 3 12-packs of soda.
+
+1. **Calculate the total number of sodas Tina bought:**
+   We know that each 12-pack contains 12 sodas. Therefore, if Tina bought 3 packs, the total number of sodas is:
+   \[
+   3 \text{ packs} \times 12 \text{ sodas per pack} = 36 \text{ sodas}
+   \]
+
+2. **Determine how many people are at the party:**
+   Including Tina, there are 6 people at the party.
+
+3. **Calculate how many sodas were consumed:**
+   We know how many sodas each group of people consumed:
+   - Half of the people (which is 3 people, since 6 divided by 2 is 3) have 3 sodas each. So, the total for this group is:
+   \[
+   3 \text{ people} \times 3 \text{ sodas per person} = 9 \text{ sodas}
+   \]
+   - Two of the people have 4 sodas each. So, the total for this group is:
+   \[
+   2 \text{ people} \times 4 \text{ sodas per person} = 8 \text{ sodas}
+   \]
+   - One person has 5 sodas. So, the total for this individual is:
+   \[
+   1 \text{ person} \times 5 \text{ sodas} = 5 \text{ sodas}
+   \]
+
+4. **Add the total sodas consumed:**
+   Now, we need to sum the sodas consumed by all groups:
+   \[
+   9 \text{ sodas} + 8 \text{ sodas} + 5 \text{ sodas} = 22 \text{ sodas}
+   \]
+
+5. **Calculate the number of sodas left over:**
+   To find out how many sodas are left after the party, we subtract the total sodas consumed from the total sodas Tina bought:
+   \[
+   36 \text{ sodas} - 22 \text{ sodas} = 14 \text{ sodas}
+   \]
+
+Therefore, after all calculations, we find the number of sodas left over when the party is over.
+</reasoning>
+<answer>14</answer>

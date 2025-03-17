@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the variables**: 
+   - Let the number of stuffed animals sold by Thor be \( T \).
+   - Jake sold 10 more than Thor, so Jake sold \( T + 10 \).
+   - Quincy sold ten times as many as Thor, so Quincy sold \( 10T \).
+
+2. **Set up the equation based on Quincy's sales**: 
+   We know from the problem statement that Quincy sold 200 stuffed animals. Therefore, we can write the equation:
+   \[
+   10T = 200
+   \]
+   This equation shows that Quincy's sales are equal to 200.
+
+3. **Solve for \( T \)**:
+   To find out how many stuffed animals Thor sold, we can divide both sides of the equation by 10:
+   \[
+   T = \frac{200}{10} = 20
+   \]
+   So, Thor sold 20 stuffed animals.
+
+4. **Calculate Jake's sales**:
+   Now we can find out how many stuffed animals Jake sold:
+   \[
+   \text{Jake's sales} = T + 10 = 20 + 10 = 30
+   \]
+   Therefore, Jake sold 30 stuffed animals.
+
+5. **Determine how many more stuffed animals Quincy sold than Jake**:
+   Now we need to find the difference between the number of stuffed animals Quincy sold and the number Jake sold:
+   \[
+   \text{Difference} = \text{Quincy's sales} - \text{Jake's sales} = 200 - 30 = 170
+   \]
+
+Putting it all together, we find that Quincy sold 170 more stuffed animals than Jake.
+</reasoning>
+<answer>170</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we'll break it down step by step.
+
+1. **Identify the total number of students**: We know that Miss Molly has a class of 30 students.
+
+2. **Determine the number of students who like green**: According to the problem, half of the class answered green. We calculate this by taking half of 30:
+   \[
+   \text{Number of students who like green} = \frac{30}{2} = 15
+   \]
+
+3. **Determine the number of girls in the class**: The problem states that there are 18 girls in the class.
+
+4. **Calculate the number of girls who like pink**: One-third of the girls answered pink. Since there are 18 girls, we calculate one-third of 18:
+   \[
+   \text{Number of girls who like pink} = \frac{18}{3} = 6
+   \]
+
+5. **Find the total number of students who like yellow**: We need to first determine how many students have already expressed their color preferences (green and pink) and then find out the rest who must like yellow.
+
+   - Students who like green: 15
+   - Girls who like pink: 6
+
+   Now we can calculate the total number of students who have expressed a preference:
+   \[
+   \text{Total students liking green or pink} = 15 + 6 = 21
+   \]
+
+6. **Calculate how many students like yellow**: Subtract the number of students who like green or pink from the total number of students:
+   \[
+   \text{Number of students who like yellow} = 30 - 21 = 9
+   \]
+
+Therefore, the number of students who like yellow best is 9.
+</reasoning>
+<answer>9</answer>

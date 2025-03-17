@@ -1,0 +1,41 @@
+<reasoning>
+To find out how many blue socks Joan has, we can follow these steps:
+
+1. **Determine how many socks are white**: Since two thirds of the socks are white, we need to calculate two thirds of the total number of socks, which is 180.
+
+   \[
+   \text{White socks} = \frac{2}{3} \times 180
+   \]
+
+   To perform this calculation, we multiply 180 by 2, and then divide by 3:
+
+   \[
+   180 \times 2 = 360
+   \]
+
+   Now, we divide 360 by 3:
+
+   \[
+   \frac{360}{3} = 120
+   \]
+
+   So, Joan has 120 white socks.
+
+2. **Calculate the number of blue socks**: Since the total number of socks is 180 and we've found that 120 of them are white, we can find the number of blue socks by subtracting the number of white socks from the total.
+
+   \[
+   \text{Blue socks} = \text{Total socks} - \text{White socks}
+   \]
+   \[
+   \text{Blue socks} = 180 - 120
+   \]
+
+   Performing the subtraction gives us:
+
+   \[
+   180 - 120 = 60
+   \]
+
+Therefore, Joan has 60 blue socks.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,59 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the number of messages Alina sent on the first day.**  
+   We know that Lucia sent 120 messages and Alina sent 20 fewer messages than Lucia.  
+   Therefore, we calculate Alina's messages:
+   \[
+   \text{Alina's messages} = \text{Lucia's messages} - 20 = 120 - 20 = 100
+   \]
+
+2. **Calculate the messages sent by both on the second day.**  
+   Lucia sent \( \frac{1}{3} \) of the messages she sent the previous day:
+   \[
+   \text{Lucia's messages on Day 2} = \frac{1}{3} \times 120 = 40
+   \]
+   Alina doubled the number of messages she sent the first day:
+   \[
+   \text{Alina's messages on Day 2} = 2 \times 100 = 200
+   \]
+
+3. **Confirm the messages sent by both on the third day.**  
+   We know that on the third day, they sent the same number of messages as on the first day. This means:
+   \[
+   \text{Messages on Day 3} = \text{Alina's messages on Day 1} + \text{Lucia's messages on Day 1} = 100 + 120 = 220
+   \]
+
+4. **Calculate the total number of messages sent over the three days.**  
+   Now we will sum up all the messages sent by Alina and Lucia over the three days:
+   - Day 1: 
+     - Alina: 100 messages
+     - Lucia: 120 messages
+   - Day 2: 
+     - Alina: 200 messages
+     - Lucia: 40 messages
+   - Day 3: 
+     - Alina: 100 messages
+     - Lucia: 120 messages
+
+   Now, adding these:
+   \[
+   \text{Total messages} = (100 + 120) + (200 + 40) + (100 + 120)
+   \]
+
+   Breaking it down:
+   - Day 1 total: \( 100 + 120 = 220 \)
+   - Day 2 total: \( 200 + 40 = 240 \)
+   - Day 3 total: \( 100 + 120 = 220 \)
+
+   Now summing these totals:
+   \[
+   \text{Total messages} = 220 + 240 + 220
+   \]
+   \[
+   \text{Total messages} = 680
+   \]
+
+Therefore, the total number of messages they sent over the three days is:
+</reasoning>
+<answer>680</answer>

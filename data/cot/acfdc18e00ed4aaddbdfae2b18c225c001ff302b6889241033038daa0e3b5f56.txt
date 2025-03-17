@@ -1,0 +1,33 @@
+<reasoning>
+To find the total cost of the fruit basket, we will calculate the cost of each type of fruit separately based on the quantities given and their respective prices. Then, we will sum these costs to get the total.
+
+1. **Calculate the cost of bananas**:
+   - There are 4 bananas, and each banana costs $1.
+   - Cost of bananas = Number of bananas × Cost per banana = 4 × $1 = $4.
+
+2. **Calculate the cost of apples**:
+   - There are 3 apples, and each apple costs $2.
+   - Cost of apples = Number of apples × Cost per apple = 3 × $2 = $6.
+
+3. **Calculate the cost of strawberries**:
+   - There are 24 strawberries, and we know that 12 strawberries cost $4.
+   - Therefore, cost per strawberry = $4 / 12 = $0.33 (approximately).
+   - To find the cost of 24 strawberries, we can use the cost of 12 strawberries:
+   - Cost of strawberries = (24 strawberries / 12 strawberries) × Cost of 12 strawberries = 2 × $4 = $8.
+
+4. **Calculate the cost of avocados**:
+   - There are 2 avocados, and each avocado costs $3.
+   - Cost of avocados = Number of avocados × Cost per avocado = 2 × $3 = $6.
+
+5. **Calculate the cost of grapes**:
+   - We need to determine the cost of a full bunch of grapes. Given that half a bunch costs $2, a full bunch costs:
+   - Cost of grapes = 2 × $2 = $4.
+
+Now we will sum all the individual costs to find the total cost of the fruit basket:
+
+- Total cost = Cost of bananas + Cost of apples + Cost of strawberries + Cost of avocados + Cost of grapes.
+- Total cost = $4 + $6 + $8 + $6 + $4 = $28.
+
+Therefore, the total cost of the fruit basket is:
+</reasoning>
+<answer>28</answer>

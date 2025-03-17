@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how long Betsy can jump rope:**
+   Cindy can jump rope for 12 minutes. Betsy can jump rope for half as long as Cindy.
+   \[
+   \text{Betsy's time} = \frac{12}{2} = 6 \text{ minutes}
+   \]
+   This means Betsy can jump rope for 6 minutes.
+
+2. **Determine how long Tina can jump rope:**
+   Tina can jump rope for three times as long as Betsy.
+   \[
+   \text{Tina's time} = 3 \times \text{Betsy's time} = 3 \times 6 = 18 \text{ minutes}
+   \]
+   So, Tina can jump rope for 18 minutes.
+
+3. **Calculate the difference in jumping time between Tina and Cindy:**
+   To find out how many more minutes Tina can jump rope than Cindy, we subtract the time Cindy can jump rope from the time Tina can jump rope.
+   \[
+   \text{Difference} = \text{Tina's time} - \text{Cindy's time} = 18 - 12 = 6 \text{ minutes}
+   \]
+
+Thus, Tina can jump rope 6 minutes longer than Cindy.
+</reasoning>
+<answer>6</answer>

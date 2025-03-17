@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many hours Mike trained during the first two weeks, we can break it down into two parts: the first week and the second week.
+
+1. **First Week**:
+   - Mike trains for 2 hours each day.
+   - There are 7 days in a week.
+   - To find the total hours he trained in the first week, we multiply the number of hours he trains per day by the number of days in the week:
+     \[
+     \text{Hours in first week} = 2 \text{ hours/day} \times 7 \text{ days} = 14 \text{ hours}
+     \]
+
+2. **Second Week**:
+   - After the first week, Mike increased his training time to 3 hours each day.
+   - Again, there are 7 days in a week.
+   - To find the total hours he trained in the second week, we multiply the number of hours he trains per day by the number of days in the week:
+     \[
+     \text{Hours in second week} = 3 \text{ hours/day} \times 7 \text{ days} = 21 \text{ hours}
+     \]
+
+3. **Total Training Hours**:
+   - Now we add the hours from both weeks to get the total training hours:
+     \[
+     \text{Total hours} = \text{Hours in first week} + \text{Hours in second week} = 14 \text{ hours} + 21 \text{ hours} = 35 \text{ hours}
+     \]
+
+Therefore, the total number of hours Mike trained during the first two weeks is 35 hours.
+</reasoning>
+<answer>35</answer>

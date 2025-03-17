@@ -1,0 +1,37 @@
+<reasoning>
+To find the total estimated height of the three buildings, we will calculate the height of each building step by step.
+
+1. **Height of the Middle Building**: 
+   We know from the problem that the middle building is 100 feet tall. 
+   \[
+   \text{Height of Middle Building} = 100 \text{ feet}
+   \]
+
+2. **Height of the Left Building**: 
+   The left building is said to be 80% of the height of the middle building. To find its height, we can calculate:
+   \[
+   \text{Height of Left Building} = 0.8 \times \text{Height of Middle Building} = 0.8 \times 100 \text{ feet} = 80 \text{ feet}
+   \]
+
+3. **Height of the Right Building**: 
+   The right building is 20 feet shorter than the combined height of the left and middle buildings. First, we need to find the total height of the left and middle buildings:
+   \[
+   \text{Combined Height of Left and Middle} = \text{Height of Left Building} + \text{Height of Middle Building} = 80 \text{ feet} + 100 \text{ feet} = 180 \text{ feet}
+   \]
+   Now, we subtract 20 feet from this combined height to find the height of the right building:
+   \[
+   \text{Height of Right Building} = \text{Combined Height} - 20 \text{ feet} = 180 \text{ feet} - 20 \text{ feet} = 160 \text{ feet}
+   \]
+
+4. **Total Height of All Three Buildings**: 
+   Now, we can find the total height of all three buildings by adding their individual heights:
+   \[
+   \text{Total Height} = \text{Height of Left Building} + \text{Height of Middle Building} + \text{Height of Right Building}
+   \]
+   \[
+   \text{Total Height} = 80 \text{ feet} + 100 \text{ feet} + 160 \text{ feet} = 340 \text{ feet}
+   \]
+
+Therefore, Quinten estimates the total height of the three buildings to be 340 feet.
+</reasoning>
+<answer>340</answer>

@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understand the man's ownership**: The man owns \( \frac{1}{2} \) of a lot. This means if the total worth of the lot is represented as \( L \), then his share is \( \frac{1}{2}L \).
+
+2. **Calculate the amount sold**: He sold \( \frac{1}{10} \) of his share. The amount he sold can be calculated as follows:
+   \[
+   \text{Amount sold} = \frac{1}{10} \times \frac{1}{2}L = \frac{1}{20}L
+   \]
+
+3. **Set up the equation for the sale's worth**: We know from the problem that this amount was sold for $460. Thus, we can write the equation:
+   \[
+   \frac{1}{20}L = 460
+   \]
+
+4. **Solve for \( L \)**: To find the total worth of the entire lot \( L \), we can multiply both sides of the equation by 20:
+   \[
+   L = 460 \times 20
+   \]
+
+5. **Calculate the value**: Now, we perform the multiplication:
+   \[
+   L = 9200
+   \]
+
+Therefore, the worth of the entire lot is:
+</reasoning>
+<answer>9200</answer>

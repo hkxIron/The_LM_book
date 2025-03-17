@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much Jean gives away to her grandchildren in a year, we can follow these steps:
+
+1. **Determine the number of cards Jean buys for each grandchild**: 
+   Jean buys 2 cards for each grandchild. Since she has 3 grandchildren, we calculate:
+   \[
+   \text{Total cards} = \text{Number of grandchildren} \times \text{Cards per grandchild} = 3 \times 2 = 6
+   \]
+   This means Jean buys a total of 6 cards.
+
+2. **Calculate the total amount of money she puts in the cards**:
+   Jean puts $80 in each card. To find the total amount of money she gives away, we multiply the total number of cards by the amount per card:
+   \[
+   \text{Total amount} = \text{Total cards} \times \text{Amount per card} = 6 \times 80
+   \]
+   Now, we perform the multiplication:
+   \[
+   6 \times 80 = 480
+   \]
+   This means Jean gives away a total of $480 to her grandchildren in a year.
+
+Therefore, after performing the calculations, we conclude that Jean gives away $480 each year.
+</reasoning>
+<answer>480</answer>

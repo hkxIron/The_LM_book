@@ -1,0 +1,27 @@
+<reasoning>
+To find the total sleep Tim gets in a week, we can break the problem down into two parts: the sleep he gets during the weekdays and the sleep he gets during the weekend.
+
+1. **Calculate sleep during weekdays (Monday to Friday)**:
+   Tim sleeps 6 hours a day for 5 days. 
+   \[
+   \text{Sleep on weekdays} = 6 \text{ hours/day} \times 5 \text{ days} = 30 \text{ hours}
+   \]
+   Here, I multiplied the hours he sleeps each day by the number of days he sleeps that amount.
+
+2. **Calculate sleep during the weekend (Saturday and Sunday)**:
+   Tim sleeps 10 hours a day for 2 days.
+   \[
+   \text{Sleep on weekend} = 10 \text{ hours/day} \times 2 \text{ days} = 20 \text{ hours}
+   \]
+   Similarly, I multiplied the hours he sleeps each weekend day by the number of weekend days.
+
+3. **Combine the total sleep from weekdays and weekend**:
+   Now, we add the total sleep from weekdays and the total sleep from the weekend.
+   \[
+   \text{Total sleep} = \text{Sleep on weekdays} + \text{Sleep on weekend} = 30 \text{ hours} + 20 \text{ hours} = 50 \text{ hours}
+   \]
+   This step combines the two amounts of sleep to find the overall total.
+
+Thus, the total amount of sleep Tim gets in a week is 50 hours.
+</reasoning>
+<answer>50</answer>

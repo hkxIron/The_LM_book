@@ -1,0 +1,40 @@
+<reasoning>
+To determine how much Todd saved on the original price of the jeans, we need to calculate the final price he paid after all discounts and then subtract that from the original price.
+
+1. **Calculate the 20% discount from the original price:**
+   - The original price of the jeans is $125.
+   - The discount amount is calculated as:
+     \[
+     \text{Discount} = 125 \times 0.20 = 25
+     \]
+   - Therefore, the sale price after the 20% discount is:
+     \[
+     \text{Sale Price} = 125 - 25 = 100
+     \]
+
+2. **Apply the $10 coupon:**
+   - After applying the coupon, the price becomes:
+     \[
+     \text{Price After Coupon} = 100 - 10 = 90
+     \]
+
+3. **Calculate the additional 10% discount from using the store credit card:**
+   - The amount eligible for the 10% discount is $90.
+   - The discount amount is:
+     \[
+     \text{Credit Card Discount} = 90 \times 0.10 = 9
+     \]
+   - Therefore, the final price Todd pays after this discount is:
+     \[
+     \text{Final Price} = 90 - 9 = 81
+     \]
+
+4. **Calculate the total savings:**
+   - The total savings is the difference between the original price and the final price Todd paid:
+     \[
+     \text{Savings} = 125 - 81 = 44
+     \]
+
+Thus, Todd saved $44 on the original price of the jeans.
+</reasoning>
+<answer>44</answer>

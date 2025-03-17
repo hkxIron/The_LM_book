@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much Françoise will give back to the association after selling 150 pots of lily of the valley, we need to follow these steps:
+
+1. **Calculate the selling price of each pot**: Since Françoise sells the pots at a 25% higher cost than her purchase price, we first calculate the selling price.
+
+   The purchase price is €12. A 25% increase on €12 can be calculated as:
+   \[
+   \text{Increase} = 12 \times 0.25 = 3
+   \]
+   Therefore, the selling price is:
+   \[
+   \text{Selling Price} = \text{Purchase Price} + \text{Increase} = 12 + 3 = 15 \text{ euros}
+   \]
+
+2. **Calculate the total revenue from selling 150 pots**: To find out how much money Françoise makes from selling 150 pots at €15 each, we multiply the number of pots sold by the selling price:
+   \[
+   \text{Total Revenue} = 150 \times 15 = 2250 \text{ euros}
+   \]
+
+3. **Calculate the total cost for purchasing 150 pots**: Next, we need to determine how much Françoise spent to buy the 150 pots at €12 each:
+   \[
+   \text{Total Cost} = 150 \times 12 = 1800 \text{ euros}
+   \]
+
+4. **Determine the profit**: The profit can be found by subtracting the total cost from the total revenue:
+   \[
+   \text{Profit} = \text{Total Revenue} - \text{Total Cost} = 2250 - 1800 = 450 \text{ euros}
+   \]
+
+5. **Final amount given back to the association**: Finally, since all the profit is intended for the humanitarian work, the amount Françoise will give back to the association is €450.
+
+Therefore, Françoise will give back €450 to the association by selling 150 pots of lily of the valley.
+</reasoning>
+<answer>450</answer>

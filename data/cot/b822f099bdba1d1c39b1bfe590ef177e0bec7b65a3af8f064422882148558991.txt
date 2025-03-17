@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we need to determine how many boys are at the party first and then subtract that from the total number of people to find out how many girls are present.
+
+1. **Calculate the number of boys:**
+   We know that 30% of the 50 people at the party are boys. To find the number of boys, we can use the formula:
+   \[
+   \text{Number of boys} = \text{Total people} \times \text{Percentage of boys}
+   \]
+   Here, the total number of people is 50, and the percentage of boys is 30%, which we convert to a decimal (30% = 0.30).
+
+   Substituting the values, we get:
+   \[
+   \text{Number of boys} = 50 \times 0.30 = 15
+   \]
+
+2. **Calculate the number of girls:**
+   Now that we know there are 15 boys at the party, we can find the number of girls by subtracting the number of boys from the total number of people:
+   \[
+   \text{Number of girls} = \text{Total people} - \text{Number of boys}
+   \]
+   Substituting the values, we have:
+   \[
+   \text{Number of girls} = 50 - 15 = 35
+   \]
+
+Therefore, there are 35 girls at the party.
+</reasoning>
+<answer>35</answer>

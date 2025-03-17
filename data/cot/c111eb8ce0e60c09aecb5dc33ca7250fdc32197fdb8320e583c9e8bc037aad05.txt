@@ -1,0 +1,48 @@
+<reasoning>
+To determine how many minutes Josie spent shopping instead of waiting, we first need to calculate the total amount of time she spent waiting. We can do this by adding all the waiting times together.
+
+1. **Waiting for a cart:** 3 minutes
+2. **Waiting for an employee to unlock a cabinet:** 13 minutes
+3. **Waiting for a stocker to restock a shelf:** 14 minutes
+4. **Waiting in line to check out:** 18 minutes
+
+Now, we will add these waiting times together:
+
+\[
+3 \text{ minutes} + 13 \text{ minutes} + 14 \text{ minutes} + 18 \text{ minutes}
+\]
+
+Calculating step by step:
+
+- First, add the first two times:
+  \[
+  3 + 13 = 16 \text{ minutes}
+  \]
+
+- Next, add the third time:
+  \[
+  16 + 14 = 30 \text{ minutes}
+  \]
+
+- Finally, add the last waiting time:
+  \[
+  30 + 18 = 48 \text{ minutes}
+  \]
+
+So, Josie spent a total of 48 minutes waiting.
+
+Next, we need to determine the total duration of her shopping trip, which is given as 1 hour and 30 minutes. We convert this duration into minutes:
+
+\[
+1 \text{ hour} = 60 \text{ minutes} \quad \text{so} \quad 1 \text{ hour and } 30 \text{ minutes} = 60 + 30 = 90 \text{ minutes}
+\]
+
+Now we will subtract the total waiting time from the total shopping trip duration to find out how long she spent actually shopping:
+
+\[
+90 \text{ minutes} - 48 \text{ minutes} = 42 \text{ minutes}
+\]
+
+Therefore, Josie spent 42 minutes shopping instead of waiting.
+</reasoning>
+<answer>42</answer>

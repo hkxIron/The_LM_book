@@ -1,0 +1,20 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Starting Fish**: Jonah begins with 14 small fish. This is our initial count.
+   - Current fish count = 14
+
+2. **Adding Fish**: Jonah adds 2 more fish to his aquarium.
+   - Current fish count = 14 + 2 = 16
+
+3. **Fish Eating**: The 2 new fish he added ate 6 of the original fish. We need to subtract these 6 fish from the current total.
+   - Current fish count = 16 - 6 = 10
+
+4. **Exchanging Fish**: Jonah then takes the 2 fish that ate the original ones back to the store and exchanges them for 3 new fish. Since he is removing 2 and adding 3, we can simplify this step.
+   - Current fish count = 10 - 2 + 3 = 11
+
+Now we have calculated the total number of fish Jonah has after all the additions and subtractions.
+
+Therefore, Jonah now has a total of 11 fish in his aquarium.
+</reasoning>
+<answer>11</answer>

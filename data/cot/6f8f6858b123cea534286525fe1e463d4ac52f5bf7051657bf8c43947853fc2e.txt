@@ -1,0 +1,35 @@
+<reasoning>
+To find the original price of the shoes, we need to understand what it means for the shoes to be marked 75% off. This means that the price you paid ($51) represents 25% of the original price (since 100% - 75% = 25%).
+
+Here are the steps to find the original price:
+
+1. **Identify the percentage you paid**: Since the shoes were marked 75% off, you only paid 25% of the original price. We can express this as a decimal: 25% = 0.25.
+
+2. **Set up the equation**: Let \( x \) be the original price. According to the information given:
+   \[
+   0.25x = 51
+   \]
+   This equation states that 25% of the original price \( x \) equals the price you paid, which is $51.
+
+3. **Solve for \( x \)**: To find \( x \), we need to isolate it. We can do this by dividing both sides of the equation by 0.25:
+   \[
+   x = \frac{51}{0.25}
+   \]
+
+4. **Calculate the division**: Performing the division,
+   \[
+   x = 51 \div 0.25
+   \]
+   We can simplify this division by recognizing that dividing by 0.25 is the same as multiplying by 4 (since \( 1 \div 0.25 = 4 \)):
+   \[
+   x = 51 \times 4
+   \]
+
+5. **Calculate the final result**: Now we perform the multiplication:
+   \[
+   x = 204
+   \]
+
+Thus, the original price of the shoes is $204.
+</reasoning>
+<answer>204</answer>

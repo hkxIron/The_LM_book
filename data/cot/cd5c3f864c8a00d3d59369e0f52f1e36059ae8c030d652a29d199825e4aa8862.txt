@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we first need to find out how many votes were captured by the third candidate. Let's break it down step by step:
+
+1. **Calculate the total votes**: We know that there were 1150 people voting in total.
+
+2. **Calculate the votes remaining after John's votes**: John captured 150 votes. To find the remaining votes after John's share, we subtract John's votes from the total votes:
+   \[
+   \text{Remaining votes} = \text{Total votes} - \text{John's votes} = 1150 - 150 = 1000
+   \]
+
+3. **Calculate the votes captured by James**: James captures 70% of the remaining votes. We can calculate this by taking 70% of the 1000 remaining votes:
+   \[
+   \text{James's votes} = 0.70 \times 1000 = 700
+   \]
+
+4. **Calculate the votes captured by the third candidate**: The third candidate's votes can be found by subtracting the votes of John and James from the total votes:
+   \[
+   \text{Third candidate's votes} = \text{Total votes} - (\text{John's votes} + \text{James's votes}) = 1150 - (150 + 700) = 1150 - 850 = 300
+   \]
+
+5. **Calculate how many more votes the third candidate got than John**: Finally, we find the difference between the votes of the third candidate and John:
+   \[
+   \text{Difference} = \text{Third candidate's votes} - \text{John's votes} = 300 - 150 = 150
+   \]
+
+Therefore, the third candidate received 150 more votes than John.
+</reasoning>
+<answer>150</answer>

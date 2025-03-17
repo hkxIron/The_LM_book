@@ -1,0 +1,21 @@
+<reasoning>
+To find the total number of gifts John received between his 12th and 13th birthdays, we will follow these steps:
+
+1. Determine how many gifts John received on his 12th birthday.
+   - According to the problem, John received 20 gifts on his 12th birthday.
+
+2. Determine how many gifts John received on his 13th birthday.
+   - The problem states that he received 8 fewer gifts on his 13th birthday than on his 12th birthday. So, we will subtract 8 from the number of gifts he received on his 12th birthday:
+   \[
+   20 - 8 = 12
+   \]
+   Therefore, John received 12 gifts on his 13th birthday.
+
+3. Now, we will add the number of gifts John received on both birthdays to find the total:
+   \[
+   20 + 12 = 32
+   \]
+
+Thus, the total number of gifts John received between his 12th and 13th birthdays is 32.
+</reasoning>
+<answer>32</answer>

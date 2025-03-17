@@ -1,0 +1,33 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine the initial number of pages**: Anahi has a book with a total of 500 pages.
+
+2. **Calculate the pages written in the first week**: Anahi wrote on 150 pages in the first week. To find out how many pages are left, we subtract the pages she has written from the total pages.
+   \[
+   \text{Remaining pages after the first week} = 500 - 150 = 350 \text{ pages}
+   \]
+
+3. **Calculate the pages written in the second week**: In the second week, Anahi wrote on 30% of the remaining pages (which is 350 pages). To find out how many pages that is, we multiply 350 by 0.30:
+   \[
+   \text{Pages written in the second week} = 0.30 \times 350 = 105 \text{ pages}
+   \]
+
+4. **Update the number of remaining pages**: Now, we need to subtract the pages written in the second week from the remaining pages:
+   \[
+   \text{Remaining pages after the second week} = 350 - 105 = 245 \text{ pages}
+   \]
+
+5. **Calculate the number of empty pages damaged by coffee**: Anahi accidentally spilled coffee on 20% of the empty pages. First, we need to determine how many pages were damaged:
+   \[
+   \text{Damaged pages} = 0.20 \times 245 = 49 \text{ pages}
+   \]
+
+6. **Calculate the total number of empty pages available now**: Finally, we subtract the damaged pages from the remaining empty pages to find how many pages are still available for writing:
+   \[
+   \text{Empty pages available now} = 245 - 49 = 196 \text{ pages}
+   \]
+
+Therefore, the total number of empty pages available for Anahi to write on now is:
+</reasoning>
+<answer>196</answer>

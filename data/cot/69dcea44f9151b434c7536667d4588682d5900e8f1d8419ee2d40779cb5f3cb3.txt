@@ -1,0 +1,32 @@
+<reasoning>
+To find the total number of tiles in the shower, we first need to determine how many tiles are on one wall, and then multiply that by the number of walls.
+
+1. **Determine the area of one wall in tiles**:
+   - The width of the wall is represented by the number of tiles running horizontally, which is 8 tiles.
+   - The height of the wall is represented by the number of tiles running vertically, which is 20 tiles.
+   - To find the total number of tiles on one wall, we multiply the width by the height:
+     \[
+     \text{Number of tiles on one wall} = \text{Width} \times \text{Height} = 8 \times 20
+     \]
+   - Now, calculating that:
+     \[
+     8 \times 20 = 160
+     \]
+   - So, there are 160 tiles on one wall.
+
+2. **Determine the total number of walls**:
+   - The problem states that there are 3 sides (walls) to the shower. 
+
+3. **Calculate the total number of tiles in the shower**:
+   - To find the total number of tiles, we multiply the number of tiles on one wall by the number of walls:
+     \[
+     \text{Total number of tiles} = \text{Number of tiles on one wall} \times \text{Number of walls} = 160 \times 3
+     \]
+   - Now, calculating that:
+     \[
+     160 \times 3 = 480
+     \]
+
+Therefore, the total number of tiles in the shower is 480.
+</reasoning>
+<answer>480</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many cans Jack can store in each closet, we will calculate the total number of cans based on the given dimensions: the number of cans per row, the number of rows per shelf, and the number of shelves per closet.
+
+1. **Calculate the number of cans in one shelf**:
+   - Jack can fit 12 cans in one row.
+   - There are 4 rows on one shelf.
+   - So, we multiply the number of cans per row by the number of rows in one shelf:
+   \[
+   \text{Cans in one shelf} = 12 \text{ cans/row} \times 4 \text{ rows} = 48 \text{ cans}
+   \]
+   This means that one shelf can hold 48 cans.
+
+2. **Calculate the number of cans in one closet**:
+   - Jack has 10 shelves in one closet.
+   - Now we multiply the number of cans in one shelf by the number of shelves in one closet:
+   \[
+   \text{Cans in one closet} = 48 \text{ cans/shelf} \times 10 \text{ shelves} = 480 \text{ cans}
+   \]
+   Therefore, one closet can store 480 cans.
+
+Now, we can summarize our findings:
+- Each shelf holds 48 cans.
+- Each closet, with 10 shelves, holds a total of 480 cans.
+
+Thus, the total number of cans Jack can store in each closet is:
+</reasoning>
+<answer>480</answer>

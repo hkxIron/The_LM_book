@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we will first calculate how many vets recommend Puppy Kibble and how many recommend Yummy Dog Kibble. Then, we will find the difference between these two amounts.
+
+1. **Calculate the number of vets recommending Puppy Kibble:**
+   - We know that 20% of the vets recommend Puppy Kibble.
+   - There are 1000 vets in total, so we can calculate the number of vets recommending Puppy Kibble by multiplying the total number of vets by the percentage that recommend it.
+   - Calculation: 
+     \[
+     \text{Number of vets recommending Puppy Kibble} = 1000 \times 0.20 = 200
+     \]
+   - So, 200 vets recommend Puppy Kibble.
+
+2. **Calculate the number of vets recommending Yummy Dog Kibble:**
+   - We know that 30% of the vets recommend Yummy Dog Kibble.
+   - Again, we multiply the total number of vets by the percentage that recommend it.
+   - Calculation:
+     \[
+     \text{Number of vets recommending Yummy Dog Kibble} = 1000 \times 0.30 = 300
+     \]
+   - Therefore, 300 vets recommend Yummy Dog Kibble.
+
+3. **Find the difference between the number of vets recommending Yummy Dog Kibble and Puppy Kibble:**
+   - To find how many more vets recommend Yummy Dog Kibble than Puppy Kibble, we subtract the number of vets recommending Puppy Kibble from the number recommending Yummy Dog Kibble.
+   - Calculation:
+     \[
+     \text{Difference} = 300 - 200 = 100
+     \]
+
+Thus, 100 more vets recommend Yummy Dog Kibble than Puppy Kibble.
+</reasoning>
+<answer>100</answer>

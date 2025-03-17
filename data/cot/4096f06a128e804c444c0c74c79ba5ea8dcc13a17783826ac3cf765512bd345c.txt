@@ -1,0 +1,43 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how much money Michael gives to his brother.**
+   Michael starts with $42. He gives away half of his money to his brother. To find out how much that is:
+   \[
+   \text{Half of } 42 = \frac{42}{2} = 21
+   \]
+   So, Michael gives his brother $21.
+
+2. **Determine how much money the brother has after receiving from Michael.**
+   Before buying any candy, his brother has the $21 that he received from Michael. However, we need to find out how much money he had initially before receiving this $21.
+
+3. **Understand the brother's transactions.**
+   The brother spends $3 on candy. After buying the candy, his brother has $35 left. We can express this situation with an equation where \( x \) is the initial amount of money he had:
+   \[
+   x + 21 - 3 = 35
+   \]
+   Here, \( x + 21 \) represents the total amount of money the brother had after receiving from Michael, and then we subtract the $3 for the candy.
+
+4. **Simplify the equation.**
+   Now, we simplify the equation:
+   \[
+   x + 21 - 3 = 35
+   \]
+   \[
+   x + 18 = 35
+   \]
+
+5. **Solve for \( x \).**
+   To isolate \( x \), subtract 18 from both sides:
+   \[
+   x = 35 - 18
+   \]
+   \[
+   x = 17
+   \]
+
+This means that the brother originally had $17 before receiving the $21 from Michael.
+
+Therefore, putting it all together, we find that the brother had initially:
+</reasoning>
+<answer>17</answer>

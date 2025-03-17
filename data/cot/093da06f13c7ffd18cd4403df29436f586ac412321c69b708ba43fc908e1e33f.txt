@@ -1,0 +1,30 @@
+<reasoning>
+To determine how many packs of detergent pods Hayes will need for a full year of laundry, we first need to calculate the total number of pods he requires in a year.
+
+1. **Calculate the number of loads of laundry per year:**
+   - Hayes does 3 loads of laundry each week.
+   - There are 52 weeks in a year.
+   - Therefore, the total number of loads in a year is calculated as follows:
+     \[
+     3 \text{ loads/week} \times 52 \text{ weeks/year} = 156 \text{ loads/year}
+     \]
+   This means Hayes will need 156 detergent pods for the year since he uses one pod for each load.
+
+2. **Calculate the number of packs needed:**
+   - Each pack contains 39 detergent pods.
+   - To find out how many packs Hayes needs, we divide the total number of pods needed by the number of pods per pack:
+     \[
+     \frac{156 \text{ pods}}{39 \text{ pods/pack}} = 4 \text{ packs}
+     \]
+   This division tells us that Hayes will need 4 full packs of detergent pods.
+
+3. **Final check:**
+   - Since 4 packs of 39 pods each gives:
+     \[
+     4 \text{ packs} \times 39 \text{ pods/pack} = 156 \text{ pods}
+     \]
+   This confirms that he will indeed have enough pods for the year.
+
+Therefore, Hayes will need a total of 4 packs of detergent pods for the year.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,51 @@
+<reasoning>
+Let's denote the amount of money that Eric, Ben, and Jack have as \( E \), \( B \), and \( J \) respectively.
+
+1. We know from the problem that Jack has $26. Therefore, we can write:
+   \[
+   J = 26
+   \]
+
+2. The problem states that Ben has $9 less than Jack. We can express Ben's amount in terms of Jack's amount:
+   \[
+   B = J - 9
+   \]
+   Substituting the value of \( J \):
+   \[
+   B = 26 - 9 = 17
+   \]
+
+3. Next, we are told that Eric has $10 less than Ben. We can express Eric's amount in terms of Ben's amount:
+   \[
+   E = B - 10
+   \]
+   Substituting the value of \( B \):
+   \[
+   E = 17 - 10 = 7
+   \]
+
+4. Now we have the amounts for each person:
+   - Eric has \( E = 7 \)
+   - Ben has \( B = 17 \)
+   - Jack has \( J = 26 \)
+
+5. To find the total amount of money that all three of them have, we add their amounts together:
+   \[
+   \text{Total} = E + B + J
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total} = 7 + 17 + 26
+   \]
+
+6. Now let's calculate the total:
+   \[
+   7 + 17 = 24
+   \]
+   \[
+   24 + 26 = 50
+   \]
+
+Therefore, the total amount of money that Eric, Ben, and Jack have together is $50.
+</reasoning>
+<answer>50</answer>

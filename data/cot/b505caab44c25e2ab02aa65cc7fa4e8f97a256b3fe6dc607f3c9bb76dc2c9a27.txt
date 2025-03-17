@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the total cost for triple cheese pizzas with the buy-1-get-1-free special**:
+   - The price of one triple cheese pizza is $5.
+   - With the buy-1-get-1-free offer, for every one pizza you pay for, you get another one for free. This means you effectively get 2 pizzas for the price of 1.
+   - To find out how many pizzas you need to pay for when buying 10 triple cheese pizzas, we can divide the total number of pizzas by 2:
+     - Number of pizzas to pay for = 10 pizzas / 2 = 5 pizzas.
+   - Now, we can calculate the total cost for the triple cheese pizzas:
+     - Total cost for triple cheese pizzas = 5 pizzas × $5/pizza = $25.
+
+2. **Calculate the total cost for meat lovers pizzas with the buy-2-get-1-free special**:
+   - The price of one meat lovers pizza is also $5.
+   - With the buy-2-get-1-free offer, for every 2 pizzas you buy, you get 1 free. This means you pay for 2 pizzas and receive a total of 3.
+   - To find out how many pizzas you need to pay for when buying 9 meat lovers pizzas, we can determine how many sets of 3 pizzas there are:
+     - Number of complete sets of 3 in 9 pizzas = 9 pizzas / 3 = 3 sets.
+   - Each set requires paying for 2 pizzas, so:
+     - Number of pizzas to pay for = 3 sets × 2 pizzas/set = 6 pizzas.
+   - Now, we can calculate the total cost for the meat lovers pizzas:
+     - Total cost for meat lovers pizzas = 6 pizzas × $5/pizza = $30.
+
+3. **Add the total costs together**:
+   - Total cost = Total cost for triple cheese pizzas + Total cost for meat lovers pizzas
+   - Total cost = $25 + $30 = $55.
+
+Thus, the total cost to purchase 10 triple cheese and 9 meat lovers pizzas using the special pricing is $55.
+</reasoning>
+<answer>55</answer>

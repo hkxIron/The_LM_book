@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much each person paid when John and Steve bought 12 cupcakes at a cost of $1.50 each, we can follow these steps:
+
+1. **Calculate the total cost of the cupcakes**: 
+   We multiply the number of cupcakes by the cost of each cupcake. 
+   \[
+   \text{Total Cost} = \text{Number of Cupcakes} \times \text{Cost per Cupcake}
+   \]
+   Substituting the values we have:
+   \[
+   \text{Total Cost} = 12 \times 1.50 = 18
+   \]
+   This means the total cost for the 12 cupcakes is $18.
+
+2. **Split the total cost evenly between John and Steve**:
+   Since they are splitting the costs evenly, we divide the total cost by 2 (since there are 2 people).
+   \[
+   \text{Amount each person pays} = \frac{\text{Total Cost}}{2}
+   \]
+   Substituting the total cost:
+   \[
+   \text{Amount each person pays} = \frac{18}{2} = 9
+   \]
+   This indicates that each person pays $9.
+
+Therefore, after calculating the total cost and dividing it evenly, we find out how much each person paid.
+</reasoning>
+<answer>9</answer>

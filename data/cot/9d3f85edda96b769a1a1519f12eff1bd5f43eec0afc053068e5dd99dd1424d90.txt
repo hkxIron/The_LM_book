@@ -1,0 +1,23 @@
+<reasoning>
+To determine how many holes remain unfilled after Maynard filled in 75% of the holes, we can follow these steps:
+
+1. **Identify the total number of holes dug**: Maynard's dog dug a total of 8 holes.
+
+2. **Calculate the number of holes filled**: Since Maynard filled 75% of the holes, we need to calculate 75% of 8 holes. 
+   - To find 75% of a number, we can multiply the number by 0.75 (which is the decimal equivalent of 75%).
+   - Calculation: 
+     \[
+     0.75 \times 8 = 6
+     \]
+   This means Maynard filled in 6 holes.
+
+3. **Determine the number of holes that remain unfilled**: To find out how many holes are unfilled, we subtract the number of holes that were filled from the total number of holes.
+   - Calculation:
+     \[
+     8 - 6 = 2
+     \]
+   Therefore, 2 holes remain unfilled.
+
+In conclusion, after Maynard filled in 75% of the holes, 2 holes are still unfilled.
+</reasoning>
+<answer>2</answer>

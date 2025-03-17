@@ -1,0 +1,47 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of cookies eaten on Monday**: 
+   Annie ate 5 cookies on Monday. 
+   So, we have:
+   \[
+   \text{Cookies on Monday} = 5
+   \]
+
+2. **Calculate the number of cookies eaten on Tuesday**: 
+   According to the problem, Annie ate two times more cookies on Tuesday than she did on Monday. 
+   This means we multiply the number of cookies eaten on Monday by 2:
+   \[
+   \text{Cookies on Tuesday} = 2 \times \text{Cookies on Monday} = 2 \times 5 = 10
+   \]
+
+3. **Calculate the number of cookies eaten on Wednesday**: 
+   The problem states that Annie ate 40% more cookies on Wednesday than she did on Tuesday. 
+   First, we need to find 40% of the cookies eaten on Tuesday:
+   \[
+   40\% \text{ of } 10 = 0.4 \times 10 = 4
+   \]
+   Now, we add this amount to the number of cookies eaten on Tuesday to find out how many she ate on Wednesday:
+   \[
+   \text{Cookies on Wednesday} = \text{Cookies on Tuesday} + 40\% \text{ of Cookies on Tuesday} = 10 + 4 = 14
+   \]
+
+4. **Calculate the total number of cookies eaten over the three days**: 
+   Now, we add the cookies eaten on Monday, Tuesday, and Wednesday together:
+   \[
+   \text{Total cookies} = \text{Cookies on Monday} + \text{Cookies on Tuesday} + \text{Cookies on Wednesday} = 5 + 10 + 14
+   \]
+
+   Let's do this addition step-by-step:
+   - First, add the cookies from Monday and Tuesday:
+     \[
+     5 + 10 = 15
+     \]
+   - Now, add the result to the cookies eaten on Wednesday:
+     \[
+     15 + 14 = 29
+     \]
+
+Therefore, the total number of cookies that Annie ate during these three days is 29.
+</reasoning>
+<answer>29</answer>

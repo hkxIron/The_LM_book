@@ -1,0 +1,23 @@
+<reasoning>
+To find out how long it took Kira to make her breakfast, we need to calculate the total time spent frying the sausages and scrambling the eggs separately, then add those times together.
+
+1. **Frying the sausages**: Kira fries 3 sausages, and it takes 5 minutes to fry each sausage. 
+   - To find the total time for frying the sausages, we multiply the number of sausages by the time it takes to fry each one:
+   \[
+   \text{Total time for sausages} = 3 \text{ sausages} \times 5 \text{ minutes/sausage} = 15 \text{ minutes}
+   \]
+
+2. **Scrambling the eggs**: Kira scrambles 6 eggs, and it takes 4 minutes to scramble each egg.
+   - Similarly, to find the total time for scrambling the eggs, we multiply the number of eggs by the time it takes to scramble each one:
+   \[
+   \text{Total time for eggs} = 6 \text{ eggs} \times 4 \text{ minutes/egg} = 24 \text{ minutes}
+   \]
+
+3. **Calculating the total time**: Now that we have the total time for sausages and eggs, we add those times together to find the total time Kira spent making breakfast:
+   \[
+   \text{Total time} = \text{Total time for sausages} + \text{Total time for eggs} = 15 \text{ minutes} + 24 \text{ minutes} = 39 \text{ minutes}
+   \]
+
+Therefore, the total time it took for Kira to make her breakfast is 39 minutes.
+</reasoning>
+<answer>39</answer>

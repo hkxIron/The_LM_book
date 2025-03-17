@@ -1,0 +1,68 @@
+<reasoning>
+To solve the problem, we first need to calculate the area of each TV in square inches. Then, we will determine the weight of each TV based on the area and the given weight per square inch. Finally, we will find the difference in weight between the two TVs and convert it to pounds.
+
+### Step 1: Calculate the area of Bill's TV
+
+Bill's TV measures 48 inches by 100 inches. The area can be calculated using the formula for the area of a rectangle:
+
+\[ \text{Area}_{\text{Bill}} = \text{length} \times \text{width} \]
+
+Substituting in the values:
+
+\[ \text{Area}_{\text{Bill}} = 48 \, \text{inches} \times 100 \, \text{inches} = 4800 \, \text{square inches} \]
+
+### Step 2: Calculate the area of Bob's TV
+
+Bob's TV measures 70 inches by 60 inches. We will apply the same formula:
+
+\[ \text{Area}_{\text{Bob}} = \text{length} \times \text{width} \]
+
+Substituting in the values:
+
+\[ \text{Area}_{\text{Bob}} = 70 \, \text{inches} \times 60 \, \text{inches} = 4200 \, \text{square inches} \]
+
+### Step 3: Calculate the weight of each TV
+
+Now that we have the areas, we can calculate the weights. The weight per square inch is given as 4 oz.
+
+#### Weight of Bill's TV:
+
+\[ \text{Weight}_{\text{Bill}} = \text{Area}_{\text{Bill}} \times \text{weight per square inch} \]
+
+Substituting in the values:
+
+\[ \text{Weight}_{\text{Bill}} = 4800 \, \text{square inches} \times 4 \, \text{oz/square inch} = 19200 \, \text{oz} \]
+
+#### Weight of Bob's TV:
+
+\[ \text{Weight}_{\text{Bob}} = \text{Area}_{\text{Bob}} \times \text{weight per square inch} \]
+
+Substituting in the values:
+
+\[ \text{Weight}_{\text{Bob}} = 4200 \, \text{square inches} \times 4 \, \text{oz/square inch} = 16800 \, \text{oz} \]
+
+### Step 4: Find the difference in weight
+
+Now we find how much more Bill's TV weighs compared to Bob's TV:
+
+\[ \text{Difference} = \text{Weight}_{\text{Bill}} - \text{Weight}_{\text{Bob}} \]
+
+Substituting the calculated weights:
+
+\[ \text{Difference} = 19200 \, \text{oz} - 16800 \, \text{oz} = 2400 \, \text{oz} \]
+
+### Step 5: Convert ounces to pounds
+
+Since there are 16 ounces in a pound, we will convert the difference from ounces to pounds:
+
+\[ \text{Difference in pounds} = \frac{\text{Difference in ounces}}{16 \, \text{oz/pound}} \]
+
+Substituting in the difference:
+
+\[ \text{Difference in pounds} = \frac{2400 \, \text{oz}}{16 \, \text{oz/pound}} = 150 \, \text{pounds} \]
+
+### Conclusion
+
+Thus, the heavier TV, which is Bill's, weighs 150 pounds more than Bob's TV.
+</reasoning>
+<answer>150</answer>

@@ -1,0 +1,46 @@
+<reasoning>
+To solve this problem, we will define some variables and use the information given to set up equations. 
+
+1. **Define Variables:**
+   - Let \( B \) be the number of blue fish.
+   - Let \( O \) be the number of orange fish.
+   - Let \( G \) be the number of green fish.
+
+2. **Set Up Equations:**
+   - We know from the problem that blue fish make up half of all the fish in the aquarium. So the total number of fish, which is 80, can be expressed as:
+     \[
+     B + O + G = 80
+     \]
+   - We are told that blue fish make up half of the total fish, so:
+     \[
+     B = \frac{80}{2} = 40
+     \]
+   - We also know that there are 15 fewer orange fish than blue fish, which gives us the equation:
+     \[
+     O = B - 15
+     \]
+
+3. **Substituting for \( O \):**
+   - Now, substituting \( B = 40 \) into the equation for \( O \):
+     \[
+     O = 40 - 15 = 25
+     \]
+
+4. **Finding the Number of Green Fish:**
+   - Now we can substitute \( B \) and \( O \) into the total fish equation to find \( G \):
+     \[
+     40 + 25 + G = 80
+     \]
+   - Simplifying this, we get:
+     \[
+     65 + G = 80
+     \]
+   - To find \( G \), we subtract 65 from both sides:
+     \[
+     G = 80 - 65 = 15
+     \]
+
+5. **Conclusion:**
+   - Therefore, the number of green fish in the aquarium is \( 15 \).
+</reasoning>
+<answer>15</answer>

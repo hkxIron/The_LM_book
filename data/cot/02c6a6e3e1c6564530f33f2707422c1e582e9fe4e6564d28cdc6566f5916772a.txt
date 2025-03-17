@@ -1,0 +1,42 @@
+<reasoning>
+First, we start with the total number of brownies Tina made, which is 24 pieces.
+
+Next, we calculate how many brownies Tina consumed. She had one brownie with lunch and one with dinner every day for 5 days. 
+
+1. Calculate the total brownies Tina ate:
+   - She eats 2 brownies per day (1 for lunch + 1 for dinner).
+   - Over 5 days, she eats:
+     \[
+     2 \text{ brownies/day} \times 5 \text{ days} = 10 \text{ brownies}
+     \]
+
+Now, we calculate how many brownies her husband ate. He took one brownie per day to work for 5 days.
+
+2. Calculate the total brownies her husband ate:
+   - He eats 1 brownie per day for 5 days:
+     \[
+     1 \text{ brownie/day} \times 5 \text{ days} = 5 \text{ brownies}
+     \]
+
+Now we need to account for the brownies they shared with their dinner guests.
+
+3. Add the shared brownies:
+   - They shared 4 brownies with dinner guests.
+
+Now we can sum up all the brownies eaten by Tina, her husband, and the shared brownies:
+
+4. Calculate the total brownies eaten:
+   \[
+   10 \text{ (Tina)} + 5 \text{ (husband)} + 4 \text{ (shared)} = 19 \text{ brownies}
+   \]
+
+Finally, we find out how many brownies are left by subtracting the total eaten from the original amount:
+
+5. Calculate the remaining brownies:
+   \[
+   24 \text{ (original)} - 19 \text{ (eaten)} = 5 \text{ brownies left}
+   \]
+
+Thus, the number of brownies left is:
+</reasoning>
+<answer>5</answer>

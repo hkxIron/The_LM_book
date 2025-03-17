@@ -1,0 +1,49 @@
+<reasoning>
+Let's start by determining how many tadpoles there are in the pond initially. 
+
+1. We know there are 50 fish in the pond. 
+2. The number of tadpoles is 3 times the number of fish. 
+   Therefore, we can calculate the number of tadpoles as follows: 
+   \[
+   \text{Number of tadpoles} = 3 \times \text{Number of fish} = 3 \times 50 = 150
+   \]
+
+Now, we have:
+- Fish: 50
+- Tadpoles: 150
+
+Next, let's account for the fish that Curtis catches.
+
+3. Curtis catches 7 fish. 
+   To find the remaining number of fish, we subtract the number of fish caught from the initial number of fish:
+   \[
+   \text{Remaining fish} = 50 - 7 = 43
+   \]
+
+Now, let's consider the tadpoles.
+
+4. The problem states that half of the tadpoles develop into frogs. 
+   To find how many tadpoles develop into frogs, we calculate:
+   \[
+   \text{Tadpoles that develop into frogs} = \frac{150}{2} = 75
+   \]
+
+5. Now, we need to find the remaining number of tadpoles after half of them have developed into frogs:
+   \[
+   \text{Remaining tadpoles} = 150 - 75 = 75
+   \]
+
+Now, we can summarize our findings:
+- Remaining fish: 43
+- Remaining tadpoles: 75
+
+Finally, we need to find out how many more tadpoles than fish there are in the pond now:
+
+6. To find the difference between the remaining tadpoles and fish, we subtract the number of fish from the number of tadpoles:
+   \[
+   \text{Difference} = \text{Remaining tadpoles} - \text{Remaining fish} = 75 - 43 = 32
+   \]
+
+Therefore, there are 32 more tadpoles than fish in the pond now.
+</reasoning>
+<answer>32</answer>

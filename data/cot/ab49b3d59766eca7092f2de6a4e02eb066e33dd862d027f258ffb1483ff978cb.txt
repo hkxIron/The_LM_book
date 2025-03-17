@@ -1,0 +1,27 @@
+<reasoning>
+To find out how much Jenna's friends pay for their tickets in total, we will calculate the cost of each set of tickets and then sum them up.
+
+1. **Calculate the cost of the first two tickets from the concert website:**
+   - The price of each ticket is $50.
+   - Jenna buys 2 tickets.
+   - Total cost for the first two tickets = 2 * $50 = $100.
+
+2. **Calculate the cost of the two tickets from the scalper:**
+   - The normal price of a ticket is $50.
+   - The scalper sells the tickets for 240% of the normal price.
+   - 240% of $50 = 2.4 * $50 = $120 (this is the price for one scalper ticket).
+   - Since Jenna is buying two scalper tickets, the total cost before the discount is 2 * $120 = $240.
+   - The scalper offers Jenna $10 off the total payment, so the final cost for the two scalper tickets = $240 - $10 = $230.
+
+3. **Calculate the cost of one discounted ticket through her friend’s job:**
+   - The friend gets a ticket at 60% of the normal price.
+   - 60% of $50 = 0.6 * $50 = $30.
+
+4. **Calculate the total cost of all tickets:**
+   - Total cost = Cost of first two tickets + Cost of two scalper tickets + Cost of discounted ticket.
+   - Total cost = $100 (first two tickets) + $230 (two scalper tickets) + $30 (discounted ticket).
+   - Total cost = $100 + $230 + $30 = $360.
+
+Therefore, Jenna's friends pay a total of $360 for their tickets.
+</reasoning>
+<answer>360</answer>

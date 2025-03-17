@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many muffins Janet bought, we need to first determine how much money she actually spent.
+
+1. **Calculate the amount spent:**
+   Janet paid $20 and received $11 in change. To find out how much she spent, we subtract the change from the total amount she paid:
+   \[
+   \text{Amount spent} = \text{Total paid} - \text{Change received}
+   \]
+   \[
+   \text{Amount spent} = 20 - 11 = 9
+   \]
+   So, Janet spent $9.
+
+2. **Determine the cost of each muffin:**
+   Each muffin costs 75 cents, which is the same as $0.75.
+
+3. **Calculate the number of muffins bought:**
+   To find out how many muffins Janet bought, we divide the total amount spent by the cost of each muffin:
+   \[
+   \text{Number of muffins} = \frac{\text{Amount spent}}{\text{Cost per muffin}}
+   \]
+   \[
+   \text{Number of muffins} = \frac{9}{0.75}
+   \]
+
+4. **Perform the division:**
+   Dividing $9 by $0.75 is the same as multiplying $9 by the reciprocal of $0.75, which is \(\frac{4}{3}\) (since \(0.75 = \frac{3}{4}\)):
+   \[
+   \text{Number of muffins} = 9 \times \frac{4}{3} = 12
+   \]
+
+Therefore, Janet bought 12 muffins.
+</reasoning>
+<answer>12</answer>

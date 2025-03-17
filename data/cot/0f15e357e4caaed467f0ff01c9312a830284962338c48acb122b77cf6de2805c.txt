@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down John's spending step by step.
+
+1. **Determine how much John spent on snacks:**
+   John initially had $20. He spent 1/5 of this amount on snacks. 
+   \[
+   \text{Amount spent on snacks} = \frac{1}{5} \times 20 = 4
+   \]
+   This means John spent $4 on snacks.
+
+2. **Calculate the remaining money after buying snacks:**
+   To find out how much money John has left after spending on snacks, we subtract the amount spent from the initial amount.
+   \[
+   \text{Remaining money} = 20 - 4 = 16
+   \]
+   So now John has $16 left.
+
+3. **Determine how much John spent on necessities:**
+   Next, John spends 3/4 of the remaining money on necessities. We will calculate how much that is.
+   \[
+   \text{Amount spent on necessities} = \frac{3}{4} \times 16 = 12
+   \]
+   Hence, John spent $12 on necessities.
+
+4. **Calculate the remaining money after buying necessities:**
+   Finally, we subtract the amount spent on necessities from the remaining money.
+   \[
+   \text{Final remaining money} = 16 - 12 = 4
+   \]
+   Therefore, John has $4 left after all his spending.
+
+In summary, John started with $20, spent $4 on snacks and $12 on necessities, leaving him with $4.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+To solve the problem, we will first determine the quantity of black and blue pens based on the information provided about the red pens.
+
+1. **Identify the number of red pens**: 
+   According to the problem, Maria has 8 red pens.
+
+2. **Calculate the number of black pens**: 
+   The problem states that there are 10 more black pens than red pens. Therefore, we can calculate the number of black pens by adding 10 to the number of red pens:
+   \[
+   \text{Number of black pens} = \text{Number of red pens} + 10 = 8 + 10 = 18
+   \]
+
+3. **Calculate the number of blue pens**: 
+   The problem also states that there are 7 more blue pens than red pens. To find the number of blue pens, we add 7 to the number of red pens:
+   \[
+   \text{Number of blue pens} = \text{Number of red pens} + 7 = 8 + 7 = 15
+   \]
+
+4. **Calculate the total number of pens**: 
+   Now that we have the number of red, black, and blue pens, we can find the total number of pens by adding these quantities together:
+   \[
+   \text{Total number of pens} = \text{Number of red pens} + \text{Number of black pens} + \text{Number of blue pens}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total number of pens} = 8 + 18 + 15
+   \]
+
+5. **Perform the addition**:
+   First, add the red and black pens:
+   \[
+   8 + 18 = 26
+   \]
+   Then add the blue pens:
+   \[
+   26 + 15 = 41
+   \]
+
+Therefore, the total number of pens in Maria's desk drawer is 41.
+</reasoning>
+<answer>41</answer>

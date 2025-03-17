@@ -1,0 +1,37 @@
+<reasoning>
+To determine how much water is left in the tank at the end of the fourth hour, let's break it down step by step.
+
+1. **Initial amount of water**: The tank starts with 40 gallons of water.
+
+2. **Water loss in the first two hours**: The tank loses 2 gallons of water per hour. Therefore, in the first two hours, the total loss is:
+   \[
+   2 \text{ gallons/hour} \times 2 \text{ hours} = 4 \text{ gallons}
+   \]
+   After 2 hours, the amount of water left in the tank is:
+   \[
+   40 \text{ gallons} - 4 \text{ gallons} = 36 \text{ gallons}
+   \]
+
+3. **Water addition in the third hour**: In the third hour, Hayden adds 1 gallon of water. The tank now contains:
+   \[
+   36 \text{ gallons} + 1 \text{ gallon} = 37 \text{ gallons}
+   \]
+
+4. **Water loss in the third hour**: The tank continues to lose water at a rate of 2 gallons per hour during this hour. Therefore, the total water after accounting for the loss in the third hour is:
+   \[
+   37 \text{ gallons} - 2 \text{ gallons} = 35 \text{ gallons}
+   \]
+
+5. **Water addition in the fourth hour**: In the fourth hour, Hayden adds 3 gallons of water. The tank now contains:
+   \[
+   35 \text{ gallons} + 3 \text{ gallons} = 38 \text{ gallons}
+   \]
+
+6. **Water loss in the fourth hour**: Again, the tank loses 2 gallons during this hour. Therefore, the final amount of water in the tank at the end of the fourth hour is:
+   \[
+   38 \text{ gallons} - 2 \text{ gallons} = 36 \text{ gallons}
+   \]
+
+After going through all the steps, we find that at the end of the fourth hour, there are 36 gallons of water left in the tank.
+</reasoning>
+<answer>36</answer>

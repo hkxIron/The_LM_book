@@ -1,0 +1,39 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the number of chickens that died**: 
+   Carla initially had 400 chickens, and 40% of them died due to a disease. To find out how many chickens died, we will calculate 40% of 400.
+
+   \[
+   \text{Chickens that died} = 40\% \times 400 = \frac{40}{100} \times 400 = 0.4 \times 400 = 160
+   \]
+
+   So, 160 chickens died due to the disease.
+
+2. **Calculate the number of chickens Carla bought**: 
+   According to the problem, Carla bought ten times as many chickens as the number that died. We can calculate this by multiplying the number of chickens that died (160) by 10.
+
+   \[
+   \text{Chickens bought} = 10 \times \text{Chickens that died} = 10 \times 160 = 1600
+   \]
+
+   Carla bought 1600 chickens.
+
+3. **Find the total number of chickens after the purchase**:
+   To find the total number of chickens after Carla bought the new chickens, we will add the number of chickens she had left after the deaths to the number she bought.
+
+   First, we find out how many chickens are left after the disease:
+
+   \[
+   \text{Chickens left} = \text{Initial chickens} - \text{Chickens that died} = 400 - 160 = 240
+   \]
+
+   Now, we add the chickens she bought:
+
+   \[
+   \text{Total chickens now} = \text{Chickens left} + \text{Chickens bought} = 240 + 1600 = 1840
+   \]
+
+Therefore, the total number of chickens Carla has now is 1840.
+</reasoning>
+<answer>1840</answer>

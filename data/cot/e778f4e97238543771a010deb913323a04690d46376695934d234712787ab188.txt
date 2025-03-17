@@ -1,0 +1,30 @@
+<reasoning>
+To find out the total cost of the wedding if John's wife gets her way, we need to break the problem down into manageable steps.
+
+1. **Calculate the number of guests John's wife wants**:
+   John's wife wants 60% more guests than John. John wants 50 guests, so we need to calculate 60% of 50 and then add that to 50.
+   
+   \[
+   \text{60% of 50} = 0.60 \times 50 = 30
+   \]
+   \[
+   \text{Total guests} = 50 + 30 = 80
+   \]
+
+2. **Calculate the cost for the guests**:
+   Each guest costs $500. Therefore, for 80 guests, we multiply the number of guests by the cost per guest.
+   
+   \[
+   \text{Cost for guests} = 80 \times 500 = 40,000
+   \]
+
+3. **Calculate the total wedding cost**:
+   The total cost of the wedding will include both the venue cost and the cost for the guests. The venue cost is $10,000.
+   
+   \[
+   \text{Total wedding cost} = \text{Venue cost} + \text{Cost for guests} = 10,000 + 40,000 = 50,000
+   \]
+
+Therefore, when John's wife gets her way, the total wedding cost will be calculated as shown above.
+</reasoning>
+<answer>50000</answer>

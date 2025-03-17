@@ -1,0 +1,20 @@
+<reasoning>
+To solve the problem, we need to determine the relationship between the height of the tree and the number of rungs Jamie has to climb on his ladder.
+
+1. **Identify the height of the previous rescue**: Jamie previously rescued a cat from a 6-foot tree and climbed 12 rungs of his ladder.
+   
+2. **Calculate the height per rung**: To find out how many feet each rung represents, we divide the height of the tree (6 feet) by the number of rungs (12):
+   \[
+   \text{Height per rung} = \frac{\text{Height of tree}}{\text{Number of rungs}} = \frac{6 \text{ feet}}{12 \text{ rungs}} = 0.5 \text{ feet per rung}
+   \]
+
+3. **Identify the height of the current tree**: The current tree from which Jamie needs to rescue the cat is 20 feet tall.
+
+4. **Calculate the number of rungs needed for the 20-foot tree**: To find out how many rungs Jamie needs to climb to reach the top of the 20-foot tree, we divide the height of the tree (20 feet) by the height per rung (0.5 feet):
+   \[
+   \text{Number of rungs needed} = \frac{\text{Height of tree}}{\text{Height per rung}} = \frac{20 \text{ feet}}{0.5 \text{ feet per rung}} = 40 \text{ rungs}
+   \]
+
+Therefore, Jamie needs to climb 40 rungs to reach the cat stuck in the 20-foot tree.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,35 @@
+<reasoning>
+Let's denote the target number of apples they were aiming to pick as \( T \).
+
+1. **Initial Picking**: Kaiden and Adriel each picked 400 apples initially. Therefore, the total apples picked by both is:
+   \[
+   \text{Total picked initially} = 400 + 400 = 800 \text{ apples}
+   \]
+
+2. **Additional Picking**: Next, they each picked \( \frac{3}{4} \) of what they had already picked. Since each picked 400 apples initially, the additional apples picked by each is:
+   \[
+   \text{Additional picked by each} = 400 \times \frac{3}{4} = 300 \text{ apples}
+   \]
+   Therefore, the total apples picked by both during this additional picking is:
+   \[
+   \text{Total additional picked} = 300 + 300 = 600 \text{ apples}
+   \]
+
+3. **Total Apples Picked**: Now, we can find the total number of apples they have picked altogether:
+   \[
+   \text{Total apples picked} = 800 + 600 = 1400 \text{ apples}
+   \]
+
+4. **Remaining Apples Needed**: According to the problem, they still needed to pick 600 apples each to reach their target. Therefore, the total remaining apples they need to pick is:
+   \[
+   \text{Total remaining needed} = 600 + 600 = 1200 \text{ apples}
+   \]
+
+5. **Target Apples Calculation**: Now we can find the target number of apples \( T \) by adding the total apples picked to the total remaining needed:
+   \[
+   T = \text{Total picked} + \text{Total remaining needed} = 1400 + 1200 = 2600 \text{ apples}
+   \]
+
+Therefore, the target number of apples they were aiming to pick is:
+</reasoning>
+<answer>2600</answer>

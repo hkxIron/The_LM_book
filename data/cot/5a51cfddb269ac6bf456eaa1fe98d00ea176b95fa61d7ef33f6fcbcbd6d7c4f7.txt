@@ -1,0 +1,42 @@
+<reasoning>
+To solve the problem, we need to set up a relationship between the roosters and hens based on the given ratio and total number of chickens.
+
+1. **Understanding the ratio**: The problem states that the roosters outnumber the hens in a ratio of 2 to 1. This means for every 2 roosters, there is 1 hen.
+
+2. **Setting variables**: Let's define the number of hens as \( H \) and the number of roosters as \( R \). According to the ratio, we can express the relationship as:
+   \[
+   R = 2H
+   \]
+   This indicates that the number of roosters is twice the number of hens.
+
+3. **Total chickens**: We also know that the total number of chickens is the sum of the roosters and hens, which can be expressed as:
+   \[
+   R + H = 9000
+   \]
+
+4. **Substituting the first equation into the second**: Since we have \( R = 2H \), we can substitute this into the total chickens equation:
+   \[
+   2H + H = 9000
+   \]
+
+5. **Combining like terms**: This simplifies to:
+   \[
+   3H = 9000
+   \]
+   Here, we added the \( 2H \) and \( H \).
+
+6. **Solving for \( H \)**: To find the number of hens, we divide both sides by 3:
+   \[
+   H = \frac{9000}{3} = 3000
+   \]
+
+7. **Finding \( R \)**: Now that we have the number of hens, we can find the number of roosters using the equation \( R = 2H \):
+   \[
+   R = 2 \times 3000 = 6000
+   \]
+
+So, there are 6000 roosters on the chicken farm.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6000</answer>

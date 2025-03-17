@@ -1,0 +1,24 @@
+<reasoning>
+To find out how long Nicky waited in total, we will break down the problem into two parts: the time he spent waiting to take a number and the time he spent waiting for his number to be called.
+
+1. **First Part of Waiting**: Nicky spent 20 minutes waiting to take a number. 
+   - This is straightforward, so we note that this is **20 minutes**.
+
+2. **Second Part of Waiting**: Next, we need to calculate the time he waited for his number to be called. We know that this time is quadruple the amount of time he spent waiting to take a number, plus 14 minutes.
+   - First, we calculate quadruple the initial waiting time: 
+     \[
+     4 \times 20 \text{ minutes} = 80 \text{ minutes}
+     \]
+   - Now, we add the additional 14 minutes:
+     \[
+     80 \text{ minutes} + 14 \text{ minutes} = 94 \text{ minutes}
+     \]
+
+3. **Total Time Waiting**: Finally, we add both parts of the waiting time together:
+   \[
+   20 \text{ minutes} + 94 \text{ minutes} = 114 \text{ minutes}
+   \]
+
+Therefore, the total time Nicky waited is **114 minutes**.
+</reasoning>
+<answer>114</answer>

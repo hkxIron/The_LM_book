@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many more kilograms Luca lost than Barbi, we first need to calculate the total weight lost by each of them over the respective time periods.
+
+**Step 1: Calculate Barbi's total weight loss in a year.**
+
+Barbi lost 1.5 kilograms each month. Since there are 12 months in a year, we can calculate her total weight loss in a year by multiplying her monthly weight loss by the number of months:
+
+\[
+\text{Total weight lost by Barbi} = 1.5 \text{ kg/month} \times 12 \text{ months} = 18 \text{ kg}
+\]
+
+**Step 2: Calculate Luca's total weight loss over 11 years.**
+
+Luca lost 9 kilograms every year for 11 years. We can calculate his total weight loss by multiplying his annual weight loss by the number of years:
+
+\[
+\text{Total weight lost by Luca} = 9 \text{ kg/year} \times 11 \text{ years} = 99 \text{ kg}
+\]
+
+**Step 3: Find the difference in weight loss between Luca and Barbi.**
+
+Now, we will find how many more kilograms Luca lost compared to Barbi by subtracting Barbi's total weight loss from Luca's total weight loss:
+
+\[
+\text{Difference in weight loss} = \text{Total weight lost by Luca} - \text{Total weight lost by Barbi}
+\]
+
+Substituting the values we calculated:
+
+\[
+\text{Difference in weight loss} = 99 \text{ kg} - 18 \text{ kg} = 81 \text{ kg}
+\]
+
+Therefore, Luca lost 81 kilograms more than Barbi.
+</reasoning>
+<answer>81</answer>

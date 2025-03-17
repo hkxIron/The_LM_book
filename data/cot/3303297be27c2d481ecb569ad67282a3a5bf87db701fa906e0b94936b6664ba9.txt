@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many apples Lexie picked**: 
+   - According to the problem, Lexie picked 12 apples.
+
+2. **Determine how many apples Tom picked**:
+   - The problem states that Tom picked twice as many apples as Lexie. Since Lexie picked 12 apples, we calculate Tom's apples as follows:
+   \[
+   \text{Tom's apples} = 2 \times \text{Lexie's apples} = 2 \times 12 = 24
+   \]
+   So, Tom picked 24 apples.
+
+3. **Calculate the total number of apples collected**:
+   - To find the total number of apples, we need to add the number of apples Lexie picked to the number of apples Tom picked:
+   \[
+   \text{Total apples} = \text{Lexie's apples} + \text{Tom's apples} = 12 + 24
+   \]
+   Performing the addition:
+   \[
+   12 + 24 = 36
+   \]
+
+Thus, Lexie and Tom collected a total of 36 apples altogether.
+</reasoning>
+<answer>36</answer>

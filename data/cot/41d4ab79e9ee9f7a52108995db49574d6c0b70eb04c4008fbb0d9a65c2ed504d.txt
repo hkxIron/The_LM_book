@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many tires Mike changed, we need to know how many tires are on each type of vehicle and then calculate the total.
+
+1. **Identify the number of tires on each vehicle:**
+   - Motorcycles typically have 2 tires each.
+   - Cars typically have 4 tires each.
+
+2. **Calculate the total number of tires changed for motorcycles:**
+   - Mike changed tires on 12 motorcycles.
+   - Each motorcycle has 2 tires.
+   - Therefore, the total tires changed for motorcycles is calculated as:
+     \[
+     12 \text{ motorcycles} \times 2 \text{ tires/motorcycle} = 24 \text{ tires}
+     \]
+
+3. **Calculate the total number of tires changed for cars:**
+   - Mike changed tires on 10 cars.
+   - Each car has 4 tires.
+   - Therefore, the total tires changed for cars is calculated as:
+     \[
+     10 \text{ cars} \times 4 \text{ tires/car} = 40 \text{ tires}
+     \]
+
+4. **Add the total tires changed for motorcycles and cars:**
+   - Now, we need to find the total number of tires changed overall:
+     \[
+     24 \text{ tires (motorcycles)} + 40 \text{ tires (cars)} = 64 \text{ tires}
+     \]
+
+Thus, Mike changed a total of 64 tires.
+</reasoning>
+<answer>64</answer>

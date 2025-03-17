@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much Cadence earned in both companies, we will break the problem down into steps.
+
+1. **Calculate her total earnings at her old company:**
+   - Cadence worked at her old company for 3 years. Since there are 12 months in a year, we calculate the total number of months she worked:
+     \[
+     \text{Months at old company} = 3 \text{ years} \times 12 \text{ months/year} = 36 \text{ months}
+     \]
+   - She earned $5000 per month at her old company. Therefore, her total earnings at the old company can be calculated as:
+     \[
+     \text{Total earnings at old company} = 36 \text{ months} \times 5000 \text{ dollars/month} = 180000 \text{ dollars}
+     \]
+
+2. **Determine how long she has worked at her new company:**
+   - According to the problem, Cadence has worked for her new company for 5 months longer than she worked at her old company. Thus, the number of months she has worked at the new company is:
+     \[
+     \text{Months at new company} = 36 \text{ months} + 5 \text{ months} = 41 \text{ months}
+     \]
+
+3. **Calculate her earnings at her new company:**
+   - She earns 20% more than her previous salary of $5000. First, we need to find out how much 20% of $5000 is:
+     \[
+     20\% \text{ of } 5000 = 0.2 \times 5000 = 1000 \text{ dollars}
+     \]
+   - Now, we add this increase to her old salary to find her new salary:
+     \[
+     \text{New salary} = 5000 \text{ dollars} + 1000 \text{ dollars} = 6000 \text{ dollars/month}
+     \]
+   - Now we can find her total earnings at the new company:
+     \[
+     \text{Total earnings at new company} = 41 \text{ months} \times 6000 \text{ dollars/month} = 246000 \text{ dollars}
+     \]
+
+4. **Calculate the total earnings from both companies:**
+   - Finally, we add her total earnings from both companies:
+     \[
+     \text{Total earnings} = 180000 \text{ dollars} + 246000 \text{ dollars} = 426000 \text{ dollars}
+     \]
+
+Therefore, the total amount of money Cadence has earned from both companies is:
+</reasoning>
+<answer>426000</answer>

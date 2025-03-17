@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem, we'll first determine how much profit Melony makes per shirt and per pair of sandals, then calculate her total profit from selling 7 shirts and 3 pairs of sandals.
+
+1. **Calculate profit per shirt:**
+   Melony makes $21 profit by selling 3 shirts. To find out how much profit she makes per shirt, we divide the total profit by the number of shirts:
+   \[
+   \text{Profit per shirt} = \frac{21}{3} = 7 \text{ dollars per shirt}
+   \]
+
+2. **Calculate profit from selling 7 shirts:**
+   Now, we need to find out how much profit Melony will make if she sells 7 shirts. We multiply the profit per shirt by the number of shirts sold:
+   \[
+   \text{Profit from 7 shirts} = 7 \times 7 = 49 \text{ dollars}
+   \]
+
+3. **Calculate profit from sandals:**
+   According to the problem, she makes four times as much profit on two pairs of sandals compared to the profit from the shirts. Since she makes $21 from selling 3 shirts, we calculate the profit from 2 pairs of sandals:
+   \[
+   \text{Profit from 2 pairs of sandals} = 4 \times 21 = 84 \text{ dollars}
+   \]
+   To get the profit per pair of sandals, we divide the total profit from 2 pairs by 2:
+   \[
+   \text{Profit per pair of sandals} = \frac{84}{2} = 42 \text{ dollars per pair}
+   \]
+
+4. **Calculate profit from selling 3 pairs of sandals:**
+   Now we calculate the profit from selling 3 pairs of sandals:
+   \[
+   \text{Profit from 3 pairs of sandals} = 42 \times 3 = 126 \text{ dollars}
+   \]
+
+5. **Calculate total profit:**
+   Finally, we add the profit from selling shirts and the profit from selling sandals to find the total profit:
+   \[
+   \text{Total profit} = \text{Profit from 7 shirts} + \text{Profit from 3 pairs of sandals}
+   \]
+   \[
+   \text{Total profit} = 49 + 126 = 175 \text{ dollars}
+   \]
+
+Thus, Melony will make a total profit of $175 if she sells 7 shirts and 3 pairs of sandals.
+</reasoning>
+<answer>175</answer>

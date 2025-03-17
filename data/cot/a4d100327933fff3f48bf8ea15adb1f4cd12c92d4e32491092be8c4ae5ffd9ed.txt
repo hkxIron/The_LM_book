@@ -1,0 +1,27 @@
+<reasoning>
+To solve this problem, we will first determine how many players on Ben's hockey team are girls. 
+
+1. **Calculate the number of boys on the team:** 
+   The team is composed of 60% boys. To find the number of boys, we calculate 60% of 50 players. 
+
+   \[
+   \text{Number of boys} = 0.60 \times 50 = 30
+   \]
+
+2. **Calculate the number of girls on the team:** 
+   Since the rest of the team consists of girls, we subtract the number of boys from the total number of players.
+
+   \[
+   \text{Number of girls} = 50 - 30 = 20
+   \]
+
+3. **Determine how many of the girls are juniors:** 
+   We know that half of the girls are juniors and the other half are seniors. Since there are 20 girls, we will calculate half of that:
+
+   \[
+   \text{Number of junior girls} = \frac{20}{2} = 10
+   \]
+
+Thus, the total number of junior girls on Ben's hockey team is 10.
+</reasoning>
+<answer>10</answer>

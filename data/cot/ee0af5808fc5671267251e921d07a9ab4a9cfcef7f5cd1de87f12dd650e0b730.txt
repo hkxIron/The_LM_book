@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Start with the initial number of lambs:** Mary initially has 6 lambs.
+
+2. **Calculate the number of babies:** Two of the lambs had 2 babies each. Therefore, we calculate this as follows:
+   - 2 lambs x 2 babies each = 4 babies.
+   
+   Now, we add these babies to the initial number of lambs:
+   - 6 original lambs + 4 babies = 10 lambs.
+
+3. **Subtract the number of traded lambs:** Mary trades 3 lambs for one goat. We need to subtract these from her current total:
+   - 10 lambs - 3 traded lambs = 7 lambs.
+
+4. **Add the extra lambs found:** One morning, Mary finds an extra 7 lambs in the field. We add these to her current total:
+   - 7 lambs + 7 extra lambs = 14 lambs.
+
+Now, we have calculated all the lambs Mary has after all these events.
+
+Therefore, Mary has a total of 14 lambs.
+</reasoning>
+<answer>14</answer>

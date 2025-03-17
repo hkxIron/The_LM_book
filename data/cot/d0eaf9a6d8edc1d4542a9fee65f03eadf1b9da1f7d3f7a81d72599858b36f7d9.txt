@@ -1,0 +1,27 @@
+<reasoning>
+To determine how many minutes John won the race by, we first need to calculate how long it took him to complete the 5-mile race at a speed of 15 mph.
+
+1. **Calculate John's time to finish the race**:
+   - We know that time can be calculated using the formula:  
+     \[
+     \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+     \]
+   - Here, the distance is 5 miles and the speed is 15 mph. Plugging in these values:  
+     \[
+     \text{Time} = \frac{5 \text{ miles}}{15 \text{ mph}} = \frac{1}{3} \text{ hours}
+     \]
+   - To convert hours into minutes, we multiply by 60 (since there are 60 minutes in an hour):  
+     \[
+     \frac{1}{3} \text{ hours} \times 60 \text{ minutes/hour} = 20 \text{ minutes}
+     \]
+
+2. **Compare John's time to the next fastest guy's time**:
+   - The next fastest guy completed the race in 23 minutes. 
+   - Now, we can calculate how many minutes John won the race by:  
+     \[
+     \text{Time difference} = \text{Next fastest guy's time} - \text{John's time} = 23 \text{ minutes} - 20 \text{ minutes} = 3 \text{ minutes}
+     \]
+
+Therefore, John won the race by 3 minutes.
+</reasoning>
+<answer>3</answer>

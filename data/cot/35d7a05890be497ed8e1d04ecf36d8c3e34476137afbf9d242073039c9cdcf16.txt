@@ -1,0 +1,21 @@
+<reasoning>
+First, we start by determining how many goats Paddington has. We know from the problem that Paddington has 40 more goats than Washington. 
+
+1. **Identify Washington's goats**: Washington has 140 goats.
+2. **Calculate Paddington's goats**: Since Paddington has 40 more than Washington, we add 40 to Washington's count.
+   \[
+   \text{Paddington's goats} = \text{Washington's goats} + 40 = 140 + 40 = 180
+   \]
+
+Now, we have both quantities:
+- Washington has 140 goats.
+- Paddington has 180 goats.
+
+3. **Calculate the total number of goats**: To find the total number of goats they have together, we add Paddington's goats to Washington's goats.
+   \[
+   \text{Total goats} = \text{Paddington's goats} + \text{Washington's goats} = 180 + 140 = 320
+   \]
+
+Therefore, the total number of goats they have is 320.
+</reasoning>
+<answer>320</answer>

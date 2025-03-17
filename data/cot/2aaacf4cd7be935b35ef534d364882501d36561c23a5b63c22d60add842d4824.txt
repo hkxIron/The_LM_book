@@ -1,0 +1,25 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Identify the information given**: 
+   - Yesterday, Joan had half as many gemstones as minerals.
+   - After her trip, she found 6 more mineral samples and now has 48 minerals.
+
+2. **Determine the number of minerals she had yesterday**:
+   - Since she now has 48 minerals and found 6 more today, we can find out how many she had yesterday by subtracting those 6 new samples from the current total.
+   \[
+   \text{Minerals yesterday} = \text{Minerals now} - \text{Minerals found} = 48 - 6 = 42
+   \]
+
+3. **Relate gemstones to minerals**:
+   - We know from the problem that yesterday, the number of gemstones was half the number of minerals.
+   \[
+   \text{Gemstones yesterday} = \frac{1}{2} \times \text{Minerals yesterday} = \frac{1}{2} \times 42 = 21
+   \]
+
+4. **Conclusion**:
+   - The number of gemstone samples Joan has is the same as she had yesterday since there was no information given about her losing or gaining gemstones.
+
+Therefore, Joan has 21 gemstone samples.
+</reasoning>
+<answer>21</answer>

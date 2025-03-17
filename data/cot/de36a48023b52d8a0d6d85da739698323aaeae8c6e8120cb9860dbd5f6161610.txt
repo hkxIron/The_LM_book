@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many hours John needs to watch each day to finish the show in 5 days, we will follow these steps:
+
+1. **Calculate the total viewing time for all episodes:** 
+   There are 20 episodes, and each episode is 30 minutes long. Therefore, the total viewing time in minutes is:
+   \[
+   \text{Total minutes} = \text{Number of episodes} \times \text{Minutes per episode} = 20 \times 30 = 600 \text{ minutes}
+   \]
+
+2. **Convert total viewing time from minutes to hours:** 
+   Since there are 60 minutes in an hour, we can convert the total viewing time to hours:
+   \[
+   \text{Total hours} = \frac{\text{Total minutes}}{60} = \frac{600}{60} = 10 \text{ hours}
+   \]
+
+3. **Determine how many hours John needs to watch each day:** 
+   John wants to finish the show in 5 days, so we divide the total hours by the number of days:
+   \[
+   \text{Hours per day} = \frac{\text{Total hours}}{\text{Number of days}} = \frac{10}{5} = 2 \text{ hours}
+   \]
+
+Thus, John needs to watch 2 hours each day to finish the show in 5 days.
+</reasoning>
+<answer>2</answer>

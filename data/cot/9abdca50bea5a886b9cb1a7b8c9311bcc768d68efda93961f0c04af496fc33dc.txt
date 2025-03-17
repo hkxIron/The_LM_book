@@ -1,0 +1,29 @@
+<reasoning>
+To find the total minutes that Javier and Sanda exercised, we will calculate the minutes each of them exercised separately and then add those amounts together.
+
+1. **Calculate Javier's total exercise time:**
+   - Javier exercised for 50 minutes each day.
+   - There are 7 days in a week.
+   - To find the total minutes Javier exercised, we multiply the number of days by the minutes he exercised each day:
+     \[
+     \text{Total minutes for Javier} = 50 \, \text{minutes/day} \times 7 \, \text{days} = 350 \, \text{minutes}
+     \]
+   - This means Javier exercised for a total of 350 minutes in one week.
+
+2. **Calculate Sanda's total exercise time:**
+   - Sanda exercised for 90 minutes on each of three days.
+   - To find the total minutes Sanda exercised, we multiply the number of days by the minutes she exercised each day:
+     \[
+     \text{Total minutes for Sanda} = 90 \, \text{minutes/day} \times 3 \, \text{days} = 270 \, \text{minutes}
+     \]
+   - This means Sanda exercised for a total of 270 minutes in the three days.
+
+3. **Add Javier's and Sanda's total exercise times together:**
+   - Now we will add the total minutes that Javier and Sanda exercised:
+     \[
+     \text{Total minutes for both} = 350 \, \text{minutes (Javier)} + 270 \, \text{minutes (Sanda)} = 620 \, \text{minutes}
+     \]
+
+Therefore, the total minutes that Javier and Sanda exercised together is 620 minutes.
+</reasoning>
+<answer>620</answer>

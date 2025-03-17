@@ -1,0 +1,41 @@
+<reasoning>
+Let's denote the number of marbles Miriam started with as \( x \).
+
+1. **Understanding the problem**: We know that Miriam currently has 30 marbles. We also know she gave away some marbles to her brother, sister, and friend. We need to determine how many marbles she started with based on the total amount she gave away.
+
+2. **Calculating the amount given to each relative**:
+   - Miriam gave her brother 60 marbles.
+   - She gave her sister twice that amount. So, the amount given to her sister is:
+     \[
+     2 \times 60 = 120 \text{ marbles}
+     \]
+   - She gave her friend Savanna three times the amount she currently has (which is 30 marbles). Therefore, the amount given to Savanna is:
+     \[
+     3 \times 30 = 90 \text{ marbles}
+     \]
+
+3. **Calculating the total marbles given away**:
+   - Now we will add up all the marbles she gave away:
+     \[
+     60 \text{ (brother)} + 120 \text{ (sister)} + 90 \text{ (Savanna)} = 270 \text{ marbles}
+     \]
+
+4. **Relating the total given away to her initial amount**:
+   - Since Miriam started with \( x \) marbles and she gave away 270 marbles, we can express her current number of marbles as:
+     \[
+     x - 270 = 30
+     \]
+
+5. **Solving for \( x \)**:
+   - To find \( x \), we add 270 to both sides of the equation:
+     \[
+     x = 30 + 270
+     \]
+   - Simplifying this gives:
+     \[
+     x = 300
+     \]
+
+Thus, Miriam started with 300 marbles.
+</reasoning>
+<answer>300</answer>

@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to determine how much money Tony has won based on the winning numbers on his lottery tickets.
+
+1. **Identify the number of winning numbers**: Tony has 5 winning numbers on each of his lottery tickets.
+
+2. **Determine the value of each winning number**: According to the problem, each winning number is worth $20.
+
+3. **Calculate the total winnings for one ticket**: Since there are 5 winning numbers and each is worth $20, we can calculate the total winnings for one ticket as follows:
+   \[
+   \text{Total winnings for one ticket} = \text{Number of winning numbers} \times \text{Value of each winning number}
+   \]
+   \[
+   = 5 \times 20 = 100
+   \]
+   So, Tony wins $100 for one lottery ticket.
+
+4. **Calculate the total winnings for all tickets**: Since Tony bought 3 identical tickets, we need to multiply the winnings from one ticket by the number of tickets:
+   \[
+   \text{Total winnings for all tickets} = \text{Total winnings for one ticket} \times \text{Number of tickets}
+   \]
+   \[
+   = 100 \times 3 = 300
+   \]
+
+Therefore, Tony has won a total of $300 from the lottery tickets.
+</reasoning>
+<answer>300</answer>

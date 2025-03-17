@@ -1,0 +1,18 @@
+<reasoning>
+To find the length of the smallest model mustang that Ryan creates, we need to follow these steps:
+
+1. **Determine the length of the mid-size model**: Since the mid-size model is 1/10th the size of the full-size mustang, we need to calculate 1/10th of 240 inches.
+   \[
+   \text{Length of mid-size model} = \frac{240 \text{ inches}}{10} = 24 \text{ inches}
+   \]
+   Here, we divided 240 by 10 because the mid-size model is 1/10th the size of the full-size model.
+
+2. **Determine the length of the smallest model**: The smallest model is half the size of the mid-size model, so we take the length of the mid-size (which we just calculated to be 24 inches) and divide it by 2.
+   \[
+   \text{Length of smallest model} = \frac{24 \text{ inches}}{2} = 12 \text{ inches}
+   \]
+   In this step, we divided the length of the mid-size model by 2 because the smallest model is half the size of the mid-size model.
+
+Therefore, the length of the smallest model mustang is 12 inches.
+</reasoning>
+<answer>12</answer>

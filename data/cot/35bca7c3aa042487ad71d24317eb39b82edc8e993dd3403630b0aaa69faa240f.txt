@@ -1,0 +1,36 @@
+<reasoning>
+To find the difference between the number of words Cameron could type in 5 minutes before and after he broke his arm, we will follow these steps:
+
+1. **Calculate the number of words typed before the injury:**
+   Cameron typed at a rate of 10 words per minute. To find out how many words he could type in 5 minutes, we multiply his typing speed by the time:
+   \[
+   \text{Words before} = \text{Typing speed} \times \text{Time} = 10 \text{ words/minute} \times 5 \text{ minutes}
+   \]
+   Performing the multiplication:
+   \[
+   \text{Words before} = 50 \text{ words}
+   \]
+
+2. **Calculate the number of words typed after the injury:**
+   After breaking his arm, Cameron typed at a rate of 8 words per minute. We will again multiply his typing speed by the time:
+   \[
+   \text{Words after} = 8 \text{ words/minute} \times 5 \text{ minutes}
+   \]
+   Performing the multiplication:
+   \[
+   \text{Words after} = 40 \text{ words}
+   \]
+
+3. **Calculate the difference in the number of words typed:**
+   Now we find the difference between the number of words typed before and after his injury:
+   \[
+   \text{Difference} = \text{Words before} - \text{Words after} = 50 \text{ words} - 40 \text{ words}
+   \]
+   Performing the subtraction:
+   \[
+   \text{Difference} = 10 \text{ words}
+   \]
+
+Thus, the difference between the number of words Cameron could type in 5 minutes before and after he broke his arm is 10 words.
+</reasoning>
+<answer>10</answer>

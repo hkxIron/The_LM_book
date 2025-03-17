@@ -1,0 +1,22 @@
+<reasoning>
+Let's start by determining how many apples Jane put into each of the 4 baskets before her sister took any apples.
+
+1. **Dividing the apples into baskets**: Jane has 64 apples and she sorts them into 4 baskets. To find out how many apples are in each basket, we divide the total number of apples by the number of baskets.
+   \[
+   \text{Apples per basket} = \frac{64 \text{ apples}}{4 \text{ baskets}} = 16 \text{ apples per basket}
+   \]
+   So, initially, each basket contains 16 apples.
+
+2. **Sister taking apples**: Next, we account for the 3 apples that Jane's sister took from each basket. Since there are 4 baskets, we need to calculate the total number of apples taken by her sister.
+   \[
+   \text{Total apples taken} = 3 \text{ apples/basket} \times 4 \text{ baskets} = 12 \text{ apples}
+   \]
+
+3. **Calculating remaining apples**: Now, we subtract the number of apples taken by her sister from the initial number of apples in each basket. Since each basket initially had 16 apples, we need to calculate how many apples are left in each basket after 3 apples are removed.
+   \[
+   \text{Apples remaining in each basket} = 16 \text{ apples} - 3 \text{ apples} = 13 \text{ apples}
+   \]
+
+Therefore, after her sister took 3 apples from each basket, each basket now has 13 apples.
+</reasoning>
+<answer>13</answer>

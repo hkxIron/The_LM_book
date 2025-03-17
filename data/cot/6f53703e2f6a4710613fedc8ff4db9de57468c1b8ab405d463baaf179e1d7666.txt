@@ -1,0 +1,46 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine James's current age.**
+   We're told that in 15 years, James will be 37 years old. To find his current age, we subtract 15 from 37:
+   \[
+   \text{James's current age} = 37 - 15 = 22
+   \]
+   So, James is currently 22 years old.
+
+2. **Determine Janet's age 8 years ago.**
+   We know that 8 years ago, James was twice Janet's age. Since James is currently 22, 8 years ago he was:
+   \[
+   22 - 8 = 14
+   \]
+   At that time, since he was twice Janet's age, we can set up the equation:
+   \[
+   14 = 2 \times \text{Janet's age 8 years ago}
+   \]
+   Solving for Janet's age 8 years ago:
+   \[
+   \text{Janet's age 8 years ago} = \frac{14}{2} = 7
+   \]
+
+3. **Determine Janet's current age.**
+   Since Janet was 7 years old 8 years ago, we find her current age by adding 8:
+   \[
+   \text{Janet's current age} = 7 + 8 = 15
+   \]
+
+4. **Determine when Susan was born.**
+   We know that Susan was born when Janet turned 3. Since Janet is currently 15, we can find out how many years ago Janet turned 3:
+   \[
+   15 - 3 = 12
+   \]
+   This means that Susan is currently 12 years old (since she was born 12 years ago).
+
+5. **Determine how old Susan will be in 5 years.**
+   To find out how old Susan will be in 5 years, we simply add 5 to her current age:
+   \[
+   \text{Susan's age in 5 years} = 12 + 5 = 17
+   \]
+
+Thus, Susan will turn 17 years old in 5 years.
+</reasoning>
+<answer>17</answer>

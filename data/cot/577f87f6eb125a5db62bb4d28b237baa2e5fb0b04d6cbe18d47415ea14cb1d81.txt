@@ -1,0 +1,47 @@
+<reasoning>
+Let's go through the problem step by step.
+
+1. **Determine how many cookies Karen has left after keeping some for herself and giving some away**:
+   - Karen bakes a total of 50 cookies.
+   - She keeps 10 cookies for herself.
+   - She gives 8 cookies to her grandparents.
+
+   To find out how many cookies she has left, we subtract the cookies she kept and gave away from the total she baked:
+   \[
+   \text{Cookies left} = \text{Total cookies} - \text{Cookies kept} - \text{Cookies given away}
+   \]
+   Substituting the values:
+   \[
+   \text{Cookies left} = 50 - 10 - 8
+   \]
+
+   Now we calculate:
+   \[
+   50 - 10 = 40
+   \]
+   \[
+   40 - 8 = 32
+   \]
+   So, Karen has 32 cookies left.
+
+2. **Determine how many cookies each person in her class will receive**:
+   - There are 16 people in her class.
+   - We need to divide the remaining cookies equally among the 16 people.
+
+   The formula to find out how many cookies each person receives is:
+   \[
+   \text{Cookies per person} = \frac{\text{Cookies left}}{\text{Number of people in class}}
+   \]
+   Substituting the values:
+   \[
+   \text{Cookies per person} = \frac{32}{16}
+   \]
+
+   Now we calculate:
+   \[
+   \text{Cookies per person} = 2
+   \]
+
+Therefore, each person in her class will receive 2 cookies.
+</reasoning>
+<answer>2</answer>

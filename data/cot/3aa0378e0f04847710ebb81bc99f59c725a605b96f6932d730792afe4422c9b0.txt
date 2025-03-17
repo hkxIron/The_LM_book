@@ -1,0 +1,25 @@
+<reasoning>
+Let's denote Justin's current age as \( J \).
+
+According to the problem, Angelina is currently 4 years older than Justin. Therefore, we can express Angelina's current age as:
+\[ A = J + 4 \]
+
+The problem also states that in 5 years, Angelina will be 40 years old. We can express Angelina's age in 5 years as:
+\[ A + 5 = 40 \]
+
+Now, we can substitute the expression for Angelina's age from the first equation into the second equation:
+\[ (J + 4) + 5 = 40 \]
+
+Now, let's simplify the equation:
+\[ J + 4 + 5 = 40 \]
+\[ J + 9 = 40 \]
+
+Next, we need to isolate \( J \) by subtracting 9 from both sides:
+\[ J = 40 - 9 \]
+\[ J = 31 \]
+
+Thus, Justin's current age is 31 years old.
+
+Therefore, the answer is:
+</reasoning>
+<answer>31</answer>

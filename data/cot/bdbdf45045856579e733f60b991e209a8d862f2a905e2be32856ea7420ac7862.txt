@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of attendees from company A**: We know from the problem that company A has 30 attendees.
+
+2. **Calculate the number of attendees from company B**: The problem states that company B has twice the number of attendees of company A. So,
+   \[
+   \text{Attendees from company B} = 2 \times \text{Attendees from company A} = 2 \times 30 = 60
+   \]
+
+3. **Calculate the number of attendees from company C**: Company C has 10 more attendees than company A. Therefore,
+   \[
+   \text{Attendees from company C} = \text{Attendees from company A} + 10 = 30 + 10 = 40
+   \]
+
+4. **Calculate the number of attendees from company D**: The problem states that company D has 5 fewer attendees than company C. Thus,
+   \[
+   \text{Attendees from company D} = \text{Attendees from company C} - 5 = 40 - 5 = 35
+   \]
+
+5. **Calculate the total number of attendees from companies A, B, C, and D**: Now we can add up the attendees from each company:
+   \[
+   \text{Total attendees from A, B, C, D} = \text{Attendees from A} + \text{Attendees from B} + \text{Attendees from C} + \text{Attendees from D} 
+   \]
+   \[
+   = 30 + 60 + 40 + 35 = 165
+   \]
+
+6. **Determine the number of attendees not from companies A, B, C, or D**: To find out how many attendees are not from these companies, we subtract the total from the overall total number of attendees registered:
+   \[
+   \text{Attendees not from A, B, C, or D} = \text{Total attendees} - \text{Total attendees from A, B, C, D}
+   \]
+   \[
+   = 185 - 165 = 20
+   \]
+
+Thus, there are 20 attendees who registered and are not from either company A, B, C, or D.
+</reasoning>
+<answer>20</answer>

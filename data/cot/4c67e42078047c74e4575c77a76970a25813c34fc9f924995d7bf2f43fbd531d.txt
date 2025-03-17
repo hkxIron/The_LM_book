@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many fewer peppers the curry house now buys, we will first calculate how many peppers they used to buy and then how many they are currently buying.
+
+1. **Calculate the number of peppers previously bought:**
+   - For very spicy curries: 30 curries * 3 peppers each = 90 peppers
+   - For spicy curries: 30 curries * 2 peppers each = 60 peppers
+   - For mild curries: 10 curries * 1 pepper each = 10 peppers
+
+   Now, we will add these amounts together to find the total number of peppers previously bought:
+   - Total peppers previously = 90 (very spicy) + 60 (spicy) + 10 (mild) = 160 peppers
+
+2. **Calculate the number of peppers currently bought:**
+   - For spicy curries: 15 curries * 2 peppers each = 30 peppers
+   - For mild curries: 90 curries * 1 pepper each = 90 peppers
+
+   Now, we will add these amounts together to find the total number of peppers currently bought:
+   - Total peppers currently = 30 (spicy) + 90 (mild) = 120 peppers
+
+3. **Find the difference in the number of peppers bought:**
+   To find how many fewer peppers the curry house now buys, we subtract the current amount from the previous amount:
+   - Fewer peppers = Total peppers previously - Total peppers currently
+   - Fewer peppers = 160 - 120 = 40 peppers
+
+Therefore, the curry house now buys 40 fewer peppers than before.
+</reasoning>
+<answer>40</answer>

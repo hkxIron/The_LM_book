@@ -1,0 +1,40 @@
+<reasoning>
+Let’s denote the number of adults who attended the concert as \( A \). According to the problem, the number of children \( C \) is three times the number of adults, which we can express as:
+
+\[ C = 3A \]
+
+Next, we need to use the information about ticket prices to set up an equation for the total money collected. The cost of an adult ticket is $7, and the cost of a child's ticket is $3. Therefore, the total revenue from adults and children can be expressed as:
+
+\[ \text{Total Revenue} = 7A + 3C \]
+
+Since we know \( C = 3A \), we can substitute \( C \) in the revenue equation:
+
+\[ \text{Total Revenue} = 7A + 3(3A) \]
+
+This simplifies to:
+
+\[ \text{Total Revenue} = 7A + 9A = 16A \]
+
+According to the problem, the total revenue collected is $6,000. Thus, we can set up the equation:
+
+\[ 16A = 6000 \]
+
+Now, we will solve for \( A \):
+
+\[ A = \frac{6000}{16} \]
+
+Calculating this gives:
+
+\[ A = 375 \]
+
+Now that we know the number of adults, we can find the number of children:
+
+\[ C = 3A = 3 \times 375 = 1125 \]
+
+Finally, to find the total number of people who bought tickets, we add the number of adults and children together:
+
+\[ \text{Total people} = A + C = 375 + 1125 = 1500 \]
+
+Therefore, the total number of people who bought tickets is:
+</reasoning>
+<answer>1500</answer>

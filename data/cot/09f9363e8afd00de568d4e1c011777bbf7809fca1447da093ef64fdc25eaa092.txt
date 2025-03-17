@@ -1,0 +1,25 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many crayons Martha lost**: 
+   Martha initially has 18 crayons. She lost half of them, so we need to calculate half of 18.
+   \[
+   \text{Half of 18} = \frac{18}{2} = 9
+   \]
+   This means Martha lost 9 crayons.
+
+2. **Calculate how many crayons Martha has after losing some**:
+   We subtract the number of crayons she lost from her initial amount:
+   \[
+   \text{Crayons left after losing some} = 18 - 9 = 9
+   \]
+   So, after losing half, Martha has 9 crayons remaining.
+
+3. **Add the new crayons she bought**:
+   Martha then buys a new set of 20 crayons. We need to add this to the number of crayons she has left:
+   \[
+   \text{Total crayons after purchase} = 9 + 20 = 29
+   \]
+   Therefore, after the purchase, Martha has a total of 29 crayons.
+</reasoning>
+<answer>29</answer>

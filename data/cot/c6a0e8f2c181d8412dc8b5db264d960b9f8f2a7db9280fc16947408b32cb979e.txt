@@ -1,0 +1,37 @@
+<reasoning>
+To find the total number of lines Bill drew, we need to calculate the number of lines for each shape he drew and then sum those amounts. 
+
+1. **Calculate the lines for triangles**: 
+   - A triangle has 3 sides, and Bill drew 12 triangles.
+   - So, the total lines from triangles is: 
+     \[
+     12 \text{ triangles} \times 3 \text{ sides/triangle} = 36 \text{ lines}
+     \]
+
+2. **Calculate the lines for squares**: 
+   - A square has 4 sides, and Bill drew 8 squares.
+   - So, the total lines from squares is: 
+     \[
+     8 \text{ squares} \times 4 \text{ sides/square} = 32 \text{ lines}
+     \]
+
+3. **Calculate the lines for pentagons**: 
+   - A pentagon has 5 sides, and Bill drew 4 pentagons.
+   - So, the total lines from pentagons is: 
+     \[
+     4 \text{ pentagons} \times 5 \text{ sides/pentagon} = 20 \text{ lines}
+     \]
+
+4. **Sum all the lines**: 
+   - Now, we need to add the lines from all shapes together:
+     \[
+     36 \text{ lines (triangles)} + 32 \text{ lines (squares)} + 20 \text{ lines (pentagons)} 
+     \]
+   - Calculating this gives:
+     \[
+     36 + 32 + 20 = 88 \text{ lines}
+     \]
+
+Therefore, the total number of lines that Bill drew is 88.
+</reasoning>
+<answer>88</answer>

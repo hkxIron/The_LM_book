@@ -1,0 +1,46 @@
+<reasoning>
+To solve this problem, we need to find the population of New York based on the information provided about New England's population. 
+
+1. First, we know that the population of New England is given as 2,100,000 people. 
+
+2. According to the problem, New York's population is two-thirds of New England's population. We can express this mathematically as:
+   \[
+   \text{Population of New York} = \frac{2}{3} \times \text{Population of New England}
+   \]
+
+3. Now we substitute the population of New England into this equation:
+   \[
+   \text{Population of New York} = \frac{2}{3} \times 2,100,000
+   \]
+
+4. Next, we calculate \(\frac{2}{3} \times 2,100,000\):
+   - First, we divide 2,100,000 by 3:
+     \[
+     2,100,000 \div 3 = 700,000
+     \]
+   - Then we multiply that result by 2:
+     \[
+     700,000 \times 2 = 1,400,000
+     \]
+
+5. Now we have determined the population of New York:
+   \[
+   \text{Population of New York} = 1,400,000
+   \]
+
+6. To find the combined population of both New York and New England, we add the populations of both:
+   \[
+   \text{Combined Population} = \text{Population of New York} + \text{Population of New England}
+   \]
+   \[
+   \text{Combined Population} = 1,400,000 + 2,100,000
+   \]
+
+7. Now we calculate that sum:
+   \[
+   1,400,000 + 2,100,000 = 3,500,000
+   \]
+
+Therefore, the combined population of New York and New England is:
+</reasoning>
+<answer>3500000</answer>

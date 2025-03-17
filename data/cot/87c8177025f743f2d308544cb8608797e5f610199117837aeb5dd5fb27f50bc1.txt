@@ -1,0 +1,45 @@
+<reasoning>
+To find out how much Celina spent in total on the boots, flashlight, and hoodie, we will calculate the cost of each item step by step.
+
+1. **Calculate the cost of the flashlight**:  
+   The flashlight costs 20% of the price of the hoodie.  
+   We know the hoodie costs $80.  
+   To find 20% of $80, we perform the following calculation:  
+   \[
+   \text{Cost of flashlight} = 0.20 \times 80 = 16
+   \]  
+   So, the flashlight costs $16.
+
+2. **Calculate the cost of the boots after the discount**:  
+   The original price of the boots is $110.  
+   Celina gets a 10% discount on the boots.  
+   First, we need to find 10% of $110:  
+   \[
+   \text{Discount on boots} = 0.10 \times 110 = 11
+   \]  
+   Now, we subtract the discount from the original price:  
+   \[
+   \text{Cost of boots after discount} = 110 - 11 = 99
+   \]  
+   So, the boots cost $99 after the discount.
+
+3. **Calculate the total cost**:  
+   Now we will add the costs of all the items together:  
+   - Cost of hoodie = $80  
+   - Cost of flashlight = $16  
+   - Cost of boots after discount = $99  
+   Therefore, the total cost is:  
+   \[
+   \text{Total cost} = 80 + 16 + 99
+   \]
+   Performing the addition:  
+   \[
+   80 + 16 = 96
+   \]  
+   \[
+   96 + 99 = 195
+   \]
+
+Thus, Celina spent a total of $195 on the equipment.
+</reasoning>
+<answer>195</answer>

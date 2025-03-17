@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many thank you cards Jack needs to send, we will follow these steps:
+
+1. **Calculate how many people RSVPed.**  
+   Jack sent out 200 invitations, and 90% of the people RSVPed. We calculate the number of RSVPs as follows:
+   \[
+   \text{RSVPs} = 200 \times 0.90 = 180
+   \]
+   This means 180 people RSVPed.
+
+2. **Calculate how many people actually showed up.**  
+   Out of those who RSVPed, only 80% actually showed up. We calculate the number of people who showed up:
+   \[
+   \text{People who showed up} = 180 \times 0.80 = 144
+   \]
+   So, 144 people attended the wedding.
+
+3. **Subtract the number of people who showed up but didn't get a gift.**  
+   We are told that 10 people who showed up did not receive a gift. Therefore, we need to subtract this number from the total number of attendees:
+   \[
+   \text{People who received gifts} = 144 - 10 = 134
+   \]
+   This means 134 people gave Jack a gift.
+
+4. **Determine how many thank you cards Jack needs.**  
+   Since Jack needs to send a thank you card to each person who gave him a gift, he will send out 134 thank you cards.
+
+Therefore, the total number of thank you cards Jack needs to send is:
+</reasoning>
+<answer>134</answer>

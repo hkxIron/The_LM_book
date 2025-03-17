@@ -1,0 +1,31 @@
+<reasoning>
+To find the total number of balls in the fish tank, we need to calculate the number of red balls and the number of white balls separately, and then add them together.
+
+1. **Calculate the number of red balls:**
+   - There are 3 goldfish.
+   - Each goldfish plays with 10 red balls.
+   - Therefore, the total number of red balls is calculated by multiplying the number of goldfish by the number of red balls each plays with:
+   
+   \[
+   \text{Total red balls} = \text{Number of goldfish} \times \text{Red balls per goldfish} = 3 \times 10 = 30
+   \]
+
+2. **Calculate the number of white balls:**
+   - There are 10 platyfish.
+   - Each platyfish plays with 5 white balls.
+   - Therefore, the total number of white balls is calculated by multiplying the number of platyfish by the number of white balls each plays with:
+   
+   \[
+   \text{Total white balls} = \text{Number of platyfish} \times \text{White balls per platyfish} = 10 \times 5 = 50
+   \]
+
+3. **Calculate the total number of balls:**
+   - Now, we add the total number of red balls and the total number of white balls to find the total number of balls in the fish tank:
+   
+   \[
+   \text{Total balls} = \text{Total red balls} + \text{Total white balls} = 30 + 50 = 80
+   \]
+
+Therefore, the total number of balls in the fish tank is 80.
+</reasoning>
+<answer>80</answer>

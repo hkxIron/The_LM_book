@@ -1,0 +1,29 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Initial Stickers**: Clara starts with a total of 100 stickers.
+
+2. **Giving Stickers to a Boy**: Clara gives 10 stickers to a boy she likes. 
+   - We need to calculate how many stickers she has after this transaction. 
+   - So, we subtract the 10 stickers from her initial amount:
+   \[
+   100 - 10 = 90
+   \]
+   Now, Clara has 90 stickers left.
+
+3. **Giving Stickers to Her Best Friends**: Clara then gives half of the remaining stickers (which is 90) to her best friends. 
+   - To find out how many stickers she gives away, we need to calculate half of 90:
+   \[
+   \frac{90}{2} = 45
+   \]
+   Therefore, Clara gives 45 stickers to her best friends.
+
+4. **Final Count of Stickers**: To find out how many stickers Clara has left after giving 45 stickers to her friends, we subtract the 45 from her current total of 90:
+   \[
+   90 - 45 = 45
+   \]
+   Thus, Clara has 45 stickers left.
+
+Therefore, after following these steps and calculations, we conclude that Clara has 45 stickers remaining.
+</reasoning>
+<answer>45</answer>

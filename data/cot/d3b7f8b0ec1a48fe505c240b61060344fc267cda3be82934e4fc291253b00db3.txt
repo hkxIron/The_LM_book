@@ -1,0 +1,38 @@
+<reasoning>
+Let's break down Julio's earnings step by step.
+
+1. **Calculate the number of customers for each week:**
+   - In the **first week**, the store sells to **35 customers**.
+   - In the **second week**, they sell **twice as many** as the first week:
+     \[
+     2 \times 35 = 70 \text{ customers}
+     \]
+   - In the **third week**, they sell **triple** the number of customers from the first week:
+     \[
+     3 \times 35 = 105 \text{ customers}
+     \]
+
+2. **Calculate the total number of customers over the three weeks:**
+   To find the total customers, we add the customers from each week:
+   \[
+   35 + 70 + 105 = 210 \text{ customers}
+   \]
+
+3. **Calculate Julio's commission from the customers:**
+   Julio earns **$1** for each customer, so for **210 customers**, his commission is:
+   \[
+   210 \times 1 = 210 \text{ dollars}
+   \]
+
+4. **Calculate Julio's total earnings including salary and bonus:**
+   Julio has a salary of **$500** for the 3 weeks and a bonus of **$50**. Therefore, his total earnings can be calculated as follows:
+   \[
+   \text{Total Earnings} = \text{Salary} + \text{Bonus} + \text{Commission}
+   \]
+   \[
+   \text{Total Earnings} = 500 + 50 + 210 = 760 \text{ dollars}
+   \]
+
+Hence, the total amount Julio earns for the 3 weeks is:
+</reasoning>
+<answer>760</answer>

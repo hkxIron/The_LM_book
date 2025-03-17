@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many geckos Brandon has sold in the last two years, we need to follow these steps:
+
+1. **Identify the number of geckos sold last year**: The problem states that Brandon sold 86 geckos last year. 
+
+2. **Calculate the number of geckos sold the year before**: The problem indicates that Brandon sold twice as many geckos the year before last year. To find this, we multiply the number of geckos sold last year by 2:
+   \[
+   \text{Geckos sold the year before} = 2 \times 86
+   \]
+   Performing the multiplication:
+   \[
+   2 \times 86 = 172
+   \]
+   So, Brandon sold 172 geckos the year before.
+
+3. **Add the total number of geckos sold over the two years**: Now, we need to find the total number of geckos sold in the last two years by adding the number sold last year to the number sold the year before:
+   \[
+   \text{Total geckos sold} = \text{Geckos sold last year} + \text{Geckos sold the year before}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total geckos sold} = 86 + 172
+   \]
+   Performing the addition:
+   \[
+   86 + 172 = 258
+   \]
+
+Therefore, the total number of geckos that Brandon has sold in the last two years is 258.
+</reasoning>
+<answer>258</answer>

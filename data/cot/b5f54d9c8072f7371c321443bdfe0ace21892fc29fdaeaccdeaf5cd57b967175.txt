@@ -1,0 +1,39 @@
+<reasoning>
+Let's start by defining the number of chickens Jen has. We can use a variable for this. 
+
+1. Let \( c \) represent the number of chickens Jen has.
+
+2. According to the problem, Jen has 10 more ducks than four times the number of chickens. This can be expressed with the equation:
+   \[
+   \text{Ducks} = 4c + 10
+   \]
+
+3. We are given that Jen has 150 ducks. Therefore, we can substitute 150 for the ducks in our equation:
+   \[
+   150 = 4c + 10
+   \]
+
+4. Next, we will solve for \( c \). To do this, we first isolate the term involving \( c \) by subtracting 10 from both sides:
+   \[
+   150 - 10 = 4c
+   \]
+   \[
+   140 = 4c
+   \]
+
+5. Now, we will divide both sides by 4 to find the number of chickens:
+   \[
+   c = \frac{140}{4} = 35
+   \]
+
+6. Now we know that Jen has 35 chickens. Next, we need to calculate the total number of birds (ducks + chickens):
+   - Jen has 150 ducks, and we just calculated that she has 35 chickens.
+
+7. Adding these together gives:
+   \[
+   \text{Total birds} = \text{Ducks} + \text{Chickens} = 150 + 35 = 185
+   \]
+
+Therefore, the total number of birds Jen has is 185.
+</reasoning>
+<answer>185</answer>

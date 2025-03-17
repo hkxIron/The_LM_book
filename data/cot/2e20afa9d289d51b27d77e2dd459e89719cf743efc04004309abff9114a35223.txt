@@ -1,0 +1,34 @@
+<reasoning>
+To determine how much Annabelle saved, we need to follow these steps:
+
+1. **Calculate how much she spent on junk food**: Annabelle's weekly allowance is $30. She spent a third of it on junk food. We can find out how much that is by calculating:
+   \[
+   \text{Amount spent on junk food} = \frac{1}{3} \times 30
+   \]
+   This simplifies to:
+   \[
+   \text{Amount spent on junk food} = 10
+   \]
+   So, she spent $10 on junk food.
+
+2. **Calculate the total amount spent**: Next, we need to add the amount she spent on sweets to the amount spent on junk food. She spent another $8 on sweets:
+   \[
+   \text{Total spent} = \text{Amount spent on junk food} + \text{Amount spent on sweets}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total spent} = 10 + 8 = 18
+   \]
+
+3. **Calculate how much she saved**: Finally, we will subtract the total amount spent from her weekly allowance to find out how much she saved:
+   \[
+   \text{Amount saved} = \text{Weekly allowance} - \text{Total spent}
+   \]
+   Substituting in the values:
+   \[
+   \text{Amount saved} = 30 - 18 = 12
+   \]
+
+Therefore, Annabelle saved $12.
+</reasoning>
+<answer>12</answer>

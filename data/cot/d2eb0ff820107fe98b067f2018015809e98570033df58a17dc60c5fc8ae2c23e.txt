@@ -1,0 +1,40 @@
+<reasoning>
+To find the area of the rectangle, we first need to determine its dimensions based on the information given.
+
+1. **Identify the width**: The rectangle is given to be 7 inches wide.
+   
+   Therefore, the width (W) = 7 inches.
+
+2. **Calculate the length**: The problem states that the length (L) of the rectangle is 4 times the width. We can express this relationship mathematically:
+
+   \[
+   L = 4 \times W
+   \]
+
+   Substituting the width we found:
+
+   \[
+   L = 4 \times 7 = 28 \text{ inches}
+   \]
+
+3. **Calculate the area**: The area (A) of a rectangle is found using the formula:
+
+   \[
+   A = L \times W
+   \]
+
+   Now we can substitute the values we have for length and width:
+
+   \[
+   A = 28 \times 7
+   \]
+
+4. **Perform the multiplication**: 
+
+   \[
+   A = 28 \times 7 = 196 \text{ square inches}
+   \]
+
+Thus, the area of the rectangle is calculated to be 196 square inches.
+</reasoning>
+<answer>196</answer>

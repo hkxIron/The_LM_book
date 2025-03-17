@@ -1,0 +1,26 @@
+<reasoning>
+To determine how much more water Madeline needs to drink, we first need to calculate how much water she consumes after refilling her water bottle 7 times.
+
+1. **Calculate the total amount of water consumed**: 
+   Each time Madeline refills her water bottle, she drinks 12 ounces of water. Therefore, if she refills it 7 times, the total amount of water she consumes is calculated as follows:
+   \[
+   \text{Total water consumed} = \text{Number of refills} \times \text{Capacity of the bottle}
+   \]
+   Substituting the values:
+   \[
+   \text{Total water consumed} = 7 \times 12 = 84 \text{ ounces}
+   \]
+
+2. **Calculate how much more water she needs**: 
+   Now, we need to find out how much more water she needs to drink to reach her goal of 100 ounces. We can do this by subtracting the amount she has already consumed from her daily goal:
+   \[
+   \text{Water needed} = \text{Daily goal} - \text{Total water consumed}
+   \]
+   Substituting the values:
+   \[
+   \text{Water needed} = 100 - 84 = 16 \text{ ounces}
+   \]
+
+Therefore, the additional amount of water Madeline needs to drink is 16 ounces.
+</reasoning>
+<answer>16</answer>

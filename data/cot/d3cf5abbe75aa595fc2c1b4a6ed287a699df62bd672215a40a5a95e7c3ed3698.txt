@@ -1,0 +1,38 @@
+<reasoning>
+To find out how many cups of large lemonade Tonya sold, we will first determine how much money she made from small and medium lemonades, then subtract that from her total earnings to find out how much she made from large lemonades. Finally, we will calculate how many cups of large lemonade that corresponds to.
+
+1. **Calculate the earnings from small lemonades**:
+   Tonya made $11 from small lemonades, and since each small lemonade costs $1, we can find out how many small cups she sold:
+   \[
+   \text{Number of small lemonades} = \frac{\text{Earnings from small lemonades}}{\text{Price per small lemonade}} = \frac{11}{1} = 11
+   \]
+   So, Tonya sold 11 small lemonades.
+
+2. **Calculate the earnings from medium lemonades**:
+   Tonya made $24 from medium lemonades, and since each medium lemonade costs $2, we can find out how many medium cups she sold:
+   \[
+   \text{Number of medium lemonades} = \frac{\text{Earnings from medium lemonades}}{\text{Price per medium lemonade}} = \frac{24}{2} = 12
+   \]
+   So, Tonya sold 12 medium lemonades.
+
+3. **Calculate the total earnings from small and medium lemonades**:
+   To find out how much she made from small and medium lemonades together:
+   \[
+   \text{Total earnings from small and medium} = 11 + 24 = 35
+   \]
+
+4. **Determine how much she made from large lemonades**:
+   We know that Tonya's total earnings were $50. Therefore, the amount she made from large lemonades can be found by subtracting her earnings from small and medium lemonades from her total earnings:
+   \[
+   \text{Earnings from large lemonades} = \text{Total earnings} - \text{Total earnings from small and medium} = 50 - 35 = 15
+   \]
+
+5. **Calculate the number of large lemonades sold**:
+   Since each large lemonade costs $3, we can determine how many large lemonades she sold:
+   \[
+   \text{Number of large lemonades} = \frac{\text{Earnings from large lemonades}}{\text{Price per large lemonade}} = \frac{15}{3} = 5
+   \]
+
+Therefore, Tonya sold 5 cups of large lemonade.
+</reasoning>
+<answer>5</answer>

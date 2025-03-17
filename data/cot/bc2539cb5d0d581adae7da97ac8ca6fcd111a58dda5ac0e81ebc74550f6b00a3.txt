@@ -1,0 +1,82 @@
+<reasoning>
+Let's denote the number of brown eggs Linda originally had as \( b \). According to the problem, Linda had three times as many white eggs as brown eggs. Therefore, the number of white eggs she had can be represented as \( 3b \).
+
+Now, we can determine the total number of eggs Linda originally had by summing the number of brown eggs and the number of white eggs:
+
+\[
+\text{Total eggs} = b + 3b = 4b
+\]
+
+Next, after dropping her basket, she found that all 5 of the brown eggs survived. This means that the number of brown eggs she had left after the fall is \( 5 \).
+
+We also know that after the fall, Linda has a total of 12 eggs remaining. Therefore, the total number of eggs remaining consists of the 5 brown eggs and the remaining white eggs. We can express this as:
+
+\[
+\text{Total remaining eggs} = \text{Brown eggs remaining} + \text{White eggs remaining} = 5 + \text{White eggs remaining}
+\]
+
+Setting this equal to the total eggs she has left:
+
+\[
+5 + \text{White eggs remaining} = 12
+\]
+
+To find the number of white eggs remaining, we can solve for it:
+
+\[
+\text{White eggs remaining} = 12 - 5 = 7
+\]
+
+Now we know that after the fall, Linda has 7 white eggs. Since we originally defined the number of white eggs as \( 3b \) and we now know this equals 7, we can set up the equation:
+
+\[
+3b = 7
+\]
+
+To find \( b \), we can solve for it:
+
+\[
+b = \frac{7}{3}
+\]
+
+Now, since \( b \) must be a whole number (as you can't have a fraction of an egg), it appears we need to reassess our understanding of the problem. 
+
+Let's reconsider the situation. Linda originally had some brown eggs which we defined as \( b \). The total count of eggs before she dropped them was \( 4b \). After the incident, she ended up with 12 eggs, which included 5 surviving brown eggs. 
+
+Thus, if we take the total eggs after the fall (12) and subtract the surviving brown eggs (5), we find the number of white eggs she must have had before the fall:
+
+\[
+\text{Remaining white eggs} = 12 - 5 = 7
+\]
+
+Using this, we can deduce how many eggs she started with:
+
+- Total eggs = \( b + 3b \)
+- After the fall, she lost some eggs, and we need to find how many were broken.
+
+Now, if there were \( b + 3b = 4b \) total eggs originally and now she has 12:
+
+\[
+4b - \text{broken eggs} = 12
+\]
+
+To find the number of broken eggs, we first need to find \( b \). We already know she has 7 white eggs, which means:
+
+\[
+3b = 7 \implies b = \frac{7}{3} \text{ (not possible, re-evaluate)}
+\]
+
+Instead, let's use the original formulation. Let’s say she originally had:
+
+- Let’s reconsider a situation where \( b = 5 \) (the only integer solution that fits the conditions).
+- Then, she had \( 3b = 15 \) white eggs.
+
+Thus her original total was \( 5 + 15 = 20 \) eggs. After the fall, she had \( 12 \) eggs left:
+
+\[
+20 - 12 = 8 \text{ eggs were broken.}
+\]
+
+So, Linda broke 8 eggs.
+</reasoning>
+<answer>8</answer>

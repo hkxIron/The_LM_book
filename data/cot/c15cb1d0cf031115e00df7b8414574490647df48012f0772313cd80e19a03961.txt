@@ -1,0 +1,26 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Identify the starting weight**: John starts with a bench press of 500 pounds. This is our starting point.
+
+2. **Calculate the reduction in bench press due to the injury**: His bench press goes down by 80%. To find out how much weight that is, we calculate 80% of 500 pounds.
+
+   \[
+   \text{Reduction} = 500 \times 0.80 = 400 \text{ pounds}
+   \]
+
+3. **Determine the new bench press weight after the injury**: We need to find out how much weight he can bench after the reduction. We subtract the reduction from the original weight.
+
+   \[
+   \text{New weight} = 500 - 400 = 100 \text{ pounds}
+   \]
+
+4. **Calculate the weight after training**: After training, he triples the weight he can bench. So we multiply the new weight by 3.
+
+   \[
+   \text{Final weight} = 100 \times 3 = 300 \text{ pounds}
+   \]
+
+Therefore, after all the calculations, John's bench press after the injury and subsequent training is:
+</reasoning>
+<answer>300</answer>

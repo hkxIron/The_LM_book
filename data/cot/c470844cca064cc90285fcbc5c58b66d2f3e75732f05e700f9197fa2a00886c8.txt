@@ -1,0 +1,31 @@
+<reasoning>
+To find out how long it will take to travel from Edmonton to Calgary, we first need to determine the total distance between the two cities.
+
+1. **Find the distance from Edmonton to Red Deer:**
+   Edmonton is 220 kilometers north of Red Deer.
+
+2. **Find the distance from Red Deer to Calgary:**
+   Calgary is 110 kilometers south of Red Deer.
+
+3. **Calculate the total distance from Edmonton to Calgary:**
+   Since Edmonton is north of Red Deer and Calgary is south of Red Deer, the total distance can be calculated by adding the distance from Edmonton to Red Deer and the distance from Red Deer to Calgary:
+   \[
+   \text{Total Distance} = \text{Distance from Edmonton to Red Deer} + \text{Distance from Red Deer to Calgary}
+   \]
+   \[
+   \text{Total Distance} = 220 \text{ km} + 110 \text{ km} = 330 \text{ km}
+   \]
+
+4. **Calculate the time it takes to travel this distance at a speed of 110 kilometers per hour:**
+   We can use the formula for time, which is:
+   \[
+   \text{Time} = \frac{\text{Distance}}{\text{Speed}}
+   \]
+   Plugging in our values:
+   \[
+   \text{Time} = \frac{330 \text{ km}}{110 \text{ km/h}} = 3 \text{ hours}
+   \]
+
+Therefore, the travel time from Edmonton to Calgary at a speed of 110 kilometers per hour is 3 hours.
+</reasoning>
+<answer>3</answer>

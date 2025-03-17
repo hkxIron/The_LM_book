@@ -1,0 +1,24 @@
+<reasoning>
+To determine how many planks of wood Johnny needs for 5 tables, we will follow these steps:
+
+1. **Identify the number of legs per table**: Each table has 4 legs. 
+2. **Calculate the total number of legs for 5 tables**: Since Johnny is building 5 tables, we multiply the number of legs per table by the number of tables:  
+   \[
+   4 \text{ legs/table} \times 5 \text{ tables} = 20 \text{ legs}
+   \]
+
+3. **Determine the number of planks for the surface per table**: Each table requires 5 planks of wood for the surface. 
+
+4. **Calculate the total number of surface planks for 5 tables**: We multiply the number of surface planks per table by the number of tables:  
+   \[
+   5 \text{ planks/table} \times 5 \text{ tables} = 25 \text{ surface planks}
+   \]
+
+5. **Add the total number of leg planks and surface planks**: Now we add the total number of planks needed for the legs and the surface:  
+   \[
+   20 \text{ leg planks} + 25 \text{ surface planks} = 45 \text{ total planks}
+   \]
+
+Thus, Johnny needs 45 planks of wood in total to build 5 tables.
+</reasoning>
+<answer>45</answer>

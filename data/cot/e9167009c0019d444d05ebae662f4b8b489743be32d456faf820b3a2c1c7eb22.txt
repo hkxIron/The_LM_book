@@ -1,0 +1,30 @@
+<reasoning>
+To find the total cost for Clarissa to have 10 copies of a 400-page manuscript printed and bound, we will break down the problem into two parts: the cost of copying and the cost of binding.
+
+1. **Calculate the cost of copying:**
+   - The cost to copy one page is $0.05.
+   - Since the manuscript has 400 pages, the cost to copy one manuscript is:
+     \[
+     \text{Cost to copy one manuscript} = 400 \text{ pages} \times 0.05 \text{ dollars/page} = 20 \text{ dollars}
+     \]
+   - Clarissa needs 10 copies of the manuscript, so the total cost for copying 10 manuscripts is:
+     \[
+     \text{Total cost to copy 10 manuscripts} = 10 \times 20 \text{ dollars} = 200 \text{ dollars}
+     \]
+
+2. **Calculate the cost of binding:**
+   - The cost to bind one manuscript is $5.00.
+   - For 10 manuscripts, the total cost for binding is:
+     \[
+     \text{Total cost to bind 10 manuscripts} = 10 \times 5 \text{ dollars} = 50 \text{ dollars}
+     \]
+
+3. **Calculate the total cost:**
+   - Now, we add the total cost of copying to the total cost of binding:
+     \[
+     \text{Total cost} = \text{Total cost to copy 10 manuscripts} + \text{Total cost to bind 10 manuscripts} = 200 \text{ dollars} + 50 \text{ dollars} = 250 \text{ dollars}
+     \]
+
+Thus, the total cost for Clarissa to have 10 copies of the manuscript printed and bound is $250.
+</reasoning>
+<answer>250</answer>

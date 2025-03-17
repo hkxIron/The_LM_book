@@ -1,0 +1,26 @@
+<reasoning>
+First, let's determine the total amount of water that Caleb and Cynthia can add to the pool in one trip. 
+
+Caleb can add 7 gallons, and Cynthia can add 8 gallons. So, we will add these two amounts together:
+
+\[ 
+7 \text{ gallons (Caleb)} + 8 \text{ gallons (Cynthia)} = 15 \text{ gallons per trip} 
+\]
+
+Next, we need to find out how many trips it will take to fill the pool with a total of 105 gallons of water. To do this, we will divide the total gallons needed by the amount they can add in one trip:
+
+\[ 
+\frac{105 \text{ gallons}}{15 \text{ gallons per trip}} 
+\]
+
+Now, we perform the division:
+
+\[ 
+105 \div 15 = 7 
+\]
+
+This means that it will take them 7 trips to fill the pool completely.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>7</answer>

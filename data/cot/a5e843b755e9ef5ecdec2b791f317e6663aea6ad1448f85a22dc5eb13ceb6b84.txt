@@ -1,0 +1,39 @@
+<reasoning>
+To find the average amount of ground beef sold per day over the three days, we will follow these steps:
+
+1. **Calculate the total amount of beef sold over the three days.**
+   - On Thursday, Walmart sold 210 pounds.
+   - On Friday, they sold twice that amount, which is \( 2 \times 210 \) pounds.
+   - On Saturday, they sold 150 pounds.
+
+2. **Perform the calculations:**
+   - First, calculate the amount sold on Friday:
+     \[
+     2 \times 210 = 420 \text{ pounds}
+     \]
+   - Now, let's add the amounts sold over the three days:
+     \[
+     \text{Total sold} = \text{Thursday} + \text{Friday} + \text{Saturday} = 210 + 420 + 150
+     \]
+   - Performing the addition step-by-step:
+     \[
+     210 + 420 = 630
+     \]
+     \[
+     630 + 150 = 780
+     \]
+   - Therefore, the total amount of beef sold over the three days is 780 pounds.
+
+3. **Calculate the average amount sold per day.**
+   - The average is found by dividing the total amount sold by the number of days (which is 3):
+     \[
+     \text{Average} = \frac{\text{Total sold}}{\text{Number of days}} = \frac{780}{3}
+     \]
+   - Now, we perform the division:
+     \[
+     \frac{780}{3} = 260
+     \]
+
+Thus, the average amount of beef sold per day is 260 pounds.
+</reasoning>
+<answer>260</answer>

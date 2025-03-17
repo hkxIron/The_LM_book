@@ -1,0 +1,49 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Coraline's number:**
+   We are given that Coraline's number is 80. 
+   \[
+   C = 80
+   \]
+
+2. **Determine Jayden's number:**
+   The problem states that Jayden's number is 40 less than Coraline's number. We can write this as:
+   \[
+   J = C - 40
+   \]
+   Substituting Coraline's number into the equation:
+   \[
+   J = 80 - 40 = 40
+   \]
+
+3. **Calculate Mickey's number:**
+   We know that Mickey's number is greater than Jayden's number by exactly 20. We can express this as:
+   \[
+   M = J + 20
+   \]
+   Substituting Jayden's number into the equation:
+   \[
+   M = 40 + 20 = 60
+   \]
+
+4. **Calculate the total of the numbers they have:**
+   Now, we need to find the total of Mickey's, Jayden's, and Coraline's numbers:
+   \[
+   \text{Total} = M + J + C
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total} = 60 + 40 + 80
+   \]
+   Now, we perform the addition:
+   \[
+   \text{Total} = 60 + 40 = 100
+   \]
+   \[
+   \text{Total} = 100 + 80 = 180
+   \]
+
+Therefore, the total of the numbers they have is:
+</reasoning>
+<answer>180</answer>

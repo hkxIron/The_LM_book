@@ -1,0 +1,28 @@
+<reasoning>
+First, we start with the original deck of cards, which has 52 cards. 
+
+Next, Aubrey adds 2 additional cards to the deck. We need to find the total number of cards in the deck after adding these two cards:
+
+\[ 
+52 + 2 = 54 
+\]
+
+Now, Aubrey wants to split the total number of cards evenly among herself and two other players. This means there are a total of 3 players (Aubrey and the two other players).
+
+To find out how many cards each player gets, we divide the total number of cards by the number of players:
+
+\[
+\frac{54}{3}
+\]
+
+Now, we perform the division:
+
+\[
+54 \div 3 = 18
+\]
+
+So, each player will receive 18 cards. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>18</answer>

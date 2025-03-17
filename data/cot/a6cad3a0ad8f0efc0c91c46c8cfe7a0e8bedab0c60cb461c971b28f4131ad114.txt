@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine Louie's Total Goals**:
+   In the last match, Louie scored 4 goals. Up to that point in the season, he had already scored 40 goals. Therefore, we can find Louie's total goals for the season by adding the goals from the last match to the goals scored previously.
+   \[
+   \text{Total goals by Louie} = 40 \text{ (previous goals)} + 4 \text{ (last match goals)} = 44 \text{ goals}
+   \]
+
+2. **Calculate Louie's Brother's Goals Per Game**:
+   It is stated that Louie's brother scored twice as many goals as Louie did in the last match for each game he played. Since Louie scored 4 goals in the last match, Louie's brother would have scored:
+   \[
+   \text{Goals by brother per game} = 2 \times 4 = 8 \text{ goals}
+   \]
+
+3. **Determine the Total Games Played by Brother**:
+   Louie's brother has played for three seasons, and each season consists of 50 games. Therefore, the total number of games he has played is:
+   \[
+   \text{Total games played by brother} = 3 \text{ (seasons)} \times 50 \text{ (games per season)} = 150 \text{ games}
+   \]
+
+4. **Calculate Total Goals Scored by Louie's Brother**:
+   Now, we can find the total number of goals scored by Louie's brother across all games:
+   \[
+   \text{Total goals by brother} = 8 \text{ (goals per game)} \times 150 \text{ (games)} = 1200 \text{ goals}
+   \]
+
+5. **Calculate Total Goals by Both Brothers**:
+   Finally, we can find the total number of goals scored by both Louie and his brother combined:
+   \[
+   \text{Total goals by both} = \text{Total goals by Louie} + \text{Total goals by brother} = 44 \text{ (Louie)} + 1200 \text{ (brother)} = 1244
+   \]
+
+Therefore, the total number of goals the brothers have scored between them is:
+</reasoning>
+<answer>1244</answer>

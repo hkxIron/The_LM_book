@@ -1,0 +1,34 @@
+<reasoning>
+To find out how many adults are on the bus, we need to first determine how many children are on the bus. 
+
+1. **Calculate the number of children:**
+   - We know that children make up 25% of the total passengers.
+   - The total number of passengers on the bus is 60.
+   - To find the number of children, we multiply the total number of passengers by the percentage of children in decimal form:
+     \[
+     \text{Number of children} = 60 \times 0.25
+     \]
+
+2. **Perform the multiplication:**
+   - Calculating this gives:
+     \[
+     60 \times 0.25 = 15
+     \]
+   - Thus, there are 15 children on the bus.
+
+3. **Calculate the number of adults:**
+   - Now that we know there are 15 children, we can find the number of adults by subtracting the number of children from the total number of passengers:
+     \[
+     \text{Number of adults} = 60 - 15
+     \]
+
+4. **Perform the subtraction:**
+   - Calculating this gives:
+     \[
+     60 - 15 = 45
+     \]
+   - Therefore, there are 45 adults on the bus.
+
+In conclusion, after determining the number of children and subtracting that from the total number of passengers, we find that there are 45 adults on the bus.
+</reasoning>
+<answer>45</answer>

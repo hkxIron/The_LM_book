@@ -1,0 +1,66 @@
+<reasoning>
+To find out how many sentences Janice started with today, we will follow these steps:
+
+1. **Calculate the total sentences she typed in the first session (20 minutes)**:
+   - Janice types 6 sentences per minute. 
+   - For 20 minutes, the calculation is: 
+     \[
+     6 \text{ sentences/minute} \times 20 \text{ minutes} = 120 \text{ sentences}
+     \]
+
+2. **Calculate the total sentences she typed in the second session (15 minutes)**:
+   - She continues typing for another 15 minutes.
+   - The calculation is: 
+     \[
+     6 \text{ sentences/minute} \times 15 \text{ minutes} = 90 \text{ sentences}
+     \]
+
+3. **Calculate the total sentences typed before erasing**:
+   - Now, we add the sentences typed in both sessions:
+   \[
+   120 \text{ sentences} + 90 \text{ sentences} = 210 \text{ sentences}
+   \]
+
+4. **Subtract the sentences she had to erase**:
+   - Janice had to erase 40 sentences.
+   - So, the calculation is:
+   \[
+   210 \text{ sentences} - 40 \text{ sentences} = 170 \text{ sentences}
+   \]
+
+5. **Calculate the total sentences she typed in the final session (18 minutes)**:
+   - In the last session, she typed for 18 minutes. 
+   - The calculation is: 
+   \[
+   6 \text{ sentences/minute} \times 18 \text{ minutes} = 108 \text{ sentences}
+   \]
+
+6. **Calculate the total sentences at the end of the day**:
+   - We add the sentences from the previous total to the last session:
+   \[
+   170 \text{ sentences} + 108 \text{ sentences} = 278 \text{ sentences}
+   \]
+
+7. **Set up the equation to find the sentences she started with today**:
+   - We know that by the end of the day, she had 536 sentences. Therefore, we can express this as:
+   \[
+   \text{Sentences started with} + 278 \text{ sentences} = 536 \text{ sentences}
+   \]
+   - Let \( x \) be the number of sentences she started with today. The equation becomes:
+   \[
+   x + 278 = 536
+   \]
+
+8. **Solve for \( x \)**:
+   - To find \( x \), we will subtract 278 from both sides:
+   \[
+   x = 536 - 278
+   \]
+   - Performing the subtraction:
+   \[
+   x = 258
+   \]
+
+Therefore, the number of sentences Janice started with today is 258.
+</reasoning>
+<answer>258</answer>

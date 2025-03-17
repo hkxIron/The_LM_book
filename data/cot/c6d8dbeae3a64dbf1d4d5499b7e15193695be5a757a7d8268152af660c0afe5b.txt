@@ -1,0 +1,52 @@
+<reasoning>
+To find the average number of calls Jean answers per day, we first need to calculate the total number of calls she answered over the week, then divide that total by the number of days she worked.
+
+1. **Calculate the total number of calls answered**:
+   - On Monday, Jean answered 35 calls.
+   - On Tuesday, she answered 46 calls.
+   - On Wednesday, she answered 27 calls.
+   - On Thursday, she answered 61 calls.
+   - On Friday, she answered 31 calls.
+
+   Now, we add these numbers together:
+   \[
+   35 + 46 + 27 + 61 + 31
+   \]
+
+   Let's perform the addition step-by-step:
+   - First, add Monday and Tuesday:
+     \[
+     35 + 46 = 81
+     \]
+   - Next, add Wednesday:
+     \[
+     81 + 27 = 108
+     \]
+   - Then, add Thursday:
+     \[
+     108 + 61 = 169
+     \]
+   - Finally, add Friday:
+     \[
+     169 + 31 = 200
+     \]
+
+   So, the total number of calls answered by Jean from Monday to Friday is 200.
+
+2. **Determine the number of days**:
+   - Jean worked for 5 days (Monday through Friday).
+
+3. **Calculate the average number of calls answered per day**:
+   - To find the average, we divide the total number of calls by the number of days:
+   \[
+   \text{Average} = \frac{\text{Total Calls}}{\text{Number of Days}} = \frac{200}{5}
+   \]
+
+   Now, perform the division:
+   \[
+   \frac{200}{5} = 40
+   \]
+
+Therefore, the average number of calls Jean answers per day is 40.
+</reasoning>
+<answer>40</answer>

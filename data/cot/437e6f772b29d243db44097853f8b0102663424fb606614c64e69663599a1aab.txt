@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem step by step, we first need to determine how many solar systems there are based on the information given.
+
+1. **Identify the number of planets**: According to the problem, there are 20 planets in the galaxy.
+
+2. **Determine the number of solar systems**: The problem states that there are 8 more solar systems for every planet. Therefore, for each of the 20 planets, there are 8 solar systems. 
+   
+   To find the total number of solar systems, we multiply the number of planets by the number of solar systems for each planet:
+   \[
+   \text{Total Solar Systems} = \text{Number of Planets} \times (\text{Solar Systems per Planet} + 1)
+   \]
+   Here, we represent the total solar systems as the number of solar systems per planet plus one (the planet itself):
+   \[
+   \text{Total Solar Systems} = 20 \times (8 + 1) = 20 \times 9 = 180
+   \]
+
+3. **Calculate the total number of solar systems**: 
+   In this context, we can interpret the "8 more solar systems for every planet" to mean that for each of the 20 planets, there are 8 solar systems plus the planet itself, making it 9 total for each planet. Thus, the total is:
+   \[
+   \text{Total Solar Systems} = 20 \times 9 = 180
+   \]
+
+4. **Calculate the total number of planets and solar systems together**: Now we need to find the total number of both solar systems and planets:
+   \[
+   \text{Total} = \text{Total Solar Systems} + \text{Number of Planets} = 180 + 20 = 200
+   \]
+
+Therefore, the total number of solar systems and planets together is:
+</reasoning>
+<answer>200</answer>

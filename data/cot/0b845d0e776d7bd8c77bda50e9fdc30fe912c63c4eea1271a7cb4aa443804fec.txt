@@ -1,0 +1,21 @@
+<reasoning>
+To find out how many hours James spends writing in a week, let's break down the problem step by step.
+
+1. **Determine the total pages written per day**: James writes 5 pages to each of the 2 different people each day. So, we can calculate the total pages he writes in a day as follows:
+   \[
+   \text{Total pages per day} = 5 \text{ pages/person} \times 2 \text{ people} = 10 \text{ pages}
+   \]
+
+2. **Calculate the total pages written in a week**: Since there are 7 days in a week, we multiply the total pages he writes in a day by the number of days in a week:
+   \[
+   \text{Total pages per week} = 10 \text{ pages/day} \times 7 \text{ days/week} = 70 \text{ pages/week}
+   \]
+
+3. **Determine the hours spent writing**: James writes 10 pages in one hour. To find out how many hours he spends writing in a week, we need to divide the total pages written in a week by the number of pages he can write in an hour:
+   \[
+   \text{Hours spent writing} = \frac{\text{Total pages per week}}{\text{Pages per hour}} = \frac{70 \text{ pages}}{10 \text{ pages/hour}} = 7 \text{ hours}
+   \]
+
+Thus, James spends a total of 7 hours writing each week.
+</reasoning>
+<answer>7</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we first need to determine how much water Aubriella has already poured into the fish tank after pouring for 6 minutes.
+
+1. **Convert minutes to seconds:** 
+   We know that 6 minutes is equal to 6 × 60 seconds.
+   \[
+   6 \, \text{minutes} = 6 \times 60 = 360 \, \text{seconds}
+   \]
+
+2. **Calculate the number of gallons poured in 6 minutes:** 
+   Since she pours water at the rate of 1 gallon every 20 seconds, we will find out how many gallons she can pour in 360 seconds.
+   \[
+   \text{Gallons poured} = \frac{\text{Total seconds}}{\text{Seconds per gallon}} = \frac{360 \, \text{seconds}}{20 \, \text{seconds/gallon}} = 18 \, \text{gallons}
+   \]
+
+3. **Determine how much water is needed to fill the tank:** 
+   The fish tank has a total capacity of 50 gallons. We need to find out how many more gallons are needed after pouring 18 gallons.
+   \[
+   \text{Gallons needed} = \text{Total capacity} - \text{Gallons poured} = 50 \, \text{gallons} - 18 \, \text{gallons} = 32 \, \text{gallons}
+   \]
+
+Thus, Aubriella needs to pour 32 more gallons to fill the tank completely.
+</reasoning>
+<answer>32</answer>

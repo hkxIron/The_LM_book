@@ -1,0 +1,22 @@
+<reasoning>
+To find out how many people ate the pizza, we start by determining how many slices were eaten in total.
+
+1. **Calculate the total number of slices eaten**: 
+   The pizza was originally cut into 16 slices, and after eating, there are 4 slices left. 
+   To find out how many slices were eaten, we subtract the number of slices left from the original number of slices:
+   \[
+   \text{Slices eaten} = \text{Original slices} - \text{Slices left} = 16 - 4 = 12
+   \]
+   So, a total of 12 slices were eaten.
+
+2. **Determine how many slices each person ate**: 
+   According to the problem, each person ate 2 slices of pizza.
+
+3. **Calculate the number of people who ate the pizza**: 
+   To find the number of people, we divide the total number of slices eaten by the number of slices each person ate:
+   \[
+   \text{Number of people} = \frac{\text{Slices eaten}}{\text{Slices per person}} = \frac{12}{2} = 6
+   \]
+   Thus, there were 6 people who ate the pizza.
+</reasoning>
+<answer>6</answer>

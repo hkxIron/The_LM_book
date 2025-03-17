@@ -1,0 +1,61 @@
+<reasoning>
+To find out how many plums Tanya bought, we can start by calculating the total number of fruits she initially bought.
+
+1. **Calculate the total number of fruits Tanya bought:**
+   - She bought:
+     - 6 pears
+     - 4 Granny Smith apples
+     - 2 pineapples
+     - Let \( x \) represent the number of plums.
+   - Therefore, the total number of fruits before any fell out is:
+     \[
+     6 + 4 + 2 + x = 12 + x
+     \]
+
+2. **Determine how many fruits fell out of the bag:**
+   - According to the problem, half of the fruit fell out of the bag. Since she ended up with 9 pieces of fruit left, we can set up the equation:
+     \[
+     \text{Total fruit} - \text{Fallen fruit} = \text{Remaining fruit}
+     \]
+   - Since half of the fruit fell out, we can express this as:
+     \[
+     \frac{1}{2} \times (12 + x) = \text{Fallen fruit}
+     \]
+   - Therefore, the remaining fruit can also be expressed as:
+     \[
+     \frac{1}{2} \times (12 + x) = (12 + x) - 9
+     \]
+
+3. **Set up the equation to solve for \( x \):**
+   - Rearranging the equation gives:
+     \[
+     \frac{1}{2} \times (12 + x) = (12 + x) - 9
+     \]
+   - Multiply both sides by 2 to eliminate the fraction:
+     \[
+     12 + x = 2 \times (12 + x) - 18
+     \]
+   - Simplifying the right side:
+     \[
+     12 + x = 24 + 2x - 18
+     \]
+     \[
+     12 + x = 6 + 2x
+     \]
+
+4. **Rearranging the equation:**
+   - Subtract \( x \) from both sides:
+     \[
+     12 = 6 + x
+     \]
+   - Now, isolate \( x \) by subtracting 6 from both sides:
+     \[
+     12 - 6 = x
+     \]
+     \[
+     x = 6
+     \]
+
+Thus, Tanya bought 6 plums.
+</reasoning>
+<answer>6</answer>

@@ -1,0 +1,23 @@
+<reasoning>
+To solve this problem, we need to determine how many slices each pizza should be divided into so that all 20 children receive an equal amount of pizza, without throwing any slices away. 
+
+1. **Calculate the Total Number of Slices**: 
+   The mother has 5 pizzas. If she divides each pizza into \(s\) slices, the total number of slices from all pizzas will be \(5s\).
+
+2. **Determine the Possible Values for \(s\)**: 
+   The mother can choose to divide each pizza into either 6, 8, or 10 slices. Therefore, we will evaluate each case:
+   - If each pizza is divided into 6 slices, then the total number of slices will be \(5 \times 6 = 30\).
+   - If each pizza is divided into 8 slices, then the total number of slices will be \(5 \times 8 = 40\).
+   - If each pizza is divided into 10 slices, then the total number of slices will be \(5 \times 10 = 50\).
+
+3. **Check for Equal Distribution Among Children**:
+   We need to see if the total number of slices can be evenly divided among 20 children:
+   - For 30 slices: \(30 \div 20 = 1.5\) (not an integer, so not equal distribution).
+   - For 40 slices: \(40 \div 20 = 2\) (an integer, so equal distribution is possible).
+   - For 50 slices: \(50 \div 20 = 2.5\) (not an integer, so not equal distribution).
+
+Since we want to avoid throwing away any slices and want everyone to receive an equal number of slices, the only option that works is dividing each pizza into 8 slices, yielding a total of 40 slices, which can be evenly distributed to the 20 children.
+
+Therefore, the mother should divide each pizza into **8 slices**.
+</reasoning>
+<answer>8</answer>

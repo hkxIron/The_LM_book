@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identifying the number of TVs looked at in person**: Beatrice looks at 8 TVs at one store in person.
+
+2. **Calculating the number of TVs looked at online**: She looks at three times as many TVs at an online store. So, we calculate:
+   \[
+   \text{Number of TVs at the online store} = 3 \times 8 = 24
+   \]
+
+3. **Finding the total number of TVs looked at so far**: Now we add the number of TVs Beatrice looked at in person and the number she looked at online:
+   \[
+   \text{Total TVs looked at so far} = 8 + 24 = 32
+   \]
+
+4. **Determining the total number of TVs looked at**: According to the problem, Beatrice looked at a total of 42 TVs. To find out how many TVs she looked at on the auction site, we subtract the total looked at so far from the overall total:
+   \[
+   \text{Number of TVs looked at on the auction site} = 42 - 32 = 10
+   \]
+
+Thus, Beatrice looked at 10 TVs on the auction site.
+</reasoning>
+<answer>10</answer>

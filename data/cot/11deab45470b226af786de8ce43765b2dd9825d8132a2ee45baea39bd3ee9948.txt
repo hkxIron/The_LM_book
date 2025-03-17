@@ -1,0 +1,34 @@
+<reasoning>
+To find out how much farther Emily walks to school and back compared to Troy over five days, we will first calculate the total distance each of them walks in one day and then for five days.
+
+1. **Calculate the round trip distance for Troy in one day:**
+   - Troy's distance to school is 75 meters. So, the distance to school and back is:
+     \[
+     \text{Troy's round trip distance} = 75 \text{ meters} \times 2 = 150 \text{ meters}
+     \]
+
+2. **Calculate the round trip distance for Emily in one day:**
+   - Emily's distance to school is 98 meters. So, the distance to school and back is:
+     \[
+     \text{Emily's round trip distance} = 98 \text{ meters} \times 2 = 196 \text{ meters}
+     \]
+
+3. **Calculate the total distance each walks in five days:**
+   - For Troy:
+     \[
+     \text{Troy's total distance in five days} = 150 \text{ meters} \times 5 = 750 \text{ meters}
+     \]
+   - For Emily:
+     \[
+     \text{Emily's total distance in five days} = 196 \text{ meters} \times 5 = 980 \text{ meters}
+     \]
+
+4. **Calculate how much farther Emily walks than Troy over five days:**
+   - We find the difference between Emily's total distance and Troy's total distance:
+     \[
+     \text{Difference} = 980 \text{ meters} - 750 \text{ meters} = 230 \text{ meters}
+     \]
+
+Therefore, after calculating all the distances and finding the difference, we conclude that Emily walks 230 meters farther than Troy in five days.
+</reasoning>
+<answer>230</answer>

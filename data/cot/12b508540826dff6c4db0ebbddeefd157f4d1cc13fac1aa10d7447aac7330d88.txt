@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many grandchildren Max has, we'll follow these steps:
+
+1. **Identify the number of children Max has**: Max has 8 children.
+
+2. **Determine how many of Max's children have children**: It is stated that all of Max's children have the same number of children as he does, except for 2 of them who have 5 children each. This means that 6 of Max's children have 8 children each (the same number as Max himself).
+
+3. **Calculate the number of grandchildren from the 6 children**: 
+   - Each of the 6 children has 8 children.
+   - Therefore, the total number of grandchildren from these 6 children is:
+     \[
+     6 \text{ (children)} \times 8 \text{ (grandchildren each)} = 48 \text{ grandchildren}
+     \]
+
+4. **Calculate the number of grandchildren from the 2 children**: 
+   - The other 2 children each have 5 children.
+   - Therefore, the total number of grandchildren from these 2 children is:
+     \[
+     2 \text{ (children)} \times 5 \text{ (grandchildren each)} = 10 \text{ grandchildren}
+     \]
+
+5. **Add the number of grandchildren together**: 
+   - Now, we add the grandchildren from both groups:
+     \[
+     48 \text{ (from 6 children)} + 10 \text{ (from 2 children)} = 58 \text{ grandchildren}
+     \]
+
+Thus, after calculating all the grandchildren from Max's children, we find that Max has a total of 58 grandchildren.
+</reasoning>
+<answer>58</answer>

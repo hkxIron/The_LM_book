@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, we need to determine the total production of televisions in the second year after a 10 percent reduction from the first year’s production.
+
+1. **Calculate the total production in the first year:**
+   The factory produced televisions at a constant rate of 10 per day. There are 365 days in a year, so:
+   \[
+   \text{Total production in the first year} = 10 \, \text{televisions/day} \times 365 \, \text{days} = 3650 \, \text{televisions}
+   \]
+   Here, we multiply the daily production rate by the total number of days in the year to find the total output for that year.
+
+2. **Calculate the reduction in production for the second year:**
+   The factory reduces its production by 10 percent in the second year. To find the amount of reduction:
+   \[
+   \text{Reduction} = 10\% \times 3650 \, \text{televisions} = 0.10 \times 3650 = 365 \, \text{televisions}
+   \]
+   We take 10 percent of the total production from the first year to find how many televisions will not be produced in the second year.
+
+3. **Calculate the total production in the second year:**
+   Now we subtract the reduction from the first year's total production to determine the second year’s production:
+   \[
+   \text{Total production in the second year} = 3650 \, \text{televisions} - 365 \, \text{televisions} = 3285 \, \text{televisions}
+   \]
+   This gives us the total number of televisions produced after accounting for the 10 percent decrease.
+
+Therefore, the total production of televisions by the factory in the second year is:
+</reasoning>
+<answer>3285</answer>

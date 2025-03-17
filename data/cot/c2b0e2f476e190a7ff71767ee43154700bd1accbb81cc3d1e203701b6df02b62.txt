@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we first need to determine how long it took each person to write their book in the same units, which will be months.
+
+1. **Convert Woody's writing time to months**: 
+   Woody spent 1.5 years writing his book. We need to convert years into months because 1 year is equal to 12 months:
+   \[
+   \text{Woody's time in months} = 1.5 \, \text{years} \times 12 \, \text{months/year} = 18 \, \text{months}
+   \]
+
+2. **Determine Ivanka's writing time**: 
+   According to the problem, Ivanka took 3 more months than Woody to write her book. Since we have calculated that Woody took 18 months, we can find Ivanka's time by adding 3 months to Woody's time:
+   \[
+   \text{Ivanka's time in months} = \text{Woody's time} + 3 \, \text{months} = 18 \, \text{months} + 3 \, \text{months} = 21 \, \text{months}
+   \]
+
+3. **Calculate the total time spent by both**: 
+   Now, we need to find the total time both Ivanka and Woody spent writing their books. We do this by adding their individual times together:
+   \[
+   \text{Total time} = \text{Woody's time} + \text{Ivanka's time} = 18 \, \text{months} + 21 \, \text{months} = 39 \, \text{months}
+   \]
+
+Therefore, the total time Ivanka and Woody needed to write their books is 39 months.
+</reasoning>
+<answer>39</answer>

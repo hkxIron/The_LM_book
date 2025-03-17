@@ -1,0 +1,46 @@
+<reasoning>
+Let's denote the price of the chair as \( x \).
+
+1. **Finding the price of the table**: The problem states that the table costs 3 times the price of the chair. Therefore, the price of the table is:
+   \[
+   \text{Price of table} = 3x
+   \]
+
+2. **Finding the price of the couch**: Next, we know that the couch costs 5 times the price of the table. Since we've established that the table costs \( 3x \), the price of the couch is:
+   \[
+   \text{Price of couch} = 5 \times (3x) = 15x
+   \]
+
+3. **Total cost of items**: The total cost of all the items (chair, table, and couch) is given as $380. Thus we can write the equation:
+   \[
+   \text{Price of chair} + \text{Price of table} + \text{Price of couch} = 380
+   \]
+   Substituting in the expressions for the prices:
+   \[
+   x + 3x + 15x = 380
+   \]
+
+4. **Combining like terms**: Now, we combine the terms on the left side of the equation:
+   \[
+   1x + 3x + 15x = 19x
+   \]
+
+5. **Setting up the equation**: We now have:
+   \[
+   19x = 380
+   \]
+
+6. **Solving for \( x \)**: To find the price of the chair, we divide both sides of the equation by 19:
+   \[
+   x = \frac{380}{19} = 20
+   \]
+   So, the price of the chair is $20.
+
+7. **Finding the price of the couch**: Now that we know \( x \) (the price of the chair), we can find the price of the couch:
+   \[
+   \text{Price of couch} = 15x = 15 \times 20 = 300
+   \]
+
+Thus, the price of the couch is $300.
+</reasoning>
+<answer>300</answer>

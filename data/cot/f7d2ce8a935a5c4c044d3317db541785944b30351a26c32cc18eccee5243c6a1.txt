@@ -1,0 +1,27 @@
+<reasoning>
+To find out how many coins four bank tellers have in total, we can follow these steps:
+
+1. **Calculate the number of coins each bank teller has**: 
+   Each bank teller has 10 rolls of coins, and each roll contains 25 coins. Therefore, to find the number of coins per teller, we multiply the number of rolls by the number of coins per roll:
+   \[
+   \text{Coins per teller} = 10 \text{ rolls} \times 25 \text{ coins/roll}
+   \]
+   Doing the multiplication:
+   \[
+   \text{Coins per teller} = 10 \times 25 = 250 \text{ coins}
+   \]
+   This means each bank teller has 250 coins.
+
+2. **Calculate the total number of coins for four bank tellers**: 
+   Now that we know how many coins one teller has, we can find the total for four tellers by multiplying the number of coins per teller by the number of tellers:
+   \[
+   \text{Total coins} = 4 \text{ tellers} \times 250 \text{ coins/teller}
+   \]
+   Performing the multiplication:
+   \[
+   \text{Total coins} = 4 \times 250 = 1000 \text{ coins}
+   \]
+
+Therefore, the total number of coins that four bank tellers have is 1000.
+</reasoning>
+<answer>1000</answer>

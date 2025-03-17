@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many sonnets Horatio wrote in total, we start by recognizing the information provided in the problem.
+
+1. **Understanding the Length of Each Sonnet**: We know that each sonnet consists of 14 lines. This is an important detail because it allows us to calculate the total number of lines based on the number of sonnets.
+
+2. **Calculating the Number of Lines in 7 Sonnets**: Since Horatio read 7 sonnets to his lady fair, we can calculate the total number of lines he composed for those sonnets:
+   \[
+   \text{Total lines in 7 sonnets} = 7 \text{ sonnets} \times 14 \text{ lines/sonnet} = 98 \text{ lines}
+   \]
+
+3. **Understanding Horatio's Heartbreak**: The problem states that Horatio is heartbroken over the 70 romantic lines he wrote that she never heard. This implies that he wrote 70 lines in addition to the 98 lines he had already read to her. 
+
+4. **Calculating the Total Lines Written by Horatio**: To find the total number of lines Horatio wrote, we add the lines he read to the lines he wrote that she never heard:
+   \[
+   \text{Total lines written by Horatio} = 98 \text{ lines (read)} + 70 \text{ lines (unheard)} = 168 \text{ lines}
+   \]
+
+5. **Determining the Total Number of Sonnets**: Finally, we need to find out how many sonnets this total number of lines corresponds to. Since each sonnet has 14 lines, we can calculate the total number of sonnets by dividing the total number of lines by the number of lines per sonnet:
+   \[
+   \text{Total sonnets} = \frac{168 \text{ lines}}{14 \text{ lines/sonnet}} = 12 \text{ sonnets}
+   \]
+
+Therefore, Horatio wrote a total of 12 sonnets.
+</reasoning>
+<answer>12</answer>

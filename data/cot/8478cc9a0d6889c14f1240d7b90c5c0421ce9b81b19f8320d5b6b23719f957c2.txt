@@ -1,0 +1,25 @@
+<reasoning>
+To solve this problem, we need to determine how long it takes Jenna to hem the entire 3-foot long hem of her dress. We'll break this down into easy steps.
+
+1. **Convert the hem length from feet to inches**: 
+   Since Jenna's hem is measured in feet, and her stitch length is measured in inches, we need to convert feet to inches. There are 12 inches in a foot. 
+   \[
+   3 \text{ feet} \times 12 \text{ inches/foot} = 36 \text{ inches}
+   \]
+
+2. **Calculate the total number of stitches needed**:
+   Each stitch is 1/4 inch long. To find out how many stitches she needs to cover the 36 inches, we divide the total length of the hem by the length of each stitch. 
+   \[
+   \text{Number of stitches} = \frac{36 \text{ inches}}{1/4 \text{ inch/stitch}} = 36 \text{ inches} \times 4 \text{ stitches/inch} = 144 \text{ stitches}
+   \]
+   (We multiply by 4 because dividing by a fraction is the same as multiplying by its reciprocal.)
+
+3. **Calculate the time it takes to complete the stitches**:
+   Jenna makes 24 stitches per minute, so we divide the total number of stitches by the number of stitches she makes per minute to find out how many minutes it takes.
+   \[
+   \text{Time in minutes} = \frac{144 \text{ stitches}}{24 \text{ stitches/minute}} = 6 \text{ minutes}
+   \]
+
+Therefore, it takes Jenna 6 minutes to hem her dress.
+</reasoning>
+<answer>6</answer>

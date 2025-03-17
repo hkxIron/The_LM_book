@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much less the new babysitter will cost compared to the current babysitter, we need to calculate the total cost for both babysitters for 6 hours of work.
+
+1. **Calculate the cost of Milly's current babysitter.**
+   - Milly's current babysitter charges $16 per hour.
+   - For 6 hours of babysitting, we multiply the hourly rate by the number of hours:
+     \[
+     \text{Current babysitter cost} = 16 \text{ dollars/hour} \times 6 \text{ hours} = 96 \text{ dollars}
+     \]
+   - So, the total cost for the current babysitter is $96.
+
+2. **Calculate the cost of the new babysitter.**
+   - The new babysitter charges $12 per hour.
+   - For 6 hours of babysitting, we multiply the hourly rate by the number of hours:
+     \[
+     \text{New babysitter cost (base)} = 12 \text{ dollars/hour} \times 6 \text{ hours} = 72 \text{ dollars}
+     \]
+   - Now, we need to calculate the extra charges for the kids screaming. Milly's kids scream twice, and the new babysitter charges an extra $3 for each time they scream:
+     \[
+     \text{Extra charges} = 3 \text{ dollars} \times 2 \text{ screams} = 6 \text{ dollars}
+     \]
+   - Now we add the extra charges to the base cost of the new babysitter:
+     \[
+     \text{Total cost for new babysitter} = 72 \text{ dollars} + 6 \text{ dollars} = 78 \text{ dollars}
+     \]
+
+3. **Calculate the difference in cost between the two babysitters.**
+   - We subtract the total cost of the new babysitter from the total cost of the current babysitter:
+     \[
+     \text{Difference} = 96 \text{ dollars} - 78 \text{ dollars} = 18 \text{ dollars}
+     \]
+
+Therefore, switching to the new babysitter will save Milly $18.
+</reasoning>
+<answer>18</answer>

@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step:
+
+1. **Determine the total amount John has**: John has $45 in total for his shopping.
+
+2. **Determine the cost of chips**: The price of each packet of chips is $2. 
+
+3. **Calculate the cost of 15 packets of chips**: We need to find out how much John will spend on the 15 packets of chips.
+   \[
+   \text{Cost of 15 packets of chips} = 15 \times 2 = 30
+   \]
+   This calculation shows that John will spend $30 on chips.
+
+4. **Calculate the remaining money**: Now we subtract the cost of the chips from the total amount John has to see how much he has left for corn chips.
+   \[
+   \text{Remaining money} = \text{Total money} - \text{Cost of chips} = 45 - 30 = 15
+   \]
+   After buying the chips, John has $15 left.
+
+5. **Determine the cost of corn chips**: The price of each packet of corn chips is $1.5.
+
+6. **Calculate how many packets of corn chips John can buy**: We need to see how many packets of corn chips he can purchase with his remaining $15. This can be found by dividing the remaining money by the cost of one packet of corn chips.
+   \[
+   \text{Number of corn chips packets} = \frac{\text{Remaining money}}{\text{Cost of corn chips}} = \frac{15}{1.5}
+   \]
+   Performing the division:
+   \[
+   \frac{15}{1.5} = 10
+   \]
+   This means John can buy 10 packets of corn chips.
+
+Therefore, after performing all the calculations step by step, we find that John can buy 10 packets of corn chips.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+To determine how much money Alex needs to save and how many dollars' worth of groceries he delivered, we can follow these steps:
+
+1. **Calculate how much more money Alex needs to save**: 
+   The cost of the car is $14,600 and Alex currently has $14,500. 
+   \[
+   \text{Amount needed} = \text{Cost of car} - \text{Current savings} = 14,600 - 14,500 = 100
+   \]
+   Alex needs an additional $100.
+
+2. **Calculate the total earnings from delivering groceries**:
+   Alex charges $1.5 per trip. If he makes 40 trips, we can calculate his earnings from the trips:
+   \[
+   \text{Earnings from trips} = \text{Charge per trip} \times \text{Number of trips} = 1.5 \times 40 = 60
+   \]
+   So, Alex earns $60 from the trips alone.
+
+3. **Determine how much more money he needs after the trip earnings**:
+   Next, we need to see how much more he needs to earn after the trip earnings to reach the $100 he needs:
+   \[
+   \text{Remaining amount needed} = \text{Amount needed} - \text{Earnings from trips} = 100 - 60 = 40
+   \]
+   Therefore, Alex still needs to earn $40 from the percentage of grocery prices.
+
+4. **Calculate how much he earns from the percentage of grocery prices**:
+   Let \( x \) be the total value of groceries delivered. He earns 5% of the grocery prices:
+   \[
+   \text{Earnings from groceries} = 0.05 \times x
+   \]
+   We know he needs to earn $40 from grocery deliveries:
+   \[
+   0.05x = 40
+   \]
+
+5. **Solve for \( x \)**:
+   To find \( x \), we can rearrange the equation:
+   \[
+   x = \frac{40}{0.05} = 800
+   \]
+   This means Alex delivered $800 worth of groceries.
+
+Therefore, Alex delivered groceries worth $800 in total.
+</reasoning>
+<answer>800</answer>

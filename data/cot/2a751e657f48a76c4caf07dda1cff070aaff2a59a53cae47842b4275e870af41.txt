@@ -1,0 +1,35 @@
+<reasoning>
+Let's start by defining the current ages of each person based on the information given.
+
+1. **Jackson's Current Age**: We know from the problem that Jackson is currently 20 years old.
+   - Jackson's age = 20 years
+
+2. **Mandy's Current Age**: The problem states that Mandy is ten years older than Jackson.
+   - Mandy's age = Jackson's age + 10 = 20 + 10 = 30 years
+
+3. **Adele's Current Age**: The problem states that Adele is 3/4 as old as Jackson.
+   - Adele's age = (3/4) * Jackson's age = (3/4) * 20 = 15 years
+
+Now, we have the current ages:
+- Jackson: 20 years
+- Mandy: 30 years
+- Adele: 15 years
+
+Next, we need to calculate their ages 10 years from now.
+
+4. **Calculating their Ages in 10 Years**:
+   - Jackson's age in 10 years = 20 + 10 = 30 years
+   - Mandy's age in 10 years = 30 + 10 = 40 years
+   - Adele's age in 10 years = 15 + 10 = 25 years
+
+5. **Total of Their Ages in 10 Years**: Now, we will add their ages together to find the total.
+   - Total age = Jackson's age in 10 years + Mandy's age in 10 years + Adele's age in 10 years
+   - Total age = 30 + 40 + 25
+
+Calculating the total:
+- Total age = 30 + 40 = 70
+- Total age = 70 + 25 = 95
+
+Therefore, the total of their ages in 10 years will be:
+</reasoning>
+<answer>95</answer>

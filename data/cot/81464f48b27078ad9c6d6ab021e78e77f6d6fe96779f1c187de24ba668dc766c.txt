@@ -1,0 +1,47 @@
+<reasoning>
+To find out how much the total prize money was that Rica's group won, we can follow these steps:
+
+1. **Define the total prize money**: Let's denote the total prize money as \( P \).
+
+2. **Calculate Rica's prize money**: Since Rica received \( \frac{3}{8} \) of the total prize money, her prize money can be expressed as:
+   \[
+   \text{Rica's prize money} = \frac{3}{8}P
+   \]
+
+3. **Calculate how much Rica spent**: Rica spent \( \frac{1}{5} \) of her prize money. To find this amount, we calculate:
+   \[
+   \text{Amount spent} = \frac{1}{5} \times \frac{3}{8}P = \frac{3}{40}P
+   \]
+
+4. **Determine how much Rica has left**: After spending \( \frac{3}{40}P \), the amount of money Rica has left can be calculated as:
+   \[
+   \text{Amount left} = \text{Rica's prize money} - \text{Amount spent}
+   \]
+   Substituting the previous expressions, we have:
+   \[
+   \text{Amount left} = \frac{3}{8}P - \frac{3}{40}P
+   \]
+
+5. **Find a common denominator**: The common denominator between 8 and 40 is 40. We can rewrite \( \frac{3}{8}P \) with a denominator of 40:
+   \[
+   \frac{3}{8}P = \frac{3 \times 5}{8 \times 5}P = \frac{15}{40}P
+   \]
+
+6. **Subtract the amounts**: Now we can subtract the amounts:
+   \[
+   \text{Amount left} = \frac{15}{40}P - \frac{3}{40}P = \frac{12}{40}P = \frac{3}{10}P
+   \]
+
+7. **Set up the equation**: We know that after her spending, Rica is left with $300:
+   \[
+   \frac{3}{10}P = 300
+   \]
+
+8. **Solve for \( P \)**: To find \( P \), we can multiply both sides of the equation by \( \frac{10}{3} \):
+   \[
+   P = 300 \times \frac{10}{3} = 1000
+   \]
+
+Therefore, the total prize money that Rica's group won is:
+</reasoning>
+<answer>1000</answer>

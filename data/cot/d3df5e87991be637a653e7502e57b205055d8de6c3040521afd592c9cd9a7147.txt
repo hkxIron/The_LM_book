@@ -1,0 +1,27 @@
+<reasoning>
+To find the total number of beds in the hotel rooms at Palm Meadows, we will break down the problem step by step.
+
+1. **Identify the number of rooms with two beds**: According to the problem, there are 8 rooms that each have two beds. 
+   - To find the total number of beds from these rooms, we multiply the number of rooms by the number of beds in each room:
+   \[
+   \text{Total beds from two-bed rooms} = 8 \text{ rooms} \times 2 \text{ beds/room} = 16 \text{ beds}
+   \]
+
+2. **Identify the number of rooms with three beds**: The problem states there are a total of 13 hotel rooms and we know 8 of them have two beds. Therefore, the number of rooms with three beds can be found by subtracting the two-bed rooms from the total number of rooms:
+   \[
+   \text{Number of three-bed rooms} = 13 \text{ total rooms} - 8 \text{ two-bed rooms} = 5 \text{ three-bed rooms}
+   \]
+
+3. **Calculate the total number of beds from the three-bed rooms**: We now need to calculate the number of beds in the three-bed rooms:
+   \[
+   \text{Total beds from three-bed rooms} = 5 \text{ rooms} \times 3 \text{ beds/room} = 15 \text{ beds}
+   \]
+
+4. **Calculate the total number of beds in the hotel**: Finally, we add the total number of beds from the two-bed rooms and the three-bed rooms together:
+   \[
+   \text{Total beds} = 16 \text{ beds (from two-bed rooms)} + 15 \text{ beds (from three-bed rooms)} = 31 \text{ beds}
+   \]
+
+Therefore, the total number of beds in Palm Meadows is:
+</reasoning>
+<answer>31</answer>

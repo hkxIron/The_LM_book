@@ -1,0 +1,46 @@
+<reasoning>
+To solve the problem, let's define the variables first:
+
+- Let \( K \) be the number of fish Kyle caught.
+- Since Kyle and Tasha caught the same number of fish, we can say \( T = K \) (where \( T \) is the number of fish Tasha caught).
+- We know that Carla caught 8 fish.
+
+Now, we can set up the equation based on the total number of fish caught:
+
+1. Carla's fish + Kyle's fish + Tasha's fish = Total fish caught
+2. This translates to: \( 8 + K + K = 36 \)
+
+Next, let's simplify the equation:
+
+1. Combine the \( K \) terms: 
+   \[
+   8 + 2K = 36
+   \]
+
+Now, we want to isolate \( K \):
+
+1. Subtract 8 from both sides:
+   \[
+   2K = 36 - 8
+   \]
+   \[
+   2K = 28
+   \]
+
+2. Now, divide both sides by 2 to solve for \( K \):
+   \[
+   K = \frac{28}{2}
+   \]
+   \[
+   K = 14
+   \]
+
+Thus, Kyle caught 14 fish. 
+
+To verify:
+- Tasha also caught 14 fish (since K = T).
+- Total fish caught = 8 (Carla) + 14 (Kyle) + 14 (Tasha) = 36, which matches the total given.
+
+Therefore, the answer is correct.
+</reasoning>
+<answer>14</answer>

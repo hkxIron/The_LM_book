@@ -1,0 +1,30 @@
+<reasoning>
+To find John's new combined total lifting capacity, we will first calculate his new Clean & Jerk and Snatch weights based on the increases provided.
+
+1. **Calculate the new Clean & Jerk weight**: 
+   - John's initial Clean & Jerk weight was 80 kg. 
+   - He doubles this weight, so we multiply by 2:
+     \[
+     \text{New Clean & Jerk} = 80 \, \text{kg} \times 2 = 160 \, \text{kg}
+     \]
+
+2. **Calculate the new Snatch weight**: 
+   - John's initial Snatch weight was 50 kg.
+   - He increases this weight by 80%. First, we need to find 80% of 50 kg:
+     \[
+     80\% \, \text{of} \, 50 \, \text{kg} = 0.80 \times 50 \, \text{kg} = 40 \, \text{kg}
+     \]
+   - Now, we add this increase to the original Snatch weight:
+     \[
+     \text{New Snatch} = 50 \, \text{kg} + 40 \, \text{kg} = 90 \, \text{kg}
+     \]
+
+3. **Calculate the combined total lifting capacity**: 
+   - Now that we have both the new Clean & Jerk and Snatch weights, we can find the combined total:
+     \[
+     \text{Combined Total} = \text{New Clean & Jerk} + \text{New Snatch} = 160 \, \text{kg} + 90 \, \text{kg} = 250 \, \text{kg}
+     \]
+
+Therefore, John's new combined total lifting capacity is 250 kg.
+</reasoning>
+<answer>250</answer>

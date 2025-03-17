@@ -1,0 +1,60 @@
+<reasoning>
+Let's denote Amy's age as \( A \), Jeremy's age as \( J \), and Chris's age as \( C \).
+
+We know from the problem statement that:
+1. The combined age of Amy, Jeremy, and Chris is 132:
+   \[
+   A + J + C = 132
+   \]
+2. Amy is 1/3 the age of Jeremy:
+   \[
+   A = \frac{1}{3}J
+   \]
+3. Chris is twice as old as Amy:
+   \[
+   C = 2A
+   \]
+
+Now, we will substitute the expressions for \( A \) and \( C \) from equations 2 and 3 into equation 1.
+
+First, substitute \( A \) into \( C \):
+\[
+C = 2A = 2 \left(\frac{1}{3}J\right) = \frac{2}{3}J
+\]
+
+Now, substitute \( A \) and \( C \) into the combined age equation:
+\[
+\frac{1}{3}J + J + \frac{2}{3}J = 132
+\]
+
+Next, combine the terms on the left side. To do this, we can convert \( J \) into a fraction with a common denominator of 3:
+\[
+\frac{1}{3}J + \frac{3}{3}J + \frac{2}{3}J = 132
+\]
+This simplifies to:
+\[
+\frac{1 + 3 + 2}{3}J = 132
+\]
+or
+\[
+\frac{6}{3}J = 132
+\]
+which simplifies further to:
+\[
+2J = 132
+\]
+
+Now, solve for \( J \) by dividing both sides by 2:
+\[
+J = \frac{132}{2} = 66
+\]
+
+So, Jeremy's age is 66. 
+
+Finally, let's summarize:
+1. We defined the ages and set up equations based on the information given.
+2. We substituted and combined the equations to find Jeremy's age.
+
+Therefore, Jeremy is 66 years old.
+</reasoning>
+<answer>66</answer>

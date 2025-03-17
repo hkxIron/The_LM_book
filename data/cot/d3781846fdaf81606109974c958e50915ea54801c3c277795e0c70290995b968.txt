@@ -1,0 +1,29 @@
+<reasoning>
+To solve the problem, we first need to determine how much Chris's internet bill is above the base charge for 100 GB.
+
+1. **Identify the base charge and the overage charge**: 
+   - The base charge for Chris's internet is $45 for 100 GB.
+   - He is charged $0.25 for every 1 GB over the 100 GB limit.
+
+2. **Determine how much Chris’s total bill exceeded the base charge**:
+   - Chris's total bill this month is $65.
+   - To find out how much he was charged over the base amount, we subtract the base charge from the total charge:
+   \[
+   \text{Overage Charge} = \text{Total Bill} - \text{Base Charge}
+   \]
+   \[
+   \text{Overage Charge} = 65 - 45 = 20
+   \]
+
+3. **Calculate how many GB over the limit this charge represents**:
+   - Since he pays $0.25 for every 1 GB over, we can find the number of GB over by dividing the overage charge by the per GB charge:
+   \[
+   \text{Number of GB Over} = \frac{\text{Overage Charge}}{\text{Charge per GB}}
+   \]
+   \[
+   \text{Number of GB Over} = \frac{20}{0.25} = 80
+   \]
+
+Therefore, Chris was charged for 80 GB over the limit.
+</reasoning>
+<answer>80</answer>

@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many loaves of bread Jim can bake, we first need to calculate the total amount of flour he has available.
+
+1. **Add the amounts of flour from different locations:**
+   - Jim has 200g of flour in the cupboard.
+   - He has 100g of flour on the kitchen counter.
+   - He has 100g of flour in the pantry.
+
+Now, we will sum these amounts:
+\[
+200g + 100g + 100g = 400g
+\]
+
+2. **Determine how many loaves can be made with the total flour:**
+   - We know that each loaf of bread requires 200g of flour.
+   - Now, we will divide the total amount of flour by the amount of flour required for one loaf:
+\[
+\frac{400g}{200g} = 2
+\]
+
+This means that with 400g of flour, Jim can bake 2 loaves of bread.
+
+Therefore, Jim can bake **2 loaves of bread**.
+</reasoning>
+<answer>2</answer>

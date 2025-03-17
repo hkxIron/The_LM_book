@@ -1,0 +1,34 @@
+<reasoning>
+To solve this problem, we need to calculate the total demerits Andy has already accumulated and then determine how many more he can receive before reaching the limit of 50 demerits.
+
+1. **Calculate demerits from showing up late:**
+   Andy received 2 demerits for each instance of showing up late, and he was late 6 times. 
+   So, we multiply the number of instances by the demerits per instance:
+   \[
+   2 \text{ demerits/instance} \times 6 \text{ instances} = 12 \text{ demerits}
+   \]
+   This means Andy has received 12 demerits for being late.
+
+2. **Calculate demerits from making an inappropriate joke:**
+   Andy received 15 demerits for making one inappropriate joke. 
+   So, we add this to the total:
+   \[
+   15 \text{ demerits} = 15 \text{ demerits}
+   \]
+   This means Andy has received 15 demerits for his inappropriate joke.
+
+3. **Calculate total demerits:**
+   Now, we need to find the total number of demerits Andy has:
+   \[
+   12 \text{ demerits (late)} + 15 \text{ demerits (joke)} = 27 \text{ demerits}
+   \]
+   Therefore, Andy has accumulated 27 demerits so far.
+
+4. **Determine how many more demerits he can get:**
+   Andy can accumulate a total of 50 demerits before getting fired. To find out how many more demerits he can receive, we subtract the demerits he has from the total allowed:
+   \[
+   50 \text{ demerits (total allowed)} - 27 \text{ demerits (current)} = 23 \text{ demerits}
+   \]
+   This means Andy can still receive 23 more demerits before getting fired.
+</reasoning>
+<answer>23</answer>

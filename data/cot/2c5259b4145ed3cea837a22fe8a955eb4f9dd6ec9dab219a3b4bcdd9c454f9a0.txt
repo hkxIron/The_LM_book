@@ -1,0 +1,25 @@
+<reasoning>
+To determine how many more rolls of wrapping paper Chandler needs to sell, we first need to calculate how many rolls he has already sold. 
+
+1. **Calculate the total sold**: 
+   - Chandler sold 3 rolls to his grandmother.
+   - He sold 4 rolls to his uncle.
+   - He sold 3 rolls to a neighbor.
+
+   We add these amounts together:
+
+   Total sold = 3 (grandmother) + 4 (uncle) + 3 (neighbor) = 10 rolls.
+
+   **Explanation**: We are adding the number of rolls sold to different people to find the total number of rolls Chandler has sold so far.
+
+2. **Calculate how many more rolls he needs to sell**:
+   - Chandler's goal is to sell 12 rolls.
+   - We subtract the total sold (10 rolls) from his goal (12 rolls):
+
+   Rolls needed = 12 (goal) - 10 (sold) = 2 rolls.
+
+   **Explanation**: We subtract the number of rolls he has already sold from the total he needs to reach his goal, which tells us how many more rolls he needs to sell.
+
+Therefore, Chandler needs to sell 2 more rolls of wrapping paper.
+</reasoning>
+<answer>2</answer>

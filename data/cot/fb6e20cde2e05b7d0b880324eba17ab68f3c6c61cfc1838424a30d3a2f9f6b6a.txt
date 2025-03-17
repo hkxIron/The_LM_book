@@ -1,0 +1,50 @@
+<reasoning>
+To solve how many kilometers Natalia rode in total, let's break it down step by step.
+
+1. **Distance Ridden on Monday**: 
+   Natalia rode 40 kilometers on Monday.
+
+2. **Distance Ridden on Tuesday**: 
+   On Tuesday, she rode 50 kilometers. 
+
+3. **Distance Ridden on Wednesday**: 
+   On Wednesday, she rode 50% fewer kilometers than Tuesday. 
+   - First, we need to calculate 50% of Tuesday's distance:
+     \[
+     50\% \text{ of } 50 \text{ km} = 0.5 \times 50 = 25 \text{ km}
+     \]
+   - Now, we subtract that from Tuesday's distance to find out how many kilometers she rode on Wednesday:
+     \[
+     \text{Distance on Wednesday} = 50 \text{ km} - 25 \text{ km} = 25 \text{ km}
+     \]
+
+4. **Distance Ridden on Thursday**: 
+   On Thursday, she rode as many kilometers as the sum of the distances from Monday and Wednesday.
+   - First, we calculate the sum of the distances from Monday and Wednesday:
+     \[
+     \text{Distance on Monday} + \text{Distance on Wednesday} = 40 \text{ km} + 25 \text{ km} = 65 \text{ km}
+     \]
+   - Therefore, she rode 65 kilometers on Thursday.
+
+5. **Total Distance Ridden**: 
+   Now, we need to find the total distance ridden over the four days by adding up all the distances:
+   \[
+   \text{Total Distance} = \text{Distance on Monday} + \text{Distance on Tuesday} + \text{Distance on Wednesday} + \text{Distance on Thursday}
+   \]
+   \[
+   \text{Total Distance} = 40 \text{ km} + 50 \text{ km} + 25 \text{ km} + 65 \text{ km}
+   \]
+   - Performing the addition:
+     \[
+     40 + 50 = 90
+     \]
+     \[
+     90 + 25 = 115
+     \]
+     \[
+     115 + 65 = 180
+     \]
+
+Therefore, the total distance that Natalia rode in the cycling competition over the four days is 180 kilometers.
+</reasoning>
+<answer>180</answer>

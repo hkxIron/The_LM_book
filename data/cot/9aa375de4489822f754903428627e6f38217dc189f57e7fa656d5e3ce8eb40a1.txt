@@ -1,0 +1,35 @@
+<reasoning>
+To solve the problem, we first need to calculate how much Ayla talks on the phone in a week and then determine her monthly phone bill based on that.
+
+1. **Determine the duration of each call**: Each call lasts for 1 hour. Since there are 60 minutes in an hour, each call lasts 60 minutes.
+
+2. **Calculate the total minutes for 50 calls**: If Ayla talks to 50 customers a week, the total minutes she spends talking to customers in a week is:
+   \[
+   \text{Total minutes per week} = \text{Number of calls} \times \text{Duration of each call}
+   \]
+   Substituting the values:
+   \[
+   \text{Total minutes per week} = 50 \text{ calls} \times 60 \text{ minutes} = 3000 \text{ minutes}
+   \]
+
+3. **Calculate the total cost for a week**: The cost per minute is 5 cents. Therefore, the total cost for the phone calls in a week is:
+   \[
+   \text{Total cost per week} = \text{Total minutes per week} \times \text{Cost per minute}
+   \]
+   Substituting the values:
+   \[
+   \text{Total cost per week} = 3000 \text{ minutes} \times 0.05 \text{ dollars} = 150 \text{ dollars}
+   \]
+
+4. **Calculate the total cost for a month**: There are approximately 4 weeks in a month, so the total cost for the month is:
+   \[
+   \text{Total cost per month} = \text{Total cost per week} \times 4
+   \]
+   Substituting the values:
+   \[
+   \text{Total cost per month} = 150 \text{ dollars} \times 4 = 600 \text{ dollars}
+   \]
+
+Therefore, Ayla's phone bill at the end of the month is:
+</reasoning>
+<answer>600</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To determine how much Jaco will pay for the items after applying the discount, we will follow these steps:
+
+1. **Calculate the total cost of the items before any discount.**
+   - The cost of the shoes is $74.
+   - The cost of the socks is $2 per pair, and Jaco bought 2 pairs. Therefore, the total cost for the socks is:
+     \[
+     2 \text{ pairs} \times 2 \text{ dollars/pair} = 4 \text{ dollars}
+     \]
+   - The cost of the bag is $42.
+
+   Now, we will add these amounts together to find the total cost:
+   \[
+   \text{Total cost} = 74 \text{ (shoes)} + 4 \text{ (socks)} + 42 \text{ (bag)} = 120 \text{ dollars}
+   \]
+
+2. **Determine if Jaco qualifies for the discount.**
+   - The store offers a 10% discount for the amount exceeding $100. Since Jaco's total is $120, we need to find the amount that exceeds $100:
+   \[
+   120 - 100 = 20 \text{ dollars}
+   \]
+   - This means Jaco qualifies for a discount on $20.
+
+3. **Calculate the discount amount.**
+   - The discount is 10% of the amount exceeding $100:
+   \[
+   \text{Discount} = 10\% \times 20 = 0.10 \times 20 = 2 \text{ dollars}
+   \]
+
+4. **Subtract the discount from the total cost.**
+   - Now we will subtract the discount from the total cost to find the final amount Jaco has to pay:
+   \[
+   \text{Final amount} = 120 - 2 = 118 \text{ dollars}
+   \]
+
+Therefore, after applying the discount, Jaco will pay a total of $118.
+</reasoning>
+<answer>118</answer>

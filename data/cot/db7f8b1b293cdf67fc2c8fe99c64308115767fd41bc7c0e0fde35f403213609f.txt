@@ -1,0 +1,46 @@
+<reasoning>
+To find out how many cars parked without paying, we first need to determine how many cars have valid tickets and how many have permanent parking passes.
+
+1. **Calculate the number of cars with valid tickets:**
+   Since 75% of the cars have valid tickets, we can calculate this by multiplying the total number of cars by 75%.
+
+   \[
+   \text{Number of cars with valid tickets} = 300 \times 0.75 = 225
+   \]
+
+   This means 225 cars have paid for their parking.
+
+2. **Calculate the number of cars with permanent parking passes:**
+   We know that 1/5th of the cars with valid tickets have permanent parking passes. So, we will take the number of cars with valid tickets and divide that by 5.
+
+   \[
+   \text{Number of cars with permanent parking passes} = \frac{225}{5} = 45
+   \]
+
+   This means 45 cars have permanent parking passes and do not need to pay for parking.
+
+3. **Determine the total number of cars that paid for parking:**
+   The total number of cars that paid for parking includes those with valid tickets and those with permanent parking passes.
+
+   \[
+   \text{Total paid for parking} = \text{Number of cars with valid tickets} + \text{Number of cars with permanent parking passes}
+   \]
+
+   \[
+   \text{Total paid for parking} = 225 + 45 = 270
+   \]
+
+4. **Calculate the number of cars that did not pay:**
+   To find the number of cars that did not pay for parking, we subtract the total number of cars that paid from the total number of cars in the parking lot.
+
+   \[
+   \text{Number of cars that did not pay} = \text{Total cars} - \text{Total paid for parking}
+   \]
+
+   \[
+   \text{Number of cars that did not pay} = 300 - 270 = 30
+   \]
+
+Therefore, the number of people who tried to park in the lot without paying is 30.
+</reasoning>
+<answer>30</answer>

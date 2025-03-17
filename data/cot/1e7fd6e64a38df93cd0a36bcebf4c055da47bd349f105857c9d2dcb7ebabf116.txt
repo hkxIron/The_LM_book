@@ -1,0 +1,21 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **First Day**: Nala found 5 seashells.
+   - At this point, she has a total of 5 seashells.
+
+2. **Second Day**: Nala found another 7 seashells.
+   - Now, we need to add the seashells from the second day to the total she had after the first day: 
+   - Total after the second day = Seashells from the first day + Seashells from the second day = 5 + 7 = 12 seashells.
+
+3. **Third Day**: Nala found twice the number of seashells she found on the first two days.
+   - First, we need to calculate the total number of seashells she found on the first two days: 
+   - Total from the first two days = 5 + 7 = 12 seashells.
+   - Now, we find twice that amount: 2 * 12 = 24 seashells.
+
+4. **Final Calculation**: Now, we add the seashells she found on the third day to her total from the first two days:
+   - Total seashells = Total after the second day + Seashells from the third day = 12 + 24 = 36 seashells.
+
+Therefore, after calculating each day's find and summing them up, Nala has a total of 36 seashells.
+</reasoning>
+<answer>36</answer>

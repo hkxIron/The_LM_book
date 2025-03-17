@@ -1,0 +1,40 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the number of strawberries Kimberly's brother picked:**
+   - He picked 3 baskets, each containing 15 strawberries. 
+   - We can find the total by multiplying the number of baskets by the number of strawberries per basket:
+     \[
+     \text{Strawberries picked by brother} = 3 \text{ baskets} \times 15 \text{ strawberries/basket} = 45 \text{ strawberries}
+     \]
+
+2. **Calculate the number of strawberries Kimberly picked:**
+   - Kimberly picked 8 times the amount her brother picked. 
+   - So, we multiply the number of strawberries her brother picked by 8:
+     \[
+     \text{Strawberries picked by Kimberly} = 8 \times 45 = 360 \text{ strawberries}
+     \]
+
+3. **Calculate the number of strawberries Kimberly's parents picked:**
+   - Her parents picked 93 strawberries less than Kimberly. 
+   - We subtract 93 from the number of strawberries Kimberly picked:
+     \[
+     \text{Strawberries picked by parents} = 360 - 93 = 267 \text{ strawberries}
+     \]
+
+4. **Calculate the total number of strawberries picked by the family:**
+   - Now we add up the strawberries picked by Kimberly, her brother, and her parents:
+     \[
+     \text{Total strawberries} = 360 + 45 + 267 = 672 \text{ strawberries}
+     \]
+
+5. **Dividing the total strawberries equally among the family members:**
+   - There are 4 members in the family (Kimberly, her brother, and their two parents).
+   - We divide the total number of strawberries by 4 to find out how many each member would get:
+     \[
+     \text{Strawberries per person} = \frac{672}{4} = 168 \text{ strawberries}
+     \]
+
+Therefore, each family member would have 168 strawberries if they divide the total number of strawberries equally amongst them.
+</reasoning>
+<answer>168</answer>

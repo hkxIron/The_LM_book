@@ -1,0 +1,29 @@
+<reasoning>
+First, we need to determine how much storage Jeff has left on his phone after using 4 GB. 
+
+1. **Calculate remaining storage**: 
+   Jeff's phone has a total of 16 GB, and he is using 4 GB. 
+   To find out how much storage is left, we subtract the used storage from the total storage:
+   \[
+   16 \text{ GB} - 4 \text{ GB} = 12 \text{ GB}
+   \]
+   This means Jeff has 12 GB of free storage available for more songs.
+
+2. **Convert GB to MB**: 
+   Since each GB contains 1000 MB, we convert the remaining storage from GB to MB:
+   \[
+   12 \text{ GB} \times 1000 \text{ MB/GB} = 12000 \text{ MB}
+   \]
+   Now, Jeff has 12000 MB of free storage.
+
+3. **Determine the size of one song**:
+   We know that one song takes up about 30 MB of storage.
+
+4. **Calculate the number of songs Jeff can store**: 
+   To find out how many songs can fit in the available 12000 MB, we divide the total available storage by the size of one song:
+   \[
+   \frac{12000 \text{ MB}}{30 \text{ MB/song}} = 400 \text{ songs}
+   \]
+   Therefore, Jeff can store a total of 400 songs on his phone.
+</reasoning>
+<answer>400</answer>

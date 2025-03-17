@@ -1,0 +1,20 @@
+<reasoning>
+To solve this problem, we need to determine how many quarters Libby has after paying for the dress.
+
+1. **Convert the payment amount from dollars to quarters**: 
+   - We know that 1 dollar is equal to 4 quarters. Therefore, to find out how many quarters are in $35, we multiply 35 by 4.
+   \[
+   35 \text{ dollars} \times 4 \text{ quarters/dollar} = 140 \text{ quarters}
+   \]
+   This means Libby needs to use 140 quarters to pay for the dress.
+
+2. **Calculate the number of quarters Libby has left**: 
+   - Libby starts with 160 quarters. After paying for the dress with 140 quarters, we subtract the number of quarters used from the total number of quarters she had.
+   \[
+   160 \text{ quarters} - 140 \text{ quarters} = 20 \text{ quarters}
+   \]
+   This calculation shows how many quarters Libby has remaining after the payment.
+
+Therefore, Libby will have 20 quarters left after replacing her sister's dress.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+To solve this problem, we need to determine the total number of employees at Sarah's company first, and then find out how many of those are women based on the percentage given.
+
+1. Let's denote the total number of employees at Sarah's job as \( E \).
+2. From the information given, 60% of those employees are women. Therefore, the remaining 40% are men.
+3. We know that 75% of the men have a college degree and that there are 8 men who do not have a college degree. 
+
+Let's denote the number of men as \( M \). Since 40% of the total employees are men, we can express this as:
+\[ M = 0.40E \]
+
+4. If 75% of the men have a college degree, then 25% do not have a college degree. We can express this mathematically as:
+\[ 0.25M = 8 \]
+This means that 25% of the men equals 8 men who do not have a college degree.
+
+5. To find the total number of men \( M \), we can rearrange the equation:
+\[ M = \frac{8}{0.25} = 32 \]
+This means there are 32 men in total.
+
+6. Now we can find the total number of employees \( E \) using the equation for men:
+\[ 0.40E = 32 \]
+To solve for \( E \), we rearrange this:
+\[ E = \frac{32}{0.40} = 80 \]
+So, the total number of employees is 80.
+
+7. Now we can find the number of women:
+Since 60% of the employees are women:
+\[ \text{Number of women} = 0.60E = 0.60 \times 80 = 48 \]
+
+Thus, we can conclude that the number of women working at Sarah's company is 48.
+</reasoning>
+<answer>48</answer>

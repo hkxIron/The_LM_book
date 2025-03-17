@@ -1,0 +1,40 @@
+<reasoning>
+Let's denote David's age as \( D \). According to the problem, Yuan is 7 years older than David, which we can express mathematically as:
+
+\[
+Y = D + 7
+\]
+
+where \( Y \) is Yuan's age. The problem also states that Yuan is twice David's age, which we can express as:
+
+\[
+Y = 2D
+\]
+
+Now we have two equations:
+1. \( Y = D + 7 \)
+2. \( Y = 2D \)
+
+Since both expressions equal \( Y \), we can set them equal to each other:
+
+\[
+D + 7 = 2D
+\]
+
+Next, we will solve for \( D \). To do this, we can subtract \( D \) from both sides of the equation:
+
+\[
+7 = 2D - D
+\]
+
+This simplifies to:
+
+\[
+7 = D
+\]
+
+Now that we have found David's age, we can conclude that David is 7 years old.
+
+Therefore, David's age is:
+</reasoning>
+<answer>7</answer>

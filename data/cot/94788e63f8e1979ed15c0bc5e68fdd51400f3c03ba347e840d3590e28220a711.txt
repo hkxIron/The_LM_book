@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many matches Brendan won throughout the competition, we will break it down step by step.
+
+1. **Calculate the wins in the first two rounds:**
+   - Brendan wins all matches in the first round, which has 6 matches.
+   - He also wins all matches in the second round, which also has 6 matches.
+
+   So, the total wins in the first two rounds is:
+   \[
+   \text{Total wins in first two rounds} = 6 + 6 = 12
+   \]
+
+2. **Calculate the wins in the last round:**
+   - In the last round, there are 4 matches.
+   - Brendan wins half of these matches. To find half of 4, we can do the following calculation:
+   \[
+   \text{Wins in the last round} = \frac{4}{2} = 2
+   \]
+
+3. **Add all wins together:**
+   - Now, we need to add the wins from all rounds together. We have 12 wins from the first two rounds and 2 wins from the last round.
+   \[
+   \text{Total wins} = 12 + 2 = 14
+   \]
+
+Therefore, the total number of matches Brendan won throughout the competition is:
+</reasoning>
+<answer>14</answer>

@@ -1,0 +1,31 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Understanding Elyse's initial amount**: Elyse starts with 100 pieces of gum.
+   
+2. **Elyse gives half to Rick**: Half of 100 pieces is calculated as:
+   \[
+   \frac{100}{2} = 50
+   \]
+   So, Elyse gives 50 pieces of gum to her brother Rick.
+
+3. **Calculating how much gum Rick has**: After receiving 50 pieces from Elyse, Rick has:
+   \[
+   50 \text{ pieces}
+   \]
+
+4. **Rick gives half of his gum to Shane**: Now, Rick gives half of his 50 pieces to Shane. We calculate this amount:
+   \[
+   \frac{50}{2} = 25
+   \]
+   So, Shane receives 25 pieces of gum from Rick.
+
+5. **Shane chews 11 pieces of gum**: Now, we need to find out how many pieces Shane has left after chewing 11 pieces. We subtract the amount he chewed from the amount he received:
+   \[
+   25 - 11 = 14
+   \]
+   Therefore, Shane has 14 pieces of gum left.
+
+Putting it all together, the final amount of gum Shane has after chewing some is:
+</reasoning>
+<answer>14</answer>

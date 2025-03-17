@@ -1,0 +1,34 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the number of cruise ships**: The problem states that there are 4 cruise ships. 
+   - Cruise ships = 4
+
+2. **Calculate the number of cargo ships**: It mentions that there are twice as many cargo ships as cruise ships. 
+   - Therefore, cargo ships = 2 * cruise ships = 2 * 4 = 8
+
+3. **Determine the number of sailboats**: The number of sailboats is stated to be 6 more than the number of cargo ships.
+   - Hence, sailboats = cargo ships + 6 = 8 + 6 = 14
+
+4. **Calculate the number of fishing boats**: We know that the number of sailboats is also seven times the number of fishing boats. Let’s denote the number of fishing boats as \( x \).
+   - From the relationship given: sailboats = 7 * fishing boats
+   - We already found that there are 14 sailboats, so we can set up the equation: 
+   \[
+   14 = 7 * x
+   \]
+   - To find \( x \), we divide both sides by 7:
+   \[
+   x = \frac{14}{7} = 2
+   \]
+   - Therefore, the number of fishing boats is 2.
+
+5. **Total number of vessels**: Now we can find the total number of vessels by adding all types of ships together:
+   - Total vessels = cruise ships + cargo ships + sailboats + fishing boats
+   - Substituting the values we found:
+   \[
+   \text{Total vessels} = 4 + 8 + 14 + 2 = 28
+   \]
+
+Thus, after performing all the calculations, we find that the total number of vessels on the water is 28.
+</reasoning>
+<answer>28</answer>

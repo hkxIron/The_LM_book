@@ -1,0 +1,31 @@
+<reasoning>
+To find the total number of notes that Jake is putting into the complaints and compliments bins, we will follow these steps:
+
+1. **Calculate the number of red notes**:
+   - There are 5 rows of red notes, and each row contains 6 notes.
+   - To find the total number of red notes, we multiply the number of rows by the number of notes per row:
+     \[
+     \text{Total red notes} = 5 \text{ rows} \times 6 \text{ notes/row} = 30 \text{ red notes}
+     \]
+
+2. **Calculate the number of blue notes associated with the red notes**:
+   - There are 2 blue notes under each red note. Since there are 30 red notes:
+     \[
+     \text{Total blue notes under red notes} = 30 \text{ red notes} \times 2 \text{ blue notes/red note} = 60 \text{ blue notes}
+     \]
+
+3. **Add the additional blue notes**:
+   - There are also 10 blue notes scattered at the bottom of the board. To find the total number of blue notes, we add these additional notes to the blue notes associated with the red notes:
+     \[
+     \text{Total blue notes} = 60 \text{ blue notes (under red notes)} + 10 \text{ additional blue notes} = 70 \text{ blue notes}
+     \]
+
+4. **Calculate the total number of notes**:
+   - Now we add the total number of red notes and blue notes together to find the overall total:
+     \[
+     \text{Total notes} = \text{Total red notes} + \text{Total blue notes} = 30 \text{ red notes} + 70 \text{ blue notes} = 100 \text{ notes}
+     \]
+
+Thus, the total number of notes put into the complaints and compliments bins is 100.
+</reasoning>
+<answer>100</answer>

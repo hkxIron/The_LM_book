@@ -1,0 +1,55 @@
+<reasoning>
+To find out how many kids got into the movie, we first need to calculate how many kids were denied entry from each high school and then subtract those numbers from the total number of kids from each school.
+
+1. **Riverside High**:
+   - Total kids: 120
+   - Percentage denied: 20%
+   - To find the number of kids denied, we calculate 20% of 120:
+     \[
+     \text{Kids denied from Riverside} = 0.20 \times 120 = 24
+     \]
+   - Therefore, the number of kids who got in from Riverside High is:
+     \[
+     \text{Kids who got in} = 120 - 24 = 96
+     \]
+
+2. **West Side High**:
+   - Total kids: 90
+   - Percentage denied: 70%
+   - To find the number of kids denied, we calculate 70% of 90:
+     \[
+     \text{Kids denied from West Side} = 0.70 \times 90 = 63
+     \]
+   - Therefore, the number of kids who got in from West Side High is:
+     \[
+     \text{Kids who got in} = 90 - 63 = 27
+     \]
+
+3. **Mountaintop High**:
+   - Total kids: 50
+   - Percentage denied: 50%
+   - To find the number of kids denied, we calculate 50% of 50:
+     \[
+     \text{Kids denied from Mountaintop} = 0.50 \times 50 = 25
+     \]
+   - Therefore, the number of kids who got in from Mountaintop High is:
+     \[
+     \text{Kids who got in} = 50 - 25 = 25
+     \]
+
+Now, we add the number of kids who got into the movie from all three schools:
+\[
+\text{Total kids who got in} = 96 + 27 + 25
+\]
+Calculating this sum gives:
+\[
+96 + 27 = 123
+\]
+Then adding the kids from Mountaintop:
+\[
+123 + 25 = 148
+\]
+
+Thus, the total number of kids that got into the movie is:
+</reasoning>
+<answer>148</answer>

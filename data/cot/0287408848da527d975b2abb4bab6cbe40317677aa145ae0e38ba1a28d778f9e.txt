@@ -1,0 +1,42 @@
+<reasoning>
+Let's denote the amount of money Isabel had at first as \( x \).
+
+1. **Step 1: Calculate how much she spent on the toy.**
+   - Isabel spent half of her initial amount on a toy. Therefore, the amount spent on the toy is:
+     \[
+     \text{Amount spent on toy} = \frac{x}{2}
+     \]
+   - After buying the toy, the amount of money she has left is:
+     \[
+     x - \frac{x}{2} = \frac{x}{2}
+     \]
+
+2. **Step 2: Calculate how much she spent on the book.**
+   - Next, she spent half of the remaining money on a book. The remaining money after buying the toy is \( \frac{x}{2} \), so the amount spent on the book is:
+     \[
+     \text{Amount spent on book} = \frac{1}{2} \left( \frac{x}{2} \right) = \frac{x}{4}
+     \]
+   - After buying the book, the amount of money she has left is:
+     \[
+     \frac{x}{2} - \frac{x}{4} = \frac{2x}{4} - \frac{x}{4} = \frac{x}{4}
+     \]
+
+3. **Step 3: Set up the equation based on the money left.**
+   - We know that after spending on both the toy and the book, Isabel has $51 left. Therefore, we set up the equation:
+     \[
+     \frac{x}{4} = 51
+     \]
+
+4. **Step 4: Solve for \( x \).**
+   - To find \( x \), we multiply both sides of the equation by 4:
+     \[
+     x = 51 \times 4
+     \]
+   - Calculating that gives:
+     \[
+     x = 204
+     \]
+
+Thus, Isabel originally had $204.
+</reasoning>
+<answer>204</answer>

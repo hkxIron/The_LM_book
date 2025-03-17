@@ -1,0 +1,35 @@
+<reasoning>
+First, let's start by determining how much money Emma has after buying the furniture.
+
+1. **Initial Amount**: Emma starts with $2000.
+
+2. **Furniture Purchase**: She spends $400 on furniture. 
+   To find out how much money she has left after the purchase, we subtract the furniture cost from her initial amount:
+   \[
+   2000 - 400 = 1600
+   \]
+   Now, Emma has $1600 remaining after buying the furniture.
+
+3. **Giving to Anna**: Emma gives 3/4 of the remaining amount to her friend Anna. 
+   To calculate how much she gives to Anna, we need to find 3/4 of $1600:
+   \[
+   \text{Amount given to Anna} = \frac{3}{4} \times 1600
+   \]
+   To do this multiplication, we can first calculate:
+   \[
+   1600 \div 4 = 400 \quad \text{(this gives us 1/4 of 1600)}
+   \]
+   Now multiply by 3 to find 3/4:
+   \[
+   3 \times 400 = 1200
+   \]
+   So, Emma gives Anna $1200.
+
+4. **Amount Left with Emma**: Now, we need to find out how much money Emma has left after giving $1200 to Anna. 
+   We subtract the amount given to Anna from the remaining amount Emma had:
+   \[
+   1600 - 1200 = 400
+   \]
+   Therefore, after all the transactions, Emma has $400 left.
+</reasoning>
+<answer>400</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem step by step, let's break down the total amount of money left by Grandma and how it is distributed.
+
+1. **Identify the total amount left by Grandma:**  
+   Grandma left a total of $124,600.
+
+2. **Determine the amount given to Shelby:**  
+   Shelby received half of the total amount. To find this, we divide the total amount by 2:
+   \[
+   \text{Amount given to Shelby} = \frac{124,600}{2} = 62,300
+   \]
+   This means Shelby gets $62,300.
+
+3. **Calculate the remaining amount after Shelby's share:**  
+   To find out how much money is left for the other 10 grandchildren, we subtract Shelby's amount from the total:
+   \[
+   \text{Remaining amount} = 124,600 - 62,300 = 62,300
+   \]
+
+4. **Divide the remaining amount among the other 10 grandchildren:**  
+   Now, we need to evenly distribute the remaining amount of $62,300 among the 10 grandchildren. We do this by dividing the remaining amount by 10:
+   \[
+   \text{Amount for each of the remaining 10 grandchildren} = \frac{62,300}{10} = 6,230
+   \]
+
+Each of the remaining 10 grandchildren receives $6,230.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6230</answer>

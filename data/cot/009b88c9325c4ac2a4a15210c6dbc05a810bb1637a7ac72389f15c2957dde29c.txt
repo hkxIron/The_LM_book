@@ -1,0 +1,46 @@
+<reasoning>
+To determine how many machines Darryl needs to sell to break even, we first need to calculate his total costs and then figure out how many machines he needs to sell to cover those costs.
+
+1. **Calculate Total Costs**: 
+   - The cost of the parts for the machine is $3600.
+   - The cost for the patent is $4500.
+   - We add these two costs together to find the total cost.
+   
+   \[
+   \text{Total Costs} = \text{Cost of Parts} + \text{Cost of Patent} = 3600 + 4500 = 8100
+   \]
+
+   Therefore, Darryl's total costs are $8100.
+
+2. **Determine Selling Price per Machine**:
+   - The selling price for each machine is given as $180.
+
+3. **Calculate the Number of Machines to Break Even**:
+   - The break-even point occurs when total revenue equals total costs. We can express this with the equation:
+   
+   \[
+   \text{Total Revenue} = \text{Number of Machines Sold} \times \text{Selling Price}
+   \]
+   
+   To break even, we set total revenue equal to total costs:
+   
+   \[
+   \text{Number of Machines Sold} \times 180 = 8100
+   \]
+
+4. **Solve for Number of Machines Sold**:
+   - We need to isolate the number of machines sold. We can do this by dividing both sides of the equation by the selling price per machine:
+
+   \[
+   \text{Number of Machines Sold} = \frac{8100}{180}
+   \]
+
+   Now we perform the division:
+
+   \[
+   \text{Number of Machines Sold} = 45
+   \]
+
+Therefore, Darryl needs to sell 45 machines to break even after covering his costs.
+</reasoning>
+<answer>45</answer>

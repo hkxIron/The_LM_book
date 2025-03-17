@@ -1,0 +1,36 @@
+<reasoning>
+To find out how many students Ms. Hatcher taught for the day, let's go through the problem step by step.
+
+1. **Identify the number of third-graders**: 
+   Ms. Hatcher teaches 20 third-graders. 
+   Therefore, the number of third-graders is:
+   \[
+   \text{Third-graders} = 20
+   \]
+
+2. **Calculate the number of fourth-graders**: 
+   The problem states that the number of fourth-graders is twice the number of third-graders. Since there are 20 third-graders:
+   \[
+   \text{Fourth-graders} = 2 \times \text{Third-graders} = 2 \times 20 = 40
+   \]
+
+3. **Calculate the number of fifth-graders**: 
+   Ms. Hatcher's co-teacher asked her to substitute for a fifth-grade class that has half as many students as the number of third-graders. Since there are 20 third-graders:
+   \[
+   \text{Fifth-graders} = \frac{1}{2} \times \text{Third-graders} = \frac{1}{2} \times 20 = 10
+   \]
+
+4. **Total number of students taught**: 
+   Now, we need to add the number of third-graders, fourth-graders, and fifth-graders together to find the total number of students Ms. Hatcher taught for the day:
+   \[
+   \text{Total students} = \text{Third-graders} + \text{Fourth-graders} + \text{Fifth-graders} = 20 + 40 + 10
+   \]
+
+   Let's calculate that:
+   \[
+   \text{Total students} = 20 + 40 + 10 = 70
+   \]
+
+Therefore, Ms. Hatcher taught a total of 70 students for the day.
+</reasoning>
+<answer>70</answer>

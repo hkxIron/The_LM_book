@@ -1,0 +1,24 @@
+<reasoning>
+First, we need to convert the total time available from hours to minutes because the painting time is given in minutes. 
+
+1. **Convert hours to minutes:**
+   - There are 60 minutes in an hour. Therefore, to convert 3 hours to minutes, we multiply:
+     \[
+     3 \text{ hours} \times 60 \text{ minutes/hour} = 180 \text{ minutes}
+     \]
+   This tells us we have 180 minutes available to paint.
+
+2. **Determine how many houses can be painted in the available time:**
+   - We know it takes 20 minutes to paint one house. To find out how many houses can be painted in 180 minutes, we divide the total available time by the time taken to paint one house:
+     \[
+     \text{Number of houses} = \frac{180 \text{ minutes}}{20 \text{ minutes/house}} 
+     \]
+   - Performing the division:
+     \[
+     \frac{180}{20} = 9
+     \]
+   This means that in 3 hours, you can paint 9 houses.
+
+Therefore, after calculating the total time available and how much time it takes to paint each house, we found that you can paint 9 houses in 3 hours.
+</reasoning>
+<answer>9</answer>

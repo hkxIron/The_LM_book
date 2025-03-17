@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many video games Radhika owns now, we can break the problem down step by step.
+
+1. **Calculate the total number of new games received**: 
+   Radhika received 12 video games on Christmas and 8 video games on her birthday.
+   \[
+   \text{Total new games} = 12 + 8 = 20
+   \]
+   This means Radhika received a total of 20 new video games.
+
+2. **Determine the number of games Radhika already owned**:
+   According to the problem, Radhika already owned half the number of games she received on Christmas and her birthday combined. 
+   Since she received a total of 20 games, we find half of this amount:
+   \[
+   \text{Games owned} = \frac{20}{2} = 10
+   \]
+   So, Radhika already owned 10 video games before receiving the new ones.
+
+3. **Calculate the total number of video games Radhika owns now**:
+   To find the total number of video games Radhika owns now, we add the new games to the games she already had:
+   \[
+   \text{Total games owned now} = \text{Games already owned} + \text{Total new games}
+   \]
+   Substituting the numbers we have:
+   \[
+   \text{Total games owned now} = 10 + 20 = 30
+   \]
+
+So, Radhika now owns a total of 30 video games.
+</reasoning>
+<answer>30</answer>

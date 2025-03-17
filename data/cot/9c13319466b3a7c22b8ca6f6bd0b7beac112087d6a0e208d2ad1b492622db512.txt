@@ -1,0 +1,34 @@
+<reasoning>
+To determine how many yards of fabric Jenson and Kingsley need every 3 days, we will first calculate the total fabric required for each of them per day and then multiply that by the number of days.
+
+1. **Calculate the fabric needed by Jenson:**
+   - Jenson makes 3 shirts per day.
+   - Each shirt uses 2 yards of fabric.
+   - Therefore, the fabric Jenson needs per day is:
+     \[
+     \text{Fabric for Jenson} = \text{Number of shirts} \times \text{Fabric per shirt} = 3 \text{ shirts} \times 2 \text{ yards/shirt} = 6 \text{ yards}
+     \]
+
+2. **Calculate the fabric needed by Kingsley:**
+   - Kingsley makes 5 pairs of pants per day.
+   - Each pair of pants uses 5 yards of fabric.
+   - Therefore, the fabric Kingsley needs per day is:
+     \[
+     \text{Fabric for Kingsley} = \text{Number of pants} \times \text{Fabric per pants} = 5 \text{ pants} \times 5 \text{ yards/pant} = 25 \text{ yards}
+     \]
+
+3. **Calculate the total fabric needed per day:**
+   - Now, we add the fabric needed by both Jenson and Kingsley to find the total fabric needed per day:
+     \[
+     \text{Total fabric per day} = \text{Fabric for Jenson} + \text{Fabric for Kingsley} = 6 \text{ yards} + 25 \text{ yards} = 31 \text{ yards}
+     \]
+
+4. **Calculate the total fabric needed for 3 days:**
+   - Finally, we need to find out how much fabric they need in total for 3 days:
+     \[
+     \text{Total fabric for 3 days} = \text{Total fabric per day} \times 3 = 31 \text{ yards/day} \times 3 \text{ days} = 93 \text{ yards}
+     \]
+
+Therefore, the total amount of fabric Jenson and Kingsley need every 3 days is 93 yards.
+</reasoning>
+<answer>93</answer>

@@ -1,0 +1,43 @@
+<reasoning>
+Let's define the number of guitars each person has using variables. 
+
+1. Let \( S \) be the number of guitars Steve has.
+2. According to the problem, Barbeck has two times as many guitars as Steve, so we can express Barbeck's guitars as \( B = 2S \).
+3. Davey has three times as many guitars as Barbeck, so we can express Davey's guitars as \( D = 3B \).
+
+Now we substitute \( B \) in Davey's equation:
+- \( D = 3B = 3(2S) = 6S \).
+
+Now we have expressions for all three individuals:
+- Steve: \( S \)
+- Barbeck: \( 2S \)
+- Davey: \( 6S \)
+
+Next, we know that the total number of guitars is 27. We can express this with an equation:
+\[
+S + B + D = 27
+\]
+Substituting the expressions for \( B \) and \( D \):
+\[
+S + 2S + 6S = 27
+\]
+
+Combining like terms gives:
+\[
+9S = 27
+\]
+
+To find the value of \( S \), we divide both sides by 9:
+\[
+S = \frac{27}{9} = 3
+\]
+
+Now that we know how many guitars Steve has, we can find the number of guitars for Barbeck and Davey:
+- Barbeck's guitars: \( B = 2S = 2 \times 3 = 6 \).
+- Davey's guitars: \( D = 6S = 6 \times 3 = 18 \).
+
+Finally, we conclude that Davey has 18 guitars.
+
+Therefore, the answer is:
+</reasoning>
+<answer>18</answer>

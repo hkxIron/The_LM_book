@@ -1,0 +1,36 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Tuesday's Weeds:**
+   Sarah pulled 25 weeds on Tuesday.
+   - We can denote this as:
+     - Tuesday = 25 weeds
+
+2. **Wednesday's Weeds:**
+   On Wednesday, she pulled three times the number of weeds she pulled on Tuesday.
+   - Therefore, on Wednesday:
+     - Wednesday = 3 * Tuesday = 3 * 25 = 75 weeds
+
+3. **Thursday's Weeds:**
+   On Thursday, because her allergies bothered her, she only managed to pull one-fifth of what she pulled on Wednesday.
+   - Thus, on Thursday:
+     - Thursday = (1/5) * Wednesday = (1/5) * 75 = 15 weeds
+
+4. **Friday's Weeds:**
+   On Friday, it rained for half the day, and she pulled up 10 fewer weeds than she did on Thursday.
+   - Therefore, on Friday:
+     - Friday = Thursday - 10 = 15 - 10 = 5 weeds
+
+5. **Calculating Total Weeds Pulled:**
+   Now we need to find the total number of weeds Sarah pulled across all four days.
+   - Total = Tuesday + Wednesday + Thursday + Friday
+   - Total = 25 + 75 + 15 + 5
+
+Now, let's do the final calculation:
+- Total = 25 + 75 = 100
+- Total = 100 + 15 = 115
+- Total = 115 + 5 = 120
+
+Therefore, the total number of weeds Sarah pulled up is:
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many sheets of paper Miss Adamson will use for all of her students, we need to follow these steps:
+
+1. **Calculate the total number of students**: 
+   Since Miss Adamson has four classes with 20 students each, we multiply the number of classes by the number of students per class.
+   \[
+   \text{Total Students} = \text{Number of Classes} \times \text{Students per Class} = 4 \times 20
+   \]
+
+   Now, let's calculate that:
+   \[
+   4 \times 20 = 80
+   \]
+   So, there are 80 students in total.
+
+2. **Calculate the total number of sheets of paper needed**: 
+   Each student requires 5 sheets of paper. Therefore, we multiply the total number of students by the number of sheets needed per student.
+   \[
+   \text{Total Sheets} = \text{Total Students} \times \text{Sheets per Student} = 80 \times 5
+   \]
+
+   Now, let's perform this multiplication:
+   \[
+   80 \times 5 = 400
+   \]
+   Thus, Miss Adamson will use 400 sheets of paper for all of her students.
+
+Therefore, after calculating the total number of students and then the total sheets needed for those students, we conclude the total sheets of paper used.
+</reasoning>
+<answer>400</answer>

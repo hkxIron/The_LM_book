@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Number of Cards**: Rick starts with 130 cards.
+
+2. **Cards Rick Keeps**: He decides to keep 15 cards. This means he gives away some cards, and we need to find out how many he gives away in total before we find out how many he gave to Miguel.
+
+3. **Cards Given to Friends**: Rick has 8 friends and decides to give each of them 12 cards. First, we calculate the total number of cards given to friends:
+   \[
+   \text{Total cards given to friends} = \text{Number of friends} \times \text{Cards per friend} = 8 \times 12 = 96 \text{ cards}
+   \]
+
+4. **Remaining Cards After Giving to Friends**: After giving away 96 cards to his friends, we can find out how many cards Rick has left. Initially, he had 130 cards.
+   \[
+   \text{Remaining cards} = \text{Initial cards} - \text{Cards given to friends} = 130 - 96 = 34 \text{ cards}
+   \]
+
+5. **Cards Given to Sisters**: Rick gives his remaining cards to his 2 sisters equally. We know that each sister received 3 cards:
+   \[
+   \text{Total cards given to sisters} = \text{Number of sisters} \times \text{Cards per sister} = 2 \times 3 = 6 \text{ cards}
+   \]
+
+6. **Total Cards Given Away**: Now, we can find out how many cards Rick has given away in total:
+   \[
+   \text{Total cards given away} = \text{Cards given to friends} + \text{Cards given to sisters} = 96 + 6 = 102 \text{ cards}
+   \]
+
+7. **Cards Given to Miguel**: Since Rick started with 130 cards and kept 15, the number of cards he gave to Miguel can be calculated as:
+   \[
+   \text{Cards given to Miguel} = \text{Total cards} - \text{Cards kept} - \text{Total cards given away}
+   \]
+   Substituting the known values:
+   \[
+   \text{Cards given to Miguel} = 130 - 15 - 102 = 130 - 117 = 13 \text{ cards}
+   \]
+
+Therefore, Rick gave Miguel 13 cards.
+</reasoning>
+<answer>13</answer>

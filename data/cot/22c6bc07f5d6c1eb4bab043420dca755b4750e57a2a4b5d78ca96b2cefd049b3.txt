@@ -1,0 +1,25 @@
+<reasoning>
+To find out how long it took Chelsea to make the cupcakes, we need to calculate the total time spent on baking and icing for all 4 batches.
+
+1. **Calculate the time per batch**: 
+   - The baking time for each batch is 20 minutes.
+   - The icing time for each batch is 30 minutes.
+   - Total time for one batch = baking time + icing time = 20 minutes + 30 minutes.
+
+   Therefore, for one batch:
+   \[
+   \text{Total time per batch} = 20 + 30 = 50 \text{ minutes}
+   \]
+
+2. **Calculate the total time for all batches**:
+   - Chelsea made 4 batches.
+   - Total time for all batches = time per batch × number of batches.
+
+   Therefore:
+   \[
+   \text{Total time for 4 batches} = 50 \text{ minutes/batch} \times 4 \text{ batches} = 200 \text{ minutes}
+   \]
+
+Thus, the total time it took Chelsea to make the cupcakes is 200 minutes.
+</reasoning>
+<answer>200</answer>

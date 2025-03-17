@@ -1,0 +1,22 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the total length of the log**: The log is initially 20 feet long.
+
+2. **Calculate the length of each piece after cutting**: When John cuts the log in half, each piece will be half of 20 feet. 
+   \[
+   \text{Length of each piece} = \frac{\text{Total length}}{2} = \frac{20 \text{ feet}}{2} = 10 \text{ feet}
+   \]
+
+3. **Determine the weight per linear foot**: The problem states that each linear foot of the log weighs 150 pounds.
+
+4. **Calculate the weight of each 10-foot piece**: To find the weight of each cut piece, we multiply the length of each piece by the weight per foot. 
+   \[
+   \text{Weight of each piece} = \text{Length of each piece} \times \text{Weight per foot} = 10 \text{ feet} \times 150 \text{ pounds/foot} = 1500 \text{ pounds}
+   \]
+
+5. **Conclusion**: Each piece weighs 1500 pounds.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>1500</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many pets Ed has in total, we need to count each type of pet he has and then add them together. 
+
+1. **Count the dogs**: Ed has 2 dogs.
+   
+   - Total dogs = 2
+
+2. **Count the cats**: Ed has 3 cats.
+   
+   - Total cats = 3
+
+3. **Calculate the total number of dogs and cats**: We add the number of dogs and cats together to find the total number of dogs and cats combined.
+   
+   - Total dogs and cats = Total dogs + Total cats = 2 + 3 = 5
+
+4. **Calculate the number of fish**: Ed has twice as many fish as the total number of dogs and cats combined. Since we found that there are 5 dogs and cats, we calculate the number of fish:
+   
+   - Total fish = 2 * Total dogs and cats = 2 * 5 = 10
+
+5. **Calculate the total number of pets**: Now, we add the total number of dogs, cats, and fish together to find the total number of pets Ed has.
+   
+   - Total pets = Total dogs + Total cats + Total fish = 2 + 3 + 10 = 15
+
+Therefore, after counting all of Ed's pets, we find that he has a total of 15 pets.
+</reasoning>
+<answer>15</answer>

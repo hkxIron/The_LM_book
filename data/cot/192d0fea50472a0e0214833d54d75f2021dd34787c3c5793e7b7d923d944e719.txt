@@ -1,0 +1,55 @@
+<reasoning>
+To find out how much Wade made in tips over the three days, we'll calculate the tips he earned each day and then sum them up.
+
+1. **Calculate Friday's tips**:
+   - Wade served 28 customers on Friday.
+   - He makes $2.00 in tips per customer.
+   - To find the total tips for Friday, we multiply the number of customers by the tips per customer:
+     \[
+     \text{Friday's tips} = 28 \text{ customers} \times 2.00 \text{ dollars/customer}
+     \]
+     \[
+     \text{Friday's tips} = 56 \text{ dollars}
+     \]
+
+2. **Calculate Saturday's customers**:
+   - Wade served three times the amount of customers he served on Friday.
+   - So, the number of customers on Saturday is:
+     \[
+     \text{Saturday's customers} = 3 \times 28 = 84 \text{ customers}
+     \]
+
+3. **Calculate Saturday's tips**:
+   - Using the same rate of $2.00 in tips per customer, we find Saturday's tips:
+     \[
+     \text{Saturday's tips} = 84 \text{ customers} \times 2.00 \text{ dollars/customer}
+     \]
+     \[
+     \text{Saturday's tips} = 168 \text{ dollars}
+     \]
+
+4. **Calculate Sunday's tips**:
+   - Wade served 36 customers on Sunday.
+   - Again, we calculate the tips for Sunday:
+     \[
+     \text{Sunday's tips} = 36 \text{ customers} \times 2.00 \text{ dollars/customer}
+     \]
+     \[
+     \text{Sunday's tips} = 72 \text{ dollars}
+     \]
+
+5. **Total tips for the three days**:
+   - Now we add up the tips from all three days:
+     \[
+     \text{Total tips} = \text{Friday's tips} + \text{Saturday's tips} + \text{Sunday's tips}
+     \]
+     \[
+     \text{Total tips} = 56 + 168 + 72
+     \]
+     \[
+     \text{Total tips} = 296 \text{ dollars}
+     \]
+
+Therefore, Wade made a total of $296 in tips between the three days.
+</reasoning>
+<answer>296</answer>

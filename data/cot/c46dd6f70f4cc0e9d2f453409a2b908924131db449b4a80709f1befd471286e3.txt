@@ -1,0 +1,39 @@
+<reasoning>
+To find out how many minutes it took Elvis to write each song, we need to break down the total time he spent in the studio and how it was divided among writing, recording, and editing.
+
+1. **Convert Total Studio Time to Minutes**: 
+   Elvis spent 5 hours in the studio. Since there are 60 minutes in an hour, we multiply the hours by 60 to convert to minutes.
+   \[
+   5 \text{ hours} \times 60 \text{ minutes/hour} = 300 \text{ minutes}
+   \]
+
+2. **Calculate Total Recording Time**: 
+   Each song takes 12 minutes to record, and there are 10 songs. Therefore, we multiply the time per song by the number of songs:
+   \[
+   12 \text{ minutes/song} \times 10 \text{ songs} = 120 \text{ minutes}
+   \]
+
+3. **Account for Editing Time**: 
+   It takes 30 minutes to edit all the songs. 
+
+4. **Calculate Total Time Spent on Recording and Editing**: 
+   Now, we add the total recording time and editing time together:
+   \[
+   120 \text{ minutes (recording)} + 30 \text{ minutes (editing)} = 150 \text{ minutes}
+   \]
+
+5. **Determine Time Spent Writing**: 
+   To find out how much time was spent writing, we subtract the time spent on recording and editing from the total studio time:
+   \[
+   300 \text{ minutes (total)} - 150 \text{ minutes (recording + editing)} = 150 \text{ minutes (writing)}
+   \]
+
+6. **Calculate Time Spent Writing Each Song**: 
+   Since there are 10 songs and the total writing time is 150 minutes, we divide the total writing time by the number of songs to find the time spent writing each song:
+   \[
+   \frac{150 \text{ minutes (writing)}}{10 \text{ songs}} = 15 \text{ minutes/song}
+   \]
+
+Therefore, it took Elvis 15 minutes to write each song.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To solve the problem, we need to set up an equation based on the information provided.
+
+1. **Identify the variables**: 
+   - Let \( s \) be the number of small pizzas sold.
+   - Let \( l \) be the number of large pizzas sold.
+
+   From the problem, we know:
+   - \( s = 8 \) (they sold 8 small pizzas)
+   - The price of small pizzas is $2, and the price of large pizzas is $8.
+
+2. **Calculate the revenue from small pizzas**: 
+   Since each small pizza costs $2, the total revenue from selling 8 small pizzas is:
+   \[
+   \text{Revenue from small pizzas} = 2 \times s = 2 \times 8 = 16 \text{ dollars}
+   \]
+   
+3. **Set up the equation for total sales**: 
+   The total revenue from both small and large pizzas is $40. Therefore, we can express the revenue from large pizzas as follows:
+   \[
+   \text{Revenue from large pizzas} = 40 - \text{Revenue from small pizzas}
+   \]
+   Plugging in the revenue from small pizzas:
+   \[
+   \text{Revenue from large pizzas} = 40 - 16 = 24 \text{ dollars}
+   \]
+
+4. **Determine the number of large pizzas sold**: 
+   Since each large pizza costs $8, we can find the number of large pizzas sold by dividing the total revenue from large pizzas by the price of a large pizza:
+   \[
+   l = \frac{\text{Revenue from large pizzas}}{\text{Price of large pizza}} = \frac{24}{8} = 3
+   \]
+
+So, they sold 3 large pizzas.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>3</answer>

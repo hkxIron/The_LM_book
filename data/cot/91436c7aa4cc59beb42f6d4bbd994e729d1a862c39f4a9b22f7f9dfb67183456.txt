@@ -1,0 +1,31 @@
+<reasoning>
+To solve the problem, we need to break down the total word count of Carolyn's essay into its components: the introduction, the conclusion, and the four body sections. 
+
+1. **Determine the length of the conclusion**: 
+   The introduction is given as 450 words. The conclusion is stated to be triple the length of the introduction. 
+   - Therefore, we calculate the length of the conclusion:
+   \[
+   \text{Length of conclusion} = 3 \times 450 = 1350 \text{ words}
+   \]
+
+2. **Calculate the total length of the introduction and conclusion**:
+   Now we add the lengths of the introduction and conclusion together:
+   \[
+   \text{Total length of introduction and conclusion} = 450 + 1350 = 1800 \text{ words}
+   \]
+
+3. **Determine the length available for the body sections**: 
+   The total word count for the essay must be 5000 words. To find out how many words are left for the body sections, we subtract the total length of the introduction and conclusion from the total word count:
+   \[
+   \text{Length for body sections} = 5000 - 1800 = 3200 \text{ words}
+   \]
+
+4. **Calculate the length of each body section**:
+   Since there are four body sections that are all of equal length, we divide the total length for the body sections by 4:
+   \[
+   \text{Length of each body section} = \frac{3200}{4} = 800 \text{ words}
+   \]
+
+Now we have determined that each of the four body sections is 800 words long.
+</reasoning>
+<answer>800</answer>

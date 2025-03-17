@@ -1,0 +1,27 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Initial Length of Hair**: Marcia starts with 24 inches of hair.
+
+2. **First Cut**: Marcia cuts off half of her hair. To find out how much she cuts off, we calculate:
+   \[
+   \text{Hair cut off} = \frac{1}{2} \times 24 = 12 \text{ inches}
+   \]
+   After cutting off 12 inches, the length of her hair is:
+   \[
+   \text{Remaining hair} = 24 - 12 = 12 \text{ inches}
+   \]
+
+3. **Growth**: Next, Marcia lets her hair grow out 4 inches. So we add the growth to her remaining hair length:
+   \[
+   \text{New length} = 12 + 4 = 16 \text{ inches}
+   \]
+
+4. **Second Cut**: Finally, Marcia cuts off another 2 inches. We subtract this cut from her current hair length:
+   \[
+   \text{Final length} = 16 - 2 = 14 \text{ inches}
+   \]
+
+Therefore, after all the cuts and growth, Marcia's hair is 14 inches long.
+</reasoning>
+<answer>14</answer>

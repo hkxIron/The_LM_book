@@ -1,0 +1,45 @@
+<reasoning>
+To determine how much change Faith will receive, we need to follow these steps:
+
+1. **Calculate the total cost of the items**: 
+   - The flour costs $5.
+   - The cake stand costs $28.
+   - We need to add these two amounts together to find the total cost of her purchase.
+
+   \[
+   \text{Total cost} = 5 + 28 = 33
+   \]
+
+   Here, we are adding the cost of the flour and the cake stand together to get the total amount she spent.
+
+2. **Calculate the total amount Faith paid**:
+   - Faith gave the cashier two $20 bills and $3 in loose coins.
+   - First, calculate the amount from the two $20 bills:
+
+   \[
+   2 \times 20 = 40
+   \]
+
+   - Next, add the $3 in coins to this amount:
+
+   \[
+   \text{Total payment} = 40 + 3 = 43
+   \]
+
+   In this step, we calculate how much she handed over to the cashier in total.
+
+3. **Calculate the change she will receive**:
+   - To find the change, subtract the total cost from the total payment:
+
+   \[
+   \text{Change} = \text{Total payment} - \text{Total cost}
+   \]
+   \[
+   \text{Change} = 43 - 33 = 10
+   \]
+
+   Here, we are subtracting the total cost of the items from the total amount she paid to figure out how much money she will get back.
+
+Therefore, the amount of change Faith will receive is:
+</reasoning>
+<answer>10</answer>

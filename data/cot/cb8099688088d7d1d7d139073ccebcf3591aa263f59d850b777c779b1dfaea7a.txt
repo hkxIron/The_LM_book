@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many rounds it will take for George and Harry to fill the pool, we first need to determine how many buckets they can carry together in one round.
+
+1. **Determine individual contributions:**
+   - George can carry 2 buckets per round.
+   - Harry can carry 3 buckets per round.
+
+2. **Calculate total buckets carried per round:**
+   - Together, they can carry:
+     \[
+     2 \text{ (buckets by George)} + 3 \text{ (buckets by Harry)} = 5 \text{ buckets per round}
+     \]
+
+3. **Find the total number of rounds needed:**
+   - The pool requires 110 buckets to be filled. To find out how many rounds they need, we take the total number of buckets and divide it by the number of buckets they can carry in one round:
+     \[
+     \frac{110 \text{ buckets}}{5 \text{ buckets per round}} = 22 \text{ rounds}
+     \]
+
+4. **Conclusion:**
+   - It will take George and Harry a total of 22 rounds to fill the pool.
+
+Therefore, the answer is:
+</reasoning>
+<answer>22</answer>

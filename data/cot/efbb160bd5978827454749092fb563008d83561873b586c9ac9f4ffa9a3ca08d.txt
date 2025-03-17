@@ -1,0 +1,40 @@
+<reasoning>
+To find out how many pets are at the shelter after one month, we need to follow these steps:
+
+1. **Calculate the number of pets adopted for each type of animal**:
+   - For dogs: There are 30 dogs, and 50% of them are adopted.
+     \[
+     \text{Dogs adopted} = 30 \times 0.50 = 15
+     \]
+   - For cats: There are 28 cats, and 25% of them are adopted.
+     \[
+     \text{Cats adopted} = 28 \times 0.25 = 7
+     \]
+   - For lizards: There are 20 lizards, and 20% of them are adopted.
+     \[
+     \text{Lizards adopted} = 20 \times 0.20 = 4
+     \]
+
+2. **Total pets adopted**: Now, we add the number of pets adopted:
+   \[
+   \text{Total adopted} = \text{Dogs adopted} + \text{Cats adopted} + \text{Lizards adopted} = 15 + 7 + 4 = 26
+   \]
+
+3. **Calculate the remaining pets after adoption**:
+   - Initially, there are 30 dogs, 28 cats, and 20 lizards, which totals to:
+     \[
+     \text{Initial total pets} = 30 + 28 + 20 = 78
+     \]
+   - After adoptions, the number of remaining pets is:
+     \[
+     \text{Remaining pets} = \text{Initial total pets} - \text{Total adopted} = 78 - 26 = 52
+     \]
+
+4. **Add new pets taken in**: Each month, the shelter takes in 13 new pets. So, we add these new pets to the remaining pets:
+   \[
+   \text{Total pets after one month} = \text{Remaining pets} + \text{New pets} = 52 + 13 = 65
+   \]
+
+Therefore, after one month, the total number of pets at the shelter is:
+</reasoning>
+<answer>65</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the distances run by each person**:
+   - We know that Andrew runs 2 miles. 
+   - According to the problem, Peter runs 3 miles more than Andrew. So, we need to calculate how far Peter runs:
+     \[
+     \text{Distance Peter runs} = \text{Distance Andrew runs} + 3 \text{ miles}
+     \]
+     Substituting in Andrew's distance:
+     \[
+     \text{Distance Peter runs} = 2 \text{ miles} + 3 \text{ miles} = 5 \text{ miles}
+     \]
+
+2. **Calculate the total distance run by each over 5 days**:
+   - First, we calculate Andrew's total distance over 5 days:
+     \[
+     \text{Total distance Andrew runs over 5 days} = 2 \text{ miles/day} \times 5 \text{ days} = 10 \text{ miles}
+     \]
+   - Next, we calculate Peter's total distance over 5 days:
+     \[
+     \text{Total distance Peter runs over 5 days} = 5 \text{ miles/day} \times 5 \text{ days} = 25 \text{ miles}
+     \]
+
+3. **Add the total distances to find the overall distance run by both**:
+   - Now, we combine the distances run by both Peter and Andrew:
+     \[
+     \text{Total distance run by both} = \text{Total distance Andrew} + \text{Total distance Peter}
+     \]
+     Substituting the totals we calculated:
+     \[
+     \text{Total distance run by both} = 10 \text{ miles} + 25 \text{ miles} = 35 \text{ miles}
+     \]
+
+Therefore, after 5 days, the total distance they both have run is:
+</reasoning>
+<answer>35</answer>

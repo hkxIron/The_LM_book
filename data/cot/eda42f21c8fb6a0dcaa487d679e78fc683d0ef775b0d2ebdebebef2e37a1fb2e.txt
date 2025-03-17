@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many loaves of bread are left at the end of the day, we need to follow these steps:
+
+1. **Start with the initial number of loaves**: The supermarket starts with 2355 loaves of bread.
+
+2. **Subtract the number of loaves sold**: In the afternoon, 629 loaves are sold. We need to calculate how many loaves remain after these are sold. 
+   - The calculation is: 
+   \[
+   2355 - 629
+   \]
+   - Performing this subtraction gives us:
+   \[
+   2355 - 629 = 1726
+   \]
+   So, there are 1726 loaves remaining after the sales.
+
+3. **Add the number of loaves delivered**: In the evening, the supermarket receives an additional 489 loaves from their supplier. We now need to add these to the remaining loaves.
+   - The calculation is:
+   \[
+   1726 + 489
+   \]
+   - Performing this addition gives us:
+   \[
+   1726 + 489 = 2215
+   \]
+   Thus, there are 2215 loaves of bread at the end of the day.
+
+Therefore, after performing the necessary calculations step by step, we find that the total number of loaves of bread at the end of the day is 2215.
+</reasoning>
+<answer>2215</answer>

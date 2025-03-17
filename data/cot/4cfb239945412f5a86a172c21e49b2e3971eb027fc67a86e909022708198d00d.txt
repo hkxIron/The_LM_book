@@ -1,0 +1,42 @@
+<reasoning>
+First, we need to find the total number of shells collected by Jillian, Savannah, and Clayton. We will add the number of shells each person collected.
+
+1. **Adding the number of shells:**
+   - Jillian collected 29 shells.
+   - Savannah collected 17 shells.
+   - Clayton collected 8 shells.
+
+We add these amounts together:
+\[ 
+29 + 17 + 8 
+\]
+
+2. **Calculating the total:**
+   - First, we add 29 and 17:
+   \[ 
+   29 + 17 = 46 
+   \]
+   - Next, we add Clayton's shells:
+   \[ 
+   46 + 8 = 54 
+   \]
+
+So, the total number of shells collected is 54.
+
+3. **Distributing the shells:**
+Now, they want to distribute these shells evenly to two friends. To find out how many shells each friend will get, we divide the total number of shells by the number of friends.
+
+We perform the division:
+\[ 
+54 \div 2 
+\]
+
+4. **Calculating the division:**
+Each friend will receive:
+\[ 
+54 \div 2 = 27 
+\]
+
+Therefore, each friend gets 27 shells.
+</reasoning>
+<answer>27</answer>

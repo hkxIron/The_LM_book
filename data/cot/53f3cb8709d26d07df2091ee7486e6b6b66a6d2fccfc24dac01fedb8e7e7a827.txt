@@ -1,0 +1,28 @@
+<reasoning>
+Let's solve the problem step by step.
+
+1. **Determine how many pounds of apples Sandra will use for applesauce**: 
+   Sandra has a total of 120 pounds of apples. She plans to use half of that for applesauce. 
+   To find out how many pounds that is, we calculate:
+   \[
+   \text{Apples for applesauce} = \frac{120 \text{ pounds}}{2} = 60 \text{ pounds}
+   \]
+   This tells us that Sandra will use 60 pounds of apples to make applesauce.
+
+2. **Determine how many pounds of apples will be left for pies**: 
+   Since she started with 120 pounds and used 60 pounds for applesauce, the remaining apples will be:
+   \[
+   \text{Apples for pies} = 120 \text{ pounds} - 60 \text{ pounds} = 60 \text{ pounds}
+   \]
+   Therefore, Sandra has 60 pounds of apples left to make apple pies.
+
+3. **Calculate how many pies she can make**: 
+   We know that each pie requires 4 pounds of apples. To find out how many pies she can make with the 60 pounds of apples, we divide the total weight of apples for pies by the weight needed per pie:
+   \[
+   \text{Number of pies} = \frac{60 \text{ pounds}}{4 \text{ pounds per pie}} = 15
+   \]
+   This means Sandra can make 15 apple pies with the apples she has left.
+
+Thus, after performing all the calculations and breaking it down step by step, we find that Sandra can make 15 pies.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,44 @@
+<reasoning>
+To solve the problem, we will go through it step by step.
+
+1. **Calculate the number of students who scored 100%**:
+   We know that 2/5 of the 80 students scored 100%. To find this, we multiply:
+   \[
+   \text{Number of students who scored 100%} = \frac{2}{5} \times 80
+   \]
+   Calculating this gives:
+   \[
+   \frac{2 \times 80}{5} = \frac{160}{5} = 32
+   \]
+   So, 32 students scored 100%.
+
+2. **Calculate the number of students who did not score 100%**:
+   To find the number of students who did not score 100%, we subtract the number of students who scored 100% from the total number of students:
+   \[
+   \text{Number of students who did not score 100%} = 80 - 32 = 48
+   \]
+
+3. **Calculate the number of students who scored over 80%**:
+   According to the problem, 50% of the students who did not score 100% managed to score over 80%. We find this by calculating:
+   \[
+   \text{Number of students who scored over 80%} = 0.5 \times 48
+   \]
+   Calculating this gives:
+   \[
+   0.5 \times 48 = 24
+   \]
+   So, 24 students scored over 80%.
+
+4. **Calculate the number of students who failed the exam**:
+   A student fails if they scored below 80%. Hence, we need to find the number of students who did not score over 80%. To do this, we subtract the number of students who scored over 80% from the total number of students who did not score 100%:
+   \[
+   \text{Number of students who failed} = \text{Total students who did not score 100%} - \text{Students who scored over 80%} = 48 - 24
+   \]
+   This gives:
+   \[
+   48 - 24 = 24
+   \]
+
+Thus, the number of students who failed the exam is 24.
+</reasoning>
+<answer>24</answer>

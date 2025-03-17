@@ -1,0 +1,18 @@
+<reasoning>
+To convert the weight of the blue whale's tongue from pounds to tons, we need to use the conversion factor that 1 ton is equal to 2000 pounds. 
+
+1. Start with the weight of the blue whale's tongue:
+   - The tongue weighs 6000 pounds.
+
+2. Next, we will convert pounds to tons by dividing the total pounds by the number of pounds per ton:
+   - We calculate: 
+   \[
+   \text{Weight in tons} = \frac{\text{Weight in pounds}}{\text{Pounds per ton}} = \frac{6000 \text{ pounds}}{2000 \text{ pounds/ton}}
+   \]
+
+3. Performing the division:
+   - \( \frac{6000}{2000} = 3 \)
+
+This means that the tongue of an adult blue whale weighs 3 tons.
+</reasoning>
+<answer>3</answer>

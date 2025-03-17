@@ -1,0 +1,43 @@
+<reasoning>
+Let's determine the total number of each type of fruit in the bag at the start. 
+
+1. **Count the initial fruits:**
+   - Apples: 7
+   - Oranges: 8
+   - Mangoes: 15
+
+   To find the total number of fruits in the bag initially, we add these amounts together:
+   \[
+   \text{Total initial fruits} = 7 + 8 + 15 = 30
+   \]
+
+2. **Luisa takes out the fruits:**
+   - She takes out 2 apples. 
+   - Next, she takes out twice as many oranges as apples. Since she took out 2 apples, the number of oranges she takes out is:
+   \[
+   \text{Oranges taken} = 2 \times 2 = 4
+   \]
+   - Then, she takes out \( \frac{2}{3} \) of the number of mangoes left in the bag. Initially, there are 15 mangoes, so:
+   \[
+   \text{Mangoes taken} = \frac{2}{3} \times 15 = 10
+   \]
+
+3. **Now we can find out how many fruits Luisa has taken out in total:**
+   - Apples taken: 2
+   - Oranges taken: 4
+   - Mangoes taken: 10
+
+   Therefore, the total number of fruits she took out is:
+   \[
+   \text{Total fruits taken} = 2 + 4 + 10 = 16
+   \]
+
+4. **Now we calculate the remaining fruits in the bag:**
+   We subtract the total fruits taken from the initial total:
+   \[
+   \text{Remaining fruits} = \text{Total initial fruits} - \text{Total fruits taken} = 30 - 16 = 14
+   \]
+
+Thus, the remaining number of fruits in the bag is:
+</reasoning>
+<answer>14</answer>

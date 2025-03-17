@@ -1,0 +1,26 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Randy's initial amount of money:** 
+   Randy starts with $3,000. 
+
+2. **Add the money Smith gave to Randy:** 
+   Smith gives Randy an additional $200. So, we need to add this amount to Randy's initial amount:
+   \[
+   3000 + 200 = 3200
+   \]
+   Now, Randy has $3,200.
+
+3. **Subtract the amount Randy gave to Sally:** 
+   Randy then gives Sally $1,200. We need to subtract this amount from Randy's current total:
+   \[
+   3200 - 1200 = 2000
+   \]
+   After giving $1,200 to Sally, Randy has $2,000 left.
+
+4. **Conclusion:** 
+   We have calculated how much Randy has left after all the transactions.
+
+Therefore, the value of the rest that Randy kept is:
+</reasoning>
+<answer>2000</answer>

@@ -1,0 +1,46 @@
+<reasoning>
+First, let's determine how many lilies Nadia needs to buy. She was sent to buy 20 roses, and she needs to buy 3/4 times as many lilies as she bought roses.
+
+1. Calculate the number of lilies:
+   \[
+   \text{Number of lilies} = \frac{3}{4} \times \text{Number of roses}
+   \]
+   Substituting the number of roses:
+   \[
+   \text{Number of lilies} = \frac{3}{4} \times 20 = 15
+   \]
+
+So, Nadia needs to buy 15 lilies.
+
+2. Next, we need to calculate the total cost of the roses. The cost of each rose is $5.
+   \[
+   \text{Cost of roses} = \text{Number of roses} \times \text{Cost per rose}
+   \]
+   \[
+   \text{Cost of roses} = 20 \times 5 = 100
+   \]
+
+3. Now, let's calculate the cost of the lilies. We know that each lily costs twice as much as a rose. Since a rose costs $5, a lily costs:
+   \[
+   \text{Cost per lily} = 2 \times 5 = 10
+   \]
+
+4. Now, we can calculate the total cost of the lilies:
+   \[
+   \text{Cost of lilies} = \text{Number of lilies} \times \text{Cost per lily}
+   \]
+   \[
+   \text{Cost of lilies} = 15 \times 10 = 150
+   \]
+
+5. Finally, we will calculate the total amount of money Nadia spent on flowers by adding the total cost of the roses and the total cost of the lilies:
+   \[
+   \text{Total cost} = \text{Cost of roses} + \text{Cost of lilies}
+   \]
+   \[
+   \text{Total cost} = 100 + 150 = 250
+   \]
+
+Therefore, Nadia used a total of $250 to buy the flowers.
+</reasoning>
+<answer>250</answer>

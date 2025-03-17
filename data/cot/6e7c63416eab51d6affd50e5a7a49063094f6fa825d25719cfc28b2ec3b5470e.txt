@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many logs the carpenter still needs, we first need to determine how many woodblocks he can make with the 8 logs he currently has.
+
+1. **Determine the number of woodblocks per log**: Each log can make 5 woodblocks.
+
+2. **Calculate the total number of woodblocks from 8 logs**:
+   \[
+   8 \text{ logs} \times 5 \text{ woodblocks/log} = 40 \text{ woodblocks}
+   \]
+   This means the carpenter can produce 40 woodblocks using the 8 logs he has.
+
+3. **Determine how many more woodblocks are needed**: The carpenter needs 80 woodblocks in total.
+   \[
+   80 \text{ woodblocks needed} - 40 \text{ woodblocks made} = 40 \text{ woodblocks still needed}
+   \]
+   So, the carpenter still needs 40 woodblocks.
+
+4. **Calculate how many logs are needed to make the remaining woodblocks**: Since each log makes 5 woodblocks, we can find how many logs are necessary to create the remaining 40 woodblocks.
+   \[
+   \frac{40 \text{ woodblocks needed}}{5 \text{ woodblocks/log}} = 8 \text{ logs}
+   \]
+   Therefore, the carpenter needs 8 more logs to make the remaining woodblocks.
+
+5. **Final Calculation**: As he already has 8 logs, he needs to find out how many more he still needs. Since he needs 8 more logs, he still needs 8 logs.
+
+Thus, the final answer is:
+</reasoning>
+<answer>8</answer>

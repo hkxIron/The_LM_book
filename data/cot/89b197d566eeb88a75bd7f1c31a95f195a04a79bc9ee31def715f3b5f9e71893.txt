@@ -1,0 +1,36 @@
+<reasoning>
+Let's denote the number of people at Taylor's party as \( T \). According to the problem, Ryan's party was 4 times as huge as Taylor's party, which we can express as \( R = 4T \), where \( R \) is the number of people at Ryan's party.
+
+Now, we know that the total number of people at both parties combined is 240. This gives us the equation:
+
+\[
+R + T = 240
+\]
+
+Substituting the expression for \( R \) from the first equation into the second equation, we have:
+
+\[
+4T + T = 240
+\]
+
+Now, we'll combine like terms on the left side:
+
+\[
+5T = 240
+\]
+
+Next, we need to solve for \( T \) by dividing both sides of the equation by 5:
+
+\[
+T = \frac{240}{5} = 48
+\]
+
+Now that we have the number of people at Taylor's party, we can find the number of people at Ryan's party by substituting \( T \) back into the equation for \( R \):
+
+\[
+R = 4T = 4 \times 48 = 192
+\]
+
+Thus, there were 192 people at Ryan's party.
+</reasoning>
+<answer>192</answer>

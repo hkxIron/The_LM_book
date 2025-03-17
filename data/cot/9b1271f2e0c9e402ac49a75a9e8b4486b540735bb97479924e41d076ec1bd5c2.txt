@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we first need to determine how many total flowers were planted by all five people (James and his four friends) in two days.
+
+1. **Find the total number of people involved:** 
+   James has 4 friends, so the total number of people is:
+   \[
+   1 \text{ (James)} + 4 \text{ (friends)} = 5 \text{ people}
+   \]
+
+2. **Total flowers planted in 2 days:** 
+   According to the problem, they planted a total of 200 flowers in 2 days.
+
+3. **Calculate the average number of flowers planted per person in 2 days:** 
+   Since there are 5 people, we divide the total number of flowers by the number of people to find out how many flowers were planted by each person in 2 days:
+   \[
+   \text{Flowers per person in 2 days} = \frac{200 \text{ flowers}}{5 \text{ people}} = 40 \text{ flowers per person}
+   \]
+
+4. **Determine how many flowers each person planted per day:** 
+   Since the 40 flowers represent the total for 2 days, we divide this by 2 to find out how many flowers each person planted in one day:
+   \[
+   \text{Flowers per person per day} = \frac{40 \text{ flowers}}{2 \text{ days}} = 20 \text{ flowers per day}
+   \]
+
+5. **Conclusion:** 
+   Therefore, James planted 20 flowers in one day.
+</reasoning>
+<answer>20</answer>

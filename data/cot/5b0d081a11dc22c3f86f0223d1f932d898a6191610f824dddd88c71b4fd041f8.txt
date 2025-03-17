@@ -1,0 +1,51 @@
+<reasoning>
+To solve the problem, we will break it down into steps, calculating the number of red and blue balls, and then finding out how many balls are neither red nor blue.
+
+1. **Calculate the number of red balls:**
+   We know that a quarter of the balls are red. 
+   - Total balls = 360
+   - Number of red balls = \( \frac{1}{4} \times 360 \)
+
+   Let's perform the calculation:
+   \[
+   \frac{1}{4} \times 360 = 90
+   \]
+   Therefore, there are 90 red balls.
+
+2. **Calculate the remaining balls after red balls are taken out:**
+   Now we need to find out how many balls are left after accounting for the red balls.
+   - Remaining balls = Total balls - Red balls
+   \[
+   360 - 90 = 270
+   \]
+   So, there are 270 balls remaining after removing the red ones.
+
+3. **Calculate the number of blue balls:**
+   A fifth of the remaining balls are blue.
+   - Number of blue balls = \( \frac{1}{5} \times 270 \)
+
+   Let's perform this calculation:
+   \[
+   \frac{1}{5} \times 270 = 54
+   \]
+   Therefore, there are 54 blue balls.
+
+4. **Calculate the total number of balls that are either red or blue:**
+   To find out how many balls are either red or blue, we add the number of red and blue balls:
+   \[
+   \text{Total red and blue balls} = \text{Red balls} + \text{Blue balls}
+   \]
+   \[
+   90 + 54 = 144
+   \]
+
+5. **Calculate the number of balls that are neither red nor blue:**
+   Now, we subtract the total number of red and blue balls from the total number of balls.
+   - Balls that are neither red nor blue = Total balls - (Red balls + Blue balls)
+   \[
+   360 - 144 = 216
+   \]
+
+Thus, the number of balls that are neither red nor blue is 216.
+</reasoning>
+<answer>216</answer>

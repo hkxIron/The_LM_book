@@ -1,0 +1,50 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the earnings from selling orchids**: 
+   The supplier sold 20 pieces of orchids for $50 each. 
+   To find the total earnings from the orchids, we multiply the number of orchids by the price per orchid:
+   \[
+   20 \text{ orchids} \times 50 \text{ dollars/orchid} = 1000 \text{ dollars}
+   \]
+   So, the earnings from the orchids are $1000.
+
+2. **Calculate the earnings from selling potted Chinese money plants**: 
+   The supplier sold 15 pieces of potted Chinese money plants for $25 each. 
+   We find the total earnings from the money plants by multiplying the number of plants by the price per plant:
+   \[
+   15 \text{ plants} \times 25 \text{ dollars/plant} = 375 \text{ dollars}
+   \]
+   Thus, the earnings from the money plants are $375.
+
+3. **Calculate the total earnings**: 
+   Now, we add the earnings from both types of plants:
+   \[
+   1000 \text{ dollars} + 375 \text{ dollars} = 1375 \text{ dollars}
+   \]
+   The total earnings from selling both orchids and money plants is $1375.
+
+4. **Calculate the total payment to workers**: 
+   The supplier has two workers, and each is paid $40. 
+   We calculate the total payment to the workers:
+   \[
+   2 \text{ workers} \times 40 \text{ dollars/worker} = 80 \text{ dollars}
+   \]
+   Therefore, the total payment to the workers is $80.
+
+5. **Calculate the total expenses**: 
+   The supplier also spent $150 on new pots. 
+   To find the total expenses, we add the payment to the workers and the cost of the pots:
+   \[
+   80 \text{ dollars} + 150 \text{ dollars} = 230 \text{ dollars}
+   \]
+   Thus, the total expenses amount to $230.
+
+6. **Calculate the remaining money**: 
+   Finally, we subtract the total expenses from the total earnings to determine how much money is left:
+   \[
+   1375 \text{ dollars} - 230 \text{ dollars} = 1145 \text{ dollars}
+   \]
+   Therefore, the money left from the plant supplier's earnings is $1145.
+</reasoning>
+<answer>1145</answer>

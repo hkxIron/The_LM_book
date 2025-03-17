@@ -1,0 +1,30 @@
+<reasoning>
+First, we need to calculate how much Terry spent on each day.
+
+1. **Monday:** Terry spent $6 for breakfast.
+   - This is straightforward; we know the amount spent.
+
+2. **Tuesday:** Terry spent twice as much as he did on Monday.
+   - Since he spent $6 on Monday, on Tuesday he spent:
+     \[
+     2 \times 6 = 12 \text{ dollars}
+     \]
+
+3. **Wednesday:** Terry spent double the total amount he spent on Monday and Tuesday combined.
+   - First, we need to find the total spent on Monday and Tuesday:
+     \[
+     6 + 12 = 18 \text{ dollars}
+     \]
+   - Now, we calculate how much he spent on Wednesday:
+     \[
+     2 \times 18 = 36 \text{ dollars}
+     \]
+
+4. **Total Spending:** Now we will sum up all the amounts spent over the three days:
+   \[
+   6 \text{ (Monday)} + 12 \text{ (Tuesday)} + 36 \text{ (Wednesday)} = 54 \text{ dollars}
+   \]
+
+Therefore, after calculating the amounts for each day and summing them up, we find that Terry spent a total of $54.
+</reasoning>
+<answer>54</answer>

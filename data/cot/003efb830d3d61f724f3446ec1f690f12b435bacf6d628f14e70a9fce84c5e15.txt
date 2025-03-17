@@ -1,0 +1,33 @@
+<reasoning>
+To find the total distance that Onur and Hanil bike in a week, we first need to calculate the daily biking distance for both of them and then sum their distances over the week.
+
+1. **Calculate Onur's daily distance:**
+   Onur bikes 250 kilometers a day.
+
+2. **Calculate Hanil's daily distance:**
+   Hanil bikes 40 more kilometers than Onur each day. So, we add 40 kilometers to Onur's daily distance:
+   \[
+   \text{Hanil's daily distance} = \text{Onur's daily distance} + 40 = 250 + 40 = 290 \text{ kilometers}
+   \]
+
+3. **Calculate the weekly distance for Onur:**
+   Since Onur bikes 5 times a week, we multiply his daily distance by 5:
+   \[
+   \text{Weekly distance for Onur} = 250 \times 5 = 1250 \text{ kilometers}
+   \]
+
+4. **Calculate the weekly distance for Hanil:**
+   Similarly, we calculate Hanil's weekly distance:
+   \[
+   \text{Weekly distance for Hanil} = 290 \times 5 = 1450 \text{ kilometers}
+   \]
+
+5. **Calculate the total distance for both friends in a week:**
+   Now, we sum the weekly distances of Onur and Hanil:
+   \[
+   \text{Total weekly distance} = \text{Weekly distance for Onur} + \text{Weekly distance for Hanil} = 1250 + 1450 = 2700 \text{ kilometers}
+   \]
+
+Therefore, the total distance that Onur and Hanil bike in a week is 2700 kilometers.
+</reasoning>
+<answer>2700</answer>

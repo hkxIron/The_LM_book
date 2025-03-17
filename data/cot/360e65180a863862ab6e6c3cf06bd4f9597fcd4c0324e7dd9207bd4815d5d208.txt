@@ -1,0 +1,50 @@
+<reasoning>
+To determine how much Haily would spend at the cheapest salon, I will first calculate the total cost for all services (nails, haircut, and facial cleaning) at each salon. 
+
+1. **Calculate the total cost at Gustran Salon**:
+   - Haircut: $45
+   - Facial cleaning: $22
+   - Nails: $30
+   - Total = $45 + $22 + $30 
+
+   Performing the addition:
+   - $45 + $22 = $67
+   - $67 + $30 = $97
+
+   So, the total cost at Gustran Salon is $97.
+
+2. **Calculate the total cost at Barbara's Shop**:
+   - Nails: $40
+   - Haircut: $30
+   - Facial cleaning: $28
+   - Total = $40 + $30 + $28 
+
+   Performing the addition:
+   - $40 + $30 = $70
+   - $70 + $28 = $98
+
+   So, the total cost at Barbara's Shop is $98.
+
+3. **Calculate the total cost at The Fancy Salon**:
+   - Facial cleaning: $30
+   - Haircut: $34
+   - Nails: $20
+   - Total = $30 + $34 + $20 
+
+   Performing the addition:
+   - $30 + $34 = $64
+   - $64 + $20 = $84
+
+   So, the total cost at The Fancy Salon is $84.
+
+Now that I have the total costs at all three salons:
+- Gustran Salon: $97
+- Barbara's Shop: $98
+- The Fancy Salon: $84
+
+4. **Identify the cheapest salon**:
+   - Among $97, $98, and $84, the cheapest cost is $84 at The Fancy Salon.
+
+Therefore, Haily would spend the least at The Fancy Salon.
+</reasoning>
+<answer>84</answer>

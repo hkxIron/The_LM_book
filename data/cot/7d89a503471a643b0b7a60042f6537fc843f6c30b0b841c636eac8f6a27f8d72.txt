@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many brownies Annie gave to the school administrator.**
+   - Annie brought 20 brownies to school.
+   - She gave half of them to the school administrator. 
+   - To find half, we divide 20 by 2: 
+     \[
+     \text{Brownies given to administrator} = \frac{20}{2} = 10
+     \]
+   - After giving away 10 brownies, the number of brownies Annie has left is:
+     \[
+     20 - 10 = 10
+     \]
+
+2. **Determine how many brownies she gave to her best friend, Carl.**
+   - From the remaining 10 brownies, she gave half to Carl.
+   - To find half of the remaining brownies, we divide 10 by 2:
+     \[
+     \text{Brownies given to Carl} = \frac{10}{2} = 5
+     \]
+   - After giving away 5 brownies to Carl, the number she has left is:
+     \[
+     10 - 5 = 5
+     \]
+
+3. **Determine how many brownies she gave to Simon.**
+   - Annie then gave 2 brownies to Simon.
+   - We subtract those 2 brownies from the remaining 5:
+     \[
+     \text{Brownies left after giving to Simon} = 5 - 2 = 3
+     \]
+
+4. **Final count of brownies Annie has left.**
+   - After all the transactions, Annie has 3 brownies left.
+
+Therefore, after all the calculations, we find that Annie has 3 brownies remaining.
+</reasoning>
+<answer>3</answer>

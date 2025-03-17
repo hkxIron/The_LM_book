@@ -1,0 +1,35 @@
+<reasoning>
+To determine how many touchdowns per game Richard must average in the final two games to break Archie's record of 89 touchdowns, we need to follow these steps:
+
+1. **Calculate Richard's current total touchdowns**: Richard has averaged 6 touchdowns per game over his first 14 games. To find his total touchdowns so far, we multiply his average by the number of games played:
+   \[
+   \text{Total touchdowns} = \text{Average touchdowns per game} \times \text{Number of games}
+   \]
+   \[
+   \text{Total touchdowns} = 6 \, \text{touchdowns/game} \times 14 \, \text{games} = 84 \, \text{touchdowns}
+   \]
+
+2. **Determine the number of touchdowns needed to break the record**: To break Archie's record of 89 touchdowns, Richard needs one more touchdown than that:
+   \[
+   \text{Touchdowns needed} = 89 + 1 = 90 \, \text{touchdowns}
+   \]
+
+3. **Calculate how many more touchdowns Richard needs**: Now, we find out how many additional touchdowns Richard needs to reach 90:
+   \[
+   \text{Additional touchdowns needed} = 90 - \text{Current total touchdowns}
+   \]
+   \[
+   \text{Additional touchdowns needed} = 90 - 84 = 6 \, \text{touchdowns}
+   \]
+
+4. **Calculate the average touchdowns required in the final two games**: Richard has 2 games left to score these 6 touchdowns. We find the average touchdowns he must score per game by dividing the additional touchdowns needed by the number of remaining games:
+   \[
+   \text{Average needed per game} = \frac{\text{Additional touchdowns needed}}{\text{Number of remaining games}}
+   \]
+   \[
+   \text{Average needed per game} = \frac{6 \, \text{touchdowns}}{2 \, \text{games}} = 3 \, \text{touchdowns/game}
+   \]
+
+Thus, Richard must average 3 touchdowns per game in the final two games to break the record.
+</reasoning>
+<answer>3</answer>

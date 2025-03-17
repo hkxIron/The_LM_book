@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much John spends on each use of the heating pad, we need to follow these steps:
+
+1. **Calculate the total number of uses**: 
+   John uses the heating pad 3 times a week for 2 weeks. 
+   So, the total number of uses can be calculated as follows:
+   \[
+   \text{Total uses} = \text{Uses per week} \times \text{Number of weeks} = 3 \times 2 = 6
+   \]
+   This means John uses the heating pad 6 times in total.
+
+2. **Determine the total cost of the heating pad**: 
+   The heating pad costs $30.
+
+3. **Calculate the cost per use**: 
+   To find out how much he spends on each use, we divide the total cost by the total number of uses:
+   \[
+   \text{Cost per use} = \frac{\text{Total cost}}{\text{Total uses}} = \frac{30}{6} = 5
+   \]
+   This means John spends $5 for each use of the heating pad.
+
+Therefore, after calculating the total uses and the cost per use, we find that John spends $5 each time he uses the heating pad.
+</reasoning>
+<answer>5</answer>

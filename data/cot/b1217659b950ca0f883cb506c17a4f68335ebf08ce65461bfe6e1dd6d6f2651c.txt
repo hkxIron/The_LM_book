@@ -1,0 +1,42 @@
+<reasoning>
+To find out how much Jenna spends on the material, we will break down the costs based on the different components of the costume she is making: the overskirt, the petticoats, and the bodice.
+
+1. **Calculate the area of fabric for the skirts:**
+   - Jenna needs to make one overskirt and two petticoats, for a total of 3 skirts.
+   - Each skirt uses a rectangle of material that measures 12 feet by 4 feet.
+   - The area of one skirt is calculated as:
+     \[
+     \text{Area of one skirt} = \text{Length} \times \text{Width} = 12 \text{ feet} \times 4 \text{ feet} = 48 \text{ square feet}
+     \]
+   - Therefore, the total area for 3 skirts is:
+     \[
+     \text{Total area for skirts} = 3 \times 48 \text{ square feet} = 144 \text{ square feet}
+     \]
+
+2. **Calculate the area of fabric for the bodice:**
+   - The bodice requires 2 square feet for the shirt and 5 square feet for each of the two sleeves.
+   - First, calculate the total area for the sleeves:
+     \[
+     \text{Total sleeve area} = 2 \times 5 \text{ square feet} = 10 \text{ square feet}
+     \]
+   - Now, add the area of the shirt:
+     \[
+     \text{Total area for bodice} = 2 \text{ square feet} + 10 \text{ square feet} = 12 \text{ square feet}
+     \]
+
+3. **Calculate the total area of fabric needed:**
+   - Now, we will add the area needed for the skirts and the bodice:
+     \[
+     \text{Total area} = \text{Total area for skirts} + \text{Total area for bodice} = 144 \text{ square feet} + 12 \text{ square feet} = 156 \text{ square feet}
+     \]
+
+4. **Calculate the total cost of the material:**
+   - The cost of the material is $3 per square foot.
+   - Therefore, the total cost can be calculated as:
+     \[
+     \text{Total cost} = \text{Total area} \times \text{Cost per square foot} = 156 \text{ square feet} \times 3 \text{ dollars/square foot} = 468 \text{ dollars}
+     \]
+
+Thus, after calculating all areas and the total cost, we find that Jenna spends a total of $468 on the material.
+</reasoning>
+<answer>468</answer>

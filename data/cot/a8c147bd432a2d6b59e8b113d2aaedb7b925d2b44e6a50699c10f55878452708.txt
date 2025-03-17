@@ -1,0 +1,31 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Understand the given information**: 
+   - Millennium runs for 2 hours. 
+   - We need to convert 2 hours into minutes. Since 1 hour is equal to 60 minutes:
+     \[
+     2 \text{ hours} = 2 \times 60 = 120 \text{ minutes}
+     \]
+
+2. **Determine the running time of Alpha Epsilon**:
+   - The problem states that Alpha Epsilon is 30 minutes shorter than Millennium. Since we found that Millennium runs for 120 minutes, we can calculate the running time of Alpha Epsilon:
+     \[
+     \text{Running time of Alpha Epsilon} = \text{Running time of Millennium} - 30
+     \]
+     \[
+     \text{Running time of Alpha Epsilon} = 120 - 30 = 90 \text{ minutes}
+     \]
+
+3. **Determine the running time of Beast of War: Armoured Command**:
+   - According to the problem, Beast of War: Armoured Command is 10 minutes longer than Alpha Epsilon. Now we can calculate its running time:
+     \[
+     \text{Running time of Beast of War: Armoured Command} = \text{Running time of Alpha Epsilon} + 10
+     \]
+     \[
+     \text{Running time of Beast of War: Armoured Command} = 90 + 10 = 100 \text{ minutes}
+     \]
+
+Therefore, after following all the steps and performing the necessary calculations, we find that the running time of Beast of War: Armoured Command is:
+</reasoning>
+<answer>100</answer>

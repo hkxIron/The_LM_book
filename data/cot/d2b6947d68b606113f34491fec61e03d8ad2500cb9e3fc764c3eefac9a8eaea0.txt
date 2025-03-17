@@ -1,0 +1,24 @@
+<reasoning>
+To find out how many red colored pencils Johnny bought, we will break it down step by step.
+
+1. **Determine the number of packs and pencils per pack**: 
+   Johnny buys 15 packs of colored pencils, and each pack contains one red pencil. This means that from the 15 packs alone, he has 15 red pencils.
+
+2. **Identify the packs with extra red pencils**:
+   We know that 3 of the packs have two extra red pencils. This means that these 3 packs contain more red pencils than the others.
+
+3. **Calculate the total extra red pencils from those packs**: 
+   Since each of these 3 packs has 2 extra red pencils, we will calculate the total number of extra red pencils:
+   \[
+   \text{Extra red pencils} = 3 \text{ packs} \times 2 \text{ extra red pencils} = 6 \text{ extra red pencils}
+   \]
+
+4. **Calculate the total number of red pencils**:
+   Now we add the original number of red pencils from the packs to the extra red pencils:
+   \[
+   \text{Total red pencils} = 15 \text{ (from the packs)} + 6 \text{ (extra)} = 21 \text{ red pencils}
+   \]
+
+Therefore, Johnny bought a total of 21 red colored pencils.
+</reasoning>
+<answer>21</answer>

@@ -1,0 +1,24 @@
+<reasoning>
+First, we need to determine the selling price of each Corgi dog after applying the 30% profit margin. 
+
+1. **Calculate the profit per dog**: 
+   The cost price of each dog is $1000. To find the profit, we calculate 30% of $1000.
+   \[
+   \text{Profit} = 30\% \times 1000 = 0.30 \times 1000 = 300
+   \]
+
+2. **Calculate the selling price per dog**: 
+   To find the selling price, we add the profit to the cost price.
+   \[
+   \text{Selling Price} = \text{Cost Price} + \text{Profit} = 1000 + 300 = 1300
+   \]
+
+3. **Calculate the total cost for two dogs**: 
+   Since the friend wants to buy two dogs, we multiply the selling price of one dog by 2.
+   \[
+   \text{Total Cost for 2 Dogs} = 2 \times 1300 = 2600
+   \]
+
+Thus, Mr. Mayer's friend should pay a total of $2600 for two Corgi dogs.
+</reasoning>
+<answer>2600</answer>

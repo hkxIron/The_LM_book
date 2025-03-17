@@ -1,0 +1,28 @@
+<reasoning>
+First, let's find out how much James earns from his main job. 
+
+He earns $20 per hour and works 30 hours a week, so we multiply these two values to find his total earnings.
+
+$20/hour * 30 hours = $600 
+
+Next, let's figure out how much he earns at his second job. 
+
+We are told he earns 20% less than at his main job. To find this figure, we'll first calculate 20% of his main job hourly wage, and then subtract this from his main wage.
+
+20% of $20 = 0.20 * $20 = $4 
+
+His second job wage is therefore $20 - $4 = $16 per hour. 
+
+We're also told he works half as many hours at the second job as his main job. He works 30 hours at the main job, so he works 30 / 2 = 15 hours at his second job.
+
+To find out how much he earns at his second job, we multiply his hourly wage by the number of hours he works.
+
+$16/hour * 15 hours = $240 
+
+Finally, to find out how much he earns in total per week, we add the amounts he earns from his main job and his second job.
+
+$600 + $240 = $840 
+
+So, James earns $840 per week.
+</reasoning>
+<answer>840</answer>

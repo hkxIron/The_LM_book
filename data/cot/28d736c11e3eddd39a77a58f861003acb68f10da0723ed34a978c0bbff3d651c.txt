@@ -1,0 +1,20 @@
+<reasoning>
+To find out how many comics James has written in 4 years, we first need to determine the total number of days in 4 years. Since there are no leap years in this scenario, we can use the standard number of days in a year:
+
+1. **Calculate the total number of days in 4 years:**
+   - Each year has 365 days.
+   - So, for 4 years:  
+     \( 4 \text{ years} \times 365 \text{ days/year} = 1460 \text{ days} \)
+
+2. **Determine how many comics James writes:**
+   - James writes a comic every other day, which means he writes a comic every 2 days.
+   - To find out how many comics he writes in 1460 days, we divide the total number of days by 2:  
+     \( \frac{1460 \text{ days}}{2} = 730 \text{ comics} \)
+
+Now, summarizing the calculations:
+- Total days in 4 years = 1460 days
+- Comics written = 1460 days ÷ 2 days/comic = 730 comics
+
+Therefore, James has written a total of 730 comics in 4 years without any leap years.
+</reasoning>
+<answer>730</answer>

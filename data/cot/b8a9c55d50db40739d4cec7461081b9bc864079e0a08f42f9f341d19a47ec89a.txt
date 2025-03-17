@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we need to first determine how many pieces of clothing Darcy starts with and then how many he has already folded. 
+
+1. **Identify the total pieces of clothing**: 
+   - Darcy washes and dries 20 shirts and 8 pairs of shorts. 
+   - To find the total, we add these two numbers together:
+     \[
+     \text{Total clothing} = \text{Number of shirts} + \text{Number of shorts} = 20 + 8 = 28
+     \]
+
+2. **Identify how many pieces he has already folded**: 
+   - Darcy folds 12 shirts and 5 pairs of shorts. 
+   - To find the total folded, we add these two numbers:
+     \[
+     \text{Total folded} = \text{Folded shirts} + \text{Folded shorts} = 12 + 5 = 17
+     \]
+
+3. **Calculate the remaining pieces of clothing to fold**: 
+   - To find out how many pieces of clothing are left to fold, we subtract the total folded from the total clothing:
+     \[
+     \text{Remaining to fold} = \text{Total clothing} - \text{Total folded} = 28 - 17 = 11
+     \]
+
+Now we have determined that Darcy has 11 more pieces of clothing to fold. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>11</answer>

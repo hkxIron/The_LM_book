@@ -1,0 +1,30 @@
+<reasoning>
+To find out how much it will cost Tricia to buy enough bottles of iced coffee to last for 2 weeks, we can follow these steps:
+
+1. **Determine the daily consumption in servings**: 
+   Since Tricia drinks half a container of iced coffee per day, and each container has 6 servings, her daily consumption in servings is:
+   \[
+   \text{Daily servings} = \frac{6 \text{ servings}}{2} = 3 \text{ servings per day}
+   \]
+
+2. **Calculate the total servings needed for 2 weeks**: 
+   There are 14 days in 2 weeks. Therefore, the total number of servings Tricia will need in 2 weeks is:
+   \[
+   \text{Total servings} = 3 \text{ servings/day} \times 14 \text{ days} = 42 \text{ servings}
+   \]
+
+3. **Determine how many containers are needed**: 
+   Each container has 6 servings. To find out how many containers Tricia needs for 42 servings, we divide the total servings by the servings per container:
+   \[
+   \text{Containers needed} = \frac{42 \text{ servings}}{6 \text{ servings/container}} = 7 \text{ containers}
+   \]
+
+4. **Calculate the total cost**: 
+   Since each bottle costs $3.00, we can find the total cost by multiplying the number of containers needed by the cost per container:
+   \[
+   \text{Total cost} = 7 \text{ containers} \times 3 \text{ dollars/container} = 21 \text{ dollars}
+   \]
+
+Therefore, after calculating the total cost of the bottles she needs for 2 weeks,
+</reasoning>
+<answer>21</answer>

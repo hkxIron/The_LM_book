@@ -1,0 +1,25 @@
+<reasoning>
+First, we need to calculate how many pages Liza reads in 3 hours. Since Liza reads 20 pages in an hour, we can multiply her reading rate by the number of hours:
+
+1. **Calculate Liza's total pages read in 3 hours:**
+   \[
+   \text{Pages read by Liza} = \text{pages per hour} \times \text{number of hours} = 20 \text{ pages/hour} \times 3 \text{ hours} = 60 \text{ pages}
+   \]
+
+Next, we perform a similar calculation for Suzie, who reads 15 pages in an hour:
+
+2. **Calculate Suzie's total pages read in 3 hours:**
+   \[
+   \text{Pages read by Suzie} = \text{pages per hour} \times \text{number of hours} = 15 \text{ pages/hour} \times 3 \text{ hours} = 45 \text{ pages}
+   \]
+
+Now that we have the total number of pages each person read, we need to find out how many more pages Liza read than Suzie:
+
+3. **Calculate the difference in pages read:**
+   \[
+   \text{Difference} = \text{Pages read by Liza} - \text{Pages read by Suzie} = 60 \text{ pages} - 45 \text{ pages} = 15 \text{ pages}
+   \]
+
+Therefore, after calculating the total pages read by both Liza and Suzie and then finding the difference, we conclude that Liza reads 15 more pages than Suzie in 3 hours.
+</reasoning>
+<answer>15</answer>

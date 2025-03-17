@@ -1,0 +1,43 @@
+<reasoning>
+To determine how long it takes Robi Ney to fill the 120-liter tub under the given conditions, we will analyze the process step by step.
+
+1. **Understanding the flow rates**: 
+   - When the tap is open for 1 minute, it fills 12 liters of water.
+   - Simultaneously, 1 liter of water escapes due to the leak at the bottom of the tub. 
+
+2. **Calculating the net gain of water in 1 minute**:
+   - When the tap is open, the total water gained is 12 liters from the tap minus 1 liter lost through the leak.
+   - Therefore, the net gain of water in one minute when the tap is open is:
+     \[
+     12 \text{ liters} - 1 \text{ liter} = 11 \text{ liters}
+     \]
+
+3. **Alternating open and close**: 
+   - For the first minute (tap open), the net gain is 11 liters.
+   - For the second minute (tap closed), there is no water added, but 1 liter escapes due to the leak. Therefore, the total water lost during the second minute is:
+     \[
+     0 \text{ liters} - 1 \text{ liter} = -1 \text{ liter}
+     \]
+   - In 2 minutes (1 minute open and 1 minute closed), the total net water gain is:
+     \[
+     11 \text{ liters} - 1 \text{ liter} = 10 \text{ liters}
+     \]
+
+4. **Calculating total time to fill the tub**:
+   - We need to find out how many complete cycles of 2 minutes it will take to fill 120 liters. Each cycle provides 10 liters of net gain.
+   - The number of complete cycles needed to fill the tub can be calculated as:
+     \[
+     \text{Number of cycles} = \frac{120 \text{ liters}}{10 \text{ liters per cycle}} = 12 \text{ cycles}
+     \]
+   - Since each cycle takes 2 minutes, the total time required for 12 cycles is:
+     \[
+     12 \text{ cycles} \times 2 \text{ minutes per cycle} = 24 \text{ minutes}
+     \]
+
+5. **Final verification**:
+   - After 24 minutes (12 cycles), the tub will have 120 liters of water. 
+   - During each cycle of 2 minutes, the progression is accurate, and the total is confirmed.
+
+Thus, the total time taken to fill the tub is:
+</reasoning>
+<answer>24</answer>

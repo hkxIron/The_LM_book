@@ -1,0 +1,60 @@
+<reasoning>
+To find out how many books Mary has at the end of the year, we will start with the number of books she had initially and then account for all the books she received and the books she got rid of throughout the year.
+
+1. **Starting Number of Books**: 
+   Mary starts with 72 mystery books.
+
+2. **Books Received from Book Club**:
+   She receives 1 book each month for 12 months. Therefore, the total number of books from the book club is:
+   \[
+   1 \text{ book/month} \times 12 \text{ months} = 12 \text{ books}
+   \]
+
+3. **Books Bought at Bookstore**:
+   Halfway through the year, she buys 5 more books. 
+
+4. **Books Bought at Yard Sales**:
+   Later, she buys 2 additional books at yard sales.
+
+5. **Books Given by Daughter**:
+   Her daughter gives her 1 book for her birthday.
+
+6. **Books Given by Mother**:
+   Her mother gives her a series of 4 books.
+
+Now, let's sum all the books received and bought:
+- Starting books: 72
+- Books from the book club: 12
+- Books from the bookstore: 5
+- Books from yard sales: 2
+- Birthday book from her daughter: 1
+- Books from her mother: 4
+
+Adding these together gives:
+\[
+72 + 12 + 5 + 2 + 1 + 4 = 96 \text{ books}
+\]
+
+7. **Books Donated**:
+   Mary donates 12 books to a charity shop.
+
+8. **Books Sold**:
+   She sells 3 books to a used bookstore.
+
+Now, we subtract the books she got rid of:
+- Donated books: 12
+- Sold books: 3
+
+The total number of books she got rid of is:
+\[
+12 + 3 = 15 \text{ books}
+\]
+
+Now, we subtract these from the total books she has:
+\[
+96 - 15 = 81 \text{ books}
+\]
+
+Therefore, at the end of the year, Mary has 81 mystery books in her library.
+</reasoning>
+<answer>81</answer>

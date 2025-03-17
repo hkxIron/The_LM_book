@@ -1,0 +1,32 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine the total number of cups of juice Mr. Williams bought.**
+   - We know that there are 10 gallons of juice and each gallon has 10 cups. 
+   - To find the total number of cups, we multiply the number of gallons by the number of cups per gallon:
+     \[
+     \text{Total cups} = 10 \text{ gallons} \times 10 \text{ cups/gallon}
+     \]
+   - Calculating this gives:
+     \[
+     \text{Total cups} = 100 \text{ cups}
+     \]
+
+2. **Find out how many cups of juice were consumed.**
+   - We know that at the end of the party, there were 5 cups left. 
+   - To find out how many cups were drunk, we subtract the number of cups left from the total number of cups:
+     \[
+     \text{Cups drunk} = \text{Total cups} - \text{Cups left}
+     \]
+   - Plugging in the numbers we calculated:
+     \[
+     \text{Cups drunk} = 100 \text{ cups} - 5 \text{ cups}
+     \]
+   - Performing this subtraction gives:
+     \[
+     \text{Cups drunk} = 95 \text{ cups}
+     \]
+
+Therefore, the final answer is:
+</reasoning>
+<answer>95</answer>

@@ -1,0 +1,23 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify the cost of the initially owned land**: Carlson initially owned 300 square meters of land. The problem states that he bought additional land for $20 per square meter. However, we first need to understand the total cost of the land Carlson has purchased.
+
+2. **Determine the total cost of land purchased**: Carlson bought two parcels of land, one costing $8000 and another costing $4000. The total cost of the land he bought is:
+   \[
+   \text{Total cost} = 8000 + 4000 = 12000 \text{ dollars}
+   \]
+
+3. **Calculate the area of land bought**: Since the land he bought costs $20 per square meter, we can find out how many square meters he acquired by dividing the total cost by the cost per square meter:
+   \[
+   \text{Area bought} = \frac{\text{Total cost}}{\text{Cost per square meter}} = \frac{12000}{20} = 600 \text{ square meters}
+   \]
+
+4. **Calculate the total area of land after the purchase**: Now we can add the area of the land he initially owned to the area of the land he just bought:
+   \[
+   \text{Total area} = \text{Initial area} + \text{Area bought} = 300 + 600 = 900 \text{ square meters}
+   \]
+
+Therefore, after buying the new land, Carlson's total area of land is 900 square meters.
+</reasoning>
+<answer>900</answer>

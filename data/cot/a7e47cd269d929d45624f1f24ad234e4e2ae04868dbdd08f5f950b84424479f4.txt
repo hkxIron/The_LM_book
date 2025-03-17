@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Total Daily Operations Cost**: Mr. Haj needs $4000 a day for his grocery store operations.
+
+2. **Calculate Amount Spent on Employees' Salaries**: According to the problem, Mr. Haj spends 2/5 of the total operation costs on employees' salaries. 
+
+   To find the amount spent on salaries:
+   \[
+   \text{Salaries} = \frac{2}{5} \times 4000
+   \]
+   Now, calculating this:
+   \[
+   \text{Salaries} = \frac{2 \times 4000}{5} = \frac{8000}{5} = 1600
+   \]
+
+   So, Mr. Haj spends $1600 on employees' salaries.
+
+3. **Calculate Remaining Amount After Salaries**: Next, we need to find out how much money is left after paying for salaries. We subtract the salaries from the total operation costs:
+   \[
+   \text{Remaining} = 4000 - 1600 = 2400
+   \]
+
+4. **Calculate Amount Spent on Delivery Costs**: Now, Mr. Haj spends 1/4 of the remaining amount on delivery costs. Let's calculate that:
+   \[
+   \text{Delivery Costs} = \frac{1}{4} \times 2400
+   \]
+   Now, calculating this:
+   \[
+   \text{Delivery Costs} = \frac{2400}{4} = 600
+   \]
+
+   So, Mr. Haj spends $600 on delivery costs.
+
+5. **Calculate Amount Remaining for Orders**: Finally, we find the amount left for orders done by subtracting the delivery costs from the remaining amount after salaries:
+   \[
+   \text{Orders Done} = 2400 - 600 = 1800
+   \]
+
+Therefore, Mr. Haj pays $1800 for the orders done.
+</reasoning>
+<answer>1800</answer>

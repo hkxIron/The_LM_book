@@ -1,0 +1,44 @@
+<reasoning>
+Let's denote the distance Javier threw the javelin on his second throw as \( x \) meters.
+
+According to the problem:
+1. The first throw is twice as far as the second throw, so the distance of the first throw is \( 2x \) meters.
+2. The third throw is twice as far as the first throw, so the distance of the third throw is \( 4x \) meters.
+
+Now we have the distances of all three throws:
+- First throw: \( 2x \)
+- Second throw: \( x \)
+- Third throw: \( 4x \)
+
+Next, we can set up an equation based on the information that the sum of all three throws equals 1050 meters. Thus, we can express this as:
+\[
+2x + x + 4x = 1050
+\]
+
+Now, combine the terms on the left side:
+\[
+(2x + x + 4x) = 7x
+\]
+So, we have:
+\[
+7x = 1050
+\]
+
+Next, we will solve for \( x \) by dividing both sides of the equation by 7:
+\[
+x = \frac{1050}{7}
+\]
+Calculating that gives:
+\[
+x = 150
+\]
+
+Now that we have \( x \), we can find the distances for each throw:
+1. The first throw: \( 2x = 2 \times 150 = 300 \) meters.
+2. The second throw: \( x = 150 \) meters.
+3. The third throw: \( 4x = 4 \times 150 = 600 \) meters.
+
+Finally, we were asked for the distance of the first throw:
+Therefore, Javier threw the javelin on his first throw:
+</reasoning>
+<answer>300</answer>

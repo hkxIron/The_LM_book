@@ -1,0 +1,38 @@
+<reasoning>
+To calculate the total amount the company will pay all 50 new phone reps after 5 days, we need to follow these steps:
+
+1. **Calculate the daily pay for one phone rep**: 
+   Each phone rep earns $14.00 per hour and works 8 hours a day. 
+   Therefore, the daily pay for one phone rep can be calculated as:
+   \[
+   \text{Daily Pay} = \text{Hourly Rate} \times \text{Hours Worked} = 14 \times 8
+   \]
+   Performing the multiplication:
+   \[
+   14 \times 8 = 112
+   \]
+   So, each phone rep earns $112.00 per day.
+
+2. **Calculate the total daily pay for all phone reps**:
+   Since there are 50 phone reps, we multiply the daily pay of one rep by the number of reps:
+   \[
+   \text{Total Daily Pay} = \text{Daily Pay} \times \text{Number of Reps} = 112 \times 50
+   \]
+   Performing the multiplication:
+   \[
+   112 \times 50 = 5600
+   \]
+   Therefore, the total daily pay for all 50 phone reps is $5600.00.
+
+3. **Calculate the total pay for 5 days**:
+   Now, we need to find out how much is paid over 5 days. We multiply the total daily pay by the number of days:
+   \[
+   \text{Total Pay for 5 Days} = \text{Total Daily Pay} \times 5 = 5600 \times 5
+   \]
+   Performing the multiplication:
+   \[
+   5600 \times 5 = 28000
+   \]
+   Therefore, the total amount the company will pay all 50 new phone reps after 5 days is $28000.00.
+</reasoning>
+<answer>28000</answer>

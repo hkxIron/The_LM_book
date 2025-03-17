@@ -1,0 +1,60 @@
+<reasoning>
+To solve this problem, let's break it down step by step.
+
+1. **Understanding Alden's Nephews**: We know that Alden had 50 nephews ten years ago. The problem states that this is half the number of nephews Alden has now. This means we can find the current number of nephews Alden has by setting up the equation:
+
+   \[
+   \text{Current number of nephews} = 2 \times 50
+   \]
+
+   This is because if 50 was half, then to find the full amount (the current number), we multiply by 2.
+
+2. **Calculating Alden's Current Nephews**: Performing the multiplication:
+
+   \[
+   2 \times 50 = 100
+   \]
+
+   So, Alden currently has 100 nephews.
+
+3. **Understanding Vihaan's Nephews**: Next, we learn that Vihaan has 60 more nephews than Alden currently has. Therefore, we calculate the number of Vihaan's nephews as follows:
+
+   \[
+   \text{Vihaan's nephews} = \text{Alden's nephews} + 60
+   \]
+
+   Substituting in the number of Alden's nephews:
+
+   \[
+   \text{Vihaan's nephews} = 100 + 60
+   \]
+
+4. **Calculating Vihaan's Nephews**: Performing this addition gives:
+
+   \[
+   100 + 60 = 160
+   \]
+
+   So, Vihaan has 160 nephews.
+
+5. **Finding the Total Number of Nephews**: Now, to find the total number of nephews that both Alden and Vihaan have together, we add Alden's and Vihaan's nephews:
+
+   \[
+   \text{Total nephews} = \text{Alden's nephews} + \text{Vihaan's nephews}
+   \]
+
+   Substituting the values we found:
+
+   \[
+   \text{Total nephews} = 100 + 160
+   \]
+
+6. **Calculating the Total**: Performing this addition:
+
+   \[
+   100 + 160 = 260
+   \]
+
+Thus, the total number of nephews Alden and Vihaan have together is 260.
+</reasoning>
+<answer>260</answer>

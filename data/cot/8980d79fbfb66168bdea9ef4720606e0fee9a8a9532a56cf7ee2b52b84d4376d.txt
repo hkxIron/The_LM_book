@@ -1,0 +1,24 @@
+<reasoning>
+To find out how much longer Patricia needs to grow her hair before she can donate it, we need to follow a few steps:
+
+1. **Determine the total length of hair needed for the donation**: Patricia needs to donate 23 inches of hair.
+
+2. **Calculate the length of hair Patricia will have after the donation**: She wants to have 12 inches of hair left after the donation.
+
+3. **Add the length she wants to have after donation to the length she needs to donate**: This will give us the total length of hair she needs before the donation. 
+
+   \[
+   \text{Total length needed} = \text{Length to donate} + \text{Length after donation} = 23 \text{ inches} + 12 \text{ inches} = 35 \text{ inches}
+   \]
+
+4. **Compare this total length to her current hair length**: Patricia's hair is currently 14 inches long. 
+
+5. **Calculate how much longer she needs to grow**: We subtract her current hair length from the total length needed.
+
+   \[
+   \text{Length to grow} = \text{Total length needed} - \text{Current length} = 35 \text{ inches} - 14 \text{ inches} = 21 \text{ inches}
+   \]
+
+Thus, Patricia needs to grow her hair an additional 21 inches before she can make the donation.
+</reasoning>
+<answer>21</answer>

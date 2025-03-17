@@ -1,0 +1,39 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Determine how many apples Susan picked**: 
+   Frank picked 36 apples. Susan picked 3 times as many apples as Frank.
+   \[
+   \text{Susan's apples} = 3 \times \text{Frank's apples} = 3 \times 36 = 108
+   \]
+   So, Susan picked 108 apples.
+
+2. **Calculate how many apples Susan has after giving out half**: 
+   Susan gave out half of her apples.
+   \[
+   \text{Apples given out} = \frac{108}{2} = 54
+   \]
+   Therefore, the number of apples Susan has left is:
+   \[
+   \text{Susan's remaining apples} = 108 - 54 = 54
+   \]
+
+3. **Calculate how many apples Frank has after selling a third**: 
+   Frank sold a third of his apples.
+   \[
+   \text{Apples sold} = \frac{36}{3} = 12
+   \]
+   So, the number of apples Frank has left is:
+   \[
+   \text{Frank's remaining apples} = 36 - 12 = 24
+   \]
+
+4. **Calculate the total number of apples they have left together**: 
+   Now we add the remaining apples of Frank and Susan.
+   \[
+   \text{Total remaining apples} = \text{Frank's remaining apples} + \text{Susan's remaining apples} = 24 + 54 = 78
+   \]
+
+Therefore, the total number of apples they have left is:
+</reasoning>
+<answer>78</answer>

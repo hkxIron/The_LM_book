@@ -1,0 +1,21 @@
+<reasoning>
+To find out how far the jet could fly in 10 hours, we first need to determine its speed based on the information provided.
+
+1. **Calculate the speed of the jet**:
+   - The jet travels 580 miles in 2 hours. 
+   - To find the speed, we divide the total distance by the total time:
+     \[
+     \text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{580 \text{ miles}}{2 \text{ hours}} = 290 \text{ miles per hour}
+     \]
+   - This means the jet flies at a speed of 290 miles per hour.
+
+2. **Calculate the distance the jet can fly in 10 hours**:
+   - Now that we know the speed, we can find out how far the jet can travel in 10 hours by multiplying the speed by the time:
+     \[
+     \text{Distance in 10 hours} = \text{Speed} \times \text{Time} = 290 \text{ miles per hour} \times 10 \text{ hours} = 2900 \text{ miles}
+     \]
+   - This calculation shows how far the jet can travel if it maintains its speed for the entire 10 hours.
+
+Therefore, the jet could fly 2900 miles in 10 hours.
+</reasoning>
+<answer>2900</answer>

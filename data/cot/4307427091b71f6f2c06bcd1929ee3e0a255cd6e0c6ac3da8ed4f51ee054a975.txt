@@ -1,0 +1,36 @@
+<reasoning>
+To find the average cost across all products sold today, we need to follow these steps:
+
+1. **Calculate the total revenue for each product**:
+   - For iPhones: 
+     - Number sold = 100
+     - Average cost = $1000
+     - Total revenue from iPhones = 100 * 1000 = $100,000
+
+   - For iPads:
+     - Number sold = 20
+     - Average cost = $900
+     - Total revenue from iPads = 20 * 900 = $18,000
+
+   - For Apple TVs:
+     - Number sold = 80
+     - Average cost = $200
+     - Total revenue from Apple TVs = 80 * 200 = $16,000
+
+   Now, let's sum these totals to get the overall revenue.
+
+2. **Calculate the total revenue**:
+   - Total revenue = Total revenue from iPhones + Total revenue from iPads + Total revenue from Apple TVs
+   - Total revenue = $100,000 + $18,000 + $16,000 = $134,000
+
+3. **Calculate the total number of products sold**:
+   - Total number of products sold = Number of iPhones + Number of iPads + Number of Apple TVs
+   - Total number of products sold = 100 + 20 + 80 = 200
+
+4. **Calculate the average cost across all products**:
+   - Average cost = Total revenue / Total number of products sold
+   - Average cost = $134,000 / 200 = $670
+
+Therefore, the average cost across all products sold today is $670.
+</reasoning>
+<answer>670</answer>

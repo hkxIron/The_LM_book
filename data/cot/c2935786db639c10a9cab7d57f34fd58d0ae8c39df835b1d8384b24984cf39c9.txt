@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many hours Sam spent on tutoring for two months, we can follow these steps:
+
+1. **Calculate the earnings for each month**:
+   - In the first month, Sam earned $200.
+   - In the second month, he earned $150 more than the first month. Therefore, his earnings for the second month can be calculated as:
+     \[
+     \text{Earnings for the second month} = \text{Earnings for the first month} + 150 = 200 + 150 = 350
+     \]
+
+2. **Calculate the total earnings over the two months**:
+   - Now we can sum the earnings for both months:
+     \[
+     \text{Total earnings} = \text{Earnings for the first month} + \text{Earnings for the second month} = 200 + 350 = 550
+     \]
+
+3. **Determine the hourly rate and find the total hours spent tutoring**:
+   - We know that Sam earns $10 per hour. To find the total hours he worked over the two months, we can divide the total earnings by his hourly rate:
+     \[
+     \text{Total hours} = \frac{\text{Total earnings}}{\text{Hourly rate}} = \frac{550}{10} = 55
+     \]
+
+After performing these calculations, we find that Sam spent a total of 55 hours tutoring over the two months.
+</reasoning>
+<answer>55</answer>

@@ -1,0 +1,23 @@
+<reasoning>
+To solve the problem step by step, let's define the number of crayons each person has:
+
+1. **Identify the number of crayons Billie has:**
+   Billie has 18 crayons. We will use this information to find out how many crayons Bobbie has.
+
+2. **Calculate how many crayons Bobbie has:**
+   Bobbie has three times as many crayons as Billie. Since Billie has 18 crayons, we calculate Bobbie's crayons as follows:
+   \[
+   \text{Bobbie's crayons} = 3 \times \text{Billie's crayons} = 3 \times 18 = 54
+   \]
+   Therefore, Bobbie has 54 crayons.
+
+3. **Calculate how many crayons Lizzie has:**
+   Lizzie has half as many crayons as Bobbie. Since we have found that Bobbie has 54 crayons, we can find Lizzie's crayons as follows:
+   \[
+   \text{Lizzie's crayons} = \frac{1}{2} \times \text{Bobbie's crayons} = \frac{1}{2} \times 54 = 27
+   \]
+   Therefore, Lizzie has 27 crayons.
+
+In summary, we calculated Bobbie's crayons based on Billie's count and then calculated Lizzie's crayons based on Bobbie's count.
+</reasoning>
+<answer>27</answer>

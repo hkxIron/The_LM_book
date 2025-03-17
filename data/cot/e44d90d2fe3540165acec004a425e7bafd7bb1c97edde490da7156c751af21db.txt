@@ -1,0 +1,37 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many tickets Jude sold.**
+   We know from the problem that Jude sold 16 tickets.
+
+2. **Calculate how many tickets Andrea sold.**
+   According to the problem, Andrea sold twice as many tickets as Jude. Therefore, we can calculate Andrea's tickets as follows:
+   \[
+   \text{Andrea's tickets} = 2 \times \text{Jude's tickets} = 2 \times 16 = 32
+   \]
+
+3. **Calculate how many tickets Sandra sold.**
+   The problem states that Sandra sold 4 more than half the number of tickets Jude sold. First, we need to find half of Jude's tickets:
+   \[
+   \text{Half of Jude's tickets} = \frac{16}{2} = 8
+   \]
+   Now we can find out how many tickets Sandra sold:
+   \[
+   \text{Sandra's tickets} = 8 + 4 = 12
+   \]
+
+4. **Calculate the total number of tickets sold.**
+   Now that we have the number of tickets sold by Andrea, Jude, and Sandra, we can find the total number of tickets sold:
+   \[
+   \text{Total tickets sold} = \text{Andrea's tickets} + \text{Jude's tickets} + \text{Sandra's tickets} = 32 + 16 + 12 = 60
+   \]
+
+5. **Determine how many tickets need to be sold.**
+   Since there are 100 tickets available and 60 tickets have already been sold, we can calculate how many tickets still need to be sold:
+   \[
+   \text{Tickets remaining} = 100 - \text{Total tickets sold} = 100 - 60 = 40
+   \]
+
+Therefore, the total number of tickets that need to be sold is 40.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify current ages**: We know that Rehana is currently 25 years old. We denote Phoebe's current age as \( P \).
+
+2. **Set up the future age equation**: In five years, Rehana will be \( 25 + 5 = 30 \) years old. According to the problem, at that time, Rehana will be three times as old as Phoebe. Therefore, we set up the following equation:
+   \[
+   30 = 3(P + 5)
+   \]
+   Here, \( P + 5 \) represents Phoebe’s age in five years.
+
+3. **Solve for \( P \)**: First, we distribute the 3 on the right side of the equation:
+   \[
+   30 = 3P + 15
+   \]
+   Next, we isolate \( 3P \) by subtracting 15 from both sides:
+   \[
+   30 - 15 = 3P
+   \]
+   This simplifies to:
+   \[
+   15 = 3P
+   \]
+   Now, we divide both sides by 3 to find \( P \):
+   \[
+   P = \frac{15}{3} = 5
+   \]
+   So, Phoebe is currently 5 years old.
+
+4. **Find Jacob’s age**: The problem states that Jacob is \( \frac{3}{5} \) of Phoebe's current age. Therefore, we calculate Jacob's age using Phoebe's age:
+   \[
+   \text{Jacob's age} = \frac{3}{5} \times P = \frac{3}{5} \times 5
+   \]
+   Simplifying this gives:
+   \[
+   \text{Jacob's age} = 3
+   \]
+
+Therefore, Jacob is currently 3 years old.
+</reasoning>
+<answer>3</answer>

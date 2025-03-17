@@ -1,0 +1,50 @@
+<reasoning>
+To solve the problem step by step, we will find out the power consumption of both John's old and new computers, calculate the new price of electricity, and finally determine the cost to run the new computer for 50 hours.
+
+1. **Determine the old computer's power consumption in kilowatts:**
+   - John's old computer used 800 watts. To convert this to kilowatts, we divide by 1000:
+     \[
+     \text{Old Computer Power (kW)} = \frac{800 \text{ watts}}{1000} = 0.8 \text{ kW}
+     \]
+
+2. **Calculate the new computer's power consumption:**
+   - The new computer uses 50% more power than the old one. To find this, we calculate 50% of 0.8 kW:
+     \[
+     \text{Increase in Power} = 0.5 \times 0.8 \text{ kW} = 0.4 \text{ kW}
+     \]
+   - Now, add this increase to the old computer's power:
+     \[
+     \text{New Computer Power (kW)} = 0.8 \text{ kW} + 0.4 \text{ kW} = 1.2 \text{ kW}
+     \]
+
+3. **Determine the new price of electricity:**
+   - The old price of electricity was 12 cents per kilowatt-hour, and it went up by 25%. To find the new price, we calculate 25% of 12 cents:
+     \[
+     \text{Increase in Price} = 0.25 \times 12 \text{ cents} = 3 \text{ cents}
+     \]
+   - Now, add this increase to the old price:
+     \[
+     \text{New Price} = 12 \text{ cents} + 3 \text{ cents} = 15 \text{ cents} \text{ or } 0.15 \text{ dollars}
+     \]
+
+4. **Calculate the cost to run the new computer for 50 hours:**
+   - The cost is calculated using the formula:
+     \[
+     \text{Cost} = \text{Power (kW)} \times \text{Time (hours)} \times \text{Price (dollars per kWh)}
+     \]
+   - Substituting in our values:
+     \[
+     \text{Cost} = 1.2 \text{ kW} \times 50 \text{ hours} \times 0.15 \text{ dollars/kWh}
+     \]
+   - First, calculate the power used over 50 hours:
+     \[
+     1.2 \text{ kW} \times 50 \text{ hours} = 60 \text{ kWh}
+     \]
+   - Now, calculate the total cost:
+     \[
+     \text{Cost} = 60 \text{ kWh} \times 0.15 \text{ dollars/kWh} = 9 \text{ dollars}
+     \]
+
+Therefore, the total cost to run John's new computer for 50 hours is:
+</reasoning>
+<answer>9</answer>

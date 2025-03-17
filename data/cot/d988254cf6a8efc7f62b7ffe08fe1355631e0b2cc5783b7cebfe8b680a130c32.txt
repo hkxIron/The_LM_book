@@ -1,0 +1,31 @@
+<reasoning>
+To find out how many buttons the GooGoo brand will use to manufacture the shirts for the order, we will break down the problem into clear steps.
+
+1. **Identify the number of shirts**: The order is for 200 shirts of each type:
+   - Type 1: 3-button shirts
+   - Type 2: 5-button shirts
+
+2. **Calculate the total number of buttons for each type of shirt**:
+   - For the 3-button shirts:
+     - Each shirt has 3 buttons.
+     - Therefore, for 200 shirts, the total number of buttons is calculated as:
+       \[
+       200 \text{ shirts} \times 3 \text{ buttons/shirt} = 600 \text{ buttons}
+       \]
+
+   - For the 5-button shirts:
+     - Each shirt has 5 buttons.
+     - Therefore, for 200 shirts, the total number of buttons is calculated as:
+       \[
+       200 \text{ shirts} \times 5 \text{ buttons/shirt} = 1000 \text{ buttons}
+       \]
+
+3. **Add the total buttons from both types of shirts**:
+   - Now, we need to find the grand total of buttons used for both types of shirts:
+     \[
+     600 \text{ buttons (from 3-button shirts)} + 1000 \text{ buttons (from 5-button shirts)} = 1600 \text{ buttons}
+     \]
+
+Therefore, the GooGoo brand will use a total of 1600 buttons to manufacture all of the shirts for this order.
+</reasoning>
+<answer>1600</answer>

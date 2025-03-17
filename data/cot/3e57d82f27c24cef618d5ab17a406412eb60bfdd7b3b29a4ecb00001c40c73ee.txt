@@ -1,0 +1,51 @@
+<reasoning>
+First, let's determine the capacity of the bus in terms of the number of people it can carry.
+
+The bus has a capacity of 200 people.
+
+**Step 1: Calculate the number of people carried on the first trip.**
+The bus carried 3/4 of its capacity on its first trip. To find out how many people this is, we multiply the total capacity by 3/4:
+
+\[
+\text{Number of people on the first trip} = \frac{3}{4} \times 200
+\]
+
+Calculating that:
+
+\[
+\frac{3}{4} \times 200 = 150
+\]
+
+So, the bus carried 150 people on its first trip.
+
+**Step 2: Calculate the number of people carried on the return trip.**
+On the return trip, the bus carried 4/5 of its capacity. We again multiply the total capacity by 4/5 to find out how many people this is:
+
+\[
+\text{Number of people on the return trip} = \frac{4}{5} \times 200
+\]
+
+Calculating this:
+
+\[
+\frac{4}{5} \times 200 = 160
+\]
+
+So, the bus carried 160 people on its return trip.
+
+**Step 3: Calculate the total number of people carried on both trips.**
+To find the total number of people carried on the two trips, we simply add the number of people from the first trip and the return trip:
+
+\[
+\text{Total number of people} = 150 + 160
+\]
+
+Calculating that:
+
+\[
+150 + 160 = 310
+\]
+
+Thus, the total number of people the bus carried on the two trips is 310.
+</reasoning>
+<answer>310</answer>

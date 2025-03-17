@@ -1,0 +1,20 @@
+<reasoning>
+To find the total number of sides on the dice that Tom and Tim brought to school, we need to follow these steps:
+
+1. **Determine the number of dice each person brought**: According to the problem, both Tom and Tim brought 4 dice each.
+
+2. **Calculate the total number of dice**: Since there are 2 people (Tom and Tim) and each brought 4 dice, we can calculate the total number of dice by multiplying the number of dice each person brought by the number of people:
+   \[
+   \text{Total dice} = 4 \text{ (Tom's dice)} + 4 \text{ (Tim's dice)} = 8 \text{ dice}
+   \]
+
+3. **Determine the number of sides on each die**: Each die is a six-sided die, which means each die has 6 sides.
+
+4. **Calculate the total number of sides**: To find the total number of sides on all the dice, we need to multiply the total number of dice by the number of sides on each die:
+   \[
+   \text{Total sides} = \text{Total dice} \times \text{Sides per die} = 8 \text{ dice} \times 6 \text{ sides/die} = 48 \text{ sides}
+   \]
+
+Therefore, after calculating the total number of sides on all the dice brought by Tom and Tim, we find:
+</reasoning>
+<answer>48</answer>

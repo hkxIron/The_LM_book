@@ -1,0 +1,62 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate Kathleen's total savings** for June, July, and August. 
+   - In June, she saved $21.
+   - In July, she saved $46.
+   - In August, she saved $45.
+
+   To find her total savings, we add these amounts together:
+   \[
+   21 + 46 + 45
+   \]
+
+   First, we add June and July:
+   \[
+   21 + 46 = 67
+   \]
+   Now, add August's savings:
+   \[
+   67 + 45 = 112
+   \]
+
+   So, Kathleen has saved a total of $112.
+
+2. **Calculate her total spending** on school supplies and new clothes.
+   - She spent $12 on school supplies.
+   - She spent $54 on new clothes.
+
+   To find her total spending, we add these amounts:
+   \[
+   12 + 54
+   \]
+
+   We calculate:
+   \[
+   12 + 54 = 66
+   \]
+
+   So, Kathleen's total spending is $66.
+
+3. **Calculate Kathleen's remaining savings** after her spending.
+   To find how much she has left, we subtract her total spending from her total savings:
+   \[
+   112 - 66
+   \]
+
+   Now we calculate:
+   \[
+   112 - 66 = 46
+   \]
+
+   So, Kathleen has $46 left after her spending.
+
+4. **Determine if Kathleen receives money from her aunt**.
+   Kathleen's aunt said she would give Kathleen $25 if she saves more than $125. Since Kathleen saved $112, which is not more than $125, she will not receive the $25 from her aunt.
+
+5. **Final calculation of Kathleen's total money left**:
+   Since she does not receive the additional $25, her remaining amount stays at $46.
+
+Thus, Kathleen has $46 left after all calculations.
+</reasoning>
+<answer>46</answer>

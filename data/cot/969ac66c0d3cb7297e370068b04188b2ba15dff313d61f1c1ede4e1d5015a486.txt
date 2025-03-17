@@ -1,0 +1,45 @@
+<reasoning>
+Let's denote the number of peaches that Benjy has as \( B \) and the number of peaches that Gabrielle has as \( G \).
+
+1. According to the problem, Martine has 6 more than twice as many peaches as Benjy. This can be expressed as:
+   \[
+   M = 2B + 6
+   \]
+   where \( M \) is the number of peaches Martine has. Since we know that Martine has 16 peaches, we can substitute \( M = 16 \) into the equation:
+   \[
+   16 = 2B + 6
+   \]
+
+2. Now, we will solve for \( B \). First, we subtract 6 from both sides:
+   \[
+   16 - 6 = 2B
+   \]
+   This simplifies to:
+   \[
+   10 = 2B
+   \]
+
+3. Next, we divide both sides by 2 to find \( B \):
+   \[
+   B = \frac{10}{2} = 5
+   \]
+   So, Benjy has 5 peaches.
+
+4. The problem also states that Benjy has one-third as many peaches as Gabrielle. This can be expressed as:
+   \[
+   B = \frac{1}{3}G
+   \]
+   We already found that \( B = 5 \), so we substitute that into the equation:
+   \[
+   5 = \frac{1}{3}G
+   \]
+
+5. To solve for \( G \), we multiply both sides by 3:
+   \[
+   G = 5 \times 3 = 15
+   \]
+   Therefore, Gabrielle has 15 peaches.
+
+In conclusion, we followed the relationships given in the problem step by step and found that Gabrielle has 15 peaches.
+</reasoning>
+<answer>15</answer>

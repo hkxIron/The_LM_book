@@ -1,0 +1,44 @@
+<reasoning>
+Let's break down the problem step by step. 
+
+1. **Identify the total number of spectators**: We know there are 10,000 spectators at the basketball match.
+
+2. **Determine the number of men**: Out of these 10,000 spectators, 7,000 are men.
+
+3. **Calculate the number of women and children**: To find out how many spectators are not men, we subtract the number of men from the total number of spectators:
+   \[
+   \text{Number of women and children} = 10000 - 7000 = 3000
+   \]
+
+4. **Define variables**: Let \( W \) represent the number of women. According to the problem, there are 5 times as many children as women. We can let \( C \) represent the number of children. Thus, we can express the number of children in terms of women:
+   \[
+   C = 5W
+   \]
+
+5. **Set up an equation**: The total number of women and children is equal to the number of remaining spectators (3,000). Therefore, we can write the equation:
+   \[
+   W + C = 3000
+   \]
+
+6. **Substitute the expression for children into the equation**: We can substitute \( C \) with \( 5W \):
+   \[
+   W + 5W = 3000
+   \]
+   This simplifies to:
+   \[
+   6W = 3000
+   \]
+
+7. **Solve for the number of women**: To find \( W \), we divide both sides by 6:
+   \[
+   W = \frac{3000}{6} = 500
+   \]
+
+8. **Calculate the number of children**: Now we can find the number of children by substituting \( W \) back into the equation for \( C \):
+   \[
+   C = 5W = 5 \times 500 = 2500
+   \]
+
+In conclusion, we have determined that there are 2,500 children at the basketball match.
+</reasoning>
+<answer>2500</answer>

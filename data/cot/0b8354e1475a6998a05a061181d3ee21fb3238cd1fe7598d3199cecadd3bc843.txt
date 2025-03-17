@@ -1,0 +1,25 @@
+<reasoning>
+To solve the problem, we need to follow these steps:
+
+1. **Identify the healing time for the initial injury:** James takes 4 weeks to heal enough to get a skin graft.
+
+2. **Calculate the healing time after the skin graft:** The problem states that the healing time after the skin graft takes 50% longer than the initial healing time. To find this, we first need to calculate what 50% longer means.
+
+   - 50% of 4 weeks is calculated as follows:
+     \[
+     0.5 \times 4 \text{ weeks} = 2 \text{ weeks}
+     \]
+   
+   - Therefore, the total healing time after the skin graft is:
+     \[
+     4 \text{ weeks} + 2 \text{ weeks} = 6 \text{ weeks}
+     \]
+
+3. **Calculate the total recovery time:** Now, we need to add the initial healing time and the healing time after the skin graft together:
+   \[
+   4 \text{ weeks} + 6 \text{ weeks} = 10 \text{ weeks}
+   \]
+
+Therefore, James takes a total of 10 weeks to recover from everything.
+</reasoning>
+<answer>10</answer>

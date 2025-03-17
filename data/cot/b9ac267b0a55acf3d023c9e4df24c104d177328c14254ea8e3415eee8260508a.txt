@@ -1,0 +1,34 @@
+<reasoning>
+To solve the problem, we need to determine how many apples Grace picks in total and then figure out how many apples she has left after Bella consumes a portion of them over 6 weeks.
+
+1. **Calculate the total number of apples Bella eats in 6 weeks.**
+   - Bella eats 6 apples per day.
+   - There are 7 days in a week, so in one week, Bella eats:
+     \[
+     6 \text{ apples/day} \times 7 \text{ days/week} = 42 \text{ apples/week}
+     \]
+   - Over 6 weeks, Bella eats:
+     \[
+     42 \text{ apples/week} \times 6 \text{ weeks} = 252 \text{ apples}
+     \]
+
+2. **Determine the total number of apples that Grace picks.**
+   - We know that Bella consumes a third of the apples that Grace picks. Let \( G \) be the total number of apples Grace picks.
+   - According to the problem, Bella eats one-third of Grace's apples:
+     \[
+     \frac{G}{3} = 252
+     \]
+   - To find \( G \), we can multiply both sides by 3:
+     \[
+     G = 252 \times 3 = 756
+     \]
+
+3. **Calculate how many apples Grace has after Bella eats her share.**
+   - Since Bella eats 252 apples out of the 756 that Grace picked, the number of apples Grace has left is:
+     \[
+     G - 252 = 756 - 252 = 504
+     \]
+
+Therefore, after 6 weeks, Grace will have 504 apples remaining.
+</reasoning>
+<answer>504</answer>

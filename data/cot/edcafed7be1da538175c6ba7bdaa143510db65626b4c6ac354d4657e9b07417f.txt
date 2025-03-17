@@ -1,0 +1,25 @@
+<reasoning>
+To find out how many boxes of cookies Sonny has left after giving some away, we will follow these steps:
+
+1. **Identify the total number of boxes Sonny received**: Sonny received 45 boxes of cookies.
+
+2. **Calculate the total number of boxes given away**: We need to add the boxes given to his brother, sister, and cousin:
+   - Boxes given to brother: 12
+   - Boxes given to sister: 9
+   - Boxes given to cousin: 7
+
+   Now, we sum these amounts:
+   \[
+   12 + 9 + 7 = 28
+   \]
+   So, Sonny gave away a total of 28 boxes of cookies.
+
+3. **Calculate the remaining boxes**: To find out how many boxes are left, we subtract the total number of boxes given away from the original total:
+   \[
+   45 - 28 = 17
+   \]
+   This tells us that Sonny has 17 boxes of cookies left.
+
+Therefore, after following these steps and reasoning through the problem, we find that the number of boxes of cookies left for Sonny is:
+</reasoning>
+<answer>17</answer>

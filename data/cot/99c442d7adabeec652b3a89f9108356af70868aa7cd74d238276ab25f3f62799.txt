@@ -1,0 +1,45 @@
+<reasoning>
+First, let's calculate the total cost of the oysters. The party orders 3 dozen oysters at $15.00 per dozen. 
+
+1. **Calculate the cost of oysters:**
+   \[
+   \text{Cost of oysters} = \text{Number of dozens} \times \text{Price per dozen} = 3 \times 15 = 45
+   \]
+
+Next, we will calculate the cost of the steamed shrimp. They ordered 2 pounds of shrimp at $14.00 per pound.
+
+2. **Calculate the cost of steamed shrimp:**
+   \[
+   \text{Cost of shrimp} = \text{Number of pounds} \times \text{Price per pound} = 2 \times 14 = 28
+   \]
+
+Now, we will calculate the cost of the fried clams. They ordered 2 pounds of fried clams at $13.50 per pound.
+
+3. **Calculate the cost of fried clams:**
+   \[
+   \text{Cost of clams} = \text{Number of pounds} \times \text{Price per pound} = 2 \times 13.5 = 27
+   \]
+
+Now, let's find the total cost of the meal by adding the costs of oysters, shrimp, and clams together.
+
+4. **Calculate total cost:**
+   \[
+   \text{Total cost} = \text{Cost of oysters} + \text{Cost of shrimp} + \text{Cost of clams} = 45 + 28 + 27
+   \]
+   \[
+   \text{Total cost} = 100
+   \]
+
+Next, we will divide the total cost by the number of people in the party to find out how much each person owes.
+
+5. **Calculate cost per person:**
+   \[
+   \text{Cost per person} = \frac{\text{Total cost}}{\text{Number of people}} = \frac{100}{4}
+   \]
+   \[
+   \text{Cost per person} = 25
+   \]
+
+Therefore, each person in the party will owe $25.
+</reasoning>
+<answer>25</answer>

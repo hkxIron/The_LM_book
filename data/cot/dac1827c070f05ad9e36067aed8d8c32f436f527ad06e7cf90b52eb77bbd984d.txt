@@ -1,0 +1,25 @@
+<reasoning>
+To find Dallas's current age, we can break down the problem step by step.
+
+1. **Determine Dexter's age:** 
+   We know from the problem that Dexter is currently 8 years old. 
+   - Dexter's Age = 8
+
+2. **Calculate Darcy's age:**
+   The problem states that Darcy is twice as old as Dexter. 
+   - So, we multiply Dexter's age by 2: 
+   - Darcy's Age = 2 * Dexter's Age = 2 * 8 = 16
+
+3. **Find Dallas's age last year:**
+   According to the problem, last year Dallas was 3 times the age of his sister Darcy. 
+   - Since we just calculated Darcy's current age as 16, her age last year would be:
+   - Darcy's Age Last Year = 16 - 1 = 15
+   - Therefore, Dallas's Age Last Year = 3 * Darcy's Age Last Year = 3 * 15 = 45
+
+4. **Calculate Dallas's current age:**
+   Since we found Dallas's age last year, we can now find his current age by adding 1 year:
+   - Dallas's Current Age = Dallas's Age Last Year + 1 = 45 + 1 = 46
+
+Now, we have determined that Dallas is currently 46 years old.
+</reasoning>
+<answer>46</answer>

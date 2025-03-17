@@ -1,0 +1,27 @@
+<reasoning>
+To solve the problem, let's break it down into the different segments of Mckenna's workday.
+
+1. **Time at the office**: 
+   - Mckenna starts her day at 8:00 a.m. and works until 11:00 a.m.
+   - To find out how long she worked in the office, we calculate the time from 8:00 a.m. to 11:00 a.m.
+   - This is a duration of 3 hours (11:00 - 8:00 = 3 hours).
+
+2. **Time in the conference room**:
+   - After working in the office, Mckenna joins her team at 11:00 a.m. and talks about projects until 1:00 p.m.
+   - To find out how long she spent in the conference room, we calculate the time from 11:00 a.m. to 1:00 p.m.
+   - This is a duration of 2 hours (1:00 - 11:00 = 2 hours).
+
+3. **Time after the conference**:
+   - After the conference room, she works for another 2 hours.
+   - We need to add this duration to the total hours worked.
+
+Now, let's add up all the hours:
+- Office: 3 hours
+- Conference room: 2 hours
+- Additional work: 2 hours
+
+Total hours at work = 3 + 2 + 2 = 7 hours.
+
+Therefore, Mckenna stays at work for a total of 7 hours.
+</reasoning>
+<answer>7</answer>

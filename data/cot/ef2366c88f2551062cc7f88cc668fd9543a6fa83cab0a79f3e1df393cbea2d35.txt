@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many more marbles Markus has compared to Mara, we first need to calculate the total number of marbles each person has.
+
+1. **Calculate the total number of marbles Mara has:**
+   - Mara has 12 bags with 2 marbles in each bag.
+   - To find the total number of marbles, we multiply the number of bags by the number of marbles per bag:
+     \[
+     \text{Total marbles for Mara} = 12 \text{ bags} \times 2 \text{ marbles/bag} = 24 \text{ marbles}
+     \]
+   - So, Mara has 24 marbles.
+
+2. **Calculate the total number of marbles Markus has:**
+   - Markus has 2 bags with 13 marbles in each bag.
+   - Similarly, we multiply the number of bags by the number of marbles per bag:
+     \[
+     \text{Total marbles for Markus} = 2 \text{ bags} \times 13 \text{ marbles/bag} = 26 \text{ marbles}
+     \]
+   - Thus, Markus has 26 marbles.
+
+3. **Determine how many more marbles Markus has compared to Mara:**
+   - To find out how many more marbles Markus has than Mara, we subtract the total number of marbles Mara has from the total number of marbles Markus has:
+     \[
+     \text{Difference} = \text{Total marbles for Markus} - \text{Total marbles for Mara} = 26 - 24 = 2
+     \]
+
+Therefore, Markus has 2 more marbles than Mara.
+</reasoning>
+<answer>2</answer>

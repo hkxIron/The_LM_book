@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many chess players on the island of Castor have lost to a computer at least once, we will follow these steps:
+
+1. **Identify the total number of chess players**: We know that there are 40 chess players on the island.
+
+2. **Calculate the number of players who have never lost to an AI**: According to the problem, a quarter of the chess players have never lost to an AI. To find this number, we calculate:
+   \[
+   \text{Number of players who have never lost} = \frac{1}{4} \times 40
+   \]
+
+3. **Perform the calculation**:
+   \[
+   \frac{1}{4} \times 40 = 10
+   \]
+   So, there are 10 players who have never lost to an AI.
+
+4. **Determine how many players have lost to a computer at least once**: Since we know that there are 40 chess players in total and 10 of them have never lost to an AI, we can find the number of players who have lost to a computer by subtracting the number of players who have never lost from the total number of players:
+   \[
+   \text{Number of players who have lost} = \text{Total players} - \text{Players who have never lost}
+   \]
+   \[
+   \text{Number of players who have lost} = 40 - 10
+   \]
+
+5. **Perform the final calculation**:
+   \[
+   40 - 10 = 30
+   \]
+   Thus, 30 players have lost to a computer at least once.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>30</answer>

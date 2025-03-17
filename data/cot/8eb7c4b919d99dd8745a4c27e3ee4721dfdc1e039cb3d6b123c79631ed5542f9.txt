@@ -1,0 +1,37 @@
+<reasoning>
+To find out the minimum grade Carl needs on his last test to achieve an average of 85, we will follow these steps:
+
+1. **Determine the total score needed for an 85 average**: The average is calculated by dividing the total score by the number of tests. Since there are 4 tests, to find the total score needed for an average of 85, we can use the formula:
+   \[
+   \text{Total score needed} = \text{Average desired} \times \text{Number of tests}
+   \]
+   Plugging in the values:
+   \[
+   \text{Total score needed} = 85 \times 4 = 340
+   \]
+
+2. **Calculate the current total score from the first three tests**: Carl's scores on the first three tests are 80, 75, and 90. We will sum these scores:
+   \[
+   \text{Current total score} = 80 + 75 + 90
+   \]
+   Performing the addition:
+   \[
+   \text{Current total score} = 245
+   \]
+
+3. **Determine the score needed on the last test**: To find out what Carl needs on his last test, we can subtract his current total score from the total score needed:
+   \[
+   \text{Score needed on last test} = \text{Total score needed} - \text{Current total score}
+   \]
+   Substituting the values we calculated:
+   \[
+   \text{Score needed on last test} = 340 - 245
+   \]
+   Performing the subtraction:
+   \[
+   \text{Score needed on last test} = 95
+   \]
+
+Therefore, Carl needs to score at least 95 on his last test to achieve an average of 85.
+</reasoning>
+<answer>95</answer>

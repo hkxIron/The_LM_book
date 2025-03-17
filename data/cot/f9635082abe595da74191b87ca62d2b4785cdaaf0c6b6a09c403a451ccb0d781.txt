@@ -1,0 +1,28 @@
+<reasoning>
+To find out how much Michael has to pay his friend to watch his pets, we need to calculate the total number of animals he has and then multiply that by the cost per animal per night.
+
+1. **Identify the number of animals**:
+   - Michael has 2 cats and 3 dogs.
+   - To find the total number of animals, we add the number of cats to the number of dogs:
+     \[
+     \text{Total animals} = \text{Number of cats} + \text{Number of dogs} = 2 + 3 = 5
+     \]
+   - So, Michael has a total of 5 animals.
+
+2. **Determine the cost per night**:
+   - The cost to watch each animal is $13 per night.
+
+3. **Calculate the total cost**:
+   - Now, we need to multiply the total number of animals by the cost per animal:
+     \[
+     \text{Total cost} = \text{Total animals} \times \text{Cost per animal} = 5 \times 13
+     \]
+   - Performing the multiplication:
+     \[
+     5 \times 13 = 65
+     \]
+   - So, Michael will have to pay $65 for one night of pet watching.
+
+Therefore, Michael's total payment to his friend is:
+</reasoning>
+<answer>65</answer>

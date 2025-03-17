@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Determine the total number of classes in each school:**
+   The problem states that each school has 4 elementary school classes and 5 middle school classes. We first need to find the total number of classes in one school.
+   - Total classes in one school = Number of elementary classes + Number of middle classes
+   - Total classes in one school = 4 + 5 = 9 classes
+
+2. **Calculate the total number of classes in both schools:**
+   Since there are two schools, we need to multiply the total number of classes in one school by 2.
+   - Total classes in two schools = Total classes in one school × Number of schools
+   - Total classes in two schools = 9 × 2 = 18 classes
+
+3. **Determine the number of soccer balls donated per class:**
+   The public official will donate 5 soccer balls for each class.
+
+4. **Calculate the total number of soccer balls donated:**
+   To find the total number of soccer balls donated, we multiply the total number of classes by the number of soccer balls donated per class.
+   - Total soccer balls donated = Total classes in two schools × Soccer balls per class
+   - Total soccer balls donated = 18 × 5 = 90 soccer balls
+
+Therefore, after calculating all the steps, we find the total number of soccer balls the public official would donate.
+</reasoning>
+<answer>90</answer>

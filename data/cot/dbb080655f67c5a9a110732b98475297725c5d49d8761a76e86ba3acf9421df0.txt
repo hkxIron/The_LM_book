@@ -1,0 +1,24 @@
+<reasoning>
+To solve this problem, we need to determine how many boxes of chicken nuggets Mark needs to order and then calculate the total cost based on the number of boxes.
+
+1. **Identify how many nuggets are in each box and how many nuggets Mark ordered**:
+   - Each box contains 20 chicken nuggets.
+   - Mark orders a total of 100 chicken nuggets.
+
+2. **Calculate how many boxes Mark needs**:
+   - To find out how many boxes of 20 nuggets are needed to make 100 nuggets, we divide the total number of nuggets by the number of nuggets per box:
+     \[
+     \text{Number of boxes} = \frac{\text{Total nuggets}}{\text{Nuggets per box}} = \frac{100}{20} = 5
+     \]
+   - This means Mark needs 5 boxes.
+
+3. **Determine the cost of the boxes**:
+   - Each box costs $4.
+   - To find the total cost for 5 boxes, we multiply the number of boxes by the cost per box:
+     \[
+     \text{Total cost} = \text{Number of boxes} \times \text{Cost per box} = 5 \times 4 = 20
+     \]
+
+Therefore, Mark paid a total of $20 for the chicken nuggets.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much Carl spends on index cards for his class, we will go through the problem step-by-step.
+
+1. **Calculate the total number of students Carl teaches each day:**
+   - Carl teaches 6 periods a day and each class has 30 students.
+   - Therefore, the total number of students is:
+   \[
+   6 \text{ periods} \times 30 \text{ students/period} = 180 \text{ students}
+   \]
+   Here, I multiplied the number of periods by the number of students in each class to find the total number of students taught.
+
+2. **Calculate the total number of index cards needed:**
+   - Each student receives 10 index cards.
+   - Therefore, the total number of index cards needed is:
+   \[
+   180 \text{ students} \times 10 \text{ index cards/student} = 1800 \text{ index cards}
+   \]
+   I multiplied the total number of students by the number of index cards each student receives to find the total number of index cards needed.
+
+3. **Determine how many packs of index cards Carl needs to buy:**
+   - Each pack contains 50 index cards.
+   - To find the number of packs needed, we divide the total number of index cards by the number of cards in each pack:
+   \[
+   \frac{1800 \text{ index cards}}{50 \text{ index cards/pack}} = 36 \text{ packs}
+   \]
+   Here, I divided the total number of index cards by the number of index cards per pack to find out how many packs Carl needs to purchase.
+
+4. **Calculate the total cost for the index cards:**
+   - Each pack costs $3.
+   - The total cost for the packs is:
+   \[
+   36 \text{ packs} \times 3 \text{ dollars/pack} = 108 \text{ dollars}
+   \]
+   I multiplied the number of packs by the cost per pack to determine the total amount spent.
+
+Therefore, Carl spent a total of $108 on index cards for his class.
+</reasoning>
+<answer>108</answer>

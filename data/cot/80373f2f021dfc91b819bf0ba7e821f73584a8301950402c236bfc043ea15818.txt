@@ -1,0 +1,38 @@
+<reasoning>
+To solve how long Mark spends on all his activities in a week, we will break it down into the time spent on parking, walking, and going through the metal detector.
+
+1. **Finding parking**: Mark spends 5 minutes every day finding parking. With 5 workdays:
+   \[
+   \text{Total parking time} = 5 \text{ minutes/day} \times 5 \text{ days} = 25 \text{ minutes}
+   \]
+
+2. **Walking into the courthouse**: Mark also spends 3 minutes walking into the courthouse every day. Again, with 5 workdays:
+   \[
+   \text{Total walking time} = 3 \text{ minutes/day} \times 5 \text{ days} = 15 \text{ minutes}
+   \]
+
+3. **Going through the metal detector**:
+   - For 2 days of the week, it takes him 30 minutes to get through the metal detector:
+     \[
+     \text{Time for 2 busy days} = 30 \text{ minutes/day} \times 2 \text{ days} = 60 \text{ minutes}
+     \]
+   - For the other 3 days, it takes him 10 minutes:
+     \[
+     \text{Time for 3 less crowded days} = 10 \text{ minutes/day} \times 3 \text{ days} = 30 \text{ minutes}
+     \]
+   - Now we need to add both times together to find the total time spent going through the metal detector in a week:
+     \[
+     \text{Total metal detector time} = 60 \text{ minutes} + 30 \text{ minutes} = 90 \text{ minutes}
+     \]
+
+Now we add all the times together to find the total time Mark spends on these activities in a week:
+\[
+\text{Total time} = \text{Total parking time} + \text{Total walking time} + \text{Total metal detector time}
+\]
+\[
+\text{Total time} = 25 \text{ minutes} + 15 \text{ minutes} + 90 \text{ minutes} = 130 \text{ minutes}
+\]
+
+Thus, Mark spends a total of 130 minutes on all these activities in a week.
+</reasoning>
+<answer>130</answer>

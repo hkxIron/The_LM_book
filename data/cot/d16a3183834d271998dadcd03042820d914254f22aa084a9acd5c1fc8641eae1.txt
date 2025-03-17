@@ -1,0 +1,28 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Determine the length of each part of the ribbon**: Since Isaac cut a 30-meter ribbon into 6 equal parts, we need to divide the total length of the ribbon by the number of parts.
+
+   \[
+   \text{Length of each part} = \frac{30 \text{ meters}}{6} = 5 \text{ meters}
+   \]
+
+   This means each part of the ribbon is 5 meters long. 
+
+2. **Calculate the total length of the ribbon used**: Isaac used 4 parts of the ribbon. To find out how much ribbon he used, we multiply the length of each part by the number of parts used.
+
+   \[
+   \text{Length used} = 4 \text{ parts} \times 5 \text{ meters/part} = 20 \text{ meters}
+   \]
+
+   Thus, Isaac used 20 meters of the ribbon.
+
+3. **Find out how much ribbon is left**: To find out how much ribbon is not used, we subtract the length used from the total length of the ribbon.
+
+   \[
+   \text{Length not used} = 30 \text{ meters} - 20 \text{ meters} = 10 \text{ meters}
+   \]
+
+Therefore, the amount of ribbon that is not used is 10 meters.
+</reasoning>
+<answer>10</answer>

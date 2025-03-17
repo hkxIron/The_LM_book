@@ -1,0 +1,24 @@
+<reasoning>
+To solve the problem, we'll follow these steps:
+
+1. **Identify the initial number of candies Antonov bought**: Antonov bought 60 candies in total.
+  
+2. **Determine how many candies are in a pack**: We know that one pack of candy contains 20 pieces.
+
+3. **Calculate how many packs Antonov gave to his sister**: Since Antonov gave a pack of candy to his sister, we need to find out how many candies are in that one pack. A pack has 20 pieces.
+
+4. **Subtract the number of candies given away from the total**: We will subtract the 20 candies that were given to his sister from the initial 60 candies that Antonov had.
+
+   \[
+   60 \text{ candies} - 20 \text{ candies} = 40 \text{ candies remaining}
+   \]
+
+5. **Determine how many packs Antonov has left**: Since each pack contains 20 pieces, we will divide the remaining candies by the number of pieces in a pack to find out how many packs Antonov still has.
+
+   \[
+   \frac{40 \text{ candies}}{20 \text{ candies per pack}} = 2 \text{ packs}
+   \]
+
+Therefore, Antonov still has 2 packs of candy left after giving one pack to his sister.
+</reasoning>
+<answer>2</answer>

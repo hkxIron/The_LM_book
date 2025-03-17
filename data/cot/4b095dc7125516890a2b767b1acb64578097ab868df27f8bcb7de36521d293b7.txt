@@ -1,0 +1,23 @@
+<reasoning>
+To find out how many pizzas Nunzio eats in 72 days, we first need to determine how many pieces of pizza he consumes in that time frame.
+
+1. **Calculate the total number of pieces of pizza Nunzio eats in 72 days.**
+   - Nunzio eats 3 pieces of pizza every day.
+   - Over 72 days, the total number of pieces he eats is:
+     \[
+     3 \text{ pieces/day} \times 72 \text{ days} = 216 \text{ pieces}
+     \]
+   - This calculation is straightforward: we multiply the daily consumption by the number of days to find the total consumption.
+
+2. **Determine how many pizzas this number of pieces represents.**
+   - We know that each piece of pizza is one-eighth of a full pizza. 
+   - Therefore, to convert pieces into pizzas, we can use the fact that 1 pizza = 8 pieces.
+   - To find out how many pizzas Nunzio eats, we divide the total number of pieces by the number of pieces per pizza:
+     \[
+     \frac{216 \text{ pieces}}{8 \text{ pieces/pizza}} = 27 \text{ pizzas}
+     \]
+   - This step allows us to convert the total number of pieces back into whole pizzas.
+
+By completing these calculations, we find that Nunzio consumes a total of 27 pizzas over the course of 72 days.
+</reasoning>
+<answer>27</answer>

@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many laps Jeff had remaining when he took the break on Sunday, we can follow these steps:
+
+1. **Determine the total number of laps Jeff was required to swim.** 
+   Jeff's coach required him to swim a total of 98 laps over the weekend.
+
+2. **Calculate how many laps Jeff swam on Saturday.** 
+   On Saturday, Jeff swam 27 laps.
+
+3. **Calculate the laps remaining after Saturday.** 
+   To find out how many laps Jeff had left after swimming on Saturday, we subtract the laps he swam on Saturday from the total laps required:
+   \[
+   \text{Laps remaining after Saturday} = \text{Total laps} - \text{Laps swum on Saturday}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Laps remaining after Saturday} = 98 - 27 = 71
+   \]
+
+4. **Determine how many laps Jeff swam on Sunday morning.** 
+   On Sunday morning, Jeff swam 15 laps.
+
+5. **Calculate the laps remaining after Sunday morning.** 
+   Now, we need to find out how many laps Jeff had left after swimming on Sunday morning. We subtract the laps he swam on Sunday morning from the laps remaining after Saturday:
+   \[
+   \text{Laps remaining after Sunday morning} = \text{Laps remaining after Saturday} - \text{Laps swum on Sunday morning}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Laps remaining after Sunday morning} = 71 - 15 = 56
+   \]
+
+Thus, when Jeff took his break on Sunday, he had 56 laps remaining.
+
+Therefore, the final answer is:
+</reasoning>
+<answer>56</answer>

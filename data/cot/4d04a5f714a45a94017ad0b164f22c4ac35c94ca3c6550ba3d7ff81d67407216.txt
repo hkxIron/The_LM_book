@@ -1,0 +1,31 @@
+<reasoning>
+To find the total number of legs in Monroe's collection of ants and spiders, we need to determine how many legs each type of creature has and then sum them up.
+
+1. **Calculate the legs of the spiders**:
+   - Each spider has 8 legs.
+   - Monroe has 8 spiders.
+   - To find the total number of legs from the spiders, we multiply the number of spiders by the number of legs each spider has:
+     \[
+     \text{Total legs from spiders} = 8 \text{ spiders} \times 8 \text{ legs/spider} = 64 \text{ legs}
+     \]
+
+2. **Calculate the legs of the ants**:
+   - Each ant has 6 legs.
+   - Monroe has 12 ants.
+   - To find the total number of legs from the ants, we multiply the number of ants by the number of legs each ant has:
+     \[
+     \text{Total legs from ants} = 12 \text{ ants} \times 6 \text{ legs/ant} = 72 \text{ legs}
+     \]
+
+3. **Calculate the total number of legs**:
+   - Now, we add the total legs from spiders and the total legs from ants to find the overall total:
+     \[
+     \text{Total legs} = \text{Total legs from spiders} + \text{Total legs from ants} 
+     \]
+     \[
+     \text{Total legs} = 64 \text{ legs} + 72 \text{ legs} = 136 \text{ legs}
+     \]
+
+Therefore, the total number of legs in Monroe's collection of ants and spiders is 136.
+</reasoning>
+<answer>136</answer>

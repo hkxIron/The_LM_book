@@ -1,0 +1,41 @@
+<reasoning>
+To determine how many steps Toby needs to average on Friday and Saturday to meet his goal of 9,000 steps per day over the week, we can follow these steps:
+
+1. **Calculate the total number of steps Toby wants to walk over the week.** 
+   Since there are 7 days in a week and his goal is 9,000 steps per day, we multiply:
+   \[
+   9,000 \text{ steps/day} \times 7 \text{ days} = 63,000 \text{ steps}
+   \]
+   This means Toby aims to walk a total of 63,000 steps in the week.
+
+2. **Calculate the total number of steps Toby has walked from Sunday to Thursday.** 
+   We will add up the steps he walked each day:
+   - Sunday: 9,400 steps
+   - Monday: 9,100 steps
+   - Tuesday: 8,300 steps
+   - Wednesday: 9,200 steps
+   - Thursday: 8,900 steps
+
+   Adding these together:
+   \[
+   9,400 + 9,100 + 8,300 + 9,200 + 8,900 = 44,900 \text{ steps}
+   \]
+
+3. **Calculate how many steps Toby has left to walk to meet his goal.** 
+   We subtract the total steps he has already walked from his weekly goal:
+   \[
+   63,000 \text{ steps} - 44,900 \text{ steps} = 18,100 \text{ steps}
+   \]
+   This means Toby still needs to walk 18,100 steps to reach his goal.
+
+4. **Calculate the average number of steps Toby needs to walk on Friday and Saturday.** 
+   Since he has two days left (Friday and Saturday), we divide the remaining steps by 2:
+   \[
+   \frac{18,100 \text{ steps}}{2} = 9,050 \text{ steps}
+   \]
+   Therefore, Toby needs to average 9,050 steps each day on Friday and Saturday.
+
+Putting this all together:
+Toby needs to walk an average of 9,050 steps on Friday and Saturday to meet his weekly goal.
+</reasoning>
+<answer>9050</answer>

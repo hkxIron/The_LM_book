@@ -1,0 +1,35 @@
+<reasoning>
+To find out how much Liam and Claire will save for their mother's birthday gift, we need to calculate the total earnings from the oranges they sold.
+
+**Step 1: Calculate Liam's earnings.**
+- Liam picked 40 oranges and sold them at a rate of $2.50 for 2 oranges. 
+- First, we need to find out how many sets of 2 oranges he sold. We divide the total number of oranges by 2:
+  
+  \[
+  \text{Number of sets} = \frac{40 \text{ oranges}}{2 \text{ oranges/set}} = 20 \text{ sets}
+  \]
+
+- Next, we calculate how much he earned from selling these sets:
+  
+  \[
+  \text{Earnings from Liam} = 20 \text{ sets} \times 2.50 \text{ dollars/set} = 50 \text{ dollars}
+  \]
+
+**Step 2: Calculate Claire's earnings.**
+- Claire picked 30 oranges and sold them at $1.20 each. 
+- We can find Claire's total earnings by multiplying the number of oranges by the price per orange:
+  
+  \[
+  \text{Earnings from Claire} = 30 \text{ oranges} \times 1.20 \text{ dollars/orange} = 36 \text{ dollars}
+  \]
+
+**Step 3: Calculate the total savings for the birthday gift.**
+- Now, we simply add Liam's and Claire's total earnings together to find out how much they will save for their mother's birthday gift:
+  
+  \[
+  \text{Total savings} = \text{Earnings from Liam} + \text{Earnings from Claire} = 50 \text{ dollars} + 36 \text{ dollars} = 86 \text{ dollars}
+  \]
+
+Therefore, after calculating both Liam's and Claire's earnings and summing them up, we find that they will save a total of $86 for their mother's birthday gift.
+</reasoning>
+<answer>86</answer>

@@ -1,0 +1,32 @@
+<reasoning>
+To find out how many Japanese stamps Nikka has, we first need to determine how many stamps are Chinese and how many are US stamps based on the percentages given.
+
+1. **Calculate the number of Chinese stamps**: 
+   Since 35% of the 100 stamps are Chinese, we can calculate this as follows:
+   \[
+   \text{Number of Chinese stamps} = 35\% \text{ of } 100 = 0.35 \times 100 = 35
+   \]
+   This means Nikka has 35 Chinese stamps.
+
+2. **Calculate the number of US stamps**: 
+   Similarly, since 20% of the 100 stamps are US stamps, we calculate:
+   \[
+   \text{Number of US stamps} = 20\% \text{ of } 100 = 0.20 \times 100 = 20
+   \]
+   This means Nikka has 20 US stamps.
+
+3. **Calculate the total number of Chinese and US stamps**: 
+   Now, we can add the number of Chinese and US stamps together:
+   \[
+   \text{Total number of Chinese and US stamps} = 35 + 20 = 55
+   \]
+
+4. **Calculate the number of Japanese stamps**: 
+   Since the total number of stamps is 100, we can find the number of Japanese stamps by subtracting the total number of Chinese and US stamps from 100:
+   \[
+   \text{Number of Japanese stamps} = 100 - 55 = 45
+   \]
+
+Thus, Nikka has 45 Japanese stamps.
+</reasoning>
+<answer>45</answer>

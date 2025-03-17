@@ -1,0 +1,37 @@
+<reasoning>
+To find out how much gratuity the waiter should receive, we'll first need to calculate the total cost of the dishes ordered by Leticia, Scarlett, and Percy. Then, we will calculate the 10% tip based on that total.
+
+1. **Calculate the total cost of the dishes**:
+   - Leticia's dish costs $10.
+   - Scarlett's dish costs $13.
+   - Percy's dish costs $17.
+
+   We will add these amounts together:
+   \[
+   \text{Total cost} = 10 + 13 + 17
+   \]
+
+   Performing the addition:
+   \[
+   10 + 13 = 23
+   \]
+   \[
+   23 + 17 = 40
+   \]
+   So, the total cost of the dishes is $40.
+
+2. **Calculate the 10% tip**:
+   Now that we have the total cost, we need to calculate 10% of this amount to find the tip.
+   \[
+   \text{Tip} = 10\% \text{ of } 40 = 0.10 \times 40
+   \]
+
+   Performing the multiplication:
+   \[
+   0.10 \times 40 = 4
+   \]
+   Therefore, the gratuity the waiter should receive is $4.
+
+In summary, we calculated the total cost of the meals and then determined the 10% tip based on that total.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,30 @@
+<reasoning>
+To find out the total weight of the load consisting of 12 crates and 16 cartons, we need to calculate the weight of the crates and the weight of the cartons separately and then add these two weights together.
+
+1. **Calculate the weight of the crates:**
+   - Each crate weighs 4 kilograms.
+   - There are 12 crates.
+   - To find the total weight of the crates, we multiply the number of crates by the weight per crate:
+     \[
+     \text{Weight of crates} = 12 \text{ crates} \times 4 \text{ kg/crate} = 48 \text{ kg}
+     \]
+   - Therefore, the total weight of the crates is 48 kilograms.
+
+2. **Calculate the weight of the cartons:**
+   - Each carton weighs 3 kilograms.
+   - There are 16 cartons.
+   - To find the total weight of the cartons, we multiply the number of cartons by the weight per carton:
+     \[
+     \text{Weight of cartons} = 16 \text{ cartons} \times 3 \text{ kg/carton} = 48 \text{ kg}
+     \]
+   - Thus, the total weight of the cartons is also 48 kilograms.
+
+3. **Calculate the total weight of the load:**
+   - Now we add the total weight of the crates and the total weight of the cartons:
+     \[
+     \text{Total weight} = \text{Weight of crates} + \text{Weight of cartons} = 48 \text{ kg} + 48 \text{ kg} = 96 \text{ kg}
+     \]
+
+Therefore, the total weight of the load consisting of 12 crates and 16 cartons of vegetables is 96 kilograms.
+</reasoning>
+<answer>96</answer>

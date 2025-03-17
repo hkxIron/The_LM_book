@@ -1,0 +1,36 @@
+<reasoning>
+To solve the problem, we will follow these steps:
+
+1. **Determine how many pieces of candy are in each bag**: 
+   Since Jerry divided 63 pieces of candy into 9 bags, we will divide the total number of candies by the number of bags. 
+
+   \[
+   \text{Pieces per bag} = \frac{63 \text{ pieces}}{9 \text{ bags}} = 7 \text{ pieces per bag}
+   \]
+
+   This means each bag contains 7 pieces of candy.
+
+2. **Identify how many bags contain chocolate**: 
+   We know that 2 bags contain chocolate hearts and 3 bags contain chocolate kisses. So, we can find the total number of bags that contain chocolate.
+
+   \[
+   \text{Total chocolate bags} = 2 \text{ (chocolate hearts)} + 3 \text{ (chocolate kisses)} = 5 \text{ bags}
+   \]
+
+3. **Determine how many bags do not contain chocolate**: 
+   Since there are 9 bags in total, we can find the number of bags that do not contain chocolate by subtracting the number of chocolate bags from the total number of bags.
+
+   \[
+   \text{Non-chocolate bags} = 9 \text{ bags} - 5 \text{ chocolate bags} = 4 \text{ bags}
+   \]
+
+4. **Calculate the number of pieces of candy in the non-chocolate bags**: 
+   Each bag has 7 pieces of candy, so we multiply the number of non-chocolate bags by the number of pieces per bag.
+
+   \[
+   \text{Pieces of non-chocolate candy} = 4 \text{ bags} \times 7 \text{ pieces per bag} = 28 \text{ pieces}
+   \]
+
+Therefore, after calculating all the necessary values, we find that the number of pieces of candy that are not chocolate is 28.
+</reasoning>
+<answer>28</answer>

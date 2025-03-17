@@ -1,0 +1,28 @@
+<reasoning>
+Let's start by determining how many servings of water Simeon used to drink when he was consuming 8-ounce servings.
+
+1. **Calculate the number of 8-ounce servings**:
+   - We know that Simeon drinks a total of 64 fluid ounces of water every day.
+   - To find the number of 8-ounce servings, we divide the total amount of water by the size of each serving:
+     \[
+     \text{Number of 8-ounce servings} = \frac{64 \text{ ounces}}{8 \text{ ounces per serving}} = 8 \text{ servings}
+     \]
+   - This means that Simeon used to drink 8 servings of 8 ounces each day.
+
+2. **Calculate the number of 16-ounce servings**:
+   - Now, we need to determine how many servings he drinks now that he is using 16-ounce servings.
+   - We perform a similar calculation:
+     \[
+     \text{Number of 16-ounce servings} = \frac{64 \text{ ounces}}{16 \text{ ounces per serving}} = 4 \text{ servings}
+     \]
+   - This means that now Simeon drinks 4 servings of 16 ounces each day.
+
+3. **Determine how many fewer servings he drinks**:
+   - To find out how many fewer servings he drinks now compared to before, we subtract the number of 16-ounce servings from the number of 8-ounce servings:
+     \[
+     \text{Fewer servings} = 8 \text{ servings} - 4 \text{ servings} = 4 \text{ servings}
+     \]
+
+Therefore, Simeon now drinks 4 fewer servings of water each day compared to when he was drinking 8-ounce servings.
+</reasoning>
+<answer>4</answer>

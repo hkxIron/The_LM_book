@@ -1,0 +1,28 @@
+<reasoning>
+To find out how many miles per hour (mph) above the speed limit John was driving, we first need to calculate his actual speed during the trip. 
+
+1. **Calculate John's Speed**: 
+   - Speed is calculated using the formula:
+     \[
+     \text{Speed} = \frac{\text{Distance}}{\text{Time}}
+     \]
+   - We know that John traveled a distance of 150 miles in a time of 2 hours. 
+   - Substituting these values into the formula:
+     \[
+     \text{Speed} = \frac{150 \text{ miles}}{2 \text{ hours}} = 75 \text{ mph}
+     \]
+
+2. **Compare John's Speed to the Speed Limit**:
+   - The speed limit is given as 60 mph. 
+   - To determine how much faster John was driving than the speed limit, we subtract the speed limit from his speed:
+     \[
+     \text{Speed above limit} = \text{John's speed} - \text{Speed limit}
+     \]
+   - Substituting the values:
+     \[
+     \text{Speed above limit} = 75 \text{ mph} - 60 \text{ mph} = 15 \text{ mph}
+     \]
+
+So, John was driving 15 mph above the speed limit.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+To find out how many hours Tom danced over 10 years, we need to break down the problem step by step.
+
+1. **Calculate the total number of hours Tom dances in a week.**
+   - Tom dances 4 times a week, and each time he dances for 2 hours.
+   - Therefore, the total hours danced in one week is:
+     \[
+     4 \text{ times} \times 2 \text{ hours} = 8 \text{ hours}
+     \]
+
+2. **Calculate the total number of weeks in 10 years.**
+   - There are 52 weeks in a year.
+   - Over 10 years, the total number of weeks is:
+     \[
+     52 \text{ weeks/year} \times 10 \text{ years} = 520 \text{ weeks}
+     \]
+
+3. **Calculate the total hours danced over 10 years.**
+   - We already found that Tom dances 8 hours in a week. Now, we need to multiply this by the total number of weeks over 10 years:
+     \[
+     8 \text{ hours/week} \times 520 \text{ weeks} = 4160 \text{ hours}
+     \]
+
+Therefore, after calculating the total hours Tom danced over the period, we find that he danced a total of 4160 hours.
+</reasoning>
+<answer>4160</answer>

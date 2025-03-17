@@ -1,0 +1,31 @@
+<reasoning>
+First, we need to determine the total number of pictures John has taken over the past 3 years. Since he takes 10 pictures every day, we will calculate how many days are in 3 years.
+
+1. **Calculate the number of days in 3 years:**
+   - A year typically has 365 days. 
+   - For 3 years, we multiply: 
+     \[
+     3 \text{ years} \times 365 \text{ days/year} = 1095 \text{ days}
+     \]
+
+2. **Calculate the total number of pictures taken:**
+   - John takes 10 pictures each day, so we multiply the number of days by the number of pictures taken per day:
+     \[
+     10 \text{ pictures/day} \times 1095 \text{ days} = 10950 \text{ pictures}
+     \]
+
+3. **Determine how many memory cards are needed:**
+   - Each memory card can store 50 images. To find out how many memory cards John needs, we divide the total number of pictures by the number of pictures each card can hold:
+     \[
+     \frac{10950 \text{ pictures}}{50 \text{ pictures/card}} = 219 \text{ cards}
+     \]
+
+4. **Calculate the total cost of the memory cards:**
+   - Each memory card costs $60. Therefore, we multiply the number of memory cards by the cost per card:
+     \[
+     219 \text{ cards} \times 60 \text{ dollars/card} = 13140 \text{ dollars}
+     \]
+
+By following these steps and calculations, we find that the total amount John spends on memory cards is $13,140.
+</reasoning>
+<answer>13140</answer>

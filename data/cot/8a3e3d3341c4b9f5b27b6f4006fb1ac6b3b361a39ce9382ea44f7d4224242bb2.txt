@@ -1,0 +1,38 @@
+<reasoning>
+To find out how much money Hank donates in total, we will calculate the donation amounts from each source of income step by step.
+
+1. **Carwash Proceeds:**
+   - Hank makes $100 from the carwash.
+   - He donates 90% of this amount.
+   - We calculate 90% of $100:
+     \[
+     0.90 \times 100 = 90
+     \]
+   - So, Hank donates $90 from the carwash.
+
+2. **Bake Sale Proceeds:**
+   - Hank makes $80 from the bake sale.
+   - He donates 75% of this amount.
+   - We calculate 75% of $80:
+     \[
+     0.75 \times 80 = 60
+     \]
+   - So, Hank donates $60 from the bake sale.
+
+3. **Lawn Mowing Proceeds:**
+   - Hank makes $50 from mowing lawns.
+   - He donates 100% of this amount.
+   - Since he donates all of it:
+     \[
+     100\% \text{ of } 50 = 50
+     \]
+   - So, Hank donates $50 from mowing lawns.
+
+4. **Total Donation:**
+   - Now, we will add all the donations together:
+   \[
+   90 \text{ (from carwash)} + 60 \text{ (from bake sale)} + 50 \text{ (from lawn mowing)} = 200
+   \]
+   - Therefore, the total amount that Hank donates is $200.
+</reasoning>
+<answer>200</answer>

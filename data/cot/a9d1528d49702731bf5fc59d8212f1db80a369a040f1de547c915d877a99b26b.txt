@@ -1,0 +1,43 @@
+<reasoning>
+To find the total cost of buying 4 spiral notebooks and 8 personal planners, and then applying the 20% discount, follow these steps:
+
+1. **Calculate the cost of the spiral notebooks**:
+   - Each spiral notebook costs $15.
+   - If we are buying 4 spiral notebooks, we multiply the cost of one notebook by the number of notebooks:
+   \[
+   \text{Cost of spiral notebooks} = 4 \times 15 = 60
+   \]
+   This means the total cost for 4 spiral notebooks is $60.
+
+2. **Calculate the cost of the personal planners**:
+   - Each personal planner costs $10.
+   - If we are buying 8 personal planners, we multiply the cost of one planner by the number of planners:
+   \[
+   \text{Cost of personal planners} = 8 \times 10 = 80
+   \]
+   This means the total cost for 8 personal planners is $80.
+
+3. **Combine the costs**:
+   - Now we add the costs of the spiral notebooks and the personal planners together:
+   \[
+   \text{Total cost before discount} = \text{Cost of spiral notebooks} + \text{Cost of personal planners} = 60 + 80 = 140
+   \]
+   Therefore, the total cost before applying any discount is $140.
+
+4. **Calculate the discount**:
+   - The discount is 20% of the total cost. To find the discount amount, we calculate:
+   \[
+   \text{Discount} = 0.20 \times 140 = 28
+   \]
+   This means we will save $28 due to the discount.
+
+5. **Calculate the final price after the discount**:
+   - To find the final price, we subtract the discount from the total cost before the discount:
+   \[
+   \text{Final price} = \text{Total cost before discount} - \text{Discount} = 140 - 28 = 112
+   \]
+   Therefore, the total cost after applying the 20% discount is $112.
+
+In conclusion, after calculating the costs and applying the discount, we find the total cost of buying 4 spiral notebooks and 8 personal planners at a 20% discount.
+</reasoning>
+<answer>112</answer>

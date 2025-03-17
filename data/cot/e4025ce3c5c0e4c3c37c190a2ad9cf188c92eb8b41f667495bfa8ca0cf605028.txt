@@ -1,0 +1,47 @@
+<reasoning>
+Let's break this problem down step by step.
+
+1. **Determine the number of emails received each day:**
+   - On the first day, he receives 16 emails.
+   - On the second day, he receives half of what he received on the first day. So, that would be:
+     \[
+     \text{Day 2 emails} = \frac{16}{2} = 8
+     \]
+   - On the third day, again he receives half of the previous day's emails. So:
+     \[
+     \text{Day 3 emails} = \frac{8}{2} = 4
+     \]
+   - On the fourth day, he again receives half of the emails from the third day:
+     \[
+     \text{Day 4 emails} = \frac{4}{2} = 2
+     \]
+
+2. **Add up the total number of emails received over the four days:**
+   - Now, we have the number of emails received each day as follows:
+     - Day 1: 16 emails
+     - Day 2: 8 emails
+     - Day 3: 4 emails
+     - Day 4: 2 emails
+   - To find the total, we simply add these amounts together:
+     \[
+     \text{Total emails} = 16 + 8 + 4 + 2
+     \]
+
+3. **Calculate the total:**
+   - Performing the addition step-by-step:
+     - First, add Day 1 and Day 2:
+       \[
+       16 + 8 = 24
+       \]
+     - Next, add Day 3:
+       \[
+       24 + 4 = 28
+       \]
+     - Finally, add Day 4:
+       \[
+       28 + 2 = 30
+       \]
+
+Therefore, the total number of new emails received during the four-day vacation is 30.
+</reasoning>
+<answer>30</answer>

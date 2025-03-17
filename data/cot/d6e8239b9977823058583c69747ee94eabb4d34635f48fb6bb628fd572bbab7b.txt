@@ -1,0 +1,42 @@
+<reasoning>
+First, let's calculate the total cost of the items that Raine is buying.
+
+1. **Calculate the cost of the bracelets**: 
+   Raine buys 3 bracelets at $15 each.
+   \[
+   \text{Cost of bracelets} = 3 \times 15 = 45
+   \]
+
+2. **Calculate the cost of the gold heart necklaces**: 
+   She buys 2 gold heart necklaces at $10 each.
+   \[
+   \text{Cost of necklaces} = 2 \times 10 = 20
+   \]
+
+3. **Calculate the cost of the coffee mug**: 
+   She buys 1 coffee mug at $20.
+   \[
+   \text{Cost of coffee mug} = 1 \times 20 = 20
+   \]
+
+4. **Calculate the total cost**: 
+   Now, we add up all the costs to find the total amount Raine spends.
+   \[
+   \text{Total cost} = \text{Cost of bracelets} + \text{Cost of necklaces} + \text{Cost of coffee mug}
+   \]
+   \[
+   \text{Total cost} = 45 + 20 + 20 = 85
+   \]
+
+5. **Calculate the change Raine receives**: 
+   Raine pays with a $100 bill, so we subtract the total cost from the amount she paid.
+   \[
+   \text{Change} = 100 - \text{Total cost}
+   \]
+   \[
+   \text{Change} = 100 - 85 = 15
+   \]
+
+Therefore, after calculating everything, Raine will receive $15 in change.
+</reasoning>
+<answer>15</answer>

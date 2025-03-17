@@ -1,0 +1,37 @@
+<reasoning>
+To find out how many points Michael scored during both his junior and senior years, we'll break the problem into steps.
+
+1. **Determine the points scored during the senior year**: 
+   Michael scored 20% more points during his senior year compared to his junior year. First, we need to calculate 20% of the points scored during his junior year.
+
+   - **Calculating 20% of 260 points**:
+     \[
+     20\% \text{ of } 260 = \frac{20}{100} \times 260 = 0.2 \times 260
+     \]
+     Performing the multiplication:
+     \[
+     0.2 \times 260 = 52
+     \]
+   This means Michael scored an additional 52 points in his senior year.
+
+2. **Calculate total points scored in the senior year**:
+   To find the total points scored during his senior year, we add the points he scored in his junior year to the additional points for his senior year:
+   \[
+   \text{Senior Year Points} = \text{Junior Year Points} + \text{Additional Points}
+   \]
+   \[
+   \text{Senior Year Points} = 260 + 52 = 312
+   \]
+
+3. **Calculate total points scored during both years**:
+   Now that we have the points scored in both years, we can find the total:
+   \[
+   \text{Total Points} = \text{Junior Year Points} + \text{Senior Year Points}
+   \]
+   \[
+   \text{Total Points} = 260 + 312 = 572
+   \]
+
+In summary, we calculated the points scored during the senior year by determining 20% of the junior year score and then added those points to the junior year score to get the total for the senior year. Finally, we added the scores from both years together.
+</reasoning>
+<answer>572</answer>

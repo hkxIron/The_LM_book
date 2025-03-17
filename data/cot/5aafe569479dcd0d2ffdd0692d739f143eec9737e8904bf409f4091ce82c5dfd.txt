@@ -1,0 +1,16 @@
+<reasoning>
+To find the total weight of onions harvested by Titan's father, we will follow these steps:
+
+1. **Determine the weight of onions per trip**: Since each bag of onions weighs 50 kg and the pickup carries 10 bags per trip, we calculate the weight transported in one trip.
+   
+   Weight per trip = Number of bags per trip × Weight of each bag
+   Weight per trip = 10 bags × 50 kg/bag = 500 kg
+
+2. **Calculate the total weight for all trips**: The pickup makes 20 trips, so we need to multiply the weight per trip by the number of trips to get the total weight of onions harvested.
+   
+   Total weight = Weight per trip × Number of trips
+   Total weight = 500 kg/trip × 20 trips = 10,000 kg
+
+By performing these calculations, we find that Titan's father harvested a total weight of onions.
+</reasoning>
+<answer>10000</answer>

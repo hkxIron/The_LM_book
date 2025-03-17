@@ -1,0 +1,40 @@
+<reasoning>
+To solve the problem, we will first determine how many watermelon seeds each person has: Yeon, Gwi, and Bom.
+
+1. **Identify the number of seeds Bom has:** 
+   - We are given that Bom has 300 watermelon seeds.
+   \[
+   \text{Bom's seeds} = 300
+   \]
+
+2. **Determine how many seeds Gwi has:**
+   - According to the problem, Gwi has 40 more seeds than Bom. Therefore, we can calculate Gwi's seeds by adding 40 to the number of seeds Bom has.
+   \[
+   \text{Gwi's seeds} = \text{Bom's seeds} + 40 = 300 + 40 = 340
+   \]
+
+3. **Calculate how many seeds Yeon has:**
+   - The problem states that Yeon has three times as many seeds as Gwi. We can find Yeon's seeds by multiplying Gwi's seeds by 3.
+   \[
+   \text{Yeon's seeds} = 3 \times \text{Gwi's seeds} = 3 \times 340 = 1020
+   \]
+
+4. **Calculate the total number of seeds they have together:** 
+   - Now we can find the total number of seeds by adding the seeds of Yeon, Gwi, and Bom together.
+   \[
+   \text{Total seeds} = \text{Yeon's seeds} + \text{Gwi's seeds} + \text{Bom's seeds} = 1020 + 340 + 300 
+   \]
+
+   First, we calculate the addition step-by-step:
+   - Adding Yeon's and Gwi's seeds:
+   \[
+   1020 + 340 = 1360
+   \]
+   - Now adding Bom's seeds:
+   \[
+   1360 + 300 = 1660
+   \]
+
+Therefore, the total number of watermelon seeds they have together is 1660.
+</reasoning>
+<answer>1660</answer>

@@ -1,0 +1,20 @@
+<reasoning>
+Let's break the problem down step by step:
+
+1. The bear needs to gain 1000 pounds in total.
+
+2. The bear gained a fifth of the weight it needed from berries. A fifth of 1000 pounds is 1000 / 5 = 200 pounds. So, the bear gained 200 pounds from eating berries.
+
+3. During autumn, it gained twice the amount it gained from berries from acorns. That's 2 * 200 pounds = 400 pounds.
+
+4. So far, the bear has gained 200 pounds from berries and 400 pounds from acorns, for a total of 200 + 400 = 600 pounds.
+
+5. The bear still needs to gain 1000 - 600 = 400 pounds from eating small animals and salmon.
+
+6. Salmon made up half of the remaining weight the bear needed to gain. Half of 400 pounds is 400 / 2 = 200 pounds. So, the bear gained 200 pounds from eating salmon.
+
+7. The remaining weight must have been gained from eating small animals, which is the total weight the bear needed to gain minus the weight it gained from berries, acorns, and salmon, or 1000 - 200 - 400 - 200 = 200 pounds.
+
+So, the bear gained 200 pounds from eating small animals.
+</reasoning>
+<answer>200</answer>

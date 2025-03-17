@@ -1,0 +1,42 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the amount of flour Katy brought**:
+   Katy brought three 5-pound bags of flour. 
+   So, the total amount of flour Katy brought is:
+   \[
+   3 \text{ bags} \times 5 \text{ pounds per bag} = 15 \text{ pounds}
+   \]
+
+2. **Determine how much flour Wendi brought**:
+   Wendi brought twice as much flour as Katy. Therefore, we calculate Wendi’s flour as follows:
+   \[
+   2 \times 15 \text{ pounds} = 30 \text{ pounds}
+   \]
+
+3. **Find out how much flour Carrie brought**:
+   Carrie brought 5 pounds less than the amount of flour Wendi brought. So, we calculate Carrie's flour:
+   \[
+   30 \text{ pounds} - 5 \text{ pounds} = 25 \text{ pounds}
+   \]
+
+4. **Convert the amounts of flour from pounds to ounces**:
+   Since 1 pound is equal to 16 ounces, we need to convert the amounts of flour for both Carrie and Katy to ounces.
+   - For Katy:
+   \[
+   15 \text{ pounds} \times 16 \text{ ounces per pound} = 240 \text{ ounces}
+   \]
+   - For Carrie:
+   \[
+   25 \text{ pounds} \times 16 \text{ ounces per pound} = 400 \text{ ounces}
+   \]
+
+5. **Calculate how much more flour Carrie brought than Katy**:
+   Now we find the difference in the amount of flour (in ounces) that Carrie brought compared to Katy:
+   \[
+   400 \text{ ounces} - 240 \text{ ounces} = 160 \text{ ounces}
+   \]
+
+Therefore, Carrie brought 160 ounces more flour than Katy.
+</reasoning>
+<answer>160</answer>

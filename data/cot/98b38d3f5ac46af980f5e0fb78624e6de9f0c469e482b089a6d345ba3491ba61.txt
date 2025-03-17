@@ -1,0 +1,49 @@
+<reasoning>
+Let's define the number of true/false questions as \( x \). 
+
+1. **Identify the number of free response questions:**
+   According to the problem, there are 7 more free response questions than true/false questions. Therefore, the number of free response questions can be expressed as:
+   \[
+   \text{Free Response} = x + 7
+   \]
+
+2. **Identify the number of multiple choice questions:**
+   The problem states that there are twice as many multiple choice questions as free response questions. Thus, the number of multiple choice questions can be expressed as:
+   \[
+   \text{Multiple Choice} = 2(x + 7)
+   \]
+
+3. **Set up the total equation:**
+   The total number of problems assigned is 45. Therefore, we can set up the equation:
+   \[
+   x + (x + 7) + 2(x + 7) = 45
+   \]
+
+4. **Combine like terms:**
+   Now, let's simplify the left side of the equation:
+   \[
+   x + (x + 7) + 2(x + 7) = x + x + 7 + 2x + 14 = 4x + 21
+   \]
+   So our equation now looks like:
+   \[
+   4x + 21 = 45
+   \]
+
+5. **Solve for \( x \):**
+   Now we will isolate \( x \) by first subtracting 21 from both sides:
+   \[
+   4x = 45 - 21
+   \]
+   \[
+   4x = 24
+   \]
+   Next, divide both sides by 4:
+   \[
+   x = \frac{24}{4} = 6
+   \]
+
+Thus, the number of true/false questions is 6. 
+
+Therefore, the final answer is:
+</reasoning>
+<answer>6</answer>

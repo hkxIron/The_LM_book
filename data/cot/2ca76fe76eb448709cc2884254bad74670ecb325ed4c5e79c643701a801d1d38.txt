@@ -1,0 +1,37 @@
+<reasoning>
+To solve this problem, we need to work through the steps methodically.
+
+1. **Calculate the total cost of the car and the amount raised from the car wash:**
+   The car costs $1700 and the friends raised $500 from the car wash. 
+   To find the remaining amount that needs to be covered, we subtract the amount raised from the total cost:
+   \[
+   \text{Remaining cost} = \text{Total cost of the car} - \text{Amount raised}
+   \]
+   \[
+   \text{Remaining cost} = 1700 - 500 = 1200
+   \]
+
+2. **Determine how much each of the original six friends would have paid if they all participated:**
+   Since the remaining cost of $1200 would be divided among the six friends, we divide this amount by 6:
+   \[
+   \text{Cost per friend (with 6 friends)} = \frac{1200}{6} = 200
+   \]
+
+3. **Now, since Brad decided not to join, we need to recalculate the cost per friend for the remaining five friends:**
+   The same remaining cost of $1200 now needs to be split between 5 friends instead:
+   \[
+   \text{Cost per friend (with 5 friends)} = \frac{1200}{5} = 240
+   \]
+
+4. **Finally, we find out how much more each of the remaining friends will pay now that Brad is not participating:**
+   To find the increase in cost, we subtract the original cost per friend from the new cost per friend:
+   \[
+   \text{Increase in cost} = \text{New cost per friend} - \text{Original cost per friend}
+   \]
+   \[
+   \text{Increase in cost} = 240 - 200 = 40
+   \]
+
+Therefore, each of the remaining friends has to pay an additional $40 now that Brad isn't participating.
+</reasoning>
+<answer>40</answer>

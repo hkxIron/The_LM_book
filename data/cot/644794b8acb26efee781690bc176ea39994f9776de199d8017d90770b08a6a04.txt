@@ -1,0 +1,46 @@
+<reasoning>
+Let's denote the number of apples that Sara ate as \( S \). According to the problem, Ali ate 4 times more apples than Sara, so we can express the number of apples Ali ate as \( 4S \).
+
+Now, we know the total number of apples eaten by both Ali and Sara, which is 80. We can set up the following equation based on the information given:
+
+\[
+S + 4S = 80
+\]
+
+Next, we simplify the left side of the equation. Combining the terms gives us:
+
+\[
+5S = 80
+\]
+
+Now, to find the value of \( S \), we need to isolate \( S \) by dividing both sides of the equation by 5:
+
+\[
+S = \frac{80}{5}
+\]
+
+Calculating the right side:
+
+\[
+S = 16
+\]
+
+This means that Sara ate 16 small apples. 
+
+To confirm, we can calculate how many apples Ali ate:
+
+\[
+\text{Ali's apples} = 4S = 4 \times 16 = 64
+\]
+
+Now, adding the apples eaten by both:
+
+\[
+S + 4S = 16 + 64 = 80
+\]
+
+Since this matches the total number of apples eaten, our solution is verified. 
+
+Therefore, the number of apples that Sara ate is:
+</reasoning>
+<answer>16</answer>

@@ -1,0 +1,26 @@
+<reasoning>
+First, let's determine how many muffins the boys are making. We know that there are 3 boys and each boy makes 12 muffins. 
+
+To find the total number of muffins made by the boys, we multiply the number of boys by the number of muffins each boy makes:
+
+\[
+3 \text{ boys} \times 12 \text{ muffins/boy} = 36 \text{ muffins}
+\]
+
+Now, let's calculate how many muffins the girls are making. There are 2 girls, and each girl is making 20 muffins. 
+
+To find the total number of muffins made by the girls, we again multiply the number of girls by the number of muffins each girl makes:
+
+\[
+2 \text{ girls} \times 20 \text{ muffins/girl} = 40 \text{ muffins}
+\]
+
+Next, we need to find the total number of muffins made by both the boys and the girls. We do this by adding the total muffins made by the boys to the total muffins made by the girls:
+
+\[
+36 \text{ muffins (boys)} + 40 \text{ muffins (girls)} = 76 \text{ muffins}
+\]
+
+Thus, the total number of muffins that will be for sale is:
+</reasoning>
+<answer>76</answer>

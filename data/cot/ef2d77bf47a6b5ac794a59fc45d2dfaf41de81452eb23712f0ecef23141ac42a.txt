@@ -1,0 +1,28 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify how many points Eric has.**  
+   The problem states that Eric has 6 points.  
+   So, we have:  
+   \( E = 6 \) (where \( E \) is the number of points Eric has)
+
+2. **Find out how many points Mark has.**  
+   The problem states that Mark has 50% more points than Eric. To calculate this, we first find what 50% of Eric's points is:  
+   \( 50\% \text{ of } 6 = 0.5 \times 6 = 3 \)  
+   Now, we add this amount to Eric's points to find Mark's points:  
+   \( M = E + 3 = 6 + 3 = 9 \) (where \( M \) is the number of points Mark has)
+
+3. **Determine how many points Samanta has.**  
+   The problem states that Samanta has 8 more points than Mark. So we add 8 to Mark's points to find Samanta's points:  
+   \( S = M + 8 = 9 + 8 = 17 \) (where \( S \) is the number of points Samanta has)
+
+4. **Calculate the total points for Samanta, Mark, and Eric.**  
+   Now we need to find the total points by adding Samanta's, Mark's, and Eric's points together:  
+   \( \text{Total} = S + M + E = 17 + 9 + 6 \)  
+   Let's perform the addition:  
+   \( 17 + 9 = 26 \)  
+   \( 26 + 6 = 32 \)  
+
+Therefore, the total points that Samanta, Mark, and Eric have is 32.
+</reasoning>
+<answer>32</answer>

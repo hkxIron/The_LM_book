@@ -1,0 +1,38 @@
+<reasoning>
+Let's denote the number of oranges as \( x \). Since there are 3 times as many apples as oranges, the number of apples can be expressed as \( 3x \).
+
+Next, we know that the total number of fruit (apples and oranges) in the basket is 40. Therefore, we can set up the following equation:
+
+\[
+x + 3x = 40
+\]
+
+Now, let's simplify the equation:
+
+\[
+4x = 40
+\]
+
+To solve for \( x \), we divide both sides by 4:
+
+\[
+x = \frac{40}{4} = 10
+\]
+
+So, there are 10 oranges in the basket. To find the number of apples, we can substitute \( x \) back into the expression for the apples:
+
+\[
+3x = 3 \times 10 = 30
+\]
+
+Now, let's verify that the total number of fruit is indeed 40:
+
+\[
+10 \text{ (oranges)} + 30 \text{ (apples)} = 40
+\]
+
+This confirms that our calculations are correct.
+
+Therefore, the number of oranges is:
+</reasoning>
+<answer>10</answer>

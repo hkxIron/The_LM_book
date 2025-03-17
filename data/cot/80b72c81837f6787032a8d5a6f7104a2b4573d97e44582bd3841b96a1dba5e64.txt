@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Identify Tobee's Score:**
+   Tobee scored 4 points.
+
+2. **Calculate Jay's Score:**
+   Jay scored 6 more than Tobee. To find Jay's score, we add 6 to Tobee's score:
+   \[
+   \text{Jay's score} = 4 + 6 = 10
+   \]
+
+3. **Calculate the Total Points of Tobee and Jay:**
+   Now, we need to find the total points scored by both Tobee and Jay:
+   \[
+   \text{Total points of Tobee and Jay} = 4 + 10 = 14
+   \]
+
+4. **Calculate Sean's Score:**
+   Sean scored 2 points less than the total points of Tobee and Jay. So, we subtract 2 from their total:
+   \[
+   \text{Sean's score} = 14 - 2 = 12
+   \]
+
+5. **Calculate the Total Points for the Team:**
+   Now we sum the scores of Tobee, Jay, and Sean to find the total points scored for their team:
+   \[
+   \text{Total team points} = 4 + 10 + 12
+   \]
+   Let's calculate:
+   \[
+   4 + 10 = 14
+   \]
+   Then:
+   \[
+   14 + 12 = 26
+   \]
+
+Therefore, the total points scored by Tobee, Jay, and Sean for their team is:
+</reasoning>
+<answer>26</answer>

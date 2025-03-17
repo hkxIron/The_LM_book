@@ -1,0 +1,30 @@
+<reasoning>
+To solve the problem, we first need to understand the relationships between the number of dolls that Aida, Sophie, and Vera have.
+
+1. **Identify Vera's dolls**: We are told that Vera has 20 dolls.
+   - Let \( V = 20 \) (the number of dolls Vera has).
+
+2. **Find Sophie's dolls**: The problem states that Sophie has twice as many dolls as Vera. Therefore, we calculate the number of dolls Sophie has as follows:
+   - \( S = 2 \times V \)
+   - Substituting Vera's dolls into the equation, we get:
+   - \( S = 2 \times 20 = 40 \)
+   - So, Sophie has 40 dolls.
+
+3. **Find Aida's dolls**: Next, we know that Aida has twice as many dolls as Sophie. We can find the number of dolls Aida has with the following calculation:
+   - \( A = 2 \times S \)
+   - Substituting Sophie's dolls into the equation, we get:
+   - \( A = 2 \times 40 = 80 \)
+   - Therefore, Aida has 80 dolls.
+
+4. **Calculate the total number of dolls**: Now we need to find the total number of dolls combined that Aida, Sophie, and Vera have. We will add all their dolls together:
+   - Total dolls = \( A + S + V \)
+   - Substituting the values we found:
+   - Total dolls = \( 80 + 40 + 20 \)
+
+5. **Perform the addition**:
+   - \( 80 + 40 = 120 \)
+   - \( 120 + 20 = 140 \)
+
+Thus, the total number of dolls that Aida, Sophie, and Vera have combined is 140.
+</reasoning>
+<answer>140</answer>

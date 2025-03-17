@@ -1,0 +1,33 @@
+<reasoning>
+To find out how many pallets of paper cups the store received, we will break down the problem step by step.
+
+1. **Determine the number of pallets for each type of product**:
+   - The total number of pallets is 20.
+   - Half of the pallets are paper towels: 
+     \[
+     \text{Paper towels} = \frac{1}{2} \times 20 = 10
+     \]
+   - A quarter of the pallets are tissues:
+     \[
+     \text{Tissues} = \frac{1}{4} \times 20 = 5
+     \]
+   - A fifth of the pallets are paper plates:
+     \[
+     \text{Paper plates} = \frac{1}{5} \times 20 = 4
+     \]
+
+2. **Calculate the total number of pallets accounted for**:
+   - Now we add the number of pallets of paper towels, tissues, and paper plates:
+     \[
+     \text{Total accounted} = 10 + 5 + 4 = 19
+     \]
+
+3. **Calculate the number of pallets left for paper cups**:
+   - Since there are a total of 20 pallets, we can find the number of pallets that are paper cups by subtracting the total accounted from the total number of pallets:
+     \[
+     \text{Paper cups} = 20 - 19 = 1
+     \]
+
+Thus, the store received 1 pallet of paper cups.
+</reasoning>
+<answer>1</answer>

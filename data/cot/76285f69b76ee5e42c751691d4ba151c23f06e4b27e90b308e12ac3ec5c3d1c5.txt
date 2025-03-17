@@ -1,0 +1,32 @@
+<reasoning>
+Let's denote Jenny's original amount of money as \( x \).
+
+1. **Understanding the problem**: Jenny spent \( \frac{3}{7} \) of her money, which means she has \( \frac{4}{7} \) of her money left. According to the problem, this remaining amount is $24.
+
+2. **Setting up the equation**: Since she has \( \frac{4}{7} \) of her original amount left, we can express this as:
+   \[
+   \frac{4}{7}x = 24
+   \]
+
+3. **Solving for \( x \)**: To find \( x \), we need to isolate it in the equation. We can do this by multiplying both sides of the equation by \( \frac{7}{4} \) to get rid of the fraction:
+   \[
+   x = 24 \cdot \frac{7}{4}
+   \]
+
+4. **Calculating the right side**: First, we calculate \( 24 \cdot \frac{7}{4} \):
+   - Simplifying \( \frac{24}{4} = 6 \)
+   - Then multiply \( 6 \cdot 7 = 42 \)
+
+   Thus, Jenny's original amount of money \( x \) is:
+   \[
+   x = 42
+   \]
+
+5. **Finding half of her original amount**: Now we need to find half of her original amount, which is:
+   \[
+   \frac{1}{2} \cdot 42 = 21
+   \]
+
+Therefore, half of Jenny's original amount of money is:
+</reasoning>
+<answer>21</answer>

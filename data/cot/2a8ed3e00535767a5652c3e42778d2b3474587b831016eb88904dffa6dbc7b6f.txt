@@ -1,0 +1,41 @@
+<reasoning>
+Let's break down the problem step by step.
+
+1. **Calculate the discount on the shoes**:
+   - The original price of the shoes is $200.
+   - The discount on the shoes is 30%. To find the amount of the discount, we calculate:
+     \[
+     \text{Discount on shoes} = 200 \times \frac{30}{100} = 200 \times 0.30 = 60
+     \]
+   - Now, subtract the discount from the original price to find the sale price of the shoes:
+     \[
+     \text{Price after discount on shoes} = 200 - 60 = 140
+     \]
+
+2. **Calculate the total cost of the shirts**:
+   - Each shirt costs $80, and Erwan bought two shirts. Therefore, the total price for the shirts is:
+     \[
+     \text{Total cost of shirts} = 80 \times 2 = 160
+     \]
+
+3. **Calculate the subtotal before the additional discount**:
+   - Now, we add the discounted price of the shoes and the total cost of the shirts to get the subtotal:
+     \[
+     \text{Subtotal} = \text{Price after discount on shoes} + \text{Total cost of shirts} = 140 + 160 = 300
+     \]
+
+4. **Calculate the additional discount on the subtotal**:
+   - The cashier gave an additional 5% discount on the subtotal. To find the amount of this discount, we calculate:
+     \[
+     \text{Additional discount} = 300 \times \frac{5}{100} = 300 \times 0.05 = 15
+     \]
+
+5. **Calculate the final amount spent**:
+   - Finally, we subtract the additional discount from the subtotal to find out how much Erwan spent in total:
+     \[
+     \text{Final amount spent} = \text{Subtotal} - \text{Additional discount} = 300 - 15 = 285
+     \]
+
+Therefore, after applying all the discounts, Erwan spent a total of $285.
+</reasoning>
+<answer>285</answer>

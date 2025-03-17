@@ -1,0 +1,30 @@
+<reasoning>
+To find out how many cans of chickpeas Thomas needs to buy for 20 servings of hummus, we can follow these steps:
+
+1. **Determine the total amount of chickpeas needed for 20 servings.**
+   The recipe calls for 1 cup of chickpeas per serving. Therefore, for 20 servings, the total amount of chickpeas needed is:
+   \[
+   20 \text{ servings} \times 1 \text{ cup per serving} = 20 \text{ cups}
+   \]
+
+2. **Convert cups to ounces.**
+   We know that 1 cup of chickpeas is equivalent to 6 ounces. To convert 20 cups into ounces, we do the following calculation:
+   \[
+   20 \text{ cups} \times 6 \text{ ounces per cup} = 120 \text{ ounces}
+   \]
+
+3. **Determine how many cans of chickpeas are needed.**
+   Each can of chickpeas contains 16 ounces. To find out how many cans are required for 120 ounces, we divide the total ounces needed by the ounces per can:
+   \[
+   \frac{120 \text{ ounces}}{16 \text{ ounces per can}} = 7.5 \text{ cans}
+   \]
+
+4. **Round up to the nearest whole number.**
+   Since Thomas cannot buy half a can, he will need to purchase whole cans. Therefore, we round 7.5 up to the next whole number:
+   \[
+   \lceil 7.5 \rceil = 8 \text{ cans}
+   \]
+
+Therefore, Thomas needs to buy 8 cans of chickpeas to make 20 servings of hummus.
+</reasoning>
+<answer>8</answer>

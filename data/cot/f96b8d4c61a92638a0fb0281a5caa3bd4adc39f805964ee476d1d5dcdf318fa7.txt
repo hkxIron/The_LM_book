@@ -1,0 +1,56 @@
+<reasoning>
+Let's break down Bucky's situation step by step.
+
+1. **Identify current savings**: Bucky has already earned $35 last weekend.
+
+2. **Determine the total cost of the video game**: The video game costs $60.
+
+3. **Calculate how much more Bucky needs**: To find out how much more Bucky needs to save, we subtract his current savings from the cost of the video game:
+   \[
+   60 - 35 = 25
+   \]
+   So, Bucky needs to save an additional $25.
+
+4. **Calculate how many fish he caught this Sunday**: Bucky caught a total of 5 fish.
+
+5. **Determine the number of trout and blue-gill**: 
+   - 60% of his fish are trout:
+   \[
+   0.60 \times 5 = 3 \text{ trout}
+   \]
+   - The remaining fish are blue-gill. Since he caught 5 fish in total:
+   \[
+   5 - 3 = 2 \text{ blue-gill}
+   \]
+
+6. **Calculate earnings from trout**: Each trout earns him $5:
+   \[
+   3 \text{ trout} \times 5 = 15
+   \]
+
+7. **Calculate earnings from blue-gill**: Each blue-gill earns him $4:
+   \[
+   2 \text{ blue-gill} \times 4 = 8
+   \]
+
+8. **Calculate total earnings from fishing this Sunday**: Adding his earnings from trout and blue-gill gives:
+   \[
+   15 + 8 = 23
+   \]
+
+9. **Calculate total earnings after this Sunday**: Now, we add this Sunday’s earnings to his previous savings:
+   \[
+   35 + 23 = 58
+   \]
+
+10. **Determine if he has enough to buy the game**: 
+    - The video game costs $60.
+    - Bucky now has $58.
+    - To find out how much more he needs:
+    \[
+    60 - 58 = 2
+    \]
+
+Therefore, Bucky needs to save an additional $2 before he can buy the game.
+</reasoning>
+<answer>2</answer>

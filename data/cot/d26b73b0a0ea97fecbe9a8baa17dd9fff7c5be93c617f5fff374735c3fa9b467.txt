@@ -1,0 +1,43 @@
+<reasoning>
+To solve the problem, let's break it down step by step.
+
+1. **Calculate the number of athletes who left the camp on Sunday morning.**
+   - The rate at which athletes left the camp is 28 athletes per hour.
+   - They left for a total of 4 hours.
+   - Therefore, we need to multiply the rate by the time: 
+     \[
+     \text{Athletes who left} = 28 \text{ athletes/hour} \times 4 \text{ hours} = 112 \text{ athletes}
+     \]
+
+2. **Calculate the number of athletes remaining in the camp after some left.**
+   - Initially, there were 300 athletes in the camp.
+   - After 112 athletes left, we subtract this number from the initial total:
+     \[
+     \text{Remaining athletes} = 300 - 112 = 188 \text{ athletes}
+     \]
+
+3. **Calculate the number of new athletes that arrived at the camp during the next 7 hours.**
+   - The rate at which new athletes arrived is 15 athletes per hour.
+   - They arrived for a total of 7 hours.
+   - Therefore, we multiply the rate by the time:
+     \[
+     \text{New athletes arrived} = 15 \text{ athletes/hour} \times 7 \text{ hours} = 105 \text{ athletes}
+     \]
+
+4. **Calculate the total number of athletes in the camp after the new athletes arrived.**
+   - We take the number of athletes remaining after some left and add the new arrivals:
+     \[
+     \text{Total athletes after arrivals} = 188 + 105 = 293 \text{ athletes}
+     \]
+
+5. **Calculate the difference in the total number of athletes in the camp over the two nights.**
+   - On the first night, there were 300 athletes.
+   - On the second night, there were 293 athletes.
+   - The difference is calculated by:
+     \[
+     \text{Difference} = 300 - 293 = 7
+     \]
+
+Therefore, the difference in the total number of athletes in the camp over the two nights is 7.
+</reasoning>
+<answer>7</answer>
